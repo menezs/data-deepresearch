@@ -1,0 +1,1275 @@
+[
+  {
+    "id": "8d0dca10adb8003b",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/detalhenoticia/21227/noticia",
+    "normalized_url": "https://bcb.gov.br/detalhenoticia/21227/noticia",
+    "work_key": "https://bcb.gov.br/detalhenoticia/21227/noticia",
+    "title": "Pix consolida liderança nos pagamentos digitais e projeta novas,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:29.619906Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "102d3ed3ffd0ee94",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "normalized_url": "https://bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "work_key": "https://bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:34.997346Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "36f0b0bcb96f259d",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix",
+    "normalized_url": "https://bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix",
+    "work_key": "https://bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix",
+    "title": "Central banks, the monetary system and public payment ... - the BIS,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:19.563663Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ea72757b4821b778",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://fastpayments.worldbank.org/sites/default/files/2022-05/Brazil_Pix_Case_Study_May_2022_0.pdf",
+    "normalized_url": "https://fastpayments.worldbank.org/sites/default/files/2022-05/Brazil_Pix_Case_Study_May_2022_0.pdf",
+    "work_key": "https://fastpayments.worldbank.org/sites/default/files/2022-05/Brazil_Pix_Case_Study_May_2022_0.pdf",
+    "title": "Pix - World Bank Fast Payments Toolkit,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:36.738005Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "049d77fc627df578",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/pix-em-numeros-estatisticas?ref=elmomento.io",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/pix-em-numeros-estatisticas",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/pix-em-numeros-estatisticas",
+    "title": "Pix em números - Banco Central do Brasil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:28.477997Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ce4ef0b8fb18629f",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "normalized_url": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "work_key": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "title": "Relatório de Cidadania Financeira - Banco Central do Brasil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:33:36.230820Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f3a935728edce71f",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://sintrajud.org.br/conteudo/16435/bets-no-stf-proibicao-expoe-impacto-das-apostas-sobre-familias-e-provoca-reacao",
+    "normalized_url": "https://sintrajud.org.br/conteudo/16435/bets-no-stf-proibicao-expoe-impacto-das-apostas-sobre-familias-e-provoca-reacao",
+    "work_key": "https://sintrajud.org.br/conteudo/16435/bets-no-stf-proibicao-expoe-impacto-das-apostas-sobre-familias-e-provoca-reacao",
+    "title": "Bets no STF: proibição expõe impacto das apostas sobre famílias e,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:30.875891Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c32164d8c1150c9e",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://crcma.org.br/noticias/pix-e-o-principal-meio-de-pagamento-adotado-pelos-pequenos-negocios",
+    "normalized_url": "https://crcma.org.br/noticias/pix-e-o-principal-meio-de-pagamento-adotado-pelos-pequenos-negocios",
+    "work_key": "https://crcma.org.br/noticias/pix-e-o-principal-meio-de-pagamento-adotado-pelos-pequenos-negocios",
+    "title": "Pix é o principal meio de pagamento adotado pelos pequenos,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:31.499469Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6f85b1a22c67f923",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.ssarkisyan.com/publication/instantpayments/instant_payments.pdf",
+    "normalized_url": "https://ssarkisyan.com/publication/instantpayments/instant_payments.pdf",
+    "work_key": "https://ssarkisyan.com/publication/instantpayments/instant_payments.pdf",
+    "title": "Payment Convenience and Competition for Deposits,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:23.416007Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d66cc7df058f016e",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AudinciaPblica42ImpactosdasapostasonlinebetsnoBrasil.pdf",
+    "normalized_url": "https://stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AudinciaPblica42ImpactosdasapostasonlinebetsnoBrasil.pdf",
+    "work_key": "https://stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AudinciaPblica42ImpactosdasapostasonlinebetsnoBrasil.pdf",
+    "title": "ADI 7.721 - STF,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:08.635463Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "acc6a3f9fdadedb1",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://datarudder.com/med-pix/",
+    "normalized_url": "https://datarudder.com/med-pix",
+    "work_key": "https://datarudder.com/med-pix",
+    "title": "MED 2.0: o que é, como funciona e o que mudou no Pix em 2026,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:38.232496Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "20c063f2d5c04ec4",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://vigilant.com.br/cm-software-pix-banco-central-um-ano-depois/",
+    "normalized_url": "https://vigilant.com.br/cm-software-pix-banco-central-um-ano-depois",
+    "work_key": "https://vigilant.com.br/cm-software-pix-banco-central-um-ano-depois",
+    "title": "C&M Software Pix, Badoo central: Um ano depois do maior ataque,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:38.786825Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "81e6d462b99b5c0b",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://obastidor.com.br/investigacao/novo-ataque-ao-sistema-financeiro/",
+    "normalized_url": "https://obastidor.com.br/investigacao/novo-ataque-ao-sistema-financeiro",
+    "work_key": "https://obastidor.com.br/investigacao/novo-ataque-ao-sistema-financeiro",
+    "title": "Novo ataque ao sistema financeiro - O Bastidor,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:39.550431Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "09f1a6841252d650",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://exame.com/tecnologia/o-caminho-do-pix-ate-comunidades-ribeirinhas-da-amazonia/",
+    "normalized_url": "https://exame.com/tecnologia/o-caminho-do-pix-ate-comunidades-ribeirinhas-da-amazonia",
+    "work_key": "https://exame.com/tecnologia/o-caminho-do-pix-ate-comunidades-ribeirinhas-da-amazonia",
+    "title": "O caminho do Pix até comunidades ribeirinhas da Amazônia - Exame,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:42.503425Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1bdafe4ac26f4233",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://celcoin.com.br/articles/integracao-pix-open-finance-credito/",
+    "normalized_url": "https://celcoin.com.br/articles/integracao-pix-open-finance-credito",
+    "work_key": "https://celcoin.com.br/articles/integracao-pix-open-finance-credito",
+    "title": "Integração de Pix e Open Finance para crédito: passo a passo,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:44.169976Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ccd521a19fb6f768",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/detalhenoticia/21276/noticia",
+    "normalized_url": "https://bcb.gov.br/detalhenoticia/21276/noticia",
+    "work_key": "https://bcb.gov.br/detalhenoticia/21276/noticia",
+    "title": "Pix e TIPS: parceria entre Brasil e Europa abre caminho para,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:51.773978Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "271358321a919b91",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/nor/relcidfin/cap01.html",
+    "normalized_url": "https://bcb.gov.br/nor/relcidfin/cap01.html",
+    "work_key": "https://bcb.gov.br/nor/relcidfin/cap01.html",
+    "title": "Relatório de Cidadania Financeira - Capítulo 1 - Banco Central,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:43:53.751167Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "40a21dccd6a3579a",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Pix-Management-Report/pix_management_report_2023.pdf",
+    "normalized_url": "https://bcb.gov.br/content/estabilidadefinanceira/pix/Pix-Management-Report/pix_management_report_2023.pdf",
+    "work_key": "https://bcb.gov.br/content/estabilidadefinanceira/pix/Pix-Management-Report/pix_management_report_2023.pdf",
+    "title": "Pix Management Report - Banco Central do Brasil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:44:26.469209Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a25800d4d7023e3a",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+    "normalized_url": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+    "work_key": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+    "title": "Série Cidadania Financeira - Banco Central,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:44:53.925230Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e1ed50cf74d8b2b0",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/buscanormas?conteudo=PIX&tipoDocumento=Todos",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/buscanormas?conteudo=PIX&tipoDocumento=Todos",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/buscanormas?conteudo=PIX&tipoDocumento=Todos",
+    "title": "Busca de normas - Banco Central do Brasil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:02.074468Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9ff6dbf7a54afa91",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://azify.com/blog/spi-dict-conta-pi-infraestrutura-pix",
+    "normalized_url": "https://azify.com/blog/spi-dict-conta-pi-infraestrutura-pix",
+    "work_key": "https://azify.com/blog/spi-dict-conta-pi-infraestrutura-pix",
+    "title": "SPI, DICT e Conta PI: a infraestrutura por trás do Pix Direto explicada,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:03.194728Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5e3e8e439b82b696",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.trio.com.br/resources/estatisticas-pix",
+    "normalized_url": "https://trio.com.br/resources/estatisticas-pix",
+    "work_key": "https://trio.com.br/resources/estatisticas-pix",
+    "title": "Mapa do Pix 2026: dados oficiais do Banco Central - Trio,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:03.962114Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6e08798cecf869e8",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://jornalcontabil.com.br/noticia/caixa-tem-libera-transferencia-via-pix-do-auxilio-emergencial/",
+    "normalized_url": "https://jornalcontabil.com.br/noticia/caixa-tem-libera-transferencia-via-pix-do-auxilio-emergencial",
+    "work_key": "https://jornalcontabil.com.br/noticia/caixa-tem-libera-transferencia-via-pix-do-auxilio-emergencial",
+    "title": "Caixa Tem libera transferência via PIX do auxílio emergencial?,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:05.761566Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a69646d7c48b9b02",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://bcb.gov.br/content/publications/report_fincit/Report%20on%20Financial%20Citizenship%20-%202021.pdf",
+    "normalized_url": "https://bcb.gov.br/content/publications/report_fincit/Report on Financial Citizenship - 2021.pdf",
+    "work_key": "https://bcb.gov.br/content/publications/report_fincit/Report on Financial Citizenship - 2021.pdf",
+    "title": "Financial - Banco Central do Brasil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:30.062629Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "97f493a772e0e62e",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.caixa.gov.br/Downloads/caixa-governanca/Relatorio_Integrado_Caixa_2020.pdf",
+    "normalized_url": "https://caixa.gov.br/Downloads/caixa-governanca/Relatorio_Integrado_Caixa_2020.pdf",
+    "work_key": "https://caixa.gov.br/Downloads/caixa-governanca/Relatorio_Integrado_Caixa_2020.pdf",
+    "title": "INTEGRADO - Caixa,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:47:14.201602Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a76161b46fccaaab",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://theshift.info/hot/relatorio-gestao-pix-2025-banco-central/",
+    "normalized_url": "https://theshift.info/hot/relatorio-gestao-pix-2025-banco-central",
+    "work_key": "https://theshift.info/hot/relatorio-gestao-pix-2025-banco-central",
+    "title": "Relatório do BC mostra Pix mais maduro, mais fintech e mais vigiado,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:25.914771Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3f59b4952baf37b1",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/detalhenoticia/21300/nota",
+    "normalized_url": "https://bcb.gov.br/detalhenoticia/21300/nota",
+    "work_key": "https://bcb.gov.br/detalhenoticia/21300/nota",
+    "title": "BC divulga Estatísticas de Pagamentos de Varejo e de Cartões do,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:35.513221Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "37b8a946fabb55c9",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://finsidersbrasil.com.br/pagamentos/pix-domina-pagamentos-no-2o-semestre-de-2025-ted-e-cartoes-tambem-avancam/",
+    "normalized_url": "https://finsidersbrasil.com.br/pagamentos/pix-domina-pagamentos-no-2o-semestre-de-2025-ted-e-cartoes-tambem-avancam",
+    "work_key": "https://finsidersbrasil.com.br/pagamentos/pix-domina-pagamentos-no-2o-semestre-de-2025-ted-e-cartoes-tambem-avancam",
+    "title": "Pix lidera pagamentos; cartões, TED e boleto avançam - Finsiders,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:36.181908Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "780224c6fdcbfcb2",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.serasa.com.br/carteira-digital/blog/fim-doc/",
+    "normalized_url": "https://serasa.com.br/carteira-digital/blog/fim-doc",
+    "work_key": "https://serasa.com.br/carteira-digital/blog/fim-doc",
+    "title": "Fim do DOC: como transferir dinheiro a partir de agora - Serasa,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:37.131685Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1d74e8f42f4e3e11",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://blogs.correiobraziliense.com.br/vicente/devido-ao-pix-febraban-anuncia-fim-do-doc-em-29-de-fevereiro-de-2024/",
+    "normalized_url": "https://blogs.correiobraziliense.com.br/vicente/devido-ao-pix-febraban-anuncia-fim-do-doc-em-29-de-fevereiro-de-2024",
+    "work_key": "https://blogs.correiobraziliense.com.br/vicente/devido-ao-pix-febraban-anuncia-fim-do-doc-em-29-de-fevereiro-de-2024",
+    "title": "Devido ao PIX, Febraban anuncia fim do DOC em 29 de fevereiro,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:38.716753Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c85363737f6530e0",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/bancos-deixarao-de-operar-transferencias-por-doc-e-tec-ate-2024",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/bancos-deixarao-de-operar-transferencias-por-doc-e-tec-ate-2024",
+    "work_key": "https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/bancos-deixarao-de-operar-transferencias-por-doc-e-tec-ate-2024",
+    "title": "Bancos deixarão de operar transferências por DOC e TEC até 2024,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:40.738845Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4fc10c04a518c344",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://portal.febraban.org.br/noticia/3926/pt-br/",
+    "normalized_url": "https://portal.febraban.org.br/noticia/3926/pt-br",
+    "work_key": "https://portal.febraban.org.br/noticia/3926/pt-br",
+    "title": "Bancos deixarão de oferecer transferências via DOCs até fevereiro,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:41.917829Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c8142912cd337957",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.poder360.com.br/poder-tech/5-anos-de-pix-circulacao-de-dinheiro-diminui-e-bancarizacao-sobe/",
+    "normalized_url": "https://poder360.com.br/poder-tech/5-anos-de-pix-circulacao-de-dinheiro-diminui-e-bancarizacao-sobe",
+    "work_key": "https://poder360.com.br/poder-tech/5-anos-de-pix-circulacao-de-dinheiro-diminui-e-bancarizacao-sobe",
+    "title": "5 anos de Pix: circulação de dinheiro diminui e bancarização sobe,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:42.543238Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a2f61a62a9bf7219",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://g1.globo.com/economia/noticia/2022/02/27/pix-e-fim-do-auxilio-emergencial-tiram-de-circulacao-r-45-bilhoes-em-cedulas-e-moedas-indica-bc.ghtml",
+    "normalized_url": "https://g1.globo.com/economia/noticia/2022/02/27/pix-e-fim-do-auxilio-emergencial-tiram-de-circulacao-r-45-bilhoes-em-cedulas-e-moedas-indica-bc.ghtml",
+    "work_key": "https://g1.globo.com/economia/noticia/2022/02/27/pix-e-fim-do-auxilio-emergencial-tiram-de-circulacao-r-45-bilhoes-em-cedulas-e-moedas-indica-bc.ghtml",
+    "title": "PIX e fim do auxílio emergencial tiram de circulação R$ 45 bilhões,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:44.365481Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "12690214d08eccbe",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://portal.febraban.org.br/noticia/4290/pt-br/",
+    "normalized_url": "https://portal.febraban.org.br/noticia/4290/pt-br",
+    "work_key": "https://portal.febraban.org.br/noticia/4290/pt-br",
+    "title": "Pix foi o meio de pagamento mais usado no Brasil em 2024,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:45.205524Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b5ca67df8aaa6750",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/en/economia/noticia/2026-07/imf-praises-brazils-most-popular-payment-method-pix",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/en/economia/noticia/2026-07/imf-praises-brazils-most-popular-payment-method-pix",
+    "work_key": "https://agenciabrasil.ebc.com.br/en/economia/noticia/2026-07/imf-praises-brazils-most-popular-payment-method-pix",
+    "title": "IMF praises Brazil's most popular payment method, Pix,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:46.827057Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c375316765ac273e",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://am.agenciasebrae.com.br/inovacao-e-tecnologia/pix-e-a-principal-forma-de-pagamento-aos-pequenos-negocios-no-amazonas/",
+    "normalized_url": "https://am.agenciasebrae.com.br/inovacao-e-tecnologia/pix-e-a-principal-forma-de-pagamento-aos-pequenos-negocios-no-amazonas",
+    "work_key": "https://am.agenciasebrae.com.br/inovacao-e-tecnologia/pix-e-a-principal-forma-de-pagamento-aos-pequenos-negocios-no-amazonas",
+    "title": "Pix é a principal forma de pagamento aos pequenos negócios no,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:47.222152Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1f92415011be7ae6",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://www.estadao.com.br/politica/luiz-fux-supremo-tribunal-federal-determina-governo-adote-medidas-impedir-apostas-recursos-bolsa-familia-nprp/",
+    "normalized_url": "https://estadao.com.br/politica/luiz-fux-supremo-tribunal-federal-determina-governo-adote-medidas-impedir-apostas-recursos-bolsa-familia-nprp",
+    "work_key": "https://estadao.com.br/politica/luiz-fux-supremo-tribunal-federal-determina-governo-adote-medidas-impedir-apostas-recursos-bolsa-familia-nprp",
+    "title": "STF vai analisar decisão de Fux que manda governo impedir,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:50.106401Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e2f1a7deeacc2324",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.gov.br/fundaj/pt-br/composicao/dipes-1/publicacoes/NotaTcnica39AnlisedoPoderdeCompraEquivalentePCE.pdf",
+    "normalized_url": "https://gov.br/fundaj/pt-br/composicao/dipes-1/publicacoes/NotaTcnica39AnlisedoPoderdeCompraEquivalentePCE.pdf",
+    "work_key": "https://gov.br/fundaj/pt-br/composicao/dipes-1/publicacoes/NotaTcnica39AnlisedoPoderdeCompraEquivalentePCE.pdf",
+    "title": "Nota Técnica 39 – Como as Apostas Online Estão Comprometendo,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:54.401796Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "47df990488002ad3",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://www.migalhas.com.br/quentes/419984/stf-confirma-decisao-de-fux-e-impede-uso-de-bolsa-familia-em-bets",
+    "normalized_url": "https://migalhas.com.br/quentes/419984/stf-confirma-decisao-de-fux-e-impede-uso-de-bolsa-familia-em-bets",
+    "work_key": "https://migalhas.com.br/quentes/419984/stf-confirma-decisao-de-fux-e-impede-uso-de-bolsa-familia-em-bets",
+    "title": "STF confirma decisão de Fux e impede uso de Bolsa Família em bets,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:54.932776Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cc38dee2bf5063d6",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www.broadcast.com.br/ultimas-noticias/tcu-lares-que-recebem-bolsa-familia-gastaram-r-37-bilhoes-com-bets/",
+    "normalized_url": "https://broadcast.com.br/ultimas-noticias/tcu-lares-que-recebem-bolsa-familia-gastaram-r-37-bilhoes-com-bets",
+    "work_key": "https://broadcast.com.br/ultimas-noticias/tcu-lares-que-recebem-bolsa-familia-gastaram-r-37-bilhoes-com-bets",
+    "title": "TCU: Lares que recebem Bolsa Família gastaram R$ 3,7 bilhões,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:56.278031Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4c255efed588bd97",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-11/stf-confirma-decisao-que-proibiu-uso-de-beneficios-sociais-para-bets",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-11/stf-confirma-decisao-que-proibiu-uso-de-beneficios-sociais-para-bets",
+    "work_key": "https://agenciabrasil.ebc.com.br/justica/noticia/2024-11/stf-confirma-decisao-que-proibiu-uso-de-beneficios-sociais-para-bets",
+    "title": "STF confirma decisão que proibiu uso de benefícios sociais para bets,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:58.143961Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9a0f98c7c4f115ab",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://fpabramo.org.br/stf-suspende-todas-as-acoes-judiciais-contra-proibicao-de-bets-no-pais/",
+    "normalized_url": "https://fpabramo.org.br/stf-suspende-todas-as-acoes-judiciais-contra-proibicao-de-bets-no-pais",
+    "work_key": "https://fpabramo.org.br/stf-suspende-todas-as-acoes-judiciais-contra-proibicao-de-bets-no-pais",
+    "title": "STF suspende todas as ações judiciais contra proibição de bets no,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:58.586877Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8ec63c811af72c2b",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://www.mattosfilho.com.br/unico/bcb-novas-normas-pix/",
+    "normalized_url": "https://mattosfilho.com.br/unico/bcb-novas-normas-pix",
+    "work_key": "https://mattosfilho.com.br/unico/bcb-novas-normas-pix",
+    "title": "Banco Central publica novas normas sobre o Pix - Mattos Filho,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:45:59.985162Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8119ecb3a8e09ad6",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://joaocoelho.adv.br/med-pix-2/",
+    "normalized_url": "https://joaocoelho.adv.br/med-pix-2",
+    "work_key": "https://joaocoelho.adv.br/med-pix-2",
+    "title": "Recuperar Pix de Golpe: MED 2.0 e Prazo de 80 Dias (2026),",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:05.913967Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6893159c0357b0a8",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://www.youtube.com/watch?v=vw0asx5w9zw",
+    "normalized_url": "https://youtube.com/watch?v=vw0asx5w9zw",
+    "work_key": "https://youtube.com/watch?v=vw0asx5w9zw",
+    "title": "Bancos têm um mês para excluir chaves Pix irregulares | AGORA CNN,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:17.626780Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "655b8b36d58ca1af",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://www.demarest.com.br/forum-pix/",
+    "normalized_url": "https://demarest.com.br/forum-pix",
+    "work_key": "https://demarest.com.br/forum-pix",
+    "title": "Banco Central publica normas que aperfeiçoam procedimentos do Pix,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:09.480848Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c0ee59a62dfda8d2",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://swapofinance.com/pt-br/blog/med-2-pix-devolucao-golpe-obrigatorio/",
+    "normalized_url": "https://swapofinance.com/pt-br/blog/med-2-pix-devolucao-golpe-obrigatorio",
+    "work_key": "https://swapofinance.com/pt-br/blog/med-2-pix-devolucao-golpe-obrigatorio",
+    "title": "MED 2.0 do Pix obrigatório: o que muda na devolução,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:11.054637Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6325a878dd4b036d",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://supplymidia.com.br/blog/med-2-0-o-risco-de-devolver-um-pix-recebido-por-engano/",
+    "normalized_url": "https://supplymidia.com.br/blog/med-2-0-o-risco-de-devolver-um-pix-recebido-por-engano",
+    "work_key": "https://supplymidia.com.br/blog/med-2-0-o-risco-de-devolver-um-pix-recebido-por-engano",
+    "title": "MED 2.0: O risco de devolver um Pix recebido por engano,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:11.671295Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4ce5ef37b69f14ae",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://jusdocs.com/blog/nova-regra-pix-med-2-0-sisbajud-teimosinha-prazos",
+    "normalized_url": "https://jusdocs.com/blog/nova-regra-pix-med-2-0-sisbajud-teimosinha-prazos",
+    "work_key": "https://jusdocs.com/blog/nova-regra-pix-med-2-0-sisbajud-teimosinha-prazos",
+    "title": "Nova regra do Pix MED e Sisbajud: prazos para o advogado,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:12.792792Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "280390958cc72d8c",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://valid.com/futuroid/b2b-med-2-0-e-regras-antifraude-do-pix",
+    "normalized_url": "https://valid.com/futuroid/b2b-med-2-0-e-regras-antifraude-do-pix",
+    "work_key": "https://valid.com/futuroid/b2b-med-2-0-e-regras-antifraude-do-pix",
+    "title": "MED 2.0 e regras antifraude do Pix - Valid.com,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:14.171333Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4d014f1fb3824c2f",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/meubc/faqs/p/o-que-e-e-como-funciona-o-mecanismo-especial-de-devolucao-med",
+    "normalized_url": "https://bcb.gov.br/meubc/faqs/p/o-que-e-e-como-funciona-o-mecanismo-especial-de-devolucao-med",
+    "work_key": "https://bcb.gov.br/meubc/faqs/p/o-que-e-e-como-funciona-o-mecanismo-especial-de-devolucao-med",
+    "title": "O que é e como funciona o Mecanismo Especial de Devolução (MED),",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:20.884774Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4e8471774149a6db",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-07/bc-suspende-tres-instituicoes-do-pix-apos-ataque-cibernetico",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-07/bc-suspende-tres-instituicoes-do-pix-apos-ataque-cibernetico",
+    "work_key": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-07/bc-suspende-tres-instituicoes-do-pix-apos-ataque-cibernetico",
+    "title": "BC suspende três instituições do Pix após ataque cibernético,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:19.536632Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f33c94ce5dfee493",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://www.mobiletime.com.br/noticias/05/09/2025/bc-limita-em-r-15-mil-pix-de-fintechs-com-conexao-indireta-ao-spi/",
+    "normalized_url": "https://mobiletime.com.br/noticias/05/09/2025/bc-limita-em-r-15-mil-pix-de-fintechs-com-conexao-indireta-ao-spi",
+    "work_key": "https://mobiletime.com.br/noticias/05/09/2025/bc-limita-em-r-15-mil-pix-de-fintechs-com-conexao-indireta-ao-spi",
+    "title": "BC limita em R$ 15 mil Pix de fintechs com conexão indireta ao SPI,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:21.062464Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "94a1dadac33d6f38",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://g1.globo.com/jornal-nacional/noticia/2025/07/04/funcionario-de-empresa-de-tecnologia-confessa-que-facilitou-ataque-hacker-a-sistema-que-integra-bancos-ao-pix-por-r-15-mil.ghtml",
+    "normalized_url": "https://g1.globo.com/jornal-nacional/noticia/2025/07/04/funcionario-de-empresa-de-tecnologia-confessa-que-facilitou-ataque-hacker-a-sistema-que-integra-bancos-ao-pix-por-r-15-mil.ghtml",
+    "work_key": "https://g1.globo.com/jornal-nacional/noticia/2025/07/04/funcionario-de-empresa-de-tecnologia-confessa-que-facilitou-ataque-hacker-a-sistema-que-integra-bancos-ao-pix-por-r-15-mil.ghtml",
+    "title": "Funcionário de empresa de tecnologia confessa que facilitou ... - G1,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:23.231129Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "eed3d7f41730ef70",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/detalhenoticia/20827/nota",
+    "normalized_url": "https://bcb.gov.br/detalhenoticia/20827/nota",
+    "work_key": "https://bcb.gov.br/detalhenoticia/20827/nota",
+    "title": "BC aprova medidas para reforçar a segurança do Sistema,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:27.480966Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e8f00b377c063341",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://istoedinheiro.com.br/bc-limita-em-r-15-mil-valor-de-pix-e-ted-para-instituicoes-de-pagamento-nao-autorizadas",
+    "normalized_url": "https://istoedinheiro.com.br/bc-limita-em-r-15-mil-valor-de-pix-e-ted-para-instituicoes-de-pagamento-nao-autorizadas",
+    "work_key": "https://istoedinheiro.com.br/bc-limita-em-r-15-mil-valor-de-pix-e-ted-para-instituicoes-de-pagamento-nao-autorizadas",
+    "title": "BC limita em R$ 15 mil valor de Pix e TED para instituições de,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:25.233708Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "03858528c5d11d80",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://okai.com.br/artigo/dispensa-temporaria-do-limite-de-r-15-mil-no-pix-e-na-ted-para-instituicoes-com-psti",
+    "normalized_url": "https://okai.com.br/artigo/dispensa-temporaria-do-limite-de-r-15-mil-no-pix-e-na-ted-para-instituicoes-com-psti",
+    "work_key": "https://okai.com.br/artigo/dispensa-temporaria-do-limite-de-r-15-mil-no-pix-e-na-ted-para-instituicoes-com-psti",
+    "title": "Dispensa temporária do limite de R$ 15 mil no Pix e na TED ... - Okai,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:26.108034Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2989daba62aadcf7",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://www.pluggy.ai/blog/open-finance-2026-novidades",
+    "normalized_url": "https://pluggy.ai/blog/open-finance-2026-novidades",
+    "work_key": "https://pluggy.ai/blog/open-finance-2026-novidades",
+    "title": "Open Finance 2026: as 4 novidades que mudam Pix, crédito e ERP,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:26.950778Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ccf690ce998d8674",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://www.maps.com.br/atualizacoes-do-banco-central-pix-drex-e-open-finance-em-foco/",
+    "normalized_url": "https://maps.com.br/atualizacoes-do-banco-central-pix-drex-e-open-finance-em-foco",
+    "work_key": "https://maps.com.br/atualizacoes-do-banco-central-pix-drex-e-open-finance-em-foco",
+    "title": "Atualizações do Banco Central: Pix, DREX e Open Finance em Foco,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:28.333228Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8c460f7d5eafd064",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/detalhenoticia/21278/noticia",
+    "normalized_url": "https://bcb.gov.br/detalhenoticia/21278/noticia",
+    "work_key": "https://bcb.gov.br/detalhenoticia/21278/noticia",
+    "title": "Pix amplia funcionalidades e reforça segurança com nova rodada,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:34.671399Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "304ccd887fb09387",
+    "citation_markers": [
+      "[62]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-06/banco-central-da-mais-um-passo-na-integracao-entre-pix-e-open-finance",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-06/banco-central-da-mais-um-passo-na-integracao-entre-pix-e-open-finance",
+    "work_key": "https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-06/banco-central-da-mais-um-passo-na-integracao-entre-pix-e-open-finance",
+    "title": "Banco Central dá mais um passo na integração entre Pix e open,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:30.084388Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c80afc61531008e9",
+    "citation_markers": [
+      "[63]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/detalhenoticia/21170/noticia",
+    "normalized_url": "https://bcb.gov.br/detalhenoticia/21170/noticia",
+    "work_key": "https://bcb.gov.br/detalhenoticia/21170/noticia",
+    "title": "Mais eficiência nos pagamentos com o uso do Open Finance,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:38.135431Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "58ba200a907ee837",
+    "citation_markers": [
+      "[64]"
+    ],
+    "raw_url": "https://silvalopes.adv.br/pix-parcelado-o-que-e-e-como-funciona-a-esta-nova-funcionalidade-do-pix/",
+    "normalized_url": "https://silvalopes.adv.br/pix-parcelado-o-que-e-e-como-funciona-a-esta-nova-funcionalidade-do-pix",
+    "work_key": "https://silvalopes.adv.br/pix-parcelado-o-que-e-e-como-funciona-a-esta-nova-funcionalidade-do-pix",
+    "title": "Pix Parcelado: o que é e como funciona a esta nova funcionalidade,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:32.488685Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0f77851d336e8d57",
+    "citation_markers": [
+      "[65]"
+    ],
+    "raw_url": "https://www.mercadopago.com.br/blog/drex-diferenca-real-digital-pix",
+    "normalized_url": "https://mercadopago.com.br/blog/drex-diferenca-real-digital-pix",
+    "work_key": "https://mercadopago.com.br/blog/drex-diferenca-real-digital-pix",
+    "title": "Drex: o que é e qual a diferença para o Pix? - Mercado Pago,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:33.615599Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0d56e4df0bfb2f96",
+    "citation_markers": [
+      "[66]"
+    ],
+    "raw_url": "https://veja.abril.com.br/economia/emtenda-o-que-vai-mudar-no-drex-o-pix-2-0-do-bc/",
+    "normalized_url": "https://veja.abril.com.br/economia/emtenda-o-que-vai-mudar-no-drex-o-pix-2-0-do-bc",
+    "work_key": "https://veja.abril.com.br/economia/emtenda-o-que-vai-mudar-no-drex-o-pix-2-0-do-bc",
+    "title": "Entenda o que vai mudar no Drex, o PIX 2.0 do BC - Revista Veja,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:36.090350Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c86f761ea483f6f5",
+    "citation_markers": [
+      "[67]"
+    ],
+    "raw_url": "https://g1.globo.com/economia/noticia/2026/10/01/pix-na-europa-conexao-pode-baratear-transferencias-e-reduzir-envio-a-segundos.ghtml",
+    "normalized_url": "https://g1.globo.com/economia/noticia/2026/10/01/pix-na-europa-conexao-pode-baratear-transferencias-e-reduzir-envio-a-segundos.ghtml",
+    "work_key": "https://g1.globo.com/economia/noticia/2026/10/01/pix-na-europa-conexao-pode-baratear-transferencias-e-reduzir-envio-a-segundos.ghtml",
+    "title": "PIX na Europa? Conexão pode baratear transferências e reduzir,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T16:46:36.622442Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "tool_name": "Gemini"
+  }
+]

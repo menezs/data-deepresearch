@@ -1,0 +1,333 @@
+[referencia=a73bbe86eb88a4c1 score=0.998]
+## What Article 50 Requires, and From When
+
+Article 50 is the transparency chapter of the AI Act. It sets four duties, split between the companies that build AI systems (providers) and the companies that use them (deployers):
+
+- **Interactive AI.** Providers of AI systems meant to interact directly with people must make sure those people are informed they are dealing with an AI system, unless that is already obvious from the circumstances.
+- **Synthetic content.** Providers of systems that generate synthetic audio, images, video or text must mark the output in a machine-readable way so it can be detected as artificially generated.
+- **Emotion recognition and biometric categorisation.** Deployers of such systems must inform the people exposed to them.
+- **Deepfakes and AI-generated text on matters of public interest.** Deployers must disclose them, with an exception where the content has been through human editorial review.
+
+Most of this became enforceable on 2 August 2026. Providers of systems already on the market before that date have until 2 December 2026 to meet the machine-readable marking duty, and the EU’s Digital Omnibus deferred only that specific part, not the rest (Morgan Lewis, 2026; Baker Botts, 2026). The rules also reach providers and deployers outside the EU when the output is used inside it.
+
+---
+
+[referencia=a73bbe86eb88a4c1 score=0.997]
+## **FAQ**
+
+**What does Article 50 of the EU AI Act require?**
+
+It requires that people are informed when they interact directly with an AI system unless that is obvious, that synthetic audio, image, video and text output is marked in a machine-readable way, that people exposed to emotion recognition or biometric categorisation systems are informed, and that deepfakes and AI-generated text on matters of public interest are disclosed.
+
+**When did the transparency obligations start to apply?**
+
+Most of them became enforceable on 2 August 2026. Providers of systems already on the market before that date have until 2 December 2026 to meet the machine-readable marking duty.
+
+**Does an AI voice agent have to say it is an AI?**
+
+Generally yes, unless it is obvious to a reasonably well-informed, observant and circumspect person that they are dealing with a machine. With a natural-sounding voice on a phone call, relying on that exception is risky, so a short statement at the start of the call is the safer approach.
+
+**Is sentiment analysis covered by the emotion recognition rules?**
+
+Only if it meets the Act’s definition, which is based on biometric data. Scoring the text of a message, including a transcript of a call, is less likely to qualify than scoring acoustic features of the voice such as pitch or tone, but the boundary is not settled by the published guidance, and GDPR applies either way. Take specific tools to legal counsel.
+
+**Can a contact center analyse the emotions of its own agents?**
+
+Article 5(1)(f) prohibits using AI to infer emotions of people in the workplace, except for medical or safety reasons. Analytics that look at agents need separate review from analytics that look at customers.
+
+**Who is responsible, the organization or its AI vendor?**
+
+Both can be. The duty to design disclosure into an interactive system sits with the provider, the duty to inform people exposed to emotion recognition sits with the deployer, and an organization that builds or rebrands a system can be both. Contracts and supplier due diligence should say who covers what.
+
+**What are the penalties?**
+
+Up to 15 million euros or 3% of worldwide annual turnover, whichever is higher, enforced by national market surveillance authorities.
+
+**Are the Commission’s guidelines legally binding?**
+
+No. The guidelines published on 20 July 2026 are interpretive and non-binding. They show how the Commission reads the rules, but only the Court of Justice can give a binding interpretation.
+
+---
+
+[referencia=6b9c978375a917b2 score=0.985]
+## When does Article 50 of the AI Act start to apply and is there a grace period?
+
+Article 50 of the AI Act applies as from 2 August 2026. From that date onwards, providers and deployers of AI systems must comply with the transparency obligations laid down in that provision. A limited grace period is envisaged only for AI systems placed on the market before 2 August 2026 and only as regards the marking and detection obligation for AI-generated content (Article 50(2) of the AI Act). Providers of such systems must comply with those obligations only as from 2 December 2026.
+
+Content generated prior to 2 August 2026 does not need to be labelled retroactively. Nonetheless, the Commission encourages relevant deployers to do so, where possible, since it contributes to the goals pursued by Article 50 of the AI Act.
+
+## Who will oversee the enforcement of Article 50 of the AI Act and have the power to impose fines?
+
+Compliance with the rules will mainly be enforced by national competent market surveillance authorities. The AI Office has a limited role in monitoring and enforcement, since it is only competent for AI systems that are built on general-purpose AI models, if the same entity provides the system and the model, or if the AI system is integrated into a very large online search engine or very large online platform designated under the Digital Services Act. The European Data Protection Supervisor will enforce the rules vis-a-vis AI systems used by the EU institutions, bodies and agencies.
+
+Fines can reach up to 15 million euros or 3% of total worldwide turnover for the preceding financial year, while proportionality can be taken into account in the case of small and medium sized enterprises (SMEs) and small mid-cap companies (SMCs).
+
+##### Last update
+
+24 July 2026
+
+---
+
+[referencia=b76da90c9efa52ad score=0.976]
+- EU AI content rules force publishers to label or risk 3% of turnover - PPC Land's report on the July 20 release of the guidelines and the finalised Code of Practice, including its watermarking thresholds.
+- Brussels sets AI labeling rules as data errors quietly drain ad budgets - A July 21 piece on the same Commission documents alongside two studies on audience data quality.
+- European Commission opens consultation for AI transparency guidelines - The September 2025 start of the consultation that fed into the guidelines.
+- EU publishes free AI labelling icons ahead of August 2026 deadline - The Commission's three free icons for Article 50(4) labels and how they are meant to be placed.
+- EU AI Act gets its first real haircut - high-risk deadlines pushed to 2027 - The May 2026 Omnibus deal that set the December 2, 2026 marking deadline.
+- Google signs EU AI code as advertisers face 3% turnover fines August 2 - Google's decision to sign the transparency code and the interoperability commitments that follow.
+- Meta faces 3% turnover fines in 5 days as it signs EU AI content code - Meta's late signature and the scale of its AI ad creative tools.
+- Agencies, not clients, usually carry AI label duty, IAB Austria guide says - The Austrian industry guide on how labelling duties divide between agencies, clients and publishers.
+- Dutch trade body maps 4 AI disclosure triggers for ad agencies - VIA Nederland's guidance on chatbots, images, text and in-house tools.
+- Advertisers face $5,000 New York fines and 3% EU penalties over AI labels - How New York, India and the EU each regulate AI in advertising.
+- Google adds How this ad was made AI labels 24 days before EU deadline - Google's ad-level AI disclosure panel and its manual flag for outside tools.
+- DV360 API gains AI attestation field 10 days before EU deadline - The programmatic field that lets buyers declare AI-created or AI-edited creatives.
+- AI ad labels cut click-through 31.5%, IAB framework cites NYU study - The IAB's disclosure framework and the cost of labels to ad performance.
+- Only 2 of 3,379 AI-flagged Meta ad files disclosed AI use, Resemble AI finds - A vendor study measuring how rarely AI-made ads on Facebook and Instagram are disclosed.
+
+---
+
+[referencia=748c3dc76a6c6b43 score=0.967]
+## Storefront disclosure rules
+
+Distribution platforms have moved faster than legislators. Steam has required disclosure of AI-generated content since January 2024 and rewrote its rules in January 2026 to focus on player-facing content, distinguishing pre-generated from live-generated material, carving out development tools, and adding an in-game mechanism to report unlawful live-generated content. The number of games disclosing AI-generated content of either kind grew from around 1,000 in 2024 to several thousand by mid-2025. Google Play has required in-app reporting of offensive AI output since January 2024, and Apple’s guidelines have required disclosure and consent before apps share personal data with third-party AI since November 2025. Other storefronts have declined to impose labels at all, meaning disclosure duties vary by distribution channel. Statutory obligations are now also layering on top, with China’s AI labeling rules taking effect in September 2025 and most of the EU AI Act’s Article 50 transparency duties now in force. The European Commission’s final guidelines and the voluntary Code of Practice arrived only weeks before that start date, so much of this detail is new and untested.
+
+For games businesses, the biggest challenge is how to comply in practice. Often, two separate duties are engaged. Users must be told when they are interacting with an AI system, so a conversational AI character must tell players it is artificial unless that is obvious from context, and supporting guidelines interpret that exception narrowly. Separately, businesses deploying AI must disclose any “deepfake,” meaning an AI-generated or altered image, audio, or video that resembles a real person, place, or event and could pass as authentic. An intent to deceive is irrelevant. Synthetic voices, a de-aged or resurrected performer, or a fully AI-generated actor can therefore constitute a “deepfake” even where all underlying consent has been obtained, and failure to disclose can result in fines of up to €15 million or 3% of worldwide turnover.
+
+---
+
+[referencia=6b9c978375a917b2 score=0.963]
+## What is a ‘deepfake’ and when do they need to be labelled?
+
+Deepfakes are defined in Article 3(60) of the AI Act as AI-generated or manipulated image, audio or video content that resembles existing persons, objects, places, entities or events and would falsely appear to a person to be authentic or truthful.
+
+Three cumulative criteria need to be met for content to constitute a ‘deepfake’:
+
+1. Resemblance: a high level of similarity between the deepfake content and the simulated subject.
+
+1. Existing: simulated persons, objects, places, entities or events need to resemble someone or something that exists, can plausibly exist or could have plausibly existed in reality.
+
+1. False appearance to be authentic or truthful: this relates to the essential characteristic of deepfake content and its capacity to potentially deceive or mislead a person regarding the content’s authenticity or truthfulness
+
+For the assessment of the last criterion above, the Guidelines on Transparency of AI-Generated Content allow stakeholders to take into account:
+
+- the level of resemblance,
+
+- the potential substantive message of the content
+
+- the intended and foreseeable deployment contexts,
+
+- the intended and reasonably foreseeable audience composition and their expectations.
+
+This enables deployers to duly consider the specific context in which they are operating and the audience to which their content will be exposed. If the intended audience within a specific deployment context does not expect the content to be authentic or truthful, the AI-generated or manipulated content may not falsely appear to be authentic or truthful. For example, the AI-generation or manipulation of background scenes, special effects, or technical pre- and post-processing as part of standard movie production processes are not likely to make content falsely appear to the audience to be authentic or truthful.
+
+Deployers must disclose deepfake content to a natural person upon first exposure at the latest. This disclosure should happen in a clear and distinguishable manner. It should be understandable and perceivable by natural persons (e.g. with visible or audible labels), without need for any specific technical tools or performing dedicated actions. Therefore, deployers cannot simply rely on the machine-readable marking embedded in the content by the provider under Article 50(2) of the AI Act to fulfil their disclosure obligation.
+
+Some deepfakes are part of evidently artistic, creative, satirical, fictional or analogous works or programmes. For these, the transparency obligation is limited to the disclosure of the deepfake content in an appropriate manner that does not hamper the display or enjoyment of the work.
+
+---
+
+[referencia=b76da90c9efa52ad score=0.960]
+## Four obligations, two sets of actors
+
+Article 50 contains four separate duties, and the guidelines open with a table that splits them between providers, who build and place AI systems on the market, and deployers, who use them under their own authority.
+
+- **Article 50(1)** requires providers of AI systems that interact directly with people to design them so that those people are informed they are dealing with AI.
+- **Article 50(2)** requires providers of systems that generate or manipulate synthetic image, video, audio or text to mark outputs in a machine-readable format and make them detectable.
+- **Article 50(3)** requires deployers of emotion recognition and biometric categorisation systems to inform people exposed to them.
+- **Article 50(4)** requires deployers to disclose deep fakes and AI-generated or manipulated text published to inform the public on matters of public interest.
+
+These can stack. Point 8 of the guidelines describes a system that generates images in conversation with a user: its provider may have to meet both 50(1) and 50(2), and if the images are deep fakes, the deployer may also have to label them under 50(4). Article 50(5) then adds horizontal conditions for all four: information must be "clear and distinguishable," given at the latest at the first interaction or exposure, and must meet accessibility rules.
+
+---
+
+[referencia=b76da90c9efa52ad score=0.954]
+The European Commission's guidelines on the transparency obligations in Article 50 of the AI Act were published today in the Official Journal of the European Union, under the reference C/2026/6005. The 43-page communication, organised in 155 numbered points, sets out how the Commission reads the rules on chatbot disclosure, machine-readable marking of AI output, emotion recognition notices and the labelling of deep fakes and AI-written public interest text. For advertisers, one example stands out: a company established outside the EU that uses an AI system to generate a deep fake of a celebrity for an advertisement displayed in the Union is, according to the guidelines, a deployer within the scope of the AI Act.
+
+## In Short
+
+The European Commission's rulebook for labelling AI chatbots, deep fakes and AI-written news was formally published today in the EU's Official Journal, nearly four months after the Commission first released it in July. It matters to anyone making ads with AI for European audiences, including companies based outside the EU, because AI-made celebrity endorsements, synthetic influencers testing products and product images that misrepresent the real item all count as deep fakes that need a visible label. If you only commission an agency and have no say over how it uses AI, the labelling duty sits with the agency, and ad copy and product descriptions stay outside the text rule unless they make health, consumer safety or sustainability claims.
+
+---
+
+[referencia=b76da90c9efa52ad score=0.953]
+- Only 2 of 3,379 AI-flagged Meta ad files disclosed AI use, Resemble AI finds - A vendor study measuring how rarely AI-made ads on Facebook and Instagram are disclosed.
+- Claude text gains invisible watermarks across 5 Anthropic products - How one AI provider implemented Article 50(2) marking for text and files.
+- Etsy forces sellers to show one unaltered photo in every listing - A marketplace rule on AI product imagery that runs parallel to the EU's product-image example.
+
+## Summary
+
+**Who:** The European Commission, which issued the guidelines; providers of AI systems, including generative tools, chatbots and AI agents; deployers such as advertising companies, agencies, publishers and listed companies; and the market surveillance authorities and AI Office that enforce Article 50.
+
+**What:** The Commission's guidelines on the transparency obligations in Article 50 of the AI Act were published in the Official Journal as C/2026/6005. They explain chatbot and AI agent disclosure, machine-readable marking and detection, emotion recognition notices, and the labelling of deep fakes and public interest text, with examples that classify celebrity-likeness ads, synthetic influencers testing products and misleading AI product images as deep fakes, while placing ordinary ad copy and product descriptions outside the text-labelling rule.
+
+**When:** Official Journal publication today, November 12, 2026, following the Commission's first release on July 20, 2026. Article 50 has applied since August 2, 2026, and generative systems already on the market before that date must meet the marking obligation by December 2, 2026.
+
+**Where:** The European Union, with reach to companies established outside the EU whose AI-generated deep fakes are distributed to audiences in the Union.
+
+**Why:** According to the guidelines, the transparency rules aim to reduce impersonation, deception, misinformation, manipulation at scale and fraud. For marketers, the text settles who carries the labelling duty in agency relationships and where common AI production techniques fall, under a penalty regime of up to EUR 15,000,000 or 3% of worldwide turnover.
+
+## Discussion
+
+---
+
+[referencia=b76da90c9efa52ad score=0.923]
+## Codes, enforcement and the calendar
+
+The guidelines give the Code of Practice on Transparency of AI-Generated Content a central role. Adherence to a code assessed as adequate is described as "the only Union-wide recognised practical framework" for demonstrating compliance with Articles 50(2) and (4). For signatories, the Commission and market surveillance authorities "will focus their supervisory activities" on whether the code was followed, and commitments may count as a mitigating factor when fines are set. Non-signatories are expected to run a gap analysis against the code and "may also be subject to a larger number of requests for information and requests for access." Opting out of code sections forfeits the benefit for those sections. Google signed the code on July 24, two days after the deadline for the presumption of compliance, and Meta followed on July 28. A footnote in today's text dates the Commission's information page on the code to June 10, 2026.
+
+Enforcement sits with national market surveillance authorities, the European Data Protection Supervisor for EU institutions, and the AI Office for AI systems built on a general-purpose model from the same provider. Any person with grounds to consider that Article 50 has been violated may lodge a complaint. Fines for breaching Article 50 reach EUR 15,000,000 or 3% of total worldwide annual turnover for the preceding financial year, whichever is higher. For SMEs and start-ups, the lower of the two applies. EU institutions face up to EUR 750,000.
+
+The calendar is fixed by Article 113 of the AI Act and the AI Omnibus. All in-scope systems on the EU market had to comply with Article 50 from August 2, 2026, regardless of when they were launched. The only grandfathering covers the marking and detection duty in Article 50(2) for generative systems placed on the market before that date, which have until December 2, 2026, 20 days from today. Systems that are partly interactive and partly generative benefit only for the marking element; chatbot disclosure has been due since August 2. The code itself sets February 2, 2027 as the date for interoperability under Measure 3.4.
+
+---
+
+[referencia=a73bbe86eb88a4c1 score=0.891]
+## What Enforcement Looks Like
+
+Enforcement sits with the national market surveillance authorities each Member State designates, not with the Commission, and the maximum fine for breaching these duties is 15 million euros or 3% of worldwide annual turnover, whichever is higher (Article 99; Stibbe). Many organizations are already working through DORA, NIS2 and GDPR obligations, and Article 50 adds one more regulation to the same audit conversation: what AI is in use, where, who supplied it, and what customers are told.
+
+## A Short Checklist for the Next Review
+
+- List every customer-facing AI system: voice agents, chatbots, virtual assistants, sentiment or tone analytics.
+- For each, record whether the customer is told they are dealing with AI, and where, in the call or chat.
+- For voice, assume that a natural-sounding voice does not meet the “obvious” exception on its own.
+- Ask each supplier how it meets the marking duty for synthetic output and by what date.
+- For any tool that infers emotion, establish whether it scores a transcript or the acoustic features of the voice, and if the latter, how customers are informed.
+- Separate customer analytics from anything that analyses staff, and check the latter against the workplace prohibition.
+- Keep the evidence: wording used, dates, supplier statements. An auditor will ask for it.
+
+If you are mapping your contact center AI against these obligations and want to compare notes, the ASEE team is happy to talk.
+
+---
+
+[referencia=a73bbe86eb88a4c1 score=0.764]
+**Are the Commission’s guidelines legally binding?**
+
+No. The guidelines published on 20 July 2026 are interpretive and non-binding. They show how the Commission reads the rules, but only the Court of Justice can give a binding interpretation.
+
+Sources: Regulation (EU) 2024/1689 (the AI Act), EUR-Lex, the official text, including Recital 18 and Articles 3, 5, 50 and 99. AI Act Article 50, Article 5, Article 3 and Article 99, article-by-article text of the Act. Baker Botts, “EU AI Act Article 50 Transparency Obligations Go Live,” September 2026, on scope, dates and penalties. Morgan Lewis, “EU AI Act’s Transparency Rules: What Went Into Effect on 2 August?”, August 2026, on the duties and the 2 December 2026 transition period. Stibbe, “The AI Act’s Transparency Obligations: Rules, Scope and Timeline”, on provider and deployer roles and fine levels. Commission Article 50 guidelines, C(2026) 5054 final, 20 July 2026, as summarised on regulation-ai.eu, on the “obvious” standard, enforcement and the guidelines’ non-binding status.
+
+### Lucija Babić
+
+### Share
+
+### More from ASEE
+
+#### DORA Cloud Exit Strategy: A Testable Framework for 2026
+
+TL;DR A DORA cloud exit strategy must cover
+
+#### EU Data Act Cloud Switching 2026: Fees End, Lock-In Doesn’t
+
+Leaving a cloud provider is now a legal right
+
+#### What the EU AI Act’s Transparency Rules Mean for AI in Customer Service
+
+In short: Since 2 August 2026, Article 50 of the
+
+---
+
+[referencia=b76da90c9efa52ad score=0.746]
+- **June 13, 2024** : The European Parliament and Council adopt Regulation (EU) 2024/1689, the AI Act.
+- **August 1, 2024** : The AI Act enters into force; Article 50 is set to apply two years later.
+- **September 4, 2025** : The Commission opens a consultation on Article 50 guidelines and a Code of Practice, running to October 2, 2025.
+- **May 7, 2026** : Council and Parliament negotiators reach a provisional deal on the AI Omnibus, including a December 2, 2026 marking deadline for generative systems already on the market.
+- **May 8, 2026** : The Commission publishes draft Article 50 guidelines, with comments due June 3.
+- **June 10, 2026** : Date given in the guidelines for the Commission's information page on the Code of Practice on Transparency of AI-Generated Content.
+- **July 9, 2026** : Google adds "How this ad was made" AI disclosures for Search, YouTube and Discover ads.
+- **July 20, 2026** : The Commission publishes the guidelines as C(2026) 5054 final and the finalised Code of Practice.
+- **July 23, 2026** : The DV360 API adds an AI attestation field for creatives and assets.
+- **July 24, 2026** : Google signs the Code of Practice.
+- **July 28, 2026** : Meta signs the Code of Practice.
+- **August 2, 2026** : Article 50 of the AI Act applies.
+- **August 10, 2026** : Anthropic begins watermarking Claude text and attaching provenance metadata to files.
+- **August 18, 2026** : The IAB publishes version 2 of its AI Transparency and Disclosure Framework.
+- **September 5, 2026** : VIA Nederland publishes AI disclosure guidance for creative agencies.
+- **September 16, 2026** : IAB Austria presents its AI labelling guide for digital marketing.
+- **October 22, 2026** : Resemble AI reports that only 2 of 3,379 AI-flagged Meta ad files disclosed AI use; Etsy requires an unaltered photo in every listing.
+
+---
+
+[referencia=a73bbe86eb88a4c1 score=0.703]
+Two consequences follow for contact centers:
+
+1. **Customers.** Where a system does infer emotion from biometric data, for example the acoustic features of a voice, the deployer has to inform the customers exposed to it, and the processing still has to comply with GDPR, which Article 50(3) expressly preserves. Where a tool scores text, whether typed in a chat or produced by transcribing a call, the AI Act definition is less likely to apply, although GDPR and the general transparency expectations still do, and the AI voice agent itself still has to be disclosed as AI. The published commentary on the Commission guidelines does not settle the boundary for text-based sentiment tools, so it is a point to take to legal counsel rather than assume.
+2. **Staff.** A separate rule, Article 5(1)(f), has applied since February 2025 and prohibits using AI to infer the emotions of people in the workplace, except for medical or safety reasons. A tool that is acceptable for reading a customer’s frustration is not automatically acceptable for scoring the mood of the agent on the other end of the line. Any analytics that touch agents deserve separate scrutiny.
+
+## Who Owes What: Provider or Deployer
+
+|  | **Provider (builds or supplies the AI system)** | **Deployer (uses it under its own authority)** | 
+|---|---|---|
+| **Typical role** | The vendor of the voice agent, chatbot or analytics tool | The organization running it in its contact center | 
+| **Disclosure of AI interaction** | Must design the system so people are informed, unless obvious | Needs to confirm in its own greetings and flows that this actually happens | 
+| **Marking of synthetic output** | Must mark audio, text and other generated output in machine-readable form | Must mark audio, text and other generated output in machine-readable form | 
+| **Emotion recognition** | Builds the capability | Must inform the people exposed to it | 
+| **Penalty exposure** | Up to 15 million euros or 3% of worldwide annual turnover | Same ceiling | 
+
+
+An organization that builds or rebrands a system under its own name can be a provider as well as a deployer, so it is worth checking which hat it wears for each tool.
+
+---
+
+[referencia=b76da90c9efa52ad score=0.635]
+## Who carries the duty in advertising
+
+The guidelines answer a question that agencies and brands have been asking since the summer, and the answer turns on control rather than on who pays. Point 14 uses an "advertising company" as its example of a legal person deploying an AI system. Employees acting under its instructions, such as "digital animators, web designers, content creators, journalists," are not separate deployers. The company "remains a deployer even if it involves third parties (e.g. contractors, freelancers)" to operate the system on its behalf.
+
+The client side gets an explicit carve-out. "A company that merely commissions an advertising agency to produce an advertisement, without taking decisions and exercising control over whether and how the advertising agency uses AI in the production process, is not a deployer," the text reads. That aligns with the reading set out by IAB Austria's guide in September, which concluded that the producing agency is normally the responsible deployer and that a client becomes one when it picks the tool, writes prompts or sets parameters. The Dutch trade body VIA Nederland mapped four agency activities that can trigger disclosure duties on September 5.
+
+Geography matters less than the advertiser might hope. Under point 13, deployers established outside the EU are covered where they foresee dissemination of AI outputs in the Union, "including by posting deep fakes on the globally accessible internet." The celebrity advertisement example in point 14 applies that rule directly. A third-country deployer escapes the obligation only where content reaches EU audiences "through channels that are unforeseeable and outside their control."
+
+Distribution intermediaries sit outside the definition. Hosting services, online platforms and broadcasters whose role is limited to transmitting AI content created by others "are not deployers within the meaning of the AI Act," point 16 states, though they are "strongly encouraged" to preserve marks and labels. The position changes when a platform uses AI for itself. According to point 126, providers of VLOPs and very large online search engines become deployers when they use AI under their own authority "for their own professional purposes (e.g. creating visuals to be used as part of marketing material)." Where such platforms offer labelling tools that meet Article 50(4), deployers posting on those services can rely on them, without shifting their own responsibility.
+
+---
+
+[referencia=b76da90c9efa52ad score=0.626]
+### What a label must look like
+
+Deep fake labels must be "understandable and perceivable by natural persons (e.g. with visible or audible labels), without them needing to rely on any specific technical tools." That has one direct consequence: deployers "cannot rely on the machine-readable marking embedded in the content by the provider." A watermark applied by the image generator does not discharge the advertiser's or agency's duty.
+
+Timing follows Article 50(5). For each output and each person exposed, disclosure must arrive at first exposure. Point 143 adds that where viewers may not see content from its beginning, a label only at the start "does not adequately inform those persons" and should be complemented by later disclosure where possible. Scrolling past an AI-manipulated deep fake on social media is one of the document's examples of first exposure.
+
+A label does not make content lawful. Point 129 says labelling does not permit deep fakes that are unlawful under other rules, naming "misleading advertising" alongside child sexual abuse material and non-consensual intimate images. Deployers depicting real people must also comply with data protection law, intellectual property law and personality rights over images and voices.
+
+---
+
+[referencia=b76da90c9efa52ad score=0.606]
+Routine production work is largely spared. According to point 116, "AI-powered colour correction, background extensions of existing content, adjustments or replacements of backgrounds for clearly aesthetic purposes, compositions and arrangements of existing products, or re-scaling of images applied in product advertisements or packaging is likely to have only a minor impact" on a person's perception of authenticity. Substantial AI editing of background details in journalistic images, by contrast, may cross the line.
+
+### The creative carve-out is narrow for ads
+
+Article 50(4) offers a lighter regime for deep fakes in "evidently artistic, creative, satirical, fictional or analogous" works: disclosure is still required, but in a manner "that does not hamper the display or enjoyment of the work." The guidelines insist that "evidently" be read strictly. Content that is "exclusively informative or commercial and is recognisable as such" falls outside, and where content mixes characters, "the informative character should always prevail."
+
+Advertising sits in a grey zone. Point 122 says advertisements or documentaries containing deep fakes "might be regarded as evidently creative or fictional works in certain, specific situations, but not in others." The examples leave little doubt about the commercial formats most exposed. Two cases are explicitly excluded from the creative regime: an AI-manipulated teleshopping-style video with simulated consumers using a product "with the aim of persuading viewers to buy the product," and an AI-manipulated video "featuring a realistic synthetic influencer testing out a sponsored real product, focused solely on displaying the product functionalities." That nuance is worth setting beside PPC Land's July summary that the artistic carve-out does not extend to advertising. The text does not close the door entirely; it makes the exception case-specific.
+
+---
+
+[referencia=6b9c978375a917b2 score=0.576]
+## Who is a deployer and what transparency obligations apply to them?
+
+Deployers of AI systems are natural or legal persons, public authorities, agencies or other bodies using AI systems under their authority, excluding use for personal, non-professional activities.
+
+When a natural person uses an AI system in their personal capacity — for example, to generate deepfakes and disseminate them on social media — this is considered a personal activity. Such use is excluded from the scope of the AI Act. However, if it is an activity through which they gain an economic benefit on a regular basis (or are otherwise involved in a business, trade, occupational or freelance activity) this is considered a ‘professional’ activity. In this case, the natural person is considered to be a deployer of that AI system.
+
+Where the deployer of an AI system is a legal person under whose authority the system is used (e.g. an advertising company), the individual employees that act under the instructions and under the control of that legal person (e.g. digital animators, web designers, content creators, journalists) should not be considered as separate deployers of that system. A legal person remains a deployer even if third parties (e.g. contractors, freelancers) are involved in the operation of the system on its behalf and under its responsibility and control.
+
+Under the AI Act, deployers must ensure that they inform people when they use emotion recognition or biometric categorisation systems (Articles 50(3) of the AI Act) and clearly label deepfakes and AI-generated or manipulated text published on matters of public interest without human review or editorial control (Article 50(4) of the AI Act).
+
+---
+
+[referencia=b76da90c9efa52ad score=0.570]
+- **October 22, 2026** : Resemble AI reports that only 2 of 3,379 AI-flagged Meta ad files disclosed AI use; Etsy requires an unaltered photo in every listing.
+- **November 12, 2026** : The guidelines are published in the Official Journal of the European Union as C/2026/6005.
+- **December 2, 2026** : Deadline for generative AI systems placed on the market before August 2, 2026 to comply with the Article 50(2) marking obligation.
+- **February 2, 2027** : Interoperability under Measure 3.4 of the Code of Practice is due.
+
+---
+
+[referencia=a73bbe86eb88a4c1 score=0.526]
+# What the EU AI Act’s Transparency Rules Mean for AI in Customer Service
+
+**In short:** Since 2 August 2026, Article 50 of the EU AI Act requires that people are told when they are dealing with an AI system, unless that is obvious, and that people exposed to emotion recognition are informed. For any organization with a contact center, that reaches voice agents, chatbots and any tool that tries to read a customer’s mood. The fine for getting it wrong can reach 15 million euros or 3% of worldwide annual turnover, whichever is higher. The practical work is less about new technology than about knowing which of your customer-facing AI systems fall under which duty, and who in the chain owes it.
+
+The easiest way to see what that means in practice is one ordinary phone call. A customer calls a service provider about a billing problem. The voice that answers is natural, responds to what they say rather than to a keypad, and sounds a lot like a person. Is it obvious that it is not one? Until this year, the answer was a matter of good practice. Since 2 August 2026, it is a matter of law.

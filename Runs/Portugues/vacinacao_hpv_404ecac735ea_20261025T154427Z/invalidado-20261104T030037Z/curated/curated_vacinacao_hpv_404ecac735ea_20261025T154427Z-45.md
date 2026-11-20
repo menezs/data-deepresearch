@@ -1,0 +1,76 @@
+[referencia=f0ef3da0142bc8c3 score=0.917]
+Additionally, even more recent evidence from the ESCUDDO trial, a large, randomized study comparing one versus two doses of HPV vaccine, further supports dose reduction strategies. Results published in the New England Journal of Medicine in December 2025 reported outcomes from more than 20,000 girls aged 12–16 years enrolled in Costa Rica beginning in 2017. Participants were randomized to receive either one or two doses of the bivalent HPV vaccine (Cervarix) or the nonavalent HPV vaccine (Gardasil 9). Across all four groups, vaccine effectiveness exceeded 97%. The investigators concluded that a single dose provided protection against HPV types 16 and 18 comparable to that of a two-dose schedule.
+
+**Benefits of a Single-Dose HPV Vaccination Schedule**
+
+**1. Durable and Long-Lasting Protection**
+
+- The inclusion of a single-dose schedule in the WHO HPV vaccine recommendations is supported by multiple studies demonstrating efficacy and duration of protection comparable to two-dose schedules.
+- A single dose of HPV vaccine has shown approximately **92% efficacy against persistent HPV types 16 and 18 infection** , a validated surrogate for cervical cancer prevention.
+- No statistically significant differences in efficacy have been observed between one-, two-, or three-dose schedules across several randomized and observational studies.
+- Longitudinal studies indicate that a single dose induces a **stable and sustained immune response** , with follow-up extending up to**16 years** in some cohorts.
+- Based on immunological and epidemiological modeling, a single dose is projected to provide protection for **at least 20 years** , covering the period of highest cervical cancer risk.
+
+**2. Simplified Programmatic Implementation**
+
+- HPV vaccination primarily targets adolescents aged **9–14 years** , a population with limited interaction with routine immunization services.
+- Multi-dose schedules increase programmatic complexity due to the need for tracking, reminders, and follow-up for missed second doses.
+- A single-dose schedule reduces logistical and administrative burdens, improving feasibility, coverage, and completion rates, particularly in settings with limited health system capacity.
+
+**3. Substantial Economic and Health System Benefits**
+
+---
+
+[referencia=f0ef3da0142bc8c3 score=0.519]
+1. de Martel C et al. Global burden of cancer attributable to infections in 2018: a worldwide incidence analysis. Lancet Glob Health. 2020; 8(2): e180-e190. doi: https://doi.org/10.1016/S2214-109X(19)30488-7.
+2. World Health Organization. Weekly Epidemiological Record. Human papillomavirus vaccines: WHO position paper (2022 update). 2022; 97: 645–672. https://www.who.int/publications/i/item/who-wer9750-645-672.
+3. Kreimer AR, Herrero R, Sampson JN, et al. Evidence for single-dose protection by the bivalent HPV vaccine—Review of the Costa Rica HPV vaccine trial and future research studies. Vaccine 2018; 36: 4774-82. doi: 10.1016/j.vaccine.2017.12.078.
+4. Barnabas R, Brown ER, Onono MA, et al. Efficacy of single dose HPV vaccination among young African women. NEJM Evid 2022; 1: EVIDoa2100056. doi: 10.1056/EVIDoa2100056.
+5. Basu P, Malvi SG, Joshi S, et al. Vaccine efficacy against persistent human papillomavirus (HPV) 16/18 infection at 10 years after one, two, and three doses of quadrivalent HPV vaccine in girls in India: a multicentre, prospective, cohort study. Lancet Oncol 2021; 22: 1518-29. doi 10.1016/S1470-2045(21)00453-8.
+6. Baisley K, Kemp TJ, Kreimer AR, et al. Comparing one dose of HPV vaccine in girls aged 9–14 years in Tanzania (DoRIS) with one dose of HPV vaccine in historical cohorts: an immunobridging analysis of a randomised controlled trial. Lancet Glob Health 2022; 10: e1485-93. doi: https://doi.org/10.1016/S2214-109X(22)00306-0.
+
+---
+
+[referencia=f0ef3da0142bc8c3 score=0.223]
+7. Whitworth H, Gallagher KE, Howard N, et al. Efficacy and immunogenicity of a single dose of human papillomavirus vaccine compared to no vaccination or standard three and two-dose vaccination regimens: A systematic review of evidence from clinical trials. Vaccine 2020; 6: 1302-14. doi: https://doi.org/10.1016/j.vaccine.2019.12.017.
+8. Kreimer AR, Porras C, Liu D, Hildesheim A, et al. Noninferiority of One HPV Vaccine Dose to Two Doses. N Engl J Med. 2025 Dec 18;393(24):2421-2433. doi: 10.1056/NEJMoa2506765.
+9. World Health Organization: Immunizing against HPV. https://www.who.int/activities/immunizing-against-hpv.
+10. World Health Organization: Global strategy to accelerate the elimination of cervical cancer as a public health problem. https://www.who.int/publications/i/item/9789240014107.
+11. American Sexual Health Association: Is One Shot of the HPV Vaccine Enough? https://www.ashasexualhealth.org/is-one-shot-of-the-hpv-vaccine-enough/#:~:text=The%20Department%20of%20Health%20and,to%20one%20of%20four%20groups.
+12. Johns Hopkins Bloomberg School of Public Health: The Power of a Single Dose: Evidence for a Single-Dose HPV Vaccine Schedule. https://publichealth.jhu.edu/ivac/the-power-of-a-single-dose-evidence-for-a-single-dose-hpv-vaccine-schedule.
+13. View-Hub: Single-Dose HPV Vaccination. https://view-hub.org/topics/single-dose-hpv#:~:text=In%20December%202022%2C%20the%20WHO,of%2037%2C%20or%2092%25%29.
+14. Stuart R, Theopold N, Miall N, Kobayashi E, Vernam S, et al. The role of HPV single-dose vaccination in expanding access in GAVI-supported countries during a period of supply constraints. Vaccine. 2026 Mar 7;75:128187. doi: 10.1016/j.vaccine.2025.128187.
+
+---
+
+[referencia=f0ef3da0142bc8c3 score=0.044]
+Although human papillomavirus (HPV) causes cancers in multiple epithelial tissues, the primary goal of large-scale HPV immunization is the prevention of cervical cancer in women, which accounts for approximately 82% of all HPV-related cancers. The World Health Organization **(WHO) Global Strategy to Accelerate the Elimination of Cervical Cancer as a Public Health Problem (2020)** recommends that HPV vaccines be included in all national immunization programs and that 90% of girls be fully vaccinated by age 15 by 2030. Evidence from major clinical trials—including the Costa Rica Vaccine Trial (CVT), the KEN SHE randomized trials with bivalent and nonavalent vaccines, the IARC India quadrivalent HPV trial, and the DoRIS dose-reduction immunobridging study—demonstrated that a single dose of HPV vaccine can provide up to 98% protection against cervical cancer. These findings informed the WHO recommendation supporting a one-dose HPV schedule, particularly for low- and middle-income countries (LMICs).
+
+This strategy includes the following:
+
+- The WHO Global Strategy to Accelerate the Elimination of Cervical Cancer as a Public Health Problem envisions a world in which cervical cancer is no longer a public health threat, defined by an incidence of fewer than 4 cases per 100,000 women-years.
+- To place countries on track for elimination by 2030, the strategy establishes the 90–70–90 targets:
+  - 90% of girls fully vaccinated with the HPV vaccine by age 15 years;
+  - 70% of women screened with a high-performance test by 35 years of age and again by 45 years of age;
+  - 90% of women identified with cervical disease appropriately treated, including 90% of women with precancer and 90% of women with invasive cancer.
+- Mathematical modeling indicates that achieving the 90–70–90 targets by 2030 in low- and lower-middle-income countries would result in substantial reductions in disease burden.
+- Median cervical cancer incidence is projected to decline by 42% by 2045 and by 97% by 2120, preventing more than 74 million new cases.
+- The cumulative number of cervical cancer deaths averted is estimated at 300,000 by 2030, more than 14 million by 2070, and over 62 million by 2120.
+
+---
+
+[referencia=f0ef3da0142bc8c3 score=0.013]
+**3. Substantial Economic and Health System Benefits**
+
+- Vaccine procurement represents the largest cost component of HPV immunization programs; reducing the schedule to one dose effectively halves these costs.
+- Delivery costs are also significant, as HPV vaccines are often administered in **schools or community settings** , requiring additional health worker training, travel, and social mobilization efforts.
+- Modeling studies show that a single-dose schedule markedly reduces costs related to service delivery, including personnel per diems, transportation, fuel, cold-chain maintenance, and waste management.
+- Analyses from four low- and middle-income countries indicate that although the cost per dose may increase, the **cost per fully immunized adolescent decreases by up to 50%** when switching from a two-dose to a single-dose schedule.
+- The transition to a single-dose HPV schedule in 2023–2024 could have prevented up to 370,000 future cervical cancer cases with full utilization, and about 297,000 based on actual uptake.
+- These savings are particularly critical for **non-Gavi-eligible countries** and those transitioning out of Gavi support and could be reinvested to expand coverage or implement**catch-up vaccination for older girls** , accelerating cervical cancer elimination.
+
+**A continuing challenge.**
+
+ Despite the growing body of evidence supporting a single-dose HPV vaccination schedule, this policy has not yet been adopted globally. As shown in Figure 1, substantial geographic heterogeneity persists in implementation, reflecting differences in regulatory decisions, programmatic capacity, vaccine supply, and financing. Achieving the WHO targets for cervical cancer elimination will therefore require a coordinated global effort, including accelerated policy adoption, strengthened health systems, sustained financing, and targeted support for countries with the highest disease burden, to effectively scale up HPV vaccination coverage worldwide.
+
+**REFERENCES**

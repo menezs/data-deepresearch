@@ -1,0 +1,14 @@
+[referencia=d6baf5097b068d40 score=0.987]
+# Copyright Office Releases Part 1 of Artificial Intelligence Report, Recommends Federal Digital Replica Law
+
+## Issue No. 1048 - July 31, 2024
+
+Today, the U.S. Copyright Office is releasing Part 1 of its Report on the legal and policy issues related to copyright and artificial intelligence (AI), addressing the topic of digital replicas. This Part of the Report responds to the proliferation of videos, images, or audio recordings that have been digitally created or manipulated to realistically but falsely depict an individual. Given the gaps in existing legal protections, the Office recommends that Congress enact a new federal law that protects all individuals from the knowing distribution of unauthorized digital replicas. The Office also offers recommendations on the elements to be included in crafting such a law.
+
+“I am pleased to begin sharing the results of our comprehensive study of AI and copyright, with this first set of recommendations to Congress. It has become clear that the distribution of unauthorized digital replicas poses a serious threat not only in the entertainment and political arenas but also for private citizens. We believe there is an urgent need for effective nationwide protection against the harms that can be caused to reputations and livelihoods,” said Shira Perlmutter, Register of Copyrights and Director of the U.S. Copyright Office. “We look forward to working with Congress as they consider our recommendations and evaluate future developments.”
+
+In early 2023, the Copyright Office announced a broad initiative to explore the intersection of copyright and artificial intelligence. Since then, the Office has issued registration guidance for works incorporating AI-generated content, hosted public listening sessions and webinars, met with numerous experts and stakeholders, published a notice of inquiry seeking input from the public, and reviewed the more than 10,000 responsive comments.
+
+The Report is being released in several Parts, beginning today. Forthcoming Parts will address the copyrightability of materials created in whole or in part by generative AI, the legal implications of training AI models on copyrighted works, licensing considerations, and the allocation of any potential liability.
+
+For more information about the Copyright Office’s AI Initiative, please visit the Copyright and Artificial Intelligence webpage.

@@ -1,0 +1,240 @@
+[referencia=1c7ebe4a288b12a7 score=0.978]
+## ABSTRACT
+
+In March 2014, the Quadrivalent human papilloma virus vaccine (4vHPV) was introduced in the female adolescents vaccination schedule of the National Immunization Program (PNI). A school-based vaccination program was implemented. We conducted a retrospective, descriptive study of the adverse events that took place after HPV vaccination, reported to the Adverse Events Following Immunization (AEFI) Information System in Sao Paulo State, from March 2014 to December 2016. All reports that fit the definitions of the 2014 National Manual on AEFI surveillance were included. AEFI risk was estimated by dividing the number of reports by the number of vaccine doses administered in the period. In the three-year period, 3,390,376 HPV vaccine doses were administered and 465 AEFI reports were registered, with 1,378 signs and symptoms. The reporting rate was 13.72 per 100,000 vaccine doses administered. The reports peaked in the first year of the program. The most frequent AEFI was syncope, with 5.7 reports per 100,000 doses administered, followed by dizziness, malaise, headache and nausea. Overall, 39 AEFI cases (8.4%) were classified as severe , with a reporting rate of 1.15 per 100,000 vaccine doses administered. Most cases were classified as severe because of hospitalization. Among them, there were cases of Guillain-Barré Syndrome, deep vein thrombosis, seizures and miscarriage. All young women recovered without sequelae. We identified five clusters of AEFI reports in four cities; the larger AEFI cluster occurred in the city of Bertioga, in September 2014, involving 13 female adolescents. Our data are in accordance with those from other countries and corroborate the safety of HPV vaccines.
+
+Papillomavirus vaccines; Human papillomavirus recombinant vaccine Quadrivalent, genotypes 6, 11, 16, 18; Adverse effects Adverse Drug Reaction Reporting Systems; Immunization Stress Related Response; Vaccination
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.663]
+In March 2014, the 4vHPV vaccine was introduced in the immunization schedule of adolescents, being part of the Brazilian National Immunization Program (PNI) as a two-dose schedule, with a 6-month interval between doses<sup>6</sup> . It has been initially introduced for female adolescents aged 11-13 years; in the following year, it was expanded for females aged 9-13 years old. In 2017, a gender-neutral program was adopted so that the vaccine was recommended for males aged 12-13 years old<sup>7</sup> . In 2019, the vaccine has been recommended for females aged 9-15 years old and males 11-14 years old.
+
+In 2014, a school-based program was implemented in the country for the first time, involving both public and private schools and two annual campaigns (March and September). The vaccine was also available in public primary healthcare units throughout the year. The Brazilian Unified Health System (SUS) also provides the 4vHPV vaccine in a three-dose schedule for males and females living with HIV, transplant recipients and patients with cancer, up to 26 years of age<sup>7</sup> . In the private health sector, the 2vHPV and 4vHPV vaccines are available for males and females up to 45 years old.
+
+The school-based vaccination program enabled a high HPV vaccine coverage. The first campaign (March 2014), involved a large mobilization of both, healthcare professionals as well as the general population, and was successful. The national mean vaccine coverage was 94.4% and most States reached the PNI goal of 80% coverage; in Sao Paulo State, the coverage was 102%. In the second semester of 2014, the vaccine coverage dropped continuously until the end of that year, the national mean coverage of the second HPV vaccine dose was only 40.8% and, in Sao Paulo State, it was 44.6%<sup>8</sup> . The causes of this drop in HPV vaccine coverage are not completely clear, but the widespread disclosure in the traditional and social media of a cluster of adverse events following 4vHPV vaccination in a school in the city of Bertioga, a coastal city in Sao Paulo State, in September 2014, may have had a role<sup>9</sup> .
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.451]
+This study aimed to describe the adverse events following the HPV vaccination reported to the Sao Paulo State Surveillance System, in the first three years after the introduction of the 4vHPV vaccine in the routine immunization schedule of adolescents (March 2014 to December 2016).
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.404]
+## RESULTS
+
+From March 1<sup>st</sup>, 2014 to December 31<sup>st</sup>, 2016, a total of 475 reports of adverse events following the HPV vaccine were retrieved from the AEFI Surveillance System database, of which 10 were excluded. Seven of the excluded reports presented other diagnoses that justified the signs and symptoms and the other three reports had insufficient information to be characterized as AEFI. We analyzed 465 reports of adverse events following HPV vaccination and 1,378 signs and symptoms. Overall, 3,390,376 HPV doses were administered in Sao Paulo State, in the same period, with an AEFI reporting rate of 13.71 per 100,000 HPV vaccine doses administered.
+
+A large number of AEFIs were reported in the first months after the introduction of the 4vHPV vaccine in the routine immunization schedule of adolescents, with 337 reports in 2014 (209 and 128 reports in the first and second semester, respectively). The number of reports declined in the following years ( Table 1 ), two reports, however, did not describe the date of vaccination nor the date of the AEFI. Taking into account the number of doses administered each year, the AE reporting rate varied from 19 per 100,000 HPV doses administered, in 2014, to 6 per 100,000 doses administered, in 2015, and 10 per 100,000 doses administered, in 2016 ( Table 1 ).
+
+All the reported AEFIs occurred in young women; the mean age was 11.8 and the median age was 12 years (minimum, 9 and maximum, 29 years; only one woman was 29 years old, all the others were up to 15 years). Only 23 (4.95%) of the 465 adolescents received concomitant vaccines alongside with HPV; the most frequent was yellow fever (14), followed by influenza (5), MMR (3), dT (2) and hepatitis B (1).
+
+Syncope was the most frequently reported event (197 events, noted in 42.5% of the AEFI reports, with a reporting rate of 5.7 per 100,000 HPV vaccine doses administered), followed by dizziness, malaise, headache and nausea. Pain and/or erythema were the most commonly reported local adverse events ( Table 2 ).
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.326]
+<sup>6</sup> Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância em Doenças Transmissíveis. Informe técnico sobre a vacina de papilomavírus humano (HPV) na atenção básica. Brasília: Ministério da Saúde; 2014. [cited 2019 Jul 12]. Available from: http://portalarquivos2.saude.gov.br/images/pdf/2015/junho/26/Informe-T--cnico-Introdu----o-vacina-HPV-18-2-2014.pdf
+» http://portalarquivos2.saude.gov.br/images/pdf/2015/junho/26/Informe-T--cnico-Introdu----o-vacina-HPV-18-2-2014.pdf
+- 
+<sup>7</sup> Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância em Doenças Transmissíveis. Nota informativa nº 311/2016/CGPNI/DEVIT/SVS/MS: informa as mudanças no Calendário Nacional de Vacinação para o ano de 2017. Brasília: Ministério da Saúde; 2016. [cited 2019 Jul 12]. Available from: http://www.aids.gov.br/pt-br/legislacao/nota-informativa-no-3112016cgpnidevitsvsms
+» http://www.aids.gov.br/pt-br/legislacao/nota-informativa-no-3112016cgpnidevitsvsms
+-
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.321]
+<sup>12</sup> Arana JE, Harrington T, Cano M, Lewis P, Mba-Jonas A, Rongxia L, et al. Post-licensure safety monitoring of quadrivalent human papillomavirus vaccine in the Vaccine Adverse Event Reporting System (VAERS), 2009-2015. Vaccine. 2018;36:1781-8.
+- 
+<sup>13</sup> Liu XC, Bell CA, Simmonds KA, Svenson LW, Russell ML. Adverse events following HPV vaccination, Alberta 2006-2014. Vaccine. 2016;34:1800-5.
+- 
+<sup>14</sup> Harris T, Williams DM, Fediurek J, Scott T, Deeks SL. Adverse events following immunization in Ontario’s female school-based HPV program. Vaccine. 2014;32:1061-6.
+- 
+<sup>15</sup> Australia. Department of Health. National Center for Immunization Research and Surveillance. Evaluation of the National Human Papillomavirus Vaccination Program: final report. Westmead: NCIRS; 2014. [cited 2019 Jul 12]. Available from: https://beta.health.gov.au/sites/default/files/evaluation-national-hpv-program.pdf
+» https://beta.health.gov.au/sites/default/files/evaluation-national-hpv-program.pdf
+- 
+<sup>16</sup> United Kingdom. Department of Health. Medicines & Healthcare Products Regulatory Agency. Cervarix HPV vaccine: safety update at end of 4 years routine use in HPV immunisation programme. [cited 2019 Jul 12]. Available from: http://www.mhra.gov.uk/safety-public-assessment-reports/CON221607
+» http://www.mhra.gov.uk/safety-public-assessment-reports/CON221607
+- 
+<sup>17</sup> Centers for Disease Control and Prevention. Syncope after vaccination: United States, January 2005-July 2007. MMWR Morb Mortal Wkly Rep. 2008;57:457-60.
+-
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.224]
+## DISCUSSION
+
+In this study, we analyzed the adverse events following HPV vaccination reported to the surveillance system of Sao Paulo State, in the first three years after the introduction of the 4vHPV vaccine in routine immunization of female adolescents in Brazil. The overall AEFI reporting rate was 13.71 per 100,000 vaccine doses administered. Systemic symptoms predominated and 39 serious adverse events were reported, with a severe AEFIs reporting rate of 1.15 per 100,000 doses administered. The AEFI reporting rates peaked in the first year of the vaccination program, an expected behavior in passive surveillance systems<sup>11</sup> .
+
+Direct comparison of our data with those from other countries is difficult due to differences in the surveillance systems and in the denominator used. While some studies use vaccine doses distributed<sup>12</sup> - <sup>16</sup> , our analysis was based on doses administered. Our rates, however, are lower than those found in other studies. In the United States of America, from 2009 to 2015, more than 60 million HPV vaccine doses were distributed and the AEFI reporting rate to the Vaccine Adverse Event Reporting System (VAERS) was 327 cases per million doses distributed<sup>12</sup> . In Canada, the AEFI reporting rate was 37.4 cases per 100,000 doses distributed in Alberta, from 2006 to 2014<sup>13</sup> , and 19.2 cases per 100,000 doses distributed in Ontario, from 2007 to 2011<sup>14</sup> . In Australia, from April 2007 to December 2012, with more than 4.8 million HPV vaccine doses administered, the overall AEFI reporting rate was 34.8 cases per 100,000 doses administered and the rate of severe adverse events was 2.5 per 100,000 doses administered<sup>15</sup> . The reporting rate peaked in 2007, the year of the vaccine introduction, and declined substantially in the following years<sup>15</sup> . In the United Kingdom, from September 2008 to July 1<sup>st</sup>, 2012, with over 6 million doses of 2vHPV vaccine administered since licensure, the AEFI reporting rate was 100/100,000 doses administered<sup>16</sup> .
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.122]
+After grouping the AEFI reports by city of residence, we identified five AEFI clusters in four cities ( Table 3 ). Unlike the occurrence in larger cities, where the number of reports was greater, distributed over time and involving people vaccinated in different settings, these clusters were registered in smaller municipalities and involved individuals vaccinated in the same health unit or school, on the same day. The larger AEFI cluster (13 cases) occurred in Bertioga, a coastal city with 56,000 inhabitants, in September 2014. All 13 young women were vaccinated at the same school, on the same day. The first signs and symptoms were headache (13), dizziness (13), paresthesia (10) and syncope (8) and they initiated two hours after vaccination. The adolescents were evaluated in health services and three of them were hospitalized due to lower limbs weakness with gait disturbance. Their physical examination were normal and the complementary imaging exams (CT and/or MRI), the electroencephalogram and/or the electroneuromyography showed no abnormalities so that the hypothesis of organic disease was discarded. All young women had a complete resolution of the clinical manifestations within a week, without any specific treatment or sequelae. The medical investigation concluded that the events were probably “immunization stress related response (ISRR)”. There were other four AEFI clusters, identified in the cities of Valinhos, Pracinha and Cabreuva ( Table 3 ), which did not involve hospitalization or severe AEFI. These young women were vaccinated at the same place, on the same day and presented similar, but milder symptoms than those observed in the Bertioga cases (headache, dizziness, nausea, and malaise). Four of these clusters occurred among those vaccinated in schools; only one occurred in a public basic health unit ( Table 3 ). The municipal health surveillance team followed up and investigated these cases, which did not obtain significant media coverage.
+
+
+
+**Table 3**
+Characteristics of the clusters of adverse events following HPV vaccination reported in Sao Paulo State, Brazil, from March 1st to December 31st, 2016.
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.096]
+**Table 2**
+Number and reporting rates of adverse events following 4vHPV vaccination reported to the Adverse Events Following Immunization Surveillance System in the Sao Paulo State, Brazil, from March 1
+
+<sup>st</sup>, 2014 to December 31
+
+<sup>st</sup>, 2016.
+
+Most AEFI (64.73%, 301/465 reports) occurred after the first HPV vaccine dose, and in most reports (68.39%, 318/465) the signs and symptoms started within the first hour after immunization.
+
+Overall, 39 cases (8.4%) were classified as severe AEFI, with a reporting rate of 1.15 per 100,000 vaccine doses administered; and 426 (91.6%) were non-severe with a reporting rate of 12.56 per 100,000 doses administered ( Table 1 ). Among the 39 severe AEFI reported, we identified two cases of Guillain-Barré Syndrome (GBS), one case of upper-extremity deep vein thrombosis, one case of seizures with cerebral edema in a young women with history of epilepsy and one miscarriage. The remaining 34 cases were classified as severe because they resulted in hospitalization for more than 24 h. The following symptoms and signs were mentioned in these 34 reports: headache (17 reports), syncope (12), paresthesia (12), fever (11), dizziness (10), injection site pain and erythema (10), rash (7) and nausea (5). All young women recovered with no sequelae.
+
+The duration of the non-severe AEFI was ≤6 h in 90% (383/426) of cases and >6 h in 4% (19/426). On the other hand, 46% (18/39) of the serious AEFI lasted ≥6 h. Considering all AEFI reports, the symptoms lasted less than one hour in 43.66% (203/465).
+
+Regarding the vaccination setting, 30.97% (144) of the reports refer to young women vaccinated in schools, and 66.45% (309) to young women vaccinated in public primary healthcare units (12 reports did not describe the vaccination setting).
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.073]
+## METHODS
+
+### Study design and source of information
+
+We conducted a retrospective, descriptive study of the adverse events after the HPV vaccination, reported to the Adverse Events Following Immunization (AEFI) Surveillance System in Sao Paulo State, from March 2014 to December 2016.
+
+Sao Paulo State is located in the Southeast of Brazil and has 645 municipalities that account for a third of the gross domestic product and a fifth of the Brazilian population.
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.072]
+## CONCLUSIONS
+
+Our review of the first three years of HPV vaccination in Sao Paulo State demonstrated AEFI reporting rates consistent with those found in other countries. There were no deaths or permanent sequelae. We identified some AEFI clusters, especially in school-based vaccination programs. Our results are in accordance with data from other countries and ratify the safety of HPV vaccines.
+
+## REFERENCES
+
+- 
+<sup>1</sup> Ma B, Roden R, Wu T. Current status of HPV vaccines. J Formos Med Assoc. 2010;109:481-3.
+- 
+<sup>2</sup> Kahn JA, Widdice LE, Ding L, Huang B, Brown DR, Franco EL, et al. Substantial decline in vaccine-type human papillomavirus (HPV) among vaccinated young women during the first 8 years after HPV vaccine introduction in a community. Clin Infect Dis. 2016;63:1281-7.
+- 
+<sup>3</sup> Saccucci M, Franco EL, Ding L, Bernstein DI, Brown D, Kahn JA. Non-vaccine-type HPV prevalence after vaccine introduction: no evidence for type replacement but evidence for cross-protection. Sex Transm Dis. 2018;45:260-5.
+- 
+<sup>4</sup> Verdoodt F, Dehlendorff C, Kjaer SK. Dose-related effectiveness of quadrivalent human papillomavirus vaccine against cervical intraepithelial neoplasia: a Danish nationwide cohort study. Clin Infect Dis. In Press 2019.
+- 
+<sup>5</sup> Phillips A, Patel C, Pillsbury A, Brotherton J, Macartney K. Safety of human papillomavirus vaccines: an updated review. Drug Saf. 2018;41:329-46.
+-
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.070]
+<sup>18</sup> Loharikar A, Suragh TA, MacDonald NE, Balakrishnan MR, Benes O, Lamprianou S, et al. Anxiety-related adverse events following immunization (AEFI): a systematic review of published clusters of illness. Vaccine. 2018;36:299-305.
+- 
+<sup>19</sup> Bonaldo G, Vaccheri A, D’Annibali O, Motola D. Safety profile of human papillomavirus vaccines: an analysis of the US Vaccine Adverse Event Reporting System from 2007 to 2017. Br J Clin Pharmacol. 2019;85:634-43.
+- 
+<sup>20</sup> Gee J, Sukumaran L, Weintraub E. Risk of Guillain-Barré Syndrome following quadrivalent human papillomavirus vaccine in the Vaccine Safety Datalink. Vaccine. 2017;35:5756-8.
+- 
+<sup>21</sup> Naleway AL, Crane B, Smith N, Daley MF, Donahue J, Gee J, et al. Absence of venous thromboembolism risk following quadrivalent human papillomavirus vaccination, Vaccine Safety Datalink, 2008-2011. Vaccine. 2016;34:167-71.
+- 
+<sup>22</sup> Tran BX, Boggiano VL, Nguyen LH, Latkin CA, Nguyen HL, Tran TT, et al. Media representation of vaccine side effects and its impact on utilization of vaccination services in Vietnam. Patient Prefer Adherence. 2018;12:1717-28.
+- 
+<sup>23</sup> Simas C, Munoz N, Arregoces L, Larson HJ. HPV vaccine confidence and cases of mass psychogenic illness following immunization in Carmen de Bolivar, Colombia. Hum Vaccin Immunother. 2019;15:163-6.
+- 
+<sup>24</sup> Castro C. What happened in Colombia with the HPV vaccination program: a story of light and shadows... happiness and tears... Cancer Ther Oncol Int J. 2018;9:555757.
+-
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.040]
+<sup>8</sup> Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância em Doenças Transmissíveis. PNI - Programa Nacional de Imunizações: boletim informativo vacinação contra HPV. Brasília: Ministério da Saúde; 2016. [cited 2019 Jul 12]. Available from: http://portalarquivos2.saude.gov.br/images/pdf/2017/julho/28/Boletim-informativo.pdf
+» http://portalarquivos2.saude.gov.br/images/pdf/2017/julho/28/Boletim-informativo.pdf
+- 
+<sup>9</sup> São Paulo. Secretaria de Estado da Saúde. Centro de Vigilância Epidemiológica “Prof Alexandre Vranjac”. Coordenadoria de Controle de Doenças. Informe técnico: vacina contra o papilomavírus humano (HPV) – Setembro 2015. Bol Epidemiol. 2015;5:18:31.
+- 
+<sup>10</sup> Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância em Doenças Transmissíveis. Manual de vigilância epidemiológica de eventos adversos pós-vacinação. 3ª ed. Brasília: Ministério da Saúde; 2014. [cited 2019 Jul 12]. Available from: http://bvsms.saude.gov.br/bvs/publicacoes/manual_vigilancia_epidemiologica_eventos_adversos_pos_vacinacao.pdf
+» http://bvsms.saude.gov.br/bvs/publicacoes/manual_vigilancia_epidemiologica_eventos_adversos_pos_vacinacao.pdf
+- 
+<sup>11</sup> Waldman EA, Luhm KR, Monteiro SA, Freitas FR. Surveillance of adverse effects following vaccination and safety of immunization programs. Rev Saude Publica. 2011;45:173-84.
+-
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.029]
+Syncope, which was the most frequently reported AEFI in our study, with a reporting rate of 5.7/100,000 doses administered, was also observed after HPV vaccination in other countries. In the USA, from 2009 to 2015, syncope reporting rate was 4.7/100,000 doses distributed<sup>12</sup> , and in Australia, from 2007 to 2012, it was 3.84/100,000 doses administered<sup>15</sup> . Syncope is not associated with the vaccine antigen itself, but rather with the vaccination process, and has also been observed after the administration of other vaccines, as well as after blood collection and the administration of parenteral drugs, especially among adolescents and young adults<sup>17</sup> , <sup>18</sup> . For that reason, it is recommended that adolescents remain seated in the vaccination setting for at least 15 minutes after HPV vaccine<sup>17</sup> . An analysis of USA VAERS data over a 10-year period (2007-2017) using disproportionality analysis, found that syncope and dizziness were associated with HPV vaccines<sup>19</sup> in a statistically significant way.
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.027]
+In our study, most of the severe AEFI were considered because they had caused hospitalization. These AEFI were headache, syncope and paresthesia, and hospitalization was probably a measure to investigate them. However, among the severe AEFI, we identified cases of Guillain-Barré Syndrome (GBS), upper-extremity deep vein thrombosis, seizures and a miscarriage temporally associated with the HPV vaccine, all of which have already been reported by others<sup>12</sup> , <sup>15</sup> , <sup>16</sup> . Population-based studies found no evidence of an increased risk of these events following HPV vaccination<sup>5</sup> . In the USA, from 2006 to 2015, with more than 2.5 million HPV vaccine doses administered, an analysis of the Vaccine Safety Datalink (VSD) found a rate of 0.36 cases of GBS per million doses administered<sup>20</sup> . In Australia, the reporting rate of GBS following HPV vaccination was 0.04/100,000 administered doses<sup>15</sup> , which can be compared to our reporting rate of 0.1/100,000 doses administered. Another study in the USA that analyzed VSD data from 2008 to 2011, found no statistically significant increased risk of venous thromboembolism associated with HPV vaccine after analyzing 1.24 million doses administered<sup>21</sup> .
+
+The data analysis disclosed five AEFI clusters with 4 to 13 cases, one of which had been widely reported in social and traditional media. Clusters of immunization stress related response (ISRR) have been observed in high, middle and low-income countries, with different vaccines implicated (tetanus-diphtheria, hepatitis B, influenza H1N1pdm09 and HPV)<sup>18</sup> . Clusters usually occur after the introduction of a new vaccine or modifications in the immunization schedule, and affect both, men and women, equally, especially in school-based programs<sup>18</sup> . All reports describe very similar symptoms, such as dizziness, headache and syncope<sup>18</sup> . Fear of injection is usual in older children and adolescents and may be exacerbated in some vaccination situations, when children who are waiting to be vaccinated may observe other children presenting ISRR<sup>18</sup> .
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.024]
+### Surveillance of adverse events following immunization in Brazil
+
+The National AEFI Surveillance System was implemented in Brazil, in 1998. It is a passive surveillance system composed of cases reported by health professionals from both, public and private health sectors. Since 2005, AEFI reporting has been mandatory nationwide. Reporting forms are nationally standardized and collected data enter into an online Information System managed by the Ministry of Health ( *Sistema de Informações de Eventos Adversos Pós Vacinação, SI-EAPV* ). A national manual on AEFI surveillance standardizes all the definitions and procedures, in accordance with the Brighton Collaborative Group, providing definitions of adverse events severity and causality that are in line with international guidelines<sup>10</sup> .
+
+We analyzed all reports of adverse events following HPV vaccination that fit in the definitions of the 2014 National Manual on AEFI surveillance<sup>10</sup> . An AEFI is defined as any untoward medical occurrence temporarily associated with vaccination, which does not necessarily have a causal relationship with the vaccine. Adverse events are classified as severe if they resulted in hospitalization for more than 24 h or prolongation of a pre-existing hospitalization; significant dysfunction and/or persistent disability; congenital anomaly; risk of death or death. AEFIs are classified as non-severe if they involve other events that are not listed as severe<sup>10</sup> .
+
+For this study, data were extracted from the AEFI Surveillance System databases and from AEFI reporting forms sent to the Surveillance Center of the Sao Paulo State Department of Health (CVE/SES-SP). AEFI reports that were discarded by the Surveillance System, because patients had other diagnoses that justify the signs and symptoms and reports that did not have sufficient information to characterize the event were excluded. We collected the following information from the reported cases: demographic information, vaccination date, dose number, concomitant vaccines, signs and symptoms, provided healthcare, diagnosis and case severity.
+
+The number of HPV vaccines doses administered in Sao Paulo State was extracted from the Ministry of Health website (DATASUS) and from the Immunization Division of CVE/SES-SP database. We organized the collected data in a single database.
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.020]
+## INTRODUCTION
+
+Human papillomavirus (HPV) is the most common sexually transmitted infection and most people are infected shortly after the onset of sexual activity. There are more than 150 different HPV genotypes. Fifteen high-risk HPV genotypes can cause cervical cancer, the most common HPV-related disease. High-risk HPV may also cause cancer of the anus, vulva, vagina, penis and oropharynx. Other non-oncogenic types of HPV may cause genital warts.
+
+Three HPV vaccines containing the recombinant viral structural protein (L1) are currently available: a bivalent vaccine (2vHPV) composed of HPV genotypes 16 and 18, responsible for 70% of cervical cancers; a tetravalent vaccine (4vHPV), which, in addition to HPV 16 and 18, contains types 6 and 11, responsible for 90% of genital warts; and a nine-valent vaccine (9vHPV), composed of HPV types 6, 11, 16, 18, 31, 33, 45, 52 and 58, expanding the coverage of the high risk HPV genotypes to prevent more than 90% of cervical cancers<sup>1</sup> .
+
+The introduction of HPV vaccine in the immunization schedule of adolescents has reduced the prevalence of vaccine-covered HPV genotypes in countries that achieved moderate to high vaccination coverage, with evidence of herd protection<sup>2</sup> , <sup>3</sup> , and without any evidence of genotype replacement to date<sup>3</sup> . The 4vHPV vaccine effectiveness in preventing cervical intraepithelial neoplasia grade 2 (CIN-2) or worse, including CIN-3, carcinoma *in situ* , adenocarcinoma *in situ* , and cervical cancer, in routine immunization of young women has already been demonstrated<sup>4</sup> .
+
+Phase 3 clinical trials and phase 4 observational studies indicated that HPV vaccines are safe. Most adverse events following immunization (AEFI) were mild and moderate, mainly injection site reactions such as pain and swelling. The most frequent systemic AEFI were fever, headache, fatigue and dizziness<sup>5</sup> .
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.016]
+### Statistical analysis
+
+We estimated frequencies for categorical variables, means, medians and standard deviations for continuous variables. The risk of AEFI was estimated by dividing the number of reports by the number of vaccine doses administered in the studied period. We used the Microsoft Excel 2010 and the Epi-Info version 7.2.2.2.
+
+### Ethical considerations
+
+The Research Ethics Committee of the Medical School of the University of Sao Paulo approved this study (Report Nº 214/16).
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.009]
+<sup>24</sup> Castro C. What happened in Colombia with the HPV vaccination program: a story of light and shadows... happiness and tears... Cancer Ther Oncol Int J. 2018;9:555757.
+- 
+<sup>25</sup> Ueda Y, Yagi A, Ikeda S, Enomoto T, Kimura T. Beyond resumption of the Japanese Government’s recommendation of the HPV vaccine. Lancet Oncol. 2018;19:1563-4.
+- 
+<sup>26</sup> Yagi A, Ueda Y, Tanaka Y, Nakae R, Kakubari R, Morimoto A, et al. Time-dependent changes of the intention of mothers in Japan to inoculate their daughters with the HPV vaccine after suspension of governmental recommendation. Hum Vaccin Immunother. 2018;14:2497-502.
+- 
+<sup>27</sup> Brasil. Ministério da Saúde. Secretaria de Vigilância em Saúde. Departamento de Vigilância em Doenças Transmissíveis. Nota informativa N° 109/2014/CGPNIIDEVIT/SVS/MS : vacinação contra o HPV e atualização sobre os casos de possíveis eventos adversos pós-vacinação ocorridos no munícipio de Bertioga – SP. [cited 2019 Jul 12]. Available from: http://www.dst.uff.br/arquivos-pdf/NI%20109%20CGPNI0002.pdf
+» http://www.dst.uff.br/arquivos-pdf/NI%20109%20CGPNI0002.pdf
+
+## Supported by
+
+## Correspondence
+
+**Correspondence to:**Ana Marli C. Sartori Universidade de São Paulo, Faculdade de Medicina, Hospital das Clínicas, Centro de Referência para Imunobiológicos Especiais, Av. Dr. Eneas de Carvalho Aguiar, 255, Instituto Central, 4o andar, sala 4028, CEP 05402-000, São Paulo, SP, Brazil Tel./Fax: +55 11 2661-7517
+
+**E-mail:**anasartori@gmail.com
+
+---
+
+[referencia=1c7ebe4a288b12a7 score=0.006]
+Careless or sensationalist disclosure of AEFI cases in the media may undermine vaccination programs. A cross-sectional study carried out in Vietnam demonstrated that the media has a major impact on the individuals consent to be vaccinated or to have their children vaccinated, 68.2% of the interviewees felt hesitant about vaccines after hearing on AEFIs on the media<sup>22</sup> . The hesitation following negative news in the media may undermine or even discontinue a country’s vaccination program, as occurred in Colombia<sup>23</sup> , <sup>24</sup> and Japan<sup>25</sup> , <sup>26</sup> .
+
+In response to the repercussion of the Bertioga AEFI cluster in the social and traditional media, the managers of both the National and Sao Paulo State Health Department Immunization Program published technical reports reaffirming the 4vHPV vaccine safety<sup>9</sup> , <sup>27</sup> . The way public managers responsible for vaccination programs respond to uncertainty about vaccine safety may also affect the program. A rapid response to the community that includes medical aid, investigation of the AEFI, clarification of public concerns and transparency is essential to maintaining public confidence in the program.
+
+This study has limitations. In addition to underreporting (particularly in case of mild AEFI), passive surveillance data are also more vulnerable to bias and confusion than clinical trials data<sup>11</sup> . During this study period, the National AEFI Information System was in process of transitioning to an online reporting system. At the time the old system was being disabled, the AEFI reports associated with HPV vaccine were included in a parallel bank to ensure their registers, but some reports might have been lost. Data quality was also an issue. Some of the reports in this study were incomplete and difficult to interpret. Moreover, it is difficult to determine a causal relationship between an AEFI and the vaccine, because a correct causality assessment depends on careful analysis of quality and consistency of the data and the biological plausibility of the association. However, rare AEFI are detected only with the use of vaccines in routine immunization programs, which makes pharmacovigilance essential to ensure vaccines safety.

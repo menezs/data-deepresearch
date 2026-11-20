@@ -1,0 +1,24 @@
+[referencia=9d04e831cb4e6083 score=0.926]
+Antônio Bento resolveu adotar outro método de apoio à liberdade que não os meios jurídicos. Por isso, organizou os caifazes. O nome é derivado do personagem bíblico Caifaz, que havia pagado Judas para entregar Jesus. Como Caifaz, eles também estavam cometendo uma traição, só que uma traição aos escravocratas paulistas.
+
+A ação dos caifazes consistia principalmente na libertação em massa de escravos das fazendas e na garantia da fuga dos grupos de escravos. Após a fuga, os escravos dirigiam-se a lugares seguros, como o Quilombo do Jabaquara, em Santos, onde eram alimentados e depois encaminhados para trabalhar como assalariados em empresas cujos proprietários eram ligados à causa abolicionista. Estima-se que pelo **Quilombo do Jabaquara** passou cerca de 10.000 escravos.
+
+Os caifazes constituíam uma vasta rede de apoiantes, formando grupos que atuavam em diversos locais da província de São Paulo, realizando fugas em massa nas fazendas, roubando escravos em casas de senhores ou em resgastes espetaculares em ferrovias. No interior da província, os caifazes organizavam os “**cometas**”, disfarçando-se de caixeiros-viajantes para executarem as ações que viabilizavam o deslocamento dos libertos.
+
+A rede de apoiadores foi construída em virtude do trânsito de Antônio Bento entre os mais diversos setores da sociedade, desde a elite até a população de mais baixa renda. Esses últimos executavam importantes ações, como os caifazes que trabalhavam nas ferrovias e auxiliavam no transporte clandestino dos escravos. Os escravos foram transportados até em tonéis de vinho!
+
+---
+
+[referencia=9d04e831cb4e6083 score=0.000]
+A luta pela abolição da escravidão nas últimas décadas do Império foi caracterizada pelo crescimento da eclosão de rebeliões escravas, principalmente na província de São Paulo, onde se encontrava o maior contingente de força de trabalho escravizada no Brasil.
+
+Diferentes setores do movimento abolicionista auxiliavam os africanos escravizados, encontrando formas de conseguir a alforria ou mesmo auxiliando nas fugas em massa dos africanos das fazendas e casas de senhores nas cidades. Nesse último caso, destacou-se o grupo dos chamados **caifazes**, cujo principal nome é o de **Antônio Bento de Souza e Castro** (1843-1898).
+
+A manutenção da escravidão havia se tornado insustentável no Império, principalmente com a intensificação das rebeliões escravas após o fim da Guerra do Paraguai. Os africanos escravizados foram obrigados a se “voluntariar” no exército brasileiro, principalmente nos corpos dos “Voluntários da Pátria”, com a promessa de que seriam libertados após a luta contra os vizinhos paraguaios. Porém, a liberdade não veio, sendo que os escravos voltaram para o trabalho nas fazendas nas mesmas condições de antes. O não cumprimento da promessa tornou-se combustível para as rebeliões.
+
+Antônio Bento formou o grupo dos caifazes em 1882, quando da morte do advogado negro e abolicionista **Luiz Gama**. Antes disso, Antônio Bento havia sido delegado promotor e juiz, atuando em favor dos escravos no exercício de suas funções, como quando indicava companheiros abolicionistas para estipular preços de alforrias. Essa atuação a favor dos escravos o indispôs com as elites latifundiárias do interior de São Paulo, perdendo o cargo de juiz em 1877. Na capital, atuou como jornalista, sendo redator do jornal *A Redempção*.
+
+---
+
+[referencia=9d04e831cb4e6083 score=0.000]
+A intensificação das rebeliões escravas e ações abolicionistas, como a dos caifazes, foram extremamente importantes para enfraquecer o sistema escravista no Brasil. A insatisfação social estava crescendo nas últimas décadas do século XIX, além da própria escravidão representar um empecilho a um maior desenvolvimento econômico do país. Em 1888, a princesa Isabel iria por um fim legal a uma relação social que já havia se esgotado.

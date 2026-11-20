@@ -1,0 +1,553 @@
+[
+  {
+    "id": "a7468c6851652691",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1706.03762",
+    "normalized_url": "https://arxiv.org/abs/1706.03762",
+    "work_key": "ARXIV:1706.03762",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:00:57.285121Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c23bf2a3bc33cb7a",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1409.0473",
+    "normalized_url": "https://arxiv.org/abs/1409.0473",
+    "work_key": "ARXIV:1409.0473",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:00:57.466487Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9cee40b637f69874",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1409.3215",
+    "normalized_url": "https://arxiv.org/abs/1409.3215",
+    "work_key": "ARXIV:1409.3215",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:00:53.634905Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "99bf4c74cf248c24",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1705.03122",
+    "normalized_url": "https://arxiv.org/abs/1705.03122",
+    "work_key": "ARXIV:1705.03122",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:00:59.373749Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "32f3c7d144f036a0",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1810.04805",
+    "normalized_url": "https://arxiv.org/abs/1810.04805",
+    "work_key": "ARXIV:1810.04805",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:01:09.081797Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a3e86ad05f37e40d",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+    "normalized_url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+    "work_key": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:01:08.371428Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2cab3ea10b8b7ae2",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2005.14165",
+    "normalized_url": "https://arxiv.org/abs/2005.14165",
+    "work_key": "ARXIV:2005.14165",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:03.541212Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "887da5f02141c29f",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1910.10683",
+    "normalized_url": "https://arxiv.org/abs/1910.10683",
+    "work_key": "ARXIV:1910.10683",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:03.461087Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1098fc60be7ca2b0",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2203.02155",
+    "normalized_url": "https://arxiv.org/abs/2203.02155",
+    "work_key": "ARXIV:2203.02155",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:03.601586Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5727fed78bddc701",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2205.14135",
+    "normalized_url": "https://arxiv.org/abs/2205.14135",
+    "work_key": "ARXIV:2205.14135",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:01:41.989731Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "abee5142f9553110",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2009.14794",
+    "normalized_url": "https://arxiv.org/abs/2009.14794",
+    "work_key": "ARXIV:2009.14794",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:16.941640Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2f4185a6336708d8",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2004.05150",
+    "normalized_url": "https://arxiv.org/abs/2004.05150",
+    "work_key": "ARXIV:2004.05150",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:20.342564Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "db62100d4f40075e",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2001.04451",
+    "normalized_url": "https://arxiv.org/abs/2001.04451",
+    "work_key": "ARXIV:2001.04451",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:13.486060Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "02ad74cdb0c9081f",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2005.11401",
+    "normalized_url": "https://arxiv.org/abs/2005.11401",
+    "work_key": "ARXIV:2005.11401",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:18.957459Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "958844d4171dd73c",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2310.01889",
+    "normalized_url": "https://arxiv.org/abs/2310.01889",
+    "work_key": "ARXIV:2310.01889",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:28.473136Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "dfc666458a07fb9c",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2307.02486",
+    "normalized_url": "https://arxiv.org/abs/2307.02486",
+    "work_key": "ARXIV:2307.02486",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:31.262320Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "21b8c0494c3c6e8c",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2404.07143",
+    "normalized_url": "https://arxiv.org/abs/2404.07143",
+    "work_key": "ARXIV:2404.07143",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:32.155958Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "021ecc8cb34e2fbb",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2309.00071",
+    "normalized_url": "https://arxiv.org/abs/2309.00071",
+    "work_key": "ARXIV:2309.00071",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:39.048821Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1718c427cff7b5e5",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1710.03740",
+    "normalized_url": "https://arxiv.org/abs/1710.03740",
+    "work_key": "ARXIV:1710.03740",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:37.170116Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1480e50475d6c98e",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1910.02054",
+    "normalized_url": "https://arxiv.org/abs/1910.02054",
+    "work_key": "ARXIV:1910.02054",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:47.456692Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "09b3a2927fbd8693",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1909.08053",
+    "normalized_url": "https://arxiv.org/abs/1909.08053",
+    "work_key": "ARXIV:1909.08053",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:45.847078Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c00b8dae0f8e596c",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1811.06965",
+    "normalized_url": "https://arxiv.org/abs/1811.06965",
+    "work_key": "ARXIV:1811.06965",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:45.528255Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "fe2a3307a3dae3e5",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2109.07958",
+    "normalized_url": "https://arxiv.org/abs/2109.07958",
+    "work_key": "ARXIV:2109.07958",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:03:06.172698Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6f93afc00a76b64a",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+    "normalized_url": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+    "work_key": "DOI:10.1145/3442188.3445922",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:45:54.086068Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "29a0882390ee7063",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2303.08774",
+    "normalized_url": "https://arxiv.org/abs/2303.08774",
+    "work_key": "ARXIV:2303.08774",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:03:19.717149Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1f3eaa75f7a21064",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://community.owasp.org/attacks/PromptInjection",
+    "normalized_url": "https://community.owasp.org/attacks/PromptInjection",
+    "work_key": "https://community.owasp.org/attacks/PromptInjection",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:02:48.986849Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "74cf7186aa6d419e",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2502.11089",
+    "normalized_url": "https://arxiv.org/abs/2502.11089",
+    "work_key": "ARXIV:2502.11089",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:03:06.759468Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6ee83218472b4aa1",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2307.03172",
+    "normalized_url": "https://arxiv.org/abs/2307.03172",
+    "work_key": "ARXIV:2307.03172",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:03:08.166647Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "baefbf7b29b7555f",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://docs.pytorch.org/docs/stable/amp.html",
+    "normalized_url": "https://docs.pytorch.org/docs/stable/amp.html",
+    "work_key": "https://docs.pytorch.org/docs/stable/amp.html",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-18T19:03:13.928231Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "tool_name": "ChatGPT"
+  }
+]

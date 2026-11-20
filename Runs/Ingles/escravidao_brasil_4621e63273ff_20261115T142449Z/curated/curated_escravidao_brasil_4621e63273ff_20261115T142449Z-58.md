@@ -1,0 +1,225 @@
+[referencia=2332dc5527cae9f9 score=0.240]
+Lendo as notícias nos periódicos desse tempo, tem-se uma forte impressão de que a propagação de ideias, do entusiasmo e da empolgação eram vigorosas e cada vez mais generalizadas. De fato, o que estava acontecendo era parte de um movimento mais geral da época: a luta pela emancipação geral dos escravos. Foi nessa época, por exemplo, que se promoveram reuniões, festas, feiras, loterias e peças teatrais com o objetivo de angariar recursos para custear libertações de escravos. Entretanto, não podemos esquecer que a luta pelo fim do cativeiro não foi um fato unânime alguns grupos permaneceram defendendo o direito à propriedade escrava. 
+
+Para Celso Castilho, a abolição no Ceará foi uma das principais causas do fortalecimento do movimento abolicionista em Pernambuco.<sup>31</sup> Entretanto, não podemos dizer que ocorreu uma mudança geral na mobilização contra a escravidão, pois desde o começo da década de 1880, na província de Pernambuco, já vinha ocorrendo, em uma proporção menor, algumas intervenções e uma atividade militante que tinha certa visibilidade. O que pode ser afirmado é que a partir de 25 de março de 1884, com a declaração de um _Ceará Livre_ o tom do debate mudou de um timbre cauteloso, no começo da década, para outro mais aguerrido após a abolição no Ceará. As ações das pessoas engajadas passaram a ser mais radicais e o movimento abolicionista passou a combater veementemente o direito legal à escravatura e a defender a aprovação de uma proposta de abolição imediata e sem a indenização. Em contrapartida, os senhores de
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.122]
+Em outras palavras, em tempos de grande rebuliço social por conta da mobilização em prol da causa da abolição, fumar certo tipo de cigarro, comprar objetos em determinados bazares, tomar o vinho “Ave Libertas”, plantar e usar camélias ou frequentar determinadas peças teatrais indicavam quais eram os ideais e o posicionamento político-social de seus consumidores e frequentadores. Nesse ambiente não faltaram gestos, performances e objetos para assinalar uma afirmação de princípios, <mark>envolvimento e adesão política efetiva das pessoas, c</mark> omo foi o caso da camélia usada pelos integrantes abolicionistas como sinal de demonstração de apoio à causa. De acordo com Eduardo Silva, as camélias foram usadas até pela princesa Isabel com este fim e cultivadas nas residências dos abolicionistas e nos quilombos dentro das cidades do Rio de Janeiro, Santos, São Paulo e Recife.<sup>7</sup> 
+
+A segunda metade dos oitocentos foi marcada, em Pernambuco, pela discussão sobre a substituição do braço escravo e o futuro das lavouras, pois setores ligados aos escravocratas perceberam a inevitabilidade do fim do sistema e reconheciam a necessidade do encaminhamento da questão servil.<sup>8</sup> Foi um período de lutas, conflitos, expectativas e incertezas para senhores e escravos. Todo o debate presente nos jornais e nas ruas estimulou, entre outras medidas, a <mark>organização de atividades para arrecadar pecúlio</mark> para promover alforrias e ações de liberdade na justiça <mark>e potencializar o movimento de libertação dos escravos, que na década de 1880 já havia se tornado uma causa popular.</mark>
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.046]
+Os jornais que circulavam na Província de Pernambuco no começo do ano de 1884, por exemplo, anunciavam a mobilização e o entusiasmo que tomavam conta das ruas por conta do feito ocorrido no Ceará. Uma matéria mencionava as festas públicas realizadas no Recife, onde homens, mulheres e crianças participaram de uma parada abolicionista. O desfile reuniu durante todo o dia cerca de duas mil pessoas que cantaram hinos, gritaram _“_ vivas à liberdade” e quando chegaram ao ponto final, em uma praça central da região de Santo Antônio, viram uma decoração de flores e faixas dispostas e em uma delas estava escrito: “Glória aos jangadeiros do Ceará – Viva 25 de março de 1884”<sup>_19_</sup> . A celebração não se resumiu só à passeata, pois no Teatro Santa Isabel foram apresentados recitais de músicas e poesia, discursos de alguns membros de sociedades abolicionistas como, por exemplo, a conferência de Fernando de Castro em cujo discurso disse que em 25 de março de 1884 fora lavrada “a carta de alforria integral da província do Ceará”<sup>20</sup> . O evento culminou com a entrega de 71 cartas de alforria<sup>_21_</sup> . As comemorações nos teatros e nas vias públicas proporcionaram uma maior visibilidade das ações abolicionistas. As repercussões imediatas da abolição no Ceará foram mais sentidas em Pernambuco do que em outras partes do Império devido à proximidade 
+
+> 18 Carta recebida por João Ramos de Luis de Andrade. Rio de Janeiro, 13 de janeiro de 1884. Estante B, gaveta 31, IAHGP. Carta recebida pela Sociedade Nova Emancipadora da Sociedade Libertadora Alagoana. Maceió 10 de setembro de 1884. Estante B, gaveta 31, IAHGP.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.027]
+Depois das inúmeras estratégias e luta por parte dos senhores para fazer valer os seus direitos de proprietário e sua economia intacta, assim como dos escravos e abolicionistas para o fim da escravidão, em 13 de maio de 1888, a sociedade pernambucana e também o resto do país, recebeu a sanção da Lei Áurea com muita festa em diferentes localidades da província. A notícia da abolição do cativeiro foi festejada nas cidades e engenhos da Mata Sul com discursos, passeatas e foguetes que demonstram quão exultantes foram às reações à abolição. 
+
+<mark>A assinatura, pela princesa Isabel, da Lei nº 3.353, sacramentando o fim do trabalho escravo no Brasil, provocou uma comoção nacional em um domingo, no dia 13 de maio de 1888. De acordo com a publicação do</mark> _<mark>Diário de Pernambuco</mark>_ <mark>, a notícia foi tão celebrada que em Recife seis mil pessoas se aglomeraram na Rua do Imperador soltaram fogos e gritaram vivas à Princesa Isabel e ao conselheiro João Alfredo. As festas pela abolição que se iniciara no domingo prolongaram-se pela segunda e terçafeira.</mark><sup>54</sup> 
+
+> 51 Libertações. _Diário de Pernambuco,_ 17 de outubro de 1887, AEL. 
+
+> 52 FRAGA FILHO, _Encruzilhadas da Liberdade. Histórias de escravos e libertos na Bahia (1870-1910)._ Campinas: Ed. Unicamp, 2006, p. 104. 
+
+> 53 BELLINI, Ligia. Por amor e por interesse: a relação senhor-escravo em cartas de alforria. In: REIS, João José (Org.). _Escravidão e invenção da liberdade_ : estudos sobre o negro no Brasil. São Paulo: Brasiliense, 1988.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.010]
+> 19 COSTA, Francisco Augusto Pereira da. _Pernambuco ao Ceará: O dia 25 de Março de 1884_ . 2. ed. Fortaleza: Secretaria de Cultura, 1984. Nesse livro o historiador pernambucano reuniu alguns recortes de jornais sobre as comemorações do 25 de Março. 
+
+> 20 CASTRO, Fernando de. _A Escravidão no Brasil_ . Conferência Abolicionista – Teatro Santa Isabel a 25 de março de 1885. Mandada publicar pela Sociedade Ave Libertas Pernambuco, Tipografia Apollo, 1885, p.12. IAHGP, caixa 4, folheto 26. 
+
+> 21 COSTA, Francisco Augusto Pereira da _. Pernambuco ao Ceará_ . Op. Cit. 
+
+Revista Historiar | Vol. 9 | Nº. 16 | Jan./Jun. de 2017| **p. 13** 
+
+O 25 de março de 1884 no Ceará e a luta pela libertação dos escravos em Pernambuco 
+
+geográfica das duas províncias e as conexões que uniam seus movimentos abolicionistas.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.009]
+A campanha pela abolição em terras pernambucanas ganhou intensidade e ameaçou a sobrevivência da escravidão a partir de 1880, com a fundação de associações emancipacionistas por toda a província, apesar delas estarem concentradas em grande parte na capital<sup>9</sup> , e também foi resultado da agência escrava por meio das ações levadas à justiça e quando eles interpunham dificuldades ao exercício do mando senhorial. 
+
+> 7 SILVA, Eduardo. _As Camélias do Leblon e a abolição da escravatura._ Op. Cit. 
+
+> 8 COSTA, Lenira Lima da. _A lei do ventre livre e os caminhos da liberdade em Pernambuco1871-1888._ Dissertação (Mestrado em História) - UFPE/Recife, 2007. 
+
+> 9 CASTILHO, Celso. _Abolitionism Matters._ Op. Cit., p.155. 
+
+Revista Historiar | Vol. 9 | Nº. 16 | Jan./Jun. de 2017 | **p. 10** 
+
+Maria Emília Vasconcelos dos Santos 
+
+O debate político acerca do encaminhamento da questão servil no começo de 1880 foi ganhando força ao longo da década com realizações que podiam ser vistas por muitas pessoas com animação e confiança na chegada de transformações. Mas para a elite senhorial esse tema constituiu um momento de potencial explosivo para a ordem social vigente.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.009]
+### **MOBILIZAÇÃO ABOLICIONISTA EM PERNAMBUCO** 
+
+A partir de meados do século XIX difundiu-se o consumo de cigarros no Brasil, a explicação para a rápida popularização, de acordo com Edna Lima, deve-se à convergência de dois fatores: a invenção do fósforo e a criação de embalagens que estimulavam o consumo de clientes<sup>1</sup> . Ocupar-se em dar tragadas diárias podia ser visto como um hábito de lazer e também como uma forma de expressar posições políticas e valores. Ao ler os jornais pernambucanos da década de 1880, observa-se os nomes das marcas de cigarros e eles oferecem indicativos das discussões engendradas naquele período. Os rótulos são testemunhos, apesar de sua vida breve, das tendências da moda, do _design_ gráfico, sobre os costumes e o modo de vida da população desse período. As marcas serviam para identificar e diferenciar os produtos manufaturados de seus similares, o anúncio do cigarro disposto mais abaixo podia indicar que os consumidores estavam “libertos” das “nocivas” composições opiáticas", mas, poderia servir também para comunicar visualmente aos seus consumidores os valores defendidos pelo fabricante<sup>2</sup> .Ter entre os dedos um cigarro no qual estava impresso a marca da fábrica ou portar o maço da marca _Libertos_<sup>_3_</sup> podia dizer muito sobre as convicções e atitudes do seu portador e seu estilo de vida. 
+
+**Figura 1** - Anúncio do cigarro Os Libertos. 
+
+
+
+> 1 LIMA, Edna Lúcia Oliveira da Cunha. _Cinco décadas de litografia comercial no Recife: por uma história das marcas de cigarros registradas em Pernambuco, 1875-1924._ Dissertação (Mestrado em Artes) - Pontifícia Universidade Católica do Rio de Janeiro. Rio de Janeiro, 1998.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.009]
+> 43 Conferencia Abolicionista. Jornal _O Rebate,_ Recife 25 de outubro de 1884. APEJE. 
+
+> 44 ALONSO, Angela. _Idéias em movimento: a geração de 1870 na crise do Brasil Império._ SP: Paz e Terra, 2002. 
+
+Revista Historiar | Vol. 9 | Nº. 16 | Jan./Jun. de 2017| **p. 21** 
+
+O 25 de março de 1884 no Ceará e a luta pela libertação dos escravos em Pernambuco 
+
+escravizados.<sup>45</sup> Fato significativo na campanha de 1887 foi que Joaquim Nabuco foi eleito. A vitória de Nabuco contra o gabinete de Cotegipe que ainda estava aferrado a escravidão e adiava de todas as formas uma lei que abolisse a escravidão foi visto como uma pá de cal na resistência escravocrata. 
+
+A luta pelo fim da escravidão ganhou repercussão no debate político partidário e se tornou, para muitos, uma missão. E, muito embora, a proposta aqui não seja supervalorizar o desempenho do movimento abolicionista em Pernambuco, não se pode perder de vista que tal movimento social empreendeu mudanças nas práticas políticas e nas reivindicações de direitos para a população oriunda do cativeiro, como, por exemplo, o uso maior do campo jurídico, das manifestações públicas políticas, artísticas e religiosas, além dos jornais que funcionavam como espaço de atividade militante, circulação de ideias e para angariar simpatizantes.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.009]
+geográfica das duas províncias e as conexões que uniam seus movimentos abolicionistas. 
+
+A comemoração da abolição do Ceará ocorreu também na capital do Império. As atividades ali realizadas reuniram cerca de dez mil pessoas que ouviram os comícios e assistiram a peças teatrais e participaram de caminhadas e quermesses. Reuniões semelhantes aconteceram na Província da Bahia, Paraíba e Amazonas. As notícias da abolição do Ceará ressoaram nos periódicos franceses, em função do jantar para celebrar o acontecimento realizado em Paris pelo abolicionista brasileiro José do Patrocínio e o abolicionista francês Victor Schoelcher, figura máxima do abolicionismo francês<sup>22</sup> . Até um periódico afro-americano da Filadélfia divulgou uma notícia sobre a abolição no Ceará<sup>23</sup> . Uma onda revolucionária encorajou as pessoas simpatizantes do abolicionismo e os escravos a desobedecerem a autoridade senhorial e deslegitimar o escravismo. Este movimento popular aglutinou homens e mulheres de múltiplos estratos sociais e cores e ampliou-se por toda a província pernambucana.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.007]
+> 48  Libertações. _Diário de Pernambuco,_ 20 de novembro de 1887. AEL. 
+
+> 49 Carta recebida por João Ramos de Estevão José Paes Barretto. Paiva, 26 de dezembro de 1883. Estante B, gaveta 31, IAHGP. Paiva, 26 de dezembro de 1883. 
+
+> 50 Ave Libertas, _Jornal do Recife,_ 15 de julho de 1884, APEJE. 
+
+Revista Historiar | Vol. 9 | Nº. 16 | Jan./Jun. de 2017| **p. 23** 
+
+O 25 de março de 1884 no Ceará e a luta pela libertação dos escravos em Pernambuco
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.006]
+Brasil e, dentro da província pernambucana, através das trocas de ideias e experiências entre os participantes desse movimento.<sup>18</sup> . 
+
+Quanto ao movimento antiescravidão cearense, em particular, ele reuniu pessoas de diferentes estratos sociais, a exemplo dos jangadeiros em sua maioria mulatos, pardos e negros que transportavam cativos para <mark>alguns negociantes até que no começo da década de 1880 recusaram-se a pôr os escravos em suas embarcações. Essa ação dos jangadeiros</mark> foi bastante noticiada em Fortaleza e tais <mark>medidas geraram um movimento com forte participação popular fortalecendo a luta abolicionista, que</mark> empregou métodos legais e ilegais para libertar cativos e culminou na abolição promovida no ano de 1884 na Província do Ceará. Este movimento se tornou um exemplo inspirador e de grande repercussão nas diversas províncias do Brasil.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.006]
+Maria Emília Vasconcelos dos Santos 
+
+engenho atacavam ativamente esses acontecimentos escrevendo diversas denúncias nos jornais. 
+
+Com a abolição no Ceará inaugurou-se uma atmosfera de insegurança em relação à posse da propriedade escrava. Nesse sentido, em carta enviada ao jornal _Diário de Pernambuco,_ publicada em novembro de 1884, o autor argumentava sobre as dificuldades que seriam enfrentadas pelos proprietários por conta da atuação de abolicionistas, citando uma conferência realizada no Teatro Santa Isabel.<sup>32</sup> Os produtores de cana atacavam por meio das notas publicadas nos jornais o abolicionismo e não aceitavam a perda da propriedade cativa por isso, mobilizavam-se e tentavam postergar a escravidão e obstruir a abolição, acentuando a correlação entre abolicionismo e desordem social. 
+
+Decerto, a publicidade nacional da emancipação imediata no Ceará gerou excitação no ânimo dos escravos e instabilidade na autoridade dos senhores sobre sua escravaria. Os senhores pernambucanos descreveram esse evento como fomentador de um período de anarquia, hostilidade e de insurgências dos escravos. Eles utilizaram os espaços dos jornais para tornar pública a opinião do grupo com relação à abolição no Ceará. Para eles a abolição ocorreu na Província do Ceará naquele momento porque ali era uma área onde os escravos eram numericamente poucos e a economia desenvolvida era mais acanhada e estava afetada por sucessivas secas ocorridas entre os anos de 1877 e 1880, que arruinou a economia local.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.005]
+> 16 Carta recebida por João Ramos de Gualberto R. Silva. Ceará 04 de março de 1883. Estante B, gaveta 31, IAHGP. Na carta de 14 de março de 1883, os escravos fugidos, Herculano e Juvenal, foram chamados de huguenotes. Carta recebida por João Ramos de Gualberto R. Silva. Ceará 14 de março de 1883. Estante B, gaveta 31, IAHGP. Em outra correspondência datada de 22 de agosto de 1883, os cativos que fugiram para o Ceará foram denominados como ingleses. Carta recebida por João Ramos de João Cordeiro. Ceará 22 de agosto de 1883. Estante B, gaveta 31, IAHGP. 
+
+> 17 SILVA, Ricardo Tadeu Caíres. _As ações das sociedades abolicionistas na Bahia (1869-1888)._ In: 4o Encontro Escravidão e Liberdade no Brasil Meridional, Curitiba, 13 a 15 de maio de 2009. <u><http://www.escravidaoeliberdade.com.br/site/images/Textos4/ricardotadeucairessilva.pdf>.</u> Acessado em: 15 janeiro 2013. 
+
+Revista Historiar | Vol. 9 | Nº. 16 | Jan./Jun. de 2017 | **p. 12** 
+
+Maria Emília Vasconcelos dos Santos 
+
+Brasil e, dentro da província pernambucana, através das trocas de ideias e experiências entre os participantes desse movimento.<sup>18</sup> .
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.005]
+Um dos pontos principais debatidos no congresso agrícola foi a desorganização econômica e social que a abolição abrupta poderia causar, sobretudo entre os grandes produtores de açúcar. Muitos dos escravocratas pernambucanos estavam informados das iniciativas do governo para extinguir a escravidão, e, como se pode observar, aborrecidos com toda a mobilização dos abolicionistas que se estendia da capital ao interior da província. Mas ainda assim os proprietários apostavam na solução gradual e articulavam-se de diferentes formas para deter os avanços do abolicionismo. Com a proposta de legislação emancipatória, ninguém sairia perdendo, nem os senhores nem os escravos. 
+
+Durante a campanha eleitoral de 1884, Nabuco foi candidato do primeiro distrito de Pernambuco em parceria com José Mariano, que era candidato pelo segundo distrito. Ao longo da campanha, eles deram maior visibilidade às ideias abolicionistas por meio de seus discursos e performances públicas. Sabia-se que a fama e os discursos de 
+
+> 40 HOFFNAGEL, Marc Jay. _From Monarchy to Republic in Northeast Brazil: the case of Pernambuco, 18681895._ Indiana: Indiana University, 1975, p. 76. 
+
+> 41 EISENBERG, Peter. _Modernização sem Mudança._ Op. Cit. 
+
+Revista Historiar | Vol. 9 | Nº. 16 | Jan./Jun. de 2017 | **p. 20** 
+
+Maria Emília Vasconcelos dos Santos
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.005]
+Os abolicionistas utilizaram diversas estratégias para acelerar o fim da escravidão e passaram a atacar de frente a autoridade moral dos proprietários de escravos. Para isso, usaram atitudes mais radicais como a captura de cativos embarcados em um vapor para venda noutra localidade, o acoitamento de escravos e o auxílio às fugas. Essas atitudes mais radicais iam de encontro a postura de abolicionistas mais moderados como Joaquim Nabuco e André Rebouças os quais defendiam que a difusão das ideias de emancipação deveria ser feita somente junto aos proprietários e no parlamento<sup>17</sup> , isto é, com criação de leis e com maior conscientização dos senhores sobre os males advindos do escravismo para a sociedade. A escravidão, de acordo com alguns abolicionistas, tornava o povo pouco habituado ao trabalho moralizado e a sociedade, de forma geral, já sentia o quanto o sistema escravocrata era algo vergonhoso, desumano e que postergava o progresso econômico e social, ou seja, não permitia que o Brasil se tornasse uma nação civilizada. 
+
+Alguns militantes abolicionistas pernambucanos passaram a difundir ideias diretamente entre os escravos percorrendo as senzalas e os espaços públicos informando-os acerca das possibilidades de obterem suas liberdades a partir do uso da legislação emancipacionista. Outros atuaram incentivando e respaldando fugas, como a indicada na carta de Gualberto Silva. Outras cartas de abolicionistas alagoanos, paraibanos, paraenses e cariocas, remetidas a João Ramos, fornecem indícios de que as conexões dessa “rede de auxílio” abolicionista se estendiam por várias partes do
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.005]
+Em tempo de movimento abolicionista intenso, o clima de incertezas crescia e abria caminhos que foram bem aproveitadas pelos cativos, tudo isso à custa de seu suor e de uma suposta lealdade que era explorada para conquistar a liberdade. Um escravo bem estabelecido em um engenho poderia desfrutar de privilégios concedidos pelo senhor como morar em casa própria, ter uma roça e, por fim, conseguir sua alforria. Os cativos indisciplinados e pouco prestativos acabavam não sendo agraciados com privilégios cotidianos, e nem com a liberdade, como disse um senhor de escravos respondendo a uma missiva do abolicionista João Ramos a respeito da possibilidade de concessão de alforria a uma escrava: “não estou resolvido a libertar grátis a nenhum daqueles que se tornaram ingratos. _”_<sup>49</sup> 
+
+Notícias sobre manumissões multiplicaram-se nos periódicos na década da abolição. Tais notas comunicavam que, por exemplo, o Senhor Manoel Ferreira Bartholo havia concedido liberdade aos quatro únicos escravos que possuía: Francisco, Margarida, Tito e Eduardo. Todos receberam suas alforrias sem ônus.<sup>50</sup> Mais um exemplo, dentre muitos, pode ser retirado do registro de alforria ocorrido em 17 de 
+
+> 47CONRAD, Robert. _Os últimos anos da escravatura no Brasil_ , Op. Cit. É importante ressaltar que esse livro é um referencial importante para quem estuda o período de declínio da escravidão e a abolição, uma vez que contém muitas informações e menções de fontes de pesquisa sobre o assunto. 
+
+> 48  Libertações. _Diário de Pernambuco,_ 20 de novembro de 1887. AEL.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.004]
+> 4 Idem. 
+
+> 5 Joaquim Nabuco foi advogado, diplomata nos Estados Unidos e Inglaterra, deputado no parlamento brasileiro e foi um abolicionista de grande visibilidade nacional. José Mariano, por sua vez, formou-se advogado pela Faculdade de Direito do Recife, f <mark>undou o jornal</mark> _<mark>A Província,</mark>_ <mark>foi membro da sociedade abolicionista</mark> <u><mark>Clube do Cupim</mark></u> , grande liderança popular no Recife e deputado _._ Em linhas gerais, essas duas lideranças abolicionistas atuaram na intersecção entre duas arenas políticas, a parlamentar e o ativismo das ruas. 
+
+> 6 Príncipes da Liberdade, 19--. Rótulo de cigarro. Luzo Brasileira. Pernambuco. FUNDAJ. 
+
+Revista Historiar | Vol. 9 | Nº. 16 | Jan./Jun. de 2017| **p. 9** 
+
+O 25 de março de 1884 no Ceará e a luta pela libertação dos escravos em Pernambuco 
+
+um lado, existiam aqueles que tinham como maior objetivo vender seus produtos, sem se importar com o que defendiam, por outro, também existiram aqueles que se esforçaram para imprimir suas escolhas políticas nos espaços em que atuavam.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.004]
+Revista Historiar | Vol. 9 | Nº. 16 | Jan./Jun. de 2017 | **p. 20** 
+
+Maria Emília Vasconcelos dos Santos 
+
+Nabuco, que era um homem bonito, carismático, ilustrado e excelente orador tinha poder de persuasão sob a opinião pública, marco central e inovador da campanha. Seus discursos atraíam centenas e às vezes até milhares de pessoas para lugares públicos da capital e do interior, arrancando da audiência os mais frenéticos aplausos.<sup>42</sup> José Mariano, por sua vez, desfrutava de grande simpatia popular em Pernambuco e provocava a cólera dos escravistas, pois, em suas conferências, postulava que a extinção da escravidão deveria se dar sem qualquer indenização<sup>43</sup> . Ângela Alonso lembra que os grupos contestadores do _status quo_ na década de 1870 e 1880 recorreram às práticas modernas de debate que se difundiam principalmente na Europa e nos Estados Unidos, como os _meetings_ , as manifestações públicas de reivindicações através de associações temáticas, os comícios, a proliferação de clubes e associações, as passeatas, as greves, enfim, uma infinidade de práticas político-culturais foi mobilizada por esses grupos contestadores para apresentarem seus projetos de reforma à sociedade<sup>44</sup> .
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.003]
+Em 25 de março, os mais diversos jornais pernambucanos se solidarizavam e demonstravam o seu apoio e mobilizavam a opinião pública. O jornal _O Echo de Palmares_ , de uma das mais importantes cidades da Mata Sul, recebeu diversas colaborações de seus leitores para o suplemento dedicado a celebrar o dia 25 de março de 1884, intitulado o Ceará Livre.<sup>24</sup> Foram enviadas poesias que rendiam homenagens à libertação dos escravos efetuada no Ceará, notas a favor do evento e matérias de opinião. O jornal _O Rebate_ (fig. 3), indicava que a escolha da data fazia referência a outros eventos políticos importantes ocorridos nos anos de 1817 e 1824. As datas correspondem à Revolução Pernambucana, em 1817, e à Confederação do Equador, em 1824, e mostravam o caminho percorrido, até aquele momento, de luta por emancipação política, e eram eventos de forte apelo popular<sup>25</sup> . 
+
+**Figura 3** - Jornal _o Rebate_ 25, de março de 1884. 
+
+> 22 FERREIRA, Lusirene Celestino França _. Cruzando o Atlântico: os ecos da abolição do Ceará no mundo atlântico (1884)._ XVIII Encontro de História da Anpuh- Rio, Identidades, 2008, p.1-2. 
+
+> 23 _The Christian Recorder_ (Philadelphia), April 17, 1884, In the African American Newspapers: The 19th Century  Online  Database 
+
+> 24 Jornal _Echo de Palmares_ 25 de março de 1884. APEJE. 
+
+> 25 _O Vinte e Cinco de Março –_ Jornal comemorativo – Publicação anual em homenagem à libertação do Ceará, 25 de março de 1886. 25 de março e o Ceará. APEJE.
+
+---
+
+[referencia=2332dc5527cae9f9 score=0.003]
+Por outro lado, o leitor ou o público assistente das conferências pronunciadas no Recife, em 1884, ouviram ou leram (essas conferências eram por vezes reproduzidas e comentadas nos jornais) severas críticas à escravidão. Nabuco bateu mais forte na tecla da necessidade de uma lei agrária destinada a diminuir o poder dos latifundiários e a democratizar o acesso à terra. Ele defendeu a formação de associação de operários e disse que os imigrantes europeus não poderiam ter recursos (terras e outros benefícios) que eram negados aos nacionais. Nabuco ganhou as eleições de 1884, mas, apesar da vitória, a Câmara negou ‑ lhe o mandato. 
+
+Posteriormente, na campanha de 1887, o processo eleitoral também foi marcado pela forte oposição do grupo senhorial aos dois candidatos (Nabuco e Mariano). No jornal _O Paiz,_ de 28 de março de 1887, consta que depois dos discursos realizados por Joaquim Nabuco e José Mariano em Escada e Nazaré, muitos escravos fugiram, houve um avanço do abolicionismo e cresceu o apoio as ações insubordinadas dos 
+
+> 42 NABUCO, Joaquim. _A campanha abolicionista no Recife, eleições de 1884_ . Rio de Janeiro: G. Leuzinger & Filhos, 1885. Esse livro é composto por uma coletânea de 12 dos 23 discursos que Nabuco fez por todo o Recife entre outubro e dezembro de 1884. _O Rebate,_ Recife, 17 de outubro de 1884. Apanhado ligeiro da conferencia do Dr. Joaquim Aurelio Nabuco de Araujo no Theatro Santa Isabel. APEJE. 
+
+> 43 Conferencia Abolicionista. Jornal _O Rebate,_ Recife 25 de outubro de 1884. APEJE.

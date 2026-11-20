@@ -1,0 +1,1037 @@
+{
+  "run_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+  "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Ingles/Claude/EmConsolidacao/pix_brasil.md",
+  "generated_at": "2026-11-15T03:24:10.985951Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 27646,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 92,
+    "citation_markers_distinct": 40,
+    "references_listed": 40,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 76,
+  "pct_supported": 76.31578947368422,
+  "pct_unsupported": 22.36842105263158,
+  "pct_contradicted": 1.3157894736842104,
+  "count_supported": 58,
+  "count_unsupported": 17,
+  "count_contradicted": 1,
+  "count_skipped": 0,
+  "count_audited": 76,
+  "pct_supported_audited": 76.31578947368422,
+  "pct_unsupported_audited": 22.36842105263158,
+  "pct_contradicted_audited": 1.3157894736842104,
+  "count_partially_supported": 21,
+  "skipped_reason_counts": {},
+  "verification_ran": true,
+  "count_unsupported_confirmed": 1,
+  "count_reclassified_by_verification": 6,
+  "verification_stage_counts": {
+    "context_expansion": 6
+  },
+  "mis_cited_reference_count": 7,
+  "uncredited_reference_count": 1,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [],
+  "skipped_chunks": [],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "ce4ef0b8fb18629f",
+      "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+      "times_cited": 7,
+      "supported_count": 4,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        32,
+        33
+      ],
+      "partial_positions": [
+        29,
+        31,
+        37,
+        59,
+        72
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "em dezembro de 2023 – três anos após o lançamento do Pix –, 74% dos adultos inscritos no CadÚnico haviam registrado ao menos uma chave Pix, evidenciando a ampla penetração do sistema entre a população de baixa renda. Além disso, 72% desses indivíduos realizaram pelo menos um pagamento via Pix ao ano, demonstrando seu uso expressivo nas transações do dia a dia. A diferença entre acesso (registro da chave) e uso efetivo caiu de 7 pontos percentuais em 2022 para apenas 2 pontos em 2023, indicando maior engajamento e confiança no sistema.",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "35f5c93c45673f6f",
+      "url": "https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP600.pdf",
+      "times_cited": 6,
+      "supported_count": 5,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        6,
+        8,
+        21,
+        40
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        5
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pix, the new instantaneous bank transfer launched in November 2020 by the Central Bank of Brazil (BCB) [...] it became the most popular transaction method in Brazil, surpassing cash [...] We find that the number of active bank accounts grows more than 4% for people [...] a 0.80% increase in the number of people opening bank accounts for the first time [...] its role in promoting financial inclusion and resilience",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "38a2b70a7736f991",
+      "url": "https://www.infomoney.com.br/?p=1952024",
+      "times_cited": 6,
+      "supported_count": 5,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        2,
+        24,
+        25
+      ],
+      "partial_positions": [
+        34,
+        37,
+        71
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Desses, **49 milhões passaram a fazer transferências após o lançamento do sistema de pagamentos do BC**",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "b782d264127ee303",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/12/04/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado.html",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        61,
+        62
+      ],
+      "partial_positions": [
+        4,
+        74
+      ],
+      "absent_positions": [
+        12
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Idec destaca que, por estar associado à marca mais confiável do sistema financeiro brasileiro, o Pix parcelado tende a induzir decisões impulsivas.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "d79d9878209dc519",
+      "url": "https://eaesp.fgv.br/sites/default/files/arq-publicacao/2026-08/5-anos-do-pix-10-perguntas-para-entender-como-ele-se-espalhou-pelo-brasil-1.pdf",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        15,
+        35,
+        36,
+        38
+      ],
+      "partial_positions": [
+        37
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "100% 90,9%<br>86,0%<br>90%<br>77,3%<br>80%<br>66,0%<br>70%<br>60%<br>49,5%<br>50%<br>40%<br>30%<br>20%<br>6,2%<br>10%<br>0%<br>nov./2020 nov./2021 nov./2022 nov./2023 nov./2024 out./2025<br>Adesão (pop. adulta)",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "3e97484ccd9f04b1",
+      "url": "https://www.sipa.columbia.edu/sites/default/files/2026-02/liangetal%20%282%29.pdf",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        43,
+        60
+      ],
+      "partial_positions": [
+        3,
+        47
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pauline Liang Matheus Sampaio Sergey Sarkisyan [...] Number of branches declines in high-Pix areas [...] Number of bank accounts rises Sampaio and Ornelas (2024) [...] Financial inclusion does not explain the results [...] Pix Per Capita × Post Pix 0.007 0.007 (0.008) (0.008) [...] Why do loans fall? [...] Loans fall despite retained deposits [...] Payment-related fees decline more in high-Pix areas",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "3646952cd08b16a5",
+      "url": "https://arxiv.org/pdf/2608.13871",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        44,
+        45
+      ],
+      "partial_positions": [
+        3,
+        47
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The triple interaction coefficient is 0.003, indicating that a one-standard-deviation increase in mobile penetration leads to a 0.3 percent [...] monthly wage increase for small establishments [...] The estimate remains similar (0.4 percent) and highly significant. [...] reaching approximately 0.8 percent by 2024. [...] a statistically significant 0.270point decline in the Gini coefficient [...] this represents a 0.9 percent reduction in wage inequality. [...] This reduction is driven by wage gains among workers in the lower half of the wage distribution [...] a 1.7 percent increase [...] This MEI expansion following Pix adoption is consistent with reduced transaction costs facilitating self-employment registry (or formalization).",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "a25800d4d7023e3a",
+      "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        27,
+        28,
+        30,
+        75
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "aumentando de 68% para 70%, a pesquisa indicou um crescimento de 14 p.p. entre 2017 e 2021, período em que a quantidade de adultos detentores de conta em instituições financeiras no Brasil chegou a 84% dos respondentes. [...] saltando de 57% em 2017 para 82% em 2021 [...] Essa diferença, que era de 22 p.p. em 2017, passou a ser de apenas 3 p.p. em 2021.",
+      "key_excerpt_position": 27
+    },
+    {
+      "reference_id": "5b7dc28761c8fd72",
+      "url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-bc-em-07-04-2026",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        19,
+        20
+      ],
+      "partial_positions": [
+        1
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "responsável por 54,7% das transações efetuadas no segundo semestre de 2025, atingindo 42,9 bilhões de transações naquele período. [...] O instrumento de pagamento com maior participação em volume financeiro transacionado continuou sendo o das transferências interbancárias realizadas por meio da TED, com 34,7%, seguido pelo Pix, com 28,6% do valor total transacionado no segundo semestre de 2025. [...] O valor médio das transações realizadas por meio da TED foi de R$ 58,3 mil no segundo semestre de 2025 [...] as transações efetuadas via Pix apresentaram valor médio de R$ 456",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "aa88d85dfb053cd4",
+      "url": "https://brasil61.com/n/anuario-de-seguranca-publica-brasil-registrou-mais-de-2-2-milhoes-de-casos-de-estelionato-em-2025-bras2616801",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        50
+      ],
+      "partial_positions": [
+        4,
+        49
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pelo anuário, é provável que os registros policiais revelem uma subnotificação. Os pesquisadores citam uma pesquisa produzida pelo FBSP em março de 2026 que mostrou que 15,8% da população com 16 anos ou mais foi vítima de um golpe ou perdeu dinheiro pela internet/celular no último ano, o que corresponde a 26,3 milhões de pessoas.",
+      "key_excerpt_position": 50
+    },
+    {
+      "reference_id": "84e20f22127a2ea5",
+      "url": "https://cetic.br/media/analises/tic_domicilios_2025_principais_resultados.pdf",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        57,
+        58
+      ],
+      "partial_positions": [
+        4
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "28 milhões de pessoas não usuárias de Internet | De 60 anos ou mais 16 mi | DE 14 mi | Fez pagamento ou transferência por Pix INÉDITO",
+      "key_excerpt_position": 57
+    },
+    {
+      "reference_id": "d5af779d9704441c",
+      "url": "https://www.piie.com/blogs/realtime-economics/2026/latest-us-squeeze-brazil-jeopardizes-its-financial-autonomy",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        68
+      ],
+      "partial_positions": [
+        4,
+        70
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Announcing the June 1 Section 301 determination, Greer said those talks had 'accelerated in recent weeks' but that 'substantial differences' remained. [...] The USTR found PIX actionable but bundled it with five only loosely related grievances [...] The USTR recommended the adoption of tariffs of up to 25 percent on most Brazilian goods, with exclusions for beef, coffee, metals, and energy.",
+      "key_excerpt_position": 68
+    },
+    {
+      "reference_id": "98456dda9a9115d9",
+      "url": "https://www.cgap.org/blog/comparing-indias-upi-and-brazils-new-instant-payment-system-pix",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        10
+      ],
+      "partial_positions": [
+        5
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "PIX launched with a prohibition on any customer fee but allows acquirers to charge merchant fees without any limitation. There is also no interchange set by PIX, meaning the acquirer may keep the entire fee",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "a953ff16b2baa823",
+      "url": "https://legismap.com.br/conteudos/artigos-e-noticias/bc-divulga-relatorio-de-gestao-do-pix-2023-2025-e-apresenta-agenda-de-evolucao-para-os-proximos-anos",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        14
+      ],
+      "partial_positions": [
+        1
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o lançamento do Pix Automático, que passou a permitir pagamentos recorrentes mediante autorização única do usuário",
+      "key_excerpt_position": 14
+    },
+    {
+      "reference_id": "ca515750bf81c83b",
+      "url": "https://economics.princeton.edu/wp-content/uploads/2025/03/instant_payments-_Sergey_Sarkisyan.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        41
+      ],
+      "partial_positions": [
+        3
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pix increases payment and transfer convenience of small banks - Increase in small bank deposits stronger in richer areas - The results are mostly driven by already banked population - Increase in deposits of small banks stronger in banked areas",
+      "key_excerpt_position": 41
+    },
+    {
+      "reference_id": "2c4c3ee30ffdb4a6",
+      "url": "https://poverty-action.org/what-brazils-micro-and-small-businesses-reveal-about-future-digital-finance",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        39
+      ],
+      "partial_positions": [
+        46
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "96 percent of respondents use Pix for either business or personal reasons, and nearly half use it daily. [...] 71 percent of those who use Pix for business report using a Pix key linked to their personal account for some of their business transactions. [...] Among those whose bank loan applications were rejected, the most common reason cited was that their account was considered too new. [...] in partnership with Innovations for Poverty Action (IPA), are conducting research in the Brazilian state of Espirito Santo",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "30e6c5302f0447af",
+      "url": "https://bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP619.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [
+        47
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we construct our timeout instrument for a given bank i in month t only using variation in timeouts induced by other banks j = i. [...] A one-standard-deviation increase in Pix usage results in a 15.4 ppt increase in the ratio of liquid assets. [...] Pix Usage|0.152∗∗∗|0.154∗∗∗ [...] Pix Usage|-0.279∗∗∗|-0.284∗∗∗",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "5d1d657519f0e933",
+      "url": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        47
+      ],
+      "absent_positions": [
+        74
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "I find that a 1% increase in Pix transactions per person over 15 resulted in a 0.14% increase in access to credit",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "eee36e2f5c7c5d7a",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/pix-novas-regras-vao-facilitar-devolucao-de-valores-em-casos-de-golpe",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        53
+      ],
+      "partial_positions": [
+        54
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A partir de 1º de outubro, o MED passa a ser feito de forma 100% digital, sem a necessidade de interação com o atendimento da instituição financeira. Todos os bancos participantes vão disponibilizar a funcionalidade no próprio ambiente Pix de seus aplicativos.",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "2ba12bc33b3fc8d9",
+      "url": "https://forbes.com.br/forbes-money/2026/02/med-2-0-do-bc-entra-em-vigor-e-permite-bloqueio-de-pix-fraudulento-entenda-regras/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55,
+        73
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Por isso, a taxa média de recuperação de recursos ficava em torno de 7%, de acordo com o BC.",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "39a7694b5e3ab753",
+      "url": "https://www.contabeis.com.br/noticias/69122/pix-retoma-crescimento-apos-polemica-de-fiscalizacao/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        66
+      ],
+      "partial_positions": [
+        65
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Entre os dias 1º e 14, foram realizadas 2,29 bilhões de transferências, o número mais baixo desde julho de 2023. [...] Após revogar a norma sobre fiscalização de transferências, o governo federal editou uma Medida Provisória para reforçar a isenção tributária e o sigilo bancário do Pix [...] a Receita Federal decidiu anular a instrução normativa em vigor desde 1º de janeiro de 2025. [...] O volume de transferências realizadas por meio do Pix voltou a se aproximar da média histórica na terceira semana de janeiro. Entre os dias 16 e 27 [...] A retração, contudo, está associada a padrões sazonais",
+      "key_excerpt_position": 66
+    },
+    {
+      "reference_id": "1c1492830eca1836",
+      "url": "https://thenextweb.com/news/brazil-us-pix-trade-clash",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        67
+      ],
+      "partial_positions": [
+        69
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In its Section 301 review, USTR argued that Brazil's central bank holds a conflict of interest by acting as both the regulator and the operator of Pix, and that mandatory participation for large banks, prominent placement in banking apps, and capped fees have disadvantaged US payment firms.",
+      "key_excerpt_position": 67
+    },
+    {
+      "reference_id": "6781184a2fd1a3e2",
+      "url": "https://www.bis.org/publ/bisbull52.htm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        9
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In little over a year since its launch in November 2020, Pix has signed up 67% of adults in Brazil [...] The two key ingredients in the success of Pix are, first, the mandatory participation of large banks to kick-start network effects for users, and second, the central bank's dual role as infrastructure provider and rule setter.",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "d304c2236cfcbdde",
+      "url": "https://www.bis.org/review/r250703g.htm",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        11
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Designed as a public, open instant payments platform, Pix quickly transformed Brazil's payments landscape.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "c9bc2fa751408186",
+      "url": "https://portaldeprefeitura.com.br/brasil/pix-por-aproximacao-nova-modalidade-e-lancada-nesta-sexta-28/590177/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        13
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A partir desta sexta-feira, 28 de fevereiro, todas as instituições financeiras deverão oferecer a opção de transferência via Pix por aproximação, que elimina a necessidade de digitar a senha bancária. Inicialmente, a obrigatoriedade se aplica apenas a dispositivos Android. [...] O limite máximo para cada transação será de R$ 500 [...] todas as instituições financeiras associadas ao open finance precisarão aderir ao Google Pay para oferecer o serviço.",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "b9cf048a318e6ea2",
+      "url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        16
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "as transferências via Pix bateram recorde em 2025 e movimentaram R$ 35,36 trilhões. Foram feitas quase 80 bilhões de transações bancárias no período. Em comparação com 2024, o volume cresceu 33,6%, quando as movimentações totalizaram R$ 26,24 trilhões. Em 2025, foram realizadas 79,8 bilhões de operações, contra 63,5 bilhões de transferências registradas pelo Banco Central em 2024.",
+      "key_excerpt_position": 16
+    },
+    {
+      "reference_id": "719bbfb995f6940f",
+      "url": "https://mercadoeconsumo.com.br/09/10/2026/meios-de-pagamento/pix-ultrapassa-1-bilhao-de-chaves-cadastradas-no-brasil/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        17
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O número de chaves Pix cadastradas no Brasil ultrapassou a marca de 1 bilhão em setembro, segundo dados do Banco Central (BC). Ao todo, o sistema contabilizava 1,008 bilhão de registros no dia 30, ante 998 milhões em agosto. O total representa um crescimento de aproximadamente 80 milhões de chaves desde o fim de 2025, quando havia 920 milhões.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "7b6fab40049d082c",
+      "url": "https://economicnewsbrasil.com.br/2026/11/09/recorde-do-pix-movimentacao-consumo/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        18
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O **recorde do Pix**, registrado em 6 de novembro de 2026, levou o sistema de pagamentos instantâneos a processar **319,7 milhões de transações, que movimentaram R$ 180,5 bilhões**.",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "347d3ebe6b50ca6f",
+      "url": "https://finsidersbrasil.com.br/pagamentos/fintechs-ja-dominam-metade-das-transacoes-feitas-no-pix-diz-bc/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [
+        22
+      ],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6da30963d1c5cd6e",
+      "url": "https://www.infomoney.com.br/?p=1824394",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        23
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "de coautoria de economistas do Banco Central do Brasil para o Banco de Compensações Internacionais (BIS), o Pix tem um custo médio de 0,22% por transação para os lojistas, enquanto os cartões de débito custam pouco mais de 1% e os cartões de crédito atingem 2,2% no país.",
+      "key_excerpt_position": 23
+    },
+    {
+      "reference_id": "e1bd68833fb67bf9",
+      "url": "https://www.contabeis.com.br/noticias/48957/pix-foi-ferramenta-de-1a-transferencia-bancaria-de-cerca-de-40-milhoes-de-pessoas/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        26
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Cerca de 40 milhões de pessoas no Brasil fizeram sua primeira transferência bancária por meio do Pix. O dado foi divulgado pelo diretor de Organização do Sistema Financeiro e Resolução do Banco Central, João Manoel Pinho de Mello",
+      "key_excerpt_position": 26
+    },
+    {
+      "reference_id": "796fbe82226ab347",
+      "url": "https://www.infomoney.com.br/minhas-financas/pix-e-usado-por-71-dos-brasileiros-taxa-de-aprovacao-chega-a-99-entre-jovens-indica-pesquisa-da-febraban/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        34
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Pix... já é usado por 71% dos brasileiros... pesquisa da Federação Brasileira de Bancos (Febraban)... no grupo de pessoas com renda de até dois salários mínimos, a taxa de adesão ao sistema do BC é de 64%... Dos que têm até a escolaridade fundamental, 53% utilizam o Pix",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "972d39a793c53c03",
+      "url": "https://www.povertyactionlab.org/initiative-project/impact-instant-payment-systems-financial-and-labor-market-outcomes-evidence-pix",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        48
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Impact of Instant Payment Systems on Financial and Labor Market Outcomes: Evidence from Pix",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "9fc68658daa122c5",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/08/18/mais-de-24-milhoes-de-pessoas-foram-vitimas-de-golpes-pelo-pix",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        51
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Entre julho de 2024 e junho de 2025, cerca de 24 milhões de brasileiros foram vítimas de golpes financeiros envolvendo PIX ou boletos bancários, resultando em um prejuízo estimado em quase R$ 29 bilhões... Em geral, idosos são os principais alvos de golpes com boletos falsos",
+      "key_excerpt_position": 51
+    },
+    {
+      "reference_id": "f15fb45f74de157d",
+      "url": "https://olhardigital.com.br/2024/11/01/pro/novas-regras-do-pix-ja-estao-valendo-saiba-o-que-muda/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        52
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "será permitido transferir apenas até R$ 200 por transação e um total diário de R$ 1.000 a partir de celulares e computadores não reconhecidos pelo sistema. O Banco Central afirma que para realizar movimentações de valores superiores, será necessário cadastrar os dispositivos junto à instituição financeira. [...] A nova exigência de cadastro aplica-se apenas a dispositivos que nunca tenham sido utilizados para iniciar uma transação Pix por um usuário específico. [...] A partir desta sexta-feira, 1º de novembro, o Pix terá novas regras.",
+      "key_excerpt_position": 52
+    },
+    {
+      "reference_id": "170dedd0600a429f",
+      "url": "https://www.infomoney.com.br/minhas-financas/med-2-0-passa-a-ser-obrigatorio-em-todas-as-plataformas-que-oferecem-pix/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        54
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A partir de desta segunda-feira, 2 de fevereiro, todas as instituições financeiras e de pagamento... passam a ser obrigadas a adotar o MED 2.0... Apesar da obrigatoriedade formal, haverá um período de adequação até maio... Prazo de até 7 dias para a conclusão da devolução",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "1d3b956f3693de74",
+      "url": "https://finsidersbrasil.com.br/pagamentos/bc-comunica-terceiro-vazamento-de-chaves-pix-no-ano-incidente-atingiu-financeira-da-pernambucanas/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        56
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Desde o lançamento do sistema de pagamento instantâneo, em novembro de 2020, foram reportados 23 casos.",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "9393b05055f4d2be",
+      "url": "https://www.suno.com.br/noticias/?p=612244",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        63
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Um ataque hacker à empresa brasileira de tecnologia C&M Software afetou a operação de instituições financeiras conectadas ao Pix e pode ter causado o desvio de até R$ 800 milhões, segundo estimativas preliminares da imprensa. A empresa é uma das responsáveis por conectar bancos ao Sistema de Pagamentos Brasileiro (SPB), atuando como intermediária entre instituições financeiras e o Banco Central. [...] A C&M Software informou que o ataque hacker ocorreu por meio do uso fraudulento de credenciais (como login e senha) de seus clientes. [...] As movimentações indevidas ocorreram em contas de reserva mantidas no próprio Banco Central, usadas exclusivamente para liquidação interbancária.",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "2f9c77c95a0e17df",
+      "url": "https://diariodonordeste.verdesmares.com.br/negocios/bc-cria-teto-de-r-15-mil-para-pix-apos-ataques-do-crime-organizado-veja-outras-mudancas-1.3687918",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        64
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o BC limitou em R$ 15 mil o valor máximo de TEDs e Pix realizados por instituições de pagamento não autorizadas e pelas que se conectam à rede por meio de Prestadores de Serviços de Tecnologia da Informação (PSTI). [...] instituições de pagamento não autorizadas deverão protocolar seus pedidos até maio de 2026, e não mais em dezembro de 2029. [...] passa a ser exigido capital mínimo de R$ 15 milhões",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "f9b95a4325f0f212",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/01/15/amp/apos-onda-de-criticas-e-desinformacao-receita-recua-de-fiscalizacao-do-pix.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        65
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "As novas regras colocavam uma lupa sobre movimentações de Pix a partir de R$ 5 mil para pessoas físicas e R$ 15 mil para pessoas jurídicas. [...] Desde o início deste ano, a ampliação das normas de fiscalização sobre operações financeiras realizadas pelos contribuintes foi intensificada, ao incluir as chamadas \"instituições de pagamento\". [...] As mudanças geraram uma onda de desinformação nas redes sociais, associando o novo modelo de fiscalização a um processo de \"taxação\" inexistente sobre os usuários do meio de transferências instantâneas.",
+      "key_excerpt_position": 65
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "pix_brasil_c371a97f12c1_20261115T025714Z-3",
+      "position": 3,
+      "claim_excerpt": "Quasi-experimental studies find that Pix reshuffled deposits mainly among the already banked, pushed banks to hold more liquidity and raised wages at small firms, while evidence that it brought the u…",
+      "cited_markers": "[5] [6] [7]",
+      "corroborating_markers": "[27] [1]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_c371a97f12c1_20261115T025714Z-5",
+      "position": 5,
+      "claim_excerpt": "It built the platform, runs the settlement system and keeps the directory of payment aliases, a combination that sets Pix apart from most instant-payment schemes.",
+      "cited_markers": "[1] [12]",
+      "corroborating_markers": "[14] [27] [40] [7] [6]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_c371a97f12c1_20261115T025714Z-46",
+      "position": 46,
+      "claim_excerpt": "Persistent informality fits the IPA finding that small firms run sales through personal keys: Pix lets informal businesses go digital without formalizing.",
+      "cited_markers": "[26]",
+      "corroborating_markers": "[1] [7] [27]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_c371a97f12c1_20261115T025714Z-56",
+      "position": 56,
+      "claim_excerpt": "No data on MED 2.0's results appeared in the sources. Privacy adds exposure, because Pix turns personal identifiers into payment addresses, and the BCB has disclosed 23 leaks of key-registration data…",
+      "cited_markers": "[35]",
+      "corroborating_markers": "[34] [2] [1] [33] [5] [6] [7] [14] [24] [28]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_c371a97f12c1_20261115T025714Z-59",
+      "position": 59,
+      "claim_excerpt": "For these groups cash remains the default even as its infrastructure shrinks: bank branches fell 14.6% between 2020 and 2024, and municipalities served only by banking correspondents rose from 408 to…",
+      "cited_markers": "[24]",
+      "corroborating_markers": "[7] [6] [20] [1] [5] [16] [27]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_c371a97f12c1_20261115T025714Z-70",
+      "position": 70,
+      "claim_excerpt": "PIIE's Monica de Bolle argues that a public payment system is not a trade barrier and that the deeper risk is sanctions spillover; for her the question is whether Pix \"can remain Brazilian in governa…",
+      "cited_markers": "[11]",
+      "corroborating_markers": "[40] [1] [28] [14] [27] [13] [7] [6] [12]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_c371a97f12c1_20261115T025714Z-74",
+      "position": 74,
+      "claim_excerpt": "Researchers disagree on whether Pix expands lending, and regulators have declined to set rules for the credit products that use its name.",
+      "cited_markers": "[28] [10]",
+      "corroborating_markers": "[1] [7] [40] [27] [6]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1517624,
+  "cost_tracked": false,
+  "processing_time_seconds": 1616.641125
+}

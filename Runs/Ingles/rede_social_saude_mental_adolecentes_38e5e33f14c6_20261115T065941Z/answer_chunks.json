@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-0",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 0,
+    "text": "This report examines social media use in roughly the second decade of life, with particular attention to ages 10–19 while drawing selectively on studies extending into the early twenties when they illuminate developmental or causal questions.",
+    "cited_markers": [
+      "[4]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-1",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 1,
+    "text": "Social media is treated broadly as digitally mediated interaction involving user-generated content, social networking, video sharing, messaging, algorithmically curated feeds, and related interactive functions, rather than as synonymous with smartphones or total screen time.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-2",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 2,
+    "text": "This distinction matters because platforms differ in features, audiences, recommendation systems, visibility of popularity metrics, modes of communication, and opportunities for public comparison or private support.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-3",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 3,
+    "text": "The best current evidence does **not** support either of two simple claims: that social media is harmless for adolescents, or that social media use as a whole is a large, uniform cause of adolescent mental illness.",
+    "cited_markers": [
+      "[4]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "ec4231800e690108",
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-4",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 4,
+    "text": "The National Academies concluded in 2024 that available evidence did not justify the conclusion that social media causes population-level changes in adolescent health, while emphasizing that particular experiences and features can produce meaningful harms or benefits for particular young people.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-5",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 5,
+    "text": "A 2026 umbrella review covering 72 reviews likewise found weak and inconsistent associations for general social media use but substantially more consistent associations between **problematic** social media use and poor mental health.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-6",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 6,
+    "text": "A 2026 systematic review restricted to longitudinal and experimental designs estimated very small prospective associations between time or frequency of social media use and later depression and anxiety, with pooled correlations of about 0.08 and 0.093 respectively.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-7",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 7,
+    "text": "The strongest synthesis, therefore, is that “social media” is not a single exposure and “mental health” is not a single outcome.",
+    "cited_markers": [
+      "[4]",
+      "[5]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "ec4231800e690108",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-8",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 8,
+    "text": "Effects depend on what adolescents encounter and do online, whether use interferes with functioning, their developmental stage and preexisting vulnerabilities, the social context surrounding them, and the platform features shaping what they see.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-9",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 9,
+    "text": "From a public-health perspective, the most defensible approach is therefore neither universal reassurance nor indiscriminate prohibition, but targeted reduction of identifiable risks alongside preservation of socially valuable uses.",
+    "cited_markers": [
+      "[4]",
+      "[16]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0",
+      "9cb36a246eda4e82"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-10",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 10,
+    "text": "Social media use is now a routine part of adolescent life in high-income countries.",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "8c2b5fb1cd291d4d",
+      "a0dbc26369736fb4"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-11",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 11,
+    "text": "In a nationally representative U.S. survey conducted in late 2024, 90% of adolescents aged 13–17 reported using YouTube, roughly six in ten used TikTok and Instagram, and 55% used Snapchat.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "8c2b5fb1cd291d4d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-12",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 12,
+    "text": "One-third reported using at least one of five major platforms “almost constantly,” while nearly half said they were online almost constantly in general.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "8c2b5fb1cd291d4d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-13",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 13,
+    "text": "Platform use varied by age, sex, race and ethnicity, and household income: for example, older U.S. teens were substantially more likely than 13- to 14-year-olds to use Instagram and Snapchat.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "8c2b5fb1cd291d4d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-14",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 14,
+    "text": "High frequency of use should not be equated with disordered or problematic use.",
+    "cited_markers": [
+      "[5]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108",
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-15",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 15,
+    "text": "The World Health Organization’s Health Behaviour in School-aged Children study, covering 11-, 13-, and 15-year-olds across 44 countries and regions in Europe, Central Asia, and Canada, reported that 11% met its criteria for problematic social media use in 2021–2022, up from 7% in the prior 2017–2018 survey cycle.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "a0dbc26369736fb4"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-16",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 16,
+    "text": "The prevalence was higher among girls than boys, at 13% versus 9%.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "a0dbc26369736fb4"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-17",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 17,
+    "text": "Problematic use generally refers to impaired control and interference with ordinary functioning rather than simply spending many hours online.",
+    "cited_markers": [
+      "[2]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a0dbc26369736fb4",
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-18",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 18,
+    "text": "Adolescents themselves describe a mixture of benefits and costs.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-19",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 19,
+    "text": "In Pew Research Center’s 2024 U.S. survey, 74% said social media made them feel more connected to friends, 63% said it gave them a place to display creativity, and 52% said it made them feel that they had people who could support them through difficult times.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-20",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 20,
+    "text": "At the same time, 45% said social media hurt their sleep, 40% said it hurt productivity, and 19% said it hurt their mental health.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-21",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 21,
+    "text": "Girls were more likely than boys to report harm to mental health, confidence, and sleep.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-22",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 22,
+    "text": "Forty-five percent of adolescents said they spent too much time on social media, an increase from 36% in 2022.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-23",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 23,
+    "text": "These self-reports cannot establish causation, but they reinforce the conclusion that adolescents experience social media as simultaneously socially useful and psychologically burdensome.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-24",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 24,
+    "text": "The clearest potential benefit is social connection.",
+    "cited_markers": [
+      "[14]",
+      "[15]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "d8d77cdd1c2170a2",
+      "c53cba3870b21bf5",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-25",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 25,
+    "text": "A systematic review and meta-analysis of online social support among adolescents found a moderate positive association with self-esteem, while evidence for reduced depression was smaller and statistically uncertain.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "d8d77cdd1c2170a2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-26",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 26,
+    "text": "Qualitative and observational research suggests that online spaces can be especially valuable for adolescents who lack sufficient offline support, including LGBTQ+ youth, adolescents dealing with isolation, and young people seeking others with similar identities or health experiences.",
+    "cited_markers": [
+      "[15]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "c53cba3870b21bf5",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-27",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 27,
+    "text": "A systematic review of LGBTQ+ youth found that social media commonly supported community connection, identity exploration, selective disclosure, and peer support, although the evidence base was dominated by cross-sectional and qualitative studies and therefore could not establish long-term causal benefit.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "c53cba3870b21bf5"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-28",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 28,
+    "text": "Social media can also provide access to information about mental health and coping.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-29",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 29,
+    "text": "About one-third of U.S. teens surveyed by Pew in 2024 said they at least sometimes obtained mental-health information through social media.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-30",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 30,
+    "text": "Such access can lower barriers to recognizing symptoms or finding communities, but information quality varies and adolescents may also encounter misleading, sensationalized, or harmful material.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-31",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 31,
+    "text": "Algorithmic recommendation systems can amplify repeated exposure because they rank content partly in response to prior engagement, creating feedback loops that may progressively narrow what an adolescent sees.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-32",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 32,
+    "text": "Sleep is one of the most plausible pathways linking social media with mental health, but the evidence is more nuanced than the common claim that any social-media exposure necessarily damages sleep.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-33",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 33,
+    "text": "A 2024 systematic review incorporating 182 studies and more than 1.1 million participants found no statistically significant pooled association between general social media use and either sleep duration or sleep problems, whereas problematic social media use was associated with sleep problems.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-34",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 34,
+    "text": "The same review found that problematic use was more strongly associated with depression and anxiety than ordinary use, with pooled correlations around 0.30 for depression and 0.28 for anxiety.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-35",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 35,
+    "text": "Mechanistically, social media may impair sleep when it delays bedtime, extends stimulating interaction into the night, produces emotional arousal, or makes disengagement difficult, but these pathways are likely concentrated among particular patterns of use rather than applying equally to all users.",
+    "cited_markers": [
+      "[4]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-36",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 36,
+    "text": "Social comparison is another well-supported mechanism, particularly for body image.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "85bc873c0274ffdb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-37",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 37,
+    "text": "A 2025 meta-analysis of 83 studies involving 55,440 participants found a moderate association between greater online social comparison and body-image concerns and a somewhat smaller association with eating-disorder symptoms.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "85bc873c0274ffdb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-38",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 38,
+    "text": "The association was moderated by factors including platform, study quality, country, comparison type, and proportion of female participants.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "85bc873c0274ffdb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-39",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 39,
+    "text": "These findings are consistent with the idea that highly visual, appearance-focused environments can intensify upward comparison, internalization of appearance ideals, and dissatisfaction among vulnerable users, although much of this literature remains observational.",
+    "cited_markers": [
+      "[4]",
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "85bc873c0274ffdb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-40",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 40,
+    "text": "Cyberbullying represents a more clearly harmful form of online experience than social-media exposure in the abstract.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "1789226aaefce7a3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-41",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 41,
+    "text": "A meta-analysis of 27 longitudinal studies comprising 13,497 participants aged 8–19 found a small but consistent prospective association between cyberbullying victimization and later mental-health symptoms.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "1789226aaefce7a3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-42",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 42,
+    "text": "U.S. surveillance similarly shows that adolescents reporting frequent social media use are more likely to report electronic bullying, persistent sadness or hopelessness, and some indicators of suicide risk, although the cross-sectional design cannot determine whether frequent use causes these outcomes.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a3d7222a0fcabc5b"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-43",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 43,
+    "text": "Cyberbullying differs from ordinary offline conflict because harmful content can be rapidly redistributed, remain visible, and reach victims beyond school or other physical settings.",
+    "cited_markers": [
+      "[4]",
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "1789226aaefce7a3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-44",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 44,
+    "text": "Displacement is another plausible mechanism: time online can compete with sleep, physical activity, face-to-face relationships, study, and other restorative activities.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-45",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 45,
+    "text": "The key scientific question is not simply whether hours spent online correlate with distress, but what those hours replace and what adolescents are doing during them.",
+    "cited_markers": [
+      "[4]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "ec4231800e690108"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-46",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 46,
+    "text": "Two adolescents with identical daily use could therefore have very different risk profiles if one is exchanging supportive messages with friends while the other is losing sleep, repeatedly viewing appearance-focused content, or experiencing harassment.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-47",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 47,
+    "text": "Most of the literature remains correlational, and this sharply limits causal inference.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-48",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 48,
+    "text": "Cross-sectional studies cannot determine whether social media contributes to depression, whether depressed adolescents use social media differently, or whether both are consequences of third factors such as family adversity, loneliness, bullying, socioeconomic conditions, or preexisting psychopathology.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-49",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 49,
+    "text": "Even longitudinal studies may be confounded if they measure exposure poorly or fail to capture relevant changes in the adolescent’s environment.",
+    "cited_markers": [
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108",
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-50",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 50,
+    "text": "The newest synthesis of stronger designs suggests that ordinary time or frequency of use has, on average, only a very small prospective relationship with depression and anxiety.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-51",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 51,
+    "text": "The 2026 review of 37 longitudinal or experimental studies estimated that social-media time accounted for less than 1% of variation in subsequent depressive and anxiety symptoms.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-52",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 52,
+    "text": "Its authors therefore concluded that time spent on social media alone is unlikely to explain the broader contemporary rise in youth depression and anxiety.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-53",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 53,
+    "text": "That conclusion does not imply that social media cannot cause harm to specific adolescents or through specific experiences; it means that average exposure time is a weak population-level predictor.",
+    "cited_markers": [
+      "[4]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-54",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 54,
+    "text": "Some prospective studies nevertheless find temporal patterns consistent with a causal contribution.",
+    "cited_markers": [
+      "[7]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "b1a6f756dd43551a",
+      "ae97664566a3a8c6"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-55",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 55,
+    "text": "A large U.S. cohort study following 11,876 children from late childhood into early adolescence found that within-person increases in social media use predicted small increases in depressive symptoms one year later, whereas depressive symptoms did not predict subsequent increases in use in that analysis.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "b1a6f756dd43551a"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-56",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 56,
+    "text": "An Australian longitudinal cohort found that more than two hours per day, compared with less than one hour, was associated with modestly greater subsequent risks of high depressive symptoms and poor well-being, with the largest estimated risks in early adolescence.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "ae97664566a3a8c6"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-57",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 57,
+    "text": "These studies strengthen temporal inference but remain observational and therefore cannot eliminate all residual confounding.",
+    "cited_markers": [
+      "[7]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "b1a6f756dd43551a",
+      "ae97664566a3a8c6"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-58",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 58,
+    "text": "Age appears important, although the precise pattern is unsettled.",
+    "cited_markers": [
+      "[8]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "ae97664566a3a8c6",
+      "fdb4125685717efe"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-59",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 59,
+    "text": "A major UK analysis reported developmental windows in which higher estimated social media use predicted lower life satisfaction one year later, with windows around ages 11–13 for females and 14–15 for males, plus another association around age 19 for both sexes.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "fdb4125685717efe"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-60",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 60,
+    "text": "The Australian cohort likewise found its largest estimated adverse associations at ages 12–13.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "ae97664566a3a8c6"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-61",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 61,
+    "text": "However, the 2026 meta-analysis of longitudinal studies did not find that average depression effects systematically became stronger at younger ages, illustrating that developmental sensitivity is not yet established uniformly across outcomes and datasets.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-62",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 62,
+    "text": "Gender differences are similarly real in some domains but not universal.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[12]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "8c2b5fb1cd291d4d",
+      "a0dbc26369736fb4",
+      "85bc873c0274ffdb",
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-63",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 63,
+    "text": "Girls report more problematic use in WHO data and more perceived harm to sleep, confidence, and mental health in U.S. survey data, while body-image associations tend to be stronger in samples with more female participants.",
+    "cited_markers": [
+      "[2]",
+      "[12]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "a0dbc26369736fb4",
+      "85bc873c0274ffdb",
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-64",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 64,
+    "text": "Yet meta-analytic evidence does not consistently show gender moderating the association between general social-media use and depression or anxiety.",
+    "cited_markers": [
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "341b39b8fa1eeba5",
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-65",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 65,
+    "text": "The most defensible interpretation is that gender differences may emerge through exposure to particular content, social norms, appearance pressures, cybervictimization, or patterns of engagement rather than through a universal sex-specific effect of screen time.",
+    "cited_markers": [
+      "[4]",
+      "[12]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "85bc873c0274ffdb",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-66",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 66,
+    "text": "Preexisting vulnerability is probably at least as important as demographic categories.",
+    "cited_markers": [
+      "[10]",
+      "[15]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "341b39b8fa1eeba5",
+      "c53cba3870b21bf5",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-67",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 67,
+    "text": "The 2024 JAMA Pediatrics meta-analysis found small associations between social-media use and internalizing symptoms in both clinical and community adolescent samples and emphasized how little high-quality evidence exists for adolescents already receiving mental-health care.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "341b39b8fa1eeba5"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-68",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 68,
+    "text": "Adolescents with depression, anxiety, loneliness, identity-related stigma, or weak offline support may obtain unusually large benefits from online connection while simultaneously being more susceptible to negative comparison, victimization, or dysregulated use.",
+    "cited_markers": [
+      "[15]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "c53cba3870b21bf5",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-69",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 69,
+    "text": "This dual susceptibility is one reason population averages can obscure clinically important effects in smaller subgroups.",
+    "cited_markers": [
+      "[4]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "341b39b8fa1eeba5"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-70",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 70,
+    "text": "Measurement is one of the field’s central weaknesses.",
+    "cited_markers": [
+      "[5]",
+      "[6]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108",
+      "882acab979a368ea",
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-71",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 71,
+    "text": "Many studies ask adolescents to estimate daily or weekly time, even though self-reported screen use can be imprecise and gives little information about content, interaction quality, nighttime use, algorithmic exposure, or whether engagement was active, passive, supportive, compulsive, or hostile.",
+    "cited_markers": [
+      "[4]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-72",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 72,
+    "text": "Combining highly different activities into a single “hours of social media” variable can therefore dilute stronger effects of particular experiences.",
+    "cited_markers": [
+      "[4]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "ec4231800e690108"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-73",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 73,
+    "text": "Heterogeneity across studies is substantial.",
+    "cited_markers": [
+      "[5]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108",
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-74",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 74,
+    "text": "Studies differ in platform definitions, age ranges, mental-health measures, follow-up intervals, socioeconomic settings, and statistical models, making pooled average effects difficult to interpret as a single universal quantity.",
+    "cited_markers": [
+      "[5]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108",
+      "43d7c483577498e0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-75",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 75,
+    "text": "The 2026 umbrella review also found that many meta-analyses of general social-media use were underpowered to detect small associations reliably, which may contribute to apparently inconsistent findings.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-76",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 76,
+    "text": "Experimental evidence remains scarce because randomly assigning adolescents to harmful content or prolonged risky use would be unethical, while voluntary reduction experiments test a narrower question than ordinary real-world exposure.",
+    "cited_markers": [
+      "[6]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "882acab979a368ea",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-77",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 77,
+    "text": "A 2026 pilot randomized trial involving 82 adolescents aged 13–18 found tentative short-term improvements in sleep, depressive symptoms, stress, and working memory during a 21-day smartphone/social-media abstinence intervention, but those changes were not maintained two months later.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "303178644d5155b8"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-78",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 78,
+    "text": "The trial was explicitly a pilot and was too small to establish the effectiveness of broad “digital detox” policies.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "303178644d5155b8"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-79",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 79,
+    "text": "Platform change creates another research problem because algorithms, norms, features, and dominant services evolve faster than typical longitudinal studies.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-80",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 80,
+    "text": "Independent researchers also lack complete access to proprietary recommendation systems and behavioral data, limiting their ability to test how specific design choices affect young users.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-81",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 81,
+    "text": "Evidence remains particularly thin for marginalized groups and for clinically vulnerable adolescents, despite strong reasons to expect effects to differ across social contexts.",
+    "cited_markers": [
+      "[10]",
+      "[15]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "341b39b8fa1eeba5",
+      "c53cba3870b21bf5",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-82",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 82,
+    "text": "For families, the evidence favors developmentally tailored supervision and conversation over a single universal hourly cutoff.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-83",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 83,
+    "text": "Parents and caregivers should pay particular attention to whether social media disrupts sleep, schoolwork, exercise, in-person relationships, mood, or the adolescent’s ability to disengage voluntarily, because functional impairment is more informative than high use alone.",
+    "cited_markers": [
+      "[5]",
+      "[11]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108",
+      "43d7c483577498e0",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-84",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 84,
+    "text": "Device-free sleep routines, notification reduction at night, and removing phones from the sleeping environment are reasonable risk-reduction strategies when nighttime use is delaying sleep or generating distress.",
+    "cited_markers": [
+      "[11]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "43d7c483577498e0",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-85",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 85,
+    "text": "Families should also discuss algorithmic recommendations, edited images, popularity metrics, social comparison, misinformation, privacy, harassment, and how to block or report abusive accounts.",
+    "cited_markers": [
+      "[4]",
+      "[12]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "85bc873c0274ffdb",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-86",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 86,
+    "text": "Monitoring should preserve opportunities for adolescents to obtain legitimate peer support, particularly when online communities provide support unavailable offline.",
+    "cited_markers": [
+      "[15]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "c53cba3870b21bf5",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-87",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 87,
+    "text": "Schools should treat digital well-being as part of broader health, media-literacy, bullying-prevention, and safeguarding programs rather than assuming that phone bans alone will improve mental health.",
+    "cited_markers": [
+      "[18]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "8f7df12bcddb7263",
+      "daad684d4b38a895"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-88",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 88,
+    "text": "A 2026 difference-in-differences study of 23,938 adolescent observations in Iceland found no significant population-level mental-health improvement associated with schoolwide phone bans.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "8f7df12bcddb7263"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-89",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 89,
+    "text": "A large English observational study likewise found no differences in mental well-being, anxiety, depression, sleep, physical activity, or academic outcomes between pupils in schools with restrictive versus permissive phone policies, although greater overall phone and social-media use was associated with worse outcomes.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "daad684d4b38a895"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-90",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 90,
+    "text": "Schools therefore have stronger grounds for combining reasonable device rules with cyberbullying prevention, digital literacy, clear reporting systems, sleep education, and access to mental-health support than for presenting prohibition as a stand-alone treatment.",
+    "cited_markers": [
+      "[13]",
+      "[18]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "1789226aaefce7a3",
+      "8f7df12bcddb7263",
+      "daad684d4b38a895"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-91",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 91,
+    "text": "Clinicians should ask about **how** social media is used rather than treating hours alone as a diagnostic marker.",
+    "cited_markers": [
+      "[5]",
+      "[10]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108",
+      "341b39b8fa1eeba5",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-92",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 92,
+    "text": "Assessment can usefully cover cyberbullying, compulsive or uncontrolled use, sleep disruption, appearance comparison, exposure to self-harm or eating-disorder material, conflict with caregivers, social withdrawal, and whether the adolescent receives meaningful support online.",
+    "cited_markers": [
+      "[4]",
+      "[10]",
+      "[12]",
+      "[13]",
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "341b39b8fa1eeba5",
+      "85bc873c0274ffdb",
+      "1789226aaefce7a3",
+      "c53cba3870b21bf5"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-93",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 93,
+    "text": "For an adolescent whose use clearly exacerbates symptoms, a collaborative reduction in the problematic component is more evidence-aligned than assuming every platform or online relationship must be eliminated.",
+    "cited_markers": [
+      "[5]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-94",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 94,
+    "text": "Mental-health treatment should not be delayed while waiting to determine whether social media is causal, because serious depression, anxiety, self-harm risk, eating pathology, or victimization require assessment and evidence-based care regardless of origin.",
+    "cited_markers": [
+      "[3]",
+      "[10]",
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "a3d7222a0fcabc5b",
+      "341b39b8fa1eeba5",
+      "1789226aaefce7a3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-95",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 95,
+    "text": "Platforms have a stronger capacity than individual families to modify structural risk because they control recommendation algorithms, notification systems, public popularity metrics, default settings, data collection, moderation, and mechanisms for reporting abuse.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-96",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 96,
+    "text": "Evidence-based risk reduction therefore supports stronger protection against cyberbullying and harmful content, age-appropriate privacy defaults, easy reporting and blocking, friction around potentially compulsive engagement, and greater transparency for independent researchers studying algorithms and youth outcomes.",
+    "cited_markers": [
+      "[4]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-97",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 97,
+    "text": "Particular scrutiny is warranted for features that repeatedly recommend appearance-focused, self-harm-related, disordered-eating, or otherwise harmful material to vulnerable adolescents.",
+    "cited_markers": [
+      "[4]",
+      "[12]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "85bc873c0274ffdb",
+      "28ba90df7bd7f3d0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-98",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 98,
+    "text": "Policymakers should distinguish interventions supported by evidence from interventions that are merely intuitively appealing.",
+    "cited_markers": [
+      "[4]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "9cb36a246eda4e82"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-99",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 99,
+    "text": "UNICEF has cautioned that age restrictions can form one component of online child protection but should not substitute for broader duties on platforms to make digital environments safer.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "9cb36a246eda4e82"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-100",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 100,
+    "text": "Regulatory priorities with comparatively direct links to well-being include preventing cyberbullying and exploitation, enforcing privacy and age-appropriate design, requiring effective safety systems, supporting researcher access to platform data under privacy safeguards, and evaluating policies prospectively rather than assuming effectiveness.",
+    "cited_markers": [
+      "[4]",
+      "[13]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "1789226aaefce7a3",
+      "9cb36a246eda4e82"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-101",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 101,
+    "text": "The most important policy conclusion is therefore one of precision.",
+    "cited_markers": [
+      "[4]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "ec4231800e690108",
+      "882acab979a368ea"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-102",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 102,
+    "text": "Average time spent on social media shows only small associations with depression and anxiety, while problematic use, cyberbullying, harmful social comparison, sleep-disruptive engagement, and exposure to damaging content show more concerning relationships with adolescent well-being.",
+    "cited_markers": [
+      "[5]",
+      "[11]",
+      "[12]",
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "ec4231800e690108",
+      "43d7c483577498e0",
+      "85bc873c0274ffdb",
+      "1789226aaefce7a3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-103",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 103,
+    "text": "Conversely, friendship, identity development, social support, creativity, and access to communities can be meaningful benefits, especially for adolescents who are isolated or marginalized offline.",
+    "cited_markers": [
+      "[14]",
+      "[15]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "d8d77cdd1c2170a2",
+      "c53cba3870b21bf5",
+      "3e5d941b100227ff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-104",
+    "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "position": 104,
+    "text": "The evidence therefore supports designing environments that reduce dangerous exposures and dysfunctional patterns without treating adolescent online social life itself as a pathology.",
+    "cited_markers": [
+      "[4]",
+      "[16]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "8ee885333dc42d1d",
+      "28ba90df7bd7f3d0",
+      "9cb36a246eda4e82"
+    ]
+  }
+]

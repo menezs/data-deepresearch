@@ -1,0 +1,48 @@
+[referencia=834a6cf6b786f49d score=1.000]
+### **O movimento Vida Além do Trabalho**
+
+O movimento Vida Além do Trabalho surgiu quando Rick Azevedo, ex-balconista de farmácia, fez um desabafo nas redes sociais sobre as dificuldades de viver sob a escala 6×1. Sua reclamação ressoou com tantos outros brasileiros que trabalham longas jornadas e têm pouco tempo para descansar ou aproveitar a vida. Segundo Azevedo, o nome do movimento, Vida Além do Trabalho, surgiu para resumir a causa. “A ideia é mostrar que as pessoas precisam viver para além do ambiente de trabalho”, afirmou.
+
+Com o apoio de advogados e ativistas, Rick Azevedo estruturou o movimento, buscando formas de pressionar as autoridades para incluir a proposta de redução de jornada na agenda política. João Victor Félix, advogado e amigo de Rick, foi quem sugeriu a criação de um abaixo-assinado para ampliar o alcance da causa. A resposta foi avassaladora: em menos de uma semana, a petição já acumulava 50 mil assinaturas, e esse número cresceu rapidamente nos meses seguintes. Hoje, a campanha é um dos maiores exemplos de mobilização digital pela reforma da jornada de trabalho no Brasil.
+
+---
+
+[referencia=834a6cf6b786f49d score=0.929]
+### **Uma jornada considerada desumana**
+
+Erika Hilton tem utilizado suas redes sociais para mobilizar apoio dos parlamentares, uma vez que, para que a PEC seja formalmente apresentada, é necessário o endosso de 171 deputados. Até o momento, a deputada conseguiu metade das assinaturas, evidenciando a dificuldade, mas também a ressonância do tema. Para Erika, o modelo 6×1 não se encaixa no conceito de dignidade do trabalhador. “Isso tira do trabalhador o direito de passar tempo com sua família, de cuidar de si, de se divertir, de procurar outro emprego ou até mesmo se qualificar para um emprego melhor. A escala 6×1 é uma prisão, e é incompatível com a dignidade do trabalhador”, declarou a parlamentar em uma postagem recente.
+
+A defesa da PEC no Congresso se fortaleceu com o apoio de movimentos como o Vida Além do Trabalho (VAT), liderado por Rick Azevedo, vereador eleito pelo PSOL no Rio de Janeiro. O movimento rapidamente ganhou tração ao lançar uma petição online, que já ultrapassa 1,3 milhão de assinaturas, mostrando que o desejo de flexibilizar a jornada de trabalho é uma demanda crescente entre os brasileiros.
+
+---
+
+[referencia=834a6cf6b786f49d score=0.084]
+# Proposta de Erika Hilton sobre fim da jornada 6×1 repercute e ganha apoio popular
+
+11 novembro 2024 às 11h50
+
+#### COMPARTILHAR
+
+A Proposta de Emenda à Constituição (PEC) da deputada federal Erika Hilton (PSOL-SP) visa revolucionar a jornada de trabalho no Brasil, reduzindo o limite semanal e extinguindo a escala 6×1, que prevê seis dias de trabalho para apenas um de descanso. Com a proposta, a parlamentar defende a possibilidade de mais tempo para o lazer, a qualificação profissional e o convívio familiar. Esse debate dominou as redes sociais neste fim de semana, alcançando o topo dos assuntos mais discutidos na plataforma X, antiga Twitter, onde a PEC ganhou apoio expressivo.
+
+---
+
+[referencia=834a6cf6b786f49d score=0.017]
+### **Estudos internacionais como base de argumentação**
+
+Um estudo realizado no Reino Unido com 2,9 mil pessoas indicou resultados promissores para o modelo 4×3, em que os trabalhadores tinham quatro dias de trabalho e três de descanso. Segundo o estudo, 39% dos participantes relataram uma redução no estresse, e 71% perceberam uma diminuição nos sintomas de burnout, uma das doenças mais comuns associadas ao esgotamento profissional. Empresas que adotaram essa jornada também identificaram benefícios, como menor rotatividade de funcionários e um aumento modesto de 1,4% na receita.
+
+Esses dados são frequentemente citados por Erika Hilton e outros defensores da proposta, que acreditam que a redução da jornada pode ser benéfica tanto para os trabalhadores quanto para as empresas. Ao citar esses exemplos, eles buscam mostrar que um modelo mais flexível de trabalho já vem sendo implementado com sucesso em outros países, e que o Brasil poderia adotar uma solução semelhante para enfrentar os desafios da produtividade e do bem-estar dos trabalhadores.
+
+### Leia também:
+
+Apenas dois deputados goianos assinaram PEC pelo fim da escala 6×1; veja quem são
+
+---
+
+[referencia=834a6cf6b786f49d score=0.000]
+### **A realidade atual e a proposta de mudança**
+
+Atualmente, a Consolidação das Leis do Trabalho (CLT) estipula que a jornada de trabalho no Brasil não deve ultrapassar oito horas diárias e 44 horas semanais, com possibilidades de ajustes mediante acordo coletivo. A proposta da deputada Erika Hilton pretende, inicialmente, reduzir esse limite semanal para 36 horas, mantendo as oito horas diárias, o que permitiria a criação de uma jornada de quatro dias de trabalho por semana. Erika destaca que o número de 36 horas é uma base para o debate, com o objetivo de buscar alternativas que respeitem a vida e a saúde mental dos trabalhadores.
+
+A PEC, porém, precisa superar obstáculos. Mudanças na Constituição exigem não só o apoio de uma parte expressiva dos parlamentares, mas também um consenso sobre a viabilidade econômica dessa nova jornada. Até a última atualização da equipe da deputada, cerca de 100 deputados já haviam manifestado apoio à PEC, em meio à crescente pressão popular e ao debate nas redes.

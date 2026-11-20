@@ -1,0 +1,415 @@
+[referencia=74b46d9019c32b1e score=0.990]
+| (104) | The providers of general-purpose AI models that are released under a free and open-source licence, and whose parameters, including the weights, the information on the model architecture, and the information on model usage, are made publicly available should be subject to exceptions as regards the transparency-related requirements imposed on general-purpose AI models, unless they can be considered to present a systemic risk, in which case the circumstance that the model is transparent and accompanied by an open-source license should not be considered to be a sufficient reason to exclude compliance with the obligations under this Regulation. In any case, given that the release of general-purpose AI models under free and open-source licence does not necessarily reveal substantial information on the data set used for the training or fine-tuning of the model and on how compliance of copyright law was thereby ensured, the exception provided for general-purpose AI models from compliance with the transparency-related requirements should not concern the obligation to produce a summary about the content used for model training and the obligation to put in place a policy to comply with Union copyright law, in particular to identify and comply with the reservation of rights pursuant to Article 4(3) of Directive (EU) 2019/790 of the European Parliament and of the Council (40). |
+
+---
+
+[referencia=74b46d9019c32b1e score=0.969]
+| (105) | General-purpose AI models, in particular large generative AI models, capable of generating text, images, and other content, present unique innovation opportunities but also challenges to artists, authors, and other creators and the way their creative content is created, distributed, used and consumed. The development and training of such models require access to vast amounts of text, images, videos and other data. Text and data mining techniques may be used extensively in this context for the retrieval and analysis of such content, which may be protected by copyright and related rights. Any use of copyright protected content requires the authorisation of the rightsholder concerned unless relevant copyright exceptions and limitations apply. Directive (EU) 2019/790 introduced exceptions and limitations allowing reproductions and extractions of works or other subject matter, for the purpose of text and data mining, under certain conditions. Under these rules, rightsholders may choose to reserve their rights over their works or other subject matter to prevent text and data mining, unless this is done for the purposes of scientific research. Where the rights to opt out has been expressly reserved in an appropriate manner, providers of general-purpose AI models need to obtain an authorisation from rightsholders if they want to carry out text and data mining over such works. | 
+
+| (106) | Providers that place general-purpose AI models on the Union market should ensure compliance with the relevant obligations in this Regulation. To that end, providers of general-purpose AI models should put in place a policy to comply with Union law on copyright and related rights, in particular to identify and comply with the reservation of rights expressed by rightsholders pursuant to Article 4(3) of Directive (EU) 2019/790. Any provider placing a general-purpose AI model on the Union market should comply with this obligation, regardless of the jurisdiction in which the copyright-relevant acts underpinning the training of those general-purpose AI models take place. This is necessary to ensure a level playing field among providers of general-purpose AI models where no provider should be able to gain a competitive advantage in the Union market by applying lower copyright standards than those provided in the Union. |
+
+---
+
+[referencia=74b46d9019c32b1e score=0.854]
+| (107) | In order to increase transparency on the data that is used in the pre-training and training of general-purpose AI models, including text and data protected by copyright law, it is adequate that providers of such models draw up and make publicly available a sufficiently detailed summary of the content used for training the general-purpose AI model. While taking into due account the need to protect trade secrets and confidential business information, this summary should be generally comprehensive in its scope instead of technically detailed to facilitate parties with legitimate interests, including copyright holders, to exercise and enforce their rights under Union law, for example by listing the main data collections or sets that went into training the model, such as large private or public databases or data archives, and by providing a narrative explanation about other data sources used. It is appropriate for the AI Office to provide a template for the summary, which should be simple, effective, and allow the provider to provide the required summary in narrative form. | 
+
+| (108) | With regard to the obligations imposed on providers of general-purpose AI models to put in place a policy to comply with Union copyright law and make publicly available a summary of the content used for the training, the AI Office should monitor whether the provider has fulfilled those obligations without verifying or proceeding to a work-by-work assessment of the training data in terms of copyright compliance. This Regulation does not affect the enforcement of copyright rules as provided for under Union law. | 
+
+| (109) | Compliance with the obligations applicable to the providers of general-purpose AI models should be commensurate and proportionate to the type of model provider, excluding the need for compliance for persons who develop or use models for non-professional or scientific research purposes, who should nevertheless be encouraged to voluntarily comply with these requirements. Without prejudice to Union copyright law, compliance with those obligations should take due account of the size of the provider and allow simplified ways of compliance for SMEs, including start-ups, that should not represent an excessive cost and not discourage the use of such models. In the case of a modification or fine-tuning of a model, the obligations for providers of general-purpose AI models should be limited to that modification or fine-tuning, for example by complementing the already existing technical documentation with information on the modifications, including new training data sources, as a means to comply with the value chain obligations provided in this Regulation. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.814]
+| (18) | In addition to their significance in the context of scientific research, text and data mining techniques are widely used both by private and public entities to analyse large amounts of data in different areas of life and for various purposes, including for government services, complex business decisions and the development of new applications or technologies. Rightholders should remain able to license the uses of their works or other subject matter falling outside the scope of the mandatory exception provided for in this Directive for text and data mining for the purposes of scientific research and of the existing exceptions and limitations provided for in Directive 2001/29/EC. At the same time, consideration should be given to the fact that users of text and data mining could be faced with legal uncertainty as to whether reproductions and extractions made for the purposes of text and data mining can be carried out on lawfully accessed works or other subject matter, in particular when the reproductions or extractions made for the purposes of the technical process do not fulfil all the conditions of the existing exception for temporary acts of reproduction provided for in Article 5(1) of Directive 2001/29/EC. In order to provide for more legal certainty in such cases and to encourage innovation also in the private sector, this Directive should provide, under certain conditions, for an exception or limitation for reproductions and extractions of works or other subject matter, for the purposes of text and data mining, and allow the copies made to be retained for as long as is necessary for those text and data mining purposes. This exception or limitation should only apply where the work or other subject matter is accessed lawfully by the beneficiary, including when it has been made available to the public online, and insofar as the rightholders have not reserved in an appropriate manner the rights to make reproductions and extractions for text and data mining. In the case of content that has been made publicly available online, it should only be considered appropriate to reserve those rights by the use of machine-readable means, including metadata and terms and conditions of a website or a service. Other uses should not be affected by the reservation of rights for the purposes of text and data mining. In other cases, it can be appropriate to reserve the rights by other means, such as contractual agreements or a unilateral declaration. Rightholders should be able to apply measures to ensure that their reservations in this regard are respected.
+
+---
+
+[referencia=74b46d9019c32b1e score=0.428]
+| (ii) | contain, at a minimum, the elements set out in Annex XII; | 
+
+| (c) | put in place a policy to comply with Union law on copyright and related rights, and in particular to identify and comply with, including through state-of-the-art technologies, a reservation of rights expressed pursuant to Article 4(3) of Directive (EU) 2019/790; | 
+
+| (d) | draw up and make publicly available a sufficiently detailed summary about the content used for training of the general-purpose AI model, according to a template provided by the AI Office. | 
+
+2. The obligations set out in paragraph 1, points (a) and (b), shall not apply to providers of AI models that are released under a free and open-source licence that allows for the access, usage, modification, and distribution of the model, and whose parameters, including the weights, the information on the model architecture, and the information on model usage, are made publicly available. This exception shall not apply to general-purpose AI models with systemic risks.
+
+3. Providers of general-purpose AI models shall cooperate as necessary with the Commission and the national competent authorities in the exercise of their competences and powers pursuant to this Regulation.
+
+4. Providers of general-purpose AI models may rely on codes of practice within the meaning of Article 56 to demonstrate compliance with the obligations set out in paragraph 1 of this Article, until a harmonised standard is published. Compliance with European harmonised standards grants providers the presumption of conformity to the extent that those standards cover those obligations. Providers of general-purpose AI models who do not adhere to an approved code of practice or do not comply with a European harmonised standard shall demonstrate alternative adequate means of compliance for assessment by the Commission.
+
+5. For the purpose of facilitating compliance with Annex XI, in particular points 2 (d) and (e) thereof, the Commission is empowered to adopt delegated acts in accordance with Article 97 to detail measurement and calculation methodologies with a view to allowing for comparable and verifiable documentation.
+
+6. The Commission is empowered to adopt delegated acts in accordance with Article 97(2) to amend Annexes XI and XII in light of evolving technological developments.
+
+7. Any information or documentation obtained pursuant to this Article, including trade secrets, shall be treated in accordance with the confidentiality obligations set out in Article 78.
+
+Article 54
+
+Authorised representatives of providers of general-purpose AI models
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.374]
+| (5) | In the fields of research, innovation, education and preservation of cultural heritage, digital technologies permit new types of uses that are not clearly covered by the existing Union rules on exceptions and limitations. In addition, the optional nature of exceptions and limitations provided for in Directives 96/9/EC, 2001/29/EC and 2009/24/EC in those fields could negatively impact the functioning of the internal market. This is particularly relevant as regards cross-border uses, which are becoming increasingly important in the digital environment. Therefore, the existing exceptions and limitations in Union law that are relevant for scientific research, innovation, teaching and preservation of cultural heritage should be reassessed in the light of those new uses. Mandatory exceptions or limitations for uses of text and data mining technologies, illustration for teaching in the digital environment and for preservation of cultural heritage should be introduced. The existing exceptions and limitations in Union law should continue to apply, including to text and data mining, education, and preservation activities, as long as they do not limit the scope of the mandatory exceptions or limitations provided for in this Directive, which need to be implemented by Member States in their national law. Directives 96/9/EC and 2001/29/EC should, therefore, be amended. | 
+
+| (6) | The exceptions and limitations provided for in this Directive seek to achieve a fair balance between the rights and interests of authors and other rightholders, on the one hand, and of users on the other. They can be applied only in certain special cases that do not conflict with the normal exploitation of the works or other subject matter and do not unreasonably prejudice the legitimate interests of the rightholders. |
+
+---
+
+[referencia=74b46d9019c32b1e score=0.237]
+4. Deployers of an AI system that generates or manipulates image, audio or video content constituting a deep fake, shall disclose that the content has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offence. Where the content forms part of an evidently artistic, creative, satirical, fictional or analogous work or programme, the transparency obligations set out in this paragraph are limited to disclosure of the existence of such generated or manipulated content in an appropriate manner that does not hamper the display or enjoyment of the work.
+
+Deployers of an AI system that generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offences or where the AI-generated content has undergone a process of human review or editorial control and where a natural or legal person holds editorial responsibility for the publication of the content.
+
+5. The information referred to in paragraphs 1 to 4 shall be provided to the natural persons concerned in a clear and distinguishable manner at the latest at the time of the first interaction or exposure. The information shall conform to the applicable accessibility requirements.
+
+6. Paragraphs 1 to 4 shall not affect the requirements and obligations set out in Chapter III, and shall be without prejudice to other transparency obligations laid down in Union or national law for deployers of AI systems.
+
+7. The AI Office shall encourage and facilitate the drawing up of codes of practice at Union level to facilitate the effective implementation of the obligations regarding the detection and labelling of artificially generated or manipulated content. The Commission may adopt implementing acts to approve those codes of practice in accordance with the procedure laid down in Article 56 (6). If it deems the code is not adequate, the Commission may adopt an implementing act specifying common rules for the implementation of those obligations in accordance with the examination procedure laid down in Article 98(2).
+
+CHAPTER V
+
+GENERAL-PURPOSE AI MODELS
+
+Classification rules
+
+Article 51
+
+Classification of general-purpose AI models as general-purpose AI models with systemic risk
+
+1. A general-purpose AI model shall be classified as a general-purpose AI model with systemic risk if it meets any of the following conditions:
+
+| (a) | it has high impact capabilities evaluated on the basis of appropriate technical tools and methodologies, including indicators and benchmarks; |
+
+---
+
+[referencia=74b46d9019c32b1e score=0.221]
+| (a) | harmonised rules for the placing on the market, the putting into service, and the use of AI systems in the Union; | 
+
+| (b) | prohibitions of certain AI practices; | 
+
+| (c) | specific requirements for high-risk AI systems and obligations for operators of such systems; | 
+
+| (d) | harmonised transparency rules for certain AI systems; | 
+
+| (e) | harmonised rules for the placing on the market of general-purpose AI models; | 
+
+| (f) | rules on market monitoring, market surveillance, governance and enforcement; | 
+
+| (g) | measures to support innovation, with a particular focus on SMEs, including start-ups. | 
+
+Article 2
+
+Scope
+
+1. This Regulation applies to:
+
+| (a) | providers placing on the market or putting into service AI systems or placing on the market general-purpose AI models in the Union, irrespective of whether those providers are established or located within the Union or in a third country; | 
+
+| (b) | deployers of AI systems that have their place of establishment or are located within the Union; | 
+
+| (c) | providers and deployers of AI systems that have their place of establishment or are located in a third country, where the output produced by the AI system is used in the Union; | 
+
+| (d) | importers and distributors of AI systems; | 
+
+| (e) | product manufacturers placing on the market or putting into service an AI system together with their product and under their own name or trademark; | 
+
+| (f) | authorised representatives of providers, which are not established in the Union; | 
+
+| (g) | affected persons that are located in the Union. | 
+
+2. For AI systems classified as high-risk AI systems in accordance with Article 6(1) related to products covered by the Union harmonisation legislation listed in Section B of Annex I, only Article 6(1), Articles 102 to 109 and Article 112 apply. Article 57 applies only in so far as the requirements for high-risk AI systems under this Regulation have been integrated in that Union harmonisation legislation.
+
+3. This Regulation does not apply to areas outside the scope of Union law, and shall not, in any event, affect the competences of the Member States concerning national security, regardless of the type of entity entrusted by the Member States with carrying out tasks in relation to those competences.
+
+---
+
+[referencia=74b46d9019c32b1e score=0.201]
+| (a) | infringed the relevant provisions of this Regulation; | 
+
+| (b) | failed to comply with a request for a document or for information pursuant to Article 91, or supplied incorrect, incomplete or misleading information; | 
+
+| (c) | failed to comply with a measure requested under Article 93; | 
+
+| (d) | failed to make available to the Commission access to the general-purpose AI model or general-purpose AI model with systemic risk with a view to conducting an evaluation pursuant to Article 92. | 
+
+In fixing the amount of the fine or periodic penalty payment, regard shall be had to the nature, gravity and duration of the infringement, taking due account of the principles of proportionality and appropriateness. The Commission shall also into account commitments made in accordance with Article 93(3) or made in relevant codes of practice in accordance with Article 56.
+
+2. Before adopting the decision pursuant to paragraph 1, the Commission shall communicate its preliminary findings to the provider of the general-purpose AI model and give it an opportunity to be heard.
+
+3. Fines imposed in accordance with this Article shall be effective, proportionate and dissuasive.
+
+4. Information on fines imposed under this Article shall also be communicated to the Board as appropriate.
+
+5. The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions of the Commission fixing a fine under this Article. It may cancel, reduce or increase the fine imposed.
+
+6. The Commission shall adopt implementing acts containing detailed arrangements and procedural safeguards for proceedings in view of the possible adoption of decisions pursuant to paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2).
+
+CHAPTER XIII
+
+FINAL PROVISIONS
+
+Article 102
+
+Amendment to Regulation (EC) No 300/2008
+
+In Article 4(3) of Regulation (EC) No 300/2008, the following subparagraph is added:
+
+‘When adopting detailed measures related to technical specifications and procedures for approval and use of security equipment concerning Artificial Intelligence systems within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council (*), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+
+Article 103
+
+Amendment to Regulation (EU) No 167/2013
+
+---
+
+[referencia=74b46d9019c32b1e score=0.199]
+| (e) | any similar previous infringements by the Union institution, body, office or agency; | 
+
+| (f) | the manner in which the infringement became known to the European Data Protection Supervisor, in particular whether, and if so to what extent, the Union institution, body, office or agency notified the infringement; | 
+
+| (g) | the annual budget of the Union institution, body, office or agency. | 
+
+2. Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to EUR 1 500 000.
+
+3. The non-compliance of the AI system with any requirements or obligations under this Regulation, other than those laid down in Article 5, shall be subject to administrative fines of up to EUR 750 000.
+
+4. Before taking decisions pursuant to this Article, the European Data Protection Supervisor shall give the Union institution, body, office or agency which is the subject of the proceedings conducted by the European Data Protection Supervisor the opportunity of being heard on the matter regarding the possible infringement. The European Data Protection Supervisor shall base his or her decisions only on elements and circumstances on which the parties concerned have been able to comment. Complainants, if any, shall be associated closely with the proceedings.
+
+5. The rights of defence of the parties concerned shall be fully respected in the proceedings. They shall be entitled to have access to the European Data Protection Supervisor’s file, subject to the legitimate interest of individuals or undertakings in the protection of their personal data or business secrets.
+
+6. Funds collected by imposition of fines in this Article shall contribute to the general budget of the Union. The fines shall not affect the effective operation of the Union institution, body, office or agency fined.
+
+7. The European Data Protection Supervisor shall, on an annual basis, notify the Commission of the administrative fines it has imposed pursuant to this Article and of any litigation or judicial proceedings it has initiated.
+
+Article 101
+
+Fines for providers of general-purpose AI models
+
+1. The Commission may impose on providers of general-purpose AI models fines not exceeding 3 % of their annual total worldwide turnover in the preceding financial year or EUR 15 000 000, whichever is higher., when the Commission finds that the provider intentionally or negligently:
+
+| (a) | infringed the relevant provisions of this Regulation; |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.178]
+| (9) | Text and data mining can also be carried out in relation to mere facts or data that are not protected by copyright, and in such instances no authorisation is required under copyright law. There can also be instances of text and data mining that do not involve acts of reproduction or where the reproductions made fall under the mandatory exception for temporary acts of reproduction provided for in Article 5(1) of Directive 2001/29/EC, which should continue to apply to text and data mining techniques that do not involve the making of copies beyond the scope of that exception. | 
+
+| (10) | Union law provides for certain exceptions and limitations covering uses for scientific research purposes which may apply to acts of text and data mining. However, those exceptions and limitations are optional and not fully adapted to the use of technologies in scientific research. Moreover, where researchers have lawful access to content, for example through subscriptions to publications or open access licences, the terms of the licences could exclude text and data mining. As research is increasingly carried out with the assistance of digital technology, there is a risk that the Union's competitive position as a research area will suffer, unless steps are taken to address the legal uncertainty concerning text and data mining. | 
+
+| (11) | The legal uncertainty concerning text and data mining should be addressed by providing for a mandatory exception for universities and other research organisations, as well as for cultural heritage institutions, to the exclusive right of reproduction and to the right to prevent extraction from a database. In line with the existing Union research policy, which encourages universities and research institutes to collaborate with the private sector, research organisations should also benefit from such an exception when their research activities are carried out in the framework of public-private partnerships. While research organisations and cultural heritage institutions should continue to be the beneficiaries of that exception, they should also be able to rely on their private partners for carrying out text and data mining, including by using their technological tools. |
+
+---
+
+[referencia=74b46d9019c32b1e score=0.177]
+Article 86
+
+Right to explanation of individual decision-making
+
+1. Any affected person subject to a decision which is taken by the deployer on the basis of the output from a high-risk AI system listed in Annex III, with the exception of systems listed under point 2 thereof, and which produces legal effects or similarly significantly affects that person in a way that they consider to have an adverse impact on their health, safety or fundamental rights shall have the right to obtain from the deployer clear and meaningful explanations of the role of the AI system in the decision-making procedure and the main elements of the decision taken.
+
+2. Paragraph 1 shall not apply to the use of AI systems for which exceptions from, or restrictions to, the obligation under that paragraph follow from Union or national law in compliance with Union law.
+
+3. This Article shall apply only to the extent that the right referred to in paragraph 1 is not otherwise provided for under Union law.
+
+Article 87
+
+Reporting of infringements and protection of reporting persons
+
+Directive (EU) 2019/1937 shall apply to the reporting of infringements of this Regulation and the protection of persons reporting such infringements.
+
+Supervision, investigation, enforcement and monitoring in respect of providers of general-purpose AI models
+
+Article 88
+
+Enforcement of the obligations of providers of general-purpose AI models
+
+1. The Commission shall have exclusive powers to supervise and enforce Chapter V, taking into account the procedural guarantees under Article 94. The Commission shall entrust the implementation of these tasks to the AI Office, without prejudice to the powers of organisation of the Commission and the division of competences between Member States and the Union based on the Treaties.
+
+2. Without prejudice to Article 75(3), market surveillance authorities may request the Commission to exercise the powers laid down in this Section, where that is necessary and proportionate to assist with the fulfilment of their tasks under this Regulation.
+
+Article 89
+
+Monitoring actions
+
+1. For the purpose of carrying out the tasks assigned to it under this Section, the AI Office may take the necessary actions to monitor the effective implementation and compliance with this Regulation by providers of general-purpose AI models, including their adherence to approved codes of practice.
+
+2. Downstream providers shall have the right to lodge a complaint alleging an infringement of this Regulation. A complaint shall be duly reasoned and indicate at least:
+
+| (a) | the point of contact of the provider of the general-purpose AI model concerned; |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.174]
+| (15) | Research organisations and cultural heritage institutions could in certain cases, for example for subsequent verification of scientific research results, need to retain copies made under the exception for the purposes of carrying out text and data mining. In such cases, the copies should be stored in a secure environment. Member States should be free to decide, at national level and after discussions with relevant stakeholders, on further specific arrangements for retaining the copies, including the ability to appoint trusted bodies for the purpose of storing such copies. In order not to unduly restrict the application of the exception, such arrangements should be proportionate and limited to what is needed for retaining the copies in a safe manner and preventing unauthorised use. Uses for the purpose of scientific research, other than text and data mining, such as scientific peer review and joint research, should remain covered, where applicable, by the exception or limitation provided for in Article 5(3)(a) of Directive 2001/29/EC. | 
+
+| (16) | In view of a potentially high number of access requests to, and downloads of, their works or other subject matter, rightholders should be allowed to apply measures when there is a risk that the security and integrity of their systems or databases could be jeopardised. Such measures could, for example, be used to ensure that only persons having lawful access to their data can access them, including through IP address validation or user authentication. Those measures should remain proportionate to the risks involved, and should not exceed what is necessary to pursue the objective of ensuring the security and integrity of the system and should not undermine the effective application of the exception. | 
+
+| (17) | In view of the nature and scope of the exception, which is limited to entities carrying out scientific research, any potential harm created to rightholders through this exception would be minimal. Member States should, therefore, not provide for compensation for rightholders as regards uses under the text and data mining exceptions introduced by this Directive. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.166]
+| (2) | ‘text and data mining’ means any automated analytical technique aimed at analysing text and data in digital form in order to generate information which includes but is not limited to patterns, trends and correlations; | 
+
+| (3) | ‘cultural heritage institution’ means a publicly accessible library or museum, an archive or a film or audio heritage institution; | 
+
+| (4) | ‘press publication’ means a collection composed mainly of literary works of a journalistic nature, but which can also include other works or other subject matter, and which: Periodicals that are published for scientific or academic purposes, such as scientific journals, are not press publications for the purposes of this Directive; | 
+
+| (a) | constitutes an individual item within a periodical or regularly updated publication under a single title, such as a newspaper or a general or special interest magazine; | 
+
+| (b) | has the purpose of providing the general public with information related to news or other topics; and | 
+
+| (c) | is published in any media under the initiative, editorial responsibility and control of a service provider. | 
+
+| (5) | ‘information society service’ means a service within the meaning of point (b) of Article 1(1) of Directive (EU) 2015/1535; | 
+
+| (6) | ‘online content-sharing service provider’ means a provider of an information society service of which the main or one of the main purposes is to store and give the public access to a large amount of copyright-protected works or other protected subject matter uploaded by its users, which it organises and promotes for profit-making purposes. Providers of services, such as not-for-profit online encyclopedias, not-for-profit educational and scientific repositories, open source software-developing and-sharing platforms, providers of electronic communications services as defined in Directive (EU) 2018/1972, online marketplaces, business-to-business cloud services and cloud services that allow users to upload content for their own use, are not ‘online content-sharing service providers’ within the meaning of this Directive. | 
+
+TITLE II
+
+MEASURES TO ADAPT EXCEPTIONS AND LIMITATIONS TO THE DIGITAL AND CROSS-BORDER ENVIRONMENT
+
+Article 3
+
+Text and data mining for the purposes of scientific research
+
+---
+
+[referencia=74b46d9019c32b1e score=0.155]
+7. Interoperability
+
+| (a) | Regulation (EU) 2019/817 of the European Parliament and of the Council of 20 May 2019 on establishing a framework for interoperability between EU information systems in the field of borders and visa and amending Regulations (EC) No 767/2008, (EU) 2016/399, (EU) 2017/2226, (EU) 2018/1240, (EU) 2018/1726 and (EU) 2018/1861 of the European Parliament and of the Council and Council Decisions 2004/512/EC and 2008/633/JHA (OJ L 135, 22.5.2019, p. 27). | 
+
+| (b) | Regulation (EU) 2019/818 of the European Parliament and of the Council of 20 May 2019 on establishing a framework for interoperability between EU information systems in the field of police and judicial cooperation, asylum and migration and amending Regulations (EU) 2018/1726, (EU) 2018/1862 and (EU) 2019/816 (OJ L 135, 22.5.2019, p. 85). | 
+
+ANNEX XI
+
+Technical documentation referred to in Article 53(1), point (a) — technical documentation for providers of general-purpose AI models
+
+Section 1
+
+Information to be provided by all providers of general-purpose AI models
+
+The technical documentation referred to in Article 53(1), point (a) shall contain at least the following information as appropriate to the size and risk profile of the model:
+
+| 1. | A general description of the general-purpose AI model including: | 
+
+| (a) | the tasks that the model is intended to perform and the type and nature of AI systems in which it can be integrated; | 
+
+| (b) | the acceptable use policies applicable; | 
+
+| (c) | the date of release and methods of distribution; | 
+
+| (d) | the architecture and number of parameters; | 
+
+| (e) | the modality (e.g. text, image) and format of inputs and outputs; | 
+
+| (f) | the licence. |
+
+---
+
+[referencia=74b46d9019c32b1e score=0.154]
+Obligations of providers of general-purpose AI models with systemic risk
+
+Article 55
+
+1. In addition to the obligations listed in Articles 53 and 54, providers of general-purpose AI models with systemic risk shall:
+
+| (a) | perform model evaluation in accordance with standardised protocols and tools reflecting the state of the art, including conducting and documenting adversarial testing of the model with a view to identifying and mitigating systemic risks; | 
+
+| (b) | assess and mitigate possible systemic risks at Union level, including their sources, that may stem from the development, the placing on the market, or the use of general-purpose AI models with systemic risk; | 
+
+| (c) | keep track of, document, and report, without undue delay, to the AI Office and, as appropriate, to national competent authorities, relevant information about serious incidents and possible corrective measures to address them; | 
+
+| (d) | ensure an adequate level of cybersecurity protection for the general-purpose AI model with systemic risk and the physical infrastructure of the model. | 
+
+2. Providers of general-purpose AI models with systemic risk may rely on codes of practice within the meaning of Article 56 to demonstrate compliance with the obligations set out in paragraph 1 of this Article, until a harmonised standard is published. Compliance with European harmonised standards grants providers the presumption of conformity to the extent that those standards cover those obligations. Providers of general-purpose AI models with systemic risks who do not adhere to an approved code of practice or do not comply with a European harmonised standard shall demonstrate alternative adequate means of compliance for assessment by the Commission.
+
+3. Any information or documentation obtained pursuant to this Article, including trade secrets, shall be treated in accordance with the confidentiality obligations set out in Article 78.
+
+Codes of practice
+
+Article 56
+
+1. The AI Office shall encourage and facilitate the drawing up of codes of practice at Union level in order to contribute to the proper application of this Regulation, taking into account international approaches.
+
+2. The AI Office and the Board shall aim to ensure that the codes of practice cover at least the obligations provided for in Articles 53 and 55, including the following issues:
+
+| (a) | the means to ensure that the information referred to in Article 53(1), points (a) and (b), is kept up to date in light of market and technological developments; | 
+
+| (b) | the adequate level of detail for the summary about the content used for training; |
+
+---
+
+[referencia=74b46d9019c32b1e score=0.142]
+| (vi) | trends on the evolving typology of AI value chains, in particular on the resulting implications in terms of accountability; | 
+
+| (vii) | on the potential need for amendment to Annex III in accordance with Article 7, and on the potential need for possible revision of Article 5 pursuant to Article 112, taking into account relevant available evidence and the latest developments in technology; | 
+
+| (f) | support the Commission in promoting AI literacy, public awareness and understanding of the benefits, risks, safeguards and rights and obligations in relation to the use of AI systems; | 
+
+| (g) | facilitate the development of common criteria and a shared understanding among market operators and competent authorities of the relevant concepts provided for in this Regulation, including by contributing to the development of benchmarks; | 
+
+| (h) | cooperate, as appropriate, with other Union institutions, bodies, offices and agencies, as well as relevant Union expert groups and networks, in particular in the fields of product safety, cybersecurity, competition, digital and media services, financial services, consumer protection, data and fundamental rights protection; | 
+
+| (i) | contribute to effective cooperation with the competent authorities of third countries and with international organisations; | 
+
+| (j) | assist national competent authorities and the Commission in developing the organisational and technical expertise required for the implementation of this Regulation, including by contributing to the assessment of training needs for staff of Member States involved in implementing this Regulation; | 
+
+| (k) | assist the AI Office in supporting national competent authorities in the establishment and development of AI regulatory sandboxes, and facilitate cooperation and information-sharing among AI regulatory sandboxes; | 
+
+| (l) | contribute to, and provide relevant advice on, the development of guidance documents; | 
+
+| (m) | advise the Commission in relation to international matters on AI; | 
+
+| (n) | provide opinions to the Commission on the qualified alerts regarding general-purpose AI models; | 
+
+| (o) | receive opinions by the Member States on qualified alerts regarding general-purpose AI models, and on national experiences and practices on the monitoring and enforcement of AI systems, in particular systems integrating the general-purpose AI models. | 
+
+Article 67
+
+Advisory forum
+
+---
+
+[referencia=74b46d9019c32b1e score=0.139]
+| (d) | the architecture and number of parameters; | 
+
+| (e) | the modality (e.g. text, image) and format of inputs and outputs; | 
+
+| (f) | the licence. | 
+
+| 2. | A detailed description of the elements of the model referred to in point 1, and relevant information of the process for the development, including the following elements: With regard to point (e), where the energy consumption of the model is unknown, the energy consumption may be based on information about computational resources used. | 
+
+| (a) | the technical means (e.g. instructions of use, infrastructure, tools) required for the general-purpose AI model to be integrated in AI systems; | 
+
+| (b) | the design specifications of the model and training process, including training methodologies and techniques, the key design choices including the rationale and assumptions made; what the model is designed to optimise for and the relevance of the different parameters, as applicable; | 
+
+| (c) | information on the data used for training, testing and validation, where applicable, including the type and provenance of data and curation methodologies (e.g. cleaning, filtering, etc.), the number of data points, their scope and main characteristics; how the data was obtained and selected as well as all other measures to detect the unsuitability of data sources and methods to detect identifiable biases, where applicable; | 
+
+| (d) | the computational resources used to train the model (e.g. number of floating point operations), training time, and other relevant details related to the training; | 
+
+| (e) | known or estimated energy consumption of the model. | 
+
+Section 2
+
+Additional information to be provided by providers of general-purpose AI models with systemic risk
+
+|  | 1. | A detailed description of the evaluation strategies, including evaluation results, on the basis of available public evaluation protocols and tools or otherwise of other evaluation methodologies. Evaluation strategies shall include evaluation criteria, metrics and the methodology on the identification of limitations. | 
+
+|  | 2. | Where applicable, a detailed description of the measures put in place for the purpose of conducting internal and/or external adversarial testing (e.g. red teaming), model adaptations, including alignment and fine-tuning. | 
+
+|  | 3. | Where applicable, a detailed description of the system architecture explaining how software components build or feed into each other and integrate into the overall processing. |
+
+---
+
+[referencia=74b46d9019c32b1e score=0.129]
+| (113) | If the Commission becomes aware of the fact that a general-purpose AI model meets the requirements to classify as a general-purpose AI model with systemic risk, which previously had either not been known or of which the relevant provider has failed to notify the Commission, the Commission should be empowered to designate it so. A system of qualified alerts should ensure that the AI Office is made aware by the scientific panel of general-purpose AI models that should possibly be classified as general-purpose AI models with systemic risk, in addition to the monitoring activities of the AI Office. | 
+
+| (114) | The providers of general-purpose AI models presenting systemic risks should be subject, in addition to the obligations provided for providers of general-purpose AI models, to obligations aimed at identifying and mitigating those risks and ensuring an adequate level of cybersecurity protection, regardless of whether it is provided as a standalone model or embedded in an AI system or a product. To achieve those objectives, this Regulation should require providers to perform the necessary model evaluations, in particular prior to its first placing on the market, including conducting and documenting adversarial testing of models, also, as appropriate, through internal or independent external testing. In addition, providers of general-purpose AI models with systemic risks should continuously assess and mitigate systemic risks, including for example by putting in place risk-management policies, such as accountability and governance processes, implementing post-market monitoring, taking appropriate measures along the entire model’s lifecycle and cooperating with relevant actors along the AI value chain. |
+
+---
+
+[referencia=74b46d9019c32b1e score=0.118]
+| (67) | High-quality data and access to high-quality data plays a vital role in providing structure and in ensuring the performance of many AI systems, especially when techniques involving the training of models are used, with a view to ensure that the high-risk AI system performs as intended and safely and it does not become a source of discrimination prohibited by Union law. High-quality data sets for training, validation and testing require the implementation of appropriate data governance and management practices. Data sets for training, validation and testing, including the labels, should be relevant, sufficiently representative, and to the best extent possible free of errors and complete in view of the intended purpose of the system. In order to facilitate compliance with Union data protection law, such as Regulation (EU) 2016/679, data governance and management practices should include, in the case of personal data, transparency about the original purpose of the data collection. The data sets should also have the appropriate statistical properties, including as regards the persons or groups of persons in relation to whom the high-risk AI system is intended to be used, with specific attention to the mitigation of possible biases in the data sets, that are likely to affect the health and safety of persons, have a negative impact on fundamental rights or lead to discrimination prohibited under Union law, especially where data outputs influence inputs for future operations (feedback loops). Biases can for example be inherent in underlying data sets, especially when historical data is being used, or generated when the systems are implemented in real world settings. Results provided by AI systems could be influenced by such inherent biases that are inclined to gradually increase and thereby perpetuate and amplify existing discrimination, in particular for persons belonging to certain vulnerable groups, including racial or ethnic groups. The requirement for the data sets to be to the best extent possible complete and free of errors should not affect the use of privacy-preserving techniques in the context of the development and testing of AI systems. In particular, data sets should take into account, to the extent required by their intended purpose, the features, characteristics or elements that are particular to the specific geographical, contextual, behavioural or functional setting which the AI system is intended to be used. The requirements related to data governance can be complied with by having recourse to third parties that offer certified compliance services including verification of data governance, data set integrity, and data training, validation and testing practices, as far as compliance with the data requirements of this Regulation are ensured. |

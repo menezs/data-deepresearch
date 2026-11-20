@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T130659Z-26",
+  "passages": [
+    {
+      "reference_chunk_id": "6c1c3721703b53d3-0",
+      "reference_id": "6c1c3721703b53d3",
+      "score": 0.9995421171188354,
+      "text": "The union representing 160,000 actors and performers is alleging that Fortnite’s new AI-powered Darth Vader unlawfully infringes on their members’ labor rights.\n\nSAG-AFTRA said in a statement Monday that it had filed an unfair labor practice charge with the National Labor Relations Board after Llama Productions LLC, which is owned by Fortnite-developer Epic Games, refused to bargain over the terms of conditions of launching the new AI product.\n\nThe AI-powered version of late actor James Earl Jones’s voice will take away work traditionally performed by union members, “including those who previously did the work of matching Darth Vader’s iconic rhythm ...\n\n## Learn more about Bloomberg Law or Log In to keep reading:\n\n### See Breaking News in Context\n\nBloomberg Law provides trusted coverage of current events enhanced with legal analysis.\n\n### Already a subscriber?\n\nLog in to keep reading or access research tools and resources."
+    }
+  ],
+  "assembled_context": "[referencia=6c1c3721703b53d3 score=1.000]\nThe union representing 160,000 actors and performers is alleging that Fortnite’s new AI-powered Darth Vader unlawfully infringes on their members’ labor rights.\n\nSAG-AFTRA said in a statement Monday that it had filed an unfair labor practice charge with the National Labor Relations Board after Llama Productions LLC, which is owned by Fortnite-developer Epic Games, refused to bargain over the terms of conditions of launching the new AI product.\n\nThe AI-powered version of late actor James Earl Jones’s voice will take away work traditionally performed by union members, “including those who previously did the work of matching Darth Vader’s iconic rhythm ...\n\n## Learn more about Bloomberg Law or Log In to keep reading:\n\n### See Breaking News in Context\n\nBloomberg Law provides trusted coverage of current events enhanced with legal analysis.\n\n### Already a subscriber?\n\nLog in to keep reading or access research tools and resources.",
+  "skip_reason": null
+}

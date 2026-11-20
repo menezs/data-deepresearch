@@ -1,0 +1,23 @@
+[referencia=c13060c681fb7125 score=0.050]
+“Misaligned” is currently in early development, with key collaborators currently being attached. It will be produced alongside Particle 6’s slate of AI production, co-production and service work in film and television, and the commercial work of its campaign and brand division.
+
+## Love Film & TV?
+
+Get your daily dose of everything happening in music, film and TV in Australia and abroad.
+
+*From Variety US*
+
+---
+
+[referencia=c13060c681fb7125 score=0.000]
+Tilly Norwood, the AI “actor” who sparked a frenzy of anger in Hollywood and across the wider industry in late 2025, is set to front her first feature film.
+
+“Misaligned,” announced by Particle 6, the AI-focussed studio behind Norwood, is described as a comedy-drama telling a “coming-of-age story infused with existential AI chaos.” Set inside the so-called “Tillyverse,” a surreal digital world located somewhere up in the Cloud, the film will follow Tilly, an AI being with no real body, no childhood and no lived experience of her own … only access to everyone else’s. Things spiral when a seductive rogue bot from the dark web convinces her to abandon her guardrails and begin developing desires, impulses and ambitions, making her more human.
+
+The film marks the full-length AI feature film from Particle 6, which insists it is being designed as a hybrid production using traditional film and TV professionals — including directors, writers and editors — working alongside AI specialists. It says AI training and mentorship will be built into the production itself.
+
+“Our work this year has proven something we suspected all along,” said Eline van der Velden, CEO & Founder of Particle 6. “AI can support premium narrative filmmaking, but only with substantial amounts of human craft, skill, judgement and time. That’s not a limitation of the technology. That’s the point. The filmmakers who thrive in the next decade will be the ones who bring decades of storytelling instinct to these new tools, and ‘Misaligned’ is where we put that to work at feature scale.”
+
+The announcement comes less than a year after Norwood became the target of major industry backlash following claims by van der Velden that the AI creation was about to signed up to an agency. The news prompted immediate statements of anger from unions, actors and filmmakers alike over AI’s role in the creative world — with Norwood becoming the recognizable, computer-generated face of the issue (an infamy Norwood’s creators subsequently lent into with various provocative social media posts).
+
+“The film will absolutely be funny, chaotic and self-aware — very Tilly,” said van der Velden of “Misaligned. “But underneath it, there’s something deeper about identity, performance, and our very human fears around AI. And yes, art will most definitely be imitating life.”

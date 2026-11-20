@@ -1,0 +1,806 @@
+[
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-0",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 0,
+    "text": "O câncer do colo do útero, também denominado neoplasia cérvico-vaginal, permanece como um dos maiores desafios de saúde pública global, figurando entre as principais causas de morbimortalidade por neoplasias na população feminina mundial.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "7c759b52d0a0168c"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-1",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 1,
+    "text": "Estimativas internacionais indicam que, no ano de 2022, foram registrados aproximadamente 660.000 novos casos e cerca de 350.000 óbitos decorrentes dessa enfermidade em todo o planeta.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "f4a3d78ffd526476"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-2",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 2,
+    "text": "Trata-se de uma patologia marcada por profundas iniquidades socioeconômicas, na qual os países de baixa e média renda suportam a maior fatia da carga da doença, registrando taxas de incidência de 17,8 casos por 100 mil mulheres e taxas de mortalidade de 11,5 por 100 mil, em contraste com as médias globais de 13,3 e 7,3 por 100 mil, respectivamente.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "46be73ec77b9e337"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-3",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 3,
+    "text": "Em regiões altamente vulneráveis, como a África Subsaariana, a América Central e o Sudeste Asiático, a conjunção de barreiras no acesso a exames preventivos, o diagnóstico em estágios avançados, a alta prevalência de coinfecção pelo vírus da imunodeficiência humana e os baixos índices de cobertura vacinal amplificam significativamente o impacto demográfico do câncer cervical.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "46be73ec77b9e337"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-4",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 4,
+    "text": "Para o triênio compreendido entre 2026 e 2028, o Instituto Nacional de Câncer estima o aparecimento de 19.300 novos casos anuais de câncer do colo do útero no país.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102aebd27d310e7d"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-5",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 5,
+    "text": "Excluídos os tumores de pele não melanoma, a neoplasia cervical consolida-se como o terceiro tipo de câncer mais incidente entre as mulheres brasileiras, correspondendo a aproximadamente 7,4% de todos os diagnósticos oncogênicos femininos, em um contexto no qual o país projeta registrar 781 mil novos casos de câncer por ano no mesmo período.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "8865c762422d433b"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-6",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 6,
+    "text": "No que tange à mortalidade, dados do Sistema de Informações sobre Mortalidade revelaram que, somente no ano de 2025, o câncer do colo do útero foi a causa direta do óbito de 7.240 mulheres no território nacional.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102aebd27d310e7d"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-7",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 7,
+    "text": "Na Região Norte, o câncer do colo do útero figura em primeiro lugar na incidência de tumores malignos e representa a causa primária de morte por neoplasias na população feminina, sendo responsável por 15,4% do total de óbitos por câncer em mulheres nessa localidade, com uma taxa de mortalidade ajustada que varia entre 9,07 e 9,52 óbitos por 100 mil mulheres.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "8865c762422d433b"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-8",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 8,
+    "text": "Em contrapartida, nas regiões Sul e Sudeste, a doença ocupa a quinta e a sexta posições no ranking de mortalidade oncogênica feminina, apresentando taxas ajustadas substancialmente menores, de 4,47 e 3,27 por 100 mil mulheres, respectivamente.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8b883383264ea1b9"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-9",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 9,
+    "text": "Em 2022, a distribuição dos centros especializados de tratamento oncologicamente estruturados no Brasil revelava uma forte concentração no Sudeste, que sediava 48% das unidades, e no Sul, com 24%, enquanto o Nordeste detinha 18% e a Região Norte sofria com escassez de infraestrutura e severos obstáculos geográficos para o deslocamento de pacientes.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "0e11515b7f3f699b"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-10",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 10,
+    "text": "O HPV é um vírus não envelopado, composto por uma fita dupla de ácido desoxirribonucleico e por um capsídeo de simetria icosaédrica estruturado pela proteína L1.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-11",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 11,
+    "text": "Pertencente à família Papillomaviridae, o vírus exibe estrito tropismo por células epiteliais da pele e das mucosas anogenital e orofaríngea.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-12",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 12,
+    "text": "Mais de 200 genótipos de HPV já foram isolados e caracterizados geneticamente.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-13",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 13,
+    "text": "A Organização Mundial da Saúde define 12 genótipos como comprovadamente oncogênicos de alto risco para seres humanos, quais sejam: HPV 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58 e 59, acrescidos do tipo 68, classificado como de provável risco carcinogênico.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-14",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 14,
+    "text": "Juntos, eles são os agentes etiológicos diretos de cerca de 70% de todas as neoplasias invasivas do colo do útero registradas globalmente, sendo o HPV 16 o genótipo mais prevalente em todas as regiões geográficas do mundo.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-15",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 15,
+    "text": "Como a proteína E2 atua como um repressor transcricional fisiológico das oncoproteínas virais E6 e E7, a sua inativação resulta na superexpressão descontrolada de E6 e E7 no epitélio hospedeiro.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "f4a3d78ffd526476"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-16",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 16,
+    "text": "A oncoproteína E6 liga-se à proteína supressora de tumor p53 humana, direcionando-a para a degradação proteassômica mediada por ubiquitinação.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "f4a3d78ffd526476"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-17",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 17,
+    "text": "A perda da p53 anula os mecanismos de reparo do DNA e a apoptose induzida por danos genômicos.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "f4a3d78ffd526476"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-18",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 18,
+    "text": "Paralelamente, a oncoproteína E7 associa-se à proteína do retinoblastoma (pRb), promovendo a sua hiperfosforilação e a liberação descontrolada do fator de transcrição E2F.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "f4a3d78ffd526476"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-19",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 19,
+    "text": "Esse processo força a transição do ciclo celular da fase G1 para a fase S de proliferação atípica.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "f4a3d78ffd526476"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-20",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 20,
+    "text": "As alterações teciduais evoluem progressivamente ao longo de um espectro histopatológico caracterizado pelas Neoplasias Intraepiteliais Cervicais, classificadas em NIC 1 (displasia leve com proliferação restrita ao terço basal do epitélio), NIC 2 (displasia moderada) e NIC 3 (displasia grave ou carcinoma in situ, envolvendo toda a espessura do epitélio).",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "785e716745173db3"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-21",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 21,
+    "text": "O início precoce da vida sexual e a multiplicidade de parceiros aumentam a probabilidade de exposição continuada a múltiplos genótipos virais.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "0e11515b7f3f699b"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-22",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 22,
+    "text": "A elevada paridade e o uso prolongado de contraceptivos orais por mais de cinco anos estão associados a alterações hormonais que podem facilitar a penetração e a expressão viral no tecido cervical.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "0e11515b7f3f699b"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-23",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 23,
+    "text": "O tabagismo desempenha um papel deletério direto: compostos carcinogênicos derivados do cigarro concentram-se no muco cérvico-vaginal, diminuindo a densidade de células de Langerhans e comprometendo a imunidade celular local, o que eleva o risco de progressão tumoral de forma proporcional ao consumo diário de cigarros.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "0e11515b7f3f699b"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-24",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 24,
+    "text": "Mulheres vivendo com o vírus da imunodeficiência humana apresentam uma vulnerabilidade acentuadamente maior, registrando um risco até seis vezes superior de desenvolver câncer do colo do útero em relação a mulheres imunocompetentes.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "46be73ec77b9e337"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-25",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 25,
+    "text": "Em países de baixa e média renda, a prevalência de genótipos de HPV de alto risco entre mulheres com HIV com citologia normal atinge 51%, podendo ultrapassar 60% na presença de lesões intraepiteliais.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-26",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 26,
+    "text": "A depleção de linfócitos T CD4+ prejudica a resposta imune mediada por células, impedindo a depuração do vírus e reduzindo o tempo de latência entre a lesão precursora e o carcinoma invasivo.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-27",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 27,
+    "text": "Embora a instituição da Terapia Antirretroviral ajude a reduzir a incidência ao restaurar parcialmente a contagem celular imunológica, a taxa de persistência do HPV entre pessoas vivendo com HIV permanece significativamente mais elevada.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-28",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 28,
+    "text": "A profilaxia primária contra o Papilomavírus Humano alcançou um salto qualitativo com o desenvolvimento de vacinas baseadas na tecnologia de DNA recombinante para a síntese de Partículas Semelhantes a Vírus, conhecidas internacionalmente pela sigla VLPs (Virus-Like Particles).",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-29",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 29,
+    "text": "Essas partículas imitam perfeitamente a conformação espacial do vírus nativo, estimulando uma potente resposta imunológica, porém são totalmente desprovidas de ácido nucleico viral, o que torna impossível qualquer replicação ou indução de doença infectocontagiosa.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-30",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 30,
+    "text": "A vacina bivalente confere proteção contra os tipos HPV 16 e 18.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "f4a3d78ffd526476"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-31",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 31,
+    "text": "A vacina quadrivalente agrega proteção contra os tipos HPV 6 e 11, responsáveis por cerca de 90% das verrugas anogenitais (condilomas acuminados), além de cobrir os tipos oncogênicos 16 e 18.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "f4a3d78ffd526476"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-32",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 32,
+    "text": "A vacina nonavalente expandiu a cobertura imunológica ao incorporar proteção contra outros cinco genótipos oncogênicos adicionais, a saber: HPV 31, 33, 45, 52 e 58, o que amplia a prevenção do câncer de colo do útero para cerca de 90% dos casos globais.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "f4a3d78ffd526476"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-33",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 33,
+    "text": "Um marco no fornecimento de evidências científicas foi o estudo epidemiológico nacional conduzido na Suécia por Lei e colaboradores, publicado no New England Journal of Medicine, que acompanhou mais de 1,67 milhão de meninas e mulheres com idades entre 10 e 30 anos ao longo de um período de onze anos.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "3842dc1ec9ccc031"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-34",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 34,
+    "text": "A pesquisa demonstrou que a imunização com a vacina quadrivalente promoveu uma redução global de 63% no risco de desenvolvimento de câncer cervical invasivo na população vacinada em comparação com a coorte não vacinada.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "da2afd638f0ca3e8"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-35",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 35,
+    "text": "O impacto foi desproporcionalmente maior quando a vacina foi administrada em idades precoces: entre as jovens imunizadas antes de completarem 17 anos de idade, observou-se uma redução drástica de 88% na incidência do carcinoma invasivo do colo do útero.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "dfeae0ae1d79c26c"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-36",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 36,
+    "text": "Em estudo de avaliação de impacto populacional publicado por Falcaro e colaboradores na revista The Lancet, os pesquisadores identificaram uma redução de 87% na incidência de câncer do colo do útero e uma diminuição de 97% na taxa de Neoplasia Intraepitelial Cervical de grau 3 entre as mulheres vacinadas na faixa etária de 12 a 13 anos.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "785e716745173db3"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-37",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 37,
+    "text": "A evolução de longo prazo dessa coorte inglesa, analisada no estudo de mortalidade publicado por Sasieni e Falcaro na mesma revista científica, revelou a virtual eliminação dos óbitos por câncer do colo do útero na população jovem adequadamente imunizada.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "4d62326941b56f05"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-38",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 38,
+    "text": "Entre os anos de 2020 e 2024, no grupo de mulheres de 20 a 24 anos que haviam sido vacinadas no início da adolescência com uma cobertura vacinal populacional entre 88% e 90%, observou-se zero óbitos por câncer do colo do útero, frente a uma estimativa histórica projetada de 23,1 mortes na ausência da vacina.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "4d62326941b56f05"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-39",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 39,
+    "text": "Isso traduziu uma redução de 100% na mortalidade por essa neoplasia nessa faixa etária específica.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "4d62326941b56f05"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-40",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 40,
+    "text": "No total da população feminina da Inglaterra até o ano de 2024, estima-se que a vacinação contra o HPV tenha evitado diretamente cerca de 200 mortes por câncer cervical em coortes jovens.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "4d62326941b56f05"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-41",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 41,
+    "text": "A interrupção da circulação continuada dos genótipos vacinais reduz a carga viral comunitária, o que resulta em uma queda indireta na taxa de infecção e de lesões anogenitais em indivíduos não vacinados do mesmo grupo etário e em parceiros sexuais do sexo masculino.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "66f6d6c55caf05cc"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-42",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 42,
+    "text": "Em 2014, respaldada por ensaios de imunogenicidade que demonstravam respostas de anticorpos não inferiores em adolescentes jovens, a OMS passou a recomendar esquemas de duas doses para pessoas com menos de 15 anos.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "8d99f0564f2b1e08"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-43",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 43,
+    "text": "A fundamentação para a adoção da dose única emergiu de uma sólida base de evidências científicas gerada por ensaios clínicos randomizados e estudos de coorte de longo prazo coordenados por consortia internacionais de pesquisa.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "b871591be28d69ac"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-44",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 44,
+    "text": "O ensaio clínico DoRIS realizado na Tanzânia, o estudo KEN SHE conduzido no Quênia, o acompanhamento de dez anos de coortes imunizadas na Índia e as análises estendidas do Costa Rica HPV Vaccine Trial demonstraram que a administração de apenas uma dose da vacina induz anticorpos neutralizantes persistentes e fornece proteção contra infecções por HPV 16 e 18 comparável àquela conferida pelos esquemas de duas ou três doses.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "b871591be28d69ac"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-45",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 45,
+    "text": "A eficácia observada da dose única contra a infecção persistente pelos tipos vacinais permaneceu acima de 97%, com projeções de modelagem imunológica indicando durabilidade da proteção por pelo menos 20 anos, cobrindo todo o período de maior vulnerabilidade e atividade sexual inicial dos adolescentes.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "f0ef3da0142bc8c3"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-46",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 46,
+    "text": "Respaldada por uma revisão minuciosa empreendida pelo Strategic Advisory Group of Experts on Immunization (SAGE) em abril de 2022, a Organização Mundial da Saúde atualizou o seu documento oficial de posicionamento em dezembro de 2022.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "8645935594141623"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-47",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 47,
+    "text": "A OMS passou a endossar o esquema de dose única como uma opção de uso alternativo e com eficácia equivalente para meninas e meninos na faixa etária de 9 a 20 anos.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "8d99f0564f2b1e08"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-48",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 48,
+    "text": "A simplificação do esquema reduz os custos de aquisição de insumos, otimiza o uso da cadeia de frio e das equipes de enfermagem e elimina completamente as perdas de segmento e a desistência entre a primeira e as doses subsequentes.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "8d99f0564f2b1e08"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-49",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 49,
+    "text": "Sob a perspectiva da saúde global, a redução do consumo de doses por indivíduo alivia as restrições históricas de oferta no mercado internacional de vacinas, liberando estoques para acelerar a introdução e o ganho de escala da imunização em países de baixa e média renda na África e na Ásia, onde se concentram as maiores taxas de mortalidade por câncer de colo uterino.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "8d99f0564f2b1e08"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-50",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 50,
+    "text": "Por meio da Nota Técnica nº 41/2024-CGICI/DPNI/SVSA/MS, emitida pelo Ministério da Saúde, o país formalizou a adoção do esquema de dose única no Calendário Nacional de Vacinação do Sistema Único de Saúde.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "af624099e6dadc8c"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-51",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 51,
+    "text": "A diretriz estabeleceu que a vacina quadrivalente contra o HPV passasse a ser administrada em dose única para a população-alvo primária, composta por crianças e adolescentes de 9 a 14 anos de idade (até 14 anos, 11 meses e 29 dias).",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "af624099e6dadc8c"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-52",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 52,
+    "text": "A nota técnica orientou adicionalmente os estados e municípios a realizarem busca ativa e ações de resgate vacinal nas escolas para garantir a imunização de jovens não vacinados com até 19 anos de idade.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "af624099e6dadc8c"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-53",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 53,
+    "text": "Pessoas imunocomprometidas — categoria que abrange pessoas vivendo com HIV, pacientes com neoplasias sólidas ou hematológicas submetidos a tratamento quimioterápico, e receptores de transplantes de órgãos sólidos ou de células-tronco hematopoieticas na faixa etária de 9 a 45 anos — continuam a receber o esquema de três doses (no intervalo de 0, 2 e 6 meses), devido à menor intensidade da resposta humoral gerada por sistemas imunes comprometidos.",
+    "cited_markers": [
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "e43918e53fff6d85"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-54",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 54,
+    "text": "Adicionalmente, a política pública expandiu o acesso à vacina quadrivalente para usuários do serviço de Profilaxia Pré-Exposição (PrEP) ao HIV na faixa etária de 15 a 45 anos, reconhecendo a elevada prevalência de infecções anogenitais nessa população.",
+    "cited_markers": [
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "e43918e53fff6d85"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-55",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 55,
+    "text": "Até o primeiro semestre de 2024, mais de 40 países haviam incorporado formalmente o esquema de dose única em seus programas nacionais de imunização, obtendo avanços rápidos nos índices de cobertura vacinal populacional.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "f2b4f17f57f4b5fb"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-56",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 56,
+    "text": "Historicamente, o programa brasileiro de prevenção secundária do câncer do colo do útero esteve centrado no exame citopatológico cérvico-vaginal, vulgarmente conhecido como teste de Papanicolau.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "4ea2c404dfeca66b"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-57",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 57,
+    "text": "As diretrizes do Ministério da Saúde e do INCA recomendam o rastreamento citopatológico para mulheres e pessoas com colo do útero na faixa etária de 25 a 64 anos que já iniciaram atividade sexual, estabelecendo um intervalo de realização a cada três anos após a obtenção de dois exames anuais consecutivos com resultados normais.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8b883383264ea1b9"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-58",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 58,
+    "text": "Esse formato gera distorções: enquanto mulheres jovens abaixo dos 25 anos realizam exames desnecessários que podem levar a intervenções iatrogênicas em lesões transitórias que regrediriam espontaneamente, cerca de 16% dos exames citopatológicos no SUS ainda são executados em desacordo com os intervalos ou faixas etárias recomendadas pelas diretrizes estipuladas, deixando desassistidas parcelas significativas da população de maior risco epidemiológico.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "4ea2c404dfeca66b"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-59",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 59,
+    "text": "No ano de 2024, a Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde recomendou a incorporação da testagem molecular para detecção de HPV no rastreamento do câncer do colo do útero no ambiente do SUS, conforme normatizado no Relatório de Recomendação nº 878.",
+    "cited_markers": [
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "0193aebda864f677"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-60",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 60,
+    "text": "Em agosto de 2020, a Assembleia Mundial da Saúde aprovou formalmente a Estratégia Global para Acelerar a Eliminação do Câncer do Colo do Útero como Problema de Saúde Pública, iniciativa liderada pela Organização Mundial da Saúde que representa a primeira mobilização internacional destinada a erradicar um tumor maligno humano.",
+    "cited_markers": [
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "7f34d4a50db171ce"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-61",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 61,
+    "text": "A OMS estabeleceu o limiar epidemiológico para considerar o câncer do colo do útero eliminado como um problema de saúde pública quando um país atinge uma taxa de incidência inferior a 4 casos por 100.000 mulheres-ano.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "46be73ec77b9e337"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-62",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 62,
+    "text": "O primeiro pilar estabelece que 90% das meninas estejam totalmente vacinadas contra o HPV até completarem 15 anos de idade.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "46be73ec77b9e337"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-63",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 63,
+    "text": "O segundo pilar determina que 70% das mulheres sejam submetidas a um rastreamento com um teste de alta performance — prioritariamente o teste molecular de DNA-HPV — aos 35 anos de idade e novamente aos 45 anos de idade.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "46be73ec77b9e337"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-64",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 64,
+    "text": "O terceiro pilar exige que 90% das mulheres identificadas com alterações cervicais recebam tratamento adequado, o que abrange o tratamento ablativo ou excisional de 90% das lesões pré-cancerígenas detectadas e o manejo clínico, cirúrgico, quimioterápico e radioterápico de 90% dos casos confirmados de câncer invasivo.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "46be73ec77b9e337"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-65",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 65,
+    "text": "Modelagens epidemiológicas e econômicas elaboradas pela OMS projetam que o cumprimento pleno das metas 90-70-90 até 2030 resultará em uma redução mediana na taxa de incidência do câncer do colo do útero de 42% até o ano de 2045 e de 97% até o ano de 2120.",
+    "cited_markers": [
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "7f34d4a50db171ce"
+    ]
+  },
+  {
+    "id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-66",
+    "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+    "position": 66,
+    "text": "Essa queda progressiva evitará o surgimento de mais de 74 milhões de novos casos de câncer e impedirá mais de 62 milhões de óbitos prematuros de mulheres ao longo do próximo século, promovendo ganhos sociais e econômicos extraordinários, sobretudo em nações em desenvolvimento.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "f2b4f17f57f4b5fb"
+    ]
+  }
+]

@@ -1,0 +1,1125 @@
+{
+  "run_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+  "answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+  "tool_name": "Gemini",
+  "answer_path": "answers/Gemini/Consolidado/arquitetura_transformers.docx",
+  "generated_at": "2026-11-04T05:57:23.128249Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".docx",
+    "size_bytes": 3229526,
+    "page_count": null,
+    "pdf_title": "Word Document",
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": "2026-10-24 21:47:20+00:00",
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 124,
+    "citation_markers_distinct": 16,
+    "references_listed": 29,
+    "references_never_cited": 13,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 124,
+  "pct_supported": 36.29032258064516,
+  "pct_unsupported": 34.67741935483871,
+  "pct_contradicted": 0.8064516129032258,
+  "count_supported": 45,
+  "count_unsupported": 43,
+  "count_contradicted": 1,
+  "count_skipped": 35,
+  "count_audited": 89,
+  "pct_supported_audited": 50.56179775280899,
+  "pct_unsupported_audited": 48.31460674157304,
+  "pct_contradicted_audited": 1.1235955056179776,
+  "count_partially_supported": 25,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 26,
+    "ref_sem_conteudo": 9
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 15,
+  "count_reclassified_by_verification": 3,
+  "verification_stage_counts": {
+    "context_expansion": 2,
+    "revisao_manual": 1
+  },
+  "mis_cited_reference_count": 16,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "3f86da314b54d5c0",
+      "citation_markers": [
+        "[1]"
+      ],
+      "raw_url": "https://scispace.com/papers/attention-is-all-you-need-1hodz0wcqb",
+      "normalized_url": "https://scispace.com/papers/attention-is-all-you-need-1hodz0wcqb",
+      "work_key": "https://scispace.com/papers/attention-is-all-you-need-1hodz0wcqb",
+      "title": "(PDF) Attention is All you Need (2017) | Ashish Vaswani - SciSpace",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T02:36:07.242467Z",
+      "error_message": "barreira de acesso (anti_bot): Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. ",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "197c17bf6f49a579",
+      "citation_markers": [
+        "[12]"
+      ],
+      "raw_url": "https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+      "normalized_url": "https://semanticscholar.org/paper/BERT:-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+      "work_key": "https://semanticscholar.org/paper/BERT:-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T02:36:07.226578Z",
+      "error_message": "barreira de acesso (anti_bot): Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. ",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "ab4c8cf624c8a6ac",
+      "citation_markers": [
+        "[13]"
+      ],
+      "raw_url": "https://scispace.com/papers/bert-pre-training-of-deep-bidirectional-transformers-for-3mez6kncl2",
+      "normalized_url": "https://scispace.com/papers/bert-pre-training-of-deep-bidirectional-transformers-for-3mez6kncl2",
+      "work_key": "https://scispace.com/papers/bert-pre-training-of-deep-bidirectional-transformers-for-3mez6kncl2",
+      "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T02:36:07.224669Z",
+      "error_message": "barreira de acesso (anti_bot): Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. ",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "bb646e9065fdcfcd",
+      "citation_markers": [
+        "[15]"
+      ],
+      "raw_url": "https://openreview.net/pdf?id=H4DqfPSibmx",
+      "normalized_url": "https://openreview.net/pdf?id=H4DqfPSibmx",
+      "work_key": "https://openreview.net/pdf?id=H4DqfPSibmx",
+      "title": "FLASHATTENTION: Fast and Memory-Efficient Exact Attention with",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T02:36:11.400796Z",
+      "error_message": "barreira de acesso (interstitial): OpenReview .net Verifying your browser Complete the check below to continue to OpenReview Please complete the verificati",
+      "barrier_kind": "interstitial",
+      "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-0",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-1",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-2",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-3",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-4",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-5",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-6",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-7",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-8",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-9",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-10",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-11",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-12",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-13",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-14",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-28",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-54",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-71",
+      "reason": "Referencia(s) citada(s) ['ab4c8cf624c8a6ac'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-73",
+      "reason": "Referencia(s) citada(s) ['ab4c8cf624c8a6ac'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-82",
+      "reason": "Referencia(s) citada(s) ['bb646e9065fdcfcd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-83",
+      "reason": "Referencia(s) citada(s) ['bb646e9065fdcfcd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-86",
+      "reason": "Referencia(s) citada(s) ['bb646e9065fdcfcd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-87",
+      "reason": "Referencia(s) citada(s) ['bb646e9065fdcfcd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-88",
+      "reason": "Referencia(s) citada(s) ['bb646e9065fdcfcd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-89",
+      "reason": "Referencia(s) citada(s) ['bb646e9065fdcfcd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-98",
+      "reason": "Referencia(s) citada(s) ['6d274bf31e96172c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-99",
+      "reason": "Referencia(s) citada(s) ['6d274bf31e96172c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-102",
+      "reason": "Referencia(s) citada(s) ['6d274bf31e96172c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-103",
+      "reason": "Referencia(s) citada(s) ['6d274bf31e96172c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-107",
+      "reason": "Referencia(s) citada(s) ['6d274bf31e96172c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-109",
+      "reason": "Referencia(s) citada(s) ['6d274bf31e96172c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-111",
+      "reason": "Referencia(s) citada(s) ['6d274bf31e96172c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-113",
+      "reason": "Referencia(s) citada(s) ['6d274bf31e96172c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-114",
+      "reason": "Referencia(s) citada(s) ['6d274bf31e96172c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-122",
+      "reason": "Referencia(s) citada(s) ['3f86da314b54d5c0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "34c4c8ee90c46400",
+      "url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+      "times_cited": 23,
+      "supported_count": 5,
+      "unsupported_count": 17,
+      "contradicted_count": 1,
+      "supporting_citations": 4,
+      "partial_citations": 10,
+      "status": "downloaded",
+      "supports_positions": [
+        18,
+        38,
+        46,
+        47
+      ],
+      "partial_positions": [
+        16,
+        24,
+        30,
+        45,
+        48,
+        51,
+        52,
+        67,
+        74,
+        123
+      ],
+      "absent_positions": [
+        19,
+        26,
+        32,
+        37,
+        50,
+        66,
+        72,
+        76
+      ],
+      "contradicts_positions": [
+        15
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The paper described the scaled dot-product attention as follows:",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "3f86da314b54d5c0",
+      "url": "https://scispace.com/papers/attention-is-all-you-need-1hodz0wcqb",
+      "times_cited": 18,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        28,
+        54,
+        122
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "b8b957c4b0d92246",
+      "url": "https://www.alphaxiv.org/abs/1706.03762",
+      "times_cited": 13,
+      "supported_count": 8,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        27,
+        31,
+        33,
+        40,
+        42,
+        44,
+        117
+      ],
+      "partial_positions": [
+        29,
+        49,
+        55,
+        65
+      ],
+      "absent_positions": [
+        39,
+        64
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A self-attention layer uses a constant number of sequential operations across sequence positions, while a recurrent layer needs a number that grows with sequence length.",
+      "key_excerpt_position": 27
+    },
+    {
+      "reference_id": "9cb658eb63c3853b",
+      "url": "https://3dvar.com/Dao2022FlashAttention.pdf",
+      "times_cited": 11,
+      "supported_count": 9,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 9,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        81,
+        85,
+        90,
+        91,
+        92,
+        93,
+        115,
+        120,
+        121
+      ],
+      "partial_positions": [
+        75,
+        94
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the time and memory complexity of self-attention are quadratic in sequence length",
+      "key_excerpt_position": 81
+    },
+    {
+      "reference_id": "44e9a350d3df66d1",
+      "url": "https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf",
+      "times_cited": 10,
+      "supported_count": 8,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 8,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        17,
+        20,
+        21,
+        22,
+        34,
+        35,
+        41,
+        43
+      ],
+      "partial_positions": [
+        23
+      ],
+      "absent_positions": [
+        25
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we found it beneficial to linearly project the queries, keys and values _h_ times with different, learned linear projections to _dk_ , _dk_ and _dv_ dimensions, respectively. ... Where the projections are parameter matrices _Wi_<sup>_Q_</sup> _∈_ R<sup>_d_model</sup><sup>_×dk_</sup> , _Wi_<sup>_K_</sup> _∈_ R<sup>_d_model</sup><sup>_×dk_</sup> , _Wi_<sup>_V_</sup> _∈_ R<sup>_d_model</sup><sup>_×dv_</sup> and _W_<sup>_O_</sup> _∈_ R<sup>_hdv×d_model</sup> .",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "b9e1d6b35aed435b",
+      "url": "https://medium.com/@EleventhHourEnthusiast/direct-preference-optimization-your-language-model-is-secretly-a-reward-model-5b8f44cb9b9b",
+      "times_cited": 10,
+      "supported_count": 4,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        97,
+        101,
+        105,
+        112
+      ],
+      "partial_positions": [
+        96,
+        100,
+        106,
+        110
+      ],
+      "absent_positions": [
+        95,
+        108
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "RLHF often employs Proximal Policy Optimization (PPO) to fine-tune language models based on human preferences. PPO is a widely used reinforcement learning algorithm that adjusts model behavior by maximizing a reward function derived from human feedback.",
+      "key_excerpt_position": 97
+    },
+    {
+      "reference_id": "3667345e50c17c08",
+      "url": "https://ysu1989.github.io/courses/au20/cse5539/BERT.pdf",
+      "times_cited": 9,
+      "supported_count": 6,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        56,
+        58,
+        60,
+        61,
+        68,
+        70
+      ],
+      "partial_positions": [
+        59,
+        69
+      ],
+      "absent_positions": [
+        57
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "BERT is instead a stack of encoders that looks at attention in both directions simultaneously ○ To prevent the model from automatically recognizing the target word, it selectively masks (or replaces) 15% of the tokens and is trained to predict the missing term",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "6d274bf31e96172c",
+      "url": "https://www.researchgate.net/publication/371136760_Direct_Preference_Optimization_Your_Language_Model_is_Secretly_a_Reward_Model",
+      "times_cited": 9,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        98,
+        99,
+        102,
+        103,
+        107,
+        109,
+        111,
+        113,
+        114
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "bb646e9065fdcfcd",
+      "url": "https://openreview.net/pdf?id=H4DqfPSibmx",
+      "times_cited": 6,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        82,
+        83,
+        86,
+        87,
+        88,
+        89
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "bb174fbed3aeca2b",
+      "url": "https://huggingface.co/papers/2104.09864",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        77
+      ],
+      "partial_positions": [
+        78,
+        79,
+        80
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we propose a novel method named Rotary Position Embedding(RoPE) to effectively leverage the positional information. Specifically, the proposed RoPE encodes the absolute position with a rotation matrix and meanwhile incorporates the explicit relative position dependency in self-attention formulation.",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "bb2ba5cfd07cd36e",
+      "url": "https://github.com/dao-ailab/flash-attention",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        116,
+        118
+      ],
+      "absent_positions": [
+        119
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Optimize for inference (iterative decoding) when query has very small sequence length (e.g., query sequence length = 1). The bottleneck here is to load KV cache as fast as possible",
+      "key_excerpt_position": 116
+    },
+    {
+      "reference_id": "65fa01dbc0699c35",
+      "url": "https://towardsdatascience.com/paper-walkthrough-attention-is-all-you-need-80399cdc59e1/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        36
+      ],
+      "partial_positions": [
+        53
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the dimensionality of each token, which is initially 512, becomes 2048 thanks to the `self.linear_0` layer (`#(1)`). This tensor size remains unchanged until the dropout layer before eventually squeezed back to 512 by the `self.linear_1` layer (`#(2`).",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "0e79d837309e23ac",
+      "url": "http://mlg.postech.ac.kr/~jtkim/courses/2022-spring-trends-in-ml/materials/05_bert.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        62
+      ],
+      "partial_positions": [
+        63
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "**BASE** model: _L_ = 12, _H_ = 768, _A_ = 12, Total Parameters = 110M. **LARGE** model: _L_ = 24, _H_ = 1024, _A_ = 16, Total Parameters = 340M.",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "ab4c8cf624c8a6ac",
+      "url": "https://scispace.com/papers/bert-pre-training-of-deep-bidirectional-transformers-for-3mez6kncl2",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        71,
+        73
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "8725f2df440ba274",
+      "url": "https://shreyansh26.github.io/post/2023-03-26_flash-attention/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        84
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In standard attention implementations, the S and P matrices are materialized in the HBM, which takes O(N^2) memory. Also, most operations are memory-bound/elementwise operations, e.g. softmax applied on P, masking applied to S, dropout applied to P. This leads to slow wall-clock time.",
+      "key_excerpt_position": 84
+    },
+    {
+      "reference_id": "8a5681d011455a55",
+      "url": "https://papers.baulab.info/papers/also/Rafailov-2023.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        104
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "where _β_ is a parameter controlling the deviation from the base reference policy _⇡_ ref, namely the initial SFT model _⇡_<sup>SFT</sup> .",
+      "key_excerpt_position": 104
+    },
+    {
+      "reference_id": "a7468c6851652691",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "70e3f4a119525251",
+      "url": "https://jkk.name/reading-notes/old-blog/2017-10-20_onlyattention/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "84bf199568aa894b",
+      "url": "https://aclanthology.org/N19-1423.pdf",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "b9fe2733b69e07bf",
+      "url": "https://www.researchgate.net/publication/328230984_BERT_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "197c17bf6f49a579",
+      "url": "https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "89f1e8d68fa37f46",
+      "url": "https://www.researchgate.net/publication/351019664_RoFormer_Enhanced_Transformer_with_Rotary_Position_Embedding",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "c685f685f643ae55",
+      "url": "https://spaces.ac.cn/me.html/comment-page-10",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "caa3d2b7c68a5aab",
+      "url": "https://velog.io/@lyoonji/%ED%88%AC%EB%B9%85%EC%8A%A4-4%EC%A3%BC%EC%B0%A8-%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98-TimeSeries",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "5727fed78bddc701",
+      "url": "https://arxiv.org/abs/2205.14135",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "9dce83c9e048d142",
+      "url": "https://arxiv.org/html/2305.18290v3",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d5a5216fcde8733b",
+      "url": "https://arxiv.org/abs/2305.18290",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "22b2e8095e2c69b5",
+      "url": "https://arxiv.org/html/2305.18290v1",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "81925c013ae7d05b",
+      "url": "https://huggingface.co/papers/2305.18290",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-19",
+      "position": 19,
+      "claim_excerpt": "O produto matricial calcula a afinidade não normalizada entre cada par de tokens na sequência.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[6] [4] [5] [10] [21] [14] [9] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-23",
+      "position": 23,
+      "claim_excerpt": "A função Softmax é aplicada de forma posicional ao longo das linhas da matriz de afinidade, gerando uma distribuição de probabilidade que soma 1 para cada token.",
+      "cited_markers": "[5]",
+      "corroborating_markers": "[4] [7] [8] [21] [14] [22] [20] [6]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-24",
+      "position": 24,
+      "claim_excerpt": "O resultado dessa ponderação é multiplicado pela matriz de valores , produzindo uma representação contextualizada em que o vetor de cada token é uma combinação linear dos valores de todos os outros t…",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[10] [6] [4] [3] [5] [7] [9] [8] [21] [14]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-26",
+      "position": 26,
+      "claim_excerpt": "No trabalho original, definiu-se e , mantendo o custo computacional total equivalente ao de uma atenção de cabeça única com dimensão total.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[5] [4] [21] [14] [7]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-30",
+      "position": 30,
+      "claim_excerpt": "A arquitetura original do Transformer é constituída por uma estrutura Encoder-Decoder composta pelo empilhamento de blocos idênticos no codificador e blocos no decodificador.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[6] [5] [4] [3] [10] [9]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-32",
+      "position": 32,
+      "claim_excerpt": "Cada camada do codificador contém duas subcamadas principais:",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[21] [14] [9] [5] [6] [4]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-39",
+      "position": 39,
+      "claim_excerpt": "Cada camada do decodificador é composta por três subcamadas:",
+      "cited_markers": "[3]",
+      "corroborating_markers": "[5] [4] [21] [14] [9]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-45",
+      "position": 45,
+      "claim_excerpt": "Para injetar a ordem sequencial das palavras na rede, torna-se estritamente necessário adicionar informações posicionais às representações de entrada (embeddings) antes da primeira camada.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[5] [4] [8] [3] [10] [16] [7] [6]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-48",
+      "position": 48,
+      "claim_excerpt": "A escolha dessas funções trigonométricas fundamentou-se na hipótese de que permitiriam ao modelo interpolar posições relativas facilmente, uma vez que pode ser expresso como uma transformação linear…",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[5] [27] [26] [7] [28] [25] [9]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-52",
+      "position": 52,
+      "claim_excerpt": "Dimensão Chave/Valor () 64 64 Escala individual de cada cabeça",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[6] [4] [5] [7] [21] [14] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-53",
+      "position": 53,
+      "claim_excerpt": "Dimensão FFN () 2048 4096 Capacidade de transformação não linear",
+      "cited_markers": "[6]",
+      "corroborating_markers": "[4] [5] [21] [14]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-57",
+      "position": 57,
+      "claim_excerpt": "(2018).",
+      "cited_markers": "[8]",
+      "corroborating_markers": "[10] [18] [28] [25] [9] [26] [27]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-59",
+      "position": 59,
+      "claim_excerpt": "Masked Language Modeling (MLM): Uma porcentagem (15%) dos tokens de entrada é aleatoriamente mascarada com um token especial [MASK] (ou substituída por tokens aleatórios/mantida inalterada).",
+      "cited_markers": "[8]",
+      "corroborating_markers": "[10] [9] [28] [26] [27] [25] [6] [21] [14]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-78",
+      "position": 78,
+      "claim_excerpt": "Em vez de somar um vetor de posição aos embeddings de entrada, o RoPE codifica a informação posicional multiplicando os vetores de Query () e Key () por uma matriz de rotação ortogonal no espaço comp…",
+      "cited_markers": "[16]",
+      "corroborating_markers": "[19] [5] [2] [3] [7] [4] [6] [8] [9] [10]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-79",
+      "position": 79,
+      "claim_excerpt": "Expandindo essa rotação para subespaços 2D ao longo de toda a dimensão do vetor de atenção , o produto escalar entre uma Query na posição e uma Key na posição incorpora naturalmente a distância relat…",
+      "cited_markers": "[16]",
+      "corroborating_markers": "[4] [22] [7] [6] [19] [5] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z-96",
+      "position": 96,
+      "claim_excerpt": "O processo tradicional para transformar um modelo pré-treinado em um assistente funcional envolvia a Ajustagem Fina Supervisionada (Supervised Fine-Tuning - SFT) seguida pelo Aprendizado por Reforço…",
+      "cited_markers": "[23]",
+      "corroborating_markers": "[28] [25] [26] [27] [10]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1688605,
+  "cost_tracked": false,
+  "processing_time_seconds": 893473.767925
+}

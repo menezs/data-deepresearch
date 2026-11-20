@@ -1,0 +1,82 @@
+[referencia=2146be9641e49751 score=0.011]
+## Suspicious Minds Say It’s Now or Never for AI Regulation
+
+Generative AI models—as the term indicates—generate content from existing content. These models are based on “large language models” (LLMs), through which a given generative AI model “learns its skills by analyzing massive amounts of digital [media] culled from the internet. By pinpointing patterns in that data, an LLM learns to do one thing in particular: guess the next word in a sequence of words.” These LLMs start as next-word-prediction machines but eventually “train” themselves to carry out heretofore unimagined tasks such as generating creative works. These tools do not create out of thin air; they generate content in response to a user’s prompts. This powerful technology may have significant effects on how some music is created: these models can, through supercomputing enabled by an LLM, learn an artist’s vocal, musical, and lyrical style and replicate the same in response to a user’s prompting.
+
+The technology is regarded by many as a threat to artists, particularly recording artists. After all, their creations are unique to them, and they rely on the monopolization of their own musical talent to make a living. But will the market for artists’ creative works continue to be robust if supercomputing algorithms can satisfy fans’ demand for new music more readily than artists’ creation of new albums? Consider, for example, the ubiquitous Taylor Swift. Why should her fans become excited for the release of a new album if a generative AI model can deliver new, high-quality songs—nearly (or potentially) indistinguishable from Taylor Swift’s own work—on an infinite basis? What then becomes the value of “authentic” recorded music if an artist’s “real” music cannot be distinguished from that which is fake?
+
+By enacting the ELVIS Act, Tennessee has attempted to create a solution by banning the commercial, unauthorized use of persons’ voices, not just in advertisements or merchandise but also in expressive works like sound recordings, movies, and television programs. The TPRPA—which itself was prompted by Elvis’s death—previously recognized an individual property right in one’s “name, photograph, or likeness in any medium in any manner.” In response to threat of generative AI’s disruptive impact to the music industry, Tennessee—through enactment of the ELVIS Act—has extended the property rights created by the TPRPA to encompass one’s “voice.”
+
+---
+
+[referencia=2146be9641e49751 score=0.007]
+### Copyright Preemption
+
+The federal Copyright Act preempts state-law claims that (1) involve creative works fixed in a tangible medium of expression; and (2) “seek[] to protect rights within the scope of federal copyright protection.”<sup>7</sup> The Copyright Act would, of course, preempt most if not all claims arising from a generative AI model’s wholesale replication of an existing work. But the scope of preemption of ELVIS Act claims against generative AI companies grows more complicated when considering arguably “new” works created by AI. These claims raise difficult questions under the second part of the copyright preemption test: can “new” works created by AI be fairly characterized as a copy actionable under the Copyright Act? This issue already is the subject of significant litigation throughout the country, which will determine how generative AI matures as a tool as well as an industry.
+
+Understanding how generative AI models function will prove critical to reaching one or possibly more answers to this fundamental question. Consider, as a hypothetical illustration, a generative AI model designed to make new songs in the voice and style of the aforementioned ubiquitous Taylor Swift. The model can be trained (and possibly already *has* been trained) on every one of her recordings available on the internet—studio recordings, live performances, and interviews. The model, through its supercomputing capabilities, has analyzed her word choice, writing style, vocal sound, intonation, chord progressions, and nearly every other variable that might impact her songwriting and performance. Should a generative AI model be prompted by a user to “create a song about Taylor Swift and her boyfriend,” it may create an instant but short-lived hit—but Taylor Swift did not write it. Would a claim seeking an injunction against publication of the song seek to protect rights within the scope of copyright protection? The answer is every lawyer’s favorite: “It depends.” Framing how the generative AI model created the work will prove critical.
+
+---
+
+[referencia=2146be9641e49751 score=0.003]
+Generative AI threatens to challenge the market for artists’ creative works, as AI models are coming online that can create works that are strikingly similar to artists’ authentic creations. For example, an AI-generated song—created with generative AI models that cloned the voices of pop artists Drake and The Weeknd—was self-released in April 2023 on streaming platforms like Spotify, Apple Music, and YouTube. The work was streamed on Spotify more than 600,000 times in less than four days before it was taken down.
+
+
+Tennessee, home to both Music City® (Nashville) and the Blues (Memphis), has taken a swing at regulating generative AI’s potential harm to musicians and recording artists. The statutory fix: regulating unauthorized use of persons’ voices in the same manner as the state has regulated unauthorized use of persons’ names, images, and likenesses. (Tennessee has proclaimed the law as being the first-of-its-kind, but both New York and Louisiana have previously regulated rights of action against digital replicas of expressive works.
+
+Through the passage of the Ensuring Likeness, Voice, and Image Security Act (ELVIS Act), Tennessee has amended its right of publicity (ROP) statute—the Tennessee Personal Rights Protection Act (TPRPA)—to include persons’ voices (both an individual’s “actual voice” and a “simulation” of the individual’s voice) within the scope of their publicity rights. The law also creates new rights of action against the unauthorized use of one’s NIL+V, expanding actionable conduct beyond unauthorized commercial use, which is all that was prohibited by the TPRPA. Although musical creations have dominated the headlines, the new statute purports to protect a person’s NIL+V in any medium, including use in a song, motion picture, book, and social media.
+
+Notably, while the proponents of the bill touted that the ELVIS Act would regulate AI, AI is never mentioned in the law.
+
+---
+
+[referencia=2146be9641e49751 score=0.003]
+## The ELVIS Act
+
+Passage of the ELVIS Act was an almost foregone result given the juggernaut of music associations and well-known artists lined up for its introduction as potential legislation. Some industry opposition arose, primarily from the Motion Picture Association (MPA), which objected in part because of its position that the proposed law interfered with MPA members’ ability to portray real people and events. The trade association TechNet, representing entities such as Google, Meta, Amazon, Lyft, and Comcast NBCUniversal, objected that the legislation was too broadly written.
+
+The ELVIS Act’s primary contributions to existing law are twofold. First, the law adds “voice” to existing name, image, and likeness statutory protections. Second, the law authorizes new causes of action for unauthorized use of one’s name, image, likeness, or voice, which are designed to target those generative AI companies and those who publish generative AI’s creations. Through the latter effort, the Tennessee General Assembly has adopted a statute that, likely unintentionally, threatens to stifle the authorship of certain creative works.
+
+The ELVIS Act defines “voice” to mean “a sound in a medium that is readily identifiable and attributable to a particular individual, regardless of whether the sound contains the actual voice or simulation of the voice of an individual.” The statute primarily authorizes three species of actions arising from the unauthorized use of one’s voice, including actions against (1) the persons creating the content infringing one’s publicity rights in their voice; (2) the persons sharing or distributing that content; and (3) the providers of the generative AI models facilitating the creation of audio media using another’s voice.
+
+Violators of the ELVIS Act are subject to civil liability, including punitive damages available under the TPRPA, as well as misdemeanor penalties. The right of action extends both to individuals (which is defined to include “human being[s], living or dead”), as well as to “person[s]” (which includes business entities) who have “entered into a contract for an individual’s exclusive services as a recording artist or an exclusive license to distribute sound recordings that capture an individual’s audio performances.”
+
+---
+
+[referencia=2146be9641e49751 score=0.002]
+While the ELVIS Act extends statutory publicity rights to one’s voice, the addition of voice, in and of itself, does not appear to be a sea change from existing law. (A prominent commentator has posited that “voices” may already have been protected, if and to the extent that common-law ROP rights existed and remained in place after enactment of the TPRPA. The United States Court of Appeals for the Sixth Circuit in *Marshall v. ESPN, et al.*, ruled that “the plaintiffs’ common-law claim is meritless, as the district rather patiently explained, because the Tennessee courts have never recognized any such right and because, in the meantime, the Tennessee legislature has spoken to the issue directly.” Perhaps that issue will arise in the state courts in the future.)
+
+The ELVIS Act broadens well-established principles of publicity law to another facet of one’s personality—his or her unique sound. Otherwise, the statute’s primary contribution is extending a claimant’s right of action to those who provide algorithms that facilitate the use of one’s name, photograph, likeness, and—now—voice.
+
+But the law, through its creation of a new cause of action protecting against the unauthorized use of one’s voice in a publication or performance—and extending that new action to the use of one’s likeness—may have some unintended consequences, as have been described by the law’s critics. For example, by creating a new cause of action against a person who “publishes, performs, distributes, or otherwise makes available to the public an individual’s . . . likeness with knowledge that use of the . . . likeness was not authorized by the individual,” the law—on its face—now may apply to expressive works protected by the First Amendment, including portrayals of real people in biopics, docudramas, or other similar works. That has not previously been the case, given the original TPRPA extended only to unauthorized use of one’s likeness “for purposes of advertising products, merchandise, goods, or services, or for purposes of fund raising, solicitation of donations, purchases of products, merchandise, goods, or services.”
+
+The statutory fair use exemptions likewise raise some uncertainty. The law purports to extend the TPRPA’s fair-use defenses to the now-actionable uses of another’s voice and adds additional exemptions, while at the same time providing that fair uses are fair only to “the extent such use is protected by the First Amendment.” The scope of the statutory exemptions is likely to be subject to future litigation.
+
+---
+
+[referencia=2146be9641e49751 score=0.000]
+## Federal Preemption Risks Making the Law All Shook Up
+
+The ELVIS Act’s breadth raises a number of preemption concerns, most notably under the Copyright Act and Section 230 of the Communications Decency Act. The discussion below focuses on whether ELVIS Act claims, premised on generative AI models’ creation of songs using an artist’s voice, may be preempted under the Copyright Act.
+
+---
+
+[referencia=2146be9641e49751 score=0.000]
+If the audio that the AI model generates is based on the model’s processing of the constituent elements of Taylor Swift’s work, then a court could conclude that the model is necessarily “copying” constituent elements of the artist’s work because the AI model is not capable of original creativity; it is necessarily copying the constituent elements of the artist’s work because that is all it knows and has been trained on. Alternatively, one could argue that generative AI models are “learning” from source material and then generating new, original works informed by that material—resulting in new work that is not the resulting of copying.
+
+If the former framing is followed, then claims arising from AI-generated works would likely fall within the scope of the Copyright Act and subordinate ELVIS Act claims would thus be preempted. But if the latter argument succeeds, then claims would not be preempted and could be pursued, or even prosecuted, under Tennessee’s ELVIS Act.
+
+### Section 230
+
+The ELVIS Act extends liability for right-of-publicity violations to those who “transmit” or “otherwise make available” the infringing content. Providers of “interactive computer services” (the phrase used in Section 230) are not carved out of the state statute. The argument may one day be made that entities such as social media companies (a long way from the old internet message boards) fall within the definition of those who “transmit” or “otherwise make available” infringing content. To the extent such entities could be susceptible to suit under the ELVIS Act, we can anticipate claims of immunity under Section 230.
+
+It is unclear, however, if violators would benefit from the immunity. Section 230’s intellectual property exception notes that the law has “[n]o effect on intellectual property law.” There currently exists a circuit split regarding whether state-based intellectual property laws, including right of publicity laws, fall within the foregoing exception.
+
+The Ninth Circuit has found the exception applicable only to federal intellectual property laws, while the Third Circuit has concluded otherwise.
+
+The Sixth Circuit has not yet weighed in, and the fate of Section 230 immunity for such ELVIS Act claims is thus uncertain.
+
+---
+
+[referencia=2146be9641e49751 score=0.000]
+The new law also raises some federal preemption concerns that merit discussion, but many of these concerns have already arisen under the former TPRPA in the context of unauthorized uses of one’s likeness.

@@ -1,0 +1,424 @@
+{
+  "run_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+  "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/Ingles/ChatGPT/Emergente/regulacao_ia.md",
+  "generated_at": "2026-11-18T00:56:31.142124Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 28142,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 104,
+    "citation_markers_distinct": 10,
+    "references_listed": 10,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 87,
+  "pct_supported": 70.11494252873564,
+  "pct_unsupported": 28.735632183908045,
+  "pct_contradicted": 1.1494252873563218,
+  "count_supported": 61,
+  "count_unsupported": 25,
+  "count_contradicted": 1,
+  "count_skipped": 0,
+  "count_audited": 87,
+  "pct_supported_audited": 70.11494252873564,
+  "pct_unsupported_audited": 28.735632183908045,
+  "pct_contradicted_audited": 1.1494252873563218,
+  "count_partially_supported": 19,
+  "skipped_reason_counts": {},
+  "verification_ran": true,
+  "count_unsupported_confirmed": 7,
+  "count_reclassified_by_verification": 8,
+  "verification_stage_counts": {
+    "full_doc_scan": 2,
+    "context_expansion": 6
+  },
+  "mis_cited_reference_count": 5,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [],
+  "skipped_chunks": [],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "19836916515bd208",
+      "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106629&filename=Avulso+PL+2338%2F2023",
+      "times_cited": 39,
+      "supported_count": 29,
+      "unsupported_count": 10,
+      "contradicted_count": 0,
+      "supporting_citations": 26,
+      "partial_citations": 10,
+      "status": "downloaded",
+      "supports_positions": [
+        13,
+        17,
+        19,
+        24,
+        25,
+        26,
+        30,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        50,
+        51,
+        52,
+        54,
+        55,
+        56,
+        61,
+        62,
+        69,
+        70,
+        71,
+        74,
+        84
+      ],
+      "partial_positions": [
+        18,
+        29,
+        49,
+        53,
+        58,
+        68,
+        75,
+        76,
+        80,
+        81
+      ],
+      "absent_positions": [
+        20,
+        27,
+        72
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "observa-se o avanço do debate sobre o Projeto de Lei nº 2338/2023, iniciado e aprovado pelo Senado Federal e em tramitação na Câmara dos Deputados.",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "623d9b5287962fa0",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689",
+      "times_cited": 34,
+      "supported_count": 21,
+      "unsupported_count": 13,
+      "contradicted_count": 0,
+      "supporting_citations": 16,
+      "partial_citations": 12,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        3,
+        16,
+        21,
+        22,
+        23,
+        28,
+        31,
+        32,
+        46,
+        47,
+        48,
+        57,
+        64,
+        73,
+        83
+      ],
+      "partial_positions": [
+        0,
+        2,
+        14,
+        15,
+        58,
+        66,
+        75,
+        76,
+        78,
+        80,
+        81,
+        85
+      ],
+      "absent_positions": [
+        20,
+        27,
+        65,
+        67,
+        72,
+        82
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union. It shall apply from 2 August 2026. However: Chapters I and II shall apply from 2 February 2025... Chapter III Section 4, Chapter V, Chapter VII and Chapter XII and Article 78 shall apply from 2 August 2025... Articles 102 to 110 shall apply from 27 July 2026. (OJ L, 2024/1689, 12.7.2024, p. 1)",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "e77912f7b6ecab11",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+      "times_cited": 8,
+      "supported_count": 6,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        35,
+        59,
+        60
+      ],
+      "partial_positions": [
+        45,
+        78,
+        83
+      ],
+      "absent_positions": [
+        77
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The enforcement powers of the AI Office and the national competent authorities of the Member States apply from 2 August 2026, when certain provisions of the AI Act become enforceable. In particular: [...] Obligations for providers GPAI models [...] Transparency requirements for certain AI systems",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "5f3e072377bda147",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+      "times_cited": 8,
+      "supported_count": 2,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        0,
+        8,
+        10,
+        45,
+        79,
+        85,
+        86
+      ],
+      "absent_positions": [
+        82
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Recebido o Ofício nº 235/ 2025 do Senado Federal que submete à revisão da Câmara dos Deputados, nos termos do art. 65 da Constituição Federal, o Projeto de Lei n° 2.338, de 2023",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "d5c1e904603038ee",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        36,
+        37
+      ],
+      "partial_positions": [
+        45,
+        78
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The code of practice helps industry comply with the AI Act legal obligations on safety, transparency and copyright of general-purpose AI models. The General-Purpose AI (GPAI) code of practice is a voluntary tool, prepared by independent experts in a multi-stakeholder process, designed to help industry comply with the AI Act's obligations for providers of general-purpose AI models. The code was published on July 10, 2025.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "25b776d1fcfaae00",
+      "url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2025/dezembro/pl-do-governo-propoe-sistema-de-governanca-para-a-inteligencia-artificial-no-pais",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        11,
+        12,
+        63
+      ],
+      "partial_positions": [
+        79
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O governo federal encaminhou nesta segunda-feira, em edição extra do Diário Oficial da União, Projeto de Lei que trata da governança de inteligência artificial no país. [...] ele cria o Sistema Nacional para Desenvolvimento, Regulação e Governança de Inteligência Artificial (SIA) [...] A ANPD fica designada como autoridade responsável por estabelecer normas gerais e regular e fiscalizar setores hoje sem autoridade reguladora própria. Além disso, o projeto consolida a competência das autoridades setoriais (agências e secretarias que já têm poderes regulatórios sobre segmentos específicos) para regular e fiscalizar IA utilizada por setores específicos.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "87544486094db75f",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        34,
+        38
+      ],
+      "partial_positions": [
+        33
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "From **2 August 2025** , the**obligations for providers** of GPAI models **entered into application** . Providers of GPAI models placed on the market after this date must comply... By **2 August 2027** ,**providers** of GPAI models**placed on the market before 2 August 2025** must**comply** .",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "2ddcc05b33f7db1a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        6
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [
+        7
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Presidência determina, nos termos do artigo 48, § 1º, do Regimento Interno, a tramitação conjunta dos Projetos de Lei nºs 5.051 e 5.691, de 2019; 21, de 2020; 872, de 2021; 2.338 e 3.592, de 2023; e 145, 146, 210 e 266, de 2024, por tratarem de tema correlato.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "77e096f27c9d4bf6",
+      "url": "https://www.consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        4
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a new provision in the AI act, prohibiting AI practices regarding the **generation of non-consensual sexual and intimate content or child sexual abuse** material",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "81265ed60a1951f6",
+      "url": "https://www.camara.leg.br/radio/radioagencia/1314245-projeto-de-regulacao-da-ia-no-brasil-pode-ser-arquivado",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        9
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O projeto de lei que regulamenta a inteligência artificial no Brasil (PL 2338/23) pode ser arquivado, caso a comissão especial não aprove o texto até o fim da atual legislatura, em dezembro. [...] Na Câmara, o relator é o deputado Aguinaldo Ribeiro (PP-PB), que, de acordo com a secretaria da comissão, já apresentou o relatório, que ainda não foi debatido.",
+      "key_excerpt_position": 9
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-2",
+      "position": 2,
+      "claim_excerpt": "The EU framework changed materially in 2026 through Regulation (EU) 2026/1744, which amended the AI Act’s implementation timetable and certain substantive provisions.",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[5] [2] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-4",
+      "position": 4,
+      "claim_excerpt": "The amendment also introduced new prohibitions concerning AI-generated or manipulated non-consensual intimate material and child sexual abuse material, with those prohibitions scheduled to apply from…",
+      "cited_markers": "[5]",
+      "corroborating_markers": "[2] [7]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-33",
+      "position": 33,
+      "claim_excerpt": "Models that qualify as GPAI models with systemic risk face additional requirements relating to model evaluation, systemic-risk assessment and mitigation, serious-incident reporting, and cybersecurity…",
+      "cited_markers": "[3]",
+      "corroborating_markers": "[4] [2] [7]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-65",
+      "position": 65,
+      "claim_excerpt": "Violations of prohibited-practice rules may produce administrative fines of up to €35 million or, for undertakings, 7 percent of total worldwide annual turnover for the preceding financial year, whic…",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[2] [7]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-66",
+      "position": 66,
+      "claim_excerpt": "Other specified operator violations can attract fines of up to €15 million or 3 percent of worldwide annual turnover, while supplying incorrect, incomplete, or misleading information to competent aut…",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[2] [7]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 4723861,
+  "cost_tracked": false,
+  "processing_time_seconds": 229607.435811
+}

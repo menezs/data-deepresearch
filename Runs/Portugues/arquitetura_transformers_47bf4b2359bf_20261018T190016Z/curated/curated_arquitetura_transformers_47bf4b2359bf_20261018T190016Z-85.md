@@ -1,0 +1,290 @@
+[referencia=c00b8dae0f8e596c score=0.974]
+## **2 The GPipe Library** 
+
+We now describe the interface and the main design features of GPipe. This open-source library is implemented under the Lingvo [16] framework. The core design features of GPipe are generally applicable and can be implemented for other frameworks [17, 18, 19]. 
+
+2 
+
+Figure 2: (a) An example neural network with sequential layers is partitioned across four accelerators. _Fk_ is the composite forward computation function of the _k_ -th cell. _Bk_ is the back-propagation function, which depends on both _Bk_ +1 from the upper layer and _Fk_ . (b) The naive model parallelism strategy leads to severe under-utilization due to the sequential dependency of the network. (c) Pipeline parallelism divides the input mini-batch into smaller micro-batches, enabling different accelerators to work on different micro-batches simultaneously. Gradients are applied synchronously at the end.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.948]
+Other approaches have attempted to utilize pipeline-parallelism-based approaches to scale neural networks [46, 47]. The most recent iteration of pipeline parallelism applied to neural network training is PipeDream [48], which targets reducing the communication overhead for parameter servers [49]. PipeDream pipelines the execution of forward passes and intersperses them with backward passes in an attempt to maximize hardware utilization. This design suffers from weight staleness introduced by asynchronous backward updates. To avoid optimization issues stemming from the weight staleness, PipeDream requires maintaining multiple versioned copies of the model parameters on each accelerator in order to compute the gradient updates accurately, preventing users from scaling to bigger models. 
+
+GPipe introduces a new brand of pipeline parallelism that pipelines the execution of _micro-batches_ before applying a single synchronous gradient update for the entire _mini-batch_ . Our novel batchsplitting pipeline parallelism algorithm, when combined with re-materialization, allows scaling to a large number of micro-batches. This minimizes the _bubble_ overhead without the need for asynchronous gradient updates. GPipe enables the user to scale model size linearly with the number of accelerators used. Unlike SPMD, pipeline parallelism introduces little additional communication overhead when scaling the model. Inter-device communication only takes place at partition boundaries for every micro-batch and the introduced communication overhead is marginal, extending the utility of GPipe to situations where high-speed device interconnects are not available. However, GPipe currently assumes that a single layer fits within the memory requirements of a single accelerator<sup>3</sup> . Additionally, micro-batch splitting requires complicated strategies to support layers that require 
+
+3One possible way around this limitation is splitting a single matrix-multiplication into smaller ones and spreading them sequentially across multiple layers. 
+
+8 
+
+computations across the batch (for example, BatchNorm uses statistics over the micro-batch during training, but accumulates mini-batch statistics for evaluation).
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.945]
+To evaluate efficiency, we report the normalized training throughput of AmoebaNet-D (18, 256) and Transformer-48 using GPipe with different numbers of partitions and different numbers of micro-batches in Table 2. Each partition is assigned to a separate accelerator. We observe that when the number of micro-batches _M_ is at least 4 _×_ the number of partitions, the bubble overhead is almost negligible. For Transformer model, there is a 3 _._ 5 _×_ speedup when it is partitioned across four times more accelerators. Furthermore, training throughput scales almost linearly with the number of devices, thanks to the computation being evenly distributed across Transformer layers. In contrast, the AmoebaNet model achieves sub-linear speedup due to its imbalanced computation distribution. When _M_ is 
+
+Table 2: Normalized training throughput using GPipe with different # of partitions _K_ and different # of micro-batches _M_ on TPUs. Performance increases with more micro-batches. There is an almost linear speedup with the number of accelerators for Transformer model when _M ≫ K_ . Batch size was adjusted to fit memory if necessary. 
+
+|TPU|A|moebaN|et|Tr|ansform|er|
+|---|---|---|---|---|---|---|
+|_K_ =|2|4|8|2|4|8|
+|_M_ = 1|1|1.13|1.38|1|1.07|1.3|
+|_M_ = 4|1.07|1.26|1.72|1.7|3.2|4.8|
+|_M_ = 32|1.21|1.84|3.48|1.8|3.4|6.3|
+
+
+
+relatively small, the bubble overhead can no longer be negligible. When _M_ is 1, there is effectively no pipeline parallelism. We observe relatively constant throughput regardless of the number of accelerators used, indicating only one device is actively computing at any given time.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.916]
+# **GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism** 
+
+**Yanping Huang** `huangyp@google.com` 
+
+**Youlong Cheng Ankur Bapna** `ylc@google.com ankurbpn@google.com` 
+
+**Orhan Firat** `orhanf@google.com` 
+
+**Mia Xu Chen Dehao Chen** `miachen@google.com dehao@google.com` 
+
+**HyoukJoong Lee** `hyouklee@google.com` 
+
+**Jiquan Ngiam Quoc V. Le** `jngiam@google.com qvl@google.com` 
+
+**Yonghui Wu** `yonghui@google.com` 
+
+**Zhifeng Chen** `zhifengc@google.com` 
+
+## **Abstract** 
+
+Scaling up deep neural network capacity has been known as an effective approach to improving model quality for several different machine learning tasks. In many cases, increasing model capacity beyond the memory limit of a single accelerator has required developing special algorithms or infrastructure. These solutions are often architecture-specific and do not transfer to other tasks. To address the need for efficient and task-independent model parallelism, we introduce GPipe, a pipeline parallelism library that allows scaling any network that can be expressed as a sequence of layers. By pipelining different sub-sequences of layers on separate accelerators, GPipe provides the flexibility of scaling a variety of different networks to gigantic sizes efficiently. Moreover, GPipe utilizes a novel batchsplitting pipelining algorithm, resulting in almost linear speedup when a model is partitioned across multiple accelerators. We demonstrate the advantages of GPipe by training large-scale neural networks on two different tasks with distinct network architectures: (i) _Image Classification_ : We train a 557-million-parameter AmoebaNet model and attain a top-1 accuracy of 84.4% on ImageNet-2012, (ii) _Multilingual Neural Machine Translation_ : We train a single 6-billion-parameter, 128-layer Transformer model on a corpus spanning over 100 languages and achieve better quality than all bilingual models.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.840]
+## **7 Conclusion** 
+
+In this work, we introduce GPipe, a scalable model-parallelism library for training giant neural networks. We propose and implement a novel batch-splitting pipeline-parallelism algorithm that uses synchronous gradient updates, allowing model parallelism with high hardware utilization and training stability. We leverage GPipe to train large-scale convolutional and transformer-based models and demonstrate strong empirical results on both image classification and multilingual machine translation. We highlight three key attributes of the GPipe library: 1) Efficiency: Using a novel batch-splitting pipelining algorithm, GPipe achieves almost linear speedup with the number of devices. 2) Flexibility: GPipe supports any deep network that can be represented as a sequence of layers. 3) Reliability: GPipe utilizes synchronous gradient descent and guarantees consistent training regardless of the number of partitions.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.721]
+## **3 Performance Analyses** 
+
+We evaluate GPipe performance with two very different types of model architectures: an AmoebaNet [12] convolutional model and a Transformer [15] sequence-to-sequence model. We ran experiments to study their scalability, efficiency and communication cost. 
+
+We expect both re-materialization and pipeline parallelism to benefit memory utilization and thus make fitting giant models feasible. We report the biggest model size GPipe can support under reasonably large input size in Table 1. For AmoebaNet, we ran the experiments on Cloud TPUv2s with 8GB memory per accelerator. We used a fixed input image size of 224 _×_ 224 and mini-batch size of 128. Without GPipe, a single accelerator can train up to an 82M-parameter AmoebaNet, constrained by device memory limits. Owing to re-materialization in back-propagation and batch splitting, GPipe reduces the intermediate activation memory requirements from 6.26GB to 3.46GB, enabling a 318M-parameter model on a single accelerator. With model parallelism, we were able to scale AmoebaNet to 1.8 billion parameters on 8 accelerators, 25x more than what is possible without 
+
+4 
+
+GPipe. In this case, the maximum model size did not scale perfectly linearly due to the imbalanced distribution of model parameters over different layers in AmoebaNet. 
+
+We next trained Transformer models using Cloud TPUv3s with 16GB memory per accelerator core. We used a fixed vocabulary size of 32k, sequence length 1024 and batch size 32. Each Transformer layer has 2048 for model dimension, 8192 for feed-forward hidden dimension and 32 attention heads. We scaled the model by varying the number of layers. Re-materialization allows training a 2 _._ 7 _×_ larger model on a single accelerator. With 128 partitions, GPipe allows scaling Transformer up to 83.9B parameters, a 298 _×_ increase than what is possible on a single accelerator. Different from AmoebaNet, the maximum model size scales linearly with the number of accelerators for Transformer, since each layer has the same number of parameters and input sizes.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.507]
+To measure the effect of communication overhead with GPipe, we ran our experiments on a single host with multiple NVIDIA P100 GPUs but without NVLinks. Data transfer across GPUs then has to involve the relatively slow device-to-host and host-to-device transfers through PCI-E. The number of micro-batches was fixed at 32. As shown in Table 3, we observe 2 _._ 7 _×_ speedup for AmoebaNet-D (18, 128) when we increase the number of partitions from 2 to 8. For the 24-layer Transformer, the speedup is 3 _._ 3 _×_ . There is similar linear speedup to what we observe on TPUs where high-speed interconnects are equipped. The Table 3: Normalized training throughput using communication bandwidth between devices is GPipe on GPUs without high-speed interconnect. no longer a bottleneck for model parallelism GPU AmoebaNet Transformer since GPipe only transfers activation tensors at the boundaries of partitions. _K_ = 2 4 8 2 4 8 
+
+|GPU|A|moeba|Net|Transfor|mer|
+|---|---|---|---|---|---|
+|_K_ =|2|4|8|2<br>4|8|
+|_M_ = 32|1|1.7|2.7|1<br>1.8|3.3|
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.500]
+### **2.3 Performance Optimization** 
+
+In order to reduce activation memory requirements, GPipe supports re-materialization [14]. During forward computation, each accelerator only stores output activations at the partition boundaries. During the backward pass, the _k_ -th accelerator recomputes the composite forward function _Fk_ . As a consequence, peak activation memory requirement is reduced to _O_ ( _N_ + _K_<sup>_<u>L</u>×_</sup> _M_<sup>_<u>N</u>_), where</sup> _M_<sup>_<u>N</u>_is the</sup> micro-batch size and<sup>_<u>L</u>_In comparison, memory requirement</sup> _K_<sup>is the number of layers per partition.</sup> without re-materialization and partitioning would be _O_ ( _N × L_ ), since computing the gradients _bi_ requires both the upper layer gradients _bi_ +1 and the cached activations _fi_ ( _x_ ). 
+
+As illustrated in Figure 2c, partitioning introduces some idle time per accelerator, which we refer to as the _bubble_ overhead. This bubble time is _O_ ( _MK_ + _−K_ <u>1</u> _−_ 1<sup>) amortized over the number of micro-steps</sup> _M_ . In our experiments, we found the bubble overhead to be negligible when _M ≥_ 4 _× K_ . This is also partly because re-computation during the backward pass can be scheduled earlier, without waiting for the gradients from earlier layers. 
+
+GPipe also introduces low communication overhead, given that we only need to pass activation tensors at the partition boundaries between accelerators. Therefore, we can achieve efficient scaling performance even on accelerators without high-speed interconnects. 
+
+Figure 2c assumes partitions are evenly balanced. However, memory requirements and computation flops at different layers are often quite imbalanced. In such scenarios, imperfect partitioning algorithms might lead to load imbalance. Better partitioning algorithms can potentially improve the performance over our heuristic approach.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.456]
+To address these challenges, we introduce GPipe, a flexible library that enables efficient training of large neural networks. GPipe allows scaling arbitrary deep neural network architectures beyond the memory limitations of a single accelerator by partitioning the model across different accelerators and supporting re-materialization on every accelerator [13, 14]. With GPipe, each model can be specified as a sequence of layers, and consecutive groups of layers can be partitioned into cells. Each cell is then placed on a separate accelerator. Based on this partitioned setup, we propose a novel pipeline parallelism algorithm with batch splitting. We first split a _mini-batch_ of training examples into smaller _micro-batches_ , then pipeline the execution of each set of micro-batches over cells. We apply synchronous mini-batch gradient descent for training, where gradients are accumulated across all micro-batches in a mini-batch and applied at the end of a mini-batch. Consequently, gradient updates using GPipe are consistent regardless of the number of partitions, allowing researchers to easily train increasingly large models by deploying more accelerators. GPipe can also be complemented with data parallelism to further scale training. 
+
+We demonstrate the flexibility and efficiency of GPipe on image classification and machine translation. For image classification, we train the AmoebaNet model on 480 _×_ 480 input from the ImageNet 2012 dataset. By increasing the model width, we scale up the number of parameters to 557 million and achieve a top-1 validation accuracy of 84.4%. On machine translation, we train a single 128-layer 6-billion-parameter multilingual Transformer model on 103 languages (102 languages to English). We show that this model is capable of outperforming the individually trained 350-million-parameter bilingual Transformer Big [15] models on 100 language pairs.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.361]
+## **6 Design Features and Trade-Offs** 
+
+Several approaches have been proposed to enable efficient large-scale model parallelism. However, each approach chooses its own set of trade-offs, making it suitable for scaling specific architectures under particular hardware constraints. Here we highlight the various design choices and trade-offs involved with several model-parallelism approaches, and how they compare with GPipe in terms of flexibility, scalability and efficiency under various hardware constraints and architecture variants. 
+
+The core idea of model parallelism involves partitioning a network into different computational units, which are then placed on different devices [42, 43, 44, 45]. Conceptually this supports scaling a large spectrum of models to huge capacities. However these approaches typically suffer from low hardware utilization and device communication bottlenecks. Single Program Multiple Data (SPMD) and pipeline parallelism have been proposed as solutions to counter these challenges. 
+
+Mesh-Tensorflow [34] follows the SPMD paradigm, which extends the Single Instruction Multiple Data (SIMD) approach used for data parallelism to other tensor dimensions. SPMD allows splitting every computation across multiple devices, allowing the user to scale the size of individual matrix multiplications (and thus, the model parameters of individual layers) linearly with the number of accelerators. However, this also introduces high communication overhead between the accelerators due to an abundance of AllReduce-like operations used to combine the outputs of each parallelized matrix multiplication. This limits the applicability of the approach to scenarios where accelerators are connected with high speed interconnects. Further, SPMD limits the type of operations that can be efficiently scaled, restricting its use to a specific set of network architectures and machine learning tasks. For example, splitting along the channel dimension of convolution layers under this paradigm is not efficient given that channels are effectively fully connected, whereas splitting along the spatial dimension requires sophisticated techniques for the halo regions. While SPMD allows scaling the model depth by making each operation smaller, it requires splitting each layer over a larger number of accelerators, which in turn further increases the communication overhead across devices.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.344]
+### **2.2 Algorithm** 
+
+Once the user defines the sequence of layers in their network in terms of model parameters _wi_ , forward computation function _fi_ , and the cost estimation function _ci_ , GPipe partitions the network into _K_ cells and places the _k_ -th cell on the _k_ -th accelerator. Communication primitives are automatically inserted at partition boundaries to allow data transfer between neighboring partitions. The partitioning algorithm minimizes the variance in the estimated costs of all cells in order to maximize the efficiency of the pipeline by syncing the computation time across all partitions. 
+
+During the forward pass, GPipe first divides every mini-batch of size _N_ into _M_ equal micro-batches, which are pipelined through the _K_ accelerators. During the backward pass, gradients for each micro-batch are computed based on the same model parameters used for the forward pass. At the end of each mini-batch, gradients from all _M_ micro-batches are accumulated and applied to update the model parameters across all accelerators. This sequence of operations is illustrated in Figure 2c. 
+
+If batch normalization [20] is used in the network, the sufficient statistics of inputs during training are computed over each _micro-batch_ and over replicas if necessary [21]. We also track the moving average of the sufficient statistics over the entire _mini-batch_ to be used during evaluation. 
+
+3 
+
+Table 1: Maximum model size of AmoebaNet supported by GPipe under different scenarios. Naive-1 refers to the sequential version without GPipe. Pipeline- _k_ means _k_ partitions with GPipe on _k_ accelerators. AmoebaNet-D (L, D): AmoebaNet model with _L_ normal cell layers and filter size _D_ . Transformer-L: Transformer model with _L_ layers, 2048 model and 8192 hidden dimensions. Each model parameter needs 12 bytes since we applied RMSProp during training.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.115]
+## **5 Massive Massively Multilingual Machine Translation** 
+
+Next, we demonstrate the flexibility of GPipe by scaling up models used for Natural Language Processing (NLP). Due to an abundance of available parallel corpora, neural machine translation (NMT) has become a benchmark task for any architecture used for NLP [33, 15, 34, 35, 36]. For this reason, we continue our GPipe experiments on a large-scale multilingual NMT task. We use a corpus of parallel documents over 102 languages and English, containing a total of 25 billion training examples, ranging from 10<sup>4</sup> to 10<sup>9</sup> per language [37]. This dataset creates a realistic test bed for experiments on scalability by spanning a diverse set of languages from data-scarce (low-resource) to data-rich (high-resource). For the first time in machine translation, we show that a large enough NMT model can learn the mapping between more than 100 language pairs simultaneously, while achieving better than bilingual model performance for all languages. This further brings out the importance of having efficient and flexible model-parallelism tools. 
+
+Our comparison is based on the performance of a single Transformer [15] trained on all language pairs in this corpus. We scale the architecture along two dimensions to stress the flexibility of GPipe: (i) along the depth by increasing the number of layers in the model and (ii) along the width by increasing the hidden dimension in the feed-forward layers and the number of attention heads (as well as # attention channels) in multi-head attention layers similar to Shazeer _et al_ . [34]. Please refer to the supplementary material for a detailed description of our dataset, baselines, training configuration and optimization hyper-parameters.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.107]
+### **2.1 Interface** 
+
+Any deep neural network can be defined as a sequence of _L_ layers. Each layer _Li_ is composed of a forward computation function _fi_ , and a corresponding set of parameters _wi_ . GPipe additionally allows the user to specify an optional computation cost estimation function, _ci_ . With a given number of partitions _K_ , the sequence of _L_ layers can be partitioned into _K_ composite layers, or cells. Let _pk_ consist of consecutive layers between layers _i_ and _j_ . The set of parameters corresponding to _pk_ is equivalent to the union of _wi_ , _wi_ +1, . . . , _wj_ , and its forward function would be _Fk_ = _fj ◦. . .◦fi_ +1 _◦fi_ . The corresponding back-propagation function _Bk_ can be computed from _Fk_ using automatic symbolic differentiation. The cost estimator, _Ck_ , is set to Σ<sup>_j_</sup> _l_ = _i_<sup>_cl_.</sup> 
+
+The GPipe interface is extremely simple and intuitive, requiring the user to specify: (i) the number of model partitions _K_ , (ii) the number of micro-batches _M_ , and (iii) the sequence and definitions of _L_ layers that define the model. Please refer to supplementary material for examples.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.030]
+[44] Azalia Mirhoseini, Hieu Pham, Quoc V Le, Benoit Steiner, Rasmus Larsen, Yuefeng Zhou, Naveen Kumar, Mohammad Norouzi, Samy Bengio, and Jeff Dean. Device placement optimization with reinforcement learning. _arXiv preprint arXiv:1706.04972_ , 2017. 
+
+[45] Jeffrey Dean, Greg Corrado, Rajat Monga, Kai Chen, Matthieu Devin, Mark Mao, Marc aurelio Ranzato, Andrew Senior, Paul Tucker, Ke Yang, Quoc V. Le, and Andrew Y. Ng. Large scale distributed deep networks. In F. Pereira, C. J. C. Burges, L. Bottou, and K. Q. Weinberger, editors, _Neurips 25_ , pages 1223–1231. Curran Associates, Inc., 2012. 
+
+[46] A. Petrowski, G. Dreyfus, and C. Girault. Performance analysis of a pipelined backpropagation parallel algorithm. _IEEE Transactions on Neural Networks_ , 4(6):970–981, Nov 1993. 
+
+### [47] Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V Le, Mohammad Norouzi, Wolfgang Macherey, Maxim Krikun, Yuan Cao, Qin Gao, Klaus Macherey, et al. Google’s neural machine translation system: Bridging the gap between human and machine translation. _Transactions of_ 
+
+_the Association for Computational Linguistics,_ , 2017. 
+
+[48] Aaron Harlap, Deepak Narayanan, Amar Phanishayee, Vivek Seshadri, Nikhil Devanur, Greg Ganger, and Phil Gibbons. Pipedream: Fast and efficient pipeline parallel dnn training. _arXiv preprint arXiv:1806.03377_ , 2018. 
+
+[49] Mu Li, David G Andersen, Jun Woo Park, Alexander J Smola, Amr Ahmed, Vanja Josifovski, James Long, Eugene J Shekita, and Bor-Yiing Su. Scaling distributed machine learning with the parameter server. In _OSDI_ , volume 14, pages 583–598, 2014. 
+
+11
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.021]
+## **1 Introduction** 
+
+Deep learning has seen great progress over the last decade, partially thanks to the development of methods that have facilitated scaling the effective capacity of neural networks. This trend has been most visible for image classification, as demonstrated by the accuracy improvements on ImageNet with the increase in model capacity (Figure 1a). A similar phenomenon can also be observed in the context of natural language processing (Figure 1b) where simple shallow models of sentence representations [1, 2] are outperformed by their deeper and larger counterparts [3, 4]. 
+
+While larger models have brought remarkable quality improvements to several fields, scaling neural networks introduces significant practical challenges. Hardware constraints, including memory limitations and communication bandwidths on accelerators (GPU or TPU), force users to divide larger 
+
+Preprint. Under review. 
+
+Figure 1: (a) Strong correlation between top-1 accuracy on ImageNet 2012 validation dataset [5] and model size for representative state-of-the-art image classification models in recent years [6, 7, 8, 9, 10, 11, 12]. There has been a 36 _×_ increase in the model capacity. Red dot depicts 84 _._ 4% top-1 accuracy for the 550M parameter AmoebaNet model. (b) Average improvement in translation quality (BLEU) compared against bilingual baselines on our massively multilingual in-house corpus, with increasing model size. Each point, _T_ ( _L, H, A_ ), depicts the performance of a Transformer with _L_ encoder and _L_ decoder layers, a feed-forward hidden dimension of _H_ and _A_ attention heads. Red dot depicts the performance of a 128-layer 6B parameter Transformer. 
+
+
+
+
+
+models into partitions and to assign different partitions to different accelerators. However, efficient model parallelism algorithms are extremely hard to design and implement, which often requires the practitioner to make difficult choices among scaling capacity, flexibility (or specificity to particular tasks and architectures) and training efficiency. As a result, most efficient model-parallel algorithms are architecture and task-specific. With the growing number of applications of deep learning, there is an ever-increasing demand for reliable and flexible infrastructure that allows researchers to easily scale neural networks for a large variety of machine learning tasks.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.009]
+## **4 Image Classification** 
+
+As a proof of concept, we first used GPipe to scale AmoebaNet. We increased the number of 
+
+channels in an AmoebaNet and scaled the input image size to 480 _×_ 480. We trained this 557-millionparameter AmoebaNet-B(18, 512) on the ImageNet 2012 dataset, using the same hyper-parameters as described in [12]. The network was divided into 4 partitions. This single model achieves 84 _._ 4% top-1 and 97% top-5 validation accuracy with single-crop. 
+
+We further demonstrate the effectiveness of giant convolution networks on other image datasets through transfer learning [22, 23]. Specifically, we used the pre-trained ImageNet model to fine-tune on a variety of target datasets ranging from general to fine-grained classification. We changed the number of output units in the last softmax classification layer to the number of classes in the target dataset and initialized the new softmax layer randomly. All the other layers were initialized from 
+
+5 
+
+Table 4: Image classification accuracy using AmoebaNet-B (18, 512) first trained on ImageNet 2012 then fine-tuned on others. Please refer to the supplementary material for a detailed description of our training setup. Our fine-tuned results were averaged across 5 fine-tuning runs. Baseline results from Real _et al_ . [12] and Cubuk _et al_ . [26] were directly trained from scratch. *Mahajan _et al_ .’s model [27] achieved 85 _._ 4% top-1 accuracy but it was pretrained on non-public Instagram data. Ngiam _et al_ . [28] achieved better results by pre-training with data from a private dataset (JFT-300M).
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.008]
+- [36] Felix Wu, Angela Fan, Alexei Baevski, Yann N. Dauphin, and Michael Auli. Pay less attention with lightweight and dynamic convolutions. _CoRR_ , abs/1901.10430, 2019. 
+
+- [37] Naveen Arivazhagan, Ankur Bapna, Orhan Firat, Dmitry Lepikhin, Melvin Johnson, Maxim 
+
+Krikun, Mia Xu Chen, Yuan Cao, George Foster, Colin Cherry, et al. Massively multilingual neu- 
+
+ral machine translation in the wild: Findings and challenges. _arXiv preprint arXiv:1907.05019_ , 2019. 
+
+10 
+
+- [38] Hongyi Zhang, Yann N Dauphin, and Tengyu Ma. Fixup initialization: Residual learning without normalization. _arXiv preprint arXiv:1901.09321_ , 2019. 
+
+[39] Nitish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, and Ping T.P. Tang. On large-batch training for deep learning: Generalization gap and sharp minima. _CoRR_ , abs/1609.04836, 2016. 
+
+- [40] Samuel L. Smith, Pieter-Jan Kindermans, and Quoc V. Le. Don’t decay the learning rate, increase the batch size. _CoRR_ , abs/1711.00489, 2017. 
+
+[41] Myle Ott, Sergey Edunov, David Grangier, and Michael Auli. Scaling neural machine translation. In _Proceedings of the Third Conference on Machine Translation: Research Papers_ , pages 1–9, Belgium, Brussels, October 2018. Association for Computational Linguistics. 
+
+- [42] Alex Krizhevsky. One weird trick for parallelizing convolutional neural networks. _arXiv preprint arXiv:1404.5997_ , 2014. 
+
+[43] Seunghak Lee, Jin Kyu Kim, Xun Zheng, Qirong Ho, Garth A Gibson, and Eric P Xing. On model parallelization and scheduling strategies for distributed machine learning. In _Neurips_ , pages 2834–2842, 2014.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.007]
+**Trainability Challenges with Deep Models:** Although depth increases the representational capacity of neural networks, it also complicates the optimization problem. In our large-scale experiments, we encountered severe trainability issues arising from a combination of sharp activations (positive kurtosis) and dataset noise. We observed that after training for a few thousand steps, the model predictions would become extremely peaky and vulnerable to noise, which frequently resulted in non-finite or large gradients that eventually destroyed the learning progress. To counter these problems, we apply two methods: (i) Following Zhang _et al_ . [38], we scale down the initialization of all transformer feed-forward layers by the number of layers. (ii) We clip the logit predictions (softmax pre-activations) whenever their magnitude exceeds a certain value. A combination of these two approaches allows us to mitigate the training instability posed by scaling model depth. 
+
+Table 5: The Effect of Batch Size 
+
+**Large Batches:** Due to its simplicity, data parallelism is the dominant approach to scale neural network training[39, 40]. We test the limits of large-batch training by significantly increasing the batch size used for standard Transformer Big training. Starting from 260K tokens per batch, 
+
+|Batch Size|260K|1M|4M|
+|---|---|---|---|
+|BLEU|30.92|31.86|32.71|
+|Loss (NLL)|2.58|2.51|2.46|
+
+
+
+7 
+
+we increase the effective batch size to 4M and observe the validation loss and BLEU scores on the high-resource 
+
+language pair, German-English (similar trend can also be observed for other language pairs). Optimization parameters used here are identical to those for previous experiments. To our knowledge, 4M tokens per batch is the largest batch size that has ever been used in literature to date for training NMT models [41]. Table 5 shows that both metrics improve significantly as we increase the batch size. We believe further increasing batch size can potentially yield more improvement.
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.005]
+|NVIDIA GPUs (8GB each)|Naive-1|Pipeline-1|Pipeline-2|Pipeline-4|Pipeline-8|
+|---|---|---|---|---|---|
+|AmoebaNet-D (L, D)|(18, 208)|(18, 416)|(18, 544)|(36, 544)|(72, 512)|
+|# of Model Parameters|82M|318M|542M|1.05B|1.8B|
+|Total Model Parameter Memory|1.05GB|3.8GB|6.45GB|12.53GB|24.62GB|
+|Peak Activation Memory|6.26GB|3.46GB|8.11GB|15.21GB|26.24GB|
+|Cloud TPUv3 (16GB each)|Naive-1|Pipeline-1|Pipeline-8|Pipeline-32|Pipeline-128|
+|Transformer-L|3|13|103|415|1663|
+|# of Model Parameters|282.2M|785.8M|5.3B|21.0B|83.9B|
+|Total Model Parameter Memory|11.7G|8.8G|59.5G|235.1G|937.9G|
+|Peak Activation Memory|3.15G|6.4G|50.9G|199.9G|796.1G|
+
+---
+
+[referencia=c00b8dae0f8e596c score=0.002]
+We start with a standard 400M-parameter Transformer Big model, _T_ (6 _,_ 8192 _,_ 16)<sup>1</sup> , as described in Chen _et al_ . [35], with a vocabulary size of 64k. In Figure 3, we compare its performance against a 1.3B-parameter deep model, _T_ (24 _,_ 8192 _,_ 16), a 1.3B-parameter wide model, _T_ (12 _,_ 16384 _,_ 32), a 3Bparameter model, _T_ (32 _,_ 16384 _,_ 32) and a 6B-parameter model, _T_ (64 _,_ 16384 _,_ 32). All of the models are trained on all language pairs simultaneously, using temperature-based sampling as employed for multilingual BERT<sup>2</sup> [3]. _T_ (12 _,_ 16384 _,_ 32), _T_ (24 _,_ 8192 _,_ 32), _T_ (32 _,_ 16384 _,_ 32) and _T_ (64 _,_ 16384 _,_ 32) are partitioned over 2, 4, 8 and 16 accelerators respectively. 
+
+> 1 _T_ ( _L, H, A_ ) is a Transformer model with _L_ encoder layers and _L_ decoder layers, a feed-forward hidden dimension of _H_ and _A_ attention heads. 1024. 
+
+> 2https://github.com/google-research/bert/blob/master/multilingual.md 
+
+6 
+
+From Figure 3, we can observe that increasing the model capacity from 400M to 1.3B parameters significantly improves performance across all languages. Scaling up the model from 1.3B parameters to 6B parameters shows further improvement, especially for high-resource languages, although diminishing returns can be observed when scaling the model from 1.3B to 3B and 6B parameters. 
+
+Below we discuss some of our empirical findings based on these large-scale experiments.

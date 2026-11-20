@@ -1,0 +1,572 @@
+[
+  {
+    "id": "f1f9bff10762b267",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://g1.globo.com/tecnologia/noticia/2024/10/23/83percent-das-criancas-e-adolescentes-que-usam-internet-no-brasil-tem-contas-em-redes-sociais-diz-pesquisa.ghtml",
+    "normalized_url": "https://g1.globo.com/tecnologia/noticia/2024/10/23/83percent-das-criancas-e-adolescentes-que-usam-internet-no-brasil-tem-contas-em-redes-sociais-diz-pesquisa.ghtml",
+    "work_key": "https://g1.globo.com/tecnologia/noticia/2024/10/23/83percent-das-criancas-e-adolescentes-que-usam-internet-no-brasil-tem-contas-em-redes-sociais-diz-pesquisa.ghtml",
+    "title": "G1 Tecnologia. 83% das crianças e adolescentes que usam internet no Brasil têm contas em redes sociais, diz pesquisa. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:02.338463Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "17f0d31786b6070f",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://nic.br/noticia/releases/tic-kids-online-brasil-65-das-criancas-e-dos-adolescentes-usam-ia-generativa-para-estudar-criar-conteudo-e-lidar-com-emocoes/",
+    "normalized_url": "https://nic.br/noticia/releases/tic-kids-online-brasil-65-das-criancas-e-dos-adolescentes-usam-ia-generativa-para-estudar-criar-conteudo-e-lidar-com-emocoes",
+    "work_key": "https://nic.br/noticia/releases/tic-kids-online-brasil-65-das-criancas-e-dos-adolescentes-usam-ia-generativa-para-estudar-criar-conteudo-e-lidar-com-emocoes",
+    "title": "NIC.br. TIC Kids Online Brasil: 65% das crianças e dos adolescentes usam IA generativa para estudar, criar conteúdo e lidar com emoções. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:04.223818Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "463c3baf69530eff",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.gov.br/secom/pt-br/assuntos/uso-de-telas-por-criancas-e-adolescentes/guia/recursos-extras/pesquisas-e-outros-numeros",
+    "normalized_url": "https://gov.br/secom/pt-br/assuntos/uso-de-telas-por-criancas-e-adolescentes/guia/recursos-extras/pesquisas-e-outros-numeros",
+    "work_key": "https://gov.br/secom/pt-br/assuntos/uso-de-telas-por-criancas-e-adolescentes/guia/recursos-extras/pesquisas-e-outros-numeros",
+    "title": "Governo Federal do Brasil - SECOM. Pesquisas e outros números sobre o uso de telas por crianças e adolescentes. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:01.954420Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "88a21512fd0a814f",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.cgi.br/noticia/releases/tic-kids-online-investiga-pela-primeira-vez-frequencia-do-uso-de-plataformas-digitais-por-criancas-e-adolescentes/",
+    "normalized_url": "https://cgi.br/noticia/releases/tic-kids-online-investiga-pela-primeira-vez-frequencia-do-uso-de-plataformas-digitais-por-criancas-e-adolescentes",
+    "work_key": "https://cgi.br/noticia/releases/tic-kids-online-investiga-pela-primeira-vez-frequencia-do-uso-de-plataformas-digitais-por-criancas-e-adolescentes",
+    "title": "Comitê Gestor da Internet no Brasil (CGI.br). TIC Kids Online investiga a frequência do uso de plataformas digitais por crianças e adolescentes. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:04.234995Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d792272a4c67466d",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://cetic.br/media/docs/publicacoes/2/20250512154015/tic_kids_online_2024_resumo_executivo.pdf",
+    "normalized_url": "https://cetic.br/media/docs/publicacoes/2/20250512154015/tic_kids_online_2024_resumo_executivo.pdf",
+    "work_key": "https://cetic.br/media/docs/publicacoes/2/20250512154015/tic_kids_online_2024_resumo_executivo.pdf",
+    "title": "Cetic.br / NIC.br. Pesquisa TIC Kids Online Brasil 2024: Resumo Executivo. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:11.275925Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a7262bc00a5e1391",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://cetic.br/media/docs/publicacoes/2/20250210193221/estatisticas_tic_criancas.pdf",
+    "normalized_url": "https://cetic.br/media/docs/publicacoes/2/20250210193221/estatisticas_tic_criancas.pdf",
+    "work_key": "https://cetic.br/media/docs/publicacoes/2/20250210193221/estatisticas_tic_criancas.pdf",
+    "title": "Cetic.br / NIC.br. Estatísticas sobre o uso de tecnologias de informação e comunicação por crianças. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:14.369748Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6d7a7f6dc8d5c1a0",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://cetic.br/media/docs/publicacoes/2/pt-br/20260317181039/tic_kids_online_2025_livro_eletronico.pdf.pdf",
+    "normalized_url": "https://cetic.br/media/docs/publicacoes/2/pt-br/20260317181039/tic_kids_online_2025_livro_eletronico.pdf.pdf",
+    "work_key": "https://cetic.br/media/docs/publicacoes/2/pt-br/20260317181039/tic_kids_online_2025_livro_eletronico.pdf.pdf",
+    "title": "Cetic.br / NIC.br. Pesquisa TIC Kids Online Brasil 2025: Livro Eletrônico. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:48.435135Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a4b8c9d18ab41298",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://socialmediamdl.com/surgeon-general-social-media-report/",
+    "normalized_url": "https://socialmediamdl.com/surgeon-general-social-media-report",
+    "work_key": "https://socialmediamdl.com/surgeon-general-social-media-report",
+    "title": "Social Media MDL. U.S. Surgeon General Warns Social Media May Harm Youth Mental Health: Report Analysis. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:05.331843Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ff463288c6133abe",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html",
+    "normalized_url": "https://hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html",
+    "work_key": "https://hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html",
+    "title": "U.S. Department of Health and Human Services (HHS). Social Media and Youth Mental Health: The U.S. Surgeon General’s Advisory. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:06.233800Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e42f78a684e8a7d5",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.hopkinsmedicine.org/health/expert-qa/social-media-and-mental-health-in-children-and-teens",
+    "normalized_url": "https://hopkinsmedicine.org/health/expert-qa/social-media-and-mental-health-in-children-and-teens",
+    "work_key": "https://hopkinsmedicine.org/health/expert-qa/social-media-and-mental-health-in-children-and-teens",
+    "title": "Johns Hopkins Medicine. Social Media and Mental Health in Children and Teens. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:10.047315Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b3e2421f174d5ebb",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf",
+    "normalized_url": "https://hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf",
+    "work_key": "https://hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf",
+    "title": "U.S. Public Health Service / HHS. Social Media and Youth Mental Health: The U.S. Surgeon General’s Advisory (Full Report PDF). Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:24.979342Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2ff7caa537e910ae",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://institutodimicuida.org.br/books/saude-na-era-digital-sociedade-brasileira-de-pediatria-gestao-2022-2024/",
+    "normalized_url": "https://institutodimicuida.org.br/books/saude-na-era-digital-sociedade-brasileira-de-pediatria-gestao-2022-2024",
+    "work_key": "https://institutodimicuida.org.br/books/saude-na-era-digital-sociedade-brasileira-de-pediatria-gestao-2022-2024",
+    "title": "Sociedade Brasileira de Pediatria / Instituto DimiCuida. Manual de Orientação: Saúde na Era Digital. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:11.811924Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8578e2517a6ce2ab",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://portaldeboaspraticas.iff.fiocruz.br/biblioteca/menos-telas-mais-saude-atualizacao-2024/",
+    "normalized_url": "https://portaldeboaspraticas.iff.fiocruz.br/biblioteca/menos-telas-mais-saude-atualizacao-2024",
+    "work_key": "https://portaldeboaspraticas.iff.fiocruz.br/biblioteca/menos-telas-mais-saude-atualizacao-2024",
+    "title": "Sociedade Brasileira de Pediatria / Portal de Boas Práticas IFF/Fiocruz. Manual de Orientação: #MENOS TELAS #MAIS SAÚDE – Atualização 2024. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:12.697238Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1fc8808cf263de99",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.sbp.com.br/sbp-atualiza-recomendacoes-sobre-saude-de-criancas-e-adolescentes-na-era-digital/",
+    "normalized_url": "https://sbp.com.br/sbp-atualiza-recomendacoes-sobre-saude-de-criancas-e-adolescentes-na-era-digital",
+    "work_key": "https://sbp.com.br/sbp-atualiza-recomendacoes-sobre-saude-de-criancas-e-adolescentes-na-era-digital",
+    "title": "Sociedade Brasileira de Pediatria (SBP). SBP atualiza recomendações sobre saúde de crianças e adolescentes na era digital. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:13.370187Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "872da6d7d12d54c4",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701/",
+    "normalized_url": "https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701",
+    "work_key": "https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701",
+    "title": "Pediatric Pandemic Network / APA. Health Advisory on Social Media Use in Adolescence. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:17:00.341156Z",
+    "error_message": "HTTP 405 em https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701/",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1ff9266852a7b72d",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use.pdf",
+    "normalized_url": "https://apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use.pdf",
+    "work_key": "https://apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use.pdf",
+    "title": "American Psychological Association (APA). APA Health Advisory on Social Media Use in Adolescence (PDF). Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:22.827965Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4eb0d9592ee9d095",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.mayoclinic.org/healthy-lifestyle/tween-and-teen-health/in-depth/teens-and-social-media-use/art-20474437",
+    "normalized_url": "https://mayoclinic.org/healthy-lifestyle/tween-and-teen-health/in-depth/teens-and-social-media-use/art-20474437",
+    "work_key": "https://mayoclinic.org/healthy-lifestyle/tween-and-teen-health/in-depth/teens-and-social-media-use/art-20474437",
+    "title": "Mayo Clinic. Teens and social media use: What's the impact? Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:23.342937Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bf2971ae49a6c42f",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.apa.org/news/press/releases/2023/05/adolescent-social-media-use-recommendations",
+    "normalized_url": "https://apa.org/news/press/releases/2023/05/adolescent-social-media-use-recommendations",
+    "work_key": "https://apa.org/news/press/releases/2023/05/adolescent-social-media-use-recommendations",
+    "title": "American Psychological Association (APA). APA Panel Issues Recommendations for Adolescent Social Media Use. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:30.374389Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "24fab7d03912a4d2",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.wcwonline.org/2023/health-advisory-on-social-media-use-in-adolescence",
+    "normalized_url": "https://wcwonline.org/2023/health-advisory-on-social-media-use-in-adolescence",
+    "work_key": "https://wcwonline.org/2023/health-advisory-on-social-media-use-in-adolescence",
+    "title": "Wellesley Centers for Women. Health Advisory on Social Media Use in Adolescence. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:25.748900Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8fe67396eb8ff683",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.unesco.org/gem-report/en/articles/how-many-countries-have-phone-bans-school",
+    "normalized_url": "https://unesco.org/gem-report/en/articles/how-many-countries-have-phone-bans-school",
+    "work_key": "https://unesco.org/gem-report/en/articles/how-many-countries-have-phone-bans-school",
+    "title": "UNESCO. How many countries have phone bans in school? Global Education Monitoring Report. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:27.844058Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "810bcadc983e6b50",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning",
+    "normalized_url": "https://unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning",
+    "work_key": "https://unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning",
+    "title": "UNESCO. Smartphones in school: Only when they clearly support learning. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:27.619101Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "95d77a900cfafb72",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9205524&disposition=inline",
+    "normalized_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9205524",
+    "work_key": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9205524",
+    "title": "Senado Federal do Brasil. Projeto de Lei nº 2628, de 2022 (ECA Digital). Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:16:56.432619Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cc2fdeba1ab96094",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477340",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477340",
+    "work_key": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477340",
+    "title": "Câmara dos Deputados do Brasil. Ficha de Tramitação do Projeto de Lei nº 2628/2022. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:28.454129Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b3a75f2cf8dbbafd",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/170017",
+    "normalized_url": "https://congressonacional.leg.br/web/atividade/materias/-/materia/170017",
+    "work_key": "https://congressonacional.leg.br/web/atividade/materias/-/materia/170017",
+    "title": "Congresso Nacional do Brasil. Projeto de Lei nº 2628/2022 (Transformado na Lei Ordinária nº 15.211/2025). Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:42.276883Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "38e4b662e5da01c3",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.projuris.com.br/blog/pl-2628-eca-digital/",
+    "normalized_url": "https://projuris.com.br/blog/pl-2628-eca-digital",
+    "work_key": "https://projuris.com.br/blog/pl-2628-eca-digital",
+    "title": "Projuris. PL 2628/2022: Avanços e Desafios na Proteção Digital da Infância (ECA Digital). Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:31.080541Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "43202571e6b6382f",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.fadc.org.br/noticias/adultizacao-pl-2628",
+    "normalized_url": "https://fadc.org.br/noticias/adultizacao-pl-2628",
+    "work_key": "https://fadc.org.br/noticias/adultizacao-pl-2628",
+    "title": "Fundação Abrinq. Adultização infantil e segurança digital: o que o PL 2628/2022 pode mudar nas redes sociais. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:16:16.557435Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cf3ec49d57de3c08",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-08/camara-aprova-projeto-contra-adultizacao-de-criancas-nas-redes-sociais",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-08/camara-aprova-projeto-contra-adultizacao-de-criancas-nas-redes-sociais",
+    "work_key": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-08/camara-aprova-projeto-contra-adultizacao-de-criancas-nas-redes-sociais",
+    "title": "Agência Brasil / EBC. Câmara aprova projeto contra adultização de crianças nas redes sociais. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:41.000216Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3895e31f12bc91ca",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.opiniaoce.com.br/brasil/2026/06/29/mec-divulga-pesquisa-sobre-restricao-do-uso-de-celulares-nas-escolas/",
+    "normalized_url": "https://opiniaoce.com.br/brasil/2026/06/29/mec-divulga-pesquisa-sobre-restricao-do-uso-de-celulares-nas-escolas",
+    "work_key": "https://opiniaoce.com.br/brasil/2026/06/29/mec-divulga-pesquisa-sobre-restricao-do-uso-de-celulares-nas-escolas",
+    "title": "Opinião CE. MEC divulga pesquisa sobre restrição do uso de celulares nas escolas. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:41.489633Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a6aab68757918214",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://fundacaolemann.org.br/noticias/proibicao-de-celulares-nas-escolas-levanta-debate-sobre-educacao/",
+    "normalized_url": "https://fundacaolemann.org.br/noticias/proibicao-de-celulares-nas-escolas-levanta-debate-sobre-educacao",
+    "work_key": "https://fundacaolemann.org.br/noticias/proibicao-de-celulares-nas-escolas-levanta-debate-sobre-educacao",
+    "title": "Fundação Lemann. Proibição de celulares nas escolas levanta debate sobre educação. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:43.632299Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5cf1a569e63466b8",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.gov.br/mec/pt-br/acesso-a-informacao/perguntas-frequentes/uso-de-celulares-nas-escolas",
+    "normalized_url": "https://gov.br/mec/pt-br/acesso-a-informacao/perguntas-frequentes/uso-de-celulares-nas-escolas",
+    "work_key": "https://gov.br/mec/pt-br/acesso-a-informacao/perguntas-frequentes/uso-de-celulares-nas-escolas",
+    "title": "Ministério da Educação (MEC). Uso de celulares nas escolas: Lei nº 15.100/2025. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:53:46.230673Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "tool_name": "Gemini"
+  }
+]

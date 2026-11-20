@@ -1,0 +1,283 @@
+[referencia=11ae39b661d58ec6 score=0.995]
+# **1. Introduction** 
+
+The Transformer is widely used in natural language processing tasks. To train a Transformer however, one usually needs a carefully designed learning rate warm-up stage, which is shown to be crucial to the final performance but will slow down the optimization and bring more hyperparameter tunings. In this paper, we first study theoretically why the learning rate warm-up stage is essential and show that the location of layer normalization matters. Specifically, we prove with mean field theory that at initialization, for the original-designed Post-LN Transformer, which places the layer normalization between the residual blocks, the expected gradients of the parameters near the output layer are large. Therefore, using a large learning rate on those gradients makes the training unstable. The warm-up stage is practically helpful for avoiding this problem. On the other hand, our theory also shows that if the layer normalization is put inside the residual blocks (recently proposed as Pre-LN Transformer), the gradients are well-behaved at initialization. This motivates us to remove the warm-up stage for the training of Pre-LN Transformers. We show in our experiments that Pre-LN Transformers without the warm-up stage can reach comparable results with baselines while requiring significantly less training time and hyper-parameter tuning on a wide range of applications. 
+
+*Equal contribution _†_ Works done while interning at Microsoft Research Asia<sup>1</sup> CAS Key Laboratory of Network Data Science and Technology, Institute of Computing Technolog, Chinese Academy of Sciences<sup>2</sup> University of Chinese Academy of Sciences<sup>3</sup> Center for Data Science, Peking University, Beijing Institute of Big Data Research<sup>4</sup> Key Laboratory of Machine Perception, MOE, School of EECS, Peking University<sup>5</sup> Microsoft Research 6College of Computer Science, Nankai University. Correspondence to: Shuxin Zheng <shuxin.zheng@microsoft.com>, Di He <dihe@microsoft.com>. 
+
+_Proceedings of the 37_<sup>_th_</sup> _International Conference on Machine Learning_ , Vienna, Austria, PMLR 108, 2020. Copyright 2020 by the author(s).
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.991]
+In this paper, we try to alleviate this problem by finding ways to safely remove the learning rate warm-up stage. As the warm-up stage happens in the first several iterations, we investigate the optimization behavior at initialization using mean field theory (Lee et al., 2017; Xiao et al., 2018; Yang et al., 2019a; Yang, 2019; Lee et al., 2019; Zhang et al., 2019). According to our theoretical analysis, when putting the layer normalization between the residual blocks, the expected gradients of the parameters near the output layer 
+
+**On Layer Normalization in the Transformer Architecture** 
+
+
+
+_Figure 1._ (a) Post-LN Transformer layer; (b) Pre-LN Transformer layer. 
+
+are large. Therefore, without the warm-up stage, directly using a large learning rate to those parameters can make the optimization process unstable. Using a warm-up stage and training the model with small learning rates practically avoid this problem. Extensive experiments are provided to support our theoretical findings. 
+
+Our theory also shows that the layer normalization plays a crucial role in controlling the gradient scales. This motivates us to investigate whether there are some other ways of positioning the layer normalization that lead to well-behaved gradients. In particular, we study another variant, the Transformer with Pre-Layer Normalization (Pre-LN) (Baevski & Auli, 2018; Child et al., 2019; Wang et al., 2019). The Pre-LN Transformer puts the layer normalization inside the residual connection and equips with an additional _final-layer normalization_ before prediction (Please see Figure 1 for the differences between the two variants of the Transformer architectures). We show that at initialization, the gradients are well-behaved without any exploding or vanishing for the Pre-LN Transformer both theoretically and empirically.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.953]
+Given the gradients are well-behaved in the Pre-LN Transformer, it is natural to consider removing the learning rate warm-up stage during training. We conduct a variety of experiments, including IWSLT14 German-English translation, WMT14 English-German translation, and BERT pretraining tasks. We show that, in all tasks, the learning rate warm-up stage can be safely removed, and thus, the number of hyper-parameter is reduced. Furthermore, we observe that the loss decays faster for the Pre-LN Transformer model. It can achieve comparable final performances but use much less training time. This is particularly important for training large-scale models on large-scale datasets. 
+
+Our contributions are summarized as follows: 
+
+Transformer and the Pre-LN Transformer, using mean field theory. By studying the gradients at initialization, we provide evidence to show why the learning rate warm-up stage is essential in training the Post-LN Transformer. 
+
+_•_ We are the first to show that the learning-rate warm-up stage can be removed for the Pre-LN Transformer, which eases the hyperparameter tuning. We further show that by using proper learning rate schedulers, the training time can be largely reduced on a wide range of applications.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.901]
+**Unsupervised Pre-training (BERT)** We record validation loss of the model checkpoints and plot them in Figure 5(a). Similar to the machine translation tasks, the learning rate warm-up stage can be removed for the Pre-LN model. The Pre-LN model can be trained faster. For example, the Post-LN model achieves 1.69 validation loss at 500k updates while the Pre-LN model achieves similar validation loss at 700k updates, which suggests there is a 40% speed-up rate. Note that _Twarmup_ (10k) is far less than the acceleration 
+
+(200k) which suggests the Pre-LN Transformer is easier to optimize using larger learning rates. We also evaluate different model checkpoints on the downstream task MRPC and RTE (more details can be found in the supplementary material). The experiments results are plotted in Figure 5(b) and 5(c). We can see that the Pre-LN model also converges faster on the downstream tasks. 
+
+As a summary, all the experiments on different tasks show that training the Pre-LN Transformer does not rely on the learning rate warm-up stage and can be trained much faster than the Post-LN Transformer. 
+
+# **5. Conclusion and Future Work** 
+
+In this paper, we study why the learning rate warm-up stage is important in training the Transformer and show that the location of layer normalization matters. We show that in the original Transformer, which locates the layer normalization outside the residual blocks, the expected gradients of the parameters near the output layer are large at initialization. This leads to an unstable training when using a large learning rate. We further show that the Transformer which locates the layer normalization inside the residual blocks, can be trained without the warm-up stage and converges much faster. In the future, we will investigate other strategies of positioning the layer normalization and understand the optimization of Transformer from a theoretical perspective. 
+
+**On Layer Normalization in the Transformer Architecture**
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.900]
+# **H. Small learning rate experiment** 
+
+Theoretically, we find that the gradients of the parameters near the output layers are very large for the Post-LN Transformer and suggest using large learning rates to those parameters makes the training unstable. To verify whether using small-step updates mitigates the issue, we use a very small but fixed learning rate and check whether it can optimize the Post-LN Transformer (without the learning rate warm-up step) to a certain extent. In detail, we use a fixed learning rate of 1 _e_<sup>_−_4</sup> at the beginning of the optimization, which is much smaller than the lr _max_ = 1 _e_<sup>_−_3</sup> in the paper. Please note that as the learning rates during training are small, the training converges slowly, and this setting is not very practical in real large-scale tasks. We plot the validation curve together with other baseline approaches in Figure 6. We can see from the figure, the validation loss (pink curve) is around 4.3 in 27 epochs. This loss is much lower than that of the Post-LN Transformer trained using a large learning rate (blue curve). But it is still worse than the SOTA performance (green curve).
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.855]
+**The critical warm-up stage for Post-LN Transformer** Given the analysis above, we hypothesize that the gradient scale is one of the reasons that the Post-LN Transformer needs a careful learning rate scheduling. Since the gradients are large for some layers, using a large learning rate without warm-up may make the training unstable. 
+
+To verify this argument, first, we study the gradient statistics for the Post-LN Transformer after the warm-up stage with Adam. It can be seen from Figure 3(a) and 3(b) that the scale 
+
+**On Layer Normalization in the Transformer Architecture** 
+
+
+
+<!-- Start of picture text -->
+2.0<br>1.0 Pre-LN (init)Post-LN (init) 1.5 PrePost-LN (init)-LN (init) 0.4 Pre-LN 1.5<br>Post-LN (after warm-up) Post-LN (after warm-up)<br>1.0<br>1.0<br>0.5 0.2<br>0.5 0.5<br>Post-LN<br>0.0 0.0 0.0 0.0<br>1 2 3 4 5 6 1 2 3 4 5 6 6 8 10 12 14 6 8 10 12 14<br>Layer Layer #Layer #Layer<br>(a) W 1 in the FFN sub-layers (b) W 2 in the FFN sub-layers (c) Pre-LN Transformer (d) Post-LN Transformer<br>Gradient Expectation Gradient Expectation Gradient Expectation Gradient Expectation<br><!-- End of picture text -->
+
+_Figure 3._ The norm of gradients of 1. different layers in the 6-6 Transformer (a,b). 2. _W_<sup>2</sup><sup>_,L_</sup> in different size of the Transformer (c,d).
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.836]
+_and for the Pre-LN Transformer with L layers,_ 
+
+
+
+**On Layer Normalization in the Transformer Architecture** 
+
+From Theorem 1, we can see that for the Post-LN Transformer, the scale of the gradients to the last FFN layer is of order _O_ ( _d√_ ln _d_ ) which is independent of _L_ . For the Pre-LN Transformer, the scale of the gradients is much smaller. We first study the forward propagation of the PostLN Transformer and the Pre-LN Transformer. Lemma 1 will be served as a basic tool to prove the main theorem and other lemmas. 
+
+**Lemma 1.** _If X ∈_ R<sup>_d_</sup> _is a Gaussian vector, X ∼ N_ (0 _, σ_<sup>2</sup> **I** _d_ ) _, then_ E( _∥ReLU_ ( _X_ ) _∥_ 2<sup>2) =</sup><sup><u>1</u></sup> 2<sup>_σ_2</sup><sup>_d._</sup> 
+
+Based on Lemma 1, we have the following lemma to estimate the scale of the hidden states in different layers for the Post-LN Transformer and the Pre-LN Transformer. 
+
+**Lemma 2.** _At initialization, for the Post-LN Transformer,_ E( _∥x_<sup>_post,_</sup> _l,i_<sup>5</sup> _∥_ 2<sup>2)=</sup> 2<sup><u>3</u></sup><sup>_dforalll>_0</sup><sup>_andi.ForthePre-LN_</sup> _Transformer,_ (1 + 2<sup>_<u>l</u>_)</sup><sup>_d≤_E(</sup><sup>_∥xpre_</sup> _l,i_<sup>_∥_</sup> 2<sup>2)</sup><sup>_≤_(1 +</sup><sup><u>3</u></sup> 2<sup>_<u>l</u>_)</sup><sup>_d for all_</sup> _l >_ 0 _and i. Expectations are taken over the input and the randomness of initialization._
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.834]
+## **3.4. Empirical verification of the theory and discussion** 
+
+As our theory is derived based on several simplifications of the problem, we conduct experiments to study whether our theoretical insights are consistent with what we observe in real scenarios. The general model and training configuration exactly follow Section 3.2. The experiments are repeated ten times using different random seeds. 
+
+**On the concentration property** Given an initialized model, we record the hidden states in the Post-LN/Pre-LN Transformer across batches and find that the norm of the hidden states satisfies the property ((0.1,0.125)-bounded). 
+
+**On Theorem 1** Theorem 1 suggests that for any sizes of the Post-LN Transformer, the scale of the gradient norm in the last FFN sub-layer remains the same. On the contrary, that of the Pre-LN Transformer decreases as the size of the model grows. We calculate and record the gradient norm in the last FFN sub-layer in 6-6/8-8/10-10/12-12/14-14 PostLN/Pre-LN Transformer models at initialization. The results are plotted in Figure 3(c) and 3(d). The x-axis is the size of the model, and the y-axis is the value of the gradient norm of _W_<sup>2</sup> in the final FFN sub-layer. The figures show when the number of layers grows, the gradient norm remains in the Post-LN Transformer (around 1.6) and decreases in the Pre-LN Transformer. This observation is consistent with our theory. 
+
+**On the extended theory** We calculate the gradient norm of each paramter matrix in 6-6 Post-LN/Pre-LN Transformer. We record the gradient for each parameter for different minibatches. For elements in a parameter matrix, we calculate their expected gradients and use the Frobenius norm of those values as the scale of the expected gradient of the matrix. Figure 3(a) and 3(b) shows those statistics for FFN sub-layers. The x-axis indexes different Transformer layers. It can be seen from the figure, the scale of the expected gradients grows along with the layer index for the Post-LN Transformer. On the contrary, the scale almost keeps the same for different layers in the Pre-LN Transformer. These observations are consistent with our theoretical findings.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.810]
+where 
+
+
+
+The Jacobian matrices of the Post-LN Transformer layers are: 
+
+
+
+where 
+
+
+
+
+
+Since _∂x∂x_<sup>_post,_</sup> _<u>j</u>_ <u>+1</u><sup>5</sup> = _diag_ ( **J** _LN_ ( _x_<sup>_post,_</sup> _j,_ 1<sup>5</sup> ) _, ...,_ **J** _LN_ ( _x_<sup>_post,_</sup> _j,n_<sup>5</sup> )), _j_ we have �E <u>�</u> _∥ ∂x∂x_<sup>_post,_</sup> _j_<sup>_post_</sup> _<u>j</u>_ <u>+1</u><sup>5</sup> _∥_<sup>2</sup> 2� _≈_ ~~�~~ E _∥x_<sup>_post,_</sup> _j,_ 1 _<u>d</u>_<sup>5</sup> _∥_<sup>2</sup> 2<sup>_≈_</sup> � <u>23</u><sup>when</sup> _∥x_<sup>_post,_</sup> _j,_ 1<sup>5</sup> _∥_ 2<sup>2concentrates around its expectation E</sup><sup>_∥xpost,_</sup> _j,_ 1<sup>5</sup> _∥_ 2<sup>2</sup> which equals<sup><u>3</u></sup> 2<sup>_d_according to Lemma 2.Therefore, when</sup> we estimate the norm of _∂W∂L_<sup>˜2</sup><sup>_,l_forpost-LNtransformer,</sup> there exists a term _O_ (<sup><u>2</u></sup> 3 ( _L−l_ ) _/_ 2), which exponentially decreases as _l_ goes smaller. Similarly, in the pre-LN Transformer, the gradient can be written as 
+
+
+
+where 
+
+
+
+The Jacobian matrices of the Pre-LN Transformer layers are: 
+
+**On Layer Normalization in the Transformer Architecture**
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.776]
+**Extended theory to other layers/parameters** We have provided a formal proof on the gradients of the last FFN sublayer as above. In order to fully understand the optimization, we also make some preliminary analysis for other layers and other parameters. Our main result is that the gradient norm in the Post-LN Transformer is large for the parameters near the output and will be likely to decay as the layer index _l_ decreases. On the contrary, the gradient norm in the PreTransformer will be likely to stay the same for any layer _l_ . All the preliminary theoretical results are provided in the 
+
+supplementary material.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.718]
+# **4. Experiments** 
+
+We find in the previous section that the gradients at initialization for Pre-LN Transformer are well-behaved. Given this observation, we deduce that the learning rate warm-up stage can be safely removed when training Pre-LN Transformer. In this section, we empirically verify it on two main tasks in NLP, machine translation and unsupervised pre-training.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.599]
+## **3.2. The learning rate warm-up stage** 
+
+We are interested in the _learning rate warm-up_ stage in the optimization of the Post-LN Transformer. Different from the optimization of many other architectures in which the learning rate starts from a relatively large value and then decays (Bahdanau et al., 2017; Dauphin et al., 2017), a learning rate warm-up stage for the Post-LN Transformer seems **critical** (Popel & Bojar, 2018). We denote the learning rate of the _t_ -th iteration as lr( _t_ ) and the maximum learning rate during training as lr _max_ . Given a predefined time frame _T_ warmup, the learning rate scheduler for the first _T_ warmup iterations (Vaswani et al., 2018) is defined as 
+
+
+
+After this warm-up stage, the learning rate will be set by classical learning rate schedulers, such as the linear decay, the inverse square-root decay, or forced decay at particular iterations. We conduct experiments to show that this learning rate warm-up stage is essential for training Post-LN Transformer models. 
+
+**Experimental setting** We conduct experiments on the IWSLT14 German-to-English (De-En) machine translation 
+
+**On Layer Normalization in the Transformer Architecture** 
+
+_Table 1._ Post-LN Transformer v.s. Pre-LN Transformer
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.557]
+(Liu et al., 2019a) claimed that the benefit of the warm-up stage comes from reducing the variance for the adaptive learning rate in the Adam optimizer (Kingma & Ba, 2014). They proposed to rectify the variance of adaptive learning rate by a new variant of Adam called RAdam. However, we find that not only for Adam, the learning rate warm-up stage also helps quite a lot for other optimizers. This may indicate that Adam is not the prerequisite for the necessity of the warm-up stage. In a concurrent and independent work, Nguyen & Salazar (2019) also empirically observed that the Pre-LN Transformer can be trained without learning rate warm-up stage. Our work provides a more comprehensive study regrading this with a theoretical analysis. 
+
+- We investigate two Transformer variants, the Post-LN 
+
+**On Layer Normalization in the Transformer Architecture**
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.551]
+the warm-up stage” while "w/ warm-up" indicates “with the warm-up stage”. 
+
+First, we can see that for both optimizers, the learning rate warm-up stage is essential. Without the warm-up stage, the BLEU score of the model trained with Adam optimizer can only achieve 8.45. As a comparison, the model trained using the warm-up stage can achieve around 34 in terms of BLEU score. The same trend can also be observed on the validation loss curves. Although the performance of the model trained with SGD is significantly worse than Adam, we can still see similar phenomena as Adam. The BLEU score is just above zero in 15 epochs without using the warm-up stage. 
+
+Second, we can see that the optimization process is sensitive to the value of _T_ warmup, which means _T_ warmup is an important hyper-parameter in training the Post-LN Transformer. For example, when setting _T_ warmup = 500, the learned models with Adam achieve only 31.16 and 2.77 in term of BLEU score for _lrmax_ = 5 _e_<sup>_−_4</sup> and 1 _e_<sup>_−_3</sup> respectively. 
+
+Such a warm-up stage has several disadvantages. First, its configuration significantly affects the final performance. The practitioners need a careful hyper-parameter tuning, which is computationally expensive for large-scale NLP tasks. Second, the warm-up stage could slow down the optimization. Standard optimization algorithms usually start 
+
+**On Layer Normalization in the Transformer Architecture** 
+
+with a large learning rate for fast convergence. However, when using the warm-up stage, the learning rate has to gradually increase from zero, which may make the training inefficient. Liu et al. (2019a) suggests that the warm-up stage plays a role in reducing the undesirably significant variance in Adam in the early stage of model training. However, according to our results, the warm-up stage also helps the training of SGD. This suggests that the benefit of the warm-up stage may be not for a particular optimizer.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.542]
+Lemma 2 studies the expected norm of the hidden states in both Post-LN/Pre-LN Transformer. It is obviously that in the Post-LN Transformer, the norm of _x_<sup>_post_</sup> _l,i_ is _√d_ and thus we study the norm of _x_<sup>_post,_</sup> _l,i_<sup>5</sup> instead. As we can see from Lemma 2, the scale of the hidden states in the Post-LN Transformer keeps to be the same in expectation while the scale of the hidden states in the Pre-LN Transformer grows linearly along with the depth. The next lemma shows that the scale of the hidden states highly relates to the scale of the gradient in the architectures using layer normalization. 
+
+**Lemma 3.** _For x ∈_ R<sup>_d_</sup> _, we have ∥_ **J** _LN_ ( _x_ ) _∥_ 2= _O_ ( _∥_ _~~<u>√</u>~~ x∥d_ 2<sup>)</sup><sup>_in_</sup> _which_ **J** _LN_ ( _x_ ) =<sup>_∂LN_</sup> _∂x_<sup><u>(</u></sup><sup>_x_</sup><sup><u>)</u></sup> _._ 
+
+The proof of Lemma 1, Lemma 2, Lemma 3, and Theorem 1 can be found in the supplementary material. The main idea is that the layer normalization will normalize the gradients. In the Post-LN Transformer, the scale of the inputs to the layer normalization is independent of _L_ , and thus the gradients of parameters in the last layer are independent of _L_ . While in the Pre-LN Transformer, the scale of the input to the final layer normalization is linear in _L_ , and thus the gradients of all parameters will be normalized by _√L_ .
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.531]
+_Figure 4._ Performances of the models on the IWSLT14 De-En task and WMT14 En-De task 
+
+
+
+<!-- Start of picture text -->
+Post-LN 0.90 0.74<br>2.0 Pre-LN 0.88 0.72<br>0.86<br>1.9 0.70<br>0.84<br>1.8 0.68<br>0.82<br>1.7 0.80 0.66<br>0.78 0.64<br>1.6 Post-LN Post-LN<br>0.76 Pre-LN 0.62 Pre-LN<br>100 300 500 700 900 0 200 400 600 800 0 200 400 600 800<br>Pre-training Steps (Thousands) Pre-training Steps (Thousands) Pre-training Steps (Thousands)<br>(a) Validation Loss on BERT (b) Accuracy on MRPC (c) Accuracy on RTE<br>Acc. Acc.<br>Validation Loss<br><!-- End of picture text -->
+
+_Figure 5._ Performances of the models on unsupervised pre-training (BERT) and downstream tasks 
+
+BLEU score and validation loss of the Pre-LN Transformer can achieve around 34 and 4, which are comparable with the performance of the Post-LN Transformer. 
+
+Second, the Pre-LN Transformer converges faster than the Post-LN Transformer using the same lr _max_ . On the IWSLT14 De-En task, the 9-th checkpoint of the Pre-LN Transformer achieves nearly the same performance (validation loss/BLEU score) as 15-th checkpoint of the PostLN Transformer. Similar observations can be found in the WMT14 En-De task. 
+
+Third, compared with RAdam, we find that the change of the position of layer normalization “dominates” the change of the optimizer. According to our experiments on the IWSLT14 De-En task, we can see that although RAdam trains the Post-LN Transformer well without the warm-up stage, it has little difference with Adam when training the Pre-LN Transformer.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.504]
+## **3.3. Understanding the Transformer at initialization** 
+
+We can see that the Post-LN Transformer cannot be trained with a large learning rate from scratch. This motivates us to investigate what happens at the model initialization. We first introduce the parameter initialization setting for our theoretical analysis and then present our theoretical findings. 
+
+**Notations** We denote _L_ ( _·_ ) as the loss function of one position, _L_<sup>˜</sup> ( _·_ ) as the loss function of the whole sequence, _∥·∥_ 2 and _∥·∥F_ as the _l_ 2 norm (spectral norm) and the Frobenius norm, LN( _x_ ) as the standard layer normalization with scale _γ_ = 1 and bias _β_ = 0, and **J** _LN_ ( _x_ ) =<sup>_∂_</sup><sup><u>LN</u></sup> _∂x_<sup><u>(</u></sup><sup>_x_</sup><sup><u>)</u></sup> as the Jacobian matrix of LN( _x_ ). Let _O_ ( _·_ ) denote standard Big-O notation that suppress multiplicative constants. 
+
+**Parameter Initialization** The parameter matrices in each Transformer layer are usually initialized by the Xavier initialization (Glorot & Bengio, 2010). Given a matrix of size _nin × nout_ , the Xavier initialization sets the value of each element by independently sampling from Gaussian distribution _N_ (0 _, nin_ +2 _nout_<sup>). The bias vectors are usually initialized</sup> as zero vectors. The scale _γ_ in the layer normalization is set to one.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.496]
+So 
+
+
+
+So with probability at least 0 _._ 99, for all _p_ = 1 _,_ 2 _, ..., d_ we have ReLU([ _x_<sup>_pre,_</sup> _L,i_<sup>4</sup> _W_<sup>1</sup><sup>_,L_</sup> ] _p_ )<sup>2</sup> _≤_ 2 ln 100 _d_ . 
+
+
+
+and 
+
+
+
+
+
+The loss of the pre-LN Transformer can be written as 
+
+which equals 
+
+
+
+
+
+According to union bound, with probability 0 _._ 99 _− δ_ ( _ϵ_ ) _−_ 1+ _ϵϵ−α_ 0 we have _| ∂L_ ( _∂Wx_<sup>_pre_</sup> _F inalpq_<sup>2</sup><sup>_,L_</sup> _<u>,i</u>_<sup>)</sup> _|_<sup>2</sup> = 
+
+Using the same technique, in the pre-LN setting the gradient of _L_ ( _x_<sup>_pre_</sup> _F inal,i_<sup>)withrespecttothelastlayer’sparameter</sup> 
+
+**On Layer Normalization in the Transformer Architecture** 
+
+
+
+Take _α_ 0 = 101<sup>,wehavethatwithprobabilityatleast</sup> _<u>ϵ</u>_ 0 _._ 99 _− δ_ ( _ϵ_ ) _−_ 0 _._ 9+ _ϵ_<sup>, for the Post-LN Transformer we have</sup> _∥ ∂W∂L_<sup>2˜</sup><sup>_,L∥F ≤O_(</sup><sup>_d_</sup> _√_ ln _d_ ) and for the Pre-LN Transformer we have _∥ ∂W∂L_<sup>2˜</sup><sup>_,L∥F ≤O_(</sup><sup>_d_</sup> � <u>ln</u> _L d_<sup>)</sup> 
+
+Using Hölder’s inequality, we have
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.453]
+# **2. Related work** 
+
+Gradient descent-based methods (Kingma & Ba, 2014; Zeiler, 2012; Duchi et al., 2011; Tieleman & Hinton, 2012) are popularly used in optimizing deep neural networks. For convolutional neural networks and recurrent neural networks, a relatively large learning rate is usually set in the beginning, and then decreased along with the optimization process (He et al., 2016; 2017; Sutskever et al., 2014; Gehring et al., 2017; He et al., 2019). The learning rate warm-up stage has only been shown essential in dealing with some very specific problems, e.g., the large-batch training. Goyal et al. (2017); He et al. (2019); You et al. (2018) showed that a learning rate warm-up stage is preferred when training neural networks with extremely large batch sizes. 
+
+However, the learning rate warm-up stage is essential and critical when optimizing the Transformer models in a majority of scenarios (Vaswani et al., 2017; Devlin et al., 2018; Dai et al., 2019; Radford et al., 2019; Lu et al., 2019). Popel & Bojar (2018) investigated the influence of different warmup strategies for the optimization of the Post-LN Transformer model and found that without or with relatively less warm-up iterations, the optimization diverges. The PreLN Transformer has been proposed in several recent works (Baevski & Auli, 2018; Child et al., 2019; Wang et al., 2019) to alleviate some optimization issues when training deeper models, but the troublesome warm-up stage still remains in their training pipelines.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.403]
+## **4.1. Experiment Settings** 
+
+**Machine Translation** We conduct our experiments on two widely used tasks: the IWSLT14 German-to-English (De-En) task and the WMT14 English-to-German (En-De) task. For the IWSLT14 De-En task, we use the same model configuration as in Section 3. For the WMT14 En-De task, we use the Transformer base setting. More details can be found in the supplementary material. 
+
+For training the Pre-LN Transformer, we remove the learning rate warm-up stage. On the IWSLT14 De-En task, we set the initial learning rate to be 5 _e_<sup>_−_4</sup> and decay the learning rate at the 8-th epoch by 0.1. On the WMT14 En-De task, we run two experiments in which the initial learning rates are set to be 7 _e_<sup>_−_4</sup> _/_ 1 _._ 5 _e_<sup>_−_3</sup> respectively. Both learning rates are decayed at the 6-th epoch followed by the inverse square root learning rate scheduler. 
+
+We train the Post-LN Transformer using the learning rate warm-up stage as the baseline. In both IWSLT14 De-En task and WMT14 En-De task, we set the number of the warm-up stage to be 4000 following Vaswani et al. (2017) and then use the inverse square root learning rate scheduler. For all 
+
+experiments above, we use the Adam optimizer and set the hyper-parameter _β_ to be (0 _._ 9 _,_ 0 _._ 98). We set _lrmax_ as same as the initial learning rates of the Pre-LN Transformer in each corresponding experiment. Since Liu et al. (2019a) suggests that the learning rate warm-up stage can be removed using RAdam, we try this optimizer on the IWSLT14 De-En task. We use linear learning rate decay suggested by Liu et al. (2019a) and keep all other hyper-parameters to be the same as in other experiments.

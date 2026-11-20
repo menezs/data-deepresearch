@@ -1,0 +1,85 @@
+2026-11-14 23:24:15,438 INFO     __main__: Iniciando run rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z para answers/Ingles/Claude/EmConsolidacao/rede_social_saude_mental_adolecentes.md (ferramenta=Claude)
+2026-11-14 23:24:23,735 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-14 23:24:23,735 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-14 23:24:26,093 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 11784.72it/s]
+2026-11-14 23:24:36,982 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-14 23:24:36,990 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-14 23:24:36,998 INFO     auditframework.pipeline: Extraidas 39 referencias de answers/Ingles/Claude/EmConsolidacao/rede_social_saude_mental_adolecentes.md (0 descartadas como artefato do exportador)
+2026-11-14 23:24:37,006 INFO     auditframework.pipeline: Resposta dividida em 82 trechos citados
+2026-11-14 23:24:37,008 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-14 23:24:37,009 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-14 23:24:37,011 INFO     auditframework.ingestion.service: Ingestao: 39 referencias, 0 ja baixadas, 0 ja bloqueadas, 39 pendentes
+2026-11-14 23:24:39,223 WARNING  trafilatura.core: discarding data: None
+2026-11-14 23:25:36,667 WARNING  trafilatura.core: discarding data: None
+2026-11-14 23:25:37,102 INFO     auditframework.ingestion.fetcher: Referencia https://www.ox.ac.uk/node/1434409 recuperada do Wayback (copia de 20260319155517)
+2026-11-14 23:25:41,768 INFO     auditframework.ingestion.fetcher: Referencia https://en.wikipedia.org/wiki/Social_media_age_verification_laws_by_country recuperada imitando o Safari
+2026-11-14 23:26:27,984 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf: Falha ao baixar a copia do Wayback de https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf: Rate limit persistente em http://web.archive.org/web/20240815100436id_/https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf
+2026-11-14 23:26:27,987 WARNING  auditframework.ingestion.service: Referencia morta: https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf (Referencia nao encontrada (404): https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf)
+2026-11-14 23:26:47,177 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments/: Falha ao baixar a copia do Wayback de https://www.globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments/: Rate limit persistente em http://web.archive.org/web/20260718161124id_/https://www.globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments/
+2026-11-14 23:26:47,179 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments/
+2026-11-14 23:26:47,182 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 39/39 [02:10<00:00,  3.34s/ref]
+2026-11-14 23:26:47,184 INFO     auditframework.pipeline: Ingestao concluida: 37 documentos disponiveis
+2026-11-14 23:26:47,186 INFO     auditframework.terminal: ✓ ingestion concluído em 130.2s
+2026-11-14 23:26:47,187 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-14 23:26:48,217 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 37/37 [00:01<00:00, 35.99doc/s]
+2026-11-14 23:26:48,218 INFO     auditframework.indexing.service: Gerando embeddings para 646 chunks de 37 documentos
+2026-11-14 23:27:15,577 INFO     auditframework.terminal: Batches: 100%|██████████| 41/41 [00:27<00:00,  1.50it/s]
+2026-11-14 23:27:15,638 INFO     auditframework.pipeline: Indice construido a partir de 37 documentos
+2026-11-14 23:27:15,640 INFO     auditframework.terminal: ✓ indexing concluído em 28.5s
+2026-11-14 23:27:15,641 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-14 23:27:15,649 INFO     auditframework.pipeline: Julgamento: 82 chunks, 0 ja julgados, 0 ja pulados, 82 pendentes
+2026-11-14 23:27:16,546 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-14 23:27:17,131 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/82 [00:00<?, ?chunk/s]
+2026-11-14 23:27:17,234 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-14 23:27:17,334 INFO     auditframework.terminal: Loading weights:  28%|██▊       | 112/393 [00:00<00:00, 1114.92it/s]
+2026-11-14 23:27:17,424 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 1354.21it/s]
+2026-11-14 23:28:55,329 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-40 nao sera auditado: Referencia(s) citada(s) ['d76c4dfc11e3cb0e'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-14 23:29:12,849 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-67 nao sera auditado: Referencia(s) citada(s) ['686b086a4fbd155f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-14 23:29:18,426 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 82/82 [02:02<00:00,  1.50s/chunk]
+2026-11-14 23:35:46,773 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-40 nao auditado: Referencia(s) citada(s) ['d76c4dfc11e3cb0e'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-14 23:39:44,193 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-67 nao auditado: Referencia(s) citada(s) ['686b086a4fbd155f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-14 23:41:43,060 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 82/82 [12:24<00:00,  9.08s/chunk]
+2026-11-14 23:41:43,062 INFO     auditframework.terminal: ✓ judging concluído em 867.4s
+2026-11-14 23:41:43,071 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-14 23:41:43,078 INFO     auditframework.pipeline: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z/report.md
+2026-11-14 23:41:43,079 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-14 23:41:43,080 INFO     __main__: Run rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z concluida
+2026-11-14 23:41:43,081 INFO     auditframework.terminal: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z/report.md
+2026-11-17 23:05:12,800 INFO     auditframework.terminal: audit refetch rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z
+2026-11-17 23:05:12,805 INFO     auditframework.ingestion.service: Ingestao: 39 referencias, 37 ja baixadas, 0 ja bloqueadas, 2 pendentes
+2026-11-17 23:05:19,190 INFO     auditframework.ingestion.fetcher: Referencia https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf recuperada do Wayback (copia de 20240815100436)
+2026-11-17 23:05:22,670 INFO     auditframework.ingestion.fetcher: Referencia https://www.globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments/ recuperada do Wayback (copia de 20260718161124)
+2026-11-17 23:05:22,688 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 2/2 [00:09<00:00,  4.93s/ref]
+2026-11-17 23:05:22,692 INFO     auditframework.terminal: rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z: 2 fonte(s) sem conteudo, 2 recuperada(s)
+2026-11-17 23:05:22,692 INFO     auditframework.terminal:   https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf — downloaded
+2026-11-17 23:05:22,692 INFO     auditframework.terminal:   https://www.globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments/ — downloaded
+2026-11-17 23:05:22,796 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para data/runs/rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z/invalidado-20261118T030522Z
+2026-11-17 23:05:22,797 INFO     auditframework.terminal: 3 trecho(s) citado(s) para julgar de novo (os demais mantem o veredito)
+2026-11-17 23:05:22,797 INFO     auditframework.terminal: Rode: audit resume rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z
+2026-11-17 23:05:23,399 INFO     __main__: Retomando run rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z
+2026-11-17 23:05:29,748 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 23:05:29,748 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 23:05:32,196 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 13492.83it/s]
+2026-11-17 23:05:42,304 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-17 23:05:42,314 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-17 23:05:42,314 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-17 23:05:42,315 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-17 23:05:43,448 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 39/39 [00:01<00:00, 34.53doc/s]
+2026-11-17 23:05:43,448 INFO     auditframework.indexing.service: Gerando embeddings para 687 chunks de 39 documentos
+2026-11-17 23:06:12,472 INFO     auditframework.terminal: Batches: 100%|██████████| 43/43 [00:29<00:00,  1.48it/s]
+2026-11-17 23:06:12,540 INFO     auditframework.pipeline: Indice construido a partir de 39 documentos
+2026-11-17 23:06:12,542 INFO     auditframework.terminal: ✓ indexing concluído em 31.0s
+2026-11-17 23:06:12,543 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-17 23:06:12,553 INFO     auditframework.pipeline: Julgamento: 82 chunks, 79 ja julgados, 0 ja pulados, 3 pendentes
+2026-11-17 23:06:13,962 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-17 23:06:14,552 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/3 [00:00<?, ?chunk/s]
+2026-11-17 23:06:14,655 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-17 23:06:14,715 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 2435.81it/s]
+2026-11-17 23:06:29,307 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 3/3 [00:16<00:00,  5.58s/chunk]
+2026-11-17 23:06:51,487 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 3/3 [00:22<00:00,  7.39s/chunk]
+2026-11-17 23:06:51,489 INFO     auditframework.terminal: ✓ judging concluído em 39.8s
+2026-11-17 23:06:51,492 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 23:06:51,499 INFO     auditframework.pipeline: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z/report.md
+2026-11-17 23:06:51,501 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 23:06:51,501 INFO     __main__: Run rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z concluida
+2026-11-17 23:06:51,502 INFO     auditframework.terminal: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z/report.md

@@ -1,0 +1,239 @@
+[referencia=e30ab28959e94bb4 score=0.985]
+| (18) | In addition to their significance in the context of scientific research, text and data mining techniques are widely used both by private and public entities to analyse large amounts of data in different areas of life and for various purposes, including for government services, complex business decisions and the development of new applications or technologies. Rightholders should remain able to license the uses of their works or other subject matter falling outside the scope of the mandatory exception provided for in this Directive for text and data mining for the purposes of scientific research and of the existing exceptions and limitations provided for in Directive 2001/29/EC. At the same time, consideration should be given to the fact that users of text and data mining could be faced with legal uncertainty as to whether reproductions and extractions made for the purposes of text and data mining can be carried out on lawfully accessed works or other subject matter, in particular when the reproductions or extractions made for the purposes of the technical process do not fulfil all the conditions of the existing exception for temporary acts of reproduction provided for in Article 5(1) of Directive 2001/29/EC. In order to provide for more legal certainty in such cases and to encourage innovation also in the private sector, this Directive should provide, under certain conditions, for an exception or limitation for reproductions and extractions of works or other subject matter, for the purposes of text and data mining, and allow the copies made to be retained for as long as is necessary for those text and data mining purposes. This exception or limitation should only apply where the work or other subject matter is accessed lawfully by the beneficiary, including when it has been made available to the public online, and insofar as the rightholders have not reserved in an appropriate manner the rights to make reproductions and extractions for text and data mining. In the case of content that has been made publicly available online, it should only be considered appropriate to reserve those rights by the use of machine-readable means, including metadata and terms and conditions of a website or a service. Other uses should not be affected by the reservation of rights for the purposes of text and data mining. In other cases, it can be appropriate to reserve the rights by other means, such as contractual agreements or a unilateral declaration. Rightholders should be able to apply measures to ensure that their reservations in this regard are respected.
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.571]
+| (5) | In the fields of research, innovation, education and preservation of cultural heritage, digital technologies permit new types of uses that are not clearly covered by the existing Union rules on exceptions and limitations. In addition, the optional nature of exceptions and limitations provided for in Directives 96/9/EC, 2001/29/EC and 2009/24/EC in those fields could negatively impact the functioning of the internal market. This is particularly relevant as regards cross-border uses, which are becoming increasingly important in the digital environment. Therefore, the existing exceptions and limitations in Union law that are relevant for scientific research, innovation, teaching and preservation of cultural heritage should be reassessed in the light of those new uses. Mandatory exceptions or limitations for uses of text and data mining technologies, illustration for teaching in the digital environment and for preservation of cultural heritage should be introduced. The existing exceptions and limitations in Union law should continue to apply, including to text and data mining, education, and preservation activities, as long as they do not limit the scope of the mandatory exceptions or limitations provided for in this Directive, which need to be implemented by Member States in their national law. Directives 96/9/EC and 2001/29/EC should, therefore, be amended. | 
+
+| (6) | The exceptions and limitations provided for in this Directive seek to achieve a fair balance between the rights and interests of authors and other rightholders, on the one hand, and of users on the other. They can be applied only in certain special cases that do not conflict with the normal exploitation of the works or other subject matter and do not unreasonably prejudice the legitimate interests of the rightholders. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.529]
+TITLE II
+
+MEASURES TO ADAPT EXCEPTIONS AND LIMITATIONS TO THE DIGITAL AND CROSS-BORDER ENVIRONMENT
+
+Article 3
+
+Text and data mining for the purposes of scientific research
+
+1. Member States shall provide for an exception to the rights provided for in Article 5(a) and Article 7(1) of Directive 96/9/EC, Article 2 of Directive 2001/29/EC, and Article 15(1) of this Directive for reproductions and extractions made by research organisations and cultural heritage institutions in order to carry out, for the purposes of scientific research, text and data mining of works or other subject matter to which they have lawful access.
+
+2. Copies of works or other subject matter made in compliance with paragraph 1 shall be stored with an appropriate level of security and may be retained for the purposes of scientific research, including for the verification of research results.
+
+3. Rightholders shall be allowed to apply measures to ensure the security and integrity of the networks and databases where the works or other subject matter are hosted. Such measures shall not go beyond what is necessary to achieve that objective.
+
+4. Member States shall encourage rightholders, research organisations and cultural heritage institutions to define commonly agreed best practices concerning the application of the obligation and of the measures referred to in paragraphs 2 and 3 respectively.
+
+Article 4
+
+Exception or limitation for text and data mining
+
+1. Member States shall provide for an exception or limitation to the rights provided for in Article 5(a) and Article 7(1) of Directive 96/9/EC, Article 2 of Directive 2001/29/EC, Article 4(1)(a) and (b) of Directive 2009/24/EC and Article 15(1) of this Directive for reproductions and extractions of lawfully accessible works and other subject matter for the purposes of text and data mining.
+
+2. Reproductions and extractions made pursuant to paragraph 1 may be retained for as long as is necessary for the purposes of text and data mining.
+
+3. The exception or limitation provided for in paragraph 1 shall apply on condition that the use of works and other subject matter referred to in that paragraph has not been expressly reserved by their rightholders in an appropriate manner, such as machine-readable means in the case of content made publicly available online.
+
+4. This Article shall not affect the application of Article 3 of this Directive.
+
+Article 5
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.503]
+| (86) | In accordance with the Joint Political Declaration of 28 September 2011 of Member States and the Commission on explanatory documents (18), Member States have undertaken to accompany, in justified cases, the notification of their transposition measures with one or more documents explaining the relationship between the components of a directive and the corresponding parts of national transposition instruments. With regard to this Directive, the legislator considers the transmission of such documents to be justified, | 
+
+HAVE ADOPTED THIS DIRECTIVE:
+
+TITLE I
+
+GENERAL PROVISIONS
+
+Article 1
+
+Subject matter and scope
+
+1. This Directive lays down rules which aim to harmonise further Union law applicable to copyright and related rights in the framework of the internal market, taking into account, in particular, digital and cross-border uses of protected content. It also lays down rules on exceptions and limitations to copyright and related rights, on the facilitation of licences, as well as rules which aim to ensure a well-functioning marketplace for the exploitation of works and other subject matter.
+
+2. Except in the cases referred to in Article 24, this Directive shall leave intact and shall in no way affect existing rules laid down in the directives currently in force in this area, in particular Directives 96/9/EC, 2000/31/EC, 2001/29/EC, 2006/115/EC, 2009/24/EC, 2012/28/EU and 2014/26/EU.
+
+Article 2
+
+Definitions
+
+For the purposes of this Directive, the following definitions apply:
+
+| (1) | ‘research organisation’ means a university, including its libraries, a research institute or any other entity, the primary goal of which is to conduct scientific research or to carry out educational activities involving also the conduct of scientific research: in such a way that the access to the results generated by such scientific research cannot be enjoyed on a preferential basis by an undertaking that exercises a decisive influence upon such organisation; | 
+
+| (a) | on a not-for-profit basis or by reinvesting all the profits in its scientific research; or | 
+
+| (b) | pursuant to a public interest mission recognised by a Member State; | 
+
+| (2) | ‘text and data mining’ means any automated analytical technique aimed at analysing text and data in digital form in order to generate information which includes but is not limited to patterns, trends and correlations; |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.474]
+| (3) | Rapid technological developments continue to transform the way works and other subject matter are created, produced, distributed and exploited. New business models and new actors continue to emerge. Relevant legislation needs to be future-proof so as not to restrict technological development. The objectives and the principles laid down by the Union copyright framework remain sound. However, legal uncertainty remains, for both rightholders and users, as regards certain uses, including cross-border uses, of works and other subject matter in the digital environment. As stated in the Commission Communication of 9 December 2015 entitled ‘Towards a modern, more European copyright framework’, in some areas it is necessary to adapt and supplement the existing Union copyright framework, while keeping a high level of protection of copyright and related rights. This Directive provides for rules to adapt certain exceptions and limitations to copyright and related rights to digital and cross-border environments, as well as for measures to facilitate certain licensing practices, in particular, but not only, as regards the dissemination of out-of-commerce works and other subject matter and the online availability of audiovisual works on video-on-demand platforms, with a view to ensuring wider access to content. It also contains rules to facilitate the use of content in the public domain. In order to achieve a well-functioning and fair marketplace for copyright, there should also be rules on rights in publications, on the use of works or other subject matter by online service providers storing and giving access to user-uploaded content, on the transparency of authors' and performers' contracts, on authors' and performers' remuneration, as well as a mechanism for the revocation of rights that authors and performers have transferred on an exclusive basis. | 
+
+| (4) | This Directive is based upon, and complements, the rules laid down in the directives currently in force in this area, in particular Directives 96/9/EC (4), 2000/31/EC (5), 2001/29/EC (6), 2006/115/EC (7), 2009/24/EC (8), 2012/28/EU (9) and 2014/26/EU (10) of the European Parliament and of the Council. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.402]
+In other cases, it can be appropriate to reserve the rights by other means, such as contractual agreements or a unilateral declaration. Rightholders should be able to apply measures to ensure that their reservations in this regard are respected. This exception or limitation should leave intact the mandatory exception for text and data mining for scientific research purposes provided for in this Directive, as well as the existing exception for temporary acts of reproduction provided for in Article 5(1) of Directive 2001/29/EC. | 
+
+| (19) | Article 5(3)(a) of Directive 2001/29/EC allows Member States to introduce an exception or limitation to the rights of reproduction, communication to the public and making available to the public of works or other subject matter in such a way that members of the public may access them from a place and a time individually chosen by them, for the sole purpose of illustration for teaching. In addition, Articles 6(2)(b) and 9(b) of Directive 96/9/EC permit the use of a database and the extraction of a substantial part of its contents for the purpose of illustration for teaching. The scope of those exceptions or limitations as they apply to digital uses is unclear. In addition, there is a lack of clarity as to whether those exceptions or limitations would apply where teaching is provided online and at a distance. Moreover, the existing legal framework does not provide for a cross-border effect. This situation could hamper the development of digitally supported teaching activities and distance learning. Therefore, the introduction of a new mandatory exception or limitation is necessary to ensure that educational establishments benefit from full legal certainty when using works or other subject matter in digital teaching activities, including online and across borders. | 
+
+| (20) | While distance learning and cross-border education programmes are mostly developed at higher education level, digital tools and resources are increasingly used at all education levels, in particular to improve and enrich the learning experience. The exception or limitation provided for in this Directive should, therefore, benefit all educational establishments recognised by a Member State, including those involved in primary, secondary, vocational and higher education. It should apply only to the extent that the uses are justified by the non-commercial purpose of the particular teaching activity. The organisational structure and the means of funding of an educational establishment should not be the decisive factors in determining whether the activity is non-commercial in nature. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.281]
+| (62) | Certain information society services, as part of their normal use, are designed to give access to the public to copyright-protected content or other subject matter uploaded by their users. The definition of an online content-sharing service provider laid down in this Directive should target only online services that play an important role on the online content market by competing with other online content services, such as online audio and video streaming services, for the same audiences. The services covered by this Directive are services, the main or one of the main purposes of which is to store and enable users to upload and share a large amount of copyright-protected content with the purpose of obtaining profit therefrom, either directly or indirectly, by organising it and promoting it in order to attract a larger audience, including by categorising it and using targeted promotion within it. Such services should not include services that have a main purpose other than that of enabling users to upload and share a large amount of copyright-protected content with the purpose of obtaining profit from that activity. The latter services include, for instance, electronic communication services within the meaning of Directive (EU) 2018/1972 of the European Parliament and of the Council (14), as well as providers of business-to-business cloud services and cloud services, which allow users to upload content for their own use, such as cyberlockers, or online marketplaces the main activity of which is online retail, and not giving access to copyright-protected content. Providers of services such as open source software development and sharing platforms, not-for-profit scientific or educational repositories as well as not-for-profit online encyclopedias should also be excluded from the definition of online content-sharing service provider. Finally, in order to ensure a high level of copyright protection, the liability exemption mechanism provided for in this Directive should not apply to service providers the main purpose of which is to engage in or to facilitate copyright piracy. | 
+
+| (63) | The assessment of whether an online content-sharing service provider stores and gives access to a large amount of copyright-protected content should be made on a case-by-case basis and should take account of a combination of elements, such as the audience of the service and the number of files of copyright-protected content uploaded by the users of the service. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.271]
+| (66) | Taking into account the fact that online content-sharing service providers give access to content which is not uploaded by them but by their users, it is appropriate to provide for a specific liability mechanism for the purposes of this Directive for cases in which no authorisation has been granted. That should be without prejudice to remedies under national law for cases other than liability for copyright infringements and to national courts or administrative authorities being able to issue injunctions in compliance with Union law. In particular, the specific regime applicable to new online content-sharing service providers with an annual turnover below EUR 10 million, of which the average number of monthly unique visitors in the Union does not exceed 5 million, should not affect the availability of remedies under Union and national law. Where no authorisation has been granted to service providers, they should make their best efforts in accordance with high industry standards of professional diligence to avoid the availability on their services of unauthorised works and other subject matter, as identified by the relevant rightholders. For that purpose, rightholders should provide the service providers with relevant and necessary information taking into account, among other factors, the size of rightholders and the type of their works and other subject matter. The steps taken by online content-sharing service providers in cooperation with rightholders should not lead to the prevention of the availability of non-infringing content, including works or other protected subject matter the use of which is covered by a licensing agreement, or an exception or limitation to copyright and related rights. Steps taken by such service providers should, therefore, not affect users who are using the online content-sharing services in order to lawfully upload and access information on such services. In addition, the obligations established in this Directive should not lead to Member States imposing a general monitoring obligation. When assessing whether an online content-sharing service provider has made its best efforts in accordance with the high industry standards of professional diligence, account should be taken of whether the service provider has taken all the steps that would be taken by a diligent operator to achieve the result of preventing the availability of unauthorised works or other subject matter on its website, taking into account best industry practices and the effectiveness of the steps taken in light of all relevant factors and developments, as well as the principle of proportionality.
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.243]
+| (15) | Research organisations and cultural heritage institutions could in certain cases, for example for subsequent verification of scientific research results, need to retain copies made under the exception for the purposes of carrying out text and data mining. In such cases, the copies should be stored in a secure environment. Member States should be free to decide, at national level and after discussions with relevant stakeholders, on further specific arrangements for retaining the copies, including the ability to appoint trusted bodies for the purpose of storing such copies. In order not to unduly restrict the application of the exception, such arrangements should be proportionate and limited to what is needed for retaining the copies in a safe manner and preventing unauthorised use. Uses for the purpose of scientific research, other than text and data mining, such as scientific peer review and joint research, should remain covered, where applicable, by the exception or limitation provided for in Article 5(3)(a) of Directive 2001/29/EC. | 
+
+| (16) | In view of a potentially high number of access requests to, and downloads of, their works or other subject matter, rightholders should be allowed to apply measures when there is a risk that the security and integrity of their systems or databases could be jeopardised. Such measures could, for example, be used to ensure that only persons having lawful access to their data can access them, including through IP address validation or user authentication. Those measures should remain proportionate to the risks involved, and should not exceed what is necessary to pursue the objective of ensuring the security and integrity of the system and should not undermine the effective application of the exception. | 
+
+| (17) | In view of the nature and scope of the exception, which is limited to entities carrying out scientific research, any potential harm created to rightholders through this exception would be minimal. Member States should, therefore, not provide for compensation for rightholders as regards uses under the text and data mining exceptions introduced by this Directive. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.231]
+| (64) | It is appropriate to clarify in this Directive that online content-sharing service providers perform an act of communication to the public or of making available to the public when they give the public access to copyright-protected works or other protected subject matter uploaded by their users. Consequently, online content-sharing service providers should obtain an authorisation, including via a licensing agreement, from the relevant rightholders. This does not affect the concept of communication to the public or of making available to the public elsewhere under Union law, nor does it affect the possible application of Article 3(1) and (2) of Directive 2001/29/EC to other service providers using copyright-protected content. | 
+
+| (65) | When online content-sharing service providers are liable for acts of communication to the public or making available to the public under the conditions laid down in this Directive, Article 14(1) of Directive 2000/31/EC should not apply to the liability arising from the provision of this Directive on the use of protected content by online content-sharing service providers. That should not affect the application of Article 14(1) of Directive 2000/31/EC to such service providers for purposes falling outside the scope of this Directive. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.193]
+| (2) | ‘text and data mining’ means any automated analytical technique aimed at analysing text and data in digital form in order to generate information which includes but is not limited to patterns, trends and correlations; | 
+
+| (3) | ‘cultural heritage institution’ means a publicly accessible library or museum, an archive or a film or audio heritage institution; | 
+
+| (4) | ‘press publication’ means a collection composed mainly of literary works of a journalistic nature, but which can also include other works or other subject matter, and which: Periodicals that are published for scientific or academic purposes, such as scientific journals, are not press publications for the purposes of this Directive; | 
+
+| (a) | constitutes an individual item within a periodical or regularly updated publication under a single title, such as a newspaper or a general or special interest magazine; | 
+
+| (b) | has the purpose of providing the general public with information related to news or other topics; and | 
+
+| (c) | is published in any media under the initiative, editorial responsibility and control of a service provider. | 
+
+| (5) | ‘information society service’ means a service within the meaning of point (b) of Article 1(1) of Directive (EU) 2015/1535; | 
+
+| (6) | ‘online content-sharing service provider’ means a provider of an information society service of which the main or one of the main purposes is to store and give the public access to a large amount of copyright-protected works or other protected subject matter uploaded by its users, which it organises and promotes for profit-making purposes. Providers of services, such as not-for-profit online encyclopedias, not-for-profit educational and scientific repositories, open source software-developing and-sharing platforms, providers of electronic communications services as defined in Directive (EU) 2018/1972, online marketplaces, business-to-business cloud services and cloud services that allow users to upload content for their own use, are not ‘online content-sharing service providers’ within the meaning of this Directive. | 
+
+TITLE II
+
+MEASURES TO ADAPT EXCEPTIONS AND LIMITATIONS TO THE DIGITAL AND CROSS-BORDER ENVIRONMENT
+
+Article 3
+
+Text and data mining for the purposes of scientific research
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.166]
+| (9) | Text and data mining can also be carried out in relation to mere facts or data that are not protected by copyright, and in such instances no authorisation is required under copyright law. There can also be instances of text and data mining that do not involve acts of reproduction or where the reproductions made fall under the mandatory exception for temporary acts of reproduction provided for in Article 5(1) of Directive 2001/29/EC, which should continue to apply to text and data mining techniques that do not involve the making of copies beyond the scope of that exception. | 
+
+| (10) | Union law provides for certain exceptions and limitations covering uses for scientific research purposes which may apply to acts of text and data mining. However, those exceptions and limitations are optional and not fully adapted to the use of technologies in scientific research. Moreover, where researchers have lawful access to content, for example through subscriptions to publications or open access licences, the terms of the licences could exclude text and data mining. As research is increasingly carried out with the assistance of digital technology, there is a risk that the Union's competitive position as a research area will suffer, unless steps are taken to address the legal uncertainty concerning text and data mining. | 
+
+| (11) | The legal uncertainty concerning text and data mining should be addressed by providing for a mandatory exception for universities and other research organisations, as well as for cultural heritage institutions, to the exclusive right of reproduction and to the right to prevent extraction from a database. In line with the existing Union research policy, which encourages universities and research institutes to collaborate with the private sector, research organisations should also benefit from such an exception when their research activities are carried out in the framework of public-private partnerships. While research organisations and cultural heritage institutions should continue to be the beneficiaries of that exception, they should also be able to rely on their private partners for carrying out text and data mining, including by using their technological tools. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.118]
+2. Member States shall provide that, where an online content-sharing service provider obtains an authorisation, for instance by concluding a licensing agreement, that authorisation shall also cover acts carried out by users of the services falling within the scope of Article 3 of Directive 2001/29/EC when they are not acting on a commercial basis or where their activity does not generate significant revenues.
+
+3. When an online content-sharing service provider performs an act of communication to the public or an act of making available to the public under the conditions laid down in this Directive, the limitation of liability established in Article 14(1) of Directive 2000/31/EC shall not apply to the situations covered by this Article.
+
+The first subparagraph of this paragraph shall not affect the possible application of Article 14(1) of Directive 2000/31/EC to those service providers for purposes falling outside the scope of this Directive.
+
+4. If no authorisation is granted, online content-sharing service providers shall be liable for unauthorised acts of communication to the public, including making available to the public, of copyright-protected works and other subject matter, unless the service providers demonstrate that they have:
+
+| (a) | made best efforts to obtain an authorisation, and | 
+
+| (b) | made, in accordance with high industry standards of professional diligence, best efforts to ensure the unavailability of specific works and other subject matter for which the rightholders have provided the service providers with the relevant and necessary information; and in any event | 
+
+| (c) | acted expeditiously, upon receiving a sufficiently substantiated notice from the rightholders, to disable access to, or to remove from their websites, the notified works or other subject matter, and made best efforts to prevent their future uploads in accordance with point (b). | 
+
+5. In determining whether the service provider has complied with its obligations under paragraph 4, and in light of the principle of proportionality, the following elements, among others, shall be taken into account:
+
+| (a) | the type, the audience and the size of the service and the type of works or other subject matter uploaded by the users of the service; and | 
+
+| (b) | the availability of suitable and effective means and their cost for service providers. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.108]
+| (b) | the availability of suitable and effective means and their cost for service providers. | 
+
+6. Member States shall provide that, in respect of new online content-sharing service providers the services of which have been available to the public in the Union for less than three years and which have an annual turnover below EUR 10 million, calculated in accordance with Commission Recommendation 2003/361/EC (20), the conditions under the liability regime set out in paragraph 4 are limited to compliance with point (a) of paragraph 4 and to acting expeditiously, upon receiving a sufficiently substantiated notice, to disable access to the notified works or other subject matter or to remove those works or other subject matter from their websites.
+
+Where the average number of monthly unique visitors of such service providers exceeds 5 million, calculated on the basis of the previous calendar year, they shall also demonstrate that they have made best efforts to prevent further uploads of the notified works and other subject matter for which the rightholders have provided relevant and necessary information.
+
+7. The cooperation between online content-sharing service providers and rightholders shall not result in the prevention of the availability of works or other subject matter uploaded by users, which do not infringe copyright and related rights, including where such works or other subject matter are covered by an exception or limitation.
+
+Member States shall ensure that users in each Member State are able to rely on any of the following existing exceptions or limitations when uploading and making available content generated by users on online content-sharing services:
+
+| (a) | quotation, criticism, review; | 
+
+| (b) | use for the purpose of caricature, parody or pastiche. | 
+
+8. The application of this Article shall not lead to any general monitoring obligation.
+
+Member States shall provide that online content-sharing service providers provide rightholders, at their request, with adequate information on the functioning of their practices with regard to the cooperation referred to in paragraph 4 and, where licensing agreements are concluded between service providers and rightholders, information on the use of content covered by the agreements.
+
+9. Member States shall provide that online content-sharing service providers put in place an effective and expeditious complaint and redress mechanism that is available to users of their services in the event of disputes over the disabling of access to, or the removal of, works or other subject matter uploaded by them.
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.107]
+| (7) | The protection of technological measures established in Directive 2001/29/EC remains essential to ensure the protection and the effective exercise of the rights granted to authors and to other rightholders under Union law. Such protection should be maintained while ensuring that the use of technological measures does not prevent the enjoyment of the exceptions and limitations provided for in this Directive. Rightholders should have the opportunity to ensure that through voluntary measures. They should remain free to choose the appropriate means of enabling the beneficiaries of the exceptions and limitations provided for in this Directive to benefit from them. In the absence of voluntary measures, Member States should take appropriate measures in accordance with the first subparagraph of Article 6(4) of Directive 2001/29/EC, including where works and other subject matter are made available to the public through on-demand services. | 
+
+| (8) | New technologies enable the automated computational analysis of information in digital form, such as text, sounds, images or data, generally known as text and data mining. Text and data mining makes the processing of large amounts of information with a view to gaining new knowledge and discovering new trends possible. Text and data mining technologies are prevalent across the digital economy; however, there is widespread acknowledgment that text and data mining can, in particular, benefit the research community and, in so doing, support innovation. Such technologies benefit universities and other research organisations, as well as cultural heritage institutions since they could also carry out research in the context of their main activities. However, in the Union, such organisations and institutions are confronted with legal uncertainty as to the extent to which they can perform text and data mining of content. In certain instances, text and data mining can involve acts protected by copyright, by the sui generis database right or by both, in particular, the reproduction of works or other subject matter, the extraction of contents from a database or both which occur for example when the data are normalised in the process of text and data mining. Where no exception or limitation applies, an authorisation to undertake such acts is required from rightholders. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.085]
+| (37) | Considering the variety of works and other subject matter in the collections of cultural heritage institutions, it is important that the licensing mechanisms and the exception or limitation provided for by this Directive are available and can be used in practice for different types of works and other subject matter, including photographs, software, phonograms, audiovisual works and unique works of art, including where they have never been commercially available. Never-in-commerce works can include posters, leaflets, trench journals or amateur audiovisual works, but also unpublished works or other subject matter, without prejudice to other applicable legal constraints, such as national rules on moral rights. When a work or other subject matter is available in any of its different versions, such as subsequent editions of literary works and alternate cuts of cinematographic works, or in any of its different manifestations, such as digital and printed formats of the same work, that work or other subject matter should not be considered out of commerce. Conversely, the commercial availability of adaptations, including other language versions or audiovisual adaptations of a literary work, should not preclude a work or other subject matter from being deemed to be out of commerce in a given language. In order to reflect the specificities of different types of works and other subject matter as regards modes of publication and distribution, and to facilitate the usability of those mechanisms, specific requirements and procedures might have to be established for the practical application of those licensing mechanisms, such as a requirement for a certain time period to have elapsed since the work or other subject matter was first commercially available. It is appropriate that Member States consult rightholders, cultural heritage institutions and collective management organisations when establishing such requirements and procedures. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.077]
+For the purposes of that assessment, a number of elements should be considered, such as the size of the service, the evolving state of the art as regards existing means, including potential future developments, to avoid the availability of different types of content and the cost of such means for the services. Different means to avoid the availability of unauthorised copyright-protected content could be appropriate and proportionate depending on the type of content, and, therefore, it cannot be excluded that in some cases availability of unauthorised content can only be avoided upon notification of rightholders. Any steps taken by service providers should be effective with regard to the objectives pursued but should not go beyond what is necessary to achieve the objective of avoiding and discontinuing the availability of unauthorised works and other subject matter. If unauthorised works and other subject matter become available despite the best efforts made in cooperation with rightholders, as required by this Directive, the online content-sharing service providers should be liable in relation to the specific works and other subject matter for which they have received the relevant and necessary information from rightholders, unless those providers demonstrate that they have made their best efforts in accordance with high industry standards of professional diligence. In addition, where specific unauthorised works or other subject matter have become available on online content-sharing services, including irrespective of whether the best efforts were made and regardless of whether rightholders have made available the relevant and necessary information in advance, the online content-sharing service providers should be liable for unauthorised acts of communication to the public of works or other subject matter, when, upon receiving a sufficiently substantiated notice, they fail to act expeditiously to disable access to, or to remove from their websites, the notified works or other subject matter. Additionally, such online content-sharing service providers should also be liable if they fail to demonstrate that they have made their best efforts to prevent the future uploading of specific unauthorised works, based on relevant and necessary information provided by rightholders for that purpose.
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.076]
+| (75) | As authors and performers tend to be in the weaker contractual position when they grant licences or transfer their rights, they need information to assess the continued economic value of their rights, compared to the remuneration received for their licence or transfer, but they often face a lack of transparency. Therefore, the sharing of adequate and accurate information by their contractual counterparts or their successors in title is important for the transparency and balance in the system governing the remuneration of authors and performers. That information should be up-to-date to allow access to recent data, relevant to the exploitation of the work or performance, and comprehensive in a way that it covers all sources of revenues relevant to the case, including, where applicable, merchandising revenues. As long as exploitation is ongoing, contractual counterparts of authors and performers should provide information available to them on all modes of exploitation and on all relevant revenues worldwide with a regularity that is appropriate in the relevant sector, but at least annually. The information should be provided in a manner that is comprehensible to the author or performer and it should allow the effective assessment of the economic value of the rights in question. The transparency obligation should nevertheless apply only where copyright relevant rights are concerned. The processing of personal data, such as contact details and information on remuneration, that are necessary to keep authors and performers informed in relation to the exploitation of their works and performances, should be carried out in accordance with Article 6(1)(c) of Regulation (EU) 2016/679. | 
+
+| (76) | In order to ensure that exploitation-related information is duly provided to authors and performers also in cases where the rights have been sub-licensed to other parties who exploit the rights, this Directive entitles authors and performers to request additional relevant information on the exploitation of the rights, in cases where the first contractual counterpart has provided the information available to them, but that information is not sufficient to assess the economic value of their rights. That request should be made either directly to sub-licensees or through the contractual counterparts of authors and performers. Authors and performers, and their contractual counterparts, should be able to agree to keep the shared information confidential, but authors and performers should always be able to use the shared information for the purpose of exercising their rights under this Directive. Member States should have the option, in compliance with Union law, to provide for further measures to ensure transparency for authors and performers. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.065]
+| (32) | The provisions on collective licensing of out-of-commerce works or other subject matter introduced by this Directive might not provide a solution for all cases in which cultural heritage institutions encounter difficulties in obtaining all the necessary authorisations from rightholders for the use of such out-of-commerce works or other subject matter. That could be the case for example, where there is no practice of collective management of rights for a certain type of work or other subject matter or where the relevant collective management organisation is not sufficiently representative for the category of the rightholders and of the rights concerned. In such particular instances, it should be possible for cultural heritage institutions to make out-of-commerce works or other subject matter that are permanently in their collection available online in all Member States under a harmonised exception or limitation to copyright and related rights. It is important that uses under such exception or limitation only take place when certain conditions, in particular as regards the availability of licensing solutions, are fulfilled. A lack of agreement on the conditions of the licence should not be interpreted as a lack of availability of licensing solutions. | 
+
+| (33) | Member States should, within the framework provided for in this Directive, have flexibility in choosing the specific type of licensing mechanism, such as extended collective licensing or presumptions of representation, that they put in place for the use of out-of-commerce works or other subject matter by cultural heritage institutions, in accordance with their legal traditions, practices or circumstances. Member States should also have flexibility in determining what the requirements for collective management organisations to be sufficiently representative are, as long as that determination is based on a significant number of rightholders in the relevant type of works or other subject matter having given a mandate allowing the licensing of the relevant type of use. Member States should be free to establish specific rules applicable to cases in which more than one collective management organisation is representative for the relevant works or other subject matter, requiring for example joint licences or an agreement between the relevant organisations. | 
+
+| (34) | For the purpose of those licensing mechanisms, a rigorous and well-functioning collective management system is important. Directive 2014/26/EU provides for such a system and that system includes in particular rules on good governance, transparency and reporting, as well as the regular, diligent and accurate distribution and payment of amounts due to individual rightholders. |
+
+---
+
+[referencia=e30ab28959e94bb4 score=0.064]
+| (61) | In recent years, the functioning of the online content market has gained in complexity. Online content-sharing services providing access to a large amount of copyright-protected content uploaded by their users have become a main source of access to content online. Online services are a means of providing wider access to cultural and creative works and offer great opportunities for cultural and creative industries to develop new business models. However, although they enable diversity and ease of access to content, they also generate challenges when copyright-protected content is uploaded without prior authorisation from rightholders. Legal uncertainty exists as to whether the providers of such services engage in copyright-relevant acts, and need to obtain authorisation from rightholders for content uploaded by their users who do not hold the relevant rights in the uploaded content, without prejudice to the application of exceptions and limitations provided for in Union law. That uncertainty affects the ability of rightholders to determine whether, and under which conditions, their works and other subject matter are used, as well as their ability to obtain appropriate remuneration for such use. It is therefore important to foster the development of the licensing market between rightholders and online content-sharing service providers. Those licensing agreements should be fair and keep a reasonable balance between both parties. Rightholders should receive appropriate remuneration for the use of their works or other subject matter. However, as contractual freedom should not be affected by those provisions, rightholders should not be obliged to give an authorisation or to conclude licensing agreements. |

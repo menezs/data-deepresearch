@@ -1,0 +1,1175 @@
+{
+  "run_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+  "answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Claude/Emergente/regulacao_ia.md",
+  "generated_at": "2026-11-02T20:31:51.939908Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 31298,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 103,
+    "citation_markers_distinct": 42,
+    "references_listed": 42,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 96,
+  "pct_supported": 75.0,
+  "pct_unsupported": 9.375,
+  "pct_contradicted": 2.083333333333333,
+  "count_supported": 72,
+  "count_unsupported": 9,
+  "count_contradicted": 2,
+  "count_skipped": 12,
+  "count_audited": 83,
+  "pct_supported_audited": 86.74698795180723,
+  "pct_unsupported_audited": 10.843373493975903,
+  "pct_contradicted_audited": 2.4096385542168677,
+  "count_partially_supported": 8,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 11,
+    "ref_sem_conteudo": 1
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 5,
+  "count_reclassified_by_verification": 4,
+  "verification_stage_counts": {
+    "context_expansion": 4
+  },
+  "mis_cited_reference_count": 5,
+  "uncredited_reference_count": 1,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "563de861a97a7bbb",
+      "citation_markers": [
+        "[8]"
+      ],
+      "raw_url": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+      "normalized_url": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+      "work_key": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+      "title": "Wikipedia – General-Purpose AI Code of Practice.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-02T20:01:28.191984Z",
+      "error_message": "Rate limit persistente em https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+      "barrier_kind": null,
+      "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "77e096f27c9d4bf6",
+      "citation_markers": [
+        "[3]"
+      ],
+      "raw_url": "https://www.consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence/",
+      "normalized_url": "https://consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence",
+      "work_key": "https://consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence",
+      "title": "Conselho da UE – Timeline: Artificial intelligence.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-02T19:59:55.910211Z",
+      "error_message": "barreira de acesso (anti_bot): Checking your browser before accessing a GSC Managed Website Verification successful. Waiting for www.consilium.europa.e",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "06a13daba8c316eb",
+      "citation_markers": [
+        "[6]"
+      ],
+      "raw_url": "https://www.consilium.europa.eu/de/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
+      "normalized_url": "https://consilium.europa.eu/de/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules",
+      "work_key": "https://consilium.europa.eu/de/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules",
+      "title": "Conselho da UE – Künstliche Intelligenz: Rat und Parlament einigen sich auf Vereinfachung und Straffung der Vorschriften (comunicado de 7/5/2026).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-02T19:59:55.992361Z",
+      "error_message": "barreira de acesso (anti_bot): Checking your browser before accessing a GSC Managed Website Verification successful. Waiting for www.consilium.europa.e",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-2",
+      "reason": "Referencia(s) citada(s) ['77e096f27c9d4bf6'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-11",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-16",
+      "reason": "Referencia(s) citada(s) ['563de861a97a7bbb'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-21",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-25",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-27",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-29",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-84",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-85",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-89",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-90",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-91",
+      "reason": "Referencia(s) citada(s) ['06a13daba8c316eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [
+    "regulacao_ia_1916d2c857a4_20261102T195932Z-63"
+  ],
+  "reference_stats": [
+    {
+      "reference_id": "acc5ad4063972046",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "times_cited": 20,
+      "supported_count": 18,
+      "unsupported_count": 1,
+      "contradicted_count": 1,
+      "supporting_citations": 16,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        12,
+        13,
+        14,
+        18,
+        26,
+        73,
+        74,
+        77,
+        80
+      ],
+      "partial_positions": [
+        72,
+        92
+      ],
+      "absent_positions": [
+        30
+      ],
+      "contradicts_positions": [
+        88
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The AI Act (Regulation (EU) 2024/1689 laying down harmonised rules on artificial intelligence) is the first-ever comprehensive legal framework on AI worldwide. The aim of the rules is to foster trustworthy AI in Europe.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "06a13daba8c316eb",
+      "url": "https://www.consilium.europa.eu/de/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
+      "times_cited": 12,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        11,
+        21,
+        25,
+        27,
+        29,
+        83,
+        84,
+        85,
+        88,
+        89,
+        90,
+        91
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1206880d7cc0d075",
+      "url": "https://www.poder360.com.br/poder-congresso/senado-aprova-regulamentacao-da-inteligencia-artificial-entenda/",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        40,
+        44,
+        45,
+        82
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [
+        79
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O texto estabelece uma série de casos para IAs de alto risco, como as que avaliam prioridades para serviços públicos essenciais ou para auxiliar diagnósticos e procedimentos médicos.",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "b8cdd5457cd3256f",
+      "url": "https://www.correiobraziliense.com.br/politica/2024/12/7004516-comissao-do-senado-aprova-pl-da-inteligencia-artificial.html",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        34,
+        37,
+        38
+      ],
+      "partial_positions": [
+        72
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O PL recebeu quase 200 emendas, sendo que 49 delas foram acatadas, total ou parcialmente.",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "d270207f01aec029",
+      "url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/The-Digital-AI-Omnibus-Proposed-deferral-of-high-risk-AI-obligations-under-the-AI-Act",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        19,
+        20,
+        22
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The European Commission published the Digital Omnibus on AI (Omnibus) on 19 November 2025, proposing to defer the high-risk compliance deadline from 2 August 2026 to 2 December 2027.",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "625a71934a77706e",
+      "url": "https://smabr.com/marco-regulatorio-da-inteligencia-artificial-e-aprovado-pelo-senado/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        35,
+        42,
+        71
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Seguindo o modelo do *Artificial Intelligence Act* , aprovado na União Europeia no início deste ano, o Projeto brasileiro classifica as regras de governança de IA conforme o grau de risco que representam para direitos potencialmente afetados, dos indivíduos ou da coletividade. Ou seja, quanto maior for o risco, mais rígidas serão as regras de compliance.",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "7ec9ed46eb649eaf",
+      "url": "https://documentacao.senior.com.br/exigenciaslegais/noticias/federal/2025/2025-03-20-camara-comeca-a-discutir-projeto-que-regulamenta-a-inteligencia-artificial-no-brasil",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        36,
+        39,
+        49
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Entre eles estão os chamados sistemas de armas autônomas, que podem selecionar e atacar alvos sem intervenção humana. Além disso, o texto veta sistemas que tenham o objetivo de produzir e disseminar material que represente abuso ou exploração sexual de crianças e adolescentes. A avaliação de traços de personalidade e de comportamento para prever crimes também fica proibida.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "e09853bd40aac242",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/apresentacoes-em-eventos/2025.09.09RonyVainzofFecomrcio.pdf",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        56
+      ],
+      "partial_positions": [
+        74
+      ],
+      "absent_positions": [
+        86
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "5) O controle de violação de direitos autorais deve ser feito no output; 6) Permitir o treinamento de IA a partir do uso de dados publicamente disponíveis na internet, desde que sem opt-out;",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "ba4210fb7ff0e297",
+      "url": "https://teletime.com.br/09/12/2025/pl-do-governo-garante-anpd-como-reguladora-residual-de-ia-no-brasil/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        58,
+        59
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        81
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Poder Executivo enviou nesta terça-feira, 9, mensagem ao Congresso Nacional contendo um projeto de lei (PL) que dá o primeiro passo para a regulamentação e estruturação do Sistema Nacional para Desenvolvimento, Regulação e Governança de Inteligência Artificial (SIA). [...] A proposta do governo será apensada ao texto do PL 2.338 e foi encaminhada para corrigir vício de iniciativa relacionado à parte de governança do SIA.",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "143eec3fe663bf75",
+      "url": "https://www.mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano/",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        66
+      ],
+      "partial_positions": [
+        76,
+        93
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o relator do projeto disse que o trabalho de aprovação deve voltar à \"força total\" após as eleições",
+      "key_excerpt_position": 66
+    },
+    {
+      "reference_id": "5c86561e53738d51",
+      "url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-99",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        17,
+        78
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "3. Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to EUR 35 000 000 or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover for the preceding financial year, whichever is higher. 4. Non-compliance with any of the following provisions related to operators or notified bodies, other than those laid down in Articles 5, shall be subject to administrative fines of up to EUR 15 000 000 or, if the offender is an undertaking, up to 3 % of its total worldwide annual turnover for the preceding financial year, whichever is higher: 5. The supply of incorrect, incomplete or misleading information to notified bodies or national competent authorities in reply to a request shall be subject to administrative fines of up to EUR 7 500 000 or, if the offender is an undertaking, up to 1 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "8fdf1362c655c33b",
+      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-omnibus-vii-deadline-delay-20260/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        28,
+        83
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "leaving providers with a regulatory obligation but no finalized technical roadmap for meeting it",
+      "key_excerpt_position": 28
+    },
+    {
+      "reference_id": "ef52dfa62b6ed239",
+      "url": "https://revistaoeste.com/politica/regulamentacao-da-inteligencia-artificial-e-aprovada-no-senado/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        33,
+        46
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Senado Federal aprovou em votação simbólica, o Projeto de Lei (PL) 2338/2023 [...] Durante a votação simbólica do Senado, apenas os parlamentares Cleitinho (Republicanos-MG), Eduardo Girão (Novo-CE) e Hamilton Mourão (Republicanos-RS) se posicionaram contra a regulamentação da inteligência artificial no Brasil.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "9df43fab5711e8c7",
+      "url": "https://www.migalhas.com.br/depeso/422014/ia-e-direitos-autorais-o-que-diz-o-pl-2-338-23-aprovado-pelo-senado",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        48,
+        75
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "no entanto, os titulares poderiam proibir essa livre utilização, caso desejem. [...] Cabe ao agente de IA que utilizar obras e conteúdos protegidos remunerar os respectivos titulares de direitos autorais e conexos pela utilização.",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "1642a618e21e0617",
+      "url": "https://jornaldebrasilia.com.br/noticias/brasil/lei-de-ia-avanca-no-senado-com-previsao-de-remuneracao-de-direitos-autorais/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        50,
+        86
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em nota assinada por entidades representantes de empresas de tecnologia e do agronegócio criticaram o texto. [...] A última versão do PL 2338 apresenta um conjunto de regras que pode inviabilizar o desenvolvimento da IA no Brasil.",
+      "key_excerpt_position": 50
+    },
+    {
+      "reference_id": "92bc7e019bbe8a37",
+      "url": "https://apublica.org/?p=177447",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        51,
+        87
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Apesar de a gente ter essa vitória nas questões de direitos autorais, a gente entende que a sociedade perde muito com essas outras emendas que acabaram sendo retiradas",
+      "key_excerpt_position": 51
+    },
+    {
+      "reference_id": "5a53ab664988e734",
+      "url": "https://monitor.lcfconsulting.com.br/proposicoes/pl-2338-2023/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        52,
+        65
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f751725615201ab9",
+      "url": "https://www.camara.leg.br/noticias/1160383-comissao-que-vai-analisar-projeto-sobre-inteligencia-artificial-sera-presidida-por-luisa-canziani-aguinaldo-ribeiro-sera-relator/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        31,
+        53
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O texto, apresentado pelo senador Rodrigo Pacheco (PSD-MG), ex-presidente do Senado, é fruto do trabalho de uma comissão de juristas.",
+      "key_excerpt_position": 31
+    },
+    {
+      "reference_id": "1a1b9218412c79a6",
+      "url": "https://www.mobiletime.com.br/?p=834339",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55,
+        87
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A audiência pública realizada nesta terça-feira, 2, pela Comissão Especial de Inteligência Artificial da Câmara dos Deputados, ouviu especialistas em direitos autorais que fizeram uma série de propostas sobre o tema – como exclusões de trechos do PL 2338/23 ou inserções. A maioria trabalha na área de direito autoral e defendeu o pagamento por uso de obras para treinamento de sistemas de IA generativa.",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "20ecfde4546b19e7",
+      "url": "https://teletime.com.br/19/01/2026/anatel-apoia-projeto-que-cria-sistena-nacional-de-ia-e-anpd-como-regulador-residual/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        62
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        81
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Anatel elogia a iniciativa e apoia a criação do SIA, mas sugere ajustes no texto de forma a reforçar o papel das agências reguladoras setoriais. [...] endossa a definição da ANPD regulador residual [...] A Anatel sugeriu ao Congresso ressalvas na redação de modo a assegurar esse papel de discussão das agências e também limitação para que as normas da ANPD não sejam vinculantes quando o tema já estiver sendo tratado pelas agências setoriais.",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "5f3e072377bda147",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        68
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        63
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f42e227d72ef89a8",
+      "url": "https://certificacaoiso.com.br/pl-2338-ai-act/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        69,
+        95
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A primeira: o texto que você lê hoje é o do Senado, e a Câmara pode mudá-lo. Se mudar, ele volta ao Senado.",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "9a3a218a205026d9",
+      "url": "https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        1
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In April 2021, the European Commission proposed the first EU artificial intelligence law, establishing a risk-based AI classification system.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "77e096f27c9d4bf6",
+      "url": "https://www.consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        2
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "bb4061bf01083a48",
+      "url": "https://www.nscale.com/blog/eu-ai-act-heres-what-to-expect",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        3
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the EU AI Act applies to all AI system providers based in the EU or who provide their services in the EU, irrespective of their location.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "453dc28b057eae28",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        10
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Commission published a first list of more than 180 organisations that have signed the Code of Practice on transparency of AI-generated content that operationalises the rules on transparency of AI-generated content.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "7aae736c6a9c394c",
+      "url": "https://www.goodwinlaw.com/en/insights/publications/2025/08/alerts-technology-aiml-european-commission-issues",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        15
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A crucial distinction emerges for models posing “systemic risk” — typically those requiring 10^25 floating-point operations in training.",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "563de861a97a7bbb",
+      "url": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        16
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0e3f6c50232576c7",
+      "url": "https://www.eeas.europa.eu/delegations/chile/artificial-intelligence-council-gives-final-green-light-simplify-and-streamline-rules_en",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        23
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The new law forms part of the so-called **'Omnibus VII'** legislative package in the EU's **simplification** agenda.",
+      "key_excerpt_position": 23
+    },
+    {
+      "reference_id": "e32003789032b8a9",
+      "url": "https://usercentrics.com/knowledge-hub/eu-ai-act-high-risk-delay-article-50-transparency-consent/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        24
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The regulation was signed on 8 July 2026, published in the Official Journal, and entered into force on 27 July 2026, three days after publication.",
+      "key_excerpt_position": 24
+    },
+    {
+      "reference_id": "ea5aedd5ed68db2a",
+      "url": "https://www12.senado.leg.br/noticias/videos/2024/12/marco-da-inteligencia-artificial-e-aprovado-em-plenario-e-vai-a-camara",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        32
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O objetivo é oferecer uma regulação diferenciada, considerando o impacto do sistema na vida humana e direitos fundamentais.",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "c1583c4e174ac21d",
+      "url": "https://www.cut.org.br/noticias/regulamentacao-da-ia-expoe-fragilidade-falhas-e-retrocessos-trabalhistas-f015",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        41
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A versão aprovada nesta terça-feira excluiu os algoritmos das redes sociais da lista de sistemas considerados de alto risco, atendendo a pedidos de senadores oposicionistas, decisão criticada por alguns parlamentares governistas.",
+      "key_excerpt_position": 41
+    },
+    {
+      "reference_id": "44774073943a8cb1",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/outros-documentos/apresentacao-do-pl-2338-23",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        43
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Saber que está interagindo com IA",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "6e0612a9d1bd6222",
+      "url": "https://www.meioemensagem.com.br/midia/regulamentacao-da-ia-no-brasil-e-aprovada-pelo-senado",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        47
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A agência irá coordenar o Sistema Nacional de Regulação e Governança de Inteligência Artificial (SIA). participarão órgãos estatais de regulação setorial, entidades de autorregulação e de certificação, pelo Conselho de Cooperação Regulatória de Inteligência Artificial (Cria) e pelo Comitê de Especialistas e Cientistas de Inteligência Artificial (Cecia).",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "fe524f181ee82186",
+      "url": "https://www.diap.org.br/index.php/noticias/noticias/92249-pl-2338-23-votacao-do-projeto-sobre-inteligencia-artificial-esta-prevista-apenas-para-dezembro",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        54
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O grupo definiu um cronograma de trabalho que prevê a votação do projeto apenas no final do ano legislativo, em dezembro de 2025. [...] há preocupação de que o ano eleitoral de 2026 possa atrasar ainda mais uma decisão sobre o tema.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "d68c320662456cad",
+      "url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/apresentacoes-em-eventos/MARCOSALVESDESOUZASecretriodeDireitosAutoraiseIntelectuaisdoMINCCmaradosDeputados02.09.25.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        57
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Portanto, não ter o capítulo de Direitos de Autor e Conexos no PL 2338/2023 implica onerar empresas e usuários, inviabilizando o desenvolvimento da tecnologia no país.",
+      "key_excerpt_position": 57
+    },
+    {
+      "reference_id": "5262e8dcf4f8d7ed",
+      "url": "https://planalto.gov.br/ccivil_03/projetos/ato_2023_2026/2025/pl/pl-6237.htm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        60
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "PROJETO DE LEI Nº 6.237, DE 2025 [...] Art. 1º Fica instituído o Sistema Nacional para Desenvolvimento, Regulação e Governança de Inteligência Artificial – SIA, com o objetivo de coordenar a atuação estratégica e o exercício das competências regulatória, fiscalizatória e sancionatória sobre inteligência artificial na República Federativa do Brasil",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "85698d09822a732b",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2594000",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        61
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "| 19/03/2026 | Apense-se à(ao) PL 2338/2023. Proposição Sujeita à Apreciação do Plenário. Regime de Tramitação: Prioridade (Art. 151, II, RICD). Inteiro teor |",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "f23e8587a3cb2b8c",
+      "url": "https://diariocarioca.com/2026/05/28/politica/camara-votacao-regulamentacao-ia/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        64
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O presidente da **Câmara dos Deputados**, **Hugo Motta** (**Republicanos-PB**), anunciou nesta quinta-feira (28) o cronograma definitivo para a votação do marco de regulamentação da **inteligência artificial** no **Brasil**.",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "177024fcc29466ec",
+      "url": "https://convergenciadigital.com.br/governo/marco-legal-de-inteligencia-artificial-so-vota-depois-das-eleicoes/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        67
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "“Estamos ajustando o texto para votarmos”, frisou, de forma bastante cautelosa, em entrevista à CDTV, do portal Convergência Digital. Ribeiro assegura que o maior objetivo é ter uma regulação que não venha inibir a inovação, mas que também não venha a se tornar um risco ao cidadão.",
+      "key_excerpt_position": 67
+    },
+    {
+      "reference_id": "02e563ccf3b95ed5",
+      "url": "https://www.aosfatos.org/noticias/aprovada-senado-regulacao-ia-camara/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        70
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Agora, o projeto segue para a Câmara dos Deputados, onde o cenário para aprovação é menos favorável. Entre os pontos de preocupação estão o forte lobby das big techs [...] e a presença de uma bancada de oposição engajada.",
+      "key_excerpt_position": 70
+    },
+    {
+      "reference_id": "e9470822db2fe3f6",
+      "url": "https://boainformacao.com.br/2026/05/camara-dos-deputados-planeja-votar-projeto-de-regulacao-da-inteligencia-artificial/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        94
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Embora tenha cogitado inicialmente fundir o Redata ao projeto da inteligência artificial, o relator optou por uma estratégia de tramitação mais simplificada.",
+      "key_excerpt_position": 94
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-52",
+      "position": 52,
+      "claim_excerpt": "Em 4 de abril, a Mesa determinou a criação de uma comissão especial.",
+      "cited_markers": "[26]",
+      "corroborating_markers": "[36] [28] [27] [34]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-64",
+      "position": 64,
+      "claim_excerpt": "No fim de maio de 2026, o presidente da Câmara, Hugo Motta, anunciou que o parecer seria votado na comissão especial até 9 de junho e no Plenário ainda naquele mês.",
+      "cited_markers": "[37]",
+      "corroborating_markers": "[42] [28] [27] [34] [40] [36] [26] [13] [39] [24] [23] [38]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-68",
+      "position": 68,
+      "claim_excerpt": "A ficha oficial registra a situação \"Aguardando Parecer do(a) Relator(a)\" na comissão especial.",
+      "cited_markers": "[36]",
+      "corroborating_markers": "[26] [27] [34] [40]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-81",
+      "position": 81,
+      "claim_excerpt": "O equilíbrio entre os dois polos ainda está em disputa.",
+      "cited_markers": "[32] [35]",
+      "corroborating_markers": "[37] [30] [36] [25] [41] [13] [31] [19] [38] [42] [17] [40]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-93",
+      "position": 93,
+      "claim_excerpt": "No Brasil, a pergunta central é se a Câmara votará o PL 2338 entre o fim das eleições e o recesso parlamentar, como sinalizou o relator.",
+      "cited_markers": "[38]",
+      "corroborating_markers": "[28] [40] [27] [23] [39] [37] [36] [18] [26] [31] [34]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 515476,
+  "cost_tracked": false,
+  "processing_time_seconds": 1939.687107
+}

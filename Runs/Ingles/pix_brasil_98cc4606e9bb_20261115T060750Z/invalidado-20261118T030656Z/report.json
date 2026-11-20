@@ -1,0 +1,876 @@
+{
+  "run_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+  "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/Ingles/ChatGPT/EmConsolidacao/pix_brasil.md",
+  "generated_at": "2026-11-15T06:59:37.479479Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 30900,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 161,
+    "citation_markers_distinct": 25,
+    "references_listed": 25,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 106,
+  "pct_supported": 61.32075471698113,
+  "pct_unsupported": 36.79245283018868,
+  "pct_contradicted": 1.8867924528301887,
+  "count_supported": 65,
+  "count_unsupported": 39,
+  "count_contradicted": 2,
+  "count_skipped": 0,
+  "count_audited": 106,
+  "pct_supported_audited": 61.32075471698113,
+  "pct_unsupported_audited": 36.79245283018868,
+  "pct_contradicted_audited": 1.8867924528301887,
+  "count_partially_supported": 29,
+  "skipped_reason_counts": {},
+  "verification_ran": true,
+  "count_unsupported_confirmed": 16,
+  "count_reclassified_by_verification": 7,
+  "verification_stage_counts": {
+    "full_doc_scan": 2,
+    "context_expansion": 5
+  },
+  "mis_cited_reference_count": 11,
+  "uncredited_reference_count": 8,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "a23b6e831cd1a911",
+      "citation_markers": [
+        "[19]"
+      ],
+      "raw_url": "https://www.nber.org/papers/w34280",
+      "normalized_url": "https://nber.org/papers/w34280",
+      "work_key": "https://nber.org/papers/w34280",
+      "title": "19. National Bureau of Economic Research, **Drivers of Digital Payment Adoption: Lessons from Brazil, Costa Rica, and Mexico**.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-15T06:10:30.701430Z",
+      "error_message": "download excedeu 90s",
+      "barrier_kind": null,
+      "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "blocked_references": [],
+  "skipped_chunks": [],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "102d3ed3ffd0ee94",
+      "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+      "times_cited": 51,
+      "supported_count": 42,
+      "unsupported_count": 9,
+      "contradicted_count": 0,
+      "supporting_citations": 31,
+      "partial_citations": 19,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        2,
+        6,
+        23,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        37,
+        38,
+        41,
+        42,
+        45,
+        46,
+        47,
+        51,
+        52,
+        57,
+        58,
+        59,
+        75,
+        76,
+        77,
+        80,
+        81,
+        86,
+        97,
+        99,
+        100
+      ],
+      "partial_positions": [
+        0,
+        15,
+        24,
+        26,
+        39,
+        43,
+        44,
+        53,
+        60,
+        72,
+        78,
+        79,
+        87,
+        88,
+        94,
+        95,
+        98,
+        101,
+        102
+      ],
+      "absent_positions": [
+        96
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Lançamento • 16/nov [...] Desde o seu lançamento em novembro de 2020 [...] o meio de pagamento era usado sobretudo para transações entre pessoas físicas (person to person – P2P) [...] a população começou a utilizar o Pix mais frequentemente para transações com pessoas jurídicas (person to business – P2B) [...] transações Pix de entes públicos [...] Em 2025, 204 milhões de transações Pix foram agendadas [...] O uso do Pix Automático vem sendo ampliado [...] o Pix por aproximação, estão sendo implementadas para facilitar e para acelerar os pagamentos no comércio físico",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "2d4da85080980183",
+      "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RCF/relatorio_de_cidadania_financeira_2025.pdf",
+      "times_cited": 24,
+      "supported_count": 18,
+      "unsupported_count": 5,
+      "contradicted_count": 1,
+      "supporting_citations": 13,
+      "partial_citations": 9,
+      "status": "downloaded",
+      "supports_positions": [
+        3,
+        5,
+        33,
+        34,
+        35,
+        73,
+        85,
+        86,
+        92,
+        93,
+        98,
+        102,
+        105
+      ],
+      "partial_positions": [
+        4,
+        6,
+        36,
+        44,
+        72,
+        74,
+        79,
+        87,
+        88
+      ],
+      "absent_positions": [
+        8,
+        96
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A qualidade da inclusão financeira pode ser entendida como uma de suas dimensões, juntamente com 'acesso' e 'uso'. Entretanto, este acesso a (e uso de) serviços financeiros não garantem, por si só, o bem-estar financeiro dos usuários.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "7b00af1395157128",
+      "url": "https://www.bis.org/publ/bisbull52.pdf",
+      "times_cited": 12,
+      "supported_count": 6,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        18,
+        89,
+        102
+      ],
+      "partial_positions": [
+        0,
+        16,
+        23,
+        26,
+        90,
+        91
+      ],
+      "absent_positions": [
+        12,
+        25,
+        56
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The two key ingredients in the success of Pix are, first, the mandatory participation of large banks to kick-start network effects for users, and second, the central bank's dual role as infrastructure provider and rule setter.",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "1a4407452cc29300",
+      "url": "https://digitalfinance.worldbank.org/country/brazil",
+      "times_cited": 10,
+      "supported_count": 5,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        5,
+        7
+      ],
+      "absent_positions": [
+        45,
+        48,
+        49,
+        50,
+        92,
+        93,
+        94,
+        105
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Account Ownership Percentage of adults (age 15+) who have an account at a bank or similar financial institution, or who used a mobile money service in the past year.",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "5d1d657519f0e933",
+      "url": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+      "times_cited": 9,
+      "supported_count": 2,
+      "unsupported_count": 6,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        66
+      ],
+      "partial_positions": [
+        70,
+        71,
+        101,
+        103
+      ],
+      "absent_positions": [
+        64,
+        68,
+        69
+      ],
+      "contradicts_positions": [
+        8
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Using a difference-in-differences methodology with continuous treatment and time and region fixed-effects, I find that a 1% increase in Pix transactions per person over 15 resulted in a 0.14% increase in access to credit in the period after the tool's launch, significant at the 99% confidence level.",
+      "key_excerpt_position": 66
+    },
+    {
+      "reference_id": "d232e56b64bd8437",
+      "url": "https://eesp.fgv.br/node/5501",
+      "times_cited": 8,
+      "supported_count": 2,
+      "unsupported_count": 5,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        65
+      ],
+      "partial_positions": [
+        71,
+        101,
+        103
+      ],
+      "absent_positions": [
+        8,
+        64,
+        68,
+        69
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Esta dissertação investiga o impacto da intensidade de uso do PIX sobre a inclusão financeira em nível municipal no Brasil, utilizando dados de painel que cobrem todos os 5.568 municípios brasileiros no período do quarto trimestre de 2020 ao quarto trimestre de 2024. [...] Os resultados indicam que um aumento de 1% no uso do PIX está associado a aproximadamente 0,77 contas bancárias adicionais por 1.000 adultos [...] A análise de heterogeneidade revela que o efeito varia significativamente entre municípios, sendo três vezes maior em municípios de alta intensidade comparado aos de baixa intensidade. Esta heterogeneidade sugere que o PIX funciona como complemento à infraestrutura financeira existente, sendo mais efetivo em municípios com maior desenvolvimento financeiro inicial.",
+      "key_excerpt_position": 65
+    },
+    {
+      "reference_id": "e1f89a222970ba24",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47410-internet-chega-a-95-de-domicilios-do-pais-em-2025",
+      "times_cited": 7,
+      "supported_count": 5,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        40,
+        82
+      ],
+      "partial_positions": [
+        81,
+        84
+      ],
+      "absent_positions": [
+        85,
+        99,
+        104
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Internet era utilizada em 95,0% dos domicílios particulares permanentes (76,0 milhões) do país em 2025 [...] O menor percentual de domicílios com banda larga móvel estava no Nordeste (72,4%), enquanto as demais regiões apresentaram taxas superiores a 80%, chegando a 91,9% na Região Sudeste. [...] Os dados são do Módulo de Tecnologia de Informação e Comunicação (TIC) da PNAD Contínua, divulgado hoje (02) pelo IBGE.",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "f024b3e66b9e0177",
+      "url": "https://www.elibrary.imf.org/view/journals/001/2026/007/article-A001-en.xml",
+      "times_cited": 6,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        63
+      ],
+      "partial_positions": [
+        24,
+        25,
+        104
+      ],
+      "absent_positions": [
+        60
+      ],
+      "contradicts_positions": [
+        62
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Key developments include the facilitation of credit portability, the launch of the Pix instant payment system, progress in the open finance agenda, and the introduction of targeted regulations to encourage the participation of new entrants such as fintech firms.",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "3840eab9f5e75580",
+      "url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        67
+      ],
+      "partial_positions": [
+        71,
+        103
+      ],
+      "absent_positions": [
+        64,
+        68
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pix expansion is associated with deposit growth and credit expansion in municipalities with lower initial levels of digital infrastructure, with particular increases in savings deposits and rural credit.",
+      "key_excerpt_position": 67
+    },
+    {
+      "reference_id": "6de680ad84c198c3",
+      "url": "https://www.bis.org/publications/qr-202403/fast-payments-design-and-adoption",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        22
+      ],
+      "partial_positions": [
+        55,
+        56
+      ],
+      "absent_positions": [
+        54
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "For example, for merchants, the cost of using Pix, the FPS in Brazil, is 0.22% of the transaction value (Duarte et al (2022)). This is much lower than the average fees for credit (2.2%) and debit cards (1.1%).",
+      "key_excerpt_position": 22
+    },
+    {
+      "reference_id": "d2c8fd50e499bd81",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        1,
+        9,
+        11
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "4c73ce48f226d6cc",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=1&tipo=Resolu%C3%A7%C3%A3o%20BCB",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        11,
+        17,
+        90
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "c0bf8cd0d19fb935",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=19&tipo=RESOLU%C3%87%C3%83O%20BCB",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        19,
+        20,
+        95
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "b76146e5bb085608",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        13,
+        14
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a23b6e831cd1a911",
+      "url": "https://www.nber.org/papers/w34280",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        32,
+        88
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1bb81415aef649b7",
+      "url": "https://www.elibrary.imf.org/view/journals/002/2023/289/article-A004-en.xml",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        61
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        104
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pix has also helped to strengthen competition in the financial sector. It has led to the growth of several payment services institutions, which have established banking subsidiaries, increasing competition for deposits with big banks. The open sharing of transaction information on Pix users has helped to strengthen competition in the sales of banking products and services, including for better and cheaper payment services, among various institutions.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "3721294f7af1afd3",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        82,
+        83
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 2025, na população estimada de 186,4 milhões de pessoas de 10 anos ou mais de idade do País, 90,5% (168,7 milhões) utilizaram a Internet no período de referência dos últimos três meses, ultrapassando, pela primeira vez, o patamar de 90% de usuários, na média nacional.",
+      "key_excerpt_position": 82
+    },
+    {
+      "reference_id": "62bf28a30e575342",
+      "url": "https://www.worldbank.org/en/publication/globalfindex/report",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        7
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The 2025 edition, based on nationally representative surveys of about 148,000 adults in 141 economies and conducted over the calendar year 2024",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "b22522e263dc9187",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/gtpagamentos",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        10
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O BC instituiu, no âmbito do fórum para assuntos relacionados a arranjos e instituições de pagamento (Fórum AIP), grupo de trabalho com o objetivo de contribuir para a construção de um ecossistema de pagamentos instantâneos competitivo, eficiente, seguro e inclusivo. O GT-Pagamentos Instantâneos ajudou na definição, pela Diretoria Colegiada, dos requisitos fundamentais para esse ecossistema. O GT encerrou seus trabalhos no dia 21 de dezembro de 2018, com a divulgação do Comunicado nº 32.927 e do documento com a versão final dos requisitos fundamentais.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "95cd47665c8dc7af",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=32927&tipo=Comunicado",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        10
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "9a7b5aa8a4f0f5ea",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/participantespix",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        17
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "3f3b9762709e00ec",
+      "url": "https://www.bcb.gov.br/meubc/faqs/p/quanto-o-cidadao-paga-para-usar-o-pix",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        20
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "9c1763091f40bb98",
+      "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/relatorios_SPI/relatorio_anual_spi_2025.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        21
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "dos participantes diretos creditados pelos Pix: R$0,01 a cada dez Pix liquidados; ... Vale ressaltar que a instituição emissora (debitada) do Pix não é tarifada.",
+      "key_excerpt_position": 21
+    },
+    {
+      "reference_id": "3ddd1dcda25d03e5",
+      "url": "https://educa.ibge.gov.br/jovens/materias-especiais/21581-informacoes-atualizadas-sobre-tecnologias-da-informacao-e-comunicacao.html",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        84
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "nenhum morador sabia usar a Internet (33,2%), serviço de acesso à Internet caro (30,0%)",
+      "key_excerpt_position": 84
+    },
+    {
+      "reference_id": "a24049a4d5807b8b",
+      "url": "https://www.bis.org/publications/paper-153-fast-payments-and-financial-inclusion-latin-america-and-caribbean",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        91
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-7",
+      "position": 7,
+      "claim_excerpt": "Yet the World Bank’s 2024 Global Findex data show substantial differences in account ownership and digital-payment use by income and gender, indicating that near-universal formal access does not impl…",
+      "cited_markers": "[5] [6]",
+      "corroborating_markers": "[17] [4]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-9",
+      "position": 9,
+      "claim_excerpt": "The institutional origins of Pix predate its 2020 launch by several years.",
+      "cited_markers": "[3]",
+      "corroborating_markers": "[21] [8] [1] [2] [4]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-11",
+      "position": 11,
+      "claim_excerpt": "The formal Pix arrangement was established through BCB Resolution No. 1 of August 12, 2020, and nationwide operation began on November 16, 2020.",
+      "cited_markers": "[3] [11]",
+      "corroborating_markers": "[21] [8] [4] [1] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-12",
+      "position": 12,
+      "claim_excerpt": "Pix’s design directly addressed several barriers that had historically limited competitive digital payments.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[1] [21] [4] [22] [7] [8]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-13",
+      "position": 13,
+      "claim_excerpt": "Transfers are available around the clock, every day of the year, and funds are made available to recipients within seconds.",
+      "cited_markers": "[12]",
+      "corroborating_markers": "[25] [4] [17] [1] [21] [16]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-14",
+      "position": 14,
+      "claim_excerpt": "The BCB operates the Sistema de Pagamentos Instantâneos, or SPI, the centralized infrastructure through which inter-institution Pix transactions are settled individually in real time through speciali…",
+      "cited_markers": "[12]",
+      "corroborating_markers": "[16] [21] [4] [1] [2] [17] [8]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-16",
+      "position": 16,
+      "claim_excerpt": "The architecture was deliberately interoperable rather than organized around proprietary bank networks.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[17] [16] [25] [22] [18] [21]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-24",
+      "position": 24,
+      "claim_excerpt": "The state provides the shared rails, identity-linked addressing system, operating rules, and settlement layer, while banks, fintechs, payment institutions, cooperatives, and other intermediaries comp…",
+      "cited_markers": "[1] [18]",
+      "corroborating_markers": "[17] [21] [4]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-43",
+      "position": 43,
+      "claim_excerpt": "The rate among people up to age 19 was 26%, reflecting both lower independent income and a smaller population with full banking needs.",
+      "cited_markers": "[1]",
+      "corroborating_markers": "",
+      "contradicting_markers": "[4] [5]"
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-50",
+      "position": 50,
+      "claim_excerpt": "These gaps reinforce why Pix transaction penetration should not be equated with full equality in financial inclusion.",
+      "cited_markers": "[5]",
+      "corroborating_markers": "[8] [17] [21] [1] [4] [2] [7] [22]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-71",
+      "position": 71,
+      "claim_excerpt": "The most defensible conclusion is therefore that causal evidence points toward positive effects on account activity and credit access, but estimated magnitudes remain method-dependent and broader wel…",
+      "cited_markers": "[7] [8] [22]",
+      "corroborating_markers": "",
+      "contradicting_markers": "[17] [4] [18] [5] [21]"
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-84",
+      "position": 84,
+      "claim_excerpt": "Yet lack of digital skills, affordability constraints, device limitations, weak connectivity in some regions, and dependency on others for digital transactions remain relevant for excluded households.",
+      "cited_markers": "[20] [24]",
+      "corroborating_markers": "[5] [4] [6] [23] [17]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_98cc4606e9bb_20261115T060750Z-91",
+      "position": 91,
+      "claim_excerpt": "The Brazilian experience therefore offers an important policy lesson for digital public infrastructure: public coordination can be used to create common rails while leaving substantial scope for priv…",
+      "cited_markers": "[2] [25]",
+      "corroborating_markers": "[17] [22] [21] [4] [1] [18] [7]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 3246462,
+  "cost_tracked": false,
+  "processing_time_seconds": 3106.747749
+}

@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-0",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 0,
+    "text": "Lançado em 16 de novembro de 2020 e administrado pelo Banco Central do Brasil (BCB), ele combina regras comuns de participação, interoperabilidade entre instituições, identificação simplificada de destinatários pelo Diretório de Identificadores de Contas Transacionais (DICT) e liquidação em tempo real pelo Sistema de Pagamentos Instantâneos (SPI).",
+    "cited_markers": [
+      "[1]",
+      "[4]",
+      "[9]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "f42eb0724c750e7c",
+      "07b6c5b87f609090",
+      "b76146e5bb085608"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-1",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 1,
+    "text": "Em 2025, o Pix processou quase 80 bilhões de transações, crescimento de 25,7% ante 2024, movimentando mais de R$ 35 trilhões, 33,8% acima do ano anterior.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-2",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 2,
+    "text": "Em dezembro de 2025, 148,1 milhões de pessoas físicas e aproximadamente 12 milhões de pessoas jurídicas haviam feito ou recebido Pix, havia mais de 920 milhões de chaves cadastradas e somente naquele mês ocorreram 7,8 bilhões de transações, no valor de R$ 3,7 trilhões.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-3",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 3,
+    "text": "A inclusão financeira, porém, deve ser entendida em sentido mais amplo que a mera posse de uma conta ou chave Pix: o próprio BCB a define como acesso efetivo a pagamentos, contas e poupança, crédito, seguros, previdência e investimentos.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-4",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 4,
+    "text": "Nessa perspectiva, a principal contribuição já demonstrada do Pix é ter diminuído radicalmente a fricção para movimentar uma conta, tornando-a útil no cotidiano, inclusive para pessoas de baixa renda e moradores de localidades com infraestrutura bancária física limitada.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "ce4ef0b8fb18629f",
+      "3840eab9f5e75580",
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-5",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 5,
+    "text": "Entre adultos inscritos no Cadastro Único analisados pelo BCB, 74% tinham ao menos uma chave Pix e 72% haviam efetuado um pagamento Pix em 2023, uma diferença de apenas dois pontos percentuais entre acesso e uso efetivo.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-6",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 6,
+    "text": "Em 2025, mais de 85% das pessoas nas faixas de 20 a 49 anos usavam o Pix segundo o indicador do BCB, enquanto a proporção entre maiores de 60 anos era de aproximadamente 51%; entre pessoas de até 19 anos, cerca de 26%.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-7",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 7,
+    "text": "Por renda, a utilização cresceu em todas as faixas entre 2021 e 2025, mas continuava menor na base: em 2025, a proporção entre pessoas com renda de até um salário mínimo era de cerca de 71%, contra mais de 80% nas principais faixas acima desse nível.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-8",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 8,
+    "text": "Regionalmente, a difusão alcançava praticamente todo o território: ao fim de 2025, as Unidades da Federação apresentavam proporções próximas ou superiores a 80% da população adulta de referência, com São Paulo em torno de 94% e Distrito Federal e Roraima próximos da universalização no indicador utilizado pelo BCB.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-9",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 9,
+    "text": "Em quantidade de transações, homens responderam por 51% e mulheres por 49% em 2025; em valor movimentado, a divisão foi 59% e 41%, respectivamente, sinalizando diferença maior no valor médio transacionado do que na frequência agregada.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-10",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 10,
+    "text": "Sampaio e Ornelas, usando microdados bancários e uma estratégia instrumental baseada em enchentes para gerar variação na adoção do Pix, encontram aumento de aproximadamente 4% no número de contas bancárias efetivamente utilizadas, além de complementaridade com outros serviços de pagamento.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-11",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 11,
+    "text": "Um estudo de De-Losso e Cavalcante, com painel mensal de municípios entre 2016 e 2024, encontra que a expansão do Pix foi seguida por crescimento mais forte de depósitos — sobretudo poupança — e de crédito, inclusive rural, justamente nos municípios que partiam de menor infraestrutura digital ou bancária.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-12",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 12,
+    "text": "Essas pesquisas são consistentes com um efeito de aprofundamento financeiro, mas não autorizam atribuir ao Pix, isoladamente, todo o crescimento observado em bancarização, crédito ou depósitos, porque o período também contém expansão de fintechs, Open Finance, mudanças macroeconômicas e outras políticas.",
+    "cited_markers": [
+      "[2]",
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f",
+      "3840eab9f5e75580",
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-13",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 13,
+    "text": "A conclusão central é, portanto, dupla: o Pix é um caso muito forte de inclusão financeira pelo lado de **acesso e uso de pagamentos**, e há evidência crescente de efeitos sobre uso de contas, depósitos e crédito; ao mesmo tempo, inclusão financeira de qualidade exige segurança, conectividade, capacidade digital, proteção de dados, crédito responsável e alternativas para quem permanece excluído do ambiente digital.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "ce4ef0b8fb18629f",
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-14",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 14,
+    "text": "O BCB instituiu o arranjo, define suas regras e opera componentes centrais da infraestrutura; o lançamento para o público ocorreu em 16 de novembro de 2020, permitindo transferências entre contas correntes, contas de poupança e contas de pagamento pré-pagas.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "f42eb0724c750e7c"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-15",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 15,
+    "text": "Desde a origem, os objetivos declarados incluíam eficiência, competição, inclusão e segurança, e o BCB hoje caracteriza o Pix como uma “Infraestrutura Pública Digital”.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-16",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 16,
+    "text": "Na ponta estão bancos, instituições de pagamento, cooperativas e outros prestadores de serviços de pagamento que mantêm a relação com pagador e recebedor.",
+    "cited_markers": [
+      "[4]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "f42eb0724c750e7c",
+      "b76146e5bb085608"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-17",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 17,
+    "text": "No centro está o SPI, infraestrutura única e centralizada para a liquidação de pagamentos instantâneos entre instituições distintas.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "b76146e5bb085608"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-18",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 18,
+    "text": "O DICT, por sua vez, associa identificadores mais fáceis de memorizar — CPF, CNPJ, telefone, e-mail ou chave aleatória — às informações necessárias da conta transacional, permitindo que o pagador confira a identidade do destinatário antes de autorizar a operação.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "07b6c5b87f609090"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-19",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 19,
+    "text": "Em uma operação típica, o usuário inicia o Pix no aplicativo de sua instituição, informa ou lê uma chave ou QR Code, o prestador consulta o DICT quando necessário, apresenta os dados do recebedor para confirmação e autentica o pagador; a ordem é então processada pelo sistema de pagamentos instantâneos, ocorre a liquidação entre as instituições e o saldo é disponibilizado ao recebedor em segundos.",
+    "cited_markers": [
+      "[4]",
+      "[9]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "f42eb0724c750e7c",
+      "07b6c5b87f609090",
+      "b76146e5bb085608"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-20",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 20,
+    "text": "O funcionamento contínuo, 24 horas por dia, sete dias por semana, substituiu restrições de horário características de modalidades anteriores de transferência e transformou a conta transacional em instrumento de liquidez praticamente imediata.",
+    "cited_markers": [
+      "[4]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "f42eb0724c750e7c",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-21",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 21,
+    "text": "O Mecanismo Especial de Devolução (MED) funciona desde 2021; Pix Saque e Pix Troco foram incorporados à agenda inicial; o agendamento recorrente tornou-se obrigatório para participantes a partir de outubro de 2024; a iniciação por aproximação foi incorporada ao regulamento em junho de 2025; e o Pix Automático para pagamentos recorrentes foi lançado oficialmente em junho de 2025.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-22",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 22,
+    "text": "Essas extensões importam para inclusão porque levam a infraestrutura além de transferências entre pessoas: pagamentos recorrentes de serviços, mensalidades e assinaturas deixam de depender necessariamente de cartão de crédito ou de convênio bilateral de débito automático.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-23",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 23,
+    "text": "Uma análise do Bank for International Settlements atribui parte importante da adoção precoce à obrigatoriedade de participação de grandes bancos e ao duplo papel do BCB como provedor de infraestrutura e definidor das regras, o que impediu que o serviço nascesse fragmentado em redes privadas incompatíveis.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-24",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 24,
+    "text": "Pouco mais de um ano após o lançamento, 67% dos adultos brasileiros já estavam cadastrados no Pix segundo essa análise, que também destacava gratuidade das transferências entre pessoas e baixos encargos para comerciantes em comparação internacional.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-25",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 25,
+    "text": "O número de pessoas físicas que haviam usado o Pix passou de 34,1 milhões em dezembro de 2020 para 148,1 milhões em dezembro de 2025.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-26",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 26,
+    "text": "O crescimento não ficou restrito aos grandes centros e, ao final de 2025, a adoção era elevada em todas as Unidades da Federação.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-27",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 27,
+    "text": "Os mapas e gráficos demográficos das páginas 19–20 do *Relatório de Gestão do Pix 2023–2025* permitem visualizar diretamente as diferenças por idade, renda, sexo e estado.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-28",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 28,
+    "text": "A utilização em 2025 era próxima da universalização nas faixas de 20–29 e 30–39 anos, permanecia muito elevada entre 40–49 anos, caía para aproximadamente 77% entre 50–59 anos e para cerca de 51% acima de 60 anos.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-29",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 29,
+    "text": "A diferença é relevante porque não resulta apenas de acesso a conta: exige aparelho, conectividade, familiaridade com aplicativos, autenticação e capacidade de reconhecer tentativas de fraude.",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-30",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 30,
+    "text": "Entre 2021 e 2025 houve aumento de utilização em todas as faixas de renda acompanhadas pelo BCB, com avanço particularmente importante nos grupos de até cinco salários mínimos; em 2025, o indicador da faixa até um salário mínimo estava em aproximadamente 71%, enquanto as faixas intermediárias e superiores estavam acima de 80%.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-31",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 31,
+    "text": "Como o denominador desse recorte utiliza bases administrativas do sistema financeiro, esses percentuais não devem ser confundidos com uma estimativa amostral de toda a população brasileira na respectiva faixa de renda.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-32",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 32,
+    "text": "Em uma amostra de 1% dos adultos cadastrados, 74% tinham pelo menos uma chave em dezembro de 2023 e 72% efetuaram ao menos um pagamento Pix naquele ano; em 2022, a diferença entre ter acesso e usar era de sete pontos percentuais, contra somente dois em 2023.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-33",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 33,
+    "text": "O mesmo levantamento constatou volumes médios de transação relativamente maiores em fintechs que em bancos tradicionais nessa população, evidência compatível com o papel de instituições digitais na incorporação de clientes de menor renda.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-34",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 34,
+    "text": "Por gênero, a quantidade de operações ficou praticamente equilibrada em 2025 — 51% realizadas por homens e 49% por mulheres —, mas homens responderam por 59% do valor transacionado.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-35",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 35,
+    "text": "Esse dado não prova uma barreira especificamente causada pelo Pix: diferenças de renda, emprego, propriedade empresarial e movimentação financeira podem explicar parte relevante da diferença de valores, e o relatório não oferece decomposição causal por essas características.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-36",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 36,
+    "text": "O relatório estatístico do Pix apresenta recortes detalhados por idade, sexo, renda e Unidade da Federação, mas não oferece, na mesma base publicada, decomposições equivalentes e sistemáticas por raça/cor, deficiência ou situação rural/urbana; portanto, não é possível afirmar a partir dessa fonte que as desigualdades nesses grupos tenham sido eliminadas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-37",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 37,
+    "text": "Ao final de 2024, 175,22 milhões de adultos possuíam relacionamento registrado no sistema financeiro, correspondendo a 96,4% da população adulta na métrica do BCB; 160,8 milhões, ou 88,4%, eram considerados usuários ativos por terem realizado ao menos uma operação de Pix, crédito ou pagamento de boleto durante o ano.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-38",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 38,
+    "text": "O número médio de relacionamentos por cidadão bancarizado passou de 4,0 no primeiro semestre de 2021 para 6,7 no segundo semestre de 2024, revelando também maior multibancarização e competição pela interface com o cliente.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-39",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 39,
+    "text": "Esses números coincidem temporalmente com a expansão do Pix, mas, isoladamente, não constituem uma estimativa causal de seu efeito.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-40",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 40,
+    "text": "O trabalho utiliza dados individualizados de pagamentos, contas e serviços financeiros e explora enchentes como instrumento para variações exógenas na adoção do Pix, complementando a identificação com diferenças-em-diferenças escalonadas antes e depois de 2020.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-41",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 41,
+    "text": "Os autores encontram que a maior utilização do Pix está associada a aumento de cerca de 4% no número de contas bancárias ativamente utilizadas e concluem que, no caso brasileiro, a complementaridade com outros serviços financeiros predominou sobre a mera substituição.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-42",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 42,
+    "text": "Eles também encontram, no experimento associado a enchentes, crescimento de cerca de 3% nas remessas, sugerindo que transferências instantâneas podem facilitar mecanismos privados de ajuda financeira e seguro informal após choques.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-43",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 43,
+    "text": "O mecanismo econômico é plausível: uma conta sem maneira conveniente e barata de transferir recursos oferece pouco valor transacional, ao passo que uma conta conectada a uma rede quase universal pode receber salário informal, vendas, transferências familiares e pagamentos a qualquer hora.",
+    "cited_markers": [
+      "[3]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580",
+      "35f5c93c45673f6f",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-44",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 44,
+    "text": "Isso pode aumentar saldos mantidos no sistema formal, gerar histórico observável de fluxos e reduzir custos de informação e cobrança, criando condições para oferta posterior de outros serviços.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-45",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 45,
+    "text": "Os autores constroem um painel mensal de municípios brasileiros entre janeiro de 2016 e dezembro de 2024 e comparam a dinâmica pós-Pix conforme a penetração prévia de telefonia móvel e a densidade bancária.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-46",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 46,
+    "text": "Nos municípios que partiam de menor infraestrutura digital, os depósitos totais e especialmente os depósitos de poupança apresentaram aumento progressivo após a adoção, com efeitos mais claros a partir do terceiro ano.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-47",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 47,
+    "text": "No crédito, os efeitos positivos tornam-se estatisticamente mais visíveis a partir de 2022 nos municípios de menor penetração móvel, com resultados também para crédito rural; exercícios de robustez usando baixa densidade bancária mostram efeitos persistentes e relativamente maiores sobre diversas categorias de crédito.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-48",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 48,
+    "text": "Esses resultados são importantes porque sugerem que a infraestrutura de pagamentos pode produzir **aprofundamento**, e não apenas “bancarização nominal”.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-49",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 49,
+    "text": "Todavia, a identificação usa diferenças de exposição a uma política implantada nacionalmente, de modo que a interpretação mais prudente é “evidência consistente com efeitos do Pix”, e não uma atribuição mecânica de todo depósito ou empréstimo adicional ao sistema.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-50",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 50,
+    "text": "O Pix opera continuamente e liquida recursos em segundos, enquanto transferências tradicionais possuíam janelas operacionais e boletos ou cartões podem envolver maior tempo até a disponibilidade final dos recursos ao recebedor.",
+    "cited_markers": [
+      "[4]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "f42eb0724c750e7c",
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-51",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 51,
+    "text": "Na comparação utilizada por Sampaio e Ornelas, as transferências Pix entre pessoas tinham custo de 0%, e as cobranças observadas para operações empresariais situavam-se entre 0% e 1,45%, contra aproximadamente 1,25%–2% para débito e 2%–5% para crédito; essas faixas são uma caracterização empírica do estudo, não tarifas regulatórias universais nem preços necessariamente vigentes em 2026.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-52",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 52,
+    "text": "Para pequenos negócios, liquidação imediata também reduz necessidade de financiar o intervalo entre a venda e o recebimento.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "f42eb0724c750e7c"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-53",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 53,
+    "text": "Em pesquisa do BCB realizada em outubro e novembro de 2023, com 1.500 pessoas, 600 comerciantes e 1.228 diários de pagamento que registraram 11.023 transações, o dinheiro respondeu por 40,5% das operações anotadas, ante 76,6% em pesquisa equivalente de 2019, enquanto o Pix já representava 24,9% e era o instrumento eletrônico individualmente mais utilizado.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-54",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 54,
+    "text": "Entre os meios apontados como preferidos, 64,9% dos entrevistados citaram o Pix entre suas duas opções principais, contra 55,7% para dinheiro.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-55",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 55,
+    "text": "O BCB afirma que as infraestruturas centrais que opera não haviam sofrido ataques bem-sucedidos até o fechamento de seu relatório de 2025, mas reconhece que a alta adoção e a rapidez do Pix fizeram com que fraudes, engenharia social e ataques contra clientes e instituições participantes passassem crescentemente a utilizar o Pix como canal de movimentação dos recursos.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-56",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 56,
+    "text": "Assim, é importante separar “quebra criptográfica do Pix” de fraude no ecossistema: muitos casos resultam de manipulação do usuário, tomada de conta, dispositivo comprometido ou conta de terceiro usada para receber dinheiro.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-57",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 57,
+    "text": "A resposta regulatória evoluiu de limites noturnos e bloqueio cautelar para mecanismos de restituição, compartilhamento de sinais de fraude e controles mais fortes de dispositivos.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-58",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 58,
+    "text": "O MED funciona desde 2021 e ganhou, em outubro de 2025, um fluxo de autoatendimento conhecido como “botão de contestação”, permitindo registrar e acompanhar pedidos diretamente pelo aplicativo.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-59",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 59,
+    "text": "A partir de 2026, o mecanismo passou a admitir rastreamento, bloqueio e tentativa de recuperação em múltiplas contas utilizadas no percurso da fraude, e não apenas na primeira conta recebedora, além de ampliar as marcações de usuários e contas fraudulentos no DICT.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-60",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 60,
+    "text": "O DICT armazena chaves e as vincula às informações de usuários e contas necessárias para iniciar pagamentos, e também mantém informações de segurança, como marcações de fraude, compartilhadas com instituições participantes para gestão de risco.",
+    "cited_markers": [
+      "[1]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "07b6c5b87f609090"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-61",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 61,
+    "text": "Como CPF, telefone e e-mail podem funcionar como chaves, a facilidade operacional implica tratamento de dados pessoais identificáveis; por isso, minimização, finalidade, segurança, transparência e controle de acesso são aspectos essenciais de governança.",
+    "cited_markers": [
+      "[9]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "07b6c5b87f609090",
+      "852af1b7d0540b5e"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-62",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 62,
+    "text": "A Lei Geral de Proteção de Dados determina proteção dos direitos de liberdade e privacidade, exige segurança compatível com o risco e disciplina o tratamento realizado tanto por agentes privados como pelo poder público.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "852af1b7d0540b5e"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-63",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 63,
+    "text": "O uso de chave aleatória é, nesse contexto, uma opção importante para quem prefere não divulgar CPF, telefone ou e-mail ao pagador, embora não torne a operação anônima perante as instituições responsáveis.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "07b6c5b87f609090"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-64",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 64,
+    "text": "A própria pesquisa do BCB identifica falta de conhecimento, dificuldade de acesso à internet e preocupação com segurança entre as razões para não utilizar o Pix.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-65",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 65,
+    "text": "O contexto de conectividade melhorou muito: em 2024, a internet estava presente em 74,9 milhões de domicílios brasileiros, e 88,9% das pessoas com dez anos ou mais possuíam telefone celular para uso pessoal.",
+    "cited_markers": [
+      "[7]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "f822e2ad3f1f6d72",
+      "da56a4c05044176f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-66",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 66,
+    "text": "Ainda assim, a posse de celular entre pessoas de 60 anos ou mais era de 78,1% em 2024, e a falta de habilidade era apontada como principal motivo por parcela expressiva dos idosos que não possuíam aparelho, o que ajuda a explicar por que a adesão ao Pix permanece bem inferior nesse grupo.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "da56a4c05044176f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-67",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 67,
+    "text": "Entre 2020 e 2024, o número de agências bancárias caiu 14,6%, para 16.115, enquanto os correspondentes aumentaram 12,5%, para 241.014; em 2024, 520 municípios eram atendidos fisicamente apenas por correspondentes, contra 408 em 2020, abrangendo cerca de 2,5 milhões de residentes.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-68",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 68,
+    "text": "Isso significa que uma política de inclusão baseada exclusivamente em aplicativo pode aprofundar dificuldades para idosos, pessoas com baixa alfabetização digital, moradores de regiões de conectividade instável e pessoas que dependem de apoio presencial.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "ce4ef0b8fb18629f",
+      "da56a4c05044176f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-69",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 69,
+    "text": "A primeira prioridade deveria ser preservar o que explica boa parte do sucesso do modelo: interoperabilidade obrigatória, padrões abertos, governança pública da infraestrutura básica e competição na camada de instituições e aplicações.",
+    "cited_markers": [
+      "[1]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-70",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 70,
+    "text": "A experiência brasileira sugere que uma rede universal tem mais capacidade inclusiva que múltiplas carteiras fechadas, porque um usuário de instituição pequena pode pagar alguém atendido por um grande banco sem precisar aderir à mesma plataforma.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-71",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 71,
+    "text": "Os grupos com menor adoção do Pix são justamente aqueles para os quais conectividade, aparelho e habilidade digital constituem obstáculos mais frequentes, especialmente idosos e parte da população de baixa renda.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "ce4ef0b8fb18629f",
+      "da56a4c05044176f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-72",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 72,
+    "text": "Isso recomenda ampliar alfabetização digital e financeira, interfaces acessíveis, suporte humano para recuperação de conta e contestação, e preservar correspondentes e canais presenciais onde sua retirada deixaria a população sem alternativa adequada.",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-73",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 73,
+    "text": "Uma pessoa pode possuir várias chaves e relações com diversas instituições, enquanto outra pode ter uma chave cadastrada e praticamente não utilizar serviços financeiros; o próprio estudo do Cadastro Único demonstra a importância de diferenciar acesso de uso.",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-74",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 74,
+    "text": "Os recortes de raça/cor, deficiência e ruralidade ainda não aparecem com o mesmo nível de detalhe nos painéis demográficos do relatório do Pix.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-75",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 75,
+    "text": "Há evidência de que o Pix pode ampliar depósitos e crédito e melhorar a observabilidade de fluxos financeiros, especialmente em localidades inicialmente menos atendidas.",
+    "cited_markers": [
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580",
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-76",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 76,
+    "text": "O BCB já estuda formas de utilizar fluxos futuros de Pix como garantia em operações de crédito, sobretudo empresariais.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-77",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 77,
+    "text": "A política apropriada é combinar essa inovação com consentimento e portabilidade via Open Finance, regras de transparência, análise de capacidade de pagamento e monitoramento específico de crédito oferecido no momento da transferência, evitando que a redução da fricção de pagamentos produza uma redução igualmente automática da fricção para endividar-se.",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-78",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 78,
+    "text": "Usuários que perdem recursos para golpes podem abandonar serviços digitais, e a própria preocupação com segurança já aparece como barreira à adoção.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-79",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 79,
+    "text": "A expansão do MED para rastrear cadeias de contas é um avanço, mas a política deveria ser acompanhada de métricas públicas comparáveis sobre tempo de contestação, proporção de recursos bloqueados e recuperados, reincidência de contas marcadas e resultados por instituição, preservados os dados pessoais.",
+    "cited_markers": [
+      "[1]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "852af1b7d0540b5e"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-80",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 80,
+    "text": "Os melhores estudos existentes já encontram efeitos sobre contas ativas, depósitos, remessas e crédito.",
+    "cited_markers": [
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580",
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_e07e5c482a6d_20261101T173208Z-81",
+    "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "position": 81,
+    "text": "O êxito quantitativo do Pix é inequívoco; o próximo estágio da agenda de inclusão financeira brasileira é demonstrar em que medida essa infraestrutura universal se converte em maior resiliência financeira, capacidade de poupar, acesso sustentável ao crédito e bem-estar para os grupos historicamente mais excluídos.",
+    "cited_markers": [
+      "[2]",
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f",
+      "3840eab9f5e75580",
+      "35f5c93c45673f6f"
+    ]
+  }
+]

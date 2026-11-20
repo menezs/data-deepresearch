@@ -1,0 +1,26 @@
+[referencia=34e050676589f215 score=1.000]
+Além da vacina contra o HPV para meninas e meninos entre 9 e 14 anos, com esquema de dose única, outros grupos populacionais também podem se vacinar, como pessoas que vivem com HIV, transplantados de órgãos sólidos, de medula óssea ou pacientes oncológicos entre 9 e 45 anos; vítimas de abuso sexual entre 15 e 45 anos que não tenham tomado a vacina; pacientes com papilomatose respiratória recorrente; e usuários de Profilaxia Pré-Exposição (PrEP) com idade entre 15 e 45 anos.
+
+---
+
+[referencia=34e050676589f215 score=0.084]
+A Secretaria de Estado da Saúde (Sesa) iniciou nesta segunda-feira (17), com o apoio dos municípios, o resgate de adolescentes e jovens de 15 a 19 anos que ainda não receberam a vacina contra o HPV (Papilomavírus Humano), essencial na prevenção de cânceres do colo do útero, vulva, pênis, ânus e orofaringe. A inclusão desta faixa etária é excepcional e válida somente para os próximos três meses, já que a vacina contra o HPV está disponível gratuitamente no Sistema Único de Saúde (SUS) para meninos e meninas de 9 a 14 anos.
+
+De acordo com a Divisão de Vigilância do Programa de Imunização da Sesa, são 216.697 pessoas não vacinadas e que estão no foco desta ação. Nesse primeiro momento, participam da estratégia os municípios-sede das Regionais de Saúde será ampliada, gradativamente, a todo o território paranaense.
+
+O reforço da vacinação foi anunciado durante a Comissão Intergestores Bipartite do Paraná (CIB/PR), realizada na semana passada no evento Saúde em Movimento, em Foz do Iguaçu, com o aval e apoio do Conselho de Secretarias Municipais de Saúde do Paraná (Cosems/PR) e Conselho Estadual de Saúde do Paraná (CES/PR).
+
+“Esta é uma oportunidade para quem perdeu o prazo ou que ainda não recebeu a vacina. O Paraná tem realizado ações contínuas para incentivar a imunização, incluindo campanhas de conscientização, mobilizações em unidades de saúde e parcerias com escolas para ampliar a cobertura vacinal entre crianças e adolescentes”, ressaltou o secretário estadual da Saúde, Beto Preto. “É mais um passo para atingirmos as coberturas vacinais ideais e proteção aos adolescentes e jovens paranaense, afirmou.
+
+---
+
+[referencia=34e050676589f215 score=0.014]
+**DOSE ÚNICA** – Até março de 2024, o esquema vacinal contra o HPV previa duas doses para cada pessoa. No entanto, a partir daquela data, o Ministério da Saúde passou a recomendar dose única, o que deve impactar a comparação direta dos números entre os anos
+
+Em 2024, foram aplicadas 71.407 doses da vacina contra o HPV em meninas de 9 a 14 anos e 88.634 doses em meninos da mesma faixa etária.
+
+Neste ano, no período de janeiro e fevereiro foram vacinadas 8.873 meninas e 10.367 meninos. A cobertura vacinal no Paraná no ano de 2024 foi de 97,12% para meninas e 87,17% para meninos. Em 2025, os números de cobertura registraram queda registraram nos primeiros dois meses: foram 81,59% para meninas e 72,77% para meninos.
+
+“Um dos principais objetivos desta ação é eliminar o câncer de útero até 2030. Esse objetivo faz parte do Plano de Ação para a Prevenção e Controle do Câncer do Colo do Útero da Organização Pan-Americana da Saúde (OPAS)”, reforçou a chefe da Divisão de Vigilância do Programa de Imunização da Sesa, Virginia Dobkowski Franco dos Santos.
+
+**ESTIMATIVA** – De acordo com a Opas, no Brasil, o câncer do colo do útero é o terceiro tipo de câncer com maior incidência entre as mulheres. Para cada ano do triênio 2023-2025, estima-se 17.010 novos casos, o que representa uma taxa bruta de incidência de 15,38 casos a cada 100 mil mulheres, segundo informações do Instituto Nacional de Câncer (INCA).

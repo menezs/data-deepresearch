@@ -1,0 +1,681 @@
+[referencia=8d0dca10adb8003b score=0.022]
+Infraestruturas do mercado financeiro
+
+Arranjos de pagamento
+
+Pix
+
+Drex – Real Digital
+
+Publicações sobre o SPB
+
+O que é câmbio?
+
+Cotação de moedas
+
+Classificação de operações de câmbio
+
+Instituições do mercado de câmbio
+
+Capitais internacionais
+
+Sistemas
+
+Política cambial
+
+Pagamento em moeda local
+
+Legislação de câmbio e de capitais internacionais
+
+Recomendações de Basileia
+
+Projeto Geotec
+
+Autorização
+
+Composição do SFN
+
+Concorrência no sistema financeiro
+
+Encontre uma instituição
+
+Instituições em Funcionamento no País
+
+Agências, postos de atendimento e filiais
+
+informações sobre evolução do SFN
+
+Comitê de Regulação e Fiscalização dos Mercados do SFN - Coremec
+
+Fundos garantidores
+
+Cadastro de responsáveis por regimes de resolução (Caresp)
+
+Certidão negativa de administração de instituição em liquidação
+
+Diário Eletrônico
+
+Consulta processual
+
+Sistema de Gerenciamento de Multas - SGM
+
+Protocolo Digital
+
+Serviços gratuitos e pacotes padronizados de serviços
+
+Sistemas operados pelo BC
+
+Sistemas autorizados pelo BC
+
+Arranjos de pagamento integrantes do SPB
+
+Arranjos de pagamento não integrantes do SPB
+
+Cheques
+
+Sobre o Pix
+
+Faça mais com o Pix
+
+Pix em números
+
+Segurança Pix
+
+Normas Pix
+
+Área dos participantes
+
+Ranking do VET
+
+Conversor de Moedas
+
+Fechamento diário do dólar
+
+Conversor de moedas
+
+Cotação de todas as moedas
+
+Consulta de cotações e boletins
+
+Paridades em relação ao euro
+
+Relação de moedas estrangeiras e padrões monetários brasileiros
+
+Instituições habilitadas a operar no mercado de câmbio
+
+Instituições habilitadas a intermediar operações de câmbio
+
+Agências de Turismo
+
+Correspondentes em operações de câmbio
+
+Comitê Consultivo do Mercado de Câmbio
+
+Capitais brasileiros no exterior (CBE)
+
+---
+
+[referencia=8d0dca10adb8003b score=0.015]
+Agências de Turismo
+
+Correspondentes em operações de câmbio
+
+Comitê Consultivo do Mercado de Câmbio
+
+Capitais brasileiros no exterior (CBE)
+
+Prestação de informações de capitais estrangeiros no país
+
+Censo de capitais estrangeiros no país
+
+Swap cambial
+
+Reservas internacionais
+
+Comitê Consultivo do Mercado de Câmbio do Brasil
+
+Dealers de câmbio
+
+Cronograma de vencimentos de linhas
+
+Estatísticas
+
+Taxas de Juros
+
+Notas econômico-financeiras
+
+Séries temporais (SGS)
+
+Tabelas especiais
+
+Indicadores Econômicos Selecionados
+
+Poupança
+
+Mais estatísticas
+
+Calendário de divulgação
+
+Estatísticas do setor externo
+
+Estatísticas monetárias e de crédito
+
+Estatísticas fiscais
+
+Estatísticas do mercado aberto
+
+Notas metodológicas
+
+Histórico
+
+Relatório de poupança
+
+Poupança e investimento
+
+Remuneração dos Depósitos de Poupança
+
+Estatística de Falsificação de Cédulas
+
+Estatísticas do Mercado Aberto
+
+Estatísticas do Sistema de Pagamentos
+
+Estatísticas sobre câmbio
+
+Estatísticas do sistema financeiro
+
+Special Data Dissemination Standard Plus
+
+Dados Abertos
+
+Estatísticas do setor externo
+
+Estatísticas monetárias e de crédito
+
+Estatísticas fiscais
+
+Estatísticas do mercado aberto
+
+Resenha do Mercado Aberto
+
+Estatísticas de operações do Selic
+
+Estatísticas de participantes, clientes e contas do Selic
+
+Estatísticas Gerais - dados do Red Book
+
+Estatísticas de Meios de Pagamentos
+
+Estatísticas do Pix
+
+Estatísticas do SPI
+
+Estatísticas do STR
+
+Bancária Mensal por município
+
+Censo sobre os créditos garantidos pelo FGC
+
+Depósitos a prazo
+
+Evolução do SFN
+
+IF.Data - Dados selecionados de instituições financeiras
+
+Letras Financeiras
+
+Mercado Imobiliário
+
+Relacionamentos no sistema financeiro
+
+SCR.data - Painel de Operações de Crédito
+
+Cédulas e moedas
+
+Cédulas
+
+Moedas
+
+---
+
+[referencia=8d0dca10adb8003b score=0.007]
+O que é inflação
+
+Comitê de Política Monetária (Copom)
+
+Comunicados do Copom
+
+Atas do Copom
+
+Relatório de Política Monetária
+
+Expectativas de mercado
+
+Mecanismos de transmissão da política monetária
+
+Taxa Selic
+
+Histórico das metas para inflação
+
+Votos para o CMN com a definição das metas
+
+Normas relacionadas ao regime de metas
+
+30 Anos do Real
+
+Plano Real
+
+Índices de preços
+
+Apresentações
+
+Boxes
+
+Anexos Estatísticos
+
+Calendário dos Relatórios de Política Monetária
+
+Relatório Focus
+
+Expectativas - perguntas frequentes
+
+Quero receber o Relatório Focus
+
+O que é o ranking Top 5 da Pesquisa Focus
+
+Estabilidade financeira
+
+Normas
+
+Supervisão
+
+Sistema Financeiro Nacional
+
+Sistema de Pagamentos Brasileiro (SPB)
+
+Câmbio e capitais internacionais
+
+Comitê de Estabilidade Financeira (Comef)
+
+Relatório de Estabilidade Financeira
+
+Busca de normas
+
+Regulação prudencial
+
+Consultas públicas
+
+Convergência das normas contábeis do SFN às normas internacionais
+
+Análise de Impacto Regulatório - AIR
+
+Avaliação de Resultado Regulatório - ARR
+
+Capital mínimo regulatório
+
+Monitoramento
+
+Prevenção à lavagem de dinheiro e ao financiamento do terrorismo
+
+IF.Data - Dados selecionados de IFs
+
+Central de Demonstrações Financeiras (CDSFN)
+
+SCR.data - Painel de Operações de Crédito
+
+Informações do Mercado Imobiliário
+
+Crédito rural
+
+Limites de crédito para o setor público
+
+Manual da Supervisão (MSU) e GPS
+
+Organização
+
+Regimes de resolução
+
+Proc. Sancionador, TC e APS
+
+Recolhimentos compulsórios
+
+Linhas financeiras de liquidez
+
+Ranking de Reclamações
+
+Sustentabilidade
+
+Tarifas bancárias
+
+Sistemas e informações ao BC
+
+Infraestruturas do mercado financeiro
+
+Arranjos de pagamento
+
+Pix
+
+Drex – Real Digital
+
+Publicações sobre o SPB
+
+O que é câmbio?
+
+Cotação de moedas
+
+---
+
+[referencia=8d0dca10adb8003b score=0.000]
+Acesso à informação
+
+Institucional
+
+Governança
+
+Gestão de riscos, compliance e controles
+
+Agenda de Autoridades
+
+Textos, discursos e apresentações
+
+Secretaria do CMN
+
+Internacional
+
+Cidadania Financeira
+
+História do Banco Central do Brasil
+
+Agenda de Autoridades
+
+Agenda dos Chefes de Unidade e Gabinete
+
+Estrutura do BC
+
+Resultados do BC
+
+Calendário
+
+Eventos
+
+Planejamento estratégico
+
+Endereços, telefones e CNPJs
+
+Liderança
+
+Estratégia
+
+Transparência
+
+Accountability
+
+Integridade
+
+Autonomia
+
+Extratos das atas das reuniões do CMN
+
+Atas das reuniões do CMN
+
+Governança financeira global
+
+Integração financeira internacional
+
+Investidores internacionais e agências de risco
+
+BC 60 anos - nossa história
+
+História Contada
+
+Regimento interno
+
+Comitê de Política Monetária (Copom)
+
+Comitê de Estabilidade Financeira (Comef)
+
+Organograma
+
+Museu de Valores e Galeria de Arte
+
+Regionais
+
+Procuradoria-Geral do Banco Central
+
+Comissão de Ética
+
+Balancetes e demonstrações financeiras - contábeis
+
+Horários de Sistemas Informatizados
+
+Estrutura do Banco Central
+
+Agenda de Autoridades
+
+Agenda dos Chefes de Unidades e de Gabinetes
+
+Fundo Monetário Internacional (FMI)
+
+G20
+
+Organização para Cooperação e Desenvolvimento Econômico (OCDE)
+
+Banco de Compensações Internacionais (BIS)
+
+Conselho de Estabilidade Financeira (FSB)
+
+BRICS
+
+Acordos de serviços financeiros e investimentos
+
+Pagamento em moeda local
+
+Mercosul financeiro
+
+Códigos e padrões financeiros internacionais
+
+Reunião de Presidentes de Bancos Centrais da América do Sul (RPBCAS)
+
+Versão em espanhol
+
+Política monetária
+
+Metas para a inflação
+
+O que é inflação
+
+Comitê de Política Monetária (Copom)
+
+Comunicados do Copom
+
+Atas do Copom
+
+Relatório de Política Monetária
+
+Expectativas de mercado
+
+---
+
+[referencia=8d0dca10adb8003b score=0.000]
+Letras Financeiras
+
+Mercado Imobiliário
+
+Relacionamentos no sistema financeiro
+
+SCR.data - Painel de Operações de Crédito
+
+Cédulas e moedas
+
+Cédulas
+
+Moedas
+
+Serviços
+
+Dinheiro em circulação
+
+O caminho do dinheiro
+
+Segunda família do real
+
+Primeira família do real
+
+Cédulas inadequadas à circulação
+
+Dinheiro suspeito de falsificação
+
+Cédulas produzidas
+
+Notas manchadas por dispositivos antifurto
+
+Cédula comemorativa
+
+Segunda família do real
+
+Primeira família do real
+
+Moedas comemorativas
+
+Moedas inadequadas à circulação
+
+Conservação de moedas
+
+Moedas produzidas
+
+Obtenção de troco
+
+Encargos do meio circulante
+
+Obtenção de troco
+
+Acompanhar análise de nota e moeda enviada para exame
+
+Aprender sobre elementos de segurança do Real
+
+Publicações e pesquisa
+
+Atas do Copom
+
+Relatório de Política Monetária
+
+Relatório de Estabilidade Financeira
+
+Relatório Integrado do BC
+
+Estudos especiais do Banco Central
+
+Sondagens do BC
+
+Pesquisa no BC
+
+Mais publicações
+
+Apresentações
+
+Boxes
+
+Anexos Estatísticos
+
+Calendário dos Relatórios de Política Monetária
+
+Focus - Relatório de Mercado
+
+Firmus - Pesquisa com empresas
+
+Pesquisa de Estabilidade Financeira
+
+Pesquisa Trimestral de Condições de Crédito
+
+Questionário Pré-Copom
+
+Série de Trabalhos para Discussão
+
+BC Blog
+
+Conferências | Seminários | Workshops
+
+Publicações externas
+
+Relatório de Pesquisa em Economia e Finanças
+
+Pesquisadores do BC
+
+Colaboração externa
+
+Agenda de Pesquisa
+
+Boletins do BC
+
+Cidadania Financeira
+
+Manuais do BC
+
+Notas Técnicas do BC
+
+Revista da Procuradoria-Geral do BC (PGBC)
+
+Sustentabilidade (PGLS)
+
+Outros relatórios do BC
+
+Outras publicações
+
+Inclusão na lista de e-mail do Focus
+
+Focus - Distribuições de Frequência
+
+O que é o ranking Focus - Instituições Top 5
+
+---
+
+[referencia=8d0dca10adb8003b score=0.000]
+Outros relatórios do BC
+
+Outras publicações
+
+Inclusão na lista de e-mail do Focus
+
+Focus - Distribuições de Frequência
+
+O que é o ranking Focus - Instituições Top 5
+
+Cadastramento em lista de divulgação
+
+Trabalhos para Discussão - Todas as publicações
+
+Boletim do Crédito Rural e do Proagro
+
+Boletim regional
+
+Manual do Cadip
+
+Manual do CBE
+
+Manual de Crédito Rural (MCR)
+
+Manuais do declarante (RDE)
+
+Manual do liquidante
+
+Manual do Sisorf
+
+Manual da Supervisão (MSU) e GPS
+
+Relatórios de AIR e ARR
+
+Relatório da Auditoria Interna - Raint
+
+Relatório de Gestão - Reservas Internacionais
+
+Relatório de Investimento Direto
+
+Relatório de Pesquisa em Economia e Finanças
+
+Relatório de Riscos e Oportunidades Sociais, Ambientais e Climáticas
+
+Publicações sobre o SPB
+
+Filtrar por:
+
+Filtrar por:

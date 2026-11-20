@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "a7468c6851652691",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1706.03762",
+    "normalized_url": "https://arxiv.org/abs/1706.03762",
+    "work_key": "ARXIV:1706.03762",
+    "title": "[1706.03762] Attention Is All You Need - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:41:40.027116Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "876e21001e72216c",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf?utm_source=nationaltribune&utm_medium=nationaltribune&utm_campaign=news",
+    "normalized_url": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+    "work_key": "https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf",
+    "title": "Attention is All you Need - NIPS,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:41:39.476579Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8f0aaf906971379f",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.alphaxiv.org/abs/1706.03762v4",
+    "normalized_url": "https://alphaxiv.org/abs/1706.03762v4",
+    "work_key": "https://alphaxiv.org/abs/1706.03762v4",
+    "title": "Attention Is All You Need | alphaXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:41:32.376025Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "981e0d24a86bafa9",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://huggingface.co/datasets/attention-wiki/knowledge-base/commit/597b4e5675fb2ddd291e75a886eedc568c6fedc2",
+    "normalized_url": "https://huggingface.co/datasets/attention-wiki/knowledge-base/commit/597b4e5675fb2ddd291e75a886eedc568c6fedc2",
+    "work_key": "https://huggingface.co/datasets/attention-wiki/knowledge-base/commit/597b4e5675fb2ddd291e75a886eedc568c6fedc2",
+    "title": "Process arXiv:1706.03762 — Attention Is All You Need,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:41:32.504039Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "34c4c8ee90c46400",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "normalized_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "work_key": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "title": "Attention Is All You Need - Wikipedia,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:42:34.080335Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c3ab01e47e614fe3",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://arxiv.org/pdf/1706.03762",
+    "normalized_url": "https://arxiv.org/pdf/1706.03762",
+    "work_key": "ARXIV:1706.03762",
+    "title": "arXiv:1706.03762v7 [cs.CL] 2 Aug 2023,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:41:41.116307Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a15e6a70c6cf4a11",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/323904682_Tensor2Tensor_for_Neural_Machine_Translation",
+    "normalized_url": "https://researchgate.net/publication/323904682_Tensor2Tensor_for_Neural_Machine_Translation",
+    "work_key": "https://researchgate.net/publication/323904682_Tensor2Tensor_for_Neural_Machine_Translation",
+    "title": "(PDF) Tensor2Tensor for Neural Machine Translation - ResearchGate,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:58:27.164500Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2d7205e3738744ae",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://arxiv.org/html/2512.03803v1",
+    "normalized_url": "https://arxiv.org/html/2512.03803v1",
+    "work_key": "https://arxiv.org/html/2512.03803v1",
+    "title": "Enhancing Instruction-Following Capabilities in Seq2Seq Models,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:41:40.598169Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c55c942148fcb938",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2204.05832",
+    "normalized_url": "https://arxiv.org/abs/2204.05832",
+    "work_key": "ARXIV:2204.05832",
+    "title": "What Language Model Architecture and Pretraining Objective Work,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:41:55.835040Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ea6afdae27cfb441",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2407.21783",
+    "normalized_url": "https://arxiv.org/abs/2407.21783",
+    "work_key": "ARXIV:2407.21783",
+    "title": "[2407.21783] The Llama 3 Herd of Models - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:42:32.296005Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2cab3ea10b8b7ae2",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2005.14165",
+    "normalized_url": "https://arxiv.org/abs/2005.14165",
+    "work_key": "ARXIV:2005.14165",
+    "title": "[2005.14165] Language Models are Few-Shot Learners - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:42:44.224530Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "143feaeaaeb2d7cd",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2012.14913",
+    "normalized_url": "https://arxiv.org/abs/2012.14913",
+    "work_key": "ARXIV:2012.14913",
+    "title": "Transformer Feed-Forward Layers Are Key-Value Memories - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:42:45.219000Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "267984873f6938ac",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2103.03404",
+    "normalized_url": "https://arxiv.org/abs/2103.03404",
+    "work_key": "ARXIV:2103.03404",
+    "title": "Pure Attention Loses Rank Doubly Exponentially with Depth - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:42:50.728006Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "de539966b9f54c2c",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2412.19437",
+    "normalized_url": "https://arxiv.org/abs/2412.19437",
+    "work_key": "ARXIV:2412.19437",
+    "title": "[2412.19437] DeepSeek-V3 Technical Report - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:26.408369Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a114e852aac1b2cb",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2305.13245",
+    "normalized_url": "https://arxiv.org/abs/2305.13245",
+    "work_key": "ARXIV:2305.13245",
+    "title": "GQA: Training Generalized Multi-Query Transformer Models ... - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:42:49.825765Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5727fed78bddc701",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2205.14135",
+    "normalized_url": "https://arxiv.org/abs/2205.14135",
+    "work_key": "ARXIV:2205.14135",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:14.864711Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e3019f635a854c51",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60308-3",
+    "normalized_url": "https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-60308-3",
+    "work_key": "DOI:10.1007/s11704-026-60308-3",
+    "title": "A Survey of Large Language Models - Hep Journals,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:42:58.104415Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "363fb5dd108968a4",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://local-ai-zone.github.io/blog/deepseek-kv-cache-optimization-research-paper.html",
+    "normalized_url": "https://local-ai-zone.github.io/blog/deepseek-kv-cache-optimization-research-paper.html",
+    "work_key": "https://local-ai-zone.github.io/blog/deepseek-kv-cache-optimization-research-paper.html",
+    "title": "From 390 KB to 890 Bytes — DeepSeek's KV Cache Optimization,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:42:59.354421Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6c590c4bea08449d",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2207.00729",
+    "normalized_url": "https://arxiv.org/abs/2207.00729",
+    "work_key": "ARXIV:2207.00729",
+    "title": "The Parallelism Tradeoff: Limitations of Log-Precision Transformers,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:13.619554Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5dd64e15cc7592b1",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2312.00752",
+    "normalized_url": "https://arxiv.org/abs/2312.00752",
+    "work_key": "ARXIV:2312.00752",
+    "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:33.480274Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0c47ea4675bf3dd1",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2405.21060",
+    "normalized_url": "https://arxiv.org/abs/2405.21060",
+    "work_key": "ARXIV:2405.21060",
+    "title": "Transformers are SSMs: Generalized Models and Efficient ... - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:49.727554Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "739b0738cc518ef9",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2403.19887",
+    "normalized_url": "https://arxiv.org/abs/2403.19887",
+    "work_key": "ARXIV:2403.19887",
+    "title": "Jamba: A Hybrid Transformer-Mamba Language Model - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:31.821025Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9cee40b637f69874",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1409.3215",
+    "normalized_url": "https://arxiv.org/abs/1409.3215",
+    "work_key": "ARXIV:1409.3215",
+    "title": "[1409.3215] Sequence to Sequence Learning with Neural Networks,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:33.178537Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "648f5b67423d0934",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://gregorygundersen.com/blog/2025/10/01/large-language-models/",
+    "normalized_url": "https://gregorygundersen.com/blog/2025/10/01/large-language-models",
+    "work_key": "https://gregorygundersen.com/blog/2025/10/01/large-language-models",
+    "title": "A History of Large Language Models - Gregory Gundersen,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:35.907624Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "94d3d49016ad4075",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://arxiv.org/pdf/1508.04025",
+    "normalized_url": "https://arxiv.org/pdf/1508.04025",
+    "work_key": "ARXIV:1508.04025",
+    "title": "arXiv:1508.04025v5 [cs.CL] 20 Sep 2015,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:42.280039Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c23bf2a3bc33cb7a",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1409.0473",
+    "normalized_url": "https://arxiv.org/abs/1409.0473",
+    "work_key": "ARXIV:1409.0473",
+    "title": "Neural Machine Translation by Jointly Learning to Align and ... - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:43.435215Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bd2e5183aeaece3d",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/339350384_A_Survey_of_Deep_Learning_Techniques_for_Neural_Machine_Translation",
+    "normalized_url": "https://researchgate.net/publication/339350384_A_Survey_of_Deep_Learning_Techniques_for_Neural_Machine_Translation",
+    "work_key": "https://researchgate.net/publication/339350384_A_Survey_of_Deep_Learning_Techniques_for_Neural_Machine_Translation",
+    "title": "(PDF) A Survey of Deep Learning Techniques for Neural Machine,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-18T02:58:22.724570Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e80a0af0e42a658c",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1601.06733",
+    "normalized_url": "https://arxiv.org/abs/1601.06733",
+    "work_key": "ARXIV:1601.06733",
+    "title": "Long Short-Term Memory-Networks for Machine Reading - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:49.869009Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "afc62b9a121e03b8",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://slds-lmu.github.io/seminar_nlp_ss20/attention-and-self-attention-for-nlp.html",
+    "normalized_url": "https://slds-lmu.github.io/seminar_nlp_ss20/attention-and-self-attention-for-nlp.html",
+    "work_key": "https://slds-lmu.github.io/seminar_nlp_ss20/attention-and-self-attention-for-nlp.html",
+    "title": "Chapter 8 Attention and Self-Attention for NLP,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:44.028596Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "99bf4c74cf248c24",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1705.03122",
+    "normalized_url": "https://arxiv.org/abs/1705.03122",
+    "work_key": "ARXIV:1705.03122",
+    "title": "[1705.03122] Convolutional Sequence to Sequence Learning - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:52.998124Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8ac0bf0663aa6121",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://scaledojo.dev/papers/attention-is-all-you-need",
+    "normalized_url": "https://scaledojo.dev/papers/attention-is-all-you-need",
+    "work_key": "https://scaledojo.dev/papers/attention-is-all-you-need",
+    "title": "Attention Is All You Need: Transformer Architecture - ScaleDojo,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:49.203100Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d9c08b4d6cd4e69f",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://medium.com/@aridiosilva/opening-the-black-box-of-llm-inference-foundations-of-generative-ai-65f6d3563bd2",
+    "normalized_url": "https://medium.com/@aridiosilva/opening-the-black-box-of-llm-inference-foundations-of-generative-ai-65f6d3563bd2",
+    "work_key": "https://medium.com/@aridiosilva/opening-the-black-box-of-llm-inference-foundations-of-generative-ai-65f6d3563bd2",
+    "title": "Opening the Black Box of LLM Inference: Foundations of Generative AI,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:43:51.530097Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7d62adb6f51940dc",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1905.10650",
+    "normalized_url": "https://arxiv.org/abs/1905.10650",
+    "work_key": "ARXIV:1905.10650",
+    "title": "[1905.10650] Are Sixteen Heads Really Better than One? - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:00.130087Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5401cee11c8e3cf1",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1905.09418",
+    "normalized_url": "https://arxiv.org/abs/1905.09418",
+    "work_key": "ARXIV:1905.09418",
+    "title": "Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:05.504815Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "11ae39b661d58ec6",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2002.04745",
+    "normalized_url": "https://arxiv.org/abs/2002.04745",
+    "work_key": "ARXIV:2002.04745",
+    "title": "On Layer Normalization in the Transformer Architecture - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:10.648488Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d0023c41add26a80",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1910.07467",
+    "normalized_url": "https://arxiv.org/abs/1910.07467",
+    "work_key": "ARXIV:1910.07467",
+    "title": "[1910.07467] Root Mean Square Layer Normalization - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:06.399720Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7febb7e905af5e40",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2002.05202",
+    "normalized_url": "https://arxiv.org/abs/2002.05202",
+    "work_key": "ARXIV:2002.05202",
+    "title": "[2002.05202] GLU Variants Improve Transformer - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:06.050798Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fed4ebad736ddcea",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2303.06296",
+    "normalized_url": "https://arxiv.org/abs/2303.06296",
+    "work_key": "ARXIV:2303.06296",
+    "title": "Stabilizing Transformer Training by Preventing Attention Entropy,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:39.653760Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "128e7e40ab379185",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://arxiv.org/html/2310.12956v2",
+    "normalized_url": "https://arxiv.org/html/2310.12956v2",
+    "work_key": "https://arxiv.org/html/2310.12956v2",
+    "title": "Eureka-Moments in Transformers:Multi-Step Tasks Reveal Softmax,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:06.906966Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "99752d53da937b2f",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2609.34272",
+    "normalized_url": "https://arxiv.org/abs/2609.34272",
+    "work_key": "ARXIV:2609.34272",
+    "title": "Broken Symmetry in BF16 Attention: Why FlashAttention Gradients,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:29.869174Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "32f3c7d144f036a0",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1810.04805",
+    "normalized_url": "https://arxiv.org/abs/1810.04805",
+    "work_key": "ARXIV:1810.04805",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:22.578960Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "887da5f02141c29f",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1910.10683",
+    "normalized_url": "https://arxiv.org/abs/1910.10683",
+    "work_key": "ARXIV:1910.10683",
+    "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:11.136043Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "07c2b306964d4bdc",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/404686943_A_Survey_of_Large_Language_Models",
+    "normalized_url": "https://researchgate.net/publication/404686943_A_Survey_of_Large_Language_Models",
+    "work_key": "https://researchgate.net/publication/404686943_A_Survey_of_Large_Language_Models",
+    "title": "(PDF) A Survey of Large Language Models - ResearchGate,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-18T02:58:26.718524Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a2690ed31e8cc7e9",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1508.07909",
+    "normalized_url": "https://arxiv.org/abs/1508.07909",
+    "work_key": "ARXIV:1508.07909",
+    "title": "Neural Machine Translation of Rare Words with Subword Units - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:41.554969Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9ff16fb633b6429b",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1808.06226",
+    "normalized_url": "https://arxiv.org/abs/1808.06226",
+    "work_key": "ARXIV:1808.06226",
+    "title": "SentencePiece: A simple and language independent subword,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:41.232591Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2c2ef6e29ff22be3",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2305.15425",
+    "normalized_url": "https://arxiv.org/abs/2305.15425",
+    "work_key": "ARXIV:2305.15425",
+    "title": "Language Model Tokenizers Introduce Unfairness Between ... - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:24.457196Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "db190fc1cfb58671",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://patterniseverything.com/llm/",
+    "normalized_url": "https://patterniseverything.com/llm",
+    "work_key": "https://patterniseverything.com/llm",
+    "title": "LLM Engineering - Pattern is Everything,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:42.359098Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d7eccd072c35cb31",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://arxiv.org/html/2404.01856v3",
+    "normalized_url": "https://arxiv.org/html/2404.01856v3",
+    "work_key": "https://arxiv.org/html/2404.01856v3",
+    "title": "Poro 34B and the Blessing of Multilinguality - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:44:42.247852Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "85f66a6419d173a7",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2001.08361",
+    "normalized_url": "https://arxiv.org/abs/2001.08361",
+    "work_key": "ARXIV:2001.08361",
+    "title": "[2001.08361] Scaling Laws for Neural Language Models - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:22.046554Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "46fd66187ec3e6ae",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2203.15556",
+    "normalized_url": "https://arxiv.org/abs/2203.15556",
+    "work_key": "ARXIV:2203.15556",
+    "title": "Training Compute-Optimal Large Language Models - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:28.656743Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9234db6adf65f4d0",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2401.00448",
+    "normalized_url": "https://arxiv.org/abs/2401.00448",
+    "work_key": "ARXIV:2401.00448",
+    "title": "Accounting for Inference in Language Model Scaling Laws - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:29.004449Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3b850513f2939af4",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://cs336.stanford.edu/spring2025-lectures/?trace=var/traces/lecture_01.json",
+    "normalized_url": "https://cs336.stanford.edu/spring2025-lectures?trace=var%2Ftraces%2Flecture_01.json",
+    "work_key": "https://cs336.stanford.edu/spring2025-lectures?trace=var%2Ftraces%2Flecture_01.json",
+    "title": "Trace - lecture_01 - Stanford CS336,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:32.383882Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2d76bc16fcc7825d",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2206.07682",
+    "normalized_url": "https://arxiv.org/abs/2206.07682",
+    "work_key": "ARXIV:2206.07682",
+    "title": "[2206.07682] Emergent Abilities of Large Language Models - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:46.971226Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "22db72cf2a806d3b",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2304.15004",
+    "normalized_url": "https://arxiv.org/abs/2304.15004",
+    "work_key": "ARXIV:2304.15004",
+    "title": "Are Emergent Abilities of Large Language Models a Mirage? - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:40.427881Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b9e232df2cb9a34c",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://arxiv.org/html/2402.11004v1",
+    "normalized_url": "https://arxiv.org/html/2402.11004v1",
+    "work_key": "https://arxiv.org/html/2402.11004v1",
+    "title": "The Evolution of Statistical Induction Heads: In-Context Learning,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:30.929825Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "99ffb628c4d8104b",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://arxiv.org/pdf/2212.07677",
+    "normalized_url": "https://arxiv.org/pdf/2212.07677",
+    "work_key": "ARXIV:2212.07677",
+    "title": "Transformers Learn In-Context by Gradient Descent - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:54.157565Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "34bad5d19f8aab3b",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2211.15661",
+    "normalized_url": "https://arxiv.org/abs/2211.15661",
+    "work_key": "ARXIV:2211.15661",
+    "title": "What learning algorithm is in-context learning? Investigations with,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:58.389528Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fec598beac277b65",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2209.11895",
+    "normalized_url": "https://arxiv.org/abs/2209.11895",
+    "work_key": "ARXIV:2209.11895",
+    "title": "[2209.11895] In-context Learning and Induction Heads - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:23.723014Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "dea8a30282ec6973",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://arxiv.org/pdf/2311.00237",
+    "normalized_url": "https://arxiv.org/pdf/2311.00237",
+    "work_key": "ARXIV:2311.00237",
+    "title": "arXiv:2311.00237v3 [cs.CL] 3 Oct 2024,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:59.825835Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ca517c4b4b64d6cc",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://arxiv.org/html/2402.14180v2",
+    "normalized_url": "https://arxiv.org/html/2402.14180v2",
+    "work_key": "https://arxiv.org/html/2402.14180v2",
+    "title": "Linear Transformers are Versatile In-Context Learners - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:45:56.153549Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c684a6d64091ddbb",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://arxiv.org/html/2402.14735v2",
+    "normalized_url": "https://arxiv.org/html/2402.14735v2",
+    "work_key": "https://arxiv.org/html/2402.14735v2",
+    "title": "How Transformers Learn Causal Structure with Gradient Descent,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:00.740630Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6a383a28d120a0c0",
+    "citation_markers": [
+      "[62]"
+    ],
+    "raw_url": "https://arxiv.org/html/2310.03016v1",
+    "normalized_url": "https://arxiv.org/html/2310.03016v1",
+    "work_key": "https://arxiv.org/html/2310.03016v1",
+    "title": "Understanding In-Context Learning in Transformers and LLMs by,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:00.208749Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "260c917913f5d8f0",
+    "citation_markers": [
+      "[63]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1906.06755",
+    "normalized_url": "https://arxiv.org/abs/1906.06755",
+    "work_key": "ARXIV:1906.06755",
+    "title": "Theoretical Limitations of Self-Attention in Neural Sequence Models,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:13.872546Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "83213326f5835ccc",
+    "citation_markers": [
+      "[64]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2104.09864",
+    "normalized_url": "https://arxiv.org/abs/2104.09864",
+    "work_key": "ARXIV:2104.09864",
+    "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:11.702396Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "25676193afe5f7ab",
+    "citation_markers": [
+      "[65]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2108.12409",
+    "normalized_url": "https://arxiv.org/abs/2108.12409",
+    "work_key": "ARXIV:2108.12409",
+    "title": "Train Short, Test Long: Attention with Linear Biases Enables Input,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:22.978575Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e8632a3cba9f9327",
+    "citation_markers": [
+      "[66]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2306.15595",
+    "normalized_url": "https://arxiv.org/abs/2306.15595",
+    "work_key": "ARXIV:2306.15595",
+    "title": "Extending Context Window of Large Language Models via ... - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:27.078943Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "021ecc8cb34e2fbb",
+    "citation_markers": [
+      "[67]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2309.00071",
+    "normalized_url": "https://arxiv.org/abs/2309.00071",
+    "work_key": "ARXIV:2309.00071",
+    "title": "YaRN: Efficient Context Window Extension of Large Language Models,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:30.223830Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6ee83218472b4aa1",
+    "citation_markers": [
+      "[68]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2307.03172",
+    "normalized_url": "https://arxiv.org/abs/2307.03172",
+    "work_key": "ARXIV:2307.03172",
+    "title": "Lost in the Middle: How Language Models Use Long Contexts - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:43.762177Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9f2f8008d0d4fcaf",
+    "citation_markers": [
+      "[69]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2309.17453",
+    "normalized_url": "https://arxiv.org/abs/2309.17453",
+    "work_key": "ARXIV:2309.17453",
+    "title": "Efficient Streaming Language Models with Attention Sinks - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:53.092568Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5e9c4b0d7e28a9c7",
+    "citation_markers": [
+      "[70]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1911.02150",
+    "normalized_url": "https://arxiv.org/abs/1911.02150",
+    "work_key": "ARXIV:1911.02150",
+    "title": "Fast Transformer Decoding: One Write-Head is All You Need - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:38.439611Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "79eb55ac7258125e",
+    "citation_markers": [
+      "[71]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2405.04434",
+    "normalized_url": "https://arxiv.org/abs/2405.04434",
+    "work_key": "ARXIV:2405.04434",
+    "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of ... - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:47:12.268121Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0927a2806ac8318f",
+    "citation_markers": [
+      "[72]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2307.08691",
+    "normalized_url": "https://arxiv.org/abs/2307.08691",
+    "work_key": "ARXIV:2307.08691",
+    "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:46:55.796988Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4791e267352f48bb",
+    "citation_markers": [
+      "[73]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2407.08608",
+    "normalized_url": "https://arxiv.org/abs/2407.08608",
+    "work_key": "ARXIV:2407.08608",
+    "title": "FlashAttention-3: Fast and Accurate Attention with Asynchrony and,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:47:04.431513Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "157c94c40cb9d09c",
+    "citation_markers": [
+      "[74]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2606.07703",
+    "normalized_url": "https://arxiv.org/abs/2606.07703",
+    "work_key": "ARXIV:2606.07703",
+    "title": "How Much Dense Attention is Necessary? Oracle-Guided Sparse,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:47:11.032767Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bf9cd21d7a7afdff",
+    "citation_markers": [
+      "[75]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2101.03961",
+    "normalized_url": "https://arxiv.org/abs/2101.03961",
+    "work_key": "ARXIV:2101.03961",
+    "title": "Scaling to Trillion Parameter Models with Simple and Efficient Sparsity,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:47:17.487091Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8ccdf64e8c44880b",
+    "citation_markers": [
+      "[76]"
+    ],
+    "raw_url": "https://arxiv.org/html/2603.07685v2",
+    "normalized_url": "https://arxiv.org/html/2603.07685v2",
+    "work_key": "https://arxiv.org/html/2603.07685v2",
+    "title": "Scalable Training of Mixture-of-Experts Models with Megatron Core,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:47:07.359690Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "28b111fe2104cf42",
+    "citation_markers": [
+      "[77]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2006.16236",
+    "normalized_url": "https://arxiv.org/abs/2006.16236",
+    "work_key": "ARXIV:2006.16236",
+    "title": "Fast Autoregressive Transformers with Linear Attention - arXiv,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:47:16.532547Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z",
+    "tool_name": "Gemini"
+  }
+]

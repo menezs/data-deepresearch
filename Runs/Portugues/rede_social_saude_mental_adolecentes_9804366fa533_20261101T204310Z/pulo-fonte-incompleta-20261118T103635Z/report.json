@@ -1,0 +1,1034 @@
+{
+  "run_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+  "answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Claude/EmConsolidacao/rede_social_saude_mental_adolecentes.md",
+  "generated_at": "2026-11-04T03:05:05.725969Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 27485,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 83,
+    "citation_markers_distinct": 35,
+    "references_listed": 35,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 80,
+  "pct_supported": 73.75,
+  "pct_unsupported": 7.5,
+  "pct_contradicted": 0.0,
+  "count_supported": 59,
+  "count_unsupported": 6,
+  "count_contradicted": 0,
+  "count_skipped": 15,
+  "count_audited": 65,
+  "pct_supported_audited": 90.76923076923077,
+  "pct_unsupported_audited": 9.230769230769232,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 10,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 9,
+    "ref_sem_conteudo": 6
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 3,
+  "count_reclassified_by_verification": 0,
+  "verification_stage_counts": {},
+  "mis_cited_reference_count": 2,
+  "uncredited_reference_count": 3,
+  "dead_references": [
+    {
+      "id": "ae14b8fd77c76408",
+      "citation_markers": [
+        "[30]"
+      ],
+      "raw_url": "https://www.radiox.co.uk/news/uk-world/most-australian-teens-still-on-social-media-d/",
+      "normalized_url": "https://radiox.co.uk/news/uk-world/most-australian-teens-still-on-social-media-d",
+      "work_key": "https://radiox.co.uk/news/uk-world/most-australian-teens-still-on-social-media-d",
+      "title": "Radio X (Sky News) — Most Australian teens still on social media despite landmark ban.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-11-04T03:02:22.831003Z",
+      "error_message": "Referencia nao encontrada (404): https://www.radiox.co.uk/news/uk-world/most-australian-teens-still-on-social-media-d/",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "inaccessible_references": [
+    {
+      "id": "a01a9ef18e2cd9a8",
+      "citation_markers": [
+        "[5]"
+      ],
+      "raw_url": "https://metatoc.com/papers/118222-review-social-media-use-and-adolescent-mental-health-an-umbrella-review-and-power-analysis",
+      "normalized_url": "https://metatoc.com/papers/118222-review-social-media-use-and-adolescent-mental-health-an-umbrella-review-and-power-analysis",
+      "work_key": "https://metatoc.com/papers/118222-review-social-media-use-and-adolescent-mental-health-an-umbrella-review-and-power-analysis",
+      "title": "Child and Adolescent Mental Health (via MetaTOC) — Social media use and adolescent mental health: an umbrella review and power analysis.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-04T03:03:55.155090Z",
+      "error_message": "download excedeu 90s",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "b7c2f6f663009003",
+      "citation_markers": [
+        "[14]"
+      ],
+      "raw_url": "https://www.epocrates.com/online/article/addictive-screen-use-tied-to-suicide-risk-mental-health-issues-in-early",
+      "normalized_url": "https://epocrates.com/online/article/addictive-screen-use-tied-to-suicide-risk-mental-health-issues-in-early",
+      "work_key": "https://epocrates.com/online/article/addictive-screen-use-tied-to-suicide-risk-mental-health-issues-in-early",
+      "title": "Epocrates — Addictive screen use tied to suicide risk, mental health issues in early adolescents.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:02:23.209042Z",
+      "error_message": "barreira de acesso (requires_js_login_region): # Access limited to the U.S. At this time, epocrates is not available outside the U.S. Because we cannot guarantee that ",
+      "barrier_kind": "requires_js_login_region",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "e94f5a1b98d6b83f",
+      "citation_markers": [
+        "[21]"
+      ],
+      "raw_url": "https://www.chconline.org/resourcelibrary/teens-social-media-and-mental-health-downloadable/",
+      "normalized_url": "https://chconline.org/resourcelibrary/teens-social-media-and-mental-health-downloadable",
+      "work_key": "https://chconline.org/resourcelibrary/teens-social-media-and-mental-health-downloadable",
+      "title": "CHC Online — Teens, Social Media and Mental Health (resumo do relatório Pew Research Center 2025).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:02:21.675698Z",
+      "error_message": "barreira de acesso (anti_bot): This website is using a security service to protect itself from online attacks. The action you just performed triggered ",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "aa9f824adc4e7460",
+      "citation_markers": [
+        "[33]"
+      ],
+      "raw_url": "https://www.washingtonexaminer.com/?p=4503360",
+      "normalized_url": "https://washingtonexaminer.com?p=4503360",
+      "work_key": "https://washingtonexaminer.com?p=4503360",
+      "title": "Washington Examiner — Jury finds Meta and YouTube liable in landmark social media addiction case.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:02:26.500360Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-5",
+      "reason": "Referencia(s) citada(s) ['aa9f824adc4e7460'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-21",
+      "reason": "Referencia(s) citada(s) ['a01a9ef18e2cd9a8'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-22",
+      "reason": "Referencia(s) citada(s) ['a01a9ef18e2cd9a8'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-23",
+      "reason": "Referencia(s) citada(s) ['a01a9ef18e2cd9a8'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-25",
+      "reason": "Referencia(s) citada(s) ['b7c2f6f663009003'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-26",
+      "reason": "Referencia(s) citada(s) ['b7c2f6f663009003'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-28",
+      "reason": "Referencia(s) citada(s) ['b7c2f6f663009003'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-41",
+      "reason": "Referencia(s) citada(s) ['e94f5a1b98d6b83f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-43",
+      "reason": "Referencia(s) citada(s) ['e94f5a1b98d6b83f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-44",
+      "reason": "Referencia(s) citada(s) ['e94f5a1b98d6b83f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-61",
+      "reason": "Referencia(s) citada(s) ['ae14b8fd77c76408'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-62",
+      "reason": "Referencia(s) citada(s) ['ae14b8fd77c76408'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-66",
+      "reason": "Referencia(s) citada(s) ['aa9f824adc4e7460'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-67",
+      "reason": "Referencia(s) citada(s) ['a01a9ef18e2cd9a8'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-75",
+      "reason": "Referencia(s) citada(s) ['b7c2f6f663009003'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "2ed91019e5cd7c9c",
+      "url": "https://www.cetic.br/media/docs/publicacoes/2/pt-br/20260317181001/tic_kids_online_2025_resumo_executivo.pdf.pdf",
+      "times_cited": 7,
+      "supported_count": 7,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 2025, 92% dos brasileiros de 9 a 17 anos eram usuários de Internet, o que corresponde a cerca de 24 milhões de crianças e adolescentes.",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "e722e594ea80d366",
+      "url": "https://www.medrxiv.org/content/10.64898/2026.06.01.26354614v1",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        18,
+        19,
+        72,
+        73
+      ],
+      "partial_positions": [
+        20
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pooled estimates favoured SMU constraints across outcomes, with magnitude and precision varying by domain. Confidence intervals were entirely above zero, consistent with a beneficial response for depressive symptoms (g = 0.22; 95% CI, 0.12 to 0.32), perceived stress (g = 0.15; 95% CI, 0.01 to 0.29), anxiety symptoms (g = 0.19; 95% CI, 0.05 to 0.34), fear of missing out/nomophobia (g = 0.14; 95% CI, 0.04 to 0.24), and well-being (g = 0.36; 95% CI, 0.10 to 0.63).",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "a01a9ef18e2cd9a8",
+      "url": "https://metatoc.com/papers/118222-review-social-media-use-and-adolescent-mental-health-an-umbrella-review-and-power-analysis",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        21,
+        22,
+        23,
+        67
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "01d6617d3d3496b7",
+      "url": "https://www.ox.ac.uk/news/2022-03-28-negative-impact-social-media-affects-girls-and-boys-different-ages-study",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        29,
+        30,
+        71
+      ],
+      "partial_positions": [
+        70
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "girls experience a negative link between social media use and life satisfaction when they are 11-13 years old and boys when they are 14-15 years old. [...] Sensitivity to social media use might be linked to developmental changes, possibly changes in the structure of the brain, or to puberty, which occurs later in boys than in girls",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "b7c2f6f663009003",
+      "url": "https://www.epocrates.com/online/article/addictive-screen-use-tied-to-suicide-risk-mental-health-issues-in-early",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        25,
+        26,
+        28,
+        75
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "fb4454dd80d88980",
+      "url": "https://www.ox.ac.uk/news/2026-03-19-world-happiness-report-2026-shows-complex-global-picture-social-media-and-happiness",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        33,
+        34,
+        35
+      ],
+      "partial_positions": [
+        70
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Heavy social media use appears to be contributing to the drop in wellbeing among young people in English-speaking countries and Western Europe, especially among girls, according to findings published today (19 March) in the 2026 edition of the World Happiness Report.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "929536a32356c912",
+      "url": "https://www.gdnonline.com/Details/1242509/Social-media-could-harm-youth-mental-health,-US-Surgeon-General-warns",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        2,
+        3,
+        4
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Adolescents who spend more than three hours per day on social media face double the risk of experiencing poor mental health outcomes, such as symptoms of depression and anxiety, according to the advisory.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "e7b9deebac794928",
+      "url": "https://www.hbsc.org/?p=274696",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        8,
+        68
+      ],
+      "partial_positions": [
+        10
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The proportion of adolescents classified as problematic social media users increased from 7% in 2018 to 11% in 2022.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "73c6372f4aed3d36",
+      "url": "https://www.bostonglobe.com/2026/03/19/world/what-world-happiness-report-reveals-about-social-media-worlds-happiest-country/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        36,
+        37,
+        74
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "But adolescents are spending an estimated average of 2.5 hours a day on social media.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "7b648def418afcc8",
+      "url": "https://observatorioglobal.udlap.mx/?p=5980",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        38,
+        39,
+        77
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Improvements in social connections (such as a sense of belonging at school) have a much stronger positive effect on life satisfaction than reductions in social media use.",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "e94f5a1b98d6b83f",
+      "url": "https://www.chconline.org/resourcelibrary/teens-social-media-and-mental-health-downloadable/",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        41,
+        43,
+        44
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "75a0261d913bdb49",
+      "url": "https://www.demarest.com.br/?p=166412",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        53,
+        54,
+        79
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em **17 de março de 2026,** entrou em vigor a Lei nº 15.211/2025, conhecida como o **Estatuto Digital da Criança e do Adolescente** (**__ECA Digital__**).",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "ae14b8fd77c76408",
+      "url": "https://www.radiox.co.uk/news/uk-world/most-australian-teens-still-on-social-media-d/",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        61,
+        62,
+        78
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1b1dbb5aade8daa1",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13406646/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        31,
+        32,
+        69
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "while those with externalizing conditions report a lack of control over how much time they spend on social media",
+      "key_excerpt_position": 31
+    },
+    {
+      "reference_id": "767b21cf3c089818",
+      "url": "https://www.psychiatrictimes.com/view/us-surgeon-general-issues-advisory-on-impact-of-social-media-on-youth-mental-health",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        1
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "noting that up to 95% of youth aged 13 to 17 years report using at least 1 social media platform, and more than a third report using social media platforms \"almost constantly.\"",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "72217aa26ffcef33",
+      "url": "https://www.hmpgloballearningnetwork.com/site/pcn/news/apa-recommends-smart-sane-social-media-use-adolescents",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        76
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Adolescents using social media should be encouraged to find online communities that foster support, companionship, and health socialization to help alleviate stress and find connection with like-minded people; [...] Exposure to harmful content depicting illegal or dangerous behavior (such as self-harm or disordered eating) should be minimized. [...] Routine screening for problematic social media use is essential, including indicators like excessive use, cravings, and disruptions to daily life; [...] Social media use should not interfere with sleep, physical activity, or in-person social interactions.",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "1c7e3624aa1a23fc",
+      "url": "https://www.simplypsychology.org/news/time-spent-on-social-media-adolescent-mental-health-problems-a-meta-analysis",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        13,
+        14
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The mean effect of social media on mental health across all studies was β = .061, which is below the threshold for practical significance (r = .10). ... The primary finding is that there is no evidence of a clinically relevant link between time spent on social media and mental health issues in youth",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "f7e3da75ba689246",
+      "url": "https://medicaldialogues.in/mdtv/psychiatry/videos/addictive-screen-use-may-be-linked-to-poor-mental-health-in-preteens-study-finds-150383",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        27
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        69
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Addictive use of social media, mobile phones, and video games- but not overall screen time- is associated with worsening mental health and increased risk of suicidal thoughts and behaviors among preteens",
+      "key_excerpt_position": 27
+    },
+    {
+      "reference_id": "85b2144f5e1f46af",
+      "url": "https://telehealth.org/news/assessing-social-media-harm-in-teens/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        40,
+        42
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A 2025 Pew Research Center study of 13- to 17-year-olds and their parents reveals increasingly complex views about social media and mental health. Although 74% of teens report that social media helps them stay connected to friends, nearly half (48%) now say these platforms negatively affect people their age—up from 32% in 2022.",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "8f2a8d0e2e107cd4",
+      "url": "https://confidata.com.br/blog/eca-digital-o-que-muda-empresas",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        56,
+        57
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Até 10% do faturamento do grupo econômico no Brasil, limitada a **R$ 50 milhões por infração**",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "868a817b00c9c52d",
+      "url": "https://euronews.com/next/2026/01/15/australia-under-16-social-media-ban-how-is-it-going-one-month-since-law-took-effect",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        58
+      ],
+      "partial_positions": [
+        59
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Rather than hold parents or children accountable, the rules mean platforms face fines of up to A$49.5 million (V27 million) for serious or repeated breaches of allowing under-16 users.",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "384fbb0ee9e997d4",
+      "url": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        60
+      ],
+      "partial_positions": [
+        78
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A new study by Australia's internet regulator has revealed that more than eight in 10 young Australian teens and preteens are continuing to use social media platforms despite the government's prohibition for children under 16.",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "620e5542d2af9483",
+      "url": "https://abc30.com/amp/post/los-angeles-social-media-addiction-trial-jury-finds-instagram-youtube-liable-landmark-court-case/18771272/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        63,
+        64
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The plaintiff, known by her initials KGM, testified at trial that she became addicted to social media as a child and that this addiction exacerbated her mental health struggles.",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "aa9f824adc4e7460",
+      "url": "https://www.washingtonexaminer.com/?p=4503360",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        5,
+        66
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f332a0d7a9fc61b3",
+      "url": "https://www.newswise.com/articles/apa-panel-issues-recommendations-for-adolescent-social-media-use",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        6
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "\"Social media is neither inherently harmful nor beneficial to our youth,\" said APA President Thema Bryant, PhD. ... The report is careful to note that, given the publicly available research, it is not possible to determine if social media is the cause of harmful impacts on youth.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "506342bfa40ade3e",
+      "url": "https://www.klingensteincenter.org/klingbrief/under-protecting-qm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        11
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Hundreds of researchers, myself included, have searched for the kind of large effects suggested by Haidt. Our efforts have produced a mix of no, small, and mixed associations. Most data are correlative.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "32bc34c48dfdcb06",
+      "url": "https://platformer.news/anxious-generation-jonathan-haidt-debate-critique/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        12
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The average correlation between screen time and well-being was analogous to the correlation between wearing glasses and well being — it might just be a rounding error",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "d82164ccbe8086ac",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12421657",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        16
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Notable critiques included decisions related to study inclusion and exclusions; averaging across effect sizes from different types of experiments (i.e., social media restriction experiments such as those examined by Burnell et al., but also lab-based social media exposure experiments and within-person trajectory analyses); reliance on a summary outcome measure of heterogeneous mental health domains; alleged inconsistencies in calculations of study sample and effect sizes; and absence of moderation analyses by intervention length",
+      "key_excerpt_position": 16
+    },
+    {
+      "reference_id": "ad78583de4d7edab",
+      "url": "https://scholar.usuhs.edu/en/publications/social-media-reduction-or-abstinence-interventions-are-providing-/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        17
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "These findings suggest that social media use reduction/abstinence interventions should have a minimum length of 1 week or longer to confer mental health benefits. An ideal intervention length may be around 3 weeks, but future research is needed to confirm this.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "6d8853d0237dd4a0",
+      "url": "https://www.theregister.com/2026/03/19/social_media_bad_for_kids/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        15
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "170b2b46ef7cea0c",
+      "url": "https://goinginternational.eu/en/news/2207",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        9
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6f4ba49516e41643",
+      "url": "https://www.conjur.com.br/?p=867020",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        55
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "351e92a5d56870c1",
+      "url": "https://atarde.com.br/brasil/escolas-registram-maior-participacao-dos-alunos-em-1-ano-de-veto-ao-celular-1393684",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        52
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Ministério da Educação (MEC) junto ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP) divulgou nesta terça-feira, 30, o primeiro balanço da Lei nº 15.100/2025",
+      "key_excerpt_position": 52
+    },
+    {
+      "reference_id": "9eec7d4ee46da440",
+      "url": "https://www.seegerweiss.com/news/jury-finds-meta-and-youtube-liable-in-landmark-california-social-media-addiction-trial/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        65
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Seeger Weiss Founding Partner Christopher Seeger serves as Counsel to the Co-Lead Counsel and Settlement Counsel in the Social Media Adolescent Addiction / Personal Injury Products Liability Litigation, representing thousands of children and families harmed by social media platforms. [...] The jury, seated in the California Superior Court in Los Angeles County, found that addictive design features, including infinite scroll, algorithmic recommendations, and autoplay video, caused anxiety, depression, and body dysmorphia in the plaintiff, now 20 years old.",
+      "key_excerpt_position": 65
+    },
+    {
+      "reference_id": "c5b98511cc55b35c",
+      "url": "https://www.milbank.org/quarterly/articles/us-state-policies-regarding-social-media-do-policies-match-the-evidence/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        24
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the current research base has significant limitations and cannot definitively establish causal effects.",
+      "key_excerpt_position": 24
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-9",
+      "position": 9,
+      "claim_excerpt": "As meninas apresentaram taxas maiores que os meninos (13% contra 9%).",
+      "cited_markers": "[17]",
+      "corroborating_markers": "[16] [8] [23] [35]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-20",
+      "position": 20,
+      "claim_excerpt": "Entre os coautores estão Haidt e Rausch, e um dos autores declara atuar como perito remunerado em ações judiciais sobre o tema.",
+      "cited_markers": "[11]",
+      "corroborating_markers": "[35] [7] [18] [6]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 307326,
+  "cost_tracked": false,
+  "processing_time_seconds": 195714.816125
+}

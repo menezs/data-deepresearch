@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-57",
+  "passages": [
+    {
+      "reference_chunk_id": "b12e3b689f0d3546-0",
+      "reference_id": "b12e3b689f0d3546",
+      "score": 0.00006370587652781978,
+      "text": "**~~Verif~~ icando sua conexão** Estamos confirmando que este acesso é legítimo antes de liberar o conteúdo. Isso leva apenas alguns segundos. \n\n# JavaScript is required to use this page. \n\nSenado Federal"
+    }
+  ],
+  "assembled_context": "[referencia=b12e3b689f0d3546 score=0.000]\n**~~Verif~~ icando sua conexão** Estamos confirmando que este acesso é legítimo antes de liberar o conteúdo. Isso leva apenas alguns segundos. \n\n# JavaScript is required to use this page. \n\nSenado Federal",
+  "skip_reason": null
+}

@@ -1,0 +1,200 @@
+[referencia=3aaec0fb2693de4c score=0.134]
+## Abstract
+
+Cervical cancer burden is high where prophylactic vaccination and screening coverage are low. We demonstrated in a multicenter randomized, double-blind, controlled trial that single-dose human papillomavirus (HPV) vaccination had high vaccine efficacy (VE) against persistent infection at 18 months in Kenyan women. Here, we report findings of this trial through 3 years of follow-up. Overall, 2,275 healthy women aged 15–20 years were recruited and randomly assigned to receive bivalent (*n* = 760), nonavalent (*n* = 758) or control (*n* = 757) vaccine. The primary outcome was incident-persistent vaccine type-specific cervical HPV infection. The primary evaluation was superiority analysis in the modified intention-to-treat (mITT) HPV 16/18 and HPV 16/18/31/33/45/52/58 cohorts. The trial met its prespecified end points of vaccine type-specific persistent HPV infection. A total of 75 incident-persistent infections were detected in the HPV 16/18 mITT cohort: 2 in the bivalent group, 1 in the nonavalent group and 72 in the control group. Nonavalent VE was 98.8% (95% CI 91.3–99.8%, *P* < 0.0001) and bivalent VE was 97.5% (95% CI 90.0–99.4%, *P* < 0.0001). Overall, 89 persistent infections were detected in the HPV 16/18/31/33/45/52/58 mITT cohort: 5 in the nonavalent group and 84 in the control group; nonavalent VE was 95.5% (95% CI 89.0–98.2%, *P* < 0.0001). There were no vaccine-related severe adverse events. Three years after vaccination, single-dose HPV vaccination was highly efficacious, safe and conferred durable protection. ClinicalTrials.gov no. NCT03675256.
+
+### Similar content being viewed by others
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.054]
+The study has several strengths, including its randomized, double-blind controlled design, high retention rate, use of cervical HPV DNA as the outcome measure, determination of incident persistent HPV DNA, head-to-head comparison of the licensed bivalent and nonavalent HPV vaccines in protection against persistent infection with oncogenic HPV types, and duration of follow-up. Moreover, the trial successfully enrolled individuals exposed to HPV infection and retained them in all randomized groups, facilitating a rapid evaluation of single-dose efficacy. Compared to the 18-month analysis, the final analysis VE estimates are stable through 36 months, with higher point-estimates and tighter confidence intervals, as additional follow-up time was accrued beyond the 6–12-month buffer period, during which infections that were prevalent at baseline but not detected at follow-up, and may contribute to a lower estimate of VE<sup>13,14</sup>.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.015]
+This study evaluated zero versus single-dose HPV vaccination and employed a superiority design to support efficacious, feasible, and timely evidence for catch-up vaccination<sup>17,18</sup>. As reported previously, at 18 months, bivalent and nonavalent vaccine efficacy was 97.5% for HPV 16/18 and nonavalent VE was 88.9% for HPV 16/18/31/33/45/52/58<sup>10</sup>. We hypothesized that single-dose HPV VE would be durable over 36 months. Here we report the final single-dose HPV VE 3 years after vaccine administration to evaluate the durability of single-dose HPV vaccination for zero versus single-dose HPV vaccination. As planned, all participants have received HPV vaccination and follow-up continues to evaluate the durability of single-dose efficacy.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.008]
+## Discussion
+
+Three years after vaccine administration, the high efficacy of both single-dose bivalent or nonavalent HPV vaccine was sustained and durable against vaccine-specific oncogenic HPV infection. Protection against type-specific incident-persistent infection was ≥98% for bivalent and nonavalent vaccine protection against HPV 16/18 and >95% for nonavalent vaccine protection against HPV 16/18/31/33/45/52/58, which cause 70% and 90% of cervical cancer cases, respectively. This together with observed high reductions in the absolute cumulative incidence, the potential for public health impact in the context of disparities by HDI in cervical cancer incidence and mortality<sup>1</sup> is substantial. Saliently, there is high certainty of VE of at least 90% against HPV 16/18; the lower confidence interval limit for the bivalent and nonavalent VE.
+
+Taken in context, these data contribute to a suite of studies that provide evidence for single-dose HPV VE. The Costa Rica vaccine trial (CVT)<sup>12</sup> provided the first observational data for bivalent single-dose HPV vaccine effectiveness and recently demonstrated durability over 16 years<sup>19</sup>. The DoRIS study demonstrated that a single-dose nonavalent or bivalent HPV vaccine produced robust immune responses similar to two doses and three doses among 9–14-year-old girls<sup>20</sup>. The IARC-India study reported durability of single-dose quadrivalent HPV vaccine effectiveness over a decade<sup>11</sup>. Thus, consistent evidence on the efficacy and durability of single-dose HPV vaccination supports the WHO guidance for single-dose implementation to increase vaccine coverage. In mathematical modeling analyses of scale-up, implementation of routine single-dose immunization has the potential to avert most cervical cancer cases compared to two doses, with a durability of 20–30 years, in low-HDI settings<sup>21</sup>. Further, single-dose vaccination can increase coverage among girls in the 9–14-year-old group before they age out of vaccine eligibility and provide catch-up vaccination for those who may have missed the immunization due to the COVID-19 pandemic or other reasons.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.007]
+Globally cervical cancer is a leading cause of morbidity and mortality among women in mid-life; it is the second most common cancer and the greatest contributor to cancer-related mortality among women in southern and East Africa carrying a high cost to women, their families and communities<sup>1,27</sup>. Focusing on the cohort of girls and adolescent women who are at risk of developing cervical cancer if not vaccinated, global HPV 16/18 vaccination of women born between 2005 and 2014 would avert 8 million (7.8–8.3) cervical cancer cases and HPV 16/18/31/33/45/52/58 vaccination would avert 10.2 million (10.0–10.6) cases, with 70% of cases averted in low-to-middle HDI countries<sup>6</sup>. Cervical cancer is almost entirely preventable through HPV vaccination. Single-dose HPV vaccination could serve to close the gap between the WHO goal of 90% HPV vaccination coverage by 2030 and the 15% of girls globally currently vaccinated<sup>7</sup>, alleviate vaccine supply constraints<sup>27</sup> and provide global policymakers with options to optimally allocate existing HPV vaccine supply. The most recent Cochrane review of the efficacy of single-dose HPV vaccination highlighted that there was moderate evidence on the durability of VE, which we have now provided with robust data over 3 years<sup>13</sup>. Single-dose HPV vaccination could facilitate rapid scale-up of vaccination worldwide.
+
+Over 36 months, single-dose HPV vaccination offered high protection, >95% VE in preventing incident, persistent HPV 16/18/31/33/45/52/58 infection, with the lower bound of the confidence interval at almost 90% (89%) indicating a high minimum level of efficacy. Single-dose HPV vaccination was safe with no vaccine-related SAEs. These data add to the growing suite of evidence to support single-dose HPV vaccination implementation.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.002]
+8. Lowy, D. R. HPV vaccination to prevent cervical cancer and other HPV-associated disease: from basic science to effective interventions. *J. Clin. Invest.***126** , 5–11 (2016).
+9. Baisley, K. et al. Comparing one dose of HPV vaccine in girls aged 9-14 years in Tanzania (DoRIS) with one dose of HPV vaccine in historical cohorts: an immunobridging analysis of a randomised controlled trial. *Lancet Glob. Health***10** , e1485–e1493 (2022).
+10. Barnabas, R. V. et al. Efficacy of single-dose HPV vaccination among young African women. *NEJM Evid.***1** , EVIDoa2100056 (2022).
+11. Basu, P. et al. Vaccine efficacy against persistent human papillomavirus (HPV) 16/18 infection at 10 years after one, two, and three doses of quadrivalent HPV vaccine in girls in India: a multicentre, prospective, cohort study. *Lancet Oncol.* https://doi.org/10.1016/S1470-2045(21)00453-8 (2021).
+12. Kreimer, A. R. et al. Evidence for single-dose protection by the bivalent HPV vaccine: review of the Costa Rica HPV vaccine trial and future research studies. *Vaccine***36** , 4774–4782 (2018).
+13. Henschke, N. et al. *Efficacy, Effectiveness and Immunogenicity of One Dose of HPV Vaccine Compared with No Vaccination, Two Doses, or Three Doses* (Cochrane Response, 2022).
+14. Markowitz, L. E. et al. Human papillomavirus vaccine effectiveness by number of doses: updated systematic review of data from national immunization programs. *Vaccine***40** , 5413–5432 (2022).
+15. Whitworth, H. S. et al. Efficacy and immunogenicity of a single dose of human papillomavirus vaccine compared to no vaccination or standard three and two-dose vaccination regimens: a systematic review of evidence from clinical trials. *Vaccine***38** , 1302–1314 (2020).
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.002]
+24. Follmann, D. et al. A deferred-vaccination design to assess durability of COVID-19 vaccine effect after the placebo group is vaccinated. *Ann. Intern. Med.***174** , 1118–1125 (2021).
+25. Polman, N. J. et al. Performance of human papillomavirus testing on self-collected versus clinician-collected samples for the detection of cervical intraepithelial neoplasia of grade 2 or worse: a randomised, paired screen-positive, non-inferiority trial. *Lancet Oncol.***20** , 229–238 (2019).
+26. Robbins, H. A. et al. Glutathione- *S* -transferase L1 multiplex serology as a measure of cumulative infection with human papillomavirus.*BMC Infect. Dis.***14** , 120 (2014).
+27. Prem, K. et al. Global impact and cost-effectiveness of one-dose versus two-dose human papillomavirus vaccination schedules: a comparative modelling analysis. *BMC Med.* https://doi.org/10.1186/s12916-023-02988-3 (2023).
+28. Jung, S., Lee, B., Lee, K. N., Kim, Y. & Oh, E. J. Clinical validation of Anyplex II HPV HR detection test for cervical cancer screening in Korea. *Arch. Pathol. Lab. Med.***140** , 276–280 (2016).
+29. Hesselink, A. T. et al. Clinical validation of the HPV-risk assay, a novel real-time PCR assay for detection of high-risk human papillomavirus DNA by targeting the E7 region. *J. Clin. Microbiol.***52** , 890–896 (2014).
+30. Eklund, C., Forslund, O., Wallin, K. L. & Dillner, J. Continuing global improvement in human papillomavirus DNA genotyping services: the 2013 and 2014 HPV LabNet international proficiency studies. *J. Clin. Virol.***101** , 74–85 (2018).
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.001]
+### Outcomes
+
+The primary trial end point was incident-persistent cervical vaccine type-specific HPV infection among participants who were vaccine-type HPV naive at enrollment. Persistent HPV infection, a surrogate marker for cervical dysplasia/precancer, was defined as high-risk vaccine-type-specific HPV (HPV 16/18 for the bivalent vaccine and HPV 16/18/31/33/45/52/58 for the nonavalent vaccine) detected at two consecutive visits after the month 3 visit, which were obtained no less than 4 months apart (with the same HPV type at both time points). Cervical swabs were tested for the primary end point; vaginal swabs were substituted if necessary. This analysis included follow-up through month 36 to evaluate the durability of VE.
+
+Secondary analyses assessed VE in the sensitivity cohorts and subgroup analyses. The prespecified subgroups were the presence of co-infections (chlamydia, gonorrhea, HSV-2, trichomoniasis, syphilis and BV), self-reported condom use, number of self-reported lifetime sexual partners (1 versus 2+) and contraception method use.
+
+Safety was assessed through adverse event reporting following Division of Allergy and Infectious Diseases Guidelines<sup>33</sup>. Participants were monitored for adverse events 30 min after vaccination, asked about adverse events at each study visit and reported adverse events outside of study visits. The study clinical monitor followed SAEs, including permission to access medical records. SAEs were recorded on a CRF. The study Principal Investigator and clinical monitor determined the relatedness of SAEs to vaccination. We followed the KEMRI Scientific Ethics Review Unit’s (SERU’s) guidance for reporting SAEs.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.001]
+We acknowledge that the study has limitations. First, the median duration of follow-up is 35 months and longer-term durability of single-dose VE in a randomized trial would strengthen the evidence as HPV exposure continues through adulthood. Observational data for single-dose HPV vaccination support efficacy over a decade<sup>11</sup>. While participants in the control group have received single-dose HPV vaccination, we are collecting additional data in this cohort to 54 months post-vaccination<sup>24</sup>. The antibody plateau level for single-dose HPV vaccination is reached by 12 months<sup>9</sup>, suggesting that we have observed steady state efficacy. Second, 7% of primary end-point swabs were self-collected and 93% were provider-collected. All swabs would ideally be collected with one modality; however, the correlation between self-collected vaginal and provider-collected cervical swabs is high<sup>25</sup> and there was no difference in the results when self-collected swabs were excluded. For the preplanned subgroup analyses by sexually transmitted infection (STI) status, the subgroups were defined at enrollment and may have changed over time; however, the incidence of persistent non-vaccine HPV types was comparable through the study in the three study groups. Finally, while the GST-ELISA multiplex assay used to exclude participants with HPV antibodies at enrollment demonstrated overall agreement of 89% with the gold standard secreted alkaline phosphatase pseudovirion-based neutralization assay<sup>26</sup>, misclassification of participants as antibody naive would not be different by study group. Further in sensitivity analysis including participants with HPV antibodies at baseline, overall VE was in keeping with the primary findings (Table 2a,b).
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.001]
+## Additional information
+
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+## Extended data
+
+## Supplementary information
+
+### Supplementary Information (download PDF )
+
+Supplementary Tables 1 and 2
+
+## Rights and permissions
+
+**Open Access**  This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons license and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
+## About this article
+
+### Cite this article
+
+Barnabas, R.V., Brown, E.R., Onono, M.A. *et al.* Durability of single-dose HPV vaccination in young Kenyan women: randomized controlled trial 3-year results.
+                    *Nat Med* **29**, 3224–3232 (2023). https://doi.org/10.1038/s41591-023-02658-0
+
+- Received:
+- Accepted:
+- Published:
+- Version of record:
+- Issue date:
+- DOI: https://doi.org/10.1038/s41591-023-02658-0
+- Springer Nature America, Inc.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.001]
+Of the 11.6 million cases of cervical cancer expected globally among girls born between 2005 and 2014, 75% of the burden will be concentrated in 25 countries largely in Africa and Asia, highlighting the need to focus prevention efforts among recently born girls<sup>5</sup>. Overall, the rate of incident persistent HPV infection in this population of African adolescent girls and young women was high; 13.8 per 100 woman-years in the control group, underscoring the need for effective, scalable vaccine programs that can achieve high coverage and reduce this high incidence of HPV infection and ultimately cervical cancer<sup>22,23</sup>. Catch-up vaccination programs for adolescents and young people aged 15–20 years, who do not qualify for current vaccination programs, have the potential to avert oncogenic persistent infections. Through this head-to-head comparison of bivalent and nonavalent HPV vaccines, sustained VE was demonstrated in the context of high HPV prevalence. Single-dose HPV vaccination could increase vaccine access and coverage and offer a cost-effective strategy for cervical cancer prevention.
+
+The vaccines’ underlying immunological mechanism of action could explain the observed VE. The vaccines contain monomers that self-assemble into capsomers and VLPs, a highly immunogenic structure mimicking the ordered, repetitive virus epitope structure and allowing for crosslinking of B cell receptors<sup>8</sup>. This induces high levels of virIon-neutralizing serum antibodies and long-lasting plasma cells, supporting effective and durable VE. We did not see evidence of cross-protection with a single dose of the bivalent vaccine and it may be that two doses are required for cross-protection for the closely related HPV 31/33/45. The confidence interval did not include previous estimates of the multi-dose bivalent strategy of 50% cross-protection for HPV 31/33/45 (ref. <sup>5</sup>).
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.001]
+### Randomization and masking
+
+Meningococcal vaccination was chosen as the control because meningococcal antibodies offer potential clinical benefits and do not impact HPV outcomes. Participants were randomized to (1) nonavalent HPV vaccination (Gardasil-9), (2) bivalent HPV vaccination (Cervarix) or (3) meningococcal (control) vaccination. Following randomization, a single dose of each vaccine was administered.
+
+An unblinded statistical analyst generated the randomization sequence using SAS v.9.4. Randomization was stratified by site, using a fixed block size of 15 and a 1:1:1 allocation. Blinded study assignment was implemented via www.randomize.net. Study staff, participants, investigators, clinic staff, laboratory technicians, the end points adjudication committee members and other study team members did not have access to the randomization codes, except for the unblinded statistical analysts and unblinded pharmacists at each site. At the conclusion of the enrollment visit, an unblinded pharmacist entered the participant identification number (PTID) on randomize.net, obtained the next sequential intervention assignment, recorded the PTID and randomization identifier on an eCRF, drew up the vaccine in a masked syringe and administered the vaccination via the intramuscular route. An independent observer, not on the study team, observed the masked vaccination to assess the success of masking.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.000]
+16. Umutesi, G. et al. HPV vaccination in Kenya: a study protocol to assess stakeholders’ perspectives on implementation drivers of HPV vaccination and the acceptability of the reduced dose strategy among providers. *Front. Health Serv.***3** , 1233923 (2023).
+17. Barnabas, R. V. et al. Single-dose HPV vaccination efficacy among adolescent girls and young women in Kenya (the KEN SHE study): study protocol for a randomized controlled trial. *Trials***22** , 661 (2021).
+18. Shadab, R. et al. Key ethical considerations to guide the adjudication of a single-dose HPV vaccine schedule. *Hum. Vaccines Immunother.* https://doi.org/10.1080/21645515.2021.1917231 (2021).
+19. Romero, B. et al. Durability of HPV 16-18 antibodies 16 years after a single dose of the bivalent HPV vaccine: the Costa Rica HPV vaccine trial. in *IPVC 2023* (IPVC, 2023).
+20. Watson-Jones, D. et al. Immunogenicity and safety of one-dose human papillomavirus vaccine compared with two or three doses in Tanzanian girls (DoRIS): an open-label, randomised, non-inferiority trial. *Lancet Glob. Health***10** , e1473–e1484 (2022).
+21. Benard, E. et al. Potential population-level effectiveness of one-dose HPV vaccination in low-income and middle-income countries: a mathematical modelling analysis. *Lancet Public Health***8** , e788–e799 (2023).
+22. Harper, D. M. et al. Efficacy of a bivalent L1 virus-like particle vaccine in prevention of infection with human papillomavirus types 16 and 18 in young women: a randomised controlled trial. *Lancet***364** , 1757–1765 (2004).
+23. Joura, E. A. et al. A 9-valent HPV vaccine against infection and intraepithelial neoplasia in women. *New Engl. J. Med.***372** , 711–723 (2015).
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.000]
+### Safety
+
+Serious adverse events (SAEs) were experienced by 201 participants, which included 122 participants with pregnancy-related SAEs, 71 with infections or inflammatory conditions (of which 39 were malaria), 7 injuries and 12 mental health illnesses. Overall, the SAE frequency was similar between groups (Table 3). There were five deaths in the study due to unsafe abortion, sepsis, suicide, hepatocellular carcinoma, complications following an emergency cesarean section for fetal distress and one unknown cause with acute symptoms of cough productive of bloody sputum. SAEs were assessed as not related to the study vaccines. Five participants had abnormal cervical cytology at enrollment and were followed until the lesions resolved or the participant received treatment. Social harms were reported by 0.31% of participants (*n* = 7), including partner physical and verbal abuse and lack of social support from friends and family for trial participation.
+
+### Exploratory analyses
+
+In exploratory analysis to evaluate cross-protection against related HPV types, bivalent VE against incident-persistent HPV 31/33/45 was 10.1% (95% CI −38.7% to 41.7%) (Extended Data Table 8).
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.000]
+31. Rowhani-Rahbar, A. et al. Antibody responses in oral fluid after administration of prophylactic human papillomavirus vaccines. *J. Infect. Dis.***200** , 1452–1455 (2009).
+32. Waterboer, T. et al. Multiplex human papillomavirus serology based on in situ-purified glutathione s-transferase fusion proteins. *Clin. Chem.***51** , 1845–1853 (2005).
+33. RSC. *DAIDS Adverse Event Grading Tables* rsc.niaid.nih.gov/clinical-research-sites/daids-adverse-event-grading-tables (2018).
+34. Watson-Jones, D. et al. High prevalence and incidence of human papillomavirus in a cohort of healthy young African female subjects. *Sex. Transm. Infect.***89** , 358–365 (2013).
+
+## Acknowledgements
+
+We thank the adolescent girls and young women who participated in this study for their motivation and dedication, and the parents of minor participants for their support. We are grateful to the members of the trial’s Data and Safety Monitoring Board (H. Weiss (Chair), L. Denny, D. Mbori-Ngacha, S. Kapiga, F. Were and F. Sawe), community advisory boards at each trial location and overseeing ethics review committees for their expertise and guidance. We thank P. Dull and R. Gulati from the Bill & Melinda Gates Foundation for their attentive oversight. We are grateful to the KEN SHE Study Team for their dedication and perseverance. The study is dedicated to K. Ramaswami (Malitha) Ramiah, S. Kanyi Mugo, R. Auma Onono, E. Muga, M. Nduta and all our mothers.
+
+The Bill & Melinda Gates Foundation (INV-010402) and the Francis and Dorothea Reed Endowed Chair in Infectious Diseases (R.V.B.) funded the KEN SHE Study. The content is solely the authors’ responsibility and does not necessarily represent the views, decisions or policies of the institutions with which they are affiliated or the KEN SHE Study funders. The funder of the study had no role in study design, data collection, data analysis, data interpretation or writing of the report.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.000]
+In the planned secondary extended-sensitivity analysis, excluding participants with HPV DNA detected at month 6, there were a total of 44 incident-persistent infections in the HPV 16/18 mITT cohort: 0 each among participants assigned to the bivalent and nonavalent vaccine groups and 44 among those assigned to the control vaccine group (Table 2a). HPV 16/18 incidence was 0 per 100 women-years in the nonavalent and bivalent vaccine groups and 5.52 per 100 women-years in the control group; nonavalent VE was 100% (*P* < 0.0001) and bivalent VE was 100% (*P* < 0.0001) (Table 2a). In the extended-sensitivity analysis, there were a total of 51 incident-persistent infections in the HPV 16/18/31/33/45/52/58 mITT cohort: 1 among participants assigned to the nonavalent group and 50 among those assigned to the control group; nonavalent VE was 98.6% (95% CI 90.0–99.8%, *P* < 0.0001) (Table 2b).
+
+In the planned secondary analyses to assess VE in the prespecified subgroups, as defined at enrollment, for the presence of co-infections (chlamydia, gonorrhea, herpes simplex type 2, trichomoniasis, syphilis and bacterial vaginosis), self-reported condom use, number of self-reported lifetime sex partners (1 versus 2+) and contraceptive method use, there was no difference in VE in predefined subgroups (Extended Data Tables 6 and 7).
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.000]
+1. Singh, D. et al. Global estimates of incidence and mortality of cervical cancer in 2020: a baseline analysis of the WHO Global Cervical Cancer Elimination Initiative. *Lancet Glob. Health***11** , e197–e206 (2023).
+2. Harper, D. M. & DeMars, L. R. HPV vaccines - a review of the first decade. *Gynecol. Oncol.***146** , 196–204 (2017).
+3. Huh, W. K. et al. Final efficacy, immunogenicity, and safety analyses of a nine-valent human papillomavirus vaccine in women aged 16-26 years: a randomised, double-blind trial. *Lancet***390** , 2143–2159 (2017).
+4. World Health Organization. *A Global Strategy for Elimination of* Cervical Cancer www.who.int/activities/a-global-strategy-for-elimination-of-cervical-cancer (2020).
+5. Drolet, M., Benard, E., Perez, N. & Brisson, M., H. P. V. Vaccination Impact Study Group. Population-level impact and herd effects following the introduction of human papillomavirus vaccination programmes: updated systematic review and meta-analysis. *Lancet***394** , 497–509 (2019).
+6. Bonjour, M. et al. Global estimates of expected and preventable cervical cancers among girls born between 2005 and 2014: a birth cohort analysis. *Lancet Public Health***6** , e510–e521 (2021).
+7. Bruni, L. et al. HPV vaccination introduction worldwide and WHO and UNICEF estimates of national HPV immunization coverage 2010-2019. *Prevent. Med.***144** , 106399 (2021).
+8. Lowy, D. R. HPV vaccination to prevent cervical cancer and other HPV-associated disease: from basic science to effective interventions. *J. Clin. Invest.***126** , 5–11 (2016).
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.000]
+### Post hoc analyses
+
+Using only provider-collected end-point cervical swabs and excluding self-collected vaginal swabs, the results for the primary analysis were not different: the VE was 98.7% (95% CI 90.5–99.8%) for the nonavalent vaccine and 97.3% (95% CI 89.0–99.3%) for the bivalent in the HPV 16/18 mITT cohort. Nonavalent VE was 95.3% (95% CI 88.4–98.1%) in the HPV 16/18/31/33/45/52/58 mITT cohort (Table 4).
+
+The absolute reduction in the HPV 16/18 mITT cohort for cumulative incident-persistent HPV 16/18 infection was −16.0% (95% CI −19.5 to −12.5%) for the nonavalent group and −15.8% (95% CI −19.3 to −12.3%) for the bivalent group; an absolute incidence of 0.2% (95% CI 0–0.6%) in the nonavalent vaccine group and 0.4% (95% CI 0–1.0 %) in the bivalent group compared to 16.2% (95% CI 12.7–19.7%) in the control group. For the HPV 16/18/31/33/45/52/58 mITT cohort, the absolute reduction in persistent HPV 16/18/31/33/45/52/58 infection was −30.1% (95% CI −36.1 to −24.2%) for the nonavalent vaccine; an absolute incidence of 1.6% (95% CI 0.2–2.9%) in the nonavalent vaccine group compared to 31.7% (95% CI 25.9–37.4%) in the control group.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.000]
+Single-dose HPV vaccination would simplify the logistics and reduce costs of scaling up vaccine programs, lowering barriers to reaching high HPV vaccine coverage. The vaccine virus-like-particle (VLP) structure, which self-assembles to mimic the live virus without the replicating DNA, generates strong immunity with a single dose, analogous to highly immunogenic whole-virus vaccines rather than a subunit vaccine, supporting a biological mechanism for single-dose efficacy rather than the prime-boost multi-dose schedule that optimizes subunit vaccine efficacy (VE)<sup>8</sup>. Single-dose HPV vaccine efficacy is comparable to the licensed two- or three-dose regimen in randomized trials and observational studies<sup>9,10,11,12</sup>. Thus, in April 2022, the WHO recommended one or two doses of HPV vaccines for children, adolescents and young adults aged 9–20 years; however, a desire for data about longer-term durability of single-dose HPV vaccination persists<sup>13,14,15</sup> and national guidelines continue to recommend multi-dose strategies. Also, few low-HDI countries have catch-up vaccination programs for persons 15 years and older, although those programs accelerate the impact of vaccination<sup>5</sup>.
+
+In Kenya, the age-standardized incidence for cervical cancer is 31.3 per 100,000 person-years; annually, an estimated 5,236 new cases are diagnosed and 3,211 deaths attributable to cervical cancer occur<sup>1</sup>. Kenya’s two-dose HPV immunization program was launched in October 2019 to reach 10-year-old girls, in the context of vaccine supply constraints. In 2021, vaccine coverage for the first dose was 77% and 31% for the second dose<sup>16</sup>. With WHO guidance recommending vaccination for the multi-age cohort of 9–14 year olds, the easing of vaccine supply constraints, and the need to deliver immunization services to a larger number of adolescents, evaluating the efficacy of single-dose vaccination would provide evidence to policymakers for immunization scale-up, including multi-age cohorts and catch-up vaccination for those who may have missed vaccination during programmatic scale-up.
+
+---
+
+[referencia=3aaec0fb2693de4c score=0.000]
+One hundred percent of participants received their assigned vaccine and no administration errors were identified. Overall, 19 of 2,275 (0.8%) participants did not contribute follow-up time after enrollment and 5 (0.2%) exited the study during follow-up. Overall, 2,256 of 2,275 (99%) participants contributed a median of 35 months of follow-up time between December 2018 and January 2023. A total of 34% of participants (771 of 2,256) provided a final analysis swab at month 30 and 62% (1,397 of 2,256) at month 36 as participants received cross-over vaccination at their next study visit after regulatory approvals were obtained to allow timely access to the effective intervention. Retention of four or more swabs collected at follow-up for the assessment of primary end points was 96% (2,182 of 2,275) and 91% (2,061 of 2,2,275) for five or more swabs (Extended Data Table 2). Of the end-point swabs, 93% of swabs were cervical and 7% of swabs were self-collected vaginal swabs, which was similar across intention-to-treat (ITT) and mITT cohorts (Extended Data Table 3).
+
+The incidence of persistent non-vaccine HPV types (HPV 26/35/39/40/42/43/44/51/53/54/56/59/61/66/68/69/70/73/82) was comparable between the three study groups: 24.9 of 100 woman-years in the nonavalent group, 25.8 of 100 woman-years in the bivalent group and 22.0 of 100 woman-years in the control group (Extended Data Table 4). The rates of chlamydia and gonorrhea were comparable across the three study groups (Extended Data Table 5).

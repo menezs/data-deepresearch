@@ -1,0 +1,249 @@
+[referencia=d96e30d04596333b score=0.622]
+## Human papillomavirus (HPV)
+
+### Structure
+
+HPVs are nonenveloped icosahedral viruses containing circular double-stranded DNA. Their genome encodes six early proteins (E1, E2, E4, E5, E6, and E7), which play regulatory roles in replication and carcinogenesis, as well as two late proteins (L1 and L2) that form the capsid [12]. Specifically, E1 and E2 aid in replication, E4 facilitates virus release, and E5, E6, and E7 promote host cell proliferation [13]. Major (72 L1 pentamers) and minor (12–72 L2) proteins self-assemble and create the capsid [10]. The infection process begins with the attachment of the virions to basal cell heparan sulfate proteoglycans (HSPGs). Subsequently, during virus integration, L1 and L2 are deleted. Consequently, vaccines targeting these proteins will be ineffective if HPV-related diseases have already developed [14].
+
+---
+
+[referencia=d96e30d04596333b score=0.604]
+However, immune responses to L2 vaccines, whether administered alone or in conjunction with a potent adjuvant, are generally lower than those elicited by the currently approved L1-based VLP vaccines [106]. This discrepancy is primarily attributed to the linearity of L2 vaccines, which results in a deficiency in T-helper cell activity [107]. Several strategies can potentially enhance the immunogenicity of this category of vaccines, including the use of VLP platforms, multimeric L2 peptides, recombinant bacteria as carriers for L2, the fusion of immunostimulatory agents, and DNA/mRNA vaccine platforms. While some of these strategies have demonstrated acceptable levels of immunogenicity, the exceptionally high efficacy of the present L-1-based vaccines has set high expectations for future vaccine development [57]. Multi-epitope polypeptide vaccines remain less immunogenic than L1-VLPs due to their lack of complex conformational structures. However, given their broader protective spectrum, their lower immunogenicity may be considered acceptable if they can generate adequate serum antibody titers compared to current vaccines [102]. Consequently, research in this area is ongoing. Various approaches have been undertaken to develop effective L2-based vaccines, as discussed below. The L2-based HPV vaccines that are currently in the preclinical phases are listed in Table 4, and one vaccine that has progressed to clinical trial is presented in Table 5.
+
+---
+
+[referencia=d96e30d04596333b score=0.561]
+### Viral life cycle and pathogenesis
+
+HPV is responsible for the majority of sexually transmitted infections worldwide. The natural clearance of HPV typically occurs within the first two years following infection. However, if the infection persists, a variety of diseases, including genital warts and cancer, may arise [19].
+
+HPVs are viruses that infect the epithelial basal cells of the cervix and various other organs. The viral entry process begins when the virus binds to heparan sulfate proteoglycans (HSPGs) on the basement membrane [20]. Following this binding, conformational changes occur in the virus, exposing the N-terminus of its L2 protein [17]. This exposure facilitates the virus entry into keratinocytes. If the viral infection is not cleared, the virus then travels to endosomal compartments. After uncoating, it releases its genome into the cell nucleus through an L2-dependent mechanism. The viral genome can persist in an episomal state in basal cells—besides the host DNA—potentially leading to benign or precancerous lesions [14, 20].
+
+In some cases, HPV can integrate into host DNA, disrupting host gene expression and producing oncoproteins, particularly E6 and E7. These oncoproteins interfere with key cell cycle regulatory proteins, promoting uncontrolled cell growth and contributing to malignant transformation [21]. Following integration, other early genes—namely E1, E2, E4, and E5—as well as the late genes—L1 and L2—are deleted [14]. This process can lead to cervical intraepithelial neoplasia (CIN) and, ultimately, cervical carcinoma [21].
+
+---
+
+[referencia=d96e30d04596333b score=0.417]
+<sup>*</sup>Single-dose vaccination is already recommended by WHO (off-label)
+
+The limitations of current HPV vaccines have spurred the development of second-generation vaccines, such as L2-based vaccines. These vaccines aim to overcome the issue of type-specificity and could potentially work against a wider range of HPV genotypes, offering hope for future advancements in HPV vaccine development.
+
+Given the prophylactic nature of current L1 vaccines and their lack of efficacy against existing infections, ir is crucial to develop a therapeutic vaccine or a combination of therapeutic and preventive vaccines. This approach could greatly enhance the effectiveness of HPV vaccines and is an active area of research and development [74, 75]. Post-translational proteins E6 and E7 can be used as antigenic candidates for therapeutic vaccines, as high concentrations of these proteins are consistently found in CxCa cases [74, 75]. Some studies have also included E5 in addition to E6 and E7 [76–78].
+
+Research on therapeutic vaccines is ongoing, as discussed elsewhere [79–81]. Chimeric L1‒L2 VLPs have also been explored as alternative preventive vaccines [82, 83].
+
+---
+
+[referencia=d96e30d04596333b score=0.381]
+##### Table 3.
+
+|  | Vaccine | Company | Type of included HPV VLP | Clinical phase | Expression system | Reference | 
+|---|---|---|---|---|---|---|
+| 1 | Bivalent vaccine | Xiamen Innovax Biotech | HPV-16/11 | II | *Escherichia coli* | [88] | 
+| 2 | Quadrivalent vaccine | Shanghai Bovax Biotechnology | HPV-6/11/16/18 | III | *Hansenula polymorpha* | [89] | 
+| 3 | Nonavalent vaccine | Shanghai Bovax Biotechnology | HPV-6/11/16/18/31/33/45/52/58 | III | *H. polymorpha* | [89] | 
+| 4 | Nonavalent vaccine | Xiamen Innovax Biotech | HPV-6/11/16/18/31/33/45/52/58 | III | *E. coli* | [90] | 
+| 5 | 11-valent vaccine | National Vaccine and Serum Institute, China | HPV-6/11/16/18/31/33/45/52/58/59/68 | III | *H. polymorpha* | [87] | 
+| 6 | EG-HPV | Eyegene Inc., Korea | HPV-16/18 | I | Yeast | [91] | 
+
+Furthermore, several alternative approaches have demonstrated significant efficacy in preclinical phases. For instance, bacterial vectors, specifically, live attenuated *Shigella*, have been employed to deliver HPV-16/58 L1 proteins [92]. Additionally, L1 capsomers (particularly HPV-16) have shown promise. As subunits of capsids, capsomers are more cost-effective and can be more easily replicated in recombinant bacteria, such as *E. coli* [93, 94]. Their thermostability may address the challenges associated with the preservation of VLPs [95].
+
+---
+
+[referencia=d96e30d04596333b score=0.333]
+While the current L1-VLP prophylactic vaccines are sufficiently effective, efforts are underway to develop improved vaccines due to some barriers to the uptake of these vaccines at the global level. Some of these barriers are related to specific countries and particularly their socioeconomic conditions, which are beyond the scope of this review. The major shortcomings of these vaccines, which contribute to their limited uptake, along with suggested approaches to address these issues, are summarized in Table 2. One disadvantage of L1 VLP vaccines is their type-restricted immunity leading to incomplete prevention in regards of other HPV genotypes. Protection against several non-vaccine HPV genotypes–notably HPV-31, −45, and HPV-33/52/58–is reported to be stronger by Cervarix® than Gardasil®, probably due to its adjuvant system. Though L1-based vaccines might provide limited cross-protection for heterologous HPV viruses in general, some other oncogenic HPV genotypes are not covered by vaccination [65]. Moreover, the waning of cross-protection is observed. Besides, there is a risk of the emergence of viral types not covered by the vaccines over time. A report from Spain documented a higher incidence of several HPV types not covered by Cervarix® and Gardasil® vaccines, including HPV-31, HPV-52, and HPV-45 [66]. The emergence of virus types uncovered by marketed vaccines could be a serious concern, especially in the long term. The partial type-specific immunity provided by current L1 vaccines also necessitates more extensive manufacturing processes, because each VLP type included in the vaccine must be produced separately and combined later to create the final vaccine formulation. The VLP manufacturing process, which requires creating stable particles free from contamination and impurities, imposes challenges and increases costs [67]. Thus, scientists have sought novel ways to achieve broader cross-protection [45]. Furthermore, studies indicate regional variations in HPV genotypes and vaccine efficacy, necessitating post-vaccination cervical screening programs. However, these screening programs can be costly and not all women may adhere to them in a timely manner [68, 69]. The high cost of these vaccines has significantly hindered vaccination progress, particularly in low- to moderate-income populations and developing countries [70]
+
+---
+
+[referencia=e32d2e566adbe6fb score=0.296]
+## Key facts
+
+- **Human papillomavirus (HPV) is the name of a group of 200 known viruses. They do not cause concerns in most people, but infection with some high-risk types is common and can cause genital warts or cancer.**
+- **In 90% of people the body controls the infection by itself. Persistent HPV infection with high-risk HPV types is the cause of cervical cancer and is associated with cancers of the vulva, vagina, mouth/throat, penis and anus *(1)*.**
+- **In 2019, HPV caused an estimated 620 000 cancer cases in women and 70 000 cancer cases in men *(1)*.**
+- **Prophylactic vaccination against HPV can prevent these cancers. In addition, HPV-screening and treatment of pre-cancer lesions is an effective way to prevent cervical cancer.**  
+
+## Overview
+
+Human papillomavirus (HPV) is a common sexually transmitted infection. Almost all sexually active people will be infected at some point in their lives, usually without symptoms.
+
+HPV can affect the skin, genital area and throat.
+
+Condoms help prevent HPV but do not offer total protection because they do not cover all the genital skin.
+
+HPV usually goes away on its own without treatment. Some HPV infections cause genital warts. Others can cause abnormal cells to develop, which go on to become cancer.
+
+Cancers from HPV can be prevented with vaccines.
+
+The vaccine does not contain any live virus or DNA from the virus so it cannot cause cancer or other HPV-related illnesses. The HPV vaccine is not used to treat HPV infections or diseases caused by HPV, but instead to prevent the development of cancers.
+
+Currently, cervical cancer is the only HPV-caused cancer for which screening tests are available. Screening tests are used to check for disease when there are no symptoms. The goal of screening for cervical cancer is to find precancerous cell changes before they become cancer and when treatment can prevent cancer from developing. Screening for cervical cancer is an important part of routine health care for people who have a cervix. This includes women and transgender men who still have a cervix.
+
+Cervical cancer is the most common type of cancer caused by HPV, other less common cancers affecting men and women, including anal, vulvar, vaginal, mouth/throat and penile cancers.
+
+---
+
+[referencia=d96e30d04596333b score=0.284]
+## Conclusion and perspectives
+
+Given the confirmed role of HPV in CxCa, immunization against HPV is recommended as a key preventive strategy. While the effectiveness of current prophylactic L1-based VLP vaccines against HPV has been demonstrated over nearly two decades, there is still a demand for novel vaccines with broader coverage, improved affordability, and easier transportation and storage conditions. Therefore, research on other platforms is ongoing, primarily summarized in this review. Though the vast volume of studies on HPV prophylactic vaccines over many years is a barrier to mentioning all the published works, we tried to cover the main approaches and steps undertaken to date.
+
+Since the success of marketed vaccines has raised expectations for newcomers, no other studied approach has outperformed in clinical trials yet. In parallel with research on alternative vaccine platforms, the production of more affordable L1 VLP vaccines in countries such as China and India—specifically Cecolin®, Walrinvax®, and Cervavac®—is actively addressing issues related to supply and affordability. WHO has already prequalified Cecolin® and Walrinvax®. The recombinant production of Cecolin®, a vaccine with comparable efficacy to Cervarix®, in the *E. coli* host represents significant progress in HPV vaccine production. However, similar to previous L1 protein-based vaccines, it provides limited cross-protection against different HPV types and requires cold-chain maintenance. Overall, the recent biosimilar HPV vaccines produced in China and India have characteristics nearly identical to the original products regarding dosage, route of administration, and storage conditions. Their primary advantage lies in their lower prices, which can significantly enhance HPV vaccination rates by reducing financial barriers, especially in developing countries. While these biosimilars are beneficial, developing alternative novel vaccine platforms and formulations may offer a more comprehensive solution in the long run.
+
+Vaccines containing L2 peptides seem promising candidates due to their broader coverage across different virus types and easier and lower-cost production. However, their linear structure results in decreased immunogenicity, highlighting the role of adjuvants or carrier systems in vaccine formulations. Despite extensive research on L2-based vaccines at preclinical stages (Table 3), only one vaccine containing AAVLPs has progressed to clinical trials (Table 4).
+
+---
+
+[referencia=d96e30d04596333b score=0.279]
+| 4 | HPV-16 L1 VLP | Freund adjuvant | HPV-16 L2 aa108-120 aa 56–81 aa 17–36 BPV-1 L2 aa 1–88 | Insect cells | In vitro In vivo (mice) | Most vaccinated mice could neutralize HPV-16 PsVs nAbs against HPV-16 nAbs against HPV-16 No nAbs | 2013 | [111] | 
+| 5 | HPV-16 L1 VLP | Alum-MPL | HPV-58 L2 aa.16–37 | Baculovirus | In vivo (rabbits and mice) | nAbs against HPV-2/5/6/11/16/18/27/31/33/35/39/45/52/57/58/59/68 | 2017 | [112] | 
+| 6 | HPV-16 L1 VLP | Alum with BECC470 (Bacterial enzymatic combinatorial chemistry) | HPV-16-L2 17–36 a.a. (RG1 epitope) | *Yersinia pestis* | In vitro and in vivo | nAbs against HPV-16/18/39 | 2021 | [113] | 
+| 7 | HPV-16 L1 VLP | - | HPV-16 L2 | *Pichia pastoris* | In vitro | Positive reaction against L1-HPV-16 antibody and L2 -HPV-16 antibody | 2018 | [114] | 
+| 8 | HPV-18 L1 VLP | AS04 | HPV-16 L1, HPV-18 L1, and recombinant L2 fragment consisting of HPV-33 and HPV-58 (HPV-33 L2 (aa 17–36) + HPV-58 L2 (aa 56–75)) | pAcSG2 baculovirus | In vivo (mouse and rabbit) | Protection against HPV-6/11/16/31/35/39/45/58/59 PsVs or quasivirions | 2016 | [115] |
+
+---
+
+[referencia=d96e30d04596333b score=0.255]
+| 9 | HPV-18 L1 VLP | Alum-MPL | HPV-45 L2 (aa 16–35) | Sf9 insect cells | In vitro In vivo (rabbits) | nAbs against HPV-18/39/45/68/70 Passive transfer of sera-protected vaginal challenge of mice with PsVs of HPV-18/39/45/68 | 2015 | [116] | 
+| 10 | HPV-16 L1 HPV-5 L1 HPV-1 L1 HPV-16/18 L1 | Alum-MPL | HPV-17 L2 RG1 HPV-17 L2 RG1 HPV-4 L2 RG1 HPV-5 L2 aa53-72 | *Spodoptera frugiperda* (Sf9) insect cell | In vitro | PsVs neutralized in L2-based PBNA: HPV-5/8/20/23/24/36/49/80 HPV-20/24/36/92 HPV-4 No nAb in L2-based PBNA | 2017 | [82] | 
+| 11 | HPV-16 L1 VLP | - | HPV-16 L2 aa 108–120 aa 65–81 aa 56–81 aa 17–36 | *Agrobacterium tumefaciens* | In vitro | PsVs neutralized in PBNA: HPV-16/58 HPV-11/16/18 HPV-18 No nAb | 2019 | [117] | 
+| 12 | MS2 bacteriophage VLP | Incomplete Freund’s adjuvant | HPV-16 L2 aa 17–31 aa 20–29 aa 14–40 aa 14–65 | C41 cells (Lucigen) | In vivo (mice) | Protection from vaginal challenge against HPV-5/6/16/31/33/35/39/45/51/53/58 Not tested Not tested Not tested | 2012 | [118] |
+
+---
+
+[referencia=d96e30d04596333b score=0.242]
+|  | Vaccine platform | Used adjuvant | Employed antigens | Expression system | Type of study | Type of immune response | Year | Reference | 
+|---|---|---|---|---|---|---|---|---|
+| 1 | HPV-16 L1 VLP | Alum-MPL | RG1 epitope (HPV-16 L2 aa 17–36 | Insect cells | In vitro (rabbit) | Passive transfer of sera-protected mice against PsVs of HPV-16/18/45/31/33/52/58/35/39/51/59/68/56/73/26/53/66/34 and LR-HPV-6/43/44 nAbs against HR-HPV- 16/18/45/37/33/52/58/35/39/51/59/68/73/26/69/34/70, LR-HPV-6/11/32/40, and cutaneous HPV-2/27/3/76 in PBNA | 2013 | [108] | 
+| 2 | HPV-16 L1 VLP | Alum/MPL | RG1 epitope | Sf9 insect cells | In mice (RG1-VLP + HPV-18 L1-VLP) In rabbits | Cross-protection against vaginal challenge with HR-HPV-58 Cross-neutralization titers (50–1000) against HR-HPV-18/31/33/45/52/58/26/70 | 2019 | [109] | 
+| 3 | HPV-16 L1 VLP | Alum-MPL | HPV-31 L2 (aa.17–38) | Bac-to-Bac baculovirus | In vivo (mice) | Cross-nAbs against HPV-2/5/6/11/16/18/27/31/33/35/39/52/57/58/59/68 | 2018 | [110] |
+
+---
+
+[referencia=d96e30d04596333b score=0.225]
+#### Routes of administration and dosage forms
+
+HPV vaccines are administered via IM injections, similar to many other vaccines. They are relatively easy to apply, create a reservoir of immunogenic substances, and have been shown to be sufficiently safe [7]. However, the demand for more convenient routes remains undeniable.
+
+Electroporation can increase the injection efficiency. Electric pulses induce the breakdown of the keratinocyte structure in the skin. It facilitates the transport of immunogenic substances through the cell membrane, allowing a higher number of antigens to encounter immune compartments. For example, a DNA-based therapeutic vaccine (MEDI0457) targeting E6 and E7 of HPV-16 and −18, was investigated in a Phase 1 clinical trial using an electroporation device, called CELLECTRA®. After each vaccine dose, electroporation with CELLECTRA® was performed. Although no comparison was made between the use and nonuse of CELLECTRA®, the regimen was deemed safe and well-tolerated [165]. The transdermal route is another newly suggested route for HPV vaccine administration. Due to the abundance of immune cells, including Langerhans cells, T cells, and dermal dendritic cells, transdermal delivery, similar to intradermal delivery, effectively facilitates the interaction between immunogenic substances and immune cells. For example, microparticles containing HPV16 L1 + L2 VLPs were prepared and loaded onto an AdminPatch®. The administration of this patch to BALB/c mice induced a robust immune response, as evidenced by elevated IgG titers and immune cell populations (CD4 + , CD8 + , CD27 + , CD45R + , and CD62L + cells). This approach may offer a promising alternative for less invasive, efficient, and pain-free vaccine administration [166].The intranasal and oral routes are also being evaluated for different vaccines due to their convenient usage and potential to induce mucosal immunity. These formulations could be specifically promising for first-line protection against HPV infection. Oral vaccines are of particular interest, especially in the form of particulate nanostructures. These particulate systems can protect antigen integrity under enzymatic and acidic conditions in the stomach and intestine. Moreover, nanoparticles can cross-present antigens to induce T-cell responses and usually do not require further adjuvants.
+
+---
+
+[referencia=d96e30d04596333b score=0.224]
+| 30 | *Lactobacillus casei* | - | HPV-16 L2 aa 1–224 fused to poly-γ-glutamic acid synthetase A | 293T cell line | In vitro and in vivo | Oral administration protected mice against HPV-16/18/45/58 | 2012 | [137] | 
+| 31 | DNA vaccine | - | Fused L1–L2 genes | HEK-293 cell line | In vitro In vivo (mice) | The high expression rate of recombinant L1-L2 HPV-16 DNA Protection against C3 tumor cells | 2019 | [138] | 
+| 32 | L2-based recombinant vaccine | Self-assembled peptide (OVX313) and thioredoxin | HPV-16 L2 | *E. coli* BL21 | In vivo (mice) | The larger antigen size correlates with enhanced B-cell induction and increased plasma half-life | 2017 | [74] | 
+| 33 | RG2-VLP | Aluminum hydroxide | RG2 | Cottontail rabbit papillomavirus (CRPV) quasivirus | In vivo (mice) | Robust L2-specific antibody titers and protection against β-type HPV5 Similar HPV16- and HPV18-specific neutralizing Ab responses between RG2-VLP- and Gardasil®9 groups | 2022 | [139] | 
+| 34 | MS2-L2 VLPs | - | MS2-31L2/16L2 VLPs and MS2-consL2 (69–86) | *E. coli* | In vivo (mice) | Constant antibody titer against HPV16 L2 (aa 17–31) and HPV31 L2 (aa 17–31) peptides | 2021 | [123] | 
+| 35 | RG1-VLP | Aluminum hydroxide or poly[di (carboxylatoethylphenoxy) phosphazene] (PCEP) | HPV16-L1 L2 RG1 | 293-TTF cells | In vivo (mice) | Cross-neutralization of pseudovirion types HPV18 and HPV39 Sufficient level of Ab titer after two doses of vaccine with PCEP | 2021 | [140] |
+
+---
+
+[referencia=d96e30d04596333b score=0.219]
+#### VLP-based second-generation HPV vaccines
+
+VLPs generated from the capsids of different viruses can be used as carriers to present L2 epitopes [142].
+
+##### Papillomavirus VLPs
+
+Using L2 epitopes on L1 VLPs as scaffolds is a promising approach for achieving broader efficacy against diverse HPV types. Numerous studies have focused on this strategy [83, 99, 115, 116].
+
+Inserting aa 17–36 of HPV-16 L2 (a frequently reported epitope on L2, also called the RG1 epitope) into the DE-surface loop of the HPV-16-VLP resulted in developing a potent chimeric HPV vaccine. Schellenbacher and colleagues reported that RG1-VLP vaccination with alum-MPL (aluminum hydroxide plus 3-O-desacyl-4′-monophosphoryl lipid A) elicited robust immune responses against L2 and provided protection against multiple types of cutaneous and mucosal HPV infections. They observed protection against mucosal HR-HPV types 16/18/45/37/33/52/58/35/39/51/59/68/73/26/69/34/70, LR-HPV types 6/11/32/40, and cutaneous HPV types 2/3/27/76 in a pseudovirion-based neutralization assay (PBNA). Furthermore, nAbs against mucosal HR-HPV-16/18/45/31/33/52/58/35/39/51/59/68/56/73/26/53/66/34 and LR-HPVs 6/43/44 were induced in rabbits and mice. Furthermore, the vaccine also stimulated robust cytotoxic T-cell responses with protection lasting one year. RG1-VLPs were produced under Current Good Manufacturing Practice (CGMP) to initiate a Phase 1 clinical trial, as noted in their 2013 publication [108]. However, no further updates regarding this project have been reported. Notably, chimeric VLPs displaying L2 epitopes can be generated with minor modifications to the existing approved HPV vaccines [106].
+
+---
+
+[referencia=d96e30d04596333b score=0.203]
+Consequently, linear L2-based protein vaccines seem far from achieving optimal efficacy unless combined with other immune-enhancing strategies. Employing scaffolds, carriers, and nanotechnological approaches, as well as combining several mentioned approaches may improve outcomes in the future. Using L2 antigens as mRNA or DNA vaccine platforms represents a potential strategy to enhance antigenicity while reducing type-specificity, warranting further investigation.
+
+On the other hand, alternative routes of administration, such as oral or intranasal vaccines, could facilitate administration and improve access, particularly in remote areas and underdeveloped countries, thereby enhancing global vaccination coverage.
+
+Combining L2 with E6, E7, or E5 viral proteins to confer both prophylactic and therapeutic capabilities can benefit more people worldwide. Although these vaccines are not yet sufficiently efficient, such approaches deserve further investigation and may open new avenues for future research.Overall, the fight against CxCa continues. Developing novel HPV vaccines, along with improved vaccination programs at the global level, is essential to achieve better control of HPV-induced CxCa and other malignancies.
+
+## Acknowledgements
+
+The authors would like to thank Shiraz University of Medical Sciences, Shiraz, Iran.
+
+## Author contributions
+
+S.A., Sh.R., SMI.M., N.S., SA.F., and Sh.N. performed the searches and wrote the manuscript. SMI.M. coordinated the project and helped revise and edit the manuscript. A.B. helped write and revise the manuscript. M.N. conceived the idea, designed and supervised the project, and revised and edited the manuscript. All the authors reviewed the manuscript.
+
+## Funding
+
+No funds were received for this research.
+
+## Availability of data and materials
+
+No datasets were generated or analysed during the current study.
+
+## Declarations
+
+### Ethics approval and consent to participate
+
+Not applicable.
+
+### Consent for publication
+
+All the authors provided their consent to publish this review article.
+
+### Competing interests
+
+The authors declare no competing interests.
+
+## Footnotes
+
+Sogand Amiri, Shiva Rasekh are Co-first authors.
+
+**Publisher's Note**
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+---
+
+[referencia=d96e30d04596333b score=0.187]
+- 156.Zeng Z, et al. A Tat-conjugated peptide nucleic acid Tat-PNA-DR inhibits hepatitis B virus replication in vitro and in vivo by targeting LTR direct repeats of HBV RNA. Mol Therapy-Nucleic Acids. 2016;5:e295. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 157.Sadeghian I, et al. Potential of cell-penetrating peptides (CPPs) in delivery of antiviral therapeutics and vaccines. Eur J Pharm Sci. 2022;169: 106094. [DOI] [PubMed] [Google Scholar]
+- 158.Negahdaripour M, et al. Small extracellular vesicles (sEVs): Discovery, functions, applications, detection methods and various engineered forms. Expert Opin Biol Ther. 2021;21(3):371–94. [DOI] [PubMed] [Google Scholar]
+- 159.Di Bonito P, et al. Anti-cancer vaccine for HPV-associated neoplasms: focus on a therapeutic HPV vaccine based on a novel tumor antigen delivery method using endogenously engineered exosomes. Cancers. 2019;11(2):138. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 160.Jagu S, et al. Concatenated multitype L2 fusion proteins as candidate prophylactic pan-human papillomavirus vaccines. JNCI J Nat Cancer Inst. 2009;101(11):782–92. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 161.Jagu S, et al. Vaccination with multimeric L2 fusion protein and L1 VLP or capsomeres to broaden protection against HPV infection. Vaccine. 2010;28(28):4478–86. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 162.Jagu S, et al. Optimization of multimeric human papillomavirus L2 vaccines. PLoS ONE. 2013;8(1): e55538. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+---
+
+[referencia=d96e30d04596333b score=0.166]
+#### Advantages of current HPV vaccines
+
+The VLP structure of approved HPV vaccines offers multiple benefits, including the dense and repetitive display of antigens on the particle surface [57], resembling the conformation of real virions. Additionally, VLPs are noninfectious and non-oncogenic because VLPs lack viral genomes. Thus, as a class of subunit vaccines, they are safer than attenuated vaccines [58, 59]. Moreover, reports suggest that HPV L1 VLPs stimulate the production of several polyclonal antibodies, including nAbs, in the host. This humoral response is 10 to 100 times stronger than that generated by natural infection [60, 61]. A comparison of the long-term efficacy of different HPV vaccines in a systematic review reported the longest period of sustained clinical effect for the quadrivalent Gardasil® vaccine, which has been 12 years in real-world data and 14 years of seropositivity in the FUTURE II trial. Notably, similar outcomes are expected from the nonavalent vaccine; however, owing to its more recent introduction, a longer evaluation report is not yet available [62, 63]. The high impact of vaccines on cancer prevention has been recorded in many countries. Notably, a recent publication from Scotland reported no cases of CxCa in women vaccinated at 12–13 years of age during 12 years of follow-up [64]. Although longer follow-up studies are still needed to fully assess the long-term benefit of these vaccines, their effectiveness in reducing cancer incidence is widely recognized.
+
+---
+
+[referencia=d96e30d04596333b score=0.165]
+| 18 | Qβ bacteriophage VLP PP7 bacteriophage VLP | Incomplete Freund’s adjuvant | HPV-16 L2 aa 34–52 aa 49–72 aa 108–120 aa 65–85 Consensus HPV-16 and −18 L2 aa 65–85 HPV-16 L2 aa 17–31 aa 51–65 aa 35–50 | C41 *E. coli* (Lucigen) | In vitro In vivo *(mice)* | Protection against PsVs; Poor protection against HPV-16 Moderate protection against HPV-16 Strong protection against HPV-16 (in vivo) HPV-6/18/31/45/58 (in vivo) Strong protection against HPV-16 HPV-16 and −18 (in vivo) HPV-16/18/31/45/58(in vitro) Strong protection against HPV-16 Moderate protection against HPV-16 Poor protection against HPV-16 | 2014 | [124] | 
+| 19 | Adeno-associated virus 2 VLP | Montanide ISA 51 | HPV-16 and HPV-31 L2 aa 17–36 | HEK 293T cells | In vitro and in vivo | nAbs against HPV-16/18/31/45/52/58 PsVs in mice and rabbits Passive transfer of sera-protected mice against vaginal challenge with HPV-16 PsVs | 2012 | [125] | 
+| 20 | Adenovirus type 5 VLP | Alum and MPL | HPV-16 L2 aa 12–41 | HEK 293T cells | In vitro and in vivo | Protection against vaginal challenge with HPV-16 nAbs against HPV-16/73 | 2015 | [126] | 
+| 21 | Adenovirus type 35 VLP | - | L2 RG1 epitope from HPV-6/11/16/18/31/33/45/52/58 | PER C6 cells | In vitro | nAbs against HPV-16/18/31/59 | 2018 | [127] | 
+| 22 | Hepatitis B core (HBc) VLP | Alum | aa 14–122 of HPV-16 L2 | *Nicotiana benthamiana* | In vitro | nAbs against HPV-16 | 2019 | [128] |
+
+---
+
+[referencia=d96e30d04596333b score=0.160]
+### L1-based vaccines
+
+L1 is the major capsid protein in HPV, with a molecular weight (MW) of 55 kDa, representing 80% of the viral capsid proteins [22]. The initial strategy for preventing HPV-induced CxCa involved the development of prophylactic vaccines containing the L1 protein. Currently, three L1-based HPV vaccines are licensed by the US FDA: Cervarix®, Gardasil®, and Gardasil®9, all of which have demonstrated excellent clinical efficacy [23, 24]. Moreover, three new prophylactic vaccines—Cecolin®, Walrinvax®, and Cervavac®— have recently been licensed in China and India. These three new biosimilar vaccines are expected to broaden access to HPV vaccination due to their considerably lower costs than the originators. The cost of each Cecolin® dose is about 55% to 65% lower than that of Gardasil® or Cervarix® in the Gavi program. Gavi Vaccine Alliance is an international organization that supports vaccination in low-income and low to middle-income countries [25]. WHO has already prequalified Cecolin® and Walrinvax® [25]. An *E. coli*-produced 9-valent vaccine is also under development in China by the manufacturer of Cecolin®. This vaccine has been reported to be non-inferior to Gardasil®9 in a head-to-head comparative immunogenicity study involving women aged 18–26 years in China [26].
+
+All marketed L1-based vaccines (listed in Table 1) are produced using recombinant DNA technology in various hosts, allowing the L1 proteins to self-assemble into empty shells or VLPs. These particles typically vary in size and exhibit spherical or ellipsoidal shapes. Due to the three-dimensional structure of their VLPs, these vaccines should be stored at a refrigeration temperature of 2–8 °C [27].
+
+---
+
+[referencia=d96e30d04596333b score=0.130]
+##### Table 2.
+
+|  | Characteristic of current vaccines | Limitation | Approaches to solve the issue | 
+|---|---|---|---|
+| 1 | Type-specificity (partial) | 1. Lack of complete cross-protection against other HPV types that are not included in the vaccine 2. More complex and lengthy manufacturing processes due to the inclusion of multiple types of HPV, which should be produced separately 3. The increased cost of vaccines for adding more HPV genotypes 4. The need for cancer screening remains 5. Risk of emergence of some uncovered HPV types | Employing protective L2 proteins of HPV in the vaccine (either exclusively or in combination with L1) to enhance cross-protection due to the higher conservancy of L2 | 
+| 2 | No therapeutic indication | Not indicated for patients who already have cervical cancer | Developing therapeutic vaccines targeting the E proteins of HPV | 
+| 3 | High costs of vaccine | Lower access to vaccines, especially for low-income populations | 1. Development of vaccines with lower costs, for example, using simpler hosts (such as *E. coli* ) (already done: Cecolin® and Walrinvax®) 2. Encouraging local production of HPV vaccines in low- and middle-income countries | 
+| 4 | Cold-chain requirement | 1. Increasing manufacturing, storage, and transfer costs 2. Not easy handling | 1. Lyophilized powder formulations 2. Developing vaccines with more stability at room temperature, such as peptide vaccines | 
+| 5 | Injectable formulation | Need for nurses or other professionals for injecting vaccines Not preferred by individuals with a fear of injection | Development of non-parental formulations such as intranasal or oral vaccines | 
+| 6 | Need for multiple dosing * | Lower compliance for getting the vaccine, especially in remote areas | 1. Optimizing vaccination schedules 2. Reminder or call services | 
+| 7 | Effective only in the early stages of the viral life cycle | Age limitation (The greatest benefit of the vaccine occurs when vaccination is completed before age 15, particularly prior to the onset of sexual activity. However, individuals vaccinated after age 15 still gain some benefit, though it is lower than those who began the HPV vaccine injection before turning 15.) | Development of novel vaccines targeting other proteins that are present in later stages of the disease, such as the E proteins of HPV |

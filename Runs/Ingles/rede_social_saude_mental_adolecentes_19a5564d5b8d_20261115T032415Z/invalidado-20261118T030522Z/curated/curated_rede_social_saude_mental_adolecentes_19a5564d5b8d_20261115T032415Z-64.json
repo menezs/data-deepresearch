@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-64",
+  "passages": [
+    {
+      "reference_chunk_id": "7a25b4ae3edd8699-0",
+      "reference_id": "7a25b4ae3edd8699",
+      "score": 0.8583215475082397,
+      "text": "Washington — Following is a statement by Mitch Prinstein, PhD, chief science officer of the American Psychological Association, in reaction to the call by the U.S. surgeon general for warning labels on social media platforms:\n\n“We applaud Surgeon General Vivek Murthy for calling attention to the potential dangers to children posed by social media platforms. The American Psychological Association has issued similar warnings in its landmark 2023 health advisory on social media use in adolescence and 2024 follow-up report. Research has shown that young people are especially vulnerable to specific content and functions on social platforms that interact with neural and psychological vulnerabilities in adolescence. We concur with the surgeon general's reliance on psychological science to offer warnings to protect kids from harm on these platforms. And we join the surgeon general in urging policymakers to act and help parents dealing with products that are designed to keep their kids engaged for as long as possible with few safeguards for their developmental vulnerabilities.”"
+    }
+  ],
+  "assembled_context": "[referencia=7a25b4ae3edd8699 score=0.858]\nWashington — Following is a statement by Mitch Prinstein, PhD, chief science officer of the American Psychological Association, in reaction to the call by the U.S. surgeon general for warning labels on social media platforms:\n\n“We applaud Surgeon General Vivek Murthy for calling attention to the potential dangers to children posed by social media platforms. The American Psychological Association has issued similar warnings in its landmark 2023 health advisory on social media use in adolescence and 2024 follow-up report. Research has shown that young people are especially vulnerable to specific content and functions on social platforms that interact with neural and psychological vulnerabilities in adolescence. We concur with the surgeon general's reliance on psychological science to offer warnings to protect kids from harm on these platforms. And we join the surgeon general in urging policymakers to act and help parents dealing with products that are designed to keep their kids engaged for as long as possible with few safeguards for their developmental vulnerabilities.”",
+  "skip_reason": null
+}

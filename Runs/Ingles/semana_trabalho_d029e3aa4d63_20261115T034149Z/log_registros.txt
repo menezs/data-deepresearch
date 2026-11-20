@@ -1,0 +1,102 @@
+2026-11-14 23:41:49,185 INFO     __main__: Iniciando run semana_trabalho_d029e3aa4d63_20261115T034149Z para answers/Ingles/Claude/EmConsolidacao/semana_trabalho.md (ferramenta=Claude)
+2026-11-14 23:41:58,535 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-14 23:41:58,535 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-14 23:42:02,413 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 21154.12it/s]
+2026-11-14 23:42:16,021 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-14 23:42:16,030 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-14 23:42:16,038 INFO     auditframework.pipeline: Extraidas 51 referencias de answers/Ingles/Claude/EmConsolidacao/semana_trabalho.md (0 descartadas como artefato do exportador)
+2026-11-14 23:42:16,046 INFO     auditframework.pipeline: Resposta dividida em 79 trechos citados
+2026-11-14 23:42:16,048 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-14 23:42:16,049 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-14 23:42:16,052 INFO     auditframework.ingestion.service: Ingestao: 51 referencias, 0 ja baixadas, 0 ja bloqueadas, 51 pendentes
+2026-11-14 23:42:21,431 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em https://autonomy.work/2024/02/21/make-it-stick/; tentando HTTP/1.1
+2026-11-14 23:42:30,236 WARNING  trafilatura.core: discarding data: None
+2026-11-14 23:42:32,327 INFO     auditframework.ingestion.fetcher: Referencia https://autonomy.work/2024/02/21/make-it-stick/ recuperada imitando o Safari
+2026-11-14 23:42:42,488 WARNING  trafilatura.core: discarding data: None
+2026-11-14 23:42:49,074 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em https://autonomy.work/2025/08/27/introducing-a-shorter-working-week-in-scotlands-public-sector/; tentando HTTP/1.1
+2026-11-14 23:42:59,640 INFO     auditframework.ingestion.fetcher: Referencia https://autonomy.work/2025/08/27/introducing-a-shorter-working-week-in-scotlands-public-sector/ recuperada imitando o Safari
+2026-11-14 23:43:15,568 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://tech.co/?p=360477: Sem copia no Wayback: https://tech.co/?p=360477
+2026-11-14 23:43:15,570 WARNING  auditframework.ingestion.service: Referencia morta: https://tech.co/?p=360477 (Referencia nao encontrada (404): https://tech.co/?p=360477)
+2026-11-14 23:43:32,662 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.help.senate.gov/dem/newsroom/press/news-sanders-introduces-legislation-to-enact-a-32-hour-workweek-with-no-loss-in-pay: Falha ao baixar a copia do Wayback de https://www.help.senate.gov/dem/newsroom/press/news-sanders-introduces-legislation-to-enact-a-32-hour-workweek-with-no-loss-in-pay: Rate limit persistente em http://web.archive.org/web/20260819081129id_/https://www.help.senate.gov/dem/newsroom/press/news-sanders-introduces-legislation-to-enact-a-32-hour-workweek-with-no-loss-in-pay
+2026-11-14 23:43:32,665 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em https://www.help.senate.gov/dem/newsroom/press/news-sanders-introduces-legislation-to-enact-a-32-hour-workweek-with-no-loss-in-pay
+2026-11-14 23:43:42,075 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.tokyoweekender.com/japan-life/news-and-opinion/four-day-workweek-for-tokyo-government-workers/: Falha ao baixar a copia do Wayback de https://www.tokyoweekender.com/japan-life/news-and-opinion/four-day-workweek-for-tokyo-government-workers/: Rate limit persistente em http://web.archive.org/web/20260812062223id_/https://www.tokyoweekender.com/japan-life/news-and-opinion/four-day-workweek-for-tokyo-government-workers/
+2026-11-14 23:43:42,077 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.tokyoweekender.com/japan-life/news-and-opinion/four-day-workweek-for-tokyo-government-workers/
+2026-11-14 23:43:48,893 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek: Falha ao baixar a copia do Wayback de https://www.fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek: Rate limit persistente em http://web.archive.org/web/20250723221759id_/https://www.fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek
+2026-11-14 23:43:48,895 WARNING  auditframework.ingestion.service: Falha ao converter: https://www.fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek (trafilatura nao conseguiu extrair conteudo principal do HTML)
+2026-11-14 23:43:48,900 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 51/51 [01:32<00:00,  1.82s/ref]
+2026-11-14 23:43:48,902 INFO     auditframework.pipeline: Ingestao concluida: 47 documentos disponiveis
+2026-11-14 23:43:48,903 INFO     auditframework.terminal: ✓ ingestion concluído em 92.9s
+2026-11-14 23:43:48,904 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-14 23:43:49,212 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 47/47 [00:00<00:00, 155.34doc/s]
+2026-11-14 23:43:49,212 INFO     auditframework.indexing.service: Gerando embeddings para 143 chunks de 47 documentos
+2026-11-14 23:43:56,082 INFO     auditframework.terminal: Batches: 100%|██████████| 9/9 [00:06<00:00,  1.31it/s]
+2026-11-14 23:43:56,103 INFO     auditframework.pipeline: Indice construido a partir de 47 documentos
+2026-11-14 23:43:56,105 INFO     auditframework.terminal: ✓ indexing concluído em 7.2s
+2026-11-14 23:43:56,105 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-14 23:43:56,113 INFO     auditframework.pipeline: Julgamento: 79 chunks, 0 ja julgados, 0 ja pulados, 79 pendentes
+2026-11-14 23:43:57,598 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-14 23:43:58,472 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/79 [00:00<?, ?chunk/s]
+2026-11-14 23:43:58,578 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-14 23:43:58,680 INFO     auditframework.terminal: Loading weights:  32%|███▏      | 127/393 [00:00<00:00, 1258.22it/s]
+2026-11-14 23:43:58,760 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 1386.75it/s]
+2026-11-14 23:44:12,727 WARNING  auditframework.indexing.retriever: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-10 nao sera auditado: Referencia(s) citada(s) ['fa1e2427802bfd55'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-14 23:44:17,500 WARNING  auditframework.indexing.retriever: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-39 nao sera auditado: Referencia(s) citada(s) ['675cbba9fcba83f8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-14 23:44:19,079 WARNING  auditframework.indexing.retriever: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-46 nao sera auditado: Referencia(s) citada(s) ['fa1e2427802bfd55'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-14 23:44:19,199 WARNING  auditframework.indexing.retriever: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-49 nao sera auditado: Referencia(s) citada(s) ['0e91bd09abc99aef'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-14 23:44:20,994 WARNING  auditframework.indexing.retriever: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-62 nao sera auditado: Referencia(s) citada(s) ['257109bb88925e42'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-14 23:44:23,770 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 79/79 [00:27<00:00,  2.86chunk/s]
+2026-11-14 23:46:50,480 WARNING  auditframework.pipeline: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-10 nao auditado: Referencia(s) citada(s) ['fa1e2427802bfd55'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-14 23:51:02,790 WARNING  auditframework.pipeline: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-39 nao auditado: Referencia(s) citada(s) ['675cbba9fcba83f8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-14 23:53:07,872 WARNING  auditframework.pipeline: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-46 nao auditado: Referencia(s) citada(s) ['fa1e2427802bfd55'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-14 23:53:36,461 WARNING  auditframework.pipeline: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-49 nao auditado: Referencia(s) citada(s) ['0e91bd09abc99aef'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-14 23:55:36,264 WARNING  auditframework.pipeline: Chunk semana_trabalho_d029e3aa4d63_20261115T034149Z-62 nao auditado: Referencia(s) citada(s) ['257109bb88925e42'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-14 23:59:32,466 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 79/79 [15:08<00:00, 11.50s/chunk]
+2026-11-14 23:59:32,467 INFO     auditframework.terminal: ✓ judging concluído em 936.4s
+2026-11-14 23:59:32,476 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-14 23:59:32,486 INFO     auditframework.pipeline: Relatorio gerado em data/runs/semana_trabalho_d029e3aa4d63_20261115T034149Z/report.md
+2026-11-14 23:59:32,487 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-14 23:59:32,488 INFO     __main__: Run semana_trabalho_d029e3aa4d63_20261115T034149Z concluida
+2026-11-14 23:59:32,488 INFO     auditframework.terminal: Relatorio gerado em data/runs/semana_trabalho_d029e3aa4d63_20261115T034149Z/report.md
+2026-11-17 22:55:33,813 INFO     auditframework.terminal: audit refetch semana_trabalho_d029e3aa4d63_20261115T034149Z
+2026-11-17 22:55:33,820 INFO     auditframework.ingestion.service: Ingestao: 51 referencias, 47 ja baixadas, 0 ja bloqueadas, 4 pendentes
+2026-11-17 22:55:38,914 WARNING  trafilatura.core: discarding data: None
+2026-11-17 22:55:41,033 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://tech.co/?p=360477: Sem copia no Wayback: https://tech.co/?p=360477
+2026-11-17 22:55:41,034 WARNING  auditframework.ingestion.service: Referencia morta: https://tech.co/?p=360477 (Referencia nao encontrada (404): https://tech.co/?p=360477)
+2026-11-17 22:55:50,087 INFO     auditframework.ingestion.fetcher: Referencia https://www.tokyoweekender.com/japan-life/news-and-opinion/four-day-workweek-for-tokyo-government-workers/ recuperada do Wayback (copia de 20260812062223)
+2026-11-17 22:55:54,531 INFO     auditframework.ingestion.fetcher: Referencia https://www.help.senate.gov/dem/newsroom/press/news-sanders-introduces-legislation-to-enact-a-32-hour-workweek-with-no-loss-in-pay recuperada do Wayback (copia de 20260819081129)
+2026-11-17 22:56:48,670 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek: Falha ao baixar a copia do Wayback de https://www.fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek: Rate limit persistente em http://web.archive.org/web/20250723221759id_/https://www.fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek
+2026-11-17 22:56:48,672 WARNING  auditframework.ingestion.service: Falha ao converter: https://www.fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek (trafilatura nao conseguiu extrair conteudo principal do HTML)
+2026-11-17 22:56:48,674 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 4/4 [01:14<00:00, 18.70s/ref]
+2026-11-17 22:56:48,679 INFO     auditframework.terminal: semana_trabalho_d029e3aa4d63_20261115T034149Z: 4 fonte(s) sem conteudo, 2 recuperada(s)
+2026-11-17 22:56:48,679 INFO     auditframework.terminal:   https://www.help.senate.gov/dem/newsroom/press/news-sanders-introduces-legislation-to-enact-a-32-hour-workweek-with-no-loss-in-pay — downloaded
+2026-11-17 22:56:48,679 INFO     auditframework.terminal:   https://www.tokyoweekender.com/japan-life/news-and-opinion/four-day-workweek-for-tokyo-government-workers/ — downloaded
+2026-11-17 22:56:48,765 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para data/runs/semana_trabalho_d029e3aa4d63_20261115T034149Z/invalidado-20261118T025648Z
+2026-11-17 22:56:48,765 INFO     auditframework.terminal: 3 trecho(s) citado(s) para julgar de novo (os demais mantem o veredito)
+2026-11-17 22:56:48,765 INFO     auditframework.terminal: Rode: audit resume semana_trabalho_d029e3aa4d63_20261115T034149Z
+2026-11-17 22:56:49,316 INFO     __main__: Retomando run semana_trabalho_d029e3aa4d63_20261115T034149Z
+2026-11-17 22:56:55,959 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 22:56:55,959 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 22:56:58,440 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 12234.49it/s]
+2026-11-17 22:57:09,024 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-17 22:57:09,031 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-17 22:57:09,032 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-17 22:57:09,033 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-17 22:57:09,359 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 49/49 [00:00<00:00, 152.23doc/s]
+2026-11-17 22:57:09,359 INFO     auditframework.indexing.service: Gerando embeddings para 147 chunks de 49 documentos
+2026-11-17 22:57:16,527 INFO     auditframework.terminal: Batches: 100%|██████████| 10/10 [00:07<00:00,  1.40it/s]
+2026-11-17 22:57:16,540 INFO     auditframework.pipeline: Indice construido a partir de 49 documentos
+2026-11-17 22:57:16,542 INFO     auditframework.terminal: ✓ indexing concluído em 7.5s
+2026-11-17 22:57:16,542 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-17 22:57:16,547 INFO     auditframework.pipeline: Julgamento: 79 chunks, 74 ja julgados, 2 ja pulados, 3 pendentes
+2026-11-17 22:57:16,660 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-17 22:57:17,229 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/3 [00:00<?, ?chunk/s]
+2026-11-17 22:57:17,332 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-17 22:57:17,395 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 2380.83it/s]
+2026-11-17 22:57:28,747 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 3/3 [00:12<00:00,  4.07s/chunk]
+2026-11-17 22:58:08,130 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 3/3 [00:39<00:00, 13.13s/chunk]
+2026-11-17 22:58:08,131 INFO     auditframework.terminal: ✓ judging concluído em 53.3s
+2026-11-17 22:58:08,135 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 22:58:08,142 INFO     auditframework.pipeline: Relatorio gerado em data/runs/semana_trabalho_d029e3aa4d63_20261115T034149Z/report.md
+2026-11-17 22:58:08,144 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 22:58:08,144 INFO     __main__: Run semana_trabalho_d029e3aa4d63_20261115T034149Z concluida
+2026-11-17 22:58:08,145 INFO     auditframework.terminal: Relatorio gerado em data/runs/semana_trabalho_d029e3aa4d63_20261115T034149Z/report.md

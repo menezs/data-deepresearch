@@ -1,0 +1,48 @@
+2026-11-14 23:59:37,073 INFO     __main__: Iniciando run ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z para answers/Ingles/Claude/Emergente/ia_generativa_entretenimento.md (ferramenta=Claude)
+2026-11-14 23:59:45,134 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-14 23:59:45,134 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-14 23:59:47,635 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 11838.74it/s]
+2026-11-15 00:00:10,565 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-15 00:00:10,576 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-15 00:00:10,585 INFO     auditframework.pipeline: Extraidas 65 referencias de answers/Ingles/Claude/Emergente/ia_generativa_entretenimento.md (0 descartadas como artefato do exportador)
+2026-11-15 00:00:10,588 WARNING  auditframework.pipeline: Normalizacao: corpo sem marcadores de citacao [N]: nenhum trecho citado sera auditado
+2026-11-15 00:00:10,589 WARNING  auditframework.pipeline: Nenhum trecho citado encontrado em ia_generativa_entretenimento.md: a resposta nao usa marcadores `[N]` no corpo do texto (ou eles nao foram reconhecidos). Nao ha o que auditar.
+2026-11-15 00:00:10,591 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-15 00:00:10,591 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-15 00:00:10,595 INFO     auditframework.ingestion.service: Ingestao: 65 referencias, 0 ja baixadas, 0 ja bloqueadas, 65 pendentes
+2026-11-15 00:00:15,558 WARNING  trafilatura.core: discarding data: None
+2026-11-15 00:00:29,536 WARNING  trafilatura.core: discarding data: None
+2026-11-15 00:01:36,049 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.offitkurman.com/offit-kurman-blogs/ai-voice-cloning-lawsuit-voice-actor-rights: Falha ao baixar a copia do Wayback de https://www.offitkurman.com/offit-kurman-blogs/ai-voice-cloning-lawsuit-voice-actor-rights: Rate limit persistente em http://web.archive.org/web/20251207004938id_/https://www.offitkurman.com/offit-kurman-blogs/ai-voice-cloning-lawsuit-voice-actor-rights
+2026-11-15 00:01:36,056 WARNING  auditframework.ingestion.service: Falha ao converter: https://www.offitkurman.com/offit-kurman-blogs/ai-voice-cloning-lawsuit-voice-actor-rights (trafilatura nao conseguiu extrair conteudo principal do HTML)
+2026-11-15 00:01:39,963 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform: Falha ao baixar a copia do Wayback de https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform: Rate limit persistente em http://web.archive.org/web/20261020135259id_/https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform/
+2026-11-15 00:01:39,966 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform
+2026-11-15 00:01:45,954 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://sagaftra.org/gov-newsom-signs-union-championed-ai-bills-sag-aftra-plaza: Falha ao baixar a copia do Wayback de https://sagaftra.org/gov-newsom-signs-union-championed-ai-bills-sag-aftra-plaza: Rate limit persistente em http://web.archive.org/web/20250514182720id_/https://www.sagaftra.org/gov-newsom-signs-union-championed-ai-bills-sag-aftra-plaza
+2026-11-15 00:01:45,956 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em https://sagaftra.org/gov-newsom-signs-union-championed-ai-bills-sag-aftra-plaza
+2026-11-15 00:01:47,937 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.covingtonblogs.com/2024/09/11/california-passes-digital-replica-legislation-as-congress-considers-federal-approach/: Falha ao baixar a copia do Wayback de https://www.covingtonblogs.com/2024/09/11/california-passes-digital-replica-legislation-as-congress-considers-federal-approach/: Rate limit persistente em http://web.archive.org/web/20260605231924id_/https://www.covingtonblogs.com/2024/09/11/california-passes-digital-replica-legislation-as-congress-considers-federal-approach/
+2026-11-15 00:01:47,939 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.covingtonblogs.com/2024/09/11/california-passes-digital-replica-legislation-as-congress-considers-federal-approach/
+2026-11-15 00:01:58,530 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\_ATA(2026)782611.html: Sem copia no Wayback: https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\_ATA(2026)782611.html
+2026-11-15 00:01:58,532 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\_ATA(2026)782611.html (HTTP 400 em https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\_ATA(2026)782611.html)
+2026-11-15 00:02:50,687 INFO     auditframework.ingestion.fetcher: Referencia https://www.bytebacklaw.com/2026/08/a-federal-shift-in-ai-and-the-right-of-publicity-no-fakes-act-advances-in-congress/ recuperada do Wayback (copia de 20261106232803)
+2026-11-15 00:02:50,701 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 65/65 [02:40<00:00,  2.46s/ref]
+2026-11-15 00:02:50,702 INFO     auditframework.ingestion.service: Retentando 1 referencia(s) inacessivel(is) (falha possivelmente transitoria)
+2026-11-15 00:02:57,822 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\_ATA(2026)782611.html: Sem copia no Wayback: https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\_ATA(2026)782611.html
+2026-11-15 00:02:57,824 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\_ATA(2026)782611.html (HTTP 400 em https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\_ATA(2026)782611.html)
+2026-11-15 00:02:57,826 INFO     auditframework.terminal: Retentando inacessíveis: 100%|██████████| 1/1 [00:07<00:00,  7.12s/ref]
+2026-11-15 00:02:57,828 INFO     auditframework.pipeline: Ingestao concluida: 60 documentos disponiveis
+2026-11-15 00:02:57,829 INFO     auditframework.terminal: ✓ ingestion concluído em 167.2s
+2026-11-15 00:02:57,830 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-15 00:02:58,165 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 60/60 [00:00<00:00, 181.51doc/s]
+2026-11-15 00:02:58,165 INFO     auditframework.indexing.service: Gerando embeddings para 208 chunks de 60 documentos
+2026-11-15 00:03:07,703 INFO     auditframework.terminal: Batches: 100%|██████████| 13/13 [00:09<00:00,  1.36it/s]
+2026-11-15 00:03:07,721 INFO     auditframework.pipeline: Indice construido a partir de 60 documentos
+2026-11-15 00:03:07,722 INFO     auditframework.terminal: ✓ indexing concluído em 9.9s
+2026-11-15 00:03:07,723 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-15 00:03:07,726 INFO     auditframework.pipeline: Julgamento: 0 chunks, 0 ja julgados, 0 ja pulados, 0 pendentes
+2026-11-15 00:03:07,727 INFO     auditframework.terminal: Recuperando contexto: 0chunk [00:00, ?chunk/s]
+2026-11-15 00:03:07,728 INFO     auditframework.terminal: Julgando chunks: 0chunk [00:00, ?chunk/s]
+2026-11-15 00:03:07,728 INFO     auditframework.terminal: ✓ judging concluído em 0.0s
+2026-11-15 00:03:07,729 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-15 00:03:07,732 INFO     auditframework.pipeline: Relatorio gerado em data/runs/ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z/report.md
+2026-11-15 00:03:07,733 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-15 00:03:07,734 INFO     __main__: Run ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z concluida
+2026-11-15 00:03:07,735 INFO     auditframework.terminal: Relatorio gerado em data/runs/ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z/report.md

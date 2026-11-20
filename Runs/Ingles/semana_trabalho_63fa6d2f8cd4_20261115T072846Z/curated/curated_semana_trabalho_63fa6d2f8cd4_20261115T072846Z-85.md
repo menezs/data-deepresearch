@@ -1,0 +1,315 @@
+[referencia=5b986783a5620607 score=0.525]
+But Germany was far from being the only country to benefit from the use of short-time work/worksharing during this crisis. In their comparative analysis, Hijzen and Venn (2011) found that among the 34 countries in the OECD, 24 countries used short-time work or comparable instruments during the global financial crisis; in 22 of them, either these regulations were newly introduced or existing regulations were expanded and adapted to the challenges of the crisis. An important distinguishing criterion of these schemes was the extent of the permitted reduction of hours of work: 15 countries set a lower limit for the reduction, ranging from 10 to 40 per cent of contractual weekly hours of work, while in the other countries weekly hours of work could also be reduced to zero. Most countries also presupposed agreements by the social partners in the companies and/or a justification of the economic necessity for this scheme, so that the share of state subsidies and the labour costs remaining with the companies differed significantly among countries, as did the employees’ entitlement to earned income. This was also true for the maximum duration of benefits, which ranged from three months to two years or more; countries with short durations of short-time work were mostly more generous in the amount of shorttime compensation benefits. 
+
+More important in the context of working-time effects, however, was the actual use of work-sharing/ short-time work. Hijzen and Venn found that the highest shares of employees on short-time work in 2009 were observed in Belgium (just under 6 per cent), Türkiye (4 per cent) and Italy, Germany and Japan (about 3 per cent each). The manufacturing sector was the main focus of short-time work; in a comparison of these and other countries, about 9 per cent of employees were on short-time work in this sector in 2009. This was followed at a considerable distance by the construction sector, where the share was just under 3 per cent. However, countries differed greatly in terms of the reductions in hours of work associated with short-time work. Whereas in Spain, Finland and Norway this was about 90 per cent or more of full-time hours of work, the reduction in countries listed with high usage during the global financial crisis was significantly lower, at about 40 per cent in Belgium, approximately 30 per cent in Türkiye and just under 30 per cent in Japan and Germany. 
+
+117 
+
+5. Working time-related crisis response measures
+
+---
+
+[referencia=5b986783a5620607 score=0.438]
+###### X **Figure 43. Growth rates of employment in the EU (in hours worked)** 
+
+
+
+<!-- Start of picture text -->
+0<br>-5<br>-10<br>-15<br>-20<br>-25<br>-30<br>-35<br>Growth Rates of Emploment in Hours Worked Q1 2020 / Q2 2020<br>Growth Rates of Emploment in Hours Worked Q2 2019 / Q2 2020<br>EU 27 Bulgaria Czechia Denmark Germany Estonia Ireland Greece Spain France Croatia Italy Cyprus Latvia Lithuania Luxembourg Hungary Malta Netherlands Austria Poland Portugal Romania Slovenia Slovakia Finland Sweden United Kingdom Iceland Norway<br><!-- End of picture text -->
+
+**Source:** Eurostat, Quarterly National Accounts. 
+
+While these data on hours of work in EU countries were calculated from the development of employment figures, the data from labour force surveys refer directly to information provided by respondents about their hours of work. Based on this data, initial calculations have been made to compare hours of work in the second quarters of 2019 and 2020 (ETUI 2020). According to these calculations, actual hours of work per week decreased most in Austria, with decreases of 2 hours and 48 minutes per worker, followed by Belgium, Italy and Portugal, with decreases of about 90 minutes per worker; France, with decreases of about 70 minutes per worker; and Sweden, Spain and Poland, with decreases of about 30 minutes per worker (Figure 44). 
+
+123 
+
+5. Working time-related crisis response measures 
+
+
+
+- X **Figure 44. Change in hours of work per week, second quarter 2019 to second quarter 2020, EU countries, in hours and minutes** 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=5b986783a5620607 score=0.328]
+#### **6.3. References** 
+
+Fagan, Colette, et al. 2014. _In Search of Good Quality Part-Time Employment: An International Review._ Conditions of Work and Employment Series No. 43. ILO. 
+
+Golden, Lonnie. 2012. _The Effects of Working Time on Productivity and Firm Performance: A Research Synthesis Paper._ Conditions of Work and Employment Series No. 33. ILO. 
+
+Graham-McLay, Charlotte. 2018. “A 4-day Workweek? A Test Run Shows A Surprising Result”. _The New York Times_ , 19 July. 
+
+Haraldsson, Guðmundur, and Jack Kellam. 2021. _Going Public: Iceland’s Journey to a Shorter Working Week_ . Autonomy. 
+
+Iceland, Reykjavík City. 2018. _Shortening the Workweek._ 
+
+–––. 2019. “Experimental Project on Shortening the Working Week at the State Level: Report on the Results of Opinion Polls and Economic Measurements after a Twelve-Month Attempt to Shorten Working Hours”. 
+
+IG Metall. 2018. Press release on the outcomes of the collective agreement signed on 5 February 2018, in force from 1 January 2018 to 31 March 2020. 
+
+ILO. 2007. _Decent Working Time: Balancing Workers’ Needs with Business Requirements._ ILO. 
+
+–––. 2016. _Non-Standard Employment around the World: Understanding Challenges, Shaping Prospects._ 
+
+–––. 2019. _Guide to Developing Balanced Working Time Arrangements._ 
+
+–––. 2020. _Teleworking during the COVID-19 Pandemic and Beyond: A Practical Guide._ 
+
+Kassam, Ashifa. 2021. “Spain to Launch Trial of Four-Day Working Week“. _The Guardian._ 
+
+Lockhart, Charlotte. 2022. “UK Companies in 4 Day Week Pilot Reach Landmark Halfway Point”. Press release, 21 September. 4 Day Week Global. 
+
+Messenger, Jon. 2018. Working _Time and the Future of Work._ ILO Future of Work Research Paper Series No. 6.
+
+---
+
+[referencia=5b986783a5620607 score=0.263]
+124 
+
+Working time and work-life balance around the world 
+
+
+
+EU countries, the proportion of respondents who reported working-hours reductions was particularly high in Italy, Spain, Poland and France, at more than 40 per cent of respondents. Germany ranked in the middle of the distribution, at 35 per cent, while the Netherlands, Sweden and Denmark had significantly lower shares of respondents with working-hours reductions, at about 20 per cent, which is likely due to the fact that they had the highest shares of total telework – including home-based and mobile telework – in the EU before the pandemic (Gschwind and Vargas 2019). This survey also reveals considerable differences by sector. According to the survey, the shares of respondents with reduced hours of work are highest in the commerce, hospitality and construction sectors, at more than 50 per cent, followed by the transport and industry sectors, at just under 50 per cent. At the bottom of the scale are the health and public administration sectors, at approximately 20 per cent (Figure 45). 
+
+> X **Figure 45. Decrease in hours of work by sector (EU, in %)** 
+
+
+
+<!-- Start of picture text -->
+Commerce and Hospitality 52%<br>Construction 52%<br>Transport 48%<br>Industry 47%<br>Other Services 36%<br>Education 36%<br>Financial Services 30%<br>Agriculture 24%<br>Health 23%<br>Public Administration 21%<br>EU 27 37%<br>0% 10% 20% 30% 40% 50% 60%<br><!-- End of picture text -->
+
+**Source:** Eurofound (2020b). 
+
+125 
+
+5. Working time-related crisis response measures 
+
+
+
+In addition to the comparative data presented, turning the gaze towards single countries can provide complementary or new insights into working-time reductions. In the first quarter of 2020, the decline in hours of work was very severe in Mexico (about -40 per cent), Türkiye (about -35 per cent) and Canada and the United States (more than -20 per cent)(ILO and OECD 2020).
+
+---
+
+[referencia=5b986783a5620607 score=0.221]
+||Yemen|Venezuela<br>(Bolivarian Republic of)|<br>Trinidad and Tobago|
+||Zambia||United Arab Emirates|
+||||<br>United Kingdom<br>|
+||||United States|
+||||United States Virgin|
+||||Islands|
+||||Uruguay|
+
+
+
+152 
+
+Working time and work-life balance around the world 
+
+
+
+###### **Annex 2. Classification of countries/territories by region**
+
+---
+
+[referencia=5b986783a5620607 score=0.218]
+Figure 31a highlights the significant variations in the incidence of part-time employment across the world and among country-income groups. In high-income countries or areas, part-time employment is the highest in the Netherlands: part-time work measured as the percentage of workers who work less than 35 hours a week makes up 52 per cent of employment in that country. Compared with other countries or areas in Europe and Central Asia, this is more than 10 percentage points higher than the share of parttime work in Sweden, Norway or Switzerland. While the incidence of part-time employment is generally higher in high-income countries or areas, Nigeria, Peru, Rwanda and the United Republic of Tanzania are outliers among developing and emerging countries or areas, with more than 40 per cent of their workers in part-time employment. By contrast, part-time employment has a low incidence in the Arab States and many formerly communist countries or areas. Part-time employment represents less than 5 per cent of total employment in the United Arab Emirates and Saudi Arabia and less than 10 per cent in Bulgaria and the Russian Federation. Overall, there is considerable variation in the incidence of part-time work in the sample of countries and areas shown in figure 31a. 
+
+- X **Figure 31a. Part-time employment as a percentage of total employment, selected countries or areas by country-income group, 2018–2019**
+
+---
+
+[referencia=5b986783a5620607 score=0.202]
+**Source:** ILO calculations, based on national household data from 140 countries representing 92 per cent of global employment. 
+
+42 
+
+Working time and work-life balance around the world 
+
+
+
+_Workers in informal employment tend to be over-represented outside the range of 35 to 48 hours per week that is considered as the normal or standard workweek_ .<sup>11</sup> Globally, nearly two thirds of workers in informal employment work outside the range of what may be considered as “normal hours of work” (35 to 48 hours per week), compared with 40 per cent of workers in formal employment, with no major differences between women and men (figure 26, panel A). The situation is the most extreme in low-income countries in sub-Saharan Africa and Southern Asia, where close to 80 per cent or more of workers in informal employment work outside normal hours of work. Their exclusion – by law or in practice – from the scope of regulations on working time contributes to this situation. Such working-time regulations apply to less than 40 per cent of all workers worldwide: those in formal employment. This proportion can be further reduced to workers whose employment relationship is recognized and declared – formal employees – who represent as little as one third of global total employment. Therefore, the issues of very short and long hours of work are both prominent in the informal economy that dominates much of the developing world. 
+
+> X **Figure 26. Distribution of workers in formal and informal employment, by range of hours of work per week, region, country-income group and sex (in %, 2019)**
+
+---
+
+[referencia=5b986783a5620607 score=0.187]
+#### **3.6. Hours-averaging schemes, including annualized hours** 
+
+Hours-averaging schemes, including annualized hours, allow for variations in daily and weekly hours of work within specified legal limits, such as maximum daily and weekly hours of work, while requiring that hours of hours either achieve a specified weekly average over the period in which the hours are averaged or remain within a fixed total over the reference period (ILO 2018).<sup>16</sup> This form of working-time 
+
+> 16 A _four-day compressed workweek should not be confused with a four-day workweek._ In the former case, the number of workdays is reduced but the total number of hours of work per week remains the same. In the latter case by contrast, both the 
+
+66 
+
+Working time and work-life balance around the world 
+
+
+
+arrangement is particularly suited to seasonal work; for example, Volkswagen Autoeuropa, a car manufacturer in Portugal, uses hours-averaging schemes to manage seasonal fluctuations in the market (ILO 2019). Also, hours-averaging schemes may potentially facilitate better matching of workload with the availability of staff; for example, NHS Scotland utilizes annualized hours to ensure that sufficient staff are available during high-demand periods, which has led to lower levels of absenteeism (United Kingdom 2015). 
+
+Under fully annualized hours arrangements, wages are typically kept constant and are paid on an average basis throughout the year, providing financial stability to workers (United Kingdom 2015). The averaging of hours of work means that overtime is reduced or eliminated; therefore, compensation is required in the form of an increase in the basic wage (ILO 2019). Normally, a shorter reference period such as one month is more effective than an annualized approach, which risks drastic swings in hours from week to week. Also, employees need to be notified and prepared prior to the implementation of hours-averaging schemes. The most effective examples of such working-time arrangements have been those in which companies developed these arrangements in collaboration with labour unions (Kouzis and Kretsos 2003). Hours-averaging schemes have not been widely implemented and there is no internationally comparable data regarding the incidence of this working-time arrangement.
+
+---
+
+[referencia=5b986783a5620607 score=0.169]
+##### **4.2.2 Subjective measures: underemployment and overemployment** 
+
+The subjective measure reflects a preference for the same, more or fewer hours and is presented in table 7. When the preference is explicitly framed with an associated income adjustment, underemployment tends to be higher and overemployment lower, relative to the results from the more discrete, objective measure of switching between full-time and part-time hours of work. When measured by the question of wanting to work more hours for more income, rates of underemployment are generally far higher in all countries or areas. Countries or areas with higher time-related underemployment include South Africa, Georgia, Mexico and Lithuania, at more than 60 per cent, and the Russian Federation and Suriname, followed by India and Croatia, at more than 50 per cent; workers in those countries seek more hours to increase their earnings. 
+
+The total subjective working-time mismatch rates are highest in the following countries: Mexico, South Africa, Georgia, Philippines, the Russian Federation, Suriname and Lithuania. They are also slightly elevated in India, Croatia and Slovakia, where the mismatch rate is still more than 50 per cent of the workforce. Countries or areas with higher overemployment include Sweden and Taiwan (China), followed by Japan, the Philippines, Switzerland, Georgia and Germany. Together, these findings suggest that overemployment is higher in Scandinavian and some Western European economies, where workers generally prefer shorter hours, and in some of the developed and developing economies that have relatively long workweeks, particularly Eastern Asia. However, in the majority of countries or areas with high mismatch rates, such rates are attributable to their relatively higher underemployment. Therefore, high overall working-time mismatch rates are driven more by underemployment than by overemployment.
+
+---
+
+[referencia=5b986783a5620607 score=0.138]
+###### X **Box 8. Icelandic reduced workweek pilot** 
+
+Between 2015 and 2019, Iceland implemented two large-scale pilots of reduced working weeks of 35–36 hours, which at their peak covered more than 1 per cent of the working population. The reductions did not affect salaries. The first pilot was conducted by the Reykjavík city authorities and a trade union confederation, the Federation of State and Municipal Employees (BSRB). The second pilot was conducted in 2017 by the Icelandic Government and BSRB. The pilots were conducted in the context of Iceland having some of the longest hours of work in the OECD (Haraldsson and Kellam 2021). Also, Iceland suffered from low productivity levels and proponents presented the reduction in hours of work as a solution to this problem. 
+
+###### **Trials** 
+
+###### _Reykjavík pilot (2014–2019)_ 
+
+Two committees were set up to manage the scheme and working-time reductions were tailored for each workplace based on specific duties and modes of operation. The pilot began with two groups of 66 workers. Over the five-year period, the number of participants increased to 2,500 employees in a range of workplaces, including playschools, care homes and social services centres. 
+
+###### _Icelandic Government pilot (2017–2021)_ 
+
+A working group was established in 2016 and all government departments were invited to join the pilot. A variety of departments took part, including a police department and the migration directorate. The pilot began with 440 staff members and eventually encompassed 2,500 employees, equivalent to 1.3 per cent of the Icelandic workforce. For both pilots, steering committees were used to help promote effective implementation of the workweek reductions and ensure dialogue between management and workers. After the conclusion of the pilots, collective agreements were signed that gave 86 per cent of the Icelandic workforce a reduced workweek or the right to shorten their hours (Haraldsson and Kellam 2021). 
+
+146 
+
+Working time and work-life balance around the world 
+
+
+
+###### X **Box 8. Icelandic reduced workweek pilot (continued)** 
+
+###### **Results**
+
+---
+
+[referencia=5b986783a5620607 score=0.130]
+However, there were notable differences between schemes. One important difference was the volume of allowances granted by the regulations. In the European countries, the _volume of allowances_ ranges from 50 per cent to 100 per cent of the previous remuneration. Allowances amounting to 100 per cent of previous remuneration are paid in the Netherlands and Denmark, and amounting to 50 per cent in Poland. In some cases, the regulations also provide for ranges of allowances based on the amount of the original salary. In Austria, allowances are graded from 80 per cent to 90 per cent – or the duration of the entitlement; in Germany, they range from 60 per cent to 87 per cent of the original salary, depending on the duration of short-time work/work-sharing and marital status of the employees; and in Czechia, they are based on the reasons for work-sharing (Müller and Schulten 2020). Some regulations also draw on the level of national minimum wages as a lower limit for the amount of allowances. At the same time, reference ceilings for maximum allowances are also set, either as an absolute value or as a maximum amount related to the minimum wage or the national average wage (Müller and Schulten 2020). 
+
+Another important distinction between the forms of job retention is that between _short-time work/worksharing_ , in which reduced hours of work – with or without social security contributions – are taken over by the state either partially or completely, and the _subsidization of wages via ad hoc wage subsidie_ s, regardless of the actual reduction in hours of work. In the anglophone countries Australia and New Zealand, as well as in Denmark, the second model was favoured. Here, government subsidies can be used by firms to keep non-standard workers employed or rehire workers who are unemployed. In the Netherlands, which has changed its traditional short-time work model to a wage subsidy scheme, government wage subsidies are provided in proportion to the decline in sales (up to a decline of 90 per cent), with workers kept on at 100 per cent of their earnings. In this model, within the limits of the wage subsidy companies are not forced to pay a share of the costs and are not required to provide proof of hours worked. At the same time, this increases the incentive to keep employees working as many hours as possible (OECD 2020).
+
+---
+
+[referencia=5b986783a5620607 score=0.113]
+###### X **Figure 29. Percentage of workers working shifts, 2015** 
+
+
+
+<!-- Start of picture text -->
+45%<br>40%<br>35%<br>30%<br>25%<br>20%<br>15%<br>10%<br>5%<br>0%<br>Austria Belgium Bulgaria Cyprus Czech Republic Germany Denmark Estonia Greece Spain Finland France Croatia Hungary Ireland Italy Lithuania Luxembourg Lativa Malta Netherlands Poland Portugal Romania Sweden Slovenia Slovakia United Kingdom European Union Albania Montenegro FYROM Norway Serbia Turkey Switzerland<br><!-- End of picture text -->
+
+**Source:** Eurofound, _Sixth European Working Conditions Survey 2015,_ 2015. 
+
+54 
+
+Working time and work-life balance around the world 
+
+
+
+> X **Figure 30. Percentage of workers working one or more nights per month, 2015** 
+
+
+
+<!-- Start of picture text -->
+30%<br>25%<br>20%<br>15%<br>10%<br>5%<br>0%<br>Austria Belgium Bulgaria Cyprus Czech Republic Germany Denmark Estonia Greece Spain Finland France Croatia Hungary Ireland Italy Lithuania Luxembourg Lativa Malta Netherlands Poland Portugal Romania Sweden Slovenia Slovakia United Kingdom European Union Albania Montenegro FYROM Norway Serbia Turkey Switzerland<br><!-- End of picture text -->
+
+**Source:** Eurofound, “Sixth European Working Conditions Survey 2015”, 2015.
+
+---
+
+[referencia=5b986783a5620607 score=0.110]
+For regions and countries in which the 40-hour workweek already exists, experimentation with reduced full-time hours<sup>28</sup> may occur at the national level, such as in Iceland (see box 8) and more recently in Spain and the United Kingdom, as described below; at the sectoral level via innovative collective agreements, such as the one between the trade union IG Metall and the employers’ organization Gesamtmetall (IG Metall 2018); or at the enterprise level, such as in a recent experiment with a four-day workweek by one New Zealand company (Graham-McLay 2018). A reduction of hours of work may mean a shorter workday (such as a six-hour workday); a shorter workweek (such as a five-day or four-day workweek, depending on the existing national standard for normal hours of work); or a shorter working year achieved via additional days of paid annual leave, paid holidays and/or other types of paid leave, in line with the principles of the Workers with Family Responsibilities Recommendation, 1981 (No.165). 
+
+28 Unlike for part-time work, a reduction of full-time hours of work does not imply a reduction in pay. 
+
+145 
+
+6. Conclusions and implications for policy 
+
+
+
+Some prominent pilot tests of reduced workweeks were in progress at the time of preparation of this report. For example, Spain launched a three-year, €50 million pilot project that allows companies to test reduced hours with minimal risk. During the trial period, the costs of implementing a four-day workweek pilot may be covered at 100 per cent for the first year, 50 per cent for the second year and 33 per cent for the third year (Kassam 2021). Importantly, this pilot project is expected to ensure no loss of jobs or reduction in salary. 
+
+There is also an ambitious pilot experiment with a four-day workweek under way in the United Kingdom, involving more than 70 organizations and led by the non-profit group 4 Day Week Global, in collaboration with the think tank Autonomy and researchers from Cambridge Univeristy, Oxford University and Boston College. It has shown some promising results as of the halfway point, with 88 per cent of the respondents to a survey of participating organizations reporting that the four-day workweek worked well for their enterprise and 49 per cent reporting improved productivity, while 46 per cent reported achieving the same level of productivity in the reduced workweek (Lockhart 2022).
+
+---
+
+[referencia=5b986783a5620607 score=0.098]
+###### **Broader work–life policies** 
+
+Amazingly, a century after the adoption of Convention No. 1 in 1919, slightly more than one third of the world’s workers still work more than 48 hours per week. As we saw in the introduction in Chapter 1, there has been substantial progress in reducing hours of work in many countries during this period – particularly in countries with advanced economies and especially in Europe. Yet, regular long hours of work remain a serious concern in most of the world today, particularly in regions such as Asia and the Pacific. Also, the evidence reviewed in Chapter 4 suggests that a substantial portion of workers who work more than 48 hours per week would like to reduce their hours of work – and many of them say that they would like to do so even if it meant a reduction of their income. Moreover, longer hours of work are generally associated with lower unit labour productivity, while shorter hours of work are linked with higher productivity (for a summary of the relationship between hours of work and labour productivity, see Messenger 2018). 
+
+Therefore, it is evident from the preponderance of the evidence that some type of public policy response is necessary to help promote a reduction of hours of work in many countries; indeed, such reductions have often been adopted in part to increase labour productivity, which is essential for raising standards of living in the long term. When considering the reduction of hours of work, it is essential to keep in mind that countries are in very different places with respect to working-time laws and regulations. For regions in which the 48-hour workweek is still dominant, such as Asia and the Pacific and Latin America, an appropriate target would be to move towards the standard of the 40-hour workweek, which was established in the Forty-Hour Week Convention, 1935 (No. 47) and promoted in the Preamble to the Reduction of Hours of Work Recommendation, 1962 (No. 116) as “a social standard to be reached by stages if necessary, and setting a maximum limit to normal hours of work, pursuant to the Hours of Work (Industry) Convention, 1919”. For example, as part of an effort to increase productivity, the Colombian Government reduced the standard workweek from 48 hours per week to 42 hours per week; previously, Colombia had the longest standard workweek among OECD countries ( _planetlabor.com 2021_ ).
+
+---
+
+[referencia=5b986783a5620607 score=0.079]
+Finally, an important difference between national regulations is the role that _collective bargaining_ by the social partners plays in the implementation of short-time work (Müller and Schulten 2020; KonleSeidl 2020). In some countries with strong systems of collective bargaining, the central regulations on short-time work have been set not by governments but in the framework of collective bargaining agreements at the national level. These countries include the Scandinavian countries Denmark, Norway and Sweden, as well as Austria. In some other countries, collective bargaining agreements have been concluded to supplement or extend regulations on short-time work. These countries include Germany, where increases in allowances for short-time work have been negotiated for individual industries – concentrated mainly in the manufacturing sector – that are either paid directly by the companies or achieved by splitting up collectively agreed one-off payments. In Germany and France, there are also provisions in company agreements in which companies commit themselves to topping up short-time allowances. In many countries, the agreement of employers and employee representatives at company level is also a prerequisite for granting short-time work. Box 5 gives an overview of these regulations in selected countries.
+
+---
+
+[referencia=5b986783a5620607 score=0.077]
+- (4. Can’t choose) 
+
+88 
+
+Working time and work-life balance around the world 
+
+
+
+The subjective measure provides insights into variations among regions and levels of economic development. Table 8, combining the regional and income-level groupings, shows that more than 43 per cent of workers globally want to change their hours for a better match. These total mismatch rates are the highest in Latin America, somewhat higher in Eastern Europe and Asia, and lowest in all the rest of Europe. The anglophone countries are near the average. While Asia’s higher rate of working-time mismatches is due to its relatively higher overemployment rate of about 10 per cent, the higher rates in Latin America and Eastern Europe are due more to a higher incidence of underemployment. In contrast, the countries of Northern, Western and Southern Europe all feature relatively lower mismatch rates, owing primarily to a lower prevalence there of underemployment. Also, figure 36 ranks the 37 ISSP survey countries or areas by their subjective underemployment and overemployment rates, lowest to highest, and then sorts them by country-level income. The high-income countries exhibit overemployment rates above 7 per cent, at 2.5 to 3 percentage points higher than the other countries with relatively lowerincome levels. Both the middle-income and lower-middle-income countries have rates between only 4 and 5 per cent. Although underemployment is notably higher in these countries, averaging 57 per cent, virtually all the middle-income countries have higher than the global average underemployment. In contrast, less than 32 per cent of workers are underemployed in high-income countries. Therefore, overall working-time mismatch rates are lower in high-income countries, particularly in Europe, while underemployment is significantly higher in middle-income countries. 
+
+> X **Table 8. Subjective mismatch, by cluster and country-income level**
+
+---
+
+[referencia=5b986783a5620607 score=0.065]
+- X **Figure 44. Change in hours of work per week, second quarter 2019 to second quarter 2020, EU countries, in hours and minutes** 
+
+
+
+<!-- Start of picture text -->
+1.0<br>0.5<br>0.5<br>0.1 0.2 0.2<br>0.0<br>-0.5<br>-0.5 -0.5  -0.5 -0.4 -0.4 -0.4 -0.4 -0.2 -0.2 -0.2 -0.2 -0.1 -0.1<br>-1.0<br>-1.5<br>-1.4 -1.4  -1.3 -1.3 -1.3 -1.2 -1.2 -1.1<br>-2.0<br>-2.5<br>- 2.5<br>-3.0<br>Austria Belgium Italy Portugal Luxembourg Estonia Romania Greece France Netherlands Croatia Czechia Sweden Sapin lithuania Poland Latvia Bulgaria United Kingdom Slovakia Slovenia Hungary Ireland Finland Cyprus Denmark<br><!-- End of picture text -->
+
+**Source:** ETUI (2020).
+
+---
+
+[referencia=5b986783a5620607 score=0.065]
+In a survey conducted in Japan, nearly 27 per cent of respondents reported that their workdays and hours of work had been reduced (Japan Institute for Labor Policy and Training 2020). The main areas of focus by sector were accommodations and restaurants, with 60 per cent of respondents; education with about 40 per cent; services with about 37 per cent; and transport, with just over 31 per cent. The employee groups of part-time and fixed-term employees, with over 37 per cent, and posted or dispatched workers, with just over 36 per cent, were affected more than average and were accordingly the employees with the lowest incomes. According to this survey, working-hours reductions were based on a reduction in overtime for just under 14 per cent of respondents in full-time employment and on short-time work for just over 12 per cent (Tomohiro 2021). In the United Kingdom, the actual hours of work per week of full-time employees fell from about 37 hours at the beginning of 2020 to just over 31 hours in the period March to May and 30.7 hours in the period May to July 2020 (United Kingdom 2020). In Germany, according to calculations by the IAB based on an online survey, the number of hours of work per week fell by 5.8 hours or about 15 per cent, from 37.9 hours in 2019 to 32.1 hours during the lockdown in the second quarter of 2020 (Frodermann et al. 2020). Hours of work among those in short-time work actually declined by 20 per cent on average. In addition to short-time work, the decline in hours of work can be explained by other factors, namely, a fall in the proportion of employees working overtime from 60 per cent to 32 per cent per cent; the reduction of hours of work accumulated on working-time accounts; and the withdrawal of vacation entitlements. Some 55 per cent of respondents said they had made these adjustments on the instructions of their employer.
+
+---
+
+[referencia=5b986783a5620607 score=0.062]
+##### **5.3.2 The financial crisis as a model** 
+
+The current boom in state-funded reductions in hours of work discussed later in this chapter can be explained above all by the exemplary role it played as an instrument of labour market policy in overcoming the global financial market crisis about one decade ago. Here, it was countries such as Germany which, with the help of short-time work, were able to maintain significant proportions of their employment volume, especially in the industrial sectors that were threatened by drastic and abrupt falls in demand on the international goods markets; in some cases, these falls amounted to up to 40 per cent of pre-crisis levels. Not least because of this instrument (but also because of other forms of working-time reduction, such as the withdrawal of time from working-time accounts, the reduction of overtime and company agreements to reduce the number of weekly hours of work), hours of work were cut by approximately 40 hours per employee in 2009. Short-time work contributed to this by more than 13 hours (Fuchs et al. 2010). Although Germany’s gross domestic product fell by about 5 per cent that year, the volume of employment remained virtually constant. Admittedly, this was also due to a slight shift in employment to the service sector, which was not affected by the crisis due to stable domestic demand. However, the reduction in hours of work arithmetically prevented a decline in employment of approximately 3 per cent (Herzog-Stein and Seifert 2010). This development was very different from many other countries, where employment fell sharply with the economic slump. For this reason, there has been talk of a German “job miracle” in international comparisons (Bosch 2011).
+
+---
+
+[referencia=5b986783a5620607 score=0.058]
+###### **High-income** 
+
+
+
+<!-- Start of picture text -->
+60<br>40<br>20<br>0<br>% working less than 35h a week<br>Netherlands (2019) Norway (2019) Canada (2019) Sweden (2019) Switzerland (2019) Denmark (2019) Austria (2019) Finland (2019) United Kingdom (2019) Uruguay (2019) Mauritius (2019) France (2019) Ireland (2019) Panama (2019) Iceland (2019) Italy (2019) Chile (2019) Cyprus (2019) Malta (2019) Luxembourg (2019) Spain (2019) Portugal (2019) United States (2019) Hungary (2019) Greece (2019) Estonia (2019) Poland (2019) Korea, Republic of (2019) Czechia (2019) Slovenia (2019) Cook Islands (2019) Croatia (2019) Lithuania (2019) Slovakia (2019) Romania (2019) Singapore (2020) Seychelles (2019) Brunei Darussalam (2019) Barbados (2019) United Arab Emirates (2019) Saudi Arabia (2019)<br><!-- End of picture text -->
+
+57 
+
+3. Working time arrangements and their effects on work-life balance 
+
+
+
+- X **Figure 31a. Part-time employment as a percentage of total employment, selected countries or areas by country-income group, 2018–2019 (continued)**

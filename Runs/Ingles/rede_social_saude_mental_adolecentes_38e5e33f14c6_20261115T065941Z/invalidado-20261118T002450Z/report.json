@@ -1,0 +1,958 @@
+{
+  "run_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+  "answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/Ingles/ChatGPT/EmConsolidacao/rede_social_saude_mental_adolecentes.md",
+  "generated_at": "2026-11-15T07:28:44.391476Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 30692,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 190,
+    "citation_markers_distinct": 21,
+    "references_listed": 22,
+    "references_never_cited": 1,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 105,
+  "pct_supported": 58.0952380952381,
+  "pct_unsupported": 30.476190476190478,
+  "pct_contradicted": 0.0,
+  "count_supported": 61,
+  "count_unsupported": 32,
+  "count_contradicted": 0,
+  "count_skipped": 12,
+  "count_audited": 93,
+  "pct_supported_audited": 65.59139784946237,
+  "pct_unsupported_audited": 34.40860215053764,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 24,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 12
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 13,
+  "count_reclassified_by_verification": 5,
+  "verification_stage_counts": {
+    "context_expansion": 5
+  },
+  "mis_cited_reference_count": 14,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "882acab979a368ea",
+      "citation_markers": [
+        "[6]"
+      ],
+      "raw_url": "https://onlinelibrary.wiley.com/doi/10.1111/bjc.70100",
+      "normalized_url": "https://onlinelibrary.wiley.com/doi/10.1111/bjc.70100",
+      "work_key": "DOI:10.1111/bjc.70100",
+      "title": "6. Peachey W, Piantella S, Cotton SM, Gleeson JFM. *Social media exposure and anxiety and depression in young people: A systematic review and meta-analysis of longitudinal and experimental studies.*",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T07:00:12.350013Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "341b39b8fa1eeba5",
+      "citation_markers": [
+        "[10]"
+      ],
+      "raw_url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2819781",
+      "normalized_url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2819781",
+      "work_key": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2819781",
+      "title": "10. Fassi L, Thomas K, Parry DA, Leyland-Craggs A, Ford TJ, Orben A. *Social Media Use and Internalizing Symptoms in Clinical and Community Adolescent Samples: A Systematic Review and Meta-Analysis.*",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T07:01:20.320587Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "43d7c483577498e0",
+      "citation_markers": [
+        "[11]"
+      ],
+      "raw_url": "https://doi.org/10.1016/j.jad.2024.08.193",
+      "normalized_url": "https://doi.org/10.1016/j.jad.2024.08.193",
+      "work_key": "DOI:10.1016/j.jad.2024.08.193",
+      "title": "11. Ahmed O, Walsh EI, Dawel A, et al. *Social media use, mental health and sleep: A systematic review with meta-analyses.*",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T07:00:20.227196Z",
+      "error_message": "barreira de acesso (http_error): # There was a problem providing the content you requested Please contact our support team for more information and provi",
+      "barrier_kind": "http_error",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "303178644d5155b8",
+      "citation_markers": [
+        "[20]"
+      ],
+      "raw_url": "https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.70118",
+      "normalized_url": "https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.70118",
+      "work_key": "DOI:10.1111/camh.70118",
+      "title": "20. *Innovations in Practice: A pilot randomised trial on smartphone and social media abstinence – effects on sleep quality and psychological wellbeing in adolescents.*",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T07:00:25.122852Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-6",
+      "reason": "Referencia(s) citada(s) ['882acab979a368ea'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-32",
+      "reason": "Referencia(s) citada(s) ['43d7c483577498e0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-33",
+      "reason": "Referencia(s) citada(s) ['43d7c483577498e0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-34",
+      "reason": "Referencia(s) citada(s) ['43d7c483577498e0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-50",
+      "reason": "Referencia(s) citada(s) ['882acab979a368ea'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-51",
+      "reason": "Referencia(s) citada(s) ['882acab979a368ea'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-52",
+      "reason": "Referencia(s) citada(s) ['882acab979a368ea'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-61",
+      "reason": "Referencia(s) citada(s) ['882acab979a368ea'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-64",
+      "reason": "Referencia(s) citada(s) ['341b39b8fa1eeba5', '43d7c483577498e0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-67",
+      "reason": "Referencia(s) citada(s) ['341b39b8fa1eeba5'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-77",
+      "reason": "Referencia(s) citada(s) ['303178644d5155b8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-78",
+      "reason": "Referencia(s) citada(s) ['303178644d5155b8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "8ee885333dc42d1d",
+      "url": "https://www.nationalacademies.org/read/27396/chapter/2",
+      "times_cited": 35,
+      "supported_count": 23,
+      "unsupported_count": 12,
+      "contradicted_count": 0,
+      "supporting_citations": 10,
+      "partial_citations": 20,
+      "status": "downloaded",
+      "supports_positions": [
+        3,
+        4,
+        7,
+        31,
+        44,
+        47,
+        48,
+        53,
+        72,
+        104
+      ],
+      "partial_positions": [
+        0,
+        1,
+        2,
+        8,
+        9,
+        30,
+        35,
+        39,
+        45,
+        46,
+        69,
+        80,
+        85,
+        92,
+        95,
+        96,
+        97,
+        98,
+        100,
+        101
+      ],
+      "absent_positions": [
+        43,
+        65,
+        71,
+        79,
+        82
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The committee's review of the literature did not support the conclusion that social media causes changes in adolescent health at the population level. [...] The committee recognizes that social media is associated with harm among some adolescents. [...] considerable heterogeneity emerging in the literature suggests that the relation between social media and health may differ among individuals [...] it is hard to offer an overall summary about the relation between social media and youth mental health beyond observing that the effects, both helpful and harmful, accrue differently to different users. [...] Meta-analyses linking social media to various measures of health and well-being generally report small effects and weak associations",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "28ba90df7bd7f3d0",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+      "times_cited": 27,
+      "supported_count": 21,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 12,
+      "partial_citations": 13,
+      "status": "downloaded",
+      "supports_positions": [
+        8,
+        26,
+        46,
+        47,
+        68,
+        81,
+        82,
+        83,
+        85,
+        93,
+        97,
+        104
+      ],
+      "partial_positions": [
+        1,
+        2,
+        7,
+        9,
+        24,
+        30,
+        48,
+        65,
+        80,
+        84,
+        86,
+        91,
+        96
+      ],
+      "absent_positions": [
+        66,
+        76
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the effects of social media likely depend on what teens can do and see online, teens' preexisting strengths or vulnerabilities, and the contexts in which they grow up.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "ec4231800e690108",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41589024/",
+      "times_cited": 16,
+      "supported_count": 8,
+      "unsupported_count": 8,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        3,
+        5,
+        75
+      ],
+      "partial_positions": [
+        7,
+        14,
+        45,
+        83,
+        101,
+        102
+      ],
+      "absent_positions": [
+        49,
+        70,
+        72,
+        73,
+        74,
+        91,
+        93
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "general SMU showed weak and inconsistent associations with both well-being and ill-being, while problematic SMU was consistently linked to ill-being.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "882acab979a368ea",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/bjc.70100",
+      "times_cited": 13,
+      "supported_count": 2,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0,
+        3,
+        6,
+        49,
+        50,
+        51,
+        52,
+        53,
+        61,
+        70,
+        71,
+        76,
+        101
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "43d7c483577498e0",
+      "url": "https://doi.org/10.1016/j.jad.2024.08.193",
+      "times_cited": 13,
+      "supported_count": 1,
+      "unsupported_count": 8,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        14,
+        17,
+        32,
+        33,
+        34,
+        35,
+        64,
+        70,
+        73,
+        74,
+        83,
+        84,
+        102
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "85bc873c0274ffdb",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39721448/",
+      "times_cited": 11,
+      "supported_count": 6,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        36,
+        37,
+        38
+      ],
+      "partial_positions": [
+        39,
+        63,
+        97,
+        102
+      ],
+      "absent_positions": [
+        62,
+        65,
+        85,
+        92
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Results from 83 studies with 55,440 participants indicated that the weighted average correlation between higher online social comparison and greater body image concerns was significant (r = .454; 95 % CI = 0.409-0.498), as was the correlation between higher social comparison and eating disorder symptoms (r = 0.36; 95 % CI: 0.28-0.43).",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "3e5d941b100227ff",
+      "url": "https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/",
+      "times_cited": 11,
+      "supported_count": 9,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 9,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        28,
+        29,
+        62
+      ],
+      "partial_positions": [
+        63,
+        103
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Teens' views of the benefits and harms of social media vary by which aspect of their lives you ask about.",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "c53cba3870b21bf5",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9536523/",
+      "times_cited": 9,
+      "supported_count": 5,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        26,
+        27
+      ],
+      "partial_positions": [
+        24,
+        68,
+        81,
+        86,
+        103
+      ],
+      "absent_positions": [
+        66,
+        92
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "LGBTQ youths also resorted to social media to connect with the LGBTQ community when there was a lack of offline opportunities [34,54]. Social media was a vital tool for those in rural and remote settings to connect with LGBTQ peers [33]. Youths reported reduced feelings of isolation and increased well-being when connecting with other LGBTQ youths [33,54,56,60]. [...] Being able to view and interact with others expressing similar LGBTQ identities was validating for youths [33,53]. [...] Transgender youths were able to seek specific support from other transgender individuals and share transition experiences [53,56].",
+      "key_excerpt_position": 26
+    },
+    {
+      "reference_id": "341b39b8fa1eeba5",
+      "url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2819781",
+      "times_cited": 8,
+      "supported_count": 1,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        64,
+        66,
+        67,
+        69,
+        81,
+        91,
+        92,
+        94
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1789226aaefce7a3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39828926/",
+      "times_cited": 8,
+      "supported_count": 2,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        41
+      ],
+      "partial_positions": [
+        100
+      ],
+      "absent_positions": [
+        40,
+        43,
+        90,
+        92,
+        94,
+        102
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "yielding a sample of 27 studies encompassing 13,497 children and adolescents aged 8 to 19 years old. The longitudinal association between cyberbullying victimization and mental health symptoms among children and adolescents was found to be weakly positive and consistent across time and age.",
+      "key_excerpt_position": 41
+    },
+    {
+      "reference_id": "a0dbc26369736fb4",
+      "url": "https://www.who.int/europe/publications/i/item/9789289061322",
+      "times_cited": 6,
+      "supported_count": 2,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        10,
+        15
+      ],
+      "absent_positions": [
+        16,
+        17,
+        62,
+        63
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This report, Volume 6 in the series, focuses on adolescent social media use and gaming, using the unique HBSC evidence on adolescents aged 11, 13 and 15 years across 44 countries and regions in Europe, central Asia and Canada.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "8c2b5fb1cd291d4d",
+      "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        11,
+        12,
+        13,
+        62
+      ],
+      "partial_positions": [
+        10
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Center conducted an online survey of 1,391 U.S. teens from Sept. 18 to Oct. 10, 2024, through Ipsos. [...] The survey was weighted to be representative of U.S. teens ages 13 to 17 [...] Nine-in-ten teens report using the site [...] Roughly six-in-ten teens say they use TikTok and Instagram, and 55% say the same for Snapchat.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "ae97664566a3a8c6",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13256062/",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        54,
+        56,
+        57,
+        58,
+        60
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "more than 2 h of SMU per day was associated with a small increased risk for high depressive symptoms in adolescents 1 year later",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "9cb36a246eda4e82",
+      "url": "https://www.unicef.org/documents/drawing-line-digital-spaces",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        99
+      ],
+      "absent_positions": [
+        9,
+        98,
+        100,
+        104
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "age-based restrictions emerging as one potential component of a robust approach to protecting children online",
+      "key_excerpt_position": 99
+    },
+    {
+      "reference_id": "b1a6f756dd43551a",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834349/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        54,
+        55,
+        57
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we found that there was a longitudinal association between increases in social media use and subsequent depressive symptoms at the within-person level. These findings provide initial evidence of temporal ordering and could suggest that social media use is a potential contributing factor to adolescent depressive symptoms rather than merely a correlate or consequence of such symptoms.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "d8d77cdd1c2170a2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35390193/",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        25
+      ],
+      "partial_positions": [
+        103
+      ],
+      "absent_positions": [
+        24
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Meta-analysis showed that the correlation of online social support with self-esteem was moderate and significant (r = .29), but with depression was small and insignificant (r = -.09).",
+      "key_excerpt_position": 25
+    },
+    {
+      "reference_id": "8f7df12bcddb7263",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13714660/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        87,
+        88
+      ],
+      "partial_positions": [
+        90
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "our findings suggested that phone bans alone may be insufficient to produce population-level improvements in adolescent well-being. Future research should examine whether more integrated, context-sensitive approaches to digital media use in schools are more effective.",
+      "key_excerpt_position": 87
+    },
+    {
+      "reference_id": "daad684d4b38a895",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11984610/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        87,
+        89
+      ],
+      "partial_positions": [
+        90
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "school policies should be developed as part a more holistic approach. Preventative efforts should also consider how other behaviours that influence mental health and wellbeing are influenced by increased phone/media use, such as sleep, physical activity, attainment, classroom behaviour and problematic use.",
+      "key_excerpt_position": 87
+    },
+    {
+      "reference_id": "a3d7222a0fcabc5b",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/su/su7304a3.htm",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        94
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Frequent social media use was associated with a higher prevalence of bullying victimization at school and electronically, persistent feelings of sadness or hopelessness, and some suicide risk among students (considering attempting suicide and having made a suicide plan) [...] YRBS data are cross-sectional; causality and directionality of associations between frequent social media use and health behaviors and experiences cannot be established.",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "fdb4125685717efe",
+      "url": "https://www.nature.com/articles/s41467-022-29296-3",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        58,
+        59
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "provides evidence for the hypothesis that the impact of social media on individuals varies depending on how old they are, as well as their sex",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "303178644d5155b8",
+      "url": "https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.70118",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        77,
+        78
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ff463288c6133abe",
+      "url": "https://www.hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-14",
+      "position": 14,
+      "claim_excerpt": "High frequency of use should not be equated with disordered or problematic use.",
+      "cited_markers": "[5] [11]",
+      "corroborating_markers": "[7] [4] [19] [3] [8] [12]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-17",
+      "position": 17,
+      "claim_excerpt": "Problematic use generally refers to impaired control and interference with ordinary functioning rather than simply spending many hours online.",
+      "cited_markers": "[2] [11]",
+      "corroborating_markers": "[16] [4] [19] [7] [8] [21] [9]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-24",
+      "position": 24,
+      "claim_excerpt": "The clearest potential benefit is social connection.",
+      "cited_markers": "[14] [15] [16]",
+      "corroborating_markers": "[3] [9]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-40",
+      "position": 40,
+      "claim_excerpt": "Cyberbullying represents a more clearly harmful form of online experience than social-media exposure in the abstract.",
+      "cited_markers": "[13]",
+      "corroborating_markers": "[16] [3] [4] [8] [18] [14] [15]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-49",
+      "position": 49,
+      "claim_excerpt": "Even longitudinal studies may be confounded if they measure exposure poorly or fail to capture relevant changes in the adolescent’s environment.",
+      "cited_markers": "[5] [6]",
+      "corroborating_markers": "[18] [9] [3] [7] [8] [19] [16] [4]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-65",
+      "position": 65,
+      "claim_excerpt": "The most defensible interpretation is that gender differences may emerge through exposure to particular content, social norms, appearance pressures, cybervictimization, or patterns of engagement rath…",
+      "cited_markers": "[4] [12] [16]",
+      "corroborating_markers": "[19] [9] [8] [18] [15] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-70",
+      "position": 70,
+      "claim_excerpt": "Measurement is one of the field’s central weaknesses.",
+      "cited_markers": "[5] [6] [11]",
+      "corroborating_markers": "[4] [7] [9] [18] [8] [19] [15]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-73",
+      "position": 73,
+      "claim_excerpt": "Heterogeneity across studies is substantial.",
+      "cited_markers": "[5] [11]",
+      "corroborating_markers": "[18] [9] [3] [15] [19] [8]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-74",
+      "position": 74,
+      "claim_excerpt": "Studies differ in platform definitions, age ranges, mental-health measures, follow-up intervals, socioeconomic settings, and statistical models, making pooled average effects difficult to interpret a…",
+      "cited_markers": "[5] [11]",
+      "corroborating_markers": "[8] [9] [16] [4] [15] [18] [7] [19]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-79",
+      "position": 79,
+      "claim_excerpt": "Platform change creates another research problem because algorithms, norms, features, and dominant services evolve faster than typical longitudinal studies.",
+      "cited_markers": "[4]",
+      "corroborating_markers": "[15] [16] [8] [19] [9]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-90",
+      "position": 90,
+      "claim_excerpt": "Schools therefore have stronger grounds for combining reasonable device rules with cyberbullying prevention, digital literacy, clear reporting systems, sleep education, and access to mental-health su…",
+      "cited_markers": "[13] [18] [19]",
+      "corroborating_markers": "[3] [16]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-92",
+      "position": 92,
+      "claim_excerpt": "Assessment can usefully cover cyberbullying, compulsive or uncontrolled use, sleep disruption, appearance comparison, exposure to self-harm or eating-disorder material, conflict with caregivers, soci…",
+      "cited_markers": "[4] [10] [12] [13] [15]",
+      "corroborating_markers": "[14] [16] [8] [7] [18] [3] [9] [21]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-102",
+      "position": 102,
+      "claim_excerpt": "Average time spent on social media shows only small associations with depression and anxiety, while problematic use, cyberbullying, harmful social comparison, sleep-disruptive engagement, and exposur…",
+      "cited_markers": "[5] [11] [12] [13]",
+      "corroborating_markers": "[19] [8] [7] [16] [9] [4] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z-103",
+      "position": 103,
+      "claim_excerpt": "Conversely, friendship, identity development, social support, creativity, and access to communities can be meaningful benefits, especially for adolescents who are isolated or marginalized offline.",
+      "cited_markers": "[14] [15] [17]",
+      "corroborating_markers": "[16] [4] [8] [3]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1679015,
+  "cost_tracked": false,
+  "processing_time_seconds": 1742.806245
+}

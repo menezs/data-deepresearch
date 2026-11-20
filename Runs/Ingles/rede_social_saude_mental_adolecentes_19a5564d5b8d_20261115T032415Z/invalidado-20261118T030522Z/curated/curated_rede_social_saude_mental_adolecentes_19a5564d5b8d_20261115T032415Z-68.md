@@ -1,0 +1,94 @@
+[referencia=7540bb756ebf8b2c score=0.973]
+### Obligations on big tech
+
+All online services, including social media, video sharing, online video games, AI companions and chatbots, must be “safe by design”.
+
+Service providers can’t encourage compulsive or excessive use through endless autoplay, infinite scrolling, or rewards for posting. They must include time limits and usage breaks and can no longer track or share minors’ real-time location or activate access to microphones and cameras unless minors switch them on. Recommenders that suggest content based on online behaviour are banned too.
+
+According to Pisanu, “children should see a significantly safer feed. Engagement-based recommendations would be switched off by default, so platforms could no longer shape children’s feed primarily around what keeps them scrolling. Children would be able to choose a non-profiled feed, change their preferences and delete interests inferred about them”.
+
+For AI chatbots, the rules are not strict enough, Pisanu warned. “We would like to see the minimum age for autonomous access reconsidered […]. More specific safeguards may also be necessary, including restrictions on anthropomorphic and sycophantic design, hidden advertising and commercial influence”.
+
+Online games and apps must also be minor proof. Providers must age-rate them and prevent children from accessing or buying age-inappropriate online items.
+
+The “burden of proof” is on very large online platforms (VLOPs), which must prove to the EU Commission and independent auditors that their services are safe. Breaches result in fines of up to 6% of total worldwide annual turnover.
+
+---
+
+[referencia=7540bb756ebf8b2c score=0.452]
+## The new EU KIDS ACT bans social media for under-13s but allows "mini accounts" for 13-15-year-olds. No infinite scrolling, push notifications, and contacts from strangers. Video games, AI chatbots, and app stores must be “safe by design".
+
+European Commission President Ursula von der Leyen and Executive Vice-President Henna Virkkunen presented the EU Kids Act on 17 September.
+
+The proposal tightens online child safety to improve youth physical and mental well-being. It sets a minimum EU-wide age to open social media accounts and bans accounts for children under 13. It stops profiling-based recommender feeds and addictive features and requires service providers to prove their services are “safe by design”.
+
+The Act follows the Special Panel on child safety, which presented its report "Child safety online" in July 2026 and recommended restricting access to what it called "social media".
+
+With the proposal, the EU wants to set uniform rules that protect all children equally across Europe and avoid a patchwork of national laws. The European Parliament and Council must approve it before it takes effect.
+
+### Why is it needed?
+
+A new 2026 Eurobarometer survey links early social media use to longer screen time. Children who started using social media before age 10 report 7.5 hours on screens on weekends, compared with 5.7 hours for those who started after 14. On weekdays, teens aged 13 to 18 spend 4.5 hours on screens, increasing to 6.1 hours on weekends.
+
+The issue goes beyond screen time and into platforms’ design. “Social media platforms are no longer the services they were when they were first created. Many have evolved from centred spaces on social connection into highly sophisticated systems designed to capture and monetise attention”, said Francesca Pisanu, senior policy officer at Eurochild.
+
+Their ad-focused business models, recommender systems and addictive features, like infinite scroll, autoplay, and push notifications, create excessive use or addiction in children. Unrestricted access to harmful online content poses physical and mental health risks and increases harmful social behaviours.
+
+According to Eurobarometer, about 33% of minors feel stressed or sad, and 90% report negative symptoms like depression, concentration issues, or eating disorders. Anxiety and loneliness are growing because of cyberbullying. About 5% of children aged 9-16 experience online bullying every month, making it the top concern in helpline calls for the Safer Internet Centres.
+
+---
+
+[referencia=7540bb756ebf8b2c score=0.126]
+### National laws
+
+A core group of member states is strongly pushing the Kids’ Act, led by France and Denmark, with support from Greece, Spain and Austria. They argue that fragmented national approaches are insufficient against global platforms such as Meta.
+
+Countries are therefore regulating alongside the EU’s new legislation. Twenty-three of the 27 EU member states are drafting, debating or enacting national laws to restrict or ban minors’ access to social media.
+
+French President Emmanuel Macron has been the most vocal advocate of a European ban, urging the Commission to introduce an EU-wide restriction for under-15s. The French Parliament had already passed a landmark bill setting a ‘digital majority’ at 15.
+
+After the Constitutional Council struck down the initial blanket ban in August 2026 over freedom of expression and privacy concerns, France changed course. On 14 September 2026, it submitted a revised plan to the EU, replacing a total ban with strict feature restrictions and parental controls for 13-to-15-year-olds.
+
+Denmark passed a national social media ban for under-15s, with limited parental exemptions for 13- and 14-year-olds. Danish lawmakers justified the measure by citing rising youth anxiety and depression across the region.
+
+Spain, Italy, Portugal and Poland have introduced draft laws requiring strict age-verification measures. Romania’s Senate has approved a youth social media restriction bill, now progressing through the Chamber of Deputies. Greece has strongly backed the EU Kids’ Act in response to rising cyberbullying, aligning with Austria in supporting global revenue-based penalties for non-compliant technology companies.
+
+Several countries oppose what they see as over-regulation. The Czech Republic and Estonia rejected blanket social media bans, arguing that they restrict digital freedom and create privacy risks through mandatory ID checks. Estonia, alongside Belgium, also declined to sign the Jutland Declaration, an international political commitment targeting addictive design features, preferring existing data protection laws over government-controlled internet access.
+
+---
+
+[referencia=7540bb756ebf8b2c score=0.078]
+### How is the EU protecting minors online already?
+
+The bloc already has a solid framework through the Digital Services Act (DSA) and the Audiovisual Media Services Directive (AVMSD).
+
+The DSA is a digital constitution, requiring major online platforms to maintain safety, security and privacy settings for minors, while banning targeted advertising to children based on behavioural profiling. The AVMSD complements it by requiring video-sharing and streaming platforms to implement content-rating systems and parental controls to shield children from violence, hate speech and adult content.
+
+To enforce age restrictions without compromising privacy, the EU developed an EU Age Verification App. Integrated with national digital identity wallets, it allows users to verify their age using secure “Yes/No” data tokens. This lets platforms restrict content and account creation without collecting or storing documents such as passports or birth certificates.
+
+The Action Plan Against Cyberbullying standardises the definitions and handling of digital harassment across the bloc and requires platforms to offer safety tools.
+
+The EU also operates the “Better Internet for Kids (BIK+)” strategy, which funds a network of Safer Internet Centres across every EU country, providing multilingual support hotlines, digital literacy toolkits, safety guidelines and educational resources to parents, teachers and children.
+
+“The main lesson is that age restrictions are difficult to implement effectively on their own. Our survey shows that age limits are already widely circumvented. Many teenagers started using platforms before the official minimum age, and 30% of social media users said they had provided a false age when signing up”, Consumers’ Rights organisation Euroconsumers told Euronews.
+
+---
+
+[referencia=7540bb756ebf8b2c score=0.001]
+### Restrictions for minors and parental control
+
+The EU Kids Act sets EU-wide rules to protect minors from all online services, including social media, video-sharing platforms, video games, app stores and AI companions.
+
+It sets minimum age limits for accessing social media, including TikTok, Instagram and YouTube. Children aged 3 to 13 can’t have a personal account but can use parental-managed accounts and access only age-appropriate content. Parents can set up “mini accounts” for adolescents aged 13 to 15, with restrictions on social contacts and screen time of up to one hour per day.
+
+Parents can always supervise children. Platforms must provide screen-time tools, as well as tools to view and approve contacts, manage settings, report harmful content, and control device access to ensure children use only child-friendly services.
+
+For Eurochild, parental control is essential but “they must complement, not replace, strong protections that apply automatically to every child”, says Pisanu.
+
+“Overreliance on parentals places an unfair burden on caregivers and assumes that every child has access to supportive, digitally skilled and available adults. That is not the reality for all children, including some children in alternative care, children experiencing family conflict or neglect [...]”, she added.
+
+### Age verification and privacy
+
+Self-declared age via the date-of-birth box is no longer valid. Platforms won’t check identity documents and won't learn users’ identities when they access online services. They will use the EU Age Verification App, the European Digital Identity Wallet or approved third-party systems to determine whether children are above or below the minimum age, without retaining personal information, locating or tracking them.
+
+Within six months of the new rules taking effect, providers must verify if existing account holders are under 15 and deactivate those accounts for individuals who are, or whose age cannot be ascertained.

@@ -1,0 +1,1579 @@
+[
+  {
+    "id": "a6a024cf09130271",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer",
+    "normalized_url": "https://who.int/news-room/fact-sheets/detail/cervical-cancer",
+    "work_key": "https://who.int/news-room/fact-sheets/detail/cervical-cancer",
+    "title": "Cervical cancer. World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:29.568855Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e32d2e566adbe6fb",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+    "normalized_url": "https://who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+    "work_key": "https://who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+    "title": "Human papillomavirus and cancer. World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:29.887759Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "626cc2a2b1099890",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.ijpsjournal.com/article/targeting-hpv-oncogenes-e6-e7-for-cervical-cancer-therapy-advances-in-molecular-and-natural-strategies",
+    "normalized_url": "https://ijpsjournal.com/article/targeting-hpv-oncogenes-e6-e7-for-cervical-cancer-therapy-advances-in-molecular-and-natural-strategies",
+    "work_key": "https://ijpsjournal.com/article/targeting-hpv-oncogenes-e6-e7-for-cervical-cancer-therapy-advances-in-molecular-and-natural-strategies",
+    "title": "[Targeting HPV oncogenes E6 and E7 for cervical cancer therapy]. International Journal of Pharmaceutical Sciences.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:56.939707Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "88371c40ccaee813",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.cancer.gov/about-nci/advisory-boards/ncab/meetings/2026/castle-september-presentation.pdf",
+    "normalized_url": "https://cancer.gov/about-nci/advisory-boards/ncab/meetings/2026/castle-september-presentation.pdf",
+    "work_key": "https://cancer.gov/about-nci/advisory-boards/ncab/meetings/2026/castle-september-presentation.pdf",
+    "title": "Advances in 1o and 2o Prevention of HPV-Related Cancers. National Cancer Institute National Cancer Advisory Board Presentation (September 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:36.198776Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "64531dce608f7c67",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.mdpi.com/2076-393x/10/2/256",
+    "normalized_url": "https://mdpi.com/2076-393x/10/2/256",
+    "work_key": "https://mdpi.com/2076-393x/10/2/256",
+    "title": "[Review of available HPV vaccines and long-term efficacy]. MDPI Vaccines (2022; 10(2):256).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:57:07.001599Z",
+    "error_message": null,
+    "barrier_kind": "http_error",
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "db411a1bc376e99b",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://sto-online.org/wp-content/uploads/2025/12/Noninferiority-of-One-HPV-Vaccine-Dose-to-Two-Doses.-NEJMoa2506765.pdf",
+    "normalized_url": "https://sto-online.org/wp-content/uploads/2025/12/Noninferiority-of-One-HPV-Vaccine-Dose-to-Two-Doses.-NEJMoa2506765.pdf",
+    "work_key": "https://sto-online.org/wp-content/uploads/2025/12/Noninferiority-of-One-HPV-Vaccine-Dose-to-Two-Doses.-NEJMoa2506765.pdf",
+    "title": "Noninferiority of One HPV Vaccine Dose to Two Doses. The New England Journal of Medicine (2025; 393(24):2421–2433).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:43.901733Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6d6bb718c8d385ac",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://researchportal.ukhsa.gov.uk/en/publications/the-effects-of-the-national-hpv-vaccination-programme-in-england-/",
+    "normalized_url": "https://researchportal.ukhsa.gov.uk/en/publications/the-effects-of-the-national-hpv-vaccination-programme-in-england-",
+    "work_key": "https://researchportal.ukhsa.gov.uk/en/publications/the-effects-of-the-national-hpv-vaccination-programme-in-england-",
+    "title": "The effects of the national HPV vaccination programme in England, UK, on cervical cancer and grade 3 cervical intraepithelial neoplasia incidence: a register-based observational study. UK Health Security Agency Research Portal.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:40.260497Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f4a3d78ffd526476",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer",
+    "normalized_url": "https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer",
+    "work_key": "https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer",
+    "title": "HPV vaccines offer a rare opportunity to effectively eliminate one type of cancer. Our World in Data.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:40.800104Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "84f714500cdb7ddc",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/41276264/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/41276264",
+    "work_key": "PMID:41276264",
+    "title": "Effects of human papillomavirus (HPV) vaccination programmes on community rates of HPV-related disease and harms from vaccination. PubMed (Cochrane Database Syst Rev, November 24, 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:41.532544Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c823bd3cdf916319",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.vaccinestoday.eu/stories/hpv-vaccine-cervical-cancer-deaths-plummet-among-young-women-in-england/",
+    "normalized_url": "https://vaccinestoday.eu/stories/hpv-vaccine-cervical-cancer-deaths-plummet-among-young-women-in-england",
+    "work_key": "https://vaccinestoday.eu/stories/hpv-vaccine-cervical-cancer-deaths-plummet-among-young-women-in-england",
+    "title": "HPV vaccine: cervical cancer deaths plummet among young women in England. VaccinesToday.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:42.241743Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "91df3800b976d776",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/human-papillomavirus-vaccines-(HPV)",
+    "normalized_url": "https://who.int/teams/immunization-vaccines-and-biologicals/diseases/human-papillomavirus-vaccines-(HPV)",
+    "work_key": "https://who.int/teams/immunization-vaccines-and-biologicals/diseases/human-papillomavirus-vaccines-(HPV)",
+    "title": "Human papillomavirus vaccines (HPV). World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:42.964111Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "caf399badc724d7e",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://dceg.cancer.gov/research/cancer-types/cervix/escuddo",
+    "normalized_url": "https://dceg.cancer.gov/research/cancer-types/cervix/escuddo",
+    "work_key": "https://dceg.cancer.gov/research/cancer-types/cervix/escuddo",
+    "title": "[ESCUDDO Efficacy Trial]. National Cancer Institute Division of Cancer Epidemiology and Genetics.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:43.578666Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c7ee216c6715280a",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.esmo.org/oncology-news/one-dose-of-either-a-bivalent-or-nonavalent-hpv-vaccine-provides-protection-against-hpv16-or-hpv18-infection-and-is-not-inferior-to-two-doses",
+    "normalized_url": "https://esmo.org/oncology-news/one-dose-of-either-a-bivalent-or-nonavalent-hpv-vaccine-provides-protection-against-hpv16-or-hpv18-infection-and-is-not-inferior-to-two-doses",
+    "work_key": "https://esmo.org/oncology-news/one-dose-of-either-a-bivalent-or-nonavalent-hpv-vaccine-provides-protection-against-hpv16-or-hpv18-infection-and-is-not-inferior-to-two-doses",
+    "title": "One Dose of Either a Bivalent or Nonavalent HPV Vaccine Provides Protection Against HPV16 or HPV18 Infection and Is Not Inferior To Two Doses. European Society for Medical Oncology (ESMO).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:49.488059Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4568c66451fd3bab",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://extranet.who.int/prequal/vaccines/p/cervavac",
+    "normalized_url": "https://extranet.who.int/prequal/vaccines/p/cervavac",
+    "work_key": "https://extranet.who.int/prequal/vaccines/p/cervavac",
+    "title": "CERVAVAC | WHO - Prequalification of Medical Products. World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:46.754104Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "43b90bcfb173fad6",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.who.int/news/item/04-10-2024-who-adds-an-hpv-vaccine-for-single-dose-use",
+    "normalized_url": "https://who.int/news/item/04-10-2024-who-adds-an-hpv-vaccine-for-single-dose-use",
+    "work_key": "https://who.int/news/item/04-10-2024-who-adds-an-hpv-vaccine-for-single-dose-use",
+    "title": "WHO adds an HPV vaccine for single-dose use. World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:47.105122Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d3bffc49fe5e9bfc",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://pharmacally.com/serum-institute-cervavac-who-prequalification/",
+    "normalized_url": "https://pharmacally.com/serum-institute-cervavac-who-prequalification",
+    "work_key": "https://pharmacally.com/serum-institute-cervavac-who-prequalification",
+    "title": "Serum Institute of India's HPV Vaccine CERVAVAC Receives WHO Prequalification. Pharmacally.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:50.943296Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "081e98231d99110a",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.cdc.gov/hpv/hcp/vaccination-considerations/index.html",
+    "normalized_url": "https://cdc.gov/hpv/hcp/vaccination-considerations/index.html",
+    "work_key": "https://cdc.gov/hpv/hcp/vaccination-considerations/index.html",
+    "title": "[HPV vaccination considerations and recommendations]. Centers for Disease Control and Prevention.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:50.558375Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3405ec6b98f4b295",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.iasusa.org/wp-content/uploads/2026/08/34-4-dunlevy-johnson.pdf",
+    "normalized_url": "https://iasusa.org/wp-content/uploads/2026/08/34-4-dunlevy-johnson.pdf",
+    "work_key": "https://iasusa.org/wp-content/uploads/2026/08/34-4-dunlevy-johnson.pdf",
+    "title": "[Vaccinations in people with HIV]. International Antiviral Society–USA (IAS-USA, August 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:55.228342Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "71163b79b7c7859a",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://vaxintegrity.cidrap.umn.edu/new-evidence-review-affirms-strong-safety-and-effectiveness-hpv-vaccines",
+    "normalized_url": "https://vaxintegrity.cidrap.umn.edu/new-evidence-review-affirms-strong-safety-and-effectiveness-hpv-vaccines",
+    "work_key": "https://vaxintegrity.cidrap.umn.edu/new-evidence-review-affirms-strong-safety-and-effectiveness-hpv-vaccines",
+    "title": "New evidence review affirms strong safety and effectiveness of HPV vaccines. Center for Infectious Disease Research and Policy (CIDRAP) Vaccine Integrity Project.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:51.474668Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "647d5d9299ab4ee5",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.gavi.org/vaccineswork/new-study-validates-previous-conclusions-supporting-single-dose-hpv-vaccination",
+    "normalized_url": "https://gavi.org/vaccineswork/new-study-validates-previous-conclusions-supporting-single-dose-hpv-vaccination",
+    "work_key": "https://gavi.org/vaccineswork/new-study-validates-previous-conclusions-supporting-single-dose-hpv-vaccination",
+    "title": "New study validates previous conclusions supporting a single-dose HPV vaccination schedule. Gavi VaccinesWork.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:52.977290Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c0f0ca7ae6e759d7",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://mediatum.ub.tum.de/doc/1782277/1782277.pdf",
+    "normalized_url": "https://mediatum.ub.tum.de/doc/1782277/1782277.pdf",
+    "work_key": "https://mediatum.ub.tum.de/doc/1782277/1782277.pdf",
+    "title": "[Global cervical cancer burden and GLOBOCAN 2022 estimates]. Technical University of Munich Document Repository (mediatum 1782277).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:56:50.066105Z",
+    "error_message": "barreira de acesso (anti_bot): # **Making sure you're not a bot!** ## [image] [image] Loading... You are seeing this because the administrator of this ",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ec43c5b65704d84f",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.who.int/health-topics/cervical-cancer",
+    "normalized_url": "https://who.int/health-topics/cervical-cancer",
+    "work_key": "https://who.int/health-topics/cervical-cancer",
+    "title": "[Cervical cancer health topic overview]. World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:55.965647Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f860fe56c528b346",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://ourworldindata.org/grapher/rate-of-new-cervical-cancer-cases-gco",
+    "normalized_url": "https://ourworldindata.org/grapher/rate-of-new-cervical-cancer-cases-gco",
+    "work_key": "https://ourworldindata.org/grapher/rate-of-new-cervical-cancer-cases-gco",
+    "title": "Rate of new cervical cancer cases. Our World in Data (Global Cancer Observatory / GLOBOCAN 2022).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:56.397619Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8bf39bbf28f9f29f",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://gco.iarc.who.int/today/en/fact-sheets-cancers/23/cervix-uteri",
+    "normalized_url": "https://gco.iarc.who.int/today/en/fact-sheets-cancers/23/cervix-uteri",
+    "work_key": "https://gco.iarc.who.int/today/en/fact-sheets-cancers/23/cervix-uteri",
+    "title": "Cervix uteri. International Agency for Research on Cancer (IARC) Global Cancer Observatory.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:03.354731Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7eeb41f553c06993",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.mdpi.com/1718-7729/32/3/122",
+    "normalized_url": "https://mdpi.com/1718-7729/32/3/122",
+    "work_key": "https://mdpi.com/1718-7729/32/3/122",
+    "title": "[HPV-related cancers: pathogenesis and epidemiology]. MDPI (2025; 32(3):122).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:58:25.452148Z",
+    "error_message": "barreira de acesso (http_error): Reference #18.42fbd217.1794963402.62d0116f https://errors.edgesuite.net/18.42fbd217.1794963402.62d0116f",
+    "barrier_kind": "http_error",
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4be3b3b5ee105579",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12290362/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12290362",
+    "work_key": "PMC:PMC12290362",
+    "title": "[Review of cervical cancer trends, HPV vaccine use, and screening in low- and middle-income countries]. PubMed Central (PMC12290362).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:22:58.919451Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b64169ebc4f19e2c",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.gavi.org/our-work/vaccine-portfolio/human-papillomavirus",
+    "normalized_url": "https://gavi.org/our-work/vaccine-portfolio/human-papillomavirus",
+    "work_key": "https://gavi.org/our-work/vaccine-portfolio/human-papillomavirus",
+    "title": "[Human Papillomavirus (HPV) vaccine portfolio]. Gavi, the Vaccine Alliance.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:00.098368Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7e681f1e50f598b7",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13335833/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13335833",
+    "work_key": "PMC:PMC13335833",
+    "title": "[Primary and secondary prevention of cervical cancer: HPV vaccination and screening]. PubMed Central (PMC13335833).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:01.114447Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "11402602c6638e3d",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/21395359/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/21395359",
+    "work_key": "PMID:21395359",
+    "title": "AS04-adjuvanted human papillomavirus (HPV) types 16 and 18 vaccine (Cervarix®): a review of its use in the prevention of premalignant cervical lesions and cervical cancer causally related to certain oncogenic HPV types. PubMed.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:01.819745Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "66c3f768e3c170d1",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12039116/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12039116",
+    "work_key": "PMC:PMC12039116",
+    "title": "[HPV E6/E7-mediated signaling and cervical cancer subtypes]. PubMed Central (PMC12039116).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:03.168778Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b773f0f0dbeaae7b",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.mdpi.com/1422-0067/26/11/5205",
+    "normalized_url": "https://mdpi.com/1422-0067/26/11/5205",
+    "work_key": "https://mdpi.com/1422-0067/26/11/5205",
+    "title": "[Prognostic biomarkers and natural progression or regression of cervical intraepithelial neoplasia]. MDPI (2025; 26(11):5205).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:58:04.446941Z",
+    "error_message": "barreira de acesso (http_error): Reference #18.50fbd217.1794963402.55f060d5 https://errors.edgesuite.net/18.50fbd217.1794963402.55f060d5",
+    "barrier_kind": "http_error",
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2a33fd80a091ccd3",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12731993/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12731993",
+    "work_key": "PMC:PMC12731993",
+    "title": "[Cervical carcinogenesis, HPV molecular testing, and risk stratification]. PubMed Central (PMC12731993).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:05.808031Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e1d1c5a6f8f69897",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.cdc.gov/std/treatment-guidelines/hpv-cancer.htm",
+    "normalized_url": "https://cdc.gov/std/treatment-guidelines/hpv-cancer.htm",
+    "work_key": "https://cdc.gov/std/treatment-guidelines/hpv-cancer.htm",
+    "title": "[HPV-associated cancers and screening counseling — STI Treatment Guidelines]. Centers for Disease Control and Prevention.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:06.336590Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8e5cf133b4246da3",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.scielo.br/j/rbgo/a/GF8SgJqfwPrSMVtdHrjNXxk/?lang=en",
+    "normalized_url": "https://scielo.br/j/rbgo/a/GF8SgJqfwPrSMVtdHrjNXxk?lang=en",
+    "work_key": "https://scielo.br/j/rbgo/a/GF8SgJqfwPrSMVtdHrjNXxk?lang=en",
+    "title": "[Evaluation of HPV E6/E7 mRNA expression in women with atypical cytological diagnoses]. SciELO / Revista Brasileira de Ginecologia e Obstetrícia.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:06.883431Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f6e3890dc139e699",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.03116/full",
+    "normalized_url": "https://frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.03116/full",
+    "work_key": "DOI:10.3389/fmicb.2019.03116/full",
+    "title": "[Molecular mechanisms of HPV oncogenes E6 and E7 in cervical cancer]. Frontiers in Microbiology (2019).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:08.096950Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9f7d3422467da12b",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3950231/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3950231",
+    "work_key": "PMC:PMC3950231",
+    "title": "[Prevalence of HPV 52 and 58 genotypes and expression of p16 and p53 in cervical neoplasia]. PubMed Central (PMC3950231).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:09.198111Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "63af487c8c32d81c",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/392065828_Human_papillomavirus_infection_and_screening_strategies",
+    "normalized_url": "https://researchgate.net/publication/392065828_Human_papillomavirus_infection_and_screening_strategies",
+    "work_key": "https://researchgate.net/publication/392065828_Human_papillomavirus_infection_and_screening_strategies",
+    "title": "Human papillomavirus infection and screening strategies. ResearchGate.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-18T00:57:08.008720Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d96e30d04596333b",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11892266/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11892266",
+    "work_key": "PMC:PMC11892266",
+    "title": "[Comparative review of licensed and prequalified prophylactic HPV vaccines]. PubMed Central (PMC11892266).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:18.412611Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c45f1c0d7a4127c5",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.who.int/publications/i/item/9789240089167",
+    "normalized_url": "https://who.int/publications/i/item/9789240089167",
+    "work_key": "https://who.int/publications/i/item/9789240089167",
+    "title": "[Technical and programmatic information on WHO-prequalified HPV vaccine products]. World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:19.492537Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1d1a7f4718eb8b64",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://ec.europa.eu/health/documents/community-register/2016/20160729135469/anx_135469_en.pdf",
+    "normalized_url": "https://ec.europa.eu/health/documents/community-register/2016/20160729135469/anx_135469_en.pdf",
+    "work_key": "https://ec.europa.eu/health/documents/community-register/2016/20160729135469/anx_135469_en.pdf",
+    "title": "Cervarix suspension for injection: Summary of Product Characteristics. European Medicines Agency.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:37.520480Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6a4f8db41c8c98fb",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://rhsupplies.org/news-stories/pressroom/gardasil-prequalified-by-who-246/",
+    "normalized_url": "https://rhsupplies.org/news-stories/pressroom/gardasil-prequalified-by-who-246",
+    "work_key": "https://rhsupplies.org/news-stories/pressroom/gardasil-prequalified-by-who-246",
+    "title": "Gardasil cervical cancer vaccine prequalified by WHO. Reproductive Health Supplies Coalition.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:38.842722Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2a73f5a93ab8186d",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/50373593_AS04-Adjuvanted_Human_Papillomavirus_HPV_Types_16_and_18_Vaccine_Cervarix_R_A_Review_of_its_Use_in_the_Prevention_of_Premalignant_Cervical_Lesions_and_Cervical_Cancer_Causally_Related_to_Certain_Oncog",
+    "normalized_url": "https://researchgate.net/publication/50373593_AS04-Adjuvanted_Human_Papillomavirus_HPV_Types_16_and_18_Vaccine_Cervarix_R_A_Review_of_its_Use_in_the_Prevention_of_Premalignant_Cervical_Lesions_and_Cervical_Cancer_Causally_Related_to_Certain_Oncog",
+    "work_key": "https://researchgate.net/publication/50373593_AS04-Adjuvanted_Human_Papillomavirus_HPV_Types_16_and_18_Vaccine_Cervarix_R_A_Review_of_its_Use_in_the_Prevention_of_Premalignant_Cervical_Lesions_and_Cervical_Cancer_Causally_Related_to_Certain_Oncog",
+    "title": "AS04-Adjuvanted Human Papillomavirus (HPV) Types 16 and 18 Vaccine (Cervarix (R)) A Review of its Use in the Prevention of Premalignant Cervical Lesions and Cervical Cancer Causally Related to Certain Oncogenic HPV Types. ResearchGate.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-18T00:58:23.456344Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e6a6a275d70c2c51",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://www.merck.com/product/usa/pi_circulars/g/gardasil_9/gardasil_9_pi.pdf",
+    "normalized_url": "https://merck.com/product/usa/pi_circulars/g/gardasil_9/gardasil_9_pi.pdf",
+    "work_key": "https://merck.com/product/usa/pi_circulars/g/gardasil_9/gardasil_9_pi.pdf",
+    "title": "GARDASIL 9 Prescribing Information. Merck Sharp & Dohme.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:50.190527Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "621706239f1ed4d5",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://extranet.who.int/prequal/vaccines/prequalified-vaccines",
+    "normalized_url": "https://extranet.who.int/prequal/vaccines/prequalified-vaccines",
+    "work_key": "https://extranet.who.int/prequal/vaccines/prequalified-vaccines",
+    "title": "Prequalified Vaccines. World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:54.142854Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b0649e81ed46d1b8",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://www.path.org/our-impact/media-center/new-hpv-vaccine-innovax-receives-who-prequalification/",
+    "normalized_url": "https://path.org/our-impact/media-center/new-hpv-vaccine-innovax-receives-who-prequalification",
+    "work_key": "https://path.org/our-impact/media-center/new-hpv-vaccine-innovax-receives-who-prequalification",
+    "title": "New HPV vaccine from Innovax receives WHO prequalification. PATH.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:23:55.547713Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "66fcf7b1a6810db5",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://www.hpvworld.com/articulos/new-hpv-vaccines-current-landscape-and-future-directions/",
+    "normalized_url": "https://hpvworld.com/articulos/new-hpv-vaccines-current-landscape-and-future-directions",
+    "work_key": "https://hpvworld.com/articulos/new-hpv-vaccines-current-landscape-and-future-directions",
+    "title": "New HPV vaccines – Current landscape and future directions. HPVWorld (No. 314).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:24:02.583974Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fd2c37fd8ab3e6b2",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://www.xiameninnovax.com/news/who-prequalification/",
+    "normalized_url": "https://xiameninnovax.com/news/who-prequalification",
+    "work_key": "https://xiameninnovax.com/news/who-prequalification",
+    "title": "WHO Prequalification Application Submitted for Cecolin 9, China's First Domestically Developed and the World's Second HPV 9-Valent Vaccine. Xiamen Innovax Biotech.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:24:05.709504Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bd0dd3210bc36d79",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/279795502_Quadrivalent_vaccine_against_human_papillomavirus_to_prevent_high-grade_cervical_lesions_The_FUTURE_II_Study_Group_N_Engl_J_Med_2007_356_1915_1927_101056NEJMoa061741_17494925",
+    "normalized_url": "https://researchgate.net/publication/279795502_Quadrivalent_vaccine_against_human_papillomavirus_to_prevent_high-grade_cervical_lesions_The_FUTURE_II_Study_Group_N_Engl_J_Med_2007_356_1915_1927_101056NEJMoa061741_17494925",
+    "work_key": "https://researchgate.net/publication/279795502_Quadrivalent_vaccine_against_human_papillomavirus_to_prevent_high-grade_cervical_lesions_The_FUTURE_II_Study_Group_N_Engl_J_Med_2007_356_1915_1927_101056NEJMoa061741_17494925",
+    "title": "Quadrivalent Vaccine against Human Papillomavirus to Prevent High-Grade Cervical Lesions. The FUTURE II Study Group (New England Journal of Medicine, via ResearchGate).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-18T00:57:23.518629Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "53c06da3d0454f75",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/prophylactic-hpv-vaccination-past-present-and-future/661BBE441D98B2DE8685A10B1E124542",
+    "normalized_url": "https://cambridge.org/core/journals/epidemiology-and-infection/article/prophylactic-hpv-vaccination-past-present-and-future/661BBE441D98B2DE8685A10B1E124542",
+    "work_key": "https://cambridge.org/core/journals/epidemiology-and-infection/article/prophylactic-hpv-vaccination-past-present-and-future/661BBE441D98B2DE8685A10B1E124542",
+    "title": "Prophylactic HPV vaccination: past, present and future. Epidemiology and Infection (Cambridge University Press).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:24:07.494991Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "56356420a12ce27d",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/pq_326_HPV9_1dose_Merck_PI-102022.pdf",
+    "normalized_url": "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/pq_326_HPV9_1dose_Merck_PI-102022.pdf",
+    "work_key": "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/pq_326_HPV9_1dose_Merck_PI-102022.pdf",
+    "title": "GARDASIL 9 WHO Product Information. World Health Organization Prequalification.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:24:13.851821Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "512ff5286e172b98",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://www.fda.gov/media/139433/download",
+    "normalized_url": "https://fda.gov/media/139433/download",
+    "work_key": "https://fda.gov/media/139433/download",
+    "title": "[Summary Basis for Regulatory Action — GARDASIL 9]. US Food and Drug Administration.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:24:22.733153Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d3dbed7fb3207f9e",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/272074165_Efficacy_of_Human_Papillomavirus_16_and_18_HPV-1618_AS04-Adjuvanted_Vaccine_against_Cervical_Infection_and_Precancer_in_Young_Women_Final_Event-Driven_Analysis_of_the_Randomized_Double-Blind_PATRICIA_",
+    "normalized_url": "https://researchgate.net/publication/272074165_Efficacy_of_Human_Papillomavirus_16_and_18_HPV-1618_AS04-Adjuvanted_Vaccine_against_Cervical_Infection_and_Precancer_in_Young_Women_Final_Event-Driven_Analysis_of_the_Randomized_Double-Blind_PATRICIA_",
+    "work_key": "https://researchgate.net/publication/272074165_Efficacy_of_Human_Papillomavirus_16_and_18_HPV-1618_AS04-Adjuvanted_Vaccine_against_Cervical_Infection_and_Precancer_in_Young_Women_Final_Event-Driven_Analysis_of_the_Randomized_Double-Blind_PATRICIA_",
+    "title": "[Efficacy of HPV-16/18 AS04-adjuvanted vaccine against cervical infection and precancer (PATRICIA) final analysis]. ResearchGate.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:57:26.843116Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0af152bd1a699338",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://academic.oup.com/jid/article/199/7/926/853088",
+    "normalized_url": "https://academic.oup.com/jid/article/199/7/926/853088",
+    "work_key": "https://academic.oup.com/jid/article/199/7/926/853088",
+    "title": "[Cross-protective efficacy of HPV-16/18 AS04-adjuvanted vaccine against nonvaccine oncogenic HPV types (PATRICIA)]. The Journal of Infectious Diseases (2009; 199(7):926).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:58:42.044819Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d9bcec3e5874a27b",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://www.semanticscholar.org/paper/The-effects-of-the-national-HPV-vaccination-in-UK%2C-Falcaro-Casta%C3%B1%C3%B3n/00820c7e6c82bbedf3d7fabd15ac754f70f974c9",
+    "normalized_url": "https://semanticscholar.org/paper/The-effects-of-the-national-HPV-vaccination-in-UK,-Falcaro-Castañón/00820c7e6c82bbedf3d7fabd15ac754f70f974c9",
+    "work_key": "https://semanticscholar.org/paper/The-effects-of-the-national-HPV-vaccination-in-UK,-Falcaro-Castañón/00820c7e6c82bbedf3d7fabd15ac754f70f974c9",
+    "title": "[Summary of register-based HPV vaccination effectiveness studies in England, Sweden, Scotland, and Australia]. Semantic Scholar.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:58:22.368959Z",
+    "error_message": "barreira de acesso (anti_bot): Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your ac",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b2d8bf37e2e4f0eb",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://www.riscc-h2020.eu/documents/143/HPV_SCREENING_Mod6_Vaccinated_population.pdf",
+    "normalized_url": "https://riscc-h2020.eu/documents/143/HPV_SCREENING_Mod6_Vaccinated_population.pdf",
+    "work_key": "https://riscc-h2020.eu/documents/143/HPV_SCREENING_Mod6_Vaccinated_population.pdf",
+    "title": "[Impact of HPV vaccination on HPV-related burden and screening in vaccinated populations]. RISCC H2020.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:24:37.720674Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4b7f5d31e888531b",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://publichealthscotland.scot/news/2025/november/new-study-shows-long-term-effectiveness-of-hpv-vaccine/",
+    "normalized_url": "https://publichealthscotland.scot/news/2025/november/new-study-shows-long-term-effectiveness-of-hpv-vaccine",
+    "work_key": "https://publichealthscotland.scot/news/2025/november/new-study-shows-long-term-effectiveness-of-hpv-vaccine",
+    "title": "New study shows long-term effectiveness of HPV vaccine. Public Health Scotland.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:24:40.151353Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "441adfc88edaeb39",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://www.mdpi.com/2076-393x/8/3/391",
+    "normalized_url": "https://mdpi.com/2076-393x/8/3/391",
+    "work_key": "https://mdpi.com/2076-393x/8/3/391",
+    "title": "[Global impact and future prospects of HPV vaccines]. MDPI Vaccines (2020; 8(3):391).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:59:53.938816Z",
+    "error_message": "barreira de acesso (http_error): Reference #18.50fbd217.1794963503.55f88627 https://errors.edgesuite.net/18.50fbd217.1794963503.55f88627",
+    "barrier_kind": "http_error",
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "70f9198b6b5a1e51",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://es.cochrane.org/sites/es.cochrane.org/files/uploads/Embargos/2025/embargoed_24nov2025_effects-of-human-papillomavirus--hpv--vaccinationprogrammes-on-community-rates-of-hpv-related-diseaseand-harms-from-vaccination.pdf",
+    "normalized_url": "https://es.cochrane.org/sites/es.cochrane.org/files/uploads/Embargos/2025/embargoed_24nov2025_effects-of-human-papillomavirus--hpv--vaccinationprogrammes-on-community-rates-of-hpv-related-diseaseand-harms-from-vaccination.pdf",
+    "work_key": "https://es.cochrane.org/sites/es.cochrane.org/files/uploads/Embargos/2025/embargoed_24nov2025_effects-of-human-papillomavirus--hpv--vaccinationprogrammes-on-community-rates-of-hpv-related-diseaseand-harms-from-vaccination.pdf",
+    "title": "[Effects of HPV vaccination programmes on community rates of HPV-related disease and harms from vaccination (Cochrane Review Summary)]. Cochrane Library.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:26:15.639873Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8d99f0564f2b1e08",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://view-hub.org/topics/single-dose-hpv",
+    "normalized_url": "https://view-hub.org/topics/single-dose-hpv",
+    "work_key": "https://view-hub.org/topics/single-dose-hpv",
+    "title": "[Single-dose HPV vaccination]. VIEW-hub (International Vaccine Access Center).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:22.959319Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3332172826f27dcb",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://media.path.org/documents/HPV_Cnsrt_GeneralSummary_2025_R1_web.pdf?_gl=1h49zkc_gcl_auODE4NDY2NzI2LjE3NDYwMjI1MTI._gaMTM0MTAzNTg4MC4xNzA2NjM4NTAw_ga_YBSE7ZKDQM*czE3NDg0NDQ0NjkkbzE1JGcxJHQxNzQ4NDQ0NzQ4JGo2MCRsMCRoMA",
+    "normalized_url": "https://media.path.org/documents/HPV_Cnsrt_GeneralSummary_2025_R1_web.pdf?_gl=1h49zkc_gcl_auODE4NDY2NzI2LjE3NDYwMjI1MTI._gaMTM0MTAzNTg4MC4xNzA2NjM4NTAw_ga_YBSE7ZKDQM%2AczE3NDg0NDQ0NjkkbzE1JGcxJHQxNzQ4NDQ0NzQ4JGo2MCRsMCRoMA",
+    "work_key": "https://media.path.org/documents/HPV_Cnsrt_GeneralSummary_2025_R1_web.pdf?_gl=1h49zkc_gcl_auODE4NDY2NzI2LjE3NDYwMjI1MTI._gaMTM0MTAzNTg4MC4xNzA2NjM4NTAw_ga_YBSE7ZKDQM%2AczE3NDg0NDQ0NjkkbzE1JGcxJHQxNzQ4NDQ0NzQ4JGo2MCRsMCRoMA",
+    "title": "Evidence to inform decision-making on single-dose HPV vaccination: General Summary. Single-Dose HPV Vaccine Evaluation Consortium / PATH.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:26.637190Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bbf1c0f5e4a5f08e",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://www.cdc.gov/acip/downloads/slides-2025-04-15-16/03-Barnabas-HPV-508.pdf",
+    "normalized_url": "https://cdc.gov/acip/downloads/slides-2025-04-15-16/03-Barnabas-HPV-508.pdf",
+    "work_key": "https://cdc.gov/acip/downloads/slides-2025-04-15-16/03-Barnabas-HPV-508.pdf",
+    "title": "[KEN SHE Study 36-Month and 54-Month Single-Dose Vaccine Efficacy Results]. Centers for Disease Control and Prevention (ACIP Slides, April 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:34.317620Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cda9c809cae1b26e",
+    "citation_markers": [
+      "[62]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/38365419/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/38365419",
+    "work_key": "PMID:38365419",
+    "title": "Comparing one dose of HPV vaccine in girls aged 9-14 years in Tanzania (DoRIS) with one dose in young women aged 15-20 years in Kenya (KEN SHE): an immunobridging analysis of randomised controlled trials. PubMed.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:27.558829Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5a9a8e9bc49cf04b",
+    "citation_markers": [
+      "[63]"
+    ],
+    "raw_url": "https://www.drozdogan.com/en/is-one-dose-of-hpv-vaccine-enough-what-does-the-escuddo-study-published-in-nejm-tell-us/",
+    "normalized_url": "https://drozdogan.com/en/is-one-dose-of-hpv-vaccine-enough-what-does-the-escuddo-study-published-in-nejm-tell-us",
+    "work_key": "https://drozdogan.com/en/is-one-dose-of-hpv-vaccine-enough-what-does-the-escuddo-study-published-in-nejm-tell-us",
+    "title": "Is One Dose of HPV Vaccine Enough? What Does the ESCUDDO Study Published in NEJM Tell Us? Dr. Mustafa Özdoğan.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:29.145879Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6c7d1ce50eae152a",
+    "citation_markers": [
+      "[64]"
+    ],
+    "raw_url": "https://clinicaltrials.gov/study/NCT05237947",
+    "normalized_url": "https://clinicaltrials.gov/study/NCT05237947",
+    "work_key": "https://clinicaltrials.gov/study/NCT05237947",
+    "title": "Single-Dose HPV Vaccination for the Prevention of Cervical Cancer in Young Adult Women in Costa Rica, The PRISMA ESCUDDO Trial (PRISMA). ClinicalTrials.gov.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:34.639468Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4f9a29d4cca767f3",
+    "citation_markers": [
+      "[65]"
+    ],
+    "raw_url": "https://www.who.int/news/item/20-12-2022-WHO-updates-recommendations-on-HPV-vaccination-schedule",
+    "normalized_url": "https://who.int/news/item/20-12-2022-WHO-updates-recommendations-on-HPV-vaccination-schedule",
+    "work_key": "https://who.int/news/item/20-12-2022-WHO-updates-recommendations-on-HPV-vaccination-schedule",
+    "title": "WHO updates recommendations on HPV vaccination schedule. World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:35.516881Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0234ec783f00d51d",
+    "citation_markers": [
+      "[66]"
+    ],
+    "raw_url": "https://www.cima.care/insights/hpv-vaccination-transforms-global-cancer-prevention/",
+    "normalized_url": "https://cima.care/insights/hpv-vaccination-transforms-global-cancer-prevention",
+    "work_key": "https://cima.care/insights/hpv-vaccination-transforms-global-cancer-prevention",
+    "title": "[HPV vaccination transforms global cancer prevention]. CIMA Care.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:36.880393Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5cdc9949a909c2f2",
+    "citation_markers": [
+      "[67]"
+    ],
+    "raw_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004688",
+    "normalized_url": "https://journals.plos.org/globalpublichealth/article?id=10.1371%2Fjournal.pgph.0004688",
+    "work_key": "DOI:10.1371/journal.pgph.0004688",
+    "title": "[Policy, awareness, and delivery of HPV vaccination for girls living with HIV in Eswatini, Malawi, and Uganda]. PLOS Global Public Health.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:37.090872Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "73456c7ed7abb3d0",
+    "citation_markers": [
+      "[68]"
+    ],
+    "raw_url": "https://www.mednet.ca/en/report/future-i-and-future-ii-vaccination-against-human.html",
+    "normalized_url": "https://mednet.ca/en/report/future-i-and-future-ii-vaccination-against-human.html",
+    "work_key": "https://mednet.ca/en/report/future-i-and-future-ii-vaccination-against-human.html",
+    "title": "[FUTURE I and FUTURE II vaccination report]. MedNet.ca.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:38.081216Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7f34d4a50db171ce",
+    "citation_markers": [
+      "[69]"
+    ],
+    "raw_url": "https://www.who.int/publications/i/item/9789240014107",
+    "normalized_url": "https://who.int/publications/i/item/9789240014107",
+    "work_key": "https://who.int/publications/i/item/9789240014107",
+    "title": "Global strategy to accelerate the elimination of cervical cancer as a public health problem. World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:38.477846Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "12558ad347bab6ff",
+    "citation_markers": [
+      "[70]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/392528381_Global_HPV_vaccination_programs_and_coverage_rates_a_systematic_review",
+    "normalized_url": "https://researchgate.net/publication/392528381_Global_HPV_vaccination_programs_and_coverage_rates_a_systematic_review",
+    "work_key": "https://researchgate.net/publication/392528381_Global_HPV_vaccination_programs_and_coverage_rates_a_systematic_review",
+    "title": "Global HPV vaccination programs and coverage rates: a systematic review. EClinicalMedicine (via ResearchGate).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:59:25.289235Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8f33cf64ba979a7a",
+    "citation_markers": [
+      "[71]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12568012/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12568012",
+    "work_key": "PMC:PMC12568012",
+    "title": "[Global and regional HPV vaccination coverage trends, 2010–2024]. PubMed Central (PMC12568012).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:39.885221Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "36b078036ce6ce39",
+    "citation_markers": [
+      "[72]"
+    ],
+    "raw_url": "https://view-hub.org/sites/default/files/2025-11/VIEW-hub%20Report_November%202025.pdf",
+    "normalized_url": "https://view-hub.org/sites/default/files/2025-11/VIEW-hub Report_November 2025.pdf",
+    "work_key": "https://view-hub.org/sites/default/files/2025-11/VIEW-hub Report_November 2025.pdf",
+    "title": "VIEW-hub Global Vaccine Introduction & Implementation Report, November 2025. International Vaccine Access Center (VIEW-hub).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:44.872335Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d45e96efd40f9691",
+    "citation_markers": [
+      "[73]"
+    ],
+    "raw_url": "https://www.gavi.org/news/media-room/global-leaders-unite-accelerate-cervical-cancer-elimination-efforts",
+    "normalized_url": "https://gavi.org/news/media-room/global-leaders-unite-accelerate-cervical-cancer-elimination-efforts",
+    "work_key": "https://gavi.org/news/media-room/global-leaders-unite-accelerate-cervical-cancer-elimination-efforts",
+    "title": "[Global leaders unite to accelerate cervical cancer elimination efforts]. Gavi, the Vaccine Alliance.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:46.242468Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "629c4902a88680f1",
+    "citation_markers": [
+      "[74]"
+    ],
+    "raw_url": "https://www.who.int/publications/i/item/9789240030824",
+    "normalized_url": "https://who.int/publications/i/item/9789240030824",
+    "work_key": "https://who.int/publications/i/item/9789240030824",
+    "title": "WHO guideline for screening and treatment of cervical pre-cancer lesions for cervical cancer prevention (Second edition). World Health Organization.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:47.175999Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "96be4960894e9f12",
+    "citation_markers": [
+      "[75]"
+    ],
+    "raw_url": "https://www.hpvworld.com/articles/impact-of-hpv-vaccination-on-cervical-cancer-screening-requirements/",
+    "normalized_url": "https://hpvworld.com/articles/impact-of-hpv-vaccination-on-cervical-cancer-screening-requirements",
+    "work_key": "https://hpvworld.com/articles/impact-of-hpv-vaccination-on-cervical-cancer-screening-requirements",
+    "title": "[Impact of HPV vaccination on cervical cancer screening requirements]. HPVWorld.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:48.427462Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f9485dd1bf26d5de",
+    "citation_markers": [
+      "[76]"
+    ],
+    "raw_url": "https://www.medconsultasia.com/vaccine/new-hpv-vaccines-in-clinical-trials/",
+    "normalized_url": "https://medconsultasia.com/vaccine/new-hpv-vaccines-in-clinical-trials",
+    "work_key": "https://medconsultasia.com/vaccine/new-hpv-vaccines-in-clinical-trials",
+    "title": "[New HPV vaccines in clinical trials]. MedConsult Asia.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:53.956787Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1ab36db44a3bc968",
+    "citation_markers": [
+      "[77]"
+    ],
+    "raw_url": "https://cdn.who.int/media/docs/default-source/immunization/pdvac/pdvac-2024/day-1/therapeutic-hpv-vaccines.pdf?sfvrsn=f9490092_1",
+    "normalized_url": "https://cdn.who.int/media/docs/default-source/immunization/pdvac/pdvac-2024/day-1/therapeutic-hpv-vaccines.pdf?sfvrsn=f9490092_1",
+    "work_key": "https://cdn.who.int/media/docs/default-source/immunization/pdvac/pdvac-2024/day-1/therapeutic-hpv-vaccines.pdf?sfvrsn=f9490092_1",
+    "title": "[Therapeutic HPV vaccines: preferred product characteristics and modeled impact]. World Health Organization PDVAC Meeting (2024).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:26:02.098034Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ea0115e5675f96b1",
+    "citation_markers": [
+      "[78]"
+    ],
+    "raw_url": "https://www.ajmc.com/view/first-ever-therapeutic-hpv-vaccine-promising-against-cervical-cancer",
+    "normalized_url": "https://ajmc.com/view/first-ever-therapeutic-hpv-vaccine-promising-against-cervical-cancer",
+    "work_key": "https://ajmc.com/view/first-ever-therapeutic-hpv-vaccine-promising-against-cervical-cancer",
+    "title": "First-Ever Therapeutic HPV Vaccine Promising Against Cervical Cancer. The American Journal of Managed Care (AJMC).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:25:55.716435Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "582c9bf5107880f8",
+    "citation_markers": [
+      "[79]"
+    ],
+    "raw_url": "https://www.mdpi.com/2076-393x/14/6/507",
+    "normalized_url": "https://mdpi.com/2076-393x/14/6/507",
+    "work_key": "https://mdpi.com/2076-393x/14/6/507",
+    "title": "[Review of therapeutic HPV vaccines and PRGN-2009]. MDPI Vaccines (2026; 14(6):507).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:58:42.619929Z",
+    "error_message": "barreira de acesso (http_error): Reference #18.42fbd217.1794963505.62d94a98 https://errors.edgesuite.net/18.42fbd217.1794963505.62d94a98",
+    "barrier_kind": "http_error",
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4027ed46ff95f40b",
+    "citation_markers": [
+      "[80]"
+    ],
+    "raw_url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1897025/full",
+    "normalized_url": "https://frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1897025/full",
+    "work_key": "DOI:10.3389/fimmu.2026.1897025/full",
+    "title": "[mHTV-03E2 therapeutic HPV vaccine targeting E2, E6, and E7]. Frontiers in Immunology (2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:26:04.216860Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "27bc64f07cffe8da",
+    "citation_markers": [
+      "[81]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13103388/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13103388",
+    "work_key": "PMC:PMC13103388",
+    "title": "[mRNA-based therapeutic HPV vaccine RG002]. PubMed Central (PMC13103388).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:26:04.456767Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1d454fcce254a3a7",
+    "citation_markers": [
+      "[82]"
+    ],
+    "raw_url": "https://ecancer.org/en/news/25925-a-therapeutic-hpv-vaccine-could-eliminate-precancerous-cervical-lesions",
+    "normalized_url": "https://ecancer.org/en/news/25925-a-therapeutic-hpv-vaccine-could-eliminate-precancerous-cervical-lesions",
+    "work_key": "https://ecancer.org/en/news/25925-a-therapeutic-hpv-vaccine-could-eliminate-precancerous-cervical-lesions",
+    "title": "[Phase II trial of Vvax001 in HPV16-positive CIN3]. ecancer.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:26:05.667189Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6dd5e2f9d3b0d0f7",
+    "citation_markers": [
+      "[83]"
+    ],
+    "raw_url": "https://www.ddw-online.com/therapeutic-hpv-vaccine-could-eliminate-precancerous-cervical-lesions-33407-202501/",
+    "normalized_url": "https://ddw-online.com/therapeutic-hpv-vaccine-could-eliminate-precancerous-cervical-lesions-33407-202501",
+    "work_key": "https://ddw-online.com/therapeutic-hpv-vaccine-could-eliminate-precancerous-cervical-lesions-33407-202501",
+    "title": "Therapeutic HPV vaccine could eliminate precancerous cervical lesions. Drug Discovery World.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T15:26:16.331826Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+    "tool_name": "Gemini"
+  }
+]

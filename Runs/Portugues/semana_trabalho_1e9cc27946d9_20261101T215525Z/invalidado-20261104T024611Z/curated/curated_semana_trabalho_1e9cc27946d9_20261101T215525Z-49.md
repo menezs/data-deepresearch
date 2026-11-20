@@ -1,0 +1,482 @@
+[referencia=ead9fd3b4c80cdae score=0.002]
+# **Conclusion** Final Perspective 
+
+In terms of engagement and productivity, the results were equally promising. Employees rated their level of productivity at 8.4 and their level of engagement at 8.5 on a scale of 1 to 10. Commitment to the company was rated at 9.2, reflecting a high level of loyalty and dedication. The level of well-being was rated at 8.4, and job satisfaction at 8.5, indicating a significant improvement in the work environment. 
+
+Financially, the analysis of revenue and profit data showed a positive trend, though it is important to acknowledge that these results cannot be attributed exclusively to the 4 day week. The improvement in financial performance may be influenced by multiple factors and should therefore be interpreted with caution. However, the data suggest that the initiative contributed to a more productive and engaged work environment, reflecting significant potential for the model in terms of organizational and individual benefits. 
+
+The adoption of the model also had a positive impact on employees' time and energy spent with family and friends, improving the work-life balance. Employees reported more quality time with their loved ones, which contributed to an overall increase in well-being and personal satisfaction. In light of these conclusions, 46.2% of companies chose to maintain the reduced hours in the same format, while others prefer to extend the pilot or adjust the model according to their specific needs. 
+
+The diversity in decisions reflects an adaptive approach and the pursuit of customized solutions that address the varied contexts of the participating companies. In summary, the 4 day week pilot in Brazil demonstrated a substantial positive impact, showing that reduced working hours can be an effective strategy for improving employee well-being and organizational efficiency, while allowing flexibility for adjustments based on each company's specific needs and conditions. 
+
+
+
+**40** 
+
+**Next 6 Steps** 
+
+
+
+
+
+
+
+
+
+
+
+**6 Next Steps** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=3507306c7e394c9f score=0.001]
+A Avaliação do Projeto-Piloto “Semana de Quatro Dias” apresenta os resultados e impactos desta modalidade de gestão do horário laboral, nas empresas, nos trabalhadores e nas suas famílias. O projeto abrangeu 41 empresas do setor privado em Portugal, que adotaram diferentes formatos da semana de quatro dias ao longo de 2023. Foram abrangidos mais de 1000 trabalhadores. As empresas foram avaliadas quanto à produtividade, custos e lucros; os trabalhadores foram avaliados em termos de bem-estar, qualidade de vida e saúde física e mental.
+
+---
+
+[referencia=51ae2b54e60da70b score=0.001]
+## About this article
+
+### Cite this article
+
+Fan, W., Schor, J.B., Kelly, O. *et al.* Work time reduction via a 4-day workweek finds improvements in workers’ well-being.
+                    *Nat Hum Behav* **9**, 2153–2168 (2025). https://doi.org/10.1038/s41562-025-02259-6
+
+- Received:
+- Accepted:
+- Published:
+- Version of record:
+- Issue date:
+- DOI: https://doi.org/10.1038/s41562-025-02259-6
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Final Results** Six-Month 4DWB Pilot 
+
+
+
+
+
+<!-- Start of picture text -->
+MITIGATIMPACTO NO BEM-ESTARON OF WELL-BEING OFFENDERS<br>Work is reduction of  Morning exhaustion reduction of<br>emotionallydraining  49.8% having to go to work thinking about 64.7%<br>Frequently redução de  Feels that each reduction of<br>hour of work is<br>exhausted by the 66.1%<br>49.5% slow to pass<br>end of the workday<br>reduction of<br>Frequent frustration reduction of  Frequent feeling<br>with work  of fatigue 36.2%<br>65.5%<br><!-- End of picture text -->
+
+The data indicate a significant mitigation of factors negatively affecting employee well-being with the implementation of the 4 day week when comparing the start (December 2023) and the end of the pilot (July 2024). 
+
+There was a 49.8% reduction in the perception that work is emotionally draining, suggesting a decrease in emotional stress. Additionally, 49.5% of employees reported less fatigue by the end of the workday, pointing to improved energy and disposition after work hours. 
+
+Morning exhaustion thinking about going to work decreased by 64.7%, indicating that employees are starting their day with more enthusiasm and less resistance to work. There was also a 66.1% reduction in the feeling that each hour of work drags on, reflecting greater flow and engagement in daily activities. 
+
+Frustration with work decreased by 65.5%, and the frequent feeling of fatigue diminished by 36.2%, demonstrating an overall improvement in employees' physical and emotional well-being. 
+
+These results suggest that the 4-day workweek is effectively alleviating stress factors and promoting a healthier and more satisfying work environment. 
+
+
+
+**20** 
+
+**3 Final Results** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=51ae2b54e60da70b score=0.000]
+10. Benach, J. et al. Precarious employment: understanding an emerging social determinant of health. *Annu. Rev. Public Health***35** , 229–253 (2014).
+11. Berkman, L. F., Kawachi, I. & Theorell, T. in *Social Epidemiology* (eds. Berkman, L. F., Kawachi, I. & Glymour, M. M.) 153–181 (Oxford Univ. Press, 2014); https://doi.org/10.1093/med/9780195377903.003.0005
+12. Folkard, S. & Lombardi, D. A. Modeling the impact of the components of long work hours on injuries and “accidents”. *Am. J. Ind. Med.***49** , 953–963 (2006).
+13. Giurge, L. M., Whillans, A. V. & West, C. Why time poverty matters for individuals, organisations and nations. *Nat. Hum. Behav.***4** , 993–1003 (2020).
+14. Kalleberg, A. L. *Precarious Lives: Job Insecurity and Well-Being in Rich Democracies* (Polity Press, 2018).
+15. Karasek, R. A. Job Demands, job decision latitude, and mental strain: implications for job redesign. *Adm. Sci. Q.***24** , 285–308 (1979).
+16. Kelly, E. L. & Moen, P. *Overload: How Good Jobs Went Bad and What We Can Do about It* (Princeton Univ. Press, 2021); https://doi.org/10.1515/9780691230801
+17. Link, B. G. & Phelan, J. Social conditions as fundamental causes of disease. *J. Health Soc. Behav* . https://doi.org/10.2307/2626958 (1995).
+18. Marmot, M. G. et al. Health inequalities among British civil servants: the Whitehall II study. *Lancet***337** , 1387–1393 (1991).
+19. Marmot, M. Social determinants of health inequalities. *Lancet***365** , 1099–1104 (2005).
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Final Results** Six-Month 4DWB Pilot 
+
+
+
+We asked all participants to rate the following aspects on a scale of 1 to 10 on a typical workday: 
+
+
+
+<!-- Start of picture text -->
+79%7.9 60%6.0 76%7.6 92%9.2<br>Work pace Work pressure Workload Commitment to the<br>company<br>84% 85% 82%<br>8.4 8.5 8.2<br>Productivity Engagement Accomplishment<br>53% 84% 85%<br>5.3 8.4 8.5<br>stress Well-being Satisfaction<br><!-- End of picture text -->
+
+The results provide an interesting and revealing panorama of workplace dynamics. The average rating for the work pace was 7.9, and the workload received a score of 7.6, indicating a manageable workload even with a 20% reduction in working hours. 
+
+On the other hand, work pressure had an average score of 6.0, and the level of stress was relatively low, with an average of 5.3. This suggests a work environment that, although challenging, is not excessively stressful for employees. 
+
+Regarding productivity, employees demonstrated efficiency, achieving an average score of 8.4. This high level of productivity is complemented by an equally high engagement level, rated at 8.5, suggesting that employees are not only working effectively but are also deeply engaged in their tasks. 
+
+
+
+**16** 
+
+**3 Final Results** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=51ae2b54e60da70b score=0.000]
+1. *Amid Spiking Burnout, Workplace Flexibility Fuels Company Culture and Productivity Winter Snapshot* (Future Forum, 2023); https://futureforum.com/wp-content/uploads/2023/02/Future-Forum-Pulse-Report-Winter-2022-2023.pdf (2023).
+2. *State of the Global Workplace Report* (Gallup, 2023); https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx
+3. *ManpowerGroup Talent Shortage Study* (Manpower Group, 2023); https://go.manpowergroup.com/talent-shortage
+4. Organization for Economic Co-operation and Development. *Other Labor Market Measures: Job Vacancies: Total: Unfilled Vacancies (Stock) for United States* (FRED, Federal Reserve Bank of St. Louis, 2023); https://fred.stlouisfed.org/series/LMJVTTUVUSM647S
+5. Penn, R. & Nezamis, E. *Job Openings and Quits Reach Record Highs in 2021, Layoffs and Discharges Fall to Record Lows* (US Bureau of Labor Statistics, 2022); https://www.bls.gov/opub/mlr/2022/article/job-openings-and-quits-reach-record-highs-in-2021.htm
+6. Barrero, J. M., Bloom, N. & Davis, S. J. The evolution of work from home. *J. Econ. Perspect.***37** , 23–49 (2023).
+7. Fan, W. & Moen, P. Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. *Work Occup.***49** , 143–186 (2022).
+8. Fan, W. & Moen, P. Remote/hybrid work in flux: work-place/preference mismatch and adaptations. *Soc. Forces* https://doi.org/10.1093/sf/soaf035 (2025).
+9. Bakker, A. B., Demerouti, E. & Sanz-Vergel, A. Job demands–resources theory: ten years later. *Annu. Rev. Organ. Psychol. Organ. Behav.***10** , 25–53 (2023).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.000]
+62. Zhang, T., Ham, J. & Ren, X. Why exercise at work: development of the office exercise behavior determinants scale. *Int. J. Environ. Res. Public. Health***18** , 2736–2754 (2021).
+63. Hernan, M. A. & Robins, J. M. *Causal Inference: What If* (Taylor and Francis, 2023).
+64. Wooldridge, J. M. *Introductory Econometrics: A Modern Approach* (Cengage, 2025).
+65. Kohler, U., Karlson, K. B. & Holm, A. Comparing coefficients of nested nonlinear probability models. *Stata J.***11** , 420–438 (2011).
+66. Cohen, J. *Statistical Power Analysis for the Behavioral Sciences* (L. Erlbaum Associates, Hillsdale, 1988).
+67. Perlow, L. A. & Kelly, E. L. Toward a model of work redesign for better work and better life. *Work Occup.***41** , 111–134 (2014).
+68. Williams, J. *Unbending Gender: Why Family and Work Conflict and What to Do about It* . (Oxford Univ. Press, 2001).
+69. Gould, R., Ilmarinen, J., Järvisalo, J. & Koskinen, S. *Dimensions of Work Ability: Results of the Health 2000 Survey* (Finnish Centre for Pensions, The Social Insurance Institution, National Public Health Institute, Finnish Institute of Occuptional Health, Helsinki, Finland, 2008).
+70. Thomas, L. T. & Ganster, D. C. Impact of family-supportive work variables on work-family conflict and strain: a control perspective. *J. Appl. Psychol.***80** , 6–15 (1995).
+71. Chen, B. et al. Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motiv. Emot.***39** , 216–236 (2015).
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Final Results** Key Insights 
+
+
+
+<!-- Start of picture text -->
+19 252 80.2% 84.4%<br>companies active participants of employees satisfaction with<br>in the pilot in the pilot responded work<br><!-- End of picture text -->
+
+
+
+
+
+
+
+<!-- Start of picture text -->
+IMPACT AT IMPACT ON<br>WORK WELL-BEING<br><!-- End of picture text -->
+
+**56.6% 87.4%** improvement more energy for in project task completion execution 
+
+**14.5%** reduction in workrelated stress 
+
+**52.6%** improvement in meeting deadlines 
+
+**80.7% 45.9%** improvement in reduction in endcreativity and of-day fatigue innovation 
+
+**30.5%** reduction in weekly anxiety 
+
+**60.3%** improvement in engagement 
+
+
+
+**IMPACT ON HEALTH 72.8%** reduction in frequent workrelated exhaustion 
+
+**43.6%** exercised more than 3x/week **42.0%** increase in those who sleep more than 8 hr/night 
+
+**49.6%** reduction in insomnia 
+
+
+
+**IMPACT IN RELATIONS** 
+
+**71.3%** 
+
+increase in energy for family and friends 
+
+**44.4%** consider better balance between personal and professional life 
+
+**90.1%** increased collaboration 
+
+**49.0%** improvement in the relationship with the leadership 
+
+
+
+**14** 
+
+**3 Final Results** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=51ae2b54e60da70b score=0.000]
+37. Sharif, M. A., Mogilner, C. & Hershfield, H. E. Having too little or too much time is linked to lower subjective well-being. *J. Pers. Soc. Psychol.***121** , 933–947 (2021).
+38. Fox, K. E. et al. Organisational- and group-level workplace interventions and their effect on multiple domains of worker well-being: a systematic review. *Work Stress***36** , 30–59 (2022).
+39. Kelly, E. et al. Getting there from here: research on the effects of work-family initiatives on work-family conflict and business outcomes. *Acad. Manag. Ann.***2** , 305–349 (2008).
+40. Kelly, E. L. et al. Changing work and work–family conflict: evidence from the work, family, and health network. *Am. Sociol. Rev.***79** , 485–516 (2014).
+41. Moen, P. et al. Does a flexibility/support organizational initiative improve high-tech employees’ well-being? Evidence from the work, family, and health network. *Am. Sociol. Rev.***81** , 134–164 (2016).
+42. Barck-Holst, P., Nilsonne, Å., Åkerstedt, T. & Hellgren, C. Reduced working hours and stress in the Swedish social services: a longitudinal study. *Int. Soc. Work***60** , 897–913 (2017).
+43. Haraldsson, G. D. & Kellam, J. *Going Public; Icelands Journey to a Shorter Working Week* (Autonomy, 2021); https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf
+44. Kamerāde, D., Wang, S., Burchell, B., Balderson, S. U. & Coutts, A. A shorter working week for everyone: how much paid work is needed for mental health and well-being? *Soc. Sci. Med.***241** , 112353 (2019).
+45. Moen, P. & Chu, Y. Time work in the office and shop: workers’ strategic adaptations to the 4-day week. *Work Occup.***51** , 607–633 (2024).
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Conclusion** Final Perspective 
+
+The 4 day week pilot in Brazil revealed significant results and provided valuable insights into the feasibility and impact of this innovative approach. The project, which began with a preparatory phase in September 2023 and advanced to practical implementation between January and July 2024, demonstrated a promising outlook for the adoption of a reduced work model. 
+
+The 4 day week pilot is not merely about reducing working hours but rather involves a transformation in time usage, a redesign of work activities, and a reorganization of work routines. This experiment aims to optimize efficiency and employee well-being by promoting a balance between personal and professional life without compromising productivity or salaries. 
+
+The collected data indicates a positive consensus regarding the benefits of the 4 day workweek. High leadership in 84.6% of participating companies recognized that the pilot brought substantial improvements to the organization, particularly in areas such as recruitment capability and optimization of internal processes. The reduction in employee burnout and insomnia, along with increased levels of satisfaction and well-being, reflects the positive impact of the reduced workweek on work quality of life. Furthermore, the flexibility in the implemented model allowed most companies to adjust their operations without the need for new hires, indicating an efficient adaptation to new working conditions. 
+
+Analysis of data on employee well-being and mental health revealed that 72.8% of participants reported a reduction in frequent burnout, and 49.6% observed a significant decrease in insomnia or other sleep issues. The average sleep duration increased from 6.7 hours to 7.0 hours per night, indicating an improvement in sleep quality. Additionally, 43.6% of employees started exercising more than three times a week, and 42.0% reported an increase in the amount of sleep exceeding eight hours per night, demonstrating a positive trend in healthy habits. 
+
+
+
+**39** 
+
+**5 Conclusion** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=51ae2b54e60da70b score=0.000]
+28. Hulshof, C. T. et al. The effect of occupational exposure to ergonomic risk factors on osteoarthritis of hip or knee and selected other musculoskeletal diseases: a systematic review and meta-analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury. *Environ. Int.***150** , 106349 (2021).
+29. Kleiner, S., Schunck, R. & Schömann, K. Different contexts, different effects? Work time and mental health in the United States and Germany. *J. Health Soc. Behav.***56** , 98–113 (2015).
+30. Watanabe, K., Imamura, K. & Kawakami, N. Working hours and the onset of depressive disorder: a systematic review and meta-analysis. *Occup. Environ. Med.***73** , 877–884 (2016).
+31. Virtanen, M. et al. Long working hours and depressive symptoms: systematic review and meta-analysis of published studies and unpublished individual participant data. *Scand. J. Work Environ. Health***44** , 239–250 (2018).
+32. Fan, W. et al. Constrained choices? Linking employees’ and spouses’ work time to health behaviors. *Soc. Sci. Med.***126** , 99–109 (2015).
+33. Nomaguchi, K. M. & Bianchi, S. M. Exercise time: gender differences in the effects of marriage, parenthood, and employment. *J. Marriage Fam.***66** , 413–430 (2004).
+34. Berniell, I. & Bietenbeck, J. The effect of working hours on health. *Econ. Hum. Biol.***39** , 100901 (2020).
+35. Lepinteur, A. The shorter workweek and worker wellbeing: evidence from Portugal and France. *Labour Econ.***58** , 204–220 (2019).
+36. Hamermesh, D. S., Kawaguchi, D. & Lee, J. Does labor legislation benefit workers? Well-being after an hours reduction. *J. Jpn Int. Econ.***44** , 1–12 (2017).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.000]
+45. Moen, P. & Chu, Y. Time work in the office and shop: workers’ strategic adaptations to the 4-day week. *Work Occup.***51** , 607–633 (2024).
+46. Persson, O., Larsson, J. & Nässén, J. Working less by choice: what are the benefits and hardships?. *Sustain. Sci. Pract. Policy***18** , 81–96 (2022).
+47. Schiller, H. et al. The impact of reduced worktime on sleep and perceived stress—a group randomized intervention study using diary data. *Scand. J. Work Environ. Health***43** , 109–116 (2017).
+48. Schiller, H. et al. Total workload and recovery in relation to worktime reduction: a randomised controlled intervention study with time-use data. *Occup. Environ. Med.***75** , 218–226 (2018).
+49. Mullens, F. & Laurijssen, I. An organizational working time reduction and its impact on three domains of mental well-being of employees: a panel study. *BMC Public Health***24** , 1727–1740 (2024).
+50. Voglino, G. et al. How the reduction of working hours could influence health outcomes: a systematic review of published studies. *BMJ Open***12** , e051131 (2022).
+51. Cho, S.-S., Ju, Y., Paek, D., Kim, H. & Jung-Choi, K. The combined effect of long working hours and low job control on self-rated health. *J. Occup. Environ. Med.***60** , 475–480 (2017).
+52. Kato, R., Haruyama, Y., Endo, M., Tsutsumi, A. & Muto, T. Heavy overtime work and depressive disorder among male workers. *Occup. Med.***64** , 622–628 (2014).**8** .
+53. Kristensen, T. S., Borritz, M., Villadsen, E. & Christensen, K. B. The Copenhagen Burnout Inventory: a new tool for the assessment of burnout. *Work Stress***19** , 192–207 (2005).
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Final Results** Six-Month 4DWB Pilot 
+
+
+
+###### **IMPACT ON WORK** 
+
+
+
+<!-- Start of picture text -->
+Decrease Remained the same Increase<br>Ritmo de TrabalhoWork pace<br>Volume de TrabalhoWork volume<br>Work pressurePressão no Trabalho<br>Nível de engajamentoEngagement<br>ProductivityProdutividade<br>Comprometimento com a empresa<br>Commitment<br>0 20 40 60 80 100<br><!-- End of picture text -->
+
+Nearly half of the participants (48.2%) perceived an increase in their work pace, while 46.6% noticed stability. The volume of work remained constant for 77.9%, with only 1.0% reporting a decrease. Work pressure remained the same for 65.6%, but 20.1% felt an increase. The level of engagement increased for 60.3% of participants, and productivity significantly increased for 71.5%. Commitment to the company also increased for 65.5%. 
+
+The collected data indicates that the implementation of the 4 day week brought positive results. Employee productivity and engagement increased significantly, suggesting greater satisfaction and motivation. Commitment to the company also grew, indicating potential strengthening of employee loyalty. Although nearly half perceived an increase in their work pace, work pressure decreased for a significant portion, suggesting that the reduced week did not necessarily increase stress. The stability in work volume for the majority of participants indicates that responsibilities can be effectively managed within a 4 day week. 
+
+
+
+**15** 
+
+**3 Final Results** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Next Steps** End of Pilot 
+
+We are excited to expand the study to include more companies interested in testing the 4 day week. 
+
+The preparatory phase for this new round of testing is planned for the end of the second semester, with the start of a new six-month pilot in 2025. 
+
+This expansion will allow for a more comprehensive and diverse analysis of companies across Brazil, further strengthening our understanding of how the 4 day week can be effectively implemented in various organizational contexts. 
+
+With these next steps, we remain committed to fostering a more balanced and productive work environment, benefiting both employees and companies. 
+
+
+
+**43** 
+
+**Team and 7 Partners** 
+
+
+
+
+
+
+
+
+
+
+
+**7 Team and Partners** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Qualitative Perception** by Senior Leadership 
+
+#### **Improvement in employee well-being** 
+
+Overall, leaders widely agreed that employee well-being has improved. The reduced workweek provided more time for personal activities, leisure, and rest, resulting in less stress and higher job satisfaction. Leaders reported that teams feel more energized and motivated. 
+
+#### **Attraction and retention of talent** 
+
+As expected by some companies, the implementation of the reduced workweek has become a competitive advantage in attracting and retaining talent. Companies have observed an increase in interest from qualified candidates and a lower turnover of current employees. The 4-day workweek policy is seen as a highly valued benefit. In one company, an employee who left for a position abroad ended up negotiating a return. 
+
+### **Challenges** 
+
+#### **Employees with different adaptation levels** 
+
+Some leaders highlight that certain employees and/or teams adapted more easily to the project, with noticeable variation. On one hand, the reduction in hours allows for the identification of low performance, while on the other hand, there seem to be employee profiles that better fit the reduced workweek reality. For one company leader, more senior employees adapt better to the reduced hours routine, while junior employees face more challenges. Sometimes, managers report that with the need to deliver within shorter deadlines, the results were not ideal and required rework. 
+
+#### **Thursday is NOT the new Friday** 
+
+One challenge raised by leaders is maintaining productivity on Thursdays, for companies that adopted the model with Friday as the day off. Sometimes, it feels as if the usual productivity drop on Fridays (which leads some companies to adopt a 'short Friday') gets shifted to Thursday. 
+
+
+
+**35** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Final Results** Six-Month 4DWB Pilot 
+
+
+
+###### **IMPACT ON WORK: Leader and Employee** 
+
+
+
+<!-- Start of picture text -->
+Decrease Remained the same Increase<br>Ritmo de TrabalhoWork pace<br>Volume de TrabalhoWorkload<br>Work pressure Pressão no Trabalho<br>Nível de engajamentoEngagement<br>ProductivityProdutividade<br>Comprometimento com a empresa<br>Commitment<br>0 20 40 60 80 100<br>Decrease Remained the same Increase<br>Ritmo de TrabalhoWork pace<br>Volume de TrabalhoWorkload<br>Work pressure Pressão no Trabalho<br>Nível de engajamentoEngagement<br>ProductivityProdutividade<br>Comprometimento com a empresaCommitment<br>0.0% 20.0% 40.0% 60.0% 80.0% 100.0%<br>Leadership<br>Employee<br><!-- End of picture text -->
+
+Both leaders and employees reported similar experiences in work pace and workload, with a slight increase for employees. Work pressure decreased more for employees. Engagement and productivity increased for both, with leadership showing a slightly higher increase in productivity. Leadership also demonstrated greater commitment to the company. The stability in work pressure among leadership may indicate a better adaptation to the new work format. 
+
+
+
+**18** 
+
+**3 Final Results** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Next Steps** End of Pilot 
+
+As we conclude the final phase of the 4 day week pilot, we plan to continue monitoring and evaluating the impacts of this initiative. A survey will be conducted one year after the pilot's start, allowing us to capture long-term data and understand the ongoing effects of this change in work routines. 
+
+To celebrate the positive data and advancements achieved, we will organize a meeting with the leadership of the participating companies. This event will be an opportunity to share experiences, discuss the challenges faced, and highlight the best practices that emerged during the pilot. Additionally, it will be a moment to recognize and celebrate the benefits achieved in terms of employee well-being, productivity, and engagement. 
+
+We appreciate the trust and congratulate the pioneering companies participating in the 4 Day Week Brazil program. This includes those that remain engaged in the pilot program, as well as our partners Clementino & Teixeira Advocacia, WeWork, FGV-EAESP, Reconnect Happiness at Work & Human Sustainability, and 4 Day Week Global. 
+
+. Ab Aeterno 
+
+- . Clara Associados 
+
+- . Clementino & Teixeira Advocacia 
+
+- . GR Assessoria Contábil 
+
+. Greco Design 
+
+- . Haze Shift 
+
+- . Hospital Indianópolis 
+
+- . Innuvem 
+
+- . Inspira 
+
+   - . Mol Impacto 
+
+   - . Noono 
+
+   - . Oxygen Hub 
+
+   - . PiU Comunica 
+
+   - . Plongê 
+
+   - . Rede Alimentare 
+
+   - . Smart Duo 
+
+   - . Soma CSC  (Grupo Dreamers) 
+
+   - . thanks for sharing 
+
+- . Maker Brands 
+
+
+
+**42** 
+
+**6 Next Steps** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=ead9fd3b4c80cdae score=0.000]
+# **Team** 
+
+## 4 Day Week 
+
+
+
+<!-- Start of picture text -->
+been  an<br>Strategic Rita Fontinha<br>Phd., Associate<br>Professor of Strategic<br>Human Resource<br>Management<br>co-authoring<br>Human<br><!-- End of picture text -->
+
+Dr. Rita Fontinha has been an Associate Professor of Strategic Human Resource Management at Henley Business School, University of Reading, since 2015, and the Director of the Flexibility Research Hub at the World of Work Institute. She has published several articles and book chapters, including co-authoring Research Methods in Human Resource Management. 
+
+
+
+<!-- Start of picture text -->
+Pedro Gomes<br>Phd., Professor<br>of Economics<br><!-- End of picture text -->
+
+Professor Dr. Pedro Gomes has been a Professor of Economics at Birkbeck, University of London, since 2017. Previously, he was an Assistant Professor at Carlos III University of Madrid and worked at the European Central Bank and the Bank of England. He earned his PhD from LSE in 2010, supervised by Christopher Pissarides. He published the book Friday is the New Saturday in 2021, which was acclaimed by the Financial Times and translated into several languages. 
+
+
+
+**47** 
+
+**7 Team and Partners** 
+
+4DWB FINAL REPORT
+
+---
+
+[referencia=51ae2b54e60da70b score=0.000]
+54. Idler, E. L. & Benyamini, Y. Self-rated health and mortality: a review of twenty-seven community studies. *J. Health Soc. Behav.***38** , 21–37 (1997).
+55. Pituch, K. A. & Stapleton, L. M. Distinguishing between cross- and cluster-level mediation processes in the cluster randomized trial. *Sociol. Methods Res.***41** , 630–670 (2012).
+56. Rudolph, C. W., Katz, I. M., Lavigne, K. N. & Zacher, H. Job crafting: a meta-analysis of relationships with individual differences, job characteristics, and work outcomes. *J. Vocat. Behav.***102** , 112–138 (2017).
+57. Demerouti, E. & Peeters, M. C. W. Transmission of reduction‐oriented crafting among colleagues: a diary study on the moderating role of working conditions. *J. Occup. Organ. Psychol.***91** , 209–234 (2018).
+58. Demerouti, E., Soyer, L. M. A., Vakola, M. & Xanthopoulou, D. The effects of a job crafting intervention on the success of an organizational change effort in a blue‐collar work environment. *J. Occup. Organ. Psychol.***94** , 374–399 (2021).
+59. Johnson, J. V. & Hall, E. M. Job strain, work place social support, and cardiovascular disease: a cross-sectional study of a random sample of the Swedish working population. *Am. J. Public Health***78** , 1336–1342 (1988).
+60. Kelly, E., Moen, P. & Tranby, E. Changing workplaces to reduce work–family conflict. *Am. Sociol. Rev.***76** , 265–290 (2011).
+61. Baumeister, R. F. & Leary, M. R. The need to belong: desire for interpersonal attachments as a fundamental human motivation. *Psychol. Bull.***117** , 497–529 (1995).

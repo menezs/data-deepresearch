@@ -1,0 +1,315 @@
+[referencia=0a797fc5e6aca167 score=0.853]
+###### **(i) Duration** 
+
+To avoid the effective result of an outright assignment, the Office suggests limiting licenses (other than those collectively bargained) to a relatively short term, such as five or ten years.<sup>254</sup> Parties that wish to continue the licensing arrangement could subsequently renegotiate it—allowing for consideration of changed circumstances, including bargaining power. 
+
+In adopting a time limitation, care should be taken not to block the ongoing use of content produced lawfully during the period of the license.  In creative industries, an owner of digital replica rights is often not the owner of the copyrighted works that incorporate that replica.  Similarly, the licensed digital replica may be incorporated into a product that the licensee has invested in with a reasonable expectation of continued distribution, such as packaging or labeling of consumer goods.<sup>255</sup> 
+
+Accordingly, we believe that the lapse of a digital replica license should bar only new uses after the expiration of the license period.  In other words, if a singer consents to a record label using a digital replica of her voice for a period of years, when that period ends, the label would be prohibited from making new recordings using a digital replica (absent a subsequent 
+
+> 253 _See_ 2 J. THOMAS MCCARTHY & ROGER E. SCHECHTER, THE RIGHTS OF PUBLICITY AND PRIVACY §§ 10:1, 10:2 (2d ed. 2024). 
+
+> 254 Jennifer Rothman Initial Comments at 6; _see, e.g._ , CAL. LAB. CODE § 2855(a) (West 2024) (“a contract to render personal service, other than a contract of apprenticeship . . . may not be enforced against the employee beyond seven years from the commencement of service under it”). 
+
+> 255 For example, a company’s trademark or product packaging may include the image of an individual, such as Gerber’s use of an image of a baby on its baby food packaging, or General Mills’ use of images of athletes on its Wheaties cereal boxes. 
+
+41 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+agreement).  It could, however, continue distribution of recordings that were prepared during the contractual period.<sup>256</sup>
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.808]
+The Office believes that digital replica rights in an individual’s voice satisfy this test.  An individual’s voice, unlike a particular sound recording that may capture it, “does not come within the subject matter of copyright.”<sup>312</sup> It is the product of biology, nature, environment, and, in the case of performers, training, skill, and talent.  It is not an “original work[] of authorship,”<sup>313</sup> or “fixed in any tangible medium of expression . . . from which [it] can be perceived, reproduced, or otherwise communicated.”<sup>314</sup> 
+
+Copyright and digital replica rights serve different policy goals; they should not be conflated.  Section 114(b) shields vocal imitations and other soundalike recordings against claims of copyright infringement.  But nothing indicates that Congress intended for this limitation on copyright to deprive individuals of rights in their unique voices, whether under state right of publicity laws or a new federal statute.<sup>315</sup> To avoid unnecessary confusion or carve outs like the limitations in the New York and Louisiana laws discussed above, the Office recommends that Congress clarify in express terms that section 114(b) does not preempt state laws or affect a new federal right protecting an individual’s voice. 
+
+> 309 _See_ LA. STAT. ANN. § 51:470.2(4) (2024); N.Y. CIV. RIGHTS LAW § 50-f(1)(c) (McKinney 2024) (“A digital replica does not include . . . the making or duplication of another recording that consists entirely of the independent fixation of other sounds, even if such sounds imitate or simulate the voice of the individual.”). 
+
+310 17 U.S.C. § 301(b)(1), (3). 
+
+> 311 H.R. REP. NO. 94-1476, at 132 (1976). 
+
+> 312 _See_ 17 U.S.C. § 301(b)(1). 
+
+> 313 _See id._ § 102(a). _Cf._ U.S. COPYRIGHT OFFICE, COMPENDIUM OF U.S. COPYRIGHT OFFICE PRACTICES § 906.7 (3d Ed. 2021) (“Because human authorship is required for copyright protection, the U.S. Copyright Office will not register naturally occurring objects or materials that are discovered in nature.”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.801]
+## **I. INTRODUCTION** 
+
+This Part of the Copyright Office’s Report on Copyright and Artificial Intelligence addresses the use of copyrighted works in the development of generative AI systems.  The groundbreaking technologies involved draw on massive troves of data,<sup>1</sup> including copyrighted works, to enable the extraordinary capabilities they now offer to the public.  Do any of the acts involved require the copyright owners’ consent or compensation?  And to the extent they do, how can that feasibly be accomplished? 
+
+These issues are the subject of intense debate.  Dozens of lawsuits are pending in the United States, focusing on the application of copyright’s fair use doctrine. Legislators around the world have proposed or enacted laws regarding the use of copyrighted works in AI training, whether to remove barriers or impose restrictions. 
+
+The stakes are high, and the consequences are often described in existential terms.  Some warn that requiring AI companies to license copyrighted works would throttle a transformative technology, because it is not practically possible to obtain licenses for the volume and diversity of content necessary to power cutting-edge systems.  Others fear that unlicensed training will corrode the creative ecosystem, with artists’ entire bodies of works used against their will to produce content that competes with them in the marketplace.  The public interest requires striking an effective balance, allowing technological innovation to flourish while maintaining a thriving creative community. 
+
+Pursuant to the Register of Copyrights’ statutory responsibility to “[c]onduct studies” and “[a]dvise Congress on national and international issues relating to copyright,”<sup>2</sup> the Office published a Notice of Inquiry (NOI) in August 2023 posing a series of questions about copyright and AI.  These included technical questions about how copyrighted works are collected, curated and used in training AI models,<sup>3</sup> legal questions about the application of the fair use doctrine,<sup>4</sup> and factual questions about existing or potential licensing arrangements.<sup>5</sup> 
+
+1 We use the terms “data” and “dataset” here as shorthand for all types of content used in generative AI training, including copyrighted works.  It is important to stress, however, that the works are not merely “data” in the ordinary sense, as they embody creative expression constituting protected authorship.
+
+---
+
+[referencia=a5ab084a52257129 score=0.766]
+263 The decision to train on expressive works when there are available alternatives may itself reflect a lack of transformative purpose.  For example, an image model could be trained on mass image data collected through automated means (street-view cars, body cameras, security cameras), yet developers often choose aesthetic images such as stock photography.  This suggests the purpose is not simply to generate images of the physical world, but to generate images that have expressive qualities like the originals. 
+
+264 As described above, the strength of generative pre-trained language models is their ability to perform well on a variety of tasks when given natural language directions. _See supra_ notes 39–41, 102–103. 
+
+Pre-Publication Version 
+
+46 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+copyrighted works or even refuses to generate expressive works.  Where such restrictions are effective, the system will be less capable of fulfilling the purpose of the original works, and their use in training may be more transformative. 
+
+The use of copyrighted works by RAG<sup>265</sup> requires separate consideration.  Unlike pretraining where a large, diverse dataset is used to train a model for a wide variety of tasks, RAG retrieves individual works because they are relevant to a user’s prompt, for the purpose of enhancing the response.  The use of RAG is less likely to be transformative where the purpose is to generate outputs that summarize or provide abridged versions of retrieved copyrighted works, such as news articles, as opposed to hyperlinks.<sup>266</sup> 
+
+In providing this analysis, the Office rejects two common arguments about the transformative nature of AI training.  As noted above, some argue that the use of copyrighted works to train AI models is inherently transformative because it is not for expressive purposes.<sup>267</sup> We view this argument as mistaken.  Language models are trained on examples that are hundreds of thousands of tokens in length, absorbing not just the meaning and parts of speech of words, but how they are selected and arranged at the sentence, paragraph, and document level—the essence of linguistic expression.<sup>268</sup> Image models are trained on curated datasets of aesthetic images because those images lead to aesthetic outputs.<sup>269</sup> Where the
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.650]
+#### **3. Private Agreements** 
+
+Beyond these statutory and common law protections, private contracts can be negotiated to govern the use of individuals’ names or likenesses.  Performer service agreements, for example, often include terms proscribing whether and how the other contracting party can use the performer’s identity.  These usually cover use of the performer’s name, image, voice, or likeness for the purpose of promoting the works in which the performer appeared.<sup>128</sup> They may be structured to allow only limited uses, for instance through time-limited grants and restrictions to a particular performance or context, or they may grant broad control, such as an assignment in perpetuity on an exclusive basis.<sup>129</sup> With the advent of AI, some agreements now include specific terms for the use of digital replicas.  Talent agency WME, for example, described deals for the use of its clients’ likenesses and personalities in connection with AI experiences and products.<sup>130</sup> 
+
+In the entertainment field, collective bargaining agreements that establish baseline employment terms have begun to include provisions on the treatment of AI-generated replicas. In December 2023, SAG-AFTRA ratified a multi-year agreement with the Alliance of Motion Picture and Television Producers (“AMPTP”) that incorporates new provisions related to the 
+
+> 127 _FCC Makes AI-Generated Voices in Robocalls Illegal_ , FCC (Feb. 8, 2024), https://docs.fcc.gov/public/attachments/DOC400393A1.pdf. 
+
+> 128 2 J. THOMAS MCCARTHY & ROGER E. SCHECHTER, THE RIGHTS OF PUBLICITY AND PRIVACY § 10:48 (2d ed. 2024) (“When an actor or performer contracts with a producer to perform in a motion picture or record a phonorecord, the actor or performer commonly signs a contract which includes a ‘grant of rights’ clause.  A ‘grant of rights’ clause typically assigns copyright in the work to the producer and exclusively licenses the producer to use the actor or performer’s identity in advertising and promotion of the work.”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.606]
+Pre-Publication Version 
+
+29 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+works” or outputs that are “similar enough … to be infringing derivative works.”<sup>173</sup> In _Andersen v. Stability AI_ , by contrast, the court denied a motion to dismiss filed by a third party that was not involved in the training process but had downloaded and used an already-trained model.<sup>174</sup> It found sufficient allegations that copies or protected elements remained, in some format, within the model.<sup>175</sup> The court distinguished _Kadrey_ on the ground that the “necessary allegations regarding the products’ training and operations, [were] materially different.”<sup>176</sup> 
+
+The Office agrees with this distinction.  Whether a model’s weights implicate the reproduction or derivative work rights turns on whether the model has retained or memorized substantial protectable expression from the work(s) at issue.<sup>177</sup> As discussed above, the use of those works in preparing a training dataset and training a model implicates the reproduction right, but copying the resulting weights will only infringe where there is substantial similarity.<sup>178</sup>
+
+---
+
+[referencia=a5ab084a52257129 score=0.599]
+246 IBM Initial Comments at 4 (“A contrary finding would severely limit the data available for foundation model training and significantly encumber AI development, thereby impeding the useful arts and sciences.”). 
+
+> 247 _See_ NMPA Initial Comments at 16 (“[T]he use of musical works to train AI models is done for the purpose of creating new musical works that serve purposes that are substantially the same as those of the originals.  If such a purpose could be considered ‘transformative’ it would make the copying of any musical work to create a new musical work a ‘transformative’ fair use, a notion the Supreme Court rejected.”); Evangelical Christian Publishers Association (“ECPA”) Initial Comments at 4; Center for Art Law Initial Comments at 3 (“Center for Art Law Initial Comments”); _see also_ Graphic Artists Guild Initial Comments at 10; New York Times Initial Comments at 4; Writers Guild of America (“WGA”) Initial Comments at 2; AP Initial Comments at 2–3. 
+
+> 248 _See_ A2IM-RIAA Joint Initial Comments at 15 (“We believe that AI models store representations of all or part of our recordings within their models, even if this is in compressed form.”); John Patterson Initial Comments at 1 (“[T]he ability of generative AI to store works as ‘training’ is just a more sophisticated form of compression.”). 
+
+> 249 UMG Initial Comments at 12–13. _See_ Getty Images Reply Comments at 7–8. 
+
+> 250 _See, e.g._ , AAP Initial Comments at 15–17 (“No one specific work will be necessary for [machine learning], and developers will generally have a range of substitutes or alternatives that achieve the same purpose. . . .  Thus, the justification for using copyrighted works in training AI models is negligible.”); Copyright Alliance Initial Comments at 58–60 (“[S]imply because licensing is not a financially desirable avenue for AI developers does not mean unauthorized use is justified.”). 
+
+Pre-Publication Version 
+
+43 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training**
+
+---
+
+[referencia=a5ab084a52257129 score=0.583]
+Pre-Publication Version 
+
+88 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+“Arguments that it is too expensive do not justify the use [without permission].  AI companies are spending millions and even billions on development and computing power.  Why should the authors’ contribution be free for the taking when generative AI is nothing without the works it is trained on?”<sup>496</sup> In the Copyright Alliance’s view, “[t]he idea that just because it may be harder to get consent from copyright owners when large volumes of works are being used, it is therefore not infringement, would simply incentivize infringers to illegally copy more as a means for avoiding infringement—that cannot possibly be the law.”<sup>497</sup> 
+
+These commenters also disputed the factual premise that voluntary licensing is infeasible.  Getty Images asserted that “[l]icenses to scaled quantities of content and metadata required to train Generative AI Models are already readily available,” and “[t]he claim by some developers that there is no way to get consent from copyright holders given the quantity of materials needed to train AI Models is simply untrue.”<sup>498</sup> It stated that “[t]here is an established market for training data, and there is a growing body of high-quality Generative AI Models that have been trained on content licensed for that purpose.”<sup>499</sup> 
+
+Commenters also pointed out that AI licensing deals are already occurring,<sup>500</sup> pointing to a growing number of examples of fully licensed models in certain sectors and for certain purposes.  Some AI developers describe their companies, products, and models as relying exclusively on owned or licensed data,<sup>501</sup> and at least one organization, Fairly Trained, has 
+
+(“It is deeply ironic that these billion-dollar companies bemoan the financial burden they would face if they were required to pay reasonable license fees to the copyright owners whose works are the very building blocks of Gen AI and whose livelihoods are threatened by the same systems.”). 
+
+496 Authors Guild Reply Comments at 4. 
+
+497 Copyright Alliance Initial Comments at 72. 
+
+498 Getty Images Initial Comments at 20.
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.556]
+#### **4. Relationship to Section 114(b) of the Copyright Act** 
+
+The Office’s NOI inquired about the relationship between section 114(b) of the Copyright Act and state law protections against unauthorized digital replicas of voices in sound recordings.<sup>303</sup> Section 114(b) states that the copyright owner’s reproduction and derivative work rights in a sound recording are limited to uses that appropriate “the actual sounds fixed in the recording,” and “do not extend to the making or duplication of another sound recording that consists entirely of an independent fixation of other sounds, even though such sounds imitate or 
+
+> 301 _See_ J. THOMAS MCCARTHY, 3 MCCARTHY ON TRADEMARKS AND UNFAIR COMPETITION §§ 1:18, 22:1 (5th ed. 2024). 
+
+> 302 _See supra_ notes 295–96. 
+
+> 303 <mark>NOI at 59948.</mark> 
+
+50 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+simulate those in the copyrighted sound recording.”<sup>304</sup> The provision was intended to clarify that “mere imitation” of a copyrighted sound recording does not constitute infringement.<sup>305</sup> 
+
+Because section 114(b) permits imitation or simulation of sounds (including an individual’s voice) in the context of a sound recording copyright, some have questioned whether it might preempt state laws that prohibit an unauthorized replica of someone’s voice used in a sound recording.  Several commenters noted this issue, with one stating that “legislative attention might be necessary to address potential conflicts and gaps in the law” to clarify these relationships.<sup>306</sup> 
+
+Only a few courts have analyzed whether section 114(b) preempts a state right of publicity claim based on the imitation of an individual’s voice, with varying results.  While the Ninth Circuit has twice rejected preemption in cases involving claims for voice
+
+---
+
+[referencia=a5ab084a52257129 score=0.521]
+> 310 _Campbell_ , 510 U.S. at 587. 
+
+> 311 _See_ NMPA Initial Comments at 10 (“When a pre-existing work is used to train an AI model, it is analyzed in its entirety.  For some models, developers will compress each training example into a compact representation and then cause the developing model to predictively reconstruct it.“); Karla Ortiz Initial Comments (“I found that almost the entire body of my work, the work of almost every artist I know, and the work of hundreds of thousands of other artists, was taken without our consent, credit or compensation to train these for-profit technologies.”) _;_ Katherine Lee et al. Initial Comments at 100.  Some have argued that generative AI training in fact uses little of the training data. _See_ Meta Initial Comments at 15 (stating the process “meant to extract, relatively speaking, a miniscule amount of information from each piece of training data.”); Oren Bracha, _The Work of Copyright in the Age of Machine Production_ , UNIV. OF TEXAS LAW 1, 25 (last updated Feb. 16, 2024), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4581738 (arguing that what developers take in the training process is not protectible expression at all but a form of “meta information” about the works).  As discussed above, however, the Office finds that the training process regularly uses expressive elements of the underlying works. _See supra_ text accompanying notes 268–71. 
+
+312 4 NIMMER ON COPYRIGHT § 13F.07 (As a rule, “the more of a copyrighted work that is taken, the less likely the use is to be fair); _Capitol Records v. ReDigi_ , 910 F.3d 649, 662 (2d Cir. 2018) (“[U]se of the entirety of a digital file . . . tends to disfavor a finding of fair use.” (citations omitted)); _Worldwide Church of God v. Philadelphia Church of God, Inc._ , 227 F.3d 1110, 1118 (9th Cir. 2000) (“[C]opying an entire work militates against a finding of fair use. (citations omitted)).
+
+---
+
+[referencia=a5ab084a52257129 score=0.496]
+> 492 _See, e.g._ , AAP Initial Comments at 23 (“The claim that the volume of works used for training makes it burdensome for a Gen AI systems developer to seek permission is not an excuse for infringing on the copyrights and livelihoods of the thousands of authors, publishers, and other artists.”); Graphic Artists Guild Initial Comments at 16 (“The critical issue in obtaining licenses for generative AI for images is the sheer volume of licenses that are required for training.  However, licenses should be obtained as licenses have always been obtained – by negotiating with the visual artist, the visual artist’s agent, or an entity empowered to negotiate on the visual artist’s behalf.”); Monotype Reply Comments at 3 (“The volume of material ingested to train AI models is (or can be) massive . . . ; however, the volume of ingested works should not negate the responsibility of developers of AI models to respect the copyrights of others.  Just because it’s a big job doesn’t mean it shouldn’t be done.”); Getty Images Reply Comments at 10 (“A number of commenters have complained that licensing the use of copyrighted works in training sets would be either impossible, impractical, or unduly expensive because of the sheer number of works some model developers would like use for training purposes.  The scope of infringement in which an infringer would like to engage hardly excuses the infringement.”); Authors Guild Reply Comments at 4 (“It would turn copyright law on its head to hold that a party can avoid liability as long as its infringements are too numerous to account for.”).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.484]
+##### **a) Copyright Act** 
+
+Copyright protects original works of authorship, including the material—photographs or audio or video recordings—from which a digital replica might be constructed.<sup>105</sup> The Copyright Act provides copyright owners with a bundle of exclusive rights, including the rights to reproduce a work and to prepare derivative works.<sup>106</sup> 
+
+Digital replicas that are produced by ingesting copies of preexisting copyrighted works, or by altering them—such as superimposing someone’s face onto an audiovisual work or simulating their voice singing the lyrics of a musical work—may implicate those exclusive rights.<sup>107</sup> If the depicted individual is an owner of the copyrighted work, he or she could have a copyright claim for infringement of the work as a whole.  Copyright does not, however, protect an individual’s identity in itself, even when incorporated into a work of authorship.<sup>108</sup> A replica of their image or voice alone would not constitute copyright infringement. 
+
+**b) Federal Trade Commission Act** 
+
+The Federal Trade Commission Act prohibits “[u]nfair methods of competition in or 
+
+affecting commerce, and unfair or deceptive acts or practices in or affecting commerce.”<sup>109</sup> FTC and their agents may not use deliberately deceptive AI in campaign ads. _Comments sought on amending regulation to include deliberately deceptive Artificial Intelligence in campaign ads_ , FEC (Aug. 16, 2023), https://www.fec.gov/updates/comments-sought-on-amending-regulation-to-include-deliberately-deceptive-artificialintelligence-in-campaign-ads/. 
+
+> 105 _See_ 17 U.S.C. § 102. 
+
+> 106 _Id._ § 106. Under the Copyright Act, a “derivative work” is a work “based upon one or more preexisting works” in which the original is “recast, transformed, or adapted.” _Id._ § 101.  Examples of derivative works in the Act’s definition include, but are not limited to, “a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation.” _Id._ 
+
+107 The Office will address the legal issues involved in use of copyrighted works in AI systems in a subsequent Part of
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.440]
+> 129 _See_ JENNIFER E. ROTHMAN, THE RIGHT OF PUBLICITY 120 (2018); _see also id._ at 122 (“Although many of these voluntary assignments are limited in various ways, to particular time periods, or to the context of telecasts, or to a particular photograph, they are often broader—and can be perpetual and cover all uses of a person’s identity in any context.”). Contract terms made public through litigation provide some examples of the range and breadth of such agreements. _See, e.g._ , _In re Jackson_ , 972 F.3d at 31 (recording agreement granting a label term-limited exclusive rights, and nonexclusive rights thereafter, to use the artist’s name and likeness for advertising and marketing covered sound recordings and videos); _Lugosi v. Universal Pictures_ , 25 Cal. 3d 813, 816 n.2 (Cal. 1979) (grant of rights clause for a film included, in part, the right to use and publicize “the artist’s name and likeness, photographic or otherwise, and to recordations and reproductions of the artist’s voice and all instrumental, musical and other sound effects produced by the artist hereunder, in connection with the advertising and exploitation of said photoplay” (emphasis omitted)). 
+
+130 WME Initial Comments at 2 (“WME has already worked with its clients to negotiate AI-specific deals . . . [such as] a deal to lend Snoop Dogg’s voice to the AI app Artifact, and deals between Meta and WME's clients to lend their likenesses and personalities to a series of AI-powered chatbots.”). 
+
+21 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas**
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.435]
+### **_B. Background of This Study_** 
+
+In early 2023, the Copyright Office announced an initiative to examine the copyright issues raised by AI.  Over the following months, we hosted public listening sessions and engaged in extensive outreach to better understand the issues, including those related to generative AI’s ability to produce digital replicas.<sup>36</sup> 
+
+The topic of digital replicas does not fall neatly under any one area of existing law.  While some characterize it as a form of intellectual property, protection against the use of unauthorized digital replicas raises overlapping issues including privacy, unfair competition, consumer protection, and fraud.  It relates to copyright in a number of ways:  creators such as artists and performers are particularly affected; copyrighted works are often used to produce digital replicas; and the replicas are often disseminated as part of larger copyrighted works. Moreover, the noncommercial harms that may be caused are similar to violations of moral rights protected in part through the copyright system.<sup>37</sup> 
+
+In August 2023, the Office published a Notice of Inquiry on AI and Copyright that sought input on “the treatment of generative AI outputs that imitate the identity or style of human artists,” among other topics.<sup>38</sup> The NOI asked what existing laws apply to AI-generated material that features the voice or likeness of a particular person; whether Congress should enact a new federal law that would protect against unauthorized digital replicas; and, if so, 
+
+> 33 _The NO FAKES Act: Protecting Americans from Unauthorized Digital Replicas: Hearing Before the Subcomm. on Intell. Prop. of the S. Comm. on the Judiciary_ , 118th Cong. (2024) (statement of Duncan Crabtree-Ireland, National Executive Director, SAG-AFTRA). 
+
+> 34 Weekend Edition Sunday, _As Tech Evolves, Deepfakes Will Become Even Harder to Spot_ , NPR (July 3, 2022), https://www.npr.org/2022/07/03/1109607618 (Interview with Professor Hany Farid of U.C. Berkeley). 
+
+> 35 _E.g._ , Weekend Edition Sunday, _As Tech Evolves, Deepfakes Will Become Even Harder to Spot_ , NPR (July 3, 2022), https://www.npr.org/2022/07/03/1109607618 (Interview with Professor Hany Farid of U.C. Berkeley).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.420]
+### **_B. The Need for Federal Legislation_** 
+
+The Copyright Office concludes that new federal legislation is urgently needed. As numerous commenters noted, generative AI technology enables the production and dissemination of digital replicas at a speed and scale that calls for a national response.<sup>137</sup> 
+
+131 Memorandum of Agreement Between the SAG-AFTRA and the AMPTP 60–76 (2023) (“SAG-AFTRA 2023 Agreement”), https://www.sagaftra.org/files/2023_Theatrical_Television_MOA.pdf. 
+
+132 SAG-AFTRA Initial Comments at 1 (“[M]any of our members have identified AI as their number one issue, more important to them than increases in wages or improvements in other working conditions, because it poses an existential threat to their very livelihoods.”). 
+
+133 SAG-AFTRA 2023 Agreement at 60–76. 
+
+> 134 _Id._ at 67. 
+
+135 In January 2024, SAG-AFTRA entered into an agreement with Replica Studios covering the use of digital voice replicas by video game studios, and in April 2024, its members ratified an agreement with several major record labels regarding the use of voice replicas in sound recordings.  Both agreements include provisions regarding consent and compensation. _SAG-AFTRA and Replica Studios Introduce Groundbreaking AI Voice Agreement at CES_ , SAG-AFTRA (Jan. 9, 2024), https://www.sagaftra.org/sag-aftra-and-replica-studios-introduce-groundbreaking-ai-voice-agreement-ces; _SAG-AFTRA Members Ratify 2024 Sound Recordings Code Contract_ , SAG-AFTRA (Apr. 30, 2024), https://www.sagaftra.org/sag-aftra-members-ratify-2024-sound-recordings-code-contract.
+
+---
+
+[referencia=a5ab084a52257129 score=0.412]
+###### 490 Meta Initial Comments at 17. 
+
+> 491 Meta Initial Comments at 20; _see also_ Engine Initial Comments at 8 (“The combination of the need for diverse data sets that could contain anything in the universe of expressive material eligible for copyright protection and the indirect—and even diminishing—value of each individual piece of data that an AI model is trained on, means that no 
+
+Pre-Publication Version 
+
+87 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+Commenters representing copyright owner and creator interests, on the other hand, argued that the costs or difficulty of obtaining licenses for the volume of works required for AI training is not an excuse for failing to do so.<sup>492</sup> They contended that obtaining licenses is simply a cost of doing business,<sup>493</sup> and one that AI companies can afford,<sup>494</sup> especially where their commercial products depend on the use of copyrighted works.<sup>495</sup> Authors Guild stated, 
+
+existing model for large scale licensing can be easily applied to AI training and development.  Existing collective licensing mechanisms have been most successful in the context of homogeneous transactions among repeat players with similar preferences, which does not describe the way AI models interact with copyrighted material or the state of the AI ecosystem.”) (internal quotation marks omitted); _cf._ CCIA Initial Comments at 11 (“[w]hile obtaining permission from, e.g., songwriters may be viable through existing collective licensing groups, training data in less common languages or from various subcultures are far less likely to be organized and the appropriate entity to contact for permission may even be impossible to determine”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.405]
+239 Pamela Samuelson et al. Reply Comments at 14–15. 
+
+> 240 Anthropic Initial Comments at 7. _See also_ IBM Initial Comments at 4 (“The material is not being used for its expression, and the foundation model is not being trained to reproduce or compete with the original content.”); Pamela Samuelson et al. Initial Comments at 14–15 (“Moreover, the non-expressive use of copyrighted works by generative AI use does not usurp the copyright owner’s interest in communicating her original expression to the public because that expression is not communicated.”); BSA Initial Comments at 7; C4C Initial Comments at 3 (“[Fair use] allows for copying for non-expressive (or non-consumptive) uses. . . . Copyrighted works used as input in AI models become part of a data set. They become tokens that integrate in a data collection and copyright protection does not apply to facts or ideas.”). 
+
+241 Google Initial Comments at 11. 
+
+242 TechNet Initial Comments at 11 (Oct. 30, 2023) (“[T]he fact that the works on which a model has been trained cannot be readily be determined by users of that model is proof that training works . . . is not meant to replicate the content of the works but to simply extract the unprotectable elements of those works.”); _cf._ Meta Initial Comments at 15–16 (“The purpose of the models is to extract enough _statistical_ information about language and abstract concepts to enable the creation of _new_ content—not to capture and reproduce expressive material from the training data itself.”); Univ. of Ill. Urbana Initial Comments at 10 (“[M]odels are not created or marketed to reproduce specific works, and do not excel at the task.”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.395]
+resulting model is used to generate expressive content, or potentially reproduce copyrighted expression, the training use cannot be fairly characterized as “non-expressive.”<sup>270</sup> 
+
+Nor do we agree that AI training is inherently transformative because it is like human learning.<sup>271</sup> To begin with, the analogy rests on a faulty premise, as fair use does not excuse all human acts done for the purpose of learning.<sup>272</sup> A student could not rely on fair use to copy all the books at the library to facilitate personal education; rather, they would have to purchase or borrow a copy that was lawfully acquired, typically through a sale or license.<sup>273</sup> Copyright law should not afford greater latitude for copying simply because it is done by a computer. Moreover, AI learning is different from human learning in ways that are material to the copyright analysis.  Humans retain only imperfect impressions of the works they have experienced, filtered through their own unique personalities, histories, memories, and worldviews.  Generative AI training involves the creation of perfect copies with the ability to analyze works nearly instantaneously.  The result is a model that can create at superhuman speed and scale.  In the words of Professor Robert Brauneis, “Generative model training transcends the human limitations that underlie the structure of the exclusive rights.”<sup>274</sup>
+
+---
+
+[referencia=a5ab084a52257129 score=0.382]
+Pre-Publication Version 
+
+92 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+compensation to any individual copyright owner would be negligible due to the volume of works typically used for training.<sup>519</sup> Hugging Face deemed this a “worst of both worlds” scenario, stating that “such a deal would be costly enough to exclude any but the very largest companies from training new models, while still providing negligible additional income to the original data creators.”<sup>520</sup> 
+
+On the other side, commenters argued that these statements ignore the value of compensation accrual over time, which can add up to meaningful amounts.<sup>521</sup> In the words of the Copyright Alliance, “[t]he notion that licensing should not be required because these royalties may be small would turn copyright, and many other licensing models, on its head.”<sup>522</sup> These commenters asserted that AI training can have a positive economic impact on copyright owners,<sup>523</sup> motivating the creation of new works,<sup>524</sup> with one declaring that “[t]he economic consequences of requiring licenses will be to bolster creators, the U.S. economy, and our culture.”<sup>525</sup> Another suggested that if AI companies struggle to compensate rightsholders in the 
+
+> 519 _See, e.g._ , Meta Initial Comments at 20 (“[A]ny fair royalty due would be incredibly small in light of the insignificance of any one work among an AI training set.”); a16z Initial Comments at 10 (“Again, a staggering quantity of individual works is required to train AI models.  That means that, under _any_ licensing framework that provided for more than negligible payment to individual rights holders, AI developers would be liable for tens or hundreds of billions of dollars a year in royalty payments.”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.345]
+Pre-Publication Version 
+
+43 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+A number of commenters opined that when analyzing the purpose and character of an AI developer’s use of copyrighted material, courts should not view the training process in isolation but consider the ultimate use of the model.<sup>251</sup> In addition, one commenter observed that “[d]ifferent stages like pre-training and fine-tuning could . . . raise distinct considerations under the first fair use factor” as “[f]ine-tuning . . . usually narrows down the model’s capabilities and might be more aligned with the original purpose of the copyrighted material.”<sup>252</sup> 
+
+Several commenters disputed the characterization of training on copyrighted works as “non-expressive.”<sup>253</sup> As an initial matter, the MPA observed that courts have never said there is a “non-expressive use” doctrine: “The relevant inquiry is not whether the ‘use’ is ‘expressive’ or ‘non-expressive’; rather, it asks whether the ‘use’ is transformative, as one consideration in the four-factor analysis.”<sup>254</sup> Others rejected the claim that AI training uses only the ideas or facts embodied in a work.<sup>255</sup> In the words of the Authors Guild, “AI companies seek out published books for [training] precisely because of their expressive content, as high-quality, professionally authored works are vital to enabling an LLM to produce outputs that mimic human language, story structure, character development, and themes.”<sup>256</sup> AAP asserted that “Gen AI training . . . does not extract the ideas, facts, or concepts being conveyed by an author, it solely extracts the exact expressive choices made to convey those ideas—i.e., the words an author used, and the order in which they were placed.”<sup>257</sup> These commenters further argued that the cases cited in 
+
+251 _See, e.g._ , Copyright Alliance Reply Comments at 4 (“[T]he purpose of generative AI cannot be considered in a vacuum of ‘training.’”); Brooklyn Law Incubator & Policy Clinic (“BLIP”) Initial Comments at 10; Lee Hollaar Initial Comments at 1; Rightsify Initial Comments at 5. 
+
+252 Seth Polansky Initial Comments at 11.

@@ -1,0 +1,239 @@
+[referencia=db411a1bc376e99b score=0.995]
+With respect to the effectiveness of the vaccines in preventing HPV16 or HPV18 infection that persisted for at least 6 months, the effectiveness of one dose of the bivalent vaccine was 98.2% (95% CI, 96.1 to 99.6), of two doses of the bivalent vaccine was 97.8% (95% CI, 95.6 to 99.3), of one dose of the nonavalent vaccine was 97.0% (95% CI, 94.3 to 99.1), and of two doses of the nonavalent vaccine was 98.5% (95% CI, 96.7 to 99.7) (Table 2 and Fig. S2). In secondary analyses, vaccine effectiveness against HPV16 and HPV18 infection individually was at least 97.1% in each of the four groups (Table 3). The effectiveness of the nonavalent vaccine against the secondary end point of incident, persistent HPV infection with any of the seven carcinogenic HPV types included in the nonavalent vaccine formulation was 94.5% (95% CI, 92.3 to 96.6) for one dose and 95.8% (95% CI, 93.8 to 97.6) for two doses (Table 2). The effectiveness of one and two doses against all the individual HPV types included in the nonavalent vaccine formulation was at least 90%, with the exception of HPV11 (the prevalence of infection with this type in the two-dose group was too low to give a precise estimate of effectiveness) (Table 3). The effectiveness of the bivalent vaccine against HPV31 was 38.3% (95% CI, 18.1 to 54.1) with one dose and 82.6% (95% CI, 73.9 to 88.8) with two doses; the effectiveness against HPV45 was 58.8% (95% CI, 28.4 to 78.5) with one dose and 72.1% (95% CI, 46.0 to 87.1) with two doses (Table 3). The results for effectiveness with respect to the secondary end points are reported in Table S8. The results of the sensitivity analysis, which used observed outcomes only, were similar to those of the primary analysis (Table S13).
+
+---
+
+[referencia=db411a1bc376e99b score=0.985]
+The double-blind, randomized, controlled ESCUDDO trial<sup>9,10</sup> evaluated the noninferiority of one dose of a bivalent or nonavalent HPV vaccine to the respective two-dose regimens in the prevention of cervicovaginal HPV16 or HPV18 infection over a period of 5 years. The trial also used a survey of unvaccinated participants to assess vaccine effectiveness. The bivalent and nonavalent vaccines were chosen because they are approved by the Food and Drug Administration and prequalified by the WHO but differ in valency, adjuvant, and protection against different HPV types.
+
+---
+
+[referencia=db411a1bc376e99b score=0.984]
+_The_ new engl and jour nal _of_ medicine 
+
+followed an unvaccinated population for 5 years, the event rate of HPV infection would be 9.2%<sup>10</sup> ). The 95% confidence interval was calculated with the use of the Farrington–Manning approach.<sup>12</sup> If the upper bound of the 95% confidence interval was less than or equal to 1.25 infections per 100 participants, the null hypothesis of inferiority would be rejected at a one-sided significance level of 0.025. In the secondary analyses, one additional noninferiority margin was prespecified for the comparison of one dose with two doses for protection against the carcinogenic HPV types included in the nonavalent vaccine formulation: a noninferiority margin of 2.55 infections per 100 participants was considered to be equivalent to the difference in the event rate with a one-dose efficacy of 80% and a two-dose efficacy of 93.6%, under the assumption of an event rate of 18.8% in an unvaccinated population. Additional details, including details regarding the assessment of all secondary end points, are provided in the Supplementary Methods section in the Supplementary Appendix.
+
+---
+
+[referencia=db411a1bc376e99b score=0.981]
+### ABSTR ACT 
+
+#### **BACKGROUND** 
+
+Multidose human papillomavirus (HPV) vaccination is efficacious, yet the vaccine has been underused globally. Emerging data suggest that a single dose may provide protection. Whether a single dose of HPV vaccine would provide similar protection to two doses is uncertain. 
+
+#### **METHODS** 
+
+In this trial, we assessed whether one dose of an HPV vaccine was noninferior to two doses. Girls 12 to 16 years of age were randomly assigned, in a 1:1:1:1 ratio, to receive one or two doses of a bivalent HPV vaccine or one or two doses of a nonavalent HPV vaccine. The primary end point was new HPV type 16 or 18 infection occurring from month 12 to month 60 and persisting for at least 6 months. The prespecified noninferiority margin was 1.25 infections per 100 participants. We also assessed vaccine effectiveness by comparing HPV16 or HPV18 infection among the trial participants with that among girls and women enrolled in a nonrandomized survey.
+
+---
+
+[referencia=db411a1bc376e99b score=0.974]
+### Results 
+
+#### **Participants** 
+
+A total of 20,330 participants were enrolled and underwent randomization. After the exclusion of 868 participants, 4880 were assigned to receive one dose of the bivalent vaccine, 4880 to receive two doses of the bivalent vaccine, 4851 to receive one dose of the nonavalent vaccine, and 4851 to receive two doses of the nonavalent vaccine (Fig. 1). Two participants had major protocol deviations and were excluded from the noninferiority analysis. Vaccine efficacy was assessed in 4068 participants in the one-dose bivalent vaccine group, 4040 in the two-dose bivalent vaccine group, 4109 in the one-dose nonavalent vaccine group, and 4083 in the two-dose nonavalent vaccine group. A total of 3005 unvaccinated girls and women were enrolled in the survey. After the exclusion of 15 participants who 
+
+4 
+
+n engl j med nejm.org 
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org by Ann Murphy on December 3, 2025. Copyright © 2025 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies. 
+
+Noninferiority of One HPV Vaccine Dose to Two Doses 
+
+had missing HPV test results, 2990 were included in the analysis of vaccine effectiveness. Enrolled participants attended 91.6% of the trial visits and 95.6% of survey visits. Adherence to collection of cervicovaginal specimens exceeded 94% (Table S4 in the Supplementary Appendix). 
+
+Randomization variables and other covariates were balanced across the trial groups (Tables S1 and S2). The characteristics of the survey participants were similar to those of the trial participants, including the time of initiation of sexual activity (Table S3), as well as the risk of HPV infection, as evidenced by the similar prevalence and distribution of noncarcinogenic HPV genotypes among the trial participants and the survey participants (Fig. S1).
+
+---
+
+[referencia=db411a1bc376e99b score=0.968]
+<br>10,174 Were assigned to receive one or two HPV vaccine doses<br>9760 Underwent randomization to receive<br>analysis<br>one HPV vaccine dose<br>and were included in the<br>receive vaccine 9 Declined to participate 4880 Were assigned to receive intention-to-treat population 4880 Were included in the per- protocol noninferiority analysis 4068 Were included in the per- protocol vaccine effectiveness<br>28 Were not eligible to<br>414 Were excluded 377 Missed visit<br>5.0-yr visits results<br>the per-protocol vaccine effective- ness analysis<br>812 Were excluded from 585 Declined 4.5- and 227 Had missing HPV<br><!-- End of picture text -->
+
+6 
+
+n engl j med nejm.org 
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org by Ann Murphy on December 3, 2025. 
+
+Copyright © 2025 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies. 
+
+Noninferiority of One HPV Vaccine Dose to Two Doses 
+
+**Figure 1 (facing page). Enrollment, Randomization, and Follow-up.** 
+
+Trial participants were excluded from the analysis of vaccine effectiveness if they had missing results for human papillomavirus (HPV) infection at both month 54 and month 60 and survey participants were excluded if they had missing results at month 0 (the enrollment visit) and month 6 (the second visit) because they would have contributed no data for the estimation of vaccine effectiveness. The survey participants did not undergo randomization. 
+
+effectiveness against HPV16 or HPV18 infection was at least 92% in each of the four trial groups (Table S10). 
+
+Serious adverse events that were considered by the investigators to be “possibly, probably, or definitely related to HPV vaccination” occurred in 7 of 20,330 trial participants (0.03%) over a period of 5 years (Table S14). Nonserious adverse events are shown in Table S15. No pattern was observed in safety data.
+
+---
+
+[referencia=db411a1bc376e99b score=0.967]
+|**Table 1. Noninferiority Analysis.***<br>**End Point**<br>No. of<br>Participants<br>Primary end point: infection<br>with HPV type 16<br>or 18|One dose<br>4880|Two doses<br>4880<br>P value‡<br>Secondary end point: infection<br>with HPV type 16, 18,<br>31, 33, 45, 52, or 58<br>One dose<br>4880|Two doses<br>4880<br>P value‡<br>*  The noninferiority analysis was performed in t<br>[HPV] vaccine doses or one HPV vaccine dose<br>that occurred during the period from month<br>during the period from month 12 to month 6<br>Details regarding the methods for handling m<br>†  The rate difference is the event rate in the on<br>‡  The P value is for the noninferiority of one do<br>was significantly lower than the prespecified<br>feriority test for the secondary end point was<br>for the bivalent vaccine because the HPV type|
+
+
+
+8 
+
+n engl j med nejm.org 
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org by Ann Murphy on December 3, 2025. 
+
+Copyright © 2025 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies. 
+
+Noninferiority of One HPV Vaccine Dose to Two Doses
+
+---
+
+[referencia=db411a1bc376e99b score=0.959]
+The effectiveness of one dose or two doses of each vaccine was estimated by comparing the rates of incident, persistent HPV16 or HPV18 infection among the survey participants (at month 0 and month 6) with the rates in each trial group (at month 54 and month 60).<sup>10</sup> Two adjustments were made when we calculated the vaccine effectiveness. First, to align the end point among the trial participants (incident, persistent HPV infection) with that among the survey participants (persistent HPV infection), we estimated the proportion of prevalent, persistent infections that occurred in the trial and subtracted this value from the infection rates estimated for the survey (a prevalent infection was defined by a positive HPV result at either enrollment or month 6, and a persistent infection was defined by a positive HPV result of the same genotype at both month 54 and month 60). Second, because the survey participants did not undergo randomization, we used propensity-score adjustment to account for possible differences in covariate distributions (i.e., age, geographic region, and sexual activity) between the trial participants and survey participants. The 95% confidence interval for vaccine effectiveness was calculated with the use of the nonparametric bootstrap method with 500 replicates. We then tested the null hypothesis: if the lower bound of 
+
+the 95% confidence interval of the vaccine effectiveness was greater than 0.80, the null hypothesis of low vaccine effectiveness would be rejected at a one-sided significance level of 0.025.
+
+---
+
+[referencia=db411a1bc376e99b score=0.957]
+Copyright © 2025 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies. 
+
+_The_ new engl and jour nal _of_ medicine 
+
+population; data obtained from age-matched trial participants at enrollment facilitated the necessary statistical adjustments to ensure comparison with the trial participants. We followed the participants for 5 years, so longer-term durability of response between one and two doses would require additional monitoring. The prespecified noninferiority margin that considered 80% effectiveness to be noninferior to 93.6% may be considered to be too broad, but the sample-size requirements for a smaller margin would have been infeasibly large. Yet, the observed confidence intervals for the estimates of rate differences indicate that the data are compatible with a true difference in vaccine effectiveness between one and two doses of no more than 5.5 percentage points (0.51 ÷ 9.2, where 0.51 infections per 100 participants is the upper bound of the 95% confidence interval for the rate difference between one and two doses of the nonavalent vaccine, and 9.2 infections per 100 participants is the expected infection rate in an unvaccinated population), which is much smaller than the prespecified margin of 13.6 percentage points for the difference in vaccine effectiveness. 
+
+The trial was not designed to evaluate safety because all the trial participants received at least one HPV vaccine dose and participants in the one-dose groups received a control vaccine. No safety concerns were identified, a finding that is consistent with that in our phase 3 Costa Rica HPV Vaccine Trial.<sup>16</sup> The safety profiles of these commercial HPV vaccines have been evaluated extensively in hundreds of millions of persons. 
+
+High-coverage HPV vaccination is a mainstay of cervical cancer control efforts, but to date not even one third of eligible adolescent girls worldwide have received the vaccine, which has been 
+
+licensed for almost 20 years. The evidence from this trial supports the WHO alternative recommendation for single-dose HPV vaccination<sup>17</sup> to achieve higher coverage while maintaining sufficiently high efficacy. 
+
+The views expressed in this article are those of the authors alone and do not necessarily represent the decisions, policy, or views of the International Agency for Research on Cancer or the World Health Organization.
+
+---
+
+[referencia=db411a1bc376e99b score=0.957]
+#### **RESULTS** 
+
+A total of 20,330 participants were enrolled and underwent randomization, and 3005 unvaccinated participants were enrolled in the survey. The noninferiority analysis showed that one vaccine dose was noninferior to two doses in preventing HPV16 or HPV18 infection. The rate difference between one and two doses of the bivalent vaccine was −0.13 infections per 100 participants (95% confidence interval [CI], −0.45 to 0.15; P<0.001 for noninferiority), and the difference between one and two doses of the nonavalent vaccine was 0.21 infections per 100 participants (95% CI, −0.09 to 0.51; P<0.001 for noninferiority). The vaccine effectiveness was at least 97% in each of the four trial groups. No safety concerns were identified. 
+
+The authors’ full names, academic degrees, and affiliations are listed at the end of the article. Aimée R. Kreimer can be contacted at  kreimera@ mail . nih . gov or at the Infections and Immunoepidemiology Branch, Division of Cancer Epidemiology and Genetics, National Cancer Institute, 9609 Medical Center Dr., Rm. 6-E226, Bethesda, MD 20892. Carolina Porras can be contacted at  cporras@ acibfunin . com or at Agencia Costarricense de Investigaciones Biomédicas, Mata Redonda, Ave. 9A Calles 64–68 del Scotiabank 200 Metros Norte y 50 Metros Este, San José 10108, Costa Rica. 
+
+Aimée R. Kreimer, Carolina Porras, and Danping Liu and John T. Schiller and Rolando Herrero contributed equally to this article. 
+
+This article was published on December 3, 2025, at NEJM.org. 
+
+##### **DOI: 10.1056/NEJMoa2506765** 
+
+_Copyright © 2025 Massachusetts Medical Society._
+
+---
+
+[referencia=db411a1bc376e99b score=0.937]
+#### **Statistical Analysis** 
+
+The noninferiority of one dose to two doses was assessed on the basis of the difference in the rate of incident, persistent HPV16 or HPV18 infection between one dose and two doses of each vaccine.<sup>10</sup> The prespecified noninferiority margin was 1.25 infections per 100 participants. This margin was selected to provide convincing evidence that the vaccine efficacy of one dose is more than 80%. We believe an efficacy exceeding 80% would provide substantial public health utility, especially given the additional benefits of indirect protection conferred by high vaccine coverage. Given that the expected efficacy of two doses was 93.6%, and on the basis of infection rates observed in the original Costa Rica HPV Vaccine Trial,<sup>10</sup> a one-dose efficacy of more than 80% would be equivalent to a difference in the infection event rate between one and two doses that is smaller than 1.25 infections per 100 participants (0.092 × [0.936 − 0.8] = 0.0125; i.e., if we 
+
+3 
+
+n engl j med nejm.org 
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org by Ann Murphy on December 3, 2025. Copyright © 2025 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies. 
+
+_The_ new engl and jour nal _of_ medicine
+
+---
+
+[referencia=db411a1bc376e99b score=0.923]
+Our trial had many strengths, including its population-based design, well-powered sample size for noninferiority and effectiveness assessments, high participant adherence, excellent balance among groups, and the use of a comparator group. We ensured the assessment of individuallevel effectiveness by enrolling no more than 35% of the girls 12 to 16 years of age in any district in the trial area so that the results would be generalizable to settings where HPV vaccination has yet to be introduced (i.e., areas that do not have herd protection). The trial focused on the population at greatest risk for HPV-driven cancer — adolescent girls — and generated data that are applicable to girls in other regions of the world (Table S16). 
+
+The trial had limitations. Our estimates of vaccine effectiveness were based on a control group that consisted of participants who did not undergo randomization but were similar to the trial participants in relevant aspects, notably in the almost identical distribution of low-risk HPV types not included in the vaccine formulations. For the analysis of vaccine effectiveness, we did not have information about previous HPV infection rates among participants in the survey, which limited our ability to create a per-protocol 
+
+7 
+
+n engl j med nejm.org 
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org by Ann Murphy on December 3, 2025. Copyright © 2025 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies. 
+
+_The_ new engl and jour nal _of_ medicine
+
+---
+
+[referencia=db411a1bc376e99b score=0.919]
+|Vaccine Effectiveness<br>(95% CI)|97.2 (94.1 to 99.4)<br>99.2 (97.8 to 100)<br>97.1 (92.5 to 100)<br>97.6 (93.7 to 100)<br>98.0 (95.4 to 99.7)<br>96.6 (93.5 to 99.1)<br>97.5 (91.2 to 100)|93.0 (78.6 to 100)|90.5 (79.4 to 98.2)|93.6 (84.7 to 100)|
+|---|---|---|---|---|
+|**avalent HPV Vaccine**<br>Event Rate/100<br>Participants<br>(95% CI)<br>3.64 (2.97 to 4.33)|0.10 (0.02 to 0.20)<br>3.67 (2.99 to 4.40)<br>0.03 (0.00 to 0.08)<br>2.03 (1.54 to 2.56)<br>0.06 (0.00 to 0.14)<br>2.03 (1.51 to 2.59)<br>0.05 (0.00 to 0.12)<br>4.05 (3.29 to 4.86)<br>0.08 (0.01 to 0.17)<br>4.11 (3.36 to 4.83)<br>0.14 (0.04 to 0.26)<br>0.96 (0.62 to 1.33)<br>0.02 (0.00 to 0.07)|0.96 (0.60 to 1.31)<br>0.07 (0.01 to 0.17)<br>1.28 (0.86 to 1.70)|0.12 (0.02 to 0.22)|1.32 (0.90 to 1.80)<br>0.08 (0.01 to 0.19)|
+
+---
+
+[referencia=db411a1bc376e99b score=0.918]
+### Discussion 
+
+After 5 years of follow-up, a single dose of either a bivalent or nonavalent HPV vaccine provided similar protection to that of two doses, which is the standard regimen for adolescents. Assessment of the timing of the events over the 5-year trial period indicated that protection persisted through at least 5 years. The primary end point assessed infection with HPV16 or HPV18, the two HPV genotypes that account for more than 77% of cervical cancers worldwide. We observed that one dose of the nonavalent vaccine was noninferior to two doses with respect to protection against the seven carcinogenic HPV types in the vaccine formulation, which account for approximately 95% of cervical cancers.<sup>1</sup> A single dose of the bivalent vaccine provided substantial protection against HPV45 infection, and two doses of the bivalent vaccine conferred greater protection against HPV31 than one dose. These single-dose results are consistent with previous estimates from observational studies in Costa Rica<sup>4,5</sup> and India<sup>6</sup> and from the KEN SHE randomized trial.<sup>7</sup> 
+
+Effectiveness against HPV16 or HPV18 infection was at least 97% in the one-dose groups, with narrow confidence intervals, a finding that supports projections<sup>13</sup> that a single dose will prevent most new infections and subsequent disease 
+
+associated with these types. Single-dose HPV vaccine effectiveness was high with respect to all HPV types included in the nonavalent vaccine formulation, a result that emphasizes the eventual usefulness of increased valency in single-dose vaccines to better control cervical cancer. 
+
+HPV vaccines comprise recombinant L1 major capsid proteins that assemble into viruslike particles with a densely ordered repetitive array of B-cell epitopes on their surface. These viruslike particles are strong B-cell immunogens that can induce sterilizing immunity in most vaccine recipients and consistently induce high and durable titers of infection-inhibiting antibodies, even after a single dose. In addition, HPVs are very susceptible to antibody inhibition.<sup>14</sup> The vaccines induce the production of long-lived plasma cells that consistently produce antigen-specific antibodies,<sup>15</sup> independent of additional antigen exposure, even after a single dose. Because consistent, long-term stabilization of antibodies after a single dose had not been observed in subunit vaccines before the development of HPV vaccines, the current trial advances the science suggesting that viruslike particles should be considered for future vaccines.
+
+---
+
+[referencia=db411a1bc376e99b score=0.904]
+#### **End Points and Analyses** 
+
+The primary end point for the noninferiority analysis was incident, persistent HPV16 or HPV18 infection (HPV16 or HPV18 infection that occurred during the period from month 12 to month 60 and persisted for at least 6 months). Incident infection was defined as infection that occurred after negative HPV results had been shown at both enrollment and at month 6 (on the basis of cervicovaginal specimens [among participants ≥15 years of age] or initiation of sexual activity as reported 
+
+by the participants who did not have HPV results from a cervicovaginal specimen). Persistent infection was defined as a positive test result of the same HPV genotype at two consecutive trial visits. The noninferiority analysis was performed in the per-protocol population, which included all the participants who had received both assigned doses (the two assigned HPV vaccine doses or one HPV vaccine dose and one dose of the control vaccine) and had no major protocol deviations. 
+
+Vaccine effectiveness was assessed in the perprotocol population and among survey participants who had no major protocol deviations. For the analysis of vaccine effectiveness, HPV16 or HPV18 infection was assessed at month 54 and month 60 among trial participants and at month 0 (the enrollment visit) and month 6 (the second visit) among survey participants. The definition of the end point for the survey is described below, in the Statistical Analysis section. Trial participants with missing data at month 54 and month 60 and survey participants with missing data at month 0 and month 6 were excluded because they would have contributed no data for the estimation of vaccine effectiveness. Details regarding secondary end points, which addressed other HPV types, are provided in the Supplementary Methods section in the Supplementary Appendix.
+
+---
+
+[referencia=db411a1bc376e99b score=0.897]
+|**N**<br>No. of<br>Events<br>94<br>3|95<br>2<br>89|12<br>89<br>5<br>61<br>8<br>62<br>1<br>12<br>0<br>12<br>4<br>at month<br>imputed.<br>distributi<br>idered to<br>responsi<br>received o|
+|No. of<br>Participants<br>2990<br>4109|2990<br>4083<br>2990|4109<br>2990<br>4083<br>2990<br>4109<br>2990<br>4083<br>2990<br>4109<br>2990<br>4083<br>bserved at the visits<br>ing data have been<br>adjust for different<br>y population is cons<br>st integer. HPV16 is<br>r 3.5%.<br>rticipants who had|
+|Vaccine Effectiveness<br>(95% CI)<br>0.3 (−31.5 to 23.7)|−13.2 (−49.6 to 13.5)|−19.3 (−53.8 to 7.5)<br>−12.0 (−48.2 to 16.6)<br>23.6 (−7.9 to 45.4)<br>11.4 (−27.0 to 36.5)<br>69.2 (23.0 to 94.5)<br>27.1 (−86.7 to 68.7)<br>n are infections that were o<br>he survey participants. Miss<br>ore adjustment was used to<br>mber of events in the surve<br>been rounded to the neare<br>V52 for 2.8%, and HPV58 fo<br>ere observed among the pa|
+
+---
+
+[referencia=db411a1bc376e99b score=0.868]
+|**to HPV Type.***<br>**Bivalent HPV Vaccine**<br>Event Rate/100<br>Participants<br>(95% CI)<br>3.66 (2.91 to 4.33)|0.08 (0.01 to 0.17)<br>3.73 (3.01 to 4.43)<br>0.06 (0.01 to 0.14)<br>2.05 (1.56 to 2.64)<br>0.02 (0.00 to 0.06)<br>2.05 (1.52 to 2.57)<br>0.06 (0.00 to 0.15)<br>3.99 (3.25 to 4.80)<br>2.46 (1.92 to 3.03)<br>3.97 (3.19 to 4.77)<br>0.69 (0.46 to 0.99)<br>1.00 (0.67 to 1.39)<br>0.57 (0.35 to 0.81)|0.97 (0.63 to 1.32)<br>0.73 (0.44 to 0.99)<br>1.28 (0.89 to 1.68)|0.53 (0.30 to 0.78)|1.27 (0.87 to 1.74)<br>0.36 (0.19 to 0.57)|
+|**s According**<br> <br>No. of<br>Events<br>109|3<br>112<br>2<br>61<br>1<br>61<br>2<br>119<br>100<br>119<br>28<br>30<br>23|29<br>30<br>38|21|38<br>14|
+|**accine Effectivenes**<br>No. of<br>Participants<br>2990|4068<br>2990<br>4040<br>2990<br>4068<br>2990<br>4040<br>2990<br>4068<br>2990<br>4040<br>2990<br>4068|2990<br>4040<br>2990|4068|2990<br>4040|
+
+---
+
+[referencia=db411a1bc376e99b score=0.862]
+|**Table 3. Analysis of V**<br>**HPV Infection**<br>HPV16<br>Survey|One dose<br>Survey<br>Two doses<br>HPV18<br>Survey<br>One dose<br>Survey<br>Two doses<br>HPV31<br>Survey<br>One dose<br>Survey<br>Two doses<br>HPV33<br>Survey<br>One dose|Survey<br>Two doses<br>HPV45<br>Survey|One dose|Survey<br>Two doses|
+
+
+
+10 
+
+n engl j med nejm.org 
+
+The New England Journal of Medicine is produced by NEJM Group, a division of the Massachusetts Medical Society. Downloaded from nejm.org by Ann Murphy on December 3, 2025. 
+
+Copyright © 2025 Massachusetts Medical Society. All rights reserved, including those for text and data mining, AI training, and similar technologies. 
+
+Noninferiority of One HPV Vaccine Dose to Two Doses
+
+---
+
+[referencia=db411a1bc376e99b score=0.862]
+#### **Noninferiority Analysis** 
+
+In the analysis of the primary end point (incident, persistent HPV16 or HPV18 infection), one dose was noninferior to two doses for both vaccines. The rate difference between one and two doses of the bivalent vaccine was −0.13 infections per 100 participants (95% confidence interval [CI], −0.45 to 0.15; P<0.001 for noninferiority), which indicates that every 100 participants who received one dose of the vaccine had 0.13 fewer infections within 5 years after vaccination than those who received two doses (Table 1). The rate difference between one and two doses of the nonavalent vaccine was 0.21 infections per 100 participants (95% CI, −0.09 to 0.51; P<0.001 for noninferiority), which indicates that every 100 participants who received one dose had 0.21 additional infections within 5 years after vaccination than those who received two doses (Table 1). The numbers of observed events were evenly distributed from month 24 to the end of follow-up and therefore did not show evidence of waning protection (Table S11). The differences in event rates of HPV16 and HPV18 infection individually between one and two doses were 0.14 or fewer infections per 100 participants for both vaccines (Table S6). As a sensitivity analysis, the primary noninferiority analysis was conducted with the use of observed events only (52 events) and yielded similar results to those of the main analysis (Table S12). 
+
+We also assessed noninferiority for the prevention of any of the seven carcinogenic HPV types included in the nonavalent vaccine formulation: the observed rate difference was 0.56 infections 
+
+per 100 participants (95% CI, 0.01 to 1.11; P<0.001 [noninferiority margin, 2.55 infections per 100 participants]), a finding that shows that one dose was noninferior to two doses (Table 1). Among the participants who received the bivalent vaccine, the rate differences for infection with HPV31 (which is not included in the bivalent vaccine formulation) that were observed between one and two doses suggested that protection against this HPV type might be greater with two doses (Table S6).
+
+---
+
+[referencia=db411a1bc376e99b score=0.854]
+|**Non**<br>No. of<br>Events<br>109|4<br>110<br>1<br>61<br>2<br>61<br>2<br>121<br>3<br>123<br>6<br>29<br>1|29<br>3<br>38|5|39<br>3|
+|No. of<br>Participants<br>2990|4109<br>2990<br>4083<br>2990<br>4109<br>2990<br>4083<br>2990<br>4109<br>2990<br>4083<br>2990<br>4109|2990<br>4083<br>2990|4109|2990<br>4083|
+|Vaccine Effectiveness<br>(95% CI)|97.7 (95.1 to 99.7)<br>98.4 (96.1 to 99.8)<br>99.3 (97.0 to 100.0)<br>97.1 (92.5 to 100.0)<br>38.3 (18.1 to 54.1)<br>82.6 (73.9 to 88.8)<br>42.6 (2.1 to 68.4)|24.8 (−26.2 to 58.7)|58.8 (28.4 to 78.5)|72.1 (46.0 to 87.1)|

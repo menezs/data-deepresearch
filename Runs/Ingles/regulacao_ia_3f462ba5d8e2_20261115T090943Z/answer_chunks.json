@@ -1,0 +1,1080 @@
+[
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-0",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 0,
+    "text": "The European Union and Brazil have converged on a risk-based approach to artificial-intelligence regulation, but as of November 14, 2026 their legal positions are fundamentally different: Regulation (EU) 2024/1689, the European Artificial Intelligence Act, is binding EU law already in force and partly applicable, whereas Brazil’s PL 2338/2023 remains a legislative proposal and therefore does not itself impose legally operative AI-specific obligations on private actors.",
+    "cited_markers": [
+      "[1]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "5f3e072377bda147"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-1",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 1,
+    "text": "The EU regulation entered into force on August 1, 2024, and its obligations have been phased in according to Article 113 rather than becoming applicable simultaneously.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-2",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 2,
+    "text": "The EU framework changed materially in 2026 through Regulation (EU) 2026/1744, which amended the AI Act’s implementation timetable and certain substantive provisions.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-3",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 3,
+    "text": "Following that amendment, most generally applicable provisions became applicable on August 2, 2026, while the core requirements for standalone high-risk systems listed in Annex III were postponed to December 2, 2027, and requirements for high-risk AI embedded in products governed by Annex I legislation were postponed to August 2, 2028.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-4",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 4,
+    "text": "The amendment also introduced new prohibitions concerning AI-generated or manipulated non-consensual intimate material and child sexual abuse material, with those prohibitions scheduled to apply from December 2, 2026.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "77e096f27c9d4bf6"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-5",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 5,
+    "text": "The European Commission and national authorities began exercising enforcement powers over provisions already applicable on August 2, 2026, including general-purpose AI obligations and transparency duties.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "e77912f7b6ecab11"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-6",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 6,
+    "text": "Brazil’s PL 2338/2023 followed a different institutional path.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "2ddcc05b33f7db1a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-7",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 7,
+    "text": "The Senate approved a substitute text in December 2024 and formally transmitted it to the Chamber of Deputies on March 17, 2025, where it became subject to plenary consideration after examination by a special committee.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "2ddcc05b33f7db1a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-8",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 8,
+    "text": "As of November 14, 2026, the Chamber’s official legislative portal still described PL 2338/2023 as “awaiting the rapporteur’s opinion” in the Special Committee on Artificial Intelligence, whose rapporteur is Deputy Aguinaldo Ribeiro.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "5f3e072377bda147"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-9",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 9,
+    "text": "A Chamber report published on October 27, 2026 stated that the rapporteur had already submitted a report to the committee secretariat but that it had not yet been debated, while warning that the proposal could face archival at the end of the legislature if the committee did not act.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "81265ed60a1951f6"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-10",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 10,
+    "text": "This distinction is important: the Senate-approved text is the principal substantive reference for comparison with the EU AI Act, but it is not enacted Brazilian law and remains susceptible to amendment, replacement, rejection, or renewed legislative treatment in the Chamber.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "5f3e072377bda147"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-11",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 11,
+    "text": "A parallel governance proposal also entered the Brazilian debate when the federal executive submitted PL 6237/2025, proposing a National System for the Development, Regulation and Governance of Artificial Intelligence and assigning a coordinating and residual regulatory role to Brazil’s data-protection authority alongside sector regulators.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "25b776d1fcfaae00"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-12",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 12,
+    "text": "The government expressly stated that PL 6237/2025 was intended to cure an initiative-related constitutional defect in PL 2338/2023 concerning the attribution of powers to executive-branch bodies, and PL 6237/2025 was later attached to PL 2338/2023 for joint consideration.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "25b776d1fcfaae00"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-13",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 13,
+    "text": "Consequently, references below to the “Brazilian bill” describe the Senate-approved PL 2338/2023 text now before the Chamber, not currently binding Brazilian law.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-14",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 14,
+    "text": "The EU AI Act has an expressly extraterritorial scope that reaches providers placing AI systems or general-purpose AI models on the EU market regardless of whether the provider is established inside or outside the Union, as well as foreign providers or deployers when an AI system’s output is used in the Union.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-15",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 15,
+    "text": "The regulation excludes, among other matters, systems used exclusively for military, defense, or national-security purposes and establishes additional exclusions for certain research, personal, and open-source contexts subject to specified conditions.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-16",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 16,
+    "text": "The result resembles the territorial logic familiar from other EU digital legislation: a non-EU developer can incur AI Act obligations because of market access or EU-facing use rather than physical establishment in Europe.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-17",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 17,
+    "text": "PL 2338/2023 is framed as a national regime governing responsible AI in Brazil and expressly excludes systems used by natural persons solely for private, non-economic purposes, systems developed and used exclusively for national defense, pre-market research and development activities subject to existing legislation, and infrastructure services limited to data storage and transport.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-18",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 18,
+    "text": "Unlike Article 2 of the EU AI Act, the Senate-approved Brazilian text does not articulate comparably detailed third-country triggers based specifically on provider establishment and downstream use of outputs in Brazil.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-19",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 19,
+    "text": "Its practical reach would nevertheless extend to systems introduced into, deployed in, or used in the Brazilian market because its substantive duties repeatedly attach to development, market placement, circulation, implementation, and use in Brazil.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-20",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 20,
+    "text": "Both instruments use risk as an organizing principle, but their classifications differ structurally.",
+    "cited_markers": [
+      "[1]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-21",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 21,
+    "text": "Under the EU AI Act, a system is high-risk either because it is a safety component of, or itself constitutes, a regulated product requiring third-party conformity assessment under Annex I legislation, or because it falls within one of the use cases in Annex III.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-22",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 22,
+    "text": "Annex III covers sensitive fields such as biometrics, critical infrastructure, education, employment, access to essential services, law enforcement, migration and border management, and administration of justice, subject to exceptions where the system does not create a significant risk or materially influence decision-making.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-23",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 23,
+    "text": "Profiling systems falling within Annex III remain high-risk even where some of the ordinary exceptions might otherwise apply.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-24",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 24,
+    "text": "Brazil’s Senate text divides relevant risk into “excessive risk,” which is prohibited, and “high risk,” which triggers enhanced governance requirements.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-25",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 25,
+    "text": "High-risk contexts include critical infrastructure, education, employment, access to essential public or private services, creditworthiness, emergency response, administration of justice, autonomous vehicles where physical integrity may be endangered, certain health applications, criminal-analytics uses, biometric emotion recognition, and immigration and border management.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-26",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 26,
+    "text": "The bill allows sector authorities and the proposed national governance system to refine or expand high-risk classifications using criteria including severity and probability of harm, discriminatory potential, effects on vulnerable groups, reversibility, transparency, systemic cybersecurity consequences, health risks, and impacts on children and adolescents.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-27",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 27,
+    "text": "The two regimes also overlap substantially in identifying unacceptable AI practices, although the detailed boundaries differ.",
+    "cited_markers": [
+      "[1]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-28",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 28,
+    "text": "The EU Act prohibits specified forms of manipulative or deceptive AI, exploitation of vulnerabilities, certain social scoring, individual criminal-risk assessment based solely on profiling or personality traits, some biometric categorization and emotion-recognition practices, untargeted facial-image scraping, and most real-time remote biometric identification by law enforcement in publicly accessible spaces subject to narrow exceptions.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-29",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 29,
+    "text": "Brazil’s bill would prohibit AI intended to induce harmful behavior, exploit vulnerabilities, evaluate personality or past behavior to predict criminal offending or recidivism, facilitate sexual-abuse or exploitation material involving children and adolescents, conduct illegitimate or disproportionate public-sector universal social scoring, or operate autonomous weapon systems.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-30",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 30,
+    "text": "It would also generally prohibit real-time remote biometric identification in publicly accessible spaces while permitting specified uses involving judicially authorized criminal investigations, missing persons or imminent threats, certain flagrante delicto situations, and recapture or execution of judicial warrants.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-31",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 31,
+    "text": "The EU AI Act regulates “general-purpose AI models,” rather than using “foundation model” as the operative legal category, and imposes a horizontal set of duties on providers regardless of whether a model is subsequently embedded in a particular high-risk application.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-32",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 32,
+    "text": "All GPAI-model providers must maintain technical documentation concerning the model and its training and testing process, provide specified information to downstream system providers, establish a policy for compliance with EU copyright law, and publish a sufficiently detailed summary of training content using the AI Office’s prescribed template.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-33",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 33,
+    "text": "Models that qualify as GPAI models with systemic risk face additional requirements relating to model evaluation, systemic-risk assessment and mitigation, serious-incident reporting, and cybersecurity protection.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "87544486094db75f"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-34",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 34,
+    "text": "These GPAI obligations became applicable to models placed on the market from August 2, 2025, while providers of models already on the market before that date receive a later compliance deadline of August 2, 2027.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "87544486094db75f"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-35",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 35,
+    "text": "The European Commission’s enforcement powers concerning GPAI providers became operative on August 2, 2026.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "e77912f7b6ecab11"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-36",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 36,
+    "text": "The EU has complemented these statutory obligations with a General-Purpose AI Code of Practice published on July 10, 2025.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "d5c1e904603038ee"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-37",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 37,
+    "text": "The Code is voluntary rather than legislation, but the Commission and European AI Board have recognized it as an appropriate mechanism through which participating providers can demonstrate compliance with relevant AI Act obligations, particularly around transparency, copyright, safety, and systemic risk.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "d5c1e904603038ee"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-38",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 38,
+    "text": "Commission guidelines on GPAI similarly explain how the executive interprets statutory concepts while expressly remaining non-binding as a matter of law.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "87544486094db75f"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-39",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 39,
+    "text": "PL 2338/2023 likewise creates special rules for “general-purpose” and generative AI and defines a general-purpose system as one based on a model trained on large-scale datasets that can perform a wide range of tasks and serve purposes for which it was not specifically developed or trained.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-40",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 40,
+    "text": "The Brazilian text separately defines generative AI as a model specifically intended to generate or significantly modify text, images, audio, video, or software code.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-41",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 41,
+    "text": "Developers of general-purpose and generative systems would have to perform a preliminary risk assessment identifying expected risk levels and potential systemic risk.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-42",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 42,
+    "text": "Where systemic risk exists, the proposed Brazilian obligations include describing the model, documenting testing and reasonably foreseeable risks, recording residual risks that could not be mitigated, applying lawful data governance, publishing a summary of training datasets, pursuing energy and resource efficiency, and providing intelligible technical documentation and usage instructions for downstream actors.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-43",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 43,
+    "text": "These obligations would apply whether the system is supplied as a standalone model, incorporated into another system or product, provided under free or open-source licensing, or supplied as a service.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-44",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 44,
+    "text": "Providers offering general-purpose or generative systems through APIs or comparable integration mechanisms would also have a continuing duty to cooperate with downstream participants so that risks can be appropriately mitigated and statutory rights respected.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-45",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 45,
+    "text": "The comparison therefore shows substantial functional convergence between the two frameworks on documentation, downstream transparency, risk assessment, and governance of powerful general-purpose models, but the EU framework is already supported by operational guidance, an enforcement authority, a model-provider code, and a legally applicable timetable, while Brazil’s model-specific rules remain proposed legislation.",
+    "cited_markers": [
+      "[2]",
+      "[4]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "e77912f7b6ecab11",
+      "d5c1e904603038ee",
+      "5f3e072377bda147"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-46",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 46,
+    "text": "For high-risk systems, the EU AI Act creates a structured compliance lifecycle involving risk-management systems, data and data-governance requirements, technical documentation, automatic logging, transparency and instructions for deployers, human oversight, and standards of accuracy, robustness, and cybersecurity.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-47",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 47,
+    "text": "Providers bear the central pre-market compliance burden, while importers, distributors, authorized representatives, and deployers receive differentiated duties reflecting their positions in the supply chain.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-48",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 48,
+    "text": "Certain high-risk systems must undergo conformity assessment and registration before market placement or use, embedding the AI Act into the EU’s wider product-safety and market-surveillance architecture.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-49",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 49,
+    "text": "PL 2338/2023 adopts a comparably lifecycle-oriented structure but relies more heavily on regulatory tailoring by sector authorities.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-50",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 50,
+    "text": "Developers and deployers of high-risk systems would have to adopt governance measures concerning documentation, testing, accuracy and robustness, risk mitigation, human oversight, and traceability, while distributors would be required to ensure that relevant governance measures were satisfied before systems entered the market.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-51",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 51,
+    "text": "The bill also requires an algorithmic impact assessment whenever a system or use is high-risk, with assessments conducted before introduction or market circulation and updated iteratively during the system’s lifecycle.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-52",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 52,
+    "text": "Public conclusions of such assessments would be required, subject to protection for industrial and commercial secrets.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-53",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 53,
+    "text": "Fundamental-rights protection is unusually explicit in the Brazilian bill.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-54",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 54,
+    "text": "Its stated foundations include human dignity, human rights and democratic values, equality and non-discrimination, privacy and data protection, consumer protection, labor rights, protection of vulnerable groups, information integrity, pluralism, accessibility, intellectual property, cybersecurity, and environmental sustainability.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-55",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 55,
+    "text": "The text also provides for contestability, explanation, human supervision, judicial or administrative enforcement of rights, and protection against unlawful or abusive discrimination.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-56",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 56,
+    "text": "A right to explanation would have to be provided free of charge in simple, accessible language capable of helping the affected person understand the relevant decision or prediction.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-57",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 57,
+    "text": "Fundamental rights are likewise central to the EU AI Act’s architecture, particularly in the definition of prohibited practices, classification of high-risk systems, human-oversight requirements, and regulatory treatment of systems capable of materially affecting individuals.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-58",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 58,
+    "text": "The EU model, however, embeds those protections more directly within a harmonized internal-market regulation governing product placement and operator obligations, whereas the Brazilian bill articulates an extensive catalogue of individual rights and governance principles alongside sectoral regulation.",
+    "cited_markers": [
+      "[1]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-59",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 59,
+    "text": "Institutionally, the EU distributes enforcement among national competent authorities, the European Commission’s AI Office, and the European Data Protection Supervisor, with the AI Office exercising particularly important powers over GPAI models and certain AI systems connected to the same providers.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "e77912f7b6ecab11"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-60",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 60,
+    "text": "The AI Office can require information and model access, conduct evaluations, investigate providers, and in appropriate circumstances require measures restricting public availability of models.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "e77912f7b6ecab11"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-61",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 61,
+    "text": "The Senate-approved Brazilian model envisages a coordinated National System for Regulation and Governance of Artificial Intelligence, sector regulators with primary competence in their existing domains, and a residual competent authority for activities lacking a specific sector regulator.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-62",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 62,
+    "text": "Sector authorities would regulate, supervise, and sanction sector-specific uses, including high-risk applications, while the central authority would coordinate general rules, protect fundamental rights, conduct or order audits, cooperate internationally, and investigate high-risk systems jointly with other authorities.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-63",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 63,
+    "text": "Because the Senate text’s assignment of institutional powers raised executive-initiative concerns, PL 6237/2025 was introduced to provide a constitutionally grounded governance structure and envisages the ANPD as the residual regulator for sectors without a dedicated regulator.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "25b776d1fcfaae00"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-64",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 64,
+    "text": "The EU AI Act uses fines calibrated to the seriousness of the violation and to worldwide annual turnover.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-65",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 65,
+    "text": "Violations of prohibited-practice rules may produce administrative fines of up to €35 million or, for undertakings, 7 percent of total worldwide annual turnover for the preceding financial year, whichever is higher.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-66",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 66,
+    "text": "Other specified operator violations can attract fines of up to €15 million or 3 percent of worldwide annual turnover, while supplying incorrect, incomplete, or misleading information to competent authorities can result in fines of up to €7.5 million or 1 percent of worldwide annual turnover.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-67",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 67,
+    "text": "The Act applies lower “whichever is lower” ceilings for SMEs in the relevant categories, reflecting proportionality toward smaller businesses.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-68",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 68,
+    "text": "PL 2338/2023 proposes a different sanctions model.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-69",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 69,
+    "text": "It would authorize warnings; fines of up to R$50 million per infringement or, for private legal entities, up to 2 percent of the gross Brazilian turnover of the corporate group or conglomerate in the preceding financial year, excluding taxes; publication of violations; temporary exclusion from regulatory sandboxes; suspension of AI development, supply, or operation; and prohibitions on processing specified databases.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-70",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 70,
+    "text": "Penalty calculation would take into account factors including gravity, good faith, economic benefit, financial condition, recidivism, harm, cooperation, governance measures, algorithmic impact assessments, corrective action, and proportionality.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-71",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 71,
+    "text": "Excessive-risk systems would be subject, at minimum, to a fine and, for legal entities, partial or total suspension of activities, while civil reparation obligations and sanctions under other Brazilian legislation would remain available.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-72",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 72,
+    "text": "For multinational firms, the two approaches would therefore create overlapping but not identical compliance demands if PL 2338/2023 or a successor text were enacted.",
+    "cited_markers": [
+      "[1]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-73",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 73,
+    "text": "A global developer serving Europe must already map whether it is a provider, deployer, importer, distributor, or GPAI-model provider; determine whether systems fall into prohibited, high-risk, transparency, or GPAI categories; and track the phased application dates that now extend through 2028 for key high-risk obligations.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-74",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 74,
+    "text": "The same developer preparing for Brazil would need to map its role as developer, distributor, or deployer under the proposed Brazilian definitions, assess whether applications are excessive-risk, high-risk, general-purpose, generative, or systemically risky, and anticipate sector-specific requirements issued by whichever regulatory authority ultimately receives statutory competence.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-75",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 75,
+    "text": "A common compliance architecture can nevertheless address substantial portions of both regimes because each places weight on documented risk management, technical documentation, human oversight, testing, incident management, governance of downstream use, transparency, and protection of fundamental rights.",
+    "cited_markers": [
+      "[1]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-76",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 76,
+    "text": "A multinational organization could therefore build a global control framework around system inventories, role classification, risk-tiering, documented testing, model and system cards, data-governance records, human-oversight procedures, incident escalation, and jurisdiction-specific legal overlays, while recognizing that formal legal requirements remain jurisdiction-dependent.",
+    "cited_markers": [
+      "[1]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-77",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 77,
+    "text": "The principal divergence is regulatory maturity rather than regulatory philosophy.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "e77912f7b6ecab11"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-78",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 78,
+    "text": "The EU framework has moved from legislation to implementation, enforcement, codes of practice, guidance, and amended transition dates, creating immediate compliance exposure for prohibited practices, GPAI, transparency, and other provisions already applicable.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "e77912f7b6ecab11",
+      "d5c1e904603038ee"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-79",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 79,
+    "text": "Brazil remains in the legislative-design phase, where key questions concerning final risk classifications, institutional allocation of powers, sanctions, copyright treatment, and implementation remain politically and legally open.",
+    "cited_markers": [
+      "[6]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "5f3e072377bda147",
+      "25b776d1fcfaae00"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-80",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 80,
+    "text": "The European AI Act and PL 2338/2023 reflect a shared regulatory premise that AI governance should become progressively more demanding as the potential consequences for safety, fundamental rights, public institutions, and society increase.",
+    "cited_markers": [
+      "[1]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-81",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 81,
+    "text": "Both frameworks identify unacceptable applications, create heightened obligations for high-risk systems, impose transparency and documentation duties, establish special treatment for general-purpose or highly capable AI, and contemplate strong public enforcement.",
+    "cited_markers": [
+      "[1]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-82",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 82,
+    "text": "Their most consequential differences concern legal force, institutional design, and implementation detail.",
+    "cited_markers": [
+      "[1]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "5f3e072377bda147"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-83",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 83,
+    "text": "The EU Act is a directly applicable regulation with an explicit cross-border scope, detailed operator categories, harmonized market-access mechanisms, a specialized AI Office, extensive implementing guidance, and sanctions calculated against worldwide turnover.",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "e77912f7b6ecab11"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-84",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 84,
+    "text": "The Brazilian Senate text is a proposed framework combining statutory rights, risk-based governance, algorithmic impact assessment, sector-regulator involvement, and a residual national authority, with fines tied primarily to turnover in Brazil rather than global turnover.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "19836916515bd208"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-85",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 85,
+    "text": "As of November 14, 2026, organizations should therefore treat the EU AI Act as an active compliance regime and the Brazilian proposal as a significant legislative trajectory rather than an enacted AI statute.",
+    "cited_markers": [
+      "[1]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "623d9b5287962fa0",
+      "5f3e072377bda147"
+    ]
+  },
+  {
+    "id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z-86",
+    "answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "position": 86,
+    "text": "The Brazilian proposal is sufficiently developed, and sufficiently similar in core risk-management concepts to the EU framework, that companies operating in Brazil can prudently design compliance infrastructure with its requirements in mind, but they should not represent PL 2338/2023’s provisions as current Brazilian law until the bicameral legislative process and presidential stage have been completed.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "5f3e072377bda147"
+    ]
+  }
+]

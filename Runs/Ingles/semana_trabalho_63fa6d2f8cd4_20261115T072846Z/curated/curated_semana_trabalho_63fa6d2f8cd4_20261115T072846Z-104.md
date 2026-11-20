@@ -1,0 +1,204 @@
+[referencia=e80f3cdc11336721 score=0.998]
+# **3. Work Time Reduction From the Organizational Perspective**
+
+---
+
+[referencia=e80f3cdc11336721 score=0.948]
+# **Statement from the Initiators** 
+
+Over the past twelve months, the impression emerged that the debate around the four-day workweek in Germany had lost momentum with the federal elections. Discussions about work time reduction gave way to calls for longer hours and a more critical stance toward part-time arrangements. The question emerged: Had the chapter of “New Work” — to which the four-day week undoubtedly belongs — come to an end? 
+
+From our perspective as practice partners of the study, however, what we observed was not an ending but rather a shift: **from public hype to a more focused and serious examination.** Organizations today are less concerned with symbolic models and more focused on the fundamental question of how productivity, efficiency, and employer attractiveness can be designed in a way that remains viable under real economic conditions. 
+
+This is precisely where the findings of the update report resonate with our experience in organizational development: **Companies are no longer searching for an ideological 4-or-5-day solution, but for a sustainable mix of structure, flexibility, and performance orientation.** Working time is increasingly understood as a design variable rather than a dogma — especially in a moment in time where AI-based tools are beginning to redefine how work itself is organized and executed. What matters most is the ability to adapt models, sharpen processes, and actively involve employees in this transformation. 
+
+**Working time reduction is not a golden bullet; it is a change process.** And like any meaningful change process, it requires investment, leadership, and clarity. The report underlines that the real challenge lies less in the specific model and more in the adaptability of people and organizations. The broader questions it raises — about the relationship of work, life, and performance — have also guided our thinking beyond the study in our capacity as Consultants. 
+
+
+
+**Thus, the report offers an alternative perspective on the current economic policy debate in Germany.** It suggests that performance does not necessarily result from increasing working hours, but rather from smarter work organization, clearer prioritization, and adaptive structures. With or without a four-day week, the decisive factor is not the number of working days, but an organization’s ability to design work in a way that allows performance, health, and innovation to reinforce one another over the long term.
+
+---
+
+[referencia=ac2a74817c0702be score=0.845]
+Provided they are carefully designed and implemented, evidence presented in this chapter suggests that a reduction in normal working hours might enhance workers’ well-being without adverse effects on employment and productivity. Analysis of the effects of a number of national legislative reforms and firm level contractual reductions indicate that reducing normal hours (at constant monthly or annual wage) might preserve employment and enhance workers’ well-being if the impact on unit labour cost remains limited, either due to sufficient induced productivity gains or to public subsidies, or if the reduction takes place in a pre‑existing situation of labour market monopsony. Hence, any foreseen reduction of working hours in the future should be carefully designed to tap into the productivity-enhancing potential of working shorter hours, to generate a positive feedback loop and preserve employment. Moreover, accompanying measures limiting the impact on unit labour costs might also be considered.
+
+Since one key issue here is to identify how to ensure that normal hours reduction generate sufficient productivity gains, a promising way to structure such pre‑policy design analyses would be to look, within each country and possibly sector, at the various channels through which reducing hours might be associated with or stimulate such productivity gains (e.g. increased investment, managerial reorganisation and innovation). Reforms should be designed to provide the right incentives for these channels to be activated. For instance, incentives for investing in IT or organisational innovations could be built in to maximise the productivity enhancing potential of reducing hours.
+
+Beyond measures fostering productivity gains, an important parameter that should also be kept in mind when designing working time policy reforms is negotiated wage progression over the implementation period. In that regard, negotiating working time reduction and wage increases together, as a longer term package deal would allow smoothing the induced increase in hourly wages over a longer period of time, and therefore limiting the rise in unit labour costs.
+
+More generally, careful attention should be devoted to the implementation process, starting with:
+
+*The initial level of weekly normal hours* applying in the country, as well as the scope of the reduction are also key parameters which are likely to influence the hours reduction effect.
+
+Second, *the timing of the policy measure*, as robust economic growth – together with productivity and wage growth might provide scope for easing pressure on unit labour costs.
+
+---
+
+[referencia=ac2a74817c0702be score=0.793]
+The Korean story emerging from Figure 5.8 is aligned with the German one: episodes of contractual hours reduction observed in the Korean data on average led to an increase in the growth of productivity per worker, while it did not significantly affect the growth of employment. In contrast with the German case, wage growth was also insignificantly affected. The sample behind these results contains 31 spells (5.5% of total spells in the sample) of hours reduction – by 4 hours per week on average. The structure of the Korean data (survey waves of limited sample size) only allows looking for spells of contractual hours reductions in two years, 2009 and 2011. This corresponds to the implementation period of a reform reducing normal working hours in Korea: between 2004 and 2011, normal weekly hours were reduced from 44 to 40 hours per week – which is in line with the average reduction observed in our sample. The reform was implemented gradually to give small firms more time to adjust (Hijzen and Thewissen, 2020[110]). Since treated and controls are matched within similar firm-size and industry groups, this staggered implementation does not invalidate the identification strategy detailed in Box 5.3.
+
+The association between contractual hours reduction and log change in productivity per worker in Korea is positive and significant at t+2. By contrast, the associations with log change in number of workers, and log change in average real wage are insignificant. The small sample sizes for the Korean analysis should be kept in mind when interpreting results, however results are robust to using an alternative specification of the collective bargaining variable and adding a control for organisational change.
+
+---
+
+[referencia=ac2a74817c0702be score=0.694]
+Policy debates and related empirical evidence on working time policy so far have generally focused on the regulation of maximum hours to prevent any detrimental effects on workers’ health, and on the reduction of normal weekly hours, with a view to increasing employment. This chapter brings in two new perspectives: first it accounts for the fact that workers’ well-being is an increasingly central societal objective of working time policies, and therefore considers well-being effects alongside productivity and employment effects. In particular, in line with the OECD well-being framework, it distinguishes material aspects (earnings, job status, etc.) and non-material aspects (health, work-life balance, life satisfaction, etc.) of workers’ well-being (OECD, 2015[2]). Second, it accounts for the use of flexible hours and the development of teleworking, given its prevalence and relevance in the aftermath of the COVID‑19 crisis, and considers the impact of these schemes on non-material well-being, productivity and employment. Identifying virtuous circles between welfare and efficiency objectives could help square the working time policy circle.
+
+The chapter starts by exploring the relationship between working time (maximum and normal hours, part-time, flexible hours, and teleworking2) and a set of selected measures of non-material well-being, namely health status (both mental and physical), work-life balance and life and job-satisfaction. Drawing on a combination of literature reviews and on analyses of individual-level data, it first investigates how hours worked, flexible hours arrangements, part-time work and teleworking relate to the above‑mentioned non-material well-being outcomes, to identify potential levers of well-being enhancement (Section 5.1). As results suggest that reducing normal weekly hours and fostering the use of flexible hours and teleworking might in some circumstances lead to well-being gains, the chapter next turns to analysing the impact of these policies on employment, wages and productivity (Section 5.2). To shed some light on these key issues, Section 5.2 next analyses the effects of national legislative reforms that reduced normal weekly hours on employment and productivity in various European countries, before studying the relationship between concrete episodes of reductions of contractual hours at firm level and the growth of productivity, average wage and employment, in Germany, Korea and Portugal where data are available. Finally, the chapter concludes by bringing together all the results and discussing policy options while outlining the importance of timing, scope and careful design and implementation.
+
+---
+
+[referencia=e80f3cdc11336721 score=0.690]
+# **4. Work Time Reduction From the Employee Perspective** 
+
+While the previous sections captured organizationallevel developments, the question remains how employees themselves experience and evaluate the changes to their working time. This perspective is particularly relevant because organizational decisions to continue or discontinue WTR ultimately affect individuals and their responses may not mirror those of management. To examine this, 167 employees responded to a follow-up survey. Their responses offer a differentiated view, as they represent three distinct groups: employees currently working on a reduced schedule (WTR Current), employees who participated in the reduced schedule during the trial but have since returned to a conventional schedule (WTR Former), and employees who served as a control group throughout the pilot and never transitioned to a reduced schedule (Control). Of the 167 respondents, 61.7% belong to the WTR Current group, 24.6% to the WTR Former group, and 13.8% to the Control group. It should be noted that all values reported below are self-reported measures, and the figures presented represent mean values. Throughout this section, differences reaching p < .05 are reported as statistically significant, while those reaching p < .10 are reported as marginally significant. Group differences were examined using Welch’s analysis of variance (ANOVA, which is preferred for unequal sample sizes. Games–Howell post-hoc tests were used for pairwise comparisons, as they do not assume equal variances or equal group sizes.
+
+---
+
+[referencia=ac2a74817c0702be score=0.682]
+Theoretical papers for instance generally assume that working time reductions take place at constant monthly (or annual wage).9 Under this assumption, a reduction of normal hours has an ambiguous effect on employment.10 Simplified versions of the main arguments are as follows (see e.g. Kapteyn et al. (2004[79]) for a more thorough review). Following a simple logic, one could assume that in firms not usually resorting to overtime (i.e. firms where the pre‑reform normal working time was equivalent to the optimal working time), reducing normal hours could incentivise firms to hire more workers in order to meet orders, thus leading to a *positive* effect on employment. Yet, this logic11 assumes that the optimal working time remains the same after the change, and that hours and workers are substitutable (notably ignoring the fixed costs associated with each additional worker). In firms already using overtime before the reduction in normal hours, the marginal cost of hiring an additional worker goes up after the change (since a larger proportion of her time now has to be paid the overtime premium), while the marginal cost of an additional hour is left unchanged: to compensate for the reduction in normal hours these firms might then choose to pay for more overtime rather than hiring new workers, leading thus to a negative effect on employment (Cahuc et al., 2014[80]; Calmfors and Hoel, 1988[81]).12 More generally, the increase in the hourly labour cost following a normal hours reduction could lead firms to substitute capital for labour, leading to a reduction in employment. However, higher hourly pay could be compensated by gains in hourly productivity induced by the reduction in hours – for instance through productivity-enhancing organisational changes, higher investment, the recruitment of more productive workers, or through labour supply responses (more rested workers could have a higher hourly productivity). Gains in hourly productivity would at the same time limit the negative effect on employment, but also suppress the incentives to hire more workers, therefore preserving employment.
+
+---
+
+[referencia=ac2a74817c0702be score=0.612]
+Sandrine Cazes
+
+Clara Krämer
+
+Sebastien Martin
+
+Chloé Touzet
+
+Working time is both a key element of workers’ lives and a production factor. Understanding how working time policy relates to well-being and economic outcomes is thus crucial to design measures balancing welfare and efficiency concerns. Evidence so far has largely focused on the use of maximum hours’ regulation to prevent detrimental effects on workers’ health, and the effect of normal hours reductions on employment levels. This chapter brings two new perspectives: first, it accounts for the fact that workers’ well-being is an increasingly central societal objective of working time policies, and therefore considers well-being effects alongside productivity and employment effects. Second, it accounts for the use of flexible hours and the development of teleworking in the aftermath of the COVID‑19 crisis and considers their impact on well-being, productivity and employment. Building on these analyses, the chapter discusses the potential of various working time policies to enhance non-material aspects of workers’ well-being such as health, work-life balance and life satisfaction while preserving employment or productivity.
+
+Working time is a key component of people’s working lives. Regulating its duration and its organisation is necessary to correct market failures leading to an inefficient allocation of working time and inadequate workers’ protection and to prevent negative externalities linked to long hours or variable schedules. Further, working time regulation can help − and historically has helped − enhancing non-material aspects of workers’ well-being. At the same time, working time being a production factor, policies affecting it will also impact employment, wages and productivity, and ultimately workers’ material well-being. On that basis, this chapter discusses the potential of various working-time policies to enhance workers’ well-being, while accounting for their possible effects on employment and productivity. Although data availability and heterogeneity across countries prevent generalisations, interesting insights emerge.
+
+The empirical literature suggests a close relationship between working long hours and poor health outcomes (particularly when workers have little control on their work schedule), but offers less-clear-cut results for other aspects of workers’ non-material well-being, such as life satisfaction. The literature moreover usually points to beneficial effects of reducing normal weekly hours on non-material aspects of workers’ well-being, if the reduction does not result in higher work intensity.
+
+---
+
+[referencia=e80f3cdc11336721 score=0.550]
+### **3.2.  Organizations Without Work Time Reduction** 
+
+The transition from a reduced working time model back to a standard schedule was associated with several perceived negative effects across the participating organizations. According to their reports, nearly all organizations identified a worsening of both working conditions and work-life balance as a consequence of returning to the original schedule, with all organizations specifically noting a deterioration in work-life balance. In terms of health-related indicators, some organizations reported that sick leave had worsened compared to the period during the reduced schedule. Regarding external positioning, a few organizations reported a decline in employer attractiveness. For all other areas surveyed, no changes were reported. 
+
+Despite these predominantly unfavorable perceptions, most organizations did not encounter major difficulties during the transition itself. Although employees in most organizations did not support the decision to return to a standard schedule, this did not lead to significant operational disruptions such as resignations. In particular, when the reasons for discontinuing the WTR were clearly communicated, management reported that employees were generally understanding, even if not in agreement with the decision. 
+
+Regarding future plans, the organizations without WTR are evenly split into three groups: one third remains undecided, one third has no concrete plans for future changes, and one third has concrete plans to reintroduce some form of work time adjustment. Notably, however, the organizations with concrete plans intend to prioritize work time compression (i.e., redistributing the same number of hours into fewer days) over an actual reduction in total working hours.
+
+---
+
+[referencia=e80f3cdc11336721 score=0.550]
+##### **Status quo of work time reduction in 40 organizations as of February 2026** 
+
+
+
+<!-- Start of picture text -->
+organizations as of February 2026<br><!-- End of picture text -->
+
+Overall, 22% have adapted their model since the end of the trial period. The most frequently cited reason for these changes is that the original 4DW format was perceived as too rigid for everyday operations. One organization summarized this by stating that _"the model worked well in principle, but it was too inflexible for our day-to-day operations.“_ 
+
+As a result, many of these organizations have moved towards more flexible arrangements that allow greater variation depending on teams, roles, and business needs. These adaptations include models with defined weekly reductions, monthly working time targets, or rotation systems. 
+
+6 
+
+Working Time Models 
+
+WORK TIME REDUCTION IN GERMANY 
+
+It is also important to note that reduced working time has not been introduced across entire organizations in every case. In several organizations, the model is still being piloted or has only been implemented in specific parts of the organization. Additionally, the path has not always been linear. One organization, for example, suspended the WTR between March and December 2025 due to a short-term order peak, but reintroduced the model in January 2026 once the situation had stabilized. Other organizations reported that current economic pressure and, in some cases, layoffs influenced both the pace and scope of the rollout. 
+
+Among the 30% of organizations that no longer operate a reduced working week, economic and operational factors play a central role. Workload peaks, volatile business conditions, or structural constraints made it difficult to sustain reduced hours in a reliable way. One organization explained that _"we simply could not guarantee reliable delivery with reduced hours during high-demand phases,"_ while another reported that _"the uncertainty in our market forced us to prioritize shortterm capacity over long-term experiments."_
+
+---
+
+[referencia=ac2a74817c0702be score=0.548]
+Results are presented in Figure 5.9. The adoption of flexible hours is not significantly associated with growth in productivity per worker in either t+1 or t+2. By contrast, flexible hours adoption is positively and significantly related to employment growth at t+1 and t+2. This result is aligned with findings from the literature, which find that flexible hours have a positive impact on worker’s attraction and retention.35 Finally, the adoption of flexible hours is significantly and negatively related to average wage growth in the first year after the change (while the relationship becomes insignificant at t+2). Therefore, a decrease in average wage growth is observed on average in firms adopting flexible hours, in the year after the adoption of flexible hours. One possible interpretation is that increased autonomy in determining hours through flexible hours might indeed be traded against wage increases in when negotiating wages, as suggested by other results in the literature.
+
+This chapter discusses the pro‑and cons of various working time policies at the disposal of policy makers interested in enhancing workers’ well-being, while accounting for their potential adverse effects on employment, wages and productivity. Results from the literature, as well as new empirical evidence presented in this chapter, suggest that reducing normal working hours and facilitating the use of flexible working hours might, in some circumstances, help improve workers’ non-material well-being. Reducing normal hours might in particular help improve workers’ satisfaction with their free time, their job, and their life more generally, while fostering the use of flexible hours might also help enhance all these three outcomes, together with health satisfaction. Further analyses on these policies’ effects on productivity and employment suggest that they might in some circumstances be valid options worth reviewing by policy makers, but impacts on productivity and employment should be closely monitored in the aftermath of the reform. Wide‑ranging recommendations are ill-advised as working time policy should always be analysed in their concrete institutional and national contexts.
+
+---
+
+[referencia=ac2a74817c0702be score=0.527]
+Finally, the story observed in the Portuguese data differs from that emerging from the German and Korean analyses. In Portugal, on average in the data, observed episodes of contractual hours reduction did not significantly affect productivity and wage growth, but they negatively affected employment growth. This is based on data from 668 spells of hours reduction observed in the Portuguese sample (4.2% of total spells in the sample), during which contractual hours were reduced by 3 hours per week on average. The association between reductions of contractual hours and growth in value added per worker is insignificant in both post-change years. Similarly, there are no significant associations between average real wage growth and reductions of contractual hours. By contrast, growth in employment is significantly and negatively associated with reductions of contractual hours when considering both changes between t and t+1, and those between t and t+2).29 Results hold when excluding 2012 and 2013 − which display a higher concentration of cases30 − from the analysis, and when replacing the control for investment in technology with a more precise control for investment in software (to test for the possibility that digital solutions are adopted to compensate for the lost hours of work).
+
+Regarding insignificant results, while those observed in the Korean analysis (on employment growth and average wage growth) might be difficult to interpret due to the limited sample sizes available, the panel data used for the German and Portuguese analyses are rich enough to cautiously interpret the results that are non-significant (i.e. the results on employment growth in Germany, and on the growth of value added per worker and average wage growth in Portugal) as an actual absence of statistical relationship on average (possibly due to heterogeneous effects cancelling out each other) rather than as the effect of a weak statistical power. Overall, these results show that reductions of contractual hours can yield positive results in terms of productivity growth and leave employment growth unaffected on average in some cases (e.g. the German case), while they can leave productivity growth unaffected and yield negative results in terms of employment growth in others (e.g. the Portuguese case). Considered together, these results suggest (although they do not prove) that there could be a virtuous circle in some cases – which does not however materialise in all instances – with productivity increases potentially limiting the rise of unit labour cost and therefore the potentially negative effect on employment growth.
+
+---
+
+[referencia=ac2a74817c0702be score=0.522]
+Firm-level analyses of the relationship between observed **contractual hours reductions** and economic outcomes in Germany, Korea and Portugal − point to contrasted results, but suggest that virtuous circles might exist in some instances, whereby the reduction in hours generates a productivity increase that limits the rise of unit labour cost and therefore prevents the potentially negative effect on employment growth. Understanding why such virtuous circles manifest in some cases and not in others should be investigated in future research, but could be explained by national differences in the institutional context of the decision-making process, notably well-functioning collective bargaining and strong social dialogue.
+
+These two empirical approaches assess two different types of hours reduction. The first one looks at the employment and productivity effects of national legislative reforms generally applying to all firms and sectors and widely anticipated by employers. The second one focuses on contractual hours reductions at firm-level that might result from legislative reforms, collective bargaining or unilateral decisions from employers. Yet, despite their differences, the results emerging from these approaches are consistent and aligned with the majority of the existing literature. Reducing working hours (at constant monthly wage) might preserve employment on average if the impact on unit labour cost remains limited (either due to sufficient induced productivity gains or to public subsidies to affected firms/sectors). These results may also arise if the reduction of hours takes place in a pre‑existing situation of labour market monopsony (where the existence of a profit rent means that firms can absorb higher labour costs, see Chapter 3).
+
+Outside the case of firms enjoying monopsony power, the results of this chapter point to the need to fully factor in the possible impact on unit labour costs when considering reductions of normal hours. This could be done through dedicated accompanying measures, or by designing the reduction so that it taps into the productivity-enhancing potential of the reform. Careful attention should also be devoted to the timing, conditions of implementation and scope of the reduction which are all likely to influence the effect of the reduction.
+
+---
+
+[referencia=ac2a74817c0702be score=0.463]
+| Quasi-causal | (Crépon and Kramarz, 2002[91]) | *Employed* *40* *Hours or Not Employed 39: Lessons from the* *1982* *Mandatory Reduction of the Workweek* | Difference‑in-difference (DiD) with imperfectly comparable control group | Individual-level | Statutory hours reduction. | Job losses, hours change. | France | Workers more affected by the reform were less likely to be employed after it than observationally identical workers who were not affected by it. Workers more affected lost their jobs more often than less affected – especially minimum wage workers; better compensated workers were less directly affected by the reduction of the workweek. | 
+| Quasi-causal | (Skuterud, 2007[97]) | *Identifying the Potential of Work-Sharing as a Job-Creation Strategy* | Difference‑in-difference (DiD) with imperfectly comparable control group | Individual-level | Statutory hours reduction. | Employment. | Quebec | Results on employment are non-significant: the point estimate is negative, but non-significant throughout, and, crucially, it is not increasing with the share of supposedly affected workers in the industry. These negative – insignificant – coefficients are observed only for men, while coefficients are positive for women. | 
+| Quasi-causal | (Sánchez, 2013[98]) | *Do reductions of standard hours affect employment transitions?: Evidence from Chile* | Difference‑in-Difference (DiD) comparing workers with different likelihood to be affected | Individual-level | Statutory hours reduction | Wages, Employment transitions | Chile | The reduction of standard hours had no significant effects on employment transitions (i.e. no effect on excess job destruction), but had a significant effect on hourly wages (i.e. evidence of wage compensation). | 
+| Quasi-causal | (Raposo and van Ours, 2010[92]) | *How working time reduction affects jobs and wages*  | Difference in Difference (DiD) comparing workers with different likelihood to be affected | Matched employee‑employer | Statutory hours reduction | Wages, Employee retention | Portugal | For workers affected the reduction reduced the job separation rate and increased hourly wages, keeping monthly earnings approximately constant. The working hours reduction also affected workers who already worked less than the new norm, who were more likely to lose their job. |
+
+---
+
+[referencia=e80f3cdc11336721 score=0.453]
+#### **Carsten Meier** 
+
+_Initiator 4 Tage Woche Deutschland Co-Author WORK LIFE REMIX Co-Founder Intraprenör_ 
+
+The long-term results of the report point to one central insight: **Piloting new ways of working pays off.** It pays off when models are permanently implemented — reflected in stronger employer attractiveness, stable performance, and improved well-being. It also pays off when organizations ultimately decide not to continue. Even in those cases, valuable insights emerge regarding efficiency, prioritization, and organizational limits. 
+
+16 
+
+References 
+
+WORK TIME REDUCTION IN GERMANY
+
+---
+
+[referencia=ac2a74817c0702be score=0.431]
+Results from the literature and new OECD empirical evidence on working time and workers’ non-material well-being presented in the previous paragraphs suggest that some levers of working time policies exist that might enhance workers’ non-material well-being, such as policies regulating working hours (maximum and normal). While limits on maximum hours and overtime are already in place in most OECD countries to prevent their detrimental effect on workers’ health (OECD, 2021[1]), the regulation of normal weekly hours has less often been considered as a potential instrument to foster workers’ well-being. Yet, available evidence on the link between actual working hours and various non-material well-being outcomes presented above cautiously suggests that a reduction of normal weekly hours could enhance workers’ non-material well-being. Other options to improve workers’ non-material well-being discussed above include flexible hours, teleworking and part-time work. Yet, as shown in Figure 5.5 and Figure 5.6, part-time, even when voluntary, might be associated with negative well-being outcomes, in cases where it is chosen for caring reasons – which is likely to be the case for a large proportion of female workers in particular. In addition, the already existing extensive research on part-time work also suggests that even voluntary forms have limited potential for increasing workers’ non-material, let alone material well-being. By contrast, results in Figure 5.5 and Figure 5.6 suggest that flexible hours might be a more promising means of improving workers’ non-material well-being – and one that has been less researched so far.
+
+Beyond assessing their impact on non-material well-being, the effect of these policy options on employment and productivity should also be evaluated, since these two outcomes have ripple effects on workers’ material well-being. A crucial element to consider in this analysis is the extent to which a reduction in normal working hours would maintain the same monthly/weekly income for workers, thus inducing an increase of hourly pay and potentially on labour cost if increases in hourly productivity do not offset increases in pay. Effects on employment levels should also be carefully assessed.
+
+The remainder of this chapter sets out to investigate the effect of normal hour reductions and flexible hours on employment and productivity. While the effect of teleworking on non-material well-being outcomes is less clear-cut, its effect on employment and productivity are also evaluated, on account of its increased prevalence and relevance in the aftermath of the COVID‑19 crisis – and since teleworking and flexible hours often come as a package deal.
+
+---
+
+[referencia=ac2a74817c0702be score=0.397]
+| Quasi-causal | (Crépon, Leclair and Roux, 2004[93]) | *RTT, productivité et emploi**: n**ouvelles estimations sur données d**’**entreprises* | Difference‑in-Difference (DiD) with self-selection issues but numerous convincing test of parallel trends hypothesis. | Firm-level | Statutory hours reduction | Employment, productivity, wages. | France | Firms adopting the 35 hours saw a slight reduction in total factor productivity, less than expected based on the hours change; employment in these firms increased. Authors posit that this is largely due to wage restraint and social security cuts, rather than to the reduction in hours per se. | 
+| Quasi-causal | (Kawaguchi, Naito and Yokoyama, 2017[100]) | *Assessing the effects of reducing standard hours: Regression discontinuity evidence from Japan* | Regression Discontinuity Design (RDD) | Firm-level | Statutory hours reduction | Hours worked, monthly wages, annual bonuses, and hires. | Japan | The results of the RD analyses show that the reduction of standard hours from 44 to 40 in the manufacturing industry decreased hours worked, but this effect is not statistically significant when we estimate the average treatment effect. Overall, on average, the reduction of standard hours did not change hours worked, monthly wages, annual bonuses, and employment in statistically significantly ways. Results on new hires are still insignificant when considering heterogeneous establishment types. |
+
+---
+
+[referencia=ac2a74817c0702be score=0.363]
+| Theoretical | (Schank, 2015[136]) | *Employment effects of longer working hours* | Theoretical modelling | N/A | Negotiated hours increase | Employment, wages. | N/A | Extending work hours may reduce employment in the short term but may increase it in the long term if hourly pay remains constant (which means a welfare decline for workers). Extending standard hours could also safeguard jobs in firms under competitive pressure. | 
+| Theoretical | (Marimon and Zilibotti, 2000[137]) | *Employment and distributional effects of restricting working time* | Theoretical modelling | N/A | Hours reduction | Employment, profits, output. | N/A | Small reductions in working time starting from the laissez-faire equilibrium solution, always result in a small increase in the equilibrium employment, while larger reductions reduce employment. The regulation benefits workers, both unemployed and employed (even if wages decrease and even in cases where employment falls), but reduces profits and output. | 
+| Theoretical | (Rocheteau, 2002[138]) | *Working time regulation in a search economy with worker moral hazard* | Theoretical modelling | N/A | Hours reduction | Employment, worker well-being | N/A | When unemployment is high, reducing working hours increases aggregate employment. At the opposite, for low unemployment countries, a working time reduction worsens the labour market situation. If the working time reduction takes place with no wage loss, the model predicts a non-ambiguous increase in the equilibrium unemployment rate. | 
+| Theoretical | (Contensou and Vranceanu, 2000[139]) | *A model of working time under utility competition in the labour market* | Theoretical modelling | N/A | Hours reduction | Employment. | N/A | If a limit on the duration of work is imposed to an initially free system, at first, a favourable effect on employment might be achieved for a constant utility level of workers. A too “strong” working-time constraint would have a perverse effect on the demand for workers. |
+
+---
+
+[referencia=ac2a74817c0702be score=0.345]
+However, the limited number of existing studies on working hours and productivity focuses almost exclusively on the potential productivity effect of reducing workers’ fatigue through regulation on *maximum* hours and overtime. On the latter, the evidence in the literature is rather unanimous:18 productivity decreases with long hours. The evidence on the productivity effect of reducing normal hours is scarcer.19 Delmez and Vandenberghe (2017[103])’s analysis on total hours (which therefore linearly averages effects of normal hours and overtime) shows clear evidence of a declining productivity of hours in Belgian firms (with a 1% increase in firm-level hours leading to a 0.8% increase in firm-level value added). Crépon et al. (2004[93]), however, observe a slight decrease in total factor productivity following the reduction in normal hours from 39 to 35 hours in France in the early 2000s. By contrast, Park and Park (2019[104]) exploit the stepwise reduction in normal hours from 44 to 40 hours between 2004 and 2011 in Korean manufacturing firms, and find that it even increased total output per worker (i.e. not only hourly productivity). Evidence of decreasing marginal returns to normal working hours has been found in cross-country (Cette, Chang and Konte, 2011[105]) as well as micro-level analyses (Collewet and Sauermann, 2017[106]). This last study, based on an experiment – and therefore with particularly robust results – with Dutch call-centre workers in the 2010s, is particularly enlightening. Indeed, it exploits variation in the effective working time (i.e. excluding breaks, slack or training hours) due to random changes in weekly schedules, of workers paid by the hour and employed on average for 6 hours per day, 4 days a week (and effectively working 17.7 hours per week). Using these precise data, Collewet and Sauermann find strong evidence of a fatigue effect, with hourly productivity decreasing with hours, even for workers in intensive part-time jobs.
+
+---
+
+[referencia=f91a291d16b4158f score=0.338]
+When assessing the response of employees in the trial, researchers found that:
+
+- Before the pilot project, employees worked 41.6 hours (including overtime) compared to 36.5 hours during the pilot (a reduction of 12%).
+- Employees experienced an improvement in mental and physical health and significant reduction in exhaustion and negative mental health symptoms, compared to a control group.
+- Better balance between work, family, and personal life was reported. The percentage of workers who struggled with balancing work and personal life fell from 50% to a remarkable 16%.
+- Increased satisfaction with work and life in general, compared to a control group
+- Workers value this benefit at 28% of their salary. The value attributed to the 4-day week is higher among women, workers with children, those with salaries below €1100, and those with lower qualifications.
+- 93% of workers would like to continue having this work time reduction.
+
+Research coordinator **Dr. Rita Fontinha****, Associate Professor of Strategic Human Resources at Henley Business School** said**:** 
+
+*"Like in other international trials, a work time reduction in the format of a 4-day week has a tremendous effect on workers well-being and work-life balance. As such, they value this benefit as if it represented 28% of their wage on average.* 
+
+*As expected, women attribute a higher value to the 4-day week. Perhaps the most surprising finding is that the 4-day week is more valued by low earners and workers without a higher degree, who have less flexibility in managing their working hours and fewer resources to buy services to free their time."*

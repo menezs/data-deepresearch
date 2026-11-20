@@ -1,0 +1,316 @@
+2026-11-02 11:24:13,113 INFO     auditframework.cli: Iniciando run
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z para
+                                 answers/Claude/Emergente/ia_generativa_entretenimento.md (ferramenta=Claude)
+2026-11-02 11:24:20,487 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-02 11:24:20,486 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-02 11:24:22,434 INFO     auditframework.terminal: Loading weights:
+                                 100%|███████████████████████████████████████████████████████████████████████████|
+                                 391/391 [00:00<00:00, 21038.24it/s]
+2026-11-02 11:24:34,299 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-02 11:24:34,307 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-02 11:24:34,316 INFO     auditframework.pipeline: Extraidas 53 referencias de
+                                 answers/Claude/Emergente/ia_generativa_entretenimento.md (0 descartadas como artefato
+                                 do exportador)
+2026-11-02 11:24:34,324 INFO     auditframework.pipeline: Resposta dividida em 68 trechos citados
+2026-11-02 11:24:34,326 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-02 11:24:34,326 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-02 11:24:34,329 INFO     auditframework.ingestion.service: Ingestao: 53 referencias, 0 ja baixadas, 0 ja
+                                 bloqueadas, 53 pendentes
+2026-11-02 11:24:38,043 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.sagaftra.org/sag-aftra-members-approve-2026-tvtheatrical-contracts-tentative-agreement
+2026-11-02 11:24:38,047 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts
+2026-11-02 11:24:40,614 WARNING  auditframework.ingestion.service: Referencia morta:
+                                 https://www.ddg.fr/actualite/lehrman-and-sage-v-lovo-inc-a-landmark-us-decision-on-voice-cloning-and-ai
+2026-11-02 11:24:44,140 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence
+2026-11-02 11:24:45,272 ERROR    trafilatura.utils: parsed tree length: 0, wrong data type or not valid HTML
+2026-11-02 11:24:45,273 ERROR    trafilatura.core: empty HTML tree: None
+2026-11-02 11:24:45,274 WARNING  trafilatura.core: discarding data: None
+2026-11-02 11:24:46,069 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.lexblog.com/?p=2768510
+2026-11-02 11:24:46,369 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.globalpolicywatch.com/2024/09/california-passes-digital-replica-legislation-as-congress-considers-federal-approach/
+2026-11-02 11:24:48,769 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.congress.gov/bill/119th-congress/senate-bill/4591
+2026-11-02 11:24:50,542 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://thehill.com/opinion/congress-blog/technology/6124241-congress-no-fakes-act-vote/
+2026-11-02 11:24:53,138 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform
+2026-11-02 11:24:54,062 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator/
+2026-11-02 11:24:54,561 WARNING  trafilatura.core: discarding data: None
+2026-11-02 11:24:54,562 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.barchart.com/story/news/35789376/universal-music-and-ai-song-generator-udio-settle-lawsuit-and-partner-on-new-ai-music-platform
+2026-11-02 11:24:57,270 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/
+2026-11-02 11:25:00,320 INFO     auditframework.terminal: Baixando referências:
+                                 100%|██████████████████████████████████████████████████████████████████████████| 53/53
+                                 [00:25<00:00,  2.04ref/s]
+2026-11-02 11:25:00,321 INFO     auditframework.ingestion.service: Retentando 1 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-02 11:25:03,400 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/
+2026-11-02 11:25:03,402 INFO     auditframework.terminal: Retentando inacessíveis:
+                                 100%|█████████████████████████████████████████████████████████████████████████| 1/1
+                                 [00:03<00:00,  3.08s/ref]
+2026-11-02 11:25:03,404 INFO     auditframework.pipeline: Ingestao concluida: 41 documentos disponiveis
+2026-11-02 11:25:03,406 INFO     auditframework.terminal: ✓ ingestion concluído em 29.1s
+2026-11-02 11:25:03,406 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-02 11:25:03,691 INFO     auditframework.terminal: Extraindo chunks de documentos:
+                                 100%|███████████████████████████████████████████████████████████████| 41/41
+                                 [00:00<00:00, 146.00doc/s]
+2026-11-02 11:25:03,691 INFO     auditframework.indexing.service: Gerando embeddings para 129 chunks de 41 documentos
+2026-11-02 11:25:12,247 INFO     auditframework.terminal: Batches:
+                                 100%|██████████████████████████████████████████████████████████████████████████████████████████|
+                                 9/9 [00:08<00:00,  1.05it/s]
+2026-11-02 11:25:12,258 INFO     auditframework.pipeline: Indice construido a partir de 41 documentos
+2026-11-02 11:25:12,259 INFO     auditframework.terminal: ✓ indexing concluído em 7.4s
+2026-11-02 11:25:12,260 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-02 11:25:12,263 INFO     auditframework.pipeline: Julgamento: 68 chunks, 0 ja julgados, 0 ja pulados, 68
+                                 pendentes
+2026-11-02 11:25:12,986 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-02 11:25:13,437 INFO     auditframework.terminal: Recuperando contexto:   0%|
+                                 | 0/68 [00:00<?, ?chunk/s]
+2026-11-02 11:25:13,539 INFO     auditframework.terminal: Loading weights:   0%|
+                                 | 0/393 [00:00<?, ?it/s]
+2026-11-02 11:25:13,639 INFO     auditframework.terminal: Loading weights:  33%|█████████████████████████▎
+                                 | 131/393 [00:00<00:00, 1302.22it/s]
+2026-11-02 11:25:13,668 INFO     auditframework.terminal: Loading weights:
+                                 100%|████████████████████████████████████████████████████████████████████████████|
+                                 393/393 [00:00<00:00, 1701.54it/s]
+2026-11-02 11:25:51,571 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-2 nao sera auditado:
+                                 Referencia(s) citada(s) ['cf4feb10962eb445'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:51,712 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-4 nao sera auditado:
+                                 Referencia(s) citada(s) ['0ad3078ef2adc633'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:53,111 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-18 nao sera auditado:
+                                 Referencia(s) citada(s) ['ec3751446ec09932'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-02 11:25:53,704 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-25 nao sera auditado:
+                                 Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:53,706 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-26 nao sera auditado:
+                                 Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:53,943 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-30 nao sera auditado:
+                                 Referencia(s) citada(s) ['0ad3078ef2adc633'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:53,945 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-31 nao sera auditado:
+                                 Referencia(s) citada(s) ['409f4f93bfa35581'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:53,947 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-32 nao sera auditado:
+                                 Referencia(s) citada(s) ['f25206dddb6ca996'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:54,948 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-36 nao sera auditado:
+                                 Referencia(s) citada(s) ['5742a9651bf6ca88'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:55,311 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-39 nao sera auditado:
+                                 Referencia(s) citada(s) ['5742a9651bf6ca88'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:55,313 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-40 nao sera auditado:
+                                 Referencia(s) citada(s) ['87b390438278affb'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:55,314 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-41 nao sera auditado:
+                                 Referencia(s) citada(s) ['87b390438278affb'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:56,414 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-51 nao sera auditado:
+                                 Referencia(s) citada(s) ['33cc628f70bdd87f'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-02 11:25:56,416 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-52 nao sera auditado:
+                                 Referencia(s) citada(s) ['89127e7e5f38bd2c'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:56,417 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-53 nao sera auditado:
+                                 Referencia(s) citada(s) ['cac5f3ab2ca8fb73'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:56,419 WARNING  auditframework.indexing.retriever: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-54 nao sera auditado:
+                                 Referencia(s) citada(s) ['b8c1b1befacee0ee'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:25:59,582 INFO     auditframework.terminal: Recuperando contexto:
+                                 100%|████████████████████████████████████████████████████████████████████████| 68/68
+                                 [00:47<00:00,  1.44chunk/s]
+2026-11-02 11:27:05,447 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-2 nao auditado:
+                                 Referencia(s) citada(s) ['cf4feb10962eb445'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:27:12,328 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-4 nao auditado:
+                                 Referencia(s) citada(s) ['0ad3078ef2adc633'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:28:05,683 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-18 nao auditado:
+                                 Referencia(s) citada(s) ['ec3751446ec09932'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-02 11:28:59,116 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-25 nao auditado:
+                                 Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:28:59,118 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-26 nao auditado:
+                                 Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:29:32,377 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-30 nao auditado:
+                                 Referencia(s) citada(s) ['0ad3078ef2adc633'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:29:32,378 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-31 nao auditado:
+                                 Referencia(s) citada(s) ['409f4f93bfa35581'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:29:32,379 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-32 nao auditado:
+                                 Referencia(s) citada(s) ['f25206dddb6ca996'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:29:46,040 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-36 nao auditado:
+                                 Referencia(s) citada(s) ['5742a9651bf6ca88'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:29:50,411 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-39 nao auditado:
+                                 Referencia(s) citada(s) ['5742a9651bf6ca88'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:29:50,412 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-40 nao auditado:
+                                 Referencia(s) citada(s) ['87b390438278affb'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:29:50,413 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-41 nao auditado:
+                                 Referencia(s) citada(s) ['87b390438278affb'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:30:25,138 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-51 nao auditado:
+                                 Referencia(s) citada(s) ['33cc628f70bdd87f'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-02 11:30:25,139 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-52 nao auditado:
+                                 Referencia(s) citada(s) ['89127e7e5f38bd2c'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:30:25,141 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-53 nao auditado:
+                                 Referencia(s) citada(s) ['cac5f3ab2ca8fb73'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:30:25,142 WARNING  auditframework.pipeline: Chunk
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z-54 nao auditado:
+                                 Referencia(s) citada(s) ['b8c1b1befacee0ee'] bloqueada(s) por barreira de acesso
+                                 (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 11:32:47,081 INFO     auditframework.terminal: Julgando chunks:
+                                 100%|█████████████████████████████████████████████████████████████████████████████|
+                                 68/68 [06:47<00:00,  5.99s/chunk]
+2026-11-02 11:32:47,083 INFO     auditframework.terminal: ✓ judging concluído em 435.6s
+2026-11-02 11:32:47,089 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-02 11:32:47,094 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/ia_generativa_entretenimento_839e59588d73_20261102T152413Z/report.md
+2026-11-02 11:32:47,096 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-02 11:32:47,096 INFO     auditframework.cli: Run ia_generativa_entretenimento_839e59588d73_20261102T152413Z
+                                 concluida
+2026-11-02 11:32:47,097 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/ia_generativa_entretenimento_839e59588d73_20261102T152413Z/report.md
+2026-11-03 23:30:10,483 INFO     auditframework.terminal: audit refetch
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z
+2026-11-03 23:30:10,490 INFO     auditframework.ingestion.service: Ingestao: 53 referencias, 41 ja baixadas, 0 ja
+                                 bloqueadas, 12 pendentes
+2026-11-03 23:30:11,391 WARNING  auditframework.ingestion.service: Referencia morta:
+                                 https://www.ddg.fr/actualite/lehrman-and-sage-v-lovo-inc-a-landmark-us-decision-on-voice-cloning-and-ai
+2026-11-03 23:30:15,881 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.sagaftra.org/sag-aftra-members-approve-2026-tvtheatrical-contracts-tentative-agreement
+2026-11-03 23:30:15,898 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts
+2026-11-03 23:30:15,934 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.lexblog.com/?p=2768510
+2026-11-03 23:30:16,069 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence
+2026-11-03 23:30:19,043 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.congress.gov/bill/119th-congress/senate-bill/4591
+2026-11-03 23:30:19,579 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.globalpolicywatch.com/2024/09/california-passes-digital-replica-legislation-as-congress-considers-federal-approach/
+2026-11-03 23:30:19,863 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://thehill.com/opinion/congress-blog/technology/6124241-congress-no-fakes-act-vote/
+2026-11-03 23:30:22,694 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform
+2026-11-03 23:30:23,375 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator/
+2026-11-03 23:30:24,747 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:30:24,748 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.barchart.com/story/news/35789376/universal-music-and-ai-song-generator-udio-settle-lawsuit-and-partner-on-new-ai-music-platform
+2026-11-03 23:30:26,356 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/
+                                 recuperada imitando o Safari
+2026-11-03 23:30:26,573 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 12/12 [00:16<00:00,
+                                 1.34s/ref]
+2026-11-03 23:30:26,578 INFO     auditframework.terminal: ia_generativa_entretenimento_839e59588d73_20261102T152413Z: 12
+                                 fonte(s) sem conteudo, 1 recuperada(s)
+2026-11-03 23:30:26,578 INFO     auditframework.terminal:
+                                 https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/
+                                 — downloaded
+2026-11-03 23:30:26,644 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para
+                                 data/runs/ia_generativa_entretenimento_839e59588d73_20261102T152413Z/invalidado-20261104T033026Z
+2026-11-03 23:30:26,644 INFO     auditframework.terminal: 1 trecho(s) citado(s) para julgar de novo (os demais mantem o
+                                 veredito)
+2026-11-03 23:30:26,644 INFO     auditframework.terminal: Rode: audit resume
+                                 ia_generativa_entretenimento_839e59588d73_20261102T152413Z
+2026-11-03 23:30:27,227 INFO     __main__: Retomando run ia_generativa_entretenimento_839e59588d73_20261102T152413Z
+2026-11-03 23:30:33,708 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:30:33,708 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:30:35,614 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 13034.80it/s]
+2026-11-03 23:30:44,865 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-03 23:30:44,871 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-03 23:30:44,871 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-03 23:30:44,872 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-03 23:30:45,193 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 42/42
+                                 [00:00<00:00, 132.40doc/s]
+2026-11-03 23:30:45,193 INFO     auditframework.indexing.service: Gerando embeddings para 155 chunks de 42 documentos
+2026-11-03 23:30:52,838 INFO     auditframework.terminal: Batches: 100%|██████████| 10/10 [00:07<00:00,  1.31it/s]
+2026-11-03 23:30:52,853 INFO     auditframework.pipeline: Indice construido a partir de 42 documentos
+2026-11-03 23:30:52,855 INFO     auditframework.terminal: ✓ indexing concluído em 8.0s
+2026-11-03 23:30:52,856 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-03 23:30:52,861 INFO     auditframework.pipeline: Julgamento: 68 chunks, 52 ja julgados, 15 ja pulados, 1
+                                 pendentes
+2026-11-03 23:30:53,714 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-03 23:30:54,172 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/1 [00:00<?, ?chunk/s]
+2026-11-03 23:30:54,276 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-03 23:30:54,376 INFO     auditframework.terminal: Loading weights:  35%|███▌      | 138/393 [00:00<00:00,
+                                 1366.44it/s]
+2026-11-03 23:30:54,419 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 1605.10it/s]
+2026-11-03 23:31:02,908 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 1/1 [00:10<00:00,
+                                 10.05s/chunk]
+2026-11-03 23:31:05,792 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 1/1 [00:02<00:00,
+                                 2.88s/chunk]
+2026-11-03 23:31:05,793 INFO     auditframework.terminal: ✓ judging concluído em 12.9s
+2026-11-03 23:31:05,796 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-03 23:31:05,802 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/ia_generativa_entretenimento_839e59588d73_20261102T152413Z/report.md
+2026-11-03 23:31:05,804 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-03 23:31:05,804 INFO     __main__: Run ia_generativa_entretenimento_839e59588d73_20261102T152413Z concluida
+2026-11-03 23:31:05,805 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/ia_generativa_entretenimento_839e59588d73_20261102T152413Z/report.md

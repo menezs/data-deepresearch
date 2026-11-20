@@ -1,0 +1,54 @@
+[referencia=f3c191f5da0df394 score=0.913]
+- Brazilian courts have issued secret orders directing U.S. social media companies — including X, Meta, and Google — to remove political content and suspend user profiles, with X barred from operating in Brazil from August to October 2024 and Rumble suspended since February 2025;
+- Brazil’s central bank, acting as both regulator and owner/operator of the national instant payment system Pix, mandates its use by financial institutions with more than 500,000 accounts and requires that Pix be displayed no less prominently than competing payment services;
+- Brazil maintains preferential trade arrangements with Mexico and India covering hundreds of tariff lines at rates between 10 and 100 percent lower than the most-favored-nation (MFN) rate applied to competing U.S. exports;
+- In September 2023, Brazilian Supreme Court Justice Dias Toffoli annulled all evidence in a key leniency agreement arising from Operation Car Wash — the largest transnational corruption scheme in history — leading to the annulment of more than a hundred cases in Brazil;
+- Brazil has remained on USTR’s Special 301 Watch List since 2007, with ongoing failures to address counterfeiting, biopharmaceutical patent pendency, and widespread online piracy;
+- Brazil reinstated tariffs on imports of U.S. ethanol in 2017 — currently set at 18% as of February 2023 — causing U.S. ethanol exports to Brazil to fall from a peak of $761 million in 2018 to $96 million in 2025; and
+- As Brazil has failed to enforce its environmental laws, deforestation has become systemic, with reports indicating that between 2023 and 2024, approximately 91% of deforestation in the Amazon was illegal.
+
+USTR also noted an important limitation in its digital trade findings: on the facts gathered to date, it is not making findings at this time with respect to the actionability of measures relating to the Brazilian Supreme Court’s June 26, 2025 decision or restrictions on transfers of personal data outside Brazil.
+
+---
+
+[referencia=a5e3b7dfe1211567 score=0.910]
+Um grupo de 20 deputados dos Estados Unidos **cobra ações do presidente Donald Trump contra o projeto que visa a regulação das Big Techs no Brasil**, em trâmite na Câmara dos Deputados. Em ofício enviado ao chefe do Escritório do Representante de Comércio dos EUA, Jamieson Greer, os congressistas afirmam que as regras em análise no Brasil **"oneram plataformas digitais americanas bem-sucedidas com um novo regime regulatório”**.
+
+O documento, assinado pelos deputados Adrian Smith e Jim Jordan e subescrito por outros 18 parlamentares republicanos, aponta **semelhanças entre a legislação proposta no Brasil e as leis aplicadas pela União Europeia**. O grupo diz ser “preocupante” que o projeto siga tramitando após a aplicação da tarifa de 25% sobre produtos brasileiros imposta pelo governo Trump por supostas práticas desleais na relação comercial com os EUA.
+
+“É particularmente preocupante que, justamente no momento em que as ações relacionadas a essa investigação estão sendo finalizadas, o Brasil busque expandir suas políticas discriminatórias em vez de consultar os Estados Unidos para resolver essas preocupações”, diz o ofício.
+
+“Caso essa medida avance, ela agravará as barreiras existentes para as empresas digitais dos EUA que operam no Brasil e dará continuidade a uma tendência preocupante de proliferação de medidas semelhantes à DMA (Digital Markets Act), que são abertamente discriminatórias e entram em conflito direto com os interesses norte-americanos”, argumentam os deputados norte-americanos.
+
+O PL 4675 foi apresentado pelo governo Lula e já tem parecer emitido pelo relator na Câmara, deputado Aliel Machado (PV). O presidente da Casa, Hugo Motta (Republicanos), aguarda negociação entre líderes partidários para colocar o projeto em votação.
+
+---
+
+[referencia=f3c191f5da0df394 score=0.734]
+Pursuant to Sections 301(b) and (c) of the Trade Act, the Trade Representative proposes to impose tariffs of 25% on all goods of Brazil, with exemptions for certain goods including informational materials, donations, accompanied baggage, all articles and parts of articles subject to Section 232 tariffs, and certain raw materials and products identified in the Annex — including products that could cause economy-wide disruptions if subjected to the additional tariffs, goods that cannot be grown or produced in sufficient quantities in the United States, and articles for which additional tariffs may not contribute substantially to the elimination of Brazil’s actionable practices.
+
+USTR specifically seeks comment on the proposed tariff coverage and exclusions, including whether particular tariff subheadings should be added or removed in light of domestic supply needs, alternative sourcing, potential supply-chain dislocations, and whether tariffs would be practical or effective in addressing the challenged practices. USTR also invited views on U.S. engagement with Brazil in the context of the ongoing **Special 301 review**.
+
+USTR specifically seeks comments on the proposed tariff coverage and exclusions, including whether particular tariff subheadings should be added or removed in light of domestic supply needs, alternative sourcing, potential supply-chain dislocations or economy-wide disruptions, and whether tariffs would be practical or effective in eliminating the challenged practices. USTR also invited views on U.S. engagement with Brazil in the context of the ongoing Special 301 Review, USTR’s annual review of whether U.S. trading partners adequately protect and enforce intellectual property rights.
+
+The comment period opened on June 1, 2026; written comments are due by July 1, 2026; requests to appear at the public hearing, along with a summary of testimony, must be submitted by June 22, 2026; and the public hearing will be held on July 6, 2026, at the U.S. International Trade Commission, 500 E Street SW, Washington, DC 20436. Written comments must be submitted through the USTR online portal at https://comments.ustr.gov/s/ under docket number USTR-2026-0331, and hearing participation requests must be submitted under docket number USTR-2026-0397.
+
+Crowell & Moring, LLP will continue to monitor this proceeding and advise clients on developments and the potential impact to businesses and importers sourcing goods from Brazil.
+
+---
+
+[referencia=f3c191f5da0df394 score=0.686]
+The Office of the United States Trade Representative (USTR) has issued a Notice of Determination and Request for Comments, finding that certain of Brazil’s acts, policies, and practices are actionable under Sections 301(b) and 304(a) of the Trade Act of 1974. If adopted as proposed, USTR would impose additional tariffs of 25% on Brazilian-origin goods, subject to specified exemptions.
+
+At the specific direction of the President, USTR initiated the investigation on July 15, 2025, covering six distinct issue areas: (1) digital trade and electronic payment services; (2) unfair, preferential tariffs; (3) anti-corruption enforcement; (4) intellectual property protection; (5) ethanol market access; and (6) illegal deforestation.
+
+Interested parties submitted over 295 comments and rebuttal comments, and USTR and the Section 301 Committee convened a public hearing on September 3, 2025, during which witnesses provided testimony and answered questions. On July 15, 2025, the Trade Representative also requested consultations with the Government of Brazil pursuant to Section 303(a) of the Trade Act, 19 U.S.C. § 2413(a), with consultations held on April 15 and 16, 2026.
+
+Based on information obtained during the investigation and in consultation with the Section 301 Committee, the Trade Representative determined that certain Brazil’s acts, policies, and practices in each of the six issue areas are unreasonable or discriminatory and burden or restrict U.S. commerce, and are therefore actionable. The specific findings span a broad range of conduct:
+
+---
+
+[referencia=a5e3b7dfe1211567 score=0.000]
+A proposta amplia os poderes do Conselho Administrativo de Defesa Econômica (Cade) para fiscalizar negócios no setor digital, com a criação de uma superintendência específica para o tema. O conselho também poderá agir preventivamente, antes de uma grande aquisição ou se antecipando a um movimento de mercado que prejudique a livre concorrência.
+
+A proposta cria ainda uma categoria de empresas consideradas de risco sistêmico: aquelas que faturam mais de R$ 5 bilhões no Brasil ou mais de R$ 50 bilhões no mundo

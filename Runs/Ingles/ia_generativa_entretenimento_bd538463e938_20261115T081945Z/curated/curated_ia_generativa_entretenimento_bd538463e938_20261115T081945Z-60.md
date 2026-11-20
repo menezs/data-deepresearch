@@ -1,0 +1,291 @@
+[referencia=a5ab084a52257129 score=0.425]
+#### **2. Acquisition and Curation** 
+
+Training data can be acquired in various ways from a variety of sources.  One common practice is downloading “publicly available” data from the internet.<sup>70</sup> This can mean using automated tools to systematically “scrape” data from online sources, such as deploying stream- 
+
+> 65 _See generally_ Qinhong Yang et al., _HQ-50K: A Large-scale, High-quality Dataset for Image Restoration_ at 1, ARXIV (June 8, 2023), https://arxiv.org/abs/2306.05390. 
+
+66 _See, e.g._ , _Language Models are Unsupervised Multitask Learners_ at 10 (“When a large language model is trained on a sufficiently large and diverse dataset it is able to perform well across many domains and datasets.”). 
+
+67 Meta Initial Comments at 2. 
+
+68 Samantha Cole, _AI Video Generator Runway Training on Thousands of YouTube Videos Without Permission_ , 404 MEDIA (July 25, 2024), https://www.404media.co/runway-ai-image-generator-training-data-youtube/ (referring to one YouTube channel as “THE HOLY GRAIL OF CAR CINEMATICS SO FAR.”).  Another report on Nvidia’s data collection suggested efforts to gather videos in somewhat broader categories, including a directive to focus on finding more “cinematic, drone footage, egocentric, and some travel and nature” videos.  Samantha Cole, _Leaked Documents Show Nvidia Scraping ‘A Human Lifetime’ of Videos Per Day to Train AI_ , 404 MEDIA (Aug. 5, 2024), https://www.404media.co/nvidia-ai-scraping-foundational-model-cosmos-project/. 
+
+69 In some cases, developers use general-purpose foundation models as a starting point to build new models with narrower purposes, by training on more domain-specific data to improve performance on a narrower set of tasks. _See infra_ Section II.D.1. 
+
+> 70 _See, e.g._ , Anthropic Initial Comments at 5; OpenAI Initial Comments at 5.  “Publicly available” is not synonymous with “authorized.”  It may simply be used to mean “available on the internet.”  GenLaw Participants Initial Comments at 44–45; IBM RESEARCH, GRANITE FOUNDATION MODELS 2 ( 2024),
+
+---
+
+[referencia=a5ab084a52257129 score=0.353]
+> 396 _See, e.g._ , Anthropic Initial Comments at 9 (“[A] regime that always requires licensing . . . would, at a minimum, effectively lock up access to the vast majority of works, since most works are not actively managed and licensed in any way.”); R Street Initial Comments at 5 (“[T]he costs associated with obtaining these licenses could make AI projects excessively expensive, thus impeding innovation and hindering industry growth.  This approach may render 
+
+Pre-Publication Version 
+
+69 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+Although licensing markets are still developing and factual contexts vary, available information shows that markets exist or are “reasonable” or “likely to be developed,”<sup>397</sup> for certain copyright sectors, types of training or uses, and models. Direct licensing is most common and most promising with respect to corporate entities with catalogs of high-quality and easily identifiable content.<sup>398</sup> For example, content controlled by large stock photography companies, national news outlets, and major record companies or film studios may be more easily licensable.  Such content likely has a higher training value because it is high-quality and curated, and the centralization of rights makes it easier to license without incurring substantial volume-related transaction costs.<sup>399</sup> 
+
+Yet, it is also unclear that markets are emerging or will emerge for all kinds of works at the scale required for all kinds of models.  There are copyright sectors where licensing infrastructure does not yet exist and may be difficult to build, and the amount of training data needed to produce state-of-the-art models may vary by content type or type of training.<sup>400</sup> Administrative or transactional costs can pose particular challenges when works are created outside of professional creative industries or are not intended to be monetized,<sup>401</sup> or when
+
+---
+
+[referencia=a5ab084a52257129 score=0.340]
+While we acknowledge this is uncharted territory, in the Office’s view, the fourth factor should not be read so narrowly.  The statute on its face encompasses any “effect” upon the potential market.<sup>373</sup> The speed and scale at which AI systems generate content pose a serious risk of diluting markets for works of the same kind as in their training data.<sup>374</sup> That means more competition for sales of an author’s works and more difficulty for audiences in finding them.  If thousands of AI-generated romance novels are put on the market, fewer of the human-authored romance novels that the AI was trained on are likely to be sold.  Royalty pools can also be diluted.  UMG noted that “[a]s AI-generated music becomes increasingly easy to create, it saturates this already dense marketplace, competing unfairly with genuine human artistry, distorting digital platform algorithms and driving ‘cheap content oversupply’ - generic content diluting human creators’ royalties.”<sup>375</sup> 
+
+Market harm can also stem from AI models’ generation of material stylistically similar to works in their training data.  As the Office noted in Part 1 of this Report, many commenters raised concerns about AI outputs that imitate a creator’s style, which copyright does not protect 
+
+372 Scenario, Inc. Initial Comments at 14. 
+
+> 373 17 U.S.C. § 107. _See Campbell v. Acuff-Rose Music, Inc._ , 510 U.S. at 590 (“[The fourth factor] requires courts to consider not only the extent of market harm caused by the particular actions of the alleged infringer, but also whether unrestricted and widespread conduct of the sort engaged in by the defendant would result in a substantially adverse impact on the potential market for the original.”) (cleaned up).
+
+---
+
+[referencia=a5ab084a52257129 score=0.277]
+#### **3. Possible Legal Impediments to Collective Licensing** 
+
+Some commenters raised concerns that copyright owners banding together to negotiate collective licenses could have antitrust implications.<sup>531</sup> One contended that “collective licensing 
+
+526 CCC Initial Comments at 15; N/MA Reply Comments at 25 (“[L]icensing valuations do not need to be the same for all types of content, nor would all permissive uses be expected to be royalty bearing. . . . [V]enture capital values generative AI companies based on projections that revenue will accrue over time,” up to “$1.4 _trillion_ market by 2024, mainly due to incremental value projections.”). 
+
+> 527 _See_ George Wukoson & Joey Fortuna, The Predominant Use of High-Authority Commercial Web Publisher Content to Train Leading LLMs at 7–8, ZIFF DAVIS (Nov. 4, 2024) (“LLM company statements made over the past year about licensing deals with commercial web publishers indicate that the need for high-quality training text data has only grown more acute as developers compete to keep scaling.”).  Wukoson and Fortuna further conclude that “LLM company training data disclosures—largely dating to earlier, pure-research periods of the technology’s evolution— and analysis of public training datasets show long-running exploitation of high-quality publisher content (extremely lucrative for the LLM companies) and imply lost licensing revenue from some of the world’s most highly-valued companies.” _Id_ . at 16. 
+
+> 528 Manifesto, CREATED BY HUMANS, https://www.createdbyhumans.ai/manifesto, Dataset Providers Alliance, _Shaping the Future of AI Data – The Dataset Providers Alliance Position Paper_ 2, https://www.thedpa.ai/ai-data-licensing-positionpaper. 
+
+> 529 _Apple Intelligence Foundation Language Models_ at 4–5. 
+
+530 Katie Paul & Anna Tong, _Inside Big Tech’s Underground Race to Buy AI Training Data_ , REUTERS (Apr. 5, 2024), https://www.reuters.com/technology/inside-big-techs-underground-race-buy-ai-training-data-2024-04-05/ (describing dealmaking and discussions involving various categories of works).
+
+---
+
+[referencia=a5ab084a52257129 score=0.277]
+## **I. INTRODUCTION** 
+
+This Part of the Copyright Office’s Report on Copyright and Artificial Intelligence addresses the use of copyrighted works in the development of generative AI systems.  The groundbreaking technologies involved draw on massive troves of data,<sup>1</sup> including copyrighted works, to enable the extraordinary capabilities they now offer to the public.  Do any of the acts involved require the copyright owners’ consent or compensation?  And to the extent they do, how can that feasibly be accomplished? 
+
+These issues are the subject of intense debate.  Dozens of lawsuits are pending in the United States, focusing on the application of copyright’s fair use doctrine. Legislators around the world have proposed or enacted laws regarding the use of copyrighted works in AI training, whether to remove barriers or impose restrictions. 
+
+The stakes are high, and the consequences are often described in existential terms.  Some warn that requiring AI companies to license copyrighted works would throttle a transformative technology, because it is not practically possible to obtain licenses for the volume and diversity of content necessary to power cutting-edge systems.  Others fear that unlicensed training will corrode the creative ecosystem, with artists’ entire bodies of works used against their will to produce content that competes with them in the marketplace.  The public interest requires striking an effective balance, allowing technological innovation to flourish while maintaining a thriving creative community. 
+
+Pursuant to the Register of Copyrights’ statutory responsibility to “[c]onduct studies” and “[a]dvise Congress on national and international issues relating to copyright,”<sup>2</sup> the Office published a Notice of Inquiry (NOI) in August 2023 posing a series of questions about copyright and AI.  These included technical questions about how copyrighted works are collected, curated and used in training AI models,<sup>3</sup> legal questions about the application of the fair use doctrine,<sup>4</sup> and factual questions about existing or potential licensing arrangements.<sup>5</sup> 
+
+1 We use the terms “data” and “dataset” here as shorthand for all types of content used in generative AI training, including copyrighted works.  It is important to stress, however, that the works are not merely “data” in the ordinary sense, as they embody creative expression constituting protected authorship.
+
+---
+
+[referencia=a5ab084a52257129 score=0.259]
+> 195 Bonnie Smith Initial Comments at 1; _see also_ Molly Gur Initial Comments at 1 (“I have worked as a creative professional for 15 years, and things have now become so troubling that something must change.”). 
+
+> 196 _See, e.g._ , A2IM-RIAA Joint Initial Comments at 17 (“[T]he unauthorized reproduction of copyrighted works by AI developers to develop models that produce AI-generated works that actually or potentially compete with the inputted works comes as close as a use can come to being presumptively not fair use.”); Artist Rights Alliance-FMC Joint Reply Comments at 1 (“Using copies of some or all of our songs and recordings to create new ones that compete with ours in the market is clearly not allowable under even the most expansive, wishful reading of ‘fair use.’”); Marsha Blackburn Initial Comments at 2 (“[I]t is my belief that unlicensed AI ingestion of copyrighted works should not constitute fair use when the AI output supplants or competes commercially with the human-created works it was trained on.”); Graphic Artists Guild Initial Comments at 9 (“It is difficult to square the scraping of images into datasets to train AI models with fair use” because AI platforms “generate visual content that mimics the images in the training dataset” and “AI output competes with, if not replaces, the original images.”); Ed Newton-Rex Reply Comments at 1 (Dec. 6, 2023) (“Today’s generative AI models can clearly be used to create works that compete with the copyrighted works they are trained on.  So I don’t see how using copyrighted works to train generative AI models of this nature can be considered fair use.”). 
+
+197 AAP Initial Comments at 13 (“[T]here are very limited circumstances in which the use of copyrighted works to train AI models would constitute fair use, given the lack of a transformative purpose combined with the harm to the 
+
+Pre-Publication Version 
+
+33 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+Rightsify stated, “[t]here is no legal precedent for the massive scraping of data for the purposes of creating data sets that can be commercially exploited to potentially create competing works.”<sup>198</sup> Others contended that the unauthorized copying of expressive works in AI training adds nothing new while usurping an emerging market for works as training materials.<sup>199</sup>
+
+---
+
+[referencia=a5ab084a52257129 score=0.254]
+There are instances, however, where the use of works in generative AI training can lead to a loss in sales.  The use of pirated collections of copyrighted works to build a training library, or the distribution of such a library to the public, would harm the market for access to those works.  And where training enables a model to output verbatim or substantially similar copies of the works trained on, and those copies are readily accessible by end users, they can substitute for sales of those works.<sup>362</sup> 
+
+A potential loss of sales is particularly clear in the case of works specifically developed for AI training.  There is a thriving industry focused on developing training datasets that improve the ability of language models to follow instructions, format and structure outputs, use tools, act consistently with human values, or improve domain performance.<sup>363</sup> Where the content of those datasets is copyrightable, or the datasets themselves evince human selection and arrangement of data, and the datasets are primarily or solely targeted at AI training, widespread unlicensed use would likely cause market harm.<sup>364</sup> 
+
+Uses involving the retrieval of copyrighted works by RAG can also result in market substitution.  As described above, RAG augments AI model responses by retrieving relevant content during the generation process, resulting in outputs that may be more likely to contain protectable expression, including derivative summaries and abridgments.<sup>365</sup> A user for whom 
+
+361 Authors Alliance Initial Comments at 11. 
+
+> 362 _Cf. Google Books_ , 804 F.3d 202, 224 (2d Cir. 2015) (“Especially in view of the fact that the normal purchase price of a book is relatively low in relation to the cost of manpower needed to secure an arbitrary assortment of randomly scattered snippets, we conclude that the snippet function does not give searchers access to effectively competing substitutes.”). 
+
+> 363 _See, e.g._ , _Nvidia/Llama-Nemotron-Post-Training-Dataset-v1_ , HUGGING FACE, https://huggingface.co/datasets/nvidia/Llama-Nemotron-Post-Training-Dataset-v1 (dataset described as “support[ing] improvements of math, code, general reasoning, and instruction following capabilities”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.247]
+> 389 _See_ AAP Initial Comments at 24 (“Yes, direct voluntary licensing is feasible and is certainly the case for the publishing industry.  Professional and scholarly publishers already employ licensing arrangements to facilitate access to their databases, whether for non-commercial research purposes or for commercial use.”); Scientific Technical Medical Publishers Initial Comments at 13 (“Speaking for the academic/scientific/medical publishing sector, direct voluntary licensing is not only feasible but already pervasive in our sector for a variety of types of uses.”). 
+
+> 390 _See, e.g.,_ Brody Ford, _Shutterstock’s AI-Licensing Business Generated $104 Million Last Year_ , YAHOO! FINANCE (June 4, 2024), https://finance.yahoo.com/news/shutterstock-ai-licensing-business-generated-120000890.html (“Demand for this data has opened up a new opportunity for Shutterstock, whose traditional business of licensing media to advertising firms and creative artists has slowed down in recent years.  Many of the companies that licensed data from Shutterstock. . . . wanted to have images that were legally obtained and contained good-quality descriptions, which assists in the training process, [the Shutterstock CEO] said.”). 
+
+> 391 Etan Vlessing, _Lionsgate CEO Says AI Deal Promises “Transformational Impact” on Studio_ , HOLLYWOOD REP. (Nov. 7, 2024), https://www.hollywoodreporter.com/business/business-news/lionsgate-ai-deal-runway-1236055999/ (indicating that the AI model could only be used by Lionsgate and its designees); Dashveenjit Kaur, _Content creators strike gold in AI content licensing boom_ , TECHHQ (Jan. 15, 2025), https://techhq.com/2025/01/content-creators-strikegold-in-ai-content-licensing-boom/ (“The AI content licensing landscape is shifting as significant technology companies compete to acquire exclusive video content from creators, offering substantial payouts for previously unused footage.”). 
+
+Pre-Publication Version 
+
+68 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+nonfiction publishing,<sup>392</sup> and news publishing,<sup>393</sup> as well as various content aggregators offering or facilitating collective licensing of training materials.<sup>394</sup>
+
+---
+
+[referencia=a5ab084a52257129 score=0.189]
+###### 281 Copyright Alliance Initial Comments at 65. 
+
+282 AIPLA Initial Comments at 8 (“The source of funding currently does not play a meaningful role in the law of fair use, nor do we see any unique characteristics of AI, as currently constituted, which would compel a different result with respect to this technology.”); DMLA Initial Comments at 10 (“It should not make a significant difference if 
+
+Pre-Publication Version 
+
+49 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+Because there are distinct acts and often multiple actors involved in the creation of AI systems, identifying the use with particularity is critical here too.  The creation and distribution of a training dataset, the copying of that dataset for training, and the copying and distribution of model weights for use in a system may be conducted by different entities, each of whose activities may or may not be considered “commercial.”  Accordingly, in assessing whether the transfer of training datasets, synthetic data, or model weights is obscuring a commercial benefit and constitutes “data laundering,” the financial relationships between the actors are relevant. 
+
+Moreover, commerciality does not turn solely on whether an organization is designated as “profit” or “nonprofit,” but whether the use itself furthers commercial purposes.<sup>283</sup> A forprofit company with a substantial research arm could train a model with a novel architecture or training technique and release a research paper without commercializing the model.  It could also “open source” the resulting model weights ( _i.e._ , provide them to the public for free), leaving it to others to experiment or build products with them.<sup>284</sup> Although these activities could indirectly further the financial interests of the company, the connection between the copying and any commercial gain may be too attenuated to render the use commercial.<sup>285</sup> 
+
+Similarly, the nonprofit status of an organization should not in itself preclude a finding of commerciality.<sup>286</sup> Nonprofits may engage in commercial activity by directly monetizing 
+
+funding for noncommercial or research uses is provided by for-profit developers of AI systems, as much research is funded by for-profit tech organizations.”). 
+
+> 283 _See Warhol_ , 598 U.S. at 537; _A&M Records, Inc. v. Napster, Inc._ , 239 F.3d 1004, 1015 (9th Cir. 2001).
+
+---
+
+[referencia=a5ab084a52257129 score=0.162]
+_Purpose_ .  The purpose for which a model is developed also governs the selection of data for training.  Developers often seek to align the content of their training data with the expected use of the model.<sup>62</sup> For example, a language model for legal work would benefit from extensive training on legal documents,<sup>63</sup> and a language model for medical diagnostics would benefit from training on medical papers.<sup>64</sup> Likewise, an image model trained primarily on outdoor, 
+
+> 58 Romain Beaumont, _Laion-5B: A New Era of Open Large-Scale Multi-Modal Datasets_ , LAION (Mar. 31, 2022), https://laion.ai/blog/laion-5b/.  To address this problem, the LAION developers used automated tools to compute the probability of an image containing a watermark and deemed images with a probability exceeding 80% as “unsafe.” _Id._ Nevertheless, one developer was sued by Getty Images based on allegations that it trained on LAION data and its model output images with distorted versions of Getty watermarks.  Getty Images (US), Inc. v. Stability AI, Inc., No. 1:23-cv-00135 (D. Del., Feb. 3, 2023). 
+
+> 59 _See_ , _e.g._ , Leo Gao et al., _The Pile: An 800GB Dataset of Diverse Text for Language Modeling_ at 3-4, ARXIV (Dec. 31, 2020) (“ _The Pile: An 800GB Dataset of Diverse Text for Language Modeling_ ”), https://arxiv.org/abs/2101.00027; _Apple Intelligence Foundation Language Models_ at 4. 
+
+> 60 _See_ Shayne Longpre et al., _A Pretrainer's Guide to Training Data: Measuring the Effects of Data Age, Domain Coverage, Quality, & Toxicity_ at 9–11, ARXIV (Nov. 13, 2023), https://arxiv.org/abs/2305.13169.
+
+---
+
+[referencia=a5ab084a52257129 score=0.102]
+> 279 N/MA Initial Comments at 37–38; _see also_ MPA Initial Comment at 23–24 (“Even a noncommercial purpose in the creation of a work (like Andy Warhol’s art) can become a commercial purpose when that work is put to a different use ( _i.e._ , licensing to a magazine).  Thus, ‘for-profit’ and ‘nonprofit’ labels are not dispositive.”).  Another commenter suggested that this practice meant that commerciality analysis would often turn on the activities of downstream actors rather than dataset curators.  Katherine Lee et. al. Initial Comments at 102 (“[M]any training datasets are made publicly available noncommercially.  Some observers have argued that this amounts to a kind of ethical and legal laundering by the commercial companies that then train on those datasets — especially when there is a funding relationship between the two.  The factor-one commerciality analysis of the dataset may therefore turn on the activities of parties besides the dataset curator.”). 
+
+###### 280 NOI at 59946.
+
+---
+
+[referencia=a5ab084a52257129 score=0.087]
+###### 490 Meta Initial Comments at 17. 
+
+> 491 Meta Initial Comments at 20; _see also_ Engine Initial Comments at 8 (“The combination of the need for diverse data sets that could contain anything in the universe of expressive material eligible for copyright protection and the indirect—and even diminishing—value of each individual piece of data that an AI model is trained on, means that no 
+
+Pre-Publication Version 
+
+87 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+Commenters representing copyright owner and creator interests, on the other hand, argued that the costs or difficulty of obtaining licenses for the volume of works required for AI training is not an excuse for failing to do so.<sup>492</sup> They contended that obtaining licenses is simply a cost of doing business,<sup>493</sup> and one that AI companies can afford,<sup>494</sup> especially where their commercial products depend on the use of copyrighted works.<sup>495</sup> Authors Guild stated, 
+
+existing model for large scale licensing can be easily applied to AI training and development.  Existing collective licensing mechanisms have been most successful in the context of homogeneous transactions among repeat players with similar preferences, which does not describe the way AI models interact with copyrighted material or the state of the AI ecosystem.”) (internal quotation marks omitted); _cf._ CCIA Initial Comments at 11 (“[w]hile obtaining permission from, e.g., songwriters may be viable through existing collective licensing groups, training data in less common languages or from various subcultures are far less likely to be organized and the appropriate entity to contact for permission may even be impossible to determine”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.079]
+_Filtering_ .  Filtering is a common practice, especially for data scraped from the internet, which often includes content that is undesirable for training.<sup>81</sup> Developers may use automated techniques to remove explicit, watermarked, mislabeled, or low-quality content, or to identify “aesthetic”<sup>82</sup> or high-quality subsets.<sup>83</sup> Other reasons for filtering include deduplication,<sup>84</sup> which may have the effect of reducing memorization, discussed below in Section II.D.2, and compliance with legal regimes.<sup>85</sup> For example, Getty Images states that when it licenses works for use in a commercial text-to-image model, it “curates a dataset that includes content that has been released for commercial use in respect of rights of publicity, privacy, trademark, and other intellectual property rights.”<sup>86</sup> 
+
+> 79 _See, e.g._ , BSA Initial Comments at 6 (“‘Raw data’ is frequently ‘messy,’ requiring significant work to transform the data into a usable form.”). 
+
+> 80 DATASET PROVIDERS ALLIANCE, SHAPING THE FUTURE OF AI DATA (2024) (“While some data types are abundant, there’s a scarcity of high-quality, labeled data in specialized fields. . . a direct licensing model encourages creation and curation of high-quality datasets, driving innovation in both AI development and content creation”), https://www.thedpa.ai/ai-data-lilcensing-position-paper. 
+
+> 81 Stefan Baack & Mozilla Insights, _Training Data for the Price of a Sandwich_ , MOZILLA FOUND. (Feb. 6, 2024), https://foundation.mozilla.org/en/research/library/generative-ai-training-data/common-crawl/ (“Due to Common Crawl’s deliberate lack of curation, AI builders do not use it directly as training data for their models. Instead, builders choose from a variety of filtered Common Crawl versions to train their LLMs.”). 
+
+82 _See, e.g._ , LAION-Aesthetics V1, LAION-AI, https://projects.laion.ai/laion-datasets/laion-aesthetic.html (“Laion aesthetic is a subset of laion5B that has been estimated by a model trained on top of clip embeddings to be aesthetic. The intended usage of this dataset is image generation.”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.057]
+#### **3. Commerciality** 
+
+The commerciality inquiry relates to the potential unfairness of using copyrighted works to obtain a financial benefit while forgoing payment.<sup>275</sup> Because even paradigmatic fair uses, such as news reporting or criticism, are often done for profit, “the crux of the profit/nonprofit distinction is not whether the sole motive of the use is monetary gain but whether the user stands to profit from exploitation of the copyrighted material without paying the customary price.”<sup>276</sup> 
+
+270 _Cf_ . Katherine Lee et al. Initial Comments at 102 (“Even if [a training dataset] is also used to train non-generativeAI models, the non-expressive use argument fails once the dataset is an input into generative models that can produce outputs that reproduce copyrighted expression.”). 
+
+> 271 _See supra_ note 243. 
+
+> 272 _See_ Robert Brauneis, _Copyright and the Training of Human Authors and Generative Machines_ , 48 Colum. J.L. & Arts 1, 12–13 (2025); Benjamin Sobel, _Artificial Intelligence's Fair Use Crisis_ , 41 Colum. J.L. & Arts 45 (2017) (“No human can rebut an infringement claim merely by showing that he has learned by consuming the works he copied, even if he puts this new knowledge to productive use later on.”). 
+
+> 273 _See Am. Geophysical Union v. Texaco Inc._ , 60 F.3d at 922; _see also_ Sobel, _supra_ note 275. 
+
+> 274 Robert Brauneis, _Copyright and the Training of Human Authors and Generative Machines_ , 48 Colum. J.L. & Arts 1, 38– 39, 58–59 (2025). 
+
+> 275 _See Am. Geophysical Union v. Texaco Inc._ , 60 F.3d at 922; _Soc’y of Holy Transfiguration Monastery, Inc._ , 689 F.3d 29, 61 (1st Cir. 2012) (“‘Profit,’ in this context, is thus not limited simply to dollars and coins; instead, it encompasses other non-monetary calculable benefits or advantages.” (citation omitted)).
+
+---
+
+[referencia=a5ab084a52257129 score=0.052]
+On the other side, many warned that requiring AI companies to license works in training data would stifle development of a critical technology, entrench the power of those companies that are capable of acquiring or already own sufficient data, and impair national competitiveness.  As summarized by the venture capital firm a16z, “imposing the cost of actual or potential copyright liability on the creators of AI models will either kill or significantly hamper their development . . . .  The result will be far less competition, far less innovation, and very likely the loss of the United States’ position as the leader in global AI development.”<sup>200</sup> Stability AI called it “doubtful” that generative AI would be possible without the fair use defense and maintained that “[t]he U.S. has established global leadership in AI due, in part, to a robust, adaptable, and principles-based fair use doctrine that balances creative rights with open innovation.”<sup>201</sup> 
+
+market for and value of copyrighted works. . . . [A] rule that unauthorized use of copyrighted works to train AI models constitutes fair use essentially compels authors and publishers to subsidize the development of AI models.”). 
+
+> 198 Rightsify Initial Comments at 4. _See also_ IAC-DDM Joint Initial Comments at 7 (“IAC-DDM Joint Initial Comments”) (“[T]he massive and systematic copying of copyrighted content for an avowedly commercial and substitutive purpose does not present a hard or close case.”); MPA Reply Comments at 20 (“None of the cases cited by AI developers involve the wholesale copying of expressive, non-functional works and the creation of a model that is then used to generate expressive works.”); N/MA Reply Comments at 15 (“Case law has generally not permitted copying for purposes that do not comment on or at least point to the original works, outside of defined, limited exceptions, such as to access functional computer code for interoperability purposes.”); UMG Initial Comments at 39– 40 (“We can think of no precedent for finding this kind of wholesale, commercial taking that competes directly with the copyrighted works appropriated to be fair use.”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.052]
+licensing fees based on third-party uses of that company’s models, and even tracking how models were used would be impracticable.”<sup>486</sup> 
+
+Commenters also cited practical challenges in securing licenses for the volume and variety of works potentially needed for AI training.<sup>487</sup> R Street stated that “[t]he process of identifying, negotiating and securing licenses for every individual piece of content in a dataset would be resource-intensive.  These increased costs could be passed on to consumers or could deter companies from pursing certain AI-driven projects altogether.”<sup>488</sup> According to several commenters, these problems would be compounded by the difficulty in determining ownership of many of the works in training datasets,<sup>489</sup> a necessary predicate to entering into licensing negotiations.  For example, Meta contended that “it would be impossible for AI developers to license the rights to other critical categories of works—like internet reviews and other examples of casual, vernacular text—both because it would be impossible to locate the owners of such works, and administratively impossible to negotiate licenses with each of them.”<sup>490</sup> It asserted that even collective licensing would create “massive administrative problems.”<sup>491</sup> 
+
+###### 486 Meta Initial Comments at 17. 
+
+> 487 _See supra_ text accompanying notes 399–403 (discussing administrative and transactional costs of voluntary licensing); _see also_ CCIA Initial Comments at 14 (“Especially in the digital age, when large volumes of work are produced and published online each day, it is dubious that any licensing process will be able to keep up with non-AI innovation, calling into question the technology’s utility.”); Lee Hollaar Initial Comments at 4 (“It may be an insurmountable task to obtain ‘affirmative consent from a large number of copyright owners.”); Microsoft Initial Comments at 9 (“Any requirement to obtain consent for accessible works to be used for training would chill AI innovation.  It is not feasible to achieve the scale of data necessary to develop responsible AI models even when the identity of a work and its owner is known.”); OpenAI Initial Comments at 13 (“The diversity and scale of the information available on the internet is thus both necessary to training a ‘well-educated’ model . . . and also makes licensing every copyrightable work contained therein effectively impossible.”).
+
+---
+
+[referencia=a5ab084a52257129 score=0.047]
+> 276 _Harper & Row, Publishers, Inc. v. Nation Enters._ , 471 U.S. 539, 562 (1985). 
+
+Pre-Publication Version 
+
+48 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+The Office’s NOI asked how to assess commerciality in the context of generative AI, particularly in circumstances when curating datasets or training on those datasets may be done for noncommercial or research purposes, but the dataset or model is later adapted to commercial use.<sup>277</sup> Several commenters warned against considering such practices as noncommercial and described them as “data laundering.”<sup>278</sup> News/Media Alliance stated that “in light of concerning practices of . . . initially nonprofit models that transition into commercial entities or assist them in building competitive, commercial products, the Office should be careful in drawing any kind of a bright line between commercial and noncommercial uses.”<sup>279</sup> 
+
+The Office also asked whether it made a difference if the funding for non-commercial research uses came from for-profit companies.<sup>280</sup> While one commenter stated that funding from a commercial source “may be evidence of a commercial purpose,” particularly if done as part of a “data laundering” arrangement,<sup>281</sup> others believed that it made no difference.<sup>282</sup>
+
+---
+
+[referencia=a5ab084a52257129 score=0.044]
+### **_F. Competition Among Developers_** 
+
+Some commenters and scholars have raised concerns about how the application of fair use will affect the competitive ecosystem.  In the words of the Federal Trade Commission (“FTC”), “the evolution of the [fair use] doctrine could influence the competitive dynamics of the markets for AI tools and for products with which the outputs of those tools may compete.”<sup>416</sup> They warn that requiring AI companies to license copyrighted works for use in training would entrench power in the largest and best-resourced companies and content owners.<sup>417</sup> Andreessen Horowitz asserted that “treating AI model training as an infringement of copyright would inure to the benefit of the largest tech companies—those with the deepest 
+
+> 415 _Campbell v. Acuff-Rose Music, Inc._ , 510 U.S. 569, 578 (1994). 
+
+> 416 FTC Initial Comments at 5 (footnote omitted). 
+
+> 417 _See, e.g._ , a16z Initial Comments at 9 (“[T]he cost of paying to license even a fraction of the content needed to properly train an AI model would be prohibitive for all but the deepest-pocketed AI developers, resulting in dominance by a few technology incumbents.  This would undermine competition by the technology startups which are the source of the greatest innovation in AI.”); Anthropic Initial Comments at 10; Engine Initial Comments at 4; Arun Sundararajan Initial Comments at 9; Pamela Samuelson et al. Reply Comments at 5; BigBear.ai Initial Comments at 22; CCIA Initial Comments at 14; Ad Hoc Group of Developers and Users Initial Comments at 2; R Street Institute Initial Comments at 7. 
+
+Pre-Publication Version 
+
+74 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+pockets and the greatest incentive to keep AI models closed off to competition.”<sup>418</sup> R Street similarly contended that if training is not fair use, “[o]nly large entities, like tech giants, that have the resources to navigate the licensing landscape or have already amassed vast amounts of data might be able to compete effectively in the AI space.”<sup>419</sup>
+
+---
+
+[referencia=a5ab084a52257129 score=0.043]
+###### 277 _See_ NOI at 59946. 
+
+> 278 _See, e.g._ , Copyright Alliance Initial Comments at 31 (“Data laundering entails private, commercial AI companies funding research or nonprofit institutions to develop training datasets and sometimes even the AI tools themselves, which often use copyright-protected works, under the guise of supporting noncommercial research activities. Once these training sets or models are developed, the funding AI company then uses them to develop proprietary commercial AI platforms.”); A2IM-RIAA Joint Initial Comments at 12 (“When it comes to collection and curation, we have witnessed a disturbing practice of willfully disaggregating the creation of datasets for AI training, often by entities that claim to be non-profit or research-focused, and the actual training of AI models, often by for-profit, commercial entities. . . . [S]uch disaggregation can easily result in so-called ‘data laundering,’ whereby the developer of a commercial AI model seeks to avoid copyright infringement liability by claiming that the dataset from which it ingested copyrighted works was built for research purposes.”); AAP Initial Comments at 15 & n.51 (“Once trained, an AI model can be deployed by multiple third parties, including commercial entities, so the noncommercial nature of the entity developing the model does not mitigate the likely harm to copyright owners that will result.”); EGAIR Initial Comments Attachment at 370; N/MA Initial Comments at 37–38; NMPA Initial Comments at 18; UMG Initial Comments at 55.
+
+---
+
+[referencia=a5ab084a52257129 score=0.033]
+525 CCC Initial Comments at 15. 
+
+Pre-Publication Version 
+
+93 
+
+**U.S. Copyright Office      Copyright and Artificial Intelligence, Part 3: Generative AI Training** 
+
+near-term, rightsholders can negotiate licenses that forgo up-front payments or traditional royalties in exchange for later shares in revenues as the companies grow.<sup>526</sup> 
+
+The quality of training data may also affect potential compensation, and some have observed that quality for training purposes may correspond with works’ commercial value in other contexts.<sup>527</sup> Licensors touted their products as attractive to AI companies because they can provide data that is newly released, high-quality, curated, and clean.<sup>528</sup> An AI developer might, for example, use licensed material because it is “diverse and high quality [and] long-context” and give it higher weight in training than other data.<sup>529</sup> Because data quality and model quality are correlated, AI firms seeking to offer higher model quality than their competitors may turn to licensing; this has resulted in what some have described as a multi-billion dollar race.<sup>530</sup>

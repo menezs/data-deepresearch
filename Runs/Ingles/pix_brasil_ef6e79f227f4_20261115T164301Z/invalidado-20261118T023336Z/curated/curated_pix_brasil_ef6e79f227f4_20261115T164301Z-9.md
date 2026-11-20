@@ -1,0 +1,161 @@
+[referencia=271358321a919b91 score=0.015]
+Número de pessoas com relacionamento bancário se estabiliza
+
+Além de possuir grande capilaridade em termos de pontos de atendimento, o Brasil também é um país com alto percentual de bancarização. O Gráfico 1.10 mostra que, entre 2015 e 2017, a quantidade de adultos com relacionamento bancário <sup>5</sup> manteve-se praticamente estável. Em 2017, mais de 140 milhões (86,5%) de pessoas mantinham algum relacionamento bancário, como contas de depósitos à vista (conhecidas popularmente como contas-correntes), contas de depósitos de poupança e contas-correntes de depósitos para investimento.
+
+Esses dados incluem todas as contas não encerradas, até mesmo aquelas que possuem saldos muito baixos ou que não registraram saques, depósitos e transferências por períodos longos. Os números do BCB revelam o universo de posse de contas cadastradas no SFN, a partir de informações fornecidas pelas próprias instituições financeiras. <sup>6</sup>
+
+Já a amostragem do Global Findex com a população aponta que o percentual de brasileiros adultos que possuem conta em instituição financeira chegou a 70% em 2017. Em 2014, esse percentual era de 68%, também demonstrando um cenário de estabilidade desse indicador. Uma possível explicação para a diferença com o percentual aferido nas bases de dados do BCB é que, no caso do Findex, quando a pessoa é perguntada se possui conta, caso não a tenha movimentado por um longo período, pode não se lembrar de que ainda está ativa. <sup>7</sup>
+
+---
+
+[referencia=271358321a919b91 score=0.008]
+Esse cenário é corroborado pelos resultados da edição 2017 da pesquisa mundial Global Findex Database <sup>3</sup>.  A sondagem é considerada uma das mais importantes com relação à inclusão financeira e usa como metodologia uma pesquisa por amostragem com a população acima de 15 anos.  De acordo com dados do Global Findex, o percentual de pessoas que utilizaram a internet, no Brasil, tanto para pagar contas quanto para fazer compras subiu de 8,7% em 2014 para 17,6% em 2017. Para a mesma amostra da pesquisa, o percentual de pessoas que usaram o celular para pagar contas de serviços, como água e energia elétrica, aumentou de 0,8% para 3,9% no mesmo período. A análise desses dados confirma o rápido crescimento no acesso a canais remotos para serviços financeiros, porém os percentuais de uso ainda são baixos.
+
+É preciso levar em consideração que o uso de internet e a posse de celular não são homogêneos no país. Há diferenças, muitas vezes significativas, entre as diferentes regiões e entre localidades urbanas e rurais, como mostram os dados do IBGE a seguir.
+
+Esses aspectos demonstram que, apesar do rápido crescimento dos canais remotos, os pontos de atendimento presenciais ainda têm um importante papel a desempenhar, pelo menos neste momento, principalmente para a população que vive mais distante dos grandes centros urbanos e nos municípios que contavam apenas com correspondentes bancários, que, em 2017, somavam 382.
+
+Número de pessoas com relacionamento bancário se estabiliza
+
+---
+
+[referencia=271358321a919b91 score=0.004]
+Apesar de o nível geral de bancarização ser alto segundo os dados administrativos do BCB, o percentual de adultos com relacionamento bancário por região varia, com a Região Sudeste apresentando o maior percentual – 90,9% –, e a Região Norte, o menor, 72,3%. Observa-se que houve crescimento do percentual de adultos com relacionamento bancário nas regiões Nordeste e Norte, entre 2015 e 2017. Esse crescimento é positivo, uma vez que esse foi um período em que houve um cenário econômico desafiador. <sup>8</sup> 
+
+Outro segmento importante para análise de posse de contas é o Microempreendedor Individual (MEI). O MEI é a pessoa que trabalha por conta própria e que se legaliza como pequeno empresário (conforme Lei Complementar nº 139, de 10 de novembro de 2011). Pode faturar, no máximo, R$81.000,00 por ano (de acordo com Lei Complementar nº 155, de 27 de outubro de 2016), não pode ter participação em outra empresa como sócio ou titular e pode ter apenas um empregado contratado, que deve receber o salário mínimo ou o piso da categoria. Estudos e análises sobre o segmento fazem parte dos esforços do BCB no sentido de aprimorar o diagnóstico da cidadania financeira no país, como foi o caso do trabalho divulgado na Série Cidadania Financeira.<sup>9</sup> Com relação à posse de contas dos MEIs, 20% <sup>10</sup>  possuíam relacionamento bancário como pessoa jurídica em 2017, o que sugere haver espaço para ampliação do acesso desse segmento ao SFN.
+
+A implementação de soluções digitais poderia atender ao segmento da população que considera alto o custo de manutenção de uma conta bancária, uma vez que essas soluções tendem a ter custos mais baixos.
+
+---
+
+[referencia=271358321a919b91 score=0.003]
+Tradicionalmente, o primeiro contato da população com o Sistema Financeiro Nacional dá-se por meio de **pontos de atendimento físico** – como agências e correspondentes bancários, máquinas de cartão-POS e caixas eletrônicos.
+
+Os canais de acesso também podem ser remotos – como internet banking, smartphones e atendimento telefônico.
+
+Se os canais de acesso são o primeiro contato com o SFN, a porta de entrada é, em geral, a posse de conta-corrente, conta de poupança ou conta de pagamento. Analisar dados de relacionamento bancário ajuda a verificar se, além de ter acesso, as pessoas estão fazendo uso efetivo de serviços financeiros. A posse de conta facilita a realização de transações e favorece a realização de poupança.
+
+O acesso a produtos de crédito também é importante. Para avaliar se a população está acessando produtos de crédito, é preciso verificar quantas pessoas possuem produtos de crédito, quais as principais modalidades utilizadas e como é a distribuição do crédito na população em geral.
+
+Todos os municípios do Brasil têm pelo menos um ponto de atendimento físico. Apesar da alta capilaridade, há tendência de queda, com redução em todas as regiões. Em 2017, o país tinha, no total, 257.570 pontos de atendimento, contra 277.982 em 2015.
+
+O uso de canais remotos vem crescendo e representam 66% do total de transações realizadas (remotas e presenciais). As transações por smartphones e PDAs aumentaram 19% entre 2015 e 2017. A importância dos canais presenciais ainda é grande.
+
+O percentual da população com relacionamento bancário manteve-se estável entre 2015 e 2017. São 86,5% de brasileiros adultos com posse de conta.
+
+---
+
+[referencia=271358321a919b91 score=0.002]
+Ao mesmo tempo em que o número de canais de atendimento físico vem se reduzindo, o acesso a serviços financeiros por meio de canais remotos cresce significativamente.
+
+As transações <sup>1</sup> realizadas em canais presenciais – agências e postos tradicionais, caixas de autoatendimento e correspondentes bancários – diminuíram em 5% de 2015 a 2016 e voltaram a crescer 7% de 2016 a 2017. Já as transações por meio de canais não presenciais (*home* e *office banking, call centers, smartphones* e PDAs) registraram expansão significativa – de 20%, de 2015 a 2016, e de 21%, de 2016 a 2017 – e representam 66% do total das transações realizadas (remotas e presenciais). Nesse avanço, o destaque fica com as transações via *smartphone*, que vêm crescendo de maneira acentuada e, em 2017, já ultrapassaram aquelas feitas por meio do computador (internet, *home e office banking*).
+
+Dados referentes a número de transações de boleto de pagamento e de ordem de transferência de crédito (TED/DOC) – dois dos principais serviços para transferência de dinheiro dentro do sistema financeiro – apontam estabilização no uso da internet a partir de 2014 e crescimento considerável do uso de telefones celulares para essas transações. Isso parece indicar uma curva de aprendizagem por parte da população, que passou a ter mais familiaridade com o aplicativo de internet *banking* pelo celular, após grande difusão do instrumento <sup>2</sup>.
+
+Embora as transações nos canais digitais estejam aumentando velozmente, os canais de atendimento físico ainda são responsáveis por grande parte dessas operações (dados de 2017), com destaque para os correspondentes bancários (28%), que perdem apenas para as transações em internet *banking* (36%) e ficam acima das efetuadas por meio de celular (14%).
+
+---
+
+[referencia=271358321a919b91 score=0.002]
+O percentual da população com relacionamento bancário manteve-se estável entre 2015 e 2017. São 86,5% de brasileiros adultos com posse de conta.
+
+		  
+
+A quantidade de pessoas com operações de crédito também ficou praticamente estável nesse período, apresentando uma leve oscilação de 45% para 44% da população. A penetração do crédito apresenta variações nas diferentes faixas de renda. Do total da população com renda até 1 salário mínimo, 11% têm operações de crédito. No caso dos microempreendedores individuais, 8,5% tinham operação de crédito em nome da empresa em 2017.
+
+País registra alta distribuição de pontos básicos de atendimento e grande crescimento nas transações por meio de canais remotos.
+
+O Brasil conta com ampla cobertura de pontos de atendimento básico para a prestação de serviços financeiros. Em todos os municípios, há, pelo menos, um ponto de atendimento bancário. Porém, fatores como a crescente utilização de canais remotos e a preocupação com questões de segurança começam a mudar esse cenário.
+
+Depois do movimento de acomodação na evolução da quantidade de pontos de atendimento no Brasil, verificado entre 2010-2014, o período recente mostrou redução na maioria dos segmentos, em todas as regiões brasileiras. Em 2017, eram, no total, 257.570 pontos de acesso básico espalhados por todo o país, contra 277.982 em 2015.
+
+
+        
+
+
+          
+
+        
+
+
+          
+
+        
+
+À exceção dos postos de atendimento, que mantêm um número estável, as outras opções de atendimento básico de bancos, como agências e postos de atendimento eletrônico, mostram tendência de queda, apesar da pequena reversão em 2017.
+
+---
+
+[referencia=271358321a919b91 score=0.001]
+A posse de contas é bastante relevante para avaliar a inclusão financeira da população, porém inclusão financeira vai além da posse. É preciso avaliar também o uso dessa conta.
+
+Análise dos dados agregados do Global Findex indica ainda que, apesar de o número de pessoas que possuem conta não ter se alterado significativamente, o uso que as pessoas fazem dela está aumentando. Em 2014, 61% da população adulta pagou contas de serviço (água, luz ou coleta de lixo) com dinheiro em espécie e, em 2017, esse percentual caiu para 40,6%. Ao mesmo tempo, o pagamento dos mesmos serviços utilizando débito em conta subiu de 9,3% em 2014 para 21,3% em 2017.
+
+Já os dados à disposição do BCB para avaliar essa dimensão são aqueles referentes a depósitos – quantidade de clientes<sup>12</sup> e saldo<sup>13</sup>.
+
+As informações de contas de depósito à vista, de poupança e a prazo são relevantes para tal análise, uma vez que se tratam de serviços básicos oferecidos pelos bancos de guarda e movimentação de recursos com segurança e conveniência.
+
+---
+
+[referencia=271358321a919b91 score=0.001]
+        
+
+
+          
+
+        
+
+Existe um movimento de redução também no número de correspondentes desde 2014, com queda de cerca de 10% no total de pontos no período (209.938 em 2014, contra 189.002 em 2017). Um dos exemplos mais recentes é o do Banco Postal, que não é de fato um banco, mas uma rede de correspondentes do Banco do Brasil em agências dos Correios. Em 2017, diante da preocupação com segurança, a Empresa Brasileira de Correios e Telégrafos (ECT) começou a reduzir a quantidade de correspondentes do Banco do Brasil. Até julho de 2018, 403 das 6.348 unidades do Banco Postal haviam sido desativadas.
+
+Em 2017, 6,9% dos municípios eram atendidos por meio de correspondentes, e 45,5% dos municípios (2.536) tinham pelo menos algum ponto de atendimento de cooperativas. Mais informações sobre esse segmento podem ser encontradas no Panorama do Sistema Nacional de Crédito Cooperativo, publicado pelo BCB.
+
+Ao mesmo tempo em que o número de canais de atendimento físico vem se reduzindo, o acesso a serviços financeiros por meio de canais remotos cresce significativamente.
+
+---
+
+[referencia=271358321a919b91 score=0.000]
+De 2015 a 2017, o saldo de crédito aumentou para todas as faixas de renda, com exceção da mais alta (acima de 20 salários mínimos), que apresentou queda de 5,6%. O crescimento mais significativo aconteceu nas faixas que vão de mais de 1 a 5 salários mínimos. Em períodos de redução de atividade econômica, como o período aqui analisado, as pessoas com renda mais baixa tendem a recorrer mais a produtos de crédito, pois costumam ter menos reservas financeiras para arcar com imprevistos.<sup>18</sup>  Parte do crescimento do saldo nas faixas de renda mais baixas também reflete a disponibilidade de novos dados, já que, como explicado anteriormente, a partir de 2016 passaram a ser informadas ao Banco Central as operações de crédito a partir de R$200,00.
+
+Para as faixas de renda mais altas, observa-se queda ou desaceleração do crescimento tanto no saldo quanto no número de tomadores de crédito. Esse segmento da população, em muitos casos, possui outras fontes de recursos e maiores reservas financeiras e, diante da incerteza do cenário econômico, opta por reduzir o crédito.<sup>19</sup> Análises sobre as modalidades de crédito mais utilizadas serão apresentadas no próximo capítulo.
+
+---
+
+[referencia=271358321a919b91 score=0.000]
+Pela Tabela 1.1, pode-se observar a evolução dos depósitos – quantidade de clientes, saldo e valor médio (saldo/clientes) – entre 2015 e 2017. O saldo médio dos depósitos de poupança e a prazo<sup>14</sup> apresentou evolução pouco significativa. Ainda que o saldo médio não tenha crescido significativamente, o crescimento do número de clientes detentores de contas de depósito a prazo foi de 29% no período analisado, sinalizando que mais clientes parecem estar investindo em instrumentos de longo prazo. Isso pode ser resultado também de iniciativas das instituições financeiras, que podem estar incentivando seus clientes a aplicar o saldo da conta-corrente em depósitos a prazo com resgate automático. Quase 80% dos clientes mantiveram saldos de até R$5.000,00 em depósitos a prazo (2017).
+
+
+        
+
+
+          
+
+        
+
+No caso específico dos depósitos de poupança, há um significativo percentual de clientes que possuem contas de poupança com saldos de baixo montante. O censo semestral do FGC referente a dezembro de 2017 mostra que, quando considerados os saldos por faixa de valor, cerca de 74,7 milhões de clientes (57%) mantinham saldos de até R$100,00 na caderneta de poupança, o que representa 0,2% do total de depósitos desse produto.
+
+De acordo com Relatório de Poupança publicado pelo BCB, o valor médio desses saldos varia bastante ao longo do mês. Isso pode indicar que grande parte dessas contas, na verdade, estão sendo usadas como contas de depósito à vista (conta-corrente), já que ambas possuem funcionalidades parecidas no Brasil (RIF 2015). Por outro lado, 63% do saldo de depósito de poupança refere-se à faixa acima de R$30 mil e é mantido por 3% do total de clientes.
+
+Penetração do crédito e saldo da carteira é menor entre a população mais pobre
+
+---
+
+[referencia=271358321a919b91 score=0.000]
+Penetração do crédito e saldo da carteira é menor entre a população mais pobre
+
+Quando usado de forma adequada, o crédito, assim como a poupança, é instrumento que contribui para uma melhor gestão financeira e para proporcionar resiliência e bem-estar às famílias. De forma geral, o percentual de adultos que contrataram operações de crédito manteve-se praticamente estável entre 2016 e 2017, passando de 45% para 44%.<sup>15</sup>
+
+Para ajudar a compreender melhor o patamar atual de acesso a crédito, seria necessário conhecer a exata demanda da população por esse serviço, informação de difícil captura. A análise do crédito por faixa de renda, e a comparação com a proporção total da população em cada faixa, é uma forma de entender a sua penetração.
+
+Essa análise mostra que a penetração do crédito é menor nas faixas mais baixas de renda. Entre a população que recebe até 1 salário mínimo por mês, os tomadores de crédito representam 11%, o menor índice. É de se esperar que as pessoas nessa faixa tenham mais dificuldade na obtenção de crédito pela dificuldade de comprovar renda e apresentar garantias, mas não se conhece a demanda por crédito dessa população.<sup>16</sup>
+
+A faixa seguinte, entre 1 e 2 salários mínimos, concentra 32% do total de tomadores de crédito. Do total da população dessa faixa, 41% têm operações de crédito, penetração baixa quando comparada com as faixas seguintes.
+
+
+        
+
+
+          
+        
+
+Da mesma forma que há maior penetração de crédito nas faixas mais altas, também o saldo de crédito aumenta com a renda. Em 2017, 54% do volume da carteira de crédito para pessoas físicas foi destinado para consumidores com renda acima de cinco salários mínimos, que correspondem a 6,2% da população, como detalhado a seguir.

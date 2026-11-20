@@ -1,0 +1,743 @@
+[
+  {
+    "id": "3ddfb3d5c962b6de",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.consilium.europa.eu/en/policies/artificial-intelligence/timeline-artificial-intelligence/",
+    "normalized_url": "https://consilium.europa.eu/en/policies/artificial-intelligence/timeline-artificial-intelligence",
+    "work_key": "https://consilium.europa.eu/en/policies/artificial-intelligence/timeline-artificial-intelligence",
+    "title": "1. Council of the EU, \"Timeline - Artificial intelligence\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:17:27.266218Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "929c7f3f8857377f",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf",
+    "normalized_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf",
+    "work_key": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf",
+    "title": "2. EUR-Lex, consolidated text of Regulation (EU) 2024/1689 as of 27 July 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:18:21.914424Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "02e563ccf3b95ed5",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.aosfatos.org/noticias/aprovada-senado-regulacao-ia-camara/",
+    "normalized_url": "https://aosfatos.org/noticias/aprovada-senado-regulacao-ia-camara",
+    "work_key": "https://aosfatos.org/noticias/aprovada-senado-regulacao-ia-camara",
+    "title": "3. Aos Fatos, \"Aprovada no Senado, regulação de IA deve sofrer resistência na Câmara\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:28.729993Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5f3e072377bda147",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "work_key": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "title": "4. Câmara dos Deputados, ficha de tramitação PL 2338/2023.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:28.547992Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "dc01f4e984902438",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://policyreview.info/articles/news/road-regulation-artificial-intelligence-brazilian-experience/1737",
+    "normalized_url": "https://policyreview.info/articles/news/road-regulation-artificial-intelligence-brazilian-experience/1737",
+    "work_key": "https://policyreview.info/articles/news/road-regulation-artificial-intelligence-brazilian-experience/1737",
+    "title": "5. Laura Schertel Mendes and Beatriz Kira, \"The road to regulation of artificial intelligence: the Brazilian experience,\" Internet Policy Review.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:33.035674Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5482b6e239921f67",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.barbieriadvogados.com/brazil-ai-act/",
+    "normalized_url": "https://barbieriadvogados.com/brazil-ai-act",
+    "work_key": "https://barbieriadvogados.com/brazil-ai-act",
+    "title": "6. Barbieri Advogados, \"Brazil's AI Act: PL 2.338/2023 vs. EU AI Act Comparison\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:29.178280Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9ab62ee3d2b72c1e",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://itsrio.org/wp-content/uploads/2017/01/2025.06.23-Matriz-comparada-de-obrigacoes_-PL-2338_2023-vs.-EU-AI-act_Relatorio_AI-16-jun-1.pdf",
+    "normalized_url": "https://itsrio.org/wp-content/uploads/2017/01/2025.06.23-Matriz-comparada-de-obrigacoes_-PL-2338_2023-vs.-EU-AI-act_Relatorio_AI-16-jun-1.pdf",
+    "work_key": "https://itsrio.org/wp-content/uploads/2017/01/2025.06.23-Matriz-comparada-de-obrigacoes_-PL-2338_2023-vs.-EU-AI-act_Relatorio_AI-16-jun-1.pdf",
+    "title": "7. ITS Rio, \"Matriz comparada de obrigações: PL 2338/2023 vs. EU AI Act\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:33.324323Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "81b1d339a5391ccb",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/5234530",
+    "normalized_url": "https://theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/5234530",
+    "work_key": "https://theregister.com/ai-and-ml/2026/05/07/eu-hits-snooze-on-ai-act-rules-after-industry-backlash/5234530",
+    "title": "8. The Register, \"EU hits snooze on AI Act rules after industry backlash\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:33.548589Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "74916898d58720a8",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.aosfatos.org/noticias/deputados-da-comissao-da-ia-atuaram-em-prol-de-big-techs-apos-visitas-de-lobistas/",
+    "normalized_url": "https://aosfatos.org/noticias/deputados-da-comissao-da-ia-atuaram-em-prol-de-big-techs-apos-visitas-de-lobistas",
+    "work_key": "https://aosfatos.org/noticias/deputados-da-comissao-da-ia-atuaram-em-prol-de-big-techs-apos-visitas-de-lobistas",
+    "title": "9. Aos Fatos, \"Deputados da comissão da IA atuaram em prol de 'big techs' após visitas de lobistas\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:34.701285Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7b41a0f1d5aa079f",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://techcrunch.com/2024/03/13/deal-on-eu-ai-act-gets-thumbs-up-from-european-parliament",
+    "normalized_url": "https://techcrunch.com/2024/03/13/deal-on-eu-ai-act-gets-thumbs-up-from-european-parliament",
+    "work_key": "https://techcrunch.com/2024/03/13/deal-on-eu-ai-act-gets-thumbs-up-from-european-parliament",
+    "title": "10. TechCrunch, \"Deal on EU AI Act gets thumbs up from European Parliament\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:35.957573Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "02ce1ed0145f4f7d",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2024-07-12/swe/pdf",
+    "normalized_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2024-07-12/swe/pdf",
+    "work_key": "https://eur-lex.europa.eu/eli/reg/2024/1689/2024-07-12/swe/pdf",
+    "title": "11. EUR-Lex, Regulation (EU) 2024/1689, original Official Journal version of 12 July 2024 (Swedish PDF).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:18:17.291032Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "acc5ad4063972046",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "title": "12. European Commission, \"AI Act | Shaping Europe's digital future\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:36.682961Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9e66153d43026f49",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://fpf.org/?p=250371",
+    "normalized_url": "https://fpf.org?p=250371",
+    "work_key": "https://fpf.org?p=250371",
+    "title": "13. Future of Privacy Forum, \"The AI Act Implementation Timeline: What Changes Under the AI Omnibus?\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:37.974416Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9202953282ba4706",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/gpai-code-practice",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/gpai-code-practice",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/gpai-code-practice",
+    "title": "14. European Commission, \"The General-Purpose AI Code of Practice | Shaping Europe's digital future\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:38.530468Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "126bafaec4822d43",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.euronews.com/2025/07/03/europes-top-ceos-call-for-commission-to-slow-down-on-ai-act",
+    "normalized_url": "https://euronews.com/2025/07/03/europes-top-ceos-call-for-commission-to-slow-down-on-ai-act",
+    "work_key": "https://euronews.com/2025/07/03/europes-top-ceos-call-for-commission-to-slow-down-on-ai-act",
+    "title": "15. Euronews, \"Europe's top CEOs call for Commission to slow down on AI Act\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:38.955685Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "26a8d47384fb4c2d",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/library/digital-omnibus-ai-regulation-proposal",
+    "title": "16. European Commission, \"Digital Omnibus on AI Regulation Proposal | Shaping Europe's digital future\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:38.981892Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cc173de3bd9b422a",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://natlawreview.com/article/eu-digital-omnibus-ai-enters-force",
+    "normalized_url": "https://natlawreview.com/article/eu-digital-omnibus-ai-enters-force",
+    "work_key": "https://natlawreview.com/article/eu-digital-omnibus-ai-enters-force",
+    "title": "17. K&L Gates via National Law Review, \"EU Digital Omnibus on AI Enters Into Force\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:41.379030Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0e3f6c50232576c7",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://eeas.europa.eu/delegations/chile/artificial-intelligence-council-gives-final-green-light-simplify-and-streamline-rules_en",
+    "normalized_url": "https://eeas.europa.eu/delegations/chile/artificial-intelligence-council-gives-final-green-light-simplify-and-streamline-rules_en",
+    "work_key": "https://eeas.europa.eu/delegations/chile/artificial-intelligence-council-gives-final-green-light-simplify-and-streamline-rules_en",
+    "title": "18. Council of the EU press release (EEAS copy), \"Artificial Intelligence: Council gives final green light to simplify and streamline rules\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:40.513472Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4ca421cebd334322",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.pinsentmasons.com/out-law/news/law-delaying-eu-high-risk-ai-rules-finalised",
+    "normalized_url": "https://pinsentmasons.com/out-law/news/law-delaying-eu-high-risk-ai-rules-finalised",
+    "work_key": "https://pinsentmasons.com/out-law/news/law-delaying-eu-high-risk-ai-rules-finalised",
+    "title": "19. Pinsent Masons Out-Law, \"Law delaying EU's 'high-risk' AI rules finalised\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:44.171217Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "13b5c4ef8f77d443",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://edri.org/our-work/commissions-digital-omnibus-is-a-major-rollback-of-eu-digital-protections/",
+    "normalized_url": "https://edri.org/our-work/commissions-digital-omnibus-is-a-major-rollback-of-eu-digital-protections",
+    "work_key": "https://edri.org/our-work/commissions-digital-omnibus-is-a-major-rollback-of-eu-digital-protections",
+    "title": "20. EDRi, \"Digital Omnibus is a major rollback of EU digital protections\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:42.388436Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "758f8ccdc409346b",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.cnnbrasil.com.br/tecnologia/camara-aprova-marco-legal-para-inteligencia-artificial-entenda-implicacoes/",
+    "normalized_url": "https://cnnbrasil.com.br/tecnologia/camara-aprova-marco-legal-para-inteligencia-artificial-entenda-implicacoes",
+    "work_key": "https://cnnbrasil.com.br/tecnologia/camara-aprova-marco-legal-para-inteligencia-artificial-entenda-implicacoes",
+    "title": "21. CNN Brasil, \"Câmara aprova marco legal para inteligência artificial; entenda implicações\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:43.257523Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9f57025c9b787ba8",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://techpolicy.press/brazils-ai-law-faces-uncertain-future-as-big-tech-warms-to-trump",
+    "normalized_url": "https://techpolicy.press/brazils-ai-law-faces-uncertain-future-as-big-tech-warms-to-trump",
+    "work_key": "https://techpolicy.press/brazils-ai-law-faces-uncertain-future-as-big-tech-warms-to-trump",
+    "title": "22. Tech Policy Press, \"Brazil's AI Law Faces Uncertain Future as Big Tech Warms to Trump\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:44.713602Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4e3f2a5f3a1a3edb",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://teletime.com.br/06/12/2022/comissao-de-juristas-propoe-criacao-de-autoridade-para-inteligencia-artificial/",
+    "normalized_url": "https://teletime.com.br/06/12/2022/comissao-de-juristas-propoe-criacao-de-autoridade-para-inteligencia-artificial",
+    "work_key": "https://teletime.com.br/06/12/2022/comissao-de-juristas-propoe-criacao-de-autoridade-para-inteligencia-artificial",
+    "title": "23. TELETIME, \"Comissão de juristas propõe criação de autoridade para inteligência artificial\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:44.563862Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b3d34565fa534379",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://institutobrasileiro.ia.br/artigos/pl-2338-2023-onde-esta-o-projeto-de-lei-de-ia/",
+    "normalized_url": "https://institutobrasileiro.ia.br/artigos/pl-2338-2023-onde-esta-o-projeto-de-lei-de-ia",
+    "work_key": "https://institutobrasileiro.ia.br/artigos/pl-2338-2023-onde-esta-o-projeto-de-lei-de-ia",
+    "title": "24. IA.BR, \"PL 2338/2023: onde está o projeto de lei de IA em outubro de 2026\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:44.948681Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bcbeb42662c97fe7",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-12/senado-aprova-regras-para-uso-da-inteligencia-artificial",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-12/senado-aprova-regras-para-uso-da-inteligencia-artificial",
+    "work_key": "https://agenciabrasil.ebc.com.br/geral/noticia/2024-12/senado-aprova-regras-para-uso-da-inteligencia-artificial",
+    "title": "25. Agência Brasil, \"Senado aprova regras para uso da inteligência artificial\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:44.911823Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "19836916515bd208",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106629&filename=Avulso+PL+2338%2F2023",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106629&filename=Avulso+PL+2338%2F2023",
+    "work_key": "https://camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106629&filename=Avulso+PL+2338%2F2023",
+    "title": "26. Câmara dos Deputados, \"Avulso PL 2338/2023\" (Senate-approved text).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:04:23.263668Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e0ea706576a6c029",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://cesconbarrieu.com.br/en/senado-aprova-o-marco-legal-da-ia-2/",
+    "normalized_url": "https://cesconbarrieu.com.br/en/senado-aprova-o-marco-legal-da-ia-2",
+    "work_key": "https://cesconbarrieu.com.br/en/senado-aprova-o-marco-legal-da-ia-2",
+    "title": "27. Cescon Barrieu, \"Brazilian Senate approves the AI Legal Framework\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:46.641152Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "60b4bd6a49133cd6",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.camara.leg.br/noticias/1140392-camara-comeca-a-discutir-projeto-que-regulamenta-a-inteligencia-artificial-no-brasil/",
+    "normalized_url": "https://camara.leg.br/noticias/1140392-camara-comeca-a-discutir-projeto-que-regulamenta-a-inteligencia-artificial-no-brasil",
+    "work_key": "https://camara.leg.br/noticias/1140392-camara-comeca-a-discutir-projeto-que-regulamenta-a-inteligencia-artificial-no-brasil",
+    "title": "28. Agência Câmara, \"Câmara começa a discutir projeto que regulamenta a inteligência artificial no Brasil\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:45.383909Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5a53ab664988e734",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://monitor.lcfconsulting.com.br/proposicoes/pl-2338-2023/",
+    "normalized_url": "https://monitor.lcfconsulting.com.br/proposicoes/pl-2338-2023",
+    "work_key": "https://monitor.lcfconsulting.com.br/proposicoes/pl-2338-2023",
+    "title": "29. LCF Monitor, \"PL 2338/2023: tramitação na Câmara e situação atual\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:45.904030Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9b14a36d690fb444",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://teletime.com.br/04/05/2026/parlamentares-tentam-retomar-cronograma-para-pl-de-ia/",
+    "normalized_url": "https://teletime.com.br/04/05/2026/parlamentares-tentam-retomar-cronograma-para-pl-de-ia",
+    "work_key": "https://teletime.com.br/04/05/2026/parlamentares-tentam-retomar-cronograma-para-pl-de-ia",
+    "title": "30. TELETIME, \"Parlamentares tentam retomar cronograma para PL de IA\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:47.266960Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b6eb2983fa088c0b",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.cnnbrasil.com.br/politica/avanco-do-pl-da-ia-esbarra-em-decisao-sobre-redata-e-compromisso-do-senado/",
+    "normalized_url": "https://cnnbrasil.com.br/politica/avanco-do-pl-da-ia-esbarra-em-decisao-sobre-redata-e-compromisso-do-senado",
+    "work_key": "https://cnnbrasil.com.br/politica/avanco-do-pl-da-ia-esbarra-em-decisao-sobre-redata-e-compromisso-do-senado",
+    "title": "31. CNN Brasil, \"Avanço do PL da IA esbarra em decisão sobre Redata e compromisso do Senado\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:47.119552Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6704e0ef4154eb89",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.amapadigital.com.br/novo/noticia/10/06/2026-votacao-do-pl-da-inteligencia-artificial-e-adiada-enquanto-camara-busca-consenso-com-o-senado.ghtml",
+    "normalized_url": "https://amapadigital.com.br/novo/noticia/10/06/2026-votacao-do-pl-da-inteligencia-artificial-e-adiada-enquanto-camara-busca-consenso-com-o-senado.ghtml",
+    "work_key": "https://amapadigital.com.br/novo/noticia/10/06/2026-votacao-do-pl-da-inteligencia-artificial-e-adiada-enquanto-camara-busca-consenso-com-o-senado.ghtml",
+    "title": "32. Amapá Digital, \"Votação do PL da Inteligência Artificial é adiada enquanto Câmara busca consenso com o Senado\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:51.604483Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "778e715c75a36ccf",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.congressoemfoco.com.br/noticia/119344/relator-quer-marco-da-ia-atemporal-para-acompanhar-inovacao",
+    "normalized_url": "https://congressoemfoco.com.br/noticia/119344/relator-quer-marco-da-ia-atemporal-para-acompanhar-inovacao",
+    "work_key": "https://congressoemfoco.com.br/noticia/119344/relator-quer-marco-da-ia-atemporal-para-acompanhar-inovacao",
+    "title": "33. Congresso em Foco, \"Relator quer marco da IA 'atemporal' para acompanhar inovação\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:47.775589Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c9ae4cd6e1f9736c",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://desinformante.com.br/ue-avanca-regulacao-ia-projeto-brasileiro-parado/",
+    "normalized_url": "https://desinformante.com.br/ue-avanca-regulacao-ia-projeto-brasileiro-parado",
+    "work_key": "https://desinformante.com.br/ue-avanca-regulacao-ia-projeto-brasileiro-parado",
+    "title": "34. desinformante, \"UE avança na regulação da IA enquanto projeto brasileiro está parado\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:49.570704Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "143eec3fe663bf75",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano/",
+    "normalized_url": "https://mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano",
+    "work_key": "https://mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano",
+    "title": "35. Mobile Time, \"Marco de IA ganha força para ser votado no final do ano, diz relator\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:51.045392Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a658647de977af74",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://itif.org/publications/2025/12/05/europe-writes-the-rules-and-the-world-pays-the-price/",
+    "normalized_url": "https://itif.org/publications/2025/12/05/europe-writes-the-rules-and-the-world-pays-the-price",
+    "work_key": "https://itif.org/publications/2025/12/05/europe-writes-the-rules-and-the-world-pays-the-price",
+    "title": "36. ITIF / Center for Data Innovation, \"Europe Writes the Rules and the World Pays the Price\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:51.653330Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4ccfcdd06582c27e",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://techpolicy.press/the-dmas-brussels-effect-tested-and-contested-lessons-from-brazil",
+    "normalized_url": "https://techpolicy.press/the-dmas-brussels-effect-tested-and-contested-lessons-from-brazil",
+    "work_key": "https://techpolicy.press/the-dmas-brussels-effect-tested-and-contested-lessons-from-brazil",
+    "title": "37. Tech Policy Press, \"The DMA's Brussels Effect Tested And Contested: Lessons From Brazil\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:52.887857Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f3c191f5da0df394",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://www.cmtradelaw.com/2026/06/ustr-finds-certain-brazilian-practices-in-six-issue-areas-actionable-under-section-301-proposes-25-tariffs-on-brazilian-goods-and-invites-comments/",
+    "normalized_url": "https://cmtradelaw.com/2026/06/ustr-finds-certain-brazilian-practices-in-six-issue-areas-actionable-under-section-301-proposes-25-tariffs-on-brazilian-goods-and-invites-comments",
+    "work_key": "https://cmtradelaw.com/2026/06/ustr-finds-certain-brazilian-practices-in-six-issue-areas-actionable-under-section-301-proposes-25-tariffs-on-brazilian-goods-and-invites-comments",
+    "title": "38. Crowell & Moring, \"USTR Finds Certain Brazilian Practices in Six Issue Areas Actionable Under Section 301; Proposes 25% Tariffs on Brazilian Goods and Invites Comments\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:04:32.129059Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a5e3b7dfe1211567",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.correiodamanha.com.br/mundo/internacional/2026/07/305010-deputados-dos-eua-acionam-trump-contra-regulacao-das-big-techs-no-brasil.html",
+    "normalized_url": "https://correiodamanha.com.br/mundo/internacional/2026/07/305010-deputados-dos-eua-acionam-trump-contra-regulacao-das-big-techs-no-brasil.html",
+    "work_key": "https://correiodamanha.com.br/mundo/internacional/2026/07/305010-deputados-dos-eua-acionam-trump-contra-regulacao-das-big-techs-no-brasil.html",
+    "title": "39. Correio da Manhã, \"Deputados dos EUA acionam Trump contra regulação das Big Techs no Brasil\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:03:54.765624Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_026c7ad6edf4_20261115T040310Z",
+    "tool_name": "Claude"
+  }
+]

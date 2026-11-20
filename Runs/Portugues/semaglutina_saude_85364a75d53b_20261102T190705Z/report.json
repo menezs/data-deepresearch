@@ -1,0 +1,1084 @@
+{
+  "run_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+  "answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/ChatGPT/Emergente/semaglutina_saude.md",
+  "generated_at": "2026-11-18T10:36:35.945583Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 39674,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 159,
+    "citation_markers_distinct": 26,
+    "references_listed": 26,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 109,
+  "pct_supported": 62.38532110091744,
+  "pct_unsupported": 32.11009174311927,
+  "pct_contradicted": 0.0,
+  "count_supported": 68,
+  "count_unsupported": 35,
+  "count_contradicted": 0,
+  "count_skipped": 6,
+  "count_audited": 103,
+  "pct_supported_audited": 66.01941747572816,
+  "pct_unsupported_audited": 33.980582524271846,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 29,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 3,
+    "fonte_citada_sem_conteudo": 3
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 9,
+  "count_reclassified_by_verification": 8,
+  "verification_stage_counts": {
+    "context_expansion": 8
+  },
+  "mis_cited_reference_count": 7,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "53f6a43a20c76c40",
+      "citation_markers": [
+        "[23]"
+      ],
+      "raw_url": "https://academic.oup.com/eurheartj/article/44/39/4043/7238227",
+      "normalized_url": "https://academic.oup.com/eurheartj/article/44/39/4043/7238227",
+      "work_key": "https://academic.oup.com/eurheartj/article/44/39/4043/7238227",
+      "title": "Marx N, et al. **2023 ESC Guidelines for the management of cardiovascular disease in patients with diabetes.** European Heart Journal. 2023.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:45:50.194031Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "586e8f68c77b6817",
+      "citation_markers": [
+        "[24]"
+      ],
+      "raw_url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment",
+      "normalized_url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment",
+      "work_key": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment",
+      "title": "American Diabetes Association Professional Practice Committee. **Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes—2026.** Diabetes Care. 2026.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:45:50.191081Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "b4422f8db869546f",
+      "citation_markers": [
+        "[26]"
+      ],
+      "raw_url": "https://www.journal-of-hepatology.eu/article/S0168-8278(24)00329-5/fulltext",
+      "normalized_url": "https://journal-of-hepatology.eu/article/S0168-8278(24)00329-5/fulltext",
+      "work_key": "https://journal-of-hepatology.eu/article/S0168-8278(24)00329-5/fulltext",
+      "title": "Tacke F, et al. **EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD).** Journal of Hepatology. 2024.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:45:50.044867Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-34",
+      "reason": "Referencia(s) citada(s) ['586e8f68c77b6817'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-91",
+      "reason": "Referencia(s) citada(s) ['586e8f68c77b6817'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-97",
+      "reason": "Referencia(s) citada(s) ['53f6a43a20c76c40'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-47",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['53f6a43a20c76c40'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-47",
+        "verdict": "unsupported",
+        "justification": "A evidência mostra que semaglutida melhorou fatores de risco cardiometabólico (incluindo HOMA-IR e circunferência abdominal) e reduziu o uso de medicamentos hipolipemiantes, mas não estabelece relação causal entre perda de adiposidade/resistência à insulina e a melhora observada, nem faz qualquer recomendação sobre semaglutida não substituir estatinas ou terapias hipolipemiantes. A afirmação contém inferências interpretativas e prescritivas ausentes na evidência.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "Afirmação de que parte substancial da melhora provavelmente acompanha a perda de adiposidade e a melhora da resistência à insulina (causalidade não estabelecida na evidência)",
+          "Recomendação de que semaglutida não deve ser tratada como substituto de estatinas ou terapias hipolipemiantes (nenhuma recomendação clínica desse tipo aparece na evidência)"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "71b015cf64d48aaf",
+            "relation": "partial",
+            "excerpt": "Reductions in SBP, non-HDL cholesterol, low-density lipoprotein cholesterol and FPG were generally greater with semaglutide than placebo within weight-loss categories."
+          }
+        ],
+        "prompt_tokens": 16696,
+        "completion_tokens": 3105,
+        "cost_usd": 0.0,
+        "latency_ms": 39534,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência mostra que semaglutida melhorou fatores de risco cardiometabólico (incluindo HOMA-IR e circunferência abdominal) e reduziu o uso de medicamentos hipolipemiantes, mas não estabelece relação causal entre perda de adiposidade/resistência à insulina e a melhora observada…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência mostra que semaglutida melhorou fatores de risco cardiometabólicos (incluindo HOMA-IR e lipídios) e reduziu o uso de medicação hipolipemiante, mas não afirma que a melhora acompanha a perda de adiposidade e resistência à insulina, nem faz qualquer recomendação sobre…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em 71b015cf64d48aaf; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-53",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['b4422f8db869546f'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-53",
+        "verdict": "unsupported",
+        "justification": "A evidência utiliza o termo MASH (Metabolic Dysfunction-Associated Steatohepatitis) e menciona disfunção metabólica, mas não aborda explicitamente a mudança de nomenclatura de NAFLD para MASLD nem de NASH para MASH, nem afirma que a mudança pretende enfatizar a disfunção metabólica subjacente. Essas informações exigem conhecimento externo não presente na evidência.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "NAFLD passou a ser denominado predominantemente MASLD",
+          "NASH corresponde atualmente a MASH",
+          "a mudança pretende enfatizar a disfunção metabólica subjacente"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "95e5680e3791b72b",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 13331,
+        "completion_tokens": 3048,
+        "cost_usd": 0.0,
+        "latency_ms": 26369,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": true,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência utiliza o termo MASH (Metabolic Dysfunction-Associated Steatohepatitis) e menciona disfunção metabólica, mas não aborda explicitamente a mudança de nomenclatura de NAFLD para MASLD nem de NASH para MASH, nem afirma que a mudança pretende enfatizar a disfunção metaból…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência trata de um ensaio clínico de semaglutida em MASH (metabolic dysfunction-associated steatohepatitis), mencionando apenas a nomenclatura atual MASH. Não há qualquer menção à mudança terminológica de NAFLD para MASLD, de NASH para MASH, nem à justificativa de enfatizar…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "claim ausente das 1 janela(s) do(s) documento(s) citado(s)"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-100",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['53f6a43a20c76c40'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-100",
+        "verdict": "unsupported",
+        "justification": "A primeira parte da afirmação (insulina e sulfonilureias podem precisar de redução para limitar hipoglicemia) é explicitamente sustentada pela evidência. Porém, a segunda parte (estatinas, anti-hipertensivos e terapias renoprotetoras não devem ser suspensos quando pressão, lipídios ou função renal melhoram com semaglutida) não encontra qualquer respaldo na evidência fornecida, que não aborda a continuidade ou suspensão desses medicamentos em contexto de melhora clínica com semaglutida.",
+        "cited_excerpts": [
+          "When initiating OZEMPIC, consider reducing the dose of concomitantly administered insulin secretagogue (such as sulfonylureas) or insulin to reduce the risk of hypoglycemia",
+          "The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogue) or insulin.",
+          "Reducing dose of insulin secretagogue or insulin may be necessary (5.5)."
+        ],
+        "supporting_reference_ids": [
+          "1a5003b5e1d153d0"
+        ],
+        "unsupported_aspects": [
+          "estatinas não devem ser suspensos quando lipídios melhoram com semaglutida",
+          "anti-hipertensivos não devem ser suspensos quando pressão melhora com semaglutida",
+          "terapias renoprotetoras não devem ser suspensas quando função renal melhora com semaglutida"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "1a5003b5e1d153d0",
+            "relation": "partial",
+            "excerpt": "The risk of hypoglycemia may be lowered by a reduction in the dose of sulfonylurea (or other concomitantly administered insulin secretagogue) or insulin."
+          },
+          {
+            "reference_id": "8fcf11a8afaf223a",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 69608,
+        "completion_tokens": 5236,
+        "cost_usd": 0.0,
+        "latency_ms": 32384,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A primeira parte da afirmação (insulina e sulfonilureias podem precisar de redução para limitar hipoglicemia) é explicitamente sustentada pela evidência. Porém, a segunda parte (estatinas, anti-hipertensivos e terapias renoprotetoras não devem ser suspensos quando pressão, lipíd…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A primeira parte da afirmação (insulina e sulfonilureias podem precisar de redução para limitar hipoglicemia) é explicitamente sustentada pela evidência. Porém, a segunda parte — que estatinas, anti-hipertensivos e terapias renoprotetoras não devem ser suspensos quando pressão,…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em 1a5003b5e1d153d0; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "1a5003b5e1d153d0",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/209637s025lbl.pdf",
+      "times_cited": 25,
+      "supported_count": 19,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 13,
+      "partial_citations": 11,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        28,
+        35,
+        50,
+        71,
+        74,
+        79,
+        80,
+        81,
+        82,
+        92,
+        94,
+        99
+      ],
+      "partial_positions": [
+        12,
+        16,
+        17,
+        18,
+        72,
+        84,
+        85,
+        87,
+        89,
+        90,
+        98
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        100
+      ],
+      "key_excerpt": "to reduce the risk of sustained eGFR decline, end-stage kidney disease and cardiovascular death in adults with type 2 diabetes mellitus and chronic kidney disease (1).",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "fe4fe99e25e4d1b5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37952131/",
+      "times_cited": 12,
+      "supported_count": 7,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        38,
+        39
+      ],
+      "partial_positions": [
+        0,
+        5,
+        25,
+        40,
+        41,
+        95,
+        107
+      ],
+      "absent_positions": [
+        2,
+        101
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A total of 17,604 patients were enrolled; 8803 were assigned to receive semaglutide and 8801 to receive placebo. The mean (±SD) duration of exposure to semaglutide or placebo was 34.2±13.7 months, and the mean duration of follow-up was 39.8±9.4 months. A primary cardiovascular end-point event occurred in 569 of the 8803 patients (6.5%) in the semaglutide group and in 701 of the 8801 patients (8.0%) in the placebo group (hazard ratio, 0.80; 95% confidence interval, 0.72 to 0.90; P<0.001).",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "95e5680e3791b72b",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40305708/",
+      "times_cited": 12,
+      "supported_count": 5,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        55,
+        56,
+        57
+      ],
+      "partial_positions": [
+        0,
+        54,
+        58,
+        95,
+        107
+      ],
+      "absent_positions": [
+        14,
+        29,
+        30
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        53
+      ],
+      "key_excerpt": "In this ongoing phase 3, multicenter, randomized, double-blind, placebo-controlled trial, we assigned 1197 patients with biopsy-defined MASH and fibrosis stage 2 or 3 in a 2:1 ratio to receive once-weekly subcutaneous semaglutide at a dose of 2.4 mg or placebo for 240 weeks. The results of a planned interim analysis conducted at week 72 involving the first 800 patients are reported here (part 1).",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "2ab293d8fc356fe5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42610271/",
+      "times_cited": 10,
+      "supported_count": 5,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        32,
+        33,
+        63
+      ],
+      "partial_positions": [
+        1,
+        5,
+        31,
+        62,
+        102,
+        107
+      ],
+      "absent_positions": [
+        101
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Semaglutide reduced hsCRP levels (-37.8% [104 weeks]) and risk of MACE across all hsCRP subgroups. [...] Modeling suggests decreased inflammation as contributing in part to the benefits seen with semaglutide in SELECT. [...] In SELECT, hsCRP data at baseline and in response to treatment with semaglutide support inflammation as a potential prognostic factor associated with cardiovascular risk in these generally well-treated patients with atherosclerotic cardiovascular disease and overweight or obesity but not diabetes.",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "9a06dd53bce94134",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38785209/",
+      "times_cited": 9,
+      "supported_count": 5,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        6,
+        48,
+        49
+      ],
+      "partial_positions": [
+        0,
+        14,
+        27,
+        95,
+        107
+      ],
+      "absent_positions": [
+        26
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The risk of a primary-outcome event was 24% lower in the semaglutide group than in the placebo group (331 vs. 410 first events; hazard ratio, 0.76; 95% confidence interval [CI], 0.66 to 0.88; P = 0.0003). [...] the mean annual eGFR slope was less steep (indicating a slower decrease) by 1.16 ml per minute per 1.73 m2 in the semaglutide group (P<0.001) [...] We randomly assigned patients with type 2 diabetes and chronic kidney disease [...] to receive subcutaneous semaglutide at a dose of 1.0 mg weekly or placebo. [...] Funded by Novo Nordisk; FLOW ClinicalTrials.gov number, NCT03819153.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "0f8282f1ddbbfb52",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41865758/",
+      "times_cited": 9,
+      "supported_count": 6,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        9,
+        67,
+        103
+      ],
+      "partial_positions": [
+        10,
+        66,
+        68,
+        108
+      ],
+      "absent_positions": [
+        22,
+        106
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "3808 were randomly assigned; 1855 in evoke (semaglutide, n=928; placebo, n=927) and 1953 in evoke+ (semaglutide, n=976; placebo, n=977). [...] oral semaglutide up to 14 mg once daily in participants with amyloid-confirmed Alzheimer's disease [...] estimated difference -0·08 [95% CI -0·35 to 0·20], p=0·57 in evoke and 0·10 [-0·17 to 0·38], p=0·46 in evoke+ [...] Oral semaglutide was not efficacious in slowing clinical progression in participants with early Alzheimer's disease.",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "ee96a14949cf16ac",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/215256s033lbl.pdf",
+      "times_cited": 9,
+      "supported_count": 8,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 8,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        59,
+        71,
+        75,
+        80,
+        92,
+        93,
+        94,
+        99
+      ],
+      "partial_positions": [
+        60
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "for the treatment of noncirrhotic metabolic dysfunction-associated steatohepatitis (MASH), formerly known as nonalcoholic steatohepatitis (NASH), with moderate to advanced liver fibrosis (consistent with stages F2 to F3 fibrosis) in adults. This indication is approved under accelerated approval based on improvement of MASH and fibrosis [...] Continued approval for this indication may be contingent upon the verification and description of clinical benefit in a confirmatory trial.",
+      "key_excerpt_position": 59
+    },
+    {
+      "reference_id": "9d03b921a48ae815",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6314963/",
+      "times_cited": 8,
+      "supported_count": 5,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [
+        23
+      ],
+      "partial_positions": [
+        1,
+        2,
+        24,
+        25,
+        31,
+        62,
+        108
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In 2 murine models of atherosclerosis (ApoE−/− and LDLr−/−), liraglutide and semaglutide showed significant reductions of aortic plaque areas, at least partially independent of changes in body weight. Several changes in gene expression in the aorta were related to proteins representing inflammatory pathways associated with leucocyte recruitment, adhesion, and migration.",
+      "key_excerpt_position": 23
+    },
+    {
+      "reference_id": "5e0bd8b0b845477e",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27633186/",
+      "times_cited": 8,
+      "supported_count": 7,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        3,
+        36,
+        37
+      ],
+      "partial_positions": [
+        0,
+        25,
+        87,
+        95,
+        107
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We randomly assigned 3297 patients with type 2 diabetes who were on a standard-care regimen to receive once-weekly semaglutide (0.5 mg or 1.0 mg) or placebo for 104 weeks. The primary composite outcome was the first occurrence of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke. We hypothesized that semaglutide would be noninferior to placebo for the primary outcome. The primary outcome occurred in 108 of 1648 patients (6.6%) in the semaglutide group and in 146 of 1649 patients (8.9%) in the placebo group (hazard ratio, 0.74; 95% confidence interval [CI], 0.58 to 0.95; P<0.001 for noninferiority).",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "c3be44c74ac58ed7",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39764175/",
+      "times_cited": 7,
+      "supported_count": 3,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        64
+      ],
+      "partial_positions": [
+        8,
+        10,
+        68
+      ],
+      "absent_positions": [
+        65,
+        105,
+        106
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Semaglutide was not associated with an increased risk of neurological and psychiatric outcomes. Instead, after multiple-testing correction, semaglutide was associated with reduced risk for several such outcomes, notably cognitive deficit compared to sitagliptin (HR 0.72, 95% CI 0.64-0.80) and glipizide (HR 0.72, 95% CI 0.63-0.81) [...] Semaglutide is not associated with higher 12-month risk of adverse neuropsychiatric outcomes compared to other antidiabetic medications. Potential beneficial associations with some outcomes, especially cognitive deficit and nicotine misuse, should stimulate validation in clinical trials.",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "8fcf11a8afaf223a",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42825923/",
+      "times_cited": 7,
+      "supported_count": 3,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        15,
+        52,
+        96
+      ],
+      "partial_positions": [
+        51
+      ],
+      "absent_positions": [
+        14,
+        98
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        100
+      ],
+      "key_excerpt": "This update has broadened the focus from the management of hyperglycaemia to the holistic management of type 2 diabetes and its risk of associated multiple long-term conditions. ... earlier use, potentially from diagnosis, of sodium-glucose cotransporter 2 (SGLT2) inhibitors or/and glucagon-like peptide-1 (GLP-1)-based therapies to offer organ protection and improve long-term outcomes in type 2 diabetes is advocated. Furthermore, earlier combination use of SGLT2 inhibitors and GLP-1-based therapies should be considered in people with concomitant CVD, chronic kidney disease and heart failure.",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "cd5e92f80b4dc387",
+      "url": "https://insight.jci.org/articles/view/133429",
+      "times_cited": 6,
+      "supported_count": 3,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        1,
+        19,
+        20,
+        21
+      ],
+      "absent_positions": [
+        2,
+        22
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Semaglutide, a glucagon-like peptide 1 (GLP-1) analog, induces weight loss, lowers glucose levels, and reduces cardiovascular risk in patients with diabetes.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "886943a83bdae4d6",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37531876/",
+      "times_cited": 6,
+      "supported_count": 2,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        69
+      ],
+      "partial_positions": [
+        72,
+        104,
+        108
+      ],
+      "absent_positions": [
+        73,
+        106
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Data from 37 RCTs and 19 real-world studies [...] Compared to placebo, occurrence of pancreatic cancer [OR 0.25 (95%CI: 0.03-2.24); P = 0.21], thyroid cancer [OR 2.04 (95%CI: 0.33-12.61); P = 0.44; I2 = 0%] and all neoplasms (benign, malignant and otherwise unspecified) [OR 0.95 (95%CI:0.62-1.45); P = 0.82; I2 = 0%] was similar in the semaglutide group.",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "fbb431724c63142e",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33667417/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        76,
+        77
+      ],
+      "partial_positions": [
+        11
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Estimated change in mean bodyweight from baseline to week 68 was -9·6% (SE 0·4) with semaglutide 2·4 mg vs -3·4% (0·4) with placebo. Estimated treatment difference for semaglutide 2·4 mg versus placebo was -6·2 percentage points (95% CI -7·3 to -5·2; p<0·0001).",
+      "key_excerpt_position": 76
+    },
+    {
+      "reference_id": "b87dec887bb09247",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39217502/",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        44
+      ],
+      "partial_positions": [
+        1,
+        45
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The difference in SBP change between the treatment (n = 2109) and placebo (n = 1027) groups was -4.95 mmHg [95% confidence interval (CI) -5.86 to -4.05] overall. This difference was -4.78 mmHg (95% CI -5.97 to -3.59) for HTN, -4.93 mmHg (95% CI -6.75 to -3.11) for HTN130, -4.09 mmHg (95% CI -7.12 to -1.06) for HTN140, and -3.16 mmHg (95% CI -8.69-2.37) for RH. Individual patient data (IPD) from three RCTs examining the effect of semaglutide 2.4 mg on body weight over 68 weeks were included. This IPD analysis of three large RCTs found blood pressure reductions with semaglutide in participants with hypertension that were similar to those seen in all trial participants.",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "71b015cf64d48aaf",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36200477/",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        1,
+        46
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        47
+      ],
+      "key_excerpt": "reductions in waist circumference, SBP, DBP, FPG, fasting serum insulin, lipids and HOMA-IR were greater with semaglutide versus placebo",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "e179102e5c44df8e",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38018310/",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        70
+      ],
+      "partial_positions": [
+        72,
+        104
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Our meta-analysis showed that GLP-1RA treatment could be associated with a moderate increase in relative risk for thyroid cancer in clinical trials, with a small increase in absolute risk. Studies of longer duration are required to assess the clinical implications of this finding.",
+      "key_excerpt_position": 70
+    },
+    {
+      "reference_id": "f4d96b5765e27fd3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38555109/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        83
+      ],
+      "partial_positions": [
+        12,
+        84
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This updated meta-analysis demonstrates that the use of semaglutide is not associated with an increased risk of acute pancreatitis compared to placebo. In the stratified analysis, the results were similar with the different semaglutide regimens analysed.",
+      "key_excerpt_position": 83
+    },
+    {
+      "reference_id": "275324d565928fcc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35344001/",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        13
+      ],
+      "partial_positions": [
+        85,
+        86
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A total of 76 RCTs [...] were included. [...] randomization to GLP-1 RA treatment was associated with increased risks of gallbladder or biliary diseases (RR, 1.37; 95% CI, 1.23-1.52) [...] GLP-1 RA use was associated with higher risks of gallbladder or biliary diseases at higher doses (RR, 1.56) compared with lower doses (RR, 0.99) and with longer duration of use (RR, 1.40) compared with shorter duration (RR, 0.79) [...] use of GLP-1 RAs was associated with increased risk of gallbladder or biliary diseases in trials for weight loss (n = 13; RR, 2.29) [...] use of GLP-1 RAs was associated with increased risk of gallbladder or biliary diseases, especially when used at higher doses, for longer durations, and for weight loss.",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "827f4c9d702b90f2",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29178519/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        88,
+        89
+      ],
+      "partial_positions": [
+        98
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The majority of the effect with semaglutide vs placebo in SUSTAIN 6 may be attributed to the magnitude and rapidity of HbA1c reduction during the first 16 weeks of treatment in patients who had pre-existing DR and poor glycaemic control at baseline, and who were treated with insulin.",
+      "key_excerpt_position": 88
+    },
+    {
+      "reference_id": "53f6a43a20c76c40",
+      "url": "https://academic.oup.com/eurheartj/article/44/39/4043/7238227",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        47,
+        97,
+        100
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "bec07a7e104c069c",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40162642/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [
+        43
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Funded by Novo Nordisk; SOUL ClinicalTrials.gov number, NCT03914326. ... Among the 9650 participants who had undergone randomization ... had type 2 diabetes ... and had known atherosclerotic cardiovascular disease, chronic kidney disease, or both to receive either once-daily oral semaglutide",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "586e8f68c77b6817",
+      "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        34,
+        91
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f129353320dd37c4",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41201884/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        61
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This practice recommendation serves as an update to the 2023 AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease (NAFLD), now known as metabolic dysfunction-associated steatotic liver disease (MASLD), and provides implementable guidance on patient selection for treatment, consideration of comorbidities, and monitoring of treatment safety and efficacy of semaglutide.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "8f80824ab78bcbf0",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        78
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The mean change in body weight from baseline to week 68 was -14.9% in the semaglutide group as compared with -2.4% with placebo",
+      "key_excerpt_position": 78
+    },
+    {
+      "reference_id": "b4422f8db869546f",
+      "url": "https://www.journal-of-hepatology.eu/article/S0168-8278(24)00329-5/fulltext",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        53
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-8",
+      "position": 8,
+      "claim_excerpt": "Estudos observacionais sugeriram menor incidência de déficits cognitivos ou diagnósticos de demência entre usuários de semaglutida, mas estão sujeitos a confusão residual e viés de seleção.",
+      "cited_markers": "[14]",
+      "corroborating_markers": "[13] [3] [1] [20] [6] [7] [21] [17] [4]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-11",
+      "position": 11,
+      "claim_excerpt": "Náuseas, vômitos, diarreia, constipação e dor abdominal são os eventos mais frequentes e são relacionados em parte à dose e à fase de escalonamento; no STEP 2, eventos gastrointestinais ocorreram em…",
+      "cited_markers": "[7]",
+      "corroborating_markers": "[20] [25] [21] [6] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-16",
+      "position": 16,
+      "claim_excerpt": "A semaglutida é um análogo de GLP-1 resistente à rápida degradação, com ativação prolongada do GLP-1R, e sua farmacologia integra sinalização periférica e neural.",
+      "cited_markers": "[20]",
+      "corroborating_markers": "[1] [21] [14] [2] [7] [19] [9]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-43",
+      "position": 43,
+      "claim_excerpt": "Semaglutida oral 14 mg reduziu o risco de MACE em aproximadamente 14%, HR 0,86 (IC95% 0,77–0,96), durante seguimento próximo de quatro anos, mostrando que o benefício cardiovascular não parece restri…",
+      "cited_markers": "[6]",
+      "corroborating_markers": "[10] [5] [4] [20] [14] [3] [9] [13]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-46",
+      "position": 46,
+      "claim_excerpt": "Os lipídios apresentam padrão semelhante: estudos do programa STEP documentaram melhora de triglicerídeos e de medidas de colesterol aterogênico durante o tratamento.",
+      "cited_markers": "[9]",
+      "corroborating_markers": "[21] [1] [25] [18] [2] [20]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-86",
+      "position": 86,
+      "claim_excerpt": "Tanto o agonismo de GLP-1 quanto a perda rápida de peso podem contribuir para esse risco, tornando especialmente relevante a vigilância em tratamento de obesidade com grande redução ponderal.",
+      "cited_markers": "[18]",
+      "corroborating_markers": "[21] [25] [1] [16] [8] [2] [7] [9]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_85364a75d53b_20261102T190705Z-107",
+      "position": 107,
+      "claim_excerpt": "Reduções de eventos cardiovasculares em diabetes e obesidade, proteção renal em diabetes com DRC, melhora glicêmica e pressórica, efeitos favoráveis sobre lipídios e inflamação e eficácia histológica…",
+      "cited_markers": "[3] [4] [5] [10] [11]",
+      "corroborating_markers": "[2] [21] [19] [6] [9] [12] [20] [16]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1901754,
+  "cost_tracked": false,
+  "processing_time_seconds": 125527.684171
+}

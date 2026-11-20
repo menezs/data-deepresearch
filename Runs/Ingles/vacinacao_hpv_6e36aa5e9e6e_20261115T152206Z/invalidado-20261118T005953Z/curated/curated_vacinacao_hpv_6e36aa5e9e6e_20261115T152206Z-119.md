@@ -1,0 +1,18 @@
+[referencia=ea0115e5675f96b1 score=0.003]
+# First-Ever Therapeutic HPV Vaccine Promising Against Cervical Cancer
+
+*Surabhi Dangi-Garimella, PhD*
+
+Developed by Inovio Pharmaceuticals, the vaccine has shown the potential to impact precancerous cervical lesions.
+
+ A therapeutic vaccine developed by Inovio Pharmaceuticals has shown the potential to impact precancerous lesions in the cervix of women infected with the human papillomavirus (HPV). Results of a phase 2b trial funded by the company, published in *The Lancet*
+
+Inovio is in the business of developing DNA-based immunotherapies against cancers and infectious diseases. The company developed a synthetic plasmid, VGX-3100, directed against HPV-16, HPV-18 E6 and E7 proteins. The phase 2b double-blind study described in the current paper recruited 167 patients (between October 19, 2011 and July 30, 2013) with CIN2/3 from 36 academic, across 36 academic and private gynecology practices in 7 countries. Patients were randomized to receive 6 mg VGX-3100 (125 patients) or placebo (42 patients), administered at 0, 4, and 12 weeks. Patients who received at least 1 dose were included in the safety study.
+
+The primary efficacy endpoint of the trial was regression to CIN1 or normal pathology at 36 weeks following the first dose.
+
+The researchers analyzed the data 2 ways; in the per-protocol analysis, 49.5% of VGX-3100-treated patients and 30.6% of placebo-treated patients had histopathologic regression. In the modified intention-to-treat analysis, 48.2% of vaccine recipients and 30.0% of placebo recipients had histopathologic regression. Erythema was more commonly observed in the vaccine-treated group compared with the placebo, in addition to injection-site reactions, which were see in most patients.
+
+Based on their data, the authors claim that VGX-3100 could present a non-surgical therapeutic option for CIN2/3.
+
+The rights to further develop this potential cure for cervical cancer have now been acquired by MedImmune Inc. Inovio modified the vaccine to include a DNA-based immune activator for IL-12 (INO-3112), and MedImmune has plans to evaluate INO-3112 in combination with immuno-oncology agents.

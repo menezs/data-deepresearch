@@ -1,0 +1,496 @@
+[
+  {
+    "id": "cd5e92f80b4dc387",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://insight.jci.org/articles/view/133429",
+    "normalized_url": "https://insight.jci.org/articles/view/133429",
+    "work_key": "https://insight.jci.org/articles/view/133429",
+    "title": "Gabery S, et al. **Semaglutide lowers body weight in rodents via distributed neural pathways.** JCI Insight. 2020.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:38.524447Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9d03b921a48ae815",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6314963/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6314963",
+    "work_key": "PMC:PMC6314963",
+    "title": "Rakipovski G, et al. **The GLP-1 analogs liraglutide and semaglutide reduce atherosclerosis in ApoE−/− and LDLr−/− mice by a mechanism that includes inflammatory pathways.** JACC: Basic to Translational Science. 2018.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:38.348458Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5e0bd8b0b845477e",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/27633186/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/27633186",
+    "work_key": "PMID:27633186",
+    "title": "Marso SP, et al. **Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.** New England Journal of Medicine. 2016.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:38.422358Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "fe4fe99e25e4d1b5",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/37952131/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/37952131",
+    "work_key": "PMID:37952131",
+    "title": "Lincoff AM, et al. **Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes.** New England Journal of Medicine. 2023.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:38.449251Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9a06dd53bce94134",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/38785209/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/38785209",
+    "work_key": "PMID:38785209",
+    "title": "Perkovic V, et al. **Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes.** New England Journal of Medicine. 2024.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:38.999455Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "bec07a7e104c069c",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/40162642/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/40162642",
+    "work_key": "PMID:40162642",
+    "title": "McGuire DK, et al. **Oral Semaglutide and Cardiovascular Outcomes in High-Risk Type 2 Diabetes.** New England Journal of Medicine. 2025.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:39.367197Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "fbb431724c63142e",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/33667417/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/33667417",
+    "work_key": "PMID:33667417",
+    "title": "Davies M, et al. **Semaglutide 2.4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2).** The Lancet. 2021.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:39.206622Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b87dec887bb09247",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/39217502/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/39217502",
+    "work_key": "PMID:39217502",
+    "title": "Kennedy C, et al. **Semaglutide and blood pressure: an individual patient data meta-analysis.** 2024.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:39.219831Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "71b015cf64d48aaf",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/36200477/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/36200477",
+    "work_key": "PMID:36200477",
+    "title": "Kosiborod MN, et al. **Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and STEP 4 exploratory analyses.** 2022.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:39.779322Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2ab293d8fc356fe5",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/42610271/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/42610271",
+    "work_key": "PMID:42610271",
+    "title": "**Semaglutide and High-Sensitivity C-Reactive Protein in the SELECT Cardiovascular Outcomes Trial.** Circulation. 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:40.282374Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "95e5680e3791b72b",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/40305708/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/40305708",
+    "work_key": "PMID:40305708",
+    "title": "Sanyal AJ, et al. **Phase 3 Trial of Semaglutide in Metabolic Dysfunction-Associated Steatohepatitis.** New England Journal of Medicine. 2025.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:40.046589Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f129353320dd37c4",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/41201884/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/41201884",
+    "work_key": "PMID:41201884",
+    "title": "American Association for the Study of Liver Diseases. **Practice-guidance update on semaglutide for metabolic dysfunction-associated steatohepatitis.** 2025.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:40.227120Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0f8282f1ddbbfb52",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/41865758/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/41865758",
+    "work_key": "PMID:41865758",
+    "title": "Cummings JL, et al. **Efficacy and safety of oral semaglutide 14 mg in early-stage symptomatic Alzheimer's disease (evoke and evoke+): two phase 3, randomised, placebo-controlled trials.** The Lancet. 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:40.465237Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c3be44c74ac58ed7",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/39764175/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/39764175",
+    "work_key": "PMID:39764175",
+    "title": "De Giorgi R, et al. **12-month neurological and psychiatric outcomes of semaglutide use for type 2 diabetes: a propensity-score matched cohort study.** eClinicalMedicine. 2024.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:40.822926Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "886943a83bdae4d6",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/37531876/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/37531876",
+    "work_key": "PMID:37531876",
+    "title": "Nagendra L, et al. **Semaglutide and cancer: A systematic review and meta-analysis.** Diabetes & Metabolic Syndrome. 2023.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:40.880074Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e179102e5c44df8e",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/38018310/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/38018310",
+    "work_key": "PMID:38018310",
+    "title": "Silverii GA, et al. **Glucagon-like peptide-1 receptor agonists and risk of thyroid cancer: a systematic review and meta-analysis of randomized controlled trials.** Diabetes, Obesity and Metabolism. 2024.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:40.933823Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f4d96b5765e27fd3",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/38555109/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/38555109",
+    "work_key": "PMID:38555109",
+    "title": "Masson W, et al. **Acute pancreatitis due to different semaglutide regimens: An updated meta-analysis.** 2024.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:41.030407Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "275324d565928fcc",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/35344001/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/35344001",
+    "work_key": "PMID:35344001",
+    "title": "He L, et al. **Association of Glucagon-Like Peptide-1 Receptor Agonist Use With Risk of Gallbladder and Biliary Diseases: A Systematic Review and Meta-analysis of Randomized Clinical Trials.** JAMA Internal Medicine. 2022.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:41.521705Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "827f4c9d702b90f2",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/29178519/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/29178519",
+    "work_key": "PMID:29178519",
+    "title": "Vilsbøll T, et al. **Semaglutide, reduction in glycated haemoglobin and the risk of diabetic retinopathy.** Diabetes, Obesity and Metabolism. 2018.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:41.608915Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1a5003b5e1d153d0",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2025/209637s025lbl.pdf",
+    "normalized_url": "https://accessdata.fda.gov/drugsatfda_docs/label/2025/209637s025lbl.pdf",
+    "work_key": "https://accessdata.fda.gov/drugsatfda_docs/label/2025/209637s025lbl.pdf",
+    "title": "U.S. Food and Drug Administration. **Ozempic (semaglutide) — Prescribing Information.** Revisão de janeiro de 2025.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:08:02.450132Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ee96a14949cf16ac",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/215256s033lbl.pdf",
+    "normalized_url": "https://accessdata.fda.gov/drugsatfda_docs/label/2026/215256s033lbl.pdf",
+    "work_key": "https://accessdata.fda.gov/drugsatfda_docs/label/2026/215256s033lbl.pdf",
+    "title": "U.S. Food and Drug Administration. **Wegovy (semaglutide) — Prescribing Information.** Revisão de fevereiro de 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:08:07.364144Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "8fcf11a8afaf223a",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/42825923/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/42825923",
+    "work_key": "PMID:42825923",
+    "title": "Davies MJ, et al. **Management of type 2 diabetes, 2026. A consensus report by the American Diabetes Association (ADA) and the European Association for the Study of Diabetes (EASD).** Diabetologia. 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:07:42.603248Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "53f6a43a20c76c40",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://academic.oup.com/eurheartj/article/44/39/4043/7238227",
+    "normalized_url": "https://academic.oup.com/eurheartj/article/44/39/4043/7238227",
+    "work_key": "https://academic.oup.com/eurheartj/article/44/39/4043/7238227",
+    "title": "Marx N, et al. **2023 ESC Guidelines for the management of cardiovascular disease in patients with diabetes.** European Heart Journal. 2023.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:45:50.194031Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "586e8f68c77b6817",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment",
+    "normalized_url": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment",
+    "work_key": "https://diabetesjournals.org/care/article/49/Supplement_1/S183/163934/9-Pharmacologic-Approaches-to-Glycemic-Treatment",
+    "title": "American Diabetes Association Professional Practice Committee. **Pharmacologic Approaches to Glycemic Treatment: Standards of Care in Diabetes—2026.** Diabetes Care. 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:45:50.191081Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "8f80824ab78bcbf0",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/33567185/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/33567185",
+    "work_key": "PMID:33567185",
+    "title": "Wilding JPH, et al. **Once-Weekly Semaglutide in Adults with Overweight or Obesity.** New England Journal of Medicine. 2021.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:08:00.769868Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b4422f8db869546f",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.journal-of-hepatology.eu/article/S0168-8278(24)00329-5/fulltext",
+    "normalized_url": "https://journal-of-hepatology.eu/article/S0168-8278(24)00329-5/fulltext",
+    "work_key": "https://journal-of-hepatology.eu/article/S0168-8278(24)00329-5/fulltext",
+    "title": "Tacke F, et al. **EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD).** Journal of Hepatology. 2024.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:45:50.044867Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_85364a75d53b_20261102T190705Z",
+    "tool_name": "ChatGPT"
+  }
+]

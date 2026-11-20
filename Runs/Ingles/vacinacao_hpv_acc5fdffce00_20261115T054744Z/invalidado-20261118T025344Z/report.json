@@ -1,0 +1,1185 @@
+{
+  "run_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z",
+  "answer_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/Ingles/ChatGPT/Consolidado/vacinacao_hpv.md",
+  "generated_at": "2026-11-15T06:07:46.461070Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 32555,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 101,
+    "citation_markers_distinct": 37,
+    "references_listed": 37,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 101,
+  "pct_supported": 60.396039603960396,
+  "pct_unsupported": 28.71287128712871,
+  "pct_contradicted": 1.9801980198019802,
+  "count_supported": 61,
+  "count_unsupported": 29,
+  "count_contradicted": 2,
+  "count_skipped": 9,
+  "count_audited": 92,
+  "pct_supported_audited": 66.30434782608695,
+  "pct_unsupported_audited": 31.521739130434785,
+  "pct_contradicted_audited": 2.1739130434782608,
+  "count_partially_supported": 27,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 9
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 8,
+  "count_reclassified_by_verification": 3,
+  "verification_stage_counts": {
+    "context_expansion": 2,
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 18,
+  "uncredited_reference_count": 2,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "a4a95ddcdd2bb3e3",
+      "citation_markers": [
+        "[11]"
+      ],
+      "raw_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1917338",
+      "normalized_url": "https://nejm.org/doi/full/10.1056/NEJMoa1917338",
+      "work_key": "DOI:10.1056/nejmoa1917338",
+      "title": "11. Lei J et al. *HPV Vaccination and the Risk of Invasive Cervical Cancer.* New England Journal of Medicine.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T05:48:26.740025Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "717164fa9556ab45",
+      "citation_markers": [
+        "[15]"
+      ],
+      "raw_url": "https://www.bmj.com/content/365/bmj.l1161",
+      "normalized_url": "https://bmj.com/content/365/bmj.l1161",
+      "work_key": "https://bmj.com/content/365/bmj.l1161",
+      "title": "15. Palmer T et al. *Prevalence of cervical disease at age 20 after immunisation with bivalent HPV vaccine at age 12–13 in Scotland: retrospective population study.* BMJ.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T05:49:24.409238Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "2c1018c3a3d7e426",
+      "citation_markers": [
+        "[33]"
+      ],
+      "raw_url": "https://publications.aap.org/pediatrics/article/139/1/e20161764/51685/Announcements-Versus-Conversations-to-Improve-HPV",
+      "normalized_url": "https://publications.aap.org/pediatrics/article/139/1/e20161764/51685/Announcements-Versus-Conversations-to-Improve-HPV",
+      "work_key": "https://publications.aap.org/pediatrics/article/139/1/e20161764/51685/Announcements-Versus-Conversations-to-Improve-HPV",
+      "title": "33. Brewer NT et al. *Announcements Versus Conversations to Improve HPV Vaccination Coverage: A Randomized Trial.* Pediatrics.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T05:50:04.171972Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "9bd1bf297cf87fa6",
+      "citation_markers": [
+        "[35]"
+      ],
+      "raw_url": "https://publications.aap.org/pediatrics/article/151/3/e2022058794/190722/Early-Initiation-of-HPV-Vaccination-and-Series",
+      "normalized_url": "https://publications.aap.org/pediatrics/article/151/3/e2022058794/190722/Early-Initiation-of-HPV-Vaccination-and-Series",
+      "work_key": "https://publications.aap.org/pediatrics/article/151/3/e2022058794/190722/Early-Initiation-of-HPV-Vaccination-and-Series",
+      "title": "35. Bednarczyk RA et al. *Early Initiation of HPV Vaccination and Series Completion in Early and Mid-Adolescence.* Pediatrics.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T05:50:05.626057Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-22",
+      "reason": "Referencia(s) citada(s) ['a4a95ddcdd2bb3e3'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-23",
+      "reason": "Referencia(s) citada(s) ['a4a95ddcdd2bb3e3'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-24",
+      "reason": "Referencia(s) citada(s) ['a4a95ddcdd2bb3e3'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-25",
+      "reason": "Referencia(s) citada(s) ['a4a95ddcdd2bb3e3'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-32",
+      "reason": "Referencia(s) citada(s) ['717164fa9556ab45'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-86",
+      "reason": "Referencia(s) citada(s) ['2c1018c3a3d7e426'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-87",
+      "reason": "Referencia(s) citada(s) ['2c1018c3a3d7e426'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-89",
+      "reason": "Referencia(s) citada(s) ['9bd1bf297cf87fa6'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-98",
+      "reason": "Referencia(s) citada(s) ['a4a95ddcdd2bb3e3'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "a6a024cf09130271",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer",
+      "times_cited": 10,
+      "supported_count": 9,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 9,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        5,
+        10,
+        11,
+        13,
+        67,
+        72,
+        73,
+        81
+      ],
+      "partial_positions": [
+        71
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Almost all cases of cervical cancer are caused by infection with oncogenic types of human papillomavirus (HPV). In most cases, the immune system clears the virus naturally. Persistent infection with certain carcinogenic types of HPV can cause abnormal cells that may develop into cancer. Persistent HPV infection of the cervix... can lead to precancerous lesions which if left untreated cause about 95% of cervical cancers.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "58bbaa3515e78645",
+      "url": "https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-vaccine-fact-sheet",
+      "times_cited": 8,
+      "supported_count": 6,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        8,
+        9,
+        20,
+        66
+      ],
+      "partial_positions": [
+        65,
+        74,
+        75
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Like other immunizations that guard against viral infection, the HPV vaccine stimulates the body to produce antibodies that, in future encounters with HPV, bind to the virus and prevent it from infecting cells. In other words, the vaccine-induced antibodies prevent HPV infections. [...] The vaccine does not prevent other sexually transmitted diseases, nor treat existing HPV infections or HPV-caused disease. [...] they should be told that the vaccination will not cure them of current HPV infections or treat the abnormal results of their Pap test",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "65ec90102c6bd448",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html",
+      "times_cited": 8,
+      "supported_count": 3,
+      "unsupported_count": 4,
+      "contradicted_count": 1,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        59,
+        60,
+        61
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        57,
+        62,
+        63,
+        64
+      ],
+      "contradicts_positions": [
+        58
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Age 9 –14 years at initial vaccination : 2-dose series at 0, 6–12 months (minimum interval: 5 months; repeat dose if administered too soon)",
+      "key_excerpt_position": 59
+    },
+    {
+      "reference_id": "89c96cc1d678d8db",
+      "url": "https://www.cdc.gov/vaccine-safety/vaccines/hpv.html",
+      "times_cited": 7,
+      "supported_count": 3,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        39,
+        42
+      ],
+      "partial_positions": [
+        37,
+        38,
+        40,
+        43,
+        99
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The most common adverse events reported were: syncope (fainting); dizziness; nausea; headache; fever; and injection site reactions (pain, swelling, and redness).",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "a4a95ddcdd2bb3e3",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1917338",
+      "times_cited": 5,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        22,
+        23,
+        24,
+        25,
+        98
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6fd11a2e570dee10",
+      "url": "https://www.who.int/americansamoa/news/detail-global/29-10-2026-message-by-the-director-of-the-department-of-immunization--vaccines-and-biologicals-at-who---october-2026",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        54
+      ],
+      "partial_positions": [
+        55,
+        56,
+        93,
+        97
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "From 5 to 8 October, the Strategic Advisory Group of Experts on Immunization (SAGE) met to review the evidence on vaccines against human papillomavirus (HPV), diphtheria, yellow fever, mpox and polio, and to consider the role of vaccination in the ongoing outbreak of the Bundibugyo virus disease outbreak (BVD).",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "91df3800b976d776",
+      "url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/human-papillomavirus-vaccines-%28HPV%29",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        3,
+        18,
+        19
+      ],
+      "partial_positions": [
+        17
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "All vaccines are highly efficacious in preventing infection with virus types 16 and 18, which are together responsible for approximately 77%% of cervical cancer cases globally.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "7aeab2ee20f36f30",
+      "url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a1.htm",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        83,
+        84,
+        85
+      ],
+      "partial_positions": [
+        82
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In 2025, among adolescents aged 13–17 years, 77.7% had received ≥1 dose of HPV vaccine and 63.4% were up to date with the HPV vaccination series. HPV vaccination coverage (≥1 dose and up to date with the series) did not increase for the fourth consecutive year",
+      "key_excerpt_position": 83
+    },
+    {
+      "reference_id": "000cf7c70c069f80",
+      "url": "https://www.nature.com/articles/s41591-023-02658-0",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        91,
+        94,
+        95
+      ],
+      "partial_positions": [
+        90
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Overall, 2,275 healthy women aged 15–20 years were recruited and randomly assigned to receive bivalent (n = 760), nonavalent (n = 758) or control (n = 757) vaccine.",
+      "key_excerpt_position": 91
+    },
+    {
+      "reference_id": "785e716745173db3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34741816/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        27,
+        28
+      ],
+      "partial_positions": [
+        26
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We used data from a total of 13·7 million-years of follow-up of women aged 20 years to younger than 30 years. The estimated relative reduction in cervical cancer rates by age at vaccine offer were 34% (95% CI 25-41) for age 16-18 years (school year 12-13), 62% (52-71) for age 14-16 years (school year 10-11), and 87% (72-94) for age 12-13 years (school year 8), compared with the reference unvaccinated cohort. The corresponding risk reductions for CIN3 were 39% (95% CI 36-41) for those offered at age 16-18 years, 75% (72-77) for age 14-16 years, and 97% (96-98) for age 12-13 years.",
+      "key_excerpt_position": 27
+    },
+    {
+      "reference_id": "562acabdbce0ab19",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7329692/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        33,
+        34,
+        36
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "No cases of HPV16/18-related high-grade cervical dysplasia were observed in the per-protocol effectiveness population (N = 2121; 24,099·0 person-years of follow-up) during the entire study. Vaccine effectiveness of 100% (95% CI 94·7–100) was demonstrated for ≥12 years, with a trend toward continued protection through 14 years post-vaccination. […] There was no evidence of waning immunity, suggesting no need for a booster dose during that period. […] Young women (16–23 years of age) from Denmark, Iceland, Norway, and Sweden […] were followed for effectiveness for an additional ≥10 years through national registries. […] We report long-term effectiveness and immunogenicity at the end of 14 years of follow-up after enrollment in FUTURE II.",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "60a6cc2eea3200bd",
+      "url": "https://www.who.int/publications-detail-redirect/who-wer9750-645-672",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        51,
+        52,
+        53
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "26bfe6254e4909c9",
+      "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        68,
+        69,
+        70
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The first 3 recommendations apply to individuals who have a cervix, regardless of their sexual history or HPV vaccination status. [...] Update in Progress for Cervical Cancer: Screening [...] Cervical Cancer: Screening #### August 21, 2018 [...] Given these uncertainties, women who have been vaccinated should continue to be screened as recommended until further evidence accrues.",
+      "key_excerpt_position": 68
+    },
+    {
+      "reference_id": "6acc298e910c4d73",
+      "url": "https://www.who.int/Publications/i/item/9789240014107",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        76
+      ],
+      "partial_positions": [
+        77,
+        100
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a threshold of 4 per 100 000 women-years for elimination as a public health problem; the following 90–70–90 targets that must be met by 2030 for countries to be on the path towards cervical cancer elimination: 90% of girls fully vaccinated with HPV vaccine by age 15 years; 70% of women are screened with a high-performance test by 35 years of age and again by 45 years of age; 90% of women identified with cervical disease receive treatment (90% of women with precancer treated, and 90% of women with invasive cancer managed).",
+      "key_excerpt_position": 76
+    },
+    {
+      "reference_id": "58b6f0e96bba3fe4",
+      "url": "https://www.iarc.who.int/reference/carcinogenic-human-papillomavirus-infection",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        6
+      ],
+      "partial_positions": [
+        4
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Although the great majority of infections resolve within 2 years, 13 phylogenetically related, sexually transmitted HPV genotypes, notably HPV16, cause – if not controlled immunologically or by screening – virtually all cervical cancers worldwide... Persistent high-risk HPVs can transition from a productive (virion-producing) to an abortive or transforming infection, after which cancer can result after typically slow accumulation of host genetic mutations.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "d62550edecadf765",
+      "url": "https://www.cdc.gov/united-states-cancer-statistics/publications/hpv-associated-cancers.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        15,
+        16
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We estimated that 39,300 cancers (79%) were attributable to HPV each year during 2018 to 2022. Of these, we estimated that 36,400 cancers could have been prevented by the 9-valent HPV vaccine",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "e872d145d17252c4",
+      "url": "https://academic.oup.com/jnci/article/116/6/857/7577291",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        30,
+        31
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "No cases of invasive cancer were recorded in women immunized at 12 or 13 years of age irrespective of the number of doses.",
+      "key_excerpt_position": 30
+    },
+    {
+      "reference_id": "154e12cc8f4778c0",
+      "url": "https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-notes.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        47
+      ],
+      "partial_positions": [
+        46
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pregnancy testing is not needed before vaccination. HPV vaccination is not recommended until after pregnancy. No intervention needed if inadvertently vaccinated while pregnant.",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "081e98231d99110a",
+      "url": "https://www.cdc.gov/hpv/hcp/vaccination-considerations/index.html",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        50
+      ],
+      "absent_positions": [
+        49
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This page summarizes CDC's current HPV vaccine recommendations.",
+      "key_excerpt_position": 50
+    },
+    {
+      "reference_id": "dfcffdad91ca80db",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/immunization-coverage",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        78
+      ],
+      "partial_positions": [
+        79
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Global coverage with the first dose of HPV vaccine among girls is now estimated at 33%. While still far from the 90% target by 2030, this represents a substantial increase from 17% coverage in 2019.",
+      "key_excerpt_position": 78
+    },
+    {
+      "reference_id": "2c1018c3a3d7e426",
+      "url": "https://publications.aap.org/pediatrics/article/139/1/e20161764/51685/Announcements-Versus-Conversations-to-Improve-HPV",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        86,
+        87
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "3b9ab121673c2b51",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34634254/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        92,
+        96
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Vaccine efficacy against persistent HPV 16 and 18 infection among participants evaluable for the endpoint was 95·4% (95% CI 85·0-99·9) in the single-dose default cohort (2135 women assessed), 93·1% (77·3-99·8) in the two-dose cohort (1452 women assessed), and 93·3% (77·5-99·7) in three-dose recipients (1460 women assessed).",
+      "key_excerpt_position": 92
+    },
+    {
+      "reference_id": "9a3a56b9a8af7769",
+      "url": "https://www.iarc.who.int/reference/the-human-papillomavirus-family-and-its-role-in-carcinogenesis/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        0
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Human papillomaviruses (HPVs) are a family of small double-stranded DNA viruses that have a tropism for the epithelia of the genital and upper respiratory tracts and for the skin. [...] Approximately 15 high-risk mucosal HPV types are clearly associated with cervical cancer",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "dae78637af4ca68f",
+      "url": "https://www.iarc.who.int/reference/are-20-human-papillomavirus-types-causing-cervical-cancer/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        2
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In 2012, the International Agency for Research on Cancer concluded that there was consistent and sufficient epidemiological, experimental and mechanistic evidence of carcinogenicity to humans for 12 HPV types (HPV16, HPV18, HPV31, HPV33, HPV35, HPV39, HPV45, HPV51, HPV52, HPV56, HPV58 and HPV59) for cervical cancer. Therefore, these types were considered as 1A carcinogens.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "aea8220e7c6b9c96",
+      "url": "https://www.iarc.who.int/cancer-type/cervical-cancer",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        12
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "High incidence rates and high mortality rates of cervical cancer occur mainly (~90% for both) in low- and middle-income countries.",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "29616edf613bbba7",
+      "url": "https://seer.cancer.gov/statfacts/html/cervix.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        14
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In 2026, it is estimated that there will be 13,490 new cases of cervical cancer and an estimated 4,200 people will die of this disease.",
+      "key_excerpt_position": 14
+    },
+    {
+      "reference_id": "6e6ba8c46d843bcf",
+      "url": "https://www.iarc.who.int/reference/effect-of-prophylactic-human-papillomavirus-l1-virus-like-particle-vaccine-on-risk-of-cervical-intraepithelial-neoplasia-grade-2-grade-3-and-adenocarcinoma-in-situ-a-combined-analysis-of-four-rando/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        21
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In women negative for HPV16 or HPV18 infection during the vaccination regimen (n=17 129, per protocol), vaccine efficacy was 99% for the primary endpoint (95% CI 93-100)",
+      "key_excerpt_position": 21
+    },
+    {
+      "reference_id": "1c9057be33bf3644",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38749552/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        29
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the HPV vaccination programme had a large effect in all five levels of deprivation. In women offered catch-up vaccination, CIN3 rates decreased more in those from the least deprived areas than from the most deprived areas",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "717164fa9556ab45",
+      "url": "https://www.bmj.com/content/365/bmj.l1161",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        32
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "17a8344c3184782e",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8724969/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        35
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We present results for the CVT and its long-term follow-up phase (LTFU), evaluating efficacy of the bivalent HPV vaccine to prevent HPV-16/18 associated cervical intraepithelial neoplasia (CIN) grade 2 or worse, 11 years after vaccination. [...] At 11 years post-vaccination, the efficacy against incident HPV-16/18-associated CIN2+ was 100% (95% CI: 89·2 – 100·0) [...] CVT confirms the high VE of the bivalent HPV vaccine against HPV-16/18 associated precancer for more than a decade after initial vaccination",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "124eedb1f32aa3d8",
+      "url": "https://www.cdc.gov/hpv/hcp/vaccination-considerations/safety-and-effectiveness-data.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        41
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "On very rare occasions, a person may have a serious allergic reaction (anaphylaxis) to any vaccine, including HPV vaccines. In the United States, anaphylaxis following vaccination has a reported rate of 3 cases per 1 million doses administered.",
+      "key_excerpt_position": 41
+    },
+    {
+      "reference_id": "f67de3bbb9c958d4",
+      "url": "https://www.bmj.com/content/347/bmj.f5906",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        44
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This large cohort study found no evidence supporting associations between exposure to qHPV vaccine and autoimmune, neurological, and venous thromboembolic adverse events.",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "33ff03764301949e",
+      "url": "https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-34",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        45
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Committee found no new adverse events of concern based on many very large, high-quality studies (GACVS 2017). However, safety concerns can be the basis for low acceptance or disruption of vaccination programmes, so it is important to continue monitoring HPV safety, including of new HPV products. Continued expert review is important as programmes expand and newer products are introduced. The fifth joint meeting of the Advisory Committee on Safety of Medicinal Products (ACSoMP) and the Global Advisory Committee on Vaccine Safety (GACVS) was held in Geneva in hybrid mode from 23 to 26 June 2026.",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "74085e21c410001f",
+      "url": "https://cdn.who.int/media/docs/default-source/immunization/immunization_schedules/immunization-summary-table-2.pdf",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [
+        48
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The vaccine is contraindicated for mothers during breastfeeding.",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "5a3d3f781b170925",
+      "url": "https://cdn.who.int/media/docs/default-source/immunization/wuenic/wuenic-progress-and-challenges.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        80
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "43.6Mn girls still did not receive the vaccine. - 22.8Mn (35% of the global cohort) live in a country where the vaccine is not part of the immunization programme. - 20.8Mn (32% of the global cohort) were missed by the HPV programme in their country",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "f4ac459a8b1f0b87",
+      "url": "https://www.cdc.gov/hpv/hcp/vaccination-considerations/talking-with-parents.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        88
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Recommend HPV vaccination in the same way and on the same day you recommend other vaccines for adolescents.",
+      "key_excerpt_position": 88
+    },
+    {
+      "reference_id": "9bd1bf297cf87fa6",
+      "url": "https://publications.aap.org/pediatrics/article/151/3/e2022058794/190722/Early-Initiation-of-HPV-Vaccination-and-Series",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        89
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-2",
+      "position": 2,
+      "claim_excerpt": "The International Agency for Research on Cancer (IARC) has classified 12 HPV types as carcinogenic to humans in relation to cervical cancer, with HPV16 and HPV18 accounting for the largest share of d…",
+      "cited_markers": "[3]",
+      "corroborating_markers": "[1] [17] [10] [2] [16] [9] [5] [7] [19] [8]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-4",
+      "position": 4,
+      "claim_excerpt": "The causal pathway is biologically coherent as well as epidemiologically established: persistent high-risk HPV infection can evolve from productive infection toward transforming infection, while the…",
+      "cited_markers": "[5]",
+      "corroborating_markers": "[1] [28] [36] [3] [17] [16] [9] [25] [7] [18]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-17",
+      "position": 17,
+      "claim_excerpt": "HPV vaccine development has progressed from bivalent vaccines directed principally at HPV16 and HPV18, through quadrivalent vaccines adding HPV6 and HPV11, to nonavalent vaccines that additionally co…",
+      "cited_markers": "[4]",
+      "corroborating_markers": "[17] [36] [9] [6] [16] [25] [37] [19] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-26",
+      "position": 26,
+      "claim_excerpt": "England provides complementary population evidence from a different vaccine program.",
+      "cited_markers": "[12]",
+      "corroborating_markers": "[13] [14] [17] [20] [26] [16]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-38",
+      "position": 38,
+      "claim_excerpt": "CDC states that evidence from more than 160 studies supports a favorable safety profile, and more than 135 million HPV-vaccine doses have been distributed in the United States.",
+      "cited_markers": "[18]",
+      "corroborating_markers": "[19] [20] [16] [24] [21] [17] [6] [4] [37] [36]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-40",
+      "position": 40,
+      "claim_excerpt": "Syncope is particularly relevant in adolescents after injections generally, which is why CDC recommends vaccination while seated or lying down followed by approximately 15 minutes of observation.",
+      "cited_markers": "[18]",
+      "corroborating_markers": "[24] [32] [23] [27]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-51",
+      "position": 51,
+      "claim_excerpt": "Under WHO's 2022 position paper, girls aged 9–14 could receive either one or two doses, girls and women aged 15–20 could receive one or two doses, and women older than 21 were recommended to receive…",
+      "cited_markers": "[25]",
+      "corroborating_markers": "[4] [23] [14] [22] [24] [32] [27]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-52",
+      "position": 52,
+      "claim_excerpt": "WHO identified girls aged 9–14 as the primary vaccination target because vaccination before HPV exposure produces the greatest preventive benefit.",
+      "cited_markers": "[25]",
+      "corroborating_markers": "[23] [4] [2] [26] [36] [37] [17] [32] [14] [22] [28] [16] [6]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-53",
+      "position": 53,
+      "claim_excerpt": "WHO also recommended that immunocompromised people, including people living with HIV, receive at least two doses and, where feasible, three doses.",
+      "cited_markers": "[25]",
+      "corroborating_markers": "[4] [24] [22] [23] [36] [27] [37]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-55",
+      "position": 55,
+      "claim_excerpt": "After reviewing new dose-optimization evidence, SAGE strengthened its preference for a single-dose schedule for girls aged 9–14 and concluded that single-dose vaccination could be used through age 30…",
+      "cited_markers": "[26]",
+      "corroborating_markers": "[4] [23] [36] [14] [37]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-62",
+      "position": 62,
+      "claim_excerpt": "For adults aged 27–45, CDC does not recommend universal catch-up vaccination; instead, vaccination may be offered through shared clinical decision-making to selected people who were not adequately va…",
+      "cited_markers": "[27]",
+      "corroborating_markers": "[24] [22] [32] [23]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-63",
+      "position": 63,
+      "claim_excerpt": "The expected average benefit is smaller in this age range because previous HPV exposure becomes increasingly common, although a person may remain susceptible to vaccine types not previously acquired.",
+      "cited_markers": "[27]",
+      "corroborating_markers": "[16] [6] [14] [32] [24] [9] [17] [23] [19] [2] [22] [4]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-64",
+      "position": 64,
+      "claim_excerpt": "A new sexual partner at any age creates an opportunity for new HPV acquisition, whereas people in long-term mutually monogamous relationships are less likely to acquire a new HPV infection.",
+      "cited_markers": "[27]",
+      "corroborating_markers": "[24] [16] [28] [17] [2] [23] [19] [9] [22] [36] [18] [37] [8]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-75",
+      "position": 75,
+      "claim_excerpt": "Until guidelines formally change, reducing screening solely because an individual was vaccinated would run ahead of current U.S. and WHO recommendations.",
+      "cited_markers": "[6]",
+      "corroborating_markers": "[28] [23] [14] [25] [31]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-77",
+      "position": 77,
+      "claim_excerpt": "Comparative modeling suggests that achieving these targets in low- and lower-middle-income countries could avert tens of millions of cervical-cancer cases and deaths over the coming century, although…",
+      "cited_markers": "[29]",
+      "corroborating_markers": "[2] [28] [13] [7] [8] [17] [14] [31] [30]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-82",
+      "position": 82,
+      "claim_excerpt": "U.S. coverage is higher but remains incomplete and geographically unequal.",
+      "cited_markers": "[32]",
+      "corroborating_markers": "[31] [30]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-93",
+      "position": 93,
+      "claim_excerpt": "These findings, alongside immunobridging data in younger adolescents, underpin WHO's move toward single-dose schedules.",
+      "cited_markers": "[26]",
+      "corroborating_markers": "[36] [14] [23] [37] [32]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_acc5fdffce00_20261115T054744Z-99",
+      "position": 99,
+      "claim_excerpt": "Its safety profile is supported by extensive randomized, registry, and post-marketing evidence, while the major unresolved public-health problem is achieving timely and equitable coverage rather than…",
+      "cited_markers": "[18]",
+      "corroborating_markers": "[26] [16] [20] [17] [31] [32] [21] [14] [36] [19]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1198285,
+  "cost_tracked": false,
+  "processing_time_seconds": 1201.914914
+}

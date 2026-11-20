@@ -1,0 +1,39 @@
+[referencia=de61fc78ef7823b1 score=0.998]
+## PEC prevê a adoção da carga semanal de quatro dias de trabalho e três dias de descanso.
+
+Da Redação
+
+terça-feira, 25 de fevereiro de 2025
+
+Atualizado em 28 de fevereiro de 2025 11:44
+
+A deputada Erika Hilton protocolou nesta terça-feira, 25, a PEC 8/25 pelo fim da escala de trabalho 6x1, destacando que pretende se reunir com o presidente da Câmara, Hugo Motta, para apresentar o texto e entregar abaixo-assinado com mais de 3 milhões de assinaturas. A deputada ressaltou que a proposta é um passo importante para garantir melhores condições de trabalho e qualidade de vida aos trabalhadores brasileiros.
+
+A PEC propõe mudança significativa na jornada de trabalho no Brasil. O texto estabelece uma carga semanal de quatro dias de trabalho e três dias de descanso, eliminando a atual escala 6x1, seis dias de trabalho e um de descanso, e limitando a jornada semanal a 36 horas. Atualmente, a Constituição permite jornadas de até oito horas diárias e 44 horas semanais.
+
+A proposta da deputada também prevê a possibilidade de compensação de horários e redução da jornada mediante acordo ou convenção coletiva de trabalho. Segundo Erika Hilton, a medida acompanha uma tendência global de flexibilização do trabalho, promovendo melhores condições para os trabalhadores e suas famílias.
+
+*“A situação atual explicita que é o momento de mais uma mudança na legislação, mas agora em favor dos trabalhadores, empregados e desempregados, que é a redução da jornada de trabalho sem redução de salário”*.
+
+A parlamentar, ainda, destacou que algumas categorias profissionais já conquistaram a redução da jornada por meio da negociação coletiva, e que a PEC busca ampliar esse direito para todos os trabalhadores brasileiros.
+
+---
+
+[referencia=de61fc78ef7823b1 score=0.027]
+Para Hilton, a iniciativa está alinhada aos princípios de justiça social e desenvolvimento sustentável, buscando um equilíbrio entre as necessidades econômicas das empresas e a qualidade de vida dos trabalhadores.
+
+
+**Mobilização política e apoio popular**
+
+O texto conseguiu as 171 assinaturas necessárias no último ano, mas a deputada optou por não protocolá-lo antes devido à antiga presidência da CCJ, ocupada por Caroline de Toni, uma das deputadas mais oposicionistas da Casa. Com a mudança no comando da CCJ, Hilton entende que o momento é propício para avançar com a proposta.
+
+Durante a coletiva de imprensa, parlamentares de partidos como Psol, PT, PCdoB, PSB, Avante e PDT discursaram em apoio à PEC. O vereador do Rio de Janeiro Rick Azevedo, um dos idealizadores da proposta e líder do Movimento Vida Além do Trabalho, convocou os trabalhadores para uma mobilização no dia do trabalhador, em 1º de maio, para pressionar pela aprovação da PEC.
+
+**Tramitação da proposta**
+
+Atualmente, a PEC 8/25 aguarda análise pela CCJ, que avaliará sua legalidade e constitucionalidade. Caso seja admitida, a proposta seguirá para uma comissão especial antes de ser submetida à votação em dois turnos pelo Plenário da Câmara dos Deputados. A aprovação de uma mudança na Constituição exige apoio de pelo menos 308 deputados em dois turnos, antes de seguir para análise no Senado.
+
+---
+
+[referencia=de61fc78ef7823b1 score=0.000]
+# Erika Hilton protocola PEC para acabar com a escala 6x1

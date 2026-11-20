@@ -1,0 +1,276 @@
+[referencia=4be4c6ad8c3dacda score=0.955]
+Cannabis is the most frequently used illicit drug in the United States with more than 45 million users of whom one-third suffer from a cannabis use disorder (CUD). Despite its high prevalence, there are currently no FDA-approved medications for CUD. Patients treated with semaglutide, a glucagon-like peptide-1 receptor agonist (GLP-1RA) approved for treating type 2 diabetes (T2D) and for weight management have reported reduced desire to drink and smoke. Preclinical studies have shown that semaglutide decreased nicotine and alcohol consumption. Preclinical and preliminary clinical evidence of semaglutide’s potential beneficial effects on various substance use disorders led us to evaluate if it pertained to CUD. In this retrospective cohort study of electronic health records (EHRs) from the TriNetX Analytics Network, a global federated health research network of approximately 105.3 million patients from 61 large healthcare organizations in the US, we aimed to assess the associations of semaglutide with both incident and recurrent CUD diagnosis compared to non-GLP-1RA anti-obesity or anti-diabetes medications. Hazard ratio (HR) and 95% confidence intervals (CI) of incident and recurrent CUD were calculated for 12-month follow-up by comparing propensity-score matched patient cohorts. The study population included 85,223 patients with obesity who were prescribed semaglutide or non-GLP-1RA anti-obesity medications, with the findings replicated in 596,045 patients with T2D. In patients with obesity (mean age 51.3 years, 65.6% women), semaglutide compared with non-GLP-1RA anti-obesity medications was associated with lower risk for incident CUD in patients with no prior history CUD (HR: 0.56, 95% CI: 0.42–0.75), and recurrent CUD diagnosis in patients with a prior history CUD (HR: 0.62, 95% CI: 0.46–0.84). Consistent reductions were seen for patients stratified by gender, age group, race and in patients with and without T2D.
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.948]
+#### Statistical analysis 
+
+For each study population, the Semaglutide cohort and the comparison cohort were propensity-score matched (1:1 using nearest neighbor greedy matching with a caliper of 0.25 times the standard deviation) on covariates that are potential risk factors for CUD [42, 43] including demographics, adverse socioeconomic determinants of health (e.g., problems related to education and literacy, employment and unemployment, housing and economic circumstances, social environment, upbringing, primary support group including family circumstances and various psychosocial circumstances), problems with lifestyle (e.g., tobacco use, lack of physical exercise, inappropriate diet and eating habits, high-risk sexual behavior, gambling and betting, and other problems related to lifestyle including antisocial behaviors and sleep deprivation), pre-existing medical conditions and medications. Obesity sub-categories were also matched to control obesity severity which included 3 ICD-10 diagnosis codes and 15 BMI categories 
+
+Molecular Psychiatry (2024) 29:2587 – 2598 
+
+W. Wang et al. 
+
+2589 
+
+ranging from BMI 30 to BMI 70 or greater (more details in Tables 1 and 2 and Supplementary Tables S1–3 in the Supplementary Appendix). The outcome –incident or recurrent diagnosis of CUD (International Classification of Diseases, Tenth Revision (ICD-10) code F12 “Cannabis related disorders”) – that occurred within the 12-month time window after the index event) were compared between matched cohorts. Recurrent CUD in patients with a prior history of CUD was defined as a medical encounter for CUD diagnosis (ICD-10 F12) after the index event. Kaplan–Meier analysis was used to estimate the probability of outcome at daily time intervals with censoring applied. When the last fact (the outcome of interests or other medical encounters) in the patient’s record is in the time window for analysis, the patient was censored on the day after the last fact in their record. Hazard ratio (HR) and 95% confidence intervals were used to describe the relative hazard of the outcomes based on a comparison of time to event rates.
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.921]
+Molecular Psychiatry (2024) 29:2587 – 2598 
+
+W. Wang et al. 
+
+2595 
+
+
+
+
+
+Fig. 2 Incident and recurrent CUD diagnosis in patients with type 2 diabetes. A Comparison of incident CUD diagnosis (new diagnosis) in patients with type 2 diabetes who had no prior history of CUD between propensity-score matched Semaglutide and Non-GLP-1RA anti-diabetes medications cohorts, stratified by gender, age group, race and the status of obesity. B Comparison of medical encounters for CUD diagnosis in patients with type 2 diabetes who had a prior history of CUD between propensity-score matched Semaglutide and Non-GLP-1RA anti-diabetes medications cohorts, stratified by gender, age group, race and the status of obesity. Outcomes were followed for 12 months following the index event (first prescription of semaglutide or non-GLP-1 RA anti-diabetes medications during 12/2017–5/2021). Hazard rates were calculated using Kaplan–Meier analysis to estimate the probability of outcome at daily time intervals with censoring applied. Overall risk = number of patients with outcomes during the 12-month time window/number of patients in the cohort at the beginning of the time window. 
+
+Though the mechanism(s) underlying the decreased risk of incident and recurrent CUD with semaglutide is unclear, several mechanisms could be involved. Since our results document not just a reduction in relapse but also in the incidence of CUD, one could question the mechanism by which semaglutide prevents 
+
+the transition from cannabis use to CUD. Though the majority of cannabis users do not proceed to develop a CUD, approximately 10% do, and among young users, the risk can increase to 30% [46]. This transition is typically associated with an increase in the regularity and frequency of use [47]. In the case of nicotine, 
+
+Molecular Psychiatry (2024) 29:2587 – 2598 
+
+W. Wang et al. 
+
+2596
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.918]
+preclinical studies showed evidence that the rewarding effects of nicotine are reduced by stimulation of GLP-1 receptors in the medial habenula, which is a brain region that mediates nicotine’s aversive effects [48]; whereas exenatide a GLP-1R agonist drug attenuated nicotine’s activation of dopamine reward circuitry [49]. Whether similar mechanisms pertain to cannabis is unclear since there are no studies that have evaluated the effects of GLP1 signaling in the aversive or rewarding effects of THC. Cannabinoid receptor 1 (CB1R) is expressed in presynaptic and postsynaptic neuronal sites in the lateral habenula, where they modulate behavioral responses to stress exposure, such that CB1R blockade reduced anxiety-like behaviors [50] and also in GABAergic cells in the ventral tegmental area (VTA) and their stimulation increases firing of dopamine neurons, which modulate reward [51]. Indeed endocannabinoid signaling through CB1R regulates the activity of dopamine (DA) neurons in the VTA [52], which projects to the nucleus accumbens, a key brain reward region activated by addictive drugs including THC [53, 54]. CB1R signaling also inhibits the excitatory stimulation from the infralimbic cortex in response to stressful stimuli relayed via the bed nucleus of the stria terminalis (BNST) [55]. Since the BNST also expresses GLP1R and their ablation reduces anxiety-like behaviors [56], this could provide another potential convergence mechanism by which semaglutide or other GLP1R could affect cannabis consumption. Though to our knowledge there are no studies on interactions between GLP-1 and CB1 receptors in the habenula, VTA or other brain regions, there is evidence of reciprocal functional interactions between these two receptors peripherally [57]. 
+
+In juxtaposition, the high prevalence of cannabis use alongside the rise in prescriptions of semaglutide for diabetes and obesity has led to concerns among cannabis users that their cannabis use could interfere with semaglutide therapeutic effects. Even though there is no evidence of interactions between semaglutide and cannabis nor of reports of reduced efficacy, this is an area that requires monitoring. In particular, since CB1Rs, the main target for the rewarding effects of cannabis, are expressed on incretinsecreting cells in rodents and may play a role in regulating GLP-1
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.872]
+# Association of semaglutide with reduced incidence and relapse of cannabis use disorder in real-world a populations: retrospective cohort study 
+
+William Wang<sup>1</sup> , Nora D. Volkow<sup>2✉</sup> , Nathan A. Berger<sup>1</sup> , Pamela B. Davis 3, David C. Kaelber4 and Rong Xu 5 ✉ 
+
+© The Author(s) 2024
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.833]
+Received: 23 October 2023 Revised: 22 February 2024 Accepted: 26 February 2024 Published online: 14 March 2024 
+
+W. Wang et al. 
+
+2588 
+
+motivational enhancement therapies, are only moderately effective. Thus, there is an urgency to develop medications that can help treat CUD. 
+
+Clinical anecdotes that patients treated with semaglutide, a glucagon-like peptide-1 receptor (GLP1R) agonist approved for treating type 2 diabetes (T2D) in 2017 and for weight management in 2021 reported reduced desire to drink and smoke have attracted attention regarding its potential to treat addiction [12]. Currently, several registered clinical trials are ongoing to evaluate the effect of semaglutide on alcohol consumption [13–17] and on smoking cessation [18, 19]. Preclinical studies have investigated the effects of semaglutide or other GLP1R agonizts on nicotine, alcohol, cocaine or opioids [20–23]. However, little attention has been placed on the effects of semaglutide or other GLP1R agonizts on cannabis consumption even though the prevalence of cannabis use is even higher than that of tobacco use among certain demographics. Preclinical and preliminary clinical evidence of semaglutide’s potential beneficial effects in various substance use disorders led us to evaluate if it could extend to CUD. Here we used a large electronic health record (EHR) database to conduct a nationwide multicenter retrospective cohort study in patients who were obese with or without a pre-existing CUD and who were prescribed semaglutide vs. non-GLP-1RA anti-obesity medications to determine whether semaglutide was associated with changes in both the incidence and recurrence of CUD. Outcomes were separately assessed by age groups, sex, and race. Findings were replicated in a separate study population of patients with T2D during a non-overlapping period. 
+
+#### METHOD
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.715]
+Among patients with a prior history of CUD, semaglutide was associated with a significantly lower risk for recurrent CUD diagnosis (medical encounters for CUD diagnosis) compared with non-GLP-1RA anti-obesity medications for a 12-month follow-up 
+
+period (13.0% vs. 20.4%; HR: 0.62, 95% CI: 0.46–0.84). Consistent reductions with semaglutide were seen in patients stratified by gender, age group, and race, except in Black patients, with the biggest reduction in men and patients aged >55 years old. A similar lower risk for recurrent CUD was observed in patients with and without T2D (Fig. 1B).
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.709]
+secretion [58, 59]. In fact, CB1R antagonist drugs increased GLP-1 release and improved the response to GLP-1RA in rats with dietinduced obesity [58, 60]. Since THC is a partial CB1R agonist, a concern could be that it might inhibit GLP-1 release and attenuate the effects of semaglutide. On the other hand, and seemingly paradoxically in rats the CB1R agonist WIN 55,212-2 enhanced the anorexigenic effects of subthreshold doses of the GLP1-RA exendin-4 resulting in a significant decrease in food intake and body weight in rats [61]. Similar effects for an agonist and antagonist on food intake could reflect the dose dependency of cannabinoids effects on food intake, such that decreased intake is reported after high doses whereas low doses increase food consumption [61]. 
+
+In interpreting the findings of our study, it is important to consider them within its limitations: First, this is a retrospective observational study, so no causal inferences can be drawn. Second, patients in our study represented those who had medical encounters with healthcare systems contributing to the TriNetX Platform. Though both the exposure and comparison cohorts were drawn from the same platform, which should not significantly impact the relative hazard rate ratios, results from the TriNetX platform need to be validated in other populations and platforms of EHRs. Third, retrospective observational studies have inherent limitations, including unmeasured or uncontrolled confounders and biases. Though we controlled for an extensive list of variables and the findings were replicated in two separate populations with different characteristics at two non-overlapping study periods, these limitations could not be fully eliminated. Future controlled trials are necessary to assess the associations of semaglutide with CUD. Fourth, in our study the follow-up time for the main analyses was 12 months. Though we conducted a longer-term follow-up analysis in the T2D population, future studies are necessary to evaluate long-term associations of semaglutide in patients with obesity and patients with T2D. Fifth, the higher dose format of semaglutide as Wegovy was approved for weight management, and the lower dose format of semaglutide as Ozempic was approved for treating T2D. Since Wegovy and Ozempic were approved for different indications, we could not 
+
+Molecular Psychiatry (2024) 29:2587 – 2598 
+
+W. Wang et al. 
+
+2597
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.669]
+|Gabapentin|23.3|14.2|0.23<sup>a</sup>|23.3|22.3|0.02|
+
+
+
+Shown were cohorts before and after propensity-score matching for the listed variables with their status based on the presence of related clinical codes anytime to the day of the index event. Shown were cohorts before and after propensity-score matching for the listed variables with their status based on the presence of related clinical codes anytime on or before the index event (the first prescription of semaglutide, or non-GLP-1RA anti-diabetes medications – during 12/2017 5/2021). Adverse socioeconomic determinants of health include problems related to education and literacy, employment and unemployment, housing and economic circumstances, social environment, upbringing, primary support group including family circumstances, and various psychosocial circumstances. Problems with lifestyle included tobacco use, lack of physical exercise, inappropriate diet and eating habits, high-risk sexual behavior, gambling and betting, and other problems related to lifestyle including antisocial behavior and sleep deprivation. SMD standardized mean differences, SD standard deviation. aSMD greater than 0.1, a threshold indicating cohort imbalance. 
+
+effects of semaglutide or other GLP1-RAs on cannabis consumption even though the prevalence of cannabis use is even higher than that of tobacco use among certain demographics. While preclinical studies have investigated the effects of GLP-1RAs on nicotine, alcohol, cocaine, or opioids [20–23], to our knowledge no 
+
+studies have been reported on their effects of tetrahydrocannabinol (THC), the major psychoactive component in cannabis. The potential beneficial effects of semaglutide (and presumably other GLP1R agonizts) in the treatment of CUD deserve attention in that currently there are no approved medications for its treatment [44]. 
+
+Molecular Psychiatry (2024) 29:2587 – 2598 
+
+W. Wang et al. 
+
+2594
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.537]
+Molecular Psychiatry (2024) 29:2587 – 2598 
+
+W. Wang et al. 
+
+2597 
+
+directly assess the dosage effect of semaglutide on CUD in the same study population. Sixth, we could not directly control for patient adherence to medications due to limited medical adherence information captured in patient EHRs. Our study population included patients who had recent medical encounters for the diagnosis of obesity or T2D and were subsequently prescribed semaglutide or other anti-obesity or anti-diabetes medications, suggesting that patients had active obesity or T2D that needed medical attention and treatments. However, patients may discontinue medications for reasons such as financial burden, drug side effects, or lack of efficacy. 
+
+In summary, our results show that semaglutide was associated with a lower risk for both incident and relapse of CUD compared to non-GLP-1 RA anti-obesity and anti-diabetes medications. While these findings provide preliminary evidence of the potential benefit of semaglutide in CUD in real-world populations further preclinical studies are warranted to understand the underlying mechanism and randomized clinical trials are needed to support its use clinically for CUD. 
+
+#### DATA AVAILABILITY 
+
+This study used population-level aggregate and de-identified data collected by the TriNetX Platform and are available from TriNetX, LLC (https://trinetx.com/) but thirdparty restrictions apply to the availability of these data. The data were used under license for this study with restrictions that do not allow for the data to be redistributed or made publicly available. To gain access to the data, a request can be made to TriNetX (join@trinetx.com), but costs might be incurred, and a data-sharing agreement would be necessary. Data specific to this study including diagnosis codes and cohort characteristics in aggregated format are included in the manuscript as tables, figures, and supplementary files. 
+
+#### CODE AVAILABILITY 
+
+All the statistical analyses in this study including propensity-score matching and Kaplan–Meier Survival analyses were conducted within the TriNetX platform by using its built-in functions. Data and code to reproduce the analyses can be accessed at https://github.com/bill-pipi/semaglutide_cannabis.
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.534]
+Consistent reductions were seen for patients stratified by gender, age group, race and in patients with and without T2D. Similar findings were replicated in the study population with T2D when comparing semaglutide with non-GLP-1RA anti-diabetes medications for incident CUD (HR: 0.40, 95% CI: 0.29–0.56) and recurrent CUD (HR: 0.66, 95% CI: 0.42–1.03). While these findings provide preliminary evidence of the potential benefit of semaglutide in CUD in real-world populations, further preclinical studies are warranted to understand the underlying mechanism and randomized clinical trials are needed to support its use clinically for CUD. 
+
+#### Molecular Psychiatry (2024) 29:2587–2598; https://doi.org/10.1038/s41380-024-02498-5
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.524]
+#### Associations of semaglutide with incident and recurrent CUD diagnosis in patients with obesity 
+
+The study population for the analyses of incident CUD diagnosis in patients with obesity consisted of 83,189 patients with obesity who had no prior recorded diagnosis of CUD. The Semaglutide cohort compared with the Non-GLP-1RA anti-obesity medications cohort was older and had a higher prevalence of morbid obesity, T2D and obesity-associated comorbidities, and a lower prevalence of mental disorders and substance use disorders. After propensityscore matching, the two cohorts (26,784 in each cohort, mean age 51.3 years, 65.6% women, 16.1% Black, 66.5% White, 6.7% Hispanic) were balanced (Table 1). 
+
+The study population for the analysis of recurrent CUD diagnosis or medical encounter for CUD diagnosis in patients with obesity who had a prior diagnosis of CUD consisted of 2,034 patients. The Semaglutide cohort compared to the non-GLP-1RA anti-obesity medications cohort was older, had a lower prevalence of adverse socioeconomic determinants of health, mental disorders, and substance use disorders, and a higher prevalence of morbid obesity, T2D and obesity-associated comorbidities. After propensity-score matching, the two cohorts (504 in each cohort, mean age 46.1 years, 57.5% women, 26.4% black, 54.7% white, 6.7% Hispanic) were balanced (see Supplementary Table S2 in the Supplementary Appendix). 
+
+Among patients with no prior history of CUD, semaglutide was associated with a significantly lower risk for incident CUD diagnosis compared with non-GLP-1RA anti-obesity medications for a 12-month follow-up period (0.28% vs. 0.48%; HR: 0.56, 95% CI: 0.42–0.75). Consistent reductions with semaglutide were seen in patients stratified by gender, age group, and race, except in Black patients, with the biggest reduction in men and patients aged >55 years old. A similar lower risk for incident CUD was observed in patients with and without T2D (Fig. 1A).
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.517]
+Molecular Psychiatry (2024) 29:2587 – 2598 
+
+W. Wang et al. 
+
+2594 
+
+
+
+
+
+Fig. 1 Incident and recurrent CUD diagnosis in patients with obesity. A Comparison of incident CUD diagnosis (new diagnosis) in patients with obesity who had no prior history of CUD between propensity-score matched Semaglutide and Non-GLP-1RA anti-obesity medications cohorts, stratified by gender, age group, race and the status of type 2 diabetes. B Comparison of medical encounters for CUD diagnosis (recurrent CUD diagnosis) in patients with obesity who had a prior history of CUD between propensity-score matched Semaglutide and NonGLP-1RA anti-obesity medications cohorts, stratified by gender, age group, race and the status of type 2 diabetes. Outcomes were followed for 12 months following the index event (first prescription of semaglutide or non-GLP-1 RA anti-obesity medications during 6/2021–12/2022). Hazard rates were calculated using Kaplan–Meier analysis to estimate the probability of outcome at daily time intervals with censoring applied. Overall risk = number of patients with outcomes during the 12-month time window/number of patients in the cohort at the beginning of the time window. 
+
+As such the only available proven effective therapeutic alternatives are psychosocial interventions, but their effects tend to be limited [45]. Thus, our results support conducting preclinical studies of semaglutide (and other GLP1R agonist) on THC and 
+
+randomized clinical trials to evaluate the therapeutic benefits of semaglutide in CUD in individuals with obesity or T2D as well as in patients with CUD who don’t have these co-morbid conditions. 
+
+Molecular Psychiatry (2024) 29:2587 – 2598 
+
+W. Wang et al. 
+
+2595
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.492]
+#### **Outcomes in patients with type 2 diabetes at different follow−up** 
+
+|**Follow−up**|**Semaglutide**<br>**cohort**<br>**anti−**|**Non−GLP1R agonist**<br>**diabetes medications c**|**ohort**|**HR (95% CI)**|
+|---|---|---|---|---|
+||**No prior history of CUD (n=25,820/cohort)**||||
+|1−year|0.21% (54)|0.48% (123)||0.40 (0.29−0.56)|
+|2−year|0.41% (105)|0.72% (185)||0.52 (0.41−0.66)|
+|3−year|0.57% (148)|0.91% (235)||0.58 (0.48−0.72)|
+||**Prior history of CUD (n=241/cohort)**||||
+|1−year|13.7% (33)|19.1% (46)||0.66 (0.42−1.03)|
+|2−year|22.4% (54)|26.6% (64)||0.75 (0.52−1.08)|
+|3−year|29.0% (70)|30.7% (74)|0.10 0.30 0.80 2.0<br>**Hazard Ratio (H**|0.85 (0.61−1.18)<br>5.00<br>**R)**|
+
+
+
+Fig. 3 Comparison of incident and recurrent CUD in patients with T2D at longer follow-up between propensity-score matched – Semaglutide and non-GLP-1RA anti-diabetes medications cohorts. Hazard rates were calculated using Kaplan Meier analysis to estimate the probability of outcome at daily time intervals with censoring applied. Overall risk = number of patients with outcomes during the follow-up time window/number of patients in the cohort at the beginning of the time window.
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.490]
+8. Hjorthøj C, Compton W, Starzer M, Nordholm D, Einstein E, Erlangsen A, et al. Association between cannabis use disorder and schizophrenia stronger in young males than in females. Psychol Med. 2023;53:7322–8. 
+
+9. Fontanella CA, Steelesmith DL, Brock G, Bridge JA, Campo JV, Fristad MA Association of Cannabis Use With Self-harm and Mortality Risk Among Youths With Mood Disorders. JAMA Pediatr. 2021. https://doi.org/10.1001/jamapediatrics.2020.5494. 
+
+10. Kung H-C, Pearson JL, Liu X. Risk factors for male and female suicide decedents ages 15-64 in the United States. Results from the 1993 National Mortality Followback Survey. Soc Psychiatry Psychiatr Epidemiol. 2003;38:419–26. 
+
+11. Arendt M, Munk-Jørgensen P, Sher L, Jensen SOW. Mortality following treatment for cannabis use disorders: predictors and causes. J Subst Abus Treat. 2013;44:400–6. 
+
+12. Reardon S. Could New Weight-Loss Drugs like Ozempic Treat Addiction? Scientific American. https://www.scientificamerican.com/article/could-new-weightloss-drugs-like-ozempic-treat-addiction1/. July 12, 2023. 
+
+13. Semaglutide Therapy for Alcohol Reduction (STAR). 2023. https:// clinicaltrials.gov/study/NCT06015893. Accessed October 5, 2023. 
+
+14. Semaglutide Therapy for Alcohol Reduction - Tulsa (STAR-T). 2023. https:// clinicaltrials.gov/study/NCT05891587. Accessed October 5, 2023. 
+
+15. Semaglutide for Alcohol Use Disorder. 2022. https://clinicaltrials.gov/study/ NCT05520775. Accessed October 5, 2023. 
+
+16. Clinical Trial of Rybelsus (Semaglutide) Among Adults With Alcohol Use Disorder (AUD). 2023. https://clinicaltrials.gov/study/NCT05892432. Accessed October 5, 2023.
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.451]
+#### METHOD 
+
+#### Database 
+
+We used TriNetX, a global federated health research network providing analytics to access and analyze de-identified and aggregated electronic medical records (diagnoses, procedures, medications, laboratory values, genomic information) from approximately 105.3 million patients in 61 large healthcare organizations. These healthcare organizations cover diverse geographic regions, age, race/ethnic, income and insurance groups, and clinical setting [24]. The MetroHealth System, Cleveland OH, IRB determined research using TriNetX as described in this study was not Human Subject Research, and IRB approval is not required (more details in the Supplementary Appendix). The TriNetX platform has been used in retrospective cohort studies [25–38] including evaluating risk and health outcomes of patients with substance use disorders including CUD [25, 32, 35] and the associations of GLP-1RAs with cancer [37] and semaglutide with suicidal ideations [38].
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.403]
+#### Associations of semaglutide with incident and recurrent CUD diagnosis in patients with type 2 diabetes 
+
+The study population for the analyses of incident CUD diagnosis in patients with T2D consisted of 587,849 patients with T2D who had no prior recorded diagnosis of CUD. The Semaglutide cohort compared with the Non-GLP-1RA anti-diabetes medications cohort was younger and had a higher prevalence of obesity, obesity-associated comorbidities and mental disorders. After propensity-score matching, the two cohorts (25,820 in each cohort, mean age 58.0 years, 45.4% women, 14.8% Black, 61.2% White, 6.7% Hispanic) were balanced (Table 2). 
+
+The study population for the analysis of recurrent CUD diagnosis in patients with T2D who had a prior diagnosis of CUD consisted of 8,196 patients. The Semaglutide cohort compared to the non-GLP-1RA anti-diabetes medications cohort included more women, had a higher prevalence of problems with lifestyle, obesity, obesity-associated comorbidities, mental disorders, and substance use disorders. After propensity-score matching, the two cohorts (241 in each cohort, mean age 51.8 years, 39.0% women, 32.6% black, 44.4% white, 5.8% Hispanic) were balanced (see Supplementary Table S3 in the Supplementary Appendix). 
+
+Among patients with T2D who had no prior history of CUD, semaglutide was associated with a significantly lower risk for incident CUD diagnosis compared with non-GLP-1RA anti-diabetes medications for a 12-month follow-up period (0.21% vs. 0.48%; HR: 0.40, 95% CI: 0.29–0.56). Consistent reductions with semaglutide were seen in patients stratified by gender, age group, and race, with the biggest reduction in men, white, and patients aged >55 years old. A similar lower risk for incident CUD was observed in patients with and without obesity (Fig. 2A).
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.337]
+Among patients with T2D who had a prior history of CUD, semaglutide was associated with a lower risk for recurrent CUD diagnosis (medical encounters for CUD diagnosis) compared with non-GLP-1RA anti-diabetes medications for a 12-month follow-up period (13.7% vs. 19.1%; HR: 0.66, 95% CI: 0.42–1.03). Consistent reductions with semaglutide were seen in patients stratified by gender, age group, and race. A similar lower risk for recurrent CUD was observed in patients with and without obesity, though not statistically significant in patients without obesity (Fig. 2B). 
+
+We then examined the longer-term association of semaglutide with both incident and recurrent diagnosis of CUD in patients with T2D. Compared with non-GLP-1RA anti-diabetes medications, semaglutide was associated with a significantly lower risk of incident CUD, though the association attenuated over time. Among patients with a prior history of CUD, semaglutide was associated with a lower, but not statistically significant, risk of recurrent CUD and the strength of the association attenuated over time (Fig. 3).
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.301]
+|Table 1.<br>continued|Before propensi|ty-score matching||After propensity|-score matching||
+|---|---|---|---|---|---|---|
+||Semaglutide<br>cohort|Non-GLP-1RA<br>anti-obesity<br>medications<br>cohort|SMD|Semaglutide<br>cohort|Non-GLP-1RA<br>anti-obesity<br>medications<br>cohort|SMD|
+|Depression|29.7|39.9|0.22<sup>a</sup>|35.6|35.3|0.007|
+|Mood disorders|34.9|48.7|0.28<sup>a</sup>|42.4|42.0|0.008|
+|Anxiety disorders|40.6|50.0|0.19<sup>a</sup>|46.9|46.6|0.006|
+|Psychotic disorders|1.3|2.3|0.08|1.7|1.7|<.001|
+|Behavioral disorders|9.4|8.8|0.02|9.7|9.4|0.01|
+|Disorders of adult personality and<br>behavior|1.2|1.8|0.05|1.4|1.5|0.002|
+|Behavioral and emotional<br>disorders with onset usually<br>occurring in childhood and<br>adolescence|4.7|6.3|0.07|5.8|5.9|0.001|
+|Conduct disorders|0.3|0.6|0.05|0.4|0.4|0.005|
+|Symptoms and signs involving<br>emotional state|5.2|6.8|0.07|5.9|5.8|0.006|
+|Chronic pain|29.3|27.5|0.04|28.8|28.4|0.01|
+|Cancer|36.8|28.7|0.17<sup>a</sup>|32.8|32.4|0.008|
+|Alcohol use disorder|2.8|5.8|0.15<sup>a</sup>|3.6|3.6|0.002|
+
+---
+
+[referencia=4be4c6ad8c3dacda score=0.285]
+#### DISCUSSION 
+
+Here we document a potential beneficial effect of semaglutide on both the incidence and recurrence of CUD in two separate realworld populations, one with obesity and the other with T2D. These results are consistent with reports that patients treated with semaglutide notice reduced interest in consuming addictive substances including alcohol or tobacco [12]. Currently, several registered clinical trials are ongoing to evaluate the effect of semaglutide on alcohol consumption [13–17] and on smoking cessation [18, 19]. However, little attention has been placed on the 
+
+Molecular Psychiatry (2024) 29:2587 – 2598 
+
+W. Wang et al. 
+
+2590

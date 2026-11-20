@@ -1,0 +1,309 @@
+[referencia=3bc339d423969206 score=0.586]
+Th e plan included the poisoning of “masters of whatever sex or age” along with the assassination of “administrators and other free people employed on the estates including those slaves who wished to remain faithful to their masters.”<sup>23</sup> Tensions reached such a pitch that slave owners and their families fearful of rebellious slaves abandoned their estates in the interior of São Paulo and fl ed to towns. Historian Robert W. Slenes opines that the public insecurity and tensions fomented by the “foreigners from Africa” had as much to do with forcing an end to the trans-Atlantic slave trade to Brazil as British initiatives (Slenes, 2000, p. 218-219; Gomes, 1995, p. 262). 
+
+In a communiqué penned in August, British diplomat James Hudson attempted to put a positive spin on the situation. Hudson concluded that the unceasing importations of African slaves to Brazilian shores had caused a shift in opinion among high-ranking offi  cials in Brazil. “A very satisfactory change appears to be taking place in the mind of the Brazilian government and public, upon the subject of the importation of slaves, due to the eff ect, I think, of Lord Aberdeen’s bill [1845], [which enabled] the captures to be made under it; _to the terror which the late enormous importation of slaves has created in this government_ , _and in the thinking part of the community_ ; and in the isolated position in which Brazil now stands on this continent and in Europe, where she has lost the hold on both France and Austria.”<sup>24</sup> 
+
+In spite of a steady stream of warnings, traffi  ckers continued to disembark thousands of African slaves in the cities of Salvador, Rio de Janeiro, Santos (province of São Paulo) and on remote beaches and islands nearby. Indeed, the largest number of enslaved Africans to disembark in Brazil or any other region of the Americas in the history of the transatlantic trade occurred in 1848. Th e peak for two years was 1848-1849, and the peak triennium was 1847-1849 (Drescher, 2009, p. 291). 
+
+Th e Municipal Corporation (Council) of Salvador articulated their trepidation concerning the arrival of so many Africans in mid-1850.
+
+---
+
+[referencia=3bc339d423969206 score=0.195]
+In his description of this horrifi c episode, British consul Lord Howden wrote: 
+
+_Th e Slaves implicated in this plot are exclusively natives of Mina and come from the North of the Line, to the east of Cape Coast [present day Ghana, Togo, Benin and western Nigeria] (Law, 2005). Th is race is the same that prepared the nearly successful insurrection of Bahia in 1835; and the slaves belonging to it are entirely and most remarkably diff erent from all other Africans in Brazil both physically and intellectually. Th ese Mina slaves all speak the same language, have organized societies and elected chiefs wherever they meet in any numbers, are remarkable for their habits of order, their serious and dignifi ed deportment, their economy, their prevision, and their sullen courage; and they are corporeally the fi nest specimens of the human race I ever saw. It is said that the inhabitants of the province of Rio de Janeiro, afraid of the slumbering energies of such men, buy them unwillingly; and, in fact, but comparatively few of this easily distinguished race are to be seen in the Capital [city of Rio de Janeiro]. I have no doubt but that this is the People charged by Providence with the dreadful and inevitable retribution of Africa._<sup>22</sup> 
+
+Slaves from the Mina coast had gained a reputation of rebelliousness from north to south in Brazil. Howden’s observations suggest that offi  cials in Rio de Janeiro had sent out of the city African slaves and freedpersons who had arrived from Salvador in the years that followed the 1835 Revolt. Th is measure was taken 
+
+> 15 Fox to Wellington, Rio de Janeiro, March 25, 1835 (FO 84:179). 
+
+> 16 Fox to Wellington, Rio de Janeiro, May 30, 1835 (FO 13:117). 
+
+> 17 Representation of the Provincial Assembly of Bahia to the General Legislative Assembly in Rio de Janeiro, Salvador, May 11, 1835 (FO 84:175). 
+
+> 18 Magalhães to Minister of Justice, Salvador, February 9, 1848, National Archives of Brazil in Rio de Janeiro: Section of Executive Powers, IJ 1 710 (hereafter ANRJ/SPE). For further analysis of this period, see Graden (2006, p. 33-42).
+
+---
+
+[referencia=3bc339d423969206 score=0.190]
+Th e Municipal Corporation (Council) of Salvador articulated their trepidation concerning the arrival of so many Africans in mid-1850. 
+
+> 23 F.S. Dias da Motta and José Alves Carneiro Montezuma, Rio de Janeiro, July 8, 1848: Secret Report of the Select Committee of the Provincial Assembly of Rio de Janeiro on Secret Societies of Africans in the Province of Rio de Janeiro, July 8, 1848 [Assembly House in Secret Session, July 8, 1848]. This document is translated in Hudson to Palmerston, Rio de Janeiro, February 20, 1850 (FO 84:802). 
+
+> 24 Hudson to Palmerston, Rio de Janeiro, August 5, 1848 (FO 84:726). Author’s emphasis. 
+
+História Unisinos 
+
+Dale T. Graden 
+
+_Th e traffi  c in slaves is nowadays tolerated in this second city of Brazil in a most reprehensible manner. Th ere is not one person here who, looking at the vessels lying at anchor in the port, cannot distinguish those destined to proceed on that piracy; there is not one person here who does not know the Houses, called stations, in which raw (boçaes) Africans [meaning newly-arrived] are kept for sale, within the limits of this municipality, even in this city. Th ere is not any one person who cannot name those who have taken part in this barbarous and illicit traffi  c. Th e Law of 7_<sup>_th_</sup> _November 1831 is therefore disrespected and scorned, and the traffi  c is carried on with greater ease inasmuch as it is principally in the hands of strangers, who have come to Brazil to make their fortunes, and to take possession of our national commerce._ 
+
+_No one who seriously refl ects upon the future interests of Brazil, in whose veins the blood of free men fl ows, or whose understanding is acquainted with the sacred tenets of the Christian religion, can be indiff erent to this heap of combustibles, which is accumulating against Brazilian society, subjecting us to continual alarm and barbarous insurrections; nor can the Municipal Chamber of Bahia, therefore, view them with indiff erence._<sup>25</sup>
+
+---
+
+[referencia=3bc339d423969206 score=0.090]
+> 40 Session of May 24, 1851 (ASIB, p. 320). 
+
+História Unisinos 
+
+Dale T. Graden 
+
+_Was not the level of importations of Africans [through 1850] excessive, was it not too much, would it not have brought future dangers to the country [Brazil]? It is in our interest [to support the 1831 Brazilian law ending the slave trade], because the importation of Africans has been excessive, because the provinces from Bahia to the south found themselves overburdened with slaves; their number did not appear to be in proportion to the number of free persons. It was, then, in our interest, and to assure our future security, to take precautions in this respect, thereby halting the traffic, that, while it continued, increased our [internal, domestic] dangers. I think, Mr. President, that the time has come for the government to end this dangerous situation by putting a limit on the trade in slaves; and besides we have accepted this obligation._<sup>41</sup> 
+
+Twelve months later, in July 1852, no less a figure than Eusébio de Queiroz, the minister after whom the Brazilian law ending the slave trade was named, left no doubt that massive importations of the 1840s had been a key variable in shaping his perspectives: 
+
+_if [public] opinion […] had brought about this revolution in the country, it was necessary for an occasion to present itself that would allow such a change to make itself known. Some events or, rather, signs of a grave nature, that revealed themselves one after the other in Campos [in the north of the province of Rio de Janeiro], [the province of] Espírito Santo and some other places, such as the important counties of Valença and Vassouras [interior of the province of Rio de Janeiro], produced a terror that I shall call salutary, because it provided the opportunity for that opinion, contrary to the traffi  c, to develop further and make itself felt._ 
+
+_All who found themselves in Rio de Janeiro at that time and who occupied themselves with this question recognized that it was the same planters who until then had preached the necessity of the traffi  c who now were the fi rst to contend that the moment for its suppression had arrived._<sup>42</sup>
+
+---
+
+[referencia=3bc339d423969206 score=0.073]
+As in Europe, 1848 proved to be a tumultuous year in Brazil. President of Bahia João de Moura Magalhães claimed that “I am writing truthfully, providing exact information of what is happening in this province. We need prompt and energetic measures to prevent insurrections by Africans. Everyone still remembers what happened in 1835, [a revolt] that would have produced far greater destruction, if it had not been promptly annihilated.”<sup>18</sup> British consul Henry Cowper echoed this view: “A general apprehension exists in the province of Bahia that the extension of the slave trade is hastening the day when that province will fall into the hands of blacks.”<sup>19</sup> 
+
+On February 4, police in the town of Pelotas, Rio Grande do Sul (southernmost province) learned of plans for a slave uprising to occur the next day. An estimated 1,500 slaves from six estates were believed to be involved in the conspiracy. Investigations unco- 
+
+vered 200 muskets, 200 carbines, swords, pistols and ammunition stored at a farmhouse. Police arrested 300 and “severely fl ogged” several of the accused; ten died from the beatings.<sup>20</sup> As in the 1835 Revolt of the Malês, information provided by Africans previous to the uprising proved helpful to authorities. A British diplomat present noted that “the informers of the existence of this conspiracy are three Mina slaves who, feeling great friendship for their masters, who had always treated them kindly, confessed the whole plan to them, and thus most providentially prevented the scenes of St. Domingo in this province.”<sup>21</sup> 
+
+In his description of this horrifi c episode, British consul Lord Howden wrote:
+
+---
+
+[referencia=3bc339d423969206 score=0.031]
+# Slave resistance and the abolition of the trans-Atlantic slave trade to Brazil in 1850<sup>1</sup> 
+
+Resistência escrava e a abolição do comércio transatlântico de escravos para o Brasil em 1850 
+
+Dale T. Graden<sup>2</sup> graden@uidaho.edu 
+
+Abstract. Debate exists over the reasons for the demise of the trans-Atlantic slave trade to Brazil in 1850. An “Enlightenment School” of historians highlights the political capacity of Brazilian statesmen. Th is perspective discounts slave resistance as infl uencing the decisions of high-ranking ministers in Rio de Janeiro. A “Subaltern School” views slave resistance as a key variable in causing a permanent halt to disembarkations. In the wake of the Revolt of the Malês in 1835 in Salvador, Bahia, the largest urban slave revolt in the history of the Americas, numerous observers called for an end to the slave trade. Th ese individuals emphasized that continued importations boded ill for the empire. Th is essay posits that the arrival of thousands of African slaves to Brazil in the 1830s and 1840s caused severe social tensions. Elite and popular insecurity were particularly evident in the cities of Recife, Pernambuco, Salvador, Bahia and Rio de Janeiro. Several events caused a shift in opinion among high-ranking ministers and common folk by the late 1840s. Th e appearance of the British Squadron in Brazilian ports and along the coast heightened resistance among slaves and freedpersons. Slave revolts, slave conspiracies, fear of Muslim religion and distrust of African freedpersons forced representatives to seek a permanent halt to the slave trade. 
+
+Key words: trans-Atlantic slave trade, slave resistance, Revolt of the Malês, African freedpersons. 
+
+> 1 All translations from Portuguese to English in Foreign Offi  ce Records 
+
+> 13 and 84 are those found in the documents. All other translations are those of the author. 
+
+> 2 Professor of History at the University of Idaho.
+
+---
+
+[referencia=3bc339d423969206 score=0.020]
+História Unisinos 
+
+Dale T. Graden 
+
+290 
+
+they suff ered systematic reprisals. Several hundred were deported, others departed from Bahia on their own will, and several were thrown into prison on the fl imsiest of evidence. By early 1847, fear had mounted dramatically in both city and countryside (Graden, 1996). 
+
+Apprehension is readily evident in a letter penned by the president of Bahia Antonio Inácio de Azevedo soon after the police had concluded their work. “I consider the estimate of 2,508 African freedpersons to be low, given that such records are not always exact. Nevertheless, that number [the substantial presence], along with the [high] number of slaves present, justify the fears that now and then surface, and [make understandable] the actions I have taken to bring troops here [to Salvador] capable of putting down any sort of an insurrection which might occur.”<sup>36</sup> A survey by police of African freedpersons resident in Salvador should be evaluated in light of the historical moment. Th e elite of Bahia had not forgotten the involvement of African freedpersons in the Revolt of the Malês, and they remained deeply distrustful of free Africans in their midst. 
+
+Tensions provoked by the presence of free Africans (freedpersons and liberated Africans) in Salvador did not quickly diminish. On May 8, 1853, rumor spread of an impending slave insurrection. Th rough the night soldiers on horseback patrolled the streets and the infantry was placed on full alert. British consul James Hudson wrote that 
+
+_it is reported that arms and ammunition were found secreted in the houses of some liberated Africans of the Nagó or Minas nation, as well as fl ags and masquerading dresses such as were displayed by them in the last great insurrection in the year 1835._
+
+---
+
+[referencia=b6a77a65a43cef02 score=0.013]
+A norma de 1845 ganhou dos britânicos o apelido de Lei Aberdeen porque quem apresentou o projeto de lei ao Parlamento foi o ministro das Relações Exteriores, Conde de Aberdeen.
+
+No Brasil, a lei ficou conhecida como *Bill* Aberdeen. Esse nome, reproduzido ainda hoje pelos livros didáticos, contudo, não é preciso, já que a palavra inglesa *bill* significa projeto de lei (o texto ainda em análise no Parlamento, antes de virar lei).
+
+Se a economia do Brasil imperial era dependente da escravidão, por que o país assinou com a Grã-Bretanha o tratado de 1826? Na realidade, não foi por livre e espontânea vontade que os brasileiros prometeram o fim do tráfico.
+
+Os britânicos haviam sido fundamentais para o país recém-independente. A nação mais poderosa da época, além de ter rapidamente reconhecido o Brasil como Estado soberano, intermediou as negociações para que os portugueses aceitassem a perda de seu vasto território na América. Devendo esse “favor” a Londres, D. Pedro I não teve como rejeitar o tratado proposto.
+
+O tratado de 1826 ainda repetiu determinações de acordos fechados por Portugal com a Grã-Bretanha antes da Independência do Brasil. Entre elas, o direito recíproco de visita e busca em navios suspeitos de transportar pessoas escravizadas e o julgamento desses casos por tribunais mistos, formados por juízes portugueses (depois brasileiros) e britânicos. Houve um tribunal no Rio de Janeiro e outro em Serra Leoa.
+
+Pelo tratado, D. Pedro I se comprometeu a abolir o tráfico até 1830. Preocupados, os fazendeiros intensificaram as compras e os traficantes aumentaram as importações antes que o negócio se tornasse ilegal. Em 1829, por essa razão, desembarcaram no país quase 73 mil africanos escravizados, o número anual mais alto já registrado.
+
+---
+
+[referencia=3bc339d423969206 score=0.013]
+political leaders, including president (governor) of Bahia Francisco Gonçalves Martins, minister of foreign aff airs Paulino José Soares de Sousa, and minister of justice Eusébio de Queiroz] called for the [trans-Atlantic slave] trade’s repression out of fear that slavery itself posed a fatal security risk” (Needell, 2006, p. 149). 
+
+A second perspective on why the slave trade ended to Brazil focuses on resistance by slaves and freedpersons ( _libertos_ ). Th is will be described as the “Subaltern School” of history. One of its proponents is the Bahian historian João José Reis, who has written that “the revolt in Bahia [of 1835] caused apprehension in the north and the south of Brazil, in cities and countryside. Its impact on the rest of the nation was immediate, causing authorities in Rio de Janeiro [at the _Corte_ , meaning the ministers who led the empire] and various local authorities [in several provinces] to take actions [to ensure] public security and it reinvigorated the debate over [the continuation] of the international slave traffi  c [to Brazil] and over the institution of slavery”<sup>4</sup> (Reis, 2003, p. 509). 
+
+Th is essay posits that the Malê Revolt made a deep impression on numerous Brazilians, including elite and common folk. Memory of the revolt combined with various manifestations of slave resistance in its wake played a role in shaping imperial politics and decisions from 1848 to 1851. It is a key variable that forced a halt to the trans-Atlantic slave trade to Brazil at mid-century.
+
+---
+
+[referencia=3bc339d423969206 score=0.012]
+> 14 _Aurora Fluminense_ , March 20, 1835 (p. 3818). The Assembly convened on March 1, 1835. 
+
+História Unisinos 
+
+Dale T. Graden 
+
+country.”<sup>15</sup> Two months later, Fox continued in this vein: “I have observed with satisfaction that in all documents and declarations proceeding from the authority of the Government, the slave trade now denounced and condemned, not only as was heretofore frequently the language, from motives of abstract benevolence and philanthropy, or out of deference to the wishes of foreign nations, but as a manifest, acknowledged cause of monstrous, practical evil, and of immediate pressing danger to the existence of the white people of Brazil.”<sup>16</sup> 
+
+In May 1835, the Provincial Assembly of Bahia sent a letter to the General Legislative Assembly of Brazil meeting in Rio de Janeiro. Signed by the president and archbishop of Bahia along with the fi rst and second secretaries of the assembly, this communiqué called for a halt to the trans-Atlantic slave trade from Africa, and the coastal transport of African slaves previously landed in Argentina and Uruguay to Brazil. “Th e illicit importation of millions of barbarians, which with the most shameful scandal is still practiced in our ports, is doubtless more fatal to our morals, our security and prosperity, than the spirit of insurrection and rebellion [responsible for] the disastrous event on January 25 of the present year [1835]. Th e incessant recruitment of new Africans augments the number and the audacity of the slaves and freedmen who exist among us.”<sup>17</sup> Such concerns continued to be expressed through the 1840s and early 1850s.
+
+---
+
+[referencia=3bc339d423969206 score=0.011]
+- FICK, C. 1990. _Th e Making of Haiti: Th e Saint Domingue Revolution From Below._ Knoxville, University of Tennessee Press, 355 p. 
+
+- GEGGUS, D.P. 2001. _Th e Impact of the Haitian Revolution in the Atlantic World._ Colombia, University of South Carolina Press, 261 p. 
+
+- GOMES, F.S. 1995. _Histórias de quilombolas: Mocambos e comunidades de senzalas no Rio de Janeiro – século XIX._ Rio de Janeiro, Arquivo Nacional, 431 p. 
+
+- GOMES, F.S.; REIS, J.J.; CARVALHO, M.J.M. 2004. África e Brasil entre margens: Aventuras e desventuras do africano Rufi no José Maria, c. 1822-1853. _Estudos Afro-Asiáticos_ , **26** (2):257-302. 
+
+- GRADEN, D.T. 1996. Uma lei até de segurança pública: Resistência escrava, tensões sociais e o fi m do tráfi co internacional de escravos para o Brasil (1835-1856). _Estudos Afro-Asiáticos_ , **30** :113-149. 
+
+- GRADEN, D.T. 2006. _From Slavery to Freedom in Brazil: Bahia, 18351900_ . Albuquerque, University of New Mexico Press, 297 p. 
+
+- GRADEN, D.T. 2011. Interpreters, Translators and the Spoken Word in the Nineteenth-Century Trans-Atlantic Slave Trade to Cuba and Brazil _. Ethnohistory_ , **58** (3). [Forthcoming essay]. 
+
+- HOCHSCHILD, A. 2005. _Bury the Chains: Prophets and Rebels in the Fight to Free an Empire’s Slaves._ Boston, Houghton Miffl  in, 468 p. 
+
+- LANDERS, J.G. 2010. _Atlantic Creoles in the Age of Revolutions._ Cambridge, Harvard University Press, 340 p.
+
+---
+
+[referencia=3bc339d423969206 score=0.007]
+Why would the ministers who attended the closed meeting of the Imperial Council of State that convened in January 1850 not have commented on the insecurities caused by thousands of Africans in their midst? One reason might be traced to their racial biases. Th ese men had little respect for Africa or Africans. In fact, they detested the Africans in their midst. Th ey did not believe that Africans and their descendents had mental capacities equal to whites or even persons of mixed race. Th ey scorned the idea that Africans could organize and undermine a slave regime that had fl ourished for three centuries. Th ey did not want Brazil to become “another Africa” (Azevedo, 1987). 
+
+Furthermore, members of the Council of State did not wish to show their concerns about social instability to the free underclass. Th e ministers represented an elite that desired to maintain its wealth and status far into the future. Similar to the obfuscations of modern day politicians, a suggestion that their political decisions were a response to subaltern pressures was a sign of weakness. British aggressions at sea and along the coast gave added impetus to the cabinet to appear strong and capable. 
+
+In the months following passage of the Eusébio de Queiroz Law, several infl uential observers did comment on the pressures that contributed to political decisions taken in 1850. Minister of Foreign Aff airs Paulino José Soares de Sousa stated in May 1851: 
+
+_50,000, 60,000, or 100,000 Africans had been imported each year to Brazil. Would we not be advised by all moral considerations, by civilization, in our desire to ensure our own security and that of our children, to put an end to the importation of Africans?_<sup>40</sup> 
+
+Arch-conservative senator Honório Hermeto Carneiro Leão asked of his colleagues in the Senate the same month: 
+
+> 40 Session of May 24, 1851 (ASIB, p. 320). 
+
+História Unisinos 
+
+Dale T. Graden
+
+---
+
+[referencia=3bc339d423969206 score=0.007]
+## Primary sources 
+
+Annals of the Senate of Brazil (ASIB). Foreign Offi  ce Records of Great Britain (FO). 
+
+National Archives in Rio de Janeiro, Secretary of the Police in the Corte (ANRJ/Polícia). 
+
+- National Archives of Brazil in Rio de Janeiro: Section of Executive Powers (ANRJ/SPE). 
+
+Public Archive of the State of Bahia: Colonial and Provincial Section (APEB/SACP). 
+
+Submetido em: 22/08/2010 Aceito em: 25/08/2010 
+
+Dale T. Graden University of Idaho Department of History PO Box 443175 83844, Moscow, Idaho, USA 
+
+293 
+
+História Unisinos
+
+---
+
+[referencia=3bc339d423969206 score=0.006]
+> 31 Siqueira to Alegre, Victoria, March 24, 1849 (ANRJ/SPE, IJJ 9 362). 
+
+> 32 Chief of Police José Ignácio Accioli de Vasconcellos to President Siqueira, Victoria, March 23, 1849 (ANRJ/SPE, IJJ 9 362). 
+
+> 33 President of Maranhão (illegible) to Minister of Interior Manoel Antonio Galvão, Maranhão, December 30, 1839 (ANRJ/SPE IJJ 9 133); President of Pará Manoel Paranhos da Silva Vellozo to Minister of Justice, Pará, January 28, 1846, (ANRJ/SPE, IJ 1 202); President of Alagoas Bernardo de Sousa Franco to Galvão, Alagoas, November 19, 1844 (ANRJ/SPE, IJ 1 357); President Joaquim Vasconcelos to Minister of Justice, Bahia, December 14, 1841 (ANRJ/SPE, IJ 1 399); Comandante das Armas José Joaquim Coelho to President Francisco Martins, Salvador, October 23, 1848 (ANRJ/SPE, IG 1 119); Francisco Pereira de Vasconcellos to Minister of Justice Eusebio de Queiroz, Rio de Janerio, December 16, 1851 (ANRJ/Polícia, IJ 6 215); Police Delegate Roberto Jorge Haddock to Chief of Police Antonio Simoens da Silva, Rio de Janeiro, June 13 and June 15, 1849 (ANRJ/Polícia, IJ 6 212). 
+
+> 34 Mappa demonstrativo do numero de Africanos libertos n’esta cidade com declaração do negocio em que se empregão. Salvador, March 20, 1847 (ANRJ/SPE, IJ 1 403). 
+
+> 35 The 1855 census notes a total population in Salvador of 56,000, with 68.9% free (38,584), 27.5% slave (15,400) and 3.5% freedpersons (2,016), as noted on p. 97.
+
+---
+
+[referencia=3bc339d423969206 score=0.006]
+Palavras-chave: comércio transatlântico de escravos, resistência escrava, Revolta dos Malês, libertos africanos. 
+
+A debate exists over why the transatlantic slave trade ended to Brazil in 1850. One interpretation focuses on the Brazilian government. Th is can described as the “Enlightenment School.” Senators, representatives and provincial governors maintained close alliance with planters and merchants who cultivated sugar, coff ee, tobacco, cotton, food crops, and raised swine and cattle. A high priority for these men was social stability. Pedro II and high-ranking ministers also paid close attention to international politics, specifi cally British initiatives to halt the slave trade to Brazil.<sup>3</sup> Th ey adroitly responded to British suppression eff orts in the wake of passage of an 1845 measure in England (the Aberdeen Bill) which allowed the British Squadron to seize ships seen to be involved in the transport of slaves and try them in British Admiralty Courts (Needell, 2001; Bethell, 1970; Th omas, 1997). Th rough this prism, the combined actions of Brazilian statesmen and the British navy brought an end to importations of African slaves. 
+
+Th e Enlightenment School minimizes social pressures from below, specifi cally slave resistance, as a factor in forcing an end to the traffi  c. Fifteen years previous to the Eusébio de Queiroz Law which eff ectively outlawed the slave trade to Brazil, a slave rebellion broke out in the city of Salvador, Bahia that came to be known as the Revolt of the Malês (Muslims). Th e Enlightenment School contends that the revolt proved to be “inconsequential regarding slaveholding in Brazil generally, or in Bahia, at least after 1835” (Needell, 2006, p. 146; Mattoso, 1992, p. 542). Th e revolt’s minimal impact is affi  rmed by the fact that there was no disruption in the transport of African slaves to Brazilian shores. 
+
+Historians associated with the Enlightenment School believe that memory of that Muslim-led rebellion and the huge infl ux of African slaves in its wake had little to do with the political decision to halt the traffi  c in 1850. One writes that “none of them [what the author labels as the ‘reactionaries,’ this being a group of infl uential
+
+---
+
+[referencia=3bc339d423969206 score=0.005]
+## The Malê Revolt, slave resistance, and the threats posed by importation of African slaves 
+
+In the early hours of Sunday, January 25, 1835, an estimated six hundred African slaves and freedmen, many in white dress worn by Muslims, ran through the streets of Salvador shooting guns. Th ey shouted “death to the whites” and “death to the soldiers.” For three hours, 
+
+> 3 Jeff rey Needell (2006, p. 138-155). Brazilian historians who could be included in this school are Emilia Viotti da Costa (2000, p. 128-132) and Lilia Moritz Schwarcz (1998, p. 297). Historians of the nineteenth century whose contributions align with the Enlightenment School include David Brion Davis (1975); Adam Hochschild (2005); Seymour Drescher (1987). 4 Brazilian historians of the “Subaltern School” include Professors João José Reis, Sidney Chalhoub, Robert W. Slenes and Flávio dos Santos Gomes. For perspectives on the debate described above, see Chalhoub (2007). An historian of international abolition in the nineteenth century whose perspectives align with this group includes Robin Blackburn, 1998. I would suggest that Seymour Drescher has a foot in both schools. After decades of research on a wide range of themes, Professor Drescher has embraced slave resistance as a key variable in antislavery debates of the nineteenth century. See Drescher (2009). 
+
+História Unisinos 
+
+Dale T. Graden 
+
+they fought against a larger force estimated at fi fteen hundred men.<sup>5</sup> Th is included police, cavalry, National Guard soldiers, and civilians who possessed swords, knives, clubs and pistols. Th e revolt failed. At least seventy rebels died, perhaps double that number were wounded, and nine persons lost their lives who fought to put down the uprising (Reis, 2003, p. 151-157).
+
+---
+
+[referencia=b6a77a65a43cef02 score=0.004]
+Em 1831, o Senado e a Câmara dos Deputados aprovaram a chamada Lei Feijó, prevendo punições duras para os envolvidos no comércio transatlântico de pessoas. Além disso, de acordo com a lei, todo africano escravizado que chegasse aos portos brasileiros seria considerado livre. Um dos objetivos da Lei Feijó foi esvaziar os tribunais mistos e, assim, afastar a ingerência dos britânicos em questões brasileiras.
+
+No princípio, a Regência pôs a lei em prática e o tráfico pareceu estar com os dias contados. De 1830 para 1831, caiu de 51 mil para 6 mil o número de africanos introduzidos de forma ilegal no Brasil.
+
+O ímpeto repressor, porém, durou pouco. Mais preocupada com as revoltas e guerras civis que irromperam no conturbado período regencial, o governo logo passou a fazer vista grossa para o contrabando. A partir de 1832, o número de indivíduos trazidos clandestinamente da África voltou a subir de forma gradual e constante, chegando a envolver 57 mil africanos em 1837.
+
+O tratado expirou no início de 1845 sem que a Grã-Bretanha conseguisse renová-lo, em razão da oposição do Brasil. Foi por esse motivo que o Conde de Aberdeen apresentou o seu projeto de lei, estabelecendo unilateralmente que os britânicos poderiam agir sozinhos contra os navios negreiros brasileiros, sem a necessidade dos velhos tribunais mistos.
+
+Na mensagem que acompanhou o projeto, o ministro da rainha Vitória escreveu que, durante a vigência do tratado, “cargas de escravos eram desembarcadas a plena luz do dia nas ruas da capital [Rio de Janeiro] e compradas e vendidas como gado, sem que nenhum obstáculo fosse imposto ao tráfico”.
+
+---
+
+[referencia=b6a77a65a43cef02 score=0.004]
+— Se o governo do Brasil provasse ao governo inglês que podia dar-lhe prejuízos, aumentando os impostos nos produtos ingleses, talvez o governo inglês quisesse recuar e recuasse — disse Paula Souza. — Não duvido que esse governo quisesse tentar atos que nos aterrassem. Mas um país como o Brasil, que tem mil léguas de costa, deverá temer um bloqueio sério? Não. Demais, no estado atual, em que a Europa apresenta tantos perigos futuros, há de a Inglaterra querer envolver-se em uma guerra direta com o Brasil, muito mais tendo este toda a justiça por si?
+
+Logo após a aprovação da Lei Aberdeen, o tráfico negreiro explodiu. Em 1848, apesar da ação dos navios britânicos, nada menos que 62 mil africanos escravizados entraram no Brasil clandestinamente. Em 1850, em reação, a Grã-Bretanha passou a invadir águas territoriais brasileiras para fazer as apreensões.
+
+Ciente de que a pequena e acanhada Armada brasileira jamais conseguiria fazer frente à poderosa e temida Marinha britânica, o governo de D. Pedro II decidiu capitular e apresentou às pressas um projeto de lei novamente prevendo a ilegalidade do tráfico negreiro, tal qual a Lei Feijó. A proposta chegou em junho de 1850 ao Parlamento, onde foi aprovada a toque de caixa pelos deputados e senadores. O imperador sancionou a nova lei em setembro.
+
+Conhecida como Lei Eusébio de Queirós, a nova norma foi executada com rigor, ao contrário do que ocorrera com a Lei Feijó. O governo imperial ordenou às autoridades policiais que tivessem tolerância zero ao tráfico humano. Inúmeras apreensões foram feitas. Como resultado, o contrabando diminuiu e já em 1853 não se registrou a entrada ilegal de nenhum africano no Brasil.
+
+---
+
+[referencia=3bc339d423969206 score=0.003]
+Th e fi rst is a slave revolt that occurred in the province of Espírito Santo. In the afternoon of March 19, 1849, a group of thirty or more armed slaves joined together in insurrection in the district of Queimado, situated some 12 miles (3 to 4 _leguas_ ) outside the capital city of Victoria. A region where hundreds of slaves labored on coff ee and sugar estates, the revolt was led by three male slaves each 
+
+> 25 Representação sobre of tráfi co, from the Municipal Corporation of the city of Salvador to the General Assembly in Rio de Janeiro, published in _Correio Mercantil_ (Rio de Janeiro), August 3, 1850 (FO 84:806). 
+
+> 26 Message from the Provincial Assembly of Rio de Janeiro to the Imperial Government, Palace of the Legislative Assembly, March 17, 1835 (FO 84:174). See also Fox to Wellington, Rio de Janeiro, April 13, 1835 (FO 13:117); Parkinson to Wellington, Salvador, January 26, 1835 (FO 13:121). 
+
+27 Session of March 27, 1843, Annals of the Senate of Brazil (hereafter cited as ASIB), p. 411-13; Session of June 10, 1843 (ASIB, p. 413). 28 Session of March 27, 1843 (ASIB, p. 413). 
+
+> 29 _Commercial_ (Recife), May 31, 1850 (FO 84:809). 
+
+288 
+
+Vol. 14 Nº 3 - setembro/dezembro de 2010 
+
+Slave resistance and the abolition of the trans-Atlantic slave trade to Brazil in 1850 
+
+289
+
+---
+
+[referencia=3bc339d423969206 score=0.003]
+## References 
+
+Th e diff erences between the Enlightenment School and the Subaltern School might be characterized as a clash of interpretations. Th e former off ers insights into the 
+
+ALMADA, V.P.F. 1984. _Escravismo e transição: O Espírito Santo (18501888)_ . Rio de Janeiro, Edições Graal, 221 p. 
+
+> 41 Session of May 27, 1851 (ASIB, p. 387-388). 
+
+> 42 Eusébio de Queiroz Coutinho Mattoso Camara, speech to Chamber of Deputies on July 16, 1852 ( _in_ Malheiro, 1944, vol. 2, p. 273). 
+
+> 43 A indústria de saveiros, _O Argos Cachoeirano_ , October 1, 1850, p. 1. 
+
+292 
+
+Vol. 14 Nº 3 - setembro/dezembro de 2010 
+
+Slave resistance and the abolition of the trans-Atlantic slave trade to Brazil in 1850

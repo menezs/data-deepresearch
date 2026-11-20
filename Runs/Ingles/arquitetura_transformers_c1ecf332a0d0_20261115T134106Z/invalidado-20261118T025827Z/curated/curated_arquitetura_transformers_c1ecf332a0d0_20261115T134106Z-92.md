@@ -1,0 +1,350 @@
+[referencia=021ecc8cb34e2fbb score=0.992]
+# YARN: EFFICIENT CONTEXT WINDOW EXTENSION OF LARGE LANGUAGE MODELS 
+
+**Bowen Peng**<sup>**†**1</sup> 
+
+**Jeffrey Quesnelle**<sup>**†**1</sup> 
+
+**Honglu Fan**<sup>23</sup> 
+
+**Enrico Shippole** 
+
+1Nous Research 
+
+2EleutherAI 
+
+3University of Geneva 
+
+## ABSTRACT 
+
+Rotary Position Embeddings (RoPE) have been shown to effectively encode positional information in transformer-based language models. However, these models fail to generalize past the sequence length they were trained on. We present YaRN (Yet another RoPE extensioN method), a compute-efficient method to extend the context window of such models, requiring 10x less tokens and 2.5x less training steps than previous methods. Using YaRN, we show that LLaMA models can effectively utilize and extrapolate to context lengths much longer than their original pre-training would allow, while also surpassing previous the state-of-the-art at context window extension. In addition, we demonstrate that YaRN exhibits the capability to extrapolate beyond the limited context of a fine-tuning dataset. Code is available at https://github.com/jquesnelle/yarn.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.956]
+> §LLaMA models have a pretrained context size of 2k tokens, while Llama 2 models have 4k. 
+
+7 
+
+|Model|Extension|Fine-|Training<br>Ext|ension|E|valuation|Context|Window|Size|
+|---|---|---|---|---|---|---|---|---|---|
+|Size|Method|tuned|Steps<br>Sca|le_s_|8192|16384|32768|65536|131072|
+|7B|YaRN|✓|400<br>4k|_×_16|3.51|2.99|2.65|2.42|_>_10<sup>1</sup>|
+|7B|YaRN|✓|400+200<br>4k|_×_32|3.56|3.04|2.70|2.45|2.37|
+|13B|YaRN|✓|400<br>4k|_×_16|**3.25**|**2.79**|**2.50**|**2.29**|_>_10<sup>1</sup>|
+|13B|YaRN|✓|400+200<br>4k|_×_32|3.29|2.83|2.53|2.31|**2.24**|
+
+
+
+Table 1: Sliding window perplexity ( _S_ = 256) of ten 128k Proof-pile documents over Llama 2 models extended via YaRN. We show successful context size extrapolation and transfer learning from 64k to 128k given only 64k context as training data. 
+
+In order to further confirm the effectiveness of YaRN, we compare all four interpolation methods in Figure 3 on the left and Table 5 from Appendix B.1 as an ablation study. YaRN consistently outperforms (has lower perplexity than) other methods in both non fine-tuned and fine-tuned scenarios when using the same number of training steps. We also demonstrate that YaRN has better training efficiency compared to PI in Appendix B.2. More comparisons against open models can be found in Appendix B.3.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.935]
+- the "Dynamic NTK" interpolation method (emozilla, 2023) for pre-trained models without fine-tuning. 
+
+- the "NTK-by-parts" interpolation method (bloc97, 2023b) which performs the best when fine-tuned on a small amount of longer-context data. 
+
+> †Correspondence: {bloc,emozilla}@nousresearch.com 
+
+1 
+
+The "NTK-aware" interpolation and the "Dynamic NTK" interpolation have already seen their presence in the open-source models such as Code Llama (Rozière et al., 2023) (using "NTK-aware" interpolation) and Qwen 7B (qwe) (using "Dynamic NTK"). 
+
+In this paper, in addition to making a complete account of the previous unpublished works on the "NTK-aware", the "Dynamic NTK" and the "NTK-by-parts" interpolations, we present YaRN (Yet another RoPE extensioN method), an improved method to efficiently extend the context window of models trained with Rotary Position Embeddings (RoPE) including the LLaMA (Touvron et al., 2023a), the GPT-NeoX (Black et al., 2022), and the PaLM (Chowdhery et al., 2022) families of models. 
+
+The relationship between different methods and how they evolve into YaRN can be summarized into the following diagram: 
+
+
+
+Figure 1: An outline of the relationship between different interpolation methods. 
+
+YaRN reaches state-of-the-art performances in context window extensions after fine-tuning on less than _∼_ 0.1% of the original pre-training data. In the meantime, by combining with the inference-time technique called Dynamic Scaling, the Dynamic-YaRN allows for more than 2x context window extension without any fine-tuning.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.935]
+## 5 CONCLUSION 
+
+In conclusion, we have shown that YaRN improves upon all existing RoPE interpolation methods and can act as a drop-in replacement to PI, with no downsides and minimal implementation effort. The fine-tuned models preserve their original abilities on multiple benchmarks while being able to attend to a very large context size. Furthermore, YaRN allows efficient extrapolation with finetuning on shorter datasets and can take advantage of transfer learning for faster convergence, both of which are crucial under compute-constrained scenarios. Finally, we have shown the effectiveness of extrapolation with YaRN where it is able to "train short, and test long". 
+
+## 6 REPRODUCIBILITY 
+
+To aid in reproducibility, we provide, as supplementary material, the entirety of of the code used to train the YaRN models in Table 7, as well as the evaluation code that produced Figure 7 and Tables 6, 7, 10, 8, and 9. The code also contains implementations of various extension methods referenced throughout the paper. For training YaRN, we used the publicly available PG19 dataset (Rae et al., 2020) tokenized to contiguous chunks of 64k tokens.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.922]
+### B.2 TRAINING EFFICIENCY OF YARN 
+
+Table 6 shows a side-by-side comparison of the Llama 2 7B model extended from 4096 to 8192 context length via PI (LLongMA-2 7B<sup>||</sup> ) and YaRN. Note that the PI model was trained using the methodology in Chen et al. (2023), while YaRN used the same methodology but 2.5x less training steps and data, as described in Section 4. Even if YaRN was only fine-tuned for 400 steps compared to PI’s 1000 steps, we obtain similar results to PI. 
+
+|Model<br>Size|Extension<br>Method|Fine-<br>tuned|Training<br>Steps|Extension<br>Scale_s_|Evalua<br>2048|tion Co<br>4096|ntext W<br>6144|indow Size<br>8192|
+|---|---|---|---|---|---|---|---|---|
+|7B|None|✗|-|-|4.00|3.58|-|-|
+|7B|PI|✗|-|4k_×_2|4.30|3.84|3.83|3.65|
+|7B|YaRN|✗|-|4k_×_2|4.03|3.61|3.60|3.49|
+|7B|PI|✓|1000|4k_×_2|3.92|3.51|**3.51**|**3.34**|
+|7B|YaRN|✓|400|4k_×_2|**3.91**|**3.50**|**3.51**|3.35|
+
+
+
+Table 6: Sliding window perplexity ( _S_ = 256) of ten 128k Proof-pile documents over the Llama-2 7b model extended via PI and YaRN with different training steps. YaRN obtains comparable results to PI using much less training steps.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.888]
+### 4.2 LONG SEQUENCE LANGUAGE MODELING 
+
+To evaluate the long sequence language modeling performances, we use the GovReport (Huang et al., 2021) and Proof-pile (Azerbayev et al., 2022) datasets both of which contain many long sequence samples. For all evaluations, the test splits of both datasets were used exclusively. All perplexity evaluations were calculated using the sliding window method from Press et al. (2022) with _S_ = 256, which takes in account the entire documents’ perplexity contribution, even if the context window of the model is shorter. 
+
+First, we select 10 random samples from Proof-pile with at least 128k tokens each and evaluate the perplexity of each of these samples when truncated at 2k steps from a sequence length of 2k tokens through 128k tokens. Table 1 shows the long sequence performance of fine-tuned Llama 2 _s_ = 16 and _s_ = 32 models. We demonstrate that YaRN is able to generalize and extrapolate to unseen context lengths and benefit from transfer learning, since the _s_ = 32 model was only further trained for 200 steps using the _s_ = 16 checkpoint with 64k data and is able to extrapolate to 128k context. 
+
+> §LLaMA models have a pretrained context size of 2k tokens, while Llama 2 models have 4k. 
+
+7
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.874]
+### 4.5 COMPUTATIONAL EFFICIENCY 
+
+Given that rotary position embeddings are cached during training and inference when the context window size is fixed to a preset length _L_ , modifying the interpolation on rotary position embeddings incurs no additional computational or memory cost compared to previous context extension methods, which is the case for all four interpolation methods outlined in this work. YaRN converges the fastest during training compared to other methods, thus is the most computationally efficient, as shown in Table 4. 
+
+|Model<br>Size|Model<br>Name|Extension<br>Method|Extension<br>Scale_s_|Effective<br>Context|Training Time in<br>GPU-Hours (A100)|
+|---|---|---|---|---|---|
+|7B|LLaMA YaRN|YaRN|2k_×_16|32k|128|
+|7B|Llama 2 YaRN|YaRN|4k_×_16|64k|256|
+|7B|Llama 2 YaRN|YaRN|4k_×_32|128k|256 + 128|
+|7B|(Chen et al., 2023)|PI|2k_×_8|16k|640|
+|7B|(Together.ai, 2023)|PI|4k_×_8|32k|?|
+|7B|(Xiong et al., 2023)|NTK-aware|4k_×_44.2|_≈_50k|64000|
+|7B|(Rozière et al., 2023)|NTK-aware|4k_×_88.6|_≈_100k|6400|
+
+
+
+Table 4: Comparison of training time in A100-hours for different open and closed models using different extension methods. 
+
+9
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.856]
+Table 7: Sliding window perplexity ( _S_ = 256) of ten 128k Proof-pile documents truncated to evaluation context window size 
+
+We observe that the model exhibits strong performance across the entire targeted context size, with YaRN interpolation being the first method to successfully extend the effective context size of Llama 2 to 128k. 
+
+Furthermore, in Appendix B.4, we show the results of the average perplexity on 50 untruncated GovReport documents with at least 16k tokens per sample evaluated on the setting of 32k maximal context window without Dynamic Scaling in Table 8. Similar to the Proof-pile results, the GovReport results show that fine-tuning with YaRN achieves good performance on long sequences. 
+
+Table 7 summarizes the results and a visualized and more detailed view is presented in Figure 7 here. 
+
+> ||LLongMA-2 7B (Quesnelle et al., 2023) is fine-tuned from Llama 2 7B, trained at 8k context length with PI using the RedPajama dataset (Computer, 2023). 
+
+17 
+
+
+
+<!-- Start of picture text -->
+3.8<br>CodeLlama-13b-hf<br>Yarn-Llama-2-13b-64k<br>3.6<br>Yarn-Llama-2-13b-128k<br>togethercomputer/LLaMA-2-7B-32K<br>3.4 CodeLlama-7b-hf<br>Yarn-Llama-2-7b-64k<br>3.2 Yarn-Llama-2-7b-128k<br>3.0<br>2.8<br>2.6<br>2.4<br>2.2<br>0 20000 40000 60000 80000 100000 120000<br>Context Window<br>Perplexity (lower is better)<br><!-- End of picture text -->
+
+Figure 7: Sliding window perplexity ( _S_ = 256) of a 1.28M-token Proof-pile documents truncated to the context window size of the fine-tuned model
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.796]
+### 2.3 RELATED WORK 
+
+Position Interpolation (PI) is one of the earlier works extending context lengths of RoPE proposed by Chen et al. (2023), and concurrently kaiokendev (2023). Under the notation of Eq. 7, it is setting 
+
+
+
+where _s_ is the scale factor<sup>_<u>L′</u>_We include some details in Appendix A.1.</sup> _L_<sup>.</sup> 
+
+ReRoPE (Su, 2023) also aims to extend the context size of existing models pre-trained with RoPE, and claims "infinite" context length without needing any fine-tuning. This claim is backed by a monotonically decreasing loss with increasing context length up to 16k on the Llama 2 13B model. It achieves context extension by modifying the attention mechanism and thus is not purely an embedding interpolation method. Since it is currently not compatible with Flash Attention 2 (Dao, 2023) and requires two attention passes during inference, we do not consider it for comparison. 
+
+Concurrently with our work, LM-Infinite (Han et al., 2023) proposes similar ideas to YaRN, but focuses on "on-the-fly" length generalization for non-fine-tuned models. Since they also modify the attention mechanism of the models, it is not an embedding interpolation method and is not immediately compatible with Flash Attention 2. 
+
+3
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.747]
+### 3.3 YARN 
+
+In addition to the previous interpolation techniques, we also observe that introducing a temperature _t_ on the logits before the attention softmax has a uniform impact on perplexity regardless of the data 
+
+> ‡The interpolation by linear ramp on _h_ may have alternatives, such as a harmonic mean over _θd/s_ and _θd_ converted from a linear interpolation on wavelengths. The choice of _h_ here was for the simplicity of implementation, but both would work. 
+
+5 
+
+sample and the token position over the extended context window (See Appendix A.3). More precisely, instead of Eq. 2, we modify the computation of attention weights into 
+
+
+
+The reparametrization of RoPE as a set of 2D matrices has a clear benefit on the implementation of this attention scaling: we can instead use a "length scaling" trick which scales both **_q_** _m_ and **_k_** _n_ by a constant factor �1 _/t_ by simply scaling the complex rotary position embeddings by the same amount. With this, YaRN can effectively alter the attention mechanism without modifying its code. Furthermore, it has zero overhead during both inference and training, as rotary position embeddings are generated in advance and are reused for all forward passes. Combining it with the "NTK-by-parts" interpolation, we have the YaRN method. 
+
+**Definition 2** _By the "YaRN method", we refer to a combination of the attention scaling in Eq. 14 and the "NTK-by-parts" interpolation introduced in Section 3.2._ 
+
+For LLaMA and Llama 2 models, we recommend the following values: 
+
+
+
+The equation above is found by fitting �1 _/t_ at the lowest perplexity against the scale extension by various factors _s_ using the "NTK-by-parts" method (Section 3.2) on LLaMA 7b, 13b, 33b and 65b models without fine-tuning. We note that the same values of _t_ also apply fairly well to Llama 2 models (7b, 13b and 70b). It suggests that the property of increased entropy and the temperature constant _t_ may have certain degree of "universality" and may be generalizable across some models and training data.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.743]
+## 1 INTRODUCTION 
+
+Transformer-based Large Language Models(Vaswani et al., 2017) (LLMs) have become the nearubiquitous choice for many natural language processing (NLP) tasks where long-range abilities such as _in-context learning_ (ICL) has been crucial. 
+
+In performing the NLP tasks, the maximal length of the sequences (the _context window_ ) determined by its training processes has been one of the major limits of a pretrained LLM. Being able to dynamically extend the context window via a small amount of fine-tuning (or without fine-tuning) has become more and more desirable. To this end, the position encodings of transformers are the center of the discussions. 
+
+The original Transformer architecture used an absolute sinusoidal position encoding, which was later improved to a learnable absolute position encoding (Gehring et al., 2017). Since then, relative positional encoding schemes (Shaw et al., 2018) have further increased the performance of Transformers. Currently, the most popular relative positional encodings are _T5 Relative Bias_ (Roberts et al., 2019), _RoPE_ (Su et al., 2022), _XPos_ (Sun et al., 2022), and _ALiBi_ (Press et al., 2022). 
+
+One reoccurring limitation with positional encodings is the inability to generalize past the context window seen during training. While some methods such as ALiBi are able to do limited generalization, none are able to generalize to sequences significantly longer than their pre-trained length (Kazemnejad et al., 2023). 
+
+Some works have been done to overcome such limitation. (Chen et al., 2023) and concurrently (kaiokendev, 2023) proposed to extend the context length by slightly modifying RoPE via Position Interpolation (PI) and fine-tuning on a small amount of data. As an alternative, (bloc97, 2023a) proposed the "NTK-aware" interpolation by taking the loss of high frequency into account. Since then, two improvements of the "NTK-aware" interpolation have been proposed, with different emphasis:
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.727]
+### 4.1 TRAINING 
+
+We broadly followed the training and evaluation procedures as outlined in Chen et al. (2023). 
+
+For training the 128k context window size models, we extended the Llama 2 (Touvron et al., 2023b) 7B and 13B parameter models. No changes were made to the LLaMA model architecture other than the calculation of the embedding frequencies as described in Section 3.3 with _s_ = 16 and _s_ = 32. 
+
+We used a learning rate of 2 _×_ 10<sup>_−_5</sup> with no weight decay and a linear warmup of 20 steps along with AdamW (Loshchilov and Hutter, 2019) _β_ 1 = 0 _._ 9 and _β_ 2 = 0 _._ 95. For the _s_ = 16 model, we fine-tuned for 400 steps with global batch size 64 using PyTorch (Paszke et al., 2019) Fully Sharded Data Parallelism (Zhao et al., 2023) and Flash Attention 2 (Dao, 2023) on the PG19 dataset (Rae et al., 2020) chunked into 64k segments bookended with the BOS and EOS token. For _s_ = 32 we followed the same procedure, but due to compute constraints, we started from the finished _s_ = 16 checkpoint and trained for only an additional 200 steps. Note that the _s_ = 32 model is also trained with 64k context data, but we show that it is able to extrapolate to a context size of 128k in Section 4.2. 
+
+For the ablation studies, we used the LLaMA 7B model. It has the same architecture as the newer Llama 2 models except for a shorter pretrained context window size<sup>§</sup> , which reduces compute requirements and allows for faster training and evaluations. The training procedure is similar to the 128k models, but we chunk the PG19 dataset into 32k segments instead, and train using _s_ = 16 for 400 steps. As shown in Figure 2, YaRN converges faster compared to other interpolation techniques during training and consistently has lower loss.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.717]
+### B.3 COMPARING THE PERPLEXITY OF VARIOUS METHODS OVER A SLIDING WINDOW 
+
+We further evaluated the Llama 2 models fine-tuned using YaRN at the scale factor _s_ = 16 _,_ 32 and compared them against a few long-context open-source models fine-tuned from Llama-2 such as Together.ai (Together.ai, 2023) and "NTK-aware" Code Llama (Rozière et al., 2023). The results are summarized in Table 7 (with a more detailed plot in Figure 7). 
+
+|Model|Model|Context|Extension|E|valuation|Context|Window|Size|
+|---|---|---|---|---|---|---|---|---|
+|Size|Name|Window|Method|8192|32768|65536|98304|131072|
+|7B|Together|32k|PI|**3.50**|**2.64**|_>_10<sup>2</sup>|_>_10<sup>3</sup>|_>_10<sup>4</sup>|
+|7B|Code Llama|100k|NTK|3.71|2.74|2.55|2.54|2.71|
+|7B|YaRN (_s_= 16)|64k|YaRN|3.51|2.65|**2.42**|_>_10<sup>1</sup>|_>_10<sup>1</sup>|
+|7B|YaRN (_s_= 32)|128k|YaRN|3.56|2.70|2.45|**2.36**|**2.37**|
+|13B|Code Llama|100k|NTK|3.54|2.63|2.41|2.37|2.54|
+|13B|YaRN (_s_= 16)|64k|YaRN|**3.25**|**2.50**|**2.29**|_>_10<sup>1</sup>|_>_10<sup>1</sup>|
+|13B|YaRN (_s_= 32)|128k|YaRN|3.29|2.53|2.31|**2.23**|**2.24**|
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.715]
+Table 2: Performance of context window extensions methods, fine-tuned for 400 steps, on the Hugging Face Open LLM benchmark suite compared with original LLaMA 7B baselines. 
+
+|Model<br>Size|Extension<br>Method|Fine-<br>tuned|Extension<br>Scale_s_|ARC-c|Hellaswag|MMLU|TruthfulQA|
+|---|---|---|---|---|---|---|---|
+|7B|None|✗|-|53.1|77.8|43.8|**39.0**|
+|7B|YaRN|✓|4k_×_16|52.3|78.8|42.5|38.2|
+|7B|YaRN|✓|4k_×_32|52.1|78.4|41.7|37.3|
+|13B|None|✗|-|**59.4**|82.1|**55.8**|37.4|
+|13B|YaRN|✓|4k_×_16|58.1|**82.3**|52.8|37.8|
+|13B|YaRN|✓|4k_×_32|58.0|82.2|51.9|37.3|
+
+
+
+Table 3: Performance of YaRN on the Hugging Face Open LLM benchmark suite compared with original Llama 2 baselines. 
+
+We observe that there is minimal performance degradation between the YaRN models and their respective Llama 2 baselines. Some variance is to be expected as the PG19 dataset (Rae et al., 2020) we used for fine-tuning is very different from the original pre-training datased used for LLaMA and Llama 2 models. We also observe that there was on average a 0.49% drop in scores between the YaRN _s_ = 16 and _s_ = 32 models and can conclude that the the iterative extension from 64k to 128k results in negligible performance loss.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.708]
+## A ADDITIONAL DETAILS ON INTERPOLATION METHODS 
+
+### A.1 POSITION INTERPOLATION 
+
+As mentioned in Section 2.2, PI is one of the earlier works extending context lengths of RoPE. We include some extra details here: 
+
+While a direct extrapolation does not perform well on sequences _w_ 1 _, · · · , wL_ with _L_ larger than the pre-trained limit, they discovered that interpolating the position indicies within the pre-trained limit works well with the help of a small amount of fine-tuning. Specifically, given a pre-trained language model with RoPE, they modify the RoPE by 
+
+
+
+where _L_<sup>_′_</sup> _> L_ is a new context window beyond the pre-trained limit. With the original pre-trained model plus the modified RoPE formula, they fine-tuned the language model further on several orders of magnitude fewer tokens (a few billion in Chen et al. (2023)) and successfully acheived context window extension.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.698]
+### 3.4 DYNAMIC SCALING - "DYNAMIC NTK" INTERPOLATION 
+
+In a lot of use cases, multiple forward-passes are performed with varying sequence lengths from 1 to the maximal context size. A typical example is the autoregressive generation where the sequence lengths increment by 1 after each step. There are two ways of applying an interpolation method that uses a scale factor _s_ (including PI, "NTK-aware", "NTK-by-parts" and YaRN): 
+
+1. Throughout the whole inference cycle, the embedding layer is fixed including the scale factor _s_ = _L_<sup>_′_</sup> _/L_ where _L_<sup>_′_</sup> is the fixed number of extended context size. 
+
+2. In each forward-pass, the position embedding updates the scale factor _s_ = max(1 _, l_<sup>_′_</sup> _/L_ ) where _l_<sup>_′_</sup> is the sequence length of the current sequence. 
+
+The problem of (1) is that the model may experience a performance discount at a length less than _L_ and an abrupt degradation when the sequence length is longer than _L_<sup>_′_</sup> . But by doing Dynamic Scaling as (2), it allows the model to gracefully degrade instead of immediately breaking when hitting the trained context limit _L_<sup>_′_</sup> . We call this inference-time method the Dynamic Scaling method. When it is combined with "NTK-aware" interpolation, we call it "Dynamic NTK" interpolation. It first appeared in public as a reddit post in (emozilla, 2023). 
+
+One notable fact is that the "Dynamic NTK" interpolation works exceptionally well on models pretrained on _L_ without any finetuning ( _L_<sup>_′_</sup> = _L_ ). This is supported by the experiment in Appendix B.7. 
+
+Often in the repeated forward-passes, the kv-caching (Chen, 2022) is applied so that we can reuse the previous key-value vectors and improve the overall efficiency. We point out that in some implementations when the rotary position embeddings are cached, some care has to be taken in order to modify it for Dynamic Scaling with kv-caching. The correct implementation should cache the kv-embeddings before applying rotary position embeddings, as the RoPE of every token changes when _s_ changes. 
+
+6
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.608]
+Figure 3: Sliding window perplexity ( _S_ = 256) of ten 128k Proof-pile documents and passkey retrieval accuracy at different prompt lengths for finetuned LLaMA 7B models fine-tuned to 32k context for 400 steps using different interpolation techniques. YaRN outperforms other interpolation methods given the same training budget. 
+
+### 4.3 PASSKEY RETRIEVAL 
+
+The passkey retrieval task as defined in Mohtashami and Jaggi (2023) measures a model’s ability to retrieve a simple passkey (i.e., a five-digit number) from amongst a large amount of otherwise meaningless text. For our evaluation of the fine-tuned 32k LLaMA 7B models, we performed 50 iterations of the passkey retrieval task with the passkey placed at a random location uniformly distributed across the evaluation context window on different prompt lengths ranging from 2k to 32k. YaRN achieves higher scores compared to other interpolation methods when given similar training budget, as seen in Figure 3 on the right. More results and comparisons for Llama 2 models are shown in Appendix B.5.
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.580]
+|Extension<br>Method|Fine-<br>tuned|Training<br>Steps|Ext<br>Sca|ension<br>le_s_|Ev<br>2048|aluation C<br>4096|ontext W<br>8192|indow S<br>16384|ize<br>32768|
+|---|---|---|---|---|---|---|---|---|---|
+|None|✗|-|-||**4.05**|-|-|-|-|
+|PI|✗|-|2k|_×_2|4.36|3.90|-|-|-|
+|NTK-aware|✗|-|2k|_×_2|4.08|5.97|-|-|-|
+|NTK-by-parts|✗|-|2k|_×_2|4.12|3.71|-|-|-|
+|YaRN|✗|-|2k|_×_2|4.07|**3.67**|-|-|-|
+|PI|✗|-|2k|_×_4|7.09|6.39|6.18|-|-|
+|NTK-aware|✗|-|2k|_×_4|4.27|3.84|_>_10<sup>1</sup>|-|-|
+|NTK-by-parts|✗|-|2k|_×_4|4.39|4.03|4.11|-|-|
+|YaRN|✗|-|2k|_×_4|4.19|3.77|3.65|-|-|
+|PI|✗|-|2k|_×_8|_>_10<sup>1</sup>|_>_10<sup>1</sup>|_>_10<sup>1</sup>|_>_10<sup>1</sup>|-|
+|NTK-aware|✗|-|2k|_×_8|4.64|4.27|4.24|_>_10<sup>1</sup>|-|
+|NTK-by-parts|✗|-|2k|_×_8|4.98|4.91|5.33|5.79|-|
+|YaRN|✗|-|2k|_×_8|4.37|3.95|3.81|3.33|-|
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.565]
+### B.7 DYNAMIC SCALING ON MODELS WITHOUT ANY FINE-TUNING 
+
+We first recall from Section 3.4 that the Dynamic Scaling technique is an inference-time technique that dynamically update the factor _s_ in interpolation methods such as PI, "NTK-by-parts" and YaRN. We choose the original Llama 2, fix a sample in GovReport and calculate its perplexity on a sliding window of 256 tokens using RoPE, Dynamic-PI and Dynamic-YaRN. 
+
+
+
+Figure 8: The comparison between RoPE, Dynamic-PI and Dynamic-YaRN using Llama 2 on a long GovReport sample. This model has not been finetuned for long context. 
+
+Since the original maximal context length of Llama 2 is 4096, we observe that Dynamic Scaling effectively extend the inference length and Dynamic-YaRN achieves better performance than Dynamic-PI. The resulting chart is in Figure 8. 
+
+We see that 
+
+- Dynamic Scaling effectively prevents the blow-up of perplexity score beyond pretrained context window; 
+
+- Dynamic-YaRN outperforms Dynamic-PI in terms of long-range perplexity on pretrained Llama-2 without any finetuning. 
+
+20
+
+---
+
+[referencia=021ecc8cb34e2fbb score=0.545]
+Here we can observe that the lowest perplexity point alone does not provide a comprehensive depiction on the "effective context size" that an LLM can attend to. While the Code Llama 13b model exhibits increasing perplexity above 100k context lengths, it was still able to accurately retrieve the passkey at a context length of 128k. This suggest that while the output of Code Llama might start to degrade in quality above 100k context size, it is still able to maintain strong retrieval capabilities. 
+
+In addition, as YaRN with _s_ = 32 was trained for 200 more steps than YaRN with _s_ = 16 while having a higher passkey accuracy with similar perplexity, we hypothesize that perplexity may not be a great indicator of whether an LLM is able to attend to all tokens and does not exhaustively determine long context performance. This also suggests that the YaRN models with _s_ = 16 might be relatively undertrained for the passkey retrieval task.

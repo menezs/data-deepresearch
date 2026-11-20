@@ -1,0 +1,443 @@
+[referencia=99c8dac1a17d65cb score=0.179]
+Mental health is an important part of adolescents' overall health and well-being. Poor mental health can affect learning, behavior, relationships, and school engagement. Strong connections with adults and peers at home, school, and in the community can help adolescents feel supported and reduce risks like substance use and violence.
+
+2-year changes and 10-year trends in how high school students are doing across six indicators of mental health and suicide risk.
+
+Table titled 'At a Glance' showing 2-year changes (2023–2025) and 10-year (2015–2025) trends for six indicators of mental health and suicide risk among high school students. Persistent feelings of sadness or hopelessness: improved over 2 years, worsened over 10 years. Poor mental health: improved over 2 years, data not available for 10-year trend. Seriously considered attempting suicide: improved over 2 years, no change over 10 years. Made a suicide plan: improved over 2 years, no change over 10 years. Attempted suicide: improved over 2 years, no change over 10 years. Injured in a suicide attempt that had to be treated by a doctor or nurse: no change over 2 years, improved over 10 years.
+
+Mental health and suicide risks changes over time.
+
+Six line charts titled 'Changes Over Time' showing percentages of high school students reporting mental health and suicide risk indicators from 2015 to 2025. Persistent Feelings of Sadness or Hopelessness: 30%, 31%, 37%, 42%, 40%, 33%. Poor Mental Health (data available beginning 2021): 29%, 29%, 23%. Seriously Considered Attempting Suicide: 18%, 17%, 19%, 22%, 20%, 14%. Made a Suicide Plan: 15%, 14%, 16%, 18%, 16%, 12%. Attempted Suicide: 9%, 7%, 9%, 10%, 9%, 6%. Injured in a Suicide Attempt That Had to Be Treated by a Doctor or Nurse: 3%, 2%, 3%, 3%, 2%, 1%. A callout notes that in 2025, 33% of high school students experienced persistent feelings of sadness or hopelessness during the past 12 months.
+
+A closer look at 2025 differences in the mental health and suicide risks of high school students.
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.061]
+### _xvi_ 
+
+And yet, in careful deliberation and review of the published literature, the committee arrived at more measured conclusions. 
+
+The science suggests that some features of social media function can harm some young people’s mental health. These include, but are not limited to, algorithmically driven distortions of reality exacerbating harmful content and disinformation, the distraction away from time that can otherwise be used in more healthy ways, and the creation of opportunities where youth can be abused or exploited. However, there are also several ways in which social media improve the lives of youth, including the creation of opportunities for community among more marginalized youth, and the opportunity for fun and joy for the vast majority of users. This balance lies at the heart of the relation between social media and mental health. While some users, using social media in particular ways, may have their mental health adversely affected, for many others there will be no such harm, and for others still the experience will be helpful. This suggested to the committee a judicious approach to protect youth mental health is warranted rather than some of the more broad-stroke bans that have been proposed by other entities in recent years. 
+
+The committee’s recommendations include recommendations to develop industry standards that can ensure social media use protects mental health in the long term, the engagement of educators and health care providers in highlighting the benefits, and minimizing the harms of social media use, and specific measures to protect youth from online abuse. The committee also recommends a doubling down on research that can lead to better clarity about the causal links between aspects of social media and mental health, to the end of pointing to more specific actions that can mitigate the harms, and accentuate the positives, of social media. 
+
+It is the committee’s hope that this work can ground the public conversation around this issue and serve as a platform for better science and targeted action that protects youth’s mental health, while preserving a technology that brings joy and connections to so many. 
+
+Sandro Galea, _Chair_ Committee on the Impact of Social Media on Adolescent Health 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.018]
+### **COMMITTEE ON THE IMPACT OF SOCIAL MEDIA ON ADOLESCENT HEALTH** 
+
+**SANDRO GALEA** ( _Chair_ ), Dean, Robert Knox Professor, School of Public Health, Boston University 
+
+**CEREN BUDAK,** Associate Professor of Information, School of 
+
+Information, Associate Professor of Electrical Engineering and Computer Science, College of Engineering, Faculty Associate, Center for Political Studies, Institute for Social Research, University of Michigan 
+
+**MUNMUN DE CHOUDHURY,** Associate Professor, Director, Social Dynamics and Wellbeing Lab, Georgia Tech University 
+
+**DOUGLAS GENTILE,** Professor of Psychology, Iowa State University **AMANDA GUYER,** Associate Director, Center for Mind and Brain, 
+
+Professor, Human Development and Family Studies, University of California, Davis 
+
+**JEFF HANCOCK,** Professor of Communication, Founding Director, Stanford Social Media Lab, Stanford University 
+
+**JULIANNE HOLT-LUNSTAD,** Professor of Psychology and Neuroscience, Brigham Young University 
+
+**STEPHANIE REICH,** Professor, Education, School of Education, University of California, Irvine 
+
+**MIGUEL SARZOSA,** Assistant Professor of Economics, Purdue University Krannert School of Management 
+
+**LESLIE WALKER-HARDING,** Professor and Ford/Morgan Endowed Chair, Department of Pediatrics, and Associate Dean, University of Washington; Chief Academic Officer and Senior Vice President, Seattle Children’s Hospital 
+
+**CHRISTOPHER YOO,** John H. Chestnut Professor of Law, 
+
+Communication, and Computer and Information Science, Founding Director, Center for Technology, Innovation, and Competition, University of Pennsylvania Carey Law School 
+
+_Study Staff_ 
+
+**GILLIAN J. BUCKLEY,** Study Director **ALEXIS WOJTOWICZ,** Associate Program Officer **GRACE READING,** Senior Program Assistant **MISRAK DABI,** Senior Finance Business Partner **ROSE MARIE MARTINEZ,** Senior Board Director **ANNE MARIE HOUPPERT,** Senior Librarian **REBECCA MORGAN,** Senior Librarian 
+
+_v_ 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.010]
+## Summary<sup>1</sup> 
+
+Over the last 15 years, smartphone technology has transformed the world at a breakneck pace, making news, information, and entertainment constantly available on a handheld device. This transformation has brought society tremendous benefits, yet excitement over these benefits is increasingly coupled with apprehension about the psychological consequences of constant connectedness, especially during developmentally sensitive periods for children and adolescents. Recent survey data indicate that 95 percent of teens in the United States have a smartphone; almost all of them access the internet daily. 
+
+As smartphones have gained popularity, mental health among young people has declined. Teens’ use of social media is one of the more widely cited explanations for the observed deterioration in youth mental health. Spurred by public concern of declining mental health among young people, Congress and state legislatures around the country are considering actions to curb adolescents’ use of social media and to influence the companies that profit from it, adding urgency to the need for more clarity about precisely how and to what extent social media affects young people. 
+
+Disentangling the harms and benefits of social media use was at the heart of the charge to this committee set out by the Democracy Fund, Ford Foundation, the William and Flora Hewlett Foundation, Luminate Projects Limited, the John D. and Catherine MacArthur Foundation, and the Open Society Foundations. These sponsors asked the committee to com- 
+
+> 1 Please see the main report for citations and lists of works cited. 
+
+_1_ 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_2_ 
+
+_SOCIAL MEDIA AND ADOLESCENT HEALTH_ 
+
+ment on the relative risks and benefits of various forms of online media and on the consequences of their use in adolescence. The committee was asked to recommend a strategy to maximize the benefits and minimize the harms associated with social media use and set out a research agenda to help clarify the ways in which social media use influences physical and mental health. The sponsors gave the committee some leeway in its interpretation of the report’s target age range. Recognizing that experiences in adolescence are influenced by those earlier in childhood, the committee took a broad view of adolescence and late childhood with a transitional cutoff around age 18.
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.008]
+#### _SUMMARY_ 
+
+nerability of young people to toxic content or misinformation is clear, but, in the committee’s assessment, broad restrictions to their online access are neither practical nor desirable. It is therefore necessary to create both an online environment that protects young people and social media consumers who are empowered to protect themselves. 
+
+Failure to invest in young people’s ability to navigate the complex world of online news and media has consequences for the young people themselves and for society. Media literacy education has the potential to create a more informed consumer, but most programs fall short of their promise because of scarce funding, uneven content, or poorly qualified instructors. The lack of a reference standard for a digital media literacy curriculum adds to the problem. 
+
+**Recommendation 6-1: The U.S. Department of Education should draw national attention to the importance of comprehensive digital media literacy and state boards of education should set standards for the same in grades K through 12.** 
+
+Teachers are critical players in fostering digital literacy among their students, especially in teaching them how to use technology safely and responsibly, critically evaluate online information, and create and share digital content. If students are to develop digital media literacy, they will need to be educated by teachers who are themselves proficient in the topic and who have been trained in how to convey the subject. Given the rapid pace of change, teachers also will need continuing education to stay abreast of new technological trends. 
+
+**Recommendation 6-2: The Council for the Accreditation of Educator Preparation should set requirements for digital media literacy education for student teachers and as part of ongoing professional development for veteran teachers. Teacher training interventions should be designed to allow for rigorous evaluation to measure their effectiveness.** 
+
+Digital media literacy interventions are not usually designed with an eye to rigorous impact evaluation, leaving any estimate of the training’s effectiveness subject to confounding. The push for a national standard for digital media literacy education and related teacher training programs provides the opportunity to improve the understanding of what makes some programs successful and some failures. The committee therefore seconds recent calls for more prospective research to identify the essential skills that make up digital media literacy and the most equitable strategy to promote it. 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_SOCIAL MEDIA AND ADOLESCENT HEALTH_
+
+---
+
+[referencia=99c8dac1a17d65cb score=0.008]
+A closer look at 2025 differences in the mental health and suicide risks of high school students.
+
+Bar charts titled 'A Closer Look at 2025 Differences.' Male and Female Differences: text notes female students were more likely than male students to experience all six indicators. Persistent feelings of sadness or hopelessness — Male 24%, Female 43%. Poor mental health — Male 16%, Female 31%. Seriously considered attempting suicide — Male 11%, Female 18%. Made a suicide plan — Male 10%, Female 15%. Attempted suicide — Male 5%, Female 8%. Injured in a suicide attempt treated by a doctor or nurse — Male 1%, Female 2%. Grade Differences: text notes 9th graders were more likely than 12th graders to make a suicide plan, and more likely than 11th and 12th graders to attempt suicide. Made a suicide plan by grade — 9th 13%, 10th 13%, 11th 12%, 12th 11%. Attempted suicide by grade — 9th 7%, 10th 7%, 11th 6%, 12th 5%.
+
+Infographic titled 'Key Findings for Mental Health and Suicide Risks.' In 2025, about 1 in 3 high school students experienced persistent feelings of sadness or hopelessness. 9th grade students were more likely than 12th grade students to make a suicide plan, and more likely than 11th and 12th grade students to attempt suicide. Female students were more likely than male students to experience persistent feelings of sadness or hopelessness, experience poor mental health, seriously consider attempting suicide, make a suicide plan, attempt suicide, and be injured in a suicide attempt requiring treatment. From 2023 to 2025, five indicators improved: persistent feelings of sadness or hopelessness, poor mental health, seriously considering attempting suicide, making a suicide plan, and attempting suicide. From 2015 to 2025, three indicators remained unchanged; more students experienced persistent feelings of sadness or hopelessness, while fewer students were injured in a suicide attempt requiring treatment. Includes a photo of hands forming a heart shape.
+
+Show Text Description
+
+Strategies to Promote Mental Health and Wellness
+
+To support the mental health and well-being of their adolescents, parents and families should take care of their own mental health and seek help for themselves or their adolescent, when needed. They can also consider:
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.007]
+## Preface 
+
+Every age has its particular folly; some scheme, project, or phantasy into which it plunges, spurred on either by the love of gain, the necessity of excitement, or the mere force of imitation. 
+
+Charles Mackay, _Memoirs of Extraordinary Popular Delusions and the Madness of Crowds_ (1841) 
+
+This committee’s work emerged from public concern about two phenomena: the growing ubiquity of social media use by children and adolescents, and the increase in poor mental health also among children and adolescents. The co-occurrence of these two phenomena has served, correctly, to catalyze concern that the former is causing the latter and that, as such, there is an urgent need for action to check social media spread and its use to protect child and adolescent mental health. A series of high-profile events, including leaking of internal Facebook documents that suggest social media companies’ awareness of some links between social media use and adverse mental health further added fuel to the fire. 
+
+The committee recognized that the temptation to draw causal inference and to call for rapid action around social media is strong, and heard, during public session, from a range of academics and activists who feel strongly that causal links between social media and mental health have been unequivocally established and that there is an urgent need for action. 
+
+_xv_ 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_PREFACE_
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.007]
+### **A RESEARCH AGENDA** 
+
+Quantifying the risks and benefits social media pose to young people is difficult for many reasons. Given the challenges in measuring both exposures and outcomes, to say nothing of the variability in psychological responses to stimuli, it is hard to offer an overall summary about the relation between social media and youth mental health beyond observing that the effects, both helpful and harmful, accrue differently to different users. 
+
+The standard of evidence needed to establish a causal relation between an outcome and exposure is high. Most of the research on this topic has established only an association between social media use and different mental and physical health outcomes. Evidence of such associations is 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_SOCIAL MEDIA AND ADOLESCENT HEALTH_ 
+
+_12_ 
+
+useful and can drive hypothesis formation and further inquiry, but it is not sufficient, on balance, to lead this committee to recommend additional restrictions on young people’s access to social media. A stronger evidence base on certain key questions could remove much uncertainty from the work of policy makers. 
+
+**Recommendation 8-1: The National Institutes of Health, the National Science Foundation, and other research funders should support a research agenda that gives priority to the health consequences of social media use, the epidemiology of problematic use, the mechanisms through which social media use influences health, efforts to remediate harms associated with social media use, the role of parents and other adults in influencing positive use, and algorithmic audits. Across topics, the agencies should emphasize the need for validated tools to measure exposure to social media affordances, data sharing, and the establishment of long-term cohort studies. Special emphasis should be given to study designs that attempt to understand causal directions.** 
+
+For research to be more useful to both industry and policy makers, it is important to clarify how specific affordances influence health. The committee commends research using randomized designs and experimental platforms to study social networks. Such research is difficult and expensive to conduct and would therefore benefit from being an explicit priority of the major government funders. There are also less onerous ways to answer key questions through capitalizing on natural experiments. Analysis of the staggered rollout of Facebook on college campuses and the simultaneous deterioration in student mental health provided compelling evidence of the platforms’ potential harm. As new waves of public policy attempt to limit media use in young people, it will be critical to study the consequences of such restrictions.
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.005]
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_6_ 
+
+_SOCIAL MEDIA AND ADOLESCENT HEALTH_ 
+
+platforms such as the ability to encourage unhealthy social comparisons, especially for teens who are inclined to view others as somehow better off than themselves. Social comparison may play a role in some teens body image problems and has been proposed as a risk factor for eating disorders. 
+
+Social media use can also displace time that could otherwise be given to sleep, exercise, studying, or other hobbies. A serious consequence in its own right, sleep loss is also a risk factor for depression, mood disturbances, injuries, attention problems, and excessive weight gain. Yet the extent to which social media use displaces unambiguously healthy pastimes such as sport and sleep appears to vary across socioeconomic backgrounds. Combined with evidence that young people from the highest income families tend to limit their use of social media, there is reason to suspect that social and economic factors confound many of the risks attributed to the displacing power of social media. 
+
+The platforms also have a distracting power that can conflict with an important developmental window for cultivation of attentional control, a skill necessary for academic success and emotional adjustment. Social media use may reduce adolescents’ ability to sustain attention and suppress distraction, key components of concentration. At the same time, it is difficult to say that the distraction posed by social media is a function of the media or of the distraction inherent in reading on screens and the related incitements to multitask. 
+
+Studies looking at the association between social media use and feelings of sadness over time have largely found small to no effects, but people with clinically meaningful depression may engage with social media differently. Some research has proposed that this relation is circular, with people with more symptoms of depression spending more time using social media and social media use predicting risk of depression. At the same time, the relation between social media use and depression might vary among different demographic or identity groups. Among LGBTQ+ teens, for example, social media use is associated with fewer depressive symptoms but an increased risk of bullying.
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.004]
+### **DESIGN FEATURES** 
+
+The committee recognizes that perfect controls over what users see is not a realistic or necessarily desirable expectation for social media companies. But there are provisions that can be incorporated into the design of apps, games, and websites that limit the personal information companies collect, the types of content available, and the prompts to extend time on a platform. There are steps that can be taken at the platform level that would help tip the balance of transparency to the users who support the platforms and the government agencies that monitor the fairness of their operations. 
+
+Age-appropriate design code aims to make online technology safer for young people, with an emphasis on protecting their privacy. The ageappropriate design movement has put concrete parameters on an otherwise abstract discussion about children’s privacy. Its emphasis on both the inputs to, and outputs of, a functional privacy system gives researchers and companies a guideline against which to measure the data collection risks that children encounter online. Yet threats to the mental and physical health of young people are often traced to failures of content moderation, algorithms that promote toxic content, and overuse. Social media platforms would benefit from a similar standard to guide assessment of how their products influence youth well-being. 
+
+It is difficult to determine what effect social media has on well-being or the extent to which companies are doing due diligence to protect young people from the more habit-forming affordances of their platforms, as companies retain extremely tight control on their data and algorithms. A general lack of transparency regarding social media operations has bred public distrust of the platforms and the companies that run them. Yet some of the companies’ reluctance to share data is valid. Platform algorithms are proprietary, which can make obliging companies to share them seem unfair and uncompetitive. Social media companies also hold a great deal of information about ordinary people that could, in the wrong hands, be used for surveillance or blackmail. For these reasons, the development of technical standards to benchmark platform operations, transparency, and data use requires the coordination of a range of stakeholders. 
+
+The International Organization for Standardization (ISO) is an international, nongovernmental organization with a long history of setting and supporting standards. The global reach of social media companies makes such international coordination central to any effort at transparent reporting or benchmarking. 
+
+### **Recommendation 5-1: The International Organization for Standardization should convene an ongoing technical working group** 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_8_ 
+
+_SOCIAL MEDIA AND ADOLESCENT HEALTH_
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.004]
+At the same time, there are only so many questions that can be answered without the platforms’ explicit cooperation. Recommendation 5-1 encourages researchers and platforms to formally collaborate in developing data and operational standards. The committee recognizes, however, that this recommendation might take considerable time to implement. In the meantime, there are researchers and journalists with pressing questions about the advertising, recommendation, and content moderation actions of social media companies. They pursue these questions to the benefit of society and at potential personal liability. 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_13_ 
+
+_SUMMARY_ 
+
+**Recommendation 8-2: Social media companies should make a good faith effort to ensure access to data that would make research on the effects of social media on child and adolescent health possible, including the omission from their terms of service any prohibitions on researchers’ use of publicly available data.** 
+
+A good faith effort to allow researchers to access social media data could be valuable to companies facing a great deal of public distrust and scrutiny; however, there is evidence that companies are moving away from data sharing. Given current efforts to restrict data access, it is reasonable to consider that social media companies may not voluntarily cooperate with Recommendation 8-2. Indeed, the current climate seems to suggest the opposite, that companies are becoming progressively more opposed to data sharing and cooperation with researchers. 
+
+Researchers’ lack of access to social media data is a problem that has attracted congressional attention in recent years. While the committee does not endorse or oppose any particular legislative proposal on this topic, it commends the legislators’ concern with ensuring research access to social media data. 
+
+**Recommendation 8-3: Congress should pass legislation to ensure researchers can access data to examine the effects of social media on child and adolescent health.** 
+
+In advancing the legislation recommended, it will be important to articulate technical steps that could improve the anonymization of user data, recognizing nonetheless that complete anonymization of social media data is not always possible or entirely effective. There is no easy or obvious answer to questions of how to balance society’s interest in greater transparency of social media operations against individual users’ expectations of privacy. It is the committee’s hope that by showing commitment to this question, Congress can encourage an open discussion among researchers, industry executives, and privacy experts. 
+
+Copyright National Academy of Sciences. All rights reserved.
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.003]
+_xi_ 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+|_xii_|_CON_|_TENTS_|
+|---|---|---|
+|**4**|**THE RELATION BETWEEN SOCIAL MEDIA**<br>**AND HEALTH**|**91**|
+||The Committee’s Approach to the Evidence Review, 92<br>Health Efects, 94<br>Guidelines and Recommendations from Other Authoritative<br>Bodies, 113<br>References, 122||
+|**5**|**DESIGN FEATURES**<br>Age-Appropriate Design Code, 138<br>Greater Transparency and Accountability, 140<br>Adopting the Standards, 144<br>Using the Standards, 149<br>References, 151|**137**|
+|**6**|**TRAINING AND EDUCATION**<br>Comprehensive Digital Media Literacy Education, 157<br>Integrating Digital Media Competency into Professional<br>Education, 160<br>References, 168|**155**|
+|**7**|**ONLINE HARASSMENT**<br>Cyberbullying, 175<br>Sexual Ofenses, 180<br>Support for Victims and Momentum for Prosecution, 188<br>References, 190|**175**|
+|**8**|**RESEARCH**<br>A Research Agenda, 197<br>Encouraging the Use of Real-World Data, 208<br>References, 216|**197**|
+|**AP**|**PENDIXES**||
+|**A**|Committee Member Biosketches|221|
+|**B**|Open Session Meeting Agendas|229|
+|**C**|<br>Table of Recent Systematic Reviews of the Association||
+||<br>Between Social Media and Adolescent Health|237|
+
+
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.002]
+### **HOW SOCIAL MEDIA WORKS** 
+
+Social media include a broad range of features that facilitate social interaction online; platforms vary widely in their target audiences, purposes, and design. For this reason, it is important to understand platform features, often called ,<sup>2</sup> _affordances_ and how they interact with different developmental stages. Some affordances are powered by computational algorithms, a set of instructions that a program follows to solve a problem or perform a task. Algorithms are used for generating recommendations and determining the rank in which content is displayed, for targeting ads, and for content moderation. In a larger sense, algorithms, which are generally proprietary, serve the end goals of keeping users engaged for as long as possible and generating revenue. 
+
+There are several ways in which platform algorithms can influence health. While an algorithm may be innocuous, the way it presents content can be harmful, with more sensational and provocative posts given higher 
+
+> 2 Affordances refers broadly to the possibilities for action arising from the relation between a technology’s features and the technology users’ goals. 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_3_
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.002]
+### **FIGURES** 
+
+- 1-1 Percentage of female and male students who experience persistent feelings of sadness or hopelessness 2011 to 2021, 17 
+
+- 1-2 Percentage of female and male students who seriously considered suicide 2011 to 2021, 17 
+
+- 1-3 Percentage of high school students who attempted suicide during the past year by demographic characteristics, 2021, 18 
+
+- 1-4 Suicide rate among teens 15 to 19 per 100,000 from 1970 to 2020, 20 
+
+_xiii_ 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_BOXES, FIGURES, AND TABLES_ 
+
+_xiv_ 
+
+- 2-1 Percentage of U.S. teens who say they “ever use this app or site” or “almost constantly use this app or site,” 48 
+
+- 2-2 Percentage of U.S. teens who say they use the internet almost constantly either on a computer or a cellphone, 49 
+
+- 2-3 States privacy legislation as of mid-2023, 58 
+
+- 3-1 Percentage of U.S. teens (age 13 to 17 years) who say social media has had a (mostly positive, neutral, or mostly negative) effect on them personally, 74 
+
+- 5-1 Response to the question, “How much do you trust each of the following companies or services to responsibly handle your personal information and data on your internet activity?,” 141 
+
+- 7-1 Percentage of respondents ages 13 to 17 who have favorable or unfavorable impressions of the efforts various authority figures are taking to stop online harassment and bullying, 177 
+
+- 7-2 Percentage of respondents ages 13 to 17 who say they have ever experienced cyberbullying when online or on their cell phone, 177 
+
+- 7-3 Percentage of respondents ages 13 to 17 who have experienced the listed form of disruptive behavior in online multiplayer games in the last 6 months, 178 
+
+- 7-4 Monthly volume of child sexual abuse images, log scale, received by the National Center for Missing and Exploited Children since the creation of its cyber tipline in 1998, 184
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.002]
+### **THE RELATION BETWEEN SOCIAL MEDIA AND HEALTH** 
+
+At the center of any discussion of social media and adolescent health is a growing body of research attempting to measure this association and disentangle the many, sometimes conflicting, often reciprocal mechanisms through which the online experience and physical or mental health can influence each other. Most of this research examines associations between social media use and mental and behavioral outcomes; fewer studies investigate physical outcomes. 
+
+There are several reasons why these links between social media and health are complex. First, the direction of the relationship is difficult to determine, as social media may influence a health outcome and health may influence social media use. There is also a lack of uniformity in research approaches. Some factors are conceptualized as an exposure in some studies and an outcome in others. Third, it is difficult to study a relation between an outcome and exposure when the exposure is ubiquitous. The bias introduced by omitted variables makes it difficult to say to what extent a young person’s health problems are the cause or the effect of social media use or of another unmeasured cause. Fourth, different levels of analysis can sometimes reveal different dynamics that are difficult to resolve, such as large-scale studies showing health trends at the population level versus psychological-level studies showing small or mixed associations. Furthermore, social media use is not monolithic. The affordances of different social media platforms allow for a broad range of behaviors that can have dramatically different psychological and health implications. It is also important to note that there are a host of proposed mechanisms that may underlie the association between social media and health, not a single dominant mechanism, and these mechanisms are likely not independent of one another and may also be contradictory (e.g., fostering inclusion online but displacing face-to-face interaction with family). Finally considerable heterogeneity emerging in the literature suggests that the relation between social media and health may differ among individuals, making it difficult to draw conclusions that are not highly qualified or particular to certain subgroups. 
+
+The committee’s review of the literature did not support the conclusion that social media causes changes in adolescent health at the population level. Nevertheless, there are potential harms associated with the 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_6_ 
+
+_SOCIAL MEDIA AND ADOLESCENT HEALTH_
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.001]
+### **ONLINE HARRASSMENT** 
+
+Part of the harm associated with social media lies in the harassment some young people experience. These forms of harassment run from the sadly common, as in cyberbullying, to the rare and serious, as in child sexual exploitation. Digital technology can provide an anonymity that emboldens perpetrators, with behavior that would be unacceptable in person flourishing online. 
+
+The committee recognizes that social media platforms do not cause harassment or sexual offenses against children, nor are they to blame for the existence of egregious forms of human behavior. At the same time, any company that makes a product central to unconscionable crimes has a role to play in stopping them. In the same way that hotel and airline companies have made prevention of human trafficking an industry-wide corporate social responsibility, so should the technology industry take steps to ensure their users can easily report online abuse and that these reports are followed up. 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_11_ 
+
+#### _SUMMARY_ 
+
+**Recommendation 7-1: Social media companies should develop systems for reporting, follow-up, and adjudication for cases of online harassment and abuse. These systems should be easy to use, universal, accountable, and transparent.** 
+
+The committee recognizes that collecting information about which minors experience harassment or abuse rests in uneasy tension with companies’ obligations under COPPA. Lack of clarity on how to satisfy these competing duties may have the unintended effect of encouraging companies to turn a blind eye to suspicious interactions online. Social media companies and society would benefit from clear guidance regarding how to manage the trade-offs between child protection and data privacy. 
+
+### **Recommendation 7-2 The Federal Trade Commission should revise its regulations to clarify how to make systems for reporting cases of online harassment and abuse comply with the Children’s Online Privacy Protection Act.** 
+
+When young people are bullied, harassed, or preyed upon by sexual predators and when that abuse is inextricably tied to the reach and anonymity of the internet, society has an obligation to help the victims. The U.S. Substance Abuse and Mental Health Services Administration has the mandate and expertise to provide support and intervention services for children and adolescents who are harmed by their experiences on social media. 
+
+**Recommendation 7-3: The U.S. Substance Abuse and Mental Health Services Administration should develop support and intervention programs for children and adolescents who experience digital abuse and evaluate the effectiveness of such programs.**
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.001]
+### **including industry representatives, civil society, and academic stakeholders to develop standards for social media platform design, transparency, and data use.** 
+
+The standards for social media operations and platform design would articulate both inputs and outputs of a functional system.<sup>3</sup> This information, like certain audit and systemic risk reports, should be available on request to the FTC. Better transparency and tracking of standardized indicators would eventually allow for comparisons across platforms and, over time, give both the public and the FTC better insight into this market. 
+
+Critics of this strategy may maintain that such steps are not necessary as the social media industry already has relevant rules in place. Recent years have seen greater effort at industry self-regulation and third-party regulation of social media. An acknowledgment of the fact that industry stakeholders are often in the best position to set out operational policies underlies the prior recommendation’s specification that industry should be part of the ISO technical work group. There is also reason to believe that companies will have an interest in monitoring one another against the standards the ISO group develops. For this reason, the social media companies should formally adopt these standards and reference them in their public documents. 
+
+**Recommendation 5-2: Social media providers should adopt the standards referenced in the previous recommendation as a matter of policy and as specific provisions in their terms of service.** 
+
+A public statement that platforms will comply with all the measures included in the standard and a commitment to the standard in its terms of service would be a meaningful step toward an enforceable legal structure on social media. The creation of industry standards for social media would inform the FTC’s governance by consent decree, even for social media providers that do not explicitly adopt the standard into their terms of service.
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.001]
+Data monetization drives targeted advertising, through which third parties benefit from information about people’s behavior and preferences. When platforms collect and sell information in ways that are both circuitous and opaque, there is concern about the potential for exploitation. The Federal Trade Commission’s (FTC’s) recent guidance on internet advertising and commercial data security is motivated by a desire for more openness regarding companies’ data collection policies. The agency also has heightened responsibility to children, codified in the Children’s Online Privacy Protection Act (COPPA). The act recognizes that young children lack the capacity to consent to the platforms’ terms for online data collection; the act specifically disallows the enticing of personal dis- 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_4_ 
+
+_SOCIAL MEDIA AND ADOLESCENT HEALTH_ 
+
+closures for prizes or as part of a game and restricts advertising directed to children. But COPPA’s legal protections do not extend to children 13 and older. Recent legislative proposals, including specific protections for adolescents, are being considered at the state and federal levels. Across a range of proposals is a common concern with giving people more control over the ways companies use their data. 
+
+Questions of data privacy can quickly become entwined with larger concerns about social media affordances that encourage young people to spend excessive amounts of time on a platform. A growing interest in age-appropriate design and legal restrictions on social media use can create market confusion for social media companies that operate in different jurisdictions. Decisions about how to monitor young people’s social media use or about content moderation are necessarily value judgments, based on different values and divergent inferences from a lean body of evidence.
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.001]
+### **TABLES** 
+
+- 3-1 Types of Creative Production on Social Media, 83 
+
+- 4-1 Authoritative Bodies’ Guidance on Social and Digital Media Use and Adolescents, 114 
+
+- 5-1 Operationalizing Standards for Social Media Operations, Transparency, and Data Use, 145 
+
+- 8-1 Conceptual Mechanisms Linking Social Media Use and Well-being, 204 
+
+- 8-2 Recent Legislative Proposals on Social Media Platform Research, 213 
+
+- C-1 Select Recent Systematic Reviews and Meta-Analyses on Social Media Exposure and Adolescent Health Outcomes, 238 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health
+
+---
+
+[referencia=f79f42918e3ba0d6 score=0.001]
+Heavy users of online video games can develop a dysfunctional behavior related to games, characterized by a persistent pattern of impaired control over the need to play, to the point where gaming takes precedence over all other life activities. Given that gaming disorder is defined by dysfunction, it is not surprising that many studies find evidence that the disorder predicts depression, anxiety, social phobia, poor school performance, sleep disruption, and poor relationships with parents and peers. Although less well studied, a dysfunctional use of social media appears to be a similar problem. It is currently unclear whether problematic social media use and gaming disorder are distinct disorders or are simply different manifestations of a similar disordered use of technology. 
+
+Copyright National Academy of Sciences. All rights reserved. 
+
+Social Media and Adolescent Health 
+
+_7_ 
+
+_SUMMARY_

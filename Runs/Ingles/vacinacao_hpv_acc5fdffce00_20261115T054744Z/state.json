@@ -1,0 +1,9 @@
+{
+  "stages_completed": [
+    "extraction",
+    "ingestion",
+    "indexing",
+    "judging",
+    "reporting"
+  ]
+}

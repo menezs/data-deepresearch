@@ -1,0 +1,333 @@
+[referencia=1098fc60be7ca2b0 score=0.327]
+From this work, we can draw lessons for alignment research more generally: 
+
+1. **The cost of increasing model alignment is modest relative to pretraining.** The cost of collecting our data and the compute for training runs, including experimental runs is a fraction of what was spent to train GPT-3: training our 175B SFT model requires 4.9 petaflops/s-days and training our 175B PPO-ptx model requires 60 petaflops/s-days, compared to 3,640 petaflops/s-days for GPT-3 (Brown et al., 2020). At the same time, our results show that RLHF is very effective at making language models more helpful to users, more so than a 100x model size increase. This suggests that right now increasing investments in alignment of existing language models is more cost-effective than training larger models—at least for our customers’ natural language task distribution. 
+
+2. **We’ve seen some evidence that InstructGPT generalizes ‘following instructions’ to settings that we don’t supervise it in,** for example on non-English language tasks and code-related tasks. This is an important property because it’s prohibitively expensive to have humans supervise models on every task they perform. More research is needed to study how well this generalization scales with increased capabilities; see Christiano et al. (2021) for recent research in this direction. 
+
+3. **We were able to mitigate most of the performance degradations introduced by our fine-tuning.** If this was not the case, these performance degradations would constitute an alignment tax—an additional cost for aligning the model. Any technique with a high tax might not see adoption. To avoid incentives for future highly capable AI systems to remain unaligned with human intent, there is a need for alignment techniques that have low alignment tax. To this end, our results are good news for RLHF as a low-tax alignment technique. 
+
+4. **We’ve validated alignment techniques from research in the real world.** Alignment research has historically been rather abstract, focusing on either theoretical results (Soares et al., 2015), small synthetic domains (Christiano et al., 2018; Leike et al., 2017), or training ML models on public NLP datasets (Ziegler et al., 2019; Stiennon et al., 2020). Our work provides grounding for alignment research in AI systems that are being used in production in
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.239]
+**Our models generalize to the preferences of “held-out” labelers that did not produce any training data.** To test the generalization of our models, we conduct a preliminary experiment with held-out labelers, and find that they prefer InstructGPT outputs to outputs from GPT-3 at about the same rate as our training labelers. However, more work is needed to study how these models perform on broader groups of users, and how they perform on inputs where humans disagree about the desired behavior. 
+
+**Public NLP datasets are not reflective of how our language models are used.** We compare GPT-3 fine-tuned on our human preference data (i.e. InstructGPT) to GPT-3 fine-tuned on two different compilations of public NLP tasks: the FLAN (Wei et al., 2021) and T0 (Sanh et al., 2021) (in particular, the T0++ variant). These datasets consist of a variety of NLP tasks, combined with natural language instructions for each task. On our API prompt distribution, our FLAN and T0 models perform slightly worse than our SFT baseline, and labelers significantly prefer InstructGPT to these models (InstructGPT has a 73.4 _±_ 2% winrate vs. our baseline, compared to 26.8 _±_ 2% and 29.8 _±_ 2% for our version of T0 and FLAN, respectively). 
+
+**InstructGPT models show promising generalization to instructions outside of the RLHF finetuning distribution.** We qualitatively probe InstructGPT’s capabilities, and find that it is able to follow instructions for summarizing code, answer questions about code, and sometimes follows instructions in different languages, despite these instructions being very rare in the fine-tuning distribution. In contrast, GPT-3 can perform these tasks but requires more careful prompting, and does not usually follow instructions in these domains. This result is exciting because it suggests that our models are able to generalize the notion of “following instructions.” They retain some alignment even on tasks for which they get very little direct supervision signal. 
+
+**InstructGPT still makes simple mistakes.** For example, InstructGPT can still fail to follow instructions, make up facts, give long hedging answers to simple questions, or fail to detect instructions with false premises.
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.159]
+### **5.4 Open questions** 
+
+This work is a first step towards using alignment techniques to fine-tune language models to follow a wide range of instructions. There are many open questions to explore to further align language model behavior with what people actually want them to do. 
+
+Many methods could be tried to further decrease the models’ propensity to generate toxic, biased, or otherwise harmful outputs. For example, one could use an adversarial set-up where labelers find the worst-case behaviors of the model, which are then labeled and added to the dataset (Dinan et al., 2019b). One could also combine our method with ways of filtering the pretraining data (Ngo et al., 2021), either for training the initial pretrained models, or for the data we use for our pretraining mix approach. Similarly, one could combine our approach with methods that improve models’ truthfulness, such as WebGPT (Nakano et al., 2021). 
+
+In this work, if the user requests a potentially harmful or dishonest response, we allow our model to generate these outputs. Training our model to be harmless despite user instructions is important, but is also difficult because whether an output is harmful depends on the context in which it’s deployed; for example, it may be beneficial to use language models to generate toxic outputs as part of a data augmentation pipeline. Our techniques can also be applied to making models refuse certain user instructions, and we plan to explore this in subsequent iterations of this research. 
+
+Getting models to do what we want is directly related to the steerability and controllability literature (Dathathri et al., 2019; Krause et al., 2020). A promising future path is combining RLHF with other methods of steerability, for example using control codes (Keskar et al., 2019), or modifying the sampling procedure at inference time using a smaller model (Dathathri et al., 2019). 
+
+While we mainly focus on RLHF, there are many other algorithms that could be used to train policies on our demonstration and comparison data to get even better results. For example, one could explore expert iteration (Anthony et al., 2017; Silver et al., 2017), or simpler behavior cloning methods that use a subset of the comparison data. One could also try constrained optimization approaches (Achiam et al., 2017) that maximize the score from a reward model conditioned on generating a small number of harmful behaviors. 
+
+19
+
+---
+
+[referencia=a3e86ad05f37e40d score=0.158]
+For our model architecture, we use the _Transformer_ [62], which has been shown to perform strongly on various tasks such as machine translation [62], document generation [34], and syntactic parsing [29]. This model choice provides us with a more structured memory for handling long-term dependencies in text, compared to alternatives like recurrent networks, resulting in robust transfer performance across diverse tasks. During transfer, we utilize task-specific input adaptations derived from traversal-style approaches [52], which process structured text input as a single contiguous sequence of tokens. As we demonstrate in our experiments, these adaptations enable us to fine-tune effectively with minimal changes to the architecture of the pre-trained model. 
+
+We evaluate our approach on four types of language understanding tasks – natural language inference, question answering, semantic similarity, and text classification. Our general task-agnostic model outperforms discriminatively trained models that employ architectures specifically crafted for each task, significantly improving upon the state of the art in 9 out of the 12 tasks studied. For instance, we achieve absolute improvements of 8.9% on commonsense reasoning (Stories Cloze Test) [40], 5.7% on question answering (RACE) [30], 1.5% on textual entailment (MultiNLI) [66] and 5.5% on the recently introduced GLUE multi-task benchmark [64]. We also analyzed zero-shot behaviors of the pre-trained model on four different settings and demonstrate that it acquires useful linguistic knowledge for downstream tasks.
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.127]
+## **1 Introduction** 
+
+Large language models (LMs) can be “prompted” to perform a range of natural language processing (NLP) tasks, given some examples of the task as input. However, these models often express unintended behaviors such as making up facts, generating biased or toxic text, or simply not following user instructions (Bender et al., 2021; Bommasani et al., 2021; Kenton et al., 2021; Weidinger et al., 2021; Tamkin et al., 2021; Gehman et al., 2020). This is because the language modeling objective 
+
+> _∗_ Primary authors. This was a joint project of the OpenAI Alignment team. RL and JL are the team leads. Corresponding author: `lowe@openai.com` . 
+
+> _†_ Work done while at OpenAI. Current affiliations: AA: Anthropic; PC: Alignment Research Center. 
+
+
+
+<!-- Start of picture text -->
+0.6<br>Model<br>PPO-ptx<br>PPO<br>0.4<br>SFT<br>GPT (prompted)<br>GPT<br>0.2<br>1.3B 6B 175B<br>Model size<br>Win rate against SFT 175B<br><!-- End of picture text -->
+
+Figure 1: Human evaluations of various models on our API prompt distribution, evaluated by how often outputs from each model were preferred to those from the 175B SFT model. Our InstructGPT models (PPO-ptx) as well as its variant trained without pretraining mix (PPO) significantly outperform the GPT-3 baselines (GPT, GPT prompted); outputs from our 1.3B PPO-ptx model are preferred to those from the 175B GPT-3. Error bars throughout the paper are 95% confidence intervals.
+
+---
+
+[referencia=a3e86ad05f37e40d score=0.124]
+# **Improving Language Understanding by Generative Pre-Training** 
+
+**Alec Radford** OpenAI `alec@openai.com` 
+
+**Karthik Narasimhan Tim Salimans Ilya Sutskever** OpenAI OpenAI OpenAI `karthikn@openai.com tim@openai.com ilyasu@openai.com` 
+
+## **Abstract** 
+
+Natural language understanding comprises a wide range of diverse tasks such as textual entailment, question answering, semantic similarity assessment, and document classification. Although large unlabeled text corpora are abundant, labeled data for learning these specific tasks is scarce, making it challenging for discriminatively trained models to perform adequately. We demonstrate that large gains on these tasks can be realized by _generative pre-training_ of a language model on a diverse corpus of unlabeled text, followed by _discriminative fine-tuning_ on each specific task. In contrast to previous approaches, we make use of task-aware input transformations during fine-tuning to achieve effective transfer while requiring minimal changes to the model architecture. We demonstrate the effectiveness of our approach on a wide range of benchmarks for natural language understanding. Our general task-agnostic model outperforms discriminatively trained models that use architectures specifically crafted for each task, significantly improving upon the state of the art in 9 out of the 12 tasks studied. For instance, we achieve absolute improvements of 8.9% on commonsense reasoning (Stories Cloze Test), 5.7% on question answering (RACE), and 1.5% on textual entailment (MultiNLI).
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.104]
+## **F Model samples** 
+
+In this section, we provide some additional samples from both the 175B GPT-3 and 175B InstructGPT (PPO-ptx) models. We sample at _T_ = 1 for InstructGPT, and use _T_ = 0 _._ 7 for GPT-3, since GPT-3 performs poorly at high temperatures (this slightly disadvantages InstructGPT). 
+
+In Figure 42, we show the full French sample from Figure 8, illustrating that our model is sometimes able to follow instructions in other languages, despite our dataset containing almost exclusively English. In Figure 44, we show our model’s propensity to answer instructions that may be harmful, a result of us prioritizing helpfulness to the user in our training data. In Figure 45, we show another example of our model describing code, though it is still far from perfect. 
+
+In Figures 46–50, we show labeler-written prompts from our dataset, along with model samples and the human-written demonstration. These 5 prompts were selected from 15 to show a range of different tasks. 
+
+61
+
+---
+
+[referencia=a3e86ad05f37e40d score=0.093]
+## **6 Conclusion** 
+
+We introduced a framework for achieving strong natural language understanding with a single task-agnostic model through generative pre-training and discriminative fine-tuning. By pre-training on a diverse corpus with long stretches of contiguous text our model acquires significant world knowledge and ability to process long-range dependencies which are then successfully transferred to solving discriminative tasks such as question answering, semantic similarity assessment, entailment determination, and text classification, improving the state of the art on 9 of the 12 datasets we study. Using unsupervised (pre-)training to boost performance on discriminative tasks has long been an important goal of Machine Learning research. Our work suggests that achieving significant performance gains is indeed possible, and offers hints as to what models (Transformers) and data sets (text with long range dependencies) work best with this approach. We hope that this will help enable new research into unsupervised learning, for both natural language understanding and other domains, further improving our understanding of how and when unsupervised learning works.
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.087]
+19 
+
+Comparisons are also not necessarily the most efficient way of providing an alignment signal. For example, we could have labelers edit model responses to make them better, or generate critiques of model responses in natural language. There is also a vast space of options for designing interfaces for labelers to provide feedback to language models; this is an interesting human-computer interaction problem. 
+
+Our proposal for mitigating the alignment tax, by incorporating pretraining data into RLHF finetuning, does not completely mitigate performance regressions, and may make certain undesirable behaviors more likely for some tasks (if these behaviors are present in the pretraining data). This is an interesting area for further research. Another modification that would likely improve our method is to filter the pretraining mix data for toxic content (Ngo et al., 2021), or augment this data with synthetic instructions. 
+
+As discussed in detail in Gabriel (2020), there are subtle differences between aligning to instructions, intentions, revealed preferences, ideal preferences, interests, and values. Gabriel (2020) advocate for a principle-based approach to alignment: in other words, for identifying “fair principles for alignment that receive reflective endorsement despite widespread variation in people’s moral beliefs.” In our paper we align to the inferred user intention for simplicity, but more research is required in this area. Indeed, one of the biggest open questions is how to design an alignment process that is transparent, that meaningfully represents the people impacted by the technology, and that synthesizes peoples’ values in a way that achieves broad consensus amongst many groups. We discuss some related considerations in Section 5.2.
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.084]
+### **E.11 Additional ablations** 
+
+We compared using different amount of pretraining data, while keeping the pretraining loss coefficient constant. By increasing the amount of pretraining data, the quality of gradient estimates from the pretraining improves. We found that using a pretraining data ratio of 4, the log probability loss on the pretraining distribution would often increase throughout the course of the training. Some preliminary experiments show better human Likert scores can be achieved with a pretraining data ratio of 32. However, the training time also increases by a few fold. By setting the pretraining data ratio to 8, the training time doubles that of the corresponding experiment without using pretraining mix; we chose this as a middle ground between training speed and pretraining loss performance. 
+
+Using the 1.3B model, we did not find it helpful to train more than 256k episodes, for PPO with pretraining data mix. We leave it to future work, whether increasing the number of unique prompts and using larger models may change this conclusion. 
+
+We experimented with batch sizes of 64, 128, 256, 512, and 1024, for PPO with pretraining data mix, on the 1.3B model. A batch size of 512 was found to be the best through human evaluations. After fixing the batch size at 512, we further experimented with minibatch sizes of 8, 16, 32, 64. We found 
+
+58 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.082]
+## **4 Results** 
+
+In this section, we provide experimental evidence for our claims in Section 1, sorted into three parts: results on the API prompt distribution, results on public NLP datasets, and qualitative results. 
+
+> 7Accessible here: `https://github.com/openai/following-instructions-human-feedback` . 
+
+10 
+
+
+
+<!-- Start of picture text -->
+GPT distribution Instruct distribution<br>0.75<br>0.50<br>0.25<br>0.75<br>0.50<br>0.25<br>1.3B 6B 175B 1.3B 6B 175B<br>Model size<br>GPT<br>GPT SFT PPO PPO-ptx<br>(prompted)<br>Heldout workers<br>Win rate against SFT 175B<br>Training workers<br><!-- End of picture text -->
+
+Figure 3: Preference results of our models, measured by winrate against the 175B SFT model. Left: results on prompts submitted to GPT models on the API; Right: results on prompts submitted to InstructGPT models on the API; Top: results from held-out labelers; Bottom: results from training labelers. We omit GPT (prompted) from the evals on prompts submitted to GPT-3 models (left) as these prompts are already designed to perform well for GPT-3, as opposed to prompts submitted to InstructGPT models (right).
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.076]
+Figure 37: Human likert scores for PPO with different init models. 
+
+57 
+
+
+
+<!-- Start of picture text -->
+1.3B 6B 175B<br>5<br>4.5<br>4<br>3.5<br>Pretrain mix<br>0.8<br>No pretrain mix<br>0.7<br>0.6<br>0.5<br>Learning rate<br>0.5e-51e-5 1.5e-52e-5 2.5e-5 0.5e-51e-5 1.5e-52e-5 2.5e-52.50e-62.75e-63e-6 3.25e-63.50e-63.75e-6<br>Likert<br>175b SFT<br>Win rates against<br><!-- End of picture text -->
+
+Figure 38: Human evaluation metrics as a function of learning rates. 
+
+### **E.9 Learning rate optimization for PPO models** 
+
+For both 1.3B and 6B models, we scan the learning rate in log-linear space, from 2.55e-6 to 2.55e-5, for both PPO with and without the pretraining data mix. All runs with learning rate greater than 8.05e-6 diverged, for PPO models without pretraining data mix. For the 175B models, we did similar experiments with two learning rates of 2.55e-6 and 3.74e-06, due to compute constraints. Figure 38 shows the human evaluation results. PPO with pretraining data mix appears to be less sensitive to change of the learning rate. Based on these results, we picked the checkpoints with the highest likert scores, as our final models. 
+
+### **E.10 RealToxicityPrompts results as a function of input toxicity** 
+
+In the RealToxicityPrompts task, we measure toxicity via the Perspective API and find that the toxicity of our model outputs is highly correlated with the toxicity of the input prompt, as shown in Figure 39. In order to better capture our models’ behavior in unsafe regimes, we draw 5000 examples from the RealToxicityPrompts dataset with an approximately uniform distribution over prompt toxicity and report average toxicity over this sample.
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.070]
+> **Training language models to follow instructions.** Our work is also related to research on crosstask generalization in language models, where LMs are fine-tuned on a broad range of public NLP datasets (usually prefixed with an appropriate instruction) and evaluated on a different set of NLP tasks. There has been a range of work in this domain (Yi et al., 2019; Mishra et al., 2021; Wei et al., 2021; Khashabi et al., 2020; Sanh et al., 2021; Aribandi et al., 2021), which differ in training and evaluation data, formatting of instructions, size of pretrained models, and other experimental details. A consistent finding across studies is that fine-tuning LMs on a range of NLP tasks, with instructions, improves their downstream performance on held-out tasks, both in the zero-shot and few-shot settings. 
+
+There is also a related line of work on instruction following for navigation, where models are trained to follow natural language instructions to navigate in a simulated environment (Bahdanau et al., 2018; Abramson et al., 2020; Zhao et al., 2021).
+
+---
+
+[referencia=a3e86ad05f37e40d score=0.070]
+Table 5: Analysis of various model ablations on different tasks. Avg. score is a unweighted average of all the results. ( _mc_ = Mathews correlation, _acc_ =Accuracy, _pc_ =Pearson correlation) 
+
+|Method|Avg. Score|CoLA|SST2|MRPC|STSB|QQP|MNLI|QNLI|RTE|
+|---|---|---|---|---|---|---|---|---|---|
+|||(mc)|(acc)|(F1)|(pc)|(F1)|(acc)|(acc)|(acc)|
+|Transformer w/ aux LM (full)|74.7|45.4|91.3|82.3|82.0|**70.3**|**81.8**|**88.1**|**56.0**|
+|Transformer w/o pre-training|59.9|18.9|84.0|79.4|30.9|65.5|75.7|71.2|53.8|
+|Transformer w/o aux LM|**75.0**|**47.9**|**92.0**|**84.9**|**83.2**|69.8|81.1|86.9|54.4|
+|LSTM w/ aux LM|69.1|30.3|90.5|83.2|71.8|68.1|73.7|81.1|54.6|
+
+
+
+attentional memory of the transformer assists in transfer compared to LSTMs. We designed a series of heuristic solutions that use the underlying generative model to perform tasks without supervised finetuning. We visualize the effectiveness of these heuristic solutions over the course of generative pre-training in Fig 2(right). We observe the performance of these heuristics is stable and steadily increases over training suggesting that generative pretraining supports the learning of a wide variety of task relevant functionality. We also observe the LSTM exhibits higher variance in its zero-shot performance suggesting that the inductive bias of the Transformer architecture assists in transfer.
+
+---
+
+[referencia=a3e86ad05f37e40d score=0.055]
+## **5 Analysis** 
+
+**Impact of number of layers transferred** We observed the impact of transferring a variable number of layers from unsupervised pre-training to the supervised target task. Figure 2(left) illustrates the performance of our approach on MultiNLI and RACE as a function of the number of layers transferred. We observe the standard result that transferring embeddings improves performance and that each transformer layer provides further benefits up to 9% for full transfer on MultiNLI. This indicates that each layer in the pre-trained model contains useful functionality for solving target tasks. 
+
+
+
+
+
+Figure 2: ( **left** ) Effect of transferring increasing number of layers from the pre-trained language model on RACE and MultiNLI. ( **right** ) Plot showing the evolution of zero-shot performance on different tasks as a function of LM pre-training updates. Performance per task is normalized between a random guess baseline and the current state-of-the-art with a single model. 
+
+**Zero-shot Behaviors** We’d like to better understand why language model pre-training of transformers is effective. A hypothesis is that the underlying generative model learns to perform many of the tasks we evaluate on in order to improve its language modeling capability and that the more structured 
+
+7 
+
+Table 5: Analysis of various model ablations on different tasks. Avg. score is a unweighted average of all the results. ( _mc_ = Mathews correlation, _acc_ =Accuracy, _pc_ =Pearson correlation)
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.055]
+**InstructGPT still makes simple mistakes.** In interacting with our 175B PPO-ptx model, we have noticed it can still make simple mistakes, despite its strong performance on many different language tasks. To give a few examples: (1) when given an instruction with a false premise, the model sometimes incorrectly assumes the premise is true, (2) the model can overly hedge; when given a simple question, it can sometimes say that there is no one answer to the question and give multiple possible answers, even when there is one fairly clear answer from the context, and (3) the model’s performance degrades when instructions contain multiple explicit constraints (e.g. “list 10 movies made in the 1930’s set in France”) or when constraints can be challenging for language models (e.g. writing a summary in a specified number of sentences). 
+
+9We generally instruct our labelers to skip evaluations where they are missing the required expertise, though sometimes labelers use a translation service to evaluate simple instructions in languages that they do not speak. 
+
+16 
+
+We show some examples of these behaviors in Figure 9. We suspect that behavior (2) emerges partly because we instruct labelers to reward epistemic humility; thus, they may tend to reward outputs that hedge, and this gets picked up by our reward model. We suspect that behavior (1) occurs because there are few prompts in the training set that assume false premises, and our models don’t generalize well to these examples. We believe both these behaviors could be dramatically reduced with adversarial data collection (Dinan et al., 2019b).
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.050]
+### **E.2 Reward model generalization across sets of labelers** 
+
+To measure how much our procedure overfits to our training labelers, we conduct an experiment where we train multiple RMs on subsets of labelers, and test their generalization to held-out labelers. We split the comparison data into five groups of labelers, so that each group has roughly the same amount of training data. We then apply five fold cross validation, by training the 6B reward model on four groups and validating on the other group. We use the same hyperparameters as defined in Appendix C.2. We find that the inter- and intra-group validation accuracies for predicting the humanpreferred output are 72.4 _±_ 0.4%, and 69.6 _±_ 0.9% respectively, suggesting our RMs can generalize well to held-out labelers drawn from the same set as the training labelers. 
+
+### **E.3 Metadata results as a function of model size** 
+
+In Figure 30, we show metadata results as a function of model size. 
+
+52 
+
+
+
+<!-- Start of picture text -->
+Attempts correct instruction Appropriate for customer assistant<br>0.95<br>0.9<br>0.90<br>0.8<br>0.85<br>0.7<br>Model<br>0.80<br>0.6 PPO-ptx<br>1.3B 6B 175B 1.3B 6B 175B PPO<br>SFT<br>Follows explicit constraints Hallucinations<br>GPT<br>0.6 (prompted)<br>0.6 GPT<br>0.4<br>0.4<br>0.2<br>0.2<br>0<br>1.3B 6B 175B 1.3B 6B 175B<br>Model size<br>Prevalence<br><!-- End of picture text -->
+
+Figure 30: Metadata ratings as a function of model type and model size 
+
+### **E.4 Likert scores** 
+
+In Figure 31, we show Likert scores for each of our models on our prompt distribution. The results largely track with our preference results in Section 4.1.
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.048]
+In order to speed up comparison collection, we present labelers with anywhere between _K_ = 4 and _K_ = 9 responses to rank. This produces � _K_ 2 � comparisons for each prompt shown to a labeler. Since comparisons are very correlated within each labeling task, we found that if we simply shuffle the comparisons into one dataset, a single pass over the dataset caused the reward model to overfit.<sup>5</sup> Instead, we train on all � _K_ 2 � comparisons from each prompt as a single batch element. This is much more computationally efficient because it only requires a single forward pass of the RM for each completion (rather than � _K_ 2 � forward passes for _K_ completions) and, because it no longer overfits, it achieves much improved validation accuracy and log loss. 
+
+Specifically, the loss function for the reward model is: 
+
+
+
+where _rθ_ ( _x, y_ ) is the scalar output of the reward model for prompt _x_ and completion _y_ with parameters _θ_ , _yw_ is the preferred completion out of the pair of _yw_ and _yl_ , and _D_ is the dataset of human comparisons. 
+
+> 5That is, if each of the possible <u>�</u> _K_ 2 <u>�</u> comparisons is treated as a separate data point, then each completion will potentially be used for _K −_ 1 separate gradient updates. The model tends to overfit after a single epoch, so repeating data within an epoch also causes it to overfit. 
+
+8 
+
+Table 3: Labeler-collected metadata on the API distribution. 
+
+|Metadata|Scale|
+|---|---|
+|Overall quality|Likert scale; 1-7|
+|Fails to follow the correct instruction / task|Binary|
+|Inappropriate for customer assistant|Binary|
+|Hallucination|Binary|
+|Satisifes constraint provided in the instruction|Binary|
+|Contains sexual content|Binary|
+|Contains violent content|Binary|
+|Encourages or fails to discourage violence/abuse/terrorism/self-harm|Binary|
+|Denigrates a protected class|Binary|
+|Gives harmful advice|Binary|
+|Expresses opinion|Binary|
+|Expresses moral judgment|Binary|
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.047]
+### **E.8 PPO init models** 
+
+We experimented with a few variants of the SFT models as the PPO’s init model, including training on the human demonstration data for one and two epochs, with 0%, 10%, and 50% pretraining data mix. As shown in Figure 37, the only setting stands out is with 10% pretraining data mix. We chose to train the PPO’s init models on the human demonstration dataset for two epochs, with 10% pretraining data mix, although PPOs’ performance seems not sensitive to these particular choice. 
+
+56 
+
+
+
+<!-- Start of picture text -->
+60 (GPT)<br>50 Dataset<br>a DROP<br>40<br>a SQuAD v2<br>30<br>(GPT)<br>1e3 1e4 1e5<br>Episodes<br>F1 score<br><!-- End of picture text -->
+
+Figure 35: Evaluation on public NLP datasets as a function of training episodes 
+
+
+
+<!-- Start of picture text -->
+4.5<br>4<br>3.5<br>3<br>2.5<br>2<br>0.001 0.01 0.1 1<br>KL reward coefficient<br>Likert score<br><!-- End of picture text -->
+
+Figure 36: Likert scores as a function of KL reward coefficient. The blue line indicates the reward value when the coefficient is zero (not shown on the rest of the graph due to log scale of the x axis). 
+
+
+
+<!-- Start of picture text -->
+4<br>3<br>2<br>1<br>0<br>Pretraining Pretraining Pretraining Pretraining<br>fraction 0 fraction 0.1 fraction 0.5 fraction 0<br>(2 epochs)<br>Likert score<br><!-- End of picture text -->
+
+Figure 37: Human likert scores for PPO with different init models. 
+
+57 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=1098fc60be7ca2b0 score=0.041]
+11 
+
+
+
+<!-- Start of picture text -->
+Attempts correct instruction Follows explicit constraints Hallucinations Uses language appropriatefor customer assistant<br>0.5<br>0.75 0.4 0.75<br>0.4<br>0.3<br>0.50 0.50<br>0.2 0.2<br>0.25 0.25<br>0.1<br>0 0 0 0<br>GPT GPT SFT PPO PPO-ptx GPT GPT SFT PPO PPO-ptx GPT GPT SFT PPO PPO-ptx GPT GPT SFT PPO PPO-ptx<br>(prompted) (prompted) (prompted) (prompted)<br>Prevalence<br><!-- End of picture text -->
+
+Figure 4: Metadata results on the API distribution. Note that, due to dataset sizes, these results are collapsed across model sizes. See Appendix E.2 for analysis that includes model size. Compared to GPT-3, the PPO models are more appropriate in the context of a customer assistant, are better at following explicit constraints in the instruction and attempting the correct instruction, and less likely to ‘hallucinate’ (meaning, making up information on closed domain tasks like summarization). 
+
+
+
+<!-- Start of picture text -->
+6<br>4<br>2<br>GPT GPT SFT PPO-ptx FLAN T0<br>(prompted)<br>Model<br>Likert score<br><!-- End of picture text -->
+
+Figure 5: Comparing our models with FLAN and T0 in terms of Likert scores on a 1-7 scale, on the InstructGPT prompt distribution. FLAN and T0 perform better than default GPT-3, and comparably with a few-shot GPT-3 model placed into ‘instruction-following’ mode. 
+
+categories occur too infrequently in our API to obtain statistically significant differences between our models. 
+
+**Our models generalize to the preferences of "held-out" labelers that did not produce any training data.** Held-out labelers have similar ranking preferences as workers who we used to produce training data (see Figure 3). In particular, according to held-out workers, all of our InstructGPT models still greatly outperform the GPT-3 baselines. Thus, our InstructGPT models aren’t simply overfitting to the preferences of our training labelers.

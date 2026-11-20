@@ -1,0 +1,1247 @@
+{
+  "run_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+  "answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Claude/EmConsolidacao/semana_trabalho.md",
+  "generated_at": "2026-11-04T03:42:17.639959Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 29588,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 91,
+    "citation_markers_distinct": 48,
+    "references_listed": 48,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 84,
+  "pct_supported": 85.71428571428571,
+  "pct_unsupported": 7.142857142857142,
+  "pct_contradicted": 0.0,
+  "count_supported": 72,
+  "count_unsupported": 6,
+  "count_contradicted": 0,
+  "count_skipped": 6,
+  "count_audited": 78,
+  "pct_supported_audited": 92.3076923076923,
+  "pct_unsupported_audited": 7.6923076923076925,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 6,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 6
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 0,
+  "count_reclassified_by_verification": 1,
+  "verification_stage_counts": {
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 4,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "b2139a2621921ffc",
+      "citation_markers": [
+        "[21]"
+      ],
+      "raw_url": "https://www.insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-piloto-de-semana-de-trabalho-de-4-dias",
+      "normalized_url": "https://insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-piloto-de-semana-de-trabalho-de-4-dias",
+      "work_key": "https://insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-piloto-de-semana-de-trabalho-de-4-dias",
+      "title": "Brasil inicia projeto-piloto de semana de trabalho de 4 dias (Insper) –",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:41:03.529351Z",
+      "error_message": "barreira de acesso (http_error): # Access Denied You don't have permission to access \"http://www.insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-p",
+      "barrier_kind": "http_error",
+      "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "be754527b6103806",
+      "citation_markers": [
+        "[33]"
+      ],
+      "raw_url": "https://diariodepernambuco.com.br/dpmais/oficial-governo-bateu-o-martelo-e-jornada-de-trabalho-de-13-horas-foi-confirmada-neste-pais/",
+      "normalized_url": "https://diariodepernambuco.com.br/dpmais/oficial-governo-bateu-o-martelo-e-jornada-de-trabalho-de-13-horas-foi-confirmada-neste-pais",
+      "work_key": "https://diariodepernambuco.com.br/dpmais/oficial-governo-bateu-o-martelo-e-jornada-de-trabalho-de-13-horas-foi-confirmada-neste-pais",
+      "title": "Governo bateu o martelo e jornada de trabalho de 13 horas foi confirmada neste país (Diario de Pernambuco) –",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:41:06.146191Z",
+      "error_message": "barreira de acesso (http_error): AccessDenied Access Denied This XML file does not appear to have any style information associated with it. The document ",
+      "barrier_kind": "http_error",
+      "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "de48be3624ddef10",
+      "citation_markers": [
+        "[42]"
+      ],
+      "raw_url": "https://www.capradio.org/187667",
+      "normalized_url": "https://capradio.org/187667",
+      "work_key": "https://capradio.org/187667",
+      "title": "Four-day work week (CapRadio) –",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:41:03.851365Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-40",
+      "reason": "Referencia(s) citada(s) ['b2139a2621921ffc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-57",
+      "reason": "Referencia(s) citada(s) ['be754527b6103806'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-67",
+      "reason": "Referencia(s) citada(s) ['de48be3624ddef10'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-72",
+      "reason": "Referencia(s) citada(s) ['de48be3624ddef10'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-73",
+      "reason": "Referencia(s) citada(s) ['de48be3624ddef10'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-82",
+      "reason": "Referencia(s) citada(s) ['be754527b6103806'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "9ebd0658923abeca",
+      "url": "https://www.scimex.org/newsfeed/a-four-day-workweek-makes-workers-happier-and-more-confident-at-their-jobs",
+      "times_cited": 6,
+      "supported_count": 6,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        20,
+        22,
+        23,
+        24,
+        25
+      ],
+      "partial_positions": [
+        77
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Wen Fan, Juliet Schor, and colleagues conducted 6-month trials that involved 2,896 employees across 141 organizations in Australia, Canada, New Zealand, the UK, Ireland, and the USA.",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "197c4a5e8288073b",
+      "url": "https://abc13.com/iceland-work-week-shorter-cuccess/10871439/",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        6,
+        7,
+        9,
+        10
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Public sector employees taking part in two large trials between 2015 and 2019 worked 35-36 hours per week, with no reduction in pay.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "23f9f4fb66dd4fe2",
+      "url": "https://poulantzas.gr/en/yliko/four-day-workweek-results-of-the-pilot-trial-in-the-united-kingdom/",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        13,
+        14,
+        15
+      ],
+      "partial_positions": [
+        77
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It involved 61 companies and approximately 2,900 employees, running from June to December 2022 with the support of Autonomy, 4 Day Week Global, the UK's 4 Day Week Campaign, and specialized academic researchers. [...] research conducted by Autonomy and research teams from Boston College and the University of Cambridge.",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "f89fbb944287be18",
+      "url": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        34,
+        36
+      ],
+      "partial_positions": [
+        35,
+        77
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Este projeto-piloto, iniciado em junho de 2023, visa proporcionar uma experiência de seis meses na implementação da semana de quatro dias de trabalho, voluntária e reversível, sem contrapartida financeira do Estado, apenas com suporte técnico e administrativo por parte do Instituto do Emprego e Formação Profissional (IEFP).",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "715e8bd9441f24fb",
+      "url": "https://www.thelocal.de/20241106/what-are-the-results-of-germanys-four-day-work-week-trial",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        32,
+        33,
+        71
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Many of the participating organisations decided not to implement a four day working week, but reduced required working hours across the five day week instead.",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "34192d30d68044b3",
+      "url": "https://rr.pt/noticia/economia/2023/12/12/semana-de-quatro-dias-reduz-em-137-em-media-de-horas-de-trabalho-semanais/358908/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        37
+      ],
+      "partial_positions": [
+        79
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Na maioria das empresas (58,5%), os trabalhadores têm um dia livre por semana, tendo 41,5% das empresas optado por uma quinzena de nove dias, alternando uma semana de quatro dias com uma semana de cinco dias.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "e63d1c8487bddf65",
+      "url": "https://observador.pt/2022/02/15/belgica-aprova-semana-de-trabalho-de-quatro-dias-para-tornar-economia-mais-inovadora-sustentavel-e-digital/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        50
+      ],
+      "partial_positions": [
+        3,
+        80
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Os trabalhadores terão, no entanto, de **trabalhar as mesmas 38 horas semanais atuais,** com a diferença de estarem concentradas em quatro dias em vez de cinco.",
+      "key_excerpt_position": 50
+    },
+    {
+      "reference_id": "d6f1adf6f7917323",
+      "url": "https://www.brasildefato.com.br/2026/05/28/camara-aprova-fim-da-escala-6x1-e-reducao-da-jornada-para-40-horas/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        61,
+        62
+      ],
+      "partial_positions": [
+        83
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "No 1º turno, foram 472 votos a favor e 22 contra.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "de48be3624ddef10",
+      "url": "https://www.capradio.org/187667",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        67,
+        72,
+        73
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "020a9a44f9e68d3d",
+      "url": "https://www.fox29.com/news/microsoft-japan-tested-out-a-4-day-work-week-and-it-boosted-productivity-by-40-percent",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        2,
+        11
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a New Zealand company, Perpetual Guardian, decided to permanently adopt the four-day week last year after a trial yielded a noticeable boost in productivity as well as in job satisfaction among employees.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "318de4c26beb9353",
+      "url": "https://6abc.com/workweek-four-day-japan-companies-microsoft/5671025/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        12
+      ],
+      "partial_positions": [
+        79
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In addition to reducing working hours, managers urged staff to cut down on the time they spent in meetings and responding to emails. They suggested that meetings should last no longer than 30 minutes.",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "6bea16a9756cfb78",
+      "url": "https://san.com/cc/4-day-workweek-success-89-of-uk-companies-in-trial-continuing-policy/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        18,
+        19
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "According to a newly released report by the think tank Autonomy, of the 61 companies that participated, 89% of them have continued the four-day workweek policy and 51% have made it official, permanently switching the workweek from five days to four days.",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "54f1194db5373a94",
+      "url": "https://www.spektrum.de/news/reduzierte-vollzeitarbeit-funktioniert/2281141",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        26
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        78
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Fan und ihre Kollegen sprechen sich für weitere Studien aus, um die Befunde zu untermauern – am besten dann mit einer zufälligen Zuteilung von Betrieben zur Test- und zur Kontrollgruppe.",
+      "key_excerpt_position": 26
+    },
+    {
+      "reference_id": "8c563c61117205c1",
+      "url": "https://www.peoplematters.in/article/employee-relations/germanys-4-day-week-trial-offers-interesting-results-43132",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        29
+      ],
+      "partial_positions": [
+        31
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "with many gaining an average of 38 additional minutes of sleep each week",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "932c5218bd3d474b",
+      "url": "https://idw-online.de/de/news841503",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        28,
+        30
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Since the beginning of 2024, 45 organisations from various sectors in Germany have been taking part in a six-month pilot project by the Berlin consultancy Intraprenör and the organisation “4 Day Week Global” to trial the four-day week.",
+      "key_excerpt_position": 28
+    },
+    {
+      "reference_id": "1e3fc4af68fca353",
+      "url": "https://vermelho.org.br/?p=695282",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        39,
+        74
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Gomes alerta que as empresas participantes não são representativas do mercado português como um todo",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "f68a42543276430a",
+      "url": "https://www.infomoney.com.br/?p=2549905",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        41,
+        44
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Das 21 empresas que entraram no piloto da semana de 4 dias, envolvendo cerca de 290 colaboradores, apenas duas não finalizaram.",
+      "key_excerpt_position": 41
+    },
+    {
+      "reference_id": "4847115e1f0584b4",
+      "url": "https://www.meioemensagem.com.br/comunicacao/4-day-week-brazil",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        45,
+        47
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Entre os líderes que participaram do projeto, 84,6% acreditam que a semana de quatro dias trouxe benefícios para suas empresas.",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "0bb637f2bca76c5d",
+      "url": "https://napratica.org.br/noticias/como-funciona-a-semana-de-4-dias-no-brasil-e-quais-empresas-ja-adotaram-o-modelo",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        43,
+        46
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A iniciativa foi conduzida pela Reconnect Happiness at Work e contou com a FGV-EAESP na pesquisa e avaliação dos resultados. [...] o modelo foi testado durante seis meses em 2024 pelo projeto 4 Day Week Brazil em 19 empresas, localizadas em São Paulo, Rio de Janeiro, Minas Gerais e Rio Grande do Sul.",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "cb0e722618529209",
+      "url": "https://www.bloomberglinea.com.br/2022/02/19/belgas-podem-trabalhar-4-dias-por-semana-sem-perda-de-salario/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        51,
+        52
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "As empresas terão o direito de recusar solicitações de funcionários para uma semana de trabalho condensada desde que expliquem a recusa por escrito",
+      "key_excerpt_position": 51
+    },
+    {
+      "reference_id": "c7cb97d77384918b",
+      "url": "https://dc.fortune.com/article/tokyo-is-turning-to-a-4-day-workweek-in-a-desperate-attempt-to-help-japan-shed-its-unwanted-title-of-worlds-oldest-population",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        53,
+        76
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It is also adding a new “childcare partial leave” policy, which will allow some employees to work two fewer hours per day. The goal is to help employees who are parents balance childcare and work, said Tokyo Governor Yuriko Koike. [...] The new policies come as the birth rate in Japan hit a record low for the first half of the year.",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "91ccabebbbcfe7a8",
+      "url": "https://hrmasia.com/tokyo-proposes-four-day-workweek-to-boost-birth-rate/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        54
+      ],
+      "partial_positions": [
+        80
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "could opt for a truncated work week while maintaining the current requirement of 155 monthly working hours",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "f6f58c3617885401",
+      "url": "https://www.cartacapital.com.br/?p=543449",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55,
+        81
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Congresso dos Deputados rejeitou, nesta quarta-feira 10, a redução da jornada de trabalho semanal, um projeto-chave do governo de esquerda [...] A proposta, que visava a reduzir a duração legal da jornada de trabalho de 40 para 37,5 horas, foi descartada por 178 deputados, contra 170 que a apoiaram.",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "be754527b6103806",
+      "url": "https://diariodepernambuco.com.br/dpmais/oficial-governo-bateu-o-martelo-e-jornada-de-trabalho-de-13-horas-foi-confirmada-neste-pais/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        57,
+        82
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "aaff0eb2059833c5",
+      "url": "https://revistaforum.com.br/politica/escala-6x1-alcolumbre-votacao-pec/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        65
+      ],
+      "partial_positions": [
+        83
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "pautou para a próxima quarta-feira (14) a votação em primeiro turno da Proposta de Emenda à Constituição (PEC) que prevê o fim da escala de trabalho 6×1. [...] O governo do presidente Luiz Inácio Lula da Silva (PT) articula a quebra de prazos regimentais para concluir as duas votações necessárias antes do segundo turno das eleições presidenciais, marcado para 25 de outubro.",
+      "key_excerpt_position": 65
+    },
+    {
+      "reference_id": "529e3174276e770a",
+      "url": "https://uts.edu.au/news/2023/03/challenging-hype-4-day-work-week",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        68,
+        78
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Organisations in other sectors, with different occupational profiles, may find increased productivity through more intensive working difficult to emulate.",
+      "key_excerpt_position": 68
+    },
+    {
+      "reference_id": "dd655d3515df0635",
+      "url": "https://www.constangy.com/employment-labor-insider/u-k-study-on-four-day-workweek-merits-scrutiny",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        70
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "some closed all operations on Fridays; some divided their staffs' days off between Mondays and Fridays; some continued to work a five-day week, but only with four days' worth of work; and, some adjusted schedules so that the workload was spread over a year. (pp. 20-21)",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "d3cb4bbc6e5d4e20",
+      "url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41562-025-02259-6/MediaObjects/41562_2025_2259_MOESM2_ESM.pdf",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        27,
+        78
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "they should explicitly acknowledge that self-selection into the trial likely biases the results towards detecting an upper bound rather than the average true effect of a four-day workweek.",
+      "key_excerpt_position": 27
+    },
+    {
+      "reference_id": "394814d1fd1db3ec",
+      "url": "https://www.opovo.com.br/noticias/economia/2023/05/12/amp/brasil-tera-teste-de-semana-de-trabalho-com-quatro-dias-entenda.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        0
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O modelo usado é chamado 100-80-100: 100% do salário, 80% da jornada (quatro dias, em vez de cinco), e 100% da produtividade.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "cc77751b4498e634",
+      "url": "https://contadores.cnt.br/projetos/42/noticias/artigos/2024/10/07/semana-de-quatro-dias-no-brasil-pode-se-tornar-realidade.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        1
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A semana de quatro dias começou na Nova Zelândia, em 2019, e foi se expandindo para outros países de diferentes continentes, sob a gestão do movimento *4 Day Week Global*, que é uma comunidade sem fins lucrativos.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "e37da2f00b10b237",
+      "url": "https://www.wxyz.com/news/national/icelandic-trials-studying-shorter-workweeks-hailed-as-overwhelming-successes",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        8
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In the trials, Alda says productivity and \"service provision\" remained the same or improved across the majority of trial workplaces. ... The trials also remained revenue neutral for both the city council and the government",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "a84f78ac33005ea3",
+      "url": "https://www.research-live.com/article/news/uk-fourday-week-trial-results-in-reduced-staff-burnout/id/5109272",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        16
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The majority of employees taking part in the trial who responded to a survey from researchers ( 90%) reported that they 'definitely want to continue' on a four-day week.",
+      "key_excerpt_position": 16
+    },
+    {
+      "reference_id": "38eedbe1b6bffee3",
+      "url": "https://www.britishpoles.uk/?p=28451",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        17
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The researchers also reported a 65% reduction in sick days and a 57% reduction in the number of employees quitting their job for other companies.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "de2be0d743d242f1",
+      "url": "https://www.phillyvoice.com/four-day-work-week-wellbeing-performance-benefits/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        21
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The trial compared nearly 3,000 employees at 141 businesses and organizations who adopted a four-day work week with nearly 300 employees at 12 companies who stuck with a five-day schedule.",
+      "key_excerpt_position": 21
+    },
+    {
+      "reference_id": "e0cebd1797cfac60",
+      "url": "https://www.rtp.pt/noticias/economia/mais-de-80-das-empresas-que-testaram-semana-de-4-dias-decidiram-manter-modelo_n1581253",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        38
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O relatório do projeto-piloto recomenda que uma da forma de estimular a aplicação da semana de quatro dias poderá passar pela atribuição de incentivos fiscais às empresas ou isentá-las de algumas obrigações burocráticas.",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "b2139a2621921ffc",
+      "url": "https://www.insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-piloto-de-semana-de-trabalho-de-4-dias",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        40
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0e031506e5f9b1b5",
+      "url": "https://www.cartacapital.com.br/?p=444064",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        48
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Oito das 19 empresas brasileiras que participaram de testes sobre a semana de quatro dias de trabalho decidiram manter o modelo. É o que mostra um relatório da organização 4 Day Week, divulgado nesta quarta-feira pelo jornal O Globo. Os resultados recém-divulgados vêm após seis meses de avaliações. Outras sete empresas decidiram seguir com os testes. A ideia é ajustar questões pontuais, como saber o que será feito, por exemplo, em semanas de feriado.",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "2338945f55b32361",
+      "url": "https://www.portaltela.com/noticias/economia/2025/08/22/experimento-da-semana-de-quatro-dias-no-brasil-resultados-e-licoes-aprendidas/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        49
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Ela aponta que a cultura de trabalho no Brasil ainda é marcada por uma jornada 6×1 e que a crise econômica contribui para essa resistência.",
+      "key_excerpt_position": 49
+    },
+    {
+      "reference_id": "63e4b81abc9b6ab5",
+      "url": "https://www.cnnbrasil.com.br/internacional/governo-espanhol-enfrenta-divisao-sobre-reducao-da-jornada-semanal-de-trabalho/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        56
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Banco Central da Espanha e um ex-ministro da Economia alertaram que os custos trabalhistas mais altos poderiam alimentar a inflação e reduzir a criação de empregos.",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "4bfc963b9c710d7c",
+      "url": "https://en.apa.az/europe/greece-adopts-law-extending-working-hours-despite-protests-480903",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        58
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Greece already has among the longest working weeks in Europe at around 40 hours, EU data shows, against an average 34 hours worked in Germany or 32 in the Netherlands.",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "de61fc78ef7823b1",
+      "url": "https://www.migalhas.com.br/quentes/425383/erika-hilton-protocola-pec-para-acabar-com-a-escala-6x1",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        60
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O texto estabelece uma carga semanal de quatro dias de trabalho e três dias de descanso, eliminando a atual escala 6x1, seis dias de trabalho e um de descanso, e limitando a jornada semanal a 36 horas. Atualmente, a Constituição permite jornadas de até oito horas diárias e 44 horas semanais.",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "834a6cf6b786f49d",
+      "url": "https://jornalopcao.com.br/ultimas-noticias/proposta-de-erika-hilton-sobre-fim-da-jornada-6x1-repercute-e-ganha-apoio-popular-655522/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        59
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O movimento Vida Além do Trabalho surgiu quando Rick Azevedo, ex-balconista de farmácia, fez um desabafo nas redes sociais sobre as dificuldades de viver sob a escala 6×1.",
+      "key_excerpt_position": 59
+    },
+    {
+      "reference_id": "554aa4b684c84c2c",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        63
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Estudos sobre o fim da 6x1 divergem sobre os impactos para a inflação e o Produto Interno Bruto (PIB, soma de bens e serviços produzidos no país).",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "f93803f5a2f56b17",
+      "url": "https://www12.senado.leg.br/noticias/materias/2026/10/06/pec-que-acaba-com-escala-6x1-comeca-a-tramitar-no-plenario",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        64
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "No Plenário, a matéria precisa passar por cinco sessões de debates antes de ser votada em primeiro turno. Se aprovada, segue para o segundo turno, com outras três sessões de discussão antes da decisão final. [...] De acordo com o presidente do Senado, Davi Alcolumbre, a proposta pode beneficiar quase 40 milhões de brasileiros",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "769cf3ebca3ff648",
+      "url": "https://www.cnnbrasil.com.br/politica/senado-inicia-discussao-da-pec-do-fim-da-6x1-com-baixa-presenca-da-oposicao/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        66
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Para ser aprovada, a PEC precisa de 49 votos favoráveis em dois turnos.",
+      "key_excerpt_position": 66
+    },
+    {
+      "reference_id": "cdd1c3dabf06c3d4",
+      "url": "https://techtarget.com/searchhrsoftware/news/252525395/Four-day-workweek-productivity-claims-gather-criticism",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        69
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "\"Take it for what it is -- self-reports of companies saying this innovation is working,\" Schor said.",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "6a5d4be4a82f9698",
+      "url": "https://jornalcontabil.com.br/noticia/semana-de-4-dias-de-trabalho-brasil-tera-nova-rodada-de-testes/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "uma delas, localizada no Rio Grande do Sul, desistiu por conta das enchentes, e a outra interrompeu os testes após uma troca no comando.",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "2d50917472585227",
+      "url": "https://ihu.unisinos.br/646046-a-pec-que-pode-mudar-a-cena-brasileira-artigo-de-maria-julia-pereira-eduardo-rezende-pereira-e-mateus-oliveira-dos-santos",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        75
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Do contrário, o tempo de não trabalho (produtivo) das mulheres corre o risco de se transformar em tempo livre para o trabalho (reprodutivo).",
+      "key_excerpt_position": 75
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-3",
+      "position": 3,
+      "claim_excerpt": "Foi o que a Bélgica adotou em 2022, como se verá adiante.",
+      "cited_markers": "[27]",
+      "corroborating_markers": "[28] [17] [46] [26] [31] [14] [3] [1] [32] [22] [44] [7] [23]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-21",
+      "position": 21,
+      "claim_excerpt": "Uma diferença importante em relação aos relatórios anteriores é a existência de um grupo de comparação: cerca de 300 empregados de 12 empresas que mantiveram a semana de cinco dias.",
+      "cited_markers": "[12]",
+      "corroborating_markers": "[46] [25] [23] [22] [13] [18] [16] [15] [17] [7] [45]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-35",
+      "position": 35,
+      "claim_excerpt": "Participaram 41 empresas e mais de mil trabalhadores, e 95% das empresas avaliaram a experiência positivamente.",
+      "cited_markers": "[17]",
+      "corroborating_markers": "[18] [20] [19] [22] [46] [45] [23] [47] [7] [16] [3] [1] [36]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z-83",
+      "position": 83,
+      "claim_excerpt": "No Brasil, a mobilização que começou em torno da semana de quatro dias resultou em uma proposta mais moderada, o fim da escala 6x1 com jornada de 40 horas, que está a poucas votações de ser promulgad…",
+      "cited_markers": "[37] [40]",
+      "corroborating_markers": "[35] [38] [36] [3] [24] [48] [41] [22] [1]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 279391,
+  "cost_tracked": false,
+  "processing_time_seconds": 192797.457286
+}

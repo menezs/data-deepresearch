@@ -1,0 +1,448 @@
+2026-11-15 12:43:01,489 INFO     __main__: Iniciando run pix_brasil_ef6e79f227f4_20261115T164301Z para
+                                 answers/Ingles/Gemini/EmConsolidacao/pix_brasil.docx (ferramenta=Gemini)
+2026-11-15 12:43:06,107 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-15 12:43:06,107 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-15 12:43:08,449 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 12175.64it/s]
+2026-11-15 12:43:15,125 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-15 12:43:15,131 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-15 12:43:15,276 INFO     auditframework.extraction.reference_extractor: numero(s) [1] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.bcb.gov.br/estabilidadefinanceira/pix-em-numeros-estatisticas?ref=elmomento.io
+                                 ja esta listada como [5]
+2026-11-15 12:43:15,277 INFO     auditframework.extraction.reference_extractor: numero(s) [2] da lista secundaria de
+                                 fontes descartado(s): https://www.bcb.gov.br/detalhenoticia/21227/noticia ja esta
+                                 listada como [1]
+2026-11-15 12:43:15,278 INFO     auditframework.extraction.reference_extractor: numero(s) [3] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf
+                                 ja esta listada como [2]
+2026-11-15 12:43:15,279 INFO     auditframework.extraction.reference_extractor: numero(s) [4] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix
+                                 ja esta listada como [3]
+2026-11-15 12:43:15,280 INFO     auditframework.extraction.reference_extractor: numero(s) [5] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://fastpayments.worldbank.org/sites/default/files/2022-05/Brazil_Pix_Case_Study_May_2022_0.pdf
+                                 ja esta listada como [4]
+2026-11-15 12:43:15,281 INFO     auditframework.extraction.reference_extractor: numero(s) [6] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf
+                                 ja esta listada como [6]
+2026-11-15 12:43:15,282 INFO     auditframework.extraction.reference_extractor: numero(s) [7] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://sintrajud.org.br/conteudo/16435/bets-no-stf-proibicao-expoe-impacto-das-apostas-sobre-familias-e-provoca-reacao
+                                 ja esta listada como [7]
+2026-11-15 12:43:15,282 INFO     auditframework.extraction.reference_extractor: numero(s) [8] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.stf.jus.br/arquivo/cms/audienciasPublicas/anexo/AudinciaPblica42ImpactosdasapostasonlinebetsnoBrasil.pdf
+                                 ja esta listada como [10]
+2026-11-15 12:43:15,283 INFO     auditframework.extraction.reference_extractor: numero(s) [9] da lista secundaria de
+                                 fontes descartado(s): https://datarudder.com/med-pix/ ja esta listada como [11]
+2026-11-15 12:43:15,284 INFO     auditframework.extraction.reference_extractor: numero(s) [10] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://vigilant.com.br/cm-software-pix-banco-central-um-ano-depois/ ja esta listada
+                                 como [12]
+2026-11-15 12:43:15,285 INFO     auditframework.extraction.reference_extractor: numero(s) [11] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://obastidor.com.br/investigacao/novo-ataque-ao-sistema-financeiro/ ja esta
+                                 listada como [13]
+2026-11-15 12:43:15,286 INFO     auditframework.extraction.reference_extractor: numero(s) [12] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://exame.com/tecnologia/o-caminho-do-pix-ate-comunidades-ribeirinhas-da-amazonia/
+                                 ja esta listada como [14]
+2026-11-15 12:43:15,286 INFO     auditframework.extraction.reference_extractor: numero(s) [13] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://celcoin.com.br/articles/integracao-pix-open-finance-credito/ ja esta listada
+                                 como [15]
+2026-11-15 12:43:15,287 INFO     auditframework.extraction.reference_extractor: numero(s) [14] da lista secundaria de
+                                 fontes descartado(s): https://www.bcb.gov.br/detalhenoticia/21276/noticia ja esta
+                                 listada como [16]
+2026-11-15 12:43:15,288 INFO     auditframework.extraction.reference_extractor: numero(s) [15] da lista secundaria de
+                                 fontes descartado(s): https://www.bcb.gov.br/nor/relcidfin/cap01.html ja esta listada
+                                 como [17]
+2026-11-15 12:43:15,289 INFO     auditframework.extraction.reference_extractor: numero(s) [16] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Pix-Management-Report/pix_management_report_2023.pdf
+                                 ja esta listada como [18]
+2026-11-15 12:43:15,290 INFO     auditframework.extraction.reference_extractor: numero(s) [17] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf
+                                 ja esta listada como [19]
+2026-11-15 12:43:15,290 INFO     auditframework.extraction.reference_extractor: numero(s) [18] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.bcb.gov.br/estabilidadefinanceira/buscanormas?conteudo=PIX&tipoDocumento=Todos
+                                 ja esta listada como [20]
+2026-11-15 12:43:15,291 INFO     auditframework.extraction.reference_extractor: numero(s) [19] da lista secundaria de
+                                 fontes descartado(s): https://azify.com/blog/spi-dict-conta-pi-infraestrutura-pix ja
+                                 esta listada como [21]
+2026-11-15 12:43:15,292 INFO     auditframework.extraction.reference_extractor: numero(s) [20] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://jornalcontabil.com.br/noticia/caixa-tem-libera-transferencia-via-pix-do-auxilio-emergencial/
+                                 ja esta listada como [23]
+2026-11-15 12:43:15,293 INFO     auditframework.extraction.reference_extractor: numero(s) [21] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.ssarkisyan.com/publication/instantpayments/instant_payments.pdf ja esta
+                                 listada como [9]
+2026-11-15 12:43:15,294 INFO     auditframework.extraction.reference_extractor: numero(s) [22] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.caixa.gov.br/Downloads/caixa-governanca/Relatorio_Integrado_Caixa_2020.pdf
+                                 ja esta listada como [25]
+2026-11-15 12:43:15,294 INFO     auditframework.extraction.reference_extractor: numero(s) [23] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://bcb.gov.br/content/publications/report_fincit/Report%20on%20Financial%20Citizenship%20-%202021.pdf
+                                 ja esta listada como [24]
+2026-11-15 12:43:15,295 INFO     auditframework.extraction.reference_extractor: numero(s) [24] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://theshift.info/hot/relatorio-gestao-pix-2025-banco-central/ ja esta listada como
+                                 [26]
+2026-11-15 12:43:15,296 INFO     auditframework.extraction.reference_extractor: numero(s) [25] da lista secundaria de
+                                 fontes descartado(s): https://www.trio.com.br/resources/estatisticas-pix ja esta
+                                 listada como [22]
+2026-11-15 12:43:15,297 INFO     auditframework.extraction.reference_extractor: numero(s) [26] da lista secundaria de
+                                 fontes descartado(s): https://www.bcb.gov.br/detalhenoticia/21300/nota ja esta listada
+                                 como [27]
+2026-11-15 12:43:15,297 INFO     auditframework.extraction.reference_extractor: numero(s) [27] da lista secundaria de
+                                 fontes descartado(s): https://www.serasa.com.br/carteira-digital/blog/fim-doc/ ja esta
+                                 listada como [29]
+2026-11-15 12:43:15,298 INFO     auditframework.extraction.reference_extractor: numero(s) [28] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://blogs.correiobraziliense.com.br/vicente/devido-ao-pix-febraban-anuncia-fim-do-doc-em-29-de-fevereiro-de-2024/
+                                 ja esta listada como [30]
+2026-11-15 12:43:15,299 INFO     auditframework.extraction.reference_extractor: numero(s) [29] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://agenciabrasil.ebc.com.br/geral/noticia/2023-05/bancos-deixarao-de-operar-transferencias-por-doc-e-tec-ate-2024
+                                 ja esta listada como [31]
+2026-11-15 12:43:15,300 INFO     auditframework.extraction.reference_extractor: numero(s) [30] da lista secundaria de
+                                 fontes descartado(s): https://portal.febraban.org.br/noticia/3926/pt-br/ ja esta
+                                 listada como [32]
+2026-11-15 12:43:15,301 INFO     auditframework.extraction.reference_extractor: numero(s) [31] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.poder360.com.br/poder-tech/5-anos-de-pix-circulacao-de-dinheiro-diminui-e-bancarizacao-sobe/
+                                 ja esta listada como [33]
+2026-11-15 12:43:15,301 INFO     auditframework.extraction.reference_extractor: numero(s) [32] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://g1.globo.com/economia/noticia/2022/02/27/pix-e-fim-do-auxilio-emergencial-tiram-de-circulacao-r-45-bilhoes-em-cedulas-e-moedas-indica-bc.ghtml
+                                 ja esta listada como [34]
+2026-11-15 12:43:15,302 INFO     auditframework.extraction.reference_extractor: numero(s) [33] da lista secundaria de
+                                 fontes descartado(s): https://portal.febraban.org.br/noticia/4290/pt-br/ ja esta
+                                 listada como [35]
+2026-11-15 12:43:15,303 INFO     auditframework.extraction.reference_extractor: numero(s) [34] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://finsidersbrasil.com.br/pagamentos/pix-domina-pagamentos-no-2o-semestre-de-2025-ted-e-cartoes-tambem-avancam/
+                                 ja esta listada como [28]
+2026-11-15 12:43:15,304 INFO     auditframework.extraction.reference_extractor: numero(s) [35] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://agenciabrasil.ebc.com.br/en/economia/noticia/2026-07/imf-praises-brazils-most-popular-payment-method-pix
+                                 ja esta listada como [36]
+2026-11-15 12:43:15,305 INFO     auditframework.extraction.reference_extractor: numero(s) [36] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://crcma.org.br/noticias/pix-e-o-principal-meio-de-pagamento-adotado-pelos-pequenos-negocios
+                                 ja esta listada como [8]
+2026-11-15 12:43:15,306 INFO     auditframework.extraction.reference_extractor: numero(s) [37] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://am.agenciasebrae.com.br/inovacao-e-tecnologia/pix-e-a-principal-forma-de-pagamento-aos-pequenos-negocios-no-amazonas/
+                                 ja esta listada como [37]
+2026-11-15 12:43:15,306 INFO     auditframework.extraction.reference_extractor: numero(s) [38] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.estadao.com.br/politica/luiz-fux-supremo-tribunal-federal-determina-governo-adote-medidas-impedir-apostas-recursos-bolsa-familia-nprp/
+                                 ja esta listada como [38]
+2026-11-15 12:43:15,307 INFO     auditframework.extraction.reference_extractor: numero(s) [39] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://agenciabrasil.ebc.com.br/justica/noticia/2024-11/stf-confirma-decisao-que-proibiu-uso-de-beneficios-sociais-para-bets
+                                 ja esta listada como [42]
+2026-11-15 12:43:15,308 INFO     auditframework.extraction.reference_extractor: numero(s) [40] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.migalhas.com.br/quentes/419984/stf-confirma-decisao-de-fux-e-impede-uso-de-bolsa-familia-em-bets
+                                 ja esta listada como [40]
+2026-11-15 12:43:15,309 INFO     auditframework.extraction.reference_extractor: numero(s) [41] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.broadcast.com.br/ultimas-noticias/tcu-lares-que-recebem-bolsa-familia-gastaram-r-37-bilhoes-com-bets/
+                                 ja esta listada como [41]
+2026-11-15 12:43:15,310 INFO     auditframework.extraction.reference_extractor: numero(s) [42] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.gov.br/fundaj/pt-br/composicao/dipes-1/publicacoes/NotaTcnica39AnlisedoPoderdeCompraEquivalentePCE.pdf
+                                 ja esta listada como [39]
+2026-11-15 12:43:15,310 INFO     auditframework.extraction.reference_extractor: numero(s) [43] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://fpabramo.org.br/stf-suspende-todas-as-acoes-judiciais-contra-proibicao-de-bets-no-pais/
+                                 ja esta listada como [43]
+2026-11-15 12:43:15,311 INFO     auditframework.extraction.reference_extractor: numero(s) [44] da lista secundaria de
+                                 fontes descartado(s): https://www.mattosfilho.com.br/unico/bcb-novas-normas-pix/ ja
+                                 esta listada como [44]
+2026-11-15 12:43:15,312 INFO     auditframework.extraction.reference_extractor: numero(s) [45] da lista secundaria de
+                                 fontes descartado(s): https://www.youtube.com/watch?v=vw0asx5w9zw ja esta listada como
+                                 [46]
+2026-11-15 12:43:15,314 INFO     auditframework.extraction.reference_extractor: numero(s) [46] da lista secundaria de
+                                 fontes descartado(s): https://joaocoelho.adv.br/med-pix-2/ ja esta listada como [45]
+2026-11-15 12:43:15,315 INFO     auditframework.extraction.reference_extractor: numero(s) [47] da lista secundaria de
+                                 fontes descartado(s): https://www.demarest.com.br/forum-pix/ ja esta listada como [47]
+2026-11-15 12:43:15,315 INFO     auditframework.extraction.reference_extractor: numero(s) [48] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://swapofinance.com/pt-br/blog/med-2-pix-devolucao-golpe-obrigatorio/ ja esta
+                                 listada como [48]
+2026-11-15 12:43:15,316 INFO     auditframework.extraction.reference_extractor: numero(s) [49] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://supplymidia.com.br/blog/med-2-0-o-risco-de-devolver-um-pix-recebido-por-engano/
+                                 ja esta listada como [49]
+2026-11-15 12:43:15,317 INFO     auditframework.extraction.reference_extractor: numero(s) [50] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://jusdocs.com/blog/nova-regra-pix-med-2-0-sisbajud-teimosinha-prazos ja esta
+                                 listada como [50]
+2026-11-15 12:43:15,318 INFO     auditframework.extraction.reference_extractor: numero(s) [51] da lista secundaria de
+                                 fontes descartado(s): https://valid.com/futuroid/b2b-med-2-0-e-regras-antifraude-do-pix
+                                 ja esta listada como [51]
+2026-11-15 12:43:15,319 INFO     auditframework.extraction.reference_extractor: numero(s) [52] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.bcb.gov.br/meubc/faqs/p/o-que-e-e-como-funciona-o-mecanismo-especial-de-devolucao-med
+                                 ja esta listada como [52]
+2026-11-15 12:43:15,319 INFO     auditframework.extraction.reference_extractor: numero(s) [53] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://g1.globo.com/jornal-nacional/noticia/2025/07/04/funcionario-de-empresa-de-tecnologia-confessa-que-facilitou-ataque-hacker-a-sistema-que-integra-bancos-ao-pix-por-r-15-mil.ghtml
+                                 ja esta listada como [55]
+2026-11-15 12:43:15,320 INFO     auditframework.extraction.reference_extractor: numero(s) [54] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://agenciabrasil.ebc.com.br/economia/noticia/2025-07/bc-suspende-tres-instituicoes-do-pix-apos-ataque-cibernetico
+                                 ja esta listada como [53]
+2026-11-15 12:43:15,321 INFO     auditframework.extraction.reference_extractor: numero(s) [55] da lista secundaria de
+                                 fontes descartado(s): https://www.bcb.gov.br/detalhenoticia/20827/nota ja esta listada
+                                 como [56]
+2026-11-15 12:43:15,322 INFO     auditframework.extraction.reference_extractor: numero(s) [56] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://istoedinheiro.com.br/bc-limita-em-r-15-mil-valor-de-pix-e-ted-para-instituicoes-de-pagamento-nao-autorizadas
+                                 ja esta listada como [57]
+2026-11-15 12:43:15,323 INFO     auditframework.extraction.reference_extractor: numero(s) [57] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.mobiletime.com.br/noticias/05/09/2025/bc-limita-em-r-15-mil-pix-de-fintechs-com-conexao-indireta-ao-spi/
+                                 ja esta listada como [54]
+2026-11-15 12:43:15,323 INFO     auditframework.extraction.reference_extractor: numero(s) [58] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://okai.com.br/artigo/dispensa-temporaria-do-limite-de-r-15-mil-no-pix-e-na-ted-para-instituicoes-com-psti
+                                 ja esta listada como [58]
+2026-11-15 12:43:15,324 INFO     auditframework.extraction.reference_extractor: numero(s) [59] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.maps.com.br/atualizacoes-do-banco-central-pix-drex-e-open-finance-em-foco/
+                                 ja esta listada como [60]
+2026-11-15 12:43:15,325 INFO     auditframework.extraction.reference_extractor: numero(s) [60] da lista secundaria de
+                                 fontes descartado(s): https://www.bcb.gov.br/detalhenoticia/21278/noticia ja esta
+                                 listada como [61]
+2026-11-15 12:43:15,326 INFO     auditframework.extraction.reference_extractor: numero(s) [61] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://agenciabrasil.ebc.com.br/radioagencia-nacional/economia/audio/2026-06/banco-central-da-mais-um-passo-na-integracao-entre-pix-e-open-finance
+                                 ja esta listada como [62]
+2026-11-15 12:43:15,327 INFO     auditframework.extraction.reference_extractor: numero(s) [62] da lista secundaria de
+                                 fontes descartado(s): https://www.bcb.gov.br/detalhenoticia/21170/noticia ja esta
+                                 listada como [63]
+2026-11-15 12:43:15,327 INFO     auditframework.extraction.reference_extractor: numero(s) [63] da lista secundaria de
+                                 fontes descartado(s): https://www.pluggy.ai/blog/open-finance-2026-novidades ja esta
+                                 listada como [59]
+2026-11-15 12:43:15,328 INFO     auditframework.extraction.reference_extractor: numero(s) [64] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://silvalopes.adv.br/pix-parcelado-o-que-e-e-como-funciona-a-esta-nova-funcionalidade-do-pix/
+                                 ja esta listada como [64]
+2026-11-15 12:43:15,329 INFO     auditframework.extraction.reference_extractor: numero(s) [65] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.mercadopago.com.br/blog/drex-diferenca-real-digital-pix ja esta listada
+                                 como [65]
+2026-11-15 12:43:15,330 INFO     auditframework.extraction.reference_extractor: numero(s) [66] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://veja.abril.com.br/economia/emtenda-o-que-vai-mudar-no-drex-o-pix-2-0-do-bc/ ja
+                                 esta listada como [66]
+2026-11-15 12:43:15,331 INFO     auditframework.extraction.reference_extractor: numero(s) [67] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://g1.globo.com/economia/noticia/2026/10/01/pix-na-europa-conexao-pode-baratear-transferencias-e-reduzir-envio-a-segundos.ghtml
+                                 ja esta listada como [67]
+2026-11-15 12:43:15,335 INFO     auditframework.pipeline: Extraidas 67 referencias de
+                                 answers/Ingles/Gemini/EmConsolidacao/pix_brasil.docx (0 descartadas como artefato do
+                                 exportador)
+2026-11-15 12:43:15,346 INFO     auditframework.pipeline: Resposta dividida em 112 trechos citados
+2026-11-15 12:43:15,376 INFO     auditframework.terminal: ✓ extraction concluído em 0.2s
+2026-11-15 12:43:15,377 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-15 12:43:15,381 INFO     auditframework.ingestion.service: Ingestao: 67 referencias, 0 ja baixadas, 0 ja
+                                 bloqueadas, 67 pendentes
+2026-11-15 12:45:06,782 WARNING  auditframework.ingestion.service: Referencia
+                                 https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf
+                                 nao concluiu o download em 90s — marcada inacessivel
+2026-11-15 12:47:14,230 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 67/67 [03:58<00:00,
+                                 3.56s/ref]
+2026-11-15 12:47:14,234 INFO     auditframework.pipeline: Ingestao concluida: 66 documentos disponiveis
+2026-11-15 12:47:14,235 INFO     auditframework.terminal: ✓ ingestion concluído em 238.9s
+2026-11-15 12:47:14,236 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-15 12:47:18,087 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 66/66
+                                 [00:03<00:00, 17.17doc/s]
+2026-11-15 12:47:18,087 INFO     auditframework.indexing.service: Gerando embeddings para 1913 chunks de 66 documentos
+2026-11-15 12:48:31,332 INFO     auditframework.terminal: Batches: 100%|██████████| 120/120 [01:13<00:00,  1.64it/s]
+2026-11-15 12:48:31,523 INFO     auditframework.pipeline: Indice construido a partir de 66 documentos
+2026-11-15 12:48:31,527 INFO     auditframework.terminal: ✓ indexing concluído em 77.3s
+2026-11-15 12:48:31,528 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-15 12:48:31,554 INFO     auditframework.pipeline: Julgamento: 112 chunks, 0 ja julgados, 0 ja pulados, 112
+                                 pendentes
+2026-11-15 12:48:32,434 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-15 12:48:33,006 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/112 [00:00<?,
+                                 ?chunk/s]
+2026-11-15 12:48:33,114 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-15 12:48:33,223 INFO     auditframework.terminal: Loading weights:  30%|██▉       | 116/393 [00:00<00:00,
+                                 1078.58it/s]
+2026-11-15 12:48:33,321 INFO     auditframework.terminal: Loading weights:  58%|█████▊    | 229/393 [00:00<00:00,
+                                 1086.29it/s]
+2026-11-15 12:48:33,350 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 1144.53it/s]
+2026-11-15 12:48:46,984 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-4 nao
+                                 sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:48:46,988 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-5 nao
+                                 sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:48:46,990 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-6 nao
+                                 sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:28,918 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-45
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:42,127 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-57
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:42,129 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-58
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:42,566 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-64
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:42,568 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-65
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:42,569 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-66
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:44,597 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-68
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:44,599 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-69
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:44,601 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-70
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:44,603 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-71
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:49:44,604 WARNING  auditframework.indexing.retriever: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-72
+                                 nao sera auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo
+                                 indexado (nao baixada(s)/inacessivel(is)).
+2026-11-15 12:50:03,444 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 112/112 [01:31<00:00,
+                                 1.22chunk/s]
+2026-11-15 12:52:33,024 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-4 nao auditado:
+                                 Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-15 12:52:33,026 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-5 nao auditado:
+                                 Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-15 12:52:33,027 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-6 nao auditado:
+                                 Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-15 13:13:20,800 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-45 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:17:08,807 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-57 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:17:08,809 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-58 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:18:27,815 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-64 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:18:27,817 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-65 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:18:27,818 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-66 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:18:42,804 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-68 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:18:42,805 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-69 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:18:42,806 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-70 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:18:42,807 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-71 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:18:42,808 WARNING  auditframework.pipeline: Chunk pix_brasil_ef6e79f227f4_20261115T164301Z-72 nao
+                                 auditado: Referencia(s) citada(s) ['ce4ef0b8fb18629f'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-15 13:33:03,117 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 112/112 [42:59<00:00,
+                                 23.03s/chunk]
+2026-11-15 13:33:03,121 INFO     auditframework.terminal: ✓ judging concluído em 2671.6s
+2026-11-15 13:33:03,133 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-15 13:33:03,142 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/pix_brasil_ef6e79f227f4_20261115T164301Z/report.md
+2026-11-15 13:33:03,144 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-15 13:33:03,144 INFO     __main__: Run pix_brasil_ef6e79f227f4_20261115T164301Z concluida
+2026-11-15 13:33:03,145 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/pix_brasil_ef6e79f227f4_20261115T164301Z/report.md
+2026-11-17 22:33:04,514 INFO     auditframework.terminal: audit refetch pix_brasil_ef6e79f227f4_20261115T164301Z
+2026-11-17 22:33:04,522 INFO     auditframework.ingestion.service: Ingestao: 67 referencias, 66 ja baixadas, 0 ja
+                                 bloqueadas, 1 pendentes
+2026-11-17 22:33:36,237 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 1/1 [00:31<00:00,
+                                 31.68s/ref]
+2026-11-17 22:33:36,241 INFO     auditframework.terminal: pix_brasil_ef6e79f227f4_20261115T164301Z: 1 fonte(s) sem
+                                 conteudo, 1 recuperada(s)
+2026-11-17 22:33:36,241 INFO     auditframework.terminal:
+                                 https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf
+                                 — downloaded
+2026-11-17 22:33:36,373 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para
+                                 data/runs/pix_brasil_ef6e79f227f4_20261115T164301Z/invalidado-20261118T023336Z
+2026-11-17 22:33:36,373 INFO     auditframework.terminal: 14 trecho(s) citado(s) para julgar de novo (os demais mantem o
+                                 veredito)
+2026-11-17 22:33:36,373 INFO     auditframework.terminal: Rode: audit resume pix_brasil_ef6e79f227f4_20261115T164301Z
+2026-11-17 22:33:36,933 INFO     __main__: Retomando run pix_brasil_ef6e79f227f4_20261115T164301Z
+2026-11-17 22:33:44,998 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 22:33:44,998 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 22:33:47,171 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 12655.67it/s]
+2026-11-17 22:33:58,115 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-17 22:33:58,124 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-17 22:33:58,124 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-17 22:33:58,125 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-17 22:34:02,777 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 67/67
+                                 [00:04<00:00, 14.42doc/s]
+2026-11-17 22:34:02,777 INFO     auditframework.indexing.service: Gerando embeddings para 2284 chunks de 67 documentos
+2026-11-17 22:35:28,614 INFO     auditframework.terminal: Batches: 100%|██████████| 143/143 [01:25<00:00,  1.67it/s]
+2026-11-17 22:35:28,978 INFO     auditframework.pipeline: Indice construido a partir de 67 documentos
+2026-11-17 22:35:28,982 INFO     auditframework.terminal: ✓ indexing concluído em 93.3s
+2026-11-17 22:35:28,983 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-17 22:35:29,042 INFO     auditframework.pipeline: Julgamento: 112 chunks, 98 ja julgados, 0 ja pulados, 14
+                                 pendentes
+2026-11-17 22:35:30,133 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-17 22:35:30,704 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/14 [00:00<?,
+                                 ?chunk/s]
+2026-11-17 22:35:30,854 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-17 22:35:30,951 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 1949.81it/s]
+2026-11-17 22:37:43,911 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 14/14 [02:14<00:00,
+                                 9.63s/chunk]
+2026-11-17 22:49:59,354 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 14/14 [12:15<00:00,
+                                 52.53s/chunk]
+2026-11-17 22:49:59,357 INFO     auditframework.terminal: ✓ judging concluído em 893.3s
+2026-11-17 22:49:59,361 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 22:49:59,369 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/pix_brasil_ef6e79f227f4_20261115T164301Z/report.md
+2026-11-17 22:49:59,371 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 22:49:59,371 INFO     __main__: Run pix_brasil_ef6e79f227f4_20261115T164301Z concluida
+2026-11-17 22:49:59,372 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/pix_brasil_ef6e79f227f4_20261115T164301Z/report.md

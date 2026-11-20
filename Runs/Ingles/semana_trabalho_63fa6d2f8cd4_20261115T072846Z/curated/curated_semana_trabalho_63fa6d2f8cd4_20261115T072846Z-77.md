@@ -1,0 +1,37 @@
+[referencia=347745f0f102e0d3 score=0.001]
+| Order 5 | Resident managers of homes for the aged having less than eight beds | No daily overtime. Overtime required after more than 40 hours or more than six days in a workweek. In an emergency, employee may work over 40 hours or more than six days in a workweek and must be paid not less than one and one-half times employee's regular rate of pay for all such excess hours. No double time required. | 
+| Order 5 | Employees directly responsible for children under 18 receiving 24-hour residential care |  | 
+| Orders 5 and 9 | **Ambulance  drivers and attendants**  scheduled  for 24-hour shifts who have agreed in writing to exclude from daily time worked  not more than three meal periods of not more than one hour each and a regularly  scheduled uninterrupted sleeping period of up to eight hours. | No daily overtime required | 
+| Order 10 | Employees  of a  **ski establishment** during any month when Alpine or Nordic  skiing activities are being conducted |  | 
+| Order 12 | **Extra  Players** | One and one-half times the extra player's rate of pay for the ninth (9th) and tenth (10th) hours of work in a workday, and not less than double the extra player's rate of pay for all hours worked in excess of 10 in a workday, computed in units of one-tenth (1/10) hours. | 
+| Order 12 | **Minors** , except those who are 16 and 17 years old who  are not required by law to attend school | One and one-half times the minor's regular rate of pay for all hours worked on the (6th) consecutive workday. |
+
+---
+
+[referencia=347745f0f102e0d3 score=0.001]
+| **IWC Order** | **Affected Employees** | **Special  Overtime Rules Under the IWC Wage Orders** | 
+|---|---|---|
+| All Orders (Orders 14 and 15 do not have specific language, therefore Labor Code § 511 governs. See below for special rules in the healthcare industry.) | All employees subject to a validly adopted alternative workweek schedule |  | 
+| Orders 4 and 5 | Employees in the healthcare industry who are subject to a validly adopted alternative workweek schedule | No violation of the daily overtime provisions by an employer covered by Order 5 who institutes a validly adopted alternative workweek schedule that provides for workdays exceeding 10 hours but not more than 12 hours within a 40-hour workweek without the payment of overtime, provided that:  | 
+| Order 5 | Employees of a hospital or an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises | Employees working in accordance with a 14 consecutive day work period in lieu of a workweek of seven consecutive days must be paid one and one-half times their regular rate of pay for hours worked in excess of eight in a workday and 80 in the 14-day period. Such an arrangement must be pursuant to an agreement or understanding arrived at between the employer and employee. Double time is required after 12 in a workday (Labor Code § 510). | 
+| Order 5 | Camp counselors | No daily overtime. Weekly overtime required after 54 hours or more than six days in a workweek. In an emergency, employee may work over 54 hours or more than six days in a workweek and must be paid not less than one and one-half times employee's regular rate of pay for all such excess hours. No double time required. | 
+| Order 5 | Personal attendants employed by a non-profit organization | No daily overtime. Overtime required after 40 hours or more than six days in a workweek. In an emergency, employee may work over 40 hours or more than six days in a workweek and must be paid not less than one and one-half times employee's regular rate of pay for all such excess hours. No double time required. |
+
+---
+
+[referencia=347745f0f102e0d3 score=0.001]
+| Order 14 | **Sheepherders,  irrigators** in agricultural occupations during any week in which  more than half of the employee's working time is devoted to performing the  duties of an irrigator,**licensed crew members on commercial fishing vessels** | New overtime thresholds will be phased-in as described above until they reach 8 hours per day and 40 hours per week by 2022 (for employers of more than 25 employees) or by 2025 (for employers of 25 or fewer employees). | 
+| Order 15 | **Live-in**  employees | Live-in employees who are required or permitted to work (i) during the three scheduled off-duty hours that fall within the 12-hour span of work; or (ii) during the 12 consecutive off-duty hours in a workday, must be paid overtime at the rate of one and one-half the employee's regular rate of pay for all such hours worked. Live in employees who work in excess of five workdays in a workweek must be paid overtime at the rate of one and one-half times the employees regular rate of pay for hours worked up to and including nine hours on the sixth (6th) and seventh (7th) workdays, and two times the employee's regular rate of pay for all hours worked in excess of nine hours on the sixth (6th) and seventh (7th) workdays. *Note:*  These exceptions would have to be harmonized  with the Domestic Worker Bill of Rights. | 
+| Order 15 | **Non-Live-in  employees** who  are not otherwise exempt/excluded from the overtime provisions of Order 15  (Household Occupations | No overtime pay is required on the seventh (7th) consecutive day of work in a workweek when the total hours of employment during such workweek do not exceed 30 and the total hours of employment in any one workday thereof do not exceed six. | 
+
+February 2019
+
+---
+
+[referencia=347745f0f102e0d3 score=0.000]
+| Order 14 | **All  employees**  who  are not otherwise exempt/excluded from the overtime provisions of Order 14  (Agricultural Occupations) | Prior to commencement of the overtime phase-in beginning January 1, 2019 (for employers of more than 25 employees) or January 1, 2022 (for employers of 25 or fewer employees), one and one-half times the employee’s regular rate of pay for all hours worked over 10 in a workday and for the first eight hours worked on the seventh (7th) consecutive day of work in a workweek, and two times the employee's regular rate of pay for all hours worked over eight on the seventh (7th) consecutive day of work in a workweek. New daily and weekly overtime thresholds will be phased-in until agricultural workers reach 8 hours per day and 40 hours per week by 2022 (for employers of more than 25 employees) or by 2025 (for employers of 25 or fewer employees). The phase-in schedule for large employers (more than 25 employees) is as follows: beginning Jan. 1, 2019: 9.5 hours per day or 55 hours per week; beginning Jan. 1, 2020: 9 hours per day or 50 hours per week; beginning Jan. 1, 2021: 8.5 hours per day or 45 hours per week; beginning Jan. 1, 2022: 8 hours per day or 40 hours per week, as well as double time after 12 hours in a day. The schedule for small employers (25 or fewer employees) is as follows: beginning Jan. 1, 2022: 9.5. hours per day or 55 hours per week; beginning Jan. 1, 2023: 9 hours per day or 50 hours per week; beginning Jan. 1, 2024: 8.5 hours per day or 45 hours per week; beginning Jan. 1, 2025: 8 hours per day or 40 hours per week, as well as double time after 12 hours in a day. |
+
+---
+
+[referencia=347745f0f102e0d3 score=0.000]
+# Exceptions to the general overtime law

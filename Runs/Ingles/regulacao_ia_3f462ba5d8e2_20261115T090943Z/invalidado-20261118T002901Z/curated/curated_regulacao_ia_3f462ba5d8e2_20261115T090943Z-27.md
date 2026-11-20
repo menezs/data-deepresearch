@@ -1,0 +1,452 @@
+[referencia=19836916515bd208 score=0.281]
+###### **`PL 83/2026 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD` J U S T I F I C A Ç Ã O** **`Página 5 de 6`** 
+
+~~A evolução acelerada das tecnologias de inteligência artificial, especialmente~~ aquelas capazes de gerar ou manipular imagens, vídeos e áudios com elevado grau de verossimilhança, introduziu um risco sistêmico à democracia, à integridade do processo eleitoral, à honra das pessoas e ao direito fundamental à informação verdadeira. 
+
+O uso de conteúdos sintéticos não identificados — notadamente _deepfakes_ — já é reconhecido internacionalmente como instrumento de desinformação em massa, fraude política, intimidação institucional e corrosão da confiança pública. Diante desse cenário, democracias consolidadas vêm adotando **legislação específica para impor deveres de transparência e responsabilização às plataformas digitais** . 
+
+A **União Europeia** , por meio do **Artificial Intelligence Act (AI Act)** , estabeleceu a obrigatoriedade de identificação clara de conteúdos gerados ou manipulados por inteligência artificial, especialmente _deepfakes_ , como requisito mínimo de transparência, excetuando-se apenas usos estritamente artísticos ou evidentemente ficcionais. O regulamento europeu parte do pressuposto de que a liberdade de expressão não se confunde com o direito à manipulação enganosa da realidade. 
+
+No mesmo sentido, o **Conselho da Europa** , em relatórios sobre o impacto da inteligência artificial na liberdade de expressão, afirma que a ocultação da natureza sintética de conteúdos viola o direito do público à informação e compromete o debate democrático, recomendando aos Estados a adoção de mecanismos obrigatórios de rotulagem.
+
+---
+
+[referencia=19836916515bd208 score=0.025]
+§ 2º A tentativa é punível nos termos da legislação penal. 
+
+Art. 11. Os crimes previstos neste Capítulo, bem como outros crimes previstos na legislação penal comum praticados com uso relevante de conteúdos sintéticos, deepfakes ou inteligência artificial generativa, terão prioridade de apuração, processamento e julgamento, em razão de seu potencial de disseminação em massa e de abalo à confiança social nos meios digitais. 
+
+§ 1º A prioridade de que trata o caput não prejudica outros regimes legais de tramitação prioritária nem afasta a autonomia funcional do Ministério Público e do Poder Judiciário. 
+
+§ 2º A União, os Estados e o Distrito Federal deverão promover, no âmbito das polícias judiciárias, do Ministério Público e da perícia oficial, núcleos especializados para investigação e análise de crimes com uso de inteligência artificial e conteúdos sintéticos. 
+
+Art. 12. Será obrigatória a realização de perícia técnico-científica em mídia, sistemas e registros digitais sempre que houver indícios razoáveis de utilização de conteúdo sintético ou deepfake para a prática de crime, devendo o laudo pericial: 
+
+I – indicar, sempre que possível, as técnicas, modelos ou ferramentas utilizadas na geração do conteúdo; 
+
+II – apontar sinais de manipulação, inconsistências ou metadados relevantes à elucidação dos fatos; 
+
+
+
+<u>III – observar metodologias reconhecidas nacional e internacionalmente,</u> 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 
+
+> _________________________________________________________________________________________________________________________ `CONFERE COM O ORIGINAL AUTENTICADO` Praça dos Três Poderes - Anexo IV – Gabinete 611 - Câmara dos Deputados - CEP: 70.160-900 – Brasília/DF 
+
+> Contato: (61) 3215-5611 e-mail: PL 2338/2023 <u>dep.marcostavares@camara.leg.br</u>
+
+---
+
+[referencia=19836916515bd208 score=0.023]
+Esse cenário evidencia uma mudança qualitativa na criminalidade: a tecnologia deepfake deixa de ser recurso restrito a grupos sofisticados e passa a ser ofertada como serviço de baixo custo, com interfaces amigáveis, permitindo que fraudadores encomendem vídeos e áudios hiper-realistas com poucos segundos de amostras de voz ou imagem. Relatórios de organismos internacionais, como a Europol, alertam que a combinação entre inteligência artificial, deepfakes e crime organizado representa ameaça crescente à confiança social, à integridade de provas e à própria estabilidade institucional. 
+
+No Brasil, a doutrina jurídica vem reconhecendo a gravidade da tecnologia deepfake para os direitos de personalidade, sobretudo no que diz respeito à imagem, voz, honra, privacidade e à própria noção de identidade, incluindo situações de “ressurreição digital” de pessoas falecidas. 
+
+Entretanto, apesar da intensa produção acadêmica e da tramitação de projetos voltados à regulação de plataformas e da desinformação, ainda não há, no ordenamento brasileiro, um tratamento normativo integrado que: (i) proteja o consumidor frente a deepfakes comerciais; (ii) imponha deveres claros de transparência e segurança a plataformas e fornecedores; e (iii) crie tipos penais específicos e prioridade de persecução para crimes praticados com uso de inteligência artificial. 
+
+Propostas relevantes, ainda se mostram insuficientes para tutelar, de maneira objetiva, a relação de consumo e a responsabilidade civil e penal de quem utiliza conteúdos sintéticos em fraudes e comunicações comerciais. 
+
+Frequentemente, o consumidor enganado por vídeo, áudio ou avatar hiper-realista enfrenta ambiente probatório complexo, ausência de rotulagem adequada e dificuldades para identificar os responsáveis econômicos que financiaram, monetizaram ou se beneficiaram dos conteúdos.
+
+---
+
+[referencia=19836916515bd208 score=0.016]
+#### **JUSTIFICAÇÃO** 
+
+
+
+A aceleração recente das tecnologias de inteligência artificial generativa e de produção de representações sintéticas de identidade inaugurou um cenário em que rosto, voz, gestos e demais atributos corporais e expressivos de qualquer pessoa podem ser captados, manipulados e recombinados em larga escala, com baixo custo e alto grau de verossimilhança. Esse novo ambiente técnico amplia de forma exponencial os riscos à honra, à imagem, à reputação e à autodeterminação informativa dos ~~indivíduos, na medida em que possibilita a criação de conteúdos falsos ou~~ Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Para verificar a assinatura, acesse https://infoleg-autenticidade-assinatura.camara.leg.br/CD256304023100179 Assinado eletronicamente pelo(a) Dep. Jorge Solla 
+
+180 
+
+10 
+
+```
+PL 6479/2025 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 10 de 13
+```
+
+~~enganosos que aparentam registrar a atuação real de uma pessoa, inclusive~~ em contextos degradantes, discriminatórios ou criminosos. A experiência internacional e os casos já noticiados no Brasil, em especial aqueles envolvendo a difusão de montagens de natureza sexual, de desinformação política ou de fraude econômica, evidenciam que os instrumentos tradicionais de tutela da personalidade — ainda que relevantes, como o Código Civil, a legislação de direitos autorais, o Marco Civil da Internet e a Lei Geral de Proteção de Dados Pessoais — foram concebidos para um estágio tecnológico anterior e não oferecem, de modo sistemático, resposta adequada à lógica automatizada, massiva e algorítmica dessas novas práticas.
+
+---
+
+[referencia=19836916515bd208 score=0.014]
+II - deverá ser objeto de consulta não vinculante dos órgãos e das entidades integrantes do SIA. 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` Autenticado Eletronicamente, após conferência com o original. PL 2338/2023 
+
+137 
+
+138 
+
+```
+PL 6237/2025 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 7 de 13
+```
+
+<u>§ 3º  Os procedimentos de definição de novas hipóteses de alto risco</u> serão padronizados pela ANPD. § 4º  Na classificação de novas hipóteses de inteligência artificial de alto risco, as autoridades setoriais e a ANPD, na qualidade de regulador residual, deverão: I - indicar expressamente as suas consequências jurídicas e administrativas e as condições para que a regularização ocorra de modo proporcional e equânime, situação em que não poderão se impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos; 
+
+II - considerar os obstáculos e as dificuldades reais dos operadores de inteligência artificial e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos das pessoas e dos grupos afetados; e 
+
+III - prever regime de transição para que novas obrigações e deveres sejam cumpridos de forma proporcional, equânime e eficiente, sem prejuízo dos interesses das pessoas e dos grupos afetados por aplicações de inteligência artificial. 
+
+Art. 8º  As autoridades setoriais e a ANPD, na qualidade de regulador residual, no âmbito de suas competências, consideradas as orientações e normas gerais editadas pela ANPD e pelo CBIA, serão responsáveis por: 
+
+I - exercer competência regulatória, fiscalizatória e sancionatória, no âmbito de suas competências, para desenvolvimento, distribuição e aplicação de modelos e aplicações de inteligência artificial;
+
+---
+
+[referencia=19836916515bd208 score=0.014]
+O presente Projeto de Lei alinha o ordenamento jurídico brasileiro às **melhores práticas internacionais** , ao estabelecer a **obrigatoriedade de identificação clara e ostensiva de conteúdos sintéticos** , a **responsabilidade objetiva das plataformas digitais** e a repressão qualificada ao uso de _deepfakes_ com potencial de dano institucional. 
+
+Não se trata de inovação autoritária, mas de convergência regulatória. Democracias que falharam em reagir à desinformação digital pagaram alto preço institucional. Este projeto atua preventivamente, garantindo transparência, segurança jurídica e proteção do interesse público, sem restringir o pluralismo de ideias ou a liberdade de criação. 
+
+Diante da consolidação de um consenso internacional quanto aos riscos da inteligência artificial não regulada, a aprovação desta proposição é medida necessária, urgente e compatível com os compromissos democráticos assumidos pelo Brasil no cenário global. 
+
+Pelos motivos expostos, entende-se indispensável o apoio dos nobres Parlamentares à aprovação do presente Projeto de Lei. 
+
+Sala das Sessões, em  02 fevereiro de 2026. 
+
+###### **Pastor Henrique Vieira** 
+
+PSOL/RJ 
+
+
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Para verificar a assinatura, acesse https://infoleg-autenticidade-assinatura.camara.leg.br/CD261291148400205 Assinado eletronicamente pelo(a) Dep. Pastor Henrique Vieira 
+
+206
+
+---
+
+[referencia=19836916515bd208 score=0.014]
+181 
+
+11 
+
+```
+PL 6479/2025 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 11 de 13
+```
+
+~~fraudulenta, capaz de afetar sua credibilidade e induzir consumidores ao erro~~<sup>1</sup> ~~.~~ O caso evidencia como atributos da identidade pessoal digital podem ser capturados e reempregados economicamente de modo ilícito, demonstrando a urgência de um marco normativo que proteja indivíduos contra usos enganosos de sua própria identidade. 
+
+Outros países, além da União Europeia, já avançam na adoção de marcos regulatórios para mitigar os riscos postos pelas manipulações sintéticas de identidade. O _EU AI Act_ (em vigor desde 2024), por exemplo, impõe obrigações de transparência e rotulagem de conteúdos gerados ou manipulados por inteligência artificial, incluindo _deepfakes_ , buscando impedir a disseminação de mídias fraudulentas ou enganadoras<sup>2</sup> . Por sua vez, a Dinamarca propôs recentemente emenda à sua lei de direitos autorais para assegurar às pessoas o direito sobre seu próprio corpo, voz e feições — garantindo o controle sobre a utilização de sua “identidade digital” e autorizando medidas de remoção e responsabilização em casos de uso não autorizado de deepfakes<sup>3</sup> . Esses exemplos demonstram a maturação internacional de respostas normativas e confirmam a necessidade de uma regulamentação nacional específica, adaptada ao contexto brasileiro e capaz de proteger, com segurança jurídica, os direitos da personalidade no ambiente digital.
+
+---
+
+[referencia=19836916515bd208 score=0.011]
+XIII - determinar: 
+
+a) a reclassificação da aplicação de inteligência artificial, mediante notificação prévia; e 
+
+b) a realização de avaliação de impacto algorítmico, de forma fundamentada; 
+
+XIV - definir novas hipóteses de aplicação de alto risco; 
+
+XV - regulamentar a relação de casos de uso específicos considerados de alto risco; 
+
+XVI - receber registro auditável dos incidentes relevantes de segurança e das medidas adotadas; 
+
+XVII - regulamentar os critérios, os procedimentos e a periodicidade de atualização das avaliações de impacto algorítmico específicos ao setor regulado das aplicações de inteligência artificial de alto risco; 
+
+XVIII - designar modelos e aplicações de inteligência artificial de propósito geral disponibilizados no mercado como de relevância material; e 
+
+XIX - proporcionar acesso prioritário aos ambientes regulatórios experimentais a microempresas e pequenas empresas, _startups_ e instituições cien ~~tíficas, tecnológicas e de inovação, públicas e privadas.~~ Coordenação de Comissões Permanentes - DECOM - P_6599 
+
+```
+CONFERE COM O ORIGINAL AUTENTICADO
+```
+
+> Autenticado Eletronicamente, após conferência com o original. PL 2338/2023 
+
+139 
+
+140 **`PL 6237/2025 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD Página 9 de 13`** <u>Art. 9º Observadas as diretrizes do CBIA, caberá às autoridades</u> setoriais e à ANPD, na qualidade de regulador residual, definir as hipóteses em que as obrigações serão flexibilizadas ou dispensadas, na forma estabelecida em regulamento. Art. 10.  A ANPD e as autoridades setoriais poderão realizar investigações conjuntas sobre os modelos e as aplicações de inteligência artificial em casos de fundada suspeita de violação aos princípios, direitos e deveres previstos nesta Lei ou na legislação setorial aplicável.
+
+---
+
+[referencia=19836916515bd208 score=0.010]
+A **Organização para a Cooperação e Desenvolvimento Econômico (OCDE)** , por meio dos **Princípios sobre Inteligência Artificial** , estabelece que sistemas de IA devem operar sob os pilares da transparência, da responsabilidade e da governança democrática, impondo deveres proporcionais aos riscos que geram à sociedade. 
+
+A **Organização das Nações Unidas** , em documentos como o **Guidance on Artificial Intelligence and Human Rights** , reconhece que o uso não transparente de conteúdos sintéticos pode violar direitos humanos, afetar eleições livres e comprometer a autodeterminação informativa dos cidadãos, recomendando regulações nacionais que imponham identificação e rastreabilidade desses conteúdos. 
+
+
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Para verificar a assinatura, acesse https://infoleg-autenticidade-assinatura.camara.leg.br/CD261291148400204 Assinado eletronicamente pelo(a) Dep. Pastor Henrique Vieira 
+
+205 
+
+No Brasil, a Constituição Federal assegura simultaneamente a liberdade de **`PL 83/2026 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD Página 6 de 6`** expressão e o direito à informação (arts. 5º, IV, IX e XIV, e art. 220), não protegendo o abuso, a fraude ou a manipulação deliberada do debate público. A ausência de identificação de conteúdos gerados por IA compromete a formação livre da vontade política, afronta a soberania popular (art. 14) e fragiliza o Estado Democrático de Direito.
+
+---
+
+[referencia=19836916515bd208 score=0.009]
+138 Exposição de Motivos (SEI-Atos - Atualizada) 803 (7185808) 
+
+SEI 00333.001452/2025-11 / pg. 7 
+
+139 **`PL 6237/2025 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD Página 8 de 13`** inteligência artificial, para eliminar irregularidade, incerteza jurídica ou situação contenciosa no âmbito de processos administrativos, conforme o disposto no Decreto-Lei nº 4.657, de 4 de setembro de 1942; VII - zelar pela proteção de direitos fundamentais e demais direitos afetados por modelos e aplicações de inteligência artificial; VIII - promover ações de cooperação com autoridades de proteção e 
+
+VIII - promover ações de cooperação com autoridades de proteção e de fomento ao desenvolvimento e à utilização dos modelos aplicações de inteligência artificial de outros países e contribuir com organismos de natureza internacional, transnacional e multilateral, sob a coordenação do Ministério das Relações Exteriores, no âmbito de suas competências; 
+
+IX - receber e tratar denúncias anônimas, de modo a estabelecer mecanismos de reserva de identidade do denunciante; 
+
+X - realizar ou determinar a realização de auditorias de aplicações de inteligência artificial de alto risco ou que produzam efeitos jurídicos relevantes quando necessárias para a aferição de conformidade com o disposto nesta Lei, garantido o tratamento confidencial das informações, respeitados os segredos comercial e industrial; 
+
+XI - instaurar processo administrativo para avaliação do grau de risco de aplicação de inteligência artificial, mediante requerimento fundamentado, garantidos os princípios do contraditório e da ampla defesa, na forma estabelecida em regulamento; 
+
+XII - regulamentar regimes simplificados, com flexibilização de obrigações regulatórias; 
+
+XIII - determinar: 
+
+a) a reclassificação da aplicação de inteligência artificial, mediante notificação prévia; e
+
+---
+
+[referencia=19836916515bd208 score=0.006]
+###### **`PL 6326/2025 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD` JUSTIFICATIVA** **`Página 4 de 5`** 
+
+O avanço acelerado da inteligência artificial generativa tornou possível a criação de textos, imagens, vídeos e áudios com grau de realismo capaz de induzir a erro inclusive usuários experientes, fenômeno amplamente reconhecido por organismos internacionais como a Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) e a Organização para a Cooperação e Desenvolvimento Econômico (OCDE). Segundo relatórios oficiais da UNESCO sobre inteligência artificial e integridade da informação, os deepfakes representam risco crescente à democracia, à reputação individual, ao consumo responsável e à estabilidade institucional. 
+
+A União Europeia aprovou em 2024 o AI Act, primeiro marco regulatório abrangente do mundo para inteligência artificial, que impõe obrigações expressas de transparência e rotulagem de conteúdos sintéticos, especialmente deepfakes. Tal medida foi adotada após estudos técnicos indicarem a necessidade de proteger a sociedade contra a manipulação informacional em larga escala, fraudes digitais e interferências eleitorais. O Brasil, enquanto uma das maiores democracias digitais do mundo, não pode permanecer sem um marco legal específico e eficaz sobre o tema. 
+
+A Constituição Federal assegura, em seus arts. 5º, incisos IV, V, IX, XIV e XXXII, bem como no art. 220, a liberdade de expressão, o direito à informação verdadeira, a proteção do consumidor e a vedação à manipulação abusiva da comunicação social. A ausência de transparência na divulgação de conteúdos artificiais viola diretamente esses dispositivos ao permitir que cidadãos tomem decisões políticas, econômicas ou sociais com base em informações artificialmente simuladas e não identificadas como tal.
+
+---
+
+[referencia=19836916515bd208 score=0.005]
+VIII – agentes de inteligência artificial: desenvolvedores, distribuidores e aplicadores que atuem na cadeia de valor e na governança interna de sistemas de IA, nos termos definidos por regulamento; 
+
+IX – autoridade competente: entidade da administração pública federal, dotada de autonomia técnica e decisória, que coordenará o Sistema Nacional de Regulação e Governança de Inteligência Artificial (SIA); 
+
+X – Sistema Nacional de Regulação e Governança de Inteligência Artificial (SIA): ecossistema regulatório coordenado pela autoridade competente que tem por finalidade precípua promover e garantir a cooperação e a harmonização com as demais autoridades setoriais e entes reguladores, sem vínculo de subordinação hierárquica entre eles, e outros sistemas nacionais para a plena implementação e fiscalização do cumprimento desta Lei em todo o território nacional, com segurança jurídica; 
+
+XI – discriminação abusiva ou ilícita: qualquer distinção, exclusão, restrição ou preferência, em qualquer área da vida pública ou privada, cujo propósito ou efeito seja anular ou restringir, de forma abusiva ou ilícita, o reconhecimento, o gozo ou o exercício, em condições de igualdade, de um ou mais direitos ou liberdades previstos no ordenamento jurídico, em razão de características pessoais; 
+
+XII – discriminação indireta abusiva ou ilícita: discriminação que ocorre quando normativa, prática ou critério aparentemente neutro tem a capacidade de acarretar desvantagem para pessoa ou grupos afetados, ou os coloquem em desvantagem, desde que essa normativa, prática ou critério seja abusivo ou ilícito; 
+
+XIII – mineração de textos e dados: processo de extração e análise de grandes quantidades de dados, com alto grau de automação, realizado de forma direta nos dados primários, ou indireta por meio de outra ferramenta, a partir dos quais são extraídos padrões
+
+---
+
+[referencia=19836916515bd208 score=0.004]
+215 
+
+2 
+
+**`PL 704/2026 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD`** I – a prevenção, detecção e redução de práticas corruptas, **`Página 2 de 6`** fraudes e desvios de recursos; 
+
+II – a promoção da transparência, da integridade e da rastreabilidade de decisões automatizadas; 
+
+III – a redução de desigualdades sociais, regionais, econômicas, raciais e digitais; 
+
+IV – o fortalecimento da justiça social, da inclusão e do acesso equitativo a oportunidades; 
+
+V – a promoção do desenvolvimento econômico com responsabilidade social. 
+
+Art. 5º Sistemas de inteligência artificial destinados à análise de contratos, transações, concessão de crédito, compras públicas, cadeias produtivas ou fluxos financeiros deverão priorizar a identificação de: 
+
+I – padrões atípicos de comportamento; 
+
+II – indícios de fraude, sobrepreço ou favorecimento indevido; 
+
+III – conflitos de interesse; 
+
+IV – riscos à integridade institucional. 
+
+Parágrafo único. A utilização de inteligência artificial não exclui a responsabilidade humana, devendo sempre existir supervisão, auditoria e possibilidade de revisão. 
+
+Art. 6º A inteligência artificial deverá ser empregada de modo a: 
+
+I – ampliar o acesso a serviços essenciais; 
+
+II – reduzir assimetrias de informação e oportunidades; 
+
+III – evitar discriminação algorítmica direta ou indireta; 
+
+IV – apoiar políticas públicas e iniciativas privadas de impacto 
+
+social positivo. 
+
+
+
+
+
+<!-- Start of picture text -->
+Coordenação de Comissões Permanentes - DECOM - P_6599<br><!-- End of picture text -->
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023
+
+---
+
+[referencia=19836916515bd208 score=0.004]
+#### **JUSTIFICAÇÃO** 
+
+A inteligência artificial deixou de ser apenas uma inovação tecnológica para se tornar uma verdadeira infraestrutura de poder. Ela organiza mercados, influencia decisões públicas e privadas, define quem tem acesso a crédito, serviços, oportunidades e políticas públicas. Diante disso, entendo que 
+
+
+
+
+
+<!-- Start of picture text -->
+Coordenação de Comissões Permanentes - DECOM - P_6599<br><!-- End of picture text -->
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Para verificar a assinatura, acesse https://infoleg-autenticidade-assinatura.camara.leg.br/CD266045497800216 Assinado eletronicamente pelo(a) Dep. Duda Ramos 
+
+217 
+
+4 
+
+```
+PL 704/2026 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+```
+
+o Brasil não pode permitir que essa tecnologia se desenvolva de forma neutra **`Página 4 de 6`** ou dissociada dos grandes desafios nacionais. Se não houver um direcionamento claro, a inteligência artificial corre o risco de ampliar desigualdades históricas e criar novas formas, mais sofisticadas e invisíveis, de corrupção e exclusão social. 
+
+No cenário internacional, esse debate já está colocado. Organismos multilaterais, como a OCDE, reconhecem que a inteligência artificial precisa estar a serviço do crescimento inclusivo, da justiça social e do fortalecimento das instituições democráticas. Não se trata de travar a inovação, mas de dar sentido público a ela. O Brasil precisa fazer essa escolha agora, antes que modelos importados, desenhados para realidades completamente diferentes da nossa, passem a moldar decisões que afetam diretamente a vida do nosso povo.
+
+---
+
+[referencia=19836916515bd208 score=0.004]
+#### **JUSTIFICAÇÃO** 
+
+A inteligência artificial já não é mais uma promessa distante: ela está entre nós, influenciando o modo como consumimos, trabalhamos, nos comunicamos e até como votamos. Trata-se de uma tecnologia poderosa, capaz de gerar enormes ganhos de produtividade e inovação, mas que também carrega um lado sombrio. Esse outro lado da IA pode ameaçar empregos, aprofundar desigualdades, reforçar preconceitos e até colocar em risco a própria democracia. 
+
+Não faltam exemplos. Em vários países, o uso de reconhecimento facial já mostrou vieses contra populações negras e periféricas. Relatório da Sensity AI (2024) revelou que mais de 95% dos deepfakes produzidos hoje têm caráter pornográfico e vitimam principalmente 
+
+
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+16 
+
+Para verificar a assinatura, acesse https://infoleg-autenticidade-assinatura.camara.leg.br/CD250687267200106 Assinado eletronicamente pelo(a) Dep. Romero Rodrigues 
+
+107 
+
+mulheres **`PL 4358/2025 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD`**<sup>1</sup> . A Organização Internacional do Trabalho alerta que cerca de 30% **`Página 17 de 19`** dos empregos administrativos estão sob risco de automação<sup>2</sup> . E, no Brasil, o Ipea estima que até 60% das ocupações poderão ser impactadas pela inteligência artificial em algum grau<sup>3</sup> . Estamos, portanto, diante de um cenário que exige ação responsável e preventiva do Estado.
+
+---
+
+[referencia=19836916515bd208 score=0.003]
+- VIII – confiabilidade e robustez do sistema de IA; 
+
+IX – proteção dos direitos e garantias fundamentais, incluindo o devido processo legal, a contestabilidade e o contraditório; 
+
+   - X – prestação de contas, responsabilização e reparação integral de danos; 
+
+   - XI – prevenção, precaução e mitigação de riscos e danos; 
+
+- XII – não maleficência e proporcionalidade entre os métodos empregados e as 
+
+- finalidades determinadas e legítimas do sistema de IA; 
+
+   - XIII – desenvolvimento e uso ético e responsável da IA; 
+
+XIV – governança transparente, participativa e orientada à proteção de direitos fundamentais individuais, sociais, coletivos e econômicos; 
+
+- XV – promoção da interoperabilidade de sistemas de IA para permitir acesso 
+
+- mais amplo e inovação colaborativa; 
+
+XVI – possibilidade e condição de utilização de sistemas e tecnologias com segurança e autonomia por pessoas com deficiência, garantida a plena acessibilidade à informação e à comunicação; 
+
+XVII – proteção integral das crianças e dos adolescentes. 
+
+**Art. 4º** Para os fins desta Lei, adotam-se as seguintes definições: 
+
+I – sistema de inteligência artificial (IA): sistema baseado em máquina que, com graus diferentes de autonomia e para objetivos explícitos ou implícitos, infere, a partir de um conjunto de dados ou informações que recebe, como gerar resultados, em especial previsão, conteúdo, recomendação ou decisão que possa influenciar o ambiente virtual, físico ou real; 
+
+II – ciclo de vida: série de fases, desde a concepção, planejamento, desenvolvimento, treinamento, retreinamento, testagem, validação, implantação e monitoramento, para eventuais modificações e adaptações de um sistema de IA, cuja descontinuidade pode ocorrer em quaisquer das etapas referidas; 
+
+III – sistema de inteligência artificial de propósito geral (SIAPG): sistema de IA baseado em modelo de IA treinado com bases de dados em grande escala, capaz de realizar
+
+---
+
+[referencia=19836916515bd208 score=0.003]
+II – considerar os obstáculos e as dificuldades reais dos agentes de IA e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos das pessoas e dos grupos afetados; 
+
+III – prever regime de transição para que novas obrigações e deveres sejam cumpridos de forma proporcional, equânime e eficiente e sem prejuízo dos interesses das pessoas e dos grupos afetados por sistemas de IA. 
+
+§ 6º O procedimento referido no **caput** deste artigo deverá oportunizar a manifestação dos setores econômicos produtivos afetados. 
+
+##### CAPÍTULO IV 
+
+DA GOVERNANÇA DOS SISTEMAS DE INTELIGÊNCIA ARTIFICIAL 
+
+##### **Seção I Disposições Gerais** 
+
+**Art. 17.** Os agentes de IA deverão garantir a segurança dos sistemas e o atendimento dos direitos de pessoas ou grupos afetados, nos termos de regulamento. 
+
+##### **Seção II**
+
+---
+
+[referencia=19836916515bd208 score=0.003]
+Por outro lado, temos a inovação como um grande desafio. Em 2022, apenas 16,9% das indústrias brasileiras com 100 ou mais empregados utilizavam IA, principalmente em administração e desenvolvimento de produtos<sup>4</sup> . Ainda que as tecnologias gerem complementariedades e não apenas substituições no mercado de trabalho<sup>5</sup> , é preciso olhar para uma política pública de adoção desse novo tipo de automação com muito cuidado. 
+
+É nesse contexto que apresentamos este Projeto de Lei. Ele não é uma tentativa de frear a inovação. Ao contrário: busca criar regras claras, equilibradas e modernas para que a inteligência artificial possa florescer no país sem atropelar direitos fundamentais. 
+
+Inspirados em projetos de lei já em tramitação, como o PL 2338, de 2023, a proposta define princípios básicos — como a centralidade da pessoa humana, a não discriminação, a transparência e a soberania tecnológica. Reconhece direitos dos cidadãos, entre eles a explicação e a revisão de decisões automatizadas de alto impacto. Estabelece deveres para os agentes que desenvolvem, distribuem ou aplicam sistemas de IA, impondo testes de robustez, prevenção de vieses e canais de contestação. 
+
+O texto também traz medidas concretas de governança, como a exigência de avaliações de impacto algorítmico, a criação de painéis de transparência no setor público e a obrigatoriedade de supervisão humana em decisões críticas. Prevê ainda restrições claras: estão proibidos os usos considerados inaceitáveis, como manipulação de votos, pornografia não 
+
+> 1 https://en.wikipedia.org/wiki/Generative_AI_pornography. Acessado em 28/08/25.
+
+---
+
+[referencia=19836916515bd208 score=0.003]
+###### **JUSTIFICAÇÃO** 
+
+A proposta de criação do Art. 19-A no Marco Civil da Internet (Lei nº 12.965/2014) decorre da necessidade de dotar o ordenamento jurídico brasileiro de instrumentos concretos para garantir a efetividade do princípio da Não-Discriminação Algorítmica, recentemente incorporado ao MCI. Embora o princípio represente um avanço significativo, sua aplicação prática depende de mecanismos objetivos de controle, transparência e responsabilização que permitam avaliar, com rigor técnico, o comportamento de sistemas de Inteligência Artificial (IA), especialmente aqueles classificados como de alto risco. 
+
+A crescente adoção de tecnologias de IA em serviços públicos essenciais — saúde, educação, segurança pública, assistência social, concessão de benefícios, gestão administrativa — e em setores privados de grande impacto coletivo — crédito, seguros, recursos humanos, mobilidade urbana, grandes plataformas digitais — faz com que decisões automatizadas influenciem direitos fundamentais de milhões de brasileiros. Nesses ambientes, erros ou vieses algorítmicos não são meras falhas técnicas: representam potenciais violações ao princípio da igualdade, à dignidade da pessoa humana e ao acesso universal a serviços essenciais garantidos constitucionalmente. 
+
+A literatura especializada e diversos relatórios internacionais evidenciam que sistemas de IA treinados com dados reais tendem a reproduzir padrões históricos de discriminação racial, social, regional e de gênero. No Brasil, onde desigualdades sociais estruturais são profundas e persistentes, esse risco é ainda maior. Modelos utilizados sem supervisão adequada podem reforçar estigmas, negar oportunidades e criar barreiras ainda maiores para grupos já vulnerabilizados. Exemplos documentados 
+
+___________________________________________________________________________
+
+---
+
+[referencia=19836916515bd208 score=0.003]
+Já se registram, no Brasil e no mundo, casos de manipulações digitais para extorsão, difamação, criação de conteúdos íntimos falsos, fraudes financeiras, golpes e campanhas de desinformação política. 
+
+A ausência de transparência nesse campo gera um cenário perigoso: **o cidadão passa a desconfiar de tudo, inclusive daquilo que é verdadeiro** , corroendo o tecido social e a credibilidade institucional. 
+
+Este Projeto de Lei não busca frear a inovação. Ao contrário: **protege-a** , criando um ambiente ético, seguro e transparente para seu uso. 
+
+A Inteligência Artificial é instrumento de progresso — mas não pode se tornar arma de destruição moral. 
+
+A obrigatoriedade de identificação clara de conteúdos sintéticos permitirá: 
+
+- ✔ informação consciente ao público; 
+
+- ✔ redução de fraudes; 
+
+- ✔ prevenção de crimes contra a honra; 
+
+
+
+- ~~✔ fortalecimento da democracia;~~ 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 
+
+```
+CONFERE COM O ORIGINAL AUTENTICADO
+```
+
+PL 2338/2023 
+
+Para verificar a assinatura, acesse https://infoleg-autenticidade-assinatura.camara.leg.br/CD264100833900211 Assinado eletronicamente pelo(a) Dep. Pastor Sargento Isidório 
+
+212

@@ -1,0 +1,40 @@
+[referencia=969ba16244bf9161 score=0.964]
+A lei n. 581, de 4 de setembro de 1850, conhecida como Lei Eusébio de Queirós, estabeleceu medidas para a repressão do tráfico de africanos no Império. Sua promulgação é relacionada, sobretudo, às pressões britânicas sobre o governo brasileiro para a extinção da escravidão no país.
+
+Em 1807, o comércio de escravizados foi proibido pelo governo inglês, que, a partir daí, começou uma campanha pela abolição do tráfico internacional, reunindo vários setores sociais do Império Britânico. Esse movimento teve reflexos já nos primeiros tratados entre a Inglaterra e o governo português, no contexto da transferência da corte lusitana para o Brasil, em 1807. Posteriormente, em 1815 e 1817, foram assinados dois acordos entre Jorge IV, rei da Inglaterra, e d. João VI, que tratavam da proibição do tráfico de escravizados ao norte do Equador e da instituição de comissões mistas com o objetivo de julgar as apreensões e libertar os africanos encontrados nos navios apreendidos (MAMIGONIAN, 2009).
+
+Em 1822, o Brasil tornou-se independente e os acordos perderam a validade, já que haviam sido assinados entre os governos britânico e português. Entretanto, uma das exigências da Inglaterra para o reconhecimento da independência brasileira foi a proibição da importação de escravizados no Brasil. Assinado em 1826, o tratado proibiu o tráfico e manteve as comissões mistas, sendo ratificado em 13 de março de 1827, e estabeleceu um prazo de três anos para as determinações entrarem em vigor (MAMIGONIAN, 2009, p. 215-223).
+
+---
+
+[referencia=969ba16244bf9161 score=0.782]
+Em 7 de novembro de 1831, foi promulgada no Brasil a lei que, após ser regulamentada pelo decreto de 12 de abril de 1832, deu amplos poderes às autoridades judiciais para reprimirem a entrada de africanos e declarou livre todos os escravizados que entrassem no território brasileiro. Porém, o tráfico não cessou, pelo contrário, acabou crescendo, por conta da baixa do preço dos escravizados na África e pela demanda da grande lavoura cafeeira, aliados à falta de uma repressão efetiva por parte das autoridades. Desse modo, a lei de 1831 foi comumente conhecida como “lei para inglês ver” (CONRAD, 1985).
+
+A falta de uma ação efetiva para combater o tráfico de africanos e a recusa do governo brasileiro em assinar um novo acordo com os termos exigidos pelos ingleses acabaram por estimular os britânicos a tomarem medidas radicais em relação ao comércio ilegal de pessoas. Em 8 de agosto de 1845, a Inglaterra instituiu a Bill Aberdeen, lei que deu amplos poderes às autoridades britânicas para reprimir o tráfico de escravizados em navios brasileiros através da apreensão de embarcações e do julgamento da tripulação, que seria acusada de pirataria. Essa medida colocou em xeque o governo brasileiro, que, mesmo alegando que a atitude britânica feria a soberania nacional, promulgou em 1850 a Lei Eusébio de Queirós.
+
+---
+
+[referencia=969ba16244bf9161 score=0.494]
+De acordo com a legislação, as embarcações de bandeira brasileira localizadas em qualquer parte, ou as estrangeiras encontradas em portos ou mares territoriais do Brasil, que tivessem escravizados a bordo, seriam apreendidas pelas autoridades imperiais e consideradas importadoras de escravizados. A partir desse momento, a importação de escravizados passava a ser tratada como pirataria. A lei determinou a punição das pessoas envolvidas nesse crime e estabeleceu que os escravizados apreendidos deveriam ser reexportados para os terminais de origem ou para qualquer outro ponto fora do Império. Nos casos onde não fosse possível a reexportação, os africanos seriam empregados em trabalho sob a tutela do governo, não sendo em nenhum caso os seus serviços concedidos a particulares.
+
+Com a extinção do tráfico, a solução encontrada para o problema da mão-de-obra foi o comércio interprovincial, que abastecia o sudeste produtor de café, num momento em que as tradicionais lavouras nordestinas encontravam-se em crise. Além disso, o governo passou a estimular a vinda de imigrantes europeus para trabalhar nas plantações, ao mesmo tempo em que reorganizou a política de acesso à terra, com a chamada Lei de Terras, de 1850. Mas a extinção da escravidão no Brasil, apesar de continuar sofrendo críticas e oposições, ainda seria postergada através de medidas graduais de manumissão, como a Lei do Ventre Livre (1871) e a Lei dos Sexagenários, até a promulgação da Lei Áurea, em 1888.
+
+ **Louise Gabler**11 maio 2015
+
+
+Bibliografia
+
+BRASIL. Lei n. 581, de 4 de setembro de 1850. Estabelece medidas para a repressão do tráfico de africanos neste Império. *Coleção das leis do Império do Brasil*, Rio de Janeiro, p. 267, v. 1, parte 1, 1850.
+
+---
+
+[referencia=969ba16244bf9161 score=0.009]
+CONRAD, Robert. *Os últimos anos da escravatura no Brasil, 1850-1888*. Rio de Janeiro: Civilização Brasileira, 1975.
+
+____. *Tumbeiros*: o tráfico escravista para o Brasil. São Paulo: Brasiliense, 1985.
+
+MAMIGONIAN, Beatriz Gallotti. A proibição do tráfico atlântico e a manutenção da escravidão. In GRINBERG, Keila; SALLES, Ricardo (orgs.). *O Brasil Imperial*, v. I. Rio de Janeiro: Civilização Brasileira, 2009.
+
+ **Referência da imagem**Maria Dundas Graham Callcott. 
+
+*Journal of a voyage to Brazil and residence there during part of the 1821*, 1822, 1823. London: Longman Group Limited, 1824. OR_0595

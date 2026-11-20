@@ -1,0 +1,1069 @@
+{
+  "run_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+  "answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+  "tool_name": "Gemini",
+  "answer_path": "answers/Gemini/Consolidado/vacinacao_hpv.docx",
+  "generated_at": "2026-11-04T06:00:14.839502Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".docx",
+    "size_bytes": 28321,
+    "page_count": null,
+    "pdf_title": "Word Document",
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": "2026-10-25 15:45:17+00:00",
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 67,
+    "citation_markers_distinct": 23,
+    "references_listed": 36,
+    "references_never_cited": 13,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 67,
+  "pct_supported": 35.82089552238806,
+  "pct_unsupported": 41.7910447761194,
+  "pct_contradicted": 0.0,
+  "count_supported": 24,
+  "count_unsupported": 28,
+  "count_contradicted": 0,
+  "count_skipped": 15,
+  "count_audited": 52,
+  "pct_supported_audited": 46.15384615384615,
+  "pct_unsupported_audited": 53.84615384615385,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 12,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 4,
+    "ref_bloqueada": 11
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 7,
+  "count_reclassified_by_verification": 2,
+  "verification_stage_counts": {
+    "context_expansion": 2
+  },
+  "mis_cited_reference_count": 11,
+  "uncredited_reference_count": 1,
+  "dead_references": [
+    {
+      "id": "8b883383264ea1b9",
+      "citation_markers": [
+        "[6]"
+      ],
+      "raw_url": "https://www.inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22setembro2022.pdf",
+      "normalized_url": "https://inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22setembro2022.pdf",
+      "work_key": "https://inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22setembro2022.pdf",
+      "title": "DADOS E NÚMEROS SOBRE CÂNCER DO COLO DO ÚTERO,",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-11-04T03:00:31.442507Z",
+      "error_message": "Referencia nao encontrada (404): https://www.inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22setembro2022.pdf",
+      "barrier_kind": null,
+      "source_answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "4ea2c404dfeca66b",
+      "citation_markers": [
+        "[7]"
+      ],
+      "raw_url": "https://www.inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22marco2023.pdf",
+      "normalized_url": "https://inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22marco2023.pdf",
+      "work_key": "https://inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22marco2023.pdf",
+      "title": "DADOS E NÚMEROS SOBRE CÂNCER DO COLO DO ÚTERO,",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-11-04T03:00:31.439651Z",
+      "error_message": "Referencia nao encontrada (404): https://www.inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22marco2023.pdf",
+      "barrier_kind": null,
+      "source_answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "9b4bc77246220ea2",
+      "citation_markers": [
+        "[17]"
+      ],
+      "raw_url": "https://www.bmj.com/content/375/bmj.n2689",
+      "normalized_url": "https://bmj.com/content/375/bmj.n2689",
+      "work_key": "https://bmj.com/content/375/bmj.n2689",
+      "title": "HPV vaccine cut cervical cancer rates in England by 87% - The BMJ,",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:00:34.248268Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-8",
+      "reason": "Referencia(s) citada(s) ['8b883383264ea1b9'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-10",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-11",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-12",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-13",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-14",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-25",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-26",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-27",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-28",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-29",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-41",
+      "reason": "Referencia(s) citada(s) ['66f6d6c55caf05cc'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-56",
+      "reason": "Referencia(s) citada(s) ['4ea2c404dfeca66b'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-57",
+      "reason": "Referencia(s) citada(s) ['8b883383264ea1b9'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-58",
+      "reason": "Referencia(s) citada(s) ['4ea2c404dfeca66b'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "66f6d6c55caf05cc",
+      "url": "https://iris.who.int/bitstreams/d63ca5e2-a966-41a8-9fc2-c4e2ff4efc14/download",
+      "times_cited": 11,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        25,
+        26,
+        27,
+        28,
+        29,
+        41
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f4a3d78ffd526476",
+      "url": "https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer",
+      "times_cited": 9,
+      "supported_count": 1,
+      "unsupported_count": 8,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        1
+      ],
+      "partial_positions": [
+        16,
+        17,
+        31,
+        32
+      ],
+      "absent_positions": [
+        15,
+        18,
+        19,
+        30
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It's estimated that there were more than 660,000 new cases of cervical cancer and around 350,000 deaths globally in 2022.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "46be73ec77b9e337",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12411824/",
+      "times_cited": 7,
+      "supported_count": 6,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        2,
+        3,
+        24,
+        61,
+        62,
+        63
+      ],
+      "partial_positions": [
+        64
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The burden of this disease is particularly pronounced in low‐ and middle‐income countries (LMICs), where both incidence and mortality rates are significantly higher than the global average: 17.8 new cases per 100 000 women and 11.5 deaths per 100 000 women, compared to global averages of 13.3 cases and 7.3 deaths per 100 000 women, respectively. [...] socioeconomic inequalities.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "0e11515b7f3f699b",
+      "url": "https://observatoriodeoncologia.com.br/indicadores/2024/indicadores-de-colo-do-utero/",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        9,
+        21,
+        22,
+        23
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "As regiões com mais centros de tratamento em 2022 foram Sudeste (48%), Sul (24%) e Nordeste (18%) e as que mais aumentaram a quantidade de centros foram Sudeste com 20 novos centros e Nordeste com 13.",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "4d62326941b56f05",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42309117/",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        37,
+        38,
+        39,
+        40
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Cervical cancer mortality trends following HPV vaccination in England, 2001-24: an analysis of population-based mortality data. Sasieni P(1), Falcaro M(2). [...] In women aged 20-24 years between 2020 and 2024, in whom vaccination coverage was around 88-90% at age 12-13 years, no deaths occurred, compared with 23·1 expected deaths based on historical rates, corresponding to a mortality reduction of 100% (95% CI 84-100). [...] The relative risk reduction in vaccinated women was estimated from population-level data to be 100% (95% CI 81 to 100) in women aged 20-24 years, 100% (89 to 100) in those aged 25-29 years",
+      "key_excerpt_position": 37
+    },
+    {
+      "reference_id": "8d99f0564f2b1e08",
+      "url": "https://view-hub.org/topics/single-dose-hpv",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        47
+      ],
+      "partial_positions": [
+        42,
+        48,
+        49
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In December 2022, the WHO updated its position paper on HPV vaccination to include a single-dose schedule as an off-label alternative for girls and boys between 9 and 20 years old, excluding those who are HIV-infected or otherwise immunocompromised",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "af624099e6dadc8c",
+      "url": "https://portal.conasems.org.br/orientacoes-tecnicas/noticias/6269_ministerio-da-saude-adota-esquema-de-vacinacao-em-dose-unica-contra-o-hpv",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        50,
+        51,
+        52
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A mudança foi publicada em Nota Técnica nesta segunda-feira (1º).",
+      "key_excerpt_position": 50
+    },
+    {
+      "reference_id": "102aebd27d310e7d",
+      "url": "https://www.inaff.org.br/noticias/em-2025-cancer-de-colo-do-utero-matou-7-240-mulheres-no-brasil/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        4
+      ],
+      "partial_positions": [
+        6
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Inca prevê 19, 3 mil casos novos por ano até 2028 [...] Baseando-se em dados disponibilizados pelo Instituto Nacional de Câncer (Inca) , a estimativa é de 19.300 novos casos para o período de 2026 – 2028",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "8865c762422d433b",
+      "url": "https://www.gov.br/inca/pt-br/assuntos/noticias/2026/inca-estima-781-mil-novos-casos-de-cancer-por-ano-no-brasil-entre-2026-e-2028",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        5
+      ],
+      "partial_positions": [
+        7
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Entre as mulheres, em ordem de incidência, predominam os cânceres de mama, cólon e reto, colo do útero, pulmão e tireoide. [...] Colo do útero (7,4%) [...] O Brasil deve registrar 781 mil novos casos da doença por ano até 2028. Quando excluídos os tumores de pele não melanoma (de alta incidência, mas baixa letalidade), a projeção é de aproximadamente 518 mil casos anuais.",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "8b883383264ea1b9",
+      "url": "https://www.inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22setembro2022.pdf",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        8,
+        57
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "4ea2c404dfeca66b",
+      "url": "https://www.inca.gov.br/sites/ufu.sti.inca.local/files/media/document/dados_e_numeros_colo_22marco2023.pdf",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        56,
+        58
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "785e716745173db3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34741816/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        36
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        20
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Falcaro M(1), Castañon A(1), Ndlela B(2)... 1. Lancet. 2021 Dec 4;398(10316):2084-2092... The estimated relative reduction in cervical cancer rates by age at vaccine offer were... 87% (72-94) for age 12-13 years... The corresponding risk reductions for CIN3 were... 97% (96-98) for age 12-13 years.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "b871591be28d69ac",
+      "url": "https://www.path.org/who-we-are/programs/center-for-vaccine-innovation-and-access/single-dose-hpv-vaccine-evaluation-consortium/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        43
+      ],
+      "partial_positions": [
+        44
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Since 2018, the Single-Dose HPV Vaccine Evaluation Consortium, coordinated by PATH, has gathered and evaluated data from clinical trials, observational studies, and modeling analyses regarding the value of a single-dose HPV vaccination schedule to protect against cervical cancer.",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "f2b4f17f57f4b5fb",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11555274/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        55,
+        66
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "As of April 2024, a total of 40 countries have included a single-dose HPV vaccination strategy in their immunization programs",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "e43918e53fff6d85",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/h/hpv/notas-tecnicas",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        53,
+        54
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "7f34d4a50db171ce",
+      "url": "https://www.who.int/publications/i/item/9789240014107",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        60,
+        65
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Global strategy to accelerate the elimination of cervical cancer as a public health problem",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "7c759b52d0a0168c",
+      "url": "https://www.paho.org/pt/node/76247",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        0
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Yet it remains one of the most common cancers and causes of cancer-related death in women across the globe.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "3842dc1ec9ccc031",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32997908/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        33
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We used nationwide Swedish demographic and health registers to follow an open population of 1,672,983 girls and women who were 10 to 30 years of age from 2006 through 2017. ... N Engl J Med. 2020 Oct 1;383(14):1340-1348. ... Lei J(1), Ploner A(1), Elfström KM(1), Wang J(1), Roth A(1), Fang F(1), Sundström K(1), Dillner J(1), Sparén P(1).",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "da2afd638f0ca3e8",
+      "url": "https://www.hpvworld.com/articles/hpv-vaccination-and-the-risk-of-invasive-cervical-cancer/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        34
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Overall, this corresponds to a 63% lower risk of invasive cervical cancer associated with HPV vaccination in Swedish girls and women 10 to 30 years old",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "dfeae0ae1d79c26c",
+      "url": "https://news.ki.se/hpv-vaccine-effective-against-cervical-cancer",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        35
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "girls vaccinated before age 17 reduced their risk of cervical cancer by 88 percent. Women vaccinated between ages 17 and 30 halved their risk of cervical cancer compared to unvaccinated women",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "f0ef3da0142bc8c3",
+      "url": "https://vaccinesbeat.org/updated-guidelines-for-global-strategy-to-accelerate-the-elimination-of-cervical-cancer-as-a-public-health-problem/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        45
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A single dose of HPV vaccine has shown approximately 92% efficacy against persistent HPV types 16 and 18 infection",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "8645935594141623",
+      "url": "https://www.iccp-portal.org/news/human-papillomavirus-vaccines-who-position-paper-2022-update",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        46
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The World Health Organization updated its recommendations for the human papillomavirus (HPV) vaccine in a position paper published in December 2022.",
+      "key_excerpt_position": 46
+    },
+    {
+      "reference_id": "0193aebda864f677",
+      "url": "https://www.gov.br/conitec/pt-br/midias/relatorios/2024/testagem-molecular-para-deteccao-de-hpv-e-rastreamento-do-cancer-do-colo-do-utero",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        59
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Relatório de Recomendação nº 878 - Testagem Molecular para Detecção de HPV e rastreamento do câncer do colo do útero",
+      "key_excerpt_position": 59
+    },
+    {
+      "reference_id": "b9b66707ed32a062",
+      "url": "https://revistakdea360.com.br/noticia/93648/cancer-do-colo-do-utero-brasil-deve-registrar-19-mil-novos-casos-por-ano-ate-2028",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f823ff10b0de9a55",
+      "url": "https://mulherconsciente.com.br/dia-a-dia-com-saude/o-cancer-do-colo-do-utero-no-brasil/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "df922c9fbb74fbf4",
+      "url": "https://saude.es.gov.br/Media/sesa/DANTS/Boletim%20Epidemiol%C3%B3gico%20sobre%20C%C3%A2ncer%20do%20Colo%20do%20%C3%9Atero.pdf",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "9b4bc77246220ea2",
+      "url": "https://www.bmj.com/content/375/bmj.n2689",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6e1c3410774e6c49",
+      "url": "https://www.who.int/publications/i/item/who-wer9750-645-672",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "27d10d3df5d5ceaa",
+      "url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-no-41-2024-cgici-dpni-svsa-ms",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "8090a2b0f55fed99",
+      "url": "https://bvsms.saude.gov.br/pni-adota-dose-unica-para-a-vacinacao-de-pessoas-de-9-a-14-anos-de-idade-contra-o-hpv/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "2e5bc5057dedb7c6",
+      "url": "https://www.paho.org/en/documents/global-strategy-accelerate-elimination-cervical-cancer-public-health-problem-and-its",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "c3bb3514f1aeb261",
+      "url": "https://www.who.int/initiatives/cervical-cancer-elimination-initiative",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ad27a2f34b59bf21",
+      "url": "https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/controle-do-cancer-do-colo-do-utero/dados-e-numeros",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "eae2e6e6433817e6",
+      "url": "https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "9f1a5ded0a2b993c",
+      "url": "https://www.linkedimmunisation.org/resources/human-papillomavirus-vaccines-who-position-paper-december-2022/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d8c86440dba3a268",
+      "url": "https://medicinecentral.co.uk/article/hpv-vaccination-cervical-cancer-mortality",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-7",
+      "position": 7,
+      "claim_excerpt": "Na Região Norte, o câncer do colo do útero figura em primeiro lugar na incidência de tumores malignos e representa a causa primária de morte por neoplasias na população feminina, sendo responsável po…",
+      "cited_markers": "[5]",
+      "corroborating_markers": "",
+      "contradicting_markers": "[12] [8] [13] [26] [4] https://www.gov.br/inca/pt-br/assuntos/gestor-e-profissional-de-saude/controle-do-cancer-do-colo-do-utero/dados-e-numeros"
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-30",
+      "position": 30,
+      "claim_excerpt": "A vacina bivalente confere proteção contra os tipos HPV 16 e 18.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[21] [26] https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490 [3] [24] [13] [8] [19]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-31",
+      "position": 31,
+      "claim_excerpt": "A vacina quadrivalente agrega proteção contra os tipos HPV 6 e 11, responsáveis por cerca de 90% das verrugas anogenitais (condilomas acuminados), além de cobrir os tipos oncogênicos 16 e 18.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[3] [26] [13] https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490 [8] [24] [12] [15]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-32",
+      "position": 32,
+      "claim_excerpt": "A vacina nonavalente expandiu a cobertura imunológica ao incorporar proteção contra outros cinco genótipos oncogênicos adicionais, a saber: HPV 31, 33, 45, 52 e 58, o que amplia a prevenção do câncer…",
+      "cited_markers": "[2]",
+      "corroborating_markers": "https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490 [3] [26] [13] [12] [21] [8] [5] [10]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-42",
+      "position": 42,
+      "claim_excerpt": "Em 2014, respaldada por ensaios de imunogenicidade que demonstravam respostas de anticorpos não inferiores em adolescentes jovens, a OMS passou a recomendar esquemas de duas doses para pessoas com me…",
+      "cited_markers": "[19]",
+      "corroborating_markers": "[24] https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490 [3] [26] [20] [22] [25]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-44",
+      "position": 44,
+      "claim_excerpt": "O ensaio clínico DoRIS realizado na Tanzânia, o estudo KEN SHE conduzido no Quênia, o acompanhamento de dez anos de coortes imunizadas na Índia e as análises estendidas do Costa Rica HPV Vaccine Tria…",
+      "cited_markers": "[20]",
+      "corroborating_markers": "[3] https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490 [21] [24] [2] [26] [22]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-45",
+      "position": 45,
+      "claim_excerpt": "A eficácia observada da dose única contra a infecção persistente pelos tipos vacinais permaneceu acima de 97%, com projeções de modelagem imunológica indicando durabilidade da proteção por pelo menos…",
+      "cited_markers": "[21]",
+      "corroborating_markers": "[3] [24] https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490 [26] [19] [2] [20]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-46",
+      "position": 46,
+      "claim_excerpt": "Respaldada por uma revisão minuciosa empreendida pelo Strategic Advisory Group of Experts on Immunization (SAGE) em abril de 2022, a Organização Mundial da Saúde atualizou o seu documento oficial de…",
+      "cited_markers": "[22]",
+      "corroborating_markers": "[23] https://www.linkedimmunisation.org/resources/human-papillomavirus-vaccines-who-position-paper-december-2022/ https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490 [3] [24] [26] [19] [32] [13] [20] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-49",
+      "position": 49,
+      "claim_excerpt": "Sob a perspectiva da saúde global, a redução do consumo de doses por indivíduo alivia as restrições históricas de oferta no mercado internacional de vacinas, liberando estoques para acelerar a introd…",
+      "cited_markers": "[19]",
+      "corroborating_markers": "[26] https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490 [8] [3] [21] [2] [13] [5] [24]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-59",
+      "position": 59,
+      "claim_excerpt": "No ano de 2024, a Comissão Nacional de Incorporação de Tecnologias no Sistema Único de Saúde recomendou a incorporação da testagem molecular para detecção de HPV no rastreamento do câncer do colo do…",
+      "cited_markers": "[29]",
+      "corroborating_markers": "[4] [8] [12] [26] https://saude.df.gov.br/documents/37101/0/Atualiza%C3%A7%C3%A3o+das+recomenda%C3%A7%C3%B5es+da+vacina%C3%A7%C3%A3o+contra+HPV+no+Brasil.pdf/06764bc0-ab94-6a92-3eba-0e0bc49a2d36?t=1722000113490 [13] [25] [10]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-60",
+      "position": 60,
+      "claim_excerpt": "Em agosto de 2020, a Assembleia Mundial da Saúde aprovou formalmente a Estratégia Global para Acelerar a Eliminação do Câncer do Colo do Útero como Problema de Saúde Pública, iniciativa liderada pela…",
+      "cited_markers": "[30]",
+      "corroborating_markers": "[31] [3] [12] [1] [8] [26] [32] [21] [25] [13] [24] [23]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-64",
+      "position": 64,
+      "claim_excerpt": "O terceiro pilar exige que 90% das mulheres identificadas com alterações cervicais recebam tratamento adequado, o que abrange o tratamento ablativo ou excisional de 90% das lesões pré-cancerígenas de…",
+      "cited_markers": "[3]",
+      "corroborating_markers": "[32] [24] [21] [31] [30] [12] [26] [8] [1]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 769655,
+  "cost_tracked": false,
+  "processing_time_seconds": 828947.717592
+}

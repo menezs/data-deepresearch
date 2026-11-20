@@ -1,0 +1,72 @@
+[referencia=0ce7490469f2e658 score=0.005]
+The Paraguayan War presented an ideological shift among the military and changed the demographics of slavery. Since their enlistment in the Army, many slaves had proven their worth on the battlefield, a realization that caused officers to be increasingly skeptical of the institution of slavery and unwilling to fulfill the Army’s responsibility to recover runaway slaves. New philosophical movements such as Positivism and Republicanism, embraced by many Brazilian politicians, emphasized rationality and went hand-in-hand with calls for progress and modernization.
+
+By the time of the “Golden Law” of 1888, many Brazilians had already decided for themselves to free their slaves. A January 24, 1884 article in the newspaper *O Provinciano*, of Paraiba do Sul, listed the following series of manumissions:
+
+Dona Anna S. José, 16 slaves liberated, and a farm given to them for their own use.
+
+Dona Maria de Caula, 16 slaves liberated, with the condition they serve five years on works of charity in the local Casa de Caridade (Charity House).
+
+Condessa do Rio Novo, 200 slaves liberated by her will and the Cantagallo Plantation given them for a home.
+
+José Eunes Baganha, Portuguese, died in Lisbon and left $100,000 for the liberation of his old slaves.
+
+Barão de Simão Dias,163 slaves liberated, who remain on his plantation as workers.
+
+Barão de Santo Antônio, 168 slaves liberated by his will and two plantations given to them for their own use (Burns 267).
+
+
+- What external economic and political factors affected the fluctuations in the slave market during the nineteenth century?
+- What were the political, economic, and demographic circumstances surrounding abolition? Why did it happen in 1888, and not before or after?
+
+**Racial Thought and National Identity**
+
+European thought, unsurprisingly, set the pace for the discourse on the hierarchy of nations. Having gained a global audience by the mid-nineteenth century, European thinkers linked the economic and political success of their countries to their racial and climatic superiority, a conclusion that implied that “darker races and tropical climates could never produce comparable civilizations.” This conclusion had a formal name: determinism. To these thinkers, Brazil clearly fell into the category of countries with “darker races and tropical climates.”
+
+---
+
+[referencia=0ce7490469f2e658 score=0.001]
+**< 4.1 Paraguayan War – 4.3 Abolition >** 
+
+**Events and Intellectual Movements**
+
+Calls for the abolition of slavery in Brazil started in the early nineteenth century. As early as 1825, José Bonifácio Andrada e Silva, a leading figure in engineering Brazil’s independence from the Portuguese, wrote in favor of gradual emancipation. Britain, Brazil’s primary trade partner and financier, forced the issue in 1850, and the slave trade was abolished. A smattering of legislation led up to the official but gradual abolition of slavery: the 1871 “Law of the Free Womb,” which declared free all children of slaves born after the law was passed; the 1885 Sexagenarian Law, which freed slaves over 60 years of age; and finally the total emancipation law in 1888.
+
+One of the first attempts to legislate against the slave trade came in 1828 when a law outlawing the practice was approved. It was to go into effect in 1831, just months after the emperor, Dom Pedro I, left the country and returned to Portugal, leaving behind his six-year-old son as temporary head of state. However, this law, which declared all slaves free upon entry to Brazil, was scarcely noted by slave traders, who continued business as usual after a brief lull in trading patterns in the early 1830s. Rather, merchants and politicians alike viewed the law as “*uma lei para ingles ver”* [a law for the British to see], something to appease the British on whom the nation was financially dependent.
+
+In the year 1865, the institution of slavery was still legal in Brazil. Brazil remained a largely agrarian economy. The political system was a combination of a hereditary monarchy and a parliamentary body, highly centralized and ruled by a vulnerable authority figure, Pedro II. Even before the abolition of slavery, Brazil had a considerable population of free people of color.
+
+Yet, according to Thomas Skidmore, “the free man of color, who existed at every level of Brazilian society, was conspicuously ignored by the Romantic authors” – some of the most popular philosophers of the day – unlike the Afro-Brazilian slaves they extolled.
+
+---
+
+[referencia=0ce7490469f2e658 score=0.000]
+A travelogue chronicling the trip to Brazil undertaken by American professor Louis Agassiz and his wife shows the wide-ranging effects of the determinist theory. Throughout their journey, the Agassizes note the effects of the tropical climate on the Brazilian population as a whole, and particularly on its African slaves, who are condemned to a less civilized nature by the hot regions of their birth. Of the state of Minas Gerais, Mrs. Agassiz writes:
+
+This province is said to be remarkable for the great energy and intelligence of its inhabitants, as compared with those of the adjoining provinces. Perhaps this may be owing to its cooler climate, most of its towns lying among the highlands of the Serras, and enjoying a fresher, more stimulating air than those nearer the sea-coast (Agassiz 64).
+
+
+One nagging question for many Brazilian elites, including those who viewed slavery as detrimental to their society, was whether or not Brazil could ever become an advanced, modern nation with its non-white population and non-European climate.
+
+Before all else, many thought that the first step was to free Brazil of the noxious disease of slavery. In his 1880 abolitionist manifesto, Joaquim Nabuco argued that slavery slowed the course of progress, arguing against the claim of Conservatives that slavery was necessary for the country’s survival:
+
+If a nation can progress only by using the forced labor of an extra-legal caste, then it is a mere first approximation of an independent and autonomous state. If a race is able to develop in a latitude only by making another race work to support it, then that race has not yet attempted to acclimatize. Traditional Brazilians think that a Brazil without slaves would quickly perish. Even that result would be better than a life that can be maintained only by undermining national character and humiliating the country. If abolition should mean suicide, then humanity would be rendered a service by those incapable of surviving on their own. At least they would have the courage to leave to the stronger, heartier and braver, the incomparable heritage of a land that they could not cultivate and where they could not survive.
+
+Instead of being suicidal, ending slavery would be a provident and just act. It would summon forth new qualities in our national character and launch the nation on an epoch of progress and free labor, which would be the true period of our definitive development and our real independence (Skidmore, 22).
+
+
+**Further Reading**
+
+---
+
+[referencia=0ce7490469f2e658 score=0.000]
+**Further Reading**
+
+- Thomas Skidmore’s *Black Into White* addresses the development and change of racial theory in Brazil into the twentieth century.
+
+**Sources**
+
+- Agassiz, Louis and Mrs. *A Journey in Brazil* . Boston: Fields, Osgood, & Co., 1871.
+- Bethell, Leslie. *The Abolition of the Brazilian Slave Trade* . Cambridge: Cambridge University Press, 1970.
+- Skidmore, Thomas. *Black into White: Race and Nationality in Brazilian Thought* . Durham, N.C.: Duke University Press, 1993.
+- University of Virginia Digital Media Lab. *Exploring Cultural Landscapes.* http://hitchcock.itc.virginia.edu/.

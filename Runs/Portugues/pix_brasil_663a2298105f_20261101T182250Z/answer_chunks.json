@@ -1,0 +1,894 @@
+[
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-0",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 0,
+    "text": "Foi criado pelo BC no exercício de sua competência legal para promover competição, inclusão financeira e transparência nos serviços de pagamento, e a autarquia hoje o descreve como uma Infraestrutura Pública Digital.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-1",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 1,
+    "text": "Somou-se a isso a gratuidade das transferências entre pessoas e a cobrança de tarifas baixas aos comerciantes.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-2",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 2,
+    "text": "Cerca de quinze meses após o lançamento, 114 milhões de pessoas, ou 67% da população adulta, já haviam feito ou recebido ao menos um Pix.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "dcabb6ea0933910e"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-3",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 3,
+    "text": "O BIS também observou que o Pix substituiu parcialmente instrumentos digitais anteriores, como TED e DOC, mas ampliou o universo de usuários de pagamentos eletrônicos.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "dcabb6ea0933910e"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-4",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 4,
+    "text": "O valor movimentado ultrapassou R$ 35 trilhões.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-5",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 5,
+    "text": "Havia mais de 920 milhões de chaves registradas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-6",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 6,
+    "text": "O recorde diário de quantidade ocorreu em 5 de dezembro de 2025, com mais de 313 milhões de transações.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-7",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 7,
+    "text": "Por esse critério, segundo dados apresentados por um dirigente do BC em maio de 2026, 142 milhões de brasileiros, cerca de 93% dos adultos, fizeram ao menos um Pix em abril de 2026.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "c154dbcf4f63bc20"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-8",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 8,
+    "text": "O próprio BC reconhece que a base de usuários tende a crescer mais devagar daqui em diante, embora ainda haja entrada contínua de novas pessoas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-9",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 9,
+    "text": "Em 2023, essa fatia caiu para 40,5%, e o Pix já respondia por 24,9% dos pagamentos, tornando-se o meio eletrônico mais usado.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-10",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 10,
+    "text": "Quando perguntados sobre preferência, 64,9% dos entrevistados citaram o Pix entre seus dois meios favoritos, acima dos 55,7% que citaram o dinheiro.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-11",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 11,
+    "text": "A mediana das compras de pessoas físicas junto a empresas foi de R$ 25, e 71% de todas as operações foram de até R$ 100.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-12",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 12,
+    "text": "O BC interpreta esses valores como sinal de que o Pix substitui o dinheiro em compras do dia a dia, e por isso destaca a importância de que ele seja uma infraestrutura inclusiva.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-13",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 13,
+    "text": "Em dezembro daquele ano, cerca de 14 mil pontos, entre lotéricas, correspondentes e terminais, ofereciam o serviço.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-14",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 14,
+    "text": "O Relatório de Cidadania Financeira, divulgado pelo BC em abril de 2026 com dados de 2024, mostrou que 96,4% dos adultos têm conta de depósito ou de pagamento.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "87e5535c43c5592c"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-15",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 15,
+    "text": "O BC atribuiu à rápida disseminação do Pix um papel expressivo na inclusão desse público.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "87e5535c43c5592c"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-16",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 16,
+    "text": "Segundo ele, essa inclusão não foi apenas estatística, porque o Pix passou a ser usado em transações concretas, frequentes e de pequeno valor.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-17",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 17,
+    "text": "As faixas de até cinco salários mínimos foram as que continuaram crescendo ano após ano.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-18",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 18,
+    "text": "Praticamente todos os estados têm mais de 80% dos adultos usando o Pix, e o Distrito Federal e Roraima chegam à cobertura total.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-19",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 19,
+    "text": "O BC destaca que até a Região Norte, onde há maior concentração de população de baixa renda, apresenta índices acima de 80% ou 90%.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-20",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 20,
+    "text": "A bancarização, no entanto, ainda varia: é maior no Centro-Oeste (96,9%) e menor no Norte (94,2%).",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "959729bf65c9eaf2"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-21",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 21,
+    "text": "Mas respondem por apenas 41% do valor movimentado, uma proporção estável ao longo dos anos.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-22",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 22,
+    "text": "O BC atribui essa diferença a dificuldades operacionais com tecnologia e a maior receio em relação a transações eletrônicas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-23",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 23,
+    "text": "A autarquia avalia que a proximidade entre esse número e a base de usuários do Pix sugere que o sistema estimulou o uso efetivo de contas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-24",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 24,
+    "text": "O efeito foi mais forte em regiões com níveis intermediários de densidade, renda e desenvolvimento.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "5d1d657519f0e933"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-25",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 25,
+    "text": "Os efeitos foram mais fortes justamente nos municípios com pior infraestrutura digital inicial, com destaque para poupança e crédito rural.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-26",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 26,
+    "text": "Segundo o estudo, o Pix funcionou como complemento à infraestrutura financeira existente e foi mais eficaz onde o desenvolvimento financeiro inicial era maior.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "e6dcb26bef11d041"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-27",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 27,
+    "text": "Em 2025, 12,8 milhões de empresas usaram o Pix, cerca de 51,4% das empresas ativas do país, o que indica espaço para crescer.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-28",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 28,
+    "text": "O Sebrae atribuiu essa preferência ao custo menor que o das maquininhas de cartão e ao recebimento instantâneo.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "b9a55625e8b8c099"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-29",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 29,
+    "text": "Levantamento posterior do Sebrae indicou que quase seis em cada dez donos de pequenos negócios têm o Pix como principal forma de receber pelas vendas.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "4fee6b147cbf1413"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-30",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 30,
+    "text": "Em 2025, as compras de pessoas físicas junto a empresas já representavam 43% do total.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-31",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 31,
+    "text": "Os bancos múltiplos caíram de 55,8% para 35% no mesmo período.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-32",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 32,
+    "text": "O índice de concentração entre os participantes permanece em nível considerado baixo.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-33",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 33,
+    "text": "Ele permite que qualquer instituição participante ofereça débito automático de contas recorrentes, serviço que antes dependia de acordos bilaterais entre bancos e grandes empresas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-34",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 34,
+    "text": "A adoção ainda é inicial: foram quase 600 mil transações em dezembro de 2025.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-35",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 35,
+    "text": "Análise baseada no Relatório de Cidadania Financeira estima que cerca de 21 milhões de adultos estão excluídos, somando os que não têm conta e os que têm, mas não a movimentam.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "37794808ff23b249"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-36",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 36,
+    "text": "A principal razão, citada por 37,3% desse grupo, foi não saber usar.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-37",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 37,
+    "text": "Mesmo entre usuários, 24,2% disseram ter escolhido outro meio de pagamento em alguma situação por dificuldade de acesso à internet.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-38",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 38,
+    "text": "Ela poderia usar cartões, etiquetas e relógios com tecnologia NFC, e é apresentada pelo BC como forma de atender quem tem conectividade limitada e menor familiaridade digital.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-39",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 39,
+    "text": "O BC atribui isso à restrição a celulares Android, ao desconhecimento da população e dos comerciantes e à baixa oferta da função nos aplicativos.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-40",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 40,
+    "text": "O BC avalia, porém, que ainda há muito espaço para usar o Pix no pagamento de benefícios sociais, aposentadorias e restituições de imposto.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-41",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 41,
+    "text": "O prejuízo estimado ficou perto de R$ 29 bilhões, e os idosos aparecem como alvos frequentes de boletos falsos.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "9fc68658daa122c5"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-42",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 42,
+    "text": "O mesmo estudo apontou que ter o celular roubado ou furtado multiplica por quase quatro a chance de cair em golpes digitais.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "f503a98152f4764e"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-43",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 43,
+    "text": "O BC registrou cerca de 5 milhões de pedidos de devolução por fraude no Pix em 2024, quase o dobro de 2023.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "9e4701b7d3ecf4ec"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-44",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 44,
+    "text": "Desde novembro de 2024, transações iniciadas em celulares não cadastrados têm limites de R$ 200 por operação e R$ 1.000 por dia.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-45",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 45,
+    "text": "Em outubro de 2025, os aplicativos passaram a ter um botão próprio para contestar transações suspeitas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-46",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 46,
+    "text": "Em fevereiro de 2026, entrou em vigor a nova versão do Mecanismo Especial de Devolução (MED), que permite rastrear o dinheiro mesmo depois de ele ser repassado a outras contas usadas pelos golpistas.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "f104fcaca3f8e720"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-47",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 47,
+    "text": "A devolução depende de a fraude ser comprovada e de haver saldo nas contas de destino.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "0124c1e70dd707b4"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-48",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 48,
+    "text": "Há sinais de melhora: segundo dados apresentados pelo BC, a taxa de fraudes caiu de 12 para cerca de 5 ocorrências por 100 mil transações entre meados de 2024 e maio de 2026.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "c154dbcf4f63bc20"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-49",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 49,
+    "text": "Ele lembrou que mais da metade dos usuários de cartão no país carrega dívidas, no rotativo ou no parcelamento.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "3aab261137e45a03"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-50",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 50,
+    "text": "Mas é preciso avançar para uma \"cidadania financeira\", com uso responsável e preços de crédito alinhados ao risco.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "3aab261137e45a03"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-51",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 51,
+    "text": "A autarquia apenas proibiu o uso do nome \"Pix Parcelado\", e cada instituição continua livre para definir juros, prazos e forma de cobrança.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "b782d264127ee303"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-52",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 52,
+    "text": "Para o instituto, a mudança foi meramente cosmética e deixou ao mercado a tarefa de se autorregular.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "b782d264127ee303"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-53",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 53,
+    "text": "O Idec já havia alertado que o produto chegava num cenário crítico de endividamento, sobretudo entre famílias de baixa renda.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "b88440888c8345f3"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-54",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 54,
+    "text": "O BC, por sua vez, informa que acompanha essas ofertas e pode agir caso identifique problemas na cobrança das parcelas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-55",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 55,
+    "text": "Ainda assim, o grupo apresentava a maior proporção de endividados entre as classes sociais.",
+    "cited_markers": [
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "ed76a74a6b10b639"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-56",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 56,
+    "text": "A medida poderia reduzir o custo do crédito para empresas que recebem principalmente por Pix, entre elas muitos pequenos negócios.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-57",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 57,
+    "text": "O governo revogou a norma em 15 de janeiro.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "b9d30df959d24941"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-58",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 58,
+    "text": "Entre 1º e 14 de janeiro, o número de transações caiu cerca de 15% em relação ao mesmo período de dezembro.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "b9d30df959d24941"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-59",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 59,
+    "text": "O volume só voltou a se aproximar da média histórica na terceira semana do mês.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "1ff0f349b975c7fb"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-60",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 60,
+    "text": "Em reação, um relatório da proposta de emenda constitucional sobre a autonomia do BC (PEC 65/2023) incluiu dispositivos para garantir na Constituição a gratuidade do Pix para pessoas físicas e sua gestão exclusiva pelo BC.",
+    "cited_markers": [
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "9539be6049a90bac"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-61",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 61,
+    "text": "O órgão classificou como injusto e discriminatório o tratamento dado ao Pix e alegou conflito de interesses no fato de o BC ser ao mesmo tempo regulador e operador do sistema.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "f6ccf347ebf0518d"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-62",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 62,
+    "text": "O governo brasileiro respondeu que o Pix é uma infraestrutura pública e gratuita, amplamente aceita pela população.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "9eb0b6152ff2ce8e"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-63",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 63,
+    "text": "O Pix é um dos seis temas citados na justificativa, e o USTR afirmou que a tarifa permanece até que o Brasil resolva as práticas apontadas.",
+    "cited_markers": [
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "9aba1f1694a2c906"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-64",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 64,
+    "text": "O modelo de infraestrutura pública, que o BIS apontou como chave do sucesso inclusivo do Pix, é exatamente o aspecto contestado pelos Estados Unidos.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-65",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 65,
+    "text": "Ele chegou a cerca de 86% dos adultos",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-66",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 66,
+    "text": "ajudou a levar a bancarização a 96,4%",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "87e5535c43c5592c"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-67",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 67,
+    "text": "alcançou a maioria das famílias do Cadastro Único",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "87e5535c43c5592c"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-68",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 68,
+    "text": "e quase dobrou o uso de pagamentos eletrônicos entre os mais pobres.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-69",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 69,
+    "text": "As evidências acadêmicas apontam ganhos em depósitos e crédito, ainda que discordem sobre sua distribuição territorial.",
+    "cited_markers": [
+      "[10]",
+      "[11]",
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "5d1d657519f0e933",
+      "3840eab9f5e75580",
+      "e6dcb26bef11d041"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-70",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 70,
+    "text": "Golpes atingem dezenas de milhões de pessoas.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "9fc68658daa122c5"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-71",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 71,
+    "text": "O crédito associado ao Pix avança com pouca padronização.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "b782d264127ee303"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-72",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 72,
+    "text": "Os idosos e quem tem conectividade precária continuam sub-representados.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_663a2298105f_20261101T182250Z-73",
+    "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "position": 73,
+    "text": "A própria liderança do BC passou a falar menos em acesso e mais em cidadania financeira, o que indica que o problema deixou de ser abrir contas e passou a ser garantir que esse acesso traga proteção, poupança e crédito saudável.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "3aab261137e45a03"
+    ]
+  }
+]

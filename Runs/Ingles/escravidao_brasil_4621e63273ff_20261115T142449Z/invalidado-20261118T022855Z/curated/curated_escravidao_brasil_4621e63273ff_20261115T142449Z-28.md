@@ -1,0 +1,305 @@
+[referencia=6b05c8ff2cb6eec3 score=0.996]
+### **7 Conclusion** 
+
+In this paper, we explore the consequences of the slave trade for unskilled wages and technical change in Brazil. To do so, we built real wage series for various occupations, male and female, free and enslaved, that extend more than three centuries (1574– 1920) for Brazil. We documented an association between the import of enslaved Africans and the level of real wages. Unskilled real wages in Brazil start relatively high, but as soon as the slave trade increased, real wages decreased. Unskilled real wages only recovered following the progressive end of the slave trade. Using synthetic difference-in-differences, we show that this relationship was plausibly causal; slave 
+
+30 
+
+trade prohibition shocks led to an increase in unskilled wages. Brazil’s reckoning with the slave trade served to improve living standards in the nineteenth century, but came too late to recover lost ground compared with other countries in the Americas and Europe. Our results suggest that free workers benefited from slavery’s disappearance, which despite being profitable for a small elite, was overall was making Brazil poorer by preventing other development opportunities.
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.991]
+### **1 Introduction** 
+
+Over twelve million people were forcibly taken from Africa to the Americas over the four centuries of the Atlantic slave trade. More enslaved Africans disembarked in Brazil than in any other country in the New World.<sup>1</sup> How did the slave trade shape Brazil’s long-run development? In this paper, we offer evidence and a novel interpretation of how the slave trade created a slavery economy that underdeveloped Brazil, leading to an economy characterized by a low level of wages and technology for free workers. Only with the end of the slave trade did Brazil begin altering its development path. 
+
+We assemble new, hand-collected archival data, with over 17,000 observations for Salvador and Rio de Janeiro extending more than three centuries since the sixteenth century (1574–1920), and leverage the sequence of slave-trade prohibitions as plausibly exogenous shocks to coerced-labor supply. We document a previously unknown fact. Real wages for unskilled workers in Brazil were initially high by global standards, comparable to the European average. Then they declined sharply as the slave trade expanded, reaching some of the lowest levels in the world, and then recovered as the trade contracted during the nineteenth century.<sup>2</sup> 
+
+To interpret these findings, we develop a model of directed technical change with slave tasks. Tasks differ by disamenities, and firms assign each task to enslaved or free labor by comparing unit costs. Learning-by-doing generates factor-specific productivity gains in the tasks performed by each type of labor. The model yields multiple steady states, with a high-slavery and a low-slavery equilibrium. A slave trade prohibition that raises the price of enslaved labor can eliminate the high-slavery equilibrium, reallocating tasks toward free labor and directing subsequent technical change to complement free workers.<sup>3</sup> We can then map three of the model’s predictions to the
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.986]
+###### **Abstract** 
+
+More enslaved Africans disembarked in Brazil than in any other country in the New World. Using new archival data, we build real wage and slave price series for Brazil covering 1574–1920. Wages initially matched those in Europe but fell as the slave trade expanded, only recovering when the trade ended and slave prices rose. We develop a directed technical change model with slave tasks to explain this finding. We also estimate a large, positive causal effect of slave trade prohibition on wages, consistent with our model. Post-prohibition, there was technological change towards free labor and concentration of slave labor in high-disamenity occupations. 
+
+JEL Classifications: N36, N96, J31, J47. 
+
+Keywords: comparative development, slave trade, colonial Brazil, frontier settlement.
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.980]
+We then show suggestive historical evidence for the other two predictions. First, we present cases of technological change after the prohibition, where technology evolved towards the more productive use of free labor ( _e.g._ , mechanization of urban transport and port handling). Second, we use the first nationwide census in 1872 to demonstrate that enslaved workers were disproportionately concentrated in occupations with high-disamenity tasks. All together, the evidence shows that Brazil was only able to escape underdevelopment after a large enough shock to the prevalent “high-slave equilibrium,” which then unshackled wages and technological change for free workers, putting the economy on a path with increasing real wage levels.<sup>7</sup> 
+
+Our paper contributes to several literatures. We complement the “colonial origins with reversal of fortune” and “factor endowments” perspectives by “decompressing history” (Engerman & Sokoloff, 1997; Acemoglu et al., 2001, 2002; Austin, 2008; Engerman & Sokoloff, 2012), through offering a new dataset and a concrete labormarket mechanism connecting coerced-labor supply to _measured_ real wages and the create new tasks for free workers raise their marginal productivity and share, supporting higher wages (Acemoglu, 2010; Acemoglu & Johnson, 2024). 
+
+> 4On the information content of slave prices for political shocks, see Calomiris and Pritchett (2016). 
+
+> 5SDID combines unit and time fixed effects with unit and time weights in a doubly-robust estimator (Arkhangelsky et al., 2021). We show that other potential idiosyncratic drivers of wages were uncorrelated with the slave trade prohibition shocks. 
+
+> 6For all prohibition dates, we find a sizable negative immediate shock to the number of enslaved Africans arriving at the Salvador and Rio de Janeiro ports, suggesting these were unanticipated. The prohibitions were being pushed by the British due to exogenous factors relative to Brazil, and hence were plausibly uncorrelated to other factors also driving wages in Salvador and Rio de Janeiro. 
+
+7On the matter of Brazil failing to develop because it specialized for centuries in producing cheap people see also Leff (1972b, 1982), and Allen et al. (2012) for Spanish America. 
+
+3
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.978]
+#### **2.1 The labor market for unskilled workers** 
+
+Before the effective abolition of the Atlantic slave trade in 1850, Brazil’s labor markets were dominated by systems of coerced labor, reflecting both the colony’s plantation and mining-based economy and Portuguese imperial policies.<sup>13</sup> Enslaved Africans formed the core workforce in sugar production, mining, cattle ranching, and urban trades, with the trans-Atlantic slave trade supplying the majority of the enslaved labor, while high rates of manumission ensured a large proportion of free blacks and 
+
+> 11Note that in both cases, the state includes its namesake city (as with New York in the USA). We provide additional historical background about Salvador and Rio de Janeiro in Appendix A of the Appendix. The data for Salvador includes information from the _São Francisco do Conde_ sugar mill in the outskirts of Salvador. 
+
+> 12The first year we were able to get reliable information on market-set prices and wages was 1574, and we stopped in 1920 because it was the year of Brazil’s first census that reported income levels (there was an earlier demographic census in 1872 that did not report income). From the early twentieth century, there exist credible national accounting studies, for example Haddad (1974). 
+
+> 13Slavery itself would end only in 1888, but its importance was by then much reduced. 
+
+6 
+
+mulattoes coexisting with free whites.<sup>14</sup> Unskilled tasks in small-scale agriculture, artisanal trades, and port work, for example, could be carried out both by enslaved Africans and free workers, which were constituted by poor whites, poor mixed-race individuals, and liberated blacks and mulattoes, though opportunities were constrained by the dominance of slavery in both rural and urban economies (Klein & Luna, 2009).
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.977]
+Figure 3: Unskilled real wages for Brazil compared with locations in Europe, North America, Latin America, Africa, and Asia 
+
+Sources: Brazil: see Section 2.2 and Appendix B for details on the sources. For the others: (A): Allen (2001) and Allen et al. (2011); (ADZ): Abad et al. (2012); (AMS): Allen et al. (2012); (BPW): Burnard et al. (2019); (CG): Challú and Gómez-Galvarriato (2015); (CP): Carvalhal and Palma (2024); (DM): Djenderedjian and Martirén (2020); (DV): de Zwart and van Zanden (2015); (FV): Frankema and van Waijenburg (2012); (G): Geloso (2019); (K): Kumon (2022); (LW): Lindert and Williamson (2013, 2016a); (PR): Palma and Reis (2019); (R): Rönnbäck (2014). (A) and (AMS) have been updated in Allen (2023). 
+
+_Notes_ : The observations correspond to fifty-year averages around the dates shown in the figure. Real wages are measured in annual subsistence baskets and are for comparable unskilled workers. L.S.: Lower South; M.C.: Middle Colonies; N.E.: New England. 
+
+What could explain these trends in real wages? In Figure 4, we plot in panel (a) the number of slaves disembarked in various regions of the Americas for which we have shown real wages.<sup>24</sup> Brazil was by far the region where most slaves disembarked, only comparable to Jamaica.<sup>25</sup> In panel (b), we overlay Brazil’s slave trade series and real wage series for unskilled workers, which were in competition with the enslaved and newly freed populations. The inverse correlation is visible. As soon as the slave trade increases, the real wage starts to fall. In fact, the height of the slave trade coincides with period with the lowest real wages. Real wages only start to improve when the slave trade dies down. In the next section we build a model of directed technical change with slave tasks to explain this finding.
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.977]
+# **African Slavery and the Reckoning of Brazil** 
+
+Guilherme Lambais<sup>a</sup> Nuno Palma<sup>b, c</sup> 
+
+a Lusíada University 
+
+b The University of Manchester 
+
+c Centre for Economic Policy Research (CEPR) 
+
+Updated October 20, 2025 
+
+##### **Abstract** 
+
+More enslaved Africans disembarked in Brazil than in any other country in the New World. Using new archival data, we build real wage and slave price series for Brazil covering 1574-1920. Wages iniIally matched those in Europe but fell as the slave trade expanded, only recovering when the trade ended and slave prices rose. We develop a directed technical change model with slave tasks to explain this finding. We also esImate a large, posiIve causal effect of slave trade prohibiIon on wages, consistent with our model. Post-prohibiIon, there was technological change towards free labor and concentraIon of slave labor in high-disamenity occupaIons. 
+
+JEL Codes: N36, N96, J31, J47 
+
+Keywords: historical living standards, real wages, welfare raAos, comparaAve development, inequality, slave trade, colonial Brazil, fronAer seHlement, syntheAc control methods 
+
+The Arthur Lewis Lab for Compara4ve Development at The University of Manchester
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.974]
+### **6 Post-prohibition labor reallocation and directed technical change** 
+
+The Atlantic slave trade effectively ended around 1850, but slavery itself continued to be legal in Brazil. In 1871, children of enslaved women were determined to be free, making the beginning of the progressive emancipation phase. Brazil was the last country in the Americas to abolish slavery, finally doing so in 1888. Between the prohibition and abolition those still enslaved ended up concentrated in the occupations that were composed of tasks that were arduous and unpleasant and were more difficult to substitute for free workers. In these occupations, there were many tasks where the per-period unit cost of enslaved labor still surpassed that of employing free workers: The necessity of coercion in high-disamenity tasks was greater; while, at the same time, the outside option for these black and mulatto enslaved workers were curtailed by the new wave of white European immigrants (Klein, 1969). Figure 9 illustrates this argument using the 1872 census for all municipalities.<sup>37</sup> 
+
+In addition to reallocation of labor between tasks, technology began to evolve towards complementing free workers. Two historical case studies of post-prohibition labor-saving technical change are illustrated in Appendix L. The first interesting case pertains to Salvador. Prior to the end of slavery, transportation between the lower part and the higher part of the city of Salvador was done by enslaved workers carrying people in chairs. After the slave trade prohibition, a public elevator was built to connect the two parts of the city, largely increasing the productivity of free workers in general. The second case illustrated is that of how the port in Rio de Janeiro operated at the height of the slave trade, where enslaved workers manually carried all the cargo on and off ships. After the prohibition, between 1850 and 1860 the port adopted steam cranes. These examples are evidence that higher wages for free workers and labor scarcity induced innovation via adoption, mechanization, and growth, in line with the mechanism emphasized by Acemoglu (2010). More generally, in both Salvador and Rio, once the slave trade was over, there was a shift of merchant activity towards other activities including banking and industry (Palma et al., 2021;
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.969]
+17 
+
+in the tasks that switch, reinforcing the move toward free labor. 
+
+The Brazilian slave price data in Figure 6 is consistent with the first step in this chain: Prices of enslaved men rose sharply, more than ever before, following waves of prohibition and intensified enforcement. Indeed, this is exactly what one would expect in an economy dependent on the trans-Atlantic slave trade to maintain the stock of enslaved workers due to high rates of manumission and the absence of positive natural rate of increase, in contrast to the United States, for example. In such a setting, cutting off imports markedly raises slave prices. Because the effective perperiod price _p_ co-moves with the sales price (and with higher holding risks), the ban makes enslaved tasks more expensive right away, initiating the reallocation toward free labor that, in turn, increases _w_ and _κ_ ( _·_ ). 
+
+Figure 6 shows that the wage of unskilled free males also rose following the prohibition shocks and that the wage of unskilled enslaved workers co-moved with those of free workers, until enslaved workers disappear from these tasks. In Section 5 we provide _causal evidence_ that these prohibition shocks increase the wages of unskilled free men, as reallocation tightened the free-labor market. In Section 6, we first we show that enslaved labor became increasing concentrated in _high-disamenity tasks_ —consistent with the cutoff mechanism—and, second, we document historical cases where technology, organization, and adoption shifted to make _free_ labor more productive—consistent with the model’s directed technical change channel.<sup>28</sup> 
+
+> 28Formally, Appendix I shows how an increase in slave trade frictions lead to increasing wages. Our SDID estimates in Section 5 identify this _w_ response. The appendix further shows how our static allocation rules lead to a law of motion that delivers the other results. 
+
+18 
+
+
+
+<!-- Start of picture text -->
+1,000,000<br>1808 prohib. 1831 prohib. 1850 prohib. 1888 abolition<br>750,000<br>500,000<br>250,000<br>0<br>1650 1700 1750 1800 1850<br>annual wage of unskilled free male annual wage of unskilled enslaved male price of prime enslaved male<br>Reis<br><!-- End of picture text -->
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.955]
+### **4 Directed technical change with slave tasks** 
+
+In this section we provide a model based on Acemoglu and Autor (2011) that formalizes what we argue are the key long-run mechanisms at play in Brazil’s development path. The model shows that ending the slave trade shifted Brazil’s development path towards a equilibrium with less enslaved workers and technical progress towards complementing free workers. 
+
+13
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.953]
+> 1Estimates point to 12.5 million embarkations in Africa and 10.6 million disembarkations in the Americas. Considering only documented voyages, there were approximately 8.4 million slaves taken from Africa to the Americas: Brazil received 3.2 million, compared with 520,000 to the Spanish America mainland, 4.4 million to the Caribbean, and 300,000 to mainland North America (Slave Voyages, 2023b). The intra-American slave trade increases the disparity: From this trade, 850,000 slaves were disembarked in Brazil, 172,000 in the Spanish America mainland, 205,000 in the Caribbean, and 130,000 in mainland North America (Slave Voyages, 2023a). 
+
+> 2Long-run real wages have been used to study the Industrial Revolution (Clark, 2005; Acemoglu & Johnson, 2024), the income divergence in historical Europe (Allen, 2001), income divergence in the Americas (Allen et al., 2012; Abad et al., 2012), and contemporary topics (Ashenfelter, 2012). 
+
+3Labor scarcity spurs innovation and adoption when technology replaces labor, as firms innovate to substitute capital for scarce labor, accelerating mechanization and growth. Technologies that 
+
+2 
+
+data: (a) unskilled free wages should rise after prohibition shocks and the rise in slave prices; (b) adoption/organization should move toward free-labor-complementary technologies; (c) enslaved workers should become concentrated in high-disamenity tasks.<sup>4</sup> 
+
+We test the first prediction using a synthetic difference-in-differences design (SDID) with a broad international donor pool, estimating large, positive causal effects of the prohibition on unskilled wages for free workers, who were in direct competition with the slaves.<sup>5</sup> There is an effect ranging from a 28% increase in wages in the first shock to around a 40% increase in each of the later two shocks. We explore as treatments the 1807 Slave Trade Acts of the British Empire and the United States. These acts were followed by the 1831 and 1850 slave trade prohibition laws in Brazil, which were enacted under British pressure and threats from the Royal Navy (Bethell, 1970).<sup>6</sup>
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.942]
+Our findings, however, have broader implications beyond understanding the case study of Brazil’s historical underdevelopment. In Figure 1, we pool our real wage data with a cross-section of studies with comparable real wages for the Americas and compare the wages with how many enslaved Africans disembarked in each of the locations. There is a strong, negative correlation between the number of slaves disembarked and real wages across all locations, which suggests that the same type of mechanisms discussed in this paper were likely at play in other New World regions. 
+
+> 8Evidence from multiple contexts shows the negative effects of coerced labor in the Americas (Acemoglu & Wolitzky, 2011; Burnard et al., 2019; Geloso et al., 2023; Abad & Maurer, 2024; Abad & Maurer, 2025). 
+
+> 9Studies of historical wages or living standards in the American continent include Haber (1997), Lindert and Williamson (2013, 2016a, 2016b), and Devereux (2019), among others. 
+
+> 10Leff (1973), Engerman and Sokoloff (1997), and Maddison (2006). By contrast, Summerhill (2003, 2005) argues that slow or negative growth during the nineteenth century was unlikely given the development of railroads. 
+
+4 
+
+
+
+<!-- Start of picture text -->
+y = 9.79 − 1.19 x R 2 = 0.21<br>10.0<br>7.5<br>5.0<br>1 2 3 4<br>log(real wages)<br>Brazil Americas, other<br>log(slaves disembarked)<br><!-- End of picture text -->
+
+Figure 1: Slaves disembarked and real wages in the Americas 
+
+Sources: See Section 2 for real wages in Brazil, Section 3 for real wages in the other locations, and Slave Voyages (2023b) for disembarked slaves.
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.905]
+Sources: See Section 2 for real wages in Brazil, Section 3 for real wages in the other locations, and Slave Voyages (2023b) for disembarked slaves. 
+
+_Notes_ : Each observation corresponds to a location-year with an annual real wage matched to the total number of slave disembarkations in that year, adjusted for the intra-American slave trade. We aggregate locations for which we have real wages to match them to corresponding specific regions of disembarkation in the Slave Voyages (2023b) database. “Americas, other” does not include observations from any other regions of Brazil. For clarity, we only include observations that had one or more disembarked slaves in that year; however, the correlation remains robust when including locations with zero disembarked slaves. 
+
+The remainder of the paper is organized as follows. Section 2 describes the data and the construction of globally comparable real wages and presents our timeseries results. Section 3 situates Brazil’s wages globally. Section 4 presents the model and its economic implications. Section 5 estimates the causal effects of prohibition shocks on wages. Section 6 shows historical evidence for other mechanisms of the model. Section 7 concludes. 
+
+5
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.867]
+Sources: For Brazil, foodstuffs based on Mattoso (1992); for Europe, Allen et al. (2011); for South America Abad et al. (2012); for the United States Allen et al. (2012); for Asia Allen et al. (2011); and for Africa Frankema and van Waijenburg (2012). See Appendix E for conversion metrics and further details. 
+
+**Occupations and wages** We collect daily wages free and enslaved unskilled workers. The unskilled workers were called _serventes_ which we translate to “helpers.” The choice of these construction sector occupations is typical in this literature because it is a type of work that change little between countries, enabling a comparative analysis. These occupations are also the most largely available for extended periods of time, since first settlement as is the case of Bahia and Rio de Janeiro. They also represent a large share of the urban labor market: artisans made up on average 28% of the workers in Salvador around the middle of the nineteenth century (Nascimento, 2021).<sup>10</sup> 
+
+The daily wages are always market wages and do not include in-kind transfers. To build annual series we assume a labor year with 250 working days, as it is standard in the literature.<sup>11</sup> We use annual wages only in the comparative analysis in Section 3, where for all the other places we are also assuming 250 working days, so none of 
+
+> 10 Depending on the parish and census year, the share of artisans varied from 18% to 36%. 
+
+> 11Mattoso (1992) shows that discounting holidays and one resting day per week, the 250-day assumption is realistic for the Brazilian case. 
+
+9 
+
+the results depend on this assumption. In the analysis of the slave trade prohibition shocks, in Section 5, we use daily wages for all places including Salvador and Rio. 
+
+**Real wages** Using the price of the annual bare-bones basket for an adult individual, we deflate the nominal annual wage series to arrive at the real wage series.
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.862]
+## Online Appendix for “African Slavery and the Reckoning of Brazil” by Lambais and Palma 
+
+|**A **|**Historical background**|**2**|
+|---|---|---|
+|**B **|**Archival sources**|**4**|
+|**C **|**Sample images from the archives**|**6**|
+|**D **|**The fnal dataset**|**7**|
+|**E **|**Weights and measures**|**12**|
+|**F **|**Price and wage comparisons between cities**|**12**|
+|**G **|**Additional real wages**|**14**|
+|**H **|**International comparisons by location**|**14**|
+|**I**|**From static allocation to the law of motion**|**18**|
+|**J**|**Robustness checks for the main results**|**20**|
+|**K **|**Reallocation in Salvador and Rio**|**25**|
+|**L **|**Illustrations of technical change**|**26**|
+|**Ap**|**pendix References**|**27**|
+
+
+
+1
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.836]
+A slave-trade ban increases _τ_ , shifting _p_ ( _Ls_ ; _τ_ ) upward and (through higher risks) raising _κ_ ; this shifts the entire map downward. If the shift is large enough, it eliminates the high-slavery fixed point, leaving only the low-slavery steady state. Figure 5 illustrates this argument: The solid pre-ban curve crosses the 45° line at low and high _Ls_ , while the dotted post-ban curve, of the same shape but slightly lower, preserves only the low crossing. 
+
+In general, any prohibition or blockade raises trade frictions _τ_ , shifting up the effective use cost of enslaved labor _p_ ( _Ls_ ; _τ_ ) for any given _Ls_ . An increase in _τ_ raises the cutoff _s_ ¯, thus fewer tasks employ enslaved labor and _Ls_ falls.<sup>27</sup> This static task reallocation triggers a dynamic feedback: As tasks switch away from enslaved labor, demand for free labor rises, which bids up the base wage _w_ under an upward-sloping free-labor supply. A higher _w_ increases coercion costs _κ_ ( _·_ ) (outside options improve and monitoring costs increase), which further raises the unit cost of enslaved labor and deepens the contraction in _Ls_ . Over time, directed technical change raise _Af_ ( _s_ ) 
+
+> 27Our slave price series are _sale_ prices (see Section 2.2 and Appendix B). Our model uses the _perperiod_ effective price (a rental/user cost). One can write the rental price as the sales price multiplied by _u_ = _r_ + _δ − πp_ + _m_ , where _r_ is the interest rate, _δ_ captures losses (mortality and escape, for example), _πp_ is the expected price appreciation, and _m_ other holding risks. For exposition we absorb _u_ into _p_ ( _·_ ) and work directly with _p_ ( _Ls_ ; _τ_ ). Under prohibition in Brazil, both the salve price (scarcer imports) and _u_ (higher holding costs) plausibly rose, so the effective unit price relevant for allocation increased even more. The economic implications of our model therefore carry over when using sale-price evidence. 
+
+17
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.815]
+#### **2.3 Results** 
+
+We now describe our main results for real wages in Salvador and Rio. Figure 2 shows real wages for unskilled workers.<sup>19</sup> We find that real wages were well above subsistence from first settlement until the beginning of the eighteenth century.<sup>20</sup> 
+
+Real wages in Brazil then trended down over time, even reaching subsistence for brief periods in the early nineteenth century. After the gold boom peak (with further encouraged import of slaves to parts of Brazil), real wages temporarily plateaued and then began to quickly fall again, similar to the macroeconomic performance of European Portugal (Palma & Reis, 2019; Kedrosky & Palma, 2025).<sup>21</sup> This fall 
+
+17This is also the difference of our dataset from earlier works that used the São Francisco do Conde account books such as Schwartz (1985). We use the complete set of manuscripts, combining the account book already transcribed in Instituto do Açúcar e do Álcool (1956) with newly transcribed manuscripts, making this also a novel addition to the literature, so it is not necessary to use these authors as secondary sources. 
+
+> 18We restricted our selection to records from the eighteenth century because that is the earliest period available at the archive, while data for the nineteenth century was already available from other sources. We selected the records based on a mix of early availability at the archives and a random 10% sample. In all, we were able to find some data points between 1700 and 1793. Note that the probate records that we reference in Appendix B are the ones that we found these data points, but that we have read many more. 
+
+> 19In Figure G.1 we measure the real wage in working days instead, following Allen and Weisdorf (2011). 
+
+> 20Research for other frontier societies also suggests that early settlers chose the most productive locations to initially settle (Cilliers et al., 2023). Schwartz (1973) classifies the Brazilian sugar mill ( _engenho_ ) as a “frontier institution.” 
+
+> 21Large quantities of gold were found in Minas Gerais, far away from Salvador or Rio; but as they generated much internal and external migration in the context of the ensuring gold rush, this 
+
+8
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.802]
+> 24While it would be interesting to include Cuba, which is also known to have participated heavily in the slave trade, we are not aware of real wage data for it in the nineteenth century or before. But the information that exists for the twentieth century suggests that Cuba became a prosperous middle-income economy after the end of slavery, and by the 1920s had an income per capita level which approached that of Western Europe and the US South (Ward & Devereux, 2012). 
+
+> 25It is interesting to note that for the only year that we have a real wage observation for Jamaica it is at the same level as in Brazil (see Figure H.6 in the Appendix H). 
+
+12 
+
+
+
+<!-- Start of picture text -->
+(a) Slaves disembarked in the Americas (b) Slaves disembarked and real wages in Brazil<br>1,000,000 1,000,000 10.0<br>750,000 750,000 7.5<br>500,000 500,000 5.0<br>250,000 250,000 2.5<br>0 0 0.0<br>1550 1600 1650 1700 1750 1800 1850 1900 1550 1600 1650 1700 1750 1800 1850 1900<br>Jamaica Middle Colonies Rio de la Plata Spanish Americas<br>Unskilled real wage (right) Slaves disembarked (left)<br>Lower South Colonies New England Salvador/Rio Upper South Colonies<br>Slaves disembarked Slaves disembarked<br>Real wage (number of baskets)<br><!-- End of picture text -->
+
+Figure 4: The slave trade and real wages 
+
+Sources: Slaves disembarked: Slave Voyages (2023b). Real wages in Brazil: see Section 2.2 and Appendix B for details on the sources. 
+
+_Notes_ : The observations correspond to fifty-year averages around the dates shown in the figure. In the left panel, we aggregate locations for which we have real wages to match them to corresponding specific regions of disembarkation in the Slave Voyages (2023b) database. In the right panel, real wages are measured in annual subsistence baskets.
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.793]
+7On the matter of Brazil failing to develop because it specialized for centuries in producing cheap people see also Leff (1972b, 1982), and Allen et al. (2012) for Spanish America. 
+
+3 
+
+direction of technical change in a major New World economy which was the leading importer of slaves. We also provide an explanation for the causes of Brazil’s initial development path, aligning with the timing and magnitude of the changes in income levels observed over time. In doing so, our results have broad implications for the literature that explains the differential development of New World economies.<sup>8</sup> 
+
+Our results support work which suggests that market wages were suppressed in societies that relied heavily on unfree labor (Naidu & Yuchtman, 2013; Dippel et al., 2020; Korchmina, 2024). In addition, we add causal evidence to debates on slavery and modern economic growth, suggesting the reliance on slavery was not an appropriate foundation for the emergence of modern economic growth (Acemoglu et al., 2012; Olmstead & Rhode, 2018; Wright, 2020; Palma et al., 2021; Wright, 2022; Gardner, 2023; Carvalhal & Palma, 2024; Jung & Yoon, 2025). Slavery certainly enriched a limited number of merchants. Still, it led to a society that was not conducive to broad economic development, even if changing the associated political equilibrium was difficult (Acemoglu, 2003; Ogilvie, 2007). 
+
+By providing evidence on Brazil, we additionally cover the case of a country which, despite its large size and historical importance, is usually left out of international comparisons.<sup>9</sup> Prior to our study, no comparative or systematic data existed for Brazil before the nineteenth century, and for that century, some partial and indirect evidence suggested slow or negative income growth.<sup>10</sup> We find that during most of the nineteenth century, real wages for unskilled workers increased.
+
+---
+
+[referencia=6b05c8ff2cb6eec3 score=0.786]
+#### **5.5 Robustness** 
+
+In Appendix J we present the results for a series of robustness exercises. We apply three exercises: 1) change how we measure the outcome, 2) change the donor pool in many ways, 3) include the price index as a control. To check for robustness in the way we measure our outcomes, we re-estimate our main results with unskilled wages as log wages. The results remain very similar. In our main analysis, to choose the donor pool we do not actively pre-screen or engage in any type of selection; we are only constrained by the data availability in the literature. We included all studies we could find that have comparable wages in the period of the prohibition shocks. Still, one could argue we do not have an appropriate donor pool because the control locations are too different from Brazil. In addition, one could argue that some locations in the donor pool are indirectly affected by the slave trade prohibition shocks, such as Antwerp and Amsterdam that were relevant trading ports in the nineteenth century. We address these issues by changing the control groups in many ways for the main estimates: 1) keeping only locations in Latin America and Java, which can be considered more similar in the experience of commodity booms in the nineteenth century; 2) keeping only locations in Latin America and Asia, which effectively excludes places in Europe that could be importing Brazilian commodities; 3) keeping only locations with similar levels of real wages during the period of the shocks independent of the continent; 4) a “leave-one-out” approach with all available locations. Our results are robust to all donor pool changes. At last, we show that coefficients are practically unchanged with the inclusion of the price index in each location as a control. 
+
+27 
+
+Table 2: The effect of slave trade prohibition shocks on unskilled wages

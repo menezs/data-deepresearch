@@ -1,0 +1,75 @@
+[referencia=92895631aed2cfed score=0.310]
+## Hesitação vacinal no Acre
+
+Dados do Anuário VacinaBR 2025 mostram uma diferença acentuada entre as regiões Norte e Sul do país. Enquanto estados do Sul apresentam coberturas mais elevadas, a região Norte concentra alguns dos menores índices de vacinação.
+
+A menor taxa é do Acre. Em 2024, a cobertura da primeira dose da vacina contra o HPV alcançou 61,1% das meninas no estado. No que mais vacinou, Paraná, a taxa foi de 113,1%.
+
+Índices acima de 100%, como o do Paraná, ocorrem quando o número de vacinados supera a estimativa oficial do público-alvo para a região, porque a população cresceu e o dado não foi atualizado, ou porque entram na conta pessoas vindas de outras regiões.
+
+Entre os meninos, a diferença foi ainda maior: 25,5% no Acre contra 85,4% no Espírito Santo, estado com maior taxa de vacinação entre meninos.
+
+A baixa adesão no Acre pode estar relacionada ao medo. Nos anos de 2016 e 2017, adolescentes apresentaram quadros de desmaios, dores e convulsões após campanha de vacinação nas escolas do estado. Estudos concluíram que não foi a vacina, mas sim o estresse e o pânico que levaram aos sintomas físicos, um fenômeno chamado "reação psicogênica coletiva".
+
+O diretor-executivo do Instituto Questão de Ciência, Paulo Almeida, criador do VacinaBR, acredita que a demora das autoridades acrianas em responder ao problema deu margem para a proliferação de teorias conspiratórias e grupos antivacina na região.
+
+O pesquisador também aponta que alguns médicos manifestam descrença e se mostram receosos em recomendar o imunizante aos pais, intensificando o problema.
+
+Para combater a desinformação —apontada pelo Ministério da Saúde como a principal força do movimento antivacina—, o governo federal retomou as campanhas de vacinação nas escolas.
+
+---
+
+[referencia=92895631aed2cfed score=0.109]
+Para combater a desinformação —apontada pelo Ministério da Saúde como a principal força do movimento antivacina—, o governo federal retomou as campanhas de vacinação nas escolas.
+
+Segundo Eder Gatti, diretor do Programa Nacional de Imunizações, a iniciativa também conta com a parceria do Fundo das Nações Unidas para a Infância no Acre, a fim de mapear as particularidades locais e superar a hesitação vacinal.
+
+---
+
+[referencia=92895631aed2cfed score=0.013]
+A aplicação gratuita do imunizante fora dessa faixa etária se limita a casos específicos: pessoas imunossuprimidas de 9 a 45 anos; pessoas vivendo com HIV; transplantados; pacientes com câncer; usuários de PrEP (drogas antirretrovirais usadas antes da exposição ao HIV); vítimas de violência sexual e pessoas com papilomatose respiratória recorrente.
+
+O HPV é responsável pela quase totalidade dos casos de câncer do colo do útero e também está associado a cânceres de pênis, ânus, vulva, vagina e orofaringe (região da garganta que fica entre o céu da boca e a glote). Mesmo assim, há desafios a vencer na conscientização sobre a importância da vacina.
+
+---
+
+[referencia=92895631aed2cfed score=0.007]
+## Renda dos pais não eleva taxas
+
+A educação ainda é o fator preponderante para elevar as taxas de imunização contra o HPV. Um estudo da ARO Einstein, braço de pesquisa do Einstein Hospital Israelita, em São Paulo, se debruçou sobre dados da Pesquisa Nacional de Saúde Escolar para entender as dificuldades da cobertura.
+
+Eles analisaram o cenário nacional após 2024, quando o Ministério da Saúde adotou o esquema de dose única, por entender que ela protegia crianças e adolescentes tão bem quanto duas doses.
+
+Os pesquisadores não encontraram correlação imediata entre renda e taxa de imunização.
+
+Um dado inesperado para a equipe foi encontrar números mais baixos entre meninas de estratos sociais mais elevados. Para Lucas Ferreira, coautor do estudo, isso pode ter a ver com a hesitação vacinal entre parcelas mais conservadoras, "que tendem a ter menor adesão [a vacinas em geral]".
+
+Um dos achados do estudo desmente um temor comum entre os pais, o de que a imunização contra uma infecção sexualmente transmissível (IST) estimule o início precoce da vida sexual. "Entre as meninas vacinadas, a atividade começou até mais tarde", esclarece Henrique Fonseca, pesquisador-sênior do estudo e líder da unidade de estudos clínicos em imunologia e vacinas da ARO Einstein.
+
+Essas meninas são também as que têm melhor grau de educação sexual, reforçando a importância de informar diretamente o adolescente.
+
+Para atender aos jovens que perderam a vacinação na idade certa, o Ministério da Saúde prorrogou até dezembro de 2026 a estratégia de resgate vacinal contra o HPV. Agora, adolescentes e jovens de 15 a 19 anos que ainda não tomaram nenhuma dose podem procurar as unidades básicas de saúde próximas de casa para receber o imunizante gratuitamente pelo SUS.
+
+---
+
+[referencia=92895631aed2cfed score=0.001]
+A geógrafa paranaense Maria Júlia Pimenta era adolescente quando descobriu, em uma consulta de rotina com a ginecologista, que deveria ter tomado a vacina contra o HPV (papilomavírus humano) anos antes. Até então, ela desconhecia a importância da imunização.
+
+Hoje com 26 anos, Pimenta fez parte da primeira geração a ter acesso pela rede pública à vacina contra os quatro tipos mais comuns do HPV. O imunizante quadrivalente foi incorporado pelo SUS (Sistema Único de Saúde) em 2014. Mas ela descobriu isso aos 17 anos, quando já estava fora da faixa-alvo, que é dos 9 aos 14 anos.
+
+Na consulta, a médica explicou a Pimenta que ela ainda poderia tomar a vacina nonavalente na rede particular. No entanto, são requeridas três doses desse fármaco, que protege contra os mesmos quatro tipos e outros cinco, também frequentes. O custo total de cerca de R$ 2.700 fez com que até hoje ela não tenha se imunizado.
+
+O Ministério da Saúde estabelece a meta de 90% de cobertura vacinal contra o HPV até 2030. O país está próximo do objetivo entre o público feminino (86,22% de adesão entre meninas de 9 a 14 anos em 2025), mas o índice cai para meninos da mesma faixa etária (74,55%).
+
+A infecção pelo HPV se dá principalmente pelo contato sexual. É por esse motivo que o SUS determina que crianças e adolescentes sejam o alvo das campanhas. Nessa faixa etária, eles não tiveram exposição ao vírus e também têm uma melhor resposta imunológica.
+
+---
+
+[referencia=92895631aed2cfed score=0.000]
+Gatti explica que a prorrogação busca reverter a queda na cobertura vacinal ocorrida em 2021 e 2022. O Ministério descarta a ampliação de doses para maiores de 19 anos, focando o público de 9 a 14 anos por recomendação internacional, o que garante maior impacto coletivo na prevenção contra o câncer.
+
+Esta reportagem foi produzida durante o 11º Programa de Treinamento em Jornalismo de Saúde da **Folha**, que teve apoio do Einstein Hospital Israelita e do Laboratório Roche.
+
+## Comentários
+
+Os comentários não representam a opinião do jornal; a responsabilidade é do autor da mensagem.

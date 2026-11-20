@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-0",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 0,
+    "text": "Semaglutide, originally developed as a long-acting glucagon-like peptide-1 (GLP-1) receptor agonist for glycemic control in type 2 diabetes and later approved for chronic weight management, produces broad cardiovascular, renal, hepatic, vascular, musculoskeletal, and neurobehavioral effects that extend well beyond body-weight reduction.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42",
+      "83422a560b1359a7",
+      "3ed2d75d95d9fd3a",
+      "eb61872878dab4b7",
+      "1a165f4b8c91918f",
+      "b95c0fedb8d9d8a4",
+      "66625f5741ca7ad1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-1",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 1,
+    "text": "Randomized outcome trials reported through 2026 show that semaglutide reduces major adverse cardiovascular events (MACE) by 20% in adults with overweight or obesity and cardiovascular disease without diabetes (SELECT) and by 14% with an oral tablet in high-risk type 2 diabetes (SOUL), lowers a composite of major kidney disease events or cardiovascular death by 24% in diabetic chronic kidney disease (FLOW), improves symptoms and physical capacity while associating with fewer worsening heart failure events in obesity-related heart failure with preserved ejection fraction (STEP-HFpEF program), extends walking distance in type 2 diabetes with symptomatic peripheral artery disease (STRIDE), and induces steatohepatitis resolution and fibrosis regression in non-cirrhotic metabolic dysfunction–associated steatohepatitis (ESSENCE).",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]",
+      "[5]",
+      "[6]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42",
+      "83422a560b1359a7",
+      "3ed2d75d95d9fd3a",
+      "eb61872878dab4b7",
+      "1a165f4b8c91918f",
+      "b95c0fedb8d9d8a4",
+      "66625f5741ca7ad1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-2",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 2,
+    "text": "Biomarker trajectories and exploratory mediation studies indicate that systemic inflammation drops before major weight loss and independently of baseline adiposity, while counterfactual modeling in SELECT shows that measured weight change alone cannot explain the majority of cardiovascular protection.",
+    "cited_markers": [
+      "[8]",
+      "[9]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "ec5f29001f160c05",
+      "1661cf7c1e88b2da",
+      "f88f99503bfed62d",
+      "06223bb9ec2da914"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-3",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 3,
+    "text": "At the same time, clinical readouts through 2026 have sharply defined the boundaries and clinical trade-offs of GLP-1 pleiotropy.",
+    "cited_markers": [
+      "[12]",
+      "[13]",
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "706bb87bfd285b19",
+      "1f54e67feb11f827",
+      "f2f1f20ec57e14f1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-4",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 4,
+    "text": "Two large Phase 3 trials in early symptomatic Alzheimer's disease (EVOKE and EVOKE+) failed to slow clinical progression despite modest cerebrospinal fluid biomarker shifts, highlighting limited central exposure across the human blood-brain barrier and the gap between observational associations and established neurodegeneration.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "706bb87bfd285b19"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-5",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 5,
+    "text": "Conversely, early Phase 2 randomized trials in alcohol use disorder demonstrate reductions in heavy drinking days, drinks per drinking day, and naturalistic alcohol craving, though the oral trial missed its primary laboratory cue-elicited craving endpoint.",
+    "cited_markers": [
+      "[13]",
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "1f54e67feb11f827",
+      "f2f1f20ec57e14f1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-6",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 6,
+    "text": "Across every clinical indication, these multi-organ gains must be weighed against lean body mass loss and heightened bone resorption, severe gastrointestinal dysmotility, regulatory warnings through November 2026 regarding rare non-arteritic anterior ischemic optic neuropathy (NAION), and rapid cardiometabolic rebound after treatment discontinuation.",
+    "cited_markers": [
+      "[15]",
+      "[16]",
+      "[17]",
+      "[18]",
+      "[19]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "c11d87854dd15515",
+      "978a7e1d95773919",
+      "bff4f88cda9a114b",
+      "9452584191e1d182",
+      "3732f46349cec28e",
+      "1f0bde2c2b7643aa"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-7",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 7,
+    "text": "Semaglutide achieves sustained systemic exposure through structural modifications to native human GLP-1—including a peptide spacer and a C-18 fatty acid side chain—that enable reversible binding to circulating human serum albumin, protecting the molecule from enzymatic degradation and renal filtration.",
+    "cited_markers": [
+      "[21]",
+      "[22]",
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "bebe6cfed8cd9d7c",
+      "200430f919b38cc1",
+      "020e6ddbcdb3132b"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-8",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 8,
+    "text": "This engineering extends the elimination half-life of semaglutide to approximately 165 hours (roughly seven days), allowing once-weekly subcutaneous administration to reach steady-state plasma concentrations after four to five weeks.",
+    "cited_markers": [
+      "[21]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "bebe6cfed8cd9d7c",
+      "200430f919b38cc1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-9",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 9,
+    "text": "Engagement of the class B G-protein-coupled GLP-1 receptor (GLP-1R) elevates intracellular cyclic adenosine monophosphate (cAMP) and activates protein kinase A (PKA) signaling across metabolic, vascular, renal, and neural targets.",
+    "cited_markers": [
+      "[24]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "343ec7eb93410477",
+      "8cb78cb7fede837a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-10",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 10,
+    "text": "To permit oral delivery without injection, the tablet formulation (Rybelsus) co-formulates semaglutide with 300 mg of salcaprozate sodium (SNAC), a fatty acid derivative that provides localized gastric buffering and transiently increases transcellular epithelial permeability around the eroding tablet.",
+    "cited_markers": [
+      "[26]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "a79b9a1b5929a3c3",
+      "ecf50d756d9b4478"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-11",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 11,
+    "text": "Unlike typical oral medications absorbed in the intestine, oral semaglutide is absorbed in the stomach with a fasting bioavailability of 0.4% to 1%, necessitating fasting administration with minimal water.",
+    "cited_markers": [
+      "[27]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "ecf50d756d9b4478",
+      "2ae0a30788703213"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-12",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 12,
+    "text": "Once in the bloodstream, SNAC rapidly dissociates, leaving oral semaglutide pharmacologically identical to subcutaneous semaglutide; metabolism proceeds via proteolytic backbone cleavage by dipeptidyl peptidase-4 (DPP-4) and neutral endopeptidases alongside sequential beta-oxidation of the fatty diacid chain.",
+    "cited_markers": [
+      "[26]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "a79b9a1b5929a3c3",
+      "ecf50d756d9b4478"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-13",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 13,
+    "text": "Renal and hepatic impairment do not meaningfully alter semaglutide pharmacokinetics, and drug-interaction studies show no clinically relevant concentration changes with omeprazole, lisinopril, warfarin, metformin, digoxin, ethinyl estradiol/levonorgestrel, rosuvastatin, or furosemide, although higher exposure to SNAC or its metabolites remains plausible in individuals with weak UGT2B7 activity or compromised hepatic function.",
+    "cited_markers": [
+      "[26]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "a79b9a1b5929a3c3",
+      "ecf50d756d9b4478"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-14",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 14,
+    "text": "Mapping human GLP-1R distribution explains why semaglutide acts directly in some organs and indirectly in others, while exposing major divergences from rodent physiology.",
+    "cited_markers": [
+      "[24]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "343ec7eb93410477",
+      "d1149bbb7df29fde"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-15",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 15,
+    "text": "Quantitative polymerase chain reaction assays across all four human heart chambers detect GLP1R mRNA at levels comparable to human pancreatic islets, yet histological examination of 35 human hearts using in situ hybridization and immunocytochemistry localized definitive receptor-positive cells specifically to the sinoatrial node rather than ventricular myocardium.",
+    "cited_markers": [
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "d1149bbb7df29fde"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-16",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 16,
+    "text": "Comparative single-cell transcriptomics underscores this complexity: murine cardiac Glp1r is largely restricted to endothelial cells and ventricular endocardium, whereas human RNA sequencing identifies GLP1R transcripts in subsets of atrial and ventricular cardiomyocytes, leaving the precise cellular identity of translated human ventricular GLP-1R protein unresolved.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "343ec7eb93410477"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-17",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 17,
+    "text": "In the human kidney, receptor expression is limited overall, with low mRNA levels in endothelial cells, vascular smooth muscle cells, and glomerular podocytes and primary enrichment in renin-expressing juxtaglomerular cells that regulate tubuloglomerular feedback.",
+    "cited_markers": [
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "cb77f027d2b76893"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-18",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 18,
+    "text": "Within vascular beds, GLP-1R activation restores endothelial progenitor cell proliferation and angiogenic vascular endothelial growth factor (VEGF) signaling while suppressing oxidative stress and inflammatory cytokines.",
+    "cited_markers": [
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "2965df6a6d2f63a2"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-19",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 19,
+    "text": "By contrast, hepatocyte-directed clinical improvements in liver disease appear to be mediated predominantly through extrahepatic metabolic, insulin-sensitizing, and anti-inflammatory pathways rather than direct parenchymal receptor signaling.",
+    "cited_markers": [
+      "[32]",
+      "[33]"
+    ],
+    "cited_reference_ids": [
+      "4edb8443a18e7743",
+      "6c9eff9a0f3d85e5"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-20",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 20,
+    "text": "In the central nervous system, albumin-bound semaglutide exhibits minimal passive crossing of the intact blood-brain barrier and instead accesses hindbrain and hypothalamic feeding and reward circuits primarily via circumventricular organs and tanycytes lining the ventricular walls.",
+    "cited_markers": [
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "5ae587d6739bb1d1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-21",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 21,
+    "text": "Cardiovascular efficacy was initially established in type 2 diabetes regulatory safety trials before extending to obesity without diabetes and daily oral regimens.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42",
+      "83422a560b1359a7",
+      "a153f343ab7c4cb5"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-22",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 22,
+    "text": "In the SUSTAIN-6 trial of once-weekly subcutaneous semaglutide (0.5 mg or 1.0 mg) and the PIONEER-6 trial of once-daily oral semaglutide, three-point MACE (cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke) occurred less frequently than with placebo, yielding hazard ratios (HRs) of 0.74 (95% confidence interval [CI] 0.58–0.95) and 0.79 (95% CI 0.57–1.11), respectively, with PIONEER-6 demonstrating notable reductions in cardiovascular and all-cause mortality.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "a153f343ab7c4cb5"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-23",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 23,
+    "text": "Pooling individual participant data from SUSTAIN-6 and PIONEER-6 yielded an overall MACE HR of 0.76 (95% CI 0.62–0.92), accompanied in post hoc subtype analyses by lower stroke incidence among patients without prior stroke (HR 0.60, 95% CI 0.37–0.99).",
+    "cited_markers": [
+      "[36]",
+      "[37]"
+    ],
+    "cited_reference_ids": [
+      "2dce5ff2a7e1a4ca",
+      "c0c7b1fb23e5b8d0"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-24",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 24,
+    "text": "The SELECT trial decisively decoupled semaglutide's cardioprotection from diabetes.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-25",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 25,
+    "text": "Enrolling 17,604 adults aged 45 years or older with a body mass index (BMI) of 27 kg/m² or greater (mean 33.3 kg/m²), established cardiovascular disease (76% prior myocardial infarction, 23% prior stroke, 9% symptomatic peripheral artery disease), and no history of diabetes alongside 88% baseline statin therapy, SELECT randomized participants to once-weekly subcutaneous semaglutide 2.4 mg or placebo over a mean follow-up of 40 months.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-26",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 26,
+    "text": "Semaglutide reduced three-point MACE by 20% (6.5% vs. 8.0%; HR 0.80, 95% CI 0.72–0.90, P < 0.001), lowered nonfatal myocardial infarction by 28% (HR 0.72, 95% CI 0.61–0.85), cut all-cause mortality by 19% (HR 0.81, 95% CI 0.71–0.93), reduced a composite of cardiovascular death or heart failure hospitalization by 18% (HR 0.82, 95% CI 0.71–0.96), and curbed progression to biochemical diabetes (HbA1c ≥ 6.5%) by 73% (3.5% vs. 12.0%; HR 0.27, 95% CI 0.24–0.31), supporting US Food and Drug Administration (FDA) approval of Wegovy for cardiovascular risk reduction in March 2024.",
+    "cited_markers": [
+      "[1]",
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42",
+      "d8283ec02067cd8e"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-27",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 27,
+    "text": "Subsequently, the Phase 3b SOUL trial evaluated oral semaglutide (escalated to 14 mg daily) versus placebo across 9,650 adults with type 2 diabetes and atherosclerotic cardiovascular disease, chronic kidney disease, or both over a median follow-up of 49.5 months.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "83422a560b1359a7"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-28",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 28,
+    "text": "Oral semaglutide lowered three-point MACE by 14% (12.0% vs. 13.8%; HR 0.86, 95% CI 0.77–0.96, P = 0.006), though secondary composites for major kidney events and major adverse limb events did not differ significantly.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "83422a560b1359a7"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-29",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 29,
+    "text": "Crucially, 26.9% of SOUL participants used a sodium-glucose cotransporter-2 (SGLT2) inhibitor at baseline and 48.9% received one during the trial, yet MACE protection remained consistent regardless of concomitant SGLT2 inhibitor use (P-interaction = 0.66), supporting FDA approval of Rybelsus for cardiovascular event reduction in high-risk type 2 diabetes.",
+    "cited_markers": [
+      "[39]",
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "846b28be0e57e7b3",
+      "4a985e6acad2a753"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-30",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 30,
+    "text": "Because SELECT participants lost a mean 9.4% of body weight at 104 weeks compared with 0.9% on placebo, prespecified analyses tested whether cardiovascular benefit depended on weight loss.",
+    "cited_markers": [
+      "[1]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42",
+      "1661cf7c1e88b2da"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-31",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 31,
+    "text": "A Lancet report (November 2025) demonstrated that MACE reductions occurred independently of baseline adiposity and showed no mediation by time-varying weight loss, whereas early 20-week reductions in waist circumference accounted for roughly 33% of MACE reduction.",
+    "cited_markers": [
+      "[9]",
+      "[41]"
+    ],
+    "cited_reference_ids": [
+      "1661cf7c1e88b2da",
+      "d886c9b3c1bc4745"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-32",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 32,
+    "text": "In September 2026, a formal Vansteelandt counterfactual mediation analysis in the European Heart Journal evaluated 12 candidate mediators at 24 months.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "ec5f29001f160c05"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-33",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 33,
+    "text": "Individual point estimates for percentage mediation were 64.0% for waist circumference (95% CI 27.5–179.6), 42.1% for high-sensitivity C-reactive protein (hsCRP; 95% CI 17.9–110.5), 29.0% for HbA1c (95% CI −20.7–120.5), and 19.5% for body weight (95% CI −33.0–110.7), while multivariable joint mediation reached 31.4% across all 12 variables—or 46.0% when weight and waist circumference were excluded.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "ec5f29001f160c05"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-34",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 34,
+    "text": "However, every confidence interval spanned wide uncertainty bounds and supplementary analyses revealed differing relationships between adiposity shifts and MACE across treatment arms, leading investigators to conclude that standard risk factors cannot account for semaglutide's MACE reduction with certainty.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "ec5f29001f160c05"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-35",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 35,
+    "text": "Supporting a direct anti-inflammatory contribution, a dedicated SELECT biomarker substudy showed that semaglutide lowered plasma hsCRP across all baseline inflammatory strata before substantial weight loss occurred, even in patients who lost no weight, and independently of statin therapy or lipid shifts.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "f88f99503bfed62d"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-36",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 36,
+    "text": "Semaglutide has transformed therapeutic expectations in obesity-related heart failure with preserved ejection fraction (HFpEF), a phenotype closely linked to visceral adiposity, systemic inflammation, and impaired diastolic filling.",
+    "cited_markers": [
+      "[4]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "eb61872878dab4b7",
+      "1a165f4b8c91918f"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-37",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 37,
+    "text": "In the 52-week STEP-HFpEF trial of 529 patients without diabetes (left ventricular ejection fraction ≥ 45%, median BMI 37 kg/m²), weekly semaglutide 2.4 mg improved the Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (KCCQ-CSS) by 16.6 points versus 8.7 points with placebo (P < 0.001), increased six-minute walk distance (6MWD) by 21.5 m versus 1.2 m (P < 0.001), lowered N-terminal pro–B-type natriuretic peptide (NT-proBNP) by 20.9% versus 5.3% (P < 0.05), and reduced heart failure hospitalizations or urgent visits from 12 to 1 event (P < 0.05) alongside 13.3% versus 2.6% weight loss.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "eb61872878dab4b7"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-38",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 38,
+    "text": "In the companion STEP-HFpEF DM trial in patients with obesity-related HFpEF and type 2 diabetes—33% of whom took SGLT2 inhibitors at baseline—semaglutide produced comparable improvements in KCCQ-CSS (+13.7 vs. +6.4 points), 6MWD (+12.7 vs. −1.6 m, P = 0.008), NT-proBNP (−23.2% vs. −4.6%, P < 0.05), and time-to-first heart failure events (7 vs. 18; HR 0.40, 95% CI 0.15–0.92), even though weight loss was smaller (−9.8% vs. −3.4%, P < 0.001).",
+    "cited_markers": [
+      "[5]",
+      "[42]"
+    ],
+    "cited_reference_ids": [
+      "1a165f4b8c91918f",
+      "b273cd141d5b4e4f"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-39",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 39,
+    "text": "In the prespecified pooled analysis of 1,145 patients across both trials, semaglutide achieved a 7.5-point net KCCQ-CSS gain (P < 0.0001), a 17.1 m net 6MWD increase (P < 0.0001), a hierarchical composite win ratio of 1.65 (95% CI 1.42–1.91, P < 0.0001), and a 36% relative CRP reduction (estimated treatment ratio [ETR] 0.64, P < 0.0001).",
+    "cited_markers": [
+      "[43]"
+    ],
+    "cited_reference_ids": [
+      "fb7245323a2daeff"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-40",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 40,
+    "text": "Crucially, a dedicated NT-proBNP analysis showed that semaglutide reduced NT-proBNP by 22.19% versus 4.87% at week 52 (ETR 0.82, P = 0.0002), and patients in the highest baseline NT-proBNP tertile experienced significantly greater symptom relief despite achieving the same weight loss as lower-NT-proBNP tertiles (P-interaction = 0.0044), pointing toward hemodynamic decongestion beyond mechanical unloading.",
+    "cited_markers": [
+      "[11]",
+      "[44]"
+    ],
+    "cited_reference_ids": [
+      "06223bb9ec2da914",
+      "7c3945ced8888a3c"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-41",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 41,
+    "text": "Across a four-trial participant-level pooled analysis of SELECT, FLOW, STEP-HFpEF, and STEP-HFpEF DM in patients with mildly reduced or preserved ejection fraction, semaglutide was associated with a 41% lower risk of worsening heart failure events (2.8% vs. 4.7%; HR 0.59, 95% CI 0.41–0.82, P = 0.0019), although cardiovascular death alone was not significantly reduced (HR 0.82, P = 0.25) and analyses were unadjusted for multiplicity.",
+    "cited_markers": [
+      "[45]",
+      "[46]"
+    ],
+    "cited_reference_ids": [
+      "e2524e90e0c5f84c",
+      "4b96ecae0ddbeca2"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-42",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 42,
+    "text": "Semaglutide does not yet hold a dedicated US FDA heart failure label, and evidence in heart failure with reduced ejection fraction remains limited, with SELECT showing statistically inconclusive subgroup hazard ratios.",
+    "cited_markers": [
+      "[1]",
+      "[45]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42",
+      "e2524e90e0c5f84c"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-43",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 43,
+    "text": "Functional vascular benefit also extends to lower-extremity atherosclerotic disease.",
+    "cited_markers": [
+      "[6]",
+      "[47]"
+    ],
+    "cited_reference_ids": [
+      "b95c0fedb8d9d8a4",
+      "e414fe6db4ffb893"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-44",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 44,
+    "text": "The Phase 3b STRIDE trial (2025) randomized 792 adults across 20 countries with type 2 diabetes and symptomatic peripheral artery disease (Fontaine stage IIa intermittent claudication, ankle-brachial index ≤ 0.90 or toe-brachial index ≤ 0.70, mean BMI 29.6 kg/m²) to subcutaneous semaglutide 1.0 mg weekly or placebo for 52 weeks.",
+    "cited_markers": [
+      "[6]",
+      "[47]",
+      "[50]"
+    ],
+    "cited_reference_ids": [
+      "b95c0fedb8d9d8a4",
+      "e414fe6db4ffb893",
+      "488ee0f3e0e2c901"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-45",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 45,
+    "text": "On a constant-load treadmill test, the median ratio to baseline in maximum walking distance at week 52 was 1.21 with semaglutide versus 1.08 with placebo (ETR 1.13, 95% CI 1.06–1.21, P = 0.0004), alongside improved pain-free walking distance (ETR 1.11, P = 0.0046), Vascular Quality of Life Questionnaire-6 scores (+1.00 point, P = 0.011), durability at week 57 (ETR 1.08, P = 0.038), and a 54% reported reduction in disease progression.",
+    "cited_markers": [
+      "[6]",
+      "[47]",
+      "[49]"
+    ],
+    "cited_reference_ids": [
+      "b95c0fedb8d9d8a4",
+      "e414fe6db4ffb893",
+      "a6c06b2f2f926693"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-46",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 46,
+    "text": "Subgroup analyses confirmed walking benefits even in non-obese patients and those with well-controlled glycemia, implicating microvascular and anti-inflammatory mechanisms, although STRIDE excluded patients without type 2 diabetes.",
+    "cited_markers": [
+      "[48]",
+      "[76]"
+    ],
+    "cited_reference_ids": [
+      "5eeb83ba6b4a8c6c",
+      "2255bf34e08d3f6d"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-47",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 47,
+    "text": "In nephrology, the FLOW trial established semaglutide as a primary disease-modifying therapy for diabetic kidney disease.",
+    "cited_markers": [
+      "[3]",
+      "[51]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a",
+      "f2847b5f94cfe53f"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-48",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 48,
+    "text": "Randomizing 3,533 adults with type 2 diabetes and chronic kidney disease (mean baseline estimated glomerular filtration rate [eGFR] 47 mL/min/1.73 m², 95% on renin-angiotensin system blockade, 15.6% on baseline SGLT2 inhibitors) to once-weekly subcutaneous semaglutide 1.0 mg or placebo, FLOW stopped early for efficacy at a median follow-up of 3.4 years.",
+    "cited_markers": [
+      "[3]",
+      "[51]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a",
+      "f2847b5f94cfe53f"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-49",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 49,
+    "text": "Semaglutide lowered the five-component primary composite outcome—onset of kidney failure, sustained ≥ 50% eGFR reduction, or death from kidney or cardiovascular causes—by 24% (18.7% vs. 23.2%; HR 0.76, 95% CI 0.66–0.88, P = 0.0003), while the kidney-specific composite omitting cardiovascular death fell by 21% (HR 0.79, 95% CI 0.66–0.94).",
+    "cited_markers": [
+      "[3]",
+      "[51]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a",
+      "f2847b5f94cfe53f"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-50",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 50,
+    "text": "Annual total eGFR loss slowed by 1.16 mL/min/1.73 m² per year (P < 0.001), urinary albumin-to-creatinine ratio (UACR) declined by 40% versus 12% with placebo (a 38% greater relative reduction), three-point MACE fell by 18%, cardiovascular death fell by 29% (HR 0.71, 95% CI 0.56–0.89), and all-cause mortality dropped by 20% (HR 0.80, 95% CI 0.67–0.95; number needed to treat of 39 at 156 weeks).",
+    "cited_markers": [
+      "[3]",
+      "[51]",
+      "[52]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a",
+      "f2847b5f94cfe53f",
+      "926b78a1b0f21cd9"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-51",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 51,
+    "text": "Because between-group reductions in body weight (−4.10 kg), HbA1c (−0.81%), and systolic blood pressure (−2.23 mm Hg) were modest, renal preservation likely reflects multifactorial attenuation of intraglomerular stress, oxidative injury, and fibrosis.",
+    "cited_markers": [
+      "[51]",
+      "[52]"
+    ],
+    "cited_reference_ids": [
+      "f2847b5f94cfe53f",
+      "926b78a1b0f21cd9"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-52",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 52,
+    "text": "Among the small baseline SGLT2 inhibitor subgroup (n = 550), primary events were numerically balanced and underpowered for definitive conclusions, though the interaction test was negative.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-53",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 53,
+    "text": "Based on FLOW, the FDA approved Ozempic on January 28, 2025, to reduce kidney disease progression, kidney failure, and cardiovascular death in adults with type 2 diabetes and chronic kidney disease.",
+    "cited_markers": [
+      "[54]"
+    ],
+    "cited_reference_ids": [
+      "a7041a653c38b8f9"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-54",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 54,
+    "text": "Emerging evidence also supports renoprotection outside diabetes.",
+    "cited_markers": [
+      "[55]",
+      "[56]"
+    ],
+    "cited_reference_ids": [
+      "cf2884959a888e8d",
+      "47a5dae02d0d4d0e"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-55",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 55,
+    "text": "A prespecified SELECT analysis (Nature Medicine, 2024) linked semaglutide 2.4 mg to a 22% reduction in a five-component kidney composite and a 0.39 mL/min/1.73 m² per year slower eGFR slope decline among non-diabetic adults with cardiovascular disease and overweight or obesity.",
+    "cited_markers": [
+      "[51]",
+      "[55]"
+    ],
+    "cited_reference_ids": [
+      "f2847b5f94cfe53f",
+      "cf2884959a888e8d"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-56",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 56,
+    "text": "However, only about 11% of SELECT participants had baseline eGFR below 60 mL/min/1.73 m², creatinine-based eGFR estimates were not corroborated by cystatin C to control for lean muscle loss, and exploratory mediation estimates attributing 81% of eGFR change to weight loss carried wide imprecision.",
+    "cited_markers": [
+      "[51]",
+      "[55]"
+    ],
+    "cited_reference_ids": [
+      "f2847b5f94cfe53f",
+      "cf2884959a888e8d"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-57",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 57,
+    "text": "More directly, the randomized SMART trial (Nature Medicine, 2024) in 101 non-diabetic adults with chronic kidney disease and BMI ≥ 27 kg/m² demonstrated a 52% reduction in UACR with semaglutide versus placebo alongside 9.1 kg average weight loss.",
+    "cited_markers": [
+      "[56]"
+    ],
+    "cited_reference_ids": [
+      "47a5dae02d0d4d0e"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-58",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 58,
+    "text": "Mechanistically, GLP-1R signaling promotes proximal tubular natriuresis by phosphorylating and inhibiting the sodium-hydrogen exchanger NHE3 and downregulating SGLT1/2 activity, increasing distal sodium delivery to the macula densa to restore tubuloglomerular feedback while activating cAMP/PKA and heme oxygenase-1 pathways to suppress NF-κB–mediated renal inflammation.",
+    "cited_markers": [
+      "[25]",
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "8cb78cb7fede837a",
+      "cb77f027d2b76893"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-59",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 59,
+    "text": "Clinically, chronic nephroprotection coexists with acute volume-depletion risk: persistent semaglutide-induced vomiting or diarrhea can precipitate prerenal acute kidney injury, warranting hydration monitoring and temporary interruption if gastrointestinal intolerance prevents fluid intake.",
+    "cited_markers": [
+      "[57]"
+    ],
+    "cited_reference_ids": [
+      "85af8d77a8c4fb79"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-60",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 60,
+    "text": "Clinical trials in metabolic dysfunction–associated steatohepatitis (MASH) illustrate both semaglutide's regenerative capacity in fibrotic liver disease and its ceiling in established cirrhosis.",
+    "cited_markers": [
+      "[7]",
+      "[33]",
+      "[58]"
+    ],
+    "cited_reference_ids": [
+      "66625f5741ca7ad1",
+      "6c9eff9a0f3d85e5",
+      "25173a1bf565f815"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-61",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 61,
+    "text": "After a 2021 Phase 2 trial showed daily semaglutide achieved steatohepatitis resolution in 59% versus 17% of patients (P < 0.001) without statistically significant fibrosis regression, Loomba and colleagues tested weekly semaglutide 2.4 mg for 48 weeks in 71 patients with biopsy-confirmed NASH-related compensated cirrhosis.",
+    "cited_markers": [
+      "[33]",
+      "[58]"
+    ],
+    "cited_reference_ids": [
+      "6c9eff9a0f3d85e5",
+      "25173a1bf565f815"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-62",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 62,
+    "text": "In that cirrhotic cohort, semaglutide failed to improve liver fibrosis by one or more stages without NASH worsening (11% [5/47] vs. 29% [7/24]; odds ratio 0.28, P = 0.087) or achieve significant steatohepatitis resolution (34% vs. 21%, P = 0.29), although hepatic and renal function remained stable without decompensation.",
+    "cited_markers": [
+      "[58]"
+    ],
+    "cited_reference_ids": [
+      "25173a1bf565f815"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-63",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 63,
+    "text": "Semaglutide is consequently not approved for MASH cirrhosis.",
+    "cited_markers": [
+      "[58]"
+    ],
+    "cited_reference_ids": [
+      "25173a1bf565f815"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-64",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 64,
+    "text": "In non-cirrhotic MASH, however, the ongoing Phase 3 ESSENCE trial delivered robust histological efficacy.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "66625f5741ca7ad1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-65",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 65,
+    "text": "Enrolling 1,197 adults with biopsy-defined MASH and moderate-to-advanced fibrosis (31.3% stage F2, 68.8% stage F3; 55.9% with type 2 diabetes; mean BMI 34.6 kg/m²), the 72-week Part 1 interim analysis of the first 800 participants demonstrated that weekly semaglutide 2.4 mg induced steatohepatitis resolution without fibrosis worsening in 62.9% versus 34.3% with placebo (difference 28.7 percentage points, 95% CI 21.1–36.2, P < 0.001) and reduced liver fibrosis by at least one stage without steatohepatitis worsening in 36.8% versus 22.4% (difference 14.4 percentage points, 95% CI 7.5–21.3, P < 0.001).",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "66625f5741ca7ad1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-66",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 66,
+    "text": "Combined resolution and fibrosis regression occurred in 32.7% versus 16.1% (P < 0.001), accompanied by a 52.0% versus 30.3% rate of ≥ 30% liver stiffness reduction, 30%–40% decreases in serum aminotransferases and gamma-glutamyl transferase, a 0.6-unit reduction in the Enhanced Liver Fibrosis score, and 10.5% versus 2.0% weight loss.",
+    "cited_markers": [
+      "[7]",
+      "[59]"
+    ],
+    "cited_reference_ids": [
+      "66625f5741ca7ad1",
+      "696ad2d98b6128dd"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-67",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 67,
+    "text": "On this histological surrogate basis, the FDA granted Wegovy accelerated approval in August 2025 for non-cirrhotic MASH with moderate-to-advanced fibrosis, pending 240-week Part 2 clinical outcome verification expected in 2029.",
+    "cited_markers": [
+      "[32]",
+      "[60]"
+    ],
+    "cited_reference_ids": [
+      "4edb8443a18e7743",
+      "2ea01bbc2d866823"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-68",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 68,
+    "text": "Exploratory sponsor-reported secondary analyses presented in late 2025 suggested that liver injury and scarring improvements were not solely explained by weight loss, positioning semaglutide's systemic metabolic-inflammatory modulation as mechanistically complementary to hepatocyte-targeted agents such as resmetirom.",
+    "cited_markers": [
+      "[33]",
+      "[60]"
+    ],
+    "cited_reference_ids": [
+      "6c9eff9a0f3d85e5",
+      "2ea01bbc2d866823"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-69",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 69,
+    "text": "Neurology demonstrates the sharpest divergence between preclinical or epidemiological promise and randomized Phase 3 confirmation.",
+    "cited_markers": [
+      "[12]",
+      "[62]",
+      "[65]"
+    ],
+    "cited_reference_ids": [
+      "706bb87bfd285b19",
+      "da572091d8e14cb4",
+      "6fa7d61b3ed235cf"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-70",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 70,
+    "text": "Observational analyses pooling three diabetes cardiovascular trials reported lower dementia incidence with GLP-1 receptor agonists (HR 0.47, 95% CI 0.25–0.86), and electronic health record target-trial emulations encompassing over one million diabetic patients linked semaglutide to a 40% to 70% lower risk of first Alzheimer's diagnosis compared with seven other antidiabetic classes.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "706bb87bfd285b19"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-71",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 71,
+    "text": "To test disease modification prospectively, Novo Nordisk conducted EVOKE and EVOKE+, two parallel Phase 3 double-blind trials randomizing 3,808 adults aged 55 to 85 years (1,855 in EVOKE; 1,953 in EVOKE+) with amyloid-confirmed mild cognitive impairment or mild Alzheimer's dementia—including small-vessel cerebrovascular disease in EVOKE+—to once-daily oral semaglutide up to 14 mg or placebo for 104 weeks.",
+    "cited_markers": [
+      "[12]",
+      "[62]",
+      "[63]"
+    ],
+    "cited_reference_ids": [
+      "706bb87bfd285b19",
+      "da572091d8e14cb4",
+      "7547c6af2b3eaee6"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-72",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 72,
+    "text": "Both trials missed their primary clinical endpoint identically: Clinical Dementia Rating–Sum of Boxes scores deteriorated by +2.3 versus +2.3 points in EVOKE (difference −0.08, 95% CI −0.35–0.20) and +2.2 versus +2.1 points in EVOKE+ (difference +0.10, 95% CI −0.17–0.38), with no efficacy signal across subgroups stratified by diabetes, BMI, age, sex, or race, leading to termination of the planned one-year extension.",
+    "cited_markers": [
+      "[12]",
+      "[62]",
+      "[64]"
+    ],
+    "cited_reference_ids": [
+      "706bb87bfd285b19",
+      "da572091d8e14cb4",
+      "aa3288520fa65762"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-73",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 73,
+    "text": "In a 199-patient cerebrospinal fluid (CSF) substudy, semaglutide lowered CSF p-tau217, glial marker YKL-40, and synaptic marker neurogranin by up to 10% alongside plasma hsCRP declines, yet plasma p-tau remained unchanged and blood markers of neuroaxonal injury—neurofilament light and GFAP—increased slightly.",
+    "cited_markers": [
+      "[12]",
+      "[65]"
+    ],
+    "cited_reference_ids": [
+      "706bb87bfd285b19",
+      "6fa7d61b3ed235cf"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-74",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 74,
+    "text": "Mean CSF semaglutide concentrations measured only 0.08 nmol/L, pointing to minimal central nervous system penetration, and only 13.6% of enrolled participants had type 2 diabetes, contrasting with the diabetic cohorts behind earlier observational signals.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "706bb87bfd285b19"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-75",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 75,
+    "text": "Parallel caution applies to Parkinson's disease: despite neuroprotective rodent data, a definitive UK Phase 3 trial of exenatide (2025) showed zero benefit on motor scores or neuroimaging, while the status of Norway's delayed-start Phase 2 GIPD semaglutide trial (NCT03659682) remains unverified on ClinicalTrials.gov.",
+    "cited_markers": [
+      "[66]",
+      "[67]"
+    ],
+    "cited_reference_ids": [
+      "2fd1e18176999408",
+      "f41ef5e8a1a73f81"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-76",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 76,
+    "text": "Conversely, semaglutide's access to circumventricular and mesolimbic reward hubs has generated promising clinical signals in substance use disorders.",
+    "cited_markers": [
+      "[13]",
+      "[14]",
+      "[68]"
+    ],
+    "cited_reference_ids": [
+      "1f54e67feb11f827",
+      "f2f1f20ec57e14f1",
+      "50d835814c4454dd"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-77",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 77,
+    "text": "In rodents and nonhuman primates, semaglutide reduces binge-like and dependence-induced alcohol consumption, modulates central GABAergic neurotransmission, and attenuates alcohol-induced dopamine release in the nucleus accumbens while engaging GLP-1 receptors in reward-regulating regions such as the habenula.",
+    "cited_markers": [
+      "[68]",
+      "[69]"
+    ],
+    "cited_reference_ids": [
+      "50d835814c4454dd",
+      "1bc321171c0407c4"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-78",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 78,
+    "text": "Retrospective electronic health record studies led by Wang and Volkow across 83,825 patients with obesity (and replicated in 598,803 diabetic patients) associated semaglutide with a 50% to 56% lower 12-month risk of incident (HR 0.50) and recurrent (HR 0.44) alcohol use disorder compared with non-GLP-1 anti-obesity medications, alongside reduced cannabis use disorder incidence and relapse and lower opioid overdose risk.",
+    "cited_markers": [
+      "[68]",
+      "[70]",
+      "[71]"
+    ],
+    "cited_reference_ids": [
+      "50d835814c4454dd",
+      "6c561648c6df0cc9",
+      "5dbffe44d666d222"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-79",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 79,
+    "text": "Two Phase 2 double-blind randomized controlled trials now corroborate anti-craving activity in alcohol use disorder.",
+    "cited_markers": [
+      "[13]",
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "1f54e67feb11f827",
+      "f2f1f20ec57e14f1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-80",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 80,
+    "text": "In a nine-week trial (JAMA Psychiatry, 2025) of 48 non-treatment-seeking adults with moderate alcohol use disorder, low-dose subcutaneous semaglutide (0.25 to 1.0 mg weekly) reduced post-treatment laboratory alcohol self-administration (grams consumed β = −0.48, P = 0.01; peak breath alcohol concentration β = −0.46, P = 0.03), drinks per drinking day (β = −0.41, P = 0.04), weekly alcohol craving (β = −0.39, P = 0.01), and heavy drinking days over time (β = 0.84, P = 0.04) without altering abstinent days, while also reducing cigarettes per day in the 13 active smokers (β = −0.10, P = 0.005).",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "1f54e67feb11f827"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-81",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 81,
+    "text": "In a subsequent eight-week trial (American Journal of Psychiatry, 2026) of 50 treatment-seeking adults with moderate-to-severe alcohol use disorder receiving oral semaglutide (3 to 7 mg daily), semaglutide missed its primary laboratory visual-analogue cue-craving endpoint and total drinks per day, yet significantly reduced heavy drinking days (b = −0.580), drinks per drinking day (b = −1.177), naturalistic craving (b = −2.195), alcohol-related negative consequences (b = −4.618), World Health Organization risk drinking levels, and cannabis use days (b = −1.434).",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "f2f1f20ec57e14f1"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-82",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 82,
+    "text": "Meanwhile, neuropsychiatric safety assessments remain reassuring: a TriNetX analysis of over 1.8 million patients reported lower incident (HR 0.27) and recurrent (HR 0.44) suicidal ideation with semaglutide than with non-GLP-1 comparators—consistent with a 2025 weight-management cohort finding no increased suicide-related outcomes—even though a 2024 World Health Organization VigiBase disproportionality study detected elevated reporting signals that warrant ongoing clinical mood monitoring.",
+    "cited_markers": [
+      "[72]",
+      "[73]",
+      "[74]"
+    ],
+    "cited_reference_ids": [
+      "94b1481e7270addb",
+      "676e062603bdfbe5",
+      "5d7ebb1643a0c2c8"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-83",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 83,
+    "text": "Systemic attenuation of metainflammation—evidenced by 36% CRP reductions in pooled HFpEF trials and lower serum interleukin-6 (IL-6) and tumor necrosis factor-alpha in endothelial and metabolic cohorts—has spurred exploratory dermatologic and respiratory research.",
+    "cited_markers": [
+      "[31]",
+      "[43]",
+      "[75]"
+    ],
+    "cited_reference_ids": [
+      "2965df6a6d2f63a2",
+      "fb7245323a2daeff",
+      "f92f776a7970beb7"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-84",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 84,
+    "text": "In dermatology, an open-label randomized trial of weekly semaglutide 1.0 mg in 31 patients with psoriasis and type 2 diabetes lowered IL-6 and CRP while improving skin disease, and a 2026 study in hidradenitis suppurativa and obesity reported clinical, inflammatory, and psychological improvements that partially persisted after adjustment for weight loss.",
+    "cited_markers": [
+      "[75]",
+      "[76]"
+    ],
+    "cited_reference_ids": [
+      "f92f776a7970beb7",
+      "2255bf34e08d3f6d"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-85",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 85,
+    "text": "However, systematic reviews note that available dermatologic biomarker datasets remain tiny, retrospective hidradenitis cohorts exhibit unexplained demographic disparities (92% non-Black vs. 30% Black improvement among 22 patients, P = 0.011), and off-label skin prescribing remains investigational.",
+    "cited_markers": [
+      "[77]",
+      "[78]"
+    ],
+    "cited_reference_ids": [
+      "bc87b595fa04d0f2",
+      "7f813a7301265048"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-86",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 86,
+    "text": "In pulmonology, a UK electronic health record study presented at the September 2026 European Respiratory Society Congress associated semaglutide initiation with nearly 40% fewer asthma attacks (weighted HR 0.20, 95% CI 0.05–0.78) and 20% fewer chronic obstructive pulmonary disease (COPD) exacerbations (weighted HR 0.76, 95% CI 0.58–1.00) versus sulfonylureas with a dose-response gradient absent for liraglutide, dulaglutide, or exenatide; investigators explicitly cautioned against off-label respiratory prescribing pending randomized trials.",
+    "cited_markers": [
+      "[79]"
+    ],
+    "cited_reference_ids": [
+      "f68eaa90cb04c3d7"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-87",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 87,
+    "text": "Genetically proxied GLP-1R agonism in Mendelian randomization similarly links to lower risk of early-onset COPD, acute bronchitis, and asthma, while retrospective claims data across 105,402 patients with obesity associated semaglutide and tirzepatide with a 40% lower risk of obstructive sleep apnea (HR 0.60, P < 0.0001).",
+    "cited_markers": [
+      "[80]",
+      "[81]"
+    ],
+    "cited_reference_ids": [
+      "4446ac42a584a98a",
+      "6e445c1a9bc447af"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-88",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 88,
+    "text": "In musculoskeletal medicine, the Phase 3 STEP 9 trial (New England Journal of Medicine, 2024) randomized 407 adults with obesity and moderate knee osteoarthritis (mean BMI 40.3 kg/m², 81.6% women, mean Western Ontario and McMaster Universities Osteoarthritis Index [WOMAC] pain score 70.9) to weekly semaglutide 2.4 mg or placebo for 68 weeks alongside lifestyle counseling.",
+    "cited_markers": [
+      "[82]"
+    ],
+    "cited_reference_ids": [
+      "ecd5db75c8c476b5"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-89",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 89,
+    "text": "Semaglutide lowered body weight by 13.7% versus 3.2% (P < 0.001), reduced WOMAC pain by 41.7 versus 27.5 points (P < 0.001), improved SF-36 physical function scores by 12.0 versus 6.5 points (P < 0.001), and lowered analgesic use, though lack of imaging endpoints leaves structural cartilage protection unconfirmed.",
+    "cited_markers": [
+      "[15]",
+      "[82]",
+      "[83]"
+    ],
+    "cited_reference_ids": [
+      "c11d87854dd15515",
+      "ecd5db75c8c476b5",
+      "1fb957376d77cb4d"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-90",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 90,
+    "text": "Crucially, these functional gains carry structural vulnerabilities: body-composition analyses show that 25% to 40% of total weight lost with semaglutide comprises lean body mass, risking quadriceps weakness in older adults.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "c11d87854dd15515"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-91",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 91,
+    "text": "Furthermore, a 52-week Phase 2 randomized trial by Hansen and colleagues in 64 adults at increased fracture risk found that semaglutide 1.0 mg (−6.8 kg weight difference, P < 0.001) increased bone resorption alongside weight loss rather than preserving bone mass through anabolic bone formation.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "978a7e1d95773919"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-92",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 92,
+    "text": "Although pooled SUSTAIN-6 and PIONEER-6 age analyses showed no excess serious fracture adverse events across age strata, preserving lean muscle and bone mineral density through resistance training and adequate protein, calcium, and vitamin D intake remains essential during rapid semaglutide-induced weight loss.",
+    "cited_markers": [
+      "[15]",
+      "[16]",
+      "[84]"
+    ],
+    "cited_reference_ids": [
+      "c11d87854dd15515",
+      "978a7e1d95773919",
+      "5370839a6a69415e"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-93",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 93,
+    "text": "Ophthalmic surveillance encompasses both chronic microvascular adaptation and acute optic nerve ischemia.",
+    "cited_markers": [
+      "[18]",
+      "[85]"
+    ],
+    "cited_reference_ids": [
+      "9452584191e1d182",
+      "66e90c501310f185"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-94",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 94,
+    "text": "In SUSTAIN-6, diabetic retinopathy complications occurred more frequently with semaglutide than placebo (3.0% vs. 1.8%, P = 0.02), clustering in insulin-treated patients with preexisting retinopathy who experienced steep, rapid HbA1c declines during the first 16 weeks (\"early worsening\").",
+    "cited_markers": [
+      "[85]"
+    ],
+    "cited_reference_ids": [
+      "66e90c501310f185"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-95",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 95,
+    "text": "Reassuringly, a 2025 Observational Health Data Sciences and Informatics (OHDSI) network cohort study of 810,390 new semaglutide users found no elevated risk of proliferative or treatment-requiring diabetic retinopathy compared with dulaglutide, empagliflozin, or sitagliptin, and the dedicated five-year Phase 3 FOCUS trial (NCT03811561) is prospectively evaluating long-term retinal progression.",
+    "cited_markers": [
+      "[86]",
+      "[87]"
+    ],
+    "cited_reference_ids": [
+      "da958b89c97e4ea3",
+      "7743f97bc668e222"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-96",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 96,
+    "text": "More acutely, NAION—a rare, painless, frequently irreversible ischemic stroke of the optic nerve—prompted a June 2025 European Medicines Agency classification as a very rare side effect across semaglutide brands, a World Health Organization safety alert, and a November 9, 2026 US FDA mandate adding NAION warnings across the entire GLP-1 receptor agonist class.",
+    "cited_markers": [
+      "[18]",
+      "[19]",
+      "[88]",
+      "[89]"
+    ],
+    "cited_reference_ids": [
+      "9452584191e1d182",
+      "3732f46349cec28e",
+      "5b0f1e852ef87355",
+      "f5df628e737a2d15"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-97",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 97,
+    "text": "Following a 2024 neuro-ophthalmology cohort reporting hazard ratios of 4.28 in type 2 diabetes and 7.64 in overweight or obesity, the FDA analyzed 126 clinical trials (134,253 patients) identifying 15 probable NAION events (10 in GLP-1 arms) and a real-world diabetes cohort showing a 43% higher risk versus DPP-4 inhibitors but no statistically significant increase versus SGLT2 inhibitors.",
+    "cited_markers": [
+      "[88]",
+      "[89]",
+      "[90]"
+    ],
+    "cited_reference_ids": [
+      "5b0f1e852ef87355",
+      "f5df628e737a2d15",
+      "e09c651a3d601d85"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-98",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 98,
+    "text": "Because animal studies found no biological mechanism and observational cohorts are heavily confounded by diabetes, hypertension, and sleep apnea, causality remains unsettled, though clinicians must urgently refer patients with sudden monocular vision loss and consider discontinuing treatment.",
+    "cited_markers": [
+      "[18]",
+      "[88]",
+      "[90]"
+    ],
+    "cited_reference_ids": [
+      "9452584191e1d182",
+      "5b0f1e852ef87355",
+      "e09c651a3d601d85"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-99",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 99,
+    "text": "Gastrointestinal motility and biliary risks form the remaining safety boundary.",
+    "cited_markers": [
+      "[17]",
+      "[57]"
+    ],
+    "cited_reference_ids": [
+      "bff4f88cda9a114b",
+      "85af8d77a8c4fb79"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-100",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 100,
+    "text": "Nausea affects roughly one-fifth of patients in Ozempic and Rybelsus trials and 44% on Wegovy, while gallbladder stasis and cholesterol mobilization elevate cholelithiasis and cholecystitis risks.",
+    "cited_markers": [
+      "[57]"
+    ],
+    "cited_reference_ids": [
+      "85af8d77a8c4fb79"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-101",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 101,
+    "text": "In non-diabetic weight-loss users, a 2023 JAMA observational study reported a 3.67-fold higher risk of gastroparesis (~10 cases per 1,000 semaglutide users) alongside elevated bowel obstruction and pancreatitis signals, even though large randomized trials such as SELECT and ESSENCE did not demonstrate excess acute pancreatitis.",
+    "cited_markers": [
+      "[1]",
+      "[7]",
+      "[17]",
+      "[91]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42",
+      "66625f5741ca7ad1",
+      "bff4f88cda9a114b",
+      "f86c9a9e82d05b1e"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-102",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 102,
+    "text": "Delayed gastric emptying also triggered June 2023 American Society of Anesthesiologists guidance advising a one-week preoperative hold of weekly GLP-1 agonists to prevent pulmonary aspiration, before October 2024 multi-society guidance shifted toward continuing therapy in asymptomatic low-risk patients while reserving 24-hour liquid diets, gastric ultrasound, and aspiration precautions for symptomatic or dose-escalating patients.",
+    "cited_markers": [
+      "[92]",
+      "[93]"
+    ],
+    "cited_reference_ids": [
+      "263fd91db8dc0a7d",
+      "d1306dd781a9c686"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-103",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 103,
+    "text": "Meanwhile, rodent-derived concerns over medullary thyroid carcinoma—still a label contraindication for personal or family histories—were not corroborated in human epidemiology in a large 2024 Scandinavian cohort study in BMJ, consistent with balanced neoplasm rates in SELECT and low overall clinical trial incidence.",
+    "cited_markers": [
+      "[1]",
+      "[57]",
+      "[94]",
+      "[95]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42",
+      "85af8d77a8c4fb79",
+      "ad09636e759bab54",
+      "a1627fec06addcba"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-104",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 104,
+    "text": "Within the broader incretin class, older agents such as liraglutide and dulaglutide previously demonstrated MACE superiority in type 2 diabetes, while the dual GIP/GLP-1 agonist tirzepatide achieved MACE non-inferiority—but not superiority—against active comparator dulaglutide in SURPASS-CVOT (2025; HR 0.92, 95.3% CI 0.83–1.01), leaving its non-diabetic cardiovascular outcomes trial (SURMOUNT-MMO) pending.",
+    "cited_markers": [
+      "[35]",
+      "[96]"
+    ],
+    "cited_reference_ids": [
+      "a153f343ab7c4cb5",
+      "299fb9e115e5393e"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-105",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 105,
+    "text": "Consequently, semaglutide currently possesses the broadest Phase 3 organ-protection portfolio across non-diabetic cardiovascular disease, diabetic kidney disease, obesity-related HFpEF, peripheral artery disease, knee osteoarthritis, and non-cirrhotic MASH.",
+    "cited_markers": [
+      "[1]",
+      "[3]",
+      "[4]",
+      "[6]",
+      "[7]",
+      "[82]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42",
+      "3ed2d75d95d9fd3a",
+      "eb61872878dab4b7",
+      "b95c0fedb8d9d8a4",
+      "66625f5741ca7ad1",
+      "ecd5db75c8c476b5"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_82a2bfa61988_20261117T031256Z-106",
+    "answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "position": 106,
+    "text": "Yet withdrawal extensions from STEP 1 and STEP 4 demonstrate that stopping semaglutide rapidly reverses weight loss alongside favorable reductions in blood pressure and C-reactive protein, confirming that semaglutide's multi-organ protection acts as an ongoing, receptor-dependent physiological shield rather than a permanent cure.",
+    "cited_markers": [
+      "[20]",
+      "[97]",
+      "[98]"
+    ],
+    "cited_reference_ids": [
+      "1f0bde2c2b7643aa"
+    ]
+  }
+]

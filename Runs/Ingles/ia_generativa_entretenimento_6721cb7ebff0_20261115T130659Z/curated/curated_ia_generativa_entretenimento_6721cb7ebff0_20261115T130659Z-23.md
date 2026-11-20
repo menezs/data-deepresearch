@@ -1,0 +1,37 @@
+[referencia=15d2ed22f4165462 score=0.995]
+Hollywood video game voice and motion capture actors signed a new contract with video game studios on Wednesday with a focus on artificial intelligence protections, the actors’ union, SAG-AFTRA, said in a press release, ending a near year-long strike.
+
+“AI was the centerpiece of our proposal package,” video game voice actor and member of the negotiation committee Sarah Elmaleh told Reuters after the new agreement passed.
+
+Elmaleh, a voice actor for popular titles like “Final Fantasy XV” and “Call of Duty: Black Ops III,” said she knew it was crucial to ensure there was a baseline for how to ethically use AI in the gaming industry.
+
+The new protections include consent and disclosure requirements for AI digital replica use and the ability for performers to suspend consent for the generation of new material during a strike.
+
+“This deal achieves important progress around AI protections, and progress is the name of the game,” SAG-AFTRA President Fran Drescher said in the guild’s statement.
+
+The deal applies to video game studios Activision Productions, Blindlight, Disney Character Voices, Electronic Arts Productions, Formosa Interactive, Insomniac Games, Llama Productions, Take 2 Productions and WB Games.
+
+“On behalf of the video game producers that are party to the agreement, we are pleased that SAG-AFTRA members have ratified a new Interactive Media Agreement, which delivers historic wage increases, industry-leading A.I. protections, and enhanced health and safety measures for performers,” Audrey Cooling, spokesperson for the video game studios, said in the press release.
+
+The new Interactive Media Agreement, which goes into effect immediately, was approved by SAG-AFTRA members by a vote of 95.04% to 4.96%, ratifying the deal and ending the video game strike, which had been suspended pending ratification.
+
+The new contract also offers more performer safety measures, which was a specific concern for motion capture video game performers.
+
+“There are folks who not only give their voices to these characters, but their bodies, and they put their bodies on the line for these characters,” Elmaleh said.
+
+Motion capture actors will have medics available during high-risk jobs.
+
+The deal also provides compounded increases in performer pay at a rate of 15.17% upon ratification plus additional 3% increases in November 2025, November 2026 and November 2027.
+
+---
+
+[referencia=15d2ed22f4165462 score=0.001]
+The deal also provides compounded increases in performer pay at a rate of 15.17% upon ratification plus additional 3% increases in November 2025, November 2026 and November 2027.
+
+The work stoppage of video game voice actors and motion-capture performers started following failed contract negotiations focused around AI-related protections for workers, bringing about another work stoppage in Hollywood following the dual writers’ and actors’ strikes in 2023.
+
+The strike brought a larger call to action across Hollywood as people in the industry advocate for a law that can protect them from AI risks.
+
+The NO FAKES Act, a bipartisan bill in Congress which would make it illegal to make an AI replica of someone’s likeness and voice without their permission, has gained support from the SAG-AFTRA performers union, the Motion Picture Association, The Recording Academy and Disney.
+
+(Reporting by Danielle Broadway; Editing by Christopher Cushing and Nick Zieminski)

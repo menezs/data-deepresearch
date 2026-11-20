@@ -1,0 +1,800 @@
+[
+  {
+    "id": "acc5ad4063972046",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "title": "Comissão Europeia – AI Act (Shaping Europe's digital future).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:52.759667Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9a3a218a205026d9",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
+    "normalized_url": "https://europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
+    "work_key": "https://europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence",
+    "title": "Parlamento Europeu – EU AI Act: first regulation on artificial intelligence.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:52.739021Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "77e096f27c9d4bf6",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence/",
+    "normalized_url": "https://consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence",
+    "work_key": "https://consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence",
+    "title": "Conselho da UE – Timeline: Artificial intelligence.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:35:09.440853Z",
+    "error_message": "barreira de acesso (anti_bot): Checking your browser before accessing a GSC Managed Website Verification successful. Waiting for www.consilium.europa.e",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bb4061bf01083a48",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.nscale.com/blog/eu-ai-act-heres-what-to-expect",
+    "normalized_url": "https://nscale.com/blog/eu-ai-act-heres-what-to-expect",
+    "work_key": "https://nscale.com/blog/eu-ai-act-heres-what-to-expect",
+    "title": "Nscale – EU AI Act: here's what to expect.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:52.726559Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "453dc28b057eae28",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+    "title": "Comissão Europeia – Commission starts enforcing AI Act rules and new transparency requirements on 2 August.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:53.333096Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "06a13daba8c316eb",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.consilium.europa.eu/de/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
+    "normalized_url": "https://consilium.europa.eu/de/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules",
+    "work_key": "https://consilium.europa.eu/de/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules",
+    "title": "Conselho da UE – Künstliche Intelligenz: Rat und Parlament einigen sich auf Vereinfachung und Straffung der Vorschriften (comunicado de 7/5/2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:35:09.439594Z",
+    "error_message": "barreira de acesso (anti_bot): Checking your browser before accessing a GSC Managed Website Verification successful. Waiting for www.consilium.europa.e",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7aae736c6a9c394c",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.goodwinlaw.com/en/insights/publications/2025/08/alerts-technology-aiml-european-commission-issues",
+    "normalized_url": "https://goodwinlaw.com/en/insights/publications/2025/08/alerts-technology-aiml-european-commission-issues",
+    "work_key": "https://goodwinlaw.com/en/insights/publications/2025/08/alerts-technology-aiml-european-commission-issues",
+    "title": "Goodwin – European Commission Issues Comprehensive Code of Practice for General-Purpose AI.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:53.843043Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "563de861a97a7bbb",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+    "normalized_url": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+    "work_key": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+    "title": "Wikipedia – General-Purpose AI Code of Practice.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:35:05.014198Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5c86561e53738d51",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-99",
+    "normalized_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-99",
+    "work_key": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-99",
+    "title": "AI Act Service Desk (Comissão Europeia) – Article 99: Penalties.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:54.831051Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d270207f01aec029",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/The-Digital-AI-Omnibus-Proposed-deferral-of-high-risk-AI-obligations-under-the-AI-Act",
+    "normalized_url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/The-Digital-AI-Omnibus-Proposed-deferral-of-high-risk-AI-obligations-under-the-AI-Act",
+    "work_key": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/The-Digital-AI-Omnibus-Proposed-deferral-of-high-risk-AI-obligations-under-the-AI-Act",
+    "title": "DLA Piper – The Digital AI Omnibus: Proposed deferral of high risk AI obligations under the AI Act (update).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:56.057452Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0e3f6c50232576c7",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.eeas.europa.eu/delegations/chile/artificial-intelligence-council-gives-final-green-light-simplify-and-streamline-rules_en",
+    "normalized_url": "https://eeas.europa.eu/delegations/chile/artificial-intelligence-council-gives-final-green-light-simplify-and-streamline-rules_en",
+    "work_key": "https://eeas.europa.eu/delegations/chile/artificial-intelligence-council-gives-final-green-light-simplify-and-streamline-rules_en",
+    "title": "EEAS / Conselho da UE – Artificial Intelligence: Council gives final green light to simplify and streamline rules.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:57.168608Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e32003789032b8a9",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://usercentrics.com/knowledge-hub/eu-ai-act-high-risk-delay-article-50-transparency-consent/",
+    "normalized_url": "https://usercentrics.com/knowledge-hub/eu-ai-act-high-risk-delay-article-50-transparency-consent",
+    "work_key": "https://usercentrics.com/knowledge-hub/eu-ai-act-high-risk-delay-article-50-transparency-consent",
+    "title": "Usercentrics – EU AI Act Deal: Digital Omnibus Now in Force.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:58.236000Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8fdf1362c655c33b",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-omnibus-vii-deadline-delay-20260/",
+    "normalized_url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-omnibus-vii-deadline-delay-20260",
+    "work_key": "https://labs.cloudsecurityalliance.org/research/csa-research-note-eu-ai-act-omnibus-vii-deadline-delay-20260",
+    "title": "Cloud Security Alliance – EU AI Act High-Risk Deadline Pushed to December 2027.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:56.614014Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ea5aedd5ed68db2a",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/videos/2024/12/marco-da-inteligencia-artificial-e-aprovado-em-plenario-e-vai-a-camara",
+    "normalized_url": "https://www12.senado.leg.br/noticias/videos/2024/12/marco-da-inteligencia-artificial-e-aprovado-em-plenario-e-vai-a-camara",
+    "work_key": "https://www12.senado.leg.br/noticias/videos/2024/12/marco-da-inteligencia-artificial-e-aprovado-em-plenario-e-vai-a-camara",
+    "title": "Agência Senado – Marco da Inteligência Artificial é aprovado em Plenário e vai à Câmara.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:01:28.834578Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ef52dfa62b6ed239",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://revistaoeste.com/politica/regulamentacao-da-inteligencia-artificial-e-aprovada-no-senado/",
+    "normalized_url": "https://revistaoeste.com/politica/regulamentacao-da-inteligencia-artificial-e-aprovada-no-senado",
+    "work_key": "https://revistaoeste.com/politica/regulamentacao-da-inteligencia-artificial-e-aprovada-no-senado",
+    "title": "Revista Oeste – Regulamentação da inteligência artificial é aprovada no Senado.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:58.969158Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b8cdd5457cd3256f",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.correiobraziliense.com.br/politica/2024/12/7004516-comissao-do-senado-aprova-pl-da-inteligencia-artificial.html",
+    "normalized_url": "https://correiobraziliense.com.br/politica/2024/12/7004516-comissao-do-senado-aprova-pl-da-inteligencia-artificial.html",
+    "work_key": "https://correiobraziliense.com.br/politica/2024/12/7004516-comissao-do-senado-aprova-pl-da-inteligencia-artificial.html",
+    "title": "Correio Braziliense – Comissão do Senado aprova PL da Inteligência Artificial.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:59.020449Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "625a71934a77706e",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://smabr.com/marco-regulatorio-da-inteligencia-artificial-e-aprovado-pelo-senado/",
+    "normalized_url": "https://smabr.com/marco-regulatorio-da-inteligencia-artificial-e-aprovado-pelo-senado",
+    "work_key": "https://smabr.com/marco-regulatorio-da-inteligencia-artificial-e-aprovado-pelo-senado",
+    "title": "SMA – Marco Regulatório da Inteligência Artificial é aprovado pelo Senado.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:59:59.820721Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7ec9ed46eb649eaf",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://documentacao.senior.com.br/exigenciaslegais/noticias/federal/2025/2025-03-20-camara-comeca-a-discutir-projeto-que-regulamenta-a-inteligencia-artificial-no-brasil",
+    "normalized_url": "https://documentacao.senior.com.br/exigenciaslegais/noticias/federal/2025/2025-03-20-camara-comeca-a-discutir-projeto-que-regulamenta-a-inteligencia-artificial-no-brasil",
+    "work_key": "https://documentacao.senior.com.br/exigenciaslegais/noticias/federal/2025/2025-03-20-camara-comeca-a-discutir-projeto-que-regulamenta-a-inteligencia-artificial-no-brasil",
+    "title": "Senior / Portal de Exigências Legais – Câmara começa a discutir projeto que regulamenta a inteligência artificial no Brasil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:02.361999Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1206880d7cc0d075",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.poder360.com.br/poder-congresso/senado-aprova-regulamentacao-da-inteligencia-artificial-entenda/",
+    "normalized_url": "https://poder360.com.br/poder-congresso/senado-aprova-regulamentacao-da-inteligencia-artificial-entenda",
+    "work_key": "https://poder360.com.br/poder-congresso/senado-aprova-regulamentacao-da-inteligencia-artificial-entenda",
+    "title": "Poder360 – Senado aprova regulamentação da inteligência artificial; entenda.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:00.053054Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c1583c4e174ac21d",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.cut.org.br/noticias/regulamentacao-da-ia-expoe-fragilidade-falhas-e-retrocessos-trabalhistas-f015",
+    "normalized_url": "https://cut.org.br/noticias/regulamentacao-da-ia-expoe-fragilidade-falhas-e-retrocessos-trabalhistas-f015",
+    "work_key": "https://cut.org.br/noticias/regulamentacao-da-ia-expoe-fragilidade-falhas-e-retrocessos-trabalhistas-f015",
+    "title": "CUT – Regulamentação da IA expõe fragilidade, falhas e retrocessos trabalhistas.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:00.584506Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "44774073943a8cb1",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/outros-documentos/apresentacao-do-pl-2338-23",
+    "normalized_url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/outros-documentos/apresentacao-do-pl-2338-23",
+    "work_key": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/outros-documentos/apresentacao-do-pl-2338-23",
+    "title": "Câmara dos Deputados – Apresentação do PL 2338/23 (Comissão Especial).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:03.367793Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6e0612a9d1bd6222",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.meioemensagem.com.br/midia/regulamentacao-da-ia-no-brasil-e-aprovada-pelo-senado",
+    "normalized_url": "https://meioemensagem.com.br/midia/regulamentacao-da-ia-no-brasil-e-aprovada-pelo-senado",
+    "work_key": "https://meioemensagem.com.br/midia/regulamentacao-da-ia-no-brasil-e-aprovada-pelo-senado",
+    "title": "Meio & Mensagem – Regulamentação da IA no Brasil é aprovada pelo Senado.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:03.383126Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9df43fab5711e8c7",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.migalhas.com.br/depeso/422014/ia-e-direitos-autorais-o-que-diz-o-pl-2-338-23-aprovado-pelo-senado",
+    "normalized_url": "https://migalhas.com.br/depeso/422014/ia-e-direitos-autorais-o-que-diz-o-pl-2-338-23-aprovado-pelo-senado",
+    "work_key": "https://migalhas.com.br/depeso/422014/ia-e-direitos-autorais-o-que-diz-o-pl-2-338-23-aprovado-pelo-senado",
+    "title": "Migalhas – Inteligência artificial e direitos autorais: O que diz o PL 2.338/23 aprovado pelo Senado?",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:03.587617Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1642a618e21e0617",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://jornaldebrasilia.com.br/noticias/brasil/lei-de-ia-avanca-no-senado-com-previsao-de-remuneracao-de-direitos-autorais/",
+    "normalized_url": "https://jornaldebrasilia.com.br/noticias/brasil/lei-de-ia-avanca-no-senado-com-previsao-de-remuneracao-de-direitos-autorais",
+    "work_key": "https://jornaldebrasilia.com.br/noticias/brasil/lei-de-ia-avanca-no-senado-com-previsao-de-remuneracao-de-direitos-autorais",
+    "title": "Jornal de Brasília – Lei de IA avança no Senado com previsão de remuneração de direitos autorais.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:06.776307Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "92bc7e019bbe8a37",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://apublica.org/?p=177447",
+    "normalized_url": "https://apublica.org?p=177447",
+    "work_key": "https://apublica.org?p=177447",
+    "title": "Agência Pública – IA: Texto de PL aprovado em comissão protege direitos autorais, mas não os trabalhistas.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:07.463745Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5a53ab664988e734",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://monitor.lcfconsulting.com.br/proposicoes/pl-2338-2023/",
+    "normalized_url": "https://monitor.lcfconsulting.com.br/proposicoes/pl-2338-2023",
+    "work_key": "https://monitor.lcfconsulting.com.br/proposicoes/pl-2338-2023",
+    "title": "Monitor LCF Consulting – PL 2338/2023: situação atual do Marco Legal da Inteligência Artificial.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:07.063859Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f751725615201ab9",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.camara.leg.br/noticias/1160383-comissao-que-vai-analisar-projeto-sobre-inteligencia-artificial-sera-presidida-por-luisa-canziani-aguinaldo-ribeiro-sera-relator/",
+    "normalized_url": "https://camara.leg.br/noticias/1160383-comissao-que-vai-analisar-projeto-sobre-inteligencia-artificial-sera-presidida-por-luisa-canziani-aguinaldo-ribeiro-sera-relator",
+    "work_key": "https://camara.leg.br/noticias/1160383-comissao-que-vai-analisar-projeto-sobre-inteligencia-artificial-sera-presidida-por-luisa-canziani-aguinaldo-ribeiro-sera-relator",
+    "title": "Agência Câmara – Comissão que vai analisar projeto sobre inteligência artificial será presidida por Luisa Canziani; Aguinaldo Ribeiro será relator.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:07.602097Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "fe524f181ee82186",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.diap.org.br/index.php/noticias/noticias/92249-pl-2338-23-votacao-do-projeto-sobre-inteligencia-artificial-esta-prevista-apenas-para-dezembro",
+    "normalized_url": "https://diap.org.br/index.php/noticias/noticias/92249-pl-2338-23-votacao-do-projeto-sobre-inteligencia-artificial-esta-prevista-apenas-para-dezembro",
+    "work_key": "https://diap.org.br/index.php/noticias/noticias/92249-pl-2338-23-votacao-do-projeto-sobre-inteligencia-artificial-esta-prevista-apenas-para-dezembro",
+    "title": "DIAP – PL 2338/23: Votação do projeto sobre Inteligência Artificial está prevista apenas para dezembro.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:08.396218Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1a1b9218412c79a6",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.mobiletime.com.br/?p=834339",
+    "normalized_url": "https://mobiletime.com.br?p=834339",
+    "work_key": "https://mobiletime.com.br?p=834339",
+    "title": "Mobile Time – Audiência da Comissão Especial de IA sobre direitos autorais.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:09.453634Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e09853bd40aac242",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/apresentacoes-em-eventos/2025.09.09RonyVainzofFecomrcio.pdf",
+    "normalized_url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/apresentacoes-em-eventos/2025.09.09RonyVainzofFecomrcio.pdf",
+    "work_key": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/apresentacoes-em-eventos/2025.09.09RonyVainzofFecomrcio.pdf",
+    "title": "Câmara dos Deputados – IA generativa e direitos autorais – PL 2.338/23 (apresentação de Rony Vainzof, Fecomércio, 9/9/2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:10.420683Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d68c320662456cad",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/apresentacoes-em-eventos/MARCOSALVESDESOUZASecretriodeDireitosAutoraiseIntelectuaisdoMINCCmaradosDeputados02.09.25.pdf",
+    "normalized_url": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/apresentacoes-em-eventos/MARCOSALVESDESOUZASecretriodeDireitosAutoraiseIntelectuaisdoMINCCmaradosDeputados02.09.25.pdf",
+    "work_key": "https://www2.camara.leg.br/atividade-legislativa/comissoes/comissoes-temporarias/especiais/57a-legislatura/comissao-especial-sobre-inteligencia-artificial-pl-2338-23/apresentacoes-em-eventos/MARCOSALVESDESOUZASecretriodeDireitosAutoraiseIntelectuaisdoMINCCmaradosDeputados02.09.25.pdf",
+    "title": "Câmara dos Deputados – Direitos de autor e direitos conexos no PL 2338/2023 (apresentação da Secretaria de Direitos Autorais e Intelectuais do MinC, 2/9/2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:12.667784Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ba4210fb7ff0e297",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://teletime.com.br/09/12/2025/pl-do-governo-garante-anpd-como-reguladora-residual-de-ia-no-brasil/",
+    "normalized_url": "https://teletime.com.br/09/12/2025/pl-do-governo-garante-anpd-como-reguladora-residual-de-ia-no-brasil",
+    "work_key": "https://teletime.com.br/09/12/2025/pl-do-governo-garante-anpd-como-reguladora-residual-de-ia-no-brasil",
+    "title": "Teletime – PL do governo garante ANPD como reguladora residual de IA no Brasil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:11.799792Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5262e8dcf4f8d7ed",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://planalto.gov.br/ccivil_03/projetos/ato_2023_2026/2025/pl/pl-6237.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/projetos/ato_2023_2026/2025/pl/pl-6237.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/projetos/ato_2023_2026/2025/pl/pl-6237.htm",
+    "title": "Presidência da República – Projeto de Lei nº 6.237/2025 (texto).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:12.337621Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "85698d09822a732b",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2594000",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2594000",
+    "work_key": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2594000",
+    "title": "Câmara dos Deputados – Ficha de tramitação do PL 6237/2025.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:12.750383Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "20ecfde4546b19e7",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://teletime.com.br/19/01/2026/anatel-apoia-projeto-que-cria-sistena-nacional-de-ia-e-anpd-como-regulador-residual/",
+    "normalized_url": "https://teletime.com.br/19/01/2026/anatel-apoia-projeto-que-cria-sistena-nacional-de-ia-e-anpd-como-regulador-residual",
+    "work_key": "https://teletime.com.br/19/01/2026/anatel-apoia-projeto-que-cria-sistena-nacional-de-ia-e-anpd-como-regulador-residual",
+    "title": "Teletime – Anatel apoia projeto que cria Sistema Nacional de IA e ANPD como regulador residual.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:13.736418Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5f3e072377bda147",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "work_key": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "title": "Câmara dos Deputados – Ficha de tramitação do PL 2338/2023.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:13.267278Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f23e8587a3cb2b8c",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://diariocarioca.com/2026/05/28/politica/camara-votacao-regulamentacao-ia/",
+    "normalized_url": "https://diariocarioca.com/2026/05/28/politica/camara-votacao-regulamentacao-ia",
+    "work_key": "https://diariocarioca.com/2026/05/28/politica/camara-votacao-regulamentacao-ia",
+    "title": "Diário Carioca – Câmara impõe prazo para votar regulamentação da IA.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:14.810758Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "143eec3fe663bf75",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://www.mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano/",
+    "normalized_url": "https://mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano",
+    "work_key": "https://mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano",
+    "title": "Mobile Time – Marco de IA ganha força para ser votado no final do ano, diz relator.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:14.974447Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "177024fcc29466ec",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://convergenciadigital.com.br/governo/marco-legal-de-inteligencia-artificial-so-vota-depois-das-eleicoes/",
+    "normalized_url": "https://convergenciadigital.com.br/governo/marco-legal-de-inteligencia-artificial-so-vota-depois-das-eleicoes",
+    "work_key": "https://convergenciadigital.com.br/governo/marco-legal-de-inteligencia-artificial-so-vota-depois-das-eleicoes",
+    "title": "Convergência Digital – Marco Legal de Inteligência Artificial só vota depois das eleições.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:15.711998Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f42e227d72ef89a8",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://certificacaoiso.com.br/pl-2338-ai-act/",
+    "normalized_url": "https://certificacaoiso.com.br/pl-2338-ai-act",
+    "work_key": "https://certificacaoiso.com.br/pl-2338-ai-act",
+    "title": "Certificação ISO – PL 2338 e AI Act: status e o que muda para empresas.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:15.253231Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "02e563ccf3b95ed5",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www.aosfatos.org/noticias/aprovada-senado-regulacao-ia-camara/",
+    "normalized_url": "https://aosfatos.org/noticias/aprovada-senado-regulacao-ia-camara",
+    "work_key": "https://aosfatos.org/noticias/aprovada-senado-regulacao-ia-camara",
+    "title": "Aos Fatos – Aprovada no Senado, regulação de IA deve sofrer resistência na Câmara.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:16.524336Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e9470822db2fe3f6",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://boainformacao.com.br/2026/05/camara-dos-deputados-planeja-votar-projeto-de-regulacao-da-inteligencia-artificial/",
+    "normalized_url": "https://boainformacao.com.br/2026/05/camara-dos-deputados-planeja-votar-projeto-de-regulacao-da-inteligencia-artificial",
+    "work_key": "https://boainformacao.com.br/2026/05/camara-dos-deputados-planeja-votar-projeto-de-regulacao-da-inteligencia-artificial",
+    "title": "Boa Informação – Câmara dos Deputados projeta votação de regulamentação da inteligência artificial para junho.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:00:16.188928Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_1916d2c857a4_20261102T195932Z",
+    "tool_name": "Claude"
+  }
+]

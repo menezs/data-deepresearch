@@ -1,0 +1,877 @@
+{
+  "run_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+  "answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/ChatGPT/Emergente/regulacao_ia.md",
+  "generated_at": "2026-11-18T10:36:35.912218Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 36427,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 102,
+    "citation_markers_distinct": 9,
+    "references_listed": 9,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 82,
+  "pct_supported": 62.19512195121951,
+  "pct_unsupported": 10.975609756097562,
+  "pct_contradicted": 0.0,
+  "count_supported": 51,
+  "count_unsupported": 9,
+  "count_contradicted": 0,
+  "count_skipped": 22,
+  "count_audited": 60,
+  "pct_supported_audited": 85.0,
+  "pct_unsupported_audited": 15.0,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 18,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 14,
+    "fonte_citada_sem_conteudo": 8
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 3,
+  "count_reclassified_by_verification": 4,
+  "verification_stage_counts": {
+    "context_expansion": 4
+  },
+  "mis_cited_reference_count": 3,
+  "uncredited_reference_count": 2,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-11",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-13",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-22",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-23",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-28",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-37",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-38",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-51",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-52",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-64",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-65",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-70",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-73",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-77",
+      "reason": "Referencia(s) citada(s) ['8f3783089fb74217'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-3",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['8f3783089fb74217'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-3",
+        "verdict": "supported",
+        "justification": "A evidência confirma explicitamente que existe um autógrafo do Senado (PL 2338/2023), datado de 17/03/2025, encaminhado à Câmara dos Deputados nessa mesma data via Ofício SF nº 235/2025. Todos os elementos factuais do trecho — a existência do autógrafo, a data de 17 de março de 2025 e o encaminhamento à Câmara dos Deputados — são diretamente sustentados pela evidência.",
+        "cited_excerpts": [
+          "Autógrafo - PL 2338/2023\n- Autor:\n- Senado Federal\n- Data:\n- 17/03/2025",
+          "Remetido Ofício SF nº 235, de 17/03/25, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafo do projeto para revisão, nos termos do art. 65 da Constituição Federal.",
+          "Encaminha à revisão da Câmara dos Deputados o Projeto de Lei n° 2338, de 2023.",
+          "17/03/2025\n- Situação:\n- REMETIDA À CÂMARA DOS DEPUTADOS"
+        ],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "A referência ao 'AI Act vigente' e a motivação de 'evitar comparar com uma versão brasileira superada' são contexto argumentativo do texto, não fatos verificáveis pela evidência — mas os elementos factuais centrais (autógrafo, data, encaminhamento) estão plenamente sustentados."
+        ],
+        "per_reference": [],
+        "prompt_tokens": 10137,
+        "completion_tokens": 1392,
+        "cost_usd": 0.0,
+        "latency_ms": 11309,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": []
+      }
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-5",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['8f3783089fb74217'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-5",
+        "verdict": "supported",
+        "justification": "A evidência mostra que o PL 2338/2023 foi aprovado pelo Senado na forma de Substitutivo e remetido à Câmara dos Deputados, onde está em tramitação. Isso sustenta a afirmação de que o 'regime brasileiro' refere-se ao texto aprovado pelo Senado, sujeito a alterações pela Câmara, pois o projeto está sob análise da Câmara e ainda não foi sancionado.",
+        "cited_excerpts": [
+          "O Projeto de Lei nº 2.338, de 2023, aprovado na forma do Substitutivo, vai à Câmara dos Deputados.",
+          "REMETIDA À CÂMARA DOS DEPUTADOS",
+          "Recebido o Ofício nº 235/ 2025 do Senado Federal que submete à revisão da Câmara dos Deputados, nos termos do art. 65 da Constituição Federal, o Projeto de Lei n° 2.338, de 2023",
+          "Em tramitação"
+        ],
+        "supporting_reference_ids": [
+          "f7d309a1d1b98e5f"
+        ],
+        "unsupported_aspects": [
+          "O termo 'regime brasileiro' como expressão usada no texto original não aparece literalmente na evidência",
+          "As palavras 'rejeição ou substituição' pela Câmara não são explicitamente mencionadas, apenas inferidas do fato de estar em tramitação"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "f7d309a1d1b98e5f",
+            "relation": "supports",
+            "excerpt": "O Projeto de Lei nº 2.338, de 2023, aprovado na forma do Substitutivo, vai à Câmara dos Deputados. [...] Recebido o Ofício nº 235/ 2025 do Senado Federal que submete à revisão da Câmara dos Deputados [...] Em tramitação"
+          }
+        ],
+        "prompt_tokens": 9928,
+        "completion_tokens": 717,
+        "cost_usd": 0.0,
+        "latency_ms": 40611,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": []
+      }
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-0",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['8f3783089fb74217'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-0",
+        "verdict": "unsupported",
+        "justification": "A evidência contém apenas trechos do Regulamento Europeu de IA (AI Act), sem qualquer menção ao PL 2338/2023 brasileiro. Embora a evidência mostre que o AI Act adota abordagem baseada em risco (Art. 6), regras horizontais e obrigações ao longo da cadeia de valor (Art. 25), é impossível verificar a comparação com o projeto brasileiro sem informação sobre este último.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [
+          "37441f02f270282b"
+        ],
+        "unsupported_aspects": [
+          "Existência e conteúdo do PL 2338/2023 brasileiro",
+          "Comparação entre o AI Act e o PL 2338/2023",
+          "Afirmativa de que ambas pertencem à 'mesma família' regulatória",
+          "Afirmativa de que o PL 2338/2023 adota abordagem baseada em risco",
+          "Afirmativa de que o PL 2338/2023 combina regras horizontais com obrigações reforçadas",
+          "Afirmativa de que o PL 2338/2023 distribui deveres ao longo da cadeia de valor da IA"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "37441f02f270282b",
+            "relation": "partial",
+            "excerpt": "(c) specific requirements for high-risk AI systems and obligations for operators of such systems"
+          }
+        ],
+        "prompt_tokens": 126021,
+        "completion_tokens": 7062,
+        "cost_usd": 0.0,
+        "latency_ms": 54882,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [
+          "5fdb278a20487e16",
+          "2ddcc05b33f7db1a",
+          "f7d309a1d1b98e5f",
+          "7d26e3244b0c5fcf"
+        ],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência contém apenas trechos do Regulamento Europeu de IA (AI Act), sem qualquer menção ao PL 2338/2023 brasileiro. Embora a evidência mostre que o AI Act adota abordagem baseada em risco (Art. 6), regras horizontais e obrigações ao longo da cadeia de valor (Art. 25), é imp…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência fornecida contém apenas o texto do Regulamento Europeu de Inteligência Artificial (AI Act — Regulation EU 2024/1689). Não há qualquer menção ao PL 2338/2023 brasileiro ou a qualquer outra legislação brasileira. A afirmação compara as duas regulamentações e atribui ca…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em 37441f02f270282b; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "claim sustentado por outra(s) referencia(s) nao citada(s): 5fdb278a20487e16, 2ddcc05b33f7db1a, f7d309a1d1b98e5f, 7d26e3244b0c5fcf"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-9",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['8f3783089fb74217'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-9",
+        "verdict": "unsupported",
+        "justification": "A afirmacao fala sobre uma 'convergência mais evidente' na 'definição tecnológica e na lógica de risco', mas a evidência não menciona 'convergência' nem estabelece qualquer relação de convergência entre definições tecnológicas e lógica de risco. A evidência trata de sistemas de gestão de risco e definições técnicas de IA de forma isolada, sem sustentar a afirmacao interpretativa apresentada.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "convergência mais evidente",
+          "definição tecnológica",
+          "lógica de risco",
+          "relação entre esses conceitos"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "37441f02f270282b",
+            "relation": "partial",
+            "excerpt": "(1) 'AI system' means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;"
+          }
+        ],
+        "prompt_tokens": 127315,
+        "completion_tokens": 4917,
+        "cost_usd": 0.0,
+        "latency_ms": 45676,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A afirmacao fala sobre uma 'convergência mais evidente' na 'definição tecnológica e na lógica de risco', mas a evidência não menciona 'convergência' nem estabelece qualquer relação de convergência entre definições tecnológicas e lógica de risco. A evidência trata de sistemas de…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A afirmacao e uma conclusao analitica sobre 'convergencia' entre 'definicao tecnologica' e 'logica de risco', mas a evidencia (texto do AI Act da UE) nao contem nenhuma discussao sobre convergencia entre frameworks ou conceitos. O termo 'convergencia' nao aparece, e a afirmacao…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em 37441f02f270282b; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-39",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['8f3783089fb74217'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-39",
+        "verdict": "unsupported",
+        "justification": "A evidência fornecida contém exclusivamente trechos do AI Act (Regulamento UE 2024/1689). Não há qualquer menção ao PL brasileiro, nem comparação entre as filosofias regulatórias dos dois instrumentos. A afirmacao faz uma comparacao direta entre o AI Act e o PL brasileiro, mas a evidência não contempla o lado brasileiro da comparacao, tornando impossível confirmar ou negar a afirmacao com base apenas na evidência.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "Comparacao entre AI Act e PL brasileiro",
+          "Afirmação de que o PL brasileiro reserva espaço relativamente maior para decisões posteriores da governança administrativa e dos reguladores setoriais",
+          "Afirmação de que o AI Act cristaliza quantidade maior de classificações, critérios e procedimentos diretamente em regulamento e anexos atualizáveis (comparativamente ao PL brasileiro)",
+          "Existência e conteúdo do PL brasileiro"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "37441f02f270282b",
+            "relation": "partial",
+            "excerpt": "ANNEX III\n\nHigh-risk AI systems referred to in Article 6(2)\n\nHigh-risk AI systems pursuant to Article 6(2) are the AI systems listed in any of the following areas:"
+          }
+        ],
+        "prompt_tokens": 127496,
+        "completion_tokens": 6909,
+        "cost_usd": 0.0,
+        "latency_ms": 51353,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência fornecida contém exclusivamente trechos do AI Act (Regulamento UE 2024/1689). Não há qualquer menção ao PL brasileiro, nem comparação entre as filosofias regulatórias dos dois instrumentos. A afirmacao faz uma comparacao direta entre o AI Act e o PL brasileiro, mas a…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A claim faz uma comparação entre o AI Act europeu e o PL brasileiro quanto à filosofia regulatória. A evidência fornecida contém apenas o texto do AI Act (Regulamento UE 2024/1689), não trazendo qualquer informação sobre o PL brasileiro. Sem dados sobre o PL brasileiro, é imposs…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em 37441f02f270282b; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-54",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['8f3783089fb74217'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-54",
+        "verdict": "unsupported",
+        "justification": "A evidência contém exclusivamente trechos do regulamento europeu de IA (EU AI Act), descrevendo em detalhe os organismos notificados, a declaração UE de conformidade, a marcação CE, os procedimentos harmonizados e o arcabouço do mercado interno. Contudo, a evidência não menciona em nenhum momento um 'PL' (Projeto de Lei) nem faz qualquer comparação entre este e a infraestrutura europeia. A afirmação sobre o que o PL faz ou deixa de fazer não encontra qualquer fundamento na evidência fornecida.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "Existência e conteúdo de um 'PL' (Projeto de Lei)",
+          "Se o PL replica ou não integralmente a infraestrutura europeia de conformidade de produto",
+          "Se há ou não equivalente horizontal imediato à combinação europeia de organismos notificados, declaração UE de conformidade, marcação CE e procedimentos harmonizados no contexto do PL",
+          "Referência ao 'arcabouço do mercado interno' como suporte dos procedimentos harmonizados no contexto comparativo com o PL"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "37441f02f270282b",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 124441,
+        "completion_tokens": 6273,
+        "cost_usd": 0.0,
+        "latency_ms": 59697,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": true,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência contém exclusivamente trechos do regulamento europeu de IA (EU AI Act), descrevendo em detalhe os organismos notificados, a declaração UE de conformidade, a marcação CE, os procedimentos harmonizados e o arcabouço do mercado interno. Contudo, a evidência não menciona…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência fornecida contém exclusivamente trechos do Regulamento de IA da UE (EU AI Act), descrevendo os mecanismos europeus de conformidade de produto (organismos notificados, declaração UE de conformidade, marcação CE, procedimentos harmonizados, etc.). Em nenhum momento a e…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "claim ausente das 14 janela(s) do(s) documento(s) citado(s)"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-71",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['8f3783089fb74217'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-71",
+        "verdict": "unsupported",
+        "justification": "A evidência fornecida consiste majoritariamente em trechos do regulamento europeu de IA (EU AI Act) e um trecho de política de privacidade do ITS Rio. Nenhum dos trechos aborda interoperabilidade entre definições brasileiras e europeias, nem menciona qualquer 'vantagem brasileira' decorrente da proximidade de definições ou lógica baseada em risco. A afirmação não pode ser confirmada nem negada com base na evidência apresentada.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "interoperabilidade entre definições brasileiras e de outros regulamentos",
+          "proximidade das definições",
+          "lógica baseada em risco como vantagem brasileira",
+          "vantagem brasileira"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "37441f02f270282b",
+            "relation": "absent",
+            "excerpt": ""
+          },
+          {
+            "reference_id": "0c6729482dce59f9",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 129089,
+        "completion_tokens": 3647,
+        "cost_usd": 0.0,
+        "latency_ms": 43644,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": true,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência fornecida consiste majoritariamente em trechos do regulamento europeu de IA (EU AI Act) e um trecho de política de privacidade do ITS Rio. Nenhum dos trechos aborda interoperabilidade entre definições brasileiras e europeias, nem menciona qualquer 'vantagem brasileir…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência fornecida contém exclusivamente trechos do regulamento europeu de IA (EU AI Act) e da política de privacidade do ITS Rio. Não há qualquer menção a Brasil, a definições brasileiras, a interoperabilidade entre sistemas brasileiros e europeus, ou a uma vantagem brasilei…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "claim ausente das 15 janela(s) do(s) documento(s) citado(s)"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-81",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['8f3783089fb74217'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-81",
+        "verdict": "unsupported",
+        "justification": "A afirmação compara dois 'regimes' e sustenta que a diferença entre eles está menos no reconhecimento de que aplicações mais perigosas exigem controle maior e mais em como transformar esse princípio em controles verificáveis, responsabilidades distribuídas e enforcement previsível. A evidência fornecida consiste exclusivamente em trechos do regulamento da UE sobre IA (AI Act), que tratam de gestão de risco, supervisão humana, classificação de sistemas de IA de alto risco, obrigações de deployers, medidas de enforcement, etc. Em nenhum momento a evidência menciona 'dois regimes', nem faz qualquer comparação entre regimes, nem afirma que a diferença entre regimes se dá na transformação de princípios em controles verificáveis, responsabilidades distribuídas e enforcement previsível. Essa é uma afirmação analítica/editorial que não encontra respaldo direto nos textos legais apresentados.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "Existência de 'dois regimes' sendo comparados",
+          "Comparação entre os dois regimes",
+          "A diferença entre os regimes estar menos no reconhecimento de que aplicações mais perigosas exigem controle maior",
+          "A diferença estar mais em como transformar princípios em controles verificáveis",
+          "A diferença estar mais em responsabilidades distribuídas",
+          "A diferença estar mais em enforcement previsível"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "37441f02f270282b",
+            "relation": "absent",
+            "excerpt": ""
+          },
+          {
+            "reference_id": "0c6729482dce59f9",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 132131,
+        "completion_tokens": 6804,
+        "cost_usd": 0.0,
+        "latency_ms": 47051,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": true,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A afirmação compara dois 'regimes' e sustenta que a diferença entre eles está menos no reconhecimento de que aplicações mais perigosas exigem controle maior e mais em como transformar esse princípio em controles verificáveis, responsabilidades distribuídas e enforcement previsív…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A afirmacao e uma analise comparativa sobre a diferenca entre 'dois regimes' regulatorios, mas a evidencia fornecida e exclusivamente o texto do EU AI Act, sem qualquer comparacao entre regimes, nem discussao sobre onde reside a diferenca entre eles. A evidencia nao menciona 'do…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "claim ausente das 15 janela(s) do(s) documento(s) citado(s)"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "37441f02f270282b",
+      "url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng",
+      "times_cited": 57,
+      "supported_count": 46,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 38,
+      "partial_citations": 12,
+      "status": "downloaded",
+      "supports_positions": [
+        6,
+        10,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        26,
+        27,
+        30,
+        33,
+        34,
+        36,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        68,
+        72
+      ],
+      "partial_positions": [
+        1,
+        7,
+        8,
+        12,
+        32,
+        67,
+        69,
+        74,
+        75,
+        76,
+        78,
+        80
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [
+        35
+      ],
+      "not_audited_positions": [
+        0,
+        9,
+        39,
+        54,
+        71,
+        81
+      ],
+      "key_excerpt": "02024R1689 — EN — 27.07.2026 — 001.001 ... Amended by: ... ►M1 REGULATION (EU) 2026/1744 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 July 2026 L 1744 1 24.7.2026",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "8f3783089fb74217",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9915448",
+      "times_cited": 22,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0,
+        3,
+        5,
+        9,
+        11,
+        13,
+        22,
+        23,
+        28,
+        37,
+        38,
+        39,
+        51,
+        52,
+        54,
+        64,
+        65,
+        70,
+        71,
+        73,
+        77,
+        81
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "7d26e3244b0c5fcf",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1744",
+      "times_cited": 9,
+      "supported_count": 9,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        8,
+        31,
+        56,
+        75,
+        80
+      ],
+      "partial_positions": [
+        6,
+        69,
+        76
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the general date of application is 2 August 2026. [...] the date of application of Sections 1, 2 and 3 of Chapter III is set to 2 December 2027 for AI systems classified as high-risk pursuant to Article 6(2) and Annex III, and to 2 August 2028 for AI systems classified as high-risk pursuant to Article 6(1) and Annex I. [...] REGULATION (EU) 2026/1744 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 8 July 2026 [...] The entry into application of its provisions is staggered",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "f7d309a1d1b98e5f",
+      "url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2338-2023",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        66
+      ],
+      "partial_positions": [
+        1
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        5
+      ],
+      "key_excerpt": "## Casa Revisora (Câmara)\n\n **Situação:** Aguardando Parecer do(a) Relator(a) na Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "0c6729482dce59f9",
+      "url": "https://itsrio.org/pt/publicacoes/relatorio-matriz-comparada-de-obrigacoes-pl-2338-2023-vs-eu-ai-act-2/",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        29,
+        53
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        71,
+        81
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "2ddcc05b33f7db1a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        2
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        3
+      ],
+      "key_excerpt": "Autoria: Senador Rodrigo Pacheco (PSD/MG) ... Ementa: Dispõe sobre o uso da Inteligência Artificial. ... Aprovada a Emenda nº 199 (Substitutivo) ... O Projeto de Lei nº 2.338, de 2023, aprovado na forma do Substitutivo, vai à Câmara dos Deputados.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "5fdb278a20487e16",
+      "url": "https://www.researchgate.net/publication/382094171_Regulation_of_artificial_intelligence_in_Brazil_examination_of_Draft_Bill_no_23382023",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        25
+      ],
+      "partial_positions": [
+        79
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This article aims to explore the challenges faced by Brazilian Draft Bill no. 2338/2023 in its purpose to implement risk-based regulation of artificial intelligence in Brazil.",
+      "key_excerpt_position": 25
+    },
+    {
+      "reference_id": "5f3e072377bda147",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        4
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d636ac1d267aca78",
+      "url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2629/audiencias",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        24
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-1",
+      "position": 1,
+      "claim_excerpt": "A semelhança, entretanto, não deve ocultar uma diferença institucional decisiva: o AI Act é um regulamento já vigente, integrado ao sistema europeu de harmonização de produtos, fiscalização de mercad…",
+      "cited_markers": "[1] [5]",
+      "corroborating_markers": "[2] [8]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-32",
+      "position": 32,
+      "claim_excerpt": "O segundo grande nível europeu é o de **alto risco**.",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[8] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z-79",
+      "position": 79,
+      "claim_excerpt": "A literatura sobre o PL já identifica como questão central a passagem de princípios e categorias abstratas para uma regulação baseada em risco efetivamente administrável.",
+      "cited_markers": "[8]",
+      "corroborating_markers": "[2] [5] [1]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 2434679,
+  "cost_tracked": false,
+  "processing_time_seconds": 127777.667177
+}

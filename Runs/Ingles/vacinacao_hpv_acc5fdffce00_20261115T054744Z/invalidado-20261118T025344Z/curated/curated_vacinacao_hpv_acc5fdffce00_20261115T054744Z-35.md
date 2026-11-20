@@ -1,0 +1,219 @@
+[referencia=17a8344c3184782e score=0.999]
+## Abstract
+
+### Background:
+
+The Costa Rica HPV Vaccine Trial was publicly-funded and initiated before licensure of the HPV vaccines. We present results for the CVT and its long-term follow-up phase (LTFU), evaluating efficacy of the bivalent HPV vaccine to prevent HPV-16/18 associated cervical intraepithelial neoplasia (CIN) grade 2 or worse, 11 years after vaccination.
+
+### Methods:
+
+Healthy women aged 18–25 years were randomized (1:1) in a double-blinded fashion to three doses of HPV-16/18 AS04-adjuvanted vaccine or control vaccine administrated intramuscularly and followed annually for four years. After this blinded phase, the control arm received HPV vaccine and was replaced with a new unvaccinated control group (UCG), whose underlying risk of HPV infection was comparable to the original control group. Biennial study visits were conducted for additional seven years of unblinded follow-up. At each visit, clinicians collected cervical cells from sexually active women for cytology and HPV testing. Women with abnormal cytology were referred to colposcopy, biopsy and treatment as needed. Women with negative results at the last screening visit (year 11) were exited. We pre-specified the analytical approaches for the LTFU. The analytical cohort for vaccine efficacy (VE) included women HPV-16/18 DNA negative at vaccination. The outcome was defined as histopathologically confirmed CIN2+ associated with HPV-16/18 cervical infection detected at colposcopy referral. VE was computed by year and cumulatively, with 95% confidence intervals (CI).
+
+---
+
+[referencia=17a8344c3184782e score=0.999]
+### Research in context
+
+#### Evidence before this study
+
+Large pre-licensure clinical trials for the bivalent and quadrivalent HPV vaccines demonstrated that both vaccines provide high vaccine efficacy against HPV 16 and 18 persistent infection and associated cervical intraepithelial neoplasia (CIN) grade 2 or worse in women with no evidence of infection at vaccination. We searched on 01 through 20 December 2019 for reports in Pubmed examining the long-term efficacy of the HPV vaccines in clinical trial settings against cervical precancer using the following terms in the title/abstract (HPV AND vaccine); (HPV AND vaccine AND bivalent); (HPV AND vaccine AND quadrivalent); (HPV AND vaccine AND nonavalent). We restricted the selection to publications in English. Based on this search, for cervical precancer the longest reported duration of active follow-up was 6 years for the bivalent vaccine, 3 years for the quadrivalent vaccine, and 6 years for the nonavalent vaccine.
+
+#### Added value of this study
+
+We present the efficacy of the bivalent vaccine to prevent cervical precancer (CIN2/3) associated with HPV-16/18 cervical infection over a decade following initial vaccination. Results are from the long-term follow-up of our randomized clinical trial, the Costa Rica HPV Vaccine Trial (CVT), in which HPV-vaccinated women were followed actively for 11 years. We were able to demonstrate protection against CIN3+, the immediate precursor of invasive cervical cancer. To our knowledge, we report the longest follow-up of the protection afforded by the bivalent vaccine against cervical precancer associated with HPV-16/18 infection.
+
+#### Implications of all the available evidence
+
+The long-term follow-up analysis of CVT demonstrates continued near-perfect protection by the bivalent HPV vaccine against CIN2+ and CIN3+ caused by HPV 16 and 18 among women who were HPV-16/18 negative at initial vaccination.
+
+No outcomes were detected in the HPV vaccinated arm in the timeframe spanning years 7 to 11 after HPV vaccination despite continued disease detection in the unvaccinated control group. This finding suggests that the HPV vaccine will continue protecting against clinical disease, thus supporting the notion that invasive cervical cancer can indeed be prevented.
+
+---
+
+[referencia=17a8344c3184782e score=0.996]
+## Discussion
+
+The long-term follow-up analysis of CVT demonstrates continued near-perfect protection by the bivalent HPV vaccine against CIN2+ caused by HPV 16 and 18 among women who were HPV-16/18 negative at initial vaccination. Importantly, the protection was observed even at the 11-year post-vaccination timepoint, suggesting no waning over time. The 100% efficacy against HPV-16/18-associated CIN2+ at year 11 was based on 34 outcomes, all in the unvaccinated arm, resulting in a lower bound of our confidence interval of 89%, assuring that the results are robust. We were able to demonstrate protection against CIN3, the immediate precursor of invasive cervical cancer. In our assessment of cumulative HPV vaccine efficacy, the two cases of CIN3 detected at years 1 and 4 in the HPV arm might have originated from existing infections prior to vaccination but were undetected during the vaccination phase. Even if those were true vaccine failures, the protection afforded by the vaccine has the potential to provide profound cervical cancer reductions among HPV-vaccinated women.
+
+---
+
+[referencia=17a8344c3184782e score=0.992]
+The findings in this manuscript come from the long-term follow-up of our randomized clinical trial (CVT), in which HPV-vaccinated women were followed actively for 11 years, with individual data collection at each study visit and rigorously monitored clinical procedures. Important strengths of our long-term follow-up include its duration and high retention rates. Crucially, the histological outcomes were determined by a panel of expert pathologists blinded to individual-level information, reducing misclassification and assuring robust endpoint assessment. We also detected a substantial number of CIN2+ outcomes, increasing the precision in our efficacy estimates. The main limitation of our trial is the replacement of the original control group (offered HPV vaccination mid-way through the 11 years of follow-up of the HPV arm), with a new unvaccinated group. We conducted extensive analyses to rule out bias, comparing the original and new unvaccinated control groups and published data showing the two groups were similar in terms of risk of HPV acquisition, the precursor to cervical disease.<sup>16</sup> Moreover, our sensitivity analyses in this manuscript using the cohort including vaccinated women with baseline HPV infection and excluding participants with LEEP during prior visits provided a “worst-case scenario” and still showed very high 11-year vaccine efficacy against HPV-16/18-associated CIN2+.
+
+Our observation of no outcomes detected in the HPV vaccinated arm during years 7 to 11 after HPV vaccination despite continued disease detection in the unvaccinated group suggests that the vaccine will continue offering further protection for clinical disease.<sup>27</sup> It should be noted that these results apply to the bivalent HPV vaccine, which as of this writing has had more limited distribution than the quadrivalent/nonavalent vaccines on the market.
+
+The research community continues to amass robust data showing that HPV vaccines provide durable protection against HPV-16/18 infections and associated precancerous lesions, supporting the notion that invasive cervical cancer can indeed be prevented. We look forward to additional data from both clinical trials (i.e.: Finland<sup>28</sup>) and post-marketing studies (i.e.:Scotland<sup>29</sup>).
+
+---
+
+[referencia=17a8344c3184782e score=0.992]
+## Introduction
+
+Persistent infection with specific types of human papillomavirus (HPV) causes nearly all cervical cancers.<sup>1</sup> Annually, 570,000 new cases occur worldwide; and 70% are attributable to HPV 16 and 18.<sup>2</sup> Mortality remains high in low resource countries and deprived socioeconomic groups.
+
+Safe and effective vaccines against HPV are available since 2006, and the World Health Organization (WHO) recommends countries to vaccinate adolescent girls.<sup>3</sup> Three vaccines are WHO pre-qualified: bivalent against HPV 16 and 18, quadrivalent against HPV 6,11,16, and 18 and nonavalent (HPV 6, 11, 16, 18, 31, 33, 45, 52, and 58).
+
+Large pre-licensure trials of bivalent and quadrivalent vaccines demonstrated high protection against HPV 16 and 18 persistent infection and associated cervical intraepithelial neoplasia (CIN) grade 2 or worse in women without infection at vaccination (vaccine efficacy >90%).<sup>4–6</sup> Nonavalent vaccine showed non-inferior HPV 6,11,16 and 18 antibody responses compared with quadrivalent vaccine and efficacy of 96.7% (95% CI 80.9–99.8) against HPV 31,33,45,52 and 58-related high-grade lesions.<sup>7</sup> Yet, few reports examined long-term efficacy against cervical precancer (CIN2/3). In clinical trials the longest evaluation was 6 years for bivalent vaccine,<sup>8,9</sup> 3 years for quadrivalent vaccine <sup>4</sup> and 6 years for nonavalent vaccine.<sup>10</sup>
+
+It is critical to consolidate findings of trials on protection against advanced cancer precursors and document long-term efficacy, as durable prophylactic HPV vaccine protection is necessary for life-long reduction of cervical cancer risk.<sup>11</sup>
+
+---
+
+[referencia=17a8344c3184782e score=0.991]
+It is critical to consolidate findings of trials on protection against advanced cancer precursors and document long-term efficacy, as durable prophylactic HPV vaccine protection is necessary for life-long reduction of cervical cancer risk.<sup>11</sup>
+
+Here, we present results from the Costa Rica HPV Vaccine Trial (CVT, NCT00128661), and its non-randomized, observational long-term follow-up phase (LTFU, NCT00867464), publicly funded studies initiated before licensure, with an average follow-up of 11 years after vaccination with bivalent vaccine. We focus on efficacy of the vaccine to prevent CIN2+ and CIN3+ associated with incident HPV-16/18 cervical infection.
+
+---
+
+[referencia=17a8344c3184782e score=0.989]
+|  | UCG | 2233 | 34 | 1·52 (1·07 – 2·10) | 3·06 (2·42 – 3·82) |  |  | 
+| **Total** |  |  | **74** |  |  |  |  | 
+
+At 11 years post-vaccination, the efficacy against incident HPV-16/18-associated CIN2+ was 100% (95% CI: 89·2 – 100·0), with 34 of the 2233 unvaccinated women having a CIN2+ outcome. Cumulative efficacy against CIN2+ was 97·4% (95% CI: 88·0 – 99·6).
+
+A total of 38 HPV-16/18-associated CIN3+ were observed in the efficacy analysis cohort during the 11-years follow up (Table 2). Efficacy against incident HPV-16/18-associated CIN3+ at 11 years post-vaccination was 100% (95% CI: 78·8–100·0), with 18 of 2237 unvaccinated women having a CIN3+ outcome. The cumulative efficacy against CIN3+ was 94·9% (95% CI: 73·7–99·4).
+
+---
+
+[referencia=17a8344c3184782e score=0.987]
+## Results
+
+In CVT 7,466 women were enrolled between June 28, 2004, and December 21, 2005. Enrollment in the LTFU study began on March 30, 2009, and finished on July 5, 2012. In the analytical cohort for vaccine efficacy against HPV-16/18 associated CIN2+ for years 0–4 (CVT) we included 2,635 women in the HPV-arm and 2,677 women in the control arm. For years 7–11 we included 2,073 women from the HPV-arm and 2,530 from the UCG. The number of participants excluded by reasons and period is included in the consort diagram in figure 1.
+
+Median follow-up time for the HPV-vaccinated group was 11·1 years (interquartile range (IQR): 9·1–11·7 years). For the unvaccinated groups, median follow-up time was 4·6 years IQR: 4·3–5·3 years) in the original control group and 6·2 years (IQR: 5·5–6·9 years) in the UCG. As previously reported <sup>5</sup>, baseline characteristics of the vaccinated group and the original control group included in the cohort for efficacy were similar. Further, the original control group and the UCG group were compared and, as previously reported <sup>16</sup> women in the UCG were similar with respect to age, area of residence and number of lifetime sexual partners, but were more likely to be married and had more pregnancies. We therefore adjusted for age, number of lifetime sexual partners, marital status, and number of pregnancies in sensitivity analyses.
+
+---
+
+[referencia=17a8344c3184782e score=0.987]
+A total of 74 HPV-16/18-associated CIN2+ were observed in the efficacy analysis cohort during the 11-years follow up, two in the HPV arm and 72 in the control/UCG arm, yielding an efficacy against incident HPV-16/18-associated CIN2+ in each year of 100% except in years 1 and 4 (Table 1). We further considered the two possible “breakthroughs” in the HPV arm. The first outcome in year 1 occurred in a woman who was positive for antibodies against both HPV-16 and HPV-18 and had an HSIL cytology (upgraded from the cytology QC process) at enrollment, moreover, she was positive for HPV-16 and HPV-45 at 11 months and diagnosed with CIN3 at 15 months after enrollment. The second outcome in the HPV arm occurred in a participant who had antibodies against both HPV-16 and HPV-18 at enrollment and was positive for HPV-16 DNA at 13 months after enrollment, remaining HPV-16 positive until the diagnosis of CIN3 at 78 months after enrollment.
+
+---
+
+[referencia=17a8344c3184782e score=0.985]
+Our findings of long-term protection by the bivalent HPV vaccine are supported by our recent reports of stable, high efficacy against HPV-16/18 prevalent infection at year 11 and the high level of HPV-16 and HPV-18 antibodies persisting throughout the study.<sup>12,13</sup> Ongoing analyses will evaluate efficacy against CIN2+ irrespective of HPV type associated to the lesion. The new CVT results are consistent with other clinical trials of the bivalent vaccine, where significant protection against HPV-16/18-associated CIN2+ was reported for up to 6 years in China (90% efficacy).<sup>9</sup> Duration of protection of the bivalent vaccine was also evaluated in a passive cancer registry-based follow-up study, reporting 66% protection against any CIN3, ten years post-vaccination.<sup>23</sup> For the quadrivalent vaccine, reported vaccine effectiveness against HPV-16/18 CIN2+ remains above 90% through ten years of follow-up.<sup>24</sup> Also, a meta-analysis showed 51% significant decrease in CIN2+ among screened girls aged 15–19 years and 31% in women aged 20–24 years, 5–9 years after vaccination.<sup>25</sup> Vaccine-induced antibodies are the known mediators of protection afforded by prophylactic HPV vaccines and virtually 100% of the subcohort women who received the vaccine and were evaluated for antibodies seroconverted and remained seropositive after 11 years; supporting the observation of robust and durable vaccine efficacy.<sup>26</sup>
+
+---
+
+[referencia=17a8344c3184782e score=0.985]
+## Methods
+
+### Study design and participants
+
+The primary objective of the Costa Rica HPV Vaccine Trial (CVT) was to evaluate efficacy of the bivalent vaccine (HPV-16/18 AS04-adjuvanted vaccine, Cervarix®, GlaxoSmithKline Biologicals) for prevention of cervical HPV-16/18 infection and related precancerous lesions. Study design details have been published.<sup>14</sup> In brief, between June 2004-December 2005, 7,466 healthy women aged 18–25 years old, from Guanacaste and Puntarenas provinces in Costa Rica were enrolled. The study was approved by the Institutional Review Boards in Costa Rica and the United States, and participants provided written informed consent.
+
+At the year 4 visit of CVT, women in the HPV vaccine arm were invited to the long-term follow-up (LTFU) study, which extended follow-up for 7 additional years. Detailed methods of extended follow-up have been reported.<sup>16</sup> Women from the control arm of CVT were offered HPV vaccine at the end of the 4-year blinded phase and attended one last visit after which they were exited from the LTFU component. Women who agreed signed new informed consents.
+
+Because HPV vaccination was offered to the control arm (71% received at least one dose), a new screening-only, unvaccinated control group (UCG) was recruited into the LTFU study to replace the original control arm. The aim was to enroll 3,000 women in the UCG to provide a sample size similar to the original control arm of CVT.<sup>16</sup> Enrollment in UCG occurred contemporaneously with CVT participants attending the year 4 visit and included women from the same birth cohorts in the same geographical regions as the original participants. The UCG women were not randomized; thus, the LTFU study is considered an epidemiological cohort study, and no longer a randomized clinical trial.
+
+---
+
+[referencia=17a8344c3184782e score=0.982]
+### Findings:
+
+In CVT 7,466 women were enrolled between June 28, 2004 and December 21, 2005; 3,727 received the HPV vaccine and 3,739 the control vaccine. In the LTFU, enrollment occurred between March 30, 2009, and July 5, 2012, 2,836 women were included in the UCG. Median follow-up time for the HPV-vaccinated group was 11·1 years (interquartile range (IQR): 9·1–11·7 years, for the original control group was 4·6 years IQR: 4·3–5·3 years) and 6·2 years (IQR: 5·5–6·9 years) in the UCG. At year 11, VE against incident HPV-16/18-associated CIN2+ was 100% (95% CI: 89·2 – 100·0%); 34 of 2233 unvaccinated women had a CIN2+ outcome compared to 0 of 1913 women receiving HPV vaccine. Cumulative VE against HPV-16/18 associated CIN2+ over the entire 11-year period was 97·4% (95% CI: 88·0 – 99·6%). Similar protection was observed against HPV-16/18 associated CIN3, specifically at year 11, VE was 100% (95% CI: 78·8 – 100·0) and cumulative VE was 94·9% (95% CI: 73·7 – 99·4). During the LTFU the occurrence of serious adverse events was comparable between UCG and HPV-arm.
+
+### Interpretation:
+
+CVT confirms the high VE of the bivalent HPV vaccine against HPV-16/18 associated precancer for more than a decade after initial vaccination, supporting the notion that invasive cervical cancer can indeed be prevented
+
+---
+
+[referencia=17a8344c3184782e score=0.980]
+### Statistical analysis
+
+The analytical cohort for our vaccine efficacy analysis was defined as follows: 1) HPV arm: Women who received three doses of the HPV-16/18 vaccine within protocol-defined windows, whose timing between doses was respected (21–90 days between dose 1 and 2; 90–210 days between dose 2 and 3), who were HPV-16/18 DNA-negative at months 0 and 6, who did not have biopsy or LEEP during vaccination phase, without investigational new drug safety report during the vaccination period, and who otherwise complied with the protocol during the vaccination period. 2) Unvaccinated arm: For years 1 – <7, all women from the original control arm of CVT who fulfilled the same criteria specified above for the HPV arm. For years 7 – 11, women from the UCG who did not have a LEEP during the strict colposcopy algorithm applied at their enrollment. Women were censored and excluded for further analysis at diagnosis of CIN2+.
+
+For sensitivity analyses, we defined an inclusive cohort (INC), which provides a worst-case scenario of vaccine efficacy by including vaccinated women regardless of baseline HPV infection. This analytic cohort includes women from the HPV arm following the same criteria defined for the main analytical cohort but does not exclude women who were HPV-16/18 DNA-positive at months 0 and 6. For all participants, vaccinated and unvaccinated, the INC cohort excluded any participant with a LEEP during a prior visit, because after performing a LEEP, the woman is no longer within the at-risk population as she is unlikely to develop CIN2+ in such a short period; a LEEP removes potential future CIN2+.
+
+This analysis aimed to investigate durability of the vaccine efficacy (VE) against histologic endpoints. We pre-specified two analytical approaches: 1) assess the latest timepoints, so as not to let higher early estimates drive overall efficacy, thus masking waning protection in the out years, and 2) assess cumulative efficacy to define the total benefit to HPV vaccination over time.
+
+---
+
+[referencia=17a8344c3184782e score=0.971]
+TypeSeq was performed at the National Cancer Institute-Cancer Genomics Research Laboratory (Rockville, MD) using the TypeSeq 3-PCR stage workflow. HPV genotyping was performed by Ion S5 next-generation sequencing followed by custom Torrent Suite plugin analysis. A binary result of positive or negative was reported for the human positive control and for each of the 51 HPV types detected by the assay.<sup>20</sup>
+
+### Outcomes
+
+Three outcomes were prespecified for the LTFU study: 1.Evaluationof the long-term impact of HPV-16/18 vaccination on efficacy and safety 2. Evaluation of determinants of the immune response to HPV and the vaccine, and 3.Study the natural history of HPV and cervical disease. In this manuscript we report the vaccine efficacy response against histologic endpoints and serious adverse events reported during the long-term follow-up.
+
+Efficacy against virological endpoints was reported on separately <sup>12,13</sup> and safety data from the blinded phase of CVT was reported previously.<sup>5</sup>
+
+Endpoints for evaluation of immune response correlates of protection are not considered here because low numbers for breakthrough infections. Analyses of the natural history of HPV and cervical cancer are underway, thus, results are not presented here.
+
+---
+
+[referencia=17a8344c3184782e score=0.967]
+|  | UCG | 2237 | 18 | 0·80 (0·49 – 1·24) | 1·56 (1·11 – 2·13) |  |  | 
+| **Total** |  |  | **38** |  |  |  |  | 
+
+We performed multiple sensitivity analyses to account for the comparisons in the LTFU study (i.e. year 7 and later) no longer being from a randomized study. We evaluated protection against CIN2+ in the inclusive cohort (i.e. regardless of baseline infection, etc), providing the worst-case scenario of efficacy. In year 11, there was still high efficacy against both HPV-16/18-associated CIN2+ (93·5%, 95% CI: 77·3 – 98·9%) and CIN3+ (88·3%, 95% CI: 57·0% – 98·1%) outcomes (appendix pp 1–2). We also recalculated the rates of HPV-16/18 associated CIN2+ using propensity score weighting to account for the slight differences in the HPV arm and UCG (appendix pp 3–4). The adjusted rates were 0·29 (95% CI: 0·09 – 0·66), 0·38 (95% CI: 0·17 – 0·73), and 1·50 (95% CI: 1·02 – 2·11) at years 7, 9, and 11. For the CIN3+ outcome, the adjusted rates were 0·20 (95% CI: 0·05 – 0·56), 0·31 (95% CI: 0·13 – 0·65), and 0·76 (95% CI: 0·44 – 1·23) at years 7, 9, and 11. The weighted rates were nearly identical to the unweighted rates listed in Tables 1 and 2.
+
+---
+
+[referencia=17a8344c3184782e score=0.908]
+### Procedures
+
+During the blinded phase of CVT pelvic examinations were performed at enrollment and annual follow-up visit on sexually experienced women to collect cervical cells using a Cervex-Brush® rinsed in PreservCyt® solution for cytology and HPV DNA testing. Since not all women had pelvic exams at 6-month visit, women provided a cervicovaginal self-collected sample for HPV testing.<sup>15</sup> HPV status at enrollment and the 6-month visit defined analytical cohorts as explained below.
+
+Colposcopy referral was based on cytology with HPV triage of atypical squamous cells of unknown significance (ASC-US). Women with low-grade squamous intraepithelial lesion (LSIL), HPV positive ASC-US or inadequate cytology at any visit were followed every 6 months. Women with high-grade squamous intraepithelial lesion (HSIL) or with persistent minor abnormalities were referred to colposcopy. After colposcopy and/or treatment, screening continued every 6 months. Women returned to yearly follow-up after 3 consecutive normal cytology results or were referred again to colposcopy if they had ASC-US/HPV+ or worse.
+
+At the end of the blinded phase in CVT, to assure safety of participants in relation to cervical disease risk, colposcopy referral criteria were modified to include a history of 2+ years of persistent HPV-16/18 infection. Women with incident HPV-16/18 infection or persistent oncogenic HPV other than HPV-16/18 and those with LSIL, ASC-US/HPV+ or inadequate cytology at year 4 (last visit of the blinded phase) continued screening every 6 months.
+
+In the LTFU study, women in the UCG followed a strict colposcopy referral algorithm at enrollment to identify and treat prevalent disease, increasing their comparability to CVT women who received annual screening for four years prior. Comparisons between the original and new control groups showed that women’s characteristics and future risk for cervical HPV acquisition were similar. Furthermore, vaccine efficacy estimates against one-time prevalent cervical HPV infection four years after vaccination using either the original control group or the UCG were comparable.<sup>16</sup>
+
+---
+
+[referencia=17a8344c3184782e score=0.838]
+## Acknowledgments
+
+The trial is sponsored and funded by the US National Cancer Institute (contract N01-CP-11005) with funding support from the National Institutes of Health Office of Research on Women’s Health.
+
+We dedicate this work to the memory of our beloved colleague and friend Dra. Paula González, principal investigator of the CVT-LTFU study.
+
+We extend a special thanks to the women of Guanacaste and Puntarenas, Costa Rica, who gave of themselves in participating in this effort. In Costa Rica, we acknowledge the tremendous effort and dedication of the staff involved in this project; we would like to specifically acknowledge the meaningful contributions by Carlos Avila, Loretto Carvajal, Rebeca Ocampo, Cristian Montero, Diego Guillen. In the United States, we extend our appreciation to the team from Information Management Services (IMS) responsible for the development and maintenance of the data system used in the trial and who serve as the data management center for this effort, especially Jean Cyr, Julie Buckland, John Schussler, and Brian Befano. We thank Dr. Diane Solomon (CVT: medical monitor & QC pathologist) for her invaluable contributions during the randomized blinded phase of the trial and the design of the LTFU and Nora Macklin (CVT) and Kate Torres (LTFU) for the expertise in coordinating the study. We thank the members of the Data and Safety Monitoring Board charged with protecting the safety and interest of participants during the randomized, blinded phase of our study (Steve Self, Chair, Adriana Benavides, Ruth Karron, Ritu Nayar) and members of the external Scientific HPV Working Group who have contributed to the success of our efforts over the years (Elizabeth Fontham and Henriette Raventós, Co-Chairs, Joanna Cain, Diane Davey, Gypsyamber D’Souza, Anne Gershon, Wasima Rida, Maria del Rocío Sáenz Madrigal, and Margaret Stanley).
+
+CVT and its LTFU was funded by the National Cancer Institute of the United States of America.
+
+---
+
+[referencia=17a8344c3184782e score=0.835]
+## Footnotes
+
+Data sharing statement
+
+According to the CVT protocol and consent, the data collected from study participants can be shared with outside collaborators for research to understand more about the performance of the HPV vaccine, immune response to the vaccine, and broader study factors associated with the natural history of HPV infection and risk factors for infection and disease. Currently, outside collaborators may apply to access our protocols and data from the blinded phase of CVT (NCT00128661). A trial summary, current publications and contact information are available at the following link: https://dceg.cancer.gov/research/who-we-study/cohorts/costa-rica-vaccine-trial.
+
+Disclaimer:
+
+Where authors are identified as personnel of the International Agency for Research on Cancer / World Health Organization, the authors alone are responsible for the views expressed in this article and they do not necessarily represent the decisions, policy or views of the International Agency for Research on Cancer / World Health Organization.
+
+Declaration of Interest
+
+The NCI and Costa Rica investigators are responsible for the design and conduct of the study; collection, management, analysis, and interpretation of the data; and preparation of the manuscript.
+
+John T. Schiller and Douglas R. Lowy report that they are named inventors on US Government-owned HPV vaccine patents that are licensed to GlaxoSmithKline and Merck and for which the National Cancer Institute receives licensing fees. They are entitled to limited royalties as specified by federal law. Dr. Darragh reports personal fees from BD, personal fees from Roche, personal fees from Antiva, personal fees from TheVax, outside the submitted work. The other authors declare that they have no conflicts of interest.
+
+Trial Registration: Registered with clinicaltrials.gov CVT, NCT00128661 and the LTFU, NCT-00867464.
+
+---
+
+[referencia=17a8344c3184782e score=0.790]
+### Randomisation and masking
+
+Participants, study personnel and investigators were blinding to arm assignment (i.e., double-blinded trial). Blinding was maintained throughout the 4-year follow-up visit of CVT.
+
+Women were randomly assigned (1:1) to receive either the HPV-16/18 vaccine or the Havrix hepatitis A vaccine as a control when the participant received her first vaccination. A blocked randomization procedure was used. Participants were vaccinated intramuscularly in the deltoid muscle and received three doses at 0, 1, and 6 months.
+
+Vaccine identification numbers were randomized to HPV16/18 and control vaccine syringes by NCI using a standard SAS (Statistical Analysis System) program. Labels containing the randomized numbers were provided to GSK Biologicals in Rixensart. Labeled syringes were combined, sorted in numerical order and delivered in sequentially numbered boxes to the study site. In the study clinics, the clinical staff pulled syringes in numeric order and applied the first dose of the vaccine.
+
+---
+
+[referencia=17a8344c3184782e score=0.781]
+- 1.de Martel C, Plummer M, Vignat J, Franceschi S. Worldwide burden of cancer attributable to HPV by site, country and HPV type. Int J Cancer 2017; 141(4): 664–70. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 2.Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A. Global cancer statistics 2018: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin 2018; 68(6): 394–424. [DOI] [PubMed] [Google Scholar]
+- 3.Human papillomavirus vaccines: WHO position paper, May 2017. Wkly Epidemiol Rec 2017; 92(19): 241–68. [PubMed] [Google Scholar]
+- 4.Group FIS. Quadrivalent vaccine against human papillomavirus to prevent high-grade cervical lesions. N Engl J Med 2007; 356(19): 1915–27. [DOI] [PubMed] [Google Scholar]
+- 5.Hildesheim A, Wacholder S, Catteau G, et al. Efficacy of the HPV-16/18 vaccine: final according to protocol results from the blinded phase of the randomized Costa Rica HPV-16/18 vaccine trial. Vaccine 2014; 32(39): 5087–97. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 6.Paavonen J, Jenkins D, Bosch FX, et al. Efficacy of a prophylactic adjuvanted bivalent L1 virus-like-particle vaccine against infection with human papillomavirus types 16 and 18 in young women: an interim analysis of a phase III double-blind, randomised controlled trial. Lancet 2007; 369(9580): 2161–70. [DOI] [PubMed] [Google Scholar]
+- 7.Joura EA, Giuliano AR, Iversen OE, et al. A 9-valent HPV vaccine against infection and intraepithelial neoplasia in women. N Engl J Med 2015; 372(8): 711–23. [DOI] [PubMed] [Google Scholar]

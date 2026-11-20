@@ -1,0 +1,398 @@
+2026-11-01 16:52:41,313 INFO     auditframework.cli: Iniciando run
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z para
+                                 answers/Gemini/EmConsolidacao/rede_social_saude_mental_adolecentes.docx
+                                 (ferramenta=Gemini)
+2026-11-01 16:52:47,437 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-01 16:52:47,436 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-01 16:52:49,265 INFO     auditframework.terminal: Loading weights:
+                                 100%|███████████████████████████████████████████████████████████████████████████|
+                                 391/391 [00:00<00:00, 13445.82it/s]
+2026-11-01 16:53:01,026 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-01 16:53:01,035 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-01 16:53:01,161 INFO     auditframework.pipeline: Extraidas 30 referencias de
+                                 answers/Gemini/EmConsolidacao/rede_social_saude_mental_adolecentes.docx (0 descartadas
+                                 como artefato do exportador)
+2026-11-01 16:53:01,174 INFO     auditframework.pipeline: Resposta dividida em 126 trechos citados
+2026-11-01 16:53:01,211 INFO     auditframework.terminal: ✓ extraction concluído em 0.2s
+2026-11-01 16:53:01,212 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-01 16:53:01,214 INFO     auditframework.ingestion.service: Ingestao: 30 referencias, 0 ja baixadas, 0 ja
+                                 bloqueadas, 30 pendentes
+2026-11-01 16:53:22,164 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701/
+2026-11-01 16:53:23,092 WARNING  trafilatura.core: discarding data: None
+2026-11-01 16:53:39,019 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.fadc.org.br/noticias/adultizacao-pl-2628
+2026-11-01 16:54:04,235 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://legis.senado.leg.br/sdleg-getter/documento?dm=9205524&disposition=inline
+2026-11-01 16:54:04,238 INFO     auditframework.terminal: Baixando referências:
+                                 100%|██████████████████████████████████████████████████████████████████████████| 30/30
+                                 [01:03<00:00,  2.10s/ref]
+2026-11-01 16:54:04,239 INFO     auditframework.ingestion.service: Retentando 3 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-01 16:54:08,653 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701/
+2026-11-01 16:54:29,983 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://legis.senado.leg.br/sdleg-getter/documento?dm=9205524&disposition=inline
+2026-11-01 16:54:32,354 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.fadc.org.br/noticias/adultizacao-pl-2628
+2026-11-01 16:54:32,356 INFO     auditframework.terminal: Retentando inacessíveis:
+                                 100%|█████████████████████████████████████████████████████████████████████████| 3/3
+                                 [00:28<00:00,  9.37s/ref]
+2026-11-01 16:54:32,358 INFO     auditframework.pipeline: Ingestao concluida: 27 documentos disponiveis
+2026-11-01 16:54:32,360 INFO     auditframework.terminal: ✓ ingestion concluído em 88.9s
+2026-11-01 16:54:32,361 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-01 16:54:33,343 INFO     auditframework.terminal: Extraindo chunks de documentos:
+                                 100%|████████████████████████████████████████████████████████████████| 27/27
+                                 [00:00<00:00, 27.56doc/s]
+2026-11-01 16:54:33,343 INFO     auditframework.indexing.service: Gerando embeddings para 468 chunks de 27 documentos
+2026-11-01 16:54:53,713 INFO     auditframework.terminal: Batches:
+                                 100%|████████████████████████████████████████████████████████████████████████████████████████|
+                                 30/30 [00:20<00:00,  1.47it/s]
+2026-11-01 16:54:53,759 INFO     auditframework.pipeline: Indice construido a partir de 27 documentos
+2026-11-01 16:54:53,760 INFO     auditframework.terminal: ✓ indexing concluído em 20.3s
+2026-11-01 16:54:53,761 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-01 16:54:53,768 INFO     auditframework.pipeline: Julgamento: 126 chunks, 0 ja julgados, 0 ja pulados, 126
+                                 pendentes
+2026-11-01 16:54:54,490 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-01 16:54:54,936 INFO     auditframework.terminal: Recuperando contexto:   0%|
+                                 | 0/126 [00:00<?, ?chunk/s]
+2026-11-01 16:54:55,040 INFO     auditframework.terminal: Loading weights:   0%|
+                                 | 0/393 [00:00<?, ?it/s]
+2026-11-01 16:54:55,154 INFO     auditframework.terminal: Loading weights:  39%|█████████████████████████████▍
+                                 | 152/393 [00:00<00:00, 1498.20it/s]
+2026-11-01 16:54:55,206 INFO     auditframework.terminal: Loading weights:
+                                 100%|████████████████████████████████████████████████████████████████████████████|
+                                 393/393 [00:00<00:00, 1466.12it/s]
+2026-11-01 16:58:13,551 WARNING  auditframework.indexing.retriever: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-96 nao sera
+                                 auditado: Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 16:58:13,556 WARNING  auditframework.indexing.retriever: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-97 nao sera
+                                 auditado: Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 16:58:13,558 WARNING  auditframework.indexing.retriever: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-98 nao sera
+                                 auditado: Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 16:58:13,560 WARNING  auditframework.indexing.retriever: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-99 nao sera
+                                 auditado: Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 16:58:14,599 WARNING  auditframework.indexing.retriever: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-101 nao sera
+                                 auditado: Referencia(s) citada(s) ['95d77a900cfafb72', '43202571e6b6382f'] nao
+                                 possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-01 16:59:33,947 INFO     auditframework.terminal: Recuperando contexto:
+                                 100%|██████████████████████████████████████████████████████████████████████| 126/126
+                                 [04:40<00:00,  2.22s/chunk]
+2026-11-01 17:25:56,826 WARNING  auditframework.judging.verification.cross_reference: Juiz nao parseavel na checagem
+                                 cruzada (chunk rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-57):
+                                 saida nao corresponde ao schema esperado: '```json\n{\n  "verdict": "unsupported",\n
+                                 "cited_excerpts": [\n    "Similarly, research indicates that as compared to offline
+                                 bullying, online bullying and harassment can be more severe, and thus damaging to
+                                 psychological development."\n  ],\n  "supporting_reference_ids": [],\n
+                                 "unsupported_aspects": [\n    "permanência indeterminada do conteúdo difamatório na
+                                 rede como razão para maior severidade",\n    "escala de público alcançada como razão
+                                 para maior severidade",\n    "impossibilidade de o jovem encontrar refúgio em seu
+                                 ambiente doméstico como razão para maior severidade",\n    "atribuição explícita dessas
+                                 três razões à APA"\n  ],\n  "per_reference": [\n    {\n      "id":
+                                 "bf2971ae49a6c42f",\n      "relation": "absent",\n      "excerpt": ""\n    },\n    {\n
+                                 "id": "1ff9266852a7b72d",\n      "relation": "partial",\n      "excerpt": "Similarly,
+                                 research indicates that as compared to offline bullying, online bullying and harassment
+                                 can be more severe, and thus damaging to psychological development."\n    },\n    {\n
+                                 "id": "24fab7d03912a4d2",\n      "relation": "absent",\n      "excerpt": ""\n    },\n
+                                 {\n      "id": "6d7a7f6dc8d5c1a0",\n      "relation": "absent",\n      "excerpt": ""\n
+                                 },\n    {\n      "id": "ff463288c6133abe",\n      "relation": "absent",\n
+                                 "excerpt": ""\n    },\n    {\n      "id": "b3e2421f174d5ebb",\n      "relation":
+                                 "absent",\n      "excerpt": ""\n    },\n    {\n      "id": "1fc8808cf263de99",\n
+                                 "relation": "absent",\n      "excerpt": ""\n    }\n  ]\n}\n```\n\n**Justificativa:** A
+                                 evidência (referência 1ff9266852a7b72d) sustenta apenas que o bullying online "pode ser
+                                 mais severo" e mais danoso ao desenvolvimento psicológico em comparação ao bullying
+                                 offline. No entanto, as três razões específicas apresentadas no trecho — permanência
+                                 indeterminada do conteúdo, escala de público e impossibilidade de refúgio no ambiente
+                                 doméstico — não aparecem em nenhuma parte da evidência. O trecho atribui à APA uma
+                                 justificativa que não está documentada nas fontes fornecidas. Por isso, o veredito é
+                                 "unsupported".'
+2026-11-01 17:37:45,826 WARNING  auditframework.pipeline: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-96 nao auditado:
+                                 Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 17:37:45,827 WARNING  auditframework.pipeline: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-97 nao auditado:
+                                 Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 17:37:45,828 WARNING  auditframework.pipeline: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-98 nao auditado:
+                                 Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 17:37:45,829 WARNING  auditframework.pipeline: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-99 nao auditado:
+                                 Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 17:37:50,393 WARNING  auditframework.pipeline: Chunk
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-101 nao auditado:
+                                 Referencia(s) citada(s) ['95d77a900cfafb72', '43202571e6b6382f'] nao possui(em)
+                                 conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-01 17:47:10,018 INFO     auditframework.terminal: Julgando chunks:
+                                 100%|███████████████████████████████████████████████████████████████████████████|
+                                 126/126 [47:36<00:00, 22.67s/chunk]
+2026-11-01 17:47:10,020 INFO     auditframework.terminal: ✓ judging concluído em 3025.3s
+2026-11-01 17:47:10,029 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-01 17:47:10,039 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md
+2026-11-01 17:47:10,041 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-01 17:47:10,041 INFO     auditframework.cli: Run
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z concluida
+2026-11-01 17:47:10,042 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md
+2026-11-03 23:16:15,903 INFO     auditframework.terminal: audit refetch
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+2026-11-03 23:16:15,906 INFO     auditframework.ingestion.service: Ingestao: 30 referencias, 27 ja baixadas, 0 ja
+                                 bloqueadas, 3 pendentes
+2026-11-03 23:16:24,820 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701/
+2026-11-03 23:16:53,195 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://legis.senado.leg.br/sdleg-getter/documento?dm=9205524&disposition=inline
+                                 recuperada imitando o Safari
+2026-11-03 23:16:56,435 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 3/3 [00:40<00:00,
+                                 13.50s/ref]
+2026-11-03 23:16:56,436 INFO     auditframework.ingestion.service: Retentando 1 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-03 23:17:00,340 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701/
+2026-11-03 23:17:00,341 INFO     auditframework.terminal: Retentando inacessíveis: 100%|██████████| 1/1 [00:03<00:00,
+                                 3.90s/ref]
+2026-11-03 23:17:00,352 INFO     auditframework.terminal:
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z: 3 fonte(s) sem
+                                 conteudo, 2 recuperada(s)
+2026-11-03 23:17:00,352 INFO     auditframework.terminal:
+                                 https://legis.senado.leg.br/sdleg-getter/documento?dm=9205524&disposition=inline —
+                                 downloaded
+2026-11-03 23:17:00,352 INFO     auditframework.terminal:   https://www.fadc.org.br/noticias/adultizacao-pl-2628 —
+                                 downloaded
+2026-11-03 23:17:00,593 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/invalidado-20261104T031700Z
+2026-11-03 23:17:00,594 INFO     auditframework.terminal: 17 trecho(s) citado(s) para julgar de novo (os demais mantem o
+                                 veredito)
+2026-11-03 23:17:00,594 INFO     auditframework.terminal: Rode: audit resume
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+2026-11-03 23:17:01,106 INFO     __main__: Retomando run
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+2026-11-03 23:17:09,602 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:17:09,602 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:17:11,451 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 13358.64it/s]
+2026-11-03 23:17:19,336 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-03 23:17:19,342 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-03 23:17:19,342 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-03 23:17:19,343 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-03 23:17:20,210 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 29/29
+                                 [00:00<00:00, 33.55doc/s]
+2026-11-03 23:17:20,210 INFO     auditframework.indexing.service: Gerando embeddings para 499 chunks de 29 documentos
+2026-11-03 23:17:38,083 INFO     auditframework.terminal: Batches: 100%|██████████| 32/32 [00:17<00:00,  1.79it/s]
+2026-11-03 23:17:38,122 INFO     auditframework.pipeline: Indice construido a partir de 29 documentos
+2026-11-03 23:17:38,123 INFO     auditframework.terminal: ✓ indexing concluído em 18.8s
+2026-11-03 23:17:38,124 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-03 23:17:38,132 INFO     auditframework.pipeline: Julgamento: 126 chunks, 109 ja julgados, 0 ja pulados, 17
+                                 pendentes
+2026-11-03 23:17:38,807 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-03 23:17:41,848 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/17 [00:00<?,
+                                 ?chunk/s]
+2026-11-03 23:17:41,950 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-03 23:17:42,014 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 2389.03it/s]
+2026-11-03 23:18:10,639 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 17/17 [00:32<00:00,
+                                 1.91s/chunk]
+2026-11-03 23:28:17,355 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 17/17 [10:06<00:00,
+                                 35.69s/chunk]
+2026-11-03 23:28:17,357 INFO     auditframework.terminal: ✓ judging concluído em 622.4s
+2026-11-03 23:28:17,362 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-03 23:28:17,371 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md
+2026-11-03 23:28:17,372 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-03 23:28:17,373 INFO     __main__: Run rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+                                 concluida
+2026-11-03 23:28:17,373 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md
+2026-11-04 01:32:20,620 INFO     __main__: Retomando run
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+2026-11-04 01:32:27,729 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:32:27,728 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:32:30,131 INFO     auditframework.terminal: Loading weights:
+                                 100%|█████████████████████████████████████████████████████████████████████████████████████████████|
+                                 391/391 [00:00<00:00, 10378.20it/s]
+2026-11-04 01:32:40,357 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-04 01:32:40,365 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-04 01:32:40,365 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-04 01:32:40,365 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: indexing
+2026-11-04 01:32:40,367 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-04 01:32:40,382 INFO     auditframework.pipeline: Julgamento: 126 chunks, 125 ja julgados, 0 ja pulados, 1
+                                 pendentes
+2026-11-04 01:32:40,386 INFO     auditframework.terminal: Recuperando contexto:
+                                 100%|███████████████████████████████████████████████████████████████████████████████████████████|
+                                 1/1 [00:00<00:00, 552.54chunk/s]
+2026-11-04 01:32:47,218 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-04 01:32:47,745 INFO     auditframework.terminal: Julgando chunks:   0%|
+                                 | 0/1 [00:00<?, ?chunk/s]
+2026-11-04 01:32:47,848 INFO     auditframework.terminal: Loading weights:   0%|
+                                 | 0/393 [00:00<?, ?it/s]
+2026-11-04 01:32:47,958 INFO     auditframework.terminal: Loading weights:  32%|█████████████████████████████▉
+                                 | 125/393 [00:00<00:00, 1248.54it/s]
+2026-11-04 01:32:48,061 INFO     auditframework.terminal: Loading weights:
+                                 64%|███████████████████████████████████████████████████████████▊
+                                 | 250/393 [00:00<00:00, 1182.36it/s]
+2026-11-04 01:32:48,062 INFO     auditframework.terminal: Loading weights:
+                                 100%|██████████████████████████████████████████████████████████████████████████████████████████████|
+                                 393/393 [00:00<00:00, 1251.90it/s]
+2026-11-04 01:33:39,363 WARNING  auditframework.judging.verification.cross_reference: Juiz nao parseavel na checagem
+                                 cruzada (chunk rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-57):
+                                 saida nao corresponde ao schema esperado: '```json\n{\n  "verdict": "unsupported",\n
+                                 "justification": "A evidência confirma que o bullying online pode ser mais severo que o
+                                 offline (referência 1ff9266852a7b72d), mas os três motivos específicos alegados na
+                                 afirmação — permanência indeterminada do conteúdo, escala de público e impossibilidade
+                                 de refúgio no ambiente doméstico — não aparecem em nenhuma parte da evidência. A
+                                 afirmação atribui à APA explicações causais que não estão fundamentadas no texto
+                                 fornecido.",\n  "cited_excerpts": [\n    "research indicates that as compared to
+                                 offline bullying, online bullying and harassment can be more severe, and thus damaging
+                                 to psychological development."\n  ],\n  "supporting_reference_ids": [],\n
+                                 "unsupported_aspects": [\n    "permanência indeterminada do conteúdo difamatório na
+                                 rede como motivo",\n    "escala de público alcançada como motivo",\n
+                                 "impossibilidade de o jovem encontrar refúgio em seu ambiente doméstico como motivo",\n
+                                 "atribuição dessas três razões especificamente à APA"\n  ],\n  "per_reference": [\n
+                                 {\n      "id": "bf2971ae49a6c42f",\n      "relation": "absent",\n      "excerpt": ""\n
+                                 },\n    {\n      "id": "1ff9266852a7b72d",\n      "relation": "partial",\n
+                                 "excerpt": "research indicates that as compared to offline bullying, online bullying
+                                 and harassment can be more severe, and thus damaging to psychological development."\n
+                                 },\n    {\n      "id": "24fab7d03912a4d2",\n      "relation": "absent",\n
+                                 "excerpt": ""\n    },\n    {\n      "id": "6d7a7f6dc8d5c1a0",\n      "relation":
+                                 "absent",\n      "excerpt": ""\n    },\n    {\n      "id": "ff463288c6133abe",\n
+                                 "relation": "absent",\n      "excerpt": ""\n    },\n    {\n      "id":
+                                 "b3e2421f174d5ebb",\n      "relation": "absent",\n      "excerpt": ""\n    },\n    {\n
+                                 "id": "1fc8808cf263de99",\n      "relation": "absent",\n      "excerpt": ""\n    }\n
+                                 ]\n}\n```'
+2026-11-04 01:33:39,369 INFO     auditframework.terminal: Julgando chunks:
+                                 100%|█████████████████████████████████████████████████████████████████████████████████████████████████|
+                                 1/1 [00:58<00:00, 58.98s/chunk]
+2026-11-04 01:33:39,370 INFO     auditframework.terminal: ✓ judging concluído em 59.0s
+2026-11-04 01:33:39,378 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-04 01:33:39,390 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md
+2026-11-04 01:33:39,392 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-04 01:33:39,392 INFO     __main__: Run rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+                                 concluida
+2026-11-04 01:33:39,393 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md
+2026-11-04 01:39:14,908 INFO     __main__: Retomando run
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+2026-11-04 01:39:22,880 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:39:22,880 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:39:25,249 INFO     auditframework.terminal: Loading weights:
+                                 100%|█████████████████████████████████████████████████████████████████████████████████████████████|
+                                 391/391 [00:00<00:00, 10534.32it/s]
+2026-11-04 01:39:35,847 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-04 01:39:35,856 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-04 01:39:35,857 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-04 01:39:35,857 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: indexing
+2026-11-04 01:39:35,858 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-04 01:39:35,873 INFO     auditframework.pipeline: Julgamento: 126 chunks, 125 ja julgados, 0 ja pulados, 1
+                                 pendentes
+2026-11-04 01:39:35,877 INFO     auditframework.terminal: Recuperando contexto:
+                                 100%|███████████████████████████████████████████████████████████████████████████████████████████|
+                                 1/1 [00:00<00:00, 479.40chunk/s]
+2026-11-04 01:39:44,627 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-04 01:39:45,185 INFO     auditframework.terminal: Julgando chunks:   0%|
+                                 | 0/1 [00:00<?, ?chunk/s]
+2026-11-04 01:39:45,285 INFO     auditframework.terminal: Loading weights:   0%|
+                                 | 0/393 [00:00<?, ?it/s]
+2026-11-04 01:39:45,396 INFO     auditframework.terminal: Loading weights:  36%|█████████████████████████████████▍
+                                 | 140/393 [00:00<00:00, 1399.11it/s]
+2026-11-04 01:39:45,468 INFO     auditframework.terminal: Loading weights:
+                                 100%|██████████████████████████████████████████████████████████████████████████████████████████████|
+                                 393/393 [00:00<00:00, 1392.43it/s]
+2026-11-04 01:40:28,587 WARNING  auditframework.judging.verification.cross_reference: Juiz nao parseavel na checagem
+                                 cruzada (chunk rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-57):
+                                 saida nao corresponde ao schema esperado: '```json\n{\n  "verdict": "unsupported",\n
+                                 "justificativa": "A evidência sustenta que o APA indica que o bullying online pode ser
+                                 mais severo e danoso que o offline, mas NÃO sustenta as três razões específicas
+                                 alegadas na afirmação: (1) permanência indeterminada do conteúdo difamatório na rede,
+                                 (2) escala de público alcançada, e (3) impossibilidade de o jovem encontrar refúgio em
+                                 seu ambiente doméstico. Esses motivos não aparecem em nenhuma parte da evidência,
+                                 configurando inferência não fundamentada.",\n  "cited_excerpts": [\n    "Similarly,
+                                 research indicates that as compared to offline bullying, online bullying and harassment
+                                 can be more severe, and thus damaging to psychological development."\n  ],\n
+                                 "supporting_reference_ids": [],\n  "unsupported_aspects": [\n    "permanência
+                                 indeterminada do conteúdo difamatório na rede como razão para maior severidade",\n
+                                 "escala de público alcançada como razão para maior severidade",\n    "impossibilidade
+                                 de o jovem encontrar refúgio em seu ambiente doméstico como razão para maior
+                                 severidade",\n    "atribuição explícita dessas três razões ao APA"\n  ],\n
+                                 "per_reference": [\n    {\n      "id": "bf2971ae49a6c42f",\n      "relation":
+                                 "absent",\n      "excerpt": ""\n    },\n    {\n      "id": "1ff9266852a7b72d",\n
+                                 "relation": "partial",\n      "excerpt": "Similarly, research indicates that as
+                                 compared to offline bullying, online bullying and harassment can be more severe, and
+                                 thus damaging to psychological development."\n    },\n    {\n      "id":
+                                 "24fab7d03912a4d2",\n      "relation": "absent",\n      "excerpt": ""\n    },\n    {\n
+                                 "id": "6d7a7f6dc8d5c1a0",\n      "relation": "absent",\n      "excerpt": ""\n    },\n
+                                 {\n      "id": "ff463288c6133abe",\n      "relation": "absent",\n      "excerpt": ""\n
+                                 },\n    {\n      "id": "b3e2421f174d5ebb",\n      "relation": "absent",\n
+                                 "excerpt": ""\n    },\n    {\n      "id": "1fc8808cf263de99",\n      "relation":
+                                 "absent",\n      "excerpt": ""\n    }\n  ]\n}\n```'
+2026-11-04 01:40:28,597 INFO     auditframework.terminal: Julgando chunks:
+                                 100%|█████████████████████████████████████████████████████████████████████████████████████████████████|
+                                 1/1 [00:52<00:00, 52.72s/chunk]
+2026-11-04 01:40:28,598 INFO     auditframework.terminal: ✓ judging concluído em 52.7s
+2026-11-04 01:40:28,605 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-04 01:40:28,617 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md
+2026-11-04 01:40:28,619 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-04 01:40:28,619 INFO     __main__: Run rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+                                 concluida
+2026-11-04 01:40:28,620 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md
+2026-11-04 01:58:12,769 INFO     __main__: Retomando run
+                                 rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+2026-11-04 01:58:17,740 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:58:17,740 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:58:20,026 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 12269.64it/s]
+2026-11-04 01:58:26,543 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-04 01:58:26,550 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-04 01:58:26,551 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-04 01:58:26,551 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: indexing
+2026-11-04 01:58:26,551 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: judging
+2026-11-04 01:58:26,552 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-04 01:58:26,566 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md
+2026-11-04 01:58:26,568 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-04 01:58:26,569 INFO     __main__: Run rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z
+                                 concluida
+2026-11-04 01:58:26,570 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z/report.md

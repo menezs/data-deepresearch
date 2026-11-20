@@ -1,0 +1,153 @@
+[referencia=2531b2a54790170d score=0.915]
+Ao longo da segunda metade do Oitocentos, outro componente da política de imigração ganhou força: o seu “sentido racista”, que valorizava o europeu branco em detrimento dos escravos, libertos e pobres livres no mercado de trabalho, bem como sua importância para o “processo civilizador” do povo brasileiro. Pensamento embasado em teorias científicas sobre as raças, denominado à época no Brasil de “branqueamento”,<sup>114</sup> que predominava entre os membros da elite política e intelectual nacional.
+
+---
+
+[referencia=2531b2a54790170d score=0.716]
+Em 1875, Menezes e Souza, conselheiro do Império, apresentou um relatório ao ministro da Agricultura intitulado *Theses sobre a colonização do Brazil*, no qual analisava a relação da imigração e da colonização com o progresso e a riqueza do país - um ilustrativo exemplo do impacto dessas teorias raciais. Defensor da abolição gradual da escravidão nos moldes da Lei do Ventre Livre, pois temia a desorganização imediata da produção, exortava ao Estado assumir o papel de incentivador da imigração através da formação de núcleos coloniais para atrair europeus como proprietários. Com relação ao imigrante ideal, basicamente, seu estudo pretendia responder a duas perguntas: (1) “Qual é a nação européa, que nos póde fornecer emigrantes mais aptos e em maior cópia?”; (2) “Quaes são os colonos, que melhor têm provado no Brazil?”. Seguiu-se uma descrição hierárquica das características de alguns “povos do Velho Mundo” - alemães, belgas, suíços, espanhóis, portugueses, italianos e britânicos.<sup>115</sup> Um desfile de cientificismo, teorias raciais classificatórias, sobre a capacidade de assimilação de cada povo, além das observações sobre as experiências ocorridas no país, que resultaram, por parte do conselheiro, na opção pelo alemão e na caracterização da Alemanha como “o viveiro da immigração para o Brazil” - anseios que não se confirmariam na prática.
+
+---
+
+[referencia=2531b2a54790170d score=0.070]
+Não será possível tratar do tema com profundidade nas dimensões deste artigo, mas cabe lembrar o estudo de Célia Marinho de Azevedo, sobre as diferentes posições no debate acerca da importação ou não de europeus para substituir o trabalho escravo. Existiam aqueles que, à luz de explicações de cunho sociocultural, consideravam as dificuldades em se tratar com negros e mestiços em termos de igualdade jurídica nos moldes do ideário liberal; e os imigrantistas, que se apoiavam em teorias raciais para embasar a defesa de seus projetos favoráveis à imigração<sup>116</sup>. Tratava-se, no caso paulista, como observa Iraci Salles, de elaborar um ideário que dotasse de positividade a noção de trabalho, desvinculando-o da senzala, para dignificá-lo como construtor da riqueza nacional.<sup>117</sup> E o trabalhador europeu foi a opção perante a perspectiva do projeto imigrantista de conformação quantitativa e qualitativa do mercado de mão de obra livre.
+
+Conjunturas que não se transformaram em entraves quando, na busca incessante por mão de obra abundante e barata, os grandes fazendeiros de café paulistas precisaram recorrer eventualmente ao trabalhador nacional, como fizeram sistematicamente os proprietários das regiões onde o imigrante europeu era escasso ou inexistente.<sup>118</sup> Sem contar as propostas de introdução de imigrantes chineses, considerados por muitos os trabalhadores necessários mediante o processo de transição do trabalho escravo para o livre.<sup>119</sup>
+
+---
+
+[referencia=2531b2a54790170d score=0.036]
+No início do período republicano, alguns atos legislativos marcaram a mudança de rumo da política brasileira de imigração e colonização no sentido da sua descentralização. O Decreto n. 528 de 28 de junho de 1890, também conhecido como Lei Glicério - sobrenome de seu autor, o senador Francisco Glicério -, estabeleceu a reforma das leis de imigração e colonização com o intuito de atender à necessidade de se “fomentar e expandir as forças produtivas da república” por meio da imigração europeia.<sup>74</sup> Estabeleceu as bases para a criação de núcleos nas propriedades particulares e nas terras devolutas adquiridas e definiu as condições que os imigrantes deveriam preencher para terem direito ao tratamento dispensado pelo governo. Somente teriam passagem integral ou reduzida, por conta do governo, as famílias de agricultores, limitados aos respectivos chefes, ou aos seus ascendentes os indivíduos acima de 50 anos; os varões solteiros maiores de 18 e menores de 50 anos, desde que agricultores; os operários, artesãos e aqueles que se destinavam aos serviços domésticos, cujas idades achavam-se também entre 18 e 50 anos. Definiu também quais eram os imigrantes indesejáveis proibindo a entrada de “indígenas da Ásia ou da África”.
+
+---
+
+[referencia=2531b2a54790170d score=0.028]
+Os fazendeiros do oeste paulista, ao assumirem o controle político da província, passaram a usufruir dos cofres públicos para colocar em marcha seu projeto de imigração - mão de obra para a grande lavoura exportadora - diferenciando-se do cenário nacional - colonização e povoamento. Com o subsídio governamental, desobrigaram-se de arcar individualmente com as despesas de importação de trabalhadores para suas lavouras de café e conseguiram estabelecer um grande fluxo migratório.
+
+Alguns estudos afirmam que a viabilização da imigração, quando comparada ao rendimento do comércio de escravos, não apresentou nenhum interesse econômico a particulares e, por isso, poderia ser relegada ao Estado.<sup>111</sup> A hipótese sustentada neste artigo, porém, é de que não foi a ausência de interesse econômico que afugentou a participação dos fazendeiros, mas a magnitude do negócio e dos atores que dele participaram. As questões referentes à emigração/imigração ganharam amplitude internacional e exigiram a participação dos Estados. A liberdade de emigrar estava consagrada como um direito individual, mas também era uma questão de interesse nacional. Além disso, dado o grande volume da demanda e da oferta, não seria mais viável a qualquer fazendeiro individualmente viajar para a Europa com o propósito de contratar imigrantes e trazê-los, por sua própria conta, para trabalhar em suas plantações.
+
+---
+
+[referencia=2531b2a54790170d score=0.019]
+- MATTOS, Hebe. Prefácio. In: COOPER, Frederick; HOLT, Thomas C.; SCOTT, Rebecca J. Além da escravidão: investigações sobre raça, trabalho e cidadania em sociedades pós-emancipação. Rio de Janeiro: Civilização Brasileira , 2005.
+- MENEZES E SOUZA, João Cardoso de. Theses sobre a colonização do Brasil. Projecto de solução ás questões sociaes, que se prendem a este dificil problema. Rio de Janeiro: Typographia Nacional, 1875.
+- MOTTA, José Flávio. Escravos daqui, dali e de mais além: o tráfico interno de cativos na expansão cafeeira paulista (Areias, Guaratinguetá, Constituição/ Piracicaba e Casa Branca, 1861-1887). Tese (Livre-Docência). Faculdade de Economia e Administração, Universidade de São Paulo, São Paulo, 2010.
+- MOURA, Ana Maria da Silva. Cocheiros e carroceiros: homens livres no Rio de senhores e escravos. São Paulo: Hucitec , 1988
+- NORTHRUP, David. Indentured labor in the age of imperialism, 1834-1922. Nova York: Cambridge University Press, 1995.
+- PARRON, Tâmis Peixoto. A política da escravidão na era da liberdade: Estados Unidos, Brasil e Cuba, 1787-1846. Tese (Doutorado em História). Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 2015.
+- PETRONE, Maria Thereza Schorer. Política imigratória e interesses econômicos. In: ROSOLI, Gianfausto (org.). Emigrazioni europee e popolo brasiliano - Atti del Congresso Euro-Brasiliano sulle migrazioni. Roma: Centro Studi Emigrazione, 1987. p. 257-271.
+
+---
+
+[referencia=2531b2a54790170d score=0.018]
+- ALENCASTRO, Luiz Felipe de. Proletários e escravos: imigrantes portugueses e cativos africanos no Rio de Janeiro, 1850-1872. Novos Estudos CEBRAP. São Paulo, n. 21, p. 30-56, 1988.
+- ALENCASTRO, Luiz Felipe de. O trato dos viventes: formação do Brasil no Atlântico Sul. São Paulo: Companhia das Letras, 2000.
+- AZEVEDO, Célia Maria Marinho de. Onda negra, medo branco: o negro no imaginário das elites século XIX 3ª ed. São Paulo: Annablume, 2004.
+- BAINES, Dudley. Emigration from Europe, 1815-1930. Houndmills, Basingstoke, Hampshire: Macmillan, 1991.
+- BASSETTO, Sylvia. Política de mão-de-obra na economia cafeeira do oeste paulista (período de transição). Tese (Doutorado em História). Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 1982.
+- BIANCO, Maria Eliana Basile. A Sociedade Promotora de Imigração (1886-1895). Dissertação (Mestrado em História). Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 1982.
+- BEIGUELMAN, Paula. Formação do povo no complexo cafeeiro: aspectos políticos. 3ª ed. São Paulo: Edusp, 2005.
+- BETHELL, Leslie. A abolição do tráfico de escravos no Brasil. São Paulo: Edusp/Expressão e Cultura, 1976.
+
+---
+
+[referencia=2531b2a54790170d score=0.018]
+A segunda metade do século XIX ficou marcada por essas tensões que, se não terminaram, ao menos foram minimizadas pela imigração subsidiada em massa para São Paulo nas duas últimas décadas - um projeto dos cafeicultores do oeste. E aqui residiu a contribuição fundamental do Estado no fornecimento de mão de obra para a economia cafeeira, subvencionando as passagens de famílias de imigrantes em tal quantidade que permitiu, por um lado, interferir diretamente no fluxo de saída de populações na Itália, depois em Portugal e Espanha, por outro, certa mobilidade dos colonos nas fazendas sem comprometer a produção a baixo custo do principal artigo de exportação responsável por inserir o país na divisão internacional do trabalho.
+
+O tráfico de escravos, mesmo quando um monopólio metropolitano, era um empreendimento particular, cujas redes de negócio desenvolveram-se ao longo de quase quatro séculos contando com o apoio do Estado (colonial e nacional), como no caso exemplar de sua ilegalidade entre 1831 e 1850. Quanto à imigração, transformada em um fenômeno de massa no decorrer do Oitocentos, o ineditismo do subsídio das passagens com financiamento do Estado, que fomentou inclusive a imigração clandestina, conferiu certa competitividade ao Brasil, principalmente a São Paulo, para colocar as terras do café no horizonte dos potenciais emigrantes da Europa meridional, cuja preferência por Estados Unidos e Argentina ganhava contornos claros.
+
+---
+
+[referencia=2531b2a54790170d score=0.015]
+Ao longo das duas últimas décadas do século XIX, o movimento migratório para São Paulo apresentou grandes oscilações como reflexo do preço internacional do café, da situação econômica do país e das áreas de origem dos imigrantes. Fatores que condicionavam o aumento significativo dos retornos ou mesmo a saída para algum país vizinho, como a Argentina. Apesar disso, com base nos grandes contratos de introdução de imigrantes, o afluxo na última década do Oitocentos chegou a quase 735 mil, com picos excepcionais em 1891, 1895, 1896 e 1897.<sup>108</sup> Todavia, na virada do século, a fórmula dos grandes contratos dava sinais de esgotamento, pois passou a enfrentar embaraços no exterior, sobretudo na Itália que impôs restrições a esse tipo de recrutamento com a promulgação da Lei n. 23, de 31 de janeiro de 1901 e, um ano depois, através do Decreto Prinetti, que proibiu a emigração subvencionada para o Brasil, alvo de severas críticas devido às duras condições de trabalho nas fazendas de café, mas também à natureza precária dos vapores que singravam o Atlântico transportando imigrantes na 3ª classe.
+
+---
+
+[referencia=2531b2a54790170d score=0.013]
+No início da década de 1880, alguns fazendeiros do oeste da província já defendiam a imigração subvencionada como solução para o problema da mão de obra na expansão da cafeicultura. Não bastavam mais os poucos imigrantes que os fazendeiros mandavam trazer da Europa; seria necessário ampliar esse recrutamento. Assim, o Estado foi chamado a promover, endereçar e organizar a imigração transoceânica, tornando-se fiador, em relação aos proprietários de terras, do abastecimento constante de braços para a plantação.<sup>89</sup> A partir de então, a política imigratória paulista sofreu ajuste de rumo, passando a financiar sistematicamente a obtenção de braços para a lavoura. Tarefa de grande vulto que só o Estado teria condições de desenvolver, como instrumento de ação dos fazendeiros.
+
+---
+
+[referencia=2531b2a54790170d score=0.013]
+Antes de sua extinção em 1895, a Sociedade Promotora de Imigração assinou mais dois acordos com o governo de São Paulo. O contrato de 23 de fevereiro de 1892, para introdução de 50 mil imigrantes, entre italianos, alemães, austríacos e portugueses e o de 10 de janeiro de 1893 para trazer mais 40 mil trabalhadores europeus, assim distribuídos: 10 mil italianos, 15 mil alemães e suecos e 15 mil das outras nacionalidades (portugueses, açorianos, suíços e austríacos). Os grandes contratos, porém, não terminaram, mas passaram a ser acordados diretamente com agências introdutoras de imigrantes: contrato de 21 de agosto de 1894, para trazer 50 mil europeus; contrato de 07 de março de 1896, introdução de 45 mil europeus e 10 mil canadenses; contrato de 06 de agosto de 1897, recrutar 10 mil austríacos, 30 mil italianos, 10 mil espanhóis, 5 mil portugueses e 5 mil alemães, belgas, suecos e dinamarqueses, com subvenções diferenciadas - valores menores para portugueses e italianos.<sup>107</sup>
+
+---
+
+[referencia=2531b2a54790170d score=0.012]
+A vinda de imigrantes europeus com apoio oficial para povoar a possessão portuguesa no além-mar já não era novidade ao final do período colonial. Em meados do século XVIII, no entanto, elaboraram-se algumas provisões régias relativas à emigração de açorianos para o Brasil, como a de 9 de agosto de 1747, que mandava conduzir 4 mil casais para onde “fosse mais preciso, e conveniente povoarem-se logo”, concedendo privilégios especiais: ajuda de custo, terras, rações, animais de tração, sementes, armas e ferramentas.<sup>63</sup> Posteriormente, açorianos e suíços foram trazidos por ordem oficial, culminando com as medidas adotadas por D João VI, que refletiam o interesse da Coroa em incentivar a emigração europeia para o Brasil.<sup>64</sup> Com isso, o monarca pretendia ocupar, fazer produzir e valorizar as terras despovoadas, instalar uma policultura que abastecesse as cidades e os latifúndios escravistas e ainda garantir a ocupação de áreas próximas das fronteiras e proteger terras de ataques de índios.<sup>65</sup>
+		
+
+Após a independência, efetivou-se no Brasil o controle da política de imigração pelo Estado. Com o decreto de 2 de dezembro de 1825 instituiu-se uma comissão para organizar um plano geral de colonização uniforme para todas as províncias. Em perspectiva mais ampla, a imigração, além de servir para ocupação de regiões fronteiriças, era apontada como parte da solução para os problemas enfrentados pela agricultura - falta de braços e grandes extensões de terras incultas.
+
+---
+
+[referencia=2531b2a54790170d score=0.009]
+		
+
+Henrique Lima analisou 56 “contratos de locação de serviços” de ex-escravos da cidade do Desterro (atual Florianópolis), entre 1849 e 1887. Considerando que as opções para um liberto ao ser lançado no “mercado” de trabalho em um ambiente urbano eram muito restritas, transformar a escravidão em contrato para o pagamento de uma dívida poderia também significar a tentativa de garantir de algum modo a continuidade de uma ocupação que garantisse a subsistência e uma menor incerteza perante o futuro. A compensação pecuniária desse trabalho estava certamente subordinada a essa condição.<sup>15</sup>
+		
+
+Transpondo essa experiência para os libertos e para a Corte, já nas primeiras décadas do século XIX é possível verificar mais uma agravante: a presença do imigrante português pobre que abandonava sua terra natal premido, via de regra, pela miséria. Presença que, de acordo com Gladys S. Ribeiro, provocou o acirramento da concorrência entre imigrantes, libertos e escravos pelas tarefas mais simples e de baixa remuneração. Ocupando espaços no ambiente urbano, o elemento português, mesmo envolto em inúmeras dificuldades para sobreviver, acabou hierarquizando o mercado de trabalho e valorizando o trabalho branco em detrimento do negro e do mestiço, na cidade onde cada vez mais se difundia o ideário de “modernização”, “civilização” e “progresso”.<sup>16</sup> Somavam-se a isso outras medidas de controle mais direto, como a polícia e o aparato jurídico, para defender a ordem, o trabalho disciplinado e a moral, características que não eram imputadas aos trabalhadores nacionais pobres, libertos sobre os quais pesava a mancha da escravidão<sup>17</sup> - a tendência ao ócio e à vadiagem dos trabalhadores nacionais se explicaria cada vez mais em termos raciais.<sup>18</sup>
+
+---
+
+[referencia=2531b2a54790170d score=0.008]
+O Brasil, como outros países do Novo Mundo, precisava de mão de obra e procurou se organizar para recebê-la. São Paulo fez mais do que isso: estruturou-se com o objetivo de atender aos anseios específicos da lavoura cafeeira, canalizando recursos públicos para o recrutamento, o transporte e a recepção de imigrantes. Os fazendeiros, apoiados no Estado, foram capazes de buscar soluções satisfatórias às suas demandas imediatas. Soluções que colocaram o dinheiro público a seu serviço, mas que eles alegaram ser do interesse da riqueza nacional - assim como a escravidão era considerada “um mal necessário” à riqueza nacional.
+
+A política de imigração paulista de trazer grupos familiares como força de trabalho atendeu aos anseios dos fazendeiros de café. Subsídio de passagens e propaganda atuaram em zonas rurais específicas da Europa onde o camponês empobrecido optou pela emigração juntamente com sua família. Inicialmente, os campos da Itália, depois os de Portugal e Espanha, tornaram-se os principais alvos do recrutamento. Empreitada exitosa, como comprovam a quantidade e a especificidade do movimento de chegada dessas famílias a São Paulo, que diferiu daquele perfil predominante da migração internacional, de caráter individual, conhecida como *new immigration.*<sup>112</sup> Não apenas diferiu como também resultou em certa alteração desse padrão demográfico nos momentos em que o fluxo de famílias para o Brasil, ou mais especificamente para as terras paulistas, foi maior, como observado por Ercole Sori no caso italiano: “O caso extremo foi o Vêneto, que teve acesso à expatriação transoceânica em massa apenas nos grandes picos da emigração subvencionada de 1888, 1891 e 1895-1896” para o Brasil - intervalos em que a taxa de emigração de indivíduos solitários foi a mais baixa em contraste com o aumento da participação de grupos familiares.<sup>113</sup>
+
+---
+
+[referencia=2531b2a54790170d score=0.007]
+		
+
+Em 1895, por falta de recursos financeiros, o poder executivo foi autorizado por lei a transferir o contrato com a Companhia Metropolitana aos estados ou então rescindi-lo.<sup>78</sup> Consultados sobre a possibilidade de assumir sua parte do contrato, os representantes de São Paulo, Minas Gerais, Rio de Janeiro e Espírito Santo não aceitaram, o que obrigou o governo a entrar em acordo com a contratante. Ficou acertada a indenização de oito mil e quinhentos contos de réis, a serem pagos em duas prestações, obrigando-se a companhia a completar até 31 de dezembro a introdução do número de imigrantes para o referido ano.<sup>79</sup> A rescisão do contrato com a Metropolitana marcou na prática o fim da intervenção do governo republicano nos serviços de introdução de imigrantes, reduzindo de forma significativa o movimento no Rio de Janeiro, até então, o principal ponto de recebimento e distribuição de europeus para o restante do país, com exceção de São Paulo.
+
+Na província paulista, uma incipiente política oficial de formação de núcleos coloniais surgiu em 1827. O primeiro instalou-se no sertão do Rio Negro, em terras hoje pertencentes ao Paraná, que à época ainda faziam parte da província paulista. Entre 1837-1838, chegaram 926 imigrantes alemães de Bremen, trazidos pelo major Jorge Antonio Schäffer, representante do governo imperial. Chama atenção uma das cláusulas do contrato que obrigava os colonos a pegar em armas, caso fosse necessário, bem como sujeitar seus filhos ao serviço militar.<sup>80</sup>
+
+---
+
+[referencia=2531b2a54790170d score=0.006]
+		
+
+Apenas a partir de 1875, a chegada de imigrantes atingiu a casa do milhar, mas ainda era o governo imperial o maior responsável pelas entradas, enquanto a Associação da Colonização engatinhava em sua tarefa.<sup>85</sup> Nesse período, muitos fazendeiros, mesmo contando com apoio do Estado, ainda agiam isoladamente para obter mão de obra na Europa. Lutavam, ainda, para mudar a política de imigração oficial direcionada ao povoamento da província, argumentando que os núcleos coloniais eram onerosos e inúteis, não auxiliando em nada na atração de imigrantes. No entender desse grupo, o Estado devia apenas auxiliar os particulares que pretendessem introduzir colonos em suas propriedades.<sup>86</sup> A Lei de 30 de março de 1871, portanto, constituiu-se na primeira experiência e, sob olhar retrospectivo, um tímido ensaio para o programa de subvenção de passagens que seria estruturado a partir de meados da década de 1880.
+
+Se na perspectiva imperial, a colonização baseava-se na introdução de imigrantes em termos de um povoamento orientado do país, com a expectativa da posse da terra aos que chegavam, na província paulista, desde cedo, hostilizou-se esse caminho em nome dos interesses da grande lavoura.<sup>87</sup> O termo colono tinha em São Paulo dois significados. O que interessava aos fazendeiros - aquele que trabalharia em suas terras - e o significado tradicional - pequeno proprietário de terra em núcleos coloniais. Os imigrantes como colonos eram bem-vindos desde que se dirigissem para a cafeicultura; os núcleos coloniais também, mas com a função específica de incentivar a emigração da Europa para a província.<sup>88</sup>
+
+---
+
+[referencia=2531b2a54790170d score=0.006]
+		
+
+Essas tendências comuns e perspectivas locais nas relações de trabalho encontraram suas origens não apenas na circulação global de modelos, populações, bens e instituições, mas também nas dinâmicas de mercado. Entre o século XVII e o fim do XIX, proto-indústria, agricultura, comércio e manufatura experimentaram crescimento sem precedentes em toda a Eurásia. O aumento do trabalho intensivo e seu crescimento no longo prazo exerceu pressão considerável sobre os recursos trabalhistas e contribuiu para aumentar a coerção e os constrangimentos legais sobre a mobilidade de mão de obra na Ásia e na Europa.<sup>8</sup>
+		
+
+Em outro estudo, sobre a colônia francesa da Ilha da Reunião, Stanziani, analisou como o trabalho sob contrato ajudou a prolongar efetivamente as condições da escravidão, ou ao menos seu status, muito depois da abolição formal, que veio acompanhada pela introdução de formas extremamente restritivas de contrato e status em relação aos direitos dos imigrantes. Paradoxalmente, as formas de serviço doméstico, as sanções penais e as regras para as colônias foram reforçadas no momento em que o direito do trabalho na Europa tornava-se mais favorável aos assalariados.<sup>9</sup>
+
+---
+
+[referencia=2531b2a54790170d score=0.006]
+O Estado pagaria às companhias de transporte marítimo a subvenção de 120 francos pela passagem de cada imigrante adulto transportado da Europa, a metade do valor pelos menores de 12 até 8 anos, e a quarta parte pelos de 8 e 3 anos. Os imigrantes introduzidos mediante contrato deveriam vir acompanhados de atestado do agente consular brasileiro informando que pertenciam à mesma família. Os proprietários agrícolas de núcleos particulares que desejassem receber imigrantes deveriam apresentar um pedido à Inspetoria Geral das Terras e Colonização. O decreto estabelecia, ainda, prêmio de 100 mil francos às companhias que transportassem, no espaço de um ano, pelo menos 10 mil imigrantes, sem nenhuma reclamação quanto às bagagens e ao tratamento dos mesmos.
+
+Em 2 de agosto de 1892, o governo federal firmou contrato com Companhia Metropolitana<sup>75</sup> para introdução de 1 milhão de imigrantes - 100 mil por ano - procedentes da Europa e possessões portuguesas e espanholas, no espaço de dez anos. Além da já tradicional exigência de que todos fossem agricultores, duas cláusulas revelavam a intenção discriminatória do Estado: a exclusão de indivíduos solteiros e a fixação de um limite máximo para cada nacionalidade. As dificuldades financeiras para seu cumprimento apareceram já em 1893, o primeiro ano de execução, quando se reduziu a entrada anual para 50 mil.<sup>76</sup> O governo pretendia distribuir parte dos imigrantes pelas diversas regiões, sobretudo no chamado Norte do Brasil. Nesse sentido, lamentava-se a concentração quase que exclusiva nos estados do Sul da república, mas também se tomavam providências para reversão desse quadro: criação de núcleos coloniais oficiais no Ceará, Alagoas e Pará e intensificação da propaganda desses e de outros estados do norte na Europa.<sup>77</sup>
+
+---
+
+[referencia=2531b2a54790170d score=0.005]
+		
+
+Subsídio de passagens com dinheiro do Estado que também financiava a infraestrutura de recepção e deslocamento para as fazendas, possibilidade legal de assinar contratos com particulares para introduzir imigrantes, e uma sociedade constituída para defender os interesses dos cafeicultores. Estes foram os pilares do sucesso da empreitada em termos da atração da imigração. Mas e com relação às áreas de origem dos emigrantes? Como explicar o sucesso do recrutamento na Itália, principalmente?
+
+A partir do terço final do século XIX, a Itália constituiu-se na principal fornecedora de emigrantes para o Novo Mundo.<sup>91</sup> Os Estados Unidos receberam o maior contingente, depois vieram Argentina e Brasil. Alguns fatores de expulsão eram similares àqueles dos países europeus pioneiros na exportação de populações: aumento acentuado da população rural e a depressão agrícola. Outros eram peculiares à península, como confisco de pequenas propriedades, cujos proprietários não conseguiam pagar a taxa sobre a farinha e a diminuição da procura de mão de obra no Império Austro-Húngaro e na Alemanha, tradicionais mercados de trabalho para a emigração temporária de trabalhadores do Vêneto.<sup>92</sup>
+
+---
+
+[referencia=2531b2a54790170d score=0.004]
+- FLORY, Céline. De l’esclavage à la Liberté Forcée. Histoire des travailleurs africains engagés dans la Caraïbe française du XIXe siècle. Paris: Karthala/Société des Africanistes, 2015.
+- FRANZINA, Emilio. L’emigrazione dalla montagna veneta fra Otto e Novecento. In: LAZZARINI, Antonio; VENDRAMINI, Ferruccio (orgs.). La montagna veneta in età contemporánea: storia e ambiente, uomini e risorce. Roma: Edizioni di storia e letteratura, 1991. p. 185-228.
+- GADELHA, Regina Maria d’Aquino Fonseca. A Lei de Terras (1850) e a abolição da escravidão: capitalismo e força de trabalho no Brasil do século XIX. Revista de História, São Paulo, n. 120, p. 153-162, 1989.
+- GEBARA, Ademir. O mercado de trabalho livre no Brasil (1871-1888). São Paulo: Brasiliense, 1986.
+- GONÇALVES, Paulo Cesar. Migração e mão de obra: retirantes cearenses na economia cafeeira do Centro-Sul (1877-1901) São Paulo: Humanitas, 2006.
+- GONÇALVES, Paulo Cesar. Mercadores de braços: riqueza e acumulação na organização da emigração europeia para o Novo Mundo São Paulo: Alameda/Fapesp, 2012.
+- HOBSBAWM, Eric J. A era do capital, 1848-1875. 5ª ed. Rio de Janeiro: Paz e Terra , 1996.
+- IOTTI, Luiza Horn(org.). Imigração e colonização: legislação de 1747 a 1915. Porto Alegre: Assembleia Legislativa do Estado do Rio Grande do Sul; Caxias do Sul: EDUCS, 2001.
+- LAMOUNIER, Maria Lúcia. Da escravidão ao trabalho livre: a lei de locação e serviços de 1879. Campinas/SP: Papirus, 1988.

@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-9",
+  "passages": [
+    {
+      "reference_chunk_id": "e72c2e3631af87c7-0",
+      "reference_id": "e72c2e3631af87c7",
+      "score": 0.004390360321849585,
+      "text": "Science Hub is Novo Nordisk’s one-stop portal for all our scientific publications and clinical trials, congress materials and medical updates. Sign up to gain full access."
+    }
+  ],
+  "assembled_context": "[referencia=e72c2e3631af87c7 score=0.004]\nScience Hub is Novo Nordisk’s one-stop portal for all our scientific publications and clinical trials, congress materials and medical updates. Sign up to gain full access.",
+  "skip_reason": null
+}

@@ -1,0 +1,255 @@
+[referencia=f2b4f17f57f4b5fb score=0.950]
+In 2018, the WHO director general called for global action to eliminate cervical cancer, defined as an age-standardized incidence rate of or below 4 per 100 000 women. The WHO Cervical Cancer Elimination Initiative outlines in its strategy a set of targets to achieve by 2030: 90% of girls vaccinated by age 15 years, 70% of women screened with high-performance tests by age 35 years and again by age 45 years, and 90% of women identified with cervical disease treated. Achieving these targets in every country could reduce cervical cancer incidence rates by 97% and more than 74 million cervical cancer cases and 62 million deaths prevented by 2120 (6). Meeting the WHO goals by 2030 will require countries to intensify and accelerate their cervical cancer elimination strategies.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.072]
+## Abstract
+
+Human papillomavirus (HPV) prophylactic vaccines were first licensed in 2006 with the primary goal of preventing HPV-related cancers, with cervical cancer accounting for the highest morbidity and mortality globally. Six HPV vaccines have been licensed; 4 of these have been prequalified by the World Health Organization, and additional products are in the pipeline. This article provides an overview of HPV vaccine coverage and current and anticipated vaccine supply vs expected demand. Given that the 2022 World Health Organization position paper on HPV vaccines includes a 1-dose regimen as an alternate schedule, we will discuss the evidence for using licensed vaccines in single-dose regimens and the approach to generating similar supportive data for other current and future vaccines. The broad adoption of a single-dose HPV vaccine regimen would expand access to vaccines by improving the supply-demand balance, increasing affordability, and simplifying logistics, which will ultimately impact HPV-related morbidity and mortality.
+
+Globally, the burden of human papillomavirus (HPV)–related malignancies, including cancers of the cervix, anogenital tract, and head and neck, represents 4.5% of new cancer cases (1). Cervical cancer, accounting for 83% of the total burden of cancer attributable to HPV, is the main focus of this manuscript. Cervical cancer remains a disease of geographic and economic inequity, being the second most common cancer in women in low-income countries (2). Regional differences in the cervical cancer burden are related to disparities in access to vaccination, screening, and treatment services as well as risk factors such as HIV prevalence and social and economic determinants. The World Health Organization (WHO) International Agency for Research on Cancer estimated that in 2022, there were more than 660 000 new cases of cervical cancer and nearly 350 000 cervical cancer–related deaths, with approximately 84% of new cases and 90% of deaths occurring in low- and middle-income countries (LMICs) (2).
+
+Persistent infection with HPV is a necessary precursor to cervical cancer (3). Cervical cancer is a preventable disease. Primary prevention via prophylactic HPV vaccination is safe and highly effective (4) and thus has tremendous potential to save lives, particularly in countries where secondary prevention through cervical cancer screening and treatment may not be accessible. Despite more than 16 years of vaccine availability, only 1 in 8 girls globally was vaccinated against HPV in 2023 (5).
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.035]
+Cervical cancer is a major public health problem in India, contributing nearly one-fifth of the global burden with an estimated 123 907 new cases and 77 348 deaths in 2020. India has the largest adolescent population in the world, estimated in 2022 to include approximately 120.4 million women aged 10-19 years (20). In June 2022 and July 2023, the National Technical Advisory Group on Immunization recommended the introduction of HPV vaccine in the Universal Immunization Program of India with the indigenously developed quadrivalent HPV vaccine as a 2-dose regimen for adolescent girls aged 9-14 years (21). According to a report in *The Lancet Oncology*, over the subsequent 3 years (2024-2026), the Indian Ministry of Health and Family Welfare may opt for a phased rollout of HPV vaccination targeting 68 million girls aged 9-14 years; subsequently, each year, 11.2 million girls aged 9 years could be targeted for the routine HPV vaccination program in India (17). One modeling study estimated that HPV vaccination in India would prevent approximately 1 million cases of cervical cancer over the lifetime of birth cohorts currently aged 10 years or younger. Further, adopting a single-dose vaccination schedule could free up resources that could be used to extend vaccination beyond the primary target of girls aged 9-14 years to those aged 15-20 years, preventing an additional 800 000 cases of cervical cancer (22).
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.026]
+The impact of vaccine costs is considerable for countries transitioning out of Gavi support and for self-procuring countries. Not being able to access negotiated vaccine prices represents an affordability barrier for these countries (12). To successfully eliminate cervical cancer, focused alignment among governments, global partners, and suppliers will be needed.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.015]
+## References
+
+- 1. de Martel C, Plummer M, Vignat J, Franceschi S.. Worldwide burden of cancer attributable to HPV by site, country and HPV type. Int J Cancer. 2017;141(4):664-670. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 2. Bray F, Laversanne M, Sung H, et al. Global cancer statistics 2022: GLOBOCAN estimates of incidence and mortality worldwide for 36 cancers in 185 countries. CA Cancer J Clin 2024;74(3):229-263. doi: 10.3322/caac.21834 [DOI] [PubMed] [Google Scholar]
+- 3. Bosch FX, Lorincz A, Muñoz N, Meijer CJLM, Shah KV.. The causal relation between human papillomavirus and cervical cancer. J Clin Pathol. 2002;55(4):244-265. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 4. World Health Organization (WHO) Immunization, Vaccines and Biologicals. Human Papillomavirus Vaccines: WHO Position Paper. Geneva: WHO; 2022. [Google Scholar]
+- 
+5.
+UNICEF Supply Division. *Closing the Gap: UNICEF Bolsters Country Efforts to Increase HPV Vaccination* . April 28, 2023. https://www.unicef.org/supply/stories/closing-gap-unicef-bolsters-country-efforts-increase-hpv-vaccination. Accessed February 26, 2024.
+- 6. World Health Organization (WHO). Global Strategy to Accelerate the Elimination of Cervical Cancer as a Public Health Problem. Geneva: WHO; 2020. https://www.who.int/publications/i/item/9789240014107. Accessed October 15, 2023. [Google Scholar]
+- 
+7.
+View-Hub by Ivac. *Human Papillomavirus Vaccine* . https://view-hub.org/vaccine/hpv. Accessed March 8, 2024.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.007]
+UNICEF Supply Division. *Human Papillomavirus Vaccine: Supply and Demand Update* . New York: UNICEF; 2019. https://www.unicef.org/supply/sites/unicef.org.supply/files/2020-03/human-papillomavirus-vaccine-HPV-supply-and-demand-update.pdf.
+- 
+15.World Health Organization (WHO). *WHO HPV Vaccine Global Market Study, April 2022* . Geneva: WHO; 2022. https://www.who.int/publications/m/item/who-hpv-vaccine-global-market-study-april-2022. Accessed February 26, 2024.
+- 16. Schiller JT, Kreimer AR.. An HPV vaccine from India: Broadening possibilities for cervical cancer control. Lancet Oncol. 2023;24(12):1288-1289. [DOI] [PubMed] [Google Scholar]
+- 17. Burki TK. India rolls out HPV vaccination. Lancet Oncol. 2023;24(4):e147. [DOI] [PubMed] [Google Scholar]
+- 18. Gao M, Hu S, Zhao X, et al. Health and economic impact of delaying large-scale HPV vaccination and screening implementation on cervical cancer in China: a modelling study. Lancet Reg Health West Pac. 2023;36:(100768. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 19. Zhao XL, Hu SY, Hu JW, et al. Tackling barriers to scale up human papillomavirus vaccination in China: progress and the way forward. Infect Dis Poverty. 2023;12(1):86. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 
+20.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.002]
+HPV Information Centre. *Human Papillomavirus and Related Diseases Report.* https://hpvcentre.net/statistics/reports/IND.pdf?t=1705683484903. Published March 10, 2023.
+- 
+21.
+*17th National Technical Advisory Group on Immunization (NTAGI) Meeting Minutes.* https://main.mohfw.gov.in/sites/default/files/17th%20NTAGI%20Meeting%20Minutes%20June%2028%2C%202022.pdf. Published June 28, 2022. Accessed February 27, 2024.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.001]
+## Discussion
+
+HPV prophylactic vaccination, the primary prevention measure for cervical cancer, is 1 of the 3 pillars of the cervical cancer elimination strategy articulated by WHO. Despite HPV vaccines having first been licensed more than 15 years ago, the global coverage remains low, particularly in LMICs where the cervical cancer disease burden is highest. Although there are multiple licensed HPV vaccines, global access is limited by high cost and uneven distribution, and there is a need for additional products. There is a healthy pipeline of new vaccines in late-stage development, including high-valency products, but broad availability requires WHO prequalification. Although those products are currently being evaluated in multidose schedules, the scientific evidence warrants these vaccines to be also evaluated in a single-dose regimen. A 1-dose vaccination regimen would improve the supply-demand balance and address many challenges faced by countries with respect to HPV vaccination. Therefore, single-dose HPV vaccination has the prospect to improve vaccine access by increasing vaccine uptake or expanding HPV vaccination to countries currently unable to afford it, as well as by expanding vaccination to secondary target populations. This is a unique opportunity for communities, policy makers, regulators, and vaccine manufacturers to contribute to the cervical cancer elimination effort.
+
+## Acknowledgments
+
+We thank Marian Blazes and Jenny Johnson for their editorial support.
+
+## Contributor Information
+
+Anne E Schuind, PATH, Center for Vaccine Innovation and Access, Washington, DC, USA.
+
+Kanduri Ananth Balaji, PATH, Center for Vaccine Innovation and Access, New Delhi, India.
+
+Anna Du, Bill & Melinda Gates Foundation, Beijing, China.
+
+Yuan Yuan, PATH, Center for Vaccine Innovation and Access, Shanghai, China.
+
+Peter Dull, Bill & Melinda Gates Foundation, Seattle, USA.
+
+## Data Availability
+
+No new data were generated or analysed in support of this manuscript.
+
+## Author contributions
+
+All authors qualify for authorship in adherence to the ICMJE guideline and contributed to conceptualization, writing, original draft preparation, and reviewing and editing.
+
+## Funding
+
+This work was supported by the Bill & Melinda Gates Foundation, Seattle, WA [INV-552340].
+
+## Monograph sponsorship
+
+This article appears as part of the monograph “State of the Science of Single-Dose Prophylactic HPV Vaccination,” sponsored by the Bill & Melinda Gates Foundation.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.001]
+| Manufacturer | Antigens | Expression system | Adjuvant | Research and development phase | Populations, years of age, and schedule <sup>a</sup> | 
+|---|---|---|---|---|---|
+| China |  |  |  |  |  | 
+| Bovax | 6, 11, 16, 18 | Yeast ( *H polymorpha* ) | Aluminum phosphate | Phase 3 |  | 
+| Bovax | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Yeast ( *H polymorpha* ) | Aluminum phosphate | Phase 3 |  | 
+| CDBIO/Health Guard | 6, 11, 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68 | *E coli* | Not disclosed | Phase 1 |  | 
+| CNBG/CDIBP | 6, 11, 16, 18 | Yeast ( *H polymorpha* ) | Aluminum based | Phase 3 |  | 
+| CNBG/CDIBP | 6, 11, 16, 18, 31, 33, 45, 52, 58, 59, 68 | Yeast ( *H polymorpha* ) | Not disclosed | Phase 3 |  | 
+| CNBG/SIBP | 16, 18, 52, 58 | Yeast ( *P pastoris* ) | Aluminum hydroxide | Phase 2 |  | 
+| Health Guard | 16, 18, 58 | *E coli* | Aluminum based | Phase 3 |  | 
+| Health Guard | 6, 11, 16, 18, 31, 33, 45, 52, 58 | *E coli* | Aluminum hydroxide | Phase 3 |  | 
+| Immune Path/Ab&B bio | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Yeast ( *P pastoris* ) | Novel adjuvant | Phase 2 |  |
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.001]
+#### Table 1.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.001]
+- 40. Barnabas RV, Brown ER, Onono MA, et al. KEN SHE Study Team. Durability of single-dose HPV vaccination in young Kenyan women: Randomized controlled trial 3-year results. Nat Med. 2023;29(12):3224-3232. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 41. Baisley K, Kemp TJ, Kreimer AR, et al. Comparing one dose of HPV vaccine in girls aged 9-14 years in Tanzania (DoRIS) with one dose of HPV vaccine in historical cohorts: An immunobridging analysis of a randomised controlled trial. Lancet Glob Health. 2022;10(10):e1485-e1493. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 42. Baisley K, Kemp TJ, Mugo NR, et al. Comparing one dose of HPV vaccine in girls aged 9-14 years in Tanzania (DoRIS) with one dose in young women aged 15-20 years in Kenya (KEN SHE): An immunobridging analysis of randomised controlled trials. Lancet Glob Health. 2024;12(3):e491-e499. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 43. Porras C, Sampson JN, Herrero R, et al. Rationale and design of a double-blind randomized non-inferiority clinical trial to evaluate one or two doses of vaccine against human papillomavirus including an epidemiologic survey to estimate vaccine efficacy: The Costa Rica ESCUDDO trial. Vaccine. 2022;40(1):76-88. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 
+44.
+*Single-Dose HPV Vaccination for the Prevention of Cervical Cancer in Young Adult Women in Costa Rica, The PRISMA ESCUDDO Trial (PRISMA). Clinicaltrials.gov ID  NCT05237947* . https://clinicaltrials.gov/study/NCT05237947. Accessed March 20, 2024.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.000]
+### Pathway to licensure for HPV vaccines
+
+Licensure of HPV vaccines was originally granted in young adult women for a 3-dose regimen based on the demonstration of efficacy in preventing cervical precancer lesions related to the types targeted by the vaccines. A surrogate endpoint for cervical cancer was used for ethical and practical reasons. Therefore, initial licensure of GSK and MSD vaccines evaluated the prevention of high-grade cervical dysplasia, which required large randomized controlled trials with a follow-up of approximately 4 years to enable accrual of sufficient cases in a population of sexually active women who were HPV seronegative and HPV DNA negative prior to vaccination (25). Vaccine efficacy against persistent infections (ie, the detection of the same HPV type in consecutive cervical specimens taken several months apart) was a secondary objective in these studies. High efficacy was compatible when measured against either persistent infections or high-grade cervical lesions.
+
+The indication was extended to girls beginning at 9 years of age using the principle of immunobridging. Because demonstration of efficacy in a young population presents ethical and practical hurdles and would require large trials of extended duration, effectiveness in pre-adolescent and adolescent populations was inferred based on the demonstration of comparable immune responses 1 month following the completion of the dosing regimen, using as benchmark the immune response elicited in an adult population for which clinical efficacy has been demonstrated (26,27).
+
+In 2013, an experts workshop convened by the International Agency for Research on Cancer and the US National Cancer Institute recommended the use of prevention of persistent HPV infections as a primary efficacy endpoint, as infections occur more frequently than cervical dysplasia, and this endpoint is more reproducible. Immunological noninferiority was also found as an acceptable endpoint for licensure of alternate dosing schedules, new populations, second-generation vaccines (for shared HPV types), and biosimilar vaccines (ie, L1 virus-like particle–based HPV vaccines) (25). This recommendation was subsequently adopted by WHO (28).
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.000]
+| Innovax | 6, 11 | *E coli* | Aluminum based | Phase 2 |  | 
+| Innovax | 6, 11, 16, 18, 31, 33, 45, 52, 58 | *E coli* | Aluminum based | Phase 3 |  | 
+| Nuoning/Sinocelltech | 6, 11, 16, 18, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59 | Insect cell | Aluminum based | Phase 3 |  | 
+| RecBio | 16, 18 | Yeast ( *H polymorpha* ) | Aluminum based | Phase 1 |  | 
+| RecBio | 6, 11 | Yeast ( *H polymorpha* ) | Aluminum based | Phase 1 |  | 
+| RecBio | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Yeast ( *H polymorpha* ) | Aluminum based | Phase 3 |  | 
+| Zerun/Walvax | 6, 11, 16, 18, 31, 33, 45, 52, 58 | Yeast ( *P pastoris* ) | Aluminum phosphate | Phase 3 |  | 
+| India and other Asian countries |  |  |  |  |  | 
+| SK Bioscience | 6, 11, 16, 18 | Not disclosed | Not disclosed | Phase 1 and 2 | Females 9-26 | 
+| Other countries |  |  |  |  |  | 
+| GlaxoSmithKline | Nonavalent vaccine | *E coli* | AS04 | Phase 2 | Females, 16-26 | 
+
+<sup>a</sup>
+
+Information from clinical trial registries. *E coli* = *Escherichia coli*; *H polymorpha* = *Hansenula polymorpha*; *P pastoris* = *Pichia pastoris*.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.000]
+- 33. Zhao FH, Wu T, Hu YM, et al. Efficacy, safety, and immunogenicity of an Escherichia coli-produced Human Papillomavirus (16 and 18) L1 virus-like-particle vaccine: End-of-study analysis of a phase 3, double-blind, randomised, controlled trial. Lancet Infect Dis. 2022;22(12):1756-1768. [DOI] [PubMed] [Google Scholar]
+- 34. Sharma H, Parekh S, Pujari P, et al. Immunogenicity and safety of a new quadrivalent HPV vaccine in girls and boys aged 9-14 years versus an established quadrivalent HPV vaccine in women aged 15-26 years in India: a randomised, active-controlled, multicentre, phase 2/3 trial. Lancet Oncol. 2023;24(12):1321-1333. [DOI] [PubMed] [Google Scholar]
+- 35. Kreimer AR, Sampson JN, Porras C, et al. ; Costa Rica HPV Vaccine Trial (CVT) Group. Evaluation of durability of a single dose of the bivalent HPV vaccine: The CVT trial. J Natl Cancer Inst. 2020;112(10):1038-1046. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 36. Basu P, Malvi SG, Joshi S, et al. Vaccine efficacy against persistent human papillomavirus (HPV) 16/18 infection at 10 years after one, two, and three doses of quadrivalent HPV vaccine in girls in India: a multicentre, prospective, cohort study. Lancet Oncol. 2021;22(11):1518-1529. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 37. Kreimer AR, Struyf F, Del Rosario-Raymundo MR, et al. GSK Vaccines Clinical Study Support Group. Efficacy of fewer than three doses of an HPV-16/18 AS04-adjuvanted vaccine: Combined analysis of data from the Costa Rica Vaccine and PATRICIA trials. Lancet Oncol. 2015;16(7):775-786. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.000]
+7.
+View-Hub by Ivac. *Human Papillomavirus Vaccine* . https://view-hub.org/vaccine/hpv. Accessed March 8, 2024.
+- 8. UNICEF. Session 21 Vaccine Market Update Human Papillomavirus (HPV) Vaccine. https://www.unicef.org/supply/media/18931/file/UNICEF-VIC2023-Session21-HPVupdate-UNICEF-2023.pdf. Published 2023.
+- 
+9.
+World Health Organization. Immunization data. *Human Papillomavirus (HPV) Vaccination Coverage* . https://immunizationdata.who.int/pages/coverage/hpv.html?CODE=Global&ANTIGEN=15HPV1_F&YEAR=. Accessed February 26, 2024.
+- 10. World Health Organization. Countries. https://www.who.int/countries/. Accessed April 24, 2024.
+- 
+11.
+Gavi, The Vaccine Alliance. *GAVI Approach Creates Tiered Pricing for Vaccines* . https://www.gavi.org/news/media-room/gavi-approach-creates-tiered-pricing-vaccines. Accessed February 26, 2024.
+- 12. Shinkafi-Bagudu Z. Global partnerships for HPV vaccine must look beyond national income. J Clin Oncol Glob Oncol. 2020;6(6):1746-1748. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 
+13.
+Gavi, The Vaccine Alliance. *Market Shaping Roadmap Human Papillomavirus Vaccines* . https://www.gavi.org/sites/default/files/about/market-shaping/roadmaps/Market-Shaping-Roadmap-HPV-Vaccines-Public-Summary-December-2023.pdf. Published April 19, 2023.
+- 
+14.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.000]
+## HPV vaccine access, delivery, and funding
+
+As of April 2024, 137 WHO member states have included HPV vaccination in their national vaccination programs, and 54 countries have adopted a gender-neutral (ie, vaccination of girls and boys) vaccination strategy (7). In 2020, less than 30% of LMICs had introduced HPV vaccination in their national immunization programs (6) in contrast to more than 85% of high-income countries. Despite the steady progress in countries introducing HPV vaccination, 57% of global cervical cancer cases occur in countries that do not yet have an HPV vaccination program in place (8).
+
+The COVID-19 pandemic substantially impacted HPV vaccination coverage because of supply issues, school closures, and health system disruptions. In 2023, despite some recovery, the global coverage remains low at 21% in females and 7% in males by age 15 years (9), which is far below the WHO cervical cancer elimination target. There is much variability in global coverage among WHO regions (10), from 3% in the Southeast Asian region to 76% in the region of the Americas.
+
+In the context of immunization programs and compared with other Expanded Program on Immunization vaccines, the costs associated with delivery of HPV vaccines are high, because the target population are pre-adolescents and adolescents, consequently stretching already limited health budgets and representing a major hurdle to scalability and sustainability. In addition, delivery of HPV vaccine in a multidose schedule represents a considerable operational hurdle for most countries. Global, regional, and local organizations are partnering with countries to provide resources to address these challenges.
+
+By allowing for predictable funding and aggregating demand, Gavi, the Vaccine Alliance, has created a model that allows vaccine manufacturers to adopt a tiered pricing policy, whereby low-income countries are charged less than higher-income countries for the same product (11). Eligibility for Gavi support is based on a country’s gross national income threshold, and requests must be initiated by the countries. UNICEF may be able to secure improved pricing for middle-income countries from manufacturers through long-term procurement commitments based on identified long-term HPV vaccine needs. In a similar way, the Pan American Health Organization Revolving Fund provides a mechanism for Gavi-ineligible Latin American and Caribbean countries to access HPV vaccines at a reduced price through pooled procurement and discounted pricing strategies.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.000]
+### Global supply
+
+In 2020, the global market demand for HPV vaccines was projected to reach approximately 44.5 million doses, with LMICs and low-income countries accounting for 18% and 12% of the global market, respectively (14). The global demand for HPV vaccines is anticipated to increase substantially to 140 million doses per year in 2026, because of the introduction in China and India and the adoption of gender-neutral vaccination policies. The demand is expected to stabilize around 125 million doses per year after 2030 following completion of multi-age cohorts (15).
+
+The 2 most populated countries in the world, India and China, have yet to introduce HPV vaccines into their national immunization programs, despite the fact that several HPV vaccines have obtained local licensure. This is presumably in part because of the ability to guarantee a reliable supply of sufficient doses of vaccines at an affordable price. The entry of locally manufactured HPV vaccines into domestic and global markets is likely to substantially increase the worldwide availability of lower-cost HPV vaccines (16,17).
+
+In China, each year of delay in initiating a large-scale vaccination program could result in an estimated 119 000 cervical cancer cases and 42 000 deaths over the lifetime of women and more than 1 year of delay to achieving cervical cancer elimination (18). According to the estimation made by the National Cancer Center of China, approximately 80 million doses of HPV vaccines are needed to vaccinate 90% of girls aged 9-14 years (19). Since 2020, China has expedited a series of efforts promoting free HPV vaccination pilot programs and launching action plans to scale up HPV vaccination. As of September 2023, of the 32 provincial-level administrative regions in the mainland of China, 7 had implemented free provincial HPV immunization programs in girls aged 13 or 14 years (18).
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.000]
+- 45. Befano B, Campos NG, Egemen D, et al. ; Costa Rica HPV Vaccine Trial (CVT) Group. Estimating human papillomavirus vaccine efficacy from a single-arm trial: Proof-of-principle in the Costa Rica Vaccine Trial. J Natl Cancer Inst. 2023;115(7):788-795. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 
+46.Merck. *Merck Announces Plans to Conduct Clinical Trials of a Novel Investigational Multi-Valent Human Papillomavirus (HPV) Vaccine and Single-Dose Regimen for GARDASIL®9* . 2024. https://www.merck.com/news/merck-announces-plans-to-conduct-clinical-trials-of-a-novel-investigational-multi-valent-human-papillomavirus-hpv-vaccine-and-single-dose-regimen-for-gardasil-9/. Accessed April 1, 2024.
+
+## Associated Data
+
+*This section collects any data citations, data availability statements, or supplementary materials included in this article.*
+
+### Data Availability Statement
+
+No new data were generated or analysed in support of this manuscript.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.000]
+- 
+28.
+World Health Organization (WHO). *Recommendations to Assure the Quality, Safety and Efficacy of Recombinant Human Papillomavirus Virus-like Particle Vaccines, Annex 4, TRS No 999* . Geneva: WHO; 2016. https://www.who.int/publications/m/item/recombinant-hpv-like-particle-vaccines-annex-4-trs-no-999. Accessed February 26, 2024.
+- 29. Dobson SRM, McNeil S, Dionne M, et al. Immunogenicity of 2 doses of HPV vaccine in younger adolescents vs 3 doses in young women: A randomized clinical trial. JAMA. 2013;309(17):1793-1802. [DOI] [PubMed] [Google Scholar]
+- 30. Romanowski B, Schwarz TF, Ferguson LM, et al. Immunogenicity and safety of the HPV-16/18 AS04-adjuvanted vaccine administered as a 2-dose schedule compared with the licensed 3-dose schedule: results from a randomized study. Hum Vaccin. 2011;7(12):1374-1386. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 31. World Health Organization (WHO). Human papillomavirus vaccines: WHO position paper, October 2014-recommendations. Vaccine. 2015;33(36):4383-4384. [DOI] [PubMed] [Google Scholar]
+- 
+32.
+European Medicines Agency Committee for Medicinal Products for Human Use (CHMP). *Summary of Opinion on Gardasil* . 2014. https://www.ema.europa.eu/en/documents/smop/chmp-post-authorisation-summary-positive-opinion-gardasil_en.pdf.
+
+---
+
+[referencia=f2b4f17f57f4b5fb score=0.000]
+- 22. Man I, Georges D, de Carvalho TM, et al. Evidence-based impact projections of single-dose human papillomavirus vaccination in India: a modelling study. Lancet Oncol. 2022;23(11):1419-1429. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 23. World Health Organization. Prequalified Vaccines. https://extranet.who.int/prequal/vaccines/prequalified-vaccines. Accessed February 26, 2024.
+- 24. Songane M, Grossmann V.. The patent buyout price for human papilloma virus (HPV) vaccine and the ratio of R&D costs to the patent value. PLoS One. 2021;16(1):e0244722. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 25. Lowy DR, Herrero R, Hildesheim A; Participants in the IARC/NCI workshop on Primary Endpoints for Prophylactic HPV Vaccine Trials. Primary endpoints for future prophylactic human papillomavirus vaccine trials: Towards infection and immunobridging. Lancet Oncol. 2015;16(5):e226-e233. [DOI] [PubMed] [Google Scholar]
+- 26. Krajden M, Cook D, Yu A, et al. Human papillomavirus 16 (HPV 16) and HPV 18 antibody responses measured by pseudovirus neutralization and competitive Luminex assays in a two- versus three-dose HPV vaccine trial. Clin Vaccine Immunol. 2011;18(3):418-423. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 27. Pedersen C, Petaja T, Strauss G, et al. HPV Vaccine Adolescent Study Investigators Network. Immunization of early adolescent females with human papillomavirus type 16 and 18 L1 virus-like particle vaccine containing AS04 adjuvant. J Adolesc Health. 2007;40(6):564-571. [DOI] [PubMed] [Google Scholar]
+- 
+28.

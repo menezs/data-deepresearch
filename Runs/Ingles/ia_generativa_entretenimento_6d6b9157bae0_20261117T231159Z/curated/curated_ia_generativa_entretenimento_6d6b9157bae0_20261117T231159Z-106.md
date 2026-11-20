@@ -1,0 +1,343 @@
+[referencia=96d72fb1f1c459ac score=0.965]
+As generative AI content becomes increasingly prevalent, concerns grow over whether personal attributes like voices and facial features can be protected from infringement and misuse (e.g., for telecom fraud), with related disputes continuing to multiply.
+
+In April 2024, the Beijing Internet Court issued China’s first ruling on AI voice infringement [Case No.: (2023) Jing 0491 Min Chu No. 12142]. This legally effective ruling affirmed that voices recognizable by relevant public are protected under personality rights. Commercial AI utilization requires specific, explicit authorization from rights holders—general copyright licenses for voice usage are insufficient. In this case, the defendant recorded the plaintiff’s original voice, processed it with AI without authorization, and generated commercial products. The court ultimately determined this constituted infringement of the plaintiff’s personality rights. For detailed analysis,  see our earlier article *China’s First AI Voice Personality Rights Infringement Rulings and Implications*.
+
+Notably, in December 2024, the Chengdu Railway Transport No. 1 Primary Court reached a contrary conclusion in another AI voice infringement case—the "Meng Shuai" virtual voice package dispute [Case No.: (2024) Chuan 7101 Min Chu No. 8969]<sup>*1</sup>. The judgment deemed the AI voice non-infringing of personality rights. This ruling has taken effect and was recently made public.
+
+These diametrically opposed outcomes raise a critical question: Has the standard for determining voice rights infringement changed?
+
+---
+
+[referencia=96d72fb1f1c459ac score=0.945]
+### "Meng Shuai" Case Summary
+
+The plaintiff is a professional voice actor possessing commercial value and stable partnerships in fields like advertising, audiobooks, and corporate videos—though not a publicly recognized "celebrity voice actor." The plaintiff claimed distinctive recognizability for his voice among relevant public (e.g., advertisers and production companies).
+
+Upon discovering that the "Meng Shuai" AI voice package in the defendant’s "Super Voice App" generated sounds highly resembling his own voice, the plaintiff filed suit demanding cessation of personality rights infringement and compensation. The plaintiff submitted four voiceprint comparison reports indicating 88.32%-95.35% similarity between his original voice and the "Meng Shuai" AI output.
+
+The defendant argued that its AI voice model synthesized new voices using open-source or legally authorized training data—not by cloning any individual’s voice. They emphasized the plaintiff’s lack of public recognition, contending that ordinary users would not associate the "Meng Shuai" voice with the plaintiff or cause confusion. The defendant also provided two voiceprint reports showing merely 65.36% and 63.46% similarity.
+
+After in-court auditory comparison of voice samples, the Chengdu court acknowledged similarities but found neither voice sufficiently recognizable to cause the "general public" to associate the AI output with the plaintiff or mistake its origin. The court declined to admit the voiceprint evidence as probative, further stating that absent proof of infringement, the plaintiff should tolerate "similarity of voices within reasonable limits." Consequently, all claims were dismissed. With neither party appealing, the judgment became final.
+
+---
+
+[referencia=96d72fb1f1c459ac score=0.915]
+### Controversies and Implications of the "Meng Shuai" Case
+
+The judgement, when made public, sparked a number of questions<sup>*2*3</sup>.
+
+Firstly, the "Basic Security Requirements for Generative Artificial Intelligence Services" (TC260-003)<sup>*4</sup> issued by the National Technical Committee on Cybersecurity of Standardization Administration of China on 29 February 2024 require enterprises to identify infringement risks in training corpora prior to AI training. In this case, however, the court did not compel the defendant to disclose data sources, effectively placing the absolute burden of proving "data infringement" solely on the plaintiff.
+
+Secondly, the technical conclusion of over 90% similarity of voiceprints as biometric evidence with uniqueness and stability was not adopted, leading to a lack of objective evidence to support the court's finding in this case that the AI voice at issue did not have identifiable personal attributes.
+
+Thirdly, the court raised the standard of voice identifiability to a level of fame that the general public needs to be aware of, ignoring the voice-over industry's reliance on specialised identification by vertical sectors (e.g. advertisers, production companies).
+
+Furthermore, the court failed to define the boundaries of "reasonable limits" while imposing a "duty of tolerance" on the plaintiff regarding voice similarity.
+
+Some of the more direct criticisms include, for example, the court's failure to balance technological development and rights protection in applying the principle of “technology neutrality”, allowing enterprises to plead “technological confidentiality”, which in effect removes the burden of proof from enterprises, and eroding the boundaries of the protection of individuals' rights by imposing a duty of tolerance in favour of enterprises, and raising the prerequisites for voice protection to the standard of “recognisability to the general public”, which would essentially deprive non-celebrity voice actors of the right to protect the commercial value of their voices, and would expose most voice actors to the risk of having their voice assets harvested by technology for free.
+
+**It is worth noting** that in June 2025, China's first AI Voice Infringement case was selected as the Supreme People's Court's “Typical Case of Infringement of Personality Rights through the Use of Networks and Information Technology”<sup>*5</sup>. Does this signify the value orientation of the highest judicial authority towards similar cases?
+
+---
+
+[referencia=cb479708bc0dfef5 score=0.658]
+1. 
+          Penguin Random House v. OpenAI (Coconut the Little Dragon)Penguin Random House sued OpenAI's European subsidiary, alleging that ChatGPT unlawfully 'memorised' and can reproduce text, images, and cover designs from Ingo Siegner's German children's book series 'Der kleine Drache Kokosnuss' LG München IFiled Mar 2026Pending
+2. 
+          DJV e.V. v. Süddeutsche ZeitungMunich Regional Court I ruled for DJV and ver.di September 23, 2026, barring Süddeutsche Zeitung's AI-rights clauses for freelancers as intransparent; judgment not yet final LG München IFiled Apr 2025Decided
+3. 
+          GEMA v. SunoDecided — LG München I, 42nd Civil Chamber ruled for GEMA, holding that Suno infringed copyright by reproducing protected works in its models and communicating them to the public through its model and outputs LG München IFiled Jan 2025Decided
+4. 
+          Graphic designer v. internet user (AI-generated logos copyright case)Decided 13 February 2026: A Munich local court held that AI-generated logos in this case did not meet the threshold for copyright protection because they lacked sufficient identifiable human creative influence Amtsgericht MünchenFiled 2025Decided
+5. 
+          Lyricist v. Publisher (AI-modified song lyrics copyright case)Decided (17 December 2025); Kanzlei Plutte reported that the OLG Frankfurt, in a judgment of 1 October 2026 (11 U 2/26), largely rejected the appeal against the injunction Landgericht Frankfurt am MainFiled 2025Decided
+6. 
+          Voice actor v. YouTube creator (AI voice personality rights case)Decided (20 August 2025) — Landgericht Berlin II ordered the YouTuber to pay Manfred Lehmann EUR 4,000 (2 O 202/24) Landgericht Berlin IIFiled 2025Decided
+7. 
+          GEMA v. OpenAIDecided at first instance November 11, 2025 (LG München I, largely for GEMA); OpenAI has appealed to the Munich Higher Regional Court LG München IFiled Nov 2024Decided
+
+---
+
+[referencia=96d72fb1f1c459ac score=0.653]
+### Comparison with China’s First AI Voice Infringement Case
+
+Regarding training data sources - In the first AI Voice case, the defendant admitted exclusively using the plaintiff’s voice samples for AI training. In the Meng Shuai case, the defendant claimed utilization of mixed open-source or lawfully authorized data. The court did not compel disclosure of specific training data sources, leaving factual clarification on whether the plaintiff’s voice was actually used unresolved.
+
+Concerning the association between the accused AI voice and the plaintiff - The first AI Voice case faced no dispute regarding personal association due to the defendant’s admission. In the Meng Shuai case, the court rejected voiceprint evidence demonstrating over 90% similarity, denying a strong personal association between the AI voice and the plaintiff. Technically, human voices possess uniqueness, singularity, and stability through characteristics like voiceprints, timbre, and frequency. Voiceprint analysis conclusions are typically regarded as objective evidence for determining personal attribution.
+
+Regarding the recognizability standard - The first AI Voice case adopted the criterion of "whether ordinary listeners in relevant fields can recognize" the voice (e.g., discernible by professional groups like advertisers or production companies). The Meng Shuai case employed a "must be recognizable by the general public" standard (requiring celebrity-level public awareness).
+
+Additionally, the Meng Shuai case introduced a "duty of tolerance," asserting that voice similarity arising from technology is unavoidable and the plaintiff must tolerate "similarity of voices within reasonable limits." The first AI Voice case did not mention this duty, focusing instead on establishing infringement criteria.
+
+---
+
+[referencia=cb479708bc0dfef5 score=0.607]
+## Cases by country
+
+## Five jurisdictions to watch
+
+**Germany.** In *GEMA v. OpenAI*, the Munich Regional Court held on November 11, 2025 that song lyrics memorized in a model's parameters are reproduced there, and that the EU's text-and-data-mining exception does not cover that. OpenAI has appealed. The same chamber ruled for GEMA against Suno on July 31, 2026 (GEMA v. Suno). AI lawsuits in Germany →
+
+**United Kingdom.** In *Getty Images v. Stability AI* ([2025] EWHC 2863 (Ch), November 4, 2025), the High Court dismissed Getty's secondary copyright claim. Getty had dropped its training claim during the trial because the training took place outside the UK. Getty has permission to appeal. AI lawsuits in the UK →
+
+**India.** In *ANI v. OpenAI*, the Delhi High Court refused ANI's application for an interim injunction against ChatGPT on July 24, 2026. ANI has appealed, and a Division Bench issued notice on the appeal on September 15, 2026. AI lawsuits in India →
+
+**Canada.** The Ontario Superior Court held on November 7, 2025 that it has jurisdiction over six OpenAI entities in the Canadian news publishers' suit (2025 ONSC 6217), and the Federal Court of Appeal revived a proposed copyright class action against Clearview AI (2025 FCA 133). AI lawsuits in Canada →
+
+**China.** The Beijing Internet Court held in *Li v. Liu* (November 2023) that an AI-generated image can be protected by copyright, and the Hangzhou courts held an AI platform liable for its users' LoRA models that generated Ultraman images (affirmed on appeal in December 2024). AI lawsuits in China →
+
+---
+
+[referencia=92d7831272f13c5d score=0.214]
+31 The UK Data (Use and Access) Act 2025. Available from: https://www.legislation.gov.uk/uk pga/2025/18/contents. 
+
+> 32 FRANKS, Esther, Bianca LEE, and Hui XU. Report: China’s New AI Regulations. _Global Privacy Law Review_ [online]. 2024, 5(1), pp. 43–49 [viewed 19 September 2025]. Available from: doi:10.54648/gplr2024007. About the regulatory divergence further illustrates the structural and normative difficulties affecting EU–China economic cooperation, see more in POPА TACHE, Cristina Elena. The EU–China Road to the Comprehensive Agreement on Investment. _Juridical Tribune – Review of Comparative and International Law_ , 2022/4, pp. 476–494. Available from: doi:10.24818/TBJ/2022/12/4.03, p. 476. 
+
+> 33 Bred aftale om deepfakes giver alle ret til egen krop og egen stemme. _Kulturministeriet_ [online]. [no date] [viewed 20 September 2025]. Available from: https://kum.dk/aktuelt/nyheder/bred-aftaleom-deepfakes-giver-alle-ret-til-egen-krop-og-egen-stemme. 
+
+34 DENMARK. The Copyright Act No. 1144 of 23 October 2014 [Lov om ophavsret, jf. lovbekendtgørelse nr. 1144 af 23. oktober 2014]. Available from: https://www.retsinformation.dk/ eli/lta/2023/1093. 
+
+Prospects of Law in Business 168
+
+---
+
+[referencia=92d7831272f13c5d score=0.203]
+# **Identity Under Copyright: Legal Response to the Deepfake Era**<sup>**1**</sup> 
+
+## **Mgr. Daniel ZIGO, PhD., LL.M.** 
+
+daniel.zigo@flaw.uniba.sk ORCID 0000-0003-2414-3471 Assistant Professor, Institute of Clinical Legal Education Faculty of Law, Comenius University in Bratislava Bratislava, Slovakia 
+
+**_Abstract:_** _The exponential growth of artificial intelligence has created new challenges for personal identity protection, particularly through deepfakes, AI-generated, hyper-realistic imitations of human likenesses and performances. This paper situates the problem within the evolving EU and global regulatory landscape, analysing key instruments such as the EU´s AI Act and Digital Services Act (DSA), alongside emerging national approaches. It then focuses on Denmark’s innovative legislative proposal amending its Copyright Act to protect both performing artists and individuals from unauthorized digital replicas. By introducing copyright-like rights over personal likeness, the Danish model offers a novel, though unconventional, mechanism that blurs the line between intellectual property and personality rights. The article critically evaluates this approach and considers its implications for future European harmonization and the balance between protection, expression, and enforcement._ 
+
+**_Keywords:_** _AI, copyright, deepfake, Denmark, DSA,_ _<u>personality protection.</u>_ 
+
+**_JEL Classification:_** K24, K39 
+
+**DOI:** https://doi.org/10.62768/ADJURIS/2025/5/13 
+
+### **Please cite this article as:** 
+
+Zigo, Daniel, „Identity Under Copyright: Legal Response to the Deepfake Era”, in Grmelová, Nicole & Anna Kretková (eds.), _Prospects of Law in Business_ , ADJURIS – International Academic Publisher, Bucharest, Paris, Calgary, 2025, p. 162-173, <u>https://doi.org/10.62768/ADJURIS/2025/5/13.</u>
+
+---
+
+[referencia=96d72fb1f1c459ac score=0.171]
+### References:
+
+1. Intellectual Property Library (知产库), "Voiceover Artist v. AI Voice Big Model Infringement Judgment (配音员诉AI语音大模型侵权案判决书)" (in Chinese), https://mp.weixin.qq.com/s/MG3hhbRpfh3_06S5_t3gYQ.
+
+2. Shang Jianguang (商建刚), "Voiceover Artist v. AI Voice Big Model Infringement Case Commentary (配音员诉AI语音大模型侵权案评析)" (in Chinese), https://mp.weixin.qq.com/s/yIwVt-cc4jul1CyqNm1qYw;
+
+3. Qian Tao, Lawyer, and His Team (钱涛律师团队), "AI Voice-Over in Lawsuit:" Whose Voice Is ‘Meng Shuai’ Imitating? Legal Protection of Voice Rights and Interests from an AI Voice Infringement Case (AI配音惹上官司:“孟帅”是不是在模仿谁的声音？从一起AI语音侵权案看声音权益的法律保护)" (in Chinese), https://mp.weixin.qq.com/s/YCQvcPMSuM7RsmI0iG2ISA.
+
+4. https://www.tc260.org.cn/upload/2024-03-01/1709282398070082466.pdf
+
+5. https://www.court.gov.cn/zixun/xiangqing/467511.html
+
+---
+
+[referencia=92d7831272f13c5d score=0.165]
+The Danish proposal therefore contributes both strengths and open questions to the state of the art. Its main contribution is to reframe the protection of identity through the lens of copyright, thereby offering a more immediate and enforceable cause of action. This in turn highlights a research gap at the European level: should the EU consider harmonizing rules on digital likeness and deepfake misuse through copyright, civil personality rights, or a hybrid model? Furthermore, the Danish initiative underscores the need to study the interaction between national solutions and EU wide instruments, especially in light of the Digital Services Act. The territorial limits of national copyright law suggest that without broader European harmonization, enforcement will remain piecemeal and inconsistent. 
+
+In conclusion, Denmark’s legislative proposal does not offer a perfect solution, nor could any national measure fully resolve the challenges of deepfakes in a global digital environment. Yet it provides an important idea for rethinking how law can respond to AI-generated identity manipulation. Its significance lies less in its immediate territorial impact than in the broader debate it provokes across Europe and beyond. Whether through copyright, personality rights, or innovative hybrid solutions, the task ahead for legislators and scholars is to design 
+
+Prospects of Law in Business 172 
+
+frameworks that secure both human dignity and technological progress in a rapidly evolving digital society.
+
+---
+
+[referencia=92d7831272f13c5d score=0.123]
+> 27 KOREC, _op. cit._ , p. 415. 
+
+Prospects of Law in Business 167 
+
+of non-consensual sexually explicit AI generated or real images.<sup>28</sup> The United Kingdom represents another hybrid model. Traditional intellectual property laws are ill-suited to handle deepfakes, forcing individuals to rely on contractual protection, defamation law, data protection, or the tort of passing off. Passing off is especially difficult to prove for ordinary individuals, since it requires evidence of goodwill and risk of misrepresentation, effectively limiting the remedy to celebrities.<sup>29</sup> More recently, criminal law in the UK has been strengthened by the Online Safety Act 2023 (which, according to some opinions, was not a sufficient mechanism<sup>30</sup> ) criminalized the sharing of intimate deepfakes, and the Data (Use and Access) Act 2025 criminalized even their non-consensual creation, punishable by unlimited fines or up to two years of imprisonment.<sup>31</sup> China has also adopted a strict regulation through its Deep Synthesis Regulations. These rules impose labelling requirements for AI generated content and make platforms directly liable if they fail to prevent harmful dissemination.<sup>32</sup>
+
+---
+
+[referencia=cb479708bc0dfef5 score=0.048]
+## China 4
+
+1. 
+          Beijing Internet Court — Zhou v. Beijing Technology Company (AI image copyright evidence case)Decided and upheld on appeal (announced 16 September 2025) Beijing Internet CourtFiled 2024–2025Decided
+2. 
+          Shanghai Cultural Development Co. v. Hangzhou Intelligent Technology Co. (Ultraman / LoRA AI case)Decided and affirmed on appeal (December 2024) Hangzhou Internet CourtFiled Jan 2024Decided
+3. 
+          Yuewen Group v. Defendant (AI LoRA character image training case — Shanghai)Shanghai Jinshan District People's Court held the user who trained and shared the LoRA model liable on November 3, 2025; the AI platform was not held liable Shanghai Jinshan District People's CourtFiled 2024–2025Decided
+4. 
+          Li v. Liu (AI-generated image copyright case)Decided 27 November 2023: Landmark Beijing Internet Court ruling recognising for the first time in China that an AI-generated image can be protected by copyright and that the human prompter can be the author Beijing Internet CourtFiled 2023Decided
+
+## India 3
+
+1. 
+          Indian Music Industry (IMI), T-Series, Saregama India, Sony Music India v. OpenAIIMI heard as intervenor (I.A. 4027/2025) in ANI v. OpenAI; interim injunction denied July 24, 2026; Division Bench issued notice to OpenAI on ANI's appeal September 15, 2026 Delhi High CourtFiled Feb 2025Pending
+2. 
+          Federation of Indian Publishers (FIP) v. OpenAIPending (parties directed to file separately from ANI suit) Delhi High CourtFiled Dec 2024Pending
+3. 
+          Asian News International (ANI) Media Pvt. v. OpenAI OpCoInterim injunction denied July 24, 2026; Division Bench issued notice on ANI's appeal September 15, 2026 Delhi High CourtFiled Nov 2024Active
+
+---
+
+[referencia=265bc58c04b6709c score=0.048]
+## AI-generated voice mimicry infringes on rights
+
+A Beijing court has issued a landmark ruling that imitating someone's voice through AI without their permission constitutes an infringement of their personal rights.
+
+The verdict, announced Tuesday by the Beijing Internet Court, stems from a lawsuit filed last year by a voice-over artist surnamed Yin, who discovered her voice had been used in audiobooks circulating online without her consent. The voice was reportedly processed using artificial intelligence technology.
+
+Yin sued five companies involved in the unauthorized use of her voice, including a cultural media enterprise that provided her recordings, an AI software developer, and a voice dubbing app operator. She sought compensation for the infringement.
+
+The court found that the cultural media enterprise sent Yin's recordings to the software developer without her permission. The software company then used AI to mimic Yin's voice and offered the AI-generated products for sale.
+
+"The court determined that the AI-generated voice mimicked the plaintiff's vocal characteristics, intonation and pronunciation style to a high degree," said presiding judge Zhao Ruigang. "This level of similarity allowed for the identification of the plaintiff's voice."
+
+Citing China's Civil Code, Zhao ruled that the actions of the cultural media enterprise and the software developer constituted an infringement of Yin's personal rights. The court ordered the two companies to pay her 250,000 yuan ($34,500) in compensation.
+
+The remaining defendants were not held liable for intentional infringement as they unknowingly used the AI-generated voice product.
+
+"The growing use of AI technology across various fields raises new challenges regarding personal rights," Zhao said. He urged companies to exercise caution when using AI to process or generate voices and images, stressing the importance of obtaining consent from the individuals involved.
+
+The case sets a precedent for future disputes concerning the use of AI-generated voices and highlights the need for legal frameworks to address emerging technologies and their impact on personal rights.
+
+---
+
+[referencia=cb479708bc0dfef5 score=0.045]
+## European Union (Court of Justice) 1
+
+1. 
+          Like Company v. Google Ireland Limited (CJEU referral C-250/25)Pending before CJEU — Advocate General Szpunar issued a non-binding opinion November 4, 2026 recommending the Court find no evidence Like Company's articles trained Gemini and that LLM training generally falls under the text-and-data-mining exception Court of Justice of the European UnionFiled Apr 2025Pending
+
+## France 1
+
+1. 
+          SNE, SGDL and SNAC v. Meta PlatformsThree French authors' and publishers' associations allege Meta used their members' copyright-protected literary and creative works without authorisation or consent to train its Llama generative AI model Tribunal Judiciaire de Paris, Troisième ChambreFiled Mar 2025Pending
+
+## Hungary 1
+
+1. 
+          Anonymous Publisher v. Anonymous Online Search Engine ProviderDecided 3 December 2024: Hungarian appeals court held that downloading and storing data in a search engine's index for the purpose of creating AI-generated snippets of press articles was permitted under the TDM exception Budapest Municipal Court of AppealsFiled 2024Decided
+
+## Italy 1
+
+1. 
+          RTI and Medusa Film v. Perplexity AIFirst AI copyright lawsuit in Italy Tribunale di RomaFiled Dec 2025Pending
+
+## United Kingdom 1
+
+AI lawsuits in the United Kingdom →
+
+1. 
+          Getty Images v. Stability AI (UK)Decided Nov 4, 2025 ([2025] EWHC 2863 (Ch)); Getty granted permission to appeal the secondary copyright infringement ruling on Dec 16, 2025 High Court of England and WalesFiled Jan 2023Decided
+
+---
+
+[referencia=cb479708bc0dfef5 score=0.032]
+## How we verify international cases
+
+Each case page lists the sources we checked the entry against: court judgments, orders and press releases where the court publishes them, and law-firm trackers, legal blogs and news reports where it does not. Many courts outside the United States do not publish their dockets, so where a case number or a party's name has not been made public, the entry says so rather than guessing. The court's disposition of *Folha de S.Paulo v. OpenAI* is under seal, so we report only what the parties announced.
+
+Spotted an error or have a court document we should add? editor@ailawsuittracker.com
+
+## All 30 AI lawsuits outside the U.S., by country
+
+---
+
+[referencia=cb479708bc0dfef5 score=0.027]
+Outside the United States, AI cases are decided under different copyright and privacy laws, and the answers have differed. A Munich court has held that a model that memorizes song lyrics reproduces them. An English court has held that a model's weights are not copies of the images it was trained on. Courts in Beijing and Hangzhou have ruled on who owns an AI-generated image and when a platform answers for what its users generate.
+
+## Latest developments
+
+1. 
+          
+          Like Company v. Google Ireland Limited (CJEU referral C-250/25)Court of Justice of the European Union PendingPending before CJEU — Advocate General Szpunar issued a non-binding opinion November 4, 2026 recommending the Court find no evidence Like Company's articles trained Gemini and that LLM training generally falls under the text-and-data-mining exception
+2. 
+          
+          DJV e.V. v. Süddeutsche ZeitungLG München I DecidedMunich Regional Court I (Az. 42 O 5002/25) ruled for DJV and ver.di September 23, 2026, barring Süddeutsche Zeitung's AI-rights clauses for freelancers as intransparent
+3. 
+          
+          Asian News International (ANI) Media Pvt. v. OpenAI OpCoDelhi High Court ActiveDivision Bench issued notice on ANI's appeal September 15, 2026
+4. 
+          
+          Indian Music Industry (IMI), T-Series, Saregama India, Sony Music India v. OpenAIDelhi High Court PendingDivision Bench issued notice to OpenAI on ANI's appeal September 15, 2026
+5. 
+          
+          Robert Kneschke v. LAION e.V. (First instance)Landgericht Hamburg DecidedFurther appeal heard by Federal Court of Justice September 3, 2026, decision pending
+
+## Cases by country
+
+---
+
+[referencia=92d7831272f13c5d score=0.022]
+8 KOREC Branislav, HOCHMANN Roland, and ADAMKOVIČ Marek. Deepfake pornografia - nová výzva v oblasti kyberkriminality. _Justičná revue_ . 2025, 77(4), 414–422. 
+
+9 PAINTER, Richard W. Deepfake 2024: Will Citizens United and Artificial Intelligence Together Destroy Representative Democracy? _SSRN Electronic Journal_ [online]. 2023, 14(121), 120 - 149. [viewed 15 September 2025]. Available from: doi:10.2139/ssrn.4558216. p. 130. 
+
+Prospects of Law in Business 164 
+
+potential of deepfakes. In 2019 fraudsters used AI-generated voice to impersonate a German CEO and trick a UK subsidiary into wiring €220,000.<sup>10</sup> During the war in Ukraine a fabricated video of President Volodymyr Zelenskyy calling on troops to surrender briefly circulated online before being exposed as fake.<sup>11</sup> These developments raise urgent questions about the resilience of democratic processes, the protection of individual rights, and the ability of legal systems to respond effectively. 
+
+Unsurprisingly, governments and international organizations have started to search for appropriate regulatory responses. While the European Union has adopted the AI Act as a horizontal framework, several states have pursued more targeted approaches to address deepfake technology. Among them, Denmark has attracted particular attention for its legislative proposal currently under public consultation. The draft amendment to the Copyright Act<sup>12</sup> seeks to extend protection to artistic performances against deepfake misuse and, more innovatively, to recognize every individual’s right to their digital likeness. 
+
+The purpose of this article is to examine the emerging legal responses to deepfake technology, with particular focus on the Danish legislative proposal amending the Copyright Act. The analysis situates deepfakes within the existing EU regulatory framework and selected international approaches, before turning to Denmark’s innovative copyright-based solution. It then offers a critical assessment of this model with particular attention to the conceptual debate on whether copyright law is the appropriate framework for protecting digital identity, as well as the practical challenges related to enforcement and freedom of expression. Methodologically, the article combines doctrinal legal analysis with comparative insights drawing on both EU law and international regulatory developments.
+
+---
+
+[referencia=92d7831272f13c5d score=0.019]
+## **4. CONCLUSION** 
+
+The phenomenon of deepfakes illustrates both the transformative promise and the disruptive risks of artificial intelligence. As this article has shown, the legal responses to date, whether at the EU level, within individual EU Member 
+
+> 42 WOODS, Cat. Denmark proposes copyright laws to protect against deepfakes. _Law Society Journal_ [online]. 2025 [viewed 21 September 2025]. Available from: https://lsj.com.au/articles/ denmark-proposes-copyright-laws-to-protect-against-deepfakes/. 43 DSA, Article 16. 
+
+Prospects of Law in Business 171 
+
+States, or globally, remain fragmented and insufficient to fully address the challenges posed by the rapid proliferation of digital media. This state of affairs is natural, given that technology advances at a rapid pace and the law will always respond with a certain delay. 
+
+Against this backdrop, the Danish legislative proposal stands out as a particularly innovative attempt to close existing loopholes. By introducing a dual model that protects both performing artists and all individuals against unauthorised digital imitation, Denmark has placed copyright law at the centre of the deepfake debate. The Amendment’s key novelty lies in its extension of copyright style protection to personal likenesses. Unlike traditional civil personality rights, which usually require proof of disproportionate interference with dignity, the Danish model establishes infringement automatically whenever a likeness is used without consent. This lowers the evidentiary threshold for victims and potentially strengthens the ability to remove harmful content from online platforms, particularly in synergy with the obligations of the Digital Services Act. 
+
+At the same time, the proposal raises several conceptual and practical challenges. On the doctrinal level, it risks commodifying human identity by treating likeness as property capable of ownership and licensing. From a practical perspective, enforcement is likely to remain difficult. Many deepfake creators are anonymous, use foreign servers, and operate outside EU jurisdiction. Even with stronger rights in hand, victims may struggle to identify infringers or to obtain remedies across borders. Moreover, the inclusion of exceptions for parody, satire, and critique, while essential to safeguard freedom of expression, will inevitably generate uncertainty and litigation over the scope of lawful versus unlawful deepfakes.
+
+---
+
+[referencia=cb479708bc0dfef5 score=0.017]
+## Denmark 2
+
+1. 
+          KODA v. Suno AIKODA alleges Suno trained its AI model on Danish artists' copyrighted songs without permission or payment, and that Suno concealed the scope and sources of its training data Copenhagen City Court, DenmarkFiled Nov 2025Pending
+2. 
+          BoligPortal A/S v. ReData (database rights opt-out case)Decision reversed on appeal — First-instance preliminary injunction was overturned by the Danish Eastern High Court May 12, 2026 Maritime and Commercial High Court (Sø- og Handelsretten), first instanceFiled Jul 2025Decided
+
+## Netherlands 2
+
+1. 
+          Pictoright c.s. v. Meta PlatformsInterim judgments issued; expert investigation proceeding; final judgment pending Rechtbank AmsterdamFiled Oct 2023Active
+2. 
+          DPG Media B.V., Mediahuis Nederland B.V. and Mediahuis NRC B.V. v. Knowledge Exchange B.V. (HowardsHome)Decided (30 October 2024); CMS's case tracker reported, as at April 2026, that an appeal has been filed Rechtbank AmsterdamFiled 2023Decided
+
+## Brazil 1
+
+1. 
+          Folha de S.Paulo v. OpenAI (Brazil)Lawsuit ended by OpenAI content licensing agreement with Folha and UOL announced May 25, 2026 (court disposition under seal) Tribunal de Justiça de São Paulo / São Paulo business court (first instance)Filed Aug 2025Settled
+
+## Czech Republic 1
+
+1. 
+          S. Š. v. Taubel Legal (AI-generated image authorship case)Decided 11 October 2023: The Municipal Court in Prague held that authorship under the Czech Copyright Act is reserved to natural persons, so an image produced by an AI tool from a short text prompt cannot itself attract copyright Městský soud v PrazeFiled Jun 2023Decided
+
+---
+
+[referencia=92d7831272f13c5d score=0.013]
+## **1. INTRODUCTION** 
+
+The rapid development of artificial intelligence (AI) in recent years has been nothing short of extraordinary. AI, long present in academic and technological discourse, has in recent years quickly become an integral part of nearly every sector of human activity. From industrial automation and financial services to healthcare, education, and entertainment, AI systems are now deeply embedded 
+
+> 1 Funded by the EU NextGenerationEU through the Recovery and Resilience Plan for Slovakia under the project No. 09I05-03-V02-00038. 
+
+Prospects of Law in Business 163 
+
+in processes that save time, reduce costs, and generate entirely new forms of value. They enhance access to knowledge, foster innovation, and stimulate economic growth on a global scale<sup>2</sup> , driven in large part by massive investments from big tech companies<sup>3</sup> . In this respect, AI represents one of the most powerful drivers of human progress in the 21<sup>st</sup> century. Yet, the very power that makes AI transformative also makes it disruptive. Throughout history humans have attempted to distort or manipulate reality using various media: altered photographs<sup>4</sup> , falsified documents, edited audio or video recordings. Such practices were once resource-intensive, demanding professional equipment and technical expertise. Today, AI tools have radically changed this landscape: realistic digital imitations can be generated by virtually anyone with an internet connection. 
+
+In this context, the phenomenon commonly referred to as deepfake has emerged. According to the EU’s Artificial Intelligence Act<sup>5</sup> (“AI Act”) deepfake content encompasses image, audio, or video material that has been generated or manipulated through AI that resembles existing persons, objects, places, entities, or events, and would falsely appear to a person to be authentic or truthful<sup>6</sup> . Deepfakes, therefore, embody the ambivalent nature of AI<sup>7</sup> : on the one hand, they showcase its extraordinary creative potential, on the other, they illustrate its capacity to produce significant social, legal, and political risks. Indeed, recent years have brought a series of alarming cases. Deepfakes have been used to commit fraud, damage reputations, spread non-consensual pornography<sup>8</sup> , and even attempt to manipulate electoral outcomes by circulating fabricated speeches or “secret” political messages.<sup>9</sup> Real-world cases already demonstrate the disruptive

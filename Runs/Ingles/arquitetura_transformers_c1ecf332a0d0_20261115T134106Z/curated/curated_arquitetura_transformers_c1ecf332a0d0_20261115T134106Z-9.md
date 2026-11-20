@@ -1,0 +1,298 @@
+[referencia=648f5b67423d0934 score=0.950]
+This is obviously different from the attention mechanism in Bahdanau. In Bahdanau, the authors use *cross-attention*, which is attention where the queries come from one set and the keys and values come from a different set. As you can imagine, typically the keys and values come from the same set, although they might have their own maps or projections such that they are correlated but not identical. For example, we might run a query against restaurants (keys) and also return restaurants (values). However, *self-attention* is when the queries, keys, and values all come from the same set of variables! To continue abusing our running example, we essentially compute the similarity between restaurants of interest and restaurants we have data about, and then use those weights to return a weighted combination of restaurants!
+
+To my knowledge, the first paper to use self-attention in NLP was *Long short-term memory-networks for machine reading* (Cheng et al., 2016). This model is a bit complicated, and I don’t think it’s that important to understand here. The key point is only to grok that attention does not have to be cross-attention as in Bahdanau. Instead, we can have a sequence attend to itself to decide what parts of the sequence matter—or self-attention! This is how this idea was described in the paper:
+
+  A remaining practical bottleneck for RNNs is memory compression (Bahdanau et al., 2014): since the inputs are recursively combined into a single memory representation which is typically too small in terms of parameters, it becomes difficult to accurately memorize sequences (Zaremba & Sutskever, 2014). In the encoder-decoder architecture, this problem can be sidestepped with an attention mechanism which learns soft alignments between the decoding states and the encoded memories (Bahdanau et al., 2014). In our model, memory and attention are added within a sequence encoder allowing the network to uncover lexical relations between tokens.
+
+
+The important phrase here is “within a sequence encoder”. Here, the attention is not applied across the encoder and decoder but rather is applied as intra- or self-attention within the encoder.
+
+---
+
+[referencia=648f5b67423d0934 score=0.948]
+## Adaptive context
+
+In my mind, Kalchbrenner, Cho, and Sutskever’s three papers (Kalchbrenner & Blunsom, 2013; Cho et al., 2014; Sutskever et al., 2014) were the foundations of sequence-to-sequence modeling, and many other papers have built around and off this core idea. But the key point for us here is that these three papers make the same logic choice: they lift the idea of a fixed-length embedding for words or phrases into the context vector of a sequential model, such that the models can now support variable-length inputs and outputs and long-range dependencies in each.
+
+However, a problem with this approach was that long-range dependencies got “lost” in this context vector. For example, imagine we had a very long English language text that we wanted to translate into Chinese. Even if our encoder LSTM was good at capturing long-range dependencies in the English sentence, it would be forced to compress that information into a much shorter, fixed-width vector with no temporal structure that would then be fed into the decoder.
+
+This effect was observed by Cho et al in *On the properties of neural machine translation: encoder–decoder approaches* (Cho et al., 2014). In this paper, the authors write:
+
+  Our analysis shows that the performance of the neural machine translation model degrades quickly as the length of a source sentence increases.
+
+
+And later:
+
+  The most obvious explanatory hypothesis is that the fixed-length vector representation does not have enough capacity to encode a long sentence with complicated structure and meaning.
+
+
+The authors test this hypothesis through a variety of experiments. For example, in one experiment, they report the BLEU score for an RNN encoder–decoder as a function of sequence length, and they show that the model’s performance degrades as the sentences become longer. So the RNN decoder–encoder was promising, but the fixed-width context vector was a bottleneck on modeling long-range dependencies.
+
+Then in 2014, a seminal paper was published that addressed this problem, *Neural machine translation by jointly learning to align and translate* (Bahdanau et al., 2014). The main invention of this paper was to use the well-known *attention mechanism* to attend to this context vector. However, the authors barely use the word “attention” in the paper. Instead, they seem to conceptualize it more as a search problem:
+
+---
+
+[referencia=648f5b67423d0934 score=0.816]
+  In this paper, we conjecture that the use of a fixed-length vector is a bottleneck in improving the performance of this basic encoder–decoder architecture, and propose to extend this by allowing a model to automatically (soft-)search for parts of a source sentence that are relevant to predicting a target word, without having to form these parts as a hard segment explicitly.
+
+
+I say this paper is “seminal” because, at least to my knowledge, it was really the first paper to use a differentiable attention layer in the rapidly-growing field of NMT. To be clear, the attention mechanism was already known and used outside of NLP. For example, see *Learning to combine foveal glimpses with a third-order Boltzmann machine* (Larochelle & Hinton, 2010), *Learning where to attend with deep architectures for image tracking* (Denil et al., 2012), or *Recurrent models of visual attention* (Mnih et al., 2014). These were all papers that were published between 2010 and 2014 and that applied an attention mechanism to a neural network computer vision system. However, to my knowledge, Bahdanau was the first paper to successfully use attention in NLP. To quote *Effective approaches to attention-based neural machine translation* (Luong et al., 2015):
+
+  In the context of NMT, Bahdanau et al… has successfully applied such attentional mechanism to jointly translate and align words. To the best of our knowledge, there has not been any other work exploring the use of attention-based architectures for NMT.
+
+
+All that said, “jointly align and translate” is pretty vague, so let’s get technical. Bahdanau’s solution to this bottleneck was to allow each hidden state vector in the decoder to pay attention to possibly all the hidden state vectors in the encoder. What do I mean by “pay attention to”? Here, each decoder hidden state variable depends not only on the previous hidden state and previous word but also on its own context vector, which is a weighted combination of the encoder’s hidden states!
+
+
+This is the main idea of the paper. Each decoder hidden state  has access to *all* the hidden states in the encoder via this context vector  (Figure ).
+
+---
+
+[referencia=648f5b67423d0934 score=0.509]
+Let me give an example (Figure ). Imagine I type some text into a search bar: “indian food near me”. This text is the query. Now imagine the search engine runs that query against a bunch of metadata associated with different restaurants. For example, restaurant descriptions, keywords, reviews, ratings, and distances from my location. These metadata are the *keys*. So the query is “run against” the keys. Finally, the thing returned are candidate restaurants. These are *values*. In the language of information retrieval, we can describe the attention mechanism as a kind of soft-search, since it can return a linear combination of the values. As you may recall, this is precisely how Bahdanau described their model in the quote above.
+
+So in Bahdanau’s RNN encoder–decoder, the decoder’s hidden states are the queries, since for each hidden state we want to search through the source sentence. The encoder’s hidden states are the keys, since these are the metadata associated with the source sentence that we can search through. Finally, the encoder’s hidden states are also the values, since the context vector is a weighted combination of these encoder hidden states. This language is useful because it disambiguates the attention mechanism from a specific choice of model and even from which variables in that model are being used for what.
+
+Now that we understand this terminology, we can express ourselves more cleanly and abstractly. And with this terminology, it becomes clear that the keys, queries, and values need not be different objects in our model at all! In fact, queries, keys, and values can all be taken from the same set. For example, imagine we have a model with a hidden state . This is not necessarily the hidden state of an RNN or even a sequential model. We could define a kind of attention such that the queries (), keys (), and values () are all functions of this hidden state:
+
+---
+
+[referencia=648f5b67423d0934 score=0.508]
+That’s it. Properly understood in context, the transformer is a modest conceptual leap from the existing literature. My point is not that the transformer is “obvious” in the sense that it is not an impressive invention. My point is to demystify the research product by underscoring the process. In context, the transformer should make sense as something someone might have tried in 2017.
+
+The model architecture might look intimidating, but it is pretty straightforward when viewed in the right context (Figure ). At a high level, the transformer is an encoder–decoder, with two big kinds of attention. First, we have cross-attention between the outputs of the encoder and the inputs to the decoder. This is completely analogous to the cross-attention in Bahdanau and others. But then we also have self-attention within the decoder and encoder. This completely replaces the recurrence relations of RNNs. Finally, the model uses something called *positional encoding*, which I’ll define shortly, to handle the fact that attention is not naturally sequential a la an RNN. Everything else is details. For example, the transformer also uses layer normalization (Ba et al., 2016) and residual connections (He et al., 2016), but these are not unique or novel contributions. Even multi-head attention is not conceptually hard. So understood in context, the transformer is pretty straightforward. Let’s go through the main bits in detail.
+
+First, positional encoding. A key challenge for the attention mechanism is that it does not inherently capture sequential structure. Thus, the relative positions of words in a sequence can be easily lost. In Vaswani, the authors propose attaching vectors of numbers to the inputs to capture this position-dependent information. The precise functional form of these numbers doesn’t really matter to us. The point is that we’re encoding the position of each word so that we can still model the sequential structure of natural language.
+
+After adding position-dependent information, the transformer encodes the input sequence. But rather than passing the data through an RNN, it passes the data through multi-head attention layers. We’ll discuss “multi-head” in a moment, but the basic attention mechanism is what the authors call *scaled-dot product attention*. Let’s define it. Let  be a matrix of queries, let  be a matrix of keys, and let  be a matrix of values. Then scaled dot-product attention is:
+
+---
+
+[referencia=648f5b67423d0934 score=0.496]
+## The transformer
+
+In 2017, researchers at Google Brain published *Attention is all you need* (Vaswani et al., 2017), which is the original paper introducing the transformer architecture. This was their proposal, which I hope now makes sense given the context so far:
+
+  The dominant sequence transduction models are based on complex recurrent or convolutional neural networks that include an encoder and a decoder. The best performing models also connect the encoder and decoder through an attention mechanism. We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.
+
+
+The authors acknowledge that the sequence-to-sequence framework with neural networks was state-of-the-art, and they specifically call out the RNN encoder–decoder architecture with attention from Bahdanau, Luong, and others. Their proposal is simple: keep the encoder–decoder framework but replace everything else with attention.
+
+How might someone have come to this idea at the time? Why would it be a good idea to try? Their observation is that the sequential nature of RNNs inhibits training these models at scale:
+
+  Recurrent models typically factor computation along the symbol positions of the input and output sequences. Aligning the positions to steps in computation time, they generate a sequence of hidden states , as a function of the previous hidden state and the input for position . This inherently sequential nature precludes parallelization within training examples, which becomes critical at longer sequence lengths, as memory constraints limit batching across examples.
+
+
+Their proposal is to use attention rather than RNNs to uncover dependencies within the input and output sequences. This is a good idea to try not because attention is obviously better than recurrence per se. It’s that attention is parallelizable! They write:
+
+  The Transformer allows for significantly more parallelization and can reach a new state of the art in translation quality after being trained for as little as twelve hours on eight P100 GPUs.
+
+
+We have seen this before. Recall how the unlock for word embeddings in (Mikolov et al., 2013; Mikolov et al., 2013) was simplifying the models and focusing on scale. But then the RNN encoder–decoder architecture in (Bahdanau et al., 2014) with attention took us backwards in terms of model complexity. So the transformer is a similar story: take the best modeling ideas, strip them down, and train the simplified model at scale.
+
+---
+
+[referencia=648f5b67423d0934 score=0.496]
+The second dimension along which we can define attention is how we define the alignment weights . For example, the simplest choice is simply that  is a one-hot vector, such that  selects a single encoder hidden state vector  to use in the -th decoding step. This would be hard- rather than soft-search. But more generally, we can write these alignment weights as the unnormalized output of a *score function*. Using the notation from Equation  above, we can write this as:
+
+
+And in Luong, the authors explore three main scoring functions. These are *dot-product attention*, *general attention*, and *additive attention*, defined as:
+
+
+Of course, you can imagine many other score functions. My own view is that it’s too difficult here to reason about which form of attention is better in some theoretical sense. Which form works best is an empirical result. In (Luong et al., 2015), the empirical results were mixed in the sense that all three score functions worked well. In fact, the results weren’t even strong enough for the authors to claim that attention-based methods were demonstrably better. This was their conclusion:
+
+  Our analysis shows that attention-based NMT models are superior to non-attentional ones in many cases, for example in translating names and handling long sentences.
+
+
+So by late 2015, just two years before the transformer, attention was just becoming popular in NMT but was not yet the de facto modeling choice.
+
+That said, obviously this will change, and when it does, there will be a clear winner amongst the choices above, and that winner is dot-product attention. Dot-product attention is the variant used by the transformer, and thankfully, in my mind it is the most intuitive since the dot product is a standard way to measure the similarity between two vectors. So we can interpret the dot-product score function as measuring the similarity between the encoder and decoder hidden states.
+
+The third and final dimension along which we can define attention is through the variables of interest. In order to understand what I mean, we can no longer refer to attention in terms of hidden states of RNNs. We need more general terminology. In the literature, attention is often viewed through the lens of information retrieval. In this literature, a *query* is what you are asking for; a *key* is what you can search through; and a *value* is what you can return.
+
+---
+
+[referencia=648f5b67423d0934 score=0.463]
+So (Kalchbrenner & Blunsom, 2013) was a landmark paper in the sense that it was the first attempt at a sequence-to-sequence model, but with hindsight we can immediately see how to improve it with a better sequential model for the encoder. And that is precisely what happens in two follow up papers. First, in *Learning phrase representations using RNN encoder–decoder for statistical machine translation* (Cho et al., 2014), the authors propose the first encoder–decoder architecture in which both neural networks were RNNs. And then in *Sequence to sequence learning with neural networks* (Sutskever et al., 2014), the authors proposed a similar model but using LSTMs, since LSTMs often work better at handling the aforementioned vanishing gradient problem. In this paper, Sutskever makes the connection to Kalchbrenner explicitly:
+
+  Our work is closely related to Kalchbrenner and Blunsom, who were the first to map the input sentence into a vector and then back to a sentence, although they map sentences to vectors using convolutional neural networks, which lose the ordering of the words.
+
+
+As a nitpick, convolutional neural networks do model local patterns and order, but they lose global order without very large receptive fields. But Sutskever’s point is directionally correct. So even at the time, the academic history we are tracing here was clear.
+
+To understand these models in a bit more detail, let’s go through the RNN encoder–decoder in (Cho et al., 2014), using Figure as a reference. Let be a variable-length input sequence with length , and let be a variable-length output sequence with length :
+
+
+Note that is a single observation pair, but I am suppressing the sample index for ease of notation. Also, I bold each vector in both sequences because they are embedded words.
+
+In an RNN, we iteratively compute hidden state variables over steps, where for the -th step we define a recurrence relation between hidden states as:
+
+
+This might be a little abstract. So concretely, a simple RNN network might instantiate as the following nonlinear function of the current word embedding and the previous hidden state:
+
+---
+
+[referencia=648f5b67423d0934 score=0.373]
+The important phrase here is “within a sequence encoder”. Here, the attention is not applied across the encoder and decoder but rather is applied as intra- or self-attention within the encoder.
+
+So circa 2017, attention was being studied in its many forms: local versus global, additive versus multiplicative, and cross versus self. And it was being more widely used in NLP, with papers like *A structured self-attentive sentence embedding* (Lin et al., 2017) and *Bidirectional attention flow for machine comprehension* (Seo et al., 2016). That said, I do not think any specific form was clearly the dominant one. Rather, each showed promise in its own way. For example, in March 2017, Google Brain published *Massive exploration of neural machine translation architectures* (Britz et al., 2017). This was published just months before the transformer would be published, and even here, attention is only a minor player. In that paper’s conclusions, the authors list six main results, and the only one about attention is a single sentence:
+
+  Parameterized additive attention yielded the overall best results.
+
+
+Notice that additive attention is not even the form of attention used by the transformer!
+
+So at least as best as I understand it, attention was well-understood and widely-studied in 2017, but it was by no means considered the main ingredient or the next logical step. Many researchers were still pushing the limits of training RNNs at scale, rather than trying other approaches. See *Exploring the limits of language modeling* (Jozefowicz et al., 2016) for example. However, in June 2017, all that was about to change. The transformer’s time had come.
+
+---
+
+[referencia=648f5b67423d0934 score=0.363]
+This is the main idea of the paper. Each decoder hidden state  has access to *all* the hidden states in the encoder via this context vector  (Figure ).
+
+We can finally define the attention mechanism! Here, it is the weighted sum of hidden state vectors, as this allows each to attend to different parts of the input sequence through its hidden state. Each weight is a linear function of the previous decoder hidden state and the current encoder hidden state :
+
+
+Let’s call  the an *alignment vector*, which we infer one per step at a time during the decoding process.
+
+So can be viewed as a shared hidden state, capturing nonlinear information about both the input and output sequence. Importantly, there is one such vector for each input-output pair. And for a given decoder hidden state, the model can up or downweight the relationship to via the parameters . The neural network learns all these model parameters end-to-end via back-propagation, maximizing the log likelihood in Equation .
+
+So that’s it. As I understand it, (Bahdanau et al., 2014) was really the first paper to use attention in neural machine translation and probably the most successful use of attention in NLP at the time. The method worked surprisingly well. To quote the paper’s conclusion:
+
+  Perhaps more importantly, the proposed approach achieved a translation performance comparable to the existing phrase-based statistical machine translation. It is a striking result, considering that the proposed architecture, or the whole family of neural machine translation, has only been proposed as recently as this year.
+
+
+As an aside, they actually use a bidirectional RNN for the encoder and then concatenated the forward and backward hidden states. But I don’t think that adds much to our story or to intuition, and it would muddy Figure . The key point is that it was the attention mechanism that allowed for the long-range dependencies encoded by the RNN to be captured through an adaptive context vector. Hopefully, we can now see why the paper uses the words “align and translate”. Here, *alignment* really means allowing the model to uncover which parts of the input sequence matter to each part of the output sequence—and it does this via the attention mechanism.
+
+Finally, while writing this blog post, I came across this incredible comment by Edward Grefenstette, published on 3 May 2014:
+
+---
+
+[referencia=648f5b67423d0934 score=0.307]
+43. Kalchbrenner, N., & Blunsom, P. (2013). Recurrent convolutional neural networks for discourse compositionality. *ArXiv Preprint ArXiv:1306.3584* .
+44. Cho, K., Van Merriënboer, B., Gulcehre, C., Bahdanau, D., Bougares, F., Schwenk, H., & Bengio, Y. (2014). Learning phrase representations using RNN encoder-decoder for statistical machine translation. *ArXiv Preprint ArXiv:1406.1078* .
+45. Sutskever, I., Vinyals, O., & Le, Q. V. (2014). Sequence to sequence learning with neural networks. *Advances in Neural Information Processing Systems* ,*27* .
+46. Baum, L. E., & Petrie, T. (1966). Statistical inference for probabilistic functions of finite state Markov chains. *The Annals of Mathematical Statistics* ,*37* (6), 1554–1563.
+47. Socher, R., Perelygin, A., Wu, J., Chuang, J., Manning, C. D., Ng, A. Y., & Potts, C. (2013). Recursive deep models for semantic compositionality over a sentiment treebank. *Proceedings of the 2013 Conference on Empirical Methods in Natural Language Processing* , 1631–1642.
+48. Gammerman, A., Vovk, V., & Vapnik, V. (2013). Learning by transduction. *ArXiv Preprint ArXiv:1301.7375* .
+49. Cho, K., Van Merriënboer, B., Bahdanau, D., & Bengio, Y. (2014). On the properties of neural machine translation: Encoder-decoder approaches. *ArXiv Preprint ArXiv:1409.1259* .
+50. Bahdanau, D., Cho, K., & Bengio, Y. (2014). Neural machine translation by jointly learning to align and translate. *ArXiv Preprint ArXiv:1409.0473* .
+
+---
+
+[referencia=648f5b67423d0934 score=0.305]
+This might be a little abstract. So concretely, a simple RNN network might instantiate as the following nonlinear function of the current word embedding and the previous hidden state:
+
+
+The matrices hopefully have obvious dimensions, and we can initialize the first hidden state vector however we like, such as a vector of all zeros. This is simply one choice, though. We can imagine many types of choices, such as a vanilla RNN unit or an LSTM unit. The key point is that the hidden state vectors
+
+
+carry forward information from previous words in the sequence via these recurrent connections, much like a hidden Markov model (Baum & Petrie, 1966). A powerful consequence of this model is that RNNs do not limit the size of the input context window. Different input sequences  can be different sizes, unlike in the -gram model or in Bengio’s model (Equation ). See Andrej Karpathy’s excellent blog post, *The unreasonable effectiveness of recurrent neural networks*, for a more detailed presentation of RNNs.
+
+Finally, we define the *context vector*  as some function of the hidden states:
+
+
+Notice that does not have a time index, because it compresses all the temporal information in the input sequence into a fixed-width vector. The easiest definition of is simply as the last hidden state vector or .
+
+This context vector becomes an input to the decoder, another RNN with recurrence relation
+
+
+and hidden states
+
+
+The decoder then outputs the sequence , one word at a time. The typical objective of a sequence-to-sequence model is again the autoregressive objective of next-word prediction: maximize a log likelihood, in which each conditional probability is modeled via the decoder RNN:
+
+
+Again, this might be a bit abstract. So for example, one possible instantiation of is as a linear transformation of the input variables:
+
+
+Of course, this is just one choice.
+
+Then all the model weights are learned end-to-end by optimizing this log likelihood (Equation ). In this way, we can convert a variable-length input into a variable-length output .
+
+---
+
+[referencia=648f5b67423d0934 score=0.272]
+## Types of attention
+
+The attentive reader might be wondering: wasn’t the argument around log-linear models that they were simple and therefore scalable? But Bahdanau’s RNN encoder–decoder with attention seems anything but simple. So on some level, yes, Bahdanau’s model was a step backwards in terms of complexity. But on another level, it was a proof-of-concept that the attention mechanism worked. (Also, Moore’s law.) So researchers quickly built on Bahdanau by studying simpler models and simpler types of attention.
+
+Perhaps the most important paper to directly build on Bahdanau’s model was (Luong et al., 2015). In this paper, the authors simplified the model used by Bahdanau, proposed several alternative forms of attention, and showed that an ensemble of attention-based methods produced state-of-the-art results on neural machine translation problems. To be clear, Bahdanau had shown that attention worked and that it seemed to address problems in translating longer sentences, but it did not demonstrably beat the state-of-the-art. Luong’s results more directly suggested that attention might be the way forward. So before we get to the transformer, let’s understand the attention mechanism better through the lens of this paper.
+
+The first dimension along which we can define attention is local versus global attention. For example, in the attention mechanism in an RNN encoder–decoder, the conceptual lynchpin is that at each time step in the decoding phase, we construct a context vector which summarizes information from the source sentence via the encoder’s hidden states:
+
+
+But now I don’t precisely define the limits of the sum,  and . If  and , then the context vector is constructed by considering all the hidden states of the source sentence. This is what Luong calls *global attention* (Figure , left), since each word in the target sentence has access to information about all the words in the source sentence. But we could also define  and  such that they form a window around the decoder’s hidden state or model the left-to-right structure of many natural languages. This is what Luong calls *local attention* (Figure , middle). So these are two ways in which we can construct the context vector .
+
+---
+
+[referencia=648f5b67423d0934 score=0.216]
+## Long-range dependencies
+
+By 2013, word- and phrase-level embeddings demonstrably worked. The key to unlocking them was simple methods that scaled on modern hardware. However, the problem with these embeddings is that they were still with respect to a fixed window. It was not immediately obvious how this idea could be extended to longer phrases or sentences or to larger texts. Of course, researchers had tried. For example, (Collobert & Weston, 2008) used the idea of time-delay neural networks (Waibel et al., 1989) to model sentences of variable lengths, but the authors used convolutions that still had a fixed-width window size. The embedding itself, then, was not constructed while accounting for long-range dependencies. So word embeddings, while a beautiful idea, only set the stage for the next big idea in our history: tackling the problem of modeling long-range dependencies without an explicit context window.
+
+The key innovation here was *sequence-to-sequence* models. In a sequence-to-sequence model, a neural network encodes a variable-length input sequence into a fixed-length vector, while a second neural network decodes this fixed-length vector back into a variable-length output sequence. In both Bengio and Mikolov’s papers, the input was an embedding ( in Equations  and ). In a sequence-to-sequence model, this intermediate fixed-length vector is now the word embedding. The precise architectures used for the encoder and decoder can vary, but clearly they should be architectures that support variable-length sequences, such as recurrent neural networks (RNNs) or LTSMs.
+
+To me, the most intuitive example of a sequence-to-sequence model is a translation model. The input sequence is a sentence in a *source language* like English, and the output sequence is a sentence in a *target language* like Chinese (Figure ). And since some of the most important early work in sequence-to-sequence modeling was in *neural machine translation* (NMT), I’ll often use translation as a default example. However, the more general case is any mapping from one sequence to another.
+
+---
+
+[referencia=648f5b67423d0934 score=0.215]
+This idea is fairly straightforward; it is analogous to an auto-encoder but for variable-length sequences, and auto-encoders (Bourlard & Kamp, 1988) are nearly as old as back-propagation. However, as we have already seen, even seemingly simple ideas are hard-won. The original work in RNNs and LSTMs goes back to at least the early 1990s, with seminal papers like *Finding structure in time* (Elman, 1990), *Serial order: A parallel distributed processing approach* (Jordan, 1997) and *Long short-term memory* (Hochreiter & Schmidhuber, 1997). By the 2010s, these sequential models were well-known and already used in NLP. See (Mikolov et al., 2010; Sutskever et al., 2011; Graves, 2013) for example. These models were an important bridge, proving that we could train RNNs at scale and overcome the vanishing gradient problem discussed in *Learning long-term dependencies with gradient descent is difficult* (Bengio et al., 1994). But they were not yet sequence-to-sequence models.
+
+To my knowledge, the first paper to propose a full encoder–decoder architecture for NLP was *Recurrent continuous translation models* (Kalchbrenner & Blunsom, 2013). Here, the authors proposed training two neural networks end-to-end. The decoder was an RNN, inspired by the model in (Mikolov et al., 2010). But somewhat surprisingly, the encoder was not also an RNN. With hindsight, two RNNs feels like the obvious choice, but instead the authors used a *convolutional sentence model* (CSM). The details don’t really matter here, but this is essentially an NLP model which uses convolutional layers. Why this choice? Well, CSMs were actually developed by the same authors in the same year, in *Recurrent convolutional neural networks for discourse compositionality* (Kalchbrenner & Blunsom, 2013), and my hypothesis is that this choice just felt obvious to them at the time.
+
+---
+
+[referencia=648f5b67423d0934 score=0.205]
+Note that “masked” in “masked multi-head self-attention” just refers to a masking out of words in the decoder’s self-attention mechanism. This is because attention has no inherent sequential structure a la RNNs. So we have to enforce this by masking regions of the output sequence (Figure , right). This allows the transformer to be trained in the standard autoregressive framework we have discussed since (Bengio et al., 2003).
+
+Finally, the transformer learns multiple sets of parameters associated with the attention mechanism at once. This is what the paper calls *multi-head attention*. Instead of having a single attention function, we can run multiple attention functions in parallel, say  times. By way of analogy, recall that in the RNN encoder–decoder, we had the following attention parameters (Equation ):
+
+
+In Bahdanau (Equation ) the subscript  just denotes that these are attention-related weights. It is not actually indexing into multiple such weights (that is, ). But we *could* do that. We could say that  is indexing into different parameters, . This would have made Bahdanau’s model slower to train, but it would have allowed for multiple cross-attention mechanisms to be learned at once. In Bahdanau, they don’t actually do this, likely because it’s too expensive! The precise details are different in Vaswani, but this is all multi-head attention is in theory. It is multiple parallel attention mechanisms.
+
+---
+
+[referencia=648f5b67423d0934 score=0.175]
+When I first read Vaswani, I had not yet read Bahdanau or Luong, and thus I was completely confused by Equation . It was not at all obvious what any of these values represented or why any of this machinery worked. And the paper itself gave a pretty opaque explanation:
+
+  An attention function can be described as mapping a query and a set of key-value pairs to an output, where the query, keys, values, and output are all vectors. The output is computed as a weighted sum of the values, where the weight assigned to each value is computed by a compatibility function of the query with the corresponding key.
+
+
+Without context, this explanation is not very helpful. However, armed with a better understanding of attention, we can make sense of this. In the cross-attention between the encoder and decoder, the queries are analogous to the hidden states of the RNN decoder, while the keys and values are analogous to the hidden states of the RNN encoder. And we can rewrite Equation in a way that looks like the types of attention in Equation :
+
+
+So this is identical to the multiplicative or dot-product attention proposed in Luong (Equation ), modulo a scaling factor . In Equation , we are just packaging it into a matrix form so that we can compute this attention over many samples at once. In other words, this is a highly parallelizable version of the dot-product attention.
+
+I think one of the reasons the transformer can be confusing is the use of two types of attention and the generic language of queries, keys, and values, whose definitions change depending on the type of attention. In the encoder, the transformer uses self-attention. So the query represents the current vector in the input sequence, while the keys and values are all the other vectors in the input sequence. And in the decoder, the query represents the current vector in the output sequence, while the keys and values are all the other vectors in the output sequence—modulo masking, which I’ll mention in a moment. Finally, the attention between the encoder and decoder (in the paper, Vaswani calls this “encoder–decoder attention”), the query is the current vector in the decoder output (analogous to in the RNN encoder–decoder), while the keys and values are the encoder’s hidden outputs (analogous to in the RNN encoder–decoder).
+
+---
+
+[referencia=648f5b67423d0934 score=0.152]
+While these two Mikolov papers are landmark papers on learning word embeddings at scale, they are by no means the only ones. Many other researchers worked in this area. Perhaps the most famous paper on word embeddings that we do not have time to discuss is *GloVe: Global vectors for word representation* (Pennington et al., 2014). In this paper, the authors present a unifying view between two common methods for learning word embeddings, global matrix factorization methods and local context window methods. But there were many others as well, such as *Skip-thought vectors* (Kiros et al., 2015), *Word embeddings through Hellinger PCA* (Lebret & Collobert, 2013), and *Eigenwords: spectral word embeddings* (Dhillon et al., 2015) to cite just a few illustrative examples.
+
+For ease of presentation, I have focused on word-level embeddings. But the idea was naturally and quickly extended to larger contexts. This was motivated by the fact that a word’s meaning is obviously context-dependent (polysemy). For example, the word “bank” might refer to a financial institution or the side of a river. A word embedding for “bank” that is not context dependent must somehow flatten this distinction. So lack of context is obviously a limitation.
+
+Researchers tackled this through a variety of approaches. One approach was to use the hidden states of a bidirectional long short-term memory network (LSTM) as context-specific embeddings as in *context2vec: Learning generic context embedding with bidirectional LSTM* (Melamud et al., 2016) or *Learned in translation: contextualized word vectors* (McCann et al., 2017). But perhaps the most noteworthy example of this idea—and one I mention here because it will come up later—was *Deep contextualized word representations* (Peters et al., 2018) or ELMO. Here, the authors both used a bidirectional LSTM to extract more context-dependent word embeddings and then trained on an objective function that was dependent on the downstream task. This hints at combining pre-trained embeddings with supervised fine-tuning, which we’ll see later.
+
+---
+
+[referencia=648f5b67423d0934 score=0.054]
+Finally, while writing this blog post, I came across this incredible comment by Edward Grefenstette, published on 3 May 2014:
+
+  By and large, the case for deep learning in language hasn’t been fully made. It works well for vision and speech, but that doesn’t entail that it would carry to semantics. Some excellent shallow models without non-linearities, like the Mnih and Hinton log-bilinear models, are excellent and can be trained very quickly. It’s a problem with much “deep learning” work in NLP these days that shallow baselines are never considered or compared to. Deep learning is fascinating and will certainly have an impact in NLP, but don’t rush to believe that it’s the best solution for your NLP problems.
+
+
+I love this comment because it is a time-capsule, perfectly capturing how experts in the field felt about neural networks at the time. (Note that Grefenstette has published papers with other researchers in this story, such as Kalchbrenner and Graves.) So even around the time that Bahdanau et al were publishing groundbreaking work on RNN encoder–decoders with attention, deep learning had still not fully proven itself to the community.
+
+---
+
+[referencia=648f5b67423d0934 score=0.042]
+Of course, this is just one choice.
+
+Then all the model weights are learned end-to-end by optimizing this log likelihood (Equation ). In this way, we can convert a variable-length input into a variable-length output .
+
+This RNN encoder–decoder framework is powerful, since many problems in NLP can be framed in this way. For example, text summarization, machine translation, and agentic conversation can all be framed as a sequence-to-sequence modeling challenge. To be clear, other researchers around this time had attempted other approaches to handling variable-length sequences, such as the recursive neural tensor network in *Recursive deep models for semantic compositionality over a sentiment treebank* (Socher et al., 2013). But the RNN encoder–decoder would become the de facto framework of choice for a large range of NLP tasks.
+
+As an aside, sometimes these models are call *sequence transduction models* or *transduction models* or even just *transducers*. My understanding is that “transduction” here just means converting one sequence into another by learning a conditional distribution . In this context, “transduction” does not have the sense that Vladimir Vapnik gave it. In Vapnik’s definition, transduction loosely means classification of a specific example rather than a general rule for classifying future examples (Gammerman et al., 2013). But this is not the sense which people mean when they refer to models like the transformer as a “transducer”.

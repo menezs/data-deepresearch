@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z-41",
+  "passages": [
+    {
+      "reference_chunk_id": "678b5c68fdccb60e-0",
+      "reference_id": "678b5c68fdccb60e",
+      "score": 0.1233334168791771,
+      "text": "South Korea’s biggest banks are now a test case for the government’s push to shorten the workweek.  \n\nSeveral lenders in the country, which is considered one of the world’s most overworked, are shutting off computers one hour earlier than normal on Fridays; the government hopes to expand that into a nationwide 4.5-day workweek.\n\nIt’s one of several experiments around the globe toying with the idea of lighter work schedules. A study last year involving 141 companies in the English-speaking world found a four-day week made employees happier and healthier, but it didn’t measure company-wide productivity.\n\nTokyo’s government has given its employees a four-day week, in part to help turn around the country’s flagging birth rate."
+    }
+  ],
+  "assembled_context": "[referencia=678b5c68fdccb60e score=0.123]\nSouth Korea’s biggest banks are now a test case for the government’s push to shorten the workweek.  \n\nSeveral lenders in the country, which is considered one of the world’s most overworked, are shutting off computers one hour earlier than normal on Fridays; the government hopes to expand that into a nationwide 4.5-day workweek.\n\nIt’s one of several experiments around the globe toying with the idea of lighter work schedules. A study last year involving 141 companies in the English-speaking world found a four-day week made employees happier and healthier, but it didn’t measure company-wide productivity.\n\nTokyo’s government has given its employees a four-day week, in part to help turn around the country’s flagging birth rate.",
+  "skip_reason": null
+}

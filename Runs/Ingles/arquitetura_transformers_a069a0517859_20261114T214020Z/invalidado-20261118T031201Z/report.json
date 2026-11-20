@@ -1,0 +1,1072 @@
+{
+  "run_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+  "answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Ingles/Claude/Consolidado/arquitetura_transformers.md",
+  "generated_at": "2026-11-15T02:13:00.926823Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 26920,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 99,
+    "citation_markers_distinct": 43,
+    "references_listed": 43,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 82,
+  "pct_supported": 84.14634146341463,
+  "pct_unsupported": 13.414634146341465,
+  "pct_contradicted": 2.4390243902439024,
+  "count_supported": 69,
+  "count_unsupported": 11,
+  "count_contradicted": 2,
+  "count_skipped": 0,
+  "count_audited": 82,
+  "pct_supported_audited": 84.14634146341463,
+  "pct_unsupported_audited": 13.414634146341465,
+  "pct_contradicted_audited": 2.4390243902439024,
+  "count_partially_supported": 21,
+  "skipped_reason_counts": {},
+  "verification_ran": true,
+  "count_unsupported_confirmed": 0,
+  "count_reclassified_by_verification": 5,
+  "verification_stage_counts": {
+    "full_doc_scan": 1,
+    "context_expansion": 4
+  },
+  "mis_cited_reference_count": 1,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "a37966686d387941",
+      "citation_markers": [
+        "[12]"
+      ],
+      "raw_url": "https://scilit.com/publications/4988b98a344caef9bd67bf8370a931c3",
+      "normalized_url": "https://scilit.com/publications/4988b98a344caef9bd67bf8370a931c3",
+      "work_key": "https://scilit.com/publications/4988b98a344caef9bd67bf8370a931c3",
+      "title": "12. Learning long-term dependencies with gradient descent is difficult (IEEE Transactions on Neural Networks, 1994).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-14T21:42:40.346628Z",
+      "error_message": "barreira de acesso (http_error): Reference #18.2d290c17.1794692484.35e040e8 https://errors.edgesuite.net/18.2d290c17.1794692484.35e040e8",
+      "barrier_kind": "http_error",
+      "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "skipped_chunks": [],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "a7468c6851652691",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "times_cited": 22,
+      "supported_count": 20,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 18,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        1,
+        11,
+        13,
+        15,
+        16,
+        17,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ],
+      "partial_positions": [
+        12,
+        14,
+        20,
+        81
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the Transformer, the first sequence transduction model based entirely on attention, replacing the recurrent layers most commonly used in encoder-decoder architectures with multi-headed self-attention.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "3972039dbf3f7ee7",
+      "url": "https://arxiv.org/abs/2302.13971",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        36,
+        41,
+        45
+      ],
+      "partial_positions": [
+        81
+      ],
+      "absent_positions": [
+        3
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pre-normalization [GPT3]. To improve the training stability, we normalize the input of each transformer sub-layer, instead of normalizing the output. We use the RMSNorm normalizing function, introduced by Zhang and Sennrich (2019). SwiGLU activation function [PaLM]. We replace the ReLU non-linearity by the SwiGLU activation function, introduced by Shazeer (2020) to improve the performance. Rotary Embeddings [GPTNeo]. We remove the absolute positional embeddings, and instead, add rotary positional embeddings (RoPE), introduced by Su et al. (2021), at each layer of the network.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "7616a9236ed354b5",
+      "url": "https://huggingface.co/papers/2412.19437",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        65
+      ],
+      "partial_positions": [
+        53,
+        69,
+        78
+      ],
+      "absent_positions": [
+        3
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "DeepSeek-V3 adopts Multi-head Latent Attention (MLA) and DeepSeekMoE architectures",
+      "key_excerpt_position": 65
+    },
+    {
+      "reference_id": "2cab3ea10b8b7ae2",
+      "url": "https://arxiv.org/abs/2005.14165",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        38,
+        47,
+        48
+      ],
+      "partial_positions": [
+        2
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We use the same model and architecture as GPT-2 [RWC<sup>+</sup> 19], including the modified initialization, pre-normalization, and reversible tokenization described therein",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "fe06a65b0496fb2d",
+      "url": "https://www.minimax.io/news/why-did-m2-end-up-as-a-full-attention-model",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        60,
+        76
+      ],
+      "partial_positions": [
+        79
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the price paid became obvious at a larger scale: the model had clear deficits in complex, multi-hop reasoning tasks.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "c23bf2a3bc33cb7a",
+      "url": "https://arxiv.org/abs/1409.0473",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        6,
+        7,
+        8
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Most of the proposed neural machine translation models belong to a family of encoder–decoders",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "671700500b326f78",
+      "url": "https://blog.korolevalab.com/blog/2026/hybrid-attention/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        68,
+        75
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The first large hybrid was Jamba from AI21, in March 2024: Mamba layers with one attention layer in every eight.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "25676193afe5f7ab",
+      "url": "https://arxiv.org/abs/2108.12409",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        43,
+        44
+      ],
+      "partial_positions": [
+        80
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "ALiBi does not add positional embeddings to word embeddings; instead, it biases query-key attention scores with a penalty that is proportional to their distance.",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "46fd66187ec3e6ae",
+      "url": "https://arxiv.org/abs/2203.15556",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        50,
+        51
+      ],
+      "partial_positions": [
+        52
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We find that current large language models are significantly undertrained, a consequence of the recent focus on scaling language models whilst keeping the amount of training data constant. By training over 400 language models ranging from 70 million to over 16 billion parameters on 5 to 500 billion tokens, we find that for compute-optimal training, the model size and the number of training tokens should be scaled equally: for every doubling of model size the number of training tokens should also be doubled.",
+      "key_excerpt_position": 50
+    },
+    {
+      "reference_id": "23e5123e7f8f98e2",
+      "url": "https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        57,
+        58,
+        59
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Induction heads are implemented by a circuit consisting of a pair of attention heads in different layers that work together to copy or complete patterns. The first attention head copies information from the previous token into each token. This makes it possible for the second attention head to attend to tokens based on what happened before them, rather than their own content. Specifically, the second head (which we call the \"induction head\") searches for a previous place in the sequence where the present token `A` occurred and attends to the next token (call it `B`), copying it and causing the model to be more likely to output `B` as the next token. That is, the two heads working together cause the sequence `…[A][B]…[A]` to be more likely to be completed with `[B]`.",
+      "key_excerpt_position": 57
+    },
+    {
+      "reference_id": "5727fed78bddc701",
+      "url": "https://arxiv.org/abs/2205.14135",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        61
+      ],
+      "partial_positions": [
+        3
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We propose FlashAttention, an IO-aware exact attention algorithm that uses tiling to reduce the number of memory reads/writes between GPU high bandwidth memory (HBM) and GPU on-chip SRAM. [...] 3× speedup on GPT-2 (seq. length 1K)",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "a114e852aac1b2cb",
+      "url": "https://arxiv.org/abs/2305.13245",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        64
+      ],
+      "partial_positions": [
+        3
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "introduce grouped-query attention (GQA), a generalization of multi-query attention which uses an intermediate (more than one, less than number of query heads) number of key-value heads. We show that uptrained GQA achieves quality close to multi-head attention with comparable speed to MQA. ... propose a recipe for uptraining existing multi-head language model checkpoints into models with MQA using 5% of original pre-training compute",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "647d0f26df7e19e1",
+      "url": "https://arxiv.org/abs/2310.06825",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        67
+      ],
+      "partial_positions": [
+        3
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Mistral 7B leverages grouped-query attention (GQA) [1], and sliding window attention (SWA) [6, 3]. ... At the last layer, using a window size of W = 4096, we have a theoretical attention span of approximately 131 K tokens. ... On a sequence length of 32k tokens, this reduces the cache memory usage by 8x, without impacting the model quality.",
+      "key_excerpt_position": 67
+    },
+    {
+      "reference_id": "34c4c8ee90c46400",
+      "url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        12
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [
+        30
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The authors of the paper are Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan Gomez, Łukasz Kaiser, and Illia Polosukhin. All eight authors were \"equal contributors\" to the paper",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "ab38f2e1ef39faa3",
+      "url": "https://nlp.seas.harvard.edu/annotated-transformer",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        18,
+        20
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Multi-head attention allows the model to jointly attend to information from different representation subspaces at different positions. With a single attention head, averaging inhibits this. ... In this work we employ h=8 parallel attention layers, or heads. For each of these we use d_k=d_v=d_{\\text{model}}/h=64. Due to the reduced dimension of each head, the total computational cost is similar to that of single-head attention with full dimensionality. ... assert d_model % h == 0\n        # We assume d_v always equals d_k\n        self.d_k = d_model // h\n        self.h = h",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "32f3c7d144f036a0",
+      "url": "https://arxiv.org/abs/1810.04805",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        31,
+        33
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "BERT is designed to pretrain deep bidirectional representations [...] pushing the GLUE score to 80.5% (7.7% point absolute improvement) [...] the BERT Transformer uses bidirectional self-attention [...] BERT's model architecture is a multi-layer bidirectional Transformer encoder [...] we mask 15% of all WordPiece tokens in each sequence at random [...] we also use a \"next sentence prediction\" task that jointly pretrains text-pair representations",
+      "key_excerpt_position": 31
+    },
+    {
+      "reference_id": "887da5f02141c29f",
+      "url": "https://arxiv.org/abs/1910.10683",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        34,
+        80
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "treat every text processing problem as a “text-to-text” problem",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "11ae39b661d58ec6",
+      "url": "https://arxiv.org/abs/2002.04745",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        37
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [
+        80
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we prove with mean field theory that at initialization, for the original-designed Post-LN Transformer, which places the layer normalization between the residual blocks, the expected gradients of the parameters near the output layer are large. Therefore, using a large learning rate on those gradients makes the training unstable. The warm-up stage is practically helpful for avoiding this problem. On the other hand, our theory also shows that if the layer normalization is put inside the residual blocks (recently proposed as Pre-LN Transformer), the gradients are well-behaved at initialization. This motivates us to remove the warm-up stage for the training of Pre-LN Transformers. We show in our experiments that Pre-LN Transformers without the warm-up stage can reach comparable results with baselines while requiring significantly less training time and hyper-parameter tuning on a wide range of applications.",
+      "key_excerpt_position": 37
+    },
+    {
+      "reference_id": "7febb7e905af5e40",
+      "url": "https://arxiv.org/abs/2002.05202",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        40
+      ],
+      "partial_positions": [
+        81
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "SwiGLU( x, W, V, b, c, β ) = Swish β ( xW + b ) ⊗ ( xV + c ) ... we omit the bias terms. ... we reduce the number of hidden units dff ... by a factor of 3 ... we reduce the hidden layer to dff = 2048 ... FFNReLU(baseline) ... 1.677 ... FFNSwiGLU ... 1.636 ... We offer no explanation as to why these architectures seem to work; we attribute their success, as all else, to divine benevolence.",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "1f4047b3971cd26c",
+      "url": "https://www.sebastianraschka.com/blog/2026/minimax-m2-technical-report.html",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        77
+      ],
+      "partial_positions": [
+        78
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The flagship M2 is a 62-layer decoder-only transformer [...] MiniMax tested a hybrid sliding-window setup and ultimately retained full attention in every layer. [...] At 32K tokens, both versions scored 99 on the two reported RULER tasks. [...] On a 128K RULER common-word-extraction task, the full-attention model scored 90 compared with 72 for the sliding-window version.",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "c7a67a93fef201c0",
+      "url": "https://arxiv.org/abs/1508.04025",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        9
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The former approach resembles the model of (Bahdanau et al., 2015) but is simpler architecturally.",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "a37966686d387941",
+      "url": "https://scilit.com/publications/4988b98a344caef9bd67bf8370a931c3",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        10
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "319a638394e5883b",
+      "url": "https://arxiv.org/abs/1211.5063",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        10
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "There are two widely known issues with properly training Recurrent Neural Networks, the _vanishing_ and the _exploding_ gradient problems detailed in Bengio _et al._ (1994).",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "a3e86ad05f37e40d",
+      "url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        32
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We trained a 12-layer decoder-only transformer with masked self-attention heads (768 dimensional states and 12 attention heads). [...] We used learned position embeddings instead of the sinusoidal version proposed in the original work. [...] We use the BooksCorpus dataset for training the language model. [...] significantly improving upon the state of the art in 9 out of the 12 tasks studied.",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "a1bf736f7779eb7a",
+      "url": "https://huggingface.co/transformers/v2.5.1/model_doc/gpt.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        32
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It's a causal (unidirectional) transformer pre-trained using language modeling on a large corpus will long range dependencies, the Toronto Book Corpus.",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "87f5786bc5be29ae",
+      "url": "https://arxiv.org/abs/1910.13461",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        35
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It is implemented as a sequence-to-sequence model with a bidirectional encoder over corrupted text and a left-to-right autoregressive decoder. [...] can be seen as generalizing BERT (due to the bidirectional encoder), GPT (with the left-to-right decoder) [...] achieves new state-of-the-art results on a range of abstractive dialogue, question answering, and summarization tasks, with gains of up to 6 ROUGE.",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "d0023c41add26a80",
+      "url": "https://arxiv.org/abs/1910.07467",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        39
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "RMSNorm simplifies LayerNorm by totally removing the mean statistic in Eq. (3) at the cost of sacrificing the invariance that mean normalization affords. [...] RMSNorm achieves comparable performance against LayerNorm but reduces the running time by 7% ∼ 64% on different models.",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "83213326f5835ccc",
+      "url": "https://arxiv.org/abs/2104.09864",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "simply rotate the affine-transformed word embedding vector by amount of angle multiples of its position index and thus interprets the intuition behind Rotary Position Embedding",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "1b5948ab02410cc1",
+      "url": "https://openai.com/index/better-language-models/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        46
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "GPT‑2 is a large transformer-based language model with 1.5 billion parameters, trained on a dataset of 8 million web pages. GPT‑2 is trained with a simple objective: predict the next word, given all of the previous words within some text. [...] Due to our concerns about malicious applications of the technology, we are not releasing the trained model.",
+      "key_excerpt_position": 46
+    },
+    {
+      "reference_id": "85f66a6419d173a7",
+      "url": "https://arxiv.org/abs/2001.08361",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        49
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The loss scales as a power-law with model size, dataset size, and the amount of compute used for training, with some trends spanning more than seven orders of magnitude. Other architectural details such as network width or depth have minimal effects within a wide range. [...] For optimally compute-efficient training, most of the increase should go towards increased model size. [...] N = (1.3 10 9 ) Cmin 0.73",
+      "key_excerpt_position": 49
+    },
+    {
+      "reference_id": "1098fc60be7ca2b0",
+      "url": "https://arxiv.org/abs/2203.02155",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        54
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Figure 2: A diagram illustrating the three steps of our method: (1) supervised fine-tuning (SFT), (2) reward model (RM) training, and (3) reinforcement learning via proximal policy optimization (PPO) on this reward model. [...] outputs from the 1.3B parameter InstructGPT model are preferred to outputs from the 175B GPT-3, despite having over 100x fewer parameters.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "a426845dabe2c7d6",
+      "url": "https://arxiv.org/abs/1902.10186",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "learned attention weights are frequently uncorrelated with gradient-based measures of feature importance, and one can identify very different attention distributions that nonetheless yield equivalent predictions.",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "cad2d1b0df074a10",
+      "url": "https://arxiv.org/abs/1908.04626",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        56
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "If we accept the Rudin and Riedl definitions of explainability as providing a _plausible_ , but not necessarily _faithful_ rationale for model prediction, then the argument against attention mechanisms because they are not exclusive as claimed by Jain and Wallace is invalid",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "4c6fe5590fff18ca",
+      "url": "https://www.morphllm.com/kv-cache",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        62
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The stored attention keys and values for every token an LLM has processed, kept so each decoding step only computes the new token's keys and values. ... 2 x num_layers x num_key_value_heads x head_dim x bytes_per_element ... Total cache = bytes per token x sequence length x concurrent sequences. ... Mistral Small 3.2 24B | 40 of 40 (all full) | 8 x 128 | 160 KiB | 20 GiB at 131,072 tokens",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "5e9c4b0d7e28a9c7",
+      "url": "https://arxiv.org/abs/1911.02150",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        63
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Noam Shazeer Google noam@google.com \n\nNovember 7, 2019 \n\n##### **Abstract** \n\nMulti-head attention layers, as used in the Transformer neural sequence model, are a powerful alternative to RNNs for moving information across and between sequences. While training these layers is generally fast and simple, due to parallelizability across the length of the sequence, incremental inference (where such paralleization is impossible) is often slow, due to the memory-bandwidth cost of repeatedly loading the large \"keys\" and \"values\" tensors. We propose a variant called multi-query attention, where the keys and values are shared across all of the different attention \"heads\", greatly reducing the size of these tensors and hence the memory bandwidth requirements of incremental decoding. We verify experimentally that the resulting models can indeed be much faster to decode, and incur only minor quality degradation from the baseline.",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "981cecee682065a2",
+      "url": "https://huggingface.co/papers/2004.05150",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        66
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Longformer's attention mechanism is a drop-in replacement for the standard self-attention and combines a local windowed attention with a task motivated global attention.",
+      "key_excerpt_position": 66
+    },
+    {
+      "reference_id": "bf9cd21d7a7afdff",
+      "url": "https://arxiv.org/abs/2101.03961",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        69
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "up to 7x increases in pre-training speed with the same computational resources",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "31ff4e3be2e00940",
+      "url": "https://arxiv.org/abs/2401.04088",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        69
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "each layer is composed of 8 feedforward blocks (i.e. experts). For every token, at each layer, a router network selects two experts to process the current state",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "5dd64e15cc7592b1",
+      "url": "https://arxiv.org/abs/2312.00752",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        70
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We identify that a key weakness of such models is their inability to perform content-based reasoning, and make several improvements. First, simply letting the SSM parameters be functions of the input addresses their weakness with discrete modalities",
+      "key_excerpt_position": 70
+    },
+    {
+      "reference_id": "acf32742b39c0b77",
+      "url": "https://arxiv.org/abs/2305.13048",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        71
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "combines the efficient parallelizable training of Transformers with the efficient inference of RNNs. Our approach leverages a linear attention mechanism and allows us to formulate the model as either a Transformer or an RNN, thus parallelizing computations during training and maintains constant computational and memory complexity during inference. We scale our models as large as 14 billion parameters, by far the largest dense RNN ever trained, and find RWKV performs on par with similarly sized Transformers",
+      "key_excerpt_position": 71
+    },
+    {
+      "reference_id": "739b0738cc518ef9",
+      "url": "https://arxiv.org/abs/2403.19887",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        72
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Jamba, a new base large language model based on a novel hybrid Transformer-Mamba mixture-of-experts (MoE) architecture [...] fits in a single 80GB GPU [...] strong results for up to 256K tokens context length [...] https://huggingface.co/ai21labs/Jamba-v0.1",
+      "key_excerpt_position": 72
+    },
+    {
+      "reference_id": "29ab108383433c26",
+      "url": "https://arxiv.org/abs/2504.03624",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        73
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we replace the majority of self-attention layers in the common Transformer model architecture with Mamba layers that perform constant computation and require constant memory per generated token. We show that Nemotron-H models offer either better or on-par accuracy compared to other similarly-sized state-of-the-art open-sourced Transformer models (e.g., Qwen-2.5-7B/72B and Llama-3.1-8B/70B), while being up to 3 × faster at inference.",
+      "key_excerpt_position": 73
+    },
+    {
+      "reference_id": "83ddb21bf38bcb8a",
+      "url": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        74
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "IBM reports that the hybrid Mamba-transformer design can cut RAM requirements by more than 70% (!!!) in production environments",
+      "key_excerpt_position": 74
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "arquitetura_transformers_a069a0517859_20261114T214020Z-10",
+      "position": 10,
+      "claim_excerpt": "Yet attention was still bolted onto a recurrent network, leaving two deeper problems untouched. Gradient-based learning becomes increasingly difficult as the span of the dependencies to be captured g…",
+      "cited_markers": "[12] [13]",
+      "corroborating_markers": "[21] [1]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1504903,
+  "cost_tracked": false,
+  "processing_time_seconds": 16360.876056
+}

@@ -1,0 +1,280 @@
+[referencia=5b986783a5620607 score=0.151]
+These five dimensions provide a set of guiding principles that point towards decent work in the area of working time (for further details, see ILO 2007). 
+
+In order to put decent working time into action, enterprises need to seek possibilities to arrange working hours/work schedules in ways that can accommodate the needs of workers, while simultaneously meeting their business requirements. This win-win approach takes into account both workers’ and employers’ preferences, as suggested in Recommendation No. 116. While it is not possible to discuss the full range of potential working-time arrangements here, the ILO has developed a practical tool on working time – the _Guide to Developing Balanced Working Time Arrangements_ (ILO 2019) – to assist ILO constituents in designing and implementing new working-time arrangements in a balanced manner that benefits both workers and enterprises. In this context, it is important to emphasize the particularly problematic nature of on-call work, with its highly variable hours and unpredictable schedules; the policy suggestions presented above regarding such part-time workers also apply to these workers. In addition, national policies that promote flexible working arrangements, including those that establish a legal “right-to-request” for such arrangements, can help to ensure that a broad range of employees have access to at least some types of flexible working arrangements (such as flextime and telework). Indeed, the utility of promoting work–life balance by expanding access to flexible working-time arrangements, as well as telework, was reflected in the conclusions of the third recurrent discussion on employment adopted by the International Labour Conference in June 2022.<sup>29</sup> 
+
+Finally, when considering how to achieve balanced working-time arrangements, the issue of constant availability for work due to ICT connectivity also needs to be considered. This is an emerging issue for which only a few initiatives, in a small number of countries, have been undertaken thus far. Many of these initiatives reflect a new policy approach, known as the “right to be disconnected” (R2D), which is a potentially effective response to the blurring of boundaries between paid working time and those times normally reserved for personal life. This approach attempts to limit the negative effects of ICTs by protecting employees’ non-working time in order to address these work–life conflict and well-being issues.<sup>30</sup>
+
+---
+
+[referencia=5b986783a5620607 score=0.135]
+18 
+
+Working time and work-life balance around the world 
+
+
+
+As shown in figure 7, the economic sector with the highest proportion of workers with long hours of work is wholesale and retail trade; globally, nearly half of all workers in this sector (48.8 per cent) regularly work more than 48 hours per week. The share of workers who work long hours also exceeds 40 per cent of the workforce in transport, storage and communications (45.4 per cent), manufacturing (44.8 per cent) and accommodation and food services (43.8 per cent). At the other end of the spectrum, the sectors in which workers are least likely to regularly work long hours are public administration (20.3 per cent), education (19.9 per cent) and health services (19.2 per cent). The proportion of men with long hours of work is higher than that of women in all these sectors, particularly the transport and communications sectors, in which the proportion of men with long hours of work is more than double that of the proportion of women with long hours of work. 
+
+However, if we look at the sectoral incidence of long hours of work by region, we see that the high proportion of workers with long hours of work in wholesale and retail trade is primarily characteristic of one region – Asia and the Pacific – where nearly two thirds of the workers in this sector (64.6 per cent) work long hours, a proportion that is 20 per cent higher than in any other region (Africa has the second-highest, at 44.1 per cent). Indeed, the wholesale and retail trade sector does not have the highest proportion of workers with long hours of work in any other region of the world. For example, in the Americas it is the mining and quarrying sector (29.2 per cent), while in the Arab States it is the other services sector (36.2 per cent), primarily owing to the long hours of work of domestic workers in that region (see box 2). 
+
+###### X **Box 2. Hours of work and domestic workers**
+
+---
+
+[referencia=5b986783a5620607 score=0.098]
+#### **3.7. Conclusion** 
+
+A variety of working-time arrangements currently exist in the global economy. This chapter has documented the prevalence of the most notable arrangements and their known effects on work–life balance, based on the limited data available. Better work–life balance, an important outcome of many of these arrangements, provides significant benefits for both employers and employees. It is therefore important to identify the work–life balance outcomes associated with each working-time arrangement. 
+
+- X The classic standard workweek (8 hours per day, five or six days per week) provides stability to workers in planning their lives, yet such fixed schedules are often too inflexible to allow time for family demands as and when needed. 
+
+- X Shift work may provide greater schedule flexibility to workers to help them balance work and nonwork commitments. However, shift work may require workers to work during atypical hours, which has been linked to significant health risks and family life disruptions. 
+
+- X Part-time work (less than 35 hours per week) with predictable work schedules enables workers to have more time for their personal responsibilities and/or leisure, leading to a better balance between paid work and personal life. 
+
+- X On-call work, based on highly unpredictable «just-in-time» schedules, severely disrupts work–life balance by making it difficult for workers to organize their personal lives and finances; it has also been shown to have negative effects on workers’ health. 
+
+- X Flextime (flexible schedules) enables workers to organize their own work schedules based on their individual needs, within established parameters, in order to optimally balance their paid work and personal commitments. It has positive effects on workers’ mental health but may reinforce gender inequalities if only women use it. The dramatic increase in flexible working arrangements during the pandemic (especially telework) by both men and women suggests that this may be a less significant concern in the post-pandemic world (although research is needed to confirm this hypothesis). 
+
+- X Compressed work weeks provide employees with longer weekends to spend with family and friends and thereby improve work–life balance; there is a debate about their health impacts, but the evidence trends towards positive effects. 
+
+- X Finally, hours-averaging schemes with short-to-medium-term reference periods (such as one to four months) may facilitate work–life balance; however, if they are poorly designed and implemented, employees may be left vulnerable to drastic swings in hours of work that disrupt their personal lives. 
+
+68 
+
+Working time and work-life balance around the world
+
+---
+
+[referencia=5b986783a5620607 score=0.080]
+That non-employees are often somewhat more likely to express feelings of underemployment than employees likely reflects that there is a larger cadre of workers who are non-employees in recently emerging economies. Therefore, self-employment in those countries may be more of a default option than a preference for workers who cannot find paid employment, particularly in countries or areas, labour markets and time periods in which there is a preponderance of more informal work arrangements (Bonnet 2015). While not intuitive, employees actually do have a greater degree of control over their number of hours of work and therefore have greater stability than non-employees in this regard (Lyness et al. 2012; Golden and Kim 2017; McCrate et al. 2019). Many “self-employed workers” are actually “ondemand” workers, independent contractors, casual or informal workers, who are more likely than employees to go through periods of the year when they are constrained by a lack of demand for their services and therefore more likely to be in a state of wanting more income (Abraham and Houseman 2022). However, the sample sizes of non-employees are considerably smaller than those for employees, so not too much stock should be put in reflecting any true, stark differences between the two groups. Nonetheless, it is clear that “self-employment” is not necessarily a solution to resolving work–life imbalances and indeed might exacerbate them – particularly in the direction of a chronic need for more income – at the expense of maintaining adequate non-work time. Therefore overemployment rates, in contrast, differ less between employees and non-employees, although in high-income economies there is a relatively greater expression of a preference for fewer hours of work. 
+
+82 
+
+Working time and work-life balance around the world 
+
+
+
+> X **Figure 34. Countries or areas ranked by underemployment rates, among employees and non-employees, in high- and middle-income groupings, using objective measures**
+
+---
+
+[referencia=e80f3cdc11336721 score=0.030]
+# **5. Conclusion** 
+
+The results of this update report show that a majority of organizations continue to operate with some form of WTR more than a year after the end of the pilot phase. At the same time, the classic 4DW has become less central. Many organizations have moved towards broader and more flexible forms of WTR that better accommodate their operational realities. This shift was already observable during the trial period and the continued adaptation of WTR models since then reinforces a key finding: the practical viability of WTR appears to depend less on adherence to a fixed format and more on an organization's willingness and capacity to adapt the model over time. 
+
+However, the findings also make clear that these models do not come without costs. Regardless of whether organizations continued or discontinued reduced working time, the implementation process required sustained management attention, coordination effort, and, in some cases, came with productivity losses or delays during the implementation phase. WTR should therefore not be understood as a simple efficiency gain, but as a structural change process that involves trade-offs, transitional friction, and real implementation costs independent of the final outcome. 
+
+At the individual level, the employee data paints a differentiated picture. Employees currently working under reduced hours consistently report more favorable outcomes across stress, burnout, mental health, and several performance dimensions. Yet these advantages are not equally pronounced across all domains. Life satisfaction and creativity at work do not significantly differ. Meanwhile, employees who returned to a conventional schedule occupy a distinct middle position. The finding that this group reports the lowest physical health scores while also reporting the highest financial satisfaction may point to inherent trade-offs that WTR involves at the individual level. 
+
+Importantly, these findings are cross-sectional and self-reported, and the possibility of selection effects, whereby employees and organizations that continued with WTR differ systematically from those that did not, should be kept in mind. 
+
+At the same time, many organizations report substantial benefits, ranging from improved employer attractiveness and employee satisfaction to more sustainable ways of working. Even among those that no longer use WTR, these benefits are often acknowledged, though they may be outweighed by operational or economic constraints in the specific organizational context. Conversely, the 30% of organizations that discontinued the model serve as an important reminder that WTR is not universally viable. Workload peaks, volatile market conditions, and structural constraints can render it unsustainable regardless of employee preferences.
+
+---
+
+[referencia=5b986783a5620607 score=0.030]
+Chapter 3 considered the other half of the working-time equation – the ways in which hours of work are organized, that is, working-time arrangements or work schedules. It reviewed the variety of working-time arrangements that currently exist in the global economy and attempted to document their prevalence and their effects on work–life balance, based on the limited data available. Better work–life balance, an important outcome of many of these arrangements, provides significant benefits for both employers and employees. It is therefore important to identify the work–life balance outcomes associated with each working-time arrangement. The classical standard workweek (eight hours per day, five or six days per week) provides stability for workers to plan their lives, yet such fixed schedules are often too inflexible to allow time for family demands as and when needed. Shift work can provide greater schedule flexibility to workers to help them balance their work and non-work commitments. However, shift work can also require workers to work during atypical hours, which has been linked to significant health risks and family life disruptions. Part-time work (less than 35 hours per week) with predictable work schedules enables workers to have more time for their personal responsibilities and/or leisure, leading to a better balance between paid work and personal life. However, on-call work with highly unpredictable «just-intime» schedules severely disrupts work–life balance by making it difficult for workers to organize their personal lives and finances, and it has also been shown to have negative effects on workers’ health. By contrast, flextime (flexible schedules) enables workers to organize their own work schedules based on their individual needs, within established parameters, in order to optimally balance their paid work and 
+
+142 
+
+Working time and work-life balance around the world 
+
+
+
+personal commitments. Flextime has positive effects on workers’ mental health, but it may reinforce gender inequalities if it is only used by women. Compressed workweeks provide employees with longer weekends to spend with family and friends, thereby improving their work–life balance; there is a debate regarding the health impacts of compressed workweeks, but there is more evidence that their effects are positive. Work–life balance can potentially be facilitated with hours-averaging schemes with shortto medium-length reference periods (such as one to four months), but when they are poorly designed and implemented, employees can be left vulnerable to drastic swings in hours of work that disrupt their personal lives.
+
+---
+
+[referencia=5b986783a5620607 score=0.026]
+But even within countries, the degree to which they were affected varies greatly by the composition of sectors and the employment structure. While employment and income in many cases almost completely disappeared in sectors such as hotels and restaurants, the tourism sector or the event-management industry, and while the manufacturing industry in particular had to contend with a decline in orders, yet sectors such as the care, retail, logistics or pharmaceutical sectors saw a significant expansion in the demand for labour (Bellmann et al. 2020; Eichhorst et al. 2020). Still other sectors, including the majority of white-collar jobs, were only indirectly affected, since although the volume of work did not decline as a result of the crisis, nonetheless hygiene measures made it necessary to distribute work differently in terms of time (flexibilization of working hours) or to decentralize it (telework). In order to avoid contacts in the office, employees whose work permitted it were allowed to work remotely to a greater extent; companies such as Twitter and Microsoft even sent large proportions or even their entire workforce to the home office (Joho 2020, Spiegel-Online 2020). Other companies introduced rotating attendances or staggered work start-times and end-times to avoid employees arriving at the same time. Employees with caregiving responsibilities had to deal with the fact that office work schedules clashed with their children’s homeschooling schedules. For parents of young children, matching their work schedules with their children’s homeschooling schedules under these circumstances often proved elusive. This situation, which can be sketched here only roughly, led to a need for flexibility on a scale previously unknown, which could be controlled and accompanied in part by legal, collective bargaining or company measures but in many cases was also informal in nature.
+
+---
+
+[referencia=5b986783a5620607 score=0.021]
+60<br>50 51.3 49.4 49.2 49.9<br>46.0 45.2 43.8 47.3 44.9 45.0 45.4 45.6 44.2 46.0 43.1<br>40 40.8 40.8 39.8 39.6 41.5 39.4 39.7 39.1 38.6 38.141.3 41.0<br>Total<br>32.7<br>30<br>Men<br>20<br>10 Women<br>0<br>From a sectoral perspective, figure 3b shows that globally, the sectors with the longest weekly hours of<br>work in 2019 were wholesale and retail trade (49.1 hours), transport and communications (48.2 hours) and<br>manufacturing (47.6 hours). The sectors with the shortest weekly hours of work were agriculture (37.9<br>hours), 5  education (39.3 hours) and health services (39.8 hours), although it seems likely that the extreme<br>demands on the health services sector arising from the COVID-19 pandemic would have substantially<br>increased average hours of work in that sector.<br>X  Figure 3c. Average hours of work per week, by sex and major occupational group<br>(total employment, 2019)<br>World<br>60<br>50 48.5 49.8<br>46.7 44.6 43.245.6 44.5 42.9 42.9 41.8 42.2<br>40 39.1 39.4 39.0<br>37.5 37.3 Total<br>30<br>Men<br>20<br>10 Women<br>0<br>49.1 48.2 47.6 46.7 46.4 44.4 43.9 43.5 43.2 42.6 42.0 39.8 39.3 37.9<br>Average actual hours of work per week<br>Wholesale & retail trade Transport & communications Manufacturing Accomodation & food services Mining and Quarrying Construction Utilities Finance & insurance Real estate & business services Public administration Other services Health Education Agriculture<br>
+
+---
+
+[referencia=5b986783a5620607 score=0.017]
+|**Figure 26.**Distribution of workers in formal and informal employment, by range of hours<br>of work per week, region, country-income group and sex (in %, 2019)|42|
+|---|---|
+|**Figure 27.**Distribution of workers in formal and informal employment, by range of hours<br>of work, region, country-income group and employment status (%, 2019)|44|
+|**Figure 28.**Share of informal employment by range of hours of work (in %, 2019)|46|
+|**Figure 29.**Percentage of workers working shifts, 2015|53|
+|**Figure 30.**Percentage of workers working one or more nights per month, 2015|54|
+|**Figure 31a.**Part-time employment as a percentage of total employment, selected countries<br>or areas by country-income group, 2018–2019|57|
+|**Figure 31b.**Trends in part-time work as a percentage of employment, 2010–2022|58|
+|**Figure 32.**Type of work schedule, United States, 2002–2014|60|
+|**Figure 33.**Fixed schedules versus fexible schedules, by geographic region and sex|63|
+|**Figure 34.**Countries or areas ranked by underemployment rates, among employees<br>and non-employees, in high- and middle-income groupings, using objective measures|82|
+|**Figure 35a.**Countries or areas ranked by underemployment rates, among employees,<br>in high- and middle-income groupings, using objective measures|83|
+|**Figure 35b.**Countries or areas ranked by underemployment rates, among non-employees,<br>in high- and middle-income groupings, using objective measures|84|
+|**Figure 36.**Countries or areas ranked by underemployment and overemployment rates,<br>among employees and non-employees, in high- and middle-income groupings, using<br>subjective measure|89|
+|**Figure 37.**Countries or areas ranked by underemployment rates, among employees,<br>in high- and middle-income groupings, using subjective measure|90|
+|**Figure 38.**Countries or areas ranked by underemployment rates, among non-employees<br>in high- and middle-income groupings, using subjective measure|91|
+
+---
+
+[referencia=5b986783a5620607 score=0.013]
+In developing and emerging economies, such long hours of work are driven mainly by low hourly wages and/or a desire to maximize earnings (whether these are wages or income from self-employment), which means that workers often need to work long hours just to make ends meet (Lee, McCann and Messenger 2007; ILO 2009). The situation is very different in developed countries, particularly for certain categories of salaried employees such as professional workers and managers, who may be expected to work whatever hours are required to complete their assignments and/or may work long hours to demonstrate their commitment to the organization and thus attempt to advance their careers (Lee, McCann and Messenger 2007; ILO 2009). 
+
+There is also a substantial gender difference in the incidence of long hours of paid work. As shown in figures 4a and 4b, men are substantially more likely than women to work long hours of paid work (41.2 per cent versus 26.4 per cent). This is true in all regions of the world, with the notable exceptions of Eastern Asia and South-Eastern Asia and the Pacific, where there is virtually no gender difference. However, as already noted, it is important to keep in mind than this gender difference in paid work does not reflect the substantially greater amount of time that women devote to unpaid household tasks and care work compared to men. In fact, this higher share of women’s unpaid work accounts for much of the difference between women and men in paid hours of work (ILO 2018; Eurofound 2015; Lee, McCann and Messenger 2007). 
+
+15 
+
+2. Working-time patterns and developments around the world
+
+---
+
+[referencia=5b986783a5620607 score=0.013]
+#### **3.4. Flextime, including time-banking arrangements** 
+
+Flextime is perhaps the most common form of flexible working-time arrangement. Basic flextime arrangements (also known as «flexible schedules» or «flexible hours») allow workers to choose when to start and finish work, based on their individual needs and preferences (within specified limits) and in some cases even the number of hours that they work in a particular week. Normally, formal flextime programmes involve establishing a period of core hours when all employees are required to be at work (such as 10 a.m. to 4 p.m.), although some flextime programmes have no core hours at all (ILO 2011). Time-banking arrangements are a form of flextime that permit workers to build up “credits” or accumulate “debits” in hours worked, up to a maximum amount; the periods over which credits or debits are calculated are much longer than with flextime, ranging from several months to one year or even longer (ILO 2011). 
+
+Figure 33 provides a snapshot of the extent to which work schedules are fixed (shown in green) or can vary (shown in blue or grey) based on workers’ individual needs and preferences. Flexible work schedules may either vary within certain established limits, which is the classic definition of flextime (shown in blue) or may not be constrained at all, which is considered to be full working-time autonomy (shown in grey). As figure 33 shows, globally nearly half of all employees (47.1 per cent) have access to some form of flexibility concerning their work schedules – typically within certain limits (flextime) – and such schedule flexibility is more widely available to men than to women. From a geographic perspective, access to such flexible schedules is most widespread in Northern Europe (55.1 per cent) and least common in Africa, where nearly three quarters of employees work on traditional fixed schedules. Overall, ISSP data show that workers with the highest levels of education and personal income have the greatest access to work schedule flexibility, which is more common in private sector enterprises than in the public sector. 
+
+63 
+
+3. Working time arrangements and their effects on work-life balance
+
+---
+
+[referencia=5b986783a5620607 score=0.013]
+###### **Annex 4. Methodological annex in relation to the regional and global estimates presented in Chapter 2** 
+
+The global and regional estimates presented in Chapter 2 refer to the number of actual hours of work per week<sup>31</sup> for pay or profit among persons in employment aged 15 and over. To ensure comparability across countries and to take into account the absence of information on hours spent on additional jobs in some countries, the estimates consider the hours worked on the main job only. Access to microdata which was representative at the national level allowed for the systematic coding of hour bands and the analysis of differences in working-time patterns based on socio-demographic characteristics and employment-related features, including status in employment, sector, occupation, and the informal or formal nature of employment by sex. 
+
+Two main types of indicators are presented in Chapter 2, as follows. 
+
+(i) _Average number of actual hours of work per week._ While this indicator’s main advantage is to provide a single value corresponding to the mean value of the number of hours actually worked globally, regionally or for particular groups of workers, it fails to provide data on the distribution of persons in employment in relation to their hours of work. As Chapter 2 shows, two groups of workers may have a similar average number of actual hours of work per week and yet may face very different situations in terms of their distribution along the spectrum of actual hours of work per week. Workers in informal employment compared with workers in formal employment provide a good example. There is a convergence towards just over 44 hours of work per week for both groups at the global level. Yet, while the majority of workers in formal employment are more likely to work within the range of “normal hours”, workers in informal employment are over-represented at the two extremes — either long or short (part-time) hours of work — with implications in terms of income, the ability to meet eligibility criteria for social security benefits, exposure to health and safety risks, and work-life balance. The second category of indicators on the distribution of workers by hours of work per week is essential to fill this gap.
+
+---
+
+[referencia=5b986783a5620607 score=0.011]
+> X **Figure 41. Subjective measure of mismatch, by occupational skill level, high and middle-income countries or areas and United States** 
+
+
+
+<!-- Start of picture text -->
+Skill level 1 (low) 47.9 4.7 47.5<br>Work<br>Skill level 2 (medium) 39.9 5.5 54.6<br>Skill levels 3 and 4 (high) 29.8 8.4 61.8 longer, earn<br>more money<br>Skill level 1 (low) 61.0 4.9 34.1<br>Skill level 2 (medium) 57.8 4.6 37.5<br>Work fewer,<br>Skill levels 3 and 4 (high) 54.9 3.7 41.3<br>earn less<br>money<br>Skill level 1 (low) 41.9 4.8 53.3<br>Skill level 2 (medium) 34.5 5.9 59.6<br>Skill levels 3 and 4 (high) 25.1 9.3 65.6 Same<br>number of<br>Skill level 1 (low) 45.5 2.0 52.5 hours, same<br>Skill level 2 (medium) 45.6 2.6 51.8<br>money<br>Skill levels 3 and 4 (high) 28.2 6.7 65.1<br>% Employment 0 20 40 60 80 100<br>Total<br>Middle- income<br>income<br>Other high-<br>United States<br><!-- End of picture text -->
+
+96 
+
+Working time and work-life balance around the world
+
+---
+
+[referencia=5b986783a5620607 score=0.010]
+#### **4.4. Conclusion** 
+
+Overall, this chapter has utilized two different, equally valid measures to present an array of workingtime match and mismatch patterns, based on country or area, region, gender, income and occupational skill level. Two measures each for both overemployment and underemployment were used in order to capture the different conceptualizations of working-time mismatches that exist. High-income countries or areas tend to have slightly higher rates of overemployment and lower rates of underemployment than upper-middle-income and lower-middle-income countries or areas, with the key exception of anglophone countries. Work–life imbalances are strongly connected with the incidence and rate of overemployment in most regions, countries or areas and income levels. Interestingly, self-employed workers report a higher incidence of underemployment than employees on a payroll. In terms of gender, there is a general pattern of women having greater rates of both overemployment and underemployment. In addition, there is a clear correlation of increasing occupational skill levels with higher overemployment and lower underemployment. Understanding the prevalence of working-time mismatches is also important due to the negative effects it has not only on work–life balance but more broadly on indicators of workers’ wellbeing, including life and job satisfaction, physical health and mental health. The findings of the work–life balance indicator support the findings of previous research that overemployment is especially harmful to work–life balance. They also reinforce findings that the overemployed report lower life satisfaction, while both types of working-time mismatches tend to lead to poorer outcomes for physical and mental health. From the employers’ perspective, working-time mismatches among workers generally results in reduced productivity, poorer job performance and higher turnover and absenteeism. Therefore, there is a need to find policy solutions to mitigate working-time mismatches in order to support workers in achieving a better work–life balance and better overall well-being. 
+
+102 
+
+Working time and work-life balance around the world
+
+---
+
+[referencia=5b986783a5620607 score=0.009]
+###### X **Box 3. Very short hours of work as a factor contributing to informality** 
+
+The incidence of informal employment is the highest among workers with very short hours of work and the lowest among workers, especially employees, who work in the range of “normal hours of work”. 
+
+**Figure 28. Share of informal employment by range of hours of work (in %, 2019)** 
+
+
+
+<!-- Start of picture text -->
+Panel A. Total employment<br>100 Africa<br>90<br>80 Latin America and<br>the Caribbean<br>70<br>Northern America<br>60<br>50 Arab States<br>40<br>30 Asia and the Pacific<br>20<br>Europe and Central<br>10 Asia<br>0<br>World<br><20h 20-34h 35-48h 48-60h >60h<br>% informal wage employment<br><!-- End of picture text -->
+
+47 
+
+2. Working-time patterns and developments around the world 
+
+
+
+X **Box 3. Very short hours of work as a factor contributing to informality (continued)** 
+
+
+
+<!-- Start of picture text -->
+Panel B. Employees<br>100 Africa<br>90<br>80 Latin America and<br>the Caribbean<br>70<br>Northern America<br>60<br>50<br>Arab States<br>40<br>30 Asia and the Pacific<br>20<br>Europe and Central<br>10 Asia<br>0<br>World<br><20h 20-34h 35-48h 48-60h >60h<br>% informal wage employment<br><!-- End of picture text -->
+
+The pattern of the share of informal employment as a function of the number of hours worked is U-shaped. The proportion of workers in informal employment decreases from 82.1 per cent for workers with very short hours of work to its lowest level of 46.9 per cent for workers with 35 to 48 hours per week, before increasing again as the number of hours of work per week increases (figure 28, panel A). This trend is even more marked among employees (figure 28, panel B). Some of them are in informal employment precisely because their number of hours of work does not allow them to meet minimum thresholds in terms of hours worked or earnings to be eligible for social security benefits. 
+
+**Source:** ILO calculations, based on national household data from 140 countries representing 92 per cent of global employment. 
+
+48 
+
+Working time and work-life balance around the world
+
+---
+
+[referencia=5b986783a5620607 score=0.009]
+While this brief overview of average hours of work demonstrates that this particular working-time indicator is certainly useful, too many analyses of working time begin and end with this one single measure. That is a serious shortcoming because – as with any measure of central tendency – the estimation of average weekly hours of work fails to reveal whether the distribution of working hours in a region, country, sector, occupation or other category is normally shaped or whether it is skewed; in the latter case, this could mean that workers’ hours of work are more likely to be outside the normal range in the direction of either long hours or short (part-time) hours. That is the primary reason why the remainder of this chapter focuses on the distribution of working hours outside the normal range – that is, long hours and short (part-time) hours. In addition, there are also other sound reasons for this focus, such as the fact that regular long working hours are associated with a variety of negative effects, such as those on occupational safety and health, work–life balance and productivity, as well as the fact that very short hours of work (less than 15/20 hours per week) are associated with time-related underemployment (for an in-depth discussion of the effects of working hours on different outcomes of interest, see Messenger 2018).
+
+---
+
+[referencia=5b986783a5620607 score=0.008]
+> 14 It is worth noting that, although on-call work does not necessarily require workers to be physically present at the employer’s premises, those economic sectors in which on-call work is typically used (for example, retail sales, restaurants) by their very nature require workers’ physical presence. 
+
+60 
+
+Working time and work-life balance around the world 
+
+
+
+on-call, which is known as “just-in-time” scheduling in the United States. While this proportion is relatively modest, the size of the United States labour market means that in terms of absolute numbers, many American workers have this type of working-time arrangement. However, a separate study estimated the percentage of American employees performing on-call work to be only 2.6 per cent in 2015 (Katz and Krueger 2016). 
+
+> X **Figure 32. Type of work schedule, United States, 2002–2014** 
+
+
+
+<!-- Start of picture text -->
+90%<br>80%<br>70%<br>day or afternoon<br>60%<br>night shift<br>50%<br>split shift<br>40%<br>irregular shift/on-<br>30%<br>rotating shift<br>20%<br>10%<br>0%<br>2002 2006 2010 2014<br><!-- End of picture text -->
+
+**Source:** McCrate 2018. 
+
+61 
+
+3. Working time arrangements and their effects on work-life balance
+
+---
+
+[referencia=5b986783a5620607 score=0.008]
+#### **2.1. Introduction** 
+
+The topic of working time can be divided into two main components: (a) the number of hours of work; and (b) the organization of those working hours, which is more commonly known either as working-time arrangements or work schedules. This chapter will focus on important patterns and developments with regard to hours of work – that is, the length or volume of working hours in both the formal economy and the informal economy. 
+
+The most prominent feature of working-time patterns and developments in today’s world is the uneven distribution of hours of work. Because the distribution of hours of workhours does not cluster around the mean (that is, the legal working week) in many countries, working-time statistics that focus exclusively on average hours of work can be misleading indicators of the typical hours of work hours in a particular region, country, sector or occupation. While the traditional concern regarding regular long hours of work and their effects dating from the dawn of the Industrial Revolution remains a problem in some parts of the world and among some groups of workers, the phenomenon of short hours of work – often referred to as “part-time work” – has emerged as an issue in other parts of the world and among other groups of workers. Short (part-time) hours of work can potentially benefit work–life balance because they provide workers with more time for their personal lives, including their family responsibilities. However, short hours of work can potentially be a concern, particularly for those workers with very short hours of work, because they are associated with time-related underemployment<sup>2</sup> and limited or no benefit entitlements (for example, no social security benefits, no paid leave) and are often associated with unpredictable work schedules as well. Both long and short hours of work can present challenges for employers, too: in the case of long hours due to declining marginal productivity and in the case of short hours because part-time work can be more difficult to manage if business operations are based on a full-time logic (for example, scheduling shift work). This chapter will briefly discuss average hours of work, but it will focus primarily on both long and short hours of work, as well as the unique situation of hours of work in the informal economy.
+
+---
+
+[referencia=e80f3cdc11336721 score=0.007]
+Two years after the start of the trial, the landscape is characterized by diversity rather than uniformity. While a clear majority of organizations have maintained a WTR, the specific models in use have diversified further. At the same time, the share of organizations who have returned to conventional schedules, underscore that WTR is not a straightforward undertaking. The extent to which organizations were able to sustain the model appears closely linked to their economic conditions, operational demands, and willingness to adapt the original format. These findings suggest that the longterm viability of WTR depends not only on initial enthusiasm, but also on an organization's capacity to absorb and respond to the practical challenges that emerge over time. 
+
+##### **Overview of movements of the organizations since 2024** 
+
+
+
+7 
+
+Organizational Perspective 
+
+WORK TIME REDUCTION IN GERMANY
+
+---
+
+[referencia=5b986783a5620607 score=0.007]
+#### **3.2. Shift work (including night and weekend work)** 
+
+Shift work is “a method of organization of working time in which workers succeed one another at the workplace so that the establishment can operate longer than the hours of work of individual workers” (ILO 2011). Shift work was one of the first forms of flexible working-time arrangement, dating from the early twentieth century. It enables companies to extend operating hours up to 24 hours per day and seven days per week (continuous operations) and also to accommodate fluctuations in the demand for their products or services. There are two basic categories of shift work: fixed shift systems, in which a particular group of workers always works the same shift; and rotating shift systems, in which workers are assigned to work shifts that vary regularly over time and “rotate” around the clock (for example, from morning to afternoon/evening to night shift) (ILO 2018). Shift work is one of the most commonly used alternatives to the standard workweek and is pervasive across the globe. 
+
+In spite of there being no globally comparable data on shift work, some governments have carried out surveys that provide information on the prevalence of shift work. According to Eurofound’s Sixth Working Conditions Survey of 2017, 21 per cent of all workers in the EU work shifts, a 4 per cent increase since 2010 (Eurofound 2017). In Europe, shift work is most pervasive in Croatia, Serbia and Montenegro, where it represents the working-time arrangement for more than 30 per cent of the working population (see figure 29). Shift work is also highly prevalent in the United States, with shift workers making up 32 per cent of the workforce; this is probably due to the incidence of employees with multiple jobs that need non-overlapping shifts (RAND 2015; Marucci-Wellman, Lombardi and Willetts 2016). Shift work is less prominent in Asia and the Pacific (where data is available), making up 17 per cent of employees in Australia and only 8.5 per cent of the workforce in the Republic of Korea (Australia 2019; Republic of Korea 2017). Thus, there is substantial variation in the prevalence of shift work across the globe. 
+
+53 
+
+3. Working time arrangements and their effects on work-life balance

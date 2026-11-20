@@ -1,0 +1,572 @@
+[
+  {
+    "id": "a4bec0a469edacce",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.ilo.org/publications/working-time-and-work-life-balance-around-world",
+    "normalized_url": "https://ilo.org/publications/working-time-and-work-life-balance-around-world",
+    "work_key": "https://ilo.org/publications/working-time-and-work-life-balance-around-world",
+    "title": "1. International Labour Organization, *Working Time and Work-Life Balance Around the World*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:01.403485Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "4b053a29a4af6fb5",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.dol.gov/general/aboutdol/history/dolchp03",
+    "normalized_url": "https://dol.gov/general/aboutdol/history/dolchp03",
+    "work_key": "https://dol.gov/general/aboutdol/history/dolchp03",
+    "title": "2. U.S. Department of Labor, *Chapter 3: The Department in the New Deal and World War II, 1933–1945*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:01.399260Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "4c25248bb6fa32e0",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.bls.gov/opub/mlr/2016/article/the-life-of-american-workers-in-1915.htm",
+    "normalized_url": "https://bls.gov/opub/mlr/2016/article/the-life-of-american-workers-in-1915.htm",
+    "work_key": "https://bls.gov/opub/mlr/2016/article/the-life-of-american-workers-in-1915.htm",
+    "title": "3. U.S. Bureau of Labor Statistics, *The Life of American Workers in 1915*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:01.483749Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a9dcdb8b5c239d1c",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000:51:0::::51:P51_CONTENT_REPOSITORY_ID:3288167",
+    "normalized_url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000%3A51%3A0%3A%3A%3A%3A51%3AP51_CONTENT_REPOSITORY_ID%3A3288167",
+    "work_key": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000%3A51%3A0%3A%3A%3A%3A51%3AP51_CONTENT_REPOSITORY_ID%3A3288167",
+    "title": "4. International Labour Organization, *Forty-Hour Week Convention, 1935 (No. 47)*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T02:27:48.834851Z",
+    "error_message": "HTTP 400 em https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000:51:0::::51:P51_CONTENT_REPOSITORY_ID:3288167",
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "47a8ff7f2bee5252",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://digit-research.org/projects/the-four-day-week-and-reducing-working-time/",
+    "normalized_url": "https://digit-research.org/projects/the-four-day-week-and-reducing-working-time",
+    "work_key": "https://digit-research.org/projects/the-four-day-week-and-reducing-working-time",
+    "title": "5. Digital Futures at Work Research Centre, *The Four-Day Week and Reducing Working Time*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:03.344391Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "51ae2b54e60da70b",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.nature.com/articles/s41562-025-02259-6",
+    "normalized_url": "https://nature.com/articles/s41562-025-02259-6",
+    "work_key": "DOI:10.1038/s41562-025-02259-6",
+    "title": "6. Wen Fan, Juliet B. Schor, Orla Kelly, et al., *Work Time Reduction via a 4-Day Workweek Finds Improvements in Workers’ Well-Being*, Nature Human Behaviour, 2025.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:03.428972Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f91a291d16b4158f",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.henley.ac.uk/news/2024/results-from-portugals-government-backed-4-day-week-trial-released",
+    "normalized_url": "https://henley.ac.uk/news/2024/results-from-portugals-government-backed-4-day-week-trial-released",
+    "work_key": "https://henley.ac.uk/news/2024/results-from-portugals-government-backed-4-day-week-trial-released",
+    "title": "7. Henley Business School, *Results from Portugal’s Government-Backed 4-Day Week Trial Released*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:05.030820Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5b986783a5620607",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40protrav/%40travail/documents/publication/wcms_864222.pdf",
+    "normalized_url": "https://ilo.org/sites/default/files/wcmsp5/groups/public/@ed_protect/@protrav/@travail/documents/publication/wcms_864222.pdf",
+    "work_key": "https://ilo.org/sites/default/files/wcmsp5/groups/public/@ed_protect/@protrav/@travail/documents/publication/wcms_864222.pdf",
+    "title": "8. International Labour Organization, *Working Time and Work-Life Balance Around the World* — Iceland reduced-workweek case study.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:41.507849Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e80f3cdc11336721",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.wiwi.uni-muenster.de/tow/sites/tow/files/downloads/4DW_FollowUp_Report_Englisch.pdf",
+    "normalized_url": "https://wiwi.uni-muenster.de/tow/sites/tow/files/downloads/4DW_FollowUp_Report_Englisch.pdf",
+    "work_key": "https://wiwi.uni-muenster.de/tow/sites/tow/files/downloads/4DW_FollowUp_Report_Englisch.pdf",
+    "title": "9. University of Münster/Intraprenör, *The 4-Day-Week in Germany: A Follow-Up Two Years After the Start of the Trial*, 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:15.063463Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ac2a74817c0702be",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.oecd.org/en/publications/oecd-employment-outlook-2022_1bb305a6-en/full-report/component-9.html",
+    "normalized_url": "https://oecd.org/en/publications/oecd-employment-outlook-2022_1bb305a6-en/full-report/component-9.html",
+    "work_key": "https://oecd.org/en/publications/oecd-employment-outlook-2022_1bb305a6-en/full-report/component-9.html",
+    "title": "10. OECD, *Well-being, Productivity and Employment: Squaring the Working Time Policy Circle*, OECD Employment Outlook 2022.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:10.867265Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "937f9584a4ed59d8",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke",
+    "normalized_url": "https://who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke",
+    "work_key": "https://who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke",
+    "title": "11. World Health Organization and International Labour Organization, *Long Working Hours Increasing Deaths from Heart Disease and Stroke*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": null,
+    "fetched_at": "2026-11-18T02:27:10.388527Z",
+    "error_message": "Referencia nao encontrada (404): https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke",
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "dd468fcd5c200c36",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://link.springer.com/article/10.1007/s00420-025-02153-8",
+    "normalized_url": "https://link.springer.com/article/10.1007/s00420-025-02153-8",
+    "work_key": "DOI:10.1007/s00420-025-02153-8",
+    "title": "12. V. Bernstrøm et al., *The Consequences of a Compressed Workweek: A Systematic Literature Review*, International Archives of Occupational and Environmental Health, 2025.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:17.227156Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "217b0356a83cb8a1",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/40075240/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/40075240",
+    "work_key": "PMID:40075240",
+    "title": "13. *Reimagining Work-Life Balance: The Impact of a 4-Day Workweek on Healthcare Leader Burnout and Well-Being*. PubMed.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:16.580538Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "00eb419515bef066",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://journals.sagepub.com/doi/10.1177/0961463X261449357",
+    "normalized_url": "https://journals.sagepub.com/doi/10.1177/0961463X261449357",
+    "work_key": "DOI:10.1177/0961463x261449357",
+    "title": "14. *Between Temporal Liberation and Temporal Recolonisation: Experiences of Time Under a Four-Day Workweek*, Time & Society, 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:27:20.707522Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f5b6e42d671f6396",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.sciencedirect.com/science/article/pii/S0967070X17304778",
+    "normalized_url": "https://sciencedirect.com/science/article/pii/S0967070X17304778",
+    "work_key": "https://sciencedirect.com/science/article/pii/S0967070X17304778",
+    "title": "15. *The Impact of Working Time on Fuel Consumption and CO2 Emissions of Public Fleets: Evidence from a Policy Experiment*, Transport Policy.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:27:21.185286Z",
+    "error_message": "barreira de acesso (http_error): # There was a problem providing the content you requested Please contact our support team for more information and provi",
+    "barrier_kind": "http_error",
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a9513b62a2746da9",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://academic.oup.com/sf/article-abstract/96/4/1851/4951469",
+    "normalized_url": "https://academic.oup.com/sf/article-abstract/96/4/1851/4951469",
+    "work_key": "https://academic.oup.com/sf/article-abstract/96/4/1851/4951469",
+    "title": "16. *Working Hours and Carbon Dioxide Emissions in the United States, 2007–2013*, Social Forces.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:30:37.828335Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "bc3051c0807abbf1",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.dol.gov/agencies/whd/overtime/",
+    "normalized_url": "https://dol.gov/agencies/whd/overtime",
+    "work_key": "https://dol.gov/agencies/whd/overtime",
+    "title": "17. U.S. Department of Labor, *Overtime Pay*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:29.732072Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6ce23257da18ee03",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.govinfo.gov/app/details/BILLS-119hr10323ih",
+    "normalized_url": "https://govinfo.gov/app/details/BILLS-119hr10323ih",
+    "work_key": "https://govinfo.gov/app/details/BILLS-119hr10323ih",
+    "title": "18. U.S. Government Publishing Office, *H.R. 10323 — Thirty-Two Hour Workweek Act, 119th Congress*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:30.212679Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5723f87b98d0ac09",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.govinfo.gov/app/details/BILLS-119s5384is",
+    "normalized_url": "https://govinfo.gov/app/details/BILLS-119s5384is",
+    "work_key": "https://govinfo.gov/app/details/BILLS-119s5384is",
+    "title": "19. U.S. Government Publishing Office, *S. 5384 — Thirty-Two Hour Workweek Act, 119th Congress*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:30.686293Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "347745f0f102e0d3",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.dir.ca.gov/dlse/FAQ_OvertimeExceptions.htm",
+    "normalized_url": "https://dir.ca.gov/dlse/FAQ_OvertimeExceptions.htm",
+    "work_key": "https://dir.ca.gov/dlse/FAQ_OvertimeExceptions.htm",
+    "title": "20. California Department of Industrial Relations, *Exceptions to the General Overtime Law*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:31.772837Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3afd88062474d931",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.irs.gov/affordable-care-act/employers/identifying-full-time-employees",
+    "normalized_url": "https://irs.gov/affordable-care-act/employers/identifying-full-time-employees",
+    "work_key": "https://irs.gov/affordable-care-act/employers/identifying-full-time-employees",
+    "title": "21. Internal Revenue Service, *Identifying Full-Time Employees*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:32.174713Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "639b6e1fbbadca23",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32003L0088",
+    "normalized_url": "https://eur-lex.europa.eu/legal-content/EN/ALL?uri=CELEX%3A32003L0088",
+    "work_key": "https://eur-lex.europa.eu/legal-content/EN/ALL?uri=CELEX%3A32003L0088",
+    "title": "22. European Union, *Directive 2003/88/EC Concerning Certain Aspects of the Organisation of Working Time*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:33.462814Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c6833758f970559d",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://employment.belgium.be/en/node/3860",
+    "normalized_url": "https://employment.belgium.be/en/node/3860",
+    "work_key": "https://employment.belgium.be/en/node/3860",
+    "title": "23. Belgian Federal Public Service Employment, Labour and Social Dialogue, *Working Time and Reduction of Working Time — Four-Day Week*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:34.197141Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5b10e21ed11dbf41",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://u.ae/en/information-and-services/jobs/working-in-uae-government-sector/working-hours-in-the-public-sector",
+    "normalized_url": "https://u.ae/en/information-and-services/jobs/working-in-uae-government-sector/working-hours-in-the-public-sector",
+    "work_key": "https://u.ae/en/information-and-services/jobs/working-in-uae-government-sector/working-hours-in-the-public-sector",
+    "title": "24. United Arab Emirates Government, *Working Hours in the Public Sector*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": null,
+    "fetched_at": "2026-11-18T02:27:26.862548Z",
+    "error_message": "Referencia nao encontrada (404): https://u.ae/en/information-and-services/jobs/working-in-uae-government-sector/working-hours-in-the-public-sector",
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "7f8fd1b161cb1788",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria/paginas/2023/170323-empresas-programa-piloto-jornada-4-dias.aspx",
+    "normalized_url": "https://lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria/paginas/2023/170323-empresas-programa-piloto-jornada-4-dias.aspx",
+    "work_key": "https://lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria/paginas/2023/170323-empresas-programa-piloto-jornada-4-dias.aspx",
+    "title": "25. Government of Spain, *41 Companies Apply to Test the Four-Day Working Week*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:31:27.604547Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3507306c7e394c9f",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias/",
+    "normalized_url": "https://planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias",
+    "work_key": "https://planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias",
+    "title": "26. Portuguese Government/PLANAPP, *Avaliação do Projeto-Piloto Semana de Quatro Dias*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:45.776771Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a5f12e1f2c8db4d6",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.wiwi.uni-muenster.de/tow/en/4-day-week-germany-wide-pilot-study",
+    "normalized_url": "https://wiwi.uni-muenster.de/tow/en/4-day-week-germany-wide-pilot-study",
+    "work_key": "https://wiwi.uni-muenster.de/tow/en/4-day-week-germany-wide-pilot-study",
+    "title": "27. University of Münster, *4-Day-Week Germany-Wide Pilot Study*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:46.519566Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "df675a5bc03a4a60",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.who.int/news-room/questions-and-answers/item/global-regional-and-national-burdens-of-ischemic-heart-disease-and-stroke-attributable-to-exposure-to-long-working-hours-for-194-countries-2000-2016",
+    "normalized_url": "https://who.int/news-room/questions-and-answers/item/global-regional-and-national-burdens-of-ischemic-heart-disease-and-stroke-attributable-to-exposure-to-long-working-hours-for-194-countries-2000-2016",
+    "work_key": "https://who.int/news-room/questions-and-answers/item/global-regional-and-national-burdens-of-ischemic-heart-disease-and-stroke-attributable-to-exposure-to-long-working-hours-for-194-countries-2000-2016",
+    "title": "28. WHO, *Global, Regional and National Burdens of Ischemic Heart Disease and Stroke Attributable to Exposure to Long Working Hours*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:29:47.034564Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "949d2e8d8f6914a0",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/Shorter-hours-wanted-a-systematic-review/995365188502676",
+    "normalized_url": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/Shorter-hours-wanted-a-systematic-review/995365188502676",
+    "work_key": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/Shorter-hours-wanted-a-systematic-review/995365188502676",
+    "title": "29. Miklos Antal et al., *Shorter Hours Wanted? A Systematic Review of Working-Time Preferences and Outcomes*, International Labour Review, 2024.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:27:36.304843Z",
+    "error_message": "barreira de acesso (interstitial): As described in our Corporate Privacy Notice and Cookie Policy, we use cookies (including pixels or other similar techno",
+    "barrier_kind": "interstitial",
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "36c3ccb698fbcc0a",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.eurofound.europa.eu/en/publications/all/comparative-analysis-of-the-reduction-in-working-time-and-the-four-day-work-week-in-the-eu",
+    "normalized_url": "https://eurofound.europa.eu/en/publications/all/comparative-analysis-of-the-reduction-in-working-time-and-the-four-day-work-week-in-the-eu",
+    "work_key": "https://eurofound.europa.eu/en/publications/all/comparative-analysis-of-the-reduction-in-working-time-and-the-four-day-work-week-in-the-eu",
+    "title": "30. Eurofound, *Comparative Analysis of the Reduction in Working Time and the Four-Day Work Week in the EU*, 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:30:39.505701Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+    "tool_name": "ChatGPT"
+  }
+]

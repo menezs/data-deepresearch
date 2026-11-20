@@ -1,0 +1,1627 @@
+[
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-0",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 0,
+    "text": "A estrutura do Sistema Financeiro Nacional (SFN) brasileiro foi historicamente marcada por uma elevada concentração bancária, altas tarifas operacionais e barreiras geográficas e socioeconômicas expressivas para a população de menor renda.",
+    "cited_markers": [
+      "[15]",
+      "[29]",
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "1bb81415aef649b7",
+      "280390958cc72d8c",
+      "4224c1608d85417a"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-1",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 1,
+    "text": "Antes do advento da tecnologia de pagamentos instantâneos, estimava-se que aproximadamente 70 milhões de cidadãos viviam em condição de exclusão financeira ou sub-bancarização no país, enfrentando acesso precário aos serviços bancários formais e dependendo quase exclusivamente da circulação de dinheiro papel para a realização de suas trocas diárias.",
+    "cited_markers": [
+      "[29]",
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "280390958cc72d8c",
+      "4224c1608d85417a"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-2",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 2,
+    "text": "Essa dependência da moeda física perpetuava um círculo vicioso de vulnerabilidade econômica, ao restringir a criação de histórico financeiro para trabalhadores informais, dificultar a reserva de poupança e impor altos custos operacionais ao comércio periférico.",
+    "cited_markers": [
+      "[5]",
+      "[13]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "fed5255994b21deb",
+      "2d4da85080980183",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-3",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 3,
+    "text": "A arquitetura dos instrumentos tradicionais de transferência eletrônica do varejo bancário brasileiro, consubstanciada na Transferência Eletrônica Disponível (TED) e no Documento de Ordem de Crédito (DOC), operava sob custos elevados e horários restritos de compensação.",
+    "cited_markers": [
+      "[5]",
+      "[30]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "fed5255994b21deb",
+      "52db2b0ad9b7f4f4",
+      "32ca05a01ce1a535"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-4",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 4,
+    "text": "As tarifas incidentes sobre essas operações inviabilizavam a transferência de pequenos valores e limitavam a circulação de capital entre pessoas físicas.",
+    "cited_markers": [
+      "[5]",
+      "[33]"
+    ],
+    "cited_reference_ids": [
+      "fed5255994b21deb",
+      "ce9fc1e14e2aa61a"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-5",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 5,
+    "text": "O cenário de desbancarização sofreu um forte catalisador de mudança durante a emergência sanitária provocada pela pandemia de COVID-19 em 2020.",
+    "cited_markers": [
+      "[5]",
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "fed5255994b21deb",
+      "4224c1608d85417a"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-6",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 6,
+    "text": "A necessidade premente de distribuição descentralizada de auxílios emergenciais pelo governo federal, operacionalizada precipuamente via aplicativo Caixa Tem pela Caixa Econômica Federal, impôs a abertura compulsória e automatizada de contas digitais de poupança social para dezenas de milhões de brasileiros anteriormente desprovidos de relacionamento bancário.",
+    "cited_markers": [
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "4224c1608d85417a"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-7",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 7,
+    "text": "Foi nesse contexto de acelerada transição digital que o Banco Central do Brasil (BCB) lançou o ecossistema Pix em novembro de 2020.",
+    "cited_markers": [
+      "[1]",
+      "[15]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "1bb81415aef649b7",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-8",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 8,
+    "text": "Concebido sob a premissa de funcionar como uma Infraestrutura Pública Digital (DPI), o Pix foi estruturado com o objetivo estratégico de democratizar o acesso aos serviços financeiros, intensificar a competição bancária, elevar a eficiência do mercado de pagamentos de varejo e reduzir custos operacionais para a economia real.",
+    "cited_markers": [
+      "[10]",
+      "[12]",
+      "[17]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "94aa2675c9ef33f5",
+      "a76161b46fccaaab",
+      "36f0b0bcb96f259d",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-9",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 9,
+    "text": "Diferenciando-se de arranjos privados globais mantidos por carteiras proprietárias, o Pix estabeleceu um ecossistema aberto, interoperável e padronizado sob a governança direta da autoridade monetária, convertendo a inclusão financeira em um vetor ativo de cidadania e participação econômica.",
+    "cited_markers": [
+      "[12]",
+      "[13]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "a76161b46fccaaab",
+      "2d4da85080980183",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-10",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 10,
+    "text": "A arquitetura tecnológica e regulatória desenhada pelo Banco Central constitui a espinha dorsal da rápida escalabilidade e confiabilidade do Pix.",
+    "cited_markers": [
+      "[10]",
+      "[15]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "94aa2675c9ef33f5",
+      "1bb81415aef649b7",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-11",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 11,
+    "text": "No centro dessa infraestrutura opera o Sistema de Pagamentos Instantâneos (SPI), que atua como a infraestrutura centralizada encarregada de processar e liquidar, em tempo real e em moeda bancária central, cada transação ocorrida entre diferentes participantes do ecossistema.",
+    "cited_markers": [
+      "[3]",
+      "[6]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "914e30fd725db3d8",
+      "2b2e1b2f514ffcd2",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-12",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 12,
+    "text": "Ao garantir liquidação bruta em tempo real 24 horas por dia, 7 dias por semana, o SPI eliminou os riscos de crédito interbancário e reduziu drasticamente os custos por transação para os prestadores de serviços de pagamento.",
+    "cited_markers": [
+      "[6]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "2b2e1b2f514ffcd2",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-13",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 13,
+    "text": "Para simplificar a experiência do usuário e eliminar os gargalos operacionais da digitação exaustiva de dados bancários, o Banco Central desenvolveu o Diretório de Identificadores de Contas Transacionais (DICT).",
+    "cited_markers": [
+      "[3]",
+      "[7]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "914e30fd725db3d8",
+      "870c7a7f101141ac",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-14",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 14,
+    "text": "O DICT funciona como um repositório centralizado que conecta as chaves Pix às respectivas contas de pagamento ou de depósito mantidas pelos usuários.",
+    "cited_markers": [
+      "[3]",
+      "[7]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "914e30fd725db3d8",
+      "870c7a7f101141ac",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-15",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 15,
+    "text": "Essa simplificação metodológica reduziu sensivelmente o tempo de execução e o índice de erros na digitação das transferências, tornando a jornada do usuário intuitiva mesmo para indivíduos com baixos níveis de letramento digital.",
+    "cited_markers": [
+      "[17]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-16",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 16,
+    "text": "No âmbito regulatório, o Banco Central adotou medidas de indução decisivas ao determinar a participação obrigatória no Pix para todas as instituições financeiras e instituições de pagamento autorizadas com mais de 500 mil contas ativas.",
+    "cited_markers": [
+      "[10]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "94aa2675c9ef33f5",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-17",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 17,
+    "text": "A gratuidade tarifária estabelecida em norma para pessoas físicas e microempreendedores individuais, tanto na remessa quanto no recebimento de valores, foi associada a um custo operacional irrisório para as instituições participantes, fixado em frações de centavos por lote de transações liquidadas no SPI.",
+    "cited_markers": [
+      "[1]",
+      "[33]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "ce9fc1e14e2aa61a",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-18",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 18,
+    "text": "Esse modelo de incentivos econômicos perfeitamente alinhados garantiu a capilaridade universal da plataforma em todo o território nacional.",
+    "cited_markers": [
+      "[15]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "1bb81415aef649b7",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-19",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 19,
+    "text": "A ampla aceitação populacional e a eficiência operacional do Pix resultaram na obsolescência acelerada das modalidades tradicionais de transferência bancária de varejo.",
+    "cited_markers": [
+      "[30]",
+      "[32]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "52db2b0ad9b7f4f4",
+      "84481cdde3c9216f",
+      "32ca05a01ce1a535"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-20",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 20,
+    "text": "Em virtude do declínio acentuado no volume de operações e do custo comparativo desvantajoso, a Federação Brasileira de Bancos (FEBRABAN) e as instituições financeiras consorciadas encerraram definitivamente a emissão e o processamento de transferências via DOC e TEC no início de 2024.",
+    "cited_markers": [
+      "[30]",
+      "[31]",
+      "[32]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "52db2b0ad9b7f4f4",
+      "d3178d59f37e5e78",
+      "84481cdde3c9216f",
+      "32ca05a01ce1a535"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-21",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 21,
+    "text": "Embora a TED continue operacional para liquidações corporativas de grande porte e agendas específicas do mercado financeiro, sua relevância no varejo popular foi praticamente suplantada pelo imediatismo e custo zero do Pix.",
+    "cited_markers": [
+      "[1]",
+      "[6]",
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "2b2e1b2f514ffcd2",
+      "52db2b0ad9b7f4f4"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-22",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 22,
+    "text": "O impacto inclusivo do Pix no Brasil traduz-se em métricas operacionais e demográficas de magnitude inédita para um sistema de pagamentos instantâneos.",
+    "cited_markers": [
+      "[1]",
+      "[10]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "94aa2675c9ef33f5",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-23",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 23,
+    "text": "O ecossistema alcançou entre 148 milhões e 170 milhões de pessoas físicas usuárias ativas, o que representa a adesão de 80% a 86% da população adulta brasileira.",
+    "cited_markers": [
+      "[2]",
+      "[4]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "807b433694e43139",
+      "2d7359ed04e65fe1",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-24",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 24,
+    "text": "Estudos estatísticos promovidos pelo Banco Central revelam que o Pix atuou como o vetor direto da bancarização inicial de 71,5 milhões de indivíduos.",
+    "cited_markers": [
+      "[1]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "2b2e1b2f514ffcd2"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-25",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 25,
+    "text": "Trata-se de cidadãos que, até então, não possuíam histórico de utilização de serviços de transferência eletrônica de recursos, passando a interagir diretamente com o sistema financeiro formal.",
+    "cited_markers": [
+      "[1]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "fed5255994b21deb"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-26",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 26,
+    "text": "A infraestrutura de cadastramento do DICT atingiu a marca histórica de mais de 1 bilhão de chaves Pix registradas no país.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "914e30fd725db3d8"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-27",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 27,
+    "text": "A análise da distribuição das modalidades de chaves ativas evidencia padrões claros de comportamento quanto à segurança e à preservação da privacidade.",
+    "cited_markers": [
+      "[3]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "914e30fd725db3d8",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-28",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 28,
+    "text": "As chaves aleatórias lideram as preferências cadastrais, somando 526,8 milhões de registros e representando 52,3% do total de cadastros no sistema.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "914e30fd725db3d8"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-29",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 29,
+    "text": "Em seguida, os números de telefone celular ocupam a segunda posição, contabilizando 166,3 milhões de registros, o equivalente a 16,5% do total.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "914e30fd725db3d8"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-30",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 30,
+    "text": "Os registros baseados em Cadastro de Pessoas Físicas (CPF) totalizam 153,9 milhões de chaves, perfazendo 15,4% do total, enquanto os endereços de e-mail cadastrados somam 144,6 milhões de registros, correspondendo a 14,3% do total de chaves ativas.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "914e30fd725db3d8"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-31",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 31,
+    "text": "O crescimento quantitativo das movimentações confirma que o Pix se consolidou como a principal infraestrutura de liquidação de pagamentos no varejo brasileiro.",
+    "cited_markers": [
+      "[4]",
+      "[10]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "2d7359ed04e65fe1",
+      "94aa2675c9ef33f5",
+      "c26d48500cf15585"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-32",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 32,
+    "text": "No acumulado do ano de 2025, o sistema registrou cerca de 80 bilhões de transações liquidadas, movimentando um volume financeiro total de R$ 35 trilhões.",
+    "cited_markers": [
+      "[35]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "c26d48500cf15585",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-33",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 33,
+    "text": "Em termos mensais, os montantes transacionados alcançam cifras superiores a R$ 3 trilhões, volume equivalente a aproximadamente três vezes o Produto Interno Bruto (PIB) mensal do país.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "2d7359ed04e65fe1"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-34",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 34,
+    "text": "O ritmo diário do sistema bateu recordes sucessivos, evoluindo de 163 milhões de transações em 24 horas no final de 2023 para o pico histórico de 313,3 milhões de operações liquidadas em um único dia em 5 de dezembro de 2025.",
+    "cited_markers": [
+      "[1]",
+      "[4]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "2d7359ed04e65fe1",
+      "c26d48500cf15585"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-35",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 35,
+    "text": "A penetração socioeconômica do Pix junto às camadas de menor renda comprova seu papel como instrumento de redução da desigualdade de acesso financeiro.",
+    "cited_markers": [
+      "[13]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-36",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 36,
+    "text": "Dados consolidados no Relatório de Cidadania Financeira do Banco Central registram que entre os adultos cadastrados no Cadastro Único para Programas Sociais (CadÚnico), 74% possuem ao menos uma chave Pix cadastrada e 72% realizam pagamentos frequentes pela ferramenta.",
+    "cited_markers": [
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-37",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 37,
+    "text": "A efetividade desse uso cotidiano é comprovada pelo valor mediano das transações realizadas por pessoas físicas, que se estabilizou em R$ 36 no ano de 2025.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "c26d48500cf15585"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-38",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 38,
+    "text": "Essa mediana reduzida demonstra que o Pix atua de forma decisiva na substituição das moedas e cédulas físicas em microcompras do cotidiano.",
+    "cited_markers": [
+      "[5]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "fed5255994b21deb",
+      "c26d48500cf15585"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-39",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 39,
+    "text": "A substituição progressiva do papel-moeda pelos meios eletrônicos instantâneos produziu profundos efeitos na dinâmica da economia real brasileira.",
+    "cited_markers": [
+      "[5]",
+      "[10]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "fed5255994b21deb",
+      "94aa2675c9ef33f5",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-40",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 40,
+    "text": "Pesquisas desenvolvidas no âmbito do Banco Central apontam uma elasticidade negativa estatisticamente significante do uso do dinheiro físico em relação ao aumento da utilização do Pix.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "fed5255994b21deb"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-41",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 41,
+    "text": "Ao reduzir a necessidade do saque e do manuseio de cédulas, a plataforma atenuou os custos operacionais do comércio, diminuiu a vulnerabilidade contra assaltos em estabelecimentos comerciais e reduziu os gastos públicos envolvidos no suprimento e na logística de custódia do meio circulante nacional.",
+    "cited_markers": [
+      "[5]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "fed5255994b21deb",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-42",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 42,
+    "text": "A transição nos hábitos de consumo é visível no crescimento vertiginoso das transações entre pessoas e empresas (Person-to-Business - P2B).",
+    "cited_markers": [
+      "[1]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "c26d48500cf15585"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-43",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 43,
+    "text": "Enquanto nos primeiros meses após o lançamento em 2020 as operações P2B representavam cerca de 10% do total movimentado no Pix, essa fatia expandiu-se continuamente até atingir a faixa de 41% a 43% do total de transações registradas no país.",
+    "cited_markers": [
+      "[1]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "c26d48500cf15585"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-44",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 44,
+    "text": "Pesquisas de comportamento de consumo mostram que 76% dos cidadãos escolhem o Pix por sua praticidade operacional e 54% justificam o uso pela conveniência de não precisar carregar dinheiro físico ou cartões de plástico.",
+    "cited_markers": [
+      "[37]"
+    ],
+    "cited_reference_ids": [
+      "f121b77ba479c953"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-45",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 45,
+    "text": "O impacto sobre o setor informal e o microempreendedorismo urbano e rural foi transformador.",
+    "cited_markers": [
+      "[19]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "9aa230f43da3aac9",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-46",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 46,
+    "text": "Trabalhadores autônomos, feirantes, prestadores de serviços e Microempreendedores Individuais (MEIs) integraram o Pix como seu principal terminal de recebimento.",
+    "cited_markers": [
+      "[19]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "9aa230f43da3aac9",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-47",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 47,
+    "text": "A eliminação do aluguel das credenciadoras de cartão e o fim da cobrança da taxa de desconto cobrada do comerciante (Merchant Discount Rate - MDR) permitiram a preservação das margens de lucro dos pequenos negócios.",
+    "cited_markers": [
+      "[17]",
+      "[37]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d",
+      "f121b77ba479c953"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-48",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 48,
+    "text": "Adicionalmente, a liquidação em tempo real garantiu a injeção imediata de caixa nos estabelecimentos, aprimorando a gestão do capital de giro de milhões de microempresas.",
+    "cited_markers": [
+      "[17]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d",
+      "9aa230f43da3aac9"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-49",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 49,
+    "text": "A inclusão promovida pelo Pix atravessou também recortes demográficos e de gênero.",
+    "cited_markers": [
+      "[21]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "1b7dbecd8a9fc022",
+      "c26d48500cf15585"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-50",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 50,
+    "text": "A adesão entre a população idosa avançou aceleradamente, atingindo a marca de 51% de utilização ativa entre os brasileiros com mais de 60 anos de idade.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "c26d48500cf15585"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-51",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 51,
+    "text": "Sob a ótica de gênero, embora o volume financeiro transacionado apresente maior concentração no público masculino, o volume de operações reflete um equilíbrio quase perfeito, com 51% das transações efetuadas por homens e 49% por mulheres.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "c26d48500cf15585"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-52",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 52,
+    "text": "Estudos acadêmicos ressaltam que o fácil acesso às transferências instantâneas fortaleceu a autonomia financeira feminina e facilitou o gerenciamento de pequenos negócios geridos por mulheres em comunidades periféricas.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "1b7dbecd8a9fc022"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-53",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 53,
+    "text": "Além de atuar como meio de pagamento, a trilha transacional aberta pelo Pix serviu de ponte para o acesso ampliado a produtos bancários mais complexos, sobretudo o crédito formal.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "7128506f308b2311",
+      "94aa2675c9ef33f5",
+      "1bb81415aef649b7"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-54",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 54,
+    "text": "A criação de históricos diários de movimentação de caixa digital permitiu que fintechs e bancos tradicionais desenvolvessem modelos alternativos de avaliação de risco de crédito, viabilizando a concessão de empréstimos a cidadãos sem comprovante tradicional de renda.",
+    "cited_markers": [
+      "[8]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "7128506f308b2311",
+      "94aa2675c9ef33f5"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-55",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 55,
+    "text": "Em decorrência desse fenômeno, o número de jovens e indivíduos de menor renda com acesso ao crédito formal mais que dobrou no país.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "7128506f308b2311"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-56",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 56,
+    "text": "Contudo, a rápida expansão do crédito bancário atrelada à digitalização transacional expôs o sistema a desafios de vulnerabilidade financeira.",
+    "cited_markers": [
+      "[13]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-57",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 57,
+    "text": "Conforme destacado nos relatórios de estabilidade do Banco Central, o avanço da bancarização acelerou o endividamento das famílias de baixa renda através de linhas de cartão de crédito e empréstimos pessoais sem garantia.",
+    "cited_markers": [
+      "[8]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "7128506f308b2311",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-58",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 58,
+    "text": "O aumento da inadimplência no crédito rotativo evidencia que a inclusão financeira proporcionada pela tecnologia precisa vir obrigatoriamente acompanhada de estratégias contínuas de educação e cidadania financeira, a fim de evitar que o acesso fácil aos meios de pagamento se converta em superendividamento familiar.",
+    "cited_markers": [
+      "[8]",
+      "[13]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "7128506f308b2311",
+      "2d4da85080980183",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-59",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 59,
+    "text": "A velocidade de liquidação e o volume transacionado no Pix atraíram a atuação atrevida de redes criminosas especializadas em fraudes cibernéticas, engenharia social, sequestros relâmpago e aplicação de golpes digitais.",
+    "cited_markers": [
+      "[22]",
+      "[23]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "15456336d4015692",
+      "c5ad9fb21b831f3e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-60",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 60,
+    "text": "A principal engrenagem utilizada por essas organizações para dispersar os recursos oriundos de ilícitos fundamentou-se na abertura e no aluguel de \"contas-laranja\" e \"mulas financeiras\", abertas por meio de falhas de checagem cadastral nas etapas de onboarding de determinadas instituições financeiras e de pagamento.",
+    "cited_markers": [
+      "[22]",
+      "[24]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "15456336d4015692",
+      "891db28797a5c29e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-61",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 61,
+    "text": "Com o intuito de estruturar um fluxo padronizado de ressarcimento de valores fraudados, o Banco Central instituiu o Mecanismo Especial de Devolução (MED) por meio das Resoluções BCB nº 103/2021 e nº 147/2021.",
+    "cited_markers": [
+      "[22]",
+      "[25]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "15456336d4015692",
+      "de244fb8786509bf",
+      "07036727c02829f1"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-62",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 62,
+    "text": "O MED foi desenhado para viabilizar o estorno célere de recursos de transações marcadas por fraudes, golpes ou falhas operacionais.",
+    "cited_markers": [
+      "[22]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "15456336d4015692",
+      "07036727c02829f1"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-63",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 63,
+    "text": "Por meio deste arcabouço, as instituições participantes do Pix foram autorizadas contratualmente a bloquear e debitar valores diretamente da conta transacional do recebedor acusado de fraude, prescindindo do consentimento individual do correntista fraudador.",
+    "cited_markers": [
+      "[28]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "07036727c02829f1",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-64",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 64,
+    "text": "Apesar de seu avanço conceitual, a primeira versão operacional do MED apresentou gargalos práticos diante da agilidade dos criminosos.",
+    "cited_markers": [
+      "[23]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "891db28797a5c29e"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-65",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 65,
+    "text": "A estratégia padrão das redes de fraude consistia em realizar transferências imediatas e pulverizadas em cascata para múltiplas contas bancárias de terceiros segundos após o recebimento do montante fraudado.",
+    "cited_markers": [
+      "[23]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-66",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 66,
+    "text": "Quando a vítima registrava a notificação de infração e o banco da vítima acionava a instituição recebedora, a conta primária de destino já se encontrava completamente esvaziada, inviabilizando o estorno por ausência de saldo.",
+    "cited_markers": [
+      "[23]",
+      "[24]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "891db28797a5c29e",
+      "de244fb8786509bf"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-67",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 67,
+    "text": "Para responder a essa limitação e enfraquecer a arquitetura financeira do crime organizado, o Banco Central atualizou a regulamentação e lançou o MED 2.0.",
+    "cited_markers": [
+      "[23]",
+      "[24]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "891db28797a5c29e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-68",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 68,
+    "text": "O novo arcabouço introduziu melhorias decisivas no rastreamento e na recuperação de ativos.",
+    "cited_markers": [
+      "[23]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "891db28797a5c29e"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-69",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 69,
+    "text": "O rastreamento de valores passou a operar em múltiplas camadas, acompanhando a rota do dinheiro mesmo que os valores tenham sido fracionados e transferidos para diversas contas sucessivas em diferentes instituições.",
+    "cited_markers": [
+      "[23]",
+      "[24]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "891db28797a5c29e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-70",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 70,
+    "text": "As instituições participantes foram obrigadas a reportar continuamente todas as transações internas executadas dentro de seu próprio sistema através da mensageria Track 02, conferindo visibilidade completa ao Banco Central sobre o percurso dos fundos.",
+    "cited_markers": [
+      "[23]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-71",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 71,
+    "text": "Além disso, o processo de solicitação de devolução foi automatizado via DICT, dispensando a necessidade de abertura manual de Notificações de Infração a cada etapa da cadeia de transferência.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-72",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 72,
+    "text": "As contas identificadas ao longo da cadeia rastreada passam a receber marcação de fraude automatizada e compartilhada no DICT, bloqueando a atuação de proprietários recorrentes de contas-laranja.",
+    "cited_markers": [
+      "[23]",
+      "[24]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "891db28797a5c29e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-73",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 73,
+    "text": "O sistema passou a permitir bloqueios múltiplos e o monitoramento automático da conta do recebedor fraudulento por até 90 dias, retendo novos créditos que ingressem na conta até que o valor contestado seja integralmente quitado.",
+    "cited_markers": [
+      "[23]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "de244fb8786509bf"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-74",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 74,
+    "text": "Paralelamente, o prazo concedido para que o usuário vítima de golpe possa solicitar a contestação e a abertura do MED junto ao seu banco foi estendido de 30 para até 80 dias.",
+    "cited_markers": [
+      "[22]",
+      "[24]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "15456336d4015692",
+      "891db28797a5c29e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-75",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 75,
+    "text": "No âmbito judicial, consolidou-se uma jurisprudência firme quanto à responsabilização objetiva das instituições financeiras que falham no dever de segurança do Pix.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "de244fb8786509bf"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-76",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 76,
+    "text": "Amparados na Súmula 479 do Superior Tribunal de Justiça (STJ), os tribunais brasileiros têm condenado com frequência os bancos recebedores a ressarcir integralmente as vítimas de golpes quando demonstrada a demora injustificada no processamento do bloqueio cautelar do MED ou a permissão para abertura de contas fraudulentas por terceiros.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "de244fb8786509bf"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-77",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 77,
+    "text": "A omissão na execução célere dos deveres regulatórios impostos pelo BCB transfere às instituições o dever de reparação dos desfalques patrimoniais sofridos pelos correntistas.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "de244fb8786509bf"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-78",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 78,
+    "text": "Adicionalmente, para sanear a base de usuários e eliminar fragilidades cadastrais, o Banco Central estabeleceu regras prudenciais mais rígidas para as instituições de pagamento participantes.",
+    "cited_markers": [
+      "[29]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "280390958cc72d8c",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-79",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 79,
+    "text": "Determinou-se o limite de R$ 15 mil para transações Pix e TED iniciadas por instituições não autorizadas a funcionar pelo BCB ou conectadas via Prestadores de Serviços de Tecnologia da Informação (PSTI), exigindo-se ainda capital mínimo de R$ 15 milhões e a implementação obrigatória de esteiras rigorosas de validação cadastral, como documentoscopia avançada e associação compulsória do aplicativo ao dispositivo físico do usuário.",
+    "cited_markers": [
+      "[29]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "280390958cc72d8c",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-80",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 80,
+    "text": "A agenda evolutiva do Pix desenhada pelo Banco Central projeta o sistema para além de um instrumento básico de transferência de recursos, consolidando-o como uma plataforma integrada de serviços financeiros digitais e infraestrutura de mercado.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-81",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 81,
+    "text": "No âmbito das utilidades do cotidiano, ferramentas como o Pix Saque e o Pix Troco expandiram os pontos de acesso à moeda física, permitindo que estabelecimentos comerciais e redes varejistas atuem como correspondentes na oferta de numerário, otimizando o fluxo de caixa dos estabelecimentos e reduzindo os custos de transporte de valores.",
+    "cited_markers": [
+      "[4]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "2d7359ed04e65fe1",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-82",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 82,
+    "text": "A principal inovação para o ambiente de pagamentos recorrentes é o Pix Automático, projetado para transformar a arrecadação de serviços essenciais e cobranças periódicas.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "dcae64847a6ea347"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-83",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 83,
+    "text": "Lançado para operar como substituto do débito automático interbancário e das cobranças recorrentes no cartão de crédito, o Pix Automático possibilita que concessionárias de serviços públicos, estabelecimentos de ensino, academias, planos de saúde e serviços de assinatura realizem cobranças periódicas mediante autorização única e prévia concedida pelo pagador.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[56]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-84",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 84,
+    "text": "A solução garante gratuidade ao consumidor pessoa física e reduz substancialmente os custos de cobrança para as empresas, eliminando as taxas de intermediação de cartão e mitigando os índices de inadimplência decorrentes de cartões cancelados ou vencidos.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "dcae64847a6ea347"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-85",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 85,
+    "text": "No campo dos pagamentos presenciais de alta frequência, destaca-se o desenvolvimento do Pix por Aproximação.",
+    "cited_markers": [
+      "[9]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-86",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 86,
+    "text": "Utilizando a tecnologia de Comunicação por Campo de Proximidade (NFC) integrada às carteiras digitais em dispositivos móveis, o produto reduz os pontos de fricção na compra presencial, dispensando a abertura manual do aplicativo bancário ou a leitura de códigos QR.",
+    "cited_markers": [
+      "[9]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-87",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 87,
+    "text": "O projeto prevê ainda o funcionamento do Pix por Aproximação na modalidade offline, permitindo a execução de pagamentos em ambientes desprovidos de sinal de internet, como catracas de transporte público, praças de pedágio e feiras rurais.",
+    "cited_markers": [
+      "[9]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-88",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 88,
+    "text": "A convergência do Pix com o ambiente do Open Finance viabiliza novas jornadas de iniciação de pagamentos.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-89",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 89,
+    "text": "A atuação dos Iniciadores de Transação de Pagamento (ITPs) permite a conclusão de compras em e-commerce e aplicativos de entrega em ambiente único, sem redirecionamento para o app do banco.",
+    "cited_markers": [
+      "[11]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "44433d554edda5b4",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-90",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 90,
+    "text": "Outra inovação em fase de regulamentação é o Split Payment no Pix.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "891db28797a5c29e"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-91",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 91,
+    "text": "Essa funcionalidade viabilizará a retenção e o recolhimento automático de tributos no momento exato em que a transação é liquidada no SPI, direcionando a parcela dos impostos diretamente aos cofres públicos e creditando o montante líquido na conta do vendedor, simplificando a conformidade fiscal dos estabelecimentos.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "891db28797a5c29e"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-92",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 92,
+    "text": "No mercado corporativo e no segmento de crédito, o Pix evolui para integrar a infraestrutura de duplicatas escriturais e operações garantidas.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "891db28797a5c29e"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-93",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 93,
+    "text": "O fluxo de recebíveis futuros transacionados via Pix poderá ser utilizado como colateral transparente e auditável em operações de financiamento e empréstimos bancários, reduzindo os juros cobrados das micro e pequenas empresas.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "891db28797a5c29e"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-94",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 94,
+    "text": "Paralelamente, desenvolvem-se modalidades de Pix Crédito, permitindo que consumidores efetuem pagamentos instantâneos utilizando limites de crédito concedidos por suas instituições financeiras de relacionamento.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "891db28797a5c29e"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-95",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 95,
+    "text": "A dimensão internacional da plataforma contempla a inserção transfronteiriça do Pix.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "9aa230f43da3aac9"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-96",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 96,
+    "text": "O Banco Central do Brasil negocia acordos bilaterais e projetos multilaterais para interconectar o SPI com sistemas de pagamentos instantâneos de outros países.",
+    "cited_markers": [
+      "[2]",
+      "[9]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "807b433694e43139",
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-97",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 97,
+    "text": "O plano inclui a integração ao sistema TARGET Instant Payment Settlement (TIPS) da União Europeia e a participação no Projeto Nexus, liderado pelo Banco de Compensações Internacionais (BIS).",
+    "cited_markers": [
+      "[2]",
+      "[6]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "807b433694e43139",
+      "2b2e1b2f514ffcd2",
+      "44433d554edda5b4"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-98",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 98,
+    "text": "Essa internacionalização visa baratear o envio de remessas por migrantes, dinamizar o comércio exterior de pequeno porte e facilitar os gastos de turistas brasileiros no exterior e de estrangeiros no Brasil.",
+    "cited_markers": [
+      "[2]",
+      "[11]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "807b433694e43139",
+      "44433d554edda5b4",
+      "9aa230f43da3aac9"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-99",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 99,
+    "text": "A trajetória do Pix consolidou a plataforma como um estudo de caso global sobre a capacidade das Infraestruturas Públicas Digitais em promover a inclusão financeira, fomentar a competição no mercado bancário e dinamizar a economia real.",
+    "cited_markers": [
+      "[17]",
+      "[18]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d",
+      "5b9587f6571c8843",
+      "e1d223cef2b8e3ba"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-100",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 100,
+    "text": "Ao assegurar interoperabilidade, gratuidade para pessoas físicas e liquidação em tempo real sob governança pública, o Banco Central do Brasil transformou o sistema de pagamentos de varejo e incluiu mais de 71,5 milhões de cidadãos na economia digital formal.",
+    "cited_markers": [
+      "[1]",
+      "[10]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "2b43bb5b3362e121",
+      "94aa2675c9ef33f5",
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-101",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 101,
+    "text": "A massificação da plataforma brought também a necessidade de aperfeiçoamentos constantes na segurança cibernética e no combate às fraudes.",
+    "cited_markers": [
+      "[22]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "15456336d4015692",
+      "891db28797a5c29e"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-102",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 102,
+    "text": "A implementação do MED 2.0, o rastreamento em múltiplas camadas e o endurecimento das exigências cadastrais para as instituições financeiras refletem o compromisso do regulador em preservar a confiança do público no ecossistema de pagamentos.",
+    "cited_markers": [
+      "[23]",
+      "[24]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "891db28797a5c29e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-103",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 103,
+    "text": "Primeiramente, é fundamental institucionalizar campanhas nacionais permanentes de cidadania financeira integradas diretamente às interfaces das carteiras digitais.",
+    "cited_markers": [
+      "[8]",
+      "[13]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "7128506f308b2311",
+      "2d4da85080980183",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-104",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 104,
+    "text": "Essas ações devem focar na conscientização preventiva contra golpes de engenharia social e na orientação ao uso consciente do crédito bancário, mitigando os riscos de superendividamento que acompanharam a expansão da bancarização entre as famílias de baixa renda.",
+    "cited_markers": [
+      "[8]",
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "7128506f308b2311",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-105",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 105,
+    "text": "Em segundo lugar, cabe aprofundar o uso de ferramentas de inteligência artificial compartilhadas no DICT para a detecção preditiva de comportamentos atípicos e automação do bloqueio cautelar em cascata via MED 2.0.",
+    "cited_markers": [
+      "[23]",
+      "[24]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "c5ad9fb21b831f3e",
+      "891db28797a5c29e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-106",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 106,
+    "text": "Esse movimento é essencial para inviabilizar o modelo de negócios das redes criminosas estruturado sobre o aluguel de contas-laranja.",
+    "cited_markers": [
+      "[24]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "891db28797a5c29e",
+      "280390958cc72d8c"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-107",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 107,
+    "text": "Em terceiro lugar, deve-se priorizar a homologação tecnológica do Pix por Aproximação em modo offline, assegurando que os benefícios da digitalização dos pagamentos alcancem plenamente regiões com infraestrutura de conectividade precária, tais como zonas rurais isoladas e sistemas de transporte público periféricos.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "44433d554edda5b4",
+      "553e242e43bc58c3"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-108",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 108,
+    "text": "Além disso, é imprescindível manter exigências cadastrais prudenciais rigorosas sobre as instituições participantes, atrelando a validação biométrica compulsória e a documentoscopia automatizada no onboarding à responsabilidade civil objetiva das instituições de pagamento pela segurança do ecossistema.",
+    "cited_markers": [
+      "[25]",
+      "[29]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "de244fb8786509bf",
+      "280390958cc72d8c",
+      "8652afca8ca4c27f"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-109",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 109,
+    "text": "Por fim, recomenda-se avançar nas tratativas regulatórias e operacionais para a interconexão transfronteiriça do Pix com arranjos internacionais, reduzindo os custos de remessas e posicionando o Brasil como liderança na integração dos pagamentos instantâneos globais.",
+    "cited_markers": [
+      "[2]",
+      "[11]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "807b433694e43139",
+      "44433d554edda5b4",
+      "9aa230f43da3aac9"
+    ]
+  },
+  {
+    "id": "pix_brasil_0fa70f936311_20261101T184422Z-110",
+    "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+    "position": 110,
+    "text": "Com o fortalecimento contínuo de sua governança e a expansão planejada de suas funcionalidades, o Pix reafirma seu papel central na modernização e democratização do sistema econômico brasileiro.",
+    "cited_markers": [
+      "[10]",
+      "[17]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "94aa2675c9ef33f5",
+      "36f0b0bcb96f259d",
+      "5b9587f6571c8843"
+    ]
+  }
+]

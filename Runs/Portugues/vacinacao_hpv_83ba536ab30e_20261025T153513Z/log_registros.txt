@@ -1,0 +1,130 @@
+2026-10-25 11:35:13,798 INFO     auditframework.cli: Iniciando run vacinacao_hpv_83ba536ab30e_20261025T153513Z para answers/Claude/Consolidado/vacinacao_hpv.md (ferramenta=Claude)
+2026-10-25 11:35:23,995 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-10-25 11:35:23,995 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-10-25 11:35:26,200 INFO     auditframework.terminal: Loading weights: 100%|████████████████████████████████████████████████████████████████████████| 391/391 [00:00<00:00, 13331.49it/s]
+2026-10-25 11:35:36,666 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-10-25 11:35:36,676 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-10-25 11:35:36,685 INFO     auditframework.pipeline: Extraidas 44 referencias de answers/Claude/Consolidado/vacinacao_hpv.md (0 descartadas como artefato do exportador)
+2026-10-25 11:35:36,695 INFO     auditframework.pipeline: Resposta dividida em 88 afirmacoes citadas
+2026-10-25 11:35:36,697 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-10-25 11:35:36,698 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-10-25 11:35:36,701 INFO     auditframework.ingestion.service: Ingestao: 44 referencias, 0 ja baixadas, 0 ja bloqueadas, 44 pendentes
+2026-10-25 11:35:44,329 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009069.pub3/pdf/CDSR/CD009069/CD009069_abstract.pdf
+2026-10-25 11:35:44,638 WARNING  auditframework.ingestion.service: Barreira de acesso (interstitial) em https://www.who.int/initiatives/cervical-cancer-elimination-initiative/cervical-cancer-forum
+2026-10-25 11:35:47,398 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://mdedge.com/content/cochrane-report-hpv-vaccine-proves-its-worth-adolescent-young-adult-women
+2026-10-25 11:35:52,245 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://pulsetoday.co.uk/?p=142882
+2026-10-25 11:35:53,739 WARNING  trafilatura.core: discarding data: None
+2026-10-25 11:35:54,472 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://oalib-perpustakaan.upi.edu/Record/doaj_4e874a61a70a4f4fa1fc761eea178a97/Description
+2026-10-25 11:35:54,685 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://researchexchange.ocrahope.org/papers/s0140-6736-21-02178-4
+2026-10-25 11:35:57,894 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://immattersacp.org/weekly/archives/2025/12/09/1.htm
+2026-10-25 11:35:59,314 WARNING  trafilatura.core: discarding data: None
+2026-10-25 11:35:59,315 WARNING  auditframework.ingestion.service: Falha ao converter https://tri.edu.au/node/6103: trafilatura nao conseguiu extrair conteudo principal do HTML
+2026-10-25 11:36:07,304 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://www.ocafezinho.com/2026/04/14/sus-implementa-teste-molecular-de-hpv-como-estrategia-principal-de-rastreamento-do-cancer-do-colo-do-utero/amp/
+2026-10-25 11:36:07,308 INFO     auditframework.terminal: Baixando referências: 100%|███████████████████████████████████████████████████████████████████████| 44/44 [00:30<00:00,  1.44ref/s]
+2026-10-25 11:36:07,309 INFO     auditframework.ingestion.service: Retentando 4 referencia(s) inacessivel(is) (falha possivelmente transitoria)
+2026-10-25 11:36:07,438 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009069.pub3/pdf/CDSR/CD009069/CD009069_abstract.pdf
+2026-10-25 11:36:12,698 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://oalib-perpustakaan.upi.edu/Record/doaj_4e874a61a70a4f4fa1fc761eea178a97/Description
+2026-10-25 11:36:15,774 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://researchexchange.ocrahope.org/papers/s0140-6736-21-02178-4
+2026-10-25 11:36:18,757 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://www.ocafezinho.com/2026/04/14/sus-implementa-teste-molecular-de-hpv-como-estrategia-principal-de-rastreamento-do-cancer-do-colo-do-utero/amp/
+2026-10-25 11:36:18,759 INFO     auditframework.terminal: Retentando inacessíveis: 100%|██████████████████████████████████████████████████████████████████████| 4/4 [00:11<00:00,  2.86s/ref]
+2026-10-25 11:36:18,762 INFO     auditframework.pipeline: Ingestao concluida: 35 documentos disponiveis
+2026-10-25 11:36:18,764 INFO     auditframework.terminal: ✓ ingestion concluído em 43.3s
+2026-10-25 11:36:18,766 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-10-25 11:36:19,376 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|█████████████████████████████████████████████████████████████| 35/35 [00:00<00:00, 58.43doc/s]
+2026-10-25 11:36:19,377 INFO     auditframework.indexing.service: Gerando embeddings para 206 chunks de 35 documentos
+2026-10-25 11:36:28,465 INFO     auditframework.terminal: Batches: 100%|█████████████████████████████████████████████████████████████████████████████████████| 13/13 [00:09<00:00,  1.43it/s]
+2026-10-25 11:36:28,498 INFO     auditframework.pipeline: Indice construido a partir de 35 documentos
+2026-10-25 11:36:28,501 INFO     auditframework.terminal: ✓ indexing concluído em 11.0s
+2026-10-25 11:36:28,502 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-10-25 11:36:28,510 INFO     auditframework.pipeline: Julgamento: 88 chunks, 0 ja julgados, 0 ja pulados, 88 pendentes
+2026-10-25 11:36:29,389 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-10-25 11:36:29,884 INFO     auditframework.terminal: Recuperando contexto:   0%|                                                                              | 0/88 [00:00<?, ?chunk/s]
+2026-10-25 11:36:29,990 INFO     auditframework.terminal: Loading weights:   0%|                                                                                     | 0/393 [00:00<?, ?it/s]
+2026-10-25 11:36:30,092 INFO     auditframework.terminal: Loading weights:  28%|████████████████████▏                                                    | 109/393 [00:00<00:00, 1067.33it/s]
+2026-10-25 11:36:30,193 INFO     auditframework.terminal: Loading weights:  55%|████████████████████████████████████████▎                                | 217/393 [00:00<00:00, 1064.28it/s]
+2026-10-25 11:36:30,239 INFO     auditframework.terminal: Loading weights: 100%|█████████████████████████████████████████████████████████████████████████| 393/393 [00:00<00:00, 1120.37it/s]
+2026-10-25 11:36:43,764 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-2 nao sera auditado: Referencia(s) citada(s) ['4e792edbdd54108f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:36:47,075 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-13 nao sera auditado: Referencia(s) citada(s) ['3366c2cf3a2971f9'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:36:47,077 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-14 nao sera auditado: Referencia(s) citada(s) ['3366c2cf3a2971f9'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:36:47,079 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-15 nao sera auditado: Referencia(s) citada(s) ['2c7475cf88d5f960'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:36:47,707 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-21 nao sera auditado: Referencia(s) citada(s) ['6317eb68a64a7b60'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:36:47,851 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-23 nao sera auditado: Referencia(s) citada(s) ['dbdde3c4d6251bee'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:36:48,037 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-25 nao sera auditado: Referencia(s) citada(s) ['6b28389c16049223'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:36:49,974 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-31 nao sera auditado: Referencia(s) citada(s) ['60fab7be2b39184c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:36:50,469 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-34 nao sera auditado: Referencia(s) citada(s) ['e5a30ca762aae1b3'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:36:50,471 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-35 nao sera auditado: Referencia(s) citada(s) ['e5a30ca762aae1b3'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:36:58,613 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-63 nao sera auditado: Referencia(s) citada(s) ['259868a97827cf7b'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:36:59,676 WARNING  auditframework.indexing.retriever: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-72 nao sera auditado: Referencia(s) citada(s) ['2c7475cf88d5f960'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:37:04,011 INFO     auditframework.terminal: Recuperando contexto: 100%|█████████████████████████████████████████████████████████████████████| 88/88 [00:35<00:00,  2.48chunk/s]
+2026-10-25 11:37:22,785 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-2 nao auditado: Referencia(s) citada(s) ['4e792edbdd54108f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:38:10,162 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-13 nao auditado: Referencia(s) citada(s) ['3366c2cf3a2971f9'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:38:10,163 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-14 nao auditado: Referencia(s) citada(s) ['3366c2cf3a2971f9'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:38:10,164 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-15 nao auditado: Referencia(s) citada(s) ['2c7475cf88d5f960'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:38:42,595 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-21 nao auditado: Referencia(s) citada(s) ['6317eb68a64a7b60'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:38:46,684 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-23 nao auditado: Referencia(s) citada(s) ['dbdde3c4d6251bee'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:38:49,298 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-25 nao auditado: Referencia(s) citada(s) ['6b28389c16049223'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:39:11,049 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-31 nao auditado: Referencia(s) citada(s) ['60fab7be2b39184c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-10-25 11:39:16,293 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-34 nao auditado: Referencia(s) citada(s) ['e5a30ca762aae1b3'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:39:16,295 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-35 nao auditado: Referencia(s) citada(s) ['e5a30ca762aae1b3'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:40:36,341 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-63 nao auditado: Referencia(s) citada(s) ['259868a97827cf7b'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:41:12,822 WARNING  auditframework.pipeline: Chunk vacinacao_hpv_83ba536ab30e_20261025T153513Z-72 nao auditado: Referencia(s) citada(s) ['2c7475cf88d5f960'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-10-25 11:43:05,867 INFO     auditframework.terminal: Julgando chunks: 100%|██████████████████████████████████████████████████████████████████████████| 88/88 [06:01<00:00,  4.11s/chunk]
+2026-10-25 11:43:05,870 INFO     auditframework.terminal: ✓ judging concluído em 412.5s
+2026-10-25 11:43:05,883 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-10-25 11:43:05,893 INFO     auditframework.pipeline: Relatorio gerado em data/runs/vacinacao_hpv_83ba536ab30e_20261025T153513Z/report.md
+2026-10-25 11:43:05,895 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-10-25 11:43:05,895 INFO     auditframework.cli: Run vacinacao_hpv_83ba536ab30e_20261025T153513Z concluida
+2026-10-25 11:43:05,896 INFO     auditframework.terminal: Relatorio gerado em data/runs/vacinacao_hpv_83ba536ab30e_20261025T153513Z/report.md
+2026-11-03 23:36:58,687 INFO     auditframework.terminal: audit refetch vacinacao_hpv_83ba536ab30e_20261025T153513Z
+2026-11-03 23:36:58,693 INFO     auditframework.ingestion.service: Ingestao: 44 referencias, 35 ja baixadas, 0 ja bloqueadas, 9 pendentes
+2026-11-03 23:36:58,974 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009069.pub3/pdf/CDSR/CD009069/CD009069_abstract.pdf
+2026-11-03 23:37:02,507 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://mdedge.com/content/cochrane-report-hpv-vaccine-proves-its-worth-adolescent-young-adult-women
+2026-11-03 23:37:03,300 WARNING  auditframework.ingestion.service: Barreira de acesso (interstitial) em https://www.who.int/initiatives/cervical-cancer-elimination-initiative/cervical-cancer-forum
+2026-11-03 23:37:03,994 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:37:04,748 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://pulsetoday.co.uk/?p=142882
+2026-11-03 23:37:05,513 WARNING  auditframework.ingestion.service: Referencia morta: https://www.ocafezinho.com/2026/04/14/sus-implementa-teste-molecular-de-hpv-como-estrategia-principal-de-rastreamento-do-cancer-do-colo-do-utero/amp/
+2026-11-03 23:37:06,815 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://immattersacp.org/weekly/archives/2025/12/09/1.htm
+2026-11-03 23:37:07,284 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://researchexchange.ocrahope.org/papers/s0140-6736-21-02178-4
+2026-11-03 23:37:08,964 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:37:08,965 WARNING  auditframework.ingestion.service: Falha ao converter https://tri.edu.au/node/6103: trafilatura nao conseguiu extrair conteudo principal do HTML
+2026-11-03 23:37:08,966 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 9/9 [00:10<00:00,  1.14s/ref]
+2026-11-03 23:37:08,967 INFO     auditframework.ingestion.service: Retentando 2 referencia(s) inacessivel(is) (falha possivelmente transitoria)
+2026-11-03 23:37:09,293 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009069.pub3/pdf/CDSR/CD009069/CD009069_abstract.pdf
+2026-11-03 23:37:12,933 WARNING  auditframework.ingestion.service: Referencia inacessivel: https://researchexchange.ocrahope.org/papers/s0140-6736-21-02178-4
+2026-11-03 23:37:12,935 INFO     auditframework.terminal: Retentando inacessíveis: 100%|██████████| 2/2 [00:03<00:00,  1.98s/ref]
+2026-11-03 23:37:12,939 INFO     auditframework.terminal: vacinacao_hpv_83ba536ab30e_20261025T153513Z: 9 fonte(s) sem conteudo, 1 recuperada(s)
+2026-11-03 23:37:12,939 INFO     auditframework.terminal:   https://oalib-perpustakaan.upi.edu/Record/doaj_4e874a61a70a4f4fa1fc761eea178a97/Description — downloaded
+2026-11-03 23:37:13,030 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para data/runs/vacinacao_hpv_83ba536ab30e_20261025T153513Z/invalidado-20261104T033712Z
+2026-11-03 23:37:13,030 INFO     auditframework.terminal: 2 trecho(s) citado(s) para julgar de novo (os demais mantem o veredito)
+2026-11-03 23:37:13,031 INFO     auditframework.terminal: Rode: audit resume vacinacao_hpv_83ba536ab30e_20261025T153513Z
+2026-11-03 23:37:13,517 INFO     __main__: Retomando run vacinacao_hpv_83ba536ab30e_20261025T153513Z
+2026-11-03 23:37:19,607 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:37:19,607 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:37:21,659 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 8664.59it/s]
+2026-11-03 23:37:29,276 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-03 23:37:29,284 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-03 23:37:29,285 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-03 23:37:29,286 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-03 23:37:29,709 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 36/36 [00:00<00:00, 85.69doc/s]
+2026-11-03 23:37:29,709 INFO     auditframework.indexing.service: Gerando embeddings para 208 chunks de 36 documentos
+2026-11-03 23:37:41,139 INFO     auditframework.terminal: Batches: 100%|██████████| 13/13 [00:11<00:00,  1.14it/s]
+2026-11-03 23:37:41,155 INFO     auditframework.pipeline: Indice construido a partir de 36 documentos
+2026-11-03 23:37:41,157 INFO     auditframework.terminal: ✓ indexing concluído em 11.9s
+2026-11-03 23:37:41,158 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-03 23:37:41,162 INFO     auditframework.pipeline: Julgamento: 88 chunks, 76 ja julgados, 10 ja pulados, 2 pendentes
+2026-11-03 23:37:43,205 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-03 23:37:43,665 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/2 [00:00<?, ?chunk/s]
+2026-11-03 23:37:43,768 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-03 23:37:43,870 INFO     auditframework.terminal: Loading weights:   9%|▉         | 36/393 [00:00<00:01, 353.09it/s]
+2026-11-03 23:37:44,000 INFO     auditframework.terminal: Loading weights:  21%|██        | 81/393 [00:00<00:00, 404.88it/s]
+2026-11-03 23:37:44,093 INFO     auditframework.terminal: Loading weights:  31%|███       | 122/393 [00:00<00:00, 373.31it/s]
+2026-11-03 23:37:44,193 INFO     auditframework.terminal: Loading weights:  51%|█████▏    | 202/393 [00:00<00:00, 531.18it/s]
+2026-11-03 23:37:44,286 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 633.72it/s]
+2026-11-03 23:37:56,491 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 2/2 [00:15<00:00,  7.66s/chunk]
+2026-11-03 23:38:47,603 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 2/2 [00:51<00:00, 25.56s/chunk]
+2026-11-03 23:38:47,604 INFO     auditframework.terminal: ✓ judging concluído em 66.4s
+2026-11-03 23:38:47,606 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-03 23:38:47,612 INFO     auditframework.pipeline: Relatorio gerado em data/runs/vacinacao_hpv_83ba536ab30e_20261025T153513Z/report.md
+2026-11-03 23:38:47,613 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-03 23:38:47,613 INFO     __main__: Run vacinacao_hpv_83ba536ab30e_20261025T153513Z concluida
+2026-11-03 23:38:47,614 INFO     auditframework.terminal: Relatorio gerado em data/runs/vacinacao_hpv_83ba536ab30e_20261025T153513Z/report.md

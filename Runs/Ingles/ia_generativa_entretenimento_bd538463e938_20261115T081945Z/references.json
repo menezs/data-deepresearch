@@ -1,0 +1,515 @@
+[
+  {
+    "id": "0a797fc5e6aca167",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
+    "normalized_url": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
+    "work_key": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
+    "title": "1. U.S. Copyright Office, *Copyright and Artificial Intelligence, Part 1: Digital Replicas*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:34.973304Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "87b8ff41c875d639",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+    "normalized_url": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+    "work_key": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+    "title": "2. U.S. Copyright Office, *Copyright and Artificial Intelligence, Part 2: Copyrightability*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:28.426815Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a5ab084a52257129",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "normalized_url": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "work_key": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "title": "3. U.S. Copyright Office, *Copyright and Artificial Intelligence, Part 3: Generative AI Training — Pre-Publication Version*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:43.488415Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "141fa255b5f5db2d",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/",
+    "normalized_url": "https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects",
+    "work_key": "https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects",
+    "title": "4. Disney Research Studios, *Production-Ready Face Re-Aging for Visual Effects*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:09.187033Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b3be602ae28ce7ec",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e/",
+    "normalized_url": "https://microsoft.com/en-us/research/project/vall-e-x/vall-e",
+    "work_key": "https://microsoft.com/en-us/research/project/vall-e-x/vall-e",
+    "title": "5. Microsoft Research, *VALL-E: Neural Codec Language Models for Speech Synthesis*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:11.837413Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "7bf9bf765e30299b",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://research.google/blog/vdtts-visually-driven-text-to-speech/",
+    "normalized_url": "https://research.google/blog/vdtts-visually-driven-text-to-speech",
+    "work_key": "https://research.google/blog/vdtts-visually-driven-text-to-speech",
+    "title": "6. Google Research, *VDTTS: Visually-Driven Text-To-Speech*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:13.028349Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0ea8278bfffbfe74",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.vanityfair.com/hollywood/2022/09/darth-vaders-voice-emanated-from-war-torn-ukraine",
+    "normalized_url": "https://vanityfair.com/hollywood/2022/09/darth-vaders-voice-emanated-from-war-torn-ukraine",
+    "work_key": "https://vanityfair.com/hollywood/2022/09/darth-vaders-voice-emanated-from-war-torn-ukraine",
+    "title": "7. Vanity Fair, *Darth Vader’s Voice Emanated From War-Torn Ukraine*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:14.026316Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6dcd292ca023401a",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts",
+    "title": "8. SAG-AFTRA, *2023 TV/Theatrical Contracts — Digital Replicas and Artificial Intelligence*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:54:09.865017Z",
+    "error_message": null,
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "aca12210a3d2f331",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+    "title": "9. SAG-AFTRA, *2025 Interactive Media Video Game Agreement*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:53:52.022862Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930055-GRU 1794966821 2707880365 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2060c69319aa812c",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.wga.org/contracts/know-your-rights/artificial-intelligence",
+    "normalized_url": "https://wga.org/contracts/know-your-rights/artificial-intelligence",
+    "work_key": "https://wga.org/contracts/know-your-rights/artificial-intelligence",
+    "title": "10. Writers Guild of America West, *Artificial Intelligence*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:35.421998Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "221360daf85211c5",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.gov.ca.gov/2024/09/17/governor-newsom-signs-bills-to-protect-digital-likeness-of-performers/",
+    "normalized_url": "https://gov.ca.gov/2024/09/17/governor-newsom-signs-bills-to-protect-digital-likeness-of-performers",
+    "work_key": "https://gov.ca.gov/2024/09/17/governor-newsom-signs-bills-to-protect-digital-likeness-of-performers",
+    "title": "11. Office of Governor Gavin Newsom, *Governor Newsom Signs Bills to Protect Digital Likeness of Performers*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:35.930094Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "7c547b5c757e9dae",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.tn.gov/governor/news/2024/3/21/photos--gov--lee-signs-elvis-act-into-law.html.html",
+    "normalized_url": "https://tn.gov/governor/news/2024/3/21/photos--gov--lee-signs-elvis-act-into-law.html.html",
+    "work_key": "https://tn.gov/governor/news/2024/3/21/photos--gov--lee-signs-elvis-act-into-law.html.html",
+    "title": "12. Tennessee Office of the Governor, *Gov. Lee Signs ELVIS Act Into Law*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:36.731354Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6b9c978375a917b2",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+    "title": "13. European Commission, *Transparency Obligations under Article 50 of the AI Act*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:36.463738Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ce46489436b9038e",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.govinfo.gov/content/pkg/BILLS-119s4591rs/html/BILLS-119s4591rs.htm",
+    "normalized_url": "https://govinfo.gov/content/pkg/BILLS-119s4591rs/html/BILLS-119s4591rs.htm",
+    "work_key": "https://govinfo.gov/content/pkg/BILLS-119s4591rs/html/BILLS-119s4591rs.htm",
+    "title": "14. U.S. Congress/GovInfo, *S. 4591 — NO FAKES Act of 2026, Reported in Senate*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:36.973616Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ab52c2427b53aaca",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://caselaw.findlaw.com/court/us-dc-circuit/117062322.html",
+    "normalized_url": "https://caselaw.findlaw.com/court/us-dc-circuit/117062322.html",
+    "work_key": "https://caselaw.findlaw.com/court/us-dc-circuit/117062322.html",
+    "title": "15. U.S. Court of Appeals for the D.C. Circuit, *Thaler v. Perlmutter*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:37.071226Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c1c002c763064e0c",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_24-cv-05417/USCOURTS-cand-3_24-cv-05417-1/context",
+    "normalized_url": "https://govinfo.gov/app/details/USCOURTS-cand-3_24-cv-05417/USCOURTS-cand-3_24-cv-05417-1/context",
+    "work_key": "https://govinfo.gov/app/details/USCOURTS-cand-3_24-cv-05417/USCOURTS-cand-3_24-cv-05417-1/context",
+    "title": "16. U.S. District Court for the Northern District of California, *Bartz et al. v. Anthropic PBC — Order on Fair Use*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:37.585818Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "8b8315487e8dbdae",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://law.justia.com/cases/federal/district-courts/california/candce/4%3A2024cv05417/434709/680/",
+    "normalized_url": "https://law.justia.com/cases/federal/district-courts/california/candce/4:2024cv05417/434709/680",
+    "work_key": "https://law.justia.com/cases/federal/district-courts/california/candce/4:2024cv05417/434709/680",
+    "title": "17. U.S. District Court for the Northern District of California, *Bartz et al. v. Anthropic PBC — Final Approval of Class Action Settlement*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:44.973788Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "68be3e5add7cb005",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_23-cv-03417/USCOURTS-cand-3_23-cv-03417-33/context",
+    "normalized_url": "https://govinfo.gov/app/details/USCOURTS-cand-3_23-cv-03417/USCOURTS-cand-3_23-cv-03417-33/context",
+    "work_key": "https://govinfo.gov/app/details/USCOURTS-cand-3_23-cv-03417/USCOURTS-cand-3_23-cv-03417-33/context",
+    "title": "18. U.S. District Court for the Northern District of California, *Kadrey et al. v. Meta Platforms, Inc. — Summary Judgment Order*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:38.368520Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f1dd1d33f1abd0d1",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://apps.cand.uscourts.gov/telhrg/?eId=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a",
+    "normalized_url": "https://apps.cand.uscourts.gov/telhrg?eId=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a",
+    "work_key": "https://apps.cand.uscourts.gov/telhrg?eId=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a",
+    "title": "19. U.S. District Court for the Northern District of California, *Kadrey et al. v. Meta Platforms, Inc. — 2026 Case Management Proceedings*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:40.198565Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "fd81087a0e575273",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_23-cv-00201/USCOURTS-cand-3_23-cv-00201-41/context",
+    "normalized_url": "https://govinfo.gov/app/details/USCOURTS-cand-3_23-cv-00201/USCOURTS-cand-3_23-cv-00201-41/context",
+    "work_key": "https://govinfo.gov/app/details/USCOURTS-cand-3_23-cv-00201/USCOURTS-cand-3_23-cv-00201-41/context",
+    "title": "20. U.S. District Court for the Northern District of California, *Andersen et al. v. Stability AI Ltd. et al. — 2026 Docket and Discovery Orders*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:40.852551Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "71d64041f82aa847",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://law.justia.com/cases/federal/appellate-courts/F2/849/460/37485/",
+    "normalized_url": "https://law.justia.com/cases/federal/appellate-courts/F2/849/460/37485",
+    "work_key": "https://law.justia.com/cases/federal/appellate-courts/F2/849/460/37485",
+    "title": "21. U.S. Court of Appeals for the Ninth Circuit, *Midler v. Ford Motor Co.*, 849 F.2d 460.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:21:51.816988Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "cab6074f06d035fc",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://law.justia.com/cases/federal/appellate-courts/F2/978/1093/183202/",
+    "normalized_url": "https://law.justia.com/cases/federal/appellate-courts/F2/978/1093/183202",
+    "work_key": "https://law.justia.com/cases/federal/appellate-courts/F2/978/1093/183202",
+    "title": "22. U.S. Court of Appeals for the Ninth Circuit, *Waits v. Frito-Lay, Inc.*, 978 F.2d 1093.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:54:05.895368Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "afa4f469ce101553",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/04/approaches-address-ai-enabled-voice-cloning",
+    "normalized_url": "https://ftc.gov/policy/advocacy-research/tech-at-ftc/2024/04/approaches-address-ai-enabled-voice-cloning",
+    "work_key": "https://ftc.gov/policy/advocacy-research/tech-at-ftc/2024/04/approaches-address-ai-enabled-voice-cloning",
+    "title": "23. Federal Trade Commission, *Approaches to Address AI-Enabled Voice Cloning*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:20:47.922938Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0ad3175ab92621b5",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.sagaftra.org/sag-aftra-statement-fortnites-use-ai-darth-vader-voice-and-ulp-filing",
+    "normalized_url": "https://sagaftra.org/sag-aftra-statement-fortnites-use-ai-darth-vader-voice-and-ulp-filing",
+    "work_key": "https://sagaftra.org/sag-aftra-statement-fortnites-use-ai-darth-vader-voice-and-ulp-filing",
+    "title": "24. SAG-AFTRA, *Statement on Fortnite’s Use of A.I. Darth Vader Voice and ULP Filing*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:21:30.974370Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6fc4e82a3daa6747",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://au.variety.com/2025/film/news/director-brady-corbet-defends-ai-use-the-brutalist-adrien-brody-felicity-jones-19817/",
+    "normalized_url": "https://au.variety.com/2025/film/news/director-brady-corbet-defends-ai-use-the-brutalist-adrien-brody-felicity-jones-19817",
+    "work_key": "https://au.variety.com/2025/film/news/director-brady-corbet-defends-ai-use-the-brutalist-adrien-brody-felicity-jones-19817",
+    "title": "25. Variety, *The Brutalist Director Brady Corbet Says Adrien Brody and Felicity Jones’ Performances Are Completely Their Own Amid AI Dialogue Backlash*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:21:28.569082Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "81e01e40f7e9fd9e",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.copyright.gov/ai/",
+    "normalized_url": "https://copyright.gov/ai",
+    "work_key": "https://copyright.gov/ai",
+    "title": "26. U.S. Copyright Office, *Copyright and Artificial Intelligence*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:21:28.708309Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "61f86c55b5111b4a",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.congress.gov/119/plaws/publ12/PLAW-119publ12.pdf",
+    "normalized_url": "https://congress.gov/119/plaws/publ12/PLAW-119publ12.pdf",
+    "work_key": "https://congress.gov/119/plaws/publ12/PLAW-119publ12.pdf",
+    "title": "27. U.S. Congress, *Public Law 119-12 — TAKE IT DOWN Act*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T08:21:30.583652Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "tool_name": "ChatGPT"
+  }
+]

@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "e191d45c3e513553",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.hola.com/us/entertainment/20250929858561/first-ai-actress-tilly-norwood-next-scarlett-johansson/",
+    "normalized_url": "https://hola.com/us/entertainment/20250929858561/first-ai-actress-tilly-norwood-next-scarlett-johansson",
+    "work_key": "https://hola.com/us/entertainment/20250929858561/first-ai-actress-tilly-norwood-next-scarlett-johansson",
+    "title": "1. Hollywood unveils first AI actress Tilly Norwood: 'The next Scarlett Johansson or Natalie Portman' (HOLA! USA).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:12.556326Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5ce8f4f18e277b9e",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.itv.com/news/2025-10-02/meet-tilly-norwood-the-ai-generated-actress-facing-backlash-in-hollywood",
+    "normalized_url": "https://itv.com/news/2025-10-02/meet-tilly-norwood-the-ai-generated-actress-facing-backlash-in-hollywood",
+    "work_key": "https://itv.com/news/2025-10-02/meet-tilly-norwood-the-ai-generated-actress-facing-backlash-in-hollywood",
+    "title": "2. Meet Tilly Norwood, the AI-generated actress facing backlash in Hollywood (ITV News).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:12.774011Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "569f6369a0d3399c",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://blog.pebblous.ai/blog/sag-aftra-ai-consent-collective-bargaining/en/",
+    "normalized_url": "https://blog.pebblous.ai/blog/sag-aftra-ai-consent-collective-bargaining/en",
+    "work_key": "https://blog.pebblous.ai/blog/sag-aftra-ai-consent-collective-bargaining/en",
+    "title": "3. SAG-AFTRA, AI consent and collective bargaining (Pebblous).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:11.651037Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bf783a89e1535a34",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://senalnews.com/en/content/sag-aftra-members-approve-2026-tv-theatrical-contracts-tentative-agreement",
+    "normalized_url": "https://senalnews.com/en/content/sag-aftra-members-approve-2026-tv-theatrical-contracts-tentative-agreement",
+    "work_key": "https://senalnews.com/en/content/sag-aftra-members-approve-2026-tv-theatrical-contracts-tentative-agreement",
+    "title": "4. SAG-AFTRA members approve 2026 TV & Theatrical contracts tentative agreement (Señal News).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:11.664840Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "57d1a4b75368a271",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.thewrap.com/industry-news/labor-unions/sag-aftra-members-ratify-new-contract/",
+    "normalized_url": "https://thewrap.com/industry-news/labor-unions/sag-aftra-members-ratify-new-contract",
+    "work_key": "https://thewrap.com/industry-news/labor-unions/sag-aftra-members-ratify-new-contract",
+    "title": "5. SAG-AFTRA Members Ratify New Contract With Over 91% Approval (TheWrap).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:12.720716Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "20f82e207fa82ac7",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.hollywoodreporter.com/business/business-news/sag-aftra-four-year-deal-studios-new-ai-protections-1236590891/",
+    "normalized_url": "https://hollywoodreporter.com/business/business-news/sag-aftra-four-year-deal-studios-new-ai-protections-1236590891",
+    "work_key": "https://hollywoodreporter.com/business/business-news/sag-aftra-four-year-deal-studios-new-ai-protections-1236590891",
+    "title": "6. SAG-AFTRA four-year deal with studios includes new AI protections (The Hollywood Reporter).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:12.765997Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "aa566bde705c91e5",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.thewrap.com/industry-news/tech/sag-aftra-ai-protections-in-new-contract-synthetic/",
+    "normalized_url": "https://thewrap.com/industry-news/tech/sag-aftra-ai-protections-in-new-contract-synthetic",
+    "work_key": "https://thewrap.com/industry-news/tech/sag-aftra-ai-protections-in-new-contract-synthetic",
+    "title": "7. SAG-AFTRA's New AI Protections: What They Mean for Real and Synthetic Actors (TheWrap).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:13.598980Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b6a18bbe338cdb83",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://awf.labortools.com/listen/sag-aftras-crabtree-ireland-on-ai-protections-and-pension-merger",
+    "normalized_url": "https://awf.labortools.com/listen/sag-aftras-crabtree-ireland-on-ai-protections-and-pension-merger",
+    "work_key": "https://awf.labortools.com/listen/sag-aftras-crabtree-ireland-on-ai-protections-and-pension-merger",
+    "title": "8. SAG-AFTRA's Crabtree-Ireland on AI protections and pension merger (LaborTools).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:13.610588Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "882cef3a89bb57bc",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://puck.news/hollywood/2026/5/sag-aftras-ai-deal-opens-door-to-synthetic-actors",
+    "normalized_url": "https://puck.news/hollywood/2026/5/sag-aftras-ai-deal-opens-door-to-synthetic-actors",
+    "work_key": "https://puck.news/hollywood/2026/5/sag-aftras-ai-deal-opens-door-to-synthetic-actors",
+    "title": "9. SAG-AFTRA's AI deal opens door to synthetic actors (Puck).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:13.392392Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1967a0477e93dc6b",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.redsharknews.com/sag-aftra-ai-deal-synthetic-actors-2026",
+    "normalized_url": "https://redsharknews.com/sag-aftra-ai-deal-synthetic-actors-2026",
+    "work_key": "https://redsharknews.com/sag-aftra-ai-deal-synthetic-actors-2026",
+    "title": "10. SAG-AFTRA AI deal: what the new contract means (RedShark News).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:13.966994Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "34791a22fba2c3e3",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.loeb.com/en/insights/passle/2026/11/sagaftra-s-tentative-2026-television-animation-agreement",
+    "normalized_url": "https://loeb.com/en/insights/passle/2026/11/sagaftra-s-tentative-2026-television-animation-agreement",
+    "work_key": "https://loeb.com/en/insights/passle/2026/11/sagaftra-s-tentative-2026-television-animation-agreement",
+    "title": "11. SAG-AFTRA's Tentative 2026 Television Animation Agreement (Loeb & Loeb).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:14.416637Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cd1d5f398097a475",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://techcrunch.com/2024/05/20/scarlett-johansson-says-that-openai-approached-her-to-use-her-voice",
+    "normalized_url": "https://techcrunch.com/2024/05/20/scarlett-johansson-says-that-openai-approached-her-to-use-her-voice",
+    "work_key": "https://techcrunch.com/2024/05/20/scarlett-johansson-says-that-openai-approached-her-to-use-her-voice",
+    "title": "12. Scarlett Johansson says that OpenAI approached her to use her voice (TechCrunch).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:15.412438Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "21df4cf1209ae0af",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.axios.com/2024/05/20/scarlet-johansson-openai-chatgpt-sam-altman",
+    "normalized_url": "https://axios.com/2024/05/20/scarlet-johansson-openai-chatgpt-sam-altman",
+    "work_key": "https://axios.com/2024/05/20/scarlet-johansson-openai-chatgpt-sam-altman",
+    "title": "13. Scarlett Johansson says lawyers got OpenAI to shut down \"Her\" voice (Axios).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:14.608706Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8437f7527c4dc055",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.loeb.com/en/insights/publications/2025/07/lehrman-v-lovo-inc",
+    "normalized_url": "https://loeb.com/en/insights/publications/2025/07/lehrman-v-lovo-inc",
+    "work_key": "https://loeb.com/en/insights/publications/2025/07/lehrman-v-lovo-inc",
+    "title": "14. Lehrman v. Lovo Inc. (Loeb & Loeb).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:14.806468Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e4dd4908ca421d2d",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://getcoai.com/news/voice-actors-win-court-battle-against-ai-voice-cloning-startup",
+    "normalized_url": "https://getcoai.com/news/voice-actors-win-court-battle-against-ai-voice-cloning-startup",
+    "work_key": "https://getcoai.com/news/voice-actors-win-court-battle-against-ai-voice-cloning-startup",
+    "title": "15. Voice actors win court battle against AI voice cloning startup (CO/AI).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:15.659706Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cd85bb8315c3f658",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.crowell.com/en/insights/client-alerts/fundamental-copyright-principles-underscored-in-ai-context-voice-attributes-are-not-protectable",
+    "normalized_url": "https://crowell.com/en/insights/client-alerts/fundamental-copyright-principles-underscored-in-ai-context-voice-attributes-are-not-protectable",
+    "work_key": "https://crowell.com/en/insights/client-alerts/fundamental-copyright-principles-underscored-in-ai-context-voice-attributes-are-not-protectable",
+    "title": "16. Fundamental Copyright Principles Underscored in AI Context: Voice Attributes Are Not Protectable (Crowell & Moring).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:16.182782Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "802e23e78b42446c",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.offitkurman.com/offit-kurman-blogs/ai-voice-cloning-lawsuit-voice-actor-rights",
+    "normalized_url": "https://offitkurman.com/offit-kurman-blogs/ai-voice-cloning-lawsuit-voice-actor-rights",
+    "work_key": "https://offitkurman.com/offit-kurman-blogs/ai-voice-cloning-lawsuit-voice-actor-rights",
+    "title": "17. Voice Actors Clear Early Legal Hurdle in AI Cloning Suit (Offit Kurman).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-15T04:01:36.057296Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9d42e84e8161afc9",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.pocketgamer.biz/sag-aftra-ends-strike-against-video-game-companies-after-reaching-tentative-ai-protections-deal",
+    "normalized_url": "https://pocketgamer.biz/sag-aftra-ends-strike-against-video-game-companies-after-reaching-tentative-ai-protections-deal",
+    "work_key": "https://pocketgamer.biz/sag-aftra-ends-strike-against-video-game-companies-after-reaching-tentative-ai-protections-deal",
+    "title": "18. SAG-AFTRA ends strike against video game companies after reaching tentative AI protections deal (PocketGamer.biz).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:17.295348Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6b5c79240700936c",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://gamesbeat.com/sag-aftra-union-members-approve-to-end-strike-with-game-firms-over-ai/",
+    "normalized_url": "https://gamesbeat.com/sag-aftra-union-members-approve-to-end-strike-with-game-firms-over-ai",
+    "work_key": "https://gamesbeat.com/sag-aftra-union-members-approve-to-end-strike-with-game-firms-over-ai",
+    "title": "19. SAG-AFTRA union members approve end of strike with game firms over AI (GamesBeat).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:16.626230Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "15d2ed22f4165462",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://allwork.space/?p=1037292",
+    "normalized_url": "https://allwork.space?p=1037292",
+    "work_key": "https://allwork.space?p=1037292",
+    "title": "20. Video game actors sign new contract with AI protections (Allwork.Space / Reuters).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:17.597631Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4ebee28804f56e9d",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://decrypt.co/329479/video-game-performers-ai-consent-rules",
+    "normalized_url": "https://decrypt.co/329479/video-game-performers-ai-consent-rules",
+    "work_key": "https://decrypt.co/329479/video-game-performers-ai-consent-rules",
+    "title": "21. Video Game Performers Secure AI Consent Rules in New SAG-AFTRA Deal (Decrypt).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:19.416332Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5d0c36f37b36a78f",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.thewrap.com/sag-aftra-darth-vader-fortnite-ai-voice/",
+    "normalized_url": "https://thewrap.com/sag-aftra-darth-vader-fortnite-ai-voice",
+    "work_key": "https://thewrap.com/sag-aftra-darth-vader-fortnite-ai-voice",
+    "title": "22. SAG-AFTRA Files Unfair Labor Practice Charge Over AI Replica of Darth Vader's Voice in 'Fortnite' (TheWrap).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:17.630178Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6c1c3721703b53d3",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://news.bloombergtax.com/esg/actors-union-files-labor-charge-over-ai-darth-vader-in-fortnite",
+    "normalized_url": "https://news.bloombergtax.com/esg/actors-union-files-labor-charge-over-ai-darth-vader-in-fortnite",
+    "work_key": "https://news.bloombergtax.com/esg/actors-union-files-labor-charge-over-ai-darth-vader-in-fortnite",
+    "title": "23. Actors Union Files Labor Charge Over AI Darth Vader in Fortnite (Bloomberg Tax).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:19.740159Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8c86f1da061b8e35",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://letsdatascience.com/news/elevenlabs-launches-licensed-celebrity-voice-marketplace-c4ac7a18",
+    "normalized_url": "https://letsdatascience.com/news/elevenlabs-launches-licensed-celebrity-voice-marketplace-c4ac7a18",
+    "work_key": "https://letsdatascience.com/news/elevenlabs-launches-licensed-celebrity-voice-marketplace-c4ac7a18",
+    "title": "24. Inside ElevenLabs' Licensed Celebrity Voice Marketplace (Let's Data Science).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:19.560546Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "39310a4145f779b1",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.techradar.com/ai-platforms-assistants/michael-caine-and-matthew-mcconaughey-have-licensed-their-voices-to-ai-but-not-every-iconic-voice-on-the-platform-can-consent",
+    "normalized_url": "https://techradar.com/ai-platforms-assistants/michael-caine-and-matthew-mcconaughey-have-licensed-their-voices-to-ai-but-not-every-iconic-voice-on-the-platform-can-consent",
+    "work_key": "https://techradar.com/ai-platforms-assistants/michael-caine-and-matthew-mcconaughey-have-licensed-their-voices-to-ai-but-not-every-iconic-voice-on-the-platform-can-consent",
+    "title": "25. Michael Caine and Matthew McConaughey have licensed their voices to AI — but not every 'iconic' voice on the platform can consent (TechRadar).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:19.872995Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2a1c4a725076499a",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.nbcnews.com/tech/tech-news/openai-sora-2-guardrails-sag-aftra-bryan-cranston-rcna238715",
+    "normalized_url": "https://nbcnews.com/tech/tech-news/openai-sora-2-guardrails-sag-aftra-bryan-cranston-rcna238715",
+    "work_key": "https://nbcnews.com/tech/tech-news/openai-sora-2-guardrails-sag-aftra-bryan-cranston-rcna238715",
+    "title": "26. OpenAI cracks down on Sora 2 after outcry; SAG-AFTRA and Bryan Cranston (NBC News).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:20.744064Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "dd71f1da08e14249",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://the-decoder.com/openai-tightens-sora-2-safeguards-after-bryan-cranstons-likeness-appears-without-consent/",
+    "normalized_url": "https://the-decoder.com/openai-tightens-sora-2-safeguards-after-bryan-cranstons-likeness-appears-without-consent",
+    "work_key": "https://the-decoder.com/openai-tightens-sora-2-safeguards-after-bryan-cranstons-likeness-appears-without-consent",
+    "title": "27. OpenAI tightens Sora 2 safeguards after Bryan Cranston's likeness appears without consent (The Decoder).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:20.782454Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "091513f6d2ec5631",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.jenner.com/en/news-insights/publications/client-alert-us-copyright-office-issues-report-on-copyrightability-of-works-incorporating-ai-generated-material",
+    "normalized_url": "https://jenner.com/en/news-insights/publications/client-alert-us-copyright-office-issues-report-on-copyrightability-of-works-incorporating-ai-generated-material",
+    "work_key": "https://jenner.com/en/news-insights/publications/client-alert-us-copyright-office-issues-report-on-copyrightability-of-works-incorporating-ai-generated-material",
+    "title": "28. US Copyright Office Issues Report on Copyrightability of Works Incorporating AI-Generated Material (Jenner & Block).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:22.132626Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3ed22e8145b91714",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works",
+    "normalized_url": "https://hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works",
+    "work_key": "https://hoganlovells.com/en/publications/us-copyright-office-issues-report-on-copyrightability-of-ai-assisted-and-generated-works",
+    "title": "29. US Copyright Office issues report on copyrightability of AI-assisted and generated works (Hogan Lovells).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:23.305669Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "53f92de7cabed78e",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.mondaq.com/unitedstates/copyright/1756930/supreme-court-declines-to-hear-thaler-v-perlmutter-leaving-human-authorship-requirement-intact",
+    "normalized_url": "https://mondaq.com/unitedstates/copyright/1756930/supreme-court-declines-to-hear-thaler-v-perlmutter-leaving-human-authorship-requirement-intact",
+    "work_key": "https://mondaq.com/unitedstates/copyright/1756930/supreme-court-declines-to-hear-thaler-v-perlmutter-leaving-human-authorship-requirement-intact",
+    "title": "30. Supreme Court Declines To Hear Thaler v. Perlmutter, Leaving Human Authorship Requirement Intact (Mondaq / Finnegan).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:22.467904Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2f6661b70427872a",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act",
+    "normalized_url": "https://bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act",
+    "work_key": "https://bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act",
+    "title": "31. Supreme Court Denies Certiorari in Thaler v. Perlmutter: AI Cannot Be an Author Under the Copyright Act (Baker Donelson).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:23.406806Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1e3fbe7ddb60cecd",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.wiley.law/alert-Copyright-Office-Issues-Key-Guidance-on-Fair-Use-in-Generative-AI-Training",
+    "normalized_url": "https://wiley.law/alert-Copyright-Office-Issues-Key-Guidance-on-Fair-Use-in-Generative-AI-Training",
+    "work_key": "https://wiley.law/alert-Copyright-Office-Issues-Key-Guidance-on-Fair-Use-in-Generative-AI-Training",
+    "title": "32. Copyright Office Issues Key Guidance on Fair Use in Generative AI Training (Wiley).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:23.501482Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d423539c39d43b0c",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.manatt.com/insights/insight/copyright-office-releases-pre-publication-report-on-copyrighted-works-in-generative-ai-training",
+    "normalized_url": "https://manatt.com/insights/insight/copyright-office-releases-pre-publication-report-on-copyrighted-works-in-generative-ai-training",
+    "work_key": "https://manatt.com/insights/insight/copyright-office-releases-pre-publication-report-on-copyrighted-works-in-generative-ai-training",
+    "title": "33. Copyright Office Releases Pre-Publication Report on Copyrighted Works in Generative AI Training (Manatt).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:25.097815Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cd18d7e6568230cf",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.npr.org/2025/09/05/nx-s1-5529404/anthropic-settlement-authors-copyright-ai",
+    "normalized_url": "https://npr.org/2025/09/05/nx-s1-5529404/anthropic-settlement-authors-copyright-ai",
+    "work_key": "https://npr.org/2025/09/05/nx-s1-5529404/anthropic-settlement-authors-copyright-ai",
+    "title": "34. Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit (NPR).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:24.278136Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2c243b5f38ff3e0b",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://news.bgov.com/litigation/anthropic-authors-1-5-billion-deal-receives-final-approval",
+    "normalized_url": "https://news.bgov.com/litigation/anthropic-authors-1-5-billion-deal-receives-final-approval",
+    "work_key": "https://news.bgov.com/litigation/anthropic-authors-1-5-billion-deal-receives-final-approval",
+    "title": "35. Anthropic, Authors' $1.5 Billion Deal Earns Final Approval (Bloomberg Government).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:25.516619Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7366aec0fb1f71a0",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://thenextweb.com/news/anthropic-1-5-billion-copyright-settlement-approved",
+    "normalized_url": "https://thenextweb.com/news/anthropic-1-5-billion-copyright-settlement-approved",
+    "work_key": "https://thenextweb.com/news/anthropic-1-5-billion-copyright-settlement-approved",
+    "title": "36. Judge signs off on Anthropic's $1.5bn book piracy settlement, the biggest in US copyright history (The Next Web).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:25.299394Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ea785931f87f887f",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://www.tpr.org/2025-06-12/in-first-of-its-kind-lawsuit-hollywood-giants-sue-ai-firm-for-copyright-infringement",
+    "normalized_url": "https://tpr.org/2025-06-12/in-first-of-its-kind-lawsuit-hollywood-giants-sue-ai-firm-for-copyright-infringement",
+    "work_key": "https://tpr.org/2025-06-12/in-first-of-its-kind-lawsuit-hollywood-giants-sue-ai-firm-for-copyright-infringement",
+    "title": "37. In first-of-its-kind lawsuit, Hollywood giants sue AI firm for copyright infringement (Texas Public Radio / NPR).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:26.557330Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "82802a878a651c14",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://thedesk.net/2025/06/disney-comcast-midjourney-lawsuit/",
+    "normalized_url": "https://thedesk.net/2025/06/disney-comcast-midjourney-lawsuit",
+    "work_key": "https://thedesk.net/2025/06/disney-comcast-midjourney-lawsuit",
+    "title": "38. Disney, Comcast sue Midjourney (TheDesk.net).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:26.876444Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bde62b655da5a902",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://getcoai.com/news/midjourney-claims-studios-use-ai-while-suing-it-for-copyright-infringement/",
+    "normalized_url": "https://getcoai.com/news/midjourney-claims-studios-use-ai-while-suing-it-for-copyright-infringement",
+    "work_key": "https://getcoai.com/news/midjourney-claims-studios-use-ai-while-suing-it-for-copyright-infringement",
+    "title": "39. Midjourney claims studios use AI while suing it for copyright infringement (CO/AI).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:26.331269Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0d836b5f794ecdb5",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://www.law360.com/cases/6849920dbaefe0fe54b77b08",
+    "normalized_url": "https://law360.com/cases/6849920dbaefe0fe54b77b08",
+    "work_key": "https://law360.com/cases/6849920dbaefe0fe54b77b08",
+    "title": "40. Disney Enterprises Inc. et al v. Midjourney Inc. (Law360 case page).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:27.302108Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "449c22ab9ffde431",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www.c21media.net/news/disney-strikes-deal-with-openai-to-bring-200-characters-to-video-platform-sora/",
+    "normalized_url": "https://c21media.net/news/disney-strikes-deal-with-openai-to-bring-200-characters-to-video-platform-sora",
+    "work_key": "https://c21media.net/news/disney-strikes-deal-with-openai-to-bring-200-characters-to-video-platform-sora",
+    "title": "41. Disney strikes deal with OpenAI to bring 200 characters to video platform Sora (C21Media).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:27.011189Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6658766dabc6446e",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://au.variety.com/2025/digital/global/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-30990/",
+    "normalized_url": "https://au.variety.com/2025/digital/global/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-30990",
+    "work_key": "https://au.variety.com/2025/digital/global/disney-openai-deal-200-characters-to-sora-video-invests-1-billion-30990",
+    "title": "42. Disney Inks Blockbuster OpenAI Deal to Bring More Than 200 Characters to Sora Video Platform, Will Invest $1 Billion in AI Company (Variety Australia).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:30.053036Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8e49d2ed10ae56df",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://www.axios.com/2026/03/24/openai-discontinue-sora-video-app",
+    "normalized_url": "https://axios.com/2026/03/24/openai-discontinue-sora-video-app",
+    "work_key": "https://axios.com/2026/03/24/openai-discontinue-sora-video-app",
+    "title": "43. OpenAI to discontinue Sora video app (Axios).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:27.465456Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9f12a3b1be388b73",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://www.pcgamer.com/software/ai/openai-discontinues-sora-video-generation-app-disney-pulls-out-of-usd1-billion-investment-deal",
+    "normalized_url": "https://pcgamer.com/software/ai/openai-discontinues-sora-video-generation-app-disney-pulls-out-of-usd1-billion-investment-deal",
+    "work_key": "https://pcgamer.com/software/ai/openai-discontinues-sora-video-generation-app-disney-pulls-out-of-usd1-billion-investment-deal",
+    "title": "44. OpenAI discontinues Sora video generation app, Disney pulls out of $1 billion investment deal (PC Gamer).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:28.890951Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4595d7090a70cbdc",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://www.cbsnews.com/news/sora-ai-openai-discontinues",
+    "normalized_url": "https://cbsnews.com/news/sora-ai-openai-discontinues",
+    "work_key": "https://cbsnews.com/news/sora-ai-openai-discontinues",
+    "title": "45. OpenAI pulls the plug on its Sora AI video app (CBS News).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:28.611070Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "89127e7e5f38bd2c",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+    "normalized_url": "https://musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+    "work_key": "https://musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+    "title": "46. Universal Music settles Udio lawsuit, strikes deal for licensed AI music platform (Music Business Worldwide).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:39.967139Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "78b7ef1c15651570",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://uk.marketscreener.com/news/warner-music-group-settles-copyright-case-with-suno-for-licensed-ai-music-ce7d5ed2db8bff22",
+    "normalized_url": "https://uk.marketscreener.com/news/warner-music-group-settles-copyright-case-with-suno-for-licensed-ai-music-ce7d5ed2db8bff22",
+    "work_key": "https://uk.marketscreener.com/news/warner-music-group-settles-copyright-case-with-suno-for-licensed-ai-music-ce7d5ed2db8bff22",
+    "title": "47. Warner Music Group settles copyright case with Suno for licensed AI music (MarketScreener / Reuters).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:29.939064Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9e8e4e9c96c5369f",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://completemusicupdate.com/universal-has-settled-its-lawsuit-with-udio-and-signed-ai-deals-with-udio-and-stability/",
+    "normalized_url": "https://completemusicupdate.com/universal-has-settled-its-lawsuit-with-udio-and-signed-ai-deals-with-udio-and-stability",
+    "work_key": "https://completemusicupdate.com/universal-has-settled-its-lawsuit-with-udio-and-signed-ai-deals-with-udio-and-stability",
+    "title": "48. Universal has settled its lawsuit with Udio and signed AI deals with Udio and Stability (CMU).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:30.639355Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "44b05e6e3b94b391",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://www.manatt.com/insights/newsletters/client-alert/california-enacts-a-host-of-new-ai-and-digital-rep",
+    "normalized_url": "https://manatt.com/insights/newsletters/client-alert/california-enacts-a-host-of-new-ai-and-digital-rep",
+    "work_key": "https://manatt.com/insights/newsletters/client-alert/california-enacts-a-host-of-new-ai-and-digital-rep",
+    "title": "49. California Enacts a Suite of New AI and Digital Replica Laws (Manatt).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:00:32.163251Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b8cfda532d93b040",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://sagaftra.org/gov-newsom-signs-union-championed-ai-bills-sag-aftra-plaza",
+    "normalized_url": "https://sagaftra.org/gov-newsom-signs-union-championed-ai-bills-sag-aftra-plaza",
+    "work_key": "https://sagaftra.org/gov-newsom-signs-union-championed-ai-bills-sag-aftra-plaza",
+    "title": "50. Gov. Newsom Signs Union-Championed AI Bills at SAG-AFTRA Plaza (SAG-AFTRA).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:45.957476Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930073-GRU 1794715232 232105123 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d83e3d65a0cec798",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://www.covingtonblogs.com/2024/09/11/california-passes-digital-replica-legislation-as-congress-considers-federal-approach/",
+    "normalized_url": "https://covingtonblogs.com/2024/09/11/california-passes-digital-replica-legislation-as-congress-considers-federal-approach",
+    "work_key": "https://covingtonblogs.com/2024/09/11/california-passes-digital-replica-legislation-as-congress-considers-federal-approach",
+    "title": "51. California Passes Digital Replica Legislation as Congress Considers Federal Approach (Covington).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:47.940483Z",
+    "error_message": "barreira de acesso (anti_bot): Checking your browser before accessing this site. This process is automatic. You will arrive shortly. Verification succe",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "23c6d4ed18b52992",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://www.grammy.com/advocacy/issues-policy/no-fakes-act/",
+    "normalized_url": "https://grammy.com/advocacy/issues-policy/no-fakes-act",
+    "work_key": "https://grammy.com/advocacy/issues-policy/no-fakes-act",
+    "title": "52. NO FAKES Act (Recording Academy / GRAMMY.com).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:36.554741Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7b9f63d19d68e7ac",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://www.manatt.com/insights/newsletters/client-alert/congress-reintroduces-the-no-fakes-act-what-s-new-in-the-2026-bill",
+    "normalized_url": "https://manatt.com/insights/newsletters/client-alert/congress-reintroduces-the-no-fakes-act-what-s-new-in-the-2026-bill",
+    "work_key": "https://manatt.com/insights/newsletters/client-alert/congress-reintroduces-the-no-fakes-act-what-s-new-in-the-2026-bill",
+    "title": "53. Congress Reintroduces the NO FAKES Act: What's New in the 2026 Bill (Manatt).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:39.554878Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2b2a72f30e4c963b",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://www.paubox.com/blog/what-is-the-no-fakes-act",
+    "normalized_url": "https://paubox.com/blog/what-is-the-no-fakes-act",
+    "work_key": "https://paubox.com/blog/what-is-the-no-fakes-act",
+    "title": "54. What is the NO FAKES Act? (Paubox).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:40.470608Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3dc83f864680c98f",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://www.bytebacklaw.com/2026/08/a-federal-shift-in-ai-and-the-right-of-publicity-no-fakes-act-advances-in-congress/",
+    "normalized_url": "https://bytebacklaw.com/2026/08/a-federal-shift-in-ai-and-the-right-of-publicity-no-fakes-act-advances-in-congress",
+    "work_key": "https://bytebacklaw.com/2026/08/a-federal-shift-in-ai-and-the-right-of-publicity-no-fakes-act-advances-in-congress",
+    "title": "55. A Federal Shift in AI and the Right of Publicity: NO FAKES Act Advances in Congress (Byte Back).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:02:50.698325Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "29654bc0c94e4149",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://letsdatascience.com/news/no-fakes-act-advances-unanimously-out-of-senate-judiciary-co-553e714b",
+    "normalized_url": "https://letsdatascience.com/news/no-fakes-act-advances-unanimously-out-of-senate-judiciary-co-553e714b",
+    "work_key": "https://letsdatascience.com/news/no-fakes-act-advances-unanimously-out-of-senate-judiciary-co-553e714b",
+    "title": "56. NO FAKES Act advances unanimously out of Senate Judiciary Committee (Let's Data Science).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:41.214235Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "36a080416f91ff35",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://letsdatascience.com/news/senate-judiciary-committee-clears-no-fakes-act-aa4c3c17",
+    "normalized_url": "https://letsdatascience.com/news/senate-judiciary-committee-clears-no-fakes-act-aa4c3c17",
+    "work_key": "https://letsdatascience.com/news/senate-judiciary-committee-clears-no-fakes-act-aa4c3c17",
+    "title": "57. Senate Judiciary Committee Clears No Fakes Act (Let's Data Science).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:42.408046Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "02f5ee30c1761652",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://www.rawstory.com/ted-cruz-marsha-blackburn/",
+    "normalized_url": "https://rawstory.com/ted-cruz-marsha-blackburn",
+    "work_key": "https://rawstory.com/ted-cruz-marsha-blackburn",
+    "title": "58. Ted Cruz torpedoes fellow Republican's signature bill on the Senate floor (Raw Story).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:43.093754Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2db118066edb7399",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://www.aimusicpreneur.com/ai-music-industry/riaa-mitch-glazier-no-fakes-act-lame-duck-cruz-objection-2026/",
+    "normalized_url": "https://aimusicpreneur.com/ai-music-industry/riaa-mitch-glazier-no-fakes-act-lame-duck-cruz-objection-2026",
+    "work_key": "https://aimusicpreneur.com/ai-music-industry/riaa-mitch-glazier-no-fakes-act-lame-duck-cruz-objection-2026",
+    "title": "59. RIAA's Mitch Glazier on the NO FAKES Act, the lame duck and the Cruz objection (The AI Musicpreneur).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:44.084699Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1e9b17419eb359a5",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://reclaimthenet.org/bill/no-fakes-act",
+    "normalized_url": "https://reclaimthenet.org/bill/no-fakes-act",
+    "work_key": "https://reclaimthenet.org/bill/no-fakes-act",
+    "title": "60. NO FAKES Act (Reclaim The Net).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:44.623083Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "80f03c79d4a35214",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://schjodt.com/news/owning-the-self-denmarks-copyright-turn-against-deepfakes",
+    "normalized_url": "https://schjodt.com/news/owning-the-self-denmarks-copyright-turn-against-deepfakes",
+    "work_key": "https://schjodt.com/news/owning-the-self-denmarks-copyright-turn-against-deepfakes",
+    "title": "61. Owning the Self: Denmark's Copyright Turn Against Deepfakes (Schjødt).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:46.123990Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1012213aaff4ce1b",
+    "citation_markers": [
+      "[62]"
+    ],
+    "raw_url": "https://www.euronews.com/2026/10/08/denmark-introduces-a-bill-protecting-peoples-faces-and-voices-from-deepfakes",
+    "normalized_url": "https://euronews.com/2026/10/08/denmark-introduces-a-bill-protecting-peoples-faces-and-voices-from-deepfakes",
+    "work_key": "https://euronews.com/2026/10/08/denmark-introduces-a-bill-protecting-peoples-faces-and-voices-from-deepfakes",
+    "title": "62. Denmark introduces a bill protecting people's faces and voices from deepfakes (Euronews).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:46.451120Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ae1d4bfe6eb22fbc",
+    "citation_markers": [
+      "[63]"
+    ],
+    "raw_url": "https://pasqualepillitteri.it/en/news/23036/denmark-deepfake-law-copyright-face-voice",
+    "normalized_url": "https://pasqualepillitteri.it/en/news/23036/denmark-deepfake-law-copyright-face-voice",
+    "work_key": "https://pasqualepillitteri.it/en/news/23036/denmark-deepfake-law-copyright-face-voice",
+    "title": "63. Denmark unveils deepfake law with copyright over face and voice (Pasquale Pillitteri).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:47.933633Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cc44f0f5ae150df7",
+    "citation_markers": [
+      "[64]"
+    ],
+    "raw_url": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\\_ATA(2026)782611.html",
+    "normalized_url": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\\_ATA(2026)782611.html",
+    "work_key": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\\_ATA(2026)782611.html",
+    "title": "64. Denmark's approach to deepfakes and personality rights (European Parliamentary Research Service).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-15T04:02:57.825702Z",
+    "error_message": "HTTP 400 em https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS\\_ATA(2026)782611.html",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "941e520c37331ccf",
+    "citation_markers": [
+      "[65]"
+    ],
+    "raw_url": "https://www.faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations",
+    "normalized_url": "https://faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations",
+    "work_key": "https://faegredrinker.com/en/insights/publications/2026/7/eu-ai-act-commission-confirms-transparency-code-of-practice-as-adequate-and-publishes-final-version-of-its-guidelines-on-transparency-obligations",
+    "title": "65. EU AI Act — Commission Confirms Transparency Code of Practice as Adequate and Publishes Final Version of Its Guidelines on Transparency Obligations (Faegre Drinker).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:01:49.098962Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6721cb7ebff0_20261115T035937Z",
+    "tool_name": "Claude"
+  }
+]

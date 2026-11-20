@@ -1,0 +1,454 @@
+[referencia=ecf50d756d9b4478 score=0.984]
+Because SNAC protects semaglutide from pH-dependent degradation and the consumption of food leads to an increase in gastric pH, the effect of food and water on systemic semaglutide exposure was investigated. Semaglutide absorption was compared in a fed group that ate 30 min before dosing, a fasting group that did not eat until 4 h postdosing, and a reference group that ate 30 min postdosing.<sup>8</sup> The fed group experienced significantly lower systemic semaglutide exposure after the 10th dose, whereas both the fasting and reference groups achieved therapeutic concentrations.<sup>8</sup> Two volumes of water (50 and 120 mL) consumed with semaglutide 10 mg/SNAC 300 mg were also examined.<sup>14</sup> Neither amount of water made significant differences on the pharmacokinetic parameters of oral semaglutide, but it is 
+
+Table 1. Pharmacokinetics of Oral and Subcutaneous Semaglutide<sup>11,12,16</sup> 
+
+|Parameter|Oral<br>semaglutide|Subcutaneous<br>semaglutide|
+|---|---|---|
+|AUC (nmol·h/L)|284|3026|
+|Cmax (nM)|15|10|
+|Tmax (h)|1|66|
+|T1/2 (h)|152|168|
+
+
+
+AUC, area under the curve; Cmax, maximum plasma concentration; Tmax, time to reach Cmax; T1/2, terminal half-life. 
+
+Semaglutide is primarily metabolized via proteolytic cleavage of the peptide backbone by DPP-IV and neutral endopeptidases and sequential beta-oxidation of the fatty diacid side chain.<sup>15</sup> These degradation products are then excreted in the urine and feces, suggesting potential renal and hepatic involvement.<sup>15,16</sup> However, pharmacokinetic studies show that the addition of 300 mg of SNAC to oral semaglutide displayed similar pharmacokinetic properties to the subcutaneous formulation regardless of the severity of renal or hepatic impairment (Table 1).<sup>11–12,17</sup>
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.922]
+###### _Absorption, Distribution, Metabolism and Excretion_ 
+
+After oral administration, SNAC is rapidly absorbed and eliminated, with a Cmax typically reached within 2 hours and a T1/2 ranging between 1-3 hours.  When SNAC is coformulated with semaglutide, both products are absorbed due to a transient increase in permeability of the gastrointestinal epithelium in a highly localized area around the immediate vicinity of the tablet.  SNAC-facilitated absorption of semaglutide showed very high inter-animal variability in rats, dogs, and monkeys and was influenced by the fasting state of the animals. 
+
+SNAC is highly bound to plasma proteins, predominantly albumin. The free fraction in animals is slightly higher than in humans. Radiolabeled SNAC rapidly distributes to all tissues at levels below plasma levels, except in the excretory system (kidney and urinary bladder wall and contents) and gastrointestinal system (cecum mucosa, small intestine mucosa, and stomach mucosa). Very low levels were observed in the CNS (~2%). Drug-related radioactivity was rapidly eliminated from most tissues within 24 hours, with quantifiable radioactivity limited to adipose tissue and skin at 168 hours 
+
+5 
+
+**Reference ID: 44** 8203597378 
+
+NDA # 213051 
+
+Elena Braithwaite, Ph.D. 
+
+post-dose. SNAC crosses the placenta, distributes to all fetal tissues reaching peak levels at 4 hours and persists in the gastrointestinal tract up to 24 hours. SNAC is 
+
+secreted into breast milk with a mean milk/plasma ratio that ranges between 7 and 12 in the 4 to 24 hour time frame following a single administration. 
+
+SNAC is rapidly metabolized via β-oxidation and glucuronidation mainly by UGT2B7 with additional contributions by UGT1A8 and UGT1A7. No unique metabolites were detected in humans. The primary route of excretion is the kidney, with negligible amounts recovered as unchanged SNAC. Metabolism is responsible for the majority of SNAC clearance in animals and humans. _General Toxicology_ 
+
+Pivotal repeat dose studies were conducted in mice up to 3 months, rats up to 12 months, and monkeys up to 9 months. Adverse clinical signs and mortality occurred in 
+
+all species tested starting at low multiples to the clinical exposure. Generally, mortalities
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.888]
+###### <u>SNAC Metabolism</u> 
+
+SNAC had a similar in vitro metabolite profile in humans, monkeys and rats. SNAC quickly undergoes rounds of conjugation into glucuronide metabolites and β-oxidation 
+
+18 
+
+**Reference ID: 44** 8203597378 
+
+NDA # 213051 
+
+Elena Braithwaite, Ph.D. 
+
+by phase II enzymes.  In CD-1 mice with free access to food, β-oxidation and glucuronide metabolites were detected in mouse plasma between 5-60 minutes after dosing. Glucuronidation reactions were facilitated most efficiently by UGT2B7 with additional contributions by UGT1A8 and UGT1A7 using uridine diphosphate glucuronic acid as a substrate.  The formation of all metabolites had a Tmax of 0.33 hours. SNAC (250 mM) is also capable of neutralizing the pH of simulated gastric fluid and may have a stabilizing effect on semaglutide. 
+
+β-oxidized metabolites (E494 and E506) were at least 10-times less potent inhibitors of ATP biosynthesis in mitochondria and glucuronidated metabolites had minimal effect on cellular respiration indicating that metabolism could be important for detoxification of the parent compound.  In rats, the major SNAC metabolite present is E506 and represents 54-70% of the total dose administered.  In contrast, the E1247 metabolite is the most common metabolite observed in humans. 
+
+**Figure 3: Proposed metabolic pathways in mouse, rat, monkey and human** 
+
+
+
+Figure modified by Elena Braithwaite from the Sponsor’s submission (Figure 5, Nonclinical Overview). 
+
+**Table 3: Percentage of Plasma Metabolites in Human and Rat**
+
+---
+
+[referencia=ecf50d756d9b4478 score=0.888]
+FIG. 1. Absorption mechanics of oral semaglutide coformulated with SNAC. A schematic depicting oral semaglutide coformulated with SNAC in tablet form undergoing dissolution and absorption in the stomach. As the tablet erodes in the stomach, semaglutide and SNAC are released. SNAC exerts a local buffering effect, depicted as the cloudy area around the tablet. The buffering effect protects semaglutide from degradation by the stomach enzyme, pepsin. Without pepsin-induced peptide destruction in the stomach, semaglutide stays weakly and noncovalently associated with SNAC molecules as it travels transcellularly across the gastric membrane. Once SNAC and semaglutide reach systemic circulation, the two molecules disassociate.<sup>8</sup> SNAC, sodium N-[8-(2-hydroxybenzoyl amino]caprylate. Color images are available online. 
+
+BUCHEIT ET AL. 
+
+12 
+
+into the gastric epithelium, it fluidizes the lipid membrane facilitating semaglutide transport and entry into the systemic circulation.<sup>8</sup> When semaglutide and SNAC reach the bloodstream, the two molecules readily dissociate, allowing oral semaglutide to interact with the body in the same manner as subcutaneous semaglutide (Fig. 1).<sup>8</sup> 
+
+important to note that most dosing trials typically required consumption of at least 50 mL of water with each study dose.<sup>14</sup> Based on these studies, food intake affects semaglutide pharmacokinetics to a larger extent than water consumption; therefore, patients should be fasting before administration and avoid food at least 30 min postdose for optimal results.<sup>8</sup> 
+
+#### Pharmacokinetics 
+
+#### Metabolism and excretion
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.884]
+###### <u>Results:</u> 
+
+For the first 5 time points, there were approximately 10 detectible radiometabolites in the plasma of animals treated with<sup>14</sup> C-SNAC. The six most prevalent peaks were chosen for identification by LC-MS/MS. Metabolite 4 represented approximately 57% to 85% of the total radiometabolites found in the 0.167 to 2 hour samples.  The concentration of radiometabolites decreased significantly from 2 to 4 hours post-dose. The radiometabolite profile and pattern were similar for animals treated with<sup>3</sup> H-SNAC, although Metabolites 3 and 5 were not detected.  An additional metabolite, Metabolite 7, 
+
+86 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u> 
+
+was identified and eluted before Metabolite 4.  LC-MS/MS data suggest that SNAC was metabolized by at least β-oxidation, cleavage at the amide bond, and sulfation.  The PK results for each version of radiolabeled SNAC are summarized in sponsor-generated Table 5 below. 
+
+
+
+**<mark>Study title:  Salcaprozate sodium (SNAC): Investigation of metabolite profiles in plasma, urine, bile, and feces following oral administration to the rat</mark>** <mark>(212270; 8265975)</mark> 
+
+Sprague-Dawley rats (9/sex) received a single oral administration of 500 mg SNAC (200 µCi/kg).  Urine and feces were collected from intact animals and urine, feces, and bile were collected from bile-cannulated animals.  Samples from 3 to 4 animals/sex were pooled (or 1 animal/sex/time point for plasma) and assessed for metabolites for the following post-dosing time periods:
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.882]
+89 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u> 
+
+stated that the longer terminal half-life of 8.3 to 11.3 hours following the oral dose of 3H-SNAC was unexpected. The sponsor did not provide a rationale for the use of two types of labeled drug (<sup>14</sup> C and<sup>3</sup> H). 
+
+The metabolic profiles were similar in plasma and urine.  Up to 5 metabolites were detected. Two of these had the same retention time as N-(hexanoic)-2­ hydroxybenzamide (E506) and N-(butanoic)-2-hydroxybenzamide (E494).  The results indicated that SNAC was metabolized by β-oxidation to metabolites E506 and E494. The parent compound (N-(octanoic)-2-hydroxybenzamide) and these two hydroxybenzamides were conjugated with glucuronic acid.  This metabolic pathway is presented in sponsor-generated Figure 11 below. 
+
+
+
+The human metabolic profile of SNAC was characterized in a clinical study in which 2.25 g<sup>14</sup> C-labeled SNAC was administered orally to 6 healthy volunteers (Study 259252). The primary metabolites are shown in Sponsor-generated Table 6.  In 
+
+90 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u> 
+
+addition to the metabolites that were also identified in rats, one minor unique metabolite (a third beta-oxidation product obtained from three successive beta-oxidation steps) was found in plasma. This metabolite was only identified in 2 out of 6 subjects at a single time point (0.5 hours post dose).
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.795]
+*Dosing of Groups 1-5 was preceded by 6 hours of fasting; Dosing of Groups 6 and 7 was preceded by 18 hours of fasting. IPGTT = intraperitoneal glucose tolerance test 
+
+###### <u>Results</u> 
+
+A single dose of oral semaglutide reduced glucose levels over the first 24 hours compared with vehicle, SNAC alone, or semaglutide alone (sponsor-generated Figure 2). The change in glucose levels during the IPGTT remained lower in animals that received oral semaglutide (sponsor-generated Figure 3).  Treatment-related decreased body weight was also noted at the 24 hour time point, which is consistent with the pharmacology of semaglutide (sponsor-generated Figure 4).  Plasma levels of 
+
+34 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u> 
+
+semaglutide were measurable 6 hours after dosing, but not 72 hours after dosing (sponsor-generated Figure 5). The results indicate that the bioavailability of orally administered semaglutide is sufficient to lower blood glucose levels. 
+
+
+
+
+
+###### **Figure 2 Effect of semaglutide and/or SNAC on AUCglucose (left panel) and AUCdeltaglucose (right panel) during the first 24 hours of the study in db/db mice after oral dosing. n=4-6. *:p<0.05 vs. vehicle by post-test** 
+
+
+
+35 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u>
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.757]
+###### <u>Human Pharmacokinetics for SNAC and Oral Semaglutide</u> 
+
+SNAC is quickly absorbed, with Tmax for a tablet containing 300 mg SNAC being between 0.4 and 1.5 hours. Mean exposure values (AUC0-24 and Cmax) for subject arms receiving 300 mg SNAC ranged from 760 to 1900 ng•h/mL and 726 to 1400 ng/mL, depending on the dosing conditions, subject population, and amount of semaglutide. SNAC exposures tended to be slightly higher when food was eaten 15 minutes after dosing compared with longer post-dose fasting times.  SNAC exposures slightly increased when administered with a large volume of water (240 mL) compared with 50 mL.  Exposure differences were not noticeable between 50 mL and 120 mL of water. SNAC is quickly eliminated, with a mean half-life less than 1 hour. 
+
+Elimination half-life for semaglutide after a single oral dose ranged between approximately 58 and 95 hours, increasing with increasing dose level.  The half-life of semaglutide after a single subcutaneous administration of 0.4 mg was approximately 158 hours. Mean half-life values ranged between 147 and 182 hours after 10 weeks of once daily oral dosing; mean half-life was 174 hours after 10 weeks of once weekly subcutaneous dosing of 0.5 mg semaglutide. 
+
+14 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u>
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.750]
+85 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u> 
+
+
+
+<!-- Start of picture text -->
+O<br>H<br>OH<br>N<br>SNAC  O<br>OH<br>O<br>H<br>beta-oxidation  OH<br>N<br>O  H  OH  O GluC  E1245  O<br>N<br>O<br>E494<br>OH<br>beta oxidation  O<br>H<br>OH<br>O  N<br>H<br>OH  E1246  O<br>N  O GluC<br>E506  O<br>OH<br>oxidation (dehydrogenation)<br>O<br>H<br>O<br>OH<br>H<br>N<br>OH<br>N<br>O<br>O GluC<br>O  E1247<br>OH<br>only detected in rat<br>O-glucuronidation<br>O-glucuronidation<br>O-glucuronidation<br><!-- End of picture text -->
+
+**Figure 2. Proposed Metabolites of SNAC in Mice, Rats, and Monkeys** 
+
+###### **<mark>Study title:  Pharmacokinetic profiling and metabolite identification of [</mark>**<sup>**14**</sup> **<mark>C]-SNAC and [</mark>**<sup>**3**</sup> **<mark>H]-SNAC derived radioactivity following oral administration in rats - feasibility study (M801, 209288)</mark>** 
+
+Twenty-four rats received a single oral dose of 300 mg<sup>14</sup> C-SNAC (52 µCi/kg) or 300 mg 3H-SNAC (63 µCi/kg).  Plasma samples were collected at 0.167, 0.5, 0.75, 1, 2, 4, and 12 hours after dosing.
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.742]
+This was a multiple dose, single-center, randomized trial including 3 oral and 1 subcutaneous semaglutide treatment arm in a semi-sequential design.  The oral treatment arms (Oral 1, 2 and 3) included both active treatment and placebo allocated in a double-blinded manner. The subcutaneous treatment arm included only open-label active treatment. Oral treatment arms were initiated with a titration period to mitigate discomfort due to gastrointestinal AEs, which could potentially lead to withdrawal.  Oral dose escalation started at 2 mg and was carried out in 2-week intervals until reaching the end-dose to be investigated.  The final dose of the 3 oral treatment arms was 5 mg, 10 mg, and 20 mg (two 10 mg tablets) semaglutide, respectively.  Oral dosing was once daily for 10 weeks and subcutaneous dosing was once weekly for 10 weeks.  Each semaglutide tablet was formulated with 300 mg SNAC, meaning the 20 mg group received 600 mg SNAC per day for 4 weeks, once escalation reached the end-dose level. Subjects were fasted overnight prior to dose administration.  Tablets were swallowed with 50 mL water and patients remained fasted for 2 hours after dosing. Exposures increased in a greater than dose-proportional manner between 5 and 10 mg and in a slightly less than dose-proportional manner between 10 and 20 mg.  Based on the calculated half-life, steady state should have been achieved by Day 68; however, both Cmax and AUC appeared to continue to slightly increase on Day 69 and 70.  The estimated oral bioavailability for the 2 x 10 mg dose group relative to the subcutaneous exposure was approximately 0.05% (reviewer calculation).  The PK data for semaglutide are summarized in the sponsor-generated tables and figures below.  PK measurements for SNAC were not conducted.
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.683]
+###### **Table of Tables** 
+
+|Table 1: Composition of oral semaglutide used in the phase 3 clinical trial expressed as|
+|---|
+|"per tablet" ......................................................................................................................10|
+|Table 2: Placental transfer and lacteal secretion of<sup>14</sup>C-SNAC in the rat after an oral|
+|dose................................................................................................................................17|
+|Table 3: Percentage of Plasma Metabolites in Human and Rat.....................................19|
+|Table 4: In vitro assessment of SNAC and metabolites as transporter substrates ........20|
+|Table 5: Pharmacokinetics for SNAC in Sprague Dawley rats after oral gavage...........21|
+|Table 6: Toxicokinetic parameters after oral administration of SNAC in Sprague Dawley<br>rats..................................................................................................................................21|
+|Table 7: Pharmacokinetics for SNAC in Rhesus monkeys after oral gavage.................22|
+|Table 8: SNAC exposure multiples at the NOAEL in pivotal toxicology studies.............23|
+|Table 9: SNAC exposure multiples at the LOAEL in mechanistic studies......................29|
+|Table 10: Summary of natural delivery observations - F0generation female rats..........33|
+|Table 11: SNAC exposure multiples at NOAEL in fertility and development studies .....34|
+
+
+
+3 
+
+**Reference ID: 44** 8203597378 
+
+NDA # 213051 
+
+Elena Braithwaite, Ph.D. 
+
+###### **Table of Figures** 
+
+|Figure 1: Semaglutide Chemical Structure.......................................................................9|
+|---|
+|Figure 2: Chemical Structure of SNAC...........................................................................11|
+|Figure 3: Proposed metabolic pathways in mouse, rat, monkey and human .................19|
+|Figure 4: Effect of SNAC on cellular respiration and the electron transport chain .........25|
+|Figure 5: SNAC exposure (Cmax) and clinical chemistry changes following administration<br>of 75 to 1500 mg/kg in rats .............................................................................................27|
+
+
+
+4 
+
+**Reference ID: 44** 82035 97378 
+
+NDA # 213051 
+
+Elena Braithwaite, Ph.D.
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.676]
+###### 2.3 Drug Formulation 
+
+**Table 1: Composition of oral semaglutide used in the phase 3 clinical trial expressed as "per tablet"** 
+
+
+
+<!-- Start of picture text -->
+(b) (4)<br>(b) (4)<br>(b) (4)<br>(b) (4)<br>(b) (4)<br><!-- End of picture text -->
+
+- 2.4 Comments on Novel Excipients 
+
+Salcaprozate sodium (SNAC) is a novel excipient and will be the focus of this NDA review.  It is a fatty acid derivative that is used as an absorption enhancer. 
+
+CAS Registry Number (Optional): 203787-91-1 
+
+Generic Name: Salcaprozate sodium (SNAC) 
+
+Code Name: SNAC, _N_ -(salicyloyl)-8-aminooctanoic acid monosodium salt, monosodium _N_ -{8-(2-phenoxybenzoyl)amino} octanoate, sodium _N_ -[8-(2­ 
+
+hydroxybenzoyl)amino]caprylate E414 monosodium salt, EMIS000414 monosodium salt 
+
+Chemical Name: Sodium 8-[(2-hydroxybenzoyl)amino]octanoate 
+
+Molecular Formula/Molecular Weight: C15H20NNaO4/301.32 g/mol 
+
+10 
+
+**Reference ID: 44** 8203597378 
+
+NDA # 213051 
+
+Elena Braithwaite, Ph.D. 
+
+Structure or Biochemical Description 
+
+###### **Figure 2: Chemical structure of SNAC** 
+
+
+
+2.5 Comments on Impurities/Degradants of Concern 
+
+While semaglutide for oral administration is structurally identical to injectable semaglutide (Ozempic®), a different (b) (4) and optimized production process was introduced between Phase 2 and 3 (b) (4) The major semaglutide-related impurities in the degraded semaglutide drug product have been identified and found to be (b) (4) . All of the mentioned semaglutide-related 
+
+impurities have been observed in nonclinical batches during development. All impurities/degradants present in SNAC batches were qualified in toxicology studies or were present at levels below the reporting threshold described in ICH Q3A.
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.674]
+###### <u>Results:</u> 
+
+
+
+
+
+**<mark>Study title: RO5045192 (SNAC, excipient): Pharmacokinetics following oral (gavage) administration of RO5045192-001 in Wistar rats (05-6064, 209283)</mark>** <u>Methods: Male Wistar rats (2-6/time point) received a single oral dose of 30 mg/kg</u> SNAC. Plasma samples were collected at 0.33, 0.66, 1, 3, 6, and 24 hours after dosing to determine the PK characteristics for SNAC and its metabolites by LC-MS/MS. 
+
+###### <u>Results:</u> 
+
+SNAC was conjugated into the respective glucuronide (RO5081852) and was also rapidly transformed by β-oxidation into RO4729197.  This intermediate was further oxidized by a subsequent β-oxidation into RO5086252. Both metabolites were further transformed into their respective glucuronides RO5090295 and RO5091748. Among all metabolites, the highest systemic exposure was observed for the double oxidation product (RO5086252), its glucuronide, and the glucuronide formed from the parent compound (RO5081852). TK data are summarized in the sponsor-generated table below. 
+
+65 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u> 
+
+
+
+<!-- Start of picture text -->
+(b) (4)<br><!-- End of picture text -->
+
+###### **<mark>Study title:  Evaluation of various ratios of SNAC and Semaglutide in tablets following oral administration to Beagle dogs</mark>** <mark>(090703)</mark> 
+
+Beagle dogs were administered a single oral tablet of varying ratios of SNAC plus semaglutide as shown in the table below to determine the ratio that provided the best oral bioavailability of semaglutide. Blood samples were collected for up to 240 hours after dosing. SNAC was measured by LC-MS/MS with an LLOQ of 10 ng/mL or 25 ng/mL.  The PK results for SNAC are shown in the sponsor-generated table below. PK results for semaglutide are shown in the Absorption - Semaglutide section above.
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.666]
+###### <u>Results:</u> 
+
+<u>15 minutes after administration: High levels</u> of radioactivity were found in the stomach and small intestinal contents, liver, and kidney in both sexes and the urinary bladder in the male. In the kidney, radioactivity was more concentrated in the medulla than in the cortex. Small amounts of radioactivity were also observed in the lung for both sexes and gallbladder in the female. 
+
+<u>2 hours after administration: High levels of radioactivity remained in the stomach and</u> small intestine contents but at lower levels than at the 15-minute time point. Radioactivity in the liver was markedly decreased in both sexes and a slight decrease was noted for kidneys.  In the male, an increased amount of radioactivity was observed in the gallbladder, large intestinal content and urine. 
+
+<u>4 hours after administration: High radioactivity levels were detected in the small and</u> large intestine, while little radioactivity was found in the rectum of both sexes.  High levels of radioactivity were seen in the gallbladder of the female.  Low levels of radioactivity remained in the liver and kidney in both sexes. 
+
+<u>12 and 24 hours after administration: The amount of radioactivity in all tissues was</u> reduced markedly compared to the previous time point.  Low levels were still present in the small and large intestinal content of both sexes.  Levels in other tissues decreased to a non-detectable level. 
+
+###### <u>Conclusions:</u> 
+
+The data indicate that SNAC is readily absorbed from the gastrointestinal tract and distributed to the liver.  High levels of radioactivity in the gallbladder are indicative of biliary secretion. This observation in association with a small amount of radioactivity present in the feces in the rectum suggests enterohepatic recirculation of SNAC and/or its metabolites. High levels of radioactivity in the kidney in both sexes and the urinary bladder and urine in males indicate that the major route of elimination of radioactivity is through the kidney.
+
+---
+
+[referencia=ecf50d756d9b4478 score=0.661]
+#### Absorption 
+
+Most oral medications are absorbed in the intestines; however, semaglutide is completely absorbed in the stomach.<sup>8</sup> The degree of semaglutide absorption is dependent on the quantity of SNAC coformulated with it.<sup>8</sup> Pharmacokinetic studies show 300 mg of SNAC produces the highest semaglutide plasma concentrations.<sup>8</sup> On ingestion in animal studies, the highest concentrations of both semaglutide and SNAC were noted at the site of absorption in the stomach. With increasing distance from the site of absorption, both semaglutide and SNAC concentrations decreased. Only half the concentrations of each are detected at 3 cm from the tablet, while negligible amounts are observed at 6 cm.<sup>8</sup> These results are consistent with the localized buffering effect of SNAC. In addition, these data confirm that complete tablet erosion and absorption occur in the stomach, and reinforce the need to coformulate semaglutide with SNAC instead of simply coadministering each compound.<sup>8</sup> 
+
+The bioavailability of oral semaglutide is lower compared with the subcutaneous formulation.<sup>11,12</sup> In addition, interindividual absorption variability may also occur with oral semaglutide.<sup>13</sup> To compensate for these differences, higher doses of oral semaglutide are administered to achieve the same clinical results as the subcutaneous formulation.<sup>11,12</sup> A comparison of pharmacokinetic parameters of both formulations is provided in Table 1.
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.652]
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u> 
+
+
+
+<!-- Start of picture text -->
+(b) (4)<br>(b) (4)<br><!-- End of picture text -->
+
+**<u>Metabolism</u>** **<mark>Semaglutide:</mark>** 
+
+**<mark>Study title:  [</mark>**<sup>**3**</sup> **<mark>H]-Oct-NNC 0113-0000-0217 with carrier compound NNC 0113-3363: Profiling of circulating metabolites in plasma following oral single dose administration of tablets to Sprague-Dawley rats</mark>** <mark>(209112)</mark> 
+
+<mark>Eighteen rats were administered a single tablet containing 1 mg [</mark><sup>3</sup> <mark>H]-semaglutide in</mark> 
+
+combination with 30 mg SNAC. Blood samples were collected at 0.5, 1, 2, 4, 8, and 24 hours (3 animals/time point).  Parent and metabolite profiles were determined by HPLC and radiochromatography.
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.648]
+###### **Semaglutide** 
+
+###### **Table 11-3. Statistical analyses of effect of volume of water on semaglutide pharmacokinetic endpoints** 
+
+
+
+###### **<mark>Investigation on safety, tolerability, pharmacokinetics and pharmacodynamics of multiple doses of a long-acting GLP-1 analogue in healthy male subjects and male subjects with type 2 diabetes</mark>** <mark>(Trial NN9924-3991)</mark> 
+
+Healthy or type 2 diabetic males received either placebo, SNAC placebo, or semaglutide once daily for 10 weeks. Subjects receiving semaglutide were dose escalated to avoid severe GI adverse events.  The dose escalation scheme for 3 cohorts was 5 mg for 1 week, 10 mg for one week, 20 mg for 2 weeks, and then 40 mg for 6 weeks.  The forth cohort received 5 mg and 10 mg each for one week followed by 20 mg for 8 weeks. 
+
+The PK data for both semaglutide and SNAC are shown below in the sponsorgenerated figures and tables.  Semaglutide and SNAC exposures were similar between healthy volunteers and subjects with T2D.  Steady state for semaglutide was reached after approximately 22 days for the 20 mg cohort and after approximately 42 days for the 40 mg cohorts. SNAC has a short half-life, and therefore no accumulation was observed. 
+
+The number of subjects reporting TEAEs was similar between healthy subjects in the 20 mg and 40 mg (88% and 94%) semaglutide treatment groups and subjects in the placebo and SNAC-placebo groups (89% and 94%).  The TEAEs, the majority of which were mild, reported during oral semaglutide treatment were primarily GI disorders with nausea, vomiting, eructation, abdominal pain/distension/discomfort, diarrhea, dyspepsia, and flatulence being the most common. 
+
+28 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>IND #114,464</u> 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT</u> 
+
+###### **SNAC** 
+
+**Table 11-5. Summary of SNAC pharmacokinetic endpoints by treatment**
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.646]
+#### **5 Pharmacokinetics/ADME/Toxicokinetics** 
+
+5.1 PK/ADME 
+
+###### <u>SNAC Absorption</u> 
+
+SNAC absorption was evaluated after oral administration in mice, rats, and monkeys.  In all test species examined, SNAC was rapidly absorbed, typically reached Cmax in under 2 hours and had a half-life that ranged between 1-3 hours.  Although systemic exposure was highly variable, AUC and Cmax values generally increased with increasing dose and female rodents tended to have a higher systemic exposure when compared to male rodents.  In dogs and monkeys, the relative oral bioavailability of semaglutide in the presence of SNAC was estimated to range from 0.04 – 4.04%.   SNAC absorption was influenced by the fasting state of the animal.  Fasted Sprague Dawley rats given a single oral dose of<sup>14</sup> C-SNAC had AUC(0-6h) values 1.4 to 3-fold greater than unfasted rats.
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.635]
+3 
+
+Reference ID: 3478931 Reference ID: 4497378 
+
+<u>Reviewer: B. Timothy Hummer, PhD, DABT IND #114,464</u> 
+
+**1 Executive Summary 1.1 Introduction** Semaglutide (NNC0113-0217) is a long-acting glucagon-like peptide-1 (GLP-1) analog that is currently being developed by Novo Nordisk under IND 79,754 as a subcutaneously administered therapeutic for the treatment of type-2 diabetes.  Under this IND, the sponsor is developing semaglutide reformulated with a novel excipient, N-(8-(2-hydroxybenzoyl) Amino) Caprylate (SNAC), to allow for oral administration. **1.2 Brief Discussion of Nonclinical Findings** <u>Semaglutide (oral) plus SNAC</u> Semaglutide was orally administered to rats in a formulation containing SNAC for 6 months. Most findings were attributed to SNAC as the same findings were observed in the SNAC control groups. Effects that were attributed to semaglutide included decreased body weight and food consumption at ≥20 mg/kg/d for males and at 60 mg/kg/d for females; slightly increased adrenal weights in males receiving ≥20 mg/kg/d; 
+
+distention of the duodenum, reduced adipose tissue, and thin uterus in females receiving 60 mg/kg/d; and hypertrophy of Brunner’s gland in males (minimal at ≥20 mg/kg/d) and females (minimal to slight at ≥6 mg/kg/d). Effects on food consumption and body weight are expected for GLP-1 receptor agonists.  Although hypertrophy of Brunner’s gland is not always observed for this class, the same finding was observed in chronic rat and mouse studies in which semaglutide was administered subcutaneously. 
+
+Therefore, this appears to be a pharmacological effect occurring after systemic exposure rather than specifically a local effect as a result of oral dosing.
+
+---
+
+[referencia=a79b9a1b5929a3c3 score=0.632]
+SNAC is readily absorbed from the gastrointestinal tract, with a Tmax of approximately 10 to 30 minutes. Major organs of distribution included kidney, bile ducts/gall bladder, blood, and liver. Data from bile-duct cannulated rats demonstrated evidence for enterohepatic recirculation. SNAC is highly bound to plasma proteins, ranging from approximately 84% to 98%, depending on the species.  In Caco-2 and MDCKII-BCRP cell assays, SNAC inhibited human transporters P-gp, BCRP, OATP1B1, OAT1, and OAT3 by more than 50% resulting in IC50 values of 2620, 145, 68, 28, and 5 μM, respectively. SNAC is a weak inhibitor of CYP2C19, CYP3A4/5, and UGT1A9.  One SNAC metabolite (E1245) was shown to be a weak inhibitor of CYP1A2, CYP2B6, CYP2C8, and CYP2C19. At the anticipated clinical exposure, significant drug-drug interactions due to metabolic interactions are not expected. SNAC is primarily metabolized by two levels of β-oxidation followed by glucuronidation.  SNAC is not metabolized by Phase 1 enzymes. The major metabolites formed in humans were also identified in rats and/or monkeys. The elimination half-life of SNAC after oral administration was approximately 1.4, 2.7, 1.0, and 2.5 hours in CD1 mice, Wistar rats, beagle dogs, and Cynomolgus monkeys, respectively.  SNAC is primarily excreted in urine, with a minor fraction in feces.

@@ -1,0 +1,393 @@
+[referencia=71163b79b7c7859a score=0.829]
+Notably, the review also examined differences between dosing schedules. Greater protection against cervical cancer was observed when the vaccine was given at younger ages. Further, pooled evidence from randomized trials and observational studies suggests that a single dose of HPV vaccine provides protection comparable to two- and three-dose regimens for certain outcomes in females, including persistent infection and cervical pre-cancers, at least within five years of follow-up. Reducing the number of required doses could improve vaccination coverage and access.
+
+Evidence suggests that while additional doses generally produce higher antibody levels, a single dose was shown to generate strong and durable immune responses, maintaining high levels of protection against the most dangerous HPV types.
+
+Despite these findings, the authors note important gaps in the evidence base. Data on long-term protection from a single dose, effectiveness in males, and protection against non-cervical cancers remain limited and warrant further study.
+
+“As medical societies determine vaccine recommendations, this review provides the most up-to-date evaluation of the evidence supporting the safety and effectiveness of the HPV vaccine,” Center for Infectious Disease Research and Policy Research Director Dr. Angela Ulrich said. Ulrich led the Vaccine Integrity Project’s HPV vaccine evidence review. “The data show how important HPV vaccination is to prevent persistent HPV infections that lead to cancer. The review also contributes to the body of evidence supporting a one-dose regimen, while acknowledging where more data are still needed, especially about its long-term durability and effectiveness in preventing certain types of cancer, especially in men.”
+
+Overall, the review concludes that HPV vaccines continue to offer substantial public health benefits, with strong evidence supporting their role in preventing cancer and precancerous disease. The growing body of research on reduced-dose schedules may help inform future policy decisions aimed at expanding access and increasing vaccination coverage.
+
+**Media Contact:**
+
+Kevin Griffis
+
+Director of Media Relations and Public Affairs
+
+Center for Infectious Disease Research and Policy
+
+University of Minnesota
+
+kgriffis@umn.edu
+
+202-412-8377
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.756]
+### **_Hillary A. Dunlevy, MD, MPH; Steven C. Johnson, MD_** 
+
+**_Abstract:_** _Vaccinations are an important part of primary care for people with HIV (PWH). They protect against some sexually transmitted infections, and respiratory bacterial and viral infections. PWH are recommended to obtain influenza, COVID-19, herpes zoster (shingles), hepatitis B, meningococcal disease, mpox, and human papillomavirus vaccinations. Additionally, the Advisory Committee on Immunization Practices has released recommendations incorporating the newer formulations of pneumococcal pneumonia vaccines and respiratory syncytial virus vaccines. Considerations for the timing of vaccinations are described, including whether to delay vaccination until improvement of the immune status. Live vaccines (other than nonreplicating vaccines) are contraindicated for PWH with a CD4+ count below 200 cells/µL or uncontrolled HIV._ 
+
+**Keywords:** COVID-19, hepatitis B, herpes zoster, HIV, HPV, human papillomavirus, immunosuppression, influenza, meningococcus, mpox, pneumococcus, pneumonia, respiratory syncytial virus, RSV, vaccination, vaccine 
+
+kissing, coughing, or sharing drinks or utensils. Vaccine protection should be addressed during routine sexual health discussions between practitioners and patients. 
+
+Respiratory illnesses can be prevented with vaccination and often occur seasonally, such as the fall/winter pattern seen with influenza and respiratory syncytial virus (RSV) and the bimodal pattern of fall/winter and summer seen with COVID-19. Other bacterial respiratory infections such as pneumococcal infections can accompany viral infections and vaccinations should be addressed as part of routine primary care for PWH. 
+
+One consideration when vaccinating PWH is whether to administer the vaccines to individuals who have lower CD4+ cell counts or HIV viremia. **Table 1** summarizes the immunization schedule for PWH as of April 2026 and **Table 2** gives the 2025-2026 COVID-19 vaccine schedule for immunocompromised individuals. **Table 3** provides guidance regarding which vaccines can be given immediately on HIV diagnosis and which can be given after individuals are taking antiretroviral therapy (ART) and
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.664]
+# 2026 Update on Routine and Special Vaccinations in People With HIV
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.595]
+|RSV|Seasonal administration betw<br>pregnancy, September-Janua|een weeks 32 and 36 of<br>ry|1 dose<sup>d</sup>|1 dose|
+|COVID-19|2025-2026 formulation: 1 dos<br>doses<sup>e</sup>|e; immunocompromised ind|ividuals can get additional|2 doses, 6 mo apart|
+
+
+
+a Immunizations should be given after assessment of age, presence of immunity to the pathogen (for hepatitis A and B), and CD4+ cell count. Live replicating vaccines, including those for MMR, varicella infection, and yellow fever, should not be given if CD4+ count is below 200 cells/µL. The oral typhoid and live influenza vaccines are contraindicated in all PWH. 
+
+bHPV vaccination for individuals aged 27 to 45 years should be approached with shared decision-making between the clinician and patient to assess for ongoing risk of exposure to HPV. 
+
+cIndividuals at risk for mpox include those who may have contact with mpox virus through workplace or sexual exposure. 
+
+dRSV vaccination is recommended for persons with cardiopulmonary disease, kidney disorders, liver disorders, neurologic or neuromuscular conditions, hematologic disorders, diabetes mellitus, and moderate or severe immune compromise (attributable to a medical condition or receipt of immunosuppressive medications or treatment); persons who are frail; persons of advanced age; persons who reside in nursing homes or other long-term care facilities; and persons with other underlying conditions or factors that the clinican determines might increase the risk for severe respiratory disease. 
+
+e Dose can be given up to 3 mo after infection with COVID-19. See Table 2 for vaccine types and dosing for those who are immunocompromised.
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.551]
+e Dose can be given up to 3 mo after infection with COVID-19. See Table 2 for vaccine types and dosing for those who are immunocompromised. 
+
+Abbreviations: ACIP, Advisory Committee on Immunization Practices; CDC, Centers for Disease Control and Prevention; HAVAb, hepatitis A virus antibody; HBsAb, hepatitis B surface antibody; HPV, human papillomavirus; MenACWY, meningococcal disease caused by serogroups A, C, W, and Y; MMR, measles, mumps, and rubella; PCVx, pneumococcal conjugate vaccine (protects against x serotypes); PPSVx, pneumococcal polysaccharide vaccine (protects against X serotypes); RSV, respiratory syncytial virus; Td, tetanus and diptheria; Tdap, tetanus, diptheria, and acellular pertussis. 
+
+■<sup>Recommended vaccination for adults who meet age requirement, lack documentation of vaccination, or lack evidence of immunity.</sup> 
+
+■<sup>Recommended vaccination for adults with an additional risk factor or another indication.</sup> 
+
+■<sup>Recommended vaccination based on shared clinical decision-making.</sup> 
+
+2 
+
+Published ahead of issue August 26, 2026 © IAS–USA 
+
+www.iasusa.org 
+
+Vaccinations in PWH 
+
+**Table 2.** 2025 to 2026 Recommended Initial COVID-19 Vaccine Schedule in Immunocompromised Individuals
+
+---
+
+[referencia=71163b79b7c7859a score=0.419]
+*Review supports strength of one-dose regimen to prevent certain cancers and pre-cancers in women.* 
+
+**FOR IMMEDIATE RELEASE**
+
+**May 5, 2026**
+
+MINNEAPOLIS, Minn. — The Vaccine Integrity Project’s comprehensive review of peer-reviewed evidence related to human papillomavirus (HPV) vaccines finds that they remain highly safe and effective in preventing cervical cancer, precancerous lesions, and persistent HPV infection, with emerging evidence supporting the potential effectiveness of a single-dose regimen for key outcomes in women.
+
+The systematic review and meta-analysis screened more than 5,000 abstracts and evaluated more than 120 studies published between 2024-26. The newer data and updated findings were integrated with 153 studies from two comprehensive 2025 Cochrane reviews, limiting the Cochrane studies to those only related to vaccines approved in the U.S. The data reviewed – dating more than 20 years – included randomized controlled trials, cohort studies, ecological studies, case-control studies, and immunogenicity analyses.
+
+The findings, from the Vaccine Integrity Project, an initiative of the University of Minnesota’s Center for Infectious Disease Research and Policy, reinforce decades of research demonstrating that HPV vaccination significantly reduces the risk of cervical cancer and other HPV-related diseases.
+
+HPV is the most common sexually transmitted infection globally and is responsible for most cervical and anal cancers, as well as a substantial share of other cancers affecting the throat and reproductive system, in both men and women. In the United States alone, HPV-related disease accounts for more than $9 billion annually in screening and treatment costs.
+
+The review found no credible evidence linking HPV vaccination to serious adverse events, including neurological conditions, adverse pregnancy outcomes, or other long-term health risks. These findings update and are consistent with prior large-scale reviews and continue to support a strong safety profile for HPV vaccines.
+
+In addition to confirming safety, the analysis found substantial and consistent reductions in cancer and pre-cancer outcomes among vaccinated individuals. Vaccination was associated with significantly lower rates of invasive cervical cancer and high-grade cervical lesions (a cancer precursor), as well as large reductions in persistent infection with high-risk HPV strains responsible for most cancers.
+
+---
+
+[referencia=647d5d9299ab4ee5 score=0.407]
+# New study validates previous conclusions supporting a single-dose HPV vaccination schedule
+
+Findings demonstrate non-inferiority of one dose compared to two doses of HPV vaccines to prevent cervical cancer-causing HPV infections.
+
+- **29  January  2026**
+- 2 min read
+- 
+	**by** PATH
+
+
+Results from the first blinded, randomized non-inferiority trial comparing one versus two doses of HPV vaccine are now available: one dose provided similar protection to that of two doses, with observed 97% effectiveness against cancer-causing HPV infections in four trial groups totalling more than 20,000 participants measured up to five years post-vaccination.
+
+The study reinforces the interpretation of the data used to inform the World Health Organization (WHO) 2022 alternative recommendation.
+
+
+
+Previously, the Single-Dose HPV Vaccine Evaluation Consortium collated and evaluated the existing evidence base to inform decision-makers. 
+
+This included the randomised, controlled trial KEN-SHE that compared one dose to no vaccination; the DoRIS immunobridging analysis (comparing results from one trial to another to infer effectiveness); and single-dose HPV vaccine cohorts from high-quality observational studies.
+
+In addition to motivating WHO to update its schedule recommendation in 2022, the strength of that evidence also convinced nearly 90 countries since to adopt a single-dose regimen.
+
+## Studies like ESCUDDO remind us that data doesn’t need to result in a breakthrough to make a difference. Validating previous conclusions with definitive clarity is a critical component of scientific research, and not always easy to obtain.
+
+
+The ESCUDDO results validate the conclusions of the current evidence base because the protocol was specifically designed to assess the performance of one dose compared to two doses within the same study, resolving any lingering ambiguity in the interpretation of previous research.
+
+For national HPV vaccination programme stakeholders that are still undecided, these results make a compelling case for making the switch. And the evidence on the durability of protection continues to build as the years go by; the longest available timeframe to date shows vaccine protection holding steady for more than a decade post-vaccination with one dose.
+
+Studies like ESCUDDO remind us that data doesn’t need to result in a breakthrough to make a difference. Validating previous conclusions with definitive clarity is a critical component of scientific research, and not always easy to obtain.
+
+In the case of ESCUDDO, the numbers were clear and the conclusion obvious. That reassurance is worth celebrating.
+
+---
+
+[referencia=a6a024cf09130271 score=0.318]
+## Key facts
+
+- Cervical cancer is largely preventable through HPV vaccination and regular screening, as recommended by national guidelines, and it can be cured if detected early and treated promptly.
+- Cervical cancer is the fifth most commonly diagnosed cancer in women globally with around 604 000 new cases and around 280 000 deaths in 2024.
+- The highest rates of cervical cancer incidence and mortality are in low- and middle-income countries. This reflects major inequities driven by lack of access to national HPV vaccination, cervical screening and treatment services and social and economic determinants.
+- Cervical cancer is caused by persistent infection with human papillomavirus (HPV). Women living with HIV are 6 times more likely to develop cervical cancer compared to women without HIV.
+- Countries worldwide are accelerating efforts to eliminate cervical cancer, guided by the global 90–70–90 targets: 90% of girls fully vaccinated with HPV vaccine by age 15, 70% of women screened by ages 35 and 45, and 90% of women with pre-cancer or invasive cancer receiving appropriate treatment.
+
+## Overview
+
+Globally, cervical cancer is the fifth most commonly diagnosed cancer in women, with 604 000 new cases estimated in 2024. Cervical cancer is the leading cause of cancer death in women in 26 countries, primarily in sub‐Saharan Africa and parts of South and Central America, Melanesia, and South‐East Asia *(1)*. These regional differences reflect inequalities in access to vaccination, screening and treatment services.
+
+They are further influenced by risk factors such as HIV prevalence and by broader social and economic determinants, including gender inequality and poverty.
+
+Women living with HIV are six times more likely to develop cervical cancer compared to the general population, and an estimated 5% of all cervical cancer cases are attributable to HIV *(2)*. Cervical cancer disproportionately affects younger women, and as a result, 20% of children who lose their mother to cancer do so due to cervical cancer *(3)*.
+
+---
+
+[referencia=a6a024cf09130271 score=0.269]
+## Prevention
+
+Boosting public awareness, strengthening health literacy, and improving access to information and services are key to prevention and control across the life course:
+
+- HPV vaccination for girls 9–14 years is highly effective at preventing infection, cervical cancer and other HPV-related cancers.
+- Cervical screening from the age of 30 (25 years in women living with HIV) can detect cervical precancer, and when coupled with timely treatment can prevent progression to cervical cancer.
+- At any age, early detection of women with symptoms, followed by prompt quality treatment, can cure cervical cancer.
+
+### HPV vaccination and other prevention steps
+
+As of 2025, there are 8 licensed HPV vaccines, five of which have received WHO pre-qualification and are available globally. All these protect against the high-risk HPV types 16 and 18, which cause around 76% of cervical cancers.
+
+Girls should receive HPV vaccination between 9 and 14 years of age, when the immune response is stronger and they have not yet been exposed to the virus. Depending on the national schedule the vaccine may be given as one or two doses. Individuals with compromised immune systems, including people living with HIV, are a priority and should ideally receive two or three doses. Some countries have additionally chosen to vaccinate boys to further reduce the prevalence of HPV in the community and to prevent cancers in men caused by HPV.
+
+Other important ways to prevent HPV infection and reduce the risk of cervical cancer include:
+
+- being a non-smoker or stopping smoking
+- using condoms
+- voluntary male circumcision.
+
+---
+
+[referencia=081e98231d99110a score=0.249]
+## Routine recommendations
+
+- HPV vaccine is recommended for routine vaccination at 11 or 12 years old. Vaccination can be started at age 9.
+- ACIP also recommends vaccination for everyone through age 26 years if not adequately vaccinated when younger. HPV vaccination is given as a series of either two or three doses, depending on age at initial vaccination.
+- Vaccination is not recommended for everyone older than age 26 years. Some adults ages 27 through 45 years might decide to get the HPV vaccine based on discussion with their clinician, if they did not get adequately vaccinated when they were younger. HPV vaccination of people in this age range provides less benefit, for several reasons, including that more people in this age range have already been exposed to HPV.
+- For adults ages 27 through 45 years, clinicians can consider discussing HPV vaccination with people who are most likely to benefit. HPV vaccination does not need to be discussed with most adults over age 26 years. See shared clinical decision-making FAQs.
+
+Most sexually active adults have already been exposed to HPV, although not necessarily all of the HPV types targeted by vaccination. At any age, having a new sex partner is a risk factor for getting a new HPV infection. People who are in a long-term, mutually monogamous relationship are not likely to get a new HPV infection.
+
+**Routine vaccination**
+
+Age **11-12 years**; 
+
+can be started at age 9 years
+
+**Catch-up vaccination**
+
+Age **13-26 years**, 
+
+if not adequately vaccinated
+
+**Shared clinical decision-making**
+
+Some adults ages **27-45 years**, 
+
+if not adequately vaccinated
+
+### Dosing schedule
+
+**Two doses of HPV vaccine** are recommended for most people starting the series before their 15th birthday.
+
+- The second dose of HPV vaccine should be given 6 to 12 months after the first dose.
+- Adolescents who receive two doses less than 5 months apart will require a third dose of HPV vaccine.
+
+**Three doses of HPV vaccine** are recommended for teens and young adults who start the series at ages 15 through 26 years, and for immunocompromised persons.
+
+- The recommended three-dose schedule is 0, 1–2 months, and 6 months.
+- Three doses are recommended for immunocompromised persons (including those with HIV infection) aged 9 through 26 years.
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.213]
+www.iasusa.org 
+
+Vaccinations in PWH 
+
+**Table 2.** 2025 to 2026 Recommended Initial COVID-19 Vaccine Schedule in Immunocompromised Individuals 
+
+||**Vaccine brand name, manuf**<br>|**acturer, type**<br>|||
+|---|---|---|---|---|
+||Spikevax,<br>Moderna,<br>mRNA|mNexspike, Moderna,<br>mRNA|Comirnaty,<br>Pfzer-BioNTech,<br>mRNA|Nuvaxovid, Novavax,<br>protein subunit|
+|Dose 1|Day 0|Day 0|Day 0|Day 0|
+|Dose 2|4 wk afer dose 1|4 wk afer dose 1|3 wk afer dose 1|3 wk afer dose 1|
+|Dose 3|4 wk afer dose 2|4 wk afer dose 2|4 wk afer dose 2|6 mo afer dose 2 (minimum<br>2 mo)<sup>a</sup>|
+|Dose 4|6 mo afer dose 3 (minimum<br>2 mo)<sup>a</sup>|6 mo afer dose 3<br>(minimum 3 mo)<sup>a</sup>|6 mo afer dose 3<br>(minimum 2 mo)<sup>a</sup>||
+
+
+
+aAny of the 4 vaccines can be substituted for this dose. 
+
+(Twinrix; GlaxoSmithKline) at 0, 1, and 6 months. Immunity is checked prior to vaccination by hepatitis A immunoglobulin G (IgG) antibody testing that demonstrates prior vaccination or infection with development of immunity. Antibody response is assessed at 1 to 2 months after vaccination. If there is incomplete response in the setting of low CD4+ cell count, repeat vaccination should be offered in the setting of recovery of the CD4+ count to more than 200 cells/µL.<sup>**2**</sup>
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.211]
+#### Measles, Mumps, and Rubella 
+
+In the US, measles was declared eliminated in 2000, but the number of infections has been on the rise recently, in part due to decreased vaccination, with fewer than 93% of kindergarteners vaccinated in 2023 to 2024.<sup>**22**</sup> In 2025, there were 2288 confirmed cases, with 243 hospitalizations and 3 deaths. The numbers are increasing in 2026, with 2030 cases already confirmed by June of 2026 in 40 jurisdictions; 92% of infections were in individuals who were unvaccinated or who had unknown vaccination status.<sup>**23**</sup> The measles, mumps, and rubella (MMR) vaccine is a live, attenuated combination vaccine and is recommended for nonimmune PWH with CD4+ count of 200 cells/µL or higher (contraindicated for those with CD4+ count <200 cells/µL) and on ART, with 2 vaccine doses 
+
+those with new sexual partners, and has been shown to be effective and safe in this population. The CDC 5-site Human Papillomavirus Vaccine Impact Monitoring Project demonstrated a decrease in high-grade intraepithelial cervical lesions by 80% in women aged 20 to 24 years from 2008 to 2022 after implementation of vaccination.<sup>**13**</sup> Additionally, a Swedish study showed that girls vaccinated prior to age 17 years had an 88% reduction in cervical cancer risk.<sup>**14**</sup> There is currently no evidence that HPV vaccination reduces the risk of recurrence of HPV-related high-grade neoplasia in PWH with a history of high-grade neoplasia; however, there are ongoing 
+
+5 
+
+Published ahead of issue August 26, 2026 © IAS–USA 
+
+www.iasusa.org 
+
+IAS–USA _Topics in Antiviral Medicine_ 
+
+at least 28 days apart. Individuals are considered immune if they were born prior to 1957, have documentation of MMR vaccination, or have laboratory evidence of immunity (rubeola IgG) or infection. Repeat 2-dose vaccination can be
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.203]
+#### References 
+
+1. US Food and Drug Administration. Vaccines licensed for use in the United States. Accessed March 15, 2024. <u>https://www.fda.gov/vaccines-blood-biologics/vaccines/vaccines-licensed-use-united-states</u> 
+
+2. National Institutes of Health, HIV Medicine Association, and Infectious Diseases Society of America. Guidelines for the prevention and treatment of opportunistic infections in adults and adolescents with HIV. 2026. Updated: - 
+
+February 25, 2026. Accessed May 4, 2026. https://clini <u>calinfo.hiv.gov/en/guidelines/adult-and-adolescentopportunistic-infection</u> 
+
+3. Horberg M, Thompson M, Agwu A, et al. Primary care guidance for providers of care for persons with human immunodeficiency virus: 2024 update by the HIV Medicine Association of the Infectious Diseases Society of America. _Clin Infect Dis_ . Published online October 12, 2024. doi:10.1093/cid/ciae479 
+
+4. Centers for Disease and Control and Prevention. Yellow book. Accessed August 11, 2026. <u>https://www.cdc.gov/</u> - 
+
+<u>yellow book/hcp/contents/index.html</u> 
+
+5. Berkowitz EM, Moyle G, Stellbrink HJ, et al. Safety and immunogenicity of an adjuvanted herpes zoster sub- 
+
+9 
+
+Published ahead of issue August 26, 2026 © IAS–USA 
+
+www.iasusa.org 
+
+IAS–USA _Topics in Antiviral Medicine_ 
+
+   - unit candidate vaccine in HIV-infected adults: a phase 1/2a randomized, placebo-controlled study. _J Infect Dis_ . 2015;211(8):1279-1287. doi:10.1093/infdis/jiu606
+
+---
+
+[referencia=081e98231d99110a score=0.186]
+- Rosenblum HG, Lewis RM, Gargano JW, et al. Declines in Prevalence of Human Papillomavirus Vaccine-Type Infection Among Females after Introduction of Vaccine – United States, 2003-2018. *MMWR* . 2021;70:415-20.
+
+- Meites E, Stone L, Amiling R, et al. Significant Declines in Juvenile Onset Recurrent Respiratory Papillomatosis following HPV Vaccine Introduction in the United States. *Clin Infect Dis.* 2021;3(5):885-890.
+
+- McClung NM, Gargano JW, Park IU, et al; HPV-IMPACT Working Group. Estimated number of cases of high-grade cervical lesions diagnosed among women – United States, 2008 and 2016. *MMWR* . 2019;68(15):337-343.
+- McClung NM, Lewis RM, Gargano JW, et al. Declines in Vaccine-Type Human Papillomavirus Prevalence in Females Across Racial/Ethnic Groups: Data From a National Survey. *J Adolesc Health.* 2019;65:715-722.
+- McClung NM, Gargano JW, Bennett NM, et al, HPV-IMPACT Working Group. Trends in Human Papillomavirus Types 16 and 18 in Cervical Precancers, 2008-2014. *Cancer Epidemiol Biomarkers Prev.* 2019;28(3):602-609.
+- Gargano J, Park IU, Griffin MR et al. Trends in High-grade Cervical Lesions and Cervical Cancer Screening in Five States, 2008–2015. *Clin Infect Dis.* 2019;68(8):1282-91.
+- Drolet M, Benard E, Perez N, Brisson M, on behalf of the HPV Vaccination Impact Study Group. Population-level impact and herd effects following human papillomavirus vaccination programs: updated systematic review and meta-analysis. *The Lancet* . 2019;394:497-509.
+- Flagg EW, Torrone EA. Declines in Anogenital Warts Among Age Groups Most Likely to Be Impacted by Human Papillomavirus Vaccination, United States, 2006-2014. *Am J Public Health* . 2018;108(1):112-119.
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.184]
+**_Measles was declared eliminated in 2000 in the US, but the number of infections has been on the rise recently, with 2287 confirmed cases including 243 hospitalizations and 3 deaths in 2025; 92% of infections were in individuals who were unvaccinated or of unknown vaccination status_** 
+
+considered in individuals without serologic evidence of immunity. Individuals who are pregnant or are planning to become pregnant should delay vaccination until after pregnancy.<sup>**2**</sup> Individuals who received a vaccine from 1963 to 1967 may have received the inactivated measles vaccine, which is less effective and would warrant repeat 2-dose vaccination. Individuals vaccinated prior to 1989 likely only received 1 dose of the MMR vaccine, which is 93% effective. A booster dose of the MMR vaccine should also be given to those who are at a higher risk of exposure, such as health care workers, international travelers, individuals in an area with a measles outbreak, college students, PWH (CD4+ count >200 cells/µL), and those around medically high-risk individuals such as those who are immunocompromised.<sup>**24**</sup>
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.164]
+#### COVID-19 
+
+Numerous studies of individuals with COVID-19 have shown worse outcomes in PWH than in the general population. In a large trial examining data from 24 countries from the World Health Organization’s Global Clinical Platform, HIV was associated with 15% increased odds of presenting with severe COVID-19 and 38% increased odds of dying in the hospital.<sup>**38**</sup> Increased risk was associated with HIV even with viral suppression. A multicenter cohort study of participants predominantly from the US revealed worse outcomes for PWH including a composite of admission to the intensive care unit, ventilatory support, and death. Additional findings demonstrated worse outcomes for people with a CD4+ count below 200 cells/µL, independent of viral suppression.<sup>**39**</sup> PWH were included in studies for the 2 types of mRNA vaccine and the glycopro- 
+
+**_COVID-19 vaccination is recommended for all adults and adolescents with HIV regardless of CD4+ cell count, with a second dose recommended for those aged 65 years or older and for those with advanced or untreated HIV_** 
+
+tein vaccine and data support that PWH on ART who have achieved virologic suppression have a good immunologic response to the vaccines. There are currently 4 options for vaccination from 3 different manufacturers, including 3 mRNA vaccines (Comirnaty [Pfizer BioNTech], Spikevax [Moderna], and mNexspike [Moderna]) and 1 glycoprotein vaccine (Nuvaxovid; Novavax).<sup>**40**</sup> 
+
+COVID-19 vaccination is recommended for all adults and adolescents with HIV regardless of CD4+ cell count. A second dose of COVID-19 vaccine is recommended for those aged 65 years or older and for those with advanced or untreated HIV.<sup>**40**</sup> The vaccine schedule for initial doses of COVID-19 in immunocompromised individuals (including those with advanced HIV) is seen in **Table 2** . Some studies that show benefit in the general population can be useful for discussion with vaccine-hesitant patients. An observational cohort from the Veterans Administration
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.144]
+8. Hyams KC. Risks of chronicity following acute hepatitis B virus infection: a review. _Clin Infect Dis_ . 1995;20(4):9921000. doi:10.1093/clinids/20.4.992 
+
+9. Centers for Disease and Control and Prevention. Cancers linked with HPV each year. December 3, 2025. Accessed June 23, 2026. <u>https://www.cdc.gov/cancer/hpv/cases. html?CDC_AAref_Val=https://www.cdc.gov/cancer/ hpv/statistics/cases.htm</u> 
+
+10. Clifford GM, Georges D, Shiels MS, et al. A meta-analysis of anal cancer incidence by risk group: toward a unified anal cancer risk scale. _Int J Cancer._ 2021;148(1):38-47. doi:10.1002/ijc.33185 
+
+11. Stelzle D, Tanaka LF, Lee KK, et al. Estimates of the global burden of cervical cancer associated with HIV. _Lancet Glob Health_ . 2021;9(2):e161-e169. doi:10.1016/S2214109X(20)30459-9 
+
+12. Meites E, Szilagyi PG, Chesson HW, Unger ER, Romero JR, Markowitz LE. Human papillomavirus vaccination for adults: updated recommendations of the advisory committee on immunization practices. _MMWR Morb Mortal Wkly Rep._ 2019;68(32):698-702. doi:10.15585/mmwr. mm6832a3 
+
+13. Gargano JW, Stefanos R, Dahl RM, et al. Trends in cervical precancers identified through population-based surveillance - human papillomavirus vaccine impact monitoring project, five sites, United States, 2008-2022. _MMWR Morb Mortal Wkly Rep._ 2025;74(6):96-101. doi:10.15585/mmwr.mm7406a4 
+
+14. Lei J, Ploner A, Elfstrom KM, et al. HPV vaccination and the risk of invasive cervical cancer. _N Engl J Med._ 2020; 383(14):1340-1348. doi:10.1056/NEJMoa1917338
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.141]
+15. Wilkin TJ, Chen H, Cespedes MS, et al. A randomized, placebo-controlled trial of the quadrivalent human papillomavirus vaccine in human immunodeficiency virus-infected adults aged 27 years or older: AIDS Clinical Trials Group Protocol A5298. _Clin Infect Dis_ . 2018;67(9):13391346. doi:10.1093/cid/ciy274 
+
+16. Yan F, Cowell LG, Tomkies A, Day AT. Therapeutic vaccination for HPV-mediated cancers. _Curr Otorhinolaryngol Rep_ . 2023;11(1):44-61. doi:10.1007/s40136-023-00443-8 
+
+17. Grohskopf LA, Blanton LH, Ferdinands JM, Reed C, Dugan VG, Daskalakis DC. Prevention and control of seasonal influenza with vaccines: recommendations of the advisory committee on immunization practices - United States, 2025-26 Influenza Season. _MMWR Morb Mortal Wkly Rep._ 2025;74(32):500-507. doi:10.15585/mmwr. mm7432a2 
+
+18. Centers for Disease Control and Prevention. GRADE: higher dose and adjuvanted influenza vaccines for persons aged ≥65 years. Accessed July 23, 2026. https:// <u>www.cdc.gov/acip/grade/infuenza-older-adults.html</u> 
+
+19. McKittrick N, Frank I, Jacobson JM, et al. Improved immunogenicity with high-dose seasonal influenza vaccine in HIV-infected persons: a single-center, parallel, randomized trial. _Ann Intern Med._ 2013;158(1):19-26. doi:10.7326/0003-4819-158-1-201301010-00005 
+
+20. Falsey AR, Treanor JJ, Tornieporth N, Capellan J, Gorse GJ. Randomized, double-blind controlled phase 3 trial comparing the immunogenicity of high-dose and standarddose influenza vaccine in adults 65 years of age and older. _J Infect Dis._ 2009;200(2):172-180. doi:10.1086/599790
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.113]
+#### Introduction 
+
+Vaccinations have saved millions of lives by preventing infection or serious manifestations of infection with a variety of illnesses. An estimated 35 infectious diseases have a vaccine that offers some protection.<sup>**1**</sup> The US Centers for Disease Control and Prevention (CDC) offer guidance for a variety of vaccinations for people with HIV (PWH) including those that protect against sexually transmitted infections (STIs), respiratory illnesses, and serious viral and bacterial infections.<sup>**2**</sup> STIs that can be prevented by vaccines include hepatitis B, hepatitis A, human papillomavirus (HPV)related diseases, and mpox. Additionally, meningococcal disease can be transmitted by close contact including 
+
+##### **Author Correspondence** 
+
+Write to Hillary Dunlevy, MD, MPH, University of Colorado Infectious Diseases Group Practice, 1635 Aurora Ct, 7<sup>th</sup> Fl, Aurora CO, 80045, or email <u>Hillary.dunlevy@cuanschutz.edu.</u> 
+
+**_Vaccinations have saved millions of lives by preventing infection or serious manifestations of infection with a variety of illnesses_** 
+
+have virologic suppression and improvement in CD4+ cell count. **Table 4** summarizes recommended vaccines for those who travel outside the US.
+
+---
+
+[referencia=3405ec6b98f4b295 score=0.111]
+42. Link-Gelles R, Chickery S, Webber A, et al. Interim estimates of 2024-2025 COVID-19 vaccine effectiveness among adults aged ≥18 years - VISION and IVY networks, September 2024-January 2025. _MMWR Morb Mortal Wkly Rep._ 2025;74(6):73-82. doi:10.15585/mmwr.mm7406a1 
+
+43. Van AM, Lotsch F, Spijker R, et al. Incidence of invasive pneumococcal disease in immunocompromised patients: a systematic review and meta-analysis. _Travel Med Infect Dis._ 2018;24:89-100. doi:10.1016/j.tmaid.2018.05.016 
+
+44. Harboe ZB, Larsen MV, Ladelund S, et al. Incidence and risk factors for invasive pneumococcal disease in HIV-infected and non-HIV-infected individuals before and after the introduction of combination antiretroviral therapy: persistent high risk among HIV-infected injecting drug users. _Clin Infect Dis_ . 2014;59(8):1168-1176. doi:10.1093/ cid/ciu558 
+
+45. Mohapi L, Pinedo Y, Osiyemi O, et al. Safety and immunogenicity of V114, a 15-valent pneumococcal conjugate vaccine, in adults living with HIV. _AIDS_ . 2022;36(3):373382. doi:10.1097/QAD.0000000000003126 
+
+46. Centers for Disease Control and Prevention. Summary of risk-based pneumococcal vaccination recommendation. May 8, 2026. Accessed June 23, 2026. <u>https://www.</u> - 
+
+<u>cdc.gov/pneumococcal/hcp/vaccine recommendations/ risk-indications.html#cdc_generic_section_5-serotype4-considerations</u>

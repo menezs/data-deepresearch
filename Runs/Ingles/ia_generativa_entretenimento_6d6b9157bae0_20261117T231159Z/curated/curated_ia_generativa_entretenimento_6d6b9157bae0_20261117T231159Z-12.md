@@ -1,0 +1,220 @@
+[referencia=9212bfa992f193d4 score=0.946]
+AI use also raises questions about cultural homogenisation, environmental sustainability, data security and copyright, all major issues that require coordinated policy responses that balance innovation with accountability.
+
+Today’s state-of-the-art models have been trained, without permission, on vast amounts of copyrighted works such as scripts, images, sounds and video clips – anything that might be scraped from the internet. Vast amounts of energy are also consumed in the training and use of these models, challenging the screen sector’s commitment to more sustainable methods of production. And while currently available AI tools are impressive, they are often an imperfect fit for the highly specific needs of professional filmmakers, storytellers and worldbuilders.
+
+Innovation is not solely restricted to the private sector. The Government’s 2024 AI action plan recommended that “the public sector should rapidly pilot and scale AI products and services”. The screen sector is already seeing examples of public sector AI-driven service innovation, based on principles of responsible AI such as the Intelligent Systems for Screen Archives project being supported by the BFI’s National Lottery Innovation Challenge Fund and being designed by King’s College London.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.853]
+# BFI and CoSTAR launch report on generative AI for the screen industries
+
+Published in partnership with CoSTAR universities Goldsmiths, Loughborough and Edinburgh, the report provides a roadmap for the UK screen sector to scale-up and benefit from global opportunities.
+
+A new report published today by the BFI, AI in the Screen Sector: Perspectives and Paths Forward, analyses how the screen sector is using and experimenting with rapidly evolving generative artificial intelligence (AI) technologies. To ensure that the UK remains a global leader in screen production and creative innovation, the report sets out a roadmap of key recommendations to support the delivery of ethical, sustainable, and inclusive AI integration across the sector, in order that the UK can capitalise on its creative strengths, enabling independent companies to scale-up and compete globally.
+
+The report is published by the BFI as part of its role within the CoSTAR Foresight Lab; CoSTAR is the UK’s Creative R&D network. This the second report published this year for the CoSTAR Foresight Lab on AI use in the creative industries, following a study into sustainability impacts of AI and other convergent technologies.
+
+Generative AI promises to democratise and revolutionise screen content creation. Projects such as the Charismatic consortium, backed by Channel 4 and Aardman Animations, aim to make AI tools accessible to creators regardless of budget or experience. This could empower a new wave of British creators to produce high-quality content with modest resources, though concerns about copyright and ethical use remain significant barriers to full adoption. The BBC is piloting structured AI initiatives. The BFI National Archive and the BBFC are experimenting with AI for subtitling, metadata generation, and content classification, enhancing accessibility and operational efficiency.
+
+In many ways, the UK’s strong foundation in creative technology – home to over 13,000 creative technology companies – means that the UK screen sector is well-positioned to adapt to this technological shift. From AI-enhanced dubbing and visual effects to interactive storytelling and automated content classification, UK creatives and technologists are pushing boundaries with generative tools and models.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.806]
+The report also considers how the adoption of generative AI within the UK screen sector raises significant legal, ethical, and practical challenges that need to be addressed to ensure sustainable and equitable integration. The primary issue is the use of copyrighted material – including more than 100,000 film and TV scripts – in the training of generative AI models, without payment or the permission of rightsholders. This practice threatens the fundamental economics of the screen sector if it devalues intellectual property creation and squeezes out original creators. Other issues include safeguarding human creative control, the fear of job losses through replacement and investment for training in new skills, high energy consumption and carbon emissions, and risks to creative content around biased data.
+
+Rishi Coupland, the BFI’s Director of Research & Innovation, said:
+
+“AI has long been an established part of the screen sector’s creative toolkit, most recently seen in the post-production of the Oscar-winning The Brutalist, and its rapid advancement is attracting multi-million investments in technology innovator applications. However, our report comes at a critical time and shows how generative AI presents an inflection point for the sector and, as a sector, we need to act quickly on a number of key strategic fronts.
+
+“While it offers significant opportunities for the screen sector such as speeding up production workflows, democratising content creation and empowering new voices, it could also erode traditional business models, displace skilled workers, and undermine public trust in screen content. The report’s recommendations provide a roadmap to how we can ensure that the UK’s world-leading film, TV, video games and VFX industries continue to thrive by making best use of AI technologies to bring their creativity, innovations and storytelling to screens around the globe.”
+
+Professor Jonny Freeman, Director of CoSTAR Foresight Lab, said:
+
+“This latest CoSTAR Foresight Lab report, prepared by the BFI, navigates the complex landscape of AI in the screen sector by carefully weighing both its transformative opportunities and the significant challenges it presents. The report acknowledges that while AI offers powerful tools to enhance creativity, efficiency and competitiveness across every stage of the production workflow – from script development and pre-production planning, through on-set production, to post-production and distribution – it also raises urgent questions around skills, workforce adaptation, ethics, and sector sustainability.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.733]
+#### Recommendation 9
+
+Independent creation: Empower UK creatives to develop AI-supported independent creativity
+
+Generative AI is lowering traditional barriers to entry in the UK screen sector – enabling individuals and small teams to realise ambitious creative visions without the need for large budgets or studio backing. UK-based director Tom Paton describes how AI breaks down barriers that have “kept so many creators on the sidelines”, while the Charismatic consortium, backed by Channel 4 and Aardman Animations, sees the potential of AI “to support creators disadvantaged through lack of access to funds or the industry to compete with better funded organisations”.
+
+The emergence of AI-first studios such as Wonder, which secured £2.2 million in pre-seed funding, further demonstrates the viability of independent, AI-supported content creation. By investing in accessible tools, training and funding for independent creators, and developing market-preferred, ethical AI products, the UK can foster a more inclusive and dynamic creative economy where AI enhances, rather than replaces, human imagination.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.672]
+- Microsoft research team based in Cambridge, UK, built a World and Human Action Model called Muse to address limitations in model capabilities that were identified through interviews with games developers.
+- As in the United States, AI-first creative studios have started to emerge in the UK. These companies seek to remake existing models of screen content production by embedding AI throughout the process.
+- Adam Cole, a UK-based artist, won the 2024 SXSW XR Audience Award for his installation, Kiss/Crash, in which AI melds images of head-on car crashes into those of people kissing.
+- Alongside model advancements are improved model ‘wrappers’ – custom software that allows users to interact with generative AI capabilities through user-friendly interfaces. Increasingly these are designed from an understanding of the needs and typical workflows of creators, eg Invoke, which began as an open-source project to develop a web-based interface for Stable Diffusion image models and is now available as a paid-for creative production platform.
+- Entirely new products have also emerged from the collaboration between creatives and technologists. In France, for example, scriptwriter David Defendi partnered with AI engineer Louis Manhès in 2019 to create Genario, a writing tool for novelists, which has since expanded to include generative AI capabilities and now supports film and TV screenplays.
+- At BAFTA this year, the Los Angeles-based company Pickford demonstrated an interactive animated TV show in which audience reactions and suggestions are filtered through a large language model (LLM) to change story elements in real-time.
+- The BBC is following a “scan > pilot > scale” approach to AI adoption (as outlined in the UK Government’s AI Opportunities Action Plan). It has commissioned 12 pilot projects to date and is now ‘fast-tracking’ a number of these into production “where we believe it is safe and valuable to do so”.
+- Within the BFI National Archive, large language models, vision models, and methods of natural language processing are being deployed to make content more accessible (through automated subtitling) and discoverable (through automated video descriptions and wikification).
+- At the British Board of Film Classification (BBFC), generative AI is being tested for deployment as part of its age ratings process, supporting the work of compliance officers by identifying “key classification issues in video content” – such as instances of swearing, sex or violence – “and tagging those issues for further viewing or final classification”.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.552]
+## Innovation case studies in the report
+
+Within the UK, AI is being deployed to drive efficiencies, stimulate creativity, and open new possibilities. Here are some examples within the UK and internationally.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.416]
+## Current use, experimentation and impacts
+
+Generative artificial intelligence (AI) has the potential to reshape how screen stories are developed and produced, as well as how audiences engage with media. In time, the implications could be far-reaching.
+
+AI has the potential to streamline repetitive work, increase agency of individual creatives, and in the near future to allow the development of innovative and rights-controlled, tools, services and products.
+
+The UK has a strong foundation of AI and innovation expertise to support experimentation. More than 13,000 creative technology companies are based in the country, including more than 4,000 businesses focused on applying emerging technologies across film, games, and other creative subsectors. World-leading UK creative technology companies include global VFX studio Framestore, virtual production and visual experience technology provider Disguise, and virtual world builder Improbable. And there are examples of cutting-edge research being spun-out of universities to drive new AI-enabled creative technology businesses, including DAACI, which offers tools for editing and generating music and syncing it to video, and digital humans company Humain.
+
+From AI-enhanced dubbing and visual effects to interactive storytelling and automated content classification, British creatives and technologists are pushing boundaries with generative tools and models. Award-winning dramas are using AI to improve the authenticity of accents, and major studios are investing in the development of new AI tools. In video games, developers are looking to generative AI to increase player immersion or give gamers the freedom to create their own personalised experiences. Creatives and technologists are exploring whether AI might allow game-like interactivity to become part of the film and TV experience as well.
+
+Tasks such as writing, translation, and now technical VFX can be automated, which may lead to reduced demand for certain skillsets. Tools like Wonder Dynamics automate character animation, prompting fears of obsolescence among professionals. However, AI also creates new opportunities for complementary skills, such as machine learning engineering and chatbot development. The challenge lies in equipping the UK’s screen sector workforce, including freelancers, with the training and resources needed to adapt and thrive alongside AI.
+
+AI use also raises questions about cultural homogenisation, environmental sustainability, data security and copyright, all major issues that require coordinated policy responses that balance innovation with accountability.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.383]
+## Report recommendations
+
+Based on a detailed review of current AI adoption, experimentation and innovation, the report focuses on nine recommendations anchored to three strategic outcomes to deliver within the next three years that will enable the UK screen sector to remain in the vanguard of innovation. These outcomes focus on delivering better AI over the next three years through frameworks, targeted support and growth.
+
+The recommendations include establishing the UK as a world-leading market of IP licensing for AI training; embedding sustainability standards to reduce AI’s carbon footprint; and supporting cross-disciplinary collaboration to develop market-preferred, culturally inclusive AI tools. The report calls for structures and interventions to pool knowledge, develop workforce skills and target investments at the UK’s high-potential creative technology sector. Finally, it urges support for independent creators through accessible tools, funding and ethical AI products. Case studies within the report show how and where AI technologies have already become assimilated into production processes and where advancements are likely to be made.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.317]
+“By mapping these issues in depth and referencing the Foresight Lab’s taxonomy of AI in screen production workflows, the report provides a clear, evidence-led roadmap for the future adoption and responsible use of AI. This roadmap is designed to help industry leaders, policymakers, and creative practitioners make informed decisions, anticipate future needs, and harness AI’s potential while mitigating risks. In doing so, the report supports the sector to innovate responsibly, maintain global competitiveness, and ensure that the UK remains at the forefront of creative technology.”
+
+---
+
+[referencia=9212bfa992f193d4 score=0.313]
+- Surveys show notable industry adoption of AI tools. A 2023 survey of 70 UK-based producers found that 17% had used generative AI in their production process and 40% planned to do so; an August 2024 survey of 65 US-based media and entertainment decision makers found 49% using generative AI within their organisation.
+- In France, a survey by the CNC of 794 screenwriters, producers, directors and cinematographers, presented during the Cannes Film Festival 2024, reported that 40% of respondents had used generative AI and that 77% of those AI users had continued to use generative AI at least occasionally (35% daily or regularly).
+- UK-based Metaphysic used generative AI to digitally de-age the cast of the 2024 film Here. It innovated a ‘youth mirror’ system to allow the actors to see their younger selves on screen with only a two-frame delay.
+- Belfast-based Humain brings together performance capture and AI models in the design and creation of realistic digital humans, including those developed for video game titles Avowed, Microsoft Flight Simulator 2024 and Warhammer 40,000: Space Marine 2.
+- Flawless, a UK-based creative technology company has reimagined dubbing through ‘vubbing’, which synchronises actors’ facial movements with translated dialogue.
+- Revolution Software has used AI to upscale thousands of low-resolution art assets in the remake of its Broken Sword game.
+- For VFX teams and artists, motion capture, digital de-aging, face and head-swapping and image compositing represent some of the many applications of machine learning in VFX creation. AI is also streamlining tasks like rotoscoping in visual effects.
+- Projects such as the Charismatic consortium, backed by Channel 4 and Aardman Animations, aim to make AI tools accessible to creators regardless of budget or experience.
+- UK animation studio Blue Zoo has developed its own AI policies and principles to support ethical/responsible use of AI.
+- Two UK-developed video games, Dead Meat and 1001 Nights, employ language models (and, in the case of 1001 Nights, image generation models) to give players more control over dialogue and gameplay interactions.
+- Microsoft research team based in Cambridge, UK, built a World and Human Action Model called Muse to address limitations in model capabilities that were identified through interviews with games developers.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.224]
+#### Recommendation 3
+
+Responsible AI: Support cross-discipline collaboration to deliver market-preferred, ethical AI products
+
+Generative AI tools must align with both industry needs and public values. Many models, tools and platforms have been developed without sufficient input from the screen sector (or, indeed, screen audiences), leading to functionality and outputs that are poorly suited to production workflows or that risk cultural homogenisation and ethical oversights. (Use of large language models trained predominantly on US data may marginalise local narratives, for example.)
+
+Academics have called for ‘inclusive’ approaches to AI development, arguing that generative AI’s full potential can only be reached if creative professionals participate in its development. The feasibility of cross-disciplinary collaboration is demonstrated by Genario – a screenwriting tool created in France by a scriptwriter and an AI engineer. Embedding collaborative, inclusive design processes can enhance the relevance of AI tools to creative tasks, as demonstrated by Microsoft’s Muse experiment. These processes also ensure that AI models reflect ethical standards and cultural diversity. The UK should look to combine its strengths in AI and humanities research, and its reputation for merging technology and culture, to deliver responsible, ethical AI.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.222]
+AI in the Screen Sector: Perspectives and Pathways is built upon the experience of a range of experts including creatives, technologists, academics, analysts, lawyers, and senior leaders from across the screen sector, surveys of screen sector organisations and creative technologists, published reports and research, and responses to public consultations.
+
+The report has been commissioned and published by the BFI through its partnership in the CoSTAR Foresight Lab, led by Goldsmiths, working with the University of Edinburgh and Loughborough University. The report is co-authored by Angus Finney. The report was highlighted for publication by BFI Chief Executive Ben Roberts at the Culture, Media and Sport Select Committee’s inquiry into the British film and High-End Television (HETV) sector.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.119]
+### Frameworks
+
+#### Recommendation 1
+
+Rights: Set the UK in a position as a world-leading IP licensing market
+
+There is an urgent need to address copyright concerns surrounding generative AI. The current training paradigm – where AI models are developed using copyrighted material without permission – poses a direct threat to the economic foundations of the UK screen sector. A viable path forward is through licensing frameworks: 79 licensing deals for AI training were signed globally between March 2023 and February 2025; the UK’s Copyright Licensing Agency is developing a generative AI training licence to facilitate market-based solutions; and companies such as Human Native are enabling deals between rightsholders and AI developers.
+
+The UK is well-positioned to lead in this space, thanks to its ‘gold standard’ copyright regime, a vibrant creative technology ecosystem, and a coalition of creative organisations advocating for fair licensing practices. For this market to be effective, new standards and technologies are required, as outlined in a May 2025 CoSTAR National Lab report. By formalising IP licensing for AI training and fostering partnerships between rightsholders and AI developers, the UK can protect creative value, incentivise innovation, and establish itself as a hub for ethical and commercially viable AI-supported content production.
+
+#### Recommendation 2
+
+Carbon: Embed data-driven guidelines to minimise carbon impact of AI
+
+Generative AI models, particularly large-scale ones, demand significant computational resources, resulting in high energy consumption and associated carbon emissions. Yet the environmental footprint of AI is often obscured from end users in the creative industries. Transparency is a critical first step to addressing AI’s environmental impact. UK-based organisations such as Blue Zoo are already choosing to run AI models on infrastructure where energy sources and consumption are fully visible. These practices, combined with calls for regulatory frameworks akin to appliance energy labels, demonstrate a need for sustainability-focused AI guidelines. With the screen sector in the vanguard of generative AI uses globally, it is ideally positioned to push the demand for carbon minimisation, and the UK screen sector should lead by example.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.115]
+#### Recommendation 6
+
+Public transparency: Drive increased public understanding of AI use in screen content
+
+Transparency will drive audience trust in the age of generative AI. Surveys reveal that 86% of British respondents support clear disclosures when AI is used in media production, and this demand for transparency is echoed by screen sector stakeholders, who call for standards on content provenance and authenticity to counter the rise of AI-generated misinformation and ‘slop’. National institutions such as the BBC are already experimenting with fine-tuning AI models to reflect their editorial standards, and the BFI is deploying AI in archival work with a focus on ethical and transparent practices. These efforts demonstrate the UK’s capacity to lead in setting audience-facing standards and educating the public about generative AI’s new and developing role in content creation.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.079]
+### Growth
+
+#### Recommendation 7
+
+Sector adaptation: Boost the UK’s strong digital content production sector to adapt and grow
+
+The UK boasts a unique convergence of creative excellence and technological innovation, with a track record of integrating emerging technologies into film, TV, and video game production. London is the world’s second largest hub (after Mumbai) for VFX professionals. Generative AI is already being used across the UK screen sector to drive efficiencies, stimulate creativity, and open new storytelling possibilities – from AI-assisted animation (Where the Robots Grow) and visual dubbing (Flawless) to reactive stories and dialogue (Dead Meat). However, surveys identify a lack of AI training and funding opportunities, while Parliamentary committees point to fragmented infrastructure and an absence of industry-wide standards that could hinder the continued growth and development of AI-supported creative innovation. Our own roundtable discussions with the sector highlighted the need for resources to better showcase the R&D work of the sector, to support collaboration and reaching new investors.
+
+#### Recommendation 8
+
+Investment: Unlock investment to propel the UK’s high-potential creative technology sector
+
+There is a compelling opportunity and a pressing need for targeted financial support for the UK’s creative technology sector. The UK is home to global creative technology leaders including Framestore and Disguise, as well as AI startups such as Synthesia and Stability. However, the House of Lords has identified a “technology scaleup problem” in the UK, with limited access to growth capital, poor infrastructure, and a culture of risk aversion acting as barriers to expansion. A Coronation Challenge report on CreaTech points to “significant” funding gaps at secondary rounds of investment (Series B+ stages) which are “often filled by international investors … creating risks of IP and talent migration out of the UK”.
+
+The report also found that physical infrastructure is needed, stating that: “Those involved in CreaTech innovation can struggle to find space to demonstrate, and sell, their work.” Commenting on a February 2025 House of Lords Communications and Digital Committee report into the scaleup challenge, inquiry chair Baroness Stowell called for action to “unravel the complex spaghetti of support schemes available for scaleups” and “simplify the help available and ensure it is set up to support our most innovative scaleups to grow”.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.067]
+- Without adequate testing and mitigations, AI models trained on biased data will produce biased outputs. Addressing these biases requires transparency in AI training data, participatory approaches to AI design and fine-tuning approaches to debias base models.
+- Use of AI tools poses risks of data leakage, which may compromise commercial and personal data security. Developing proprietary AI models may be an expensive solution, but running open-weight models locally (as the BFI National Archive is doing) or on managed cloud services presents a more affordable alternative.
+- Lack of training and investment to support AI innovation are significant barriers to wider AI adoption in the UK Creative Industries, which could constrain economic growth. The UK has a reputation for merging technology and culture, but there is a need for additional support and structures to help bring together the UK’s expertise and strengths in AI research, engineering, and filmmaking.
+- Generative AI technology is not perfect but is improving in its suitability for creative tasks. Collaboration between creatives and technologists to shape AI development, inclusive approaches to AI design, and fine-tuning models for creative needs are essential for the successful integration of generative AI in the screen sector.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.049]
+- The existing training paradigm for generative AI models poses a threat to the ability of the screen sector to create value from making and commercialising new intellectual property (IP). Sources of AI training data include scripts from more than 130,000 films and TV shows, YouTube videos, and databases of pirated books. As generative models learn the structure and language of screen storytelling – from text, images and video – they can then replicate those structures and create new outputs at a fraction of the cost and expense of the original works. These learned capabilities can be used to assist human creatives, but AI tools may also be used to compete against the original creators whose work they were trained on.
+- A coalition of screen sector organisations, including the BBC, Channel 4, Fremantle, ITN, ITV and Pact believes that AI developers should not scrape creative sector content without express permission and that a framework that supports licensing of copyright content for AI training is the best way for the UK to share in the opportunity created by AI.
+- AI’s text, video and image generation capabilities fuel concerns about loss of jobs and income for screen sector workers. The 2023 dispute between actors and Hollywood studios and streamers, included objections to proposals that would allow scanned images and likenesses of actors to be used by studios in perpetuity with no further consent or compensation. Concerns about AI and digital replicas again led to a strike by actors against video games employers in 2024, which is ongoing. AI also presents new opportunities and job roles for creative workers. Screen sector organisations recognise the need to train staff (including freelancers) in AI knowledge and skills in the next several years.
+- AI’s ability to automate tasks raises fears of job losses, particularly for junior or entry-level positions. Training and upskilling are seen as essential to prepare the workforce for AI integration.
+- Computational resources required for training and operating AI models result in high energy consumption and carbon emissions, challenging the screen sector’s sustainability goals.
+- Protecting human creative control is seen as vital and necessary, both by screen sector workers and audiences. A survey for the BBC shows audiences in favour of labelling AI uses, and a YouGov survey finds 86% of British respondents wanting AI content disclosures. Meanwhile, Screen Sector Task Force members surveyed by the BFI call for standards on content provenance and authenticity.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.041]
+### Targeted support
+
+#### Recommendation 4
+
+Insight: Enable UK creative industry strategies through world-class intelligence
+
+The UK has over 13,000 creative technology companies and a strong foundation in both AI research and creative production. However, across the UK screen sector, organisations, teams and individuals – especially SMEs and freelancers – lack access to structured intelligence on AI trends, risks, and opportunities. This absence of shared infrastructure for horizon scanning, knowledge exchange, and alignment limits the sector’s ability to respond cohesively to disruption.
+
+The BFI has proposed creating an ‘AI observatory’ and ‘tech demonstrator hub’ to address this urgent challenge, and the proposal has been endorsed by the House of Commons Culture, Media and Sport Committee as a way to centralise insights from academia, industry, and government, and provide hands-on experience of emerging tools and capabilities.
+
+#### Recommendation 5
+
+Skills: Develop the sector to build skills complementary to AI
+
+AI automation may, in time, lower demand for certain digital content creation skills. It may also create new opportunities for roles that require human oversight, creative direction, and technical fluency in AI systems. Our research identifies a critical shortfall in AI training provision: AI education in the UK screen sector is currently more ‘informal’ than ‘formal’, and many workers – particularly freelancers – lack access to resources that would support them to develop skills complementary to AI. However, the UK is well-positioned to lead in AI upskilling due to its strong base of AI research institutions, a globally respected creative workforce, and a blending of technology and storytelling expertise. By helping workers transition into AI-augmented roles, the UK can future-proof its creative workforce and maintain its competitive edge in the global screen economy.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.039]
+## Concerns and challenges

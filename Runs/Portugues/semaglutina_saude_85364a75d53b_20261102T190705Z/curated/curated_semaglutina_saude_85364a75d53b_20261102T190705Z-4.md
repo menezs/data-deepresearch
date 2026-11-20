@@ -1,0 +1,116 @@
+[referencia=fe4fe99e25e4d1b5 score=0.994]
+# Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes
+
+---
+
+[referencia=fe4fe99e25e4d1b5 score=0.988]
+    
+
+      
+        
+          **Conclusions:**
+        
+      
+      In patients with preexisting cardiovascular disease and overweight or obesity but without diabetes, weekly subcutaneous semaglutide at a dose of 2.4 mg was superior to placebo in reducing the incidence of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke at a mean follow-up of 39.8 months. (Funded by Novo Nordisk; SELECT ClinicalTrials.gov number, NCT03574597.).
+    
+
+Copyright © 2023 Massachusetts Medical Society.
+
+## Comment in
+
+- 
+  
+  SELECT shows cardiovascular risk reduction with weight-loss drug semaglutide in people without diabetes.Nat Rev Cardiol. 2024 Feb;21(2):69. doi: 10.1038/s41569-023-00970-3. Nat Rev Cardiol. 2024. PMID: 38036669 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes.N Engl J Med. 2024 Feb 22;390(8):766. doi: 10.1056/NEJMc2400414. N Engl J Med. 2024. PMID: 38381682 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes.N Engl J Med. 2024 Feb 22;390(8):766-767. doi: 10.1056/NEJMc2400414. N Engl J Med. 2024. PMID: 38381683 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes.N Engl J Med. 2024 Feb 22;390(8):767. doi: 10.1056/NEJMc2400414. N Engl J Med. 2024. PMID: 38381684 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes.N Engl J Med. 2024 Feb 22;390(8):767. doi: 10.1056/NEJMc2400414. N Engl J Med. 2024. PMID: 38381685 No abstract available.
+-
+
+---
+
+[referencia=fe4fe99e25e4d1b5 score=0.980]
+      **Background:**
+        
+      
+      Semaglutide, a glucagon-like peptide-1 receptor agonist, has been shown to reduce the risk of adverse cardiovascular events in patients with diabetes. Whether semaglutide can reduce cardiovascular risk associated with overweight and obesity in the absence of diabetes is unknown.
+    
+
+      
+        
+          **Methods:**
+        
+      
+      In a multicenter, double-blind, randomized, placebo-controlled, event-driven superiority trial, we enrolled patients 45 years of age or older who had preexisting cardiovascular disease and a body-mass index (the weight in kilograms divided by the square of the height in meters) of 27 or greater but no history of diabetes. Patients were randomly assigned in a 1:1 ratio to receive once-weekly subcutaneous semaglutide at a dose of 2.4 mg or placebo. The primary cardiovascular end point was a composite of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke in a time-to-first-event analysis. Safety was also assessed.
+    
+
+      
+        
+          **Results:**
+        
+      
+      A total of 17,604 patients were enrolled; 8803 were assigned to receive semaglutide and 8801 to receive placebo. The mean (±SD) duration of exposure to semaglutide or placebo was 34.2±13.7 months, and the mean duration of follow-up was 39.8±9.4 months. A primary cardiovascular end-point event occurred in 569 of the 8803 patients (6.5%) in the semaglutide group and in 701 of the 8801 patients (8.0%) in the placebo group (hazard ratio, 0.80; 95% confidence interval, 0.72 to 0.90; P<0.001). Adverse events leading to permanent discontinuation of the trial product occurred in 1461 patients (16.6%) in the semaglutide group and 718 patients (8.2%) in the placebo group (P<0.001).
+    
+
+      
+        
+          **Conclusions:**
+
+---
+
+[referencia=fe4fe99e25e4d1b5 score=0.952]
+# Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes
+
+- 
+          
+  
+    
+      PMID:
+    
+  
+  
+    **37952131**
+- DOI: 10.1056/NEJMoa2307563
+
+---
+
+[referencia=fe4fe99e25e4d1b5 score=0.728]
+Semaglutide and Cardiovascular Outcomes.N Engl J Med. 2024 Feb 22;390(8):767-768. doi: 10.1056/NEJMc2400414. N Engl J Med. 2024. PMID: 38381686 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes. Reply.N Engl J Med. 2024 Feb 22;390(8):768-769. doi: 10.1056/NEJMc2400414. N Engl J Med. 2024. PMID: 38381687 No abstract available.
+- 
+  
+  In adults with overweight or obesity and CVD, but without diabetes, semaglutide reduced MACE at a mean 40 mo.Ann Intern Med. 2024 Mar;177(3):JC31. doi: 10.7326/J24-0008. Epub 2024 Mar 5. Ann Intern Med. 2024. PMID: 38437690
+- 
+  
+  GLP-1-Rezeptor-Agonisten in der kardiovaskulären Therapie.MMW Fortschr Med. 2024 Apr;166(6):22-23. doi: 10.1007/s15006-024-3771-0. MMW Fortschr Med. 2024. PMID: 38581499 German. No abstract available.
+- 
+  
+  Getting the measure of the pressure: Optimal assessment of the effects of glucagon-like peptide-1 receptor agonists on blood pressure.Diabetes Obes Metab. 2024 Aug;26(8):3003-3005. doi: 10.1111/dom.15631. Epub 2024 May 5. Diabetes Obes Metab. 2024. PMID: 38706104 No abstract available.
+
+## Publication types
+
+## MeSH terms
+
+## Substances
+
+## Associated data
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+- ### Medical
+
+---
+
+[referencia=fe4fe99e25e4d1b5 score=0.008]
+## Abstract

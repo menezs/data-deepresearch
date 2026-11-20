@@ -1,0 +1,36 @@
+[referencia=3ed22e8145b91714 score=0.858]
+7. **Material modifications to AI output are copyrightable** – Similarly, meaningful modifications to AI output may be eligible for copyright protection. The report notes that some AI tools, such as Midjourney, allow a user to “select and regenerate regions of an [AI-generated] image with a modified prompt.” The USCO notes that these tools, unlike simple prompting, give users control over “the selection and placement of individual creative elements,” and notes that the extent of the modifications made will factor into a determination of whether the modifications are copyrightable.
+8. **Copyrightability for selections of AI output** – The report states that a human author who creatively selects or arranges AI-generated output can receive copyright protection in the resulting compilation, but the AI-generated output itself is not copyrightable. This principle is consistent with the Copyright Office’s earlier decisions, including*Zarya of the Dawn* .
+9. **Eye on international policy** – The USCO made clear that it will be paying close attention to changes in international approaches to AI copyrightability and other developments that might merit an ultimate change in its policy statement.
+
+## How can businesses and creators best strengthen their claims to copyrights while leveraging the benefits of AI, in light of this guidance?
+
+- First, and where possible, AI should be used as an assistive rather than creative tool, i.e. for purposes of brainstorming or outlining what will ultimately be a human-created work;
+- For works that are themselves created using AI, material and creative modifications to those works should be maximized; and
+- When available, the user’s own human-authored work should be used as an input, potentially allowing the user to claim compilation rights in the resulting AI-generated output. This may be particularly useful in the case of software development.
+
+This report is being released in three parts. Part 1, published July 31, 2024 and covered here, recommended federal legislation addressing the unauthorized distribution of AI-generated “deepfakes,” or digital replicas of a person’s appearance or voice. The forthcoming part 3 is expected to address the legal implications of training AI models on copyrighted works, including licensing considerations.
+
+
+Authored by Lauren Cury and Isabella Bosetti.
+
+---
+
+[referencia=3ed22e8145b91714 score=0.694]
+1. **No change to existing law necessary** – The USCO determined that copyrightability of AI output can be “resolved pursuant to existing law.” The USCO recommended against legislation extending copyright protection – or creating a new type of intellectual property protection – for AI-generated output. While copyright protections incentivize human authors to create, the USCO reasoned that these incentives are unnecessary in the AI context due to business incentives to develop AI and would be unwieldly to implement given the rapid evolution in the generative AI landscape.
+2. **Human authorship remains essential** – AI-generated works are not copyrightable unless there is sufficient human creative input that meets the originality standard. Material that is solely AI-generated is not copyrightable at all
+3. **AI-assisted works copyrightable** – The USCO rejected suggestions that the type of AI model used should determine whether its output is copyrightable. Instead the USCO focuses on how the output is used. The use of AI to assist or enhance human expression rather than substitute for it will not limit copyright protection of the resulting human-authored work. Examples provided of AI assistance include brainstorming, creation of a written outline, and voice synthesis for digital music.
+4. **No bright-line rule** – In a continuation of its March 2023 policy statement, the USCO emphasized that the copyrightability of works consisting in part of AI-generated material must be analyzed on a case-by-case basis to determine whether the human contributions are sufficient to constitute authorship.
+5. **Prompts alone do not confer copyrightability** – The report concludes that guiding AI output using prompts does not generally meet the threshold of creativity required for copyright protection, taking the position that prompts function as instructions that convey unprotectable ideas. Additionally, because AI models operate unpredictably, the USCO takes the position that even detailed prompts or prompt engineering do not give the prompter sufficient creative control over the resulting output to claim authorship.
+6. **AI does not destroy preexisting copyrightability, and may confer more** – The report notes that when a human inputs their own copyrightable work into an AI model and that work is perceptible in the output, the human is generally entitled to copyright protection – including in the output – of “at least” the original creative expression encompassed by the input, and potentially the compilation of human-authored and AI-generated material.
+
+---
+
+[referencia=3ed22e8145b91714 score=0.593]
+The Influencers podcast: AI and the judgment gap
+
+The United States Copyright Office has released the second in a series of reports relating to the implications of AI on copyright law and policy, firmly upholding the principle that copyright protection is reserved for human-created works while introducing slight nuance regarding the interplay of human authorship and generative AI. This article explores the report’s guidance and resulting strategies for protection of works which consist in whole or part of AI-generated or assisted material.
+
+The United States Copyright Office (USCO) has released the second in a series of reports relating to the implications of AI on copyright law and policy. This report, titled “Copyright and Artificial Intelligence Part 2: Copyrightability,” addresses the availability of copyright protection for outputs of AI models. The report comes out of the Copyright Office’s AI Initiative, launched in early 2023 to examine the copyright issues raised by AI, and which solicited over 10,000 comments from the public. The USCO’s guidance on copyrightability, in particular, was highly anticipated, with approximately half of the public comments directed to this issue.
+
+In this report, the USCO holds firm in its existing stance that copyright protection is available only for material created by humans, while expounding on certain existing guiding principles and introducing slight nuance regarding the interplay of human authorship and generative AI. Key takeaways include:

@@ -1,0 +1,771 @@
+{
+  "run_id": "pix_brasil_663a2298105f_20261101T182250Z",
+  "answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Claude/EmConsolidacao/pix_brasil.md",
+  "generated_at": "2026-11-04T05:57:55.432644Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 25016,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 76,
+    "citation_markers_distinct": 28,
+    "references_listed": 28,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 74,
+  "pct_supported": 89.1891891891892,
+  "pct_unsupported": 9.45945945945946,
+  "pct_contradicted": 0.0,
+  "count_supported": 66,
+  "count_unsupported": 7,
+  "count_contradicted": 0,
+  "count_skipped": 1,
+  "count_audited": 73,
+  "pct_supported_audited": 90.41095890410958,
+  "pct_unsupported_audited": 9.58904109589041,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 14,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 1
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 1,
+  "count_reclassified_by_verification": 2,
+  "verification_stage_counts": {
+    "context_expansion": 1,
+    "revisao_manual": 1
+  },
+  "mis_cited_reference_count": 4,
+  "uncredited_reference_count": 1,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "3840eab9f5e75580",
+      "citation_markers": [
+        "[11]"
+      ],
+      "raw_url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+      "normalized_url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+      "work_key": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+      "title": "Banco Interamericano de Desenvolvimento, \"Digital Transformation and Financial Inclusion: The Case of Instant Payments in Brazil\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-04T03:47:26.197840Z",
+      "error_message": "Rate limit persistente em https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+      "barrier_kind": null,
+      "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "blocked_references": [],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "pix_brasil_663a2298105f_20261101T182250Z-25",
+      "reason": "Referencia(s) citada(s) ['3840eab9f5e75580'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "102d3ed3ffd0ee94",
+      "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+      "times_cited": 34,
+      "supported_count": 33,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 30,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        4,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        17,
+        19,
+        21,
+        22,
+        23,
+        27,
+        30,
+        31,
+        32,
+        33,
+        34,
+        36,
+        37,
+        38,
+        40,
+        44,
+        45,
+        54,
+        56,
+        65
+      ],
+      "partial_positions": [
+        18,
+        39,
+        68,
+        72
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Pix é uma Infraestrutura Pública Digital essencial para o bom funcionamento da economia. O desenvolvimento do Pix foi resultado do exercício da competência legal permanente do Banco Central do Brasil (BC) de adotar medidas para promover competição, inclusão financeira e transparência na prestação de serviços de pagamentos.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "87e5535c43c5592c",
+      "url": "https://www.poder360.com.br/poder-economia/bancarizacao-atinge-964-da-populacao-brasileira-diz-bc/",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        14,
+        15,
+        66
+      ],
+      "partial_positions": [
+        67
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Banco Central disse nesta 2ª feira (13.abr.2026) que 96,4% da população adulta brasileira tem uma conta bancária ou de pagamento nas instituições do sistema financeiro. [...] Os dados são de 2024. [...] Os dados constam no “Relatório de Cidadania Financeira”.",
+      "key_excerpt_position": 14
+    },
+    {
+      "reference_id": "3aab261137e45a03",
+      "url": "https://jornaldebrasilia.com.br/noticias/economia/galipolo-pix-foi-responsavel-por-inclusao-financeira-relevante-em-especial-da-baixa-renda/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        49,
+        50
+      ],
+      "partial_positions": [
+        73
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Segundo ele, mais da metade dos usuários de cartão de crédito no País carrega dívida, seja no rotativo, seja no parcelamento.",
+      "key_excerpt_position": 49
+    },
+    {
+      "reference_id": "b782d264127ee303",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/12/04/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado.html",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        52,
+        71
+      ],
+      "partial_positions": [
+        51
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Segundo o Idec, mesmo com a proibição do nome Pix Parcelado, a mudança é meramente cosmética. […] O Idec avalia que o Banco Central “optou por não enfrentar um problema que já está em curso”, delegando ao mercado a responsabilidade pela autorregulação.",
+      "key_excerpt_position": 52
+    },
+    {
+      "reference_id": "7b00af1395157128",
+      "url": "https://www.bis.org/publ/bisbull52.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        1
+      ],
+      "partial_positions": [
+        64
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pix has signed up 67% of adults in Brazil, with free payments between individuals and low charges for merchants.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "dcabb6ea0933910e",
+      "url": "https://conversableeconomist.com/2022/03/24/brazils-pix-system-electronic-payments-for-67-in-a-year/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        2,
+        3
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "By end-February 2022 (15 months after launch), 114 million individuals, or 67% of the Brazilian adult population, had either made or received a Pix transaction.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "c154dbcf4f63bc20",
+      "url": "https://www.letsmoney.com.br/pix/pix-142-mi-usuarios-drex-sem-prazo/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        48
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Banco Central divulgou que 142 milhões de brasileiros, 93% da população adulta, iniciaram ao menos uma transação via Pix em abril de 2026, segundo dados apresentados por Breno Lobo, chefe da Divisão de Gestão de Sistemas Pix do BC e vice-chefe do Decem, em webinar da FGV Direito Rio nesta quinta-feira, 14 de maio.",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "5d1d657519f0e933",
+      "url": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        24
+      ],
+      "partial_positions": [
+        69
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The effect of Pix on credit is particularly important in regions with intermediate density, income, and development prior to the introduction of the system.",
+      "key_excerpt_position": 24
+    },
+    {
+      "reference_id": "3840eab9f5e75580",
+      "url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        25,
+        69
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "e6dcb26bef11d041",
+      "url": "https://static.poder360.com.br/2025/11/estudo-fgv-impacto-bancarizacao-14nov2025.pdf",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        26
+      ],
+      "partial_positions": [
+        69
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Esta heterogeneidade sugere que o PIX funciona como complemento à infraestrutura financeira existente, sendo mais efetivo em municípios com maior desenvolvimento financeiro inicial.",
+      "key_excerpt_position": 26
+    },
+    {
+      "reference_id": "9fc68658daa122c5",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/08/18/mais-de-24-milhoes-de-pessoas-foram-vitimas-de-golpes-pelo-pix",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        41,
+        70
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "resultando em um prejuízo estimado em quase R$ 29 bilhões, segundo dados do Fórum Brasileiro de Segurança Pública. A pesquisa revela que as fraudes afetam pessoas de todas as idades. Em geral, idosos são os principais alvos de golpes com boletos falsos",
+      "key_excerpt_position": 41
+    },
+    {
+      "reference_id": "b9d30df959d24941",
+      "url": "https://www.opovo.com.br/noticias/economia/2025/01/16/amp/governo-recua-e-revoga-normativa-do-pix-apos-onda-de-noticias-falsas.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        57,
+        58
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o governo recuou e decidiu nesta quarta, 15, revogar uma instrução normativa da Receita Federal",
+      "key_excerpt_position": 57
+    },
+    {
+      "reference_id": "959729bf65c9eaf2",
+      "url": "https://feebpr.org.br/noticias/6FOX-bancarizacao-atinge-964-da-populacao-brasileira-diz-bc",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        20
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Banco Central disse que a bancarização é maior no Centro-Oeste (96,9%) e menor no Norte (94,2%).",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "37794808ff23b249",
+      "url": "https://neofeed.com.br/insiders/o-pix-tirou-70-milhoes-de-brasileiros-do-papel-moeda-o-proximo-passo-e-o-credito/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        35
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Relatório de Cidadania Financeira 2025, do Banco Central, mostra que 96,4% dos adultos brasileiros têm conta bancária ou de pagamento e que 88% são usuários ativos do sistema financeiro. Somados os que não têm conta e os que têm mas não a movimentam, cerca de 21 milhões de adultos seguem de fora.",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "8652afca8ca4c27f",
+      "url": "https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Apresentacao_GabrielGalipolo_FebrabanTech_24.8.2026.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        16
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A inclusão não foi apenas estatística: o Pix passou a ser usado para transações concretas, frequentes e de menor valor, compatíveis com as necessidades do dia a dia.",
+      "key_excerpt_position": 16
+    },
+    {
+      "reference_id": "b9a55625e8b8c099",
+      "url": "https://mais.opovo.com.br/jornal/economia/2023/06/03/pix-e-principal-meio-de-pagamento-para-meis.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        28
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Segundo o Sebrae, os baixos custos em relação às maquininhas de cartões e a instantaneidade nas transferências consolidam o Pix como ferramenta essencial para a categoria.",
+      "key_excerpt_position": 28
+    },
+    {
+      "reference_id": "4fee6b147cbf1413",
+      "url": "https://agenciasebrae.com.br/?p=40360",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        29
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Segundo a pesquisa \"Hábitos Financeiros dos Pequenos Negócios\", realizada pelo Sebrae e Instituto de Pesquisas Sociais, Políticas e Econômicas (Ipespe), quase seis em cada 10 donos de pequenos negócios têm o Pix como principal meio de recebimento das vendas.",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "f503a98152f4764e",
+      "url": "https://www.band.com.br/bandnews-fm/noticias/datafolha-24-milhoes-de-brasileiros-ja-cairam-no-golpe-do-pix-202508142018",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O roubo de celulares não é um crime isolado: segundo o estudo, ele aumenta em quase quatro vezes a chance de o proprietário se tornar alvo de golpes digitais.",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "9e4701b7d3ecf4ec",
+      "url": "https://www.oliberal.com/economia/golpes-pix-ja-atingiram-24-milhoes-de-brasileiros-1.1021709",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        43
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "De acordo com o Banco Central, em 2024, houve cerca de 5 milhões de pedidos de devolução por fraudes no Pix, um aumento de 98% em relação a 2023.",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "f104fcaca3f8e720",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/novas-regras-de-seguranca-do-pix-entram-em-vigor-veja-mudancas",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        46
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A principal novidade é a atualização do Mecanismo Especial de Devolução (MED), que passa a permitir o acompanhamento mais eficiente do caminho do dinheiro.",
+      "key_excerpt_position": 46
+    },
+    {
+      "reference_id": "0124c1e70dd707b4",
+      "url": "https://www.procon.sp.gov.br/procon-sp-orienta-sobre-as-novas-regras-do-pix/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        47
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1ff0f349b975c7fb",
+      "url": "https://movimentoeconomico.com.br/geral/redacao/2025/01/28/transacoes-por-pix-voltam-a-aumentar-apos-onda-de-fake-news/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        59
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o volume de transações voltou a aproximar-se da média histórica na terceira semana de janeiro",
+      "key_excerpt_position": 59
+    },
+    {
+      "reference_id": "b88440888c8345f3",
+      "url": "https://tecnoblog.net/noticias/pix-parcelado-gera-impasse-entre-bancos-e-banco-central/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        53
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Idec aponta que o Pix Parcelado chega em um \"cenário crítico de endividamento no país\". O instituto cita dados do próprio Banco Central que evidenciam o aumento da inadimplência, especialmente entre famílias de baixa renda.",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "f6ccf347ebf0518d",
+      "url": "https://www.brasildefato.com.br/2026/06/02/governo-trump-ameaca-brasil-com-tarifaco-de-25-apos-investigacao-que-mira-pix-regulacao-das-redes-e-comercio/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        61
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "\"Os atos, políticas e práticas do Brasil relacionados ao tratamento preferencial dado ao Pix são injustos e discriminatórios\", afirma o documento. Segundo o USTR, o Banco Central exerce simultaneamente o papel de regulador e operador do sistema, o que criaria um conflito de interesses e prejudicaria empresas estadunidenses do setor.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "9eb0b6152ff2ce8e",
+      "url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/06/conclusao-preliminar-da-investigacao-da-secao-301",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        62
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O PIX é infraestrutura pública e gratuita de pagamentos instantâneos, operada pelo Banco Central do Brasil e de grande aceitação pela população.",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "9aba1f1694a2c906",
+      "url": "https://www.gtlaw.com/pt/insights/2026/7/ustr-announces-section-301-tariffs-on-brazil-new-25-duties-to-take-effect-july-22",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        63
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "incluindo restrições ao comércio digital, serviços de pagamento eletrônico, proteção da propriedade intelectual, aplicação de medidas anticorrupção, acesso ao mercado de etanol e preocupações relacionadas ao desmatamento",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "9539be6049a90bac",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2025/08/15/novo-relatorio-da-pec-do-banco-central-blinda-pix-de-taxacao",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        60
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O senador Plínio Valério (PSDB-AM) apresentou uma nova versão do relatório da PEC 65/2023, que concede autonomia orçamentária e financeira ao Banco Central. Entre as novidades, ele pretende incluir na Constituição a gestão exclusiva do Pix pelo BC, garantindo gratuidade para pessoas físicas e proibindo a transferência do sistema a outros entes.",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "ed76a74a6b10b639",
+      "url": "https://www.enfoquems.com.br/inclusao-financeira-avanca-com-pix-mas-desafios-persistem-aponta-pesquisa/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A população de baixa renda apresenta um índice de 25% de endividados, superando outras classes sociais, mesmo sem ser a que mais possui cartões de crédito.",
+      "key_excerpt_position": 55
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "pix_brasil_663a2298105f_20261101T182250Z-63",
+      "position": 63,
+      "claim_excerpt": "O Pix é um dos seis temas citados na justificativa, e o USTR afirmou que a tarifa permanece até que o Brasil resolva as práticas apontadas.",
+      "cited_markers": "[26]",
+      "corroborating_markers": "[24] [25] [14] [1] [12] [20] [3] [10] [2] [21]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_663a2298105f_20261101T182250Z-64",
+      "position": 64,
+      "claim_excerpt": "O modelo de infraestrutura pública, que o BIS apontou como chave do sucesso inclusivo do Pix, é exatamente o aspecto contestado pelos Estados Unidos.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[12] [1] [9] [3] [14] [4] [24] [10]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_663a2298105f_20261101T182250Z-67",
+      "position": 67,
+      "claim_excerpt": "alcançou a maioria das famílias do Cadastro Único",
+      "cited_markers": "[4]",
+      "corroborating_markers": "[5] [1] [8] [9] [12]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_663a2298105f_20261101T182250Z-73",
+      "position": 73,
+      "claim_excerpt": "A própria liderança do BC passou a falar menos em acesso e mais em cidadania financeira, o que indica que o problema deixou de ser abrir contas e passou a ser garantir que esse acesso traga proteção,…",
+      "cited_markers": "[9]",
+      "corroborating_markers": "[6] [8] [1] [5] [4] [29] [28] [7] [22] [12]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 619840,
+  "cost_tracked": false,
+  "processing_time_seconds": 214505.404905
+}

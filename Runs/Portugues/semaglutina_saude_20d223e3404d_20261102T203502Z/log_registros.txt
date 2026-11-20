@@ -1,0 +1,124 @@
+2026-11-02 16:35:02,536 INFO     auditframework.cli: Iniciando run semaglutina_saude_20d223e3404d_20261102T203502Z para answers/Claude/Emergente/semaglutina_saude.md (ferramenta=Claude)
+2026-11-02 16:35:10,991 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-02 16:35:10,991 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-02 16:35:13,000 INFO     auditframework.terminal: Loading weights: 100%|███████████████████████████████████████████████████████████████████████████| 391/391 [00:00<00:00, 13919.66it/s]
+2026-11-02 16:35:25,002 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-02 16:35:25,013 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-02 16:35:25,023 INFO     auditframework.pipeline: Extraidas 48 referencias de answers/Claude/Emergente/semaglutina_saude.md (0 descartadas como artefato do exportador)
+2026-11-02 16:35:25,033 INFO     auditframework.pipeline: Resposta dividida em 102 trechos citados
+2026-11-02 16:35:25,035 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-02 16:35:25,036 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-02 16:35:25,039 INFO     auditframework.ingestion.service: Ingestao: 48 referencias, 0 ja baixadas, 0 ja bloqueadas, 48 pendentes
+2026-11-02 16:35:31,736 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.escardio.org/static-file/Escardio/Congresses/ESC
+2026-11-02 16:35:32,379 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://pmc.ncbi.nlm.nih.gov/articles/PMC10782938
+2026-11-02 16:35:33,295 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://diabetes.acponline.org/archives/2025/09/12/7.htm
+2026-11-02 16:35:34,788 ERROR    trafilatura.utils: parsed tree length: 1, wrong data type or not valid HTML
+2026-11-02 16:35:34,789 ERROR    trafilatura.core: empty HTML tree: None
+2026-11-02 16:35:34,790 WARNING  trafilatura.core: discarding data: None
+2026-11-02 16:35:37,784 WARNING  auditframework.ingestion.service: Referencia morta: https://hcplive.com/view/semaglutide-reduces-knee-osteoarthritis-pain-people-obesity
+2026-11-02 16:35:42,922 WARNING  trafilatura.core: discarding data: None
+2026-11-02 16:35:42,924 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.eurekalert.org/news-releases/1126086
+2026-11-02 16:35:42,931 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://alzheimersnewstoday.com/news/oral-semaglutide-fails-slow-alzheimers-pair-clinical-trials/
+2026-11-02 16:35:45,177 WARNING  auditframework.ingestion.service: Barreira de acesso (requires_js_login_region) em https://epocrates.com/online/article/semaglutide-reduces-alcohol-consumption-cravings-in-randomized-trial
+2026-11-02 16:35:45,656 WARNING  auditframework.ingestion.service: Referencia morta: https://www.precisionmedicineonline.com/node/44766
+2026-11-02 16:35:50,144 WARNING  auditframework.ingestion.service: Barreira de acesso (requires_js_login_region) em https://www.epocrates.com/online/article/glp-1-agonists-associated-with-higher-gi-risk-than-older-weight-loss-drug
+2026-11-02 16:36:01,175 INFO     auditframework.terminal: Baixando referências: 100%|██████████████████████████████████████████████████████████████████████████| 48/48 [00:36<00:00,  1.33ref/s]
+2026-11-02 16:36:01,181 INFO     auditframework.pipeline: Ingestao concluida: 39 documentos disponiveis
+2026-11-02 16:36:01,183 INFO     auditframework.terminal: ✓ ingestion concluído em 34.7s
+2026-11-02 16:36:01,184 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-02 16:36:01,625 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|████████████████████████████████████████████████████████████████| 39/39 [00:00<00:00, 89.99doc/s]
+2026-11-02 16:36:01,626 INFO     auditframework.indexing.service: Gerando embeddings para 222 chunks de 39 documentos
+2026-11-02 16:36:11,571 INFO     auditframework.terminal: Batches: 100%|████████████████████████████████████████████████████████████████████████████████████████| 14/14 [00:09<00:00,  1.41it/s]
+2026-11-02 16:36:11,593 INFO     auditframework.pipeline: Indice construido a partir de 39 documentos
+2026-11-02 16:36:11,595 INFO     auditframework.terminal: ✓ indexing concluído em 10.4s
+2026-11-02 16:36:11,596 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-02 16:36:11,603 INFO     auditframework.pipeline: Julgamento: 102 chunks, 0 ja julgados, 0 ja pulados, 102 pendentes
+2026-11-02 16:36:12,312 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-02 16:36:12,759 INFO     auditframework.terminal: Recuperando contexto:   0%|                                                                                | 0/102 [00:00<?, ?chunk/s]
+2026-11-02 16:36:12,864 INFO     auditframework.terminal: Loading weights:   0%|                                                                                        | 0/393 [00:00<?, ?it/s]
+2026-11-02 16:36:12,966 INFO     auditframework.terminal: Loading weights:  32%|████████████████████████▏                                                   | 125/393 [00:00<00:00, 1230.21it/s]
+2026-11-02 16:36:13,067 INFO     auditframework.terminal: Loading weights:  63%|████████████████████████████████████████████████▏                           | 249/393 [00:00<00:00, 1214.59it/s]
+2026-11-02 16:36:13,069 INFO     auditframework.terminal: Loading weights: 100%|████████████████████████████████████████████████████████████████████████████| 393/393 [00:00<00:00, 1276.95it/s]
+2026-11-02 16:36:30,007 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-18 nao sera auditado: Referencia(s) citada(s) ['6625ffcb734b66a8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:30,011 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-19 nao sera auditado: Referencia(s) citada(s) ['6c948e6901afc0fd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:30,012 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-20 nao sera auditado: Referencia(s) citada(s) ['6c948e6901afc0fd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:30,127 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-22 nao sera auditado: Referencia(s) citada(s) ['6625ffcb734b66a8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:32,617 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-30 nao sera auditado: Referencia(s) citada(s) ['39daeecf51a65676'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:36,021 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-48 nao sera auditado: Referencia(s) citada(s) ['5d29b469a697113a'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-02 16:36:36,800 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-53 nao sera auditado: Referencia(s) citada(s) ['587e52e7a8c784eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:36,802 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-54 nao sera auditado: Referencia(s) citada(s) ['587e52e7a8c784eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:36,874 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-56 nao sera auditado: Referencia(s) citada(s) ['65efbec0ba35221e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:36,875 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-57 nao sera auditado: Referencia(s) citada(s) ['65efbec0ba35221e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:36,877 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-58 nao sera auditado: Referencia(s) citada(s) ['65efbec0ba35221e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:37,271 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-61 nao sera auditado: Referencia(s) citada(s) ['5ff540cf79310410'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:37,509 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-63 nao sera auditado: Referencia(s) citada(s) ['1fbfc9d6d181a8f5'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-02 16:36:38,984 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-72 nao sera auditado: Referencia(s) citada(s) ['97e347a6949e786f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:42,151 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-89 nao sera auditado: Referencia(s) citada(s) ['6c948e6901afc0fd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:42,511 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-93 nao sera auditado: Referencia(s) citada(s) ['65efbec0ba35221e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:36:43,855 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████████████████████████████████████████████████████████████████| 102/102 [00:32<00:00,  3.16chunk/s]
+2026-11-02 16:37:55,722 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-18 nao auditado: Referencia(s) citada(s) ['6625ffcb734b66a8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:37:55,724 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-19 nao auditado: Referencia(s) citada(s) ['6c948e6901afc0fd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:37:55,725 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-20 nao auditado: Referencia(s) citada(s) ['6c948e6901afc0fd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:37:58,263 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-22 nao auditado: Referencia(s) citada(s) ['6625ffcb734b66a8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:38:47,752 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-30 nao auditado: Referencia(s) citada(s) ['39daeecf51a65676'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:41:23,409 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-48 nao auditado: Referencia(s) citada(s) ['5d29b469a697113a'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-02 16:42:14,622 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-53 nao auditado: Referencia(s) citada(s) ['587e52e7a8c784eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:42:14,624 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-54 nao auditado: Referencia(s) citada(s) ['587e52e7a8c784eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:42:18,665 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-56 nao auditado: Referencia(s) citada(s) ['65efbec0ba35221e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:42:18,666 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-57 nao auditado: Referencia(s) citada(s) ['65efbec0ba35221e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:42:18,667 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-58 nao auditado: Referencia(s) citada(s) ['65efbec0ba35221e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:43:32,894 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-61 nao auditado: Referencia(s) citada(s) ['5ff540cf79310410'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:43:36,695 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-63 nao auditado: Referencia(s) citada(s) ['1fbfc9d6d181a8f5'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-02 16:44:05,295 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-72 nao auditado: Referencia(s) citada(s) ['97e347a6949e786f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:46:14,707 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-89 nao auditado: Referencia(s) citada(s) ['6c948e6901afc0fd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:46:30,096 WARNING  auditframework.pipeline: Chunk semaglutina_saude_20d223e3404d_20261102T203502Z-93 nao auditado: Referencia(s) citada(s) ['65efbec0ba35221e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 16:49:11,771 INFO     auditframework.terminal: Julgando chunks: 100%|███████████████████████████████████████████████████████████████████████████| 102/102 [12:27<00:00,  7.33s/chunk]
+2026-11-02 16:49:11,777 INFO     auditframework.terminal: ✓ judging concluído em 748.0s
+2026-11-02 16:49:11,783 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-02 16:49:11,790 INFO     auditframework.pipeline: Relatorio gerado em data/runs/semaglutina_saude_20d223e3404d_20261102T203502Z/report.md
+2026-11-02 16:49:11,792 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-02 16:49:11,792 INFO     auditframework.cli: Run semaglutina_saude_20d223e3404d_20261102T203502Z concluida
+2026-11-02 16:49:11,793 INFO     auditframework.terminal: Relatorio gerado em data/runs/semaglutina_saude_20d223e3404d_20261102T203502Z/report.md
+2026-11-03 23:28:20,322 INFO     auditframework.terminal: audit refetch semaglutina_saude_20d223e3404d_20261102T203502Z
+2026-11-03 23:28:20,328 INFO     auditframework.ingestion.service: Ingestao: 48 referencias, 39 ja baixadas, 0 ja bloqueadas, 9 pendentes
+2026-11-03 23:28:21,773 WARNING  auditframework.ingestion.service: Referencia morta: https://hcplive.com/view/semaglutide-reduces-knee-osteoarthritis-pain-people-obesity
+2026-11-03 23:28:24,433 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://diabetes.acponline.org/archives/2025/09/12/7.htm
+2026-11-03 23:28:24,542 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.escardio.org/static-file/Escardio/Congresses/ESC
+2026-11-03 23:28:27,060 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://alzheimersnewstoday.com/news/oral-semaglutide-fails-slow-alzheimers-pair-clinical-trials/
+2026-11-03 23:28:27,497 WARNING  auditframework.ingestion.service: Referencia morta: https://www.precisionmedicineonline.com/node/44766
+2026-11-03 23:28:30,045 WARNING  auditframework.ingestion.service: Barreira de acesso (requires_js_login_region) em https://www.epocrates.com/online/article/glp-1-agonists-associated-with-higher-gi-risk-than-older-weight-loss-drug
+2026-11-03 23:28:31,025 WARNING  auditframework.ingestion.service: Barreira de acesso (requires_js_login_region) em https://epocrates.com/online/article/semaglutide-reduces-alcohol-consumption-cravings-in-randomized-trial
+2026-11-03 23:28:31,027 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 9/9 [00:10<00:00,  1.19s/ref]
+2026-11-03 23:28:31,034 INFO     auditframework.terminal: semaglutina_saude_20d223e3404d_20261102T203502Z: 9 fonte(s) sem conteudo, 2 recuperada(s)
+2026-11-03 23:28:31,035 INFO     auditframework.terminal:   https://pmc.ncbi.nlm.nih.gov/articles/PMC10782938 — downloaded
+2026-11-03 23:28:31,035 INFO     auditframework.terminal:   https://www.eurekalert.org/news-releases/1126086 — downloaded
+2026-11-03 23:28:31,130 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para data/runs/semaglutina_saude_20d223e3404d_20261102T203502Z/invalidado-20261104T032831Z
+2026-11-03 23:28:31,130 INFO     auditframework.terminal: 7 trecho(s) citado(s) para julgar de novo (os demais mantem o veredito)
+2026-11-03 23:28:31,130 INFO     auditframework.terminal: Rode: audit resume semaglutina_saude_20d223e3404d_20261102T203502Z
+2026-11-03 23:28:31,628 INFO     __main__: Retomando run semaglutina_saude_20d223e3404d_20261102T203502Z
+2026-11-03 23:28:38,047 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:28:38,047 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:28:39,960 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 13096.42it/s]
+2026-11-03 23:28:48,398 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-03 23:28:48,406 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-03 23:28:48,406 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-03 23:28:48,407 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-03 23:28:48,909 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 41/41 [00:00<00:00, 82.24doc/s]
+2026-11-03 23:28:48,909 INFO     auditframework.indexing.service: Gerando embeddings para 263 chunks de 41 documentos
+2026-11-03 23:29:00,575 INFO     auditframework.terminal: Batches: 100%|██████████| 17/17 [00:11<00:00,  1.46it/s]
+2026-11-03 23:29:00,603 INFO     auditframework.pipeline: Indice construido a partir de 41 documentos
+2026-11-03 23:29:00,606 INFO     auditframework.terminal: ✓ indexing concluído em 12.2s
+2026-11-03 23:29:00,607 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-03 23:29:00,614 INFO     auditframework.pipeline: Julgamento: 102 chunks, 85 ja julgados, 10 ja pulados, 7 pendentes
+2026-11-03 23:29:01,361 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-03 23:29:01,815 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/7 [00:00<?, ?chunk/s]
+2026-11-03 23:29:01,918 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-03 23:29:01,979 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 2420.25it/s]
+2026-11-03 23:29:17,324 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 7/7 [00:16<00:00,  2.39s/chunk]
+2026-11-03 23:30:05,576 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 7/7 [00:48<00:00,  6.89s/chunk]
+2026-11-03 23:30:05,577 INFO     auditframework.terminal: ✓ judging concluído em 65.0s
+2026-11-03 23:30:05,585 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-03 23:30:05,597 INFO     auditframework.pipeline: Relatorio gerado em data/runs/semaglutina_saude_20d223e3404d_20261102T203502Z/report.md
+2026-11-03 23:30:05,598 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-03 23:30:05,599 INFO     __main__: Run semaglutina_saude_20d223e3404d_20261102T203502Z concluida
+2026-11-03 23:30:05,599 INFO     auditframework.terminal: Relatorio gerado em data/runs/semaglutina_saude_20d223e3404d_20261102T203502Z/report.md

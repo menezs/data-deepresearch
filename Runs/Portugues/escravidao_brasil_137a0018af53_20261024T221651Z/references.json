@@ -1,0 +1,553 @@
+[
+  {
+    "id": "250547ae7fb77700",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/leis/lim/LIM581.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/leis/lim/LIM581.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/leis/lim/LIM581.htm",
+    "title": "**Brasil. Lei nº 581, de 4 de setembro de 1850 — estabelece medidas para a repressão do tráfico de africanos neste Império.** Presidência da República, Planalto.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:14.631139Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "534e1140ea980a2b",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/leis/lim/lim2040.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/leis/lim/lim2040.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/leis/lim/lim2040.htm",
+    "title": "**Brasil. Lei nº 2.040, de 28 de setembro de 1871 — Lei do Ventre Livre.** Presidência da República, Planalto.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:14.648540Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3b2b5c21d8aa3fa9",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-4835-1-dezembro-1871-552265-publicacaooriginal-69374-pe.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-4835-1-dezembro-1871-552265-publicacaooriginal-69374-pe.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-4835-1-dezembro-1871-552265-publicacaooriginal-69374-pe.html",
+    "title": "**Brasil. Decreto nº 4.835, de 1º de dezembro de 1871 — regulamentação da matrícula especial dos escravos e dos filhos livres de mulher escrava.** Câmara dos Deputados.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:14.692411Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "85e33425d6c48bac",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/leis/lim/LIM3270.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/leis/lim/LIM3270.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/leis/lim/LIM3270.htm",
+    "title": "**Brasil. Lei nº 3.270, de 28 de setembro de 1885 — Lei Saraiva-Cotegipe ou Lei dos Sexagenários.** Presidência da República, Planalto.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:14.670642Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "74fb9ecfd96562cf",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/leis/l0601-1850.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/leis/l0601-1850.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/leis/l0601-1850.htm",
+    "title": "**Brasil. Lei nº 601, de 18 de setembro de 1850 — Lei de Terras.** Presidência da República, Planalto.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:14.978668Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "bfef16fbfb6faa86",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "title": "**Brasil. Lei nº 3.353, de 13 de maio de 1888 — Lei Áurea, publicação original.** Câmara dos Deputados.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:14.900661Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "980d0b7e507ad49b",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg/?lang=pt",
+    "normalized_url": "https://scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg?lang=pt",
+    "work_key": "https://scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg?lang=pt",
+    "title": "**ALONSO, Angela. “O abolicionismo como movimento social”. Novos Estudos CEBRAP, nº 100, 2014.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:15.003234Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "154a9a85ad6e3ef9",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www2.senado.leg.br/bdsf/handle/id/1063",
+    "normalized_url": "https://www2.senado.leg.br/bdsf/handle/id/1063",
+    "work_key": "https://www2.senado.leg.br/bdsf/handle/id/1063",
+    "title": "**BETHELL, Leslie. A abolição do comércio brasileiro de escravos: a Grã-Bretanha, o Brasil e a questão do comércio de escravos, 1807–1869.** Biblioteca Digital do Senado Federal.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:37:21.594299Z",
+    "error_message": "barreira de acesso (anti_bot): Verificando sua conexão Estamos confirmando que este acesso é legítimo antes de liberar o conteúdo. Isso leva apenas alg",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "39b73456473321b0",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://brasil.un.org/pt-br/320175-onu-lança-página-em-português-sobre-escravidão-e-comércio-transatlântico-de-pessoas",
+    "normalized_url": "https://brasil.un.org/pt-br/320175-onu-lança-página-em-português-sobre-escravidão-e-comércio-transatlântico-de-pessoas",
+    "work_key": "https://brasil.un.org/pt-br/320175-onu-lança-página-em-português-sobre-escravidão-e-comércio-transatlântico-de-pessoas",
+    "title": "**Nações Unidas Brasil. “ONU lança página em português sobre escravidão e comércio transatlântico de pessoas escravizadas”.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:16.664369Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "540f262aac1fa9f2",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.slavevoyages.org/",
+    "normalized_url": "https://slavevoyages.org",
+    "work_key": "https://slavevoyages.org",
+    "title": "**SlaveVoyages — Trans-Atlantic Slave Trade Database e bases associadas.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:22.094311Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "69d0527a478e423f",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://fpabramo.org.br/livro/cenas-da-abolicao-escravos-e-senhores-no-parlamento-e-na-justica/",
+    "normalized_url": "https://fpabramo.org.br/livro/cenas-da-abolicao-escravos-e-senhores-no-parlamento-e-na-justica",
+    "work_key": "https://fpabramo.org.br/livro/cenas-da-abolicao-escravos-e-senhores-no-parlamento-e-na-justica",
+    "title": "**MENDONÇA, Joseli Nunes. Cenas da abolição: escravos e senhores no Parlamento e na Justiça.** Fundação Perseu Abramo.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:15.561755Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2f98f5e0b6ca32e8",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.scielo.br/j/alm/a/YXWgYBgsydBMjtMfWY3bdTK/?lang=pt",
+    "normalized_url": "https://scielo.br/j/alm/a/YXWgYBgsydBMjtMfWY3bdTK?lang=pt",
+    "work_key": "https://scielo.br/j/alm/a/YXWgYBgsydBMjtMfWY3bdTK?lang=pt",
+    "title": "**YOUSSEF, Alain El. “Nem só de flores, votos e balas: abolicionismo, economia e a queda da escravidão”.** Almanack / SciELO.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:16.766742Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1eb2f7848cad3a91",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://abpnrevista.org.br/site/article/view/852",
+    "normalized_url": "https://abpnrevista.org.br/site/article/view/852",
+    "work_key": "https://abpnrevista.org.br/site/article/view/852",
+    "title": "**“Lei dos Sexagenários” e estratégias políticas de manutenção do escravismo. Revista da Associação Brasileira de Pesquisadores/as Negros/as.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:17.742709Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1e3f4dff6caedc3a",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.ibge.gov.br/estatisticas/sociais/populacao/25844-desigualdades-sociais-por-cor-ou-raca.html",
+    "normalized_url": "https://ibge.gov.br/estatisticas/sociais/populacao/25844-desigualdades-sociais-por-cor-ou-raca.html",
+    "work_key": "https://ibge.gov.br/estatisticas/sociais/populacao/25844-desigualdades-sociais-por-cor-ou-raca.html",
+    "title": "**IBGE. Desigualdades Sociais por Cor ou Raça no Brasil.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:17.560687Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "60693642693a51d8",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.ipea.gov.br/portal/retrato/indicadores/renda-pobreza-e-desigualdade/apresentacao",
+    "normalized_url": "https://ipea.gov.br/portal/retrato/indicadores/renda-pobreza-e-desigualdade/apresentacao",
+    "work_key": "https://ipea.gov.br/portal/retrato/indicadores/renda-pobreza-e-desigualdade/apresentacao",
+    "title": "**Ipea. Retrato das Desigualdades — Renda, Pobreza e Desigualdade.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:17.926352Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e1f2c0428ae1cb87",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://inclua.ipea.gov.br/igualdade-racial/",
+    "normalized_url": "https://inclua.ipea.gov.br/igualdade-racial",
+    "work_key": "https://inclua.ipea.gov.br/igualdade-racial",
+    "title": "**Ipea. Inclua — Plataforma de Recursos Pró-Equidade em Políticas Públicas: Igualdade Racial.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:18.393735Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "cb37d8cf4d30101c",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.gov.br/mec/pt-br/lei-de-cotas",
+    "normalized_url": "https://gov.br/mec/pt-br/lei-de-cotas",
+    "work_key": "https://gov.br/mec/pt-br/lei-de-cotas",
+    "title": "**Ministério da Educação. Lei de Cotas.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:18.355373Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "668018611021dd96",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.639.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/leis/2003/l10.639.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/leis/2003/l10.639.htm",
+    "title": "**Brasil. Lei nº 10.639, de 9 de janeiro de 2003 — ensino de História e Cultura Afro-Brasileira.** Presidência da República.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:18.618878Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "00cb5a28f12765ad",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://atom.senado.leg.br/",
+    "normalized_url": "https://atom.senado.leg.br",
+    "work_key": "https://atom.senado.leg.br",
+    "title": "**Senado Federal. Arquivo Digital.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:36:48.868286Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "54fa02b8faeef94a",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www2.senado.leg.br/bdsf/item/id/243294",
+    "normalized_url": "https://www2.senado.leg.br/bdsf/item/id/243294",
+    "work_key": "https://www2.senado.leg.br/bdsf/item/id/243294",
+    "title": "**Brasil, Congresso Nacional. A abolição no Parlamento: 65 anos de luta, 1823–1888.** Biblioteca Digital do Senado Federal.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:37:21.534148Z",
+    "error_message": "barreira de acesso (anti_bot): Verificando sua conexão Estamos confirmando que este acesso é legítimo antes de liberar o conteúdo. Isso leva apenas alg",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9332e35ffbc9438b",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.gov.br/museus/pt-br/museus-ibram/museu-da-abolicao",
+    "normalized_url": "https://gov.br/museus/pt-br/museus-ibram/museu-da-abolicao",
+    "work_key": "https://gov.br/museus/pt-br/museus-ibram/museu-da-abolicao",
+    "title": "**Instituto Brasileiro de Museus. Museu da Abolição.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:22.467902Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "69d7823cca8714f5",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.cambridge.org/core/books/last-abolition/9B7356DED946BE481BE3CBE0C19D7FF6",
+    "normalized_url": "https://cambridge.org/core/books/last-abolition/9B7356DED946BE481BE3CBE0C19D7FF6",
+    "work_key": "https://cambridge.org/core/books/last-abolition/9B7356DED946BE481BE3CBE0C19D7FF6",
+    "title": "**ALONSO, Angela. The Last Abolition: The Brazilian Antislavery Movement, 1868–1888. Cambridge University Press.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:43.358515Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "696cde84ce565eeb",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.loc.gov/item/hlas-bi2017003171/",
+    "normalized_url": "https://loc.gov/item/hlas-bi2017003171",
+    "work_key": "https://loc.gov/item/hlas-bi2017003171",
+    "title": "**ALONSO, Angela. Flores, votos e balas: o movimento abolicionista brasileiro (1868–88). Registro bibliográfico, Library of Congress.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:36:15.682949Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c86fe6d5187bd205",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "title": "**Brasil. Constituição da República Federativa do Brasil de 1988, inclusive art. 68 do ADCT.** Presidência da República.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:48.381130Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f70a486cae35c55e",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://books.google.com/books?q=Sidney+Chalhoub+Vis%C3%B5es+da+liberdade",
+    "normalized_url": "https://books.google.com/books?q=Sidney+Chalhoub+Vis%C3%B5es+da+liberdade",
+    "work_key": "https://books.google.com/books?q=Sidney+Chalhoub+Vis%C3%B5es+da+liberdade",
+    "title": "**CHALHOUB, Sidney. Visões da liberdade: uma história das últimas décadas da escravidão na Corte.** Consulta bibliográfica no Google Books.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:38:32.329923Z",
+    "error_message": "Rate limit persistente em https://books.google.com/books?q=Sidney+Chalhoub+Vis%C3%B5es+da+liberdade",
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "4a896d0f9c2cf752",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://books.google.com/books?q=Hebe+Mattos+Das+cores+do+sil%C3%AAncio",
+    "normalized_url": "https://books.google.com/books?q=Hebe+Mattos+Das+cores+do+sil%C3%AAncio",
+    "work_key": "https://books.google.com/books?q=Hebe+Mattos+Das+cores+do+sil%C3%AAncio",
+    "title": "**MATTOS, Hebe. Das cores do silêncio: os significados da liberdade no Sudeste escravista — Brasil, século XIX.** Consulta bibliográfica no Google Books.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:39:06.934967Z",
+    "error_message": "Rate limit persistente em https://books.google.com/books?q=Hebe+Mattos+Das+cores+do+sil%C3%AAncio",
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "035efbedc0021ad1",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://memoria.bn.gov.br/",
+    "normalized_url": "https://memoria.bn.gov.br",
+    "work_key": "https://memoria.bn.gov.br",
+    "title": "**Biblioteca Nacional. Hemeroteca Digital Brasileira.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:17:57.403343Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5bd6f7cff737c015",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://sian.an.gov.br/",
+    "normalized_url": "https://sian.an.gov.br",
+    "work_key": "https://sian.an.gov.br",
+    "title": "**Arquivo Nacional. Sistema de Informações do Arquivo Nacional — SIAN.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:18:00.854641Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2c7a230b3b49eacb",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14723.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14723.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14723.htm",
+    "title": "**Brasil. Lei nº 14.723, de 13 de novembro de 2023 — atualização da política de reserva de vagas nas instituições federais de ensino.** Presidência da República.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T22:18:01.131442Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+    "tool_name": "ChatGPT"
+  }
+]

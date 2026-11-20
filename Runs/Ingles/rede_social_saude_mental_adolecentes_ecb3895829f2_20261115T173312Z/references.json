@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "f79f42918e3ba0d6",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://dr.lib.iastate.edu/server/api/core/bitstreams/352457cb-75c1-4499-a5bf-5608c1ef86e5/content",
+    "normalized_url": "https://dr.lib.iastate.edu/server/api/core/bitstreams/352457cb-75c1-4499-a5bf-5608c1ef86e5/content",
+    "work_key": "https://dr.lib.iastate.edu/server/api/core/bitstreams/352457cb-75c1-4499-a5bf-5608c1ef86e5/content",
+    "title": "National Academies of Sciences, Engineering, and Medicine (Galea S, Chair), \"Social Media and Adolescent Health\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:33:53.174493Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0b5748b13c98da37",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/378522291_Social_media_and_adolescent_mental_health_A_consensus_report_of_the_National_Academies_of_Sciences_Engineering_and_Medicine",
+    "normalized_url": "https://researchgate.net/publication/378522291_Social_media_and_adolescent_mental_health_A_consensus_report_of_the_National_Academies_of_Sciences_Engineering_and_Medicine",
+    "work_key": "https://researchgate.net/publication/378522291_Social_media_and_adolescent_mental_health_A_consensus_report_of_the_National_Academies_of_Sciences_Engineering_and_Medicine",
+    "title": "Galea S et al., \"Social Media and Adolescent Mental Health: A Consensus Report of the National Academies of Sciences, Engineering, and Medicine\" (PNAS Nexus, 2024) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-17T23:38:25.608967Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "65a02c3647b3d7ce",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9857400/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9857400",
+    "work_key": "PMC:PMC9857400",
+    "title": "Maza MT, Fox KA, Kwon S-J, et al., \"Association of Habitual Checking Behaviors on Social Media With Longitudinal Functional Brain Development\" (JAMA Pediatrics, 2023) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:33:42.665069Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "90597fcfba491d26",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/359509628_Windows_of_developmental_sensitivity_to_social_media",
+    "normalized_url": "https://researchgate.net/publication/359509628_Windows_of_developmental_sensitivity_to_social_media",
+    "work_key": "https://researchgate.net/publication/359509628_Windows_of_developmental_sensitivity_to_social_media",
+    "title": "Orben A, Przybylski AK, Blakemore S-J, & Kievit RA, \"Windows of Developmental Sensitivity to Social Media\" (Nature Communications, 2022) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-17T23:39:47.534226Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "99c8dac1a17d65cb",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.cdc.gov/yrbs/youth-health-in-focus/mental-health.html",
+    "normalized_url": "https://cdc.gov/yrbs/youth-health-in-focus/mental-health.html",
+    "work_key": "https://cdc.gov/yrbs/youth-health-in-focus/mental-health.html",
+    "title": "Centers for Disease Control and Prevention (CDC), \"Mental Health — Youth Health in Focus | YRBS\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:33:44.269313Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3379b7b5769ba550",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.samhsa.gov/data/sites/default/files/NSDUH-2025-Annual-Release/2025-nsduh-nnr-highlights.pdf",
+    "normalized_url": "https://samhsa.gov/data/sites/default/files/NSDUH-2025-Annual-Release/2025-nsduh-nnr-highlights.pdf",
+    "work_key": "https://samhsa.gov/data/sites/default/files/NSDUH-2025-Annual-Release/2025-nsduh-nnr-highlights.pdf",
+    "title": "Substance Abuse and Mental Health Services Administration (SAMHSA), \"2025 NSDUH Annual Release Highlights\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-17T23:43:47.472897Z",
+    "error_message": "2a tentativa excedeu 90s",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6e169458ad24e7ad",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.samhsa.gov/blog/release-2025-nsduh-using-data-to-drive-great-american-recovery",
+    "normalized_url": "https://samhsa.gov/blog/release-2025-nsduh-using-data-to-drive-great-american-recovery",
+    "work_key": "https://samhsa.gov/blog/release-2025-nsduh-using-data-to-drive-great-american-recovery",
+    "title": "SAMHSA, \"Release of the 2025 NSDUH: Using Data to Drive the Great American Recovery\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:39:41.571282Z",
+    "error_message": null,
+    "barrier_kind": "http_error",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8c2b5fb1cd291d4d",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/",
+    "normalized_url": "https://pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024",
+    "work_key": "https://pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024",
+    "title": "Pew Research Center, \"Teens, Social Media and Technology 2024\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:33:58.738498Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "34fae9aa3a330a39",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.understandingsociety.ac.uk/wp-content/uploads/2024/11/Andrew-Przybylski.pdf",
+    "normalized_url": "https://understandingsociety.ac.uk/wp-content/uploads/2024/11/Andrew-Przybylski.pdf",
+    "work_key": "https://understandingsociety.ac.uk/wp-content/uploads/2024/11/Andrew-Przybylski.pdf",
+    "title": "Przybylski AK, \"Windows of Developmental Sensitivity to Social Media (Presentation)\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-17T23:45:15.392766Z",
+    "error_message": "2a tentativa excedeu 90s",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c46aa7ecd1b2c90d",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.hbsc.org/new-who-hbsc-report-sheds-light-on-adolescent-digital-behaviours-across-europe-central-asia-and-canada/",
+    "normalized_url": "https://hbsc.org/new-who-hbsc-report-sheds-light-on-adolescent-digital-behaviours-across-europe-central-asia-and-canada",
+    "work_key": "https://hbsc.org/new-who-hbsc-report-sheds-light-on-adolescent-digital-behaviours-across-europe-central-asia-and-canada",
+    "title": "HBSC Study, \"New WHO/HBSC Report Sheds Light on Adolescent Digital Behaviours Across Europe, Central Asia and Canada\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:34:58.755874Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d8737c1efba52fe9",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/391460889_Social_media_use_in_adolescents_with_and_without_mental_health_conditions",
+    "normalized_url": "https://researchgate.net/publication/391460889_Social_media_use_in_adolescents_with_and_without_mental_health_conditions",
+    "work_key": "https://researchgate.net/publication/391460889_Social_media_use_in_adolescents_with_and_without_mental_health_conditions",
+    "title": "Fassi L, Ferguson AM, Przybylski AK, Ford TJ, & Orben A, \"Social Media Use in Adolescents With and Without Mental Health Conditions\" (Nature Human Behaviour, 2025) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-17T23:40:02.113352Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d6d2162db55e358a",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.aeaweb.org/content/file?id=17257",
+    "normalized_url": "https://aeaweb.org/content/file?id=17257",
+    "work_key": "https://aeaweb.org/content/file?id=17257",
+    "title": "Braghieri L, Levy R, & Makarin A, \"Social Media and Mental Health\" (American Economic Review, 2022) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:07.493637Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "08341817f70288fd",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/377975417_Problematic_social_media_use_in_childhood_and_adolescence",
+    "normalized_url": "https://researchgate.net/publication/377975417_Problematic_social_media_use_in_childhood_and_adolescence",
+    "work_key": "https://researchgate.net/publication/377975417_Problematic_social_media_use_in_childhood_and_adolescence",
+    "title": "ResearchGate, \"Problematic Social Media Use in Childhood and Adolescence\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-17T23:39:55.825971Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "069752bfe9ea3fbf",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.ntia.gov/report/2024/kids-online-health-and-safety/online-health-and-safety-for-children-and-youth/identifying-risks-benefits-to-kids-health-safety-privacy-from-their-use-of-online-platforms/health",
+    "normalized_url": "https://ntia.gov/report/2024/kids-online-health-and-safety/online-health-and-safety-for-children-and-youth/identifying-risks-benefits-to-kids-health-safety-privacy-from-their-use-of-online-platforms/health",
+    "work_key": "https://ntia.gov/report/2024/kids-online-health-and-safety/online-health-and-safety-for-children-and-youth/identifying-risks-benefits-to-kids-health-safety-privacy-from-their-use-of-online-platforms/health",
+    "title": "National Telecommunications and Information Administration (NTIA), \"Kids Online Health and Safety: Identifying Risks and Benefits to Kids' Health, Safety, and Privacy — Health\" (2024) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:08.075402Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "22b54b4489f13994",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.scribd.com/document/774403211/237-256",
+    "normalized_url": "https://scribd.com/document/774403211/237-256",
+    "work_key": "https://scribd.com/document/774403211/237-256",
+    "title": "National Academies Press, \"Social Media and Adolescent Health: Evidence Review Tables\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:09.029004Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3aa7b16cd9c85c16",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://research.birmingham.ac.uk/en/publications/school-phone-policies-and-their-association-with-mental-wellbeing/",
+    "normalized_url": "https://research.birmingham.ac.uk/en/publications/school-phone-policies-and-their-association-with-mental-wellbeing",
+    "work_key": "https://research.birmingham.ac.uk/en/publications/school-phone-policies-and-their-association-with-mental-wellbeing",
+    "title": "Goodyear V, Randhawa A, Adab P, et al., \"School Phone Policies and Their Association With Mental Wellbeing, Phone Use, and Social Media Use (SMART Schools): A Cross-Sectional Observational Study\" (The Lancet Regional Health – Europe, 2025) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:08.906813Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "86003f769d87a887",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions",
+    "normalized_url": "https://esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions",
+    "work_key": "https://esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions",
+    "title": "eSafety Commissioner (Australia), \"Social Media Age Restrictions\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:12.552259Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ceb6f503242233c9",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/389352830_Smartphone_use_and_mental_health_going_beyond_school_restriction_policies",
+    "normalized_url": "https://researchgate.net/publication/389352830_Smartphone_use_and_mental_health_going_beyond_school_restriction_policies",
+    "work_key": "https://researchgate.net/publication/389352830_Smartphone_use_and_mental_health_going_beyond_school_restriction_policies",
+    "title": "The Lancet Regional Health – Europe, \"Smartphone Use and Mental Health: Going Beyond School Restriction Policies\" (2025) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:39:52.831375Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "01fed4c22ff42a21",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html",
+    "normalized_url": "https://oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html",
+    "work_key": "https://oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html",
+    "title": "OECD, \"Child, Adolescent and Youth Mental Health in the 21st Century: Trends and Patterns\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:12.156645Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3998ab9a493e8629",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.cdc.gov/mmwr/volumes/73/su/su7304a9.htm",
+    "normalized_url": "https://cdc.gov/mmwr/volumes/73/su/su7304a9.htm",
+    "work_key": "https://cdc.gov/mmwr/volumes/73/su/su7304a9.htm",
+    "title": "CDC, \"Mental Health and Suicide Risk Indicators and Protective Factors Among High School Students — Youth Risk Behavior Survey, United States, 2023\" (MMWR) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:13.120713Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6fa5388a14e67e71",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://afsp.org/story/2025-youth-risk-behavior-survey-analysis-where-does-us-teen-mental-health-stand",
+    "normalized_url": "https://afsp.org/story/2025-youth-risk-behavior-survey-analysis-where-does-us-teen-mental-health-stand",
+    "work_key": "https://afsp.org/story/2025-youth-risk-behavior-survey-analysis-where-does-us-teen-mental-health-stand",
+    "title": "American Foundation for Suicide Prevention (AFSP), \"2025 Youth Risk Behavior Survey Analysis: Where Does U.S. Teen Mental Health Stand?\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:13.990994Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "898fe38fd9b6d1fa",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.prnewswire.com/news-releases/where-does-us-teen-mental-health-stand-improvements-reported-but-disparities-persist-302934163.html",
+    "normalized_url": "https://prnewswire.com/news-releases/where-does-us-teen-mental-health-stand-improvements-reported-but-disparities-persist-302934163.html",
+    "work_key": "https://prnewswire.com/news-releases/where-does-us-teen-mental-health-stand-improvements-reported-but-disparities-persist-302934163.html",
+    "title": "PR Newswire, \"Where Does U.S. Teen Mental Health Stand? Improvements Reported, But Disparities Persist\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:13.261017Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "64d7053dcdf8e6bd",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.kff.org/mental-health/state-indicator/adolescents-with-a-major-depressive-episode-in-the-past-year/",
+    "normalized_url": "https://kff.org/mental-health/state-indicator/adolescents-with-a-major-depressive-episode-in-the-past-year",
+    "work_key": "https://kff.org/mental-health/state-indicator/adolescents-with-a-major-depressive-episode-in-the-past-year",
+    "title": "KFF, \"Adolescents Who Had a Major Depressive Episode in the Past Year\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:15.862730Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "10231868d6b5f7e8",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt56484/NSDUHDetailedTabs2024/NSDUHDetailedTabs2024/2024-nsduh-detailed-tables-sect7pe.htm?s=12%20to%2017&",
+    "normalized_url": "https://samhsa.gov/data/sites/default/files/reports/rpt56484/NSDUHDetailedTabs2024/NSDUHDetailedTabs2024/2024-nsduh-detailed-tables-sect7pe.htm?s=12+to+17",
+    "work_key": "https://samhsa.gov/data/sites/default/files/reports/rpt56484/NSDUHDetailedTabs2024/NSDUHDetailedTabs2024/2024-nsduh-detailed-tables-sect7pe.htm?s=12+to+17",
+    "title": "SAMHSA, \"2024 NSDUH Detailed Tables, Section 7 (Adolescent Major Depressive Episode Criteria)\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:40:22.470371Z",
+    "error_message": null,
+    "barrier_kind": "http_error",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9785433570474744",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.nimh.nih.gov/health/statistics/major-depression",
+    "normalized_url": "https://nimh.nih.gov/health/statistics/major-depression",
+    "work_key": "https://nimh.nih.gov/health/statistics/major-depression",
+    "title": "National Institute of Mental Health (NIMH), \"Major Depression\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:15.935767Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "52010855cf277424",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.naco.org/news/samhsa-releases-new-2024-data-rates-mental-illness-and-substance-use-disorder-us",
+    "normalized_url": "https://naco.org/news/samhsa-releases-new-2024-data-rates-mental-illness-and-substance-use-disorder-us",
+    "work_key": "https://naco.org/news/samhsa-releases-new-2024-data-rates-mental-illness-and-substance-use-disorder-us",
+    "title": "National Association of Counties (NACo), \"SAMHSA Releases New 2024 Data on Rates of Mental Illness and Substance Use Disorder in U.S.\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:16.252059Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4fa3defee3312e9d",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.cdc.gov/nchs/products/databriefs/db471.htm",
+    "normalized_url": "https://cdc.gov/nchs/products/databriefs/db471.htm",
+    "work_key": "https://cdc.gov/nchs/products/databriefs/db471.htm",
+    "title": "Garnett MF (CDC NCHS), \"Suicide and Homicide Death Rates Among Youth and Young Adults Aged 10–24: United States, 2001–2021\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:16.972647Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f702d57f38192bed",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://jedfoundation.org/new-cdc-data-show-youth-suicide-rates-are-declining-but-our-work-is-far-from-over/",
+    "normalized_url": "https://jedfoundation.org/new-cdc-data-show-youth-suicide-rates-are-declining-but-our-work-is-far-from-over",
+    "work_key": "https://jedfoundation.org/new-cdc-data-show-youth-suicide-rates-are-declining-but-our-work-is-far-from-over",
+    "title": "The Jed Foundation, \"New CDC Data Show Youth Suicide Rates Are Declining, But Our Work Is Far From Over\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:16.771510Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6c5a09365782797d",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.samhsa.gov/blog/release-2024-nsduh-leveraging-latest-substance-use-mental-health-data-make-america-healthy-again",
+    "normalized_url": "https://samhsa.gov/blog/release-2024-nsduh-leveraging-latest-substance-use-mental-health-data-make-america-healthy-again",
+    "work_key": "https://samhsa.gov/blog/release-2024-nsduh-leveraging-latest-substance-use-mental-health-data-make-america-healthy-again",
+    "title": "SAMHSA, \"Release of the 2024 NSDUH: Leveraging the Latest Substance Use and Mental Health Data to Make America Healthy Again\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:06.805316Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7eaa16374490d55a",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt56770/2024-nsduh-psr6-adol-mde-suicide.pdf",
+    "normalized_url": "https://samhsa.gov/data/sites/default/files/reports/rpt56770/2024-nsduh-psr6-adol-mde-suicide.pdf",
+    "work_key": "https://samhsa.gov/data/sites/default/files/reports/rpt56770/2024-nsduh-psr6-adol-mde-suicide.pdf",
+    "title": "SAMHSA, \"2022–2024 NSDUH: Major Depressive Episode or Serious Thoughts of Suicide in the Past Year among Adolescents\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:46:11.478674Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6bbe42512f5ee1dd",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt57038/2025-nsduh-women-health-short-report/2025-nsduh-women-health-short-report.pdf",
+    "normalized_url": "https://samhsa.gov/data/sites/default/files/reports/rpt57038/2025-nsduh-women-health-short-report/2025-nsduh-women-health-short-report.pdf",
+    "work_key": "https://samhsa.gov/data/sites/default/files/reports/rpt57038/2025-nsduh-women-health-short-report/2025-nsduh-women-health-short-report.pdf",
+    "title": "SAMHSA, \"NSDUH Short Report: Substance Use Disorder and Major Depressive Episode among Females (2022–2024)\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:46:59.100656Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b405df8c4df78f59",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://mhstats.org/blog/youth-mental-health-statistics",
+    "normalized_url": "https://mhstats.org/blog/youth-mental-health-statistics",
+    "work_key": "https://mhstats.org/blog/youth-mental-health-statistics",
+    "title": "MHStats, \"Youth Mental Health Statistics\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:35:39.560370Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2216e8fc2252a581",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-of-children-and-young-people-in-england/2023-wave-4-follow-up",
+    "normalized_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-of-children-and-young-people-in-england/2023-wave-4-follow-up",
+    "work_key": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-of-children-and-young-people-in-england/2023-wave-4-follow-up",
+    "title": "NHS Digital, \"Mental Health of Children and Young People in England, 2023 – Wave 4 Follow Up\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:40:14.004437Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0ef150bd993df3ea",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24/suicidal-thoughts-suicide-attempts-and-self-harm",
+    "normalized_url": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24/suicidal-thoughts-suicide-attempts-and-self-harm",
+    "work_key": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24/suicidal-thoughts-suicide-attempts-and-self-harm",
+    "title": "NHS England, \"Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2023/4 — Suicidal Thoughts, Suicide Attempts and Self-Harm\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:40:30.906828Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ddc608aca4f7ae47",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13314999/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13314999",
+    "work_key": "PMC:PMC13314999",
+    "title": "PMC13314999, \"Child Deaths from Suicide in England Before and During the COVID-19 Pandemic\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:22.337788Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e51f6efab63954de",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://www.youngminds.org.uk/about-us/media-centre/mental-health-statistics/",
+    "normalized_url": "https://youngminds.org.uk/about-us/media-centre/mental-health-statistics",
+    "work_key": "https://youngminds.org.uk/about-us/media-centre/mental-health-statistics",
+    "title": "YoungMinds, \"Mental Health Statistics\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:23.884484Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "eec94f1603c62095",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://www.pewresearch.org/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/",
+    "normalized_url": "https://pewresearch.org/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025",
+    "work_key": "https://pewresearch.org/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025",
+    "title": "Pew Research Center, \"Teens, Social Media and AI Chatbots 2025\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:24.280833Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8dd8714c822f43f5",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://www.pewresearch.org/topic/internet-technology/user-demographics/age-generations-tech/teens-tech/",
+    "normalized_url": "https://pewresearch.org/topic/internet-technology/user-demographics/age-generations-tech/teens-tech",
+    "work_key": "https://pewresearch.org/topic/internet-technology/user-demographics/age-generations-tech/teens-tech",
+    "title": "Pew Research Center, \"Teens & Tech Research Hub\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:25.699635Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cead78c76cf4f9ca",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health",
+    "normalized_url": "https://who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health",
+    "work_key": "https://who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health",
+    "title": "World Health Organization (WHO) Europe, \"New WHO Report Indicates Need for Healthier Online Habits Among Adolescents\" (2024) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:27.497200Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fdd8d8cd10384611",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://data-browser.hbsc.org/measure/problematic-social-media-use/",
+    "normalized_url": "https://data-browser.hbsc.org/measure/problematic-social-media-use",
+    "work_key": "https://data-browser.hbsc.org/measure/problematic-social-media-use",
+    "title": "HBSC Data Browser, \"Problematic Social Media Use\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:28.060264Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c2890122e5c7ef6f",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://iris.who.int/server/api/core/bitstreams/30bc5231-b9de-45fa-9e25-eb329c23689f/content",
+    "normalized_url": "https://iris.who.int/server/api/core/bitstreams/30bc5231-b9de-45fa-9e25-eb329c23689f/content",
+    "work_key": "https://iris.who.int/server/api/core/bitstreams/30bc5231-b9de-45fa-9e25-eb329c23689f/content",
+    "title": "WHO Europe (IRIS), \"Digital Dilemma Spanning Europe: 11% of Teens Struggle with Problematic Social Media Use\" (2024) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:30.255467Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "403e56b5c027d54f",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7919645/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7919645",
+    "work_key": "PMC:PMC7919645",
+    "title": "PMC7919645, \"Problematic Social Media Use and Health Indicators Among Adolescents (HBSC Analysis)\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:31.618206Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0c75dc4b5247fe29",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://research.rug.nl/files/1569652992/Problematic_social_media_use_mental_health_.pdf",
+    "normalized_url": "https://research.rug.nl/files/1569652992/Problematic_social_media_use_mental_health_.pdf",
+    "work_key": "https://research.rug.nl/files/1569652992/Problematic_social_media_use_mental_health_.pdf",
+    "title": "University of Groningen / Archives of Public Health, \"Problematic Social Media Use, Mental Health, and Substance Use in Czech Adolescents: The Comparative Role of Extracurricular Activities — Findings from the 2022 HBSC Study\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-17T23:47:12.744549Z",
+    "error_message": "HTTP 403 em https://research.rug.nl/files/1569652992/Problematic_social_media_use_mental_health_.pdf (PDF, sem fallback via playwright)",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1952489c1fc1ec59",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://www.cdc.gov/yrbs/results/2023-yrbs-results.html",
+    "normalized_url": "https://cdc.gov/yrbs/results/2023-yrbs-results.html",
+    "work_key": "https://cdc.gov/yrbs/results/2023-yrbs-results.html",
+    "title": "CDC, \"2023 YRBS Results\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:34.713578Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6c6e76438328e3b0",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11559676/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11559676",
+    "work_key": "PMC:PMC11559676",
+    "title": "Young E et al. (CDC / PMC), \"Frequent Social Media Use and Experiences with Bullying Victimization, Persistent Feelings of Sadness or Hopelessness, and Suicide Risk Among High School Students — Youth Risk Behavior Survey, United States, 2023\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:35.629819Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "086835cb336b5e61",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307784",
+    "normalized_url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307784",
+    "work_key": "DOI:10.2105/ajph.2024.307784",
+    "title": "American Journal of Public Health (AJPH), \"Commentary on the National Academies Report 'Social Media and Adolescent Health'\" (2024) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:40:47.604387Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "50aba8ae096e91cd",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://www.semanticscholar.org/paper/Social-media-use-and-its-impact-on-adolescent-An-of-Valkenburg-Meier/4db5117d5fefc571d0e2fabeddc55f9858935ed8",
+    "normalized_url": "https://semanticscholar.org/paper/Social-media-use-and-its-impact-on-adolescent-An-of-Valkenburg-Meier/4db5117d5fefc571d0e2fabeddc55f9858935ed8",
+    "work_key": "https://semanticscholar.org/paper/Social-media-use-and-its-impact-on-adolescent-An-of-Valkenburg-Meier/4db5117d5fefc571d0e2fabeddc55f9858935ed8",
+    "title": "Valkenburg PM, Meier A, & Beyens I, \"Social Media Use and Its Impact on Adolescent Mental Health: An Umbrella Review of the Evidence\" (Semantic Scholar, 2022) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:41:04.408859Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d1d545cb0a36f0c5",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://www.scirp.org/reference/referencespapers?referenceid=4372970",
+    "normalized_url": "https://scirp.org/reference/referencespapers?referenceid=4372970",
+    "work_key": "https://scirp.org/reference/referencespapers?referenceid=4372970",
+    "title": "Valkenburg PM, Meier A, & Beyens I, \"Social Media Use and Its Impact on Adolescent Mental Health: An Umbrella Review of the Evidence\" (Current Opinion in Psychology, 2022) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:41.330057Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c7f2fd8d50312124",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC135339",
+    "normalized_url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC135339",
+    "work_key": "https://publications.jrc.ec.europa.eu/repository/handle/JRC135339",
+    "title": "Sala A, Porcaro L, & Gomez E, \"Social Media Use and Adolescents' Mental Health and Well-being: An Umbrella Review\" (Computers in Human Behavior Reports, 2024) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:42.692471Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0c2bbeffda1d99c4",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/358218905_Specification_curve_analysis_shows_that_social_media_use_is_linked_to_poor_mental_health_especially_among_girls",
+    "normalized_url": "https://researchgate.net/publication/358218905_Specification_curve_analysis_shows_that_social_media_use_is_linked_to_poor_mental_health_especially_among_girls",
+    "work_key": "https://researchgate.net/publication/358218905_Specification_curve_analysis_shows_that_social_media_use_is_linked_to_poor_mental_health_especially_among_girls",
+    "title": "Twenge JM, Haidt J, et al., \"Specification Curve Analysis Shows That Social Media Use Is Linked to Poor Mental Health, Especially Among Girls\" (Acta Psychologica, 2022) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:47:55.510505Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ade97e7d24d392a8",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://www.semanticscholar.org/paper/The-association-between-adolescent-well-being-and-Orben-Przybylski/75e0601958dea426eeff0111ce879a4019dfbe83",
+    "normalized_url": "https://semanticscholar.org/paper/The-association-between-adolescent-well-being-and-Orben-Przybylski/75e0601958dea426eeff0111ce879a4019dfbe83",
+    "work_key": "https://semanticscholar.org/paper/The-association-between-adolescent-well-being-and-Orben-Przybylski/75e0601958dea426eeff0111ce879a4019dfbe83",
+    "title": "Orben A & Przybylski AK, \"The Association Between Adolescent Well-Being and Digital Technology Use\" (Nature Human Behaviour / Semantic Scholar, 2019) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:41:22.575995Z",
+    "error_message": "barreira de acesso (anti_bot): Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your ac",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a5b6b02b292c0471",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://web.stanford.edu/~gentzkow/research/facebook.pdf",
+    "normalized_url": "https://web.stanford.edu/~gentzkow/research/facebook.pdf",
+    "work_key": "https://web.stanford.edu/~gentzkow/research/facebook.pdf",
+    "title": "Allcott H, Braghieri L, Eichmeyer S, & Gentzkow M, \"The Welfare Effects of Social Media\" (Stanford University) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:37:22.127842Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bc1eb98b4cefe7d6",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11880199/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11880199",
+    "work_key": "PMC:PMC11880199",
+    "title": "PMC11880199, \"Meta-Analysis of Social Media Abstinence and Well-Being\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:36:57.574292Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e5bb0a44b43145d4",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://alexeymakarin.github.io/assets/Braghieri_Levy_Makarin_CEPR_eBook_2023.pdf",
+    "normalized_url": "https://alexeymakarin.github.io/assets/Braghieri_Levy_Makarin_CEPR_eBook_2023.pdf",
+    "work_key": "https://alexeymakarin.github.io/assets/Braghieri_Levy_Makarin_CEPR_eBook_2023.pdf",
+    "title": "Braghieri L, Levy R, & Makarin A, \"Social Media and Mental Health\" (CEPR eBook Chapter, 2023) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:37:02.489148Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7ec5605972db036c",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://mitsloan.mit.edu/press/academic-study-reveals-new-evidence-facebooks-negative-impact-mental-health-college-students",
+    "normalized_url": "https://mitsloan.mit.edu/press/academic-study-reveals-new-evidence-facebooks-negative-impact-mental-health-college-students",
+    "work_key": "https://mitsloan.mit.edu/press/academic-study-reveals-new-evidence-facebooks-negative-impact-mental-health-college-students",
+    "title": "MIT Sloan School of Management, \"Academic Study Reveals New Evidence of Facebook's Negative Impact on the Mental Health of College Students\" (2022) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:37:01.162693Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7dee14625c74ac18",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/366840818_Association_of_Habitual_Checking_Behaviors_on_Social_Media_With_Longitudinal_Functional_Brain_Development",
+    "normalized_url": "https://researchgate.net/publication/366840818_Association_of_Habitual_Checking_Behaviors_on_Social_Media_With_Longitudinal_Functional_Brain_Development",
+    "work_key": "https://researchgate.net/publication/366840818_Association_of_Habitual_Checking_Behaviors_on_Social_Media_With_Longitudinal_Functional_Brain_Development",
+    "title": "Maza MT, Fox KA, Kwon S-J, et al., \"Association of Habitual Checking Behaviors on Social Media With Longitudinal Functional Brain Development\" (ResearchGate / JAMA Pediatrics, 2023) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-17T23:48:32.861010Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/366840818_Association_of_Habitual_Checking_Behaviors_on_Social_Media_With_Longitudinal_Functional_Brain_Development",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "440f1e4818c7e9c0",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://www.infrastructure.gov.au/media-communications/internet/online-safety/social-media-minimum-age",
+    "normalized_url": "https://infrastructure.gov.au/media-communications/internet/online-safety/social-media-minimum-age",
+    "work_key": "https://infrastructure.gov.au/media-communications/internet/online-safety/social-media-minimum-age",
+    "title": "Australian Government Department of Infrastructure, Transport, Regional Development, Communications and the Arts, \"Social Media Minimum Age\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:37:03.687779Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "79a184f419eb152f",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://www.cdc.gov/yrbs/youth-health-in-focus/index.html",
+    "normalized_url": "https://cdc.gov/yrbs/youth-health-in-focus/index.html",
+    "work_key": "https://cdc.gov/yrbs/youth-health-in-focus/index.html",
+    "title": "CDC, \"Youth Health in Focus | YRBS\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:37:05.064228Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "df9dfd489e5b54e4",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://www.bmj.com/content/390/bmj.r1729",
+    "normalized_url": "https://bmj.com/content/390/bmj.r1729",
+    "work_key": "https://bmj.com/content/390/bmj.r1729",
+    "title": "The BMJ, \"Smartphone Bans in Schools: Where Is the Evidence?\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:41:27.411573Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b1e91acc706b3693",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://www.nationalelfservice.net/treatment/digital-health/smartphone-bans-schools-not-associated-better-mental-wellbeing/",
+    "normalized_url": "https://nationalelfservice.net/treatment/digital-health/smartphone-bans-schools-not-associated-better-mental-wellbeing",
+    "work_key": "https://nationalelfservice.net/treatment/digital-health/smartphone-bans-schools-not-associated-better-mental-wellbeing",
+    "title": "National Elf Service, \"Smartphone Bans in Schools Are Not Associated With Better Mental Wellbeing or Reduced Screen-Time Out of School\" (2025) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:37:14.935380Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a23d5c736466518c",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://www.hindustantimes.com/world-news/teen-who-admitted-planning-terror-attack-in-sydney-says-he-used-ai-for-his-plans-report-101794293455598.html",
+    "normalized_url": "https://hindustantimes.com/world-news/teen-who-admitted-planning-terror-attack-in-sydney-says-he-used-ai-for-his-plans-report-101794293455598.html",
+    "work_key": "https://hindustantimes.com/world-news/teen-who-admitted-planning-terror-attack-in-sydney-says-he-used-ai-for-his-plans-report-101794293455598.html",
+    "title": "Hindustan Times, \"Teen Who Admitted Planning Terror Attack in Sydney Says He Used AI for His Plans\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:37:17.532771Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9523f5a007db4f58",
+    "citation_markers": [
+      "[62]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Online_Safety_Amendment_(Social_Media_Minimum_Age)_Act_2024",
+    "normalized_url": "https://en.wikipedia.org/wiki/Online_Safety_Amendment_(Social_Media_Minimum_Age)_Act_2024",
+    "work_key": "https://en.wikipedia.org/wiki/Online_Safety_Amendment_(Social_Media_Minimum_Age)_Act_2024",
+    "title": "Wikipedia, \"Online Safety Amendment (Social Media Minimum Age) Act 2024\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:38:19.284994Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "dafc52e8a9d0c974",
+    "citation_markers": [
+      "[63]"
+    ],
+    "raw_url": "https://www.hindustantimes.com/world-news/google-warns-australia-new-internet-safety-bill-could-cut-off-under-18s-from-gmail-meta-tiktok-snap-raise-alarm-101794204999792.html",
+    "normalized_url": "https://hindustantimes.com/world-news/google-warns-australia-new-internet-safety-bill-could-cut-off-under-18s-from-gmail-meta-tiktok-snap-raise-alarm-101794204999792.html",
+    "work_key": "https://hindustantimes.com/world-news/google-warns-australia-new-internet-safety-bill-could-cut-off-under-18s-from-gmail-meta-tiktok-snap-raise-alarm-101794204999792.html",
+    "title": "Hindustan Times, \"Google Warns Australia New Internet Safety Bill Could Cut Off Under-18s From Gmail; Meta, TikTok, Snap Raise Alarm\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:37:24.827361Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "956a71ef9ca3c7c0",
+    "citation_markers": [
+      "[64]"
+    ],
+    "raw_url": "https://teen.gwnews.com/articles/aussies-opt-out",
+    "normalized_url": "https://teen.gwnews.com/articles/aussies-opt-out",
+    "work_key": "https://teen.gwnews.com/articles/aussies-opt-out",
+    "title": "WORLDteen, \"Aussies Opt Out\" —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T17:37:26.231872Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0a28b7cec49fdb69",
+    "citation_markers": [
+      "[65]"
+    ],
+    "raw_url": "https://academic.oup.com/pnasnexus/article/3/2/pgae037/7614669",
+    "normalized_url": "https://academic.oup.com/pnasnexus/article/3/2/pgae037/7614669",
+    "work_key": "https://academic.oup.com/pnasnexus/article/3/2/pgae037/7614669",
+    "title": "Galea S et al., \"Social Media and Adolescent Mental Health: A Consensus Report of the National Academies of Sciences, Engineering, and Medicine\" (PNAS Nexus / Oxford Academic, 2024) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:41:40.618459Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+    "tool_name": "Gemini"
+  }
+]

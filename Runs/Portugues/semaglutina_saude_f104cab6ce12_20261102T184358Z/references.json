@@ -1,0 +1,530 @@
+[
+  {
+    "id": "91b567181f732a42",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2023/11/09/15/04/select",
+    "normalized_url": "https://acc.org/latest-in-cardiology/clinical-trials/2023/11/09/15/04/select",
+    "work_key": "https://acc.org/latest-in-cardiology/clinical-trials/2023/11/09/15/04/select",
+    "title": "Semaglutide Effects on Cardiovascular Outcomes in People With,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:21.626305Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "50866c91c11682f3",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.cardionerds.com/cardsjc-semaglutide-and-cardiovascular-outcomes-in-obesity-without-diabetes-select-trial/",
+    "normalized_url": "https://cardionerds.com/cardsjc-semaglutide-and-cardiovascular-outcomes-in-obesity-without-diabetes-select-trial",
+    "work_key": "https://cardionerds.com/cardsjc-semaglutide-and-cardiovascular-outcomes-in-obesity-without-diabetes-select-trial",
+    "title": "SELECT Trial - Cardionerds,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:22.585367Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e3655609ef97314d",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://franquia.sergios.com.br/select-trial-semaglutide-cv-outcomes-pro/",
+    "normalized_url": "https://franquia.sergios.com.br/select-trial-semaglutide-cv-outcomes-pro",
+    "work_key": "https://franquia.sergios.com.br/select-trial-semaglutide-cv-outcomes-pro",
+    "title": "select trial semaglutide cv outcomes,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:48:20.480758Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3208c7e13da6269e",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/39181597/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/39181597",
+    "work_key": "PMID:39181597",
+    "title": "Semaglutide and cardiovascular outcomes in patients with obesity,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:21.341491Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e72c2e3631af87c7",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://sciencehub.novonordisk.com/scientific-publications/articles/original-article.NN19a58b3e511.semaglutide-and-cardiovascular-outcomes-by.html",
+    "normalized_url": "https://sciencehub.novonordisk.com/scientific-publications/articles/original-article.NN19a58b3e511.semaglutide-and-cardiovascular-outcomes-by.html",
+    "work_key": "https://sciencehub.novonordisk.com/scientific-publications/articles/original-article.NN19a58b3e511.semaglutide-and-cardiovascular-outcomes-by.html",
+    "title": "a prespecified analysis of the SELECT trial,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:23.083802Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5b5a6969061aa6bd",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.news-medical.net/news/20251026/Semaglutide-protects-the-heart-beyond-weight-loss-SELECT-trial-shows.aspx",
+    "normalized_url": "https://news-medical.net/news/20251026/Semaglutide-protects-the-heart-beyond-weight-loss-SELECT-trial-shows.aspx",
+    "work_key": "https://news-medical.net/news/20251026/Semaglutide-protects-the-heart-beyond-weight-loss-SELECT-trial-shows.aspx",
+    "title": "Semaglutide protects the heart beyond weight loss, SELECT trial,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:22.102927Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3ed2d75d95d9fd3a",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2024/05/29/17/23/flow",
+    "normalized_url": "https://acc.org/latest-in-cardiology/clinical-trials/2024/05/29/17/23/flow",
+    "work_key": "https://acc.org/latest-in-cardiology/clinical-trials/2024/05/29/17/23/flow",
+    "title": "Evaluate Renal Function With Semaglutide Once Weekly - FLOW,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:23.433551Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f2847b5f94cfe53f",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "http://www.nephjc.com/news/flow",
+    "normalized_url": "https://nephjc.com/news/flow",
+    "work_key": "https://nephjc.com/news/flow",
+    "title": "FLOWing with the SemagluTIDE - NephJC,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:23.697391Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "69089b7679c2b889",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://franquia.sergios.com.br/flow-trial-semaglutide-chronic-kidney-disease-line/",
+    "normalized_url": "https://franquia.sergios.com.br/flow-trial-semaglutide-chronic-kidney-disease-line",
+    "work_key": "https://franquia.sergios.com.br/flow-trial-semaglutide-chronic-kidney-disease-line",
+    "title": "Flow Trial Semaglutide Chronic Kidney Disease,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:48:20.474746Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9a06dd53bce94134",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/38785209/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/38785209",
+    "work_key": "PMID:38785209",
+    "title": "Effects of Semaglutide on Chronic Kidney Disease in Patients with,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:24.138464Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d047ebf01e25bf07",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.theisn.org/in-action/research/clinical-trials-isn-act-archive/the-flow-study-effects-of-semaglutide-on-chronic-kidney-disease-in-patients-with-type-2-diabetes/",
+    "normalized_url": "https://theisn.org/in-action/research/clinical-trials-isn-act-archive/the-flow-study-effects-of-semaglutide-on-chronic-kidney-disease-in-patients-with-type-2-diabetes",
+    "work_key": "https://theisn.org/in-action/research/clinical-trials-isn-act-archive/the-flow-study-effects-of-semaglutide-on-chronic-kidney-disease-in-patients-with-type-2-diabetes",
+    "title": "The FLOW study: Effects of Semaglutide on chronic kidney disease,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:26.548681Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ba9cad13d5c88b48",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://gi.org/journals-publications/ebgi/kwo_sep2025/",
+    "normalized_url": "https://gi.org/journals-publications/ebgi/kwo_sep2025",
+    "work_key": "https://gi.org/journals-publications/ebgi/kwo_sep2025",
+    "title": "Semaglutide for the treatment of metabolic dysfunction-associated,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:24.590340Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4d0b177d72251ec9",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://pace-cme.org/news/phase-3-trial-results-of-semaglutide-in-mash-with-liver-fibrosis/2475390/",
+    "normalized_url": "https://pace-cme.org/news/phase-3-trial-results-of-semaglutide-in-mash-with-liver-fibrosis/2475390",
+    "work_key": "https://pace-cme.org/news/phase-3-trial-results-of-semaglutide-in-mash-with-liver-fibrosis/2475390",
+    "title": "Phase 3 trial results of semaglutide in MASH with liver fibrosis,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:26.606825Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "51272549c2eae0b5",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.biochempeg.com/article/416.html",
+    "normalized_url": "https://biochempeg.com/article/416.html",
+    "work_key": "https://biochempeg.com/article/416.html",
+    "title": "Positive Trial Results of Semaglutide for MASH - Biopharma PEG,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:26.933814Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0ed8f71bca9a35d3",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.prnewswire.com/news-releases/essence-phase-3-trial-results-demonstrating-statistically-significant-and-superior-improvements-with-semaglutide-2-4-mg-in-people-with-mash-presented-at-aasld-2024--the-liver-meeting-302310474.html",
+    "normalized_url": "https://prnewswire.com/news-releases/essence-phase-3-trial-results-demonstrating-statistically-significant-and-superior-improvements-with-semaglutide-2-4-mg-in-people-with-mash-presented-at-aasld-2024--the-liver-meeting-302310474.html",
+    "work_key": "https://prnewswire.com/news-releases/essence-phase-3-trial-results-demonstrating-statistically-significant-and-superior-improvements-with-semaglutide-2-4-mg-in-people-with-mash-presented-at-aasld-2024--the-liver-meeting-302310474.html",
+    "title": "ESSENCE Phase 3 trial results demonstrating statistically significant,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:26.775485Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4a8169330a1557d0",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.springermedicine.com/metabolic-dysfunction-associated-steatohepatitis/semaglutide/essence-trial-reduces-liver-fibrosis-steatohepatitis-mash/50971388",
+    "normalized_url": "https://springermedicine.com/metabolic-dysfunction-associated-steatohepatitis/semaglutide/essence-trial-reduces-liver-fibrosis-steatohepatitis-mash/50971388",
+    "work_key": "https://springermedicine.com/metabolic-dysfunction-associated-steatohepatitis/semaglutide/essence-trial-reduces-liver-fibrosis-steatohepatitis-mash/50971388",
+    "title": "Semaglutide reduces liver fibrosis and steatohepatitis in MASH,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:48:19.767208Z",
+    "error_message": null,
+    "barrier_kind": "no_content",
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e705650e93042157",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://pandapeptide.ca/peptide-blog/semaglutide-and-alzheimers/",
+    "normalized_url": "https://pandapeptide.ca/peptide-blog/semaglutide-and-alzheimers",
+    "work_key": "https://pandapeptide.ca/peptide-blog/semaglutide-and-alzheimers",
+    "title": "Semaglutide and Alzheimer's: EVOKE Results - Panda Peptide,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:27.269082Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "afdb07224dc9caea",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/41522368/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/41522368",
+    "work_key": "PMID:41522368",
+    "title": "Baseline characteristics from evoke and evoke+: Two phase 3,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:27.565601Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "02460be80a0a46ec",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/387830143_evoke_and_evoke_design_of_two_large-scale_double-blind_placebo-controlled_phase_3_studies_evaluating_efficacy_safety_and_tolerability_of_semaglutide_in_early-stage_symptomatic_Alzheimer's_disease",
+    "normalized_url": "https://researchgate.net/publication/387830143_evoke_and_evoke_design_of_two_large-scale_double-blind_placebo-controlled_phase_3_studies_evaluating_efficacy_safety_and_tolerability_of_semaglutide_in_early-stage_symptomatic_Alzheimer's_disease",
+    "work_key": "https://researchgate.net/publication/387830143_evoke_and_evoke_design_of_two_large-scale_double-blind_placebo-controlled_phase_3_studies_evaluating_efficacy_safety_and_tolerability_of_semaglutide_in_early-stage_symptomatic_Alzheimer's_disease",
+    "title": "(PDF) evoke and evoke+: design of two large-scale, double-blind,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:48:20.652146Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8aa21bd7b4269be8",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.neurology.org/doi/10.1212/WNL.0000000000216975",
+    "normalized_url": "https://neurology.org/doi/10.1212/WNL.0000000000216975",
+    "work_key": "DOI:10.1212/wnl.0000000000216975",
+    "title": "Top-line Results from evoke and evoke+: Two Phase 3 ... - Neurology,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:48:22.689566Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "91d935f41310558c",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.alz.org/news/2025/alzheimers-association-statement-oral-semaglutide-phase-3-topline-data-release",
+    "normalized_url": "https://alz.org/news/2025/alzheimers-association-statement-oral-semaglutide-phase-3-topline-data-release",
+    "work_key": "https://alz.org/news/2025/alzheimers-association-statement-oral-semaglutide-phase-3-topline-data-release",
+    "title": "Statement on Oral Semaglutide Phase 3 Topline Data | alz.org,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:29.059451Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d028cc9ae1f893dd",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://neurologytoday.aan.com/doi/10.1212/breakingnews.1444",
+    "normalized_url": "https://neurologytoday.aan.com/doi/10.1212/breakingnews.1444",
+    "work_key": "DOI:10.1212/breakingnews.1444",
+    "title": "Lixisenatide Slows Motor Disability Progression in Parkinson's,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:48:23.351381Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fc9713d18f2f7c49",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/38598572/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/38598572",
+    "work_key": "PMID:38598572",
+    "title": "Trial of Lixisenatide in Early Parkinson's Disease - PubMed,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:31.437933Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a9da6a400d337c25",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.ovid.com/journals/nejm/pdf/10.1056/nejmoa2312323~trial-of-lixisenatide-in-early-parkinsons-disease",
+    "normalized_url": "https://ovid.com/journals/nejm/pdf/10.1056/nejmoa2312323~trial-of-lixisenatide-in-early-parkinsons-disease",
+    "work_key": "DOI:10.1056/nejmoa2312323~trial-of-lixisenatide-in-early-parkinsons-disease",
+    "title": "Trial of Lixisenatide in Early Parkinson's Disease - Ovid,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:32.686333Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0032441c9df7368f",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.michaeljfox.org/news/results-parkinsons-trial-diabetes-drug-lixisenatide-published",
+    "normalized_url": "https://michaeljfox.org/news/results-parkinsons-trial-diabetes-drug-lixisenatide-published",
+    "work_key": "https://michaeljfox.org/news/results-parkinsons-trial-diabetes-drug-lixisenatide-published",
+    "title": "Results of Parkinson's Trial for Diabetes Drug Lixisenatide Published,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:31.110942Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "010834ed6a25445b",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.parkinsons.org.uk/news/2024/results-phase-2-trial-lixisenatide-have-been-published",
+    "normalized_url": "https://parkinsons.org.uk/news/2024/results-phase-2-trial-lixisenatide-have-been-published",
+    "work_key": "https://parkinsons.org.uk/news/2024/results-phase-2-trial-lixisenatide-have-been-published",
+    "title": "Results from a phase 2 trial of lixisenatide have been published,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:31.951398Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fe4fe99e25e4d1b5",
+    "citation_markers": [],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/37952131/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/37952131",
+    "work_key": "PMID:37952131",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:32.106717Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8a5b5adecc461fe5",
+    "citation_markers": [],
+    "raw_url": "https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmc2410532~semaglutide-for-chronic-kidney-disease-in-type-2-diabetes",
+    "normalized_url": "https://ovid.com/journals/nejm/fulltext/10.1056/nejmc2410532~semaglutide-for-chronic-kidney-disease-in-type-2-diabetes",
+    "work_key": "DOI:10.1056/nejmc2410532~semaglutide-for-chronic-kidney-disease-in-type-2-diabetes",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T18:44:32.655028Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "tool_name": "Gemini"
+  }
+]

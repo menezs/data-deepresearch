@@ -1,0 +1,617 @@
+[referencia=37441f02f270282b score=0.694]
+▼B
+
+2. The Member States shall, without delay and at the latest by the date of entry into application, notify the Commission of the rules on penalties and of other enforcement measures referred to in paragraph 1, and shall notify it, without delay, of any subsequent amendment to them.
+
+3. Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to EUR 35 000 000 or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.
+
+4. Non-compliance with any of the following provisions related to operators or notified bodies, other than those laid down in Articles 5, shall be subject to administrative fines of up to EUR 15 000 000 or, if the offender is an undertaking, up to 3 % of its total worldwide annual turnover for the preceding financial year, whichever is higher:
+
+(a) obligations of providers pursuant to Article 16;
+
+(b) obligations of authorised representatives pursuant to Article 22;
+
+(c) obligations of importers pursuant to Article 23;
+
+(d) obligations of distributors pursuant to Article 24;
+
+▼M1
+
+(da) obligations of providers and operators pursuant to Article 25(2) and (4);
+
+▼B
+
+(e) obligations of deployers pursuant to Article 26;
+
+(f) requirements and obligations of notified bodies pursuant to Article 31, Article 33(1), (3) and (4) or Article 34;
+
+(g) transparency obligations for providers and deployers pursuant to Article 50.
+
+5. The supply of incorrect, incomplete or misleading information to notified bodies or national competent authorities in reply to a request shall be subject to administrative fines of up to EUR 7 500 000 or, if the offender is an undertaking, up to 1 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.
+
+6. In the case of SMEs, including start-ups, each fine referred to in this Article shall be up to the percentages or amount referred to in paragraphs 3, 4 and 5, whichever thereof is lower.
+
+▼M1
+
+6a. In the case of SMCs, each fine referred to in paragraphs 4 and 5 shall be up to the percentages or amount referred therein, whichever is lower.
+
+▼B
+
+---
+
+[referencia=37441f02f270282b score=0.200]
+▼M1
+
+6a. In the case of SMCs, each fine referred to in paragraphs 4 and 5 shall be up to the percentages or amount referred therein, whichever is lower.
+
+▼B
+
+7. When deciding whether to impose an administrative fine and when deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall be taken into account and, as appropriate, regard shall be given to the following:
+
+(a) the nature, gravity and duration of the infringement and of its consequences, taking into account the purpose of the AI system, as well as, where appropriate, the number of affected persons and the level of damage suffered by them;
+
+(b) whether administrative fines have already been applied by other market surveillance authorities to the same operator for the same infringement;
+
+(c) whether administrative fines have already been applied by other authorities to the same operator for infringements of other Union or national law, when such infringements result from the same activity or omission constituting a relevant infringement of this Regulation;
+
+(d) the size, the annual turnover and market share of the operator committing the infringement;
+
+(e) any other aggravating or mitigating factor applicable to the circumstances of the case, such as financial benefits gained, or losses avoided, directly or indirectly, from the infringement;
+
+(f) the degree of cooperation with the national competent authorities, in order to remedy the infringement and mitigate the possible adverse effects of the infringement;
+
+(g) the degree of responsibility of the operator taking into account the technical and organisational measures implemented by it;
+
+(h) the manner in which the infringement became known to the national competent authorities, in particular whether, and if so to what extent, the operator notified the infringement;
+
+(i) the intentional or negligent character of the infringement;
+
+(j) any action taken by the operator to mitigate the harm suffered by the affected persons.
+
+---
+
+[referencia=37441f02f270282b score=0.098]
+(f) the manner in which the infringement became known to the European Data Protection Supervisor, in particular whether, and if so to what extent, the Union institution, body, office or agency notified the infringement;
+
+(g) the annual budget of the Union institution, body, office or agency.
+
+2. Non-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to EUR 1 500 000 .
+
+3. The non-compliance of the AI system with any requirements or obligations under this Regulation, other than those laid down in Article 5, shall be subject to administrative fines of up to EUR 750 000 .
+
+4. Before taking decisions pursuant to this Article, the European Data Protection Supervisor shall give the Union institution, body, office or agency which is the subject of the proceedings conducted by the European Data Protection Supervisor the opportunity of being heard on the matter regarding the possible infringement. The European Data Protection Supervisor shall base his or her decisions only on elements and circumstances on which the parties concerned have been able to comment. Complainants, if any, shall be associated closely with the proceedings.
+
+5. The rights of defence of the parties concerned shall be fully respected in the proceedings. They shall be entitled to have access to the European Data Protection Supervisor’s file, subject to the legitimate interest of individuals or undertakings in the protection of their personal data or business secrets.
+
+6. Funds collected by imposition of fines in this Article shall contribute to the general budget of the Union. The fines shall not affect the effective operation of the Union institution, body, office or agency fined.
+
+7. The European Data Protection Supervisor shall, on an annual basis, notify the Commission of the administrative fines it has imposed pursuant to this Article and of any litigation or judicial proceedings it has initiated.
+
+Article 101
+
+Fines for providers of general-purpose AI models
+
+1. The Commission may impose on providers of general-purpose AI models fines not exceeding 3 % of their annual total worldwide turnover in the preceding financial year or EUR 15 000 000 , whichever is higher., when the Commission finds that the provider intentionally or negligently:
+
+(a) infringed the relevant provisions of this Regulation;
+
+(b) failed to comply with a request for a document or for information pursuant to Article 91, or supplied incorrect, incomplete or misleading information;
+
+(c) failed to comply with a measure requested under Article 93;
+
+---
+
+[referencia=37441f02f270282b score=0.067]
+▼M1
+
+6. Any delegated act adopted pursuant to Article 2(13), Article 6(6) or (7), Article 7(1) or (3), Article 11(3), Article 30(2), Article 43(5) or (6), Article 47(5), Article 51(3), Article 52(4) or Article 53(5) or (6) shall enter into force only if no objection has been expressed by either the European Parliament or the Council within a period of three months of notification of that act to the European Parliament and the Council or if, before the expiry of that period, the European Parliament and the Council have both informed the Commission that they will not object. That period shall be extended by three months at the initiative of the European Parliament or of the Council.
+
+▼B
+
+Article 98
+
+Committee procedure
+
+1. The Commission shall be assisted by a committee. That committee shall be a committee within the meaning of Regulation (EU) No 182/2011.
+
+2. Where reference is made to this paragraph, Article 5 of Regulation (EU) No 182/2011 shall apply.
+
+CHAPTER XII
+
+PENALTIES
+
+Article 99
+
+Penalties
+
+▼M1
+
+1. In accordance with the terms and conditions laid down in this Regulation, Member States shall lay down the rules on penalties and other enforcement measures, which may also include administrative fines, warnings and non-monetary measures, applicable to any infringement of this Regulation by operators, and shall take all measures necessary to ensure that they are properly and effectively implemented, thereby taking into account the guidelines issued by the Commission pursuant to Article 96. The penalties provided for shall be effective, proportionate and dissuasive. The Member States shall take into account the interests of SMEs, including start-ups, and SMCs, and their economic viability when imposing penalties.
+
+▼B
+
+---
+
+[referencia=37441f02f270282b score=0.017]
+(b) failed to comply with a request for a document or for information pursuant to Article 91, or supplied incorrect, incomplete or misleading information;
+
+(c) failed to comply with a measure requested under Article 93;
+
+(d) failed to make available to the Commission access to the general-purpose AI model or general-purpose AI model with systemic risk with a view to conducting an evaluation pursuant to Article 92.
+
+In fixing the amount of the fine or periodic penalty payment, regard shall be had to the nature, gravity and duration of the infringement, taking due account of the principles of proportionality and appropriateness. The Commission shall also into account commitments made in accordance with Article 93(3) or made in relevant codes of practice in accordance with Article 56.
+
+2. Before adopting the decision pursuant to paragraph 1, the Commission shall communicate its preliminary findings to the provider of the general-purpose AI model and give it an opportunity to be heard.
+
+3. Fines imposed in accordance with this Article shall be effective, proportionate and dissuasive.
+
+4. Information on fines imposed under this Article shall also be communicated to the Board as appropriate.
+
+5. The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions of the Commission fixing a fine under this Article. It may cancel, reduce or increase the fine imposed.
+
+6. The Commission shall adopt implementing acts containing detailed arrangements and procedural safeguards for proceedings in view of the possible adoption of decisions pursuant to paragraph 1 of this Article. Those implementing acts shall be adopted in accordance with the examination procedure referred to in Article 98(2).
+
+CHAPTER XIII
+
+FINAL PROVISIONS
+
+Article 102
+
+Amendment to Regulation (EC) No 300/2008
+
+In Article 4(3) of Regulation (EC) No 300/2008, the following subparagraph is added:
+
+‘When adopting detailed measures related to technical specifications and procedures for approval and use of security equipment concerning Artificial Intelligence systems within the meaning of Regulation (EU) 2024/1689 of the European Parliament and of the Council ( *1 ), the requirements set out in Chapter III, Section 2, of that Regulation shall be taken into account.
+
+Article 103
+
+Amendment to Regulation (EU) No 167/2013
+
+In Article 17(5) of Regulation (EU) No 167/2013, the following subparagraph is added:
+
+---
+
+[referencia=37441f02f270282b score=0.016]
+Article 75c
+
+Non-compliance, fines and periodic penalty payments
+
+1. Where the AI Office finds that an operator falling within the scope of Article 75(1) does not comply with the relevant provisions of this Regulation or with commitments made binding pursuant to Article 75b, it shall adopt a decision establishing such non-compliance.
+
+2. Before adopting a decision pursuant to paragraph 1, the AI Office shall communicate its preliminary findings to the operator concerned. In the preliminary findings, the AI Office shall explain the measures that it is considering taking, or that it considers that the operator concerned should take, in order to effectively address the preliminary findings.
+
+3. In the decision pursuant to paragraph 1 of this Article, the AI Office shall, where relevant, order the operator concerned to take the necessary measures to ensure compliance with the relevant provisions of this Regulation within a reasonable period specified therein and to provide information on the measures that that operator intends to take to comply with the decision. The operator concerned shall provide the AI Office with a description of the measures it has taken to ensure compliance with the decision upon their implementation. Prior to requesting any measure, the AI Office may engage in a structured dialogue with the operator of the AI system in question. During this dialogue, the operator may propose commitments in accordance with Article 75b.
+
+4. A decision adopted pursuant to paragraph 1 of this Article may be accompanied by the imposition of penalties in accordance with Article 99(3) to (7), which provisions shall apply mutatis mutandis to the AI Office in the execution of its supervision and enforcement tasks referred to in Article 75(1).
+
+In particular, the following shall be subject to administrative fines as referred to in Article 99(4):
+
+(a) infringement of any applicable provision of this Regulation, including those not listed in Article 99(4);
+
+(b) failure to comply with decisions or measures adopted pursuant to the powers listed in Article 14(4) or Article 16(3) of Regulation (EU) 2019/1020, as well as those specified in Article 75a of this Regulation;
+
+(c) failure to comply with a commitment made binding by a decision pursuant to Article 75b.
+
+The supply of incorrect, incomplete or misleading information to the AI Office in reply to a request shall be subject to administrative fines as referred to in Article 99(5).
+
+---
+
+[referencia=37441f02f270282b score=0.016]
+(e) assessing and preventing the negative impact of AI systems on vulnerable persons or groups of vulnerable persons, including as regards accessibility for persons with a disability, as well as on gender equality.
+
+3. Codes of conduct may be drawn up by individual providers or deployers of AI systems or by organisations representing them or by both, including with the involvement of any interested stakeholders and their representative organisations, including civil society organisations and academia. Codes of conduct may cover one or more AI systems taking into account the similarity of the intended purpose of the relevant systems.
+
+▼M1
+
+4. The AI Office and the Member States shall take into account the specific interests and needs of SMEs, including start-ups, and SMCs, when encouraging and facilitating the drawing up of codes of conduct.
+
+▼B
+
+Article 96
+
+Guidelines from the Commission on the implementation of this Regulation
+
+1. The Commission shall develop guidelines on the practical implementation of this Regulation, and in particular on:
+
+▼M1
+
+(a) the application of the requirements and obligations referred to in Articles 8 to 15 and in Articles 25 and 26;
+
+▼B
+
+(b) the prohibited practices referred to in Article 5;
+
+(c) the practical implementation of the provisions related to substantial modification;
+
+(d) the practical implementation of transparency obligations laid down in Article 50;
+
+(e) detailed information on the relationship of this Regulation with the Union harmonisation legislation listed in Annex I, as well as with other relevant Union law, including as regards consistency in their enforcement;
+
+(f) the application of the definition of an AI system as set out in Article 3, point (1);
+
+▼M1
+
+(g) the practical implementation of Article 8(2), Article 9(10) and Article 17(3) in accordance with the principle of complementarity and proportionality, with a view to ensuring consistency, avoiding duplication and minimising additional burdens when complying with the requirements of this Regulation and the requirements of the Union harmonisation legislation listed in Section A of Annex I; such guidelines shall be published by 1 August 2027.
+
+▼M1
+
+When issuing such guidelines, the Commission shall involve the Board and pay particular attention to the needs of SMEs, including start-ups, and SMCs, of local public authorities and of the sectors most likely to be affected by this Regulation.
+
+▼B
+
+---
+
+[referencia=37441f02f270282b score=0.016]
+Where, in the course of that evaluation, the market surveillance authority or, where applicable the market surveillance authority in cooperation with the national public authority referred to in Article 77(1), finds that the AI system does not comply with the requirements and obligations laid down in this Regulation, it shall without undue delay require the relevant operator to take all appropriate corrective actions to bring the AI system into compliance, to withdraw the AI system from the market, or to recall it within a period the market surveillance authority may prescribe, and in any event within the shorter of 15 working days, or as provided for in the relevant Union harmonisation legislation.
+
+The market surveillance authority shall inform the relevant notified body accordingly. Article 18 of Regulation (EU) 2019/1020 shall apply to the measures referred to in the second subparagraph of this paragraph.
+
+3. Where the market surveillance authority considers that the non-compliance is not restricted to its national territory, it shall inform the Commission and the other Member States without undue delay of the results of the evaluation and of the actions which it has required the operator to take.
+
+4. The operator shall ensure that all appropriate corrective action is taken in respect of all the AI systems concerned that it has made available on the Union market.
+
+5. Where the operator of an AI system does not take adequate corrective action within the period referred to in paragraph 2, the market surveillance authority shall take all appropriate provisional measures to prohibit or restrict the AI system’s being made available on its national market or put into service, to withdraw the product or the standalone AI system from that market or to recall it. That authority shall without undue delay notify the Commission and the other Member States of those measures.
+
+6. The notification referred to in paragraph 5 shall include all available details, in particular the information necessary for the identification of the non-compliant AI system, the origin of the AI system and the supply chain, the nature of the non-compliance alleged and the risk involved, the nature and duration of the national measures taken and the arguments put forward by the relevant operator. In particular, the market surveillance authorities shall indicate whether the non-compliance is due to one or more of the following:
+
+(a) non-compliance with the prohibition of the AI practices referred to in Article 5;
+
+(b) a failure of a high-risk AI system to meet requirements set out in Chapter III, Section 2;
+
+(c) shortcomings in the harmonised standards or common specifications referred to in Articles 40 and 41 conferring a presumption of conformity;
+
+---
+
+[referencia=37441f02f270282b score=0.014]
+5. At the request of the AI Office, the competent market surveillance authority of a Member State may in its own territory carry out any investigation, inspection or other fact-finding measure on behalf and for the account of the AI Office in order to establish whether there has been an infringement of this Regulation. The officials of the competent authorities of the Member States who are responsible for conducting such investigations, inspections, or fact-finding measures, as well as those authorised or appointed by them, shall exercise their powers in accordance with their national law.
+
+6. In addition to the powers set out in paragraph 1 of this Article, the AI Office, in the exercise of its competences referred to in Article 75(1), may:
+
+(a) order operators to provide access to, and explanations relating to, their AI systems;
+
+(b) impose an obligation on an operator to retain all data and documents deemed to be necessary to assess the implementation of and compliance with the obligations under this Regulation.
+
+7. To assist it in monitoring the effective implementation and compliance with the relevant provisions of this Regulation and to provide it with specific expertise or knowledge in the exercise of its competences under Article 75(1), the AI Office may appoint independent external experts and auditors, as well as experts, investigative teams and auditors from the Member State’s competent authorities with the agreement of the authority concerned. Information obtained as a result of such monitoring actions shall be shared with the relevant competent authorities of the Member States.
+
+8. Information collected pursuant to this Article shall be used only for the purpose of this Regulation.
+
+Article 75b
+
+Commitments
+
+If, during proceedings under Article 75a(2), the operator concerned offers commitments to ensure compliance with the relevant provisions of this Regulation, the AI Office may, by decision, make those commitments binding on the operator concerned and declare that there are no further grounds for action. The AI Office may, upon request or on its own initiative, reopen the proceedings where:
+
+(a) there has been a material change in any of the facts on which the decision was based;
+
+(b) the operator acts contrary to its commitments; or
+
+(c) the decision was based on incomplete, incorrect or misleading information provided by the operator concerned.
+
+Where the AI Office considers that the commitments offered by the operator concerned are unable to ensure effective compliance with the relevant provisions of this Regulation, it shall reject those commitments in a reasoned decision when concluding the proceedings.
+
+Article 75c
+
+Non-compliance, fines and periodic penalty payments
+
+---
+
+[referencia=37441f02f270282b score=0.013]
+The supply of incorrect, incomplete or misleading information to the AI Office in reply to a request shall be subject to administrative fines as referred to in Article 99(5).
+
+5. The AI Office may adopt a decision imposing periodic penalty payments to compel the operators subject to its competence pursuant to Article 75(1) to the following:
+
+(a) to submit to an investigation;
+
+(b) to comply with an information request ordered by a decision adopted under Article 75a(3);
+
+(c) to submit to an inspection ordered by a decision pursuant to Article 75a(4);
+
+(d) to provide correct or complete answers or explanations in the context of an inspection ordered by a decision pursuant to Article 75a(4);
+
+(e) to comply with corrective actions ordered pursuant to the power listed in Article 16 of Regulation (EU) 2019/1020;
+
+(f) to comply with commitments made legally binding by a decision pursuant to Article 75b; or
+
+(g) to comply with a decision pursuant to the paragraph (1) of this Article.
+
+Those penalty payments shall be effective and proportionate, and, where applicable, shall not exceed 5 % of the average daily income or worldwide annual turnover in the preceding financial year per day, calculated from the date appointed by the decision.
+
+6. The Court of Justice of the European Union shall have unlimited jurisdiction to review decisions of the AI Office fixing a fine or periodic penalty payment pursuant to this Article. It may cancel, reduce or increase the fine or periodic penalty payment imposed.
+
+7. Funds collected through the imposition of fines or periodic penalty payments pursuant to this Article shall contribute to the general budget of the Union.
+
+8. The powers conferred on the AI Office by this Article shall be subject to a limitation period of five years. The limitation period shall begin to run on the day on which the infringement is committed. However, in the case of continuing or repeated infringements, the limitation period shall begin to run on the day on which the infringement ceases.
+
+The power of the AI Office to enforce decisions taken pursuant to this Article shall be subject to a limitation period of five years. The limitation period shall begin to run on the day on which the decision becomes final.
+
+The implementing act referred to in Article 75d(3) shall specify the first and second subparagraphs of this paragraph, including the circumstances in which the limitation periods shall be interrupted.
+
+---
+
+[referencia=37441f02f270282b score=0.010]
+(i) the intentional or negligent character of the infringement;
+
+(j) any action taken by the operator to mitigate the harm suffered by the affected persons.
+
+8. Each Member State shall lay down rules on to what extent administrative fines may be imposed on public authorities and bodies established in that Member State.
+
+9. Depending on the legal system of the Member States, the rules on administrative fines may be applied in such a manner that the fines are imposed by competent national courts or by other bodies, as applicable in those Member States. The application of such rules in those Member States shall have an equivalent effect.
+
+10. The exercise of powers under this Article shall be subject to appropriate procedural safeguards in accordance with Union and national law, including effective judicial remedies and due process.
+
+11. Member States shall, on an annual basis, report to the Commission about the administrative fines they have issued during that year, in accordance with this Article, and about any related litigation or judicial proceedings.
+
+Article 100
+
+Administrative fines on Union institutions, bodies, offices and agencies
+
+1. The European Data Protection Supervisor may impose administrative fines on Union institutions, bodies, offices and agencies falling within the scope of this Regulation. When deciding whether to impose an administrative fine and when deciding on the amount of the administrative fine in each individual case, all relevant circumstances of the specific situation shall be taken into account and due regard shall be given to the following:
+
+(a) the nature, gravity and duration of the infringement and of its consequences, taking into account the purpose of the AI system concerned, as well as, where appropriate, the number of affected persons and the level of damage suffered by them;
+
+(b) the degree of responsibility of the Union institution, body, office or agency, taking into account technical and organisational measures implemented by them;
+
+(c) any action taken by the Union institution, body, office or agency to mitigate the damage suffered by affected persons;
+
+(d) the degree of cooperation with the European Data Protection Supervisor in order to remedy the infringement and mitigate the possible adverse effects of the infringement, including compliance with any of the measures previously ordered by the European Data Protection Supervisor against the Union institution, body, office or agency concerned with regard to the same subject matter;
+
+(e) any similar previous infringements by the Union institution, body, office or agency;
+
+(f) the manner in which the infringement became known to the European Data Protection Supervisor, in particular whether, and if so to what extent, the Union institution, body, office or agency notified the infringement;
+
+---
+
+[referencia=37441f02f270282b score=0.009]
+(b) a failure of a high-risk AI system to meet requirements set out in Chapter III, Section 2;
+
+(c) shortcomings in the harmonised standards or common specifications referred to in Articles 40 and 41 conferring a presumption of conformity;
+
+(d) non-compliance with Article 50.
+
+7. The market surveillance authorities other than the market surveillance authority of the Member State initiating the procedure shall, without undue delay, inform the Commission and the other Member States of any measures adopted and of any additional information at their disposal relating to the non-compliance of the AI system concerned, and, in the event of disagreement with the notified national measure, of their objections.
+
+8. Where, within three months of receipt of the notification referred to in paragraph 5 of this Article, no objection has been raised by either a market surveillance authority of a Member State or by the Commission in respect of a provisional measure taken by a market surveillance authority of another Member State, that measure shall be deemed justified. This shall be without prejudice to the procedural rights of the concerned operator in accordance with Article 18 of Regulation (EU) 2019/1020. The three-month period referred to in this paragraph shall be reduced to 30 days in the event of non-compliance with the prohibition of the AI practices referred to in Article 5 of this Regulation.
+
+9. The market surveillance authorities shall ensure that appropriate restrictive measures are taken in respect of the product or the AI system concerned, such as withdrawal of the product or the AI system from their market, without undue delay.
+
+Article 80
+
+Procedure for dealing with AI systems classified by the provider as non-high-risk in application of Annex III
+
+---
+
+[referencia=37441f02f270282b score=0.007]
+(a) the list set out in Annex III, including the extension of existing area headings or the addition of new area headings in that Annex;
+
+(b) the list of prohibited practices set out in Article 5; and
+
+(c) the list of AI systems requiring additional transparency measures pursuant to Article 50.
+
+12. Any amendment to this Regulation pursuant to paragraph 10, or relevant delegated or implementing acts, which concerns sectoral Union harmonisation legislation listed in Section B of Annex I shall take into account the regulatory specificities of each sector, and the existing governance, conformity assessment and enforcement mechanisms and authorities established therein.
+
+13. By 2 August 2031, the Commission shall carry out an assessment of the enforcement of this Regulation and shall report on it to the European Parliament, the Council and the European Economic and Social Committee, taking into account the first years of application of this Regulation. On the basis of the findings, that report shall, where appropriate, be accompanied by a proposal for amendment of this Regulation with regard to the structure of enforcement and the need for a Union agency to resolve any identified shortcomings.
+
+Article 113
+
+Entry into force and application
+
+This Regulation shall enter into force on the twentieth day following that of its publication in the Official Journal of the European Union.
+
+It shall apply from 2 August 2026.
+
+However:
+
+▼M1
+
+(a) Chapters I and II shall apply from 2 February 2025, with the exception of Article 5(1), first subparagraph, points (ba) and (bb), and Article 5(1a) and (1b) which shall apply from 2 December 2026;
+
+▼B
+
+(b) Chapter III Section 4, Chapter V, Chapter VII and Chapter XII and Article 78 shall apply from 2 August 2025, with the exception of Article 101;
+
+▼M1
+
+(c) Chapter III, Sections 1, 2, and 3, with the exception of Article 6(5), shall apply from:
+
+(i) 2 December 2027 as regards AI systems classified as high-risk pursuant to Article 6(2) and Annex III; and
+
+(ii) 2 August 2028 as regards AI systems classified as high-risk pursuant to Article 6(1) and Annex I;
+
+▼M1
+
+(d) Articles 102 to 110 shall apply from 27 July 2026.
+
+▼B
+
+---
+
+[referencia=37441f02f270282b score=0.005]
+4. Deployers of an AI system that generates or manipulates image, audio or video content constituting a deep fake, shall disclose that the content has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offence. Where the content forms part of an evidently artistic, creative, satirical, fictional or analogous work or programme, the transparency obligations set out in this paragraph are limited to disclosure of the existence of such generated or manipulated content in an appropriate manner that does not hamper the display or enjoyment of the work.
+
+Deployers of an AI system that generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offences or where the AI-generated content has undergone a process of human review or editorial control and where a natural or legal person holds editorial responsibility for the publication of the content.
+
+5. The information referred to in paragraphs 1 to 4 shall be provided to the natural persons concerned in a clear and distinguishable manner at the latest at the time of the first interaction or exposure. The information shall conform to the applicable accessibility requirements.
+
+6. Paragraphs 1 to 4 shall not affect the requirements and obligations set out in Chapter III, and shall be without prejudice to other transparency obligations laid down in Union or national law for deployers of AI systems.
+
+▼M1
+
+7. The Commission shall encourage and facilitate the drawing up of codes of practice at Union level to facilitate the effective implementation of the obligations regarding the detection, marking and labelling of artificially generated or manipulated content. The Commission, taking utmost account of the opinion of the Board, shall assess whether adherence to those codes of practice is adequate to ensure compliance with the obligations laid down in paragraphs 2 and 4 of this Article, in accordance with the procedure laid down in Article 56(6). If it deems the code of practice to be inadequate, the Commission may adopt an implementing act specifying common rules for the implementation of those obligations in accordance with the examination procedure laid down in Article 98(2).
+
+▼B
+
+CHAPTER V
+
+GENERAL-PURPOSE AI MODELS
+
+SECTION 1
+
+Classification rules
+
+Article 51
+
+Classification of general-purpose AI models as general-purpose AI models with systemic risk
+
+---
+
+[referencia=37441f02f270282b score=0.004]
+▼B
+
+Article 112
+
+Evaluation and review
+
+1. The Commission shall assess the need for amendment of the list set out in Annex III and of the list of prohibited AI practices laid down in Article 5, once a year following the entry into force of this Regulation, and until the end of the period of the delegation of power laid down in Article 97. The Commission shall submit the findings of that assessment to the European Parliament and the Council.
+
+2. By 2 August 2028 and every four years thereafter, the Commission shall evaluate and report to the European Parliament and to the Council on the following:
+
+(a) the need for amendments extending existing area headings or adding new area headings in Annex III;
+
+(b) amendments to the list of AI systems requiring additional transparency measures in Article 50;
+
+(c) amendments enhancing the effectiveness of the supervision and governance system.
+
+3. By 2 August 2029 and every four years thereafter, the Commission shall submit a report on the evaluation and review of this Regulation to the European Parliament and to the Council. The report shall include an assessment with regard to the structure of enforcement and the possible need for a Union agency to resolve any identified shortcomings. On the basis of the findings, that report shall, where appropriate, be accompanied by a proposal for amendment of this Regulation. The reports shall be made public.
+
+4. The reports referred to in paragraph 2 shall pay specific attention to the following:
+
+(a) the status of the financial, technical and human resources of the national competent authorities in order to effectively perform the tasks assigned to them under this Regulation;
+
+(b) the state of penalties, in particular administrative fines as referred to in Article 99(1), applied by Member States for infringements of this Regulation;
+
+(c) adopted harmonised standards and common specifications developed to support this Regulation;
+
+(d) the number of undertakings that enter the market after the entry into application of this Regulation, and how many of them are SMEs.
+
+---
+
+[referencia=37441f02f270282b score=0.004]
+(b) any reference to a product under Regulation (EU) 2019/1020 shall be understood as including all AI systems falling within the scope of this Regulation.
+
+2. As part of their reporting obligations under Article 34(4) of Regulation (EU) 2019/1020, the market surveillance authorities shall report annually to the Commission and relevant national competition authorities any information identified in the course of market surveillance activities that may be of potential interest for the application of Union law on competition rules. They shall also annually report to the Commission about the use of prohibited practices that occurred during that year and about the measures taken.
+
+3. For high-risk AI systems related to products covered by the Union harmonisation legislation listed in Section A of Annex I, the market surveillance authority for the purposes of this Regulation shall be the authority responsible for market surveillance activities designated under those legal acts.
+
+By derogation from the first subparagraph, and in appropriate circumstances, Member States may designate another relevant authority to act as a market surveillance authority, provided they ensure coordination with the relevant sectoral market surveillance authorities responsible for the enforcement of the Union harmonisation legislation listed in Annex I.
+
+4. The procedures referred to in Articles 79 to 83 of this Regulation shall not apply to AI systems related to products covered by the Union harmonisation legislation listed in section A of Annex I, where such legal acts already provide for procedures ensuring an equivalent level of protection and having the same objective. In such cases, the relevant sectoral procedures shall apply instead.
+
+5. Without prejudice to the powers of market surveillance authorities under Article 14 of Regulation (EU) 2019/1020, for the purpose of ensuring the effective enforcement of this Regulation, market surveillance authorities may exercise the powers referred to in Article 14(4), points (d) and (j), of that Regulation remotely, as appropriate.
+
+6. For high-risk AI systems placed on the market, put into service, or used by financial institutions regulated by Union financial services law, the market surveillance authority for the purposes of this Regulation shall be the relevant national authority responsible for the financial supervision of those institutions under that legislation in so far as the placing on the market, putting into service, or the use of the AI system is in direct connection with the provision of those financial services.
+
+7. By way of derogation from paragraph 6, in appropriate circumstances, and provided that coordination is ensured, another relevant authority may be identified by the Member State as market surveillance authority for the purposes of this Regulation.
+
+---
+
+[referencia=37441f02f270282b score=0.003]
+4. Without prejudice to paragraph 3, each use of a ‘real-time’ remote biometric identification system in publicly accessible spaces for law enforcement purposes shall be notified to the relevant market surveillance authority and the national data protection authority in accordance with the national rules referred to in paragraph 5. The notification shall, as a minimum, contain the information specified under paragraph 6 and shall not include sensitive operational data.
+
+5. A Member State may decide to provide for the possibility to fully or partially authorise the use of ‘real-time’ remote biometric identification systems in publicly accessible spaces for the purposes of law enforcement within the limits and under the conditions listed in paragraph 1, first subparagraph, point (h), and paragraphs 2 and 3. Member States concerned shall lay down in their national law the necessary detailed rules for the request, issuance and exercise of, as well as supervision and reporting relating to, the authorisations referred to in paragraph 3. Those rules shall also specify in respect of which of the objectives listed in paragraph 1, first subparagraph, point (h), including which of the criminal offences referred to in point (h)(iii) thereof, the competent authorities may be authorised to use those systems for the purposes of law enforcement. Member States shall notify those rules to the Commission at the latest 30 days following the adoption thereof. Member States may introduce, in accordance with Union law, more restrictive laws on the use of remote biometric identification systems.
+
+6. National market surveillance authorities and the national data protection authorities of Member States that have been notified of the use of ‘real-time’ remote biometric identification systems in publicly accessible spaces for law enforcement purposes pursuant to paragraph 4 shall submit to the Commission annual reports on such use. For that purpose, the Commission shall provide Member States and national market surveillance and data protection authorities with a template, including information on the number of the decisions taken by competent judicial authorities or an independent administrative authority whose decision is binding upon requests for authorisations in accordance with paragraph 3 and their result.
+
+7. The Commission shall publish annual reports on the use of real-time remote biometric identification systems in publicly accessible spaces for law enforcement purposes, based on aggregated data in Member States on the basis of the annual reports referred to in paragraph 6. Those annual reports shall not include sensitive operational data of the related law enforcement activities.
+
+8. This Article shall not affect the prohibitions that apply where an AI practice infringes other Union law.
+
+CHAPTER III
+
+HIGH-RISK AI SYSTEMS
+
+SECTION 1
+
+---
+
+[referencia=37441f02f270282b score=0.002]
+(d) the special categories of personal data are not transmitted, transferred or otherwise accessed by other parties;
+
+(e) the special categories of personal data are deleted once the bias has been corrected or the personal data has reached the end of its retention period, whichever comes first; and
+
+(f) the records of processing activities pursuant to Regulations (EU) 2016/679 and (EU) 2018/1725 and Directive (EU) 2016/680 include the reasons why the processing of special categories of personal data was strictly necessary to detect and correct biases, and why that objective could not be achieved by processing other data.
+
+2. Providers and deployers of other AI systems and models and deployers of high-risk AI systems may exceptionally process special categories of personal data to the extent that:
+
+(a) such processing is strictly necessary to ensure bias detection and correction in view of possible biases that are likely to affect the health and safety of persons, have a negative impact on fundamental rights or lead to discrimination prohibited pursuant to Union law, especially where data outputs influence inputs for future operations; and
+
+(b) all of the conditions and safeguards set out in paragraph 1 are applied.
+
+This paragraph does not create any obligation to conduct such bias detection and correction.
+
+▼B
+
+CHAPTER II
+
+PROHIBITED AI PRACTICES
+
+Article 5
+
+Prohibited AI practices
+
+1. The following AI practices shall be prohibited:
+
+(a) the placing on the market, the putting into service or the use of an AI system that deploys subliminal techniques beyond a person’s consciousness or purposefully manipulative or deceptive techniques, with the objective, or the effect of materially distorting the behaviour of a person or a group of persons by appreciably impairing their ability to make an informed decision, thereby causing them to take a decision that they would not have otherwise taken in a manner that causes or is reasonably likely to cause that person, another person or group of persons significant harm;
+
+(b) the placing on the market, the putting into service or the use of an AI system that exploits any of the vulnerabilities of a natural person or a specific group of persons due to their age, disability or a specific social or economic situation, with the objective, or the effect, of materially distorting the behaviour of that person or a person belonging to that group in a manner that causes or is reasonably likely to cause that person or another person significant harm;
+
+▼M1
+
+---
+
+[referencia=37441f02f270282b score=0.002]
+(b) organise specific awareness raising and training activities on the application of this Regulation tailored to the needs of SMEs including start-ups, deployers and, as appropriate, local public authorities;
+
+(c) utilise existing dedicated channels and where appropriate, establish new ones for communication with SMEs including start-ups, deployers, other innovators and, as appropriate, local public authorities to provide advice and respond to queries about the implementation of this Regulation, including as regards participation in AI regulatory sandboxes;
+
+(d) facilitate the participation of SMEs and other relevant stakeholders in the standardisation development process.
+
+2. The specific interests and needs of the SME providers, including start-ups, shall be taken into account when setting the fees for conformity assessment under Article 43, reducing those fees proportionately to their size, market size and other relevant indicators.
+
+3. The AI Office shall undertake the following actions:
+
+(a) provide standardised templates for areas covered by this Regulation, as specified by the Board in its request;
+
+(b) develop and maintain a single information platform providing easy to use information in relation to this Regulation for all operators across the Union;
+
+(c) organise appropriate communication campaigns to raise awareness about the obligations arising from this Regulation;
+
+(d) evaluate and promote the convergence of best practices in public procurement procedures in relation to AI systems.
+
+Article 63
+
+Derogations for specific operators
+
+▼M1
+
+1. SMEs, including start-ups, may comply with certain elements of the quality management system required by Article 17 in a simplified manner, provided that they do not have partner enterprises or linked enterprises within the meaning of Recommendation 2003/361/EC. For that purpose, the Commission shall develop guidelines on the elements of the quality management system which may be complied with in a simplified manner considering the needs of SMEs, without affecting the level of protection or the need for compliance with the requirements in respect of high-risk AI systems.
+
+▼B
+
+2. Paragraph 1 of this Article shall not be interpreted as exempting those operators from fulfilling any other requirements or obligations laid down in this Regulation, including those established in Articles 9, 10, 11, 12, 13, 14, 15, 72 and 73.
+
+CHAPTER VII
+
+GOVERNANCE
+
+SECTION 1
+
+Governance at Union level
+
+Article 64
+
+AI Office
+
+---
+
+[referencia=37441f02f270282b score=0.002]
+Where a market surveillance authority has reason to suspect non-compliance with this Regulation by a provider or a deployer of an AI system referred to in Article 75(1), it may send a request to the AI Office to assess the matter.
+
+3. The AI Office may exercise the powers listed in Article 14(4), points (a), (b) and (c) of Regulation (EU) 2019/1020 and Article 74(12) and (13) of this Regulation by simple request or by decision.
+
+When requesting information, the AI Office shall state the legal basis and the purpose of the request, specify what information is required, and set the period within which the information is to be provided. Where the request is a simple request, the AI Office shall additionally indicate that although there is no obligation to provide the information requested, in the case of a voluntary reply, the information must be correct and not misleading, and indicate the potential fines provided for in Article 99(5) for supplying incorrect or misleading information. Where the request is made by decision, the AI Office shall additionally indicate the fines provided for in Article 99(5) for supplying incorrect, incomplete or misleading information and indicate the right to have the decision reviewed by the Court of Justice of the European Union. The AI Office shall send a copy of the request to the market surveillance authority of the Member State in the territory of which the operator or its legal representative is situated.
+
+4. In order to carry out the tasks assigned to it under this Section, the AI Office may conduct all necessary remote or on-site inspections pursuant to the powers laid down in Article 14(4), points (d) and (e) of Regulation (EU) 2019/1020 and Article 74(5) of this Regulation. When conducting an inspection, the AI Office shall inform the provider concerned of the subject matter and purpose of the investigation, the relevant fines referred to in Article 99(5) of this Regulation, and the right to have the decision reviewed by the Court of Justice of the European Union. Prior to conducting an inspection, the AI Office shall inform the market surveillance authority of the Member State in the territory of which the operator or its legal representative is situated.
+
+During such an inspection, the officials of the AI Office shall be empowered to:
+
+(a) enter any of the business premises, land or property located in the Union of the operator concerned;

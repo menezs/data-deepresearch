@@ -1,0 +1,610 @@
+[
+  {
+    "id": "b1fc05846ad56596",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+    "normalized_url": "https://sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+    "work_key": "https://sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+    "title": "Digital Replicas - SAG-AFTRA,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:42:18.450641Z",
+    "error_message": "HTTP 403 em https://www.sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf (PDF, sem fallback via playwright)",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a6e0ab0ab4bf0fc8",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://blog.promise.legal/sag-aftra-ai-indie-film-compliance/",
+    "normalized_url": "https://blog.promise.legal/sag-aftra-ai-indie-film-compliance",
+    "work_key": "https://blog.promise.legal/sag-aftra-ai-indie-film-compliance",
+    "title": "SAG-AFTRA AI Rules for Indie Film: Compliance Guide,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:44.598659Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3e1328a0e99529c8",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.loeb.com/en/insights/passle/2023/11/artificial-intelligence-terms-of-sagaftra-tv-theatrical-contract",
+    "normalized_url": "https://loeb.com/en/insights/passle/2023/11/artificial-intelligence-terms-of-sagaftra-tv-theatrical-contract",
+    "work_key": "https://loeb.com/en/insights/passle/2023/11/artificial-intelligence-terms-of-sagaftra-tv-theatrical-contract",
+    "title": "Artificial Intelligence Terms of SAG-AFTRA TV Theatrical Contract,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:44.750327Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "86b633d7e4e014bb",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.sagaftra.org/sites/default/files/sa_documents/Contract%20Bulletin%20-%20A.I.%20Synthetic%20Performer%20vs%20Digital%20Replicas.pdf",
+    "normalized_url": "https://sagaftra.org/sites/default/files/sa_documents/Contract Bulletin - A.I. Synthetic Performer vs Digital Replicas.pdf",
+    "work_key": "https://sagaftra.org/sites/default/files/sa_documents/Contract Bulletin - A.I. Synthetic Performer vs Digital Replicas.pdf",
+    "title": "Contract Bulletin - A.I. Synthetic Performer vs Digital Replicas,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:42:18.923119Z",
+    "error_message": "HTTP 403 em https://www.sagaftra.org/sites/default/files/sa_documents/Contract%20Bulletin%20-%20A.I.%20Synthetic%20Performer%20vs%20Digital%20Replicas.pdf (PDF, sem fallback via playwright)",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9d0ca35723cdd785",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+    "title": "Artificial Intelligence | SAG-AFTRA,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:41:53.618237Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930092-GRU 1793760112 3490068709 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ad63931a4a7e0a42",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.facebook.com/61577797664422/posts/%EF%B8%8F-the-entertainment-creative-arts-magaziness-october-creatively-legal-section-di/122186514272926588/",
+    "normalized_url": "https://facebook.com/61577797664422/posts/️-the-entertainment-creative-arts-magaziness-october-creatively-legal-section-di/122186514272926588",
+    "work_key": "https://facebook.com/61577797664422/posts/️-the-entertainment-creative-arts-magaziness-october-creatively-legal-section-di/122186514272926588",
+    "title": "SAG-AFTRA union and state legislative requirements for non-union,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:48.931911Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d9376c402e2d44bc",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.dglaw.com/importance-of-digital-replica-consents-under-the-sag-aftra-commercials-contract/",
+    "normalized_url": "https://dglaw.com/importance-of-digital-replica-consents-under-the-sag-aftra-commercials-contract",
+    "work_key": "https://dglaw.com/importance-of-digital-replica-consents-under-the-sag-aftra-commercials-contract",
+    "title": "Importance of Digital Replica Consents Under the SAG-AFTRA,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:45.742610Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ba0a1d26baec7c1f",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://studio.aifilms.ai/blog/california-ai-laws-protect-actors-digital-replicas",
+    "normalized_url": "https://studio.aifilms.ai/blog/california-ai-laws-protect-actors-digital-replicas",
+    "work_key": "https://studio.aifilms.ai/blog/california-ai-laws-protect-actors-digital-replicas",
+    "title": "California AI Laws Protect Actors from Digital Replicas,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:49.536346Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d34bcbfc2b76f491",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.proskauer.com/blog/california-enacts-generative-ai-law-addressing-digital-replicas-of-performers",
+    "normalized_url": "https://proskauer.com/blog/california-enacts-generative-ai-law-addressing-digital-replicas-of-performers",
+    "work_key": "https://proskauer.com/blog/california-enacts-generative-ai-law-addressing-digital-replicas-of-performers",
+    "title": "California Enacts Generative AI Law Addressing “Digital Replicas” of,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:47.586431Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f546d3dd48eb2c5c",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.armstrongteasdale.com/thought-leadership/artificial-intelligence-and-copyrights-tennessees-elvis-act-becomes-law/",
+    "normalized_url": "https://armstrongteasdale.com/thought-leadership/artificial-intelligence-and-copyrights-tennessees-elvis-act-becomes-law",
+    "work_key": "https://armstrongteasdale.com/thought-leadership/artificial-intelligence-and-copyrights-tennessees-elvis-act-becomes-law",
+    "title": "Artificial Intelligence and Copyrights: Tennessee's ELVIS Act,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:48.833853Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bef76463c3192de3",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://law.vanderbilt.edu/why-tennessees-elvis-act-is-the-king-of-artificial-intelligence-protections/",
+    "normalized_url": "https://law.vanderbilt.edu/why-tennessees-elvis-act-is-the-king-of-artificial-intelligence-protections",
+    "work_key": "https://law.vanderbilt.edu/why-tennessees-elvis-act-is-the-king-of-artificial-intelligence-protections",
+    "title": "Why Tennessee's ELVIS Act Is the King of Artificial Intelligence,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:49.099055Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "95a8b0ef336269b2",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://aicompliant.ai/blog/ai-impact-assessment-tennessee-elvis-act-2024",
+    "normalized_url": "https://aicompliant.ai/blog/ai-impact-assessment-tennessee-elvis-act-2024",
+    "work_key": "https://aicompliant.ai/blog/ai-impact-assessment-tennessee-elvis-act-2024",
+    "title": "AI Impact Assessment for Tennessee ELVIS Act 2024,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:49.774956Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b2b19e5f033855c4",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://scholarship.law.vanderbilt.edu/context/jetlaw/article/1654/viewcontent/Why_Tennessee_s_ELVIS_Act_is_the_King_of_Artificial_Intelligence__Fowler.pdf",
+    "normalized_url": "https://scholarship.law.vanderbilt.edu/context/jetlaw/article/1654/viewcontent/Why_Tennessee_s_ELVIS_Act_is_the_King_of_Artificial_Intelligence__Fowler.pdf",
+    "work_key": "https://scholarship.law.vanderbilt.edu/context/jetlaw/article/1654/viewcontent/Why_Tennessee_s_ELVIS_Act_is_the_King_of_Artificial_Intelligence__Fowler.pdf",
+    "title": "Why Tennessee's ELVIS Act Is the King of Artificial Intelligence,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:51.910222Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2146be9641e49751",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.americanbar.org/groups/communications_law/resources/magazine/2024-summer/elvis-act-tennessee-shows-its-burning-love-recording-artists/",
+    "normalized_url": "https://americanbar.org/groups/communications_law/resources/magazine/2024-summer/elvis-act-tennessee-shows-its-burning-love-recording-artists",
+    "work_key": "https://americanbar.org/groups/communications_law/resources/magazine/2024-summer/elvis-act-tennessee-shows-its-burning-love-recording-artists",
+    "title": "With the ELVIS Act, Tennessee Shows Its Burning Love for,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:50.616130Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ac7f9fe919b1276a",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://iprmentlaw.com/2024/04/14/tennessees-elvis-act-protecting-the-voice-of-an-artist/",
+    "normalized_url": "https://iprmentlaw.com/2024/04/14/tennessees-elvis-act-protecting-the-voice-of-an-artist",
+    "work_key": "https://iprmentlaw.com/2024/04/14/tennessees-elvis-act-protecting-the-voice-of-an-artist",
+    "title": "Tennessee's Elvis Act: Protecting the voice of an Artist | IPRMENTLAW,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:51.550740Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "05ddd42fdd22875e",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.youtube.com/watch?v=4yNRe8lHufc",
+    "normalized_url": "https://youtube.com/watch?v=4yNRe8lHufc",
+    "work_key": "https://youtube.com/watch?v=4yNRe8lHufc",
+    "title": "Uso de inteligência artificial no setor cultural da dublagem - YouTube,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:55.153083Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fce5f836c523fbb0",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.satedrj.org.br/sindicato-repudia-globo-por-usar-ia-no-lugar-de-dubladores-em-documentario/",
+    "normalized_url": "https://satedrj.org.br/sindicato-repudia-globo-por-usar-ia-no-lugar-de-dubladores-em-documentario",
+    "work_key": "https://satedrj.org.br/sindicato-repudia-globo-por-usar-ia-no-lugar-de-dubladores-em-documentario",
+    "title": "Sindicato repudia Globo por usar IA no lugar de dubladores em,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:52.840186Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "84cf7987b5bb5b2a",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://diplomatique.org.br/inteligencia-artificial-generativa-para-quem/",
+    "normalized_url": "https://diplomatique.org.br/inteligencia-artificial-generativa-para-quem",
+    "work_key": "https://diplomatique.org.br/inteligencia-artificial-generativa-para-quem",
+    "title": "Inteligência Artificial Generativa para quem? - Le Monde Diplomatique,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:52.367228Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f58e147fa935486e",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://gqcanimes.com.br/dubladores-brasileiros-pedem-regulamentacao-para-uso-de-ia/",
+    "normalized_url": "https://gqcanimes.com.br/dubladores-brasileiros-pedem-regulamentacao-para-uso-de-ia",
+    "work_key": "https://gqcanimes.com.br/dubladores-brasileiros-pedem-regulamentacao-para-uso-de-ia",
+    "title": "Dubladores brasileiros pedem regulamentação para uso de IA,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:52.845325Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1dcee30b7b9ae204",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://diariodopara.com.br/noticias/ia-vai-substituir-dubladores-fim-da-profissao-pode-ser-inevitavel-entenda/",
+    "normalized_url": "https://diariodopara.com.br/noticias/ia-vai-substituir-dubladores-fim-da-profissao-pode-ser-inevitavel-entenda",
+    "work_key": "https://diariodopara.com.br/noticias/ia-vai-substituir-dubladores-fim-da-profissao-pode-ser-inevitavel-entenda",
+    "title": "IA vai substituir dubladores? Fim da profissão pode ser inevitável,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:53.280599Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "11d3753c958cd0bf",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/157233/pdf?_materia_WAR_atividadeportlet_utm_source=chatgpt.com",
+    "normalized_url": "https://congressonacional.leg.br/web/atividade/materias/-/materia/157233/pdf?_materia_WAR_atividadeportlet_utm_source=chatgpt.com",
+    "work_key": "https://congressonacional.leg.br/web/atividade/materias/-/materia/157233/pdf?_materia_WAR_atividadeportlet_utm_source=chatgpt.com",
+    "title": "Projeto de Lei n° 2338, de 2023 - Congresso Nacional,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:34:49.427858Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5f3e072377bda147",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "work_key": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "title": "apensados do PL 2338/2023 - Câmara dos Deputados,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:53.461948Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2ddcc05b33f7db1a",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "normalized_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "work_key": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "title": "PL 2338/2023 - Senado Federal,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:42:17.998389Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d50904ab9268760a",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara",
+    "title": "Senado aprova regulamentação da inteligência artificial; texto vai à,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:42:01.284037Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "76c8a7e45d361217",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.dataprivacybr.org/a-construcao-da-legislacao-de-inteligencia-artificial-no-brasil-analise-tecnica-do-texto-que-sera-votado-no-plenario-do-senado-federal/",
+    "normalized_url": "https://dataprivacybr.org/a-construcao-da-legislacao-de-inteligencia-artificial-no-brasil-analise-tecnica-do-texto-que-sera-votado-no-plenario-do-senado-federal",
+    "work_key": "https://dataprivacybr.org/a-construcao-da-legislacao-de-inteligencia-artificial-no-brasil-analise-tecnica-do-texto-que-sera-votado-no-plenario-do-senado-federal",
+    "title": "A construção da legislação de Inteligência Artificial no Brasil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:33:55.971048Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c102ab75f03f6682",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+    "normalized_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+    "work_key": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+    "title": "Projeto de Lei N° 2338/2023 - SENADO FEDERAL,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:35:51.495480Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e78e724fea229bf8",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://apublica.org/nota/ia-pl-2338-protege-direitos-autorais-mas-nao-os-trabalhistas/",
+    "normalized_url": "https://apublica.org/nota/ia-pl-2338-protege-direitos-autorais-mas-nao-os-trabalhistas",
+    "work_key": "https://apublica.org/nota/ia-pl-2338-protege-direitos-autorais-mas-nao-os-trabalhistas",
+    "title": "IA: PL 2.338 protege direitos autorais, mas não os trabalhistas,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:34:30.607409Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2b8b43b8a5f54e81",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://flawlessai.com/",
+    "normalized_url": "https://flawlessai.com",
+    "work_key": "https://flawlessai.com",
+    "title": "Flawless AI,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:34:29.964350Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c1f4cdfc95600424",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://quod.lib.umich.edu/j/jcms/images/12_64.1infocus-holliday.pdf",
+    "normalized_url": "https://quod.lib.umich.edu/j/jcms/images/12_64.1infocus-holliday.pdf",
+    "work_key": "https://quod.lib.umich.edu/j/jcms/images/12_64.1infocus-holliday.pdf",
+    "title": "Ghosts in the Celluloid: AI Video Dubbing and TrueSync,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:42:19.193695Z",
+    "error_message": "HTTP 403 em https://quod.lib.umich.edu/j/jcms/images/12_64.1infocus-holliday.pdf (PDF, sem fallback via playwright)",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d273a927c888476b",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://felixrunye.medium.com/the-invisible-magic-of-netflixs-neural-dubbing-how-ai-rewrites-actor-lips-96e5fc1df317",
+    "normalized_url": "https://felixrunye.medium.com/the-invisible-magic-of-netflixs-neural-dubbing-how-ai-rewrites-actor-lips-96e5fc1df317",
+    "work_key": "https://felixrunye.medium.com/the-invisible-magic-of-netflixs-neural-dubbing-how-ai-rewrites-actor-lips-96e5fc1df317",
+    "title": "The Invisible Magic of Netflix's Neural Dubbing: How AI Rewrites,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:34:30.430884Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "586c4bc75023321b",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.reddit.com/r/artificial/comments/10qwqfp/flawless_ai_lets_you_change_the_dialogue_on_a/",
+    "normalized_url": "https://reddit.com/r/artificial/comments/10qwqfp/flawless_ai_lets_you_change_the_dialogue_on_a",
+    "work_key": "https://reddit.com/r/artificial/comments/10qwqfp/flawless_ai_lets_you_change_the_dialogue_on_a",
+    "title": "Flawless AI lets you change the dialogue on a video and the lips,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:34:33.584047Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "286bd171eea53a56",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.ortmoragency.com/blog/ai-lip-sync",
+    "normalized_url": "https://ortmoragency.com/blog/ai-lip-sync",
+    "work_key": "https://ortmoragency.com/blog/ai-lip-sync",
+    "title": "How AI is Perfecting Lip Sync in Animation: The Future of Dialogue,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:34:31.832061Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+    "tool_name": "Gemini"
+  }
+]

@@ -1,0 +1,254 @@
+[referencia=626cc2a2b1099890 score=0.978]
+The E6/E7 proteins of high-risk HPVs have been found to enhance DNA integration into the host genome, plausibly due to enhanced chromosome rearrangements in high-risk HPV-infected cells, leading to mutation and/or deletion of both viral and host genes . Furthermore, high-risk HPVs’ E6/E7 proteins have the ability to modify DNA repair pathways. Indeed, high-risk HPVs, especially HPV16, have been implicated in vulvar cancer [14], uterine cervical cancer and its precancerous (CIN) lesions [15], anal [16], and oropharyngeal cancers [17]. Low-risk HPV infections (6 and 11), however, are rarely associated with cancer and can result in benign anogenital papillomas and skin warts. Although several types of HPV may contribute to RRP, current research suggests that the low-risk HPV types (HPV6 and 11) are the most common causative factors for the condition. However, RRP has been linked to high-risk HPV infection. Low-risk HPV11 E6/E7 proteins are just as important for the stable maintenance of episomes as high-risk E6 and E7 proteins, per a study by Stephen et al. In RRP-infected individuals, HPV DNA is usually episomal (HPV infects the basal cells and develops a prolonged infection) rather than fused or integrated with host DNA. Numerous microbial agents, such as G. vaginalis and Sneathia spp., have been shown in studies to potentially aid HPV-induced infection, invasion, and multiplication <sup>[5].</sup>
+
+**1.1 HPV Classification and High-Risk Types**
+
+HPVs are non-enveloped, double-stranded DNA viruses with a circular genome. They are broadly classified based on their risk for oncogenesis.
+
+**Table no. 1**
+
+---
+
+[referencia=626cc2a2b1099890 score=0.901]
+**1.1 HPV Classification and High-Risk Types**
+
+HPVs are non-enveloped, double-stranded DNA viruses with a circular genome. They are broadly classified based on their risk for oncogenesis.
+
+**Table no. 1**
+
+| **Classification** | **HPV Types** | **Associated Lesions** | **Oncogenic Risk** | 
+| **High-Risk (HR-HPV)** | 16, 18, 31, 33, 45, 52, 58 | Cervical, anal, vaginal, vulvar, penile, and oropharyngeal cancers. | High | 
+| **Low-Risk (LR-HPV)** | 6, 11, 40, 42, 43, 44 | Genital warts (condyloma acuminata), Recurrent Respiratory Papillomatosis (RRP). | Low | 
+
+HR-HPV types, particularly HPV-16 and HPV-18, account for over 70% of all cervical cancer cases.
+
+The main risk factor for adults is increased sexual activity with multiple partners. Approximately 0.7% of mothers who have HPV genital warts infect their babies. Up to 80% of newborns born to mothers with genital HPV have HPV DNA. There are three types of vertical HPV transmission: perinatal (during or immediately following birth), prenatal (during pregnancy), and periconceptional (around the time of conception). In adults, the main risk factor is increased sexual activity with multiple partners. About 0.7% of mothers with HPV genital warts pass the disease to their infants. HPV DNA is detected in up to 80% of the neonates born to mothers with genital HPV . The vertical transmission of HPV can be categorized into periconceptional (around the time of conception), prenatal (pregnancy), and perinatal (birth or immediately after that). It is known that juvenile-onset RRP is acquired during delivery by vertical transmission, either through the birth canal or through infected placenta and amniotic fluid, from the mother's anogenital site to the child's respiratory tract . Children born to mothers with active HPV infection had a significant risk (231 times higher) of juvenile RRP than children born to mothers without the virus, according to a study by Venkatesan and colleagues [6].
+
+**Fig. 1.3 Sexually transmitted infection -MAPEH G8**
+
+---
+
+[referencia=626cc2a2b1099890 score=0.793]
+**Fig. 1.2 Carcinoma of Cervix Stock Vector**
+
+Human papillomaviruses (HPVs) are the cause of RRP. The Papillomaviridae family includes the non-enveloped, double-stranded circular DNA virus known as HPV. Together with the early and late harbor regions, which code for proteins involved in transcription, replication, and immunological resistance, the HPV genome also includes the non-coding upstream regulatory region (URR) . The structural proteins L1–L2 are encoded by the late (L) region, which also contributes to virus assembly. Conversely, the early proteins E5, E6, and E7 change the molecular mechanisms of HPV-infected cells and function as oncogenes. To date, over 200 distinct HPV types have been identified based on their genomes, and they are classified as low- and high-risk viruses. According to reports, at least 17 high-risk types—including HPVs 16, 18, 31, 33, 35, 39, 45, 51, 52, 55, 56, 58, 59, 68, 73, 82, and 83—co-occur with other oncogenes to contribute to the onset and progression of cancers <sup>[4]</sup>
+
+---
+
+[referencia=d96e30d04596333b score=0.777]
+#### Cervarix®
+
+Cervarix®, marketed by GlaxoSmithKline in 2010, is a bivalent vaccine that contains HPV-16/18 VLPs (Table 1) [17]. These two genotypes are the most oncogenic types of HPV, accounting for approximately 70% of CxCas and nearly 90% of anal cancers [36, 37]. This recombinant vaccine is produced in baculovirus (insect) cells and includes an adjuvant system, known as AS04, which consists of aluminum hydroxide and 3-O-desacyl-4’ monophosphoryl lipid A (MPL). MPL is a detoxified derivative of lipopolysaccharide (LPS) derived from the Gram-negative *Salmonella minnesota* R595 strain [38, 39].
+
+#### Gardasil®
+
+Gardasil®, also known as Silgard®, is a quadrivalent vaccine marketed by Merck Sharp & Dohme that contains VLPs of HPV-6/11/16/18 (Table 1) [17]. Compared with Cervarix®, the additional genotypes in Gardasil® are responsible for approximately 90% of genital warts [4, 16]. Approved in 2006, Gardasil® is produced using *Saccharomyces cerevisiae* as the recombinant expression system, and it contains an adjuvant composed of 225 µg of amorphous aluminum hydroxyphosphate sulfate [38]. Studies have shown that Gardasil® significantly reduces HPV infection in the anus, vulva, penis, and even the oral cavity [40].
+
+#### Gardasil®9
+
+Gardasil®9 is a VLP-based nonavalent vaccine developed by Merck Sharp & Dohme, containing HPV-6/11/16/18/31/33/45/52/58. The additional genotypes included in Gardasil®9 account for another 20% of CxCa cases, indicating the vaccine’s potential to prevent nearly 90% of CxCa occurrence [41]. It was approved in 2014 for both females and males (Table 1) [32, 42].
+
+---
+
+[referencia=d96e30d04596333b score=0.763]
+### HPV diversity
+
+HPVs are categorized into five main phylogenetic genera (α, β, γ, μ, and ν) according to the nucleotide sequence of the open reading frame (ORF) encoding the L1 protein. HPVs from different genera present less than 60% similarity in the L1 gene. In a genus, HPVs are grouped into species with 60 to 70% similarity. The International Human Papillomavirus Reference Center has identified 52 species and 228 subtypes of HPV, although only a limited number of these viruses are associated with health issues. Certain types of HPV can result in conditions such as genital warts, while others may lead to cancers of the cervix, vulva, vagina, oropharynx, or anus [15]. To date, more than 200 HPV genotypes have been identified and classified into three groups based on their carcinogenic potency: high-risk (HR-HPV), potentially high-risk (pHR-HPV), and low-risk (LR-HPV). Fourteen types (HPV-16/18/31/33/35/39/45/51/52/56/58/59/66/68) are recognized as HR-HPVs for CxCa with varying probabilities of risk occurrence. LR-HPVs (HPV-6/11/40/42/43/44) are considered noncarcinogenic but can cause anogenital warts, such as condyloma acuminatum [4, 16]. Notably, HPV-16 and −18 are the most common carcinogenic HR-HPVs and are involved in approximately 50 and 20% of CXCas, respectively [17]. Moreover, five α‒papillomaviruses (53/66/70/73/82) are recognized as pHR-HPVs due to limited data regarding their carcinogenicity [18].
+
+---
+
+[referencia=626cc2a2b1099890 score=0.504]
+**3. Prevention, Diagnosis and Treatment of Cervical Cancer** 
+
+**3.1 Prevention:**
+
+In recent years, HPV vaccines have emerged as a global re- search hotspot, with researchers worldwide dedicating efforts to develop efficient, attenuated, and cost-effective vaccines that cater to the diverse needs of different economic regions, thereby effectively preventing and treating HPV-induced CC. Vaccines are categorized into preventive and therapeutic based on their immunological functions (Oliver et al., 2017; Lei et al., 2020; Mix et al., 2021), and preventive HPV vaccines offer a broader range of applications compared to therapeutic vaccines.
+
+Preventive vaccines are primarily administered to individuals to prevent HPV infection and its associated diseases . Currently, preventive vaccines mainly target the HPV cap- sid protein L1 antigen. Studies have shown that vaccines based on VLPs, constructed by expressing the virus capsid protein L1 in monkey kidney cells, induce specific immune responses in mice. Animal infection models with bovine papillomavirus and cotton tail rabbit papillomavirus have confirmed the effectiveness of L1 VLP-based preventive vaccines, driving the development of HPV preventive vaccines based on L1-VLPs. <sup>[21]</sup>
+
+Six vaccines are currently on the market globally: HPV16/18 bivalent vaccines (GlaxoSmithKline Cervarix®, Xiamen Wantai Xincaning®, and Yuxi Zerun Wozehui®), HPV6/11/16/18 quadri- valent vaccines (Merck Gardasil® and Indian Serum Institute Cervavac®), and HPV6/11/16/18/31/33/45/52/58 nonavalent vaccines (Merck Gardasil®9), all utilizing HPV L1 VLPs as anti- gens. They effectively prevent infection by common oncogenic HPV types, estimated to prevent up to 90% of HPV-related cancers. In 2021, a new alum-adjuvanted bivalent vaccine protect- ing against HPV16 and HPV18 was licensed to further improve global supply and demand for HPV vaccines (Zou et al., 2020). Additionally, efforts are underway to develop next-generation vaccines based on the virus's minor structural protein L2, potentially preventing a broader range of HPV types.
+
+---
+
+[referencia=d96e30d04596333b score=0.447]
+|  | Vaccine name | Company | Type and amount of L1 VLP | Year approved/ approving authority | Adjuvant | Expression system | Vaccination schedule [28]* | Reference | 
+|---|---|---|---|---|---|---|---|---|
+| 1 | Cervarix® | GlaxoSmithKline (GSK) | 20 µg HPV-16, 20 µg HPV-18 | 2009/ US-FDA | AS 04: 500 µg aluminum hydroxide and 50 µg 3-O-desacyl-4’ monophosphoryl lipid A (MPL) | Baculovirus (insect) cells | 9–14 years: 2 doses with a minimum of 5-month interval 15 years and above: 3 doses administered at 0, 1–2, 6 months | [29] | 
+| 2 | Gardasil® | Merck Sharp & Dohme (MSD) | 20 µg HPV-6, 40 µg HPV-11, 40 µg HPV-16, 20 µg HPV-18 | 2006/ US-FDA | 225 µg amorphous aluminum hydroxy phosphate sulfate | *Saccharomyces cerevisiae* | 9–13 years: 2 doses with a minimum of 5-month interval 14 years and above: 3 doses administered at 0, 1–2, 6 months | [30] | 
+| 3 | Gardasil®9 | Merck Sharp & Dohme (MSD) | 30 µg HPV-6, 40 µg HPV-11, 60 µg HPV-16, 40 µg HPV-18, 20 µg HPV-31, 20 µg HPV-33, 20 µg HPV-45, 20 µg HPV-52, 20 µg HPV-58 | 2014/ US-FDA | 500 µg amorphous aluminum hydroxy phosphate sulfate | *S. cerevisiae* | 9–14 years: 2 doses with a minimum of 5-month interval 15 years and above: 3 doses administered at 0, 1–2, 4–6 months | [31] |
+
+---
+
+[referencia=626cc2a2b1099890 score=0.266]
+NGS technology is moving into clinical research for HPV detection due to its ability to comprehensively type the virus and detect novel or rare variants <sup>[20]</sup>.
+
+**Table no.7**
+
+| **Method** | **Principle** | **Clinical Relevance** | 
+| **Targeted NGS** | Amplifies a broad set of text HPVgenes (e.g.L1 or E6/E7) using consensus primers, followed by deep sequencing. | **High-Resolution Genotyping:** Can identify every HPV type present in a multiple infection and detect sublineages associated with higher cancer risk. | 
+| **Whole-Genome Sequencing (WGS)** | Sequences the entire viral and host genome. | **Integration Analysis:** Provides definitive data on the precise integration sites of the HPV genome into the host cell DNA, a critical event in cancer progression. | 
+| **Liquid Biopsy (cfDNA NGS)** | Sequencing of circulating cell-free DNA (cfDNA) in plasma, especially for HPV associated cancers like oropharyngeal cancer. | **Non-invasive Monitoring:** Highly sensitive for detecting residual disease or recurrence by tracking cfHPV-DNA  levels after treatment. | 
+
+**2.4.2 Comparison of Key Clinical HPV Assays**
+
+**Table no.8**
+
+| **Assay Type** | **Target** | **End Point/Result** | **Clinical Application** | 
+| **Hybrid Capture 2 (HC2)** | HR-HPV DNA (13 types) | Pooled HR status (Positive/Negative) | Triage of ASCUS cytology, Co-testing | 
+| **Real-Time PCR (e.g., cobas)** | HR-HPV DNA (14 types) | HPV 16/18 Genotyping + Pool HR status | **Primary Screening** , Co-testing | 
+| **APTIMA (TMA)** | HR-HPV E6/E7 mRNA (14 types) | E6/E7 mRNA status | Triage and follow-up (high specificity for CIN2+) | 
+| **p16 IHC** | P16INK4a Protein | Strong, diffuse nuclear and cytoplasmic staining | Histological confirmation/triage of biopsy-proven lesions | 
+
+**3. Prevention, Diagnosis and Treatment of Cervical Cancer** 
+
+**3.1 Prevention:**
+
+---
+
+[referencia=d96e30d04596333b score=0.221]
+| 36 | HPV16L2-N200 (first 200 aa of L2) HPV16L2-N88 as fused or mixed with Tat-protein transduction domain (PTD) as a CPP | Freund's adjuvant | HPV16-L2 | *E. coli* | In vivo (mice) | Increased titer of anti-HPV16L2 total antibodies and neutralizing antibodies for HPV16 and other HR-HPVs (HPV16, 18, 31, 45, and 58) following vaccination with fused PTD-L2-N200 | 2016 | [141] | 
+
+HPV: Human papillomavirus; HR-HPV: high-risk HPV; LR-HPV: low-risk HPV; CPP: cell-penetrating peptide; MPL: Monophosphoryl Lipid A; nAbs: neutralizing antibodies; PBNA: pseudovirion-based neutralization assay; PsVs: Pseudovirions
+
+#### Table 5.
+
+| Vaccine | Class | Phase | Title of trial | Target disease/ HPV type | Administration route | Outcome measures | NCT | Sponsor | Status | 
+|---|---|---|---|---|---|---|---|---|---|
+| Adeno-associated VLPs (AAVLP) | VLP-based vaccine | I | A study of safety, tolerability, and immunogenicity of HPV-L2 vaccine in healthy adult male and female subjects | Antibodies against HPV-6/11/16/18 | Intramuscular (IM) | 1. Percentage of local/ general symptoms 2. Percentage of adverse events 3. Vital signs | NCT03929172 | 2A Pharma AB | Completed/ Last updated in 2020 |
+
+---
+
+[referencia=626cc2a2b1099890 score=0.216]
+**Fig. 1.8 HPV Lifecycle and CC Progression**
+
+CC progression and the HPV life cycle. The HPV life cycle starts when the virus infects basal epithelial cells, where it replicates at a low level. The viral oncogenes are progressively expressed as the cells differentiate, which causes the host cells to proliferate uncontrollably. Following this, the virus collects and emerges from differentiated epithelial cells. CIN, which can range from mild abnormalities (CIN1) to severe abnormalities (CIN3), can be caused by a chronic HR-HPV infection. This may eventually progress to invasive CC if treatment or reversal is delayed [15]
+
+**2. METHODOLOGY**
+
+**2.1: Introduction and The Role of Cytology**
+
+Human Papillomavirus (HPV) infection is the primary cause of cervical cancer and is implicated in other anogenital and oropharyngeal cancers. The clinical utility of HPV detection methods lies in primary screening, triage of women with abnormal cytology, and monitoring after treatment. Given that persistent infection with high-risk (HR) HPV types (e.g., HPV 16, 18, 31, 33, 45, etc.) is the prerequisite for cancer development, most current assays are focused on detecting the nucleic acid (DNA or mRNA) of these carcinogenic types.
+
+The Papanicolaou (Pap) smear, or cytology, is not a direct HPV detection method but is the traditional cornerstone of cervical cancer screening. It identifies the cytopathic effects of the virus on cervical epithelial cells.
+
+**Table no.4**
+
+| **Principle** | **Procedure** | **Key Findings (Morphology)** | 
+| **Cellular Morphology** | Cells collected from the cervix are stained (Papanicolaou stain) and examined microscopically by a cytopathologist. | **Koilocytes:** The morphological hallmark of HPV infection. These are squamous epithelial cells with enlarged, hyperchromatic, and often wrinkled nuclei, surrounded by a distinct perinuclear clear halo (vacuole). | 
+| **Purpose** | Detects abnormal cell changes (dysplasia or precancerous lesions, classified by the Bethesda System: ASCUS, LSIL, HSIL). | Abnormal cells suggest the presence of a persistent, high-grade lesion, which is almost always driven by HR-HPV. |
+
+---
+
+[referencia=d96e30d04596333b score=0.213]
+|  | Vaccine platform | Used adjuvant | Employed antigens | Expression system | Type of study | Type of immune response | Year | Reference | 
+|---|---|---|---|---|---|---|---|---|
+| 1 | HPV-16 L1 VLP | Alum-MPL | RG1 epitope (HPV-16 L2 aa 17–36 | Insect cells | In vitro (rabbit) | Passive transfer of sera-protected mice against PsVs of HPV-16/18/45/31/33/52/58/35/39/51/59/68/56/73/26/53/66/34 and LR-HPV-6/43/44 nAbs against HR-HPV- 16/18/45/37/33/52/58/35/39/51/59/68/73/26/69/34/70, LR-HPV-6/11/32/40, and cutaneous HPV-2/27/3/76 in PBNA | 2013 | [108] | 
+| 2 | HPV-16 L1 VLP | Alum/MPL | RG1 epitope | Sf9 insect cells | In mice (RG1-VLP + HPV-18 L1-VLP) In rabbits | Cross-protection against vaginal challenge with HR-HPV-58 Cross-neutralization titers (50–1000) against HR-HPV-18/31/33/45/52/58/26/70 | 2019 | [109] | 
+| 3 | HPV-16 L1 VLP | Alum-MPL | HPV-31 L2 (aa.17–38) | Bac-to-Bac baculovirus | In vivo (mice) | Cross-nAbs against HPV-2/5/6/11/16/18/27/31/33/35/39/52/57/58/59/68 | 2018 | [110] |
+
+---
+
+[referencia=d96e30d04596333b score=0.208]
+## Introduction
+
+Cervical cancer (CxCa) ranked as the fourth most common cancer among women worldwide, with 661,021 newly diagnosed cases reported in 2022 [1]. It is a leading cause of cancer-related mortality in women, causing nearly 350,000 deaths globally in the same year [2]. Furthermore, CxCa is a significant contributor to maternal orphanhood, accounting for approximately 20% of cases worldwide, which leads to substantial social and economic implications that must be addressed [3]. Therefore, the control and elimination of CxCa is a public health priority.
+
+Carcinogenic human papillomavirus (HPV) types are identified as the principal risk factor for CxCa in over 99% of cases. HPV Infections are more prevalent than any other sexually transmitted infection globally [4]. Additionally, CxCa shows a significant correlation with HIV infection, with studies showing that HIV infection contributes to a nearly six-fold increase in the incidence of CxCa. The highest incidence and approximately 94% of deaths due to CxCa occur in low- to middle-income countries, particularly sub-Saharan Africa, Southeast Asia, and Central America [5], where access to HPV vaccination and screening programs is inadequate. This situation highlights crucial disparities in socioeconomic factors that influence healthcare standards [2], especially since no specific genetic predisposition for CxCa has been documented [6].
+
+The significant relationship between CxCa and persistent infection with HPV has fostered optimism regarding the potential impact of HPV vaccination on reducing the CxCa burden. Vaccination efforts can focus either on prevention or treatment. Currently, all marketed HPV vaccines are prophylactic, although research into therapeutic vaccines is ongoing.
+
+Prophylactic vaccines are designed to generate immune protection by producing neutralizing antibodies (nAbs), primarily of the IgG type, while therapeutic vaccination aims to induce cell-mediated immunity, specifically targeting CD8<sup>+</sup> T cells against HPV [7]. Since the introduction of Gardasil®, the first approved HPV vaccine in 2006, prophylactic HPV vaccines have effectively prevented HPV infections and significantly reduced the burden of CxCa in some countries [8]. Current prophylactic HPV vaccines are based on virus-like particles (VLPs) [9], which primarily prevent HPV invasion by stimulating humoral immunity and generating nAbs that target the main HPV capsid protein, L1 [10].
+
+---
+
+[referencia=d96e30d04596333b score=0.182]
+| 23 | *Pyrococcus furiosus* thioredoxin (trivalent-PfTrx) | Aluminum hydroxide- MPL | L2 aa 20–38 of HPV-16, HPV-31, and HPV-51 | *Trichoplusia ni* (TN) High Five cells | In vitro (mice and guinea pigs) In vivo | Cross-nAbs against HPV-16/18/31/33/35/39/45/51//52/58/5968 Cross-protection against vaginal challenge with HPV-16/18/31/33/51 | 2015 | [129] | 
+| 24 | *Pf* Trx–8-mer–OVX313 | Alum-MPL or glycopyranosyl lipid A or Army liposome formulation-alum | L2 aa 20–31 of HPV-6/16/18/31/33/3551/59 fused to PfTrx and OVX313 | *E. coli* BL21 cells | In vitro (mice and guinea pigs) In vivo | Cross-nAbs in PBNA test against HPV-6/11/16/18/31/33/35/39/45/51/52/56/58/59/68/73 Passive transfer of sera-protected mice against HPV-6/11/16/18/31/33/35/39/45/56/58 | 2018 | [130] [131] | 
+| 25 | *P. furiosus* thioredoxin fused to ferritin nanoparticles (Pf FeTrx8mer) | AddaVax | HPV-16 L2 aa 20–38 of HPV-6/16/18/31/33/35/51/59 | Baculovirus-infected insect cells | In vitro In vivo | nAbs titers against HPV-6/11/16/18/31/33/35/39/45/51/52/56/58/59/68/73 Passive transfer of sera-protected mice against HPV-6/11/16/18/33/35/39/45/51/56 | 2020 | [132] |
+
+---
+
+[referencia=d96e30d04596333b score=0.176]
+| 18 | Qβ bacteriophage VLP PP7 bacteriophage VLP | Incomplete Freund’s adjuvant | HPV-16 L2 aa 34–52 aa 49–72 aa 108–120 aa 65–85 Consensus HPV-16 and −18 L2 aa 65–85 HPV-16 L2 aa 17–31 aa 51–65 aa 35–50 | C41 *E. coli* (Lucigen) | In vitro In vivo *(mice)* | Protection against PsVs; Poor protection against HPV-16 Moderate protection against HPV-16 Strong protection against HPV-16 (in vivo) HPV-6/18/31/45/58 (in vivo) Strong protection against HPV-16 HPV-16 and −18 (in vivo) HPV-16/18/31/45/58(in vitro) Strong protection against HPV-16 Moderate protection against HPV-16 Poor protection against HPV-16 | 2014 | [124] | 
+| 19 | Adeno-associated virus 2 VLP | Montanide ISA 51 | HPV-16 and HPV-31 L2 aa 17–36 | HEK 293T cells | In vitro and in vivo | nAbs against HPV-16/18/31/45/52/58 PsVs in mice and rabbits Passive transfer of sera-protected mice against vaginal challenge with HPV-16 PsVs | 2012 | [125] | 
+| 20 | Adenovirus type 5 VLP | Alum and MPL | HPV-16 L2 aa 12–41 | HEK 293T cells | In vitro and in vivo | Protection against vaginal challenge with HPV-16 nAbs against HPV-16/73 | 2015 | [126] | 
+| 21 | Adenovirus type 35 VLP | - | L2 RG1 epitope from HPV-6/11/16/18/31/33/45/52/58 | PER C6 cells | In vitro | nAbs against HPV-16/18/31/59 | 2018 | [127] | 
+| 22 | Hepatitis B core (HBc) VLP | Alum | aa 14–122 of HPV-16 L2 | *Nicotiana benthamiana* | In vitro | nAbs against HPV-16 | 2019 | [128] |
+
+---
+
+[referencia=d96e30d04596333b score=0.175]
+## Conclusion and perspectives
+
+Given the confirmed role of HPV in CxCa, immunization against HPV is recommended as a key preventive strategy. While the effectiveness of current prophylactic L1-based VLP vaccines against HPV has been demonstrated over nearly two decades, there is still a demand for novel vaccines with broader coverage, improved affordability, and easier transportation and storage conditions. Therefore, research on other platforms is ongoing, primarily summarized in this review. Though the vast volume of studies on HPV prophylactic vaccines over many years is a barrier to mentioning all the published works, we tried to cover the main approaches and steps undertaken to date.
+
+Since the success of marketed vaccines has raised expectations for newcomers, no other studied approach has outperformed in clinical trials yet. In parallel with research on alternative vaccine platforms, the production of more affordable L1 VLP vaccines in countries such as China and India—specifically Cecolin®, Walrinvax®, and Cervavac®—is actively addressing issues related to supply and affordability. WHO has already prequalified Cecolin® and Walrinvax®. The recombinant production of Cecolin®, a vaccine with comparable efficacy to Cervarix®, in the *E. coli* host represents significant progress in HPV vaccine production. However, similar to previous L1 protein-based vaccines, it provides limited cross-protection against different HPV types and requires cold-chain maintenance. Overall, the recent biosimilar HPV vaccines produced in China and India have characteristics nearly identical to the original products regarding dosage, route of administration, and storage conditions. Their primary advantage lies in their lower prices, which can significantly enhance HPV vaccination rates by reducing financial barriers, especially in developing countries. While these biosimilars are beneficial, developing alternative novel vaccine platforms and formulations may offer a more comprehensive solution in the long run.
+
+Vaccines containing L2 peptides seem promising candidates due to their broader coverage across different virus types and easier and lower-cost production. However, their linear structure results in decreased immunogenicity, highlighting the role of adjuvants or carrier systems in vaccine formulations. Despite extensive research on L2-based vaccines at preclinical stages (Table 3), only one vaccine containing AAVLPs has progressed to clinical trials (Table 4).
+
+---
+
+[referencia=d96e30d04596333b score=0.168]
+#### VLP-based second-generation HPV vaccines
+
+VLPs generated from the capsids of different viruses can be used as carriers to present L2 epitopes [142].
+
+##### Papillomavirus VLPs
+
+Using L2 epitopes on L1 VLPs as scaffolds is a promising approach for achieving broader efficacy against diverse HPV types. Numerous studies have focused on this strategy [83, 99, 115, 116].
+
+Inserting aa 17–36 of HPV-16 L2 (a frequently reported epitope on L2, also called the RG1 epitope) into the DE-surface loop of the HPV-16-VLP resulted in developing a potent chimeric HPV vaccine. Schellenbacher and colleagues reported that RG1-VLP vaccination with alum-MPL (aluminum hydroxide plus 3-O-desacyl-4′-monophosphoryl lipid A) elicited robust immune responses against L2 and provided protection against multiple types of cutaneous and mucosal HPV infections. They observed protection against mucosal HR-HPV types 16/18/45/37/33/52/58/35/39/51/59/68/73/26/69/34/70, LR-HPV types 6/11/32/40, and cutaneous HPV types 2/3/27/76 in a pseudovirion-based neutralization assay (PBNA). Furthermore, nAbs against mucosal HR-HPV-16/18/45/31/33/52/58/35/39/51/59/68/56/73/26/53/66/34 and LR-HPVs 6/43/44 were induced in rabbits and mice. Furthermore, the vaccine also stimulated robust cytotoxic T-cell responses with protection lasting one year. RG1-VLPs were produced under Current Good Manufacturing Practice (CGMP) to initiate a Phase 1 clinical trial, as noted in their 2013 publication [108]. However, no further updates regarding this project have been reported. Notably, chimeric VLPs displaying L2 epitopes can be generated with minor modifications to the existing approved HPV vaccines [106].
+
+---
+
+[referencia=d96e30d04596333b score=0.156]
+| 9 | HPV-18 L1 VLP | Alum-MPL | HPV-45 L2 (aa 16–35) | Sf9 insect cells | In vitro In vivo (rabbits) | nAbs against HPV-18/39/45/68/70 Passive transfer of sera-protected vaginal challenge of mice with PsVs of HPV-18/39/45/68 | 2015 | [116] | 
+| 10 | HPV-16 L1 HPV-5 L1 HPV-1 L1 HPV-16/18 L1 | Alum-MPL | HPV-17 L2 RG1 HPV-17 L2 RG1 HPV-4 L2 RG1 HPV-5 L2 aa53-72 | *Spodoptera frugiperda* (Sf9) insect cell | In vitro | PsVs neutralized in L2-based PBNA: HPV-5/8/20/23/24/36/49/80 HPV-20/24/36/92 HPV-4 No nAb in L2-based PBNA | 2017 | [82] | 
+| 11 | HPV-16 L1 VLP | - | HPV-16 L2 aa 108–120 aa 65–81 aa 56–81 aa 17–36 | *Agrobacterium tumefaciens* | In vitro | PsVs neutralized in PBNA: HPV-16/58 HPV-11/16/18 HPV-18 No nAb | 2019 | [117] | 
+| 12 | MS2 bacteriophage VLP | Incomplete Freund’s adjuvant | HPV-16 L2 aa 17–31 aa 20–29 aa 14–40 aa 14–65 | C41 cells (Lucigen) | In vivo (mice) | Protection from vaginal challenge against HPV-5/6/16/31/33/35/39/45/51/53/58 Not tested Not tested Not tested | 2012 | [118] |
+
+---
+
+[referencia=d96e30d04596333b score=0.147]
+| 4 | HPV-16 L1 VLP | Freund adjuvant | HPV-16 L2 aa108-120 aa 56–81 aa 17–36 BPV-1 L2 aa 1–88 | Insect cells | In vitro In vivo (mice) | Most vaccinated mice could neutralize HPV-16 PsVs nAbs against HPV-16 nAbs against HPV-16 No nAbs | 2013 | [111] | 
+| 5 | HPV-16 L1 VLP | Alum-MPL | HPV-58 L2 aa.16–37 | Baculovirus | In vivo (rabbits and mice) | nAbs against HPV-2/5/6/11/16/18/27/31/33/35/39/45/52/57/58/59/68 | 2017 | [112] | 
+| 6 | HPV-16 L1 VLP | Alum with BECC470 (Bacterial enzymatic combinatorial chemistry) | HPV-16-L2 17–36 a.a. (RG1 epitope) | *Yersinia pestis* | In vitro and in vivo | nAbs against HPV-16/18/39 | 2021 | [113] | 
+| 7 | HPV-16 L1 VLP | - | HPV-16 L2 | *Pichia pastoris* | In vitro | Positive reaction against L1-HPV-16 antibody and L2 -HPV-16 antibody | 2018 | [114] | 
+| 8 | HPV-18 L1 VLP | AS04 | HPV-16 L1, HPV-18 L1, and recombinant L2 fragment consisting of HPV-33 and HPV-58 (HPV-33 L2 (aa 17–36) + HPV-58 L2 (aa 56–75)) | pAcSG2 baculovirus | In vivo (mouse and rabbit) | Protection against HPV-6/11/16/31/35/39/45/58/59 PsVs or quasivirions | 2016 | [115] |
+
+---
+
+[referencia=626cc2a2b1099890 score=0.136]
+**Clinical Relevance:** While in vitro data is strong, clinical translation is challenging due to low bioavailability, making these compounds better suited for high-grade pre-cancers (CIN 2/3) or as adjunct therapies [12] .
+
+**1.3.7 The Global Burden of Cervical Cancer and the HPV Link**
+
+Cervical cancer remains a significant global health challenge, particularly in developing countries. It is the fourth most common cancer in women worldwide, with an estimated 604,000 new cases and 342,000 deaths annually. The vast majority of cervical cancer cases (over 99%) are caused by persistent infection with high-risk human papillomaviruses (HPVs). Among these, HPV types 16 and
+
+18 are responsible for approximately 70% of all cervical cancers.The journey from HPV infection to cervical cancer is a multi-step process. Initial HPV infection often clears spontaneously. However, in a subset of women, the infection persists, leading to precancerous lesions and, if left untreated, invasive cervical cancer. Understanding this progression has been crucial in developing preventive and therapeutic strategies.
+
+**Fig.1.5 Global Burden of Cervical Cancer**
+
+**1.3.8 The Role of HPV Oncogenes E6 and E7 in Carcinogenesis**
+
+The high-risk HPV types encode two key oncoproteins, E6 and E7, which are central to the development and progression of cervical cancer. These proteins manipulate cellular pathways to promote uncontrolled cell growth and evade immune surveillance.
+
+The E6 oncoprotein primarily targets and degrades the tumor suppressor protein p53. p53 is a critical guardian of the genome, initiating cell cycle arrest or apoptosis in response to DNA damage. By degrading p53, E6 allows cells with damaged DNA to continue proliferating, accumulating mutations that can drive cancerous transformation.
+
+The E7 oncoprotein primarily binds to and inactivates the retinoblastoma tumor suppressor protein (pRb). pRb is a crucial regulator of the cell cycle, preventing cells from entering the S-phase (DNA replication) until conditions are favorable. By inactivating pRb, E7 disrupts cell cycle control, leading to uncontrolled cell division. Additionally, E7 can interfere with other cellular pathways involved in DNA repair and immune responses.
+
+---
+
+[referencia=d96e30d04596333b score=0.124]
+##### Table 3.
+
+|  | Vaccine | Company | Type of included HPV VLP | Clinical phase | Expression system | Reference | 
+|---|---|---|---|---|---|---|
+| 1 | Bivalent vaccine | Xiamen Innovax Biotech | HPV-16/11 | II | *Escherichia coli* | [88] | 
+| 2 | Quadrivalent vaccine | Shanghai Bovax Biotechnology | HPV-6/11/16/18 | III | *Hansenula polymorpha* | [89] | 
+| 3 | Nonavalent vaccine | Shanghai Bovax Biotechnology | HPV-6/11/16/18/31/33/45/52/58 | III | *H. polymorpha* | [89] | 
+| 4 | Nonavalent vaccine | Xiamen Innovax Biotech | HPV-6/11/16/18/31/33/45/52/58 | III | *E. coli* | [90] | 
+| 5 | 11-valent vaccine | National Vaccine and Serum Institute, China | HPV-6/11/16/18/31/33/45/52/58/59/68 | III | *H. polymorpha* | [87] | 
+| 6 | EG-HPV | Eyegene Inc., Korea | HPV-16/18 | I | Yeast | [91] | 
+
+Furthermore, several alternative approaches have demonstrated significant efficacy in preclinical phases. For instance, bacterial vectors, specifically, live attenuated *Shigella*, have been employed to deliver HPV-16/58 L1 proteins [92]. Additionally, L1 capsomers (particularly HPV-16) have shown promise. As subunits of capsids, capsomers are more cost-effective and can be more easily replicated in recombinant bacteria, such as *E. coli* [93, 94]. Their thermostability may address the challenges associated with the preservation of VLPs [95].

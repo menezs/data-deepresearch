@@ -1,0 +1,86 @@
+[referencia=91c77f152b720726 score=0.994]
+PURPOSE: Weight reduction is recommended in all overweight and obese patients 
+with obstructive sleep apnea (OSA). Glucagon-like peptide-1 (GLP-1) receptor 
+agonists-based therapies have demonstrated clinical benefits in reducing weight 
+and could potentially improve OSA outcomes. We aim to analyze the efficacy and 
+safety of GLP-1 receptor agonists-based therapies in patients with 
+moderate-to-severe OSA.
+METHODS: We conducted a systematic review and meta-analysis of randomized 
+controlled trials (RCTs) that compared GLP-1 receptor agonists-based therapies 
+versus control in adults with moderate-to-severe OSA. We systematically searched 
+electronic databases and registries up to February 10, 2025. Outcomes assessed 
+included apnea-hypopnea index (AHI), body weight, oxygen desaturation index 
+(ODI), minimum oxygen saturation, systolic blood pressure (SBP), diastolic blood 
+pressure (DBP), and adverse events.
+RESULTS: A total of 6 RCTs involving 1,069 participants were included, four 
+evaluating liraglutide and two tirzepatide. Compared with control, GLP-1 
+receptor agonist-based therapies reduced AHI by - 9.99 events/hour (95% 
+CI, - 16.47 to - 3.50; p < 0.01; I2 = 87%) and body weight by - 9.68 kg (95% 
+CI, - 15.84 to - 3.51; p < 0.01; I2 = 98%). These therapies also reduced SBP by 
+-4.77 mmHg (95% CI, -7.04 to -2.51; p < 0.01), and DBP by -1.41 mmHg (95% CI, 
+-2.71 to -0.11; p = 0.03). No significant differences were observed in ODI or 
+minimum oxygen saturation. GLP-1 receptor agonists-based therapies did not 
+increase the risk of adverse events.
+CONCLUSION: GLP-1 receptor agonist-based therapies reduced AHI and body weight
+
+---
+
+[referencia=91c77f152b720726 score=0.909]
+ 
+minimum oxygen saturation. GLP-1 receptor agonists-based therapies did not 
+increase the risk of adverse events.
+CONCLUSION: GLP-1 receptor agonist-based therapies reduced AHI and body weight 
+in the populations studied. Substantial heterogeneity limits interpretation of 
+the pooled effect magnitude. These findings support their potential role within 
+comprehensive OSA management but do not establish them as substitutes for CPAP.
+REGISTRY: International Prospective Register of Systematic Reviews; No.: 
+CRD42024564018; URL: https://www.crd.york.ac.uk/prospero/ .
+
+© 2026. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s11325-026-03826-5
+PMID: 42837024 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethical approval: This systematic 
+review and meta-analysis did not require ethical approval as it utilized 
+publicly available data from previously published studies. Disclosure of 
+potential conflicts of interest: Nothing to declare. Conflict of interest: All 
+authors certify that they have no affiliations with or involvement in any 
+organization or entity with any financial interest (such as honoraria; 
+educational grants; participation in speakers’ bureaus; membership, employment, 
+consultancies, stock ownership, or other equity interest; and expert testimony 
+or patent-licensing arrangements), or non-financial interest (such as personal 
+or professional relationships, affiliations, knowledge or beliefs) in the 
+subject matter or materials discussed in this manuscript. Conference 
+presentation: The abstract of preliminary results of this study was presented as 
+a poster presentation at the 2025 International Conference and Annual Meeting of 
+The American Thoracic Society (ATS 2025) in San Francisco, May 2025. Prospective 
+registration: This study was registered in the PROSPERO database (registration 
+number: CRD42024564018).
+
+---
+
+[referencia=91c77f152b720726 score=0.722]
+1. Sleep Breath. 2026 Oct 6;30(5):279. doi: 10.1007/s11325-026-03826-5.
+
+GLP-1 receptor agonists for obstructive sleep apnea: a meta-analysis of 
+randomized controlled trials.
+
+Carvalhal G(1), Mora MMR(2), Peralta-Jiménez GA(3), Ayasa L(4)(5), Barrera V(6), 
+Advani K(7), Aljazeeri J(8)(9)(10).
+
+Author information:
+(1)Federal University of Campina Grande, Paraíba, Brazil.
+(2)International University of Catalonia, Barcelona, Spain.
+(3)Health Service of Arica and Parinacota, Arica, Chile.
+(4)Faculty of Medicine, Al-Quds University, Jerusalem, Palestine.
+(5)Harvard Medical School, Boston, MA, USA.
+(6)Changi General Hospital, Simei, Singapore.
+(7)University of Connecticut School of Medicine, Connecticut, USA.
+(8)Medical City Hospital for Military and Security Services, Muscat, Oman. 
+aljazeerij@upmc.edu.
+(9)Drexel University College of Medicine, Philadelphia, PA, USA. 
+aljazeerij@upmc.edu.
+(10)University of Pittsburgh Medical Center, Harrisburg, PA, USA. 
+aljazeerij@upmc.edu.

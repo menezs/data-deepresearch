@@ -1,0 +1,230 @@
+[referencia=0b64e1858578cfa8 score=0.981]
+##### Referências bibliográficas 
+
+Mendonça, R. de. _um diplomata na corte da inglaterra_ . Rio de Janeiro: Cia. editora nacional, 1942. 
+
+estudos avançados 23 (65), 2009 
+
+228 
+
+naBuCo, C. _vida de Joaquim Nabuco, por sua filha_ . são Paulo: Cia. editora nacional, 1928. 
+
+naBuCo, J. _um estadista do império_ : nabuco de araújo, sua vida, suas opiniões, sua época. 4.ed. Rio de Janeiro: nova Fronteira, 1975. 
+
+_______. _Minha formação_ . 13.ed. Rio de Janeiro: topbooks, 1999. 
+
+_resumo_ – aspecto pouco estudado da luta contra a escravidão no Brasil é a relação estabelecida entre Joaquim nabuco e a sociedade Britânica e estrangeira antiescravidão, sediada em Londres. a correspondência entre nabuco e Charles Harris allen, secretário da sociedade, e outros abolicionistas britânicos, ao longo da década de 1880 e posteriormente, revela uma parceria conscientemente buscada por nabuco para levar a luta ao plano internacional. as cartas fornecem uma nítida visão das dificuldades encontradas por nabuco no Brasil e da poderosa ajuda que encontrou em Londres. uma de suas principais dificuldades foi a acusação a ele feita de falta de patriotismo a que ele respondeu afirmando a estreita relação que via entre pátria e civilização. 
+
+_palavras-chave_ : escravidão, Brasil, Joaquim nabuco, abolicionismo, abolicionistas britânicos, Correspondência, sociedade britânica e estrangeira antiescravidão.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.980]
+estudos avançados 23 (65), 2009 
+
+213 
+
+foi eleito presidente, ficando com andré Rebouças o cargo de tesoureiro. a sociedade foi certamente inspirada no exemplo da anti-slavery society e sua fundação parece ter sido um meio de facilitar e aprofundar os contatos entre as duas. de fato, um ofício de 8 de outubro de 1880, assinado por José américo dos santos, secretário da sociedade brasileira, comunicava sua fundação à sua congênere britânica, enviando-lhe o manifesto e fazendo votos de que as duas sociedades pudessem desenvolver estreita colaboração entre si. allen respondeu logo a seguir, prometendo intercâmbio de informações e colaboração. 
+
+aproveitando o recesso parlamentar, nabuco viajou novamente para a europa em dezembro de 1880, dessa vez com destino certo, Londres, e um objetivo preciso: levar a luta antiescravista para o cenário internacional. seu nome já começara a circular na europa. ao passar por Lisboa, foi recebido na Câmara dos deputados como o campeão da luta abolicionista no Brasil. em Madri, quem o homenageou foi a sociedade abolicionista espanhola. ao chegar a Londres, levava uma carta de apresentação assinada pelo vice-presidente da sociedade Brasileira contra a escravidão, adolfo de Barros. além de apresentar nabuco, o vice-presidente referia-se à sociedade britânica como a primeira e mais influente sociedade abolicionista do mundo e pedia sua cooperação na luta contra a escravidão no Brasil.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.979]
+#### **A estratégia de Nabuco** 
+
+desde 1879, quando a menção feita por nabuco na Câmara à questão da st. John del Rey Mining Company repercutiu na europa e provocou a reação da anti-slavery society, nabuco e outros abolicionistas despertaram para a importância de mobilizar a opinião pública internacional em favor de sua luta. no Brasil, a opinião pública ainda não se mobilizara para a questão e as resistências eram enormes, sobretudo dentro do Parlamento. nabuco tinha plena consciência da importância da opinião internacional, e britânica em particular, sobre a elite brasileira, nela incluído o imperador. a contínua pressão britânica, o apelo da Junta Francesa de emancipação de 1866 e a mensagem ao povo brasileiro da associação abolicionista Internacional de Paris de 1869 contribuíram sem dúvida para reforçar a decisão imperial de levar adiante a aprovação da Lei do ventre Livre. 
+
+uma das primeiras medidas tomadas pela sociedade Brasileira contra a escravidão foi fazer traduzir seu manifesto para o inglês e o francês, e enviá-los, junto com o anúncio de sua fundação, às congêneres no exterior, aí incluída a anti-slavery society. a escolha da anti-slavery society como principal interlocutora era lógica. ela era a mais conhecida sociedade abolicionista do mundo, localizava-se no centro do grande império britânico e na cidade amada por nabuco, e tomara a iniciativa de entrar em contato com os brasileiros. Como vimos, a resposta da associação britânica, pela voz de seu secretário, não se fez esperar. além de se congratular com a coirmã brasileira, a anti-slavery aprovou plenamente o manifesto e prometeu intercâmbio de informações e cooperação. não se esqueceu de mencionar que a troca de informações contribuiria para o melhor conhecimento da situação brasileira na américa e na Grã-Bretanha.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.934]
+### **Nabuco e a escravidão** 
+
+não por acaso, o contato de nabuco com os britânicos verificou-se em 1880, logo depois que ele, como deputado, decidiu envolver-se na campanha abolicionista. Foi um discurso seu na Câmara que despertou o interesse externo. antes de 1879, nabuco não mostrara disposição nem para a política, nem para a luta contra a escravidão. É muito conhecido o capítulo de _Minha formação_ intitulado “Massangana”, em que ele descreve sua visita em 1869 à capela do antigo engenho em Pernambuco que fora propriedade de sua madrinha e onde se criara. tinha ele então vinte anos. entrou no pequeno cercado que servira de cemitério para os escravos. entre as cruzes que marcavam os túmulos, deixou-se levar pelas reminiscências dos tempos de infância e evocou pelos nomes muitos dos cativos que conhecera. Registrou no livro: “Foi assim que o problema moral da escravidão se desenhou pela primeira vez aos meus olhos em sua nitidez perfeita e com sua solução obrigatória”. e logo a seguir acrescentou: 
+
+e então ali mesmo, aos vinte anos, formei a resolução de votar a minha vida, se assim me fosse dado, ao serviço da raça generosa entre todas que a desigualdade da sua condição enternecia em vez de azedar e que por sua doçura no sofrimento emprestava até mesmo à opressão de que era vítima um reflexo de bondade... (nabuco, 1999) 
+
+_Minha formação_ foi escrito entre 1893 e 1899 e publicado em 1900, 31 
+
+> * Capítulo de Introdução do livro _Joaquim Nabuco e os abolicionistas britânicos (Correspondência,_ 
+
+> _1880-1905),_ organizado pelos autores e publicado em 2008 pela topbooks (RJ) e aBL (RJ).
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.929]
+212 
+
+governo de sinimbu de importar _coolies_ para substituir a mão-de-obra escrava que começava a escassear nas fazendas de café. 
+
+a iniciativa que lhe deu notoriedade internacional como defensor dos escravos e o aproximou da anti-slavery society foi o discurso que pronunciou em 30 de setembro de 1879, denunciando da tribuna da Câmara a companhia inglesa st. John del Rey Mining Company. a Companhia mantinha em cativeiro em sua mina de ouro de Morro velho escravos que comprara da Companhia Cata Branca e das Minas Cocais em 1845, com cláusula contratual de os libertar após 14 anos de serviço. tinham-se passado 21 anos sem que nenhuma medida fosse tomada. o discurso repercutiu na França, com registro na _revue des deux Mondes_ . a repercussão mais importante, no entanto, se deu na Grã-Bretanha. de Londres, o secretário da British and Foreign anti-slavery society, Charles H. allen _,_ mandou-lhe uma cartas, datadas de 8 de janeiro de 1880 e 14 de fevereiro de 1880, cumprimentando-o pela defesa dos escravos e enviou-lhe por Charles Williams, diretor das Minas Cocais, uma resolução do Comitê da sociedade no mesmo sentido (cartas de 8.1.1880 e 14.2.1880) _._ a carta de allen representou o início da relação entre nabuco e os abolicionistas britânicos, uma longa e frutífera relação.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.917]
+a forte pressão britânica sobre o Brasil a propósito da escravidão arrefeceu-se bastante após a abolição do tráfico. Mas o governo britânico continuava pedindo a liberdade dos emancipados, escravos capturados por navios de guerra britânicos e libertados pelo tribunal misto anglo-brasileiro do Rio de Janeiro. a 
+
+estudos avançados 23 (65), 2009 
+
+216 
+
+
+
+_thomas Fowell Buxton (1786-1844)._ 
+
+
+
+<!-- Start of picture text -->
+Fotos agência France Press<br><!-- End of picture text -->
+
+_William Wilberforce (1759-1833)._ 
+
+opinião internacional também se mantinha atenta à escravidão, até mesmo no Brasil. 
+
+em 1869, a associação abolicionista Internacional de Paris, reforçando o apelo feito pela Junta Francesa de emancipação ao imperador em 1866, solicitou diretamente ao povo brasileiro que acabasse com a escravidão, “a grande vergonha da humanidade”. o Brasil corria o risco, alertou a associação, de se tornar “a última nação cristã que conserve em seu seio a escravidão”.<sup>5</sup> entre os assinantes da mensagem, estava Joseph Cooper, secretário honorário da antislavery society. essa society tinha certamente conhecimento da luta abolicionista do senador nabuco de araújo. em julho de 1869, publicaram em sua revista, o _anti-slavery reporter_ , uma carta aberta do senador à sociedade democrática Constitucional Limeirense sobre o tema.<sup>6</sup> Mas não há em seus arquivos evidência de contato direto com abolicionistas brasileiros até a carta de seu secretário, Charles H. allen, enviada a nabuco em 8 de janeiro de 1880.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.911]
+a imprensa brasileira também fez parte do esquema. _o abolicionista_ durou apenas 13 meses e era de pequena tiragem. os esforços de nabuco em 1882 e 1885 para fundar um diário não prosperaram por escassez de recursos. Mas ele possuía bons contatos no mais influente órgão de imprensa da corte, o _Jornal do Commercio_ que, com frequência, reproduzia matéria do _times_ e de outros jornais europeus. embora o jornal não tomasse partido ostensivamente, um de seus redatores, Gusmão Lobo, era abolicionista convicto e amigo de nabuco. o chefe de redação, Luís de Castro, também favorecia a causa. em 1882, graças à intervenção de Penedo junto a Francisco antônio Picot, um dos proprietários do jornal, nabuco conseguiu ainda o cargo de correspondente em Londres. além de facilitar o trabalho de propaganda, o emprego ainda lhe rendia 30 libras por mês. Foi também articulista e correspondente do jornal republicano _o Paiz_ , de Quintino Bocaiúva, para quem a propaganda abolicionista servia ainda para criticar o regime. outro jornal importante na capital do país era o _the rio News,_ de propriedade de andrew Jackson Lamoureux, um norte-americano que traduzia para o inglês os documentos da sociedade Brasileira contra a escravidão e os difundia na colônia anglófona da corte. a _Gazeta da tarde_ , de Ferreira de Menezes, era abertamente abolicionista, o mesmo se dando com a _Cidade do rio_ , de José do Patrocínio. 
+
+a parceria entre nabuco e allen, entre os representantes dos abolicionistas brasileiros e britânicos, funcionou à perfeição em seu objetivo de dar dimensão internacional à luta antiescravista, aumentando a pressão sobre o governo e os 
+
+estudos avançados 23 (65), 2009 
+
+224
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.890]
+_palavras-chave_ : escravidão, Brasil, Joaquim nabuco, abolicionismo, abolicionistas britânicos, Correspondência, sociedade britânica e estrangeira antiescravidão. 
+
+_abstract_ – the relationship established between Joaquim nabuco and the British and Foreign anti-slavery society (currently named anti-slavery International) is a little studied aspect of the struggle to abolish slavery in Brazil. the correspondence between nabuco and Charles Harris allen, secretary of the society, and other British abolitionists throughout the decade of the1880s and beyond reveals a partnership consciously sought by nabuco with the aim of internationalizing the struggle.these letters provide a unique insight into the evolution of nabuco’s thinking on both slavery and abolition, the difficulties he faced, including the accusation of lack of patriotism, and the powerful support he found in London. at the same time they offer a running commentary on the slow and (at least until 1887-8) uncertain progress of the abolitionist cause in Brazil. 
+
+_keywords_ : slavery, Brazil, Joaquim nabuco, abolitionism, British abolitionists, Correspondence, British and Foreign anti-slavery society. 
+
+_Leslie Bethell_ é professor emérito de História da américa Latina na universidade de Londres, _fellow_ emérito do st. antony’s College e ex-diretor do Centro de estudos Brasileiros da universidade de oxford, pesquisador associado do CPdoC/Fundação Getúlio vargas e membro estrangeiro da academia Brasileira de Ciências. @ – leslie.bethell@sant.ox.ac.uk 
+
+_José Murilo de Carvalho_ é professor titular de História do Brasil da universidade Federal do Rio de Janeiro, membro da academia Brasileira de Ciências e da academia Brasileira de Letras.  @ – jmurilo@centroin.com.br 
+
+Recebido em 14.10.2008 e aceito em 15.11.2008. 
+
+estudos avançados 23 (65), 2009 
+
+229
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.882]
+nabuco respondeu longamente em 8 de abril de 1880. agradeceu o gesto da anti-slavery society, explicou a natureza de sua luta e declarou seu compromisso com a causa, agora assumido plenamente: “garanto-lhe que v.sa. sempre me encontrará neste posto de luta que hoje ocupo. Ponho meu interesse pela emancipação acima de qualquer outro […] Comparada a essa imensa reforma social [...] qualquer outra reforma política fica em segundo plano”. Informou a allen que planejava apresentar à Câmara um projeto de lei que previa a abolição total da escravidão no Brasil em 1º de janeiro de 1890, justificando-o: “a fronteira da próxima década não será transposta no Brasil, espero eu, por um só homem que chame a si mesmo de escravo”. terminou elogiando o trabalho de “nivelamento social e moral” promovido pela anti-slavery society, agora dirigido ao Brasil. esse trabalho terá seu fecho quando Brasil e Cuba deixarem de ser manchas escuras na terra americana. assinou a carta como membro do Parlamento brasileiro. 
+
+a proposta que fez ao Parlamento ainda era tímida, na medida em que previa um prazo de dez anos antes da emancipação total dos escravos e a indenização aos proprietários, a exemplo do que fizera a Grã-Bretanha em suas colônias. Mesmo assim, o projeto não encontrou grande apoio na Câmara liberal. o presidente do Conselho, José antônio saraiva, fez dela questão de confiança e o projeto não foi discutido. apenas 18 deputados em 122 apoiaram pedido de urgência para sua votação. 
+
+em 7 de setembro de 1880, nabuco fundou com outros companheiros em sua própria residência no Rio de Janeiro (Rua Bela da Princesa, hoje Correia dutra) a sociedade Brasileira Contra a escravidão. ele próprio, nabuco, 
+
+estudos avançados 23 (65), 2009 
+
+213
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.861]
+desde então, estreitaram-se as relações de nabuco com a anti-slavery society, sobretudo com o secretário Charles allen. Pode-se deduzir dos termos da correspondência que se desenvolveu entre os dois uma sincera amizade, que durou até a morte de allen em dezembro de 1904. Já em março de 1881, nabuco se despediu do secretário dizendo ter encontrado nele, mais que um simpatizante da causa, um bom amigo (abril de 1881). allen recebia-o em sua casa, organizava palestras, convidava-o para congressos, acompanhava-o em compromissos sociais. nabuco agradeceu as gentilezas à brasileira, presenteando-o com um papagaio. a ave aparece em mais de uma carta de allen que a ele se afeiçoou (por exemplo, (7.10.1887 e 17.1.1888). Mas parece ter estranhado o clima inglês, pois nunca falou. a correspondência entre os dois, com eventuais cartas de nabuco a outros membros da anti-slavery society, foi constante até a abolição, mesmo nos períodos que nabuco passou em Londres e que não foram poucos.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.836]
+#### **As cartas** 
+
+Foram levantadas e incluídas neste volume cartas trocadas entre nabuco e membros da anti-slavery society. Foram ainda incorporadas algumas outras entre nabuco e cidadãos britânicos envolvidos na causa abolicionista. entre eles, encontra-se uma curiosa figura, Catherine Impey, membro de uma também curiosa ordem Internacional dos Bons templários (20.11.1882; 24.11.1882; 28.12.1882 e 24.4.1883). também constam cartas trocadas diretamente entre a anti-slavery society e a sociedade Brasileira contra a escravidão. ao todo, são 110 cartas. a grande maioria delas, mais precisamente 64%, no entanto, refere-se à correspondência entre nabuco e o secretário Charles H. allen. são 26 cartas de nabuco ao secretário e 38 dele para nabuco. 
+
+os originais das cartas de Joaquim nabuco aos membros da anti-slavery society encontram-se guardados na Rhodes House, oxford, cuja biblioteca faz parte da Bodleian Library da universidade de oxford. são ao todo 37 cartas. Constam ainda do acervo da Rhodes House três cartas enviadas pela sociedade Brasileira contra a escravidão. os originais das cartas enviadas a nabuco estão no acervo da Fundação Joaquim nabuco, num total de 71. dessas, 42 foram enviadas por Charles allen. uma das cartas de Catherine Impey foi localizada na Coleção Wanderley Pinho do Instituto Histórico e Geográfico Brasileiro, outra, de allen à sociedade Brasileira contra a escravidão, foi tirada de _o abolicionista_ . outros membros da anti-slavery society que mantiveram correspondência com nabuco foram o presidente edmund sturge, Joseph Cooper, secretário honorário, travers Buxton, sucessor de allen na secretaria, Lady Buxton, e o advogado Joseph alexander, membro da sociedade (ver lista de nomes de dirigentes da society).
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.827]
+#### **Nabuco em Londres, 1881-1884** 
+
+em sua terceira visita, nabuco chegou a Londres em fevereiro de 1881. dessa vez, sem desprezar a hospitalidade de Penedo – hospedou-se inicialmente em 32 Grosvenor Gardens – e sem deixar de apreciar os encantos da cidade, voltou toda a energia para a campanha em que acabara de se engajar. Buscou imediatamente estreitar relações com a anti-slavery society, que retribuiu a atenção recebendo-o com todas as honras. no dia 4 de março, ela realizou uma sessão de apresentação oficial de nabuco, na qual ele falou, como sempre, longamente. em 23 de marco, ofereceu-lhe no Charing Cross Hotel um magnífico _breakfast,_ presidido por thomas Fowell Buxton, filho do abolicionista do mesmo nome. Compareceram 150 pessoas, entre as quais o presidente da society, samuel Gur- 
+
+estudos avançados 23 (65), 2009 
+
+217 
+
+ney, o secretário Charles allen, o tesoureiro Joseph allen e 11 membros da Câmara dos Comuns. Houve um breve discurso de Buxton e outro, “assaz longo”, segundo o _times_ , de nabuco. o banquete foi amplamente noticiado na imprensa londrina, incluindo o _times_ , talvez o jornal mais influente da época. as notícias foram transcritas na imprensa do Rio de Janeiro. o _Jornal do Commercio_ publicou matéria de seu correspondente em Londres. Começava a funcionar na prática a “conexão britânica” (5.4.1881).
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.760]
+## _LesLie BetheLL e José MuriLo de CarvaLho_ 
+
+m dos aspectos menos estudados da luta de Joaquim nabuco contra a escravidão é sua relação com os abolicionistas britânicos. essa relação u aparece em geral como algo secundário, como um recurso para cobrir os intervalos em que ele era excluído da Câmara. as 110 cartas incluídas neste livro, trocadas entre ele e os abolicionistas britânicos, indicam coisa diferente. o contato entre eles significou uma parceria buscada conscientemente por nabuco com a finalidade de expandir a arena da luta para o cenário internacional. Melhor dito, para o centro da economia e do poder mundial na época. Como mostram as cartas, a tática foi plenamente exitosa.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.573]
+estudos avançados 23 (65), 2009 
+
+223 
+
+a anti-slavery society ajudava também levando nabuco a participar de congressos internacionais. em 1883, ela financiou a participação dele na 11ª Conferência da International Law association, dedicada à reforma dos direitos das gentes, realizada em Milão (28.7.1883; 4.8.1883 e 24.8.1883). nova reunião dessa associação realizou-se em Londres em 1887, com sua participação (19.7.[1887]). os dois congressos aprovaram moções de nabuco contra a escravidão. tais arenas ampliavam muito o alcance da campanha. em outra frente, allen conseguiu um convite para uma recepção na casa do influente William Gladstone, várias vezes primeiro-ministro da Grã-Bretanha. Às vésperas da abolição, os _quakers_ da anti-slavery society ainda lhe arranjaram uma carta de apresentação escrita pelo cardeal Manning para lhe facilitar conseguir audiência com Leão XIII. 
+
+o esquema de propaganda completava-se com a conexão brasileira. Por obrigação de ofício, o ministro brasileiro, barão de Penedo, enviava ao governo de seu país as matérias publicadas no _times_ sobre a escravidão brasileira e as atividades de nabuco. o barão não tinha o entusiasmo abolicionista de nabuco, mas não parece ter colocado nenhum obstáculo à campanha do amigo, mesmo durante o ministério conservador de Cotegipe (1885-1888). não há indicação de que tenha havido entre os dois qualquer desentendimento, nem que Penedo tenha pedido moderação a nabuco.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.508]
+durante essa temporada londrina de quase dois anos e meio, nabuco teve três endereços: 19 Brook street (até julho de 1883), 20a Maddox street (até março de 1884) e 33 davies street. sustentava-se com o que ganhava como correspondente do _Jornal do Commercio_ e como consultor de firmas inglesas que tinham investimentos no Brasil. Passou boa parte do tempo no British Museum colhendo material para escrever o livro _o abolicionismo_ , que publicou em Londres em agosto de 1883. no ano anterior enviara petição ao Parlamento brasileiro solicitando “a total abolição da escravidão, seja imediata ou dentro de curto prazo, a ser definido imediatamente”. a petição foi assinada por ele e José da Costa azevedo e apresentada à Câmara em 14 de julho pelo deputado cearense antônio Pinto (jun.-jul. 1882 e 7.8 [1882]). em 1883, com o apoio da society, participou do Congresso Jurídico Internacional, realizado em Milão. Com a saúde abalada, voltou ao Brasil em abril de 1884, com planos de se ausentar por 
+
+estudos avançados 23 (65), 2009 
+
+218 
+
+uns quatro meses. sua decisão pode ter sido também influenciada pelo fato de que o movimento abolicionista ganhava impulso e talvez exigisse “algum tipo de ação enérgica” (31.3.1884). um mês antes de sua volta, a escravidão tinha sido abolida no Ceará.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.496]
+Formado em 1870, aos 21 anos, nabuco regressou ao Rio de Janeiro ainda a tempo de ouvir no ano seguinte os discursos do pai no senado em defesa do projeto de lei do ventre Livre, apresentado pelo gabinete conservador do visconde do Rio Branco. segundo informa em _Minha formação_ , por essa época ajudava o pai traduzindo-lhe documentos publicados no _anti-slavery reporter_ , revista publicada pela anti-slavery society de Londres. a lei foi sancionada em 
+
+estudos avançados 23 (65), 2009 
+
+209 
+
+28 de setembro de 1871. sua aprovação se deu após a mais longa e acalorada discussão havida no Parlamento imperial, quando o imperador se encontrava na europa em sua primeira viagem ao exterior. no senado e no Conselho de estado, nabuco de araújo manteve sua coerência liberal defendendo o projeto de um gabinete conservador. a passagem da lei, apesar de seu caráter moderado, acarretou uma moratória de oito anos no debate parlamentar sobre a escravidão. a moratória só foi rompida em 1879, quando Joaquim nabuco ingressou na Câmara. 
+
+nos primeiros tempos após a formatura, o tema da escravidão não era para ele uma preocupação central. opunha-se, por certo, à escravidão, mas não decidira dedicar-se de corpo e alma, em tempo integral, à sua destruição. o jovem bacharel parecia mesmo inseguro sobre que caminho tomar na vida. tentou a advocacia no escritório do pai, mas abandonou a profissão após primeira causa que defendeu. experimentou o jornalismo e a literatura, escrevendo para o jornal _a reforma_ , onde defendia causas liberais, com ênfase nos tema da separação entre Igreja e estado. em 1872, publicou seu primeiro livro, sobre Camões e os _Lusíadas_ , e outro em francês sobre o direito de assassinar, uma polêmica com alexandre dumas, filho.
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.488]
+estudos avançados 23 (65), 2009 
+
+227 
+
+É esse material, agora publicado na totalidade, que nos permite avaliar melhor a importância da conexão britânica para a luta abolicionista de nabuco. a exposição da escravidão brasileira aos olhos do mundo deu nova dimensão e nova eficácia à luta. num país em que o grosso da elite política defendia os interesses dos proprietários, mas também se preocupava com a imagem externa e era imbuída de valores ocidentais, a exposição não podia deixar de causar constrangimento e apressar a decisão final. as cartas permitem também, para além do aspecto tático, conhecer melhor o núcleo da argumentação abolicionista de nabuco. tratava-se, para ele, de uma luta pela civilização, pela incorporação do país aos valores básicos da civilização ocidental, de uma luta contra uma concepção de nacionalismo estreito que se afirmasse ao custo de valores universais. as cartas reforçam a imagem do nabuco de _a escravidão_ e de _o abolicionismo_ , não o de _Minha formação_ .
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.486]
+nabuco, no fundo, recorria ao argumento usado por todas as sociedades abolicionistas: a abolição da escravidão era uma questão de civilização, de progresso moral da humanidade, a que nenhum país podia fugir sob pretexto de um patriotismo estreito limitado à defesa de uma causa já condenada. o verdadeiro patriotismo, argumentava, exigia a incorporação do país no mundo civilizado. ao defender os interesses da civilização como parte da concepção de patriotismo, nabuco revelava também os motivos que o tinham levado a recorrer à opinião internacional: jogar o peso dos valores da civilização sobre os interesses dos escravocratas que se protegiam com a bandeira do patriotismo. 
+
+estudos avançados 23 (65), 2009 
+
+225
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.447]
+estudos avançados 23 (65), 2009 
+
+224 
+
+escravistas brasileiros. a jogada não era sem riscos para nabuco. desde sua viagem de 1881, ele foi acusado pelos escravocratas de prejudicar o nome do Brasil no exterior ao expor os males da escravidão, de adotar atitude antipatriótica. a acusação era-lhe muito incômoda. dela se defendeu várias vezes. Boa parte de seu discurso no _breakfast_ que lhe ofereceram em março de 1881 foi dedicado ao tema. acusavam-no, disse, de encorajar “uma espécie de intervenção moral da europa em nossos negócios íntimos e de patentear aos olhos do mundo uma desgraça nacional que deveria ser cuidadosamente oculta a todos os olhos”. sua resposta foi que não se tratava de uma revolução nacional, mas “do último combate contra a escravidão no mundo civilizado”.<sup>8</sup>
+
+---
+
+[referencia=0b64e1858578cfa8 score=0.426]
+a anti-slavery society manteve seu compromisso com a supressão do tráfico transatlântico, mas opunha-se ao papel que a Grã-Bretanha se atribuía de polícia mundial do tráfico. Preferia concentrar-se na abolição da escravidão – e, como resultado, do tráfico – por meio da pressão moral sobre os estados unidos, o Brasil e a espanha. Quando o tráfico atingiu novos patamares, ao final dos anos 1840, a anti-slavery society, apoiada por interesses da indústria e do comércio, parecia estar ganhando a discussão. a moralidade e a eficácia da política britânica antitráfico estavam sendo cada vez mais questionadas e havia uma possibilidade real de que essa fosse finalmente desativada como um oneroso fracasso. no entanto, o ministro das Relações exteriores, Lord Palmerston, sempre desprezando o pacifismo da anti-slavery society, e convencido de que o tráfico podia ser esmagado e a escravidão severamente golpeada pela supressão da oferta externa de escravos quando a força naval britânica estivesse em plenas condições operacionais, teve a última palavra. em 1850, a frota da américa do sul foi reforçada e recebeu ordens de capturar navios negreiros em águas territoriais brasileiras. diante de uma séria ameaça à sua soberania, estabilidade política e prosperidade econômica, o governo brasileiro, o primeiro, deve-se dizer, capaz de fazê-lo desde 1831, finalmente tomou medida para efetivamente acabar com o tráfico. o Brasil não podia mais resistir à “pressão das idéias da era em que vivemos”, declarou Paulino José soares de souza, ministro brasileiro dos negócios estrangeiros, querendo com isso referir-se, sobretudo, à pressão do governo britânico e da Royal navy.

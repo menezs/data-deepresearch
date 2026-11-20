@@ -1,0 +1,8 @@
+[referencia=36f0b0bcb96f259d score=0.972]
+### Key takeaways
+
+- Public payment infrastructures build on the central bank's foundational role in the monetary system by promoting competition and interoperability between payment platforms. They can reduce costs for users and promote financial inclusion.
+- Brazil's recent experience with the Pix retail instant payment system illustrates the potential gains. In little over a year since its launch in November 2020, Pix has signed up 67% of adults in Brazil, with free payments between individuals and low charges for merchants.
+- The two key ingredients in the success of Pix are, first, the mandatory participation of large banks to kick-start network effects for users, and second, the central bank's dual role as infrastructure provider and rule setter.
+
+            The views expressed in this publication are those of the authors and do not necessarily reflect the views of the BIS or its member central banks.

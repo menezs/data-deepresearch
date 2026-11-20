@@ -1,0 +1,77 @@
+2026-11-16 22:39:10,267 INFO     __main__: Iniciando run regulacao_ia_50ed2d44b720_20261117T023910Z para answers/Ingles/Gemini/Emergente/regulacao_ia.docx (ferramenta=Gemini)
+2026-11-16 22:39:18,910 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-16 22:39:18,910 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-16 22:39:21,179 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 11014.37it/s]
+2026-11-16 22:39:33,639 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-16 22:39:33,648 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-16 22:39:33,782 INFO     auditframework.pipeline: Extraidas 61 referencias de answers/Ingles/Gemini/Emergente/regulacao_ia.docx (0 descartadas como artefato do exportador)
+2026-11-16 22:39:33,793 INFO     auditframework.pipeline: Resposta dividida em 85 trechos citados
+2026-11-16 22:39:33,829 INFO     auditframework.terminal: ✓ extraction concluído em 0.2s
+2026-11-16 22:39:33,830 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-16 22:39:33,833 INFO     auditframework.ingestion.service: Ingestao: 61 referencias, 0 ja baixadas, 0 ja bloqueadas, 61 pendentes
+2026-11-16 22:40:12,756 INFO     auditframework.ingestion.fetcher: Referencia https://www25.senado.leg.br/web/atividade/materias/-/materia/157233 recuperada imitando o Safari
+2026-11-16 22:40:34,098 INFO     auditframework.ingestion.fetcher: Referencia https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622 recuperada imitando o Safari
+2026-11-16 22:41:01,899 INFO     auditframework.ingestion.fetcher: Referencia https://pt.wikipedia.org/wiki/Projeto_de_Lei_2338/2023 recuperada imitando o Safari
+2026-11-16 22:41:05,388 INFO     auditframework.ingestion.fetcher: Referencia https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice recuperada imitando o Safari
+2026-11-16 22:42:33,751 WARNING  auditframework.ingestion.service: Referencia https://ajee-journal.com/the-new-eu-product-liability-directive-doctrinal-analysis nao concluiu o download em 90s — marcada inacessivel
+2026-11-16 22:42:33,760 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 61/61 [02:59<00:00,  2.95s/ref]
+2026-11-16 22:42:37,383 INFO     auditframework.ingestion.fetcher: Referencia https://ajee-journal.com/the-new-eu-product-liability-directive-doctrinal-analysis recuperada do Wayback (copia de 20260701010319)
+2026-11-16 22:42:37,430 INFO     auditframework.pipeline: Ingestao concluida: 60 documentos disponiveis
+2026-11-16 22:42:37,432 INFO     auditframework.terminal: ✓ ingestion concluído em 187.0s
+2026-11-16 22:42:37,432 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-16 22:42:40,269 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 60/60 [00:02<00:00, 21.18doc/s]
+2026-11-16 22:42:40,269 INFO     auditframework.indexing.service: Gerando embeddings para 2061 chunks de 60 documentos
+2026-11-16 22:44:00,532 INFO     auditframework.terminal: Batches: 100%|██████████| 129/129 [01:20<00:00,  1.61it/s]
+2026-11-16 22:44:00,746 INFO     auditframework.pipeline: Indice construido a partir de 60 documentos
+2026-11-16 22:44:00,749 INFO     auditframework.terminal: ✓ indexing concluído em 84.4s
+2026-11-16 22:44:00,749 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-16 22:44:00,773 INFO     auditframework.pipeline: Julgamento: 85 chunks, 0 ja julgados, 0 ja pulados, 85 pendentes
+2026-11-16 22:44:01,727 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-16 22:44:02,313 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/85 [00:00<?, ?chunk/s]
+2026-11-16 22:44:02,422 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-16 22:44:02,524 INFO     auditframework.terminal: Loading weights:  30%|██▉       | 117/393 [00:00<00:00, 1154.30it/s]
+2026-11-16 22:44:02,606 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 1371.70it/s]
+2026-11-16 22:46:11,752 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 85/85 [02:10<00:00,  1.54s/chunk]
+2026-11-16 23:12:51,291 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 85/85 [26:39<00:00, 18.82s/chunk]
+2026-11-16 23:12:51,304 INFO     auditframework.terminal: ✓ judging concluído em 1762.0s
+2026-11-16 23:12:51,313 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-16 23:12:51,322 INFO     auditframework.pipeline: Relatorio gerado em data/runs/regulacao_ia_50ed2d44b720_20261117T023910Z/report.md
+2026-11-16 23:12:51,324 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-16 23:12:51,325 INFO     __main__: Run regulacao_ia_50ed2d44b720_20261117T023910Z concluida
+2026-11-16 23:12:51,326 INFO     auditframework.terminal: Relatorio gerado em data/runs/regulacao_ia_50ed2d44b720_20261117T023910Z/report.md
+2026-11-17 23:08:50,661 INFO     auditframework.terminal: audit refetch regulacao_ia_50ed2d44b720_20261117T023910Z
+2026-11-17 23:08:50,670 INFO     auditframework.ingestion.service: Ingestao: 61 referencias, 60 ja baixadas, 0 ja bloqueadas, 1 pendentes
+2026-11-17 23:09:41,222 INFO     auditframework.ingestion.fetcher: Referencia https://ajee-journal.com/the-new-eu-product-liability-directive-doctrinal-analysis recuperada do Wayback (copia de 20260701010319)
+2026-11-17 23:09:41,781 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 1/1 [00:51<00:00, 51.06s/ref]
+2026-11-17 23:09:41,786 INFO     auditframework.terminal: regulacao_ia_50ed2d44b720_20261117T023910Z: 1 fonte(s) sem conteudo, 1 recuperada(s)
+2026-11-17 23:09:41,786 INFO     auditframework.terminal:   https://ajee-journal.com/the-new-eu-product-liability-directive-doctrinal-analysis — downloaded
+2026-11-17 23:09:41,910 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para data/runs/regulacao_ia_50ed2d44b720_20261117T023910Z/invalidado-20261118T030941Z
+2026-11-17 23:09:41,910 INFO     auditframework.terminal: 2 trecho(s) citado(s) para julgar de novo (os demais mantem o veredito)
+2026-11-17 23:09:41,910 INFO     auditframework.terminal: Rode: audit resume regulacao_ia_50ed2d44b720_20261117T023910Z
+2026-11-17 23:09:42,413 INFO     __main__: Retomando run regulacao_ia_50ed2d44b720_20261117T023910Z
+2026-11-17 23:09:49,541 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 23:09:49,541 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 23:09:52,007 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 10893.64it/s]
+2026-11-17 23:10:02,477 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-17 23:10:02,486 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-17 23:10:02,486 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-17 23:10:02,488 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-17 23:10:05,367 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 61/61 [00:02<00:00, 21.22doc/s]
+2026-11-17 23:10:05,367 INFO     auditframework.indexing.service: Gerando embeddings para 2073 chunks de 61 documentos
+2026-11-17 23:11:25,991 INFO     auditframework.terminal: Batches: 100%|██████████| 130/130 [01:20<00:00,  1.61it/s]
+2026-11-17 23:11:26,208 INFO     auditframework.pipeline: Indice construido a partir de 61 documentos
+2026-11-17 23:11:26,211 INFO     auditframework.terminal: ✓ indexing concluído em 85.4s
+2026-11-17 23:11:26,212 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-17 23:11:26,237 INFO     auditframework.pipeline: Julgamento: 85 chunks, 83 ja julgados, 0 ja pulados, 2 pendentes
+2026-11-17 23:11:27,153 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-17 23:11:27,732 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/2 [00:00<?, ?chunk/s]
+2026-11-17 23:11:27,834 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-17 23:11:27,928 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 2024.75it/s]
+2026-11-17 23:11:41,151 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 2/2 [00:14<00:00,  7.46s/chunk]
+2026-11-17 23:11:49,054 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 2/2 [00:07<00:00,  3.95s/chunk]
+2026-11-17 23:11:49,056 INFO     auditframework.terminal: ✓ judging concluído em 23.7s
+2026-11-17 23:11:49,061 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 23:11:49,072 INFO     auditframework.pipeline: Relatorio gerado em data/runs/regulacao_ia_50ed2d44b720_20261117T023910Z/report.md
+2026-11-17 23:11:49,074 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 23:11:49,074 INFO     __main__: Run regulacao_ia_50ed2d44b720_20261117T023910Z concluida
+2026-11-17 23:11:49,075 INFO     auditframework.terminal: Relatorio gerado em data/runs/regulacao_ia_50ed2d44b720_20261117T023910Z/report.md

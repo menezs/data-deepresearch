@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "arquitetura_transformers_c1ecf332a0d0_20261115T134106Z-66",
+  "passages": [
+    {
+      "reference_chunk_id": "db190fc1cfb58671-0",
+      "reference_id": "db190fc1cfb58671",
+      "score": 0.006302957888692617,
+      "text": "Skip to main content\nLLM\nEngineering\nML\nStats\nMarkets\nEssays\nGuides\nCases\nStart here\n⌕\n◐\n← Machine Learning\n0 / 30 viewed\nAll 30 topics\nFoundations\nTokenization\nToken Embeddings\nPositional Encoding\nSelf-Attention\nMulti-Head Attention\nFeed-Forward Networks\nArchitecture\nTransformer Block\nDecoder-Only Models\nKV-Cache\nContext Windows\nMixture of Experts\nScaling Laws\nTraining\nPre-Training\nFine-Tuning\nLoRA & QLoRA\nRLHF\nDPO\nData Curation\nInference\nDecoding Strategies\nSampling\nSpeculative Decoding\nQuantization\nKV-Cache Optimization\nBatching & Throughput\nApplications\nPrompt Engineering\nRAG\nEmbedding Search\nFunction Calling\nAgents & Planning\nEvaluation & Benchmarks"
+    }
+  ],
+  "assembled_context": "[referencia=db190fc1cfb58671 score=0.006]\nSkip to main content\nLLM\nEngineering\nML\nStats\nMarkets\nEssays\nGuides\nCases\nStart here\n⌕\n◐\n← Machine Learning\n0 / 30 viewed\nAll 30 topics\nFoundations\nTokenization\nToken Embeddings\nPositional Encoding\nSelf-Attention\nMulti-Head Attention\nFeed-Forward Networks\nArchitecture\nTransformer Block\nDecoder-Only Models\nKV-Cache\nContext Windows\nMixture of Experts\nScaling Laws\nTraining\nPre-Training\nFine-Tuning\nLoRA & QLoRA\nRLHF\nDPO\nData Curation\nInference\nDecoding Strategies\nSampling\nSpeculative Decoding\nQuantization\nKV-Cache Optimization\nBatching & Throughput\nApplications\nPrompt Engineering\nRAG\nEmbedding Search\nFunction Calling\nAgents & Planning\nEvaluation & Benchmarks",
+  "skip_reason": null
+}

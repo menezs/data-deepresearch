@@ -1,0 +1,177 @@
+[referencia=fe2a1fd7aee2a702 score=0.954]
+Na primeira parte do primeiro capítulo desenvolve-se a análise do problema que a imigração européia trouxe ao "desalojar" o elemento negro como força de trabalho em São Paulo ao contrário dó que ocorreu por exemplo no Rio de Janeiro e Salvador, cidade-portos que abosorveram a força de trabalho escravo ou "livre" em inúmeras atividades. A cidade de São Paulo no final do século 
+
+- 267 - 
+
+XIX e começo do XX passou absorver os imigrantes que passaram a ocupar todo tipo de trabalho assalariado existente ou mesmo a função de empresários. Essa parte do trabalho é apoiada em alguns recenseamentos feitos no século XIX onde embora não sejam precisos nota-se deslocamentos migratórios e profissionais na população "branca" e "negra" na cidade, além dos jornais e livros que observaram o processo de marginalização econômica e social do negro. 
+
+Na análise prossegue com os papeis que foram assumindo a burguesia rural em novas funções na cidade e parcialmente os imigrantes, desenvolvendo a descrição das barreiras sociais que isolavam a sociedade "branca" onde no seu interior havia mobilidade econômica, social e política, mas na população negra embora "livre" da escravidão não havia encontrado instituições que a integrassem na sociedade capitalista emergente.
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.500]
+No trabalho o Autor procurou descrever e explicar como o negro participou e auto-avaliou-se na vida da cidade e como "via" e explicava as atitudes dos brancos no exercício dos papeis sociais. O problema do preconceito é sem dúvida psicologicamente mais doloroso para os negros, mas o autor reconstroi todos os aspectos do preconceito elabrado tanto pelos negros como pelos brancos. Sem ser a História do Negro em São Paulo num certo período, o Autor faz a análise sociológica de como um contingente "racial" durante muito tempo escravo e portanto dominado em todos aspectos pelo grupo dominante "branco", após a Abolição não conseguiu desfrutar de igualdade de condições sócio-culturais para participar da sociedade capitalista emergente. O estudo mostra em diversas etapas que a diferenciação "racial" não se explica por juizos de valor como "quem é o culpado?", pois a questão era saber qual a natureza das relações brancos e negros que permitiu a diferenciação social e psicológica, onde sem dúvida o elemento negro se desajustou. 
+
+O primeiro volume tem como título: ("O negro na emergência da sociedade de classes") ou melhor "O legado da raça branca" dividido em 3 capítulos e partes a seguir: 
+
+- O negro na emergência da sociedade de classes; 
+
+- Pauperização e anomia social; 
+
+- Heteronomia racial na sociedade de classes. 
+
+No primeiro capítulo o Autor abordou a hipótese de como a urbanização e a imigração "deslocaram" o negro para uma situação de marginal ao inves de absorve-lo como força de trabalho; em seguida como o "fazendeiro" e o "imigrante" ocuparam posições privilegiadas na sociedade burguesa que se formava e tambem os desajustes do "negro" diante das tendências acima referidas.
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.427]
+A unidade geográfica onde se desenvolveram as pesquisas foi São Paulo que para o autor era a cidade onde o capitalismo desenvolveu-se mais nas suas características básicas e por outro lado onde o elemento negro ou mulato sofreu problemas de desajustes psicológicos e sociais mais graves, que retardaram a participação plena desses elementos nas relações da sociedade então existente. Conforme ele afirma (pág. XII — 1 9 Vol. ): 
+
+"Assim, o estudo de São Paulo permitia apanhar melhor as conexões existentes entre a revolução burguesa, a desagregação do regime servil e a expulsão do "negro" do sistema de relações de produção. E abria perspectivas únicas para acompanhar as diversas etapas do doloroso drama do "negro", da submersão na miséria e na degradação social até sua lenta revalorização pelo trabalho livre e sua incontida ânsia de "pertencer ao sistema", dignificando-se civil e moralmente" . 
+
+- 266 - 
+
+O Autor teve como problemática principal o processo da diferenciação cultural, a marginalização do elemento de "cor", as condições de "supremacia" social, econômica e política dos brancos. Como marco histórico inicial ele partiu da Abolição em 1888 e o desenvolvimento das relações de produção capitalistas sem entrar numa análise aprofundada do desenvolvimento capitalista em São Paulo, assim o Autor procurou observar como o elemento negro participou do processo histórico capitalista, assim a antiga idéia de que o negro foi aos poucos "caindo" numa miséria social profunda ganhou nas pesquisas um contorno nítido, pois ele coletou informações dos agentes brancos e negros do processo, observou as "avaliações", "explicações" e "valores" que os mesmos atribuiam aos papeis sociais, direitos e condições de vida.
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.242]
+- 265 - 
+
+Com uma bibliografia atualizada, o autor elaborou atravez de um bom método e de precisa conceituação, um trabalho de alto nivel para a historiografia espanhola. 
+
+_JOSÉ CARLOS SEBE BOM MEIHY_ 
+
+FERNANDES (Florestan) . — _A integração do Negro na sociedade de classes._ Dominus Editora. São Paulo, 2 vols. 655 págs., 1965. 1 9 Vol. "O legado da raça branca" . 29 Vol. "No limiar de uma nova era" . 
+
+A obra foi elaborada como tese para a cátedra de Sociologia I, na Faculdade de Filosofia, Ciências e Letras da Universidade de São Paulo em 1964. 
+
+A proposição geral da obra estão descritas nas seguintes palavras do Autor (pág. XI — 1 9 vol.): "Em sentido literal, a análise desenvolvida é um estudo de como o Povo emerge na História, trata-se de assunto inexplorado ou mal explorado pelos cientistas sociais brasileiros. E nos aventamos a ele, atraves do negro e do mulato, porque foi esse contingente da população nacional que teve o pior ponto _de_ partida para a integração ao regime social que se formou ao longo da desagregação da ordem social escravocrata e senhorial e do desenvolvimento posterior do capitalismo no Brasil" . 
+
+O Autor realizou suas pesquisas nos anos de 1941-44 e 1949-51 contando com a colaboração do professor Roger Bastide e tambem de alunos seus na época. Serviram-se de documentos escritos (jornais, manifestos, depoimentos, questionários), gravações de entrevistas, procurando reter as situações psicológicas e sociais que envolveram a mobilidade dos individuos tanto "brancos" como "negros" no interior da sociedade de classes em formação.
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.191]
+No segundo capítulo "pauperização e anomia social", o autor analisou a vida "marginal" do negro. Partindo da hipótese que a formação da sociedade capitalista e a expansão urbana da cidade foram dois processos históricos concomitantes, para o negro que ainda mantinha seus padrões culturais oriundos da ordem escravista intactos, não pode de imediato "integrar-se" ao processo que se formava na cidade e por outro lado os brancos mantiveram já na sociedade capitalista os padrões de grupo étnico dominante na sociedade escravista. Mas neste capítulo a análise aprofunda-se primeiramente na discussão da hipótese de que houve um movimento de "abandono" da cidade pelos negros incapazes de "competir" em qualquer aspecto com o elemento branco. Na verdade o elemento negro não estava abandonando a cidade, manteve até relativa estabilidade no seu contingente populacional o que houve foi o grande aumento do elemento branco, através das imigrações e deslocamentos do interior para a capital. Ao fim da análise a idéia de uma inferioridade natural do negro torna-se inconsistente, mas o processo de pauperização e miséria social ganhou um quadro mais preciso. Em seguida vem a análise das condições de vida que tinha o negro "marginalizado" . Continuando o argumento que o processo de urbanização e industrialização que se desenvolviam não foi aproveitado pelos negros devido ao seu precário padrão cultural leva o Autor a acrescentar novos aspectos dos problemas de marginalização: a difícil competição com o elemento profissional imigrante; a oferta por parte dos brancos de empregos de natureza "braçal" e de baixa remuneração que portanto dificultavam as condições de existência, à soma dessas situações acrescentou-se uma certa hostilidade por parte dos negros para não aceitar empregos "inferiores"; a razão disto está numa forte impulsão psicológica de ser reconhecido como "gente" em consequência como não podiam ficar sem nenhum tipo de renda, o caminho do "crime"
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.112]
+Na segunda parte deste capítulo o Autor discute alguns aspectos do "dilema racial brasileiro" desenvolve uma rápida trajetória do contato entre brancos e negros, onde após a "desagregação do regime de castas" e "estamental" não alterou os "mecanismos de dominação racial tradicionais", permanecendo a concentração racial da renda, o prestígio social e o poder político no dominio dos brancos. E o negro poderia reagir? Não, pois a falta de vida social integrada já na escravidão agravaram-se após a Abolição e combinando-se com os mecanismos de dominação branca, o "negro" encontrou vários obstáculos para sua integração na sociedade capitalista que formou-se. O Autor afirma que no ele considera a "la. fase da revolução burguesa" (da Abolição até 1940) a população branca nativa e os imigrantes dominaram as posições chaves da sociedade e o negro ficou marginal e num amplo processo de desorganização social. Na 2a. fase, o intenso processo de industrialização e urbanização, com incentivos do período de transformações do Estado Novo e da II Grande Guerra, combinando-se com o declínio da imigração possibilitou uma relativa oportunidade quanto às possibilidades de emprego (sem que mudassem as avaliações discriminativas por parte do elemento branco) . Nessa fase o negro "proletarizou-se" ou em casos isolados atingiu a classe média, mas entrou finalmente na "sociedade de classes" mas os "padrões de desigualdade racial" estavam longe de ser superados, pois os mecanismos de preconceito de cor, atuaram como elemento diluidor das conquistas já realizadas. É interessante tambem a conclusão do Autor sobre o declínio dos movimentos sociais negros na 2a. fase da revolução burguesa, embora estes foram extremamente uteis como agitadores das contradições entre "democracia liberal" e "dominação/exclusão racial" que existiam os negros passaram a "
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.044]
+Em outra parte o autor desenvolve a formação de uma "contra-ideologia" negra frente à ideologia racial tradicionalista partindo de ires constatações: 
+
+— no mais evidente e superficial ela negava a eficácia para o "negro" da ordem legal estabelecida. A liberdade e a igualdade, conquistadas após a Abolição e a República, seriam meralmente formais e inúteis; — o caráter da filosofia e política oficial _de_ "democracia racial" corresponderia com a dominação racial tradicionalista; 
+
+— desmascaramento dos simbolos e valores históricos originados pelos brancos sobre a "abolição" dos escravos e a "democracia" racial. 
+
+No segundo capítulo "Impulsões igualitárias de integração social" o Autor retoma a sua conclusão sobre o malogro dos movimentos sociais no seu principal objetivo de quebrar os mecanismos "raciais" que impediam a absorção dos negros, embora tivesse havido uma grande mobilização dos negros. 
+
+Mas a partir da Segunda Guerra Mundial o processo industrial abriria novas perspectivas de absorção dos negros, embora boa parte dos empregos ainda fossem de carater "braçal", seja nas fábricas, repartições públicas e empregos domésticos. Desta forma a luta do negro por sua ascensão de certa forma "individualizou-se na nova conjuntura da sociedade global, levando o negro a uma disputa mais intensa das oportunidades e inevitavelmente romper boa parte do seu isolamento e passividade e percebendo melhor a natureza das dis- 
+
+--- 270 - 
+
+criminações e preconceitos existentes, assim o Autor se propos a análise de 3 objetivos: 
+
+1 9) . — Como a nova conjuntura de após-guerra refletiu-se na composição racial e na estratificação racial e na estratificação sócio-econômica da população paulistana; 
+
+2 9 ) . — Os efeitos da mobilidade social-vertical no "meio negro";
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.038]
+Na última parte deste capítulo o Autor discute a "natureza e função das impulsões igualitárias" . Nesta parte o Autor afirma que nos processos de classificação e ascensão social dos negros era necessário a "absorção regular de padrões de comportamento, de valores sociais e de modelos de organização da personalidade da ordem social competitiva" (palavras do Autor) e como esses mesmos processo respondiam a duas orientações sociais simultâneas, a primeira seria a requisição da sociedade capitalista para a participação do elemento de cor, ou como força de trabalho ou consumidor de bens, a segunda orientação seria o desejo do negro de integrar-se na sociedade e não mais ficar isolado. 
+
+- 271 --- 
+
+O último capítulo intitulado: "O problema do negro na sociedade de classes", nele o autor se propôs analisar aspectos da reação do negro às "tensões raciais" como exemplo a reação ao preconceito de cor e também aspectos do que ele denominou o "dilema racial brasileiro" . A tendência dos brancos de identificar o elemento negro com posição social inferior atuava mesmo para aqueles que atingiam posições de "classe média" através da renda, profissão, título universitário. Portanto era e ainda é necessário eliminar esse tipo de avaliação para se obter melhor aproveitamento, digo, ajustamento dos negros à sociedade capitalista. 
+
+Nas conclusões constata que não houve coerência entre o sistema de relações raciais e o desenvolvimento da "ordem social competitiva", ou seja apesar das mudanças do capitalismo em São Paulo os contatos raciais não tiveram grandes alterações, vai mais adiante quando afirma: "Graças ao estilo de sua manifestação e ao tipo de reação societária que estimulam na sociedade global, as tensões raciais antes atuam no sentido de dar continuidade e de fortalecer a desigualdade racial, que na direção oposta, de incrementar a equiparação sócio-economica e cultural do "negro" em face do "branco" .
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.027]
+"democracia liberal" e "dominação/exclusão racial" que existiam os negros passaram a "individualizar" o seu protesto contra a discriminação e 
+
+- 272 - 
+
+mais até acharam "perigoso" pertencer a determinados movimentos que tinham um programa de luta bem definido contra as discriminações. Assim o Autor configura o dilema racial brasileiro: 
+
+"Delineia-se claramente, assim, o dilema racial brasileiro. Visto em termos de uma das comunidades industriais em que o regime de classes sociais se desenvolveu de modo mais intenso e homogêneo no Brasil, ele se caracteriza pela forma fragmentária, unilateral e incompleta com que esse regime consegue abranger, coordenar e regulamentar as relações raciais. Estas não são totalmente absorvidas e neutralizadas, desaparecendo atrás das relações de classes. Mas sobrepõe-se a elas, mesmo onde e quando as contrariam, como se o sistema de ajustamentos e de controles sociais da sociedade de classes não contivesse recursos para absorve-las e regula-las socialmente. 
+
+Ao final o Autor indica a necessidade dos negros reforçarem suas críticas e lutarem- por soluções através dos movimentos sociais, além desse aspecto aponta também a necessidade de urna iniciativa governamental de praticar uma política de "democracia racial" orientando brancos e negros na plena participação das oportunidades sociais existentes. Se as duas indicações não ocorressem a situação de "desigualdade racial" iria permanecer, os elementos negros, negros em poucos casos e de forma expontânea teriam uma relativa ascensão, mas as avaliações errôneas do contato racial iriam permanecer de parte a parte.
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.018]
+2 9 ) . — Os efeitos da mobilidade social-vertical no "meio negro"; 
+
+3 9 ) . — Natureza e função social das impulsões "igualitárias" entre negros e a sociedade global. 
+
+Na primeira parte intitulada "Cor e estratificação social" foi analisada a persistência por parte dos brancos de identificar a "cor" com a posição social "baixa" e a partir dai uma série de avaliações distorcidas. Embora o autor tivesse constatado atraves de estatísticas a ocupação profissional do elemento negro estar bastante correspondente com trabalho braçal de baixa renda. 
+
+Na segunda parte intitulada "A ascensão social do negro e do mulato" o Autor se propôs o estudo do processo de ascensão social verificando os seguintes aspectos: 
+
+1 9) . — estimulos psicológicos e. condições materiais da ascensão social do negro; 
+
+29) . — obstáculos e discriminações à ascensão; 
+
+3 9 ) . — "técnicas" de ascensão social ou de consolidação do _status,_ exploradas pelo negro e pelo mulato (conforme expressão do Autor) . 
+
+49 ) . — consequências psicológicas e sociais dos negros no processo de ascensão. 
+
+O Autor após apresentar descrições de vários casos pessoais sobre a mobilidade social chega a conclusões como a ascensão pelo menos até o ano da pesquisa (1951) ficou restringida aos poucos elementos que atingiram a condição de proletários e em menor número as camadas "médias", observou a persistência de "timidez" e vida material bastante precária como obstáculos psico-sociais à ascensão e ao final concluiu que as manifestações de preconceito não se modificaram com a ascensão pelo contrário criaram muitas dificuldades de ascensão.
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.003]
+O segundo volume tem como título: "No limiar de uma nova era", nele o autor no primeiro capítulo desenvolveu a análise da reação do meio negro à pobreza, marginalização, desorganização e às manifestações de preconceito e discriminação parcialmente desenvolvidas no primeiro volume e que voltaram a ser discutidas no segundo volume com outras hipóteses explicativas. Os movimentos sociais desenvolveram-se nas decadas de 1920, 30 e 40 (nas décadas posteriores formaram-se outras associações culturais e beneficentes embora diminuissem o caráter explicitamente político anterior) . O autor sublinha que esses movimentos tinham certas relações com as crises da economia agrária-exportadora e estrutura sócio-política rural dominante frente ao processo de contestação política das classes-médias urbanas e a expansão do setor industrial. Mas tinham um carater especifico de luta pela ascensão do elemento negro, de esclarecimento da sua situação de marginal, da natureza das relações com o elemento branco e a necessidade de desenvolver formas culturais para eleminar os problemas e integrar os negros na sociedade global. Os jornais, as associações, suas idéias e seus lideres são descritos e analisados embora não haja uma análise profunda dos programas e das idéias desenvolvidas nessas entidades. O autor revela os projetos de luta dos diferentes movimentos negros daquelas décadas: a eliminação do "conformismo" e "apatia" dos negros frente à desorganização social e econômica, a crítica à falta de solidariedade social entre os negros, a critica às diferentes formas de "diferenciação" social entre os negros; a tentativa de união para troca de opiniões e experiências, assistência social e educacional, realização de debates e conferencias, contatos culturais e artisticos. Sobre os movimentos sociais, o Autor descreve mais longamente a atividade da associação "Frente Negra Brasileira"
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.003]
+# _JOSÉ ROBERTO CLAUDINO_ 
+
+- JOHNSON (Allen W. ) . — _Sharecroppers of the Sertão. (Economics and Dependence on a Brazilian Plantation)._ Stanford, Stanford University Press, 1971. 140 páginas + 18 tabelas. 
+
+Mais uma vez, o interesse dos estudiosos norte-americanos resulta numa obra elucidativa da paisagem social brasileira. O trabalho de Allen Johnson, Professor Assistente na Universidade de Colúmbia, aborda com seriedade um tema omisso em nossas obras de pesquisa antropológica: o _modus vivendi_ dos camponeses no tórrido _habitat_ sertanejo. 
+
+O exaustivo trabalho de campo desenvolvido no interior de uma fazenda cearense teve como propósito medir e delinear os contornos das atividades de subsistência numa realidade específica e confronta-las com outras realidades semelhantes. Tres questões centradas em torno dessa problemática geral permitiram ao a• utor consubstanciar empiricamente sua pesquisa: 
+
+— a repercussão das condições ecológicas sobre a forças de trabalho e a conceituação que a última atribui àquelas;
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.002]
+"; a razão disto está numa forte impulsão psicológica de ser reconhecido como "gente" em consequência como não podiam ficar sem nenhum tipo de renda, o caminho do "crime" e da "malandragem" eram seguidos proporcionando uma certa idéia de independência. Nesta parte o Autor descreve inúmeras histórias pessoais que apontam também os diferentes aspectos da desorganização do núcleo social básico: a família. 
+
+- 268 - 
+
+No terceiro capítulo intitulado "Heteronomia racial na sociedade de classes", a prespectiva de análise voltou-se para os padrões de dominação étnica da população branca afirmando o autor que apesar da mudança estrutural das relações de produção com a Abolição, os mecanismos de dominação senhorial permaneceram na sociedade capitalista emergente. Embora não houvesse uma política segregacionista a dominação branca continuou, pois já dominavam posições-chaves da nova sociedade ao mesmo tempo que "marginalizava-se" a população negra. Por outro lado as manifestações de preconceito de cor e discriminação funcionaram como mecanismos de isolamento cultural. Posteriormente, na segunda parte, com o título "Os padrões tradicionalistas de relações raciais" desenvolve-se a análise das relações entre brancos e negros como diferentes setores da população branca avaliavam e avaliam os negros, o isolamento social, a negação de contatos, o tratamento "senhorial" persistente.
+
+---
+
+[referencia=fe2a1fd7aee2a702 score=0.001]
+"Frente Negra Brasileira" que existiu de 1931 a 1937, organizada por combativos líderes negros e mulatos. Sobre ela há informações sobre os dirigentes, o jornal publicado "A voz da raça" e trechos dos seus estatutos e programa de ação. O autor relaciona alguns objetivos da Frente: 
+
+- 269 - 
+
+absorver da sociedade "branca" determinados padrões de comportamento e personalidade, por exemplo a liderança de uma família, o desejo de mobilidade social vertical; 
+
+reação aos mecanismos psicológicos de "passividade" e "acomodação" frente ao domínio social dos brancos; 
+
+crítica ostensiva a qualquer manifestação de "preconceito de cor" procurando orientar seus associados; 
+
+preparar o negro para enfrentar tensões e conflitos nos contatos sociais e raciais com os brancos; 
+
+a tentativa de "esclarecer" o branco da existência de situações psicológicas e sociais que impediam a plena participação dos negros na sociedade global. 
+
+O Autor conclui sobre a participação da Frente: 
+
+"Ela precipitou atitudes e comportamentos que, de outro modo, não eclodiriam na cena histórica. Contribuiu especificamente para modificar o padrão de reação do negro aos mecanismos existentes de ordenação social das relações raciais. Por fim, construiu uma estratégia direta de combate confinado ao "preconceito de cor", que permitia lançar mão da violência disciplinada sem maiores riscos, convertendo o conflito em arma criadora, como arma, digo, instrumento da integração social". 
+
+Em outra parte o autor desenvolve a formação de uma "contra-ideologia" negra frente à ideologia racial tradicionalista partindo de ires constatações:

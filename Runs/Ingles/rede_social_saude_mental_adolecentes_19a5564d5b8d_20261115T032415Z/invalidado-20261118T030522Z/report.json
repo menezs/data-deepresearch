@@ -1,0 +1,1042 @@
+{
+  "run_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z",
+  "answer_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Ingles/Claude/EmConsolidacao/rede_social_saude_mental_adolecentes.md",
+  "generated_at": "2026-11-15T03:41:43.075192Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 29352,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 93,
+    "citation_markers_distinct": 39,
+    "references_listed": 39,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 82,
+  "pct_supported": 81.70731707317073,
+  "pct_unsupported": 13.414634146341465,
+  "pct_contradicted": 2.4390243902439024,
+  "count_supported": 67,
+  "count_unsupported": 11,
+  "count_contradicted": 2,
+  "count_skipped": 2,
+  "count_audited": 80,
+  "pct_supported_audited": 83.75,
+  "pct_unsupported_audited": 13.750000000000002,
+  "pct_contradicted_audited": 2.5,
+  "count_partially_supported": 19,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 1,
+    "ref_bloqueada": 1
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 1,
+  "count_reclassified_by_verification": 3,
+  "verification_stage_counts": {
+    "full_doc_scan": 1,
+    "context_expansion": 2
+  },
+  "mis_cited_reference_count": 4,
+  "uncredited_reference_count": 3,
+  "dead_references": [
+    {
+      "id": "d76c4dfc11e3cb0e",
+      "citation_markers": [
+        "[24]"
+      ],
+      "raw_url": "https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf",
+      "normalized_url": "https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf",
+      "work_key": "https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf",
+      "title": "24. Maza et al., habitual social media checking and longitudinal brain development, JAMA Pediatrics (2023), author PDF.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-11-15T03:26:27.988680Z",
+      "error_message": "Referencia nao encontrada (404): https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "686b086a4fbd155f",
+      "citation_markers": [
+        "[32]"
+      ],
+      "raw_url": "https://www.globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments/",
+      "normalized_url": "https://globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments",
+      "work_key": "https://globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments",
+      "title": "32. Covington Global Policy Watch, \"Online Safety in the UK: Social Media Ban for Under-16s and Other Recent Developments\" (June 17, 2026).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T03:26:47.180482Z",
+      "error_message": "barreira de acesso (anti_bot): Checking your browser before accessing this site. This process is automatic. You will arrive shortly. Verification succe",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-40",
+      "reason": "Referencia(s) citada(s) ['d76c4dfc11e3cb0e'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-67",
+      "reason": "Referencia(s) citada(s) ['686b086a4fbd155f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "7da683ad38c27126",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13668480",
+      "times_cited": 7,
+      "supported_count": 7,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        13,
+        14,
+        25,
+        27,
+        50
+      ],
+      "partial_positions": [
+        29
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "problematic SMU, characterized by compulsive behavior and its interference with basic daily functioning, has been shown to have a stronger and more consistent relationship with negative mental health outcomes such as depression, anxiety, and stress.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "caf6f8c7cac9ef23",
+      "url": "https://www.nationalacademies.org/news/to-minimize-harms-and-maximize-benefits-of-social-media-to-adolescent-health-new-report-recommends-setting-industrywide-standards-new-protections-against-harassment",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        2,
+        9,
+        65
+      ],
+      "partial_positions": [
+        24,
+        43
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The report concludes there is not enough evidence to say that social media causes changes in adolescent health at the population level",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "28ba90df7bd7f3d0",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        30,
+        32,
+        34,
+        38
+      ],
+      "partial_positions": [
+        3
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Data indicate that technology use particularly within one hour of bedtime, and social media use in particular, is associated with sleep disruptions. Insufficient sleep is associated with disruptions to neurological development in adolescent brains, teens' emotional functioning, and risk for suicide.",
+      "key_excerpt_position": 30
+    },
+    {
+      "reference_id": "3e5d941b100227ff",
+      "url": "https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        31,
+        41,
+        42
+      ],
+      "partial_positions": [
+        3,
+        46
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Four-in-ten or more teens say social media platforms hurt the amount of sleep they get (45%), as well as their productivity (40%). Small shares – about one-in-ten or fewer – say social media platforms help with these things. And roughly one-third say these platforms neither help nor hurt. About one-in-five teens say social media hurt their mental health (19%) or grades (22%).",
+      "key_excerpt_position": 31
+    },
+    {
+      "reference_id": "32bc34c48dfdcb06",
+      "url": "https://platformer.news/anxious-generation-jonathan-haidt-debate-critique/",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        47,
+        48,
+        49
+      ],
+      "partial_positions": [
+        10,
+        23
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Haidt proposes four changes that he believes to break what he calls \"collective action traps\": no smartphones before high school, no social media before the age of 16, phone-free schools, and increased amounts of independent play and responsibility in the real world.",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "13d0780828065ceb",
+      "url": "https://repec.cepr.org/repec/cpr/ceprdp/DP17252.pdf",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        16,
+        17,
+        18
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the introduction of Facebook at a college had a negative impact on student mental health",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "b746ecd8cc84c44e",
+      "url": "https://www.npr.org/2026/03/25/nx-s1-5746125/meta-youtube-social-media-trial-verdict",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        54,
+        55,
+        57
+      ],
+      "partial_positions": [
+        5
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A California jury on Wednesday found that Meta and Google were to blame for the depression and anxiety of a woman who compulsively used social media as a small child, awarding her $6 million in a rare verdict holding Silicon Valley accountable for its role in fueling a youth mental health crisis. The jurors concluded that Meta and Google should pay the woman $3 million in compensatory damages and an additional $3 million in punitive damages, with Meta on the hook for 70% of that amount. Now 20 years old, Kaley, who is from Chico, Calif., said she first started using YouTube at 6 years old and Instagram when she was 11.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "42bd6ebd2565f518",
+      "url": "https://www.biometricupdate.com/202608/no-age-checks-for-half-of-australian-kids-but-social-media-accounts-still-drop-10",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        75,
+        76,
+        77
+      ],
+      "partial_positions": [
+        6
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The number of children with restricted social media accounts was 52.4 percent when Australia's new rules took effect last December, and decreased to 42.1 percent 3 months later. Reductions ranged from nearly 10 percent for YouTube to just 1.2 percent (12.4 percent to 11.2 percent) for Facebook. The report breaks down the findings by demographic groups. The reduction in use, however, was much smaller, with 81.5 percent of children still reporting use of an age-restricted platform, down only 4.4 percent from when the rules changed.",
+      "key_excerpt_position": 75
+    },
+    {
+      "reference_id": "4a50926dfadd48cf",
+      "url": "https://mdlupdate.com/mdl/3047-social-media-adolescent-addiction/",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        56,
+        59,
+        62
+      ],
+      "partial_positions": [
+        58
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The second California bellwether trial (JCCP 5255) was set to open with jury selection on **October 28, 2026** in Los Angeles... Opening statements are expected November 4, AFP reported, and under a tentative schedule Meta CEO Mark Zuckerberg is expected to testify November 10 and Instagram head Adam Mosseri November 19.",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "fd386880a781fe0f",
+      "url": "https://www.contemporarypediatrics.com/view/social-media-potentially-linked-to-depression-in-children",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        19,
+        20
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        1
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The study observed a marked increase in time spent on social media, from a mean of 7 minutes per day at baseline to 73 minutes daily by year 3.",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "e92d5681ee681ed8",
+      "url": "https://www.thetrevorproject.org/research-briefs/online-experiences-and-mental-health-of-lgbtq-young-people/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        44,
+        45
+      ],
+      "partial_positions": [
+        3
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The majority of LGBTQ+ young people agreed that they go online to connect with others because it is difficult to do so in their daily lives, with 38% somewhat agreeing and 36% strongly agreeing. [...] A small proportion of LGBTQ+ young people (7%) reported not feeling safe and understood anywhere on the internet. [...] Not feeling safe and understood anywhere online was associated with higher rates of recent anxiety (75% vs. 65%) [...] and attempts (14% vs. 11%) [...] Using data from The Trevor Project's 2024 U.S. National Survey on the Mental Health of LGBTQ+ Young People",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "cca9b614af6a807b",
+      "url": "https://en.wikipedia.org/wiki/Social_media_age_verification_laws_by_country",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        66,
+        70
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The ban came into effect on 10 December 2025. Australia then became the first country in the world to ban social media, banning platforms YouTube, TikTok, X, Facebook, Instagram, Snapchat, Twitch, Kick, Threads and Reddit for individuals under 16. On 17 June 2026, Keir Starmer announced that the Children's Wellbeing and Schools Act 2026 has passed, which puts a ban on children under 16 having accounts and accessing social media apps such as Snapchat, TikTok, Instagram, Facebook, X and YouTube, effective from March 2027. On 13 September 2026, the EU Kids Act was introduced to the EU Parliament.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "7540bb756ebf8b2c",
+      "url": "https://www.euronews.com/2026/09/22/eu-kids-act-the-eus-plan-to-make-the-internet-safer-for-kids",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        68,
+        69
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        4
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Service providers can’t encourage compulsive or excessive use through endless autoplay, infinite scrolling, or rewards for posting. […] Recommenders that suggest content based on online behaviour are banned too. […] Breaches result in fines of up to 6% of total worldwide annual turnover.",
+      "key_excerpt_position": 68
+    },
+    {
+      "reference_id": "70a82aa21fd039f0",
+      "url": "https://www.pearlcohen.com/meta-settles-with-attorneys-general-for-up-to-17-billion-agrees-to-design-changes/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        61
+      ],
+      "partial_positions": [
+        60
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a bipartisan coalition of 51 state attorneys general announced a settlement with Meta Platforms, Inc. [...] Meta will pay the states up to $17 billion over ten years [...] Meta must default teen users — defined as users with a predicted or stated age from 13 through 17 — into a Night Access Mode blocking access between midnight and 6 a.m., a cumulative daily limit of two hours across Meta's social media platforms",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "272e7b8771f030de",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11850730/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        79,
+        80
+      ],
+      "partial_positions": [
+        6
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "As expected, participants in schools with restrictive policies reported less phone use during the school day (by about 30 min), but compensated for this when outside of school, so overall there was no evidence of a difference in screen time or social media time on weekdays or weekends.",
+      "key_excerpt_position": 79
+    },
+    {
+      "reference_id": "b27add743bea808c",
+      "url": "https://www.ox.ac.uk/node/1434409",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        11,
+        12,
+        51
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Study finds only 0.4% of wellbeing in adolescents is associated with technology use; Most definitive study to date, using data from 300,000 adolescents and parents in the UK and USA; The method used by the researchers, called Specification Curve Analysis; Amy Orben, College Lecturer at the Queen's College, University of Oxford, and author on the study; lead researcher Professor Andrew Przybylski; Nature Human Behaviour, published 14 January 2019",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "c9fb238fd7a37a45",
+      "url": "https://www.researchsquare.com/article/rs-11170337/v1",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        15,
+        26
+      ],
+      "partial_positions": [
+        21
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Social media use was associated with poorer mental health outcomes (*SMD* = 0.21, 95% *CI* [0.16, 0.27], *p* < .001), although heterogeneity was substantial. Despite high quality scores (Mean = 9.57 out of a possible 11), only 3 out of 7 meta-analyses were pre-registered, highlighting the lack of research transparency. [...] A three-level random-effects model of these 96 effect sizes yielded a Cohen's d of 0.24 (95% *CI* [0.13, 0.36], *p* < .001).",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "f35c408b0f048a62",
+      "url": "https://www.cnbc.com/2021/09/14/facebook-documents-show-how-toxic-instagram-is-for-teens-wsj.html",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        33,
+        36
+      ],
+      "partial_positions": [
+        52
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "\"Thirty-two percent of teen girls said that when they felt bad about their bodies, Instagram made them feel worse,\" the researchers reportedly wrote.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "833205b62526fcb5",
+      "url": "https://cdc.gov/yrbs/dstr/pdf/YRBS-2023-Data-Summary-Trend-Report.pdf?os=0",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        7
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [
+        8
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "|**Seriously considered attempting**<br>**suicide**|17|18|17|19|22|20|||",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "d76c4dfc11e3cb0e",
+      "url": "https://dsnlab.web.unc.edu/wp-content/uploads/sites/12535/2023/02/jamapediatrics_maza_2023_oi_220079_1675957138.23451-1.pdf",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        39,
+        40
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0a387c9ba95468ff",
+      "url": "https://matthewbjane.quarto.pub/social-media-and-mental-health/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        22
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Due to some initial concerns about data quality, the preliminary analyses have been taken down.",
+      "key_excerpt_position": 22
+    },
+    {
+      "reference_id": "1779d55b02719ed7",
+      "url": "https://openresearch-repository.anu.edu.au/entities/publication/543a7b5f-034e-41a5-a4a3-171980e24359",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        28
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Meta-analyses found small but significant positive associations between social media use, depression, and anxiety. In addition, problematic social media use was positively associated with depression, anxiety, and sleep problems, and negatively associated with wellbeing.",
+      "key_excerpt_position": 28
+    },
+    {
+      "reference_id": "c644825a7de0b7f0",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11641642/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        29
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Research shows that passive browsing of others' content often leads to negative psychological effects, while active engagement can yield positive outcomes",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "420d200ee1ff830a",
+      "url": "https://www.irishtimes.com/world/uk/2022/09/30/global-first-ruling-that-online-content-contributed-to-14-year-old-molly-russells-death",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        35
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Concluding it would not be “safe” to rule the cause of Molly’s death as suicide, Mr Walker said the teenager “died from an act of self-harm while suffering depression and the negative effects of online content”. ... Out of 16,300 posts that Molly saved, shared or liked on Instagram in the six months before her death, 2,100 were related to depression, self-harm or suicide, the inquest was told. ... should not have been available for a 14-year-old child to see",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "f8420be6b49f0412",
+      "url": "https://www.americanbanker.com/news/fincen-warns-of-surge-in-financially-motivated-sextortion",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        37
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "While anyone can become a victim of sextortion, the schemes often target boys aged 14 to 17. The National Center for Missing & Exploited Children reports that at least 36 teenagers have taken their own lives since 2021 due to the threat of their explicit images being leaked.",
+      "key_excerpt_position": 37
+    },
+    {
+      "reference_id": "601f4675eb103602",
+      "url": "https://www.unc.edu/?p=224688",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        39
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "de99470982b4d49e",
+      "url": "https://oag.ca.gov/news/press-releases/attorney-general-bonta-unredacted-federal-lawsuit-against-meta-%E2%80%9Cdamning%E2%80%9D",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        53
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a bipartisan coalition of 33 attorneys general against Meta Platforms, Inc. and affiliates (Meta) on October 24, 2023 ... Mark Zuckerberg personally vetoed Meta's proposed policy to ban image filters that simulated the effects of plastic surgery ... Meta knows that its social media platforms are used by millions of children under 13, including, at one point, around 30% of all 10–12-year-olds",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "8ede1b462fdffe70",
+      "url": "https://www.childrenandscreens.org/newsroom/news/policy-update-july-2026/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        60
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "79c6ac176d5d0664",
+      "url": "https://variety.com/2026/digital/news/meta-18-billion-settlement-state-ags-lawsuit-social-media-addiction-1236843725/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [
+        60
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "All told, a bipartisan group of 52 attorneys general across U.S. states, territories and the District of Columbia joined the agreement with Meta.",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "55dab49d838b1eca",
+      "url": "https://www.popsci.com/technology/warning-labels-social-media/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        63
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It is time to require a surgeon general's warning label on social media platforms, stating that social media is associated with significant mental health harms for adolescents.",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "7a25b4ae3edd8699",
+      "url": "https://www.apa.org/news/press/releases/2024/06/social-media-youth",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        64
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We applaud Surgeon General Vivek Murthy for calling attention to the potential dangers to children posed by social media platforms.",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "686b086a4fbd155f",
+      "url": "https://www.globalpolicywatch.com/2026/06/online-safety-in-the-uk-social-media-ban-for-under-16s-and-other-recent-developments/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        67
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "3c9bfe99d07b4911",
+      "url": "https://www.crowell.com/en/insights/client-alerts/house-advances-bipartisan-kids-online-safety-bill-but-senate-showdown-looms",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        71
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Both KOSA and COPPA 2.0 have previously cleared the Senate and the House Energy and Commerce Committee, but neither has reached the President's desk.",
+      "key_excerpt_position": 71
+    },
+    {
+      "reference_id": "f28ef84f13612cf3",
+      "url": "https://www.loeb.com/en/insights/publications/2026/06/childrens-online-privacy-2026-state-app-store-design-code-and-social-media-laws",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        72
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Virginia's social media law (SB 854), which took effect Jan. 1 and imposed a one-hour daily time limit on social media use by minors under 16, was enjoined on Feb. 27 in *NetChoice v. Jones*. [...] Mississippi Walker Montgomery Protecting Children Online Act (HB 1126) [...] July 17, 2025 – Fifth Circuit grants Mississippi's request to stay preliminary injunction July 21, 2025 – Supreme Court denies emergency motion to lift stay [...] Ohio Parental Notification by Social Media Operators Act (HB 33) [...] Sixth Circuit vacated the injunction June 18, 2026, finding NetChoice lacked standing and the law did not violate First Amendment constitutional",
+      "key_excerpt_position": 72
+    },
+    {
+      "reference_id": "a7bb4fdb22fcfc4d",
+      "url": "https://ccianet.org/news/2026/10/appeals-court-finds-floridas-law-restricting-social-media-can-be-enforced/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        73
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Eleventh Circuit Court of Appeals has ruled that Florida’s HB3, restricting access to social media for teens, can be enforced ahead of the First Amendment issues being fully heard in federal court.",
+      "key_excerpt_position": 73
+    },
+    {
+      "reference_id": "c039730a787bfdb6",
+      "url": "https://www.esafety.gov.au/newsroom/media-releases/platforms-restrict-access-to-47-million-under-16-accounts-across-australia",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        74
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Major social media companies removed access to about 4.7 million accounts identified as belonging to children under 16 in the first half of December to comply with Australia's social media minimum age, according to initial figures gathered by eSafety.",
+      "key_excerpt_position": 74
+    },
+    {
+      "reference_id": "f74734b56aafdb8b",
+      "url": "https://www.esafety.gov.au/research/social-media-age-restrictions-evaluation",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        78
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The study follows more than 4000 children and families for more than two-years using a range of complementary research methods [...] We will explore a wide range of outcomes, including: children's wellbeing and mental health",
+      "key_excerpt_position": 78
+    },
+    {
+      "reference_id": "3aa7b16cd9c85c16",
+      "url": "https://research.birmingham.ac.uk/en/publications/school-phone-policies-and-their-association-with-mental-wellbeing/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        79
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Adolescents attending schools with restrictive, compared to permissive policies had lower phone (adjusted mean difference −0.67 h, 95% CI −0.92 to −0.43, p = 0.00024) and social media time (adjusted mean difference −0.54 h, 95% CI −0.74 to −0.36, p = 0.00018) during school time, but there was no evidence for differences when comparing usage time on weekdays or weekends.",
+      "key_excerpt_position": 79
+    },
+    {
+      "reference_id": "02f92f68f87772cb",
+      "url": "https://mollyrosefoundation.org/instagram-teen-accounts-fail-to-protect-children-first-of-its-kind-testing-of-safety-tools-reveals/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        81
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Users of Teen Accounts able to view content that promotes suicide, self-harm and eating disorders, with autocomplete suggestions actively recommending search terms and accounts related to suicide, self-harm, eating disorders and illegal substances.",
+      "key_excerpt_position": 81
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-43",
+      "position": 43,
+      "claim_excerpt": "The National Academies adds support for youth facing bereavement or illness and community for LGBTQ+ teens.",
+      "cited_markers": "[4]",
+      "corroborating_markers": "[7] [14] [5] [1] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-46",
+      "position": 46,
+      "claim_excerpt": "Online refuges and offline distress are therefore intertwined, and blanket restrictions risk removing support from the groups that rely on it most. Perceived support is also eroding, falling from 67%…",
+      "cited_markers": "[6]",
+      "corroborating_markers": "[2] [7] [20] [27] [17] [5] [1]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-71",
+      "position": 71,
+      "claim_excerpt": "The US Congress has still not enacted the Kids Online Safety Act (KOSA) or COPPA 2.0, its companion bill to extend children's privacy protections to teens. The House passed a narrower KIDS Act 267–11…",
+      "cited_markers": "[33]",
+      "corroborating_markers": "[28] [34] [8] [39]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_19a5564d5b8d_20261115T032415Z-73",
+      "position": 73,
+      "claim_excerpt": "In October 2026 the Eleventh Circuit allowed Florida's under-14 ban to be enforced.",
+      "cited_markers": "[35]",
+      "corroborating_markers": "[8] [34] [27]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 690010,
+  "cost_tracked": false,
+  "processing_time_seconds": 1047.635257
+}

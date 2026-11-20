@@ -1,0 +1,6 @@
+[referencia=a0dbc26369736fb4 score=0.002]
+# A focus on adolescent social media use and gaming in Europe, central Asia and Canada: Health Behaviour in School-aged Children international report from the 2021/2022 survey. Volume 6
+
+### Overview
+
+The Health Behaviour in School-aged Children (HBSC) study is a large school-based survey carried out every four years in collaboration with the WHO Regional Office for Europe. HBSC data are used at national/regional and international levels to gain new insights into adolescent health and well-being, understand the social determinants of health and inform policy and practice to improve young people’s lives. The 2021/2022 HBSC survey data are accompanied by a series of volumes that summarize the key findings around specific health topics. This report, Volume 6 in the series, focuses on adolescent social media use and gaming, using the unique HBSC evidence on adolescents aged 11, 13 and 15 years across 44 countries and regions in Europe, central Asia and Canada. It describes the status of adolescent social media use and gaming, the role of gender, age and social inequality, and changes in adolescent social media use and gaming since 2018. Findings from the 2021/2022 HBSC survey provide an important evidence benchmark for current research, intervention and policy-planning.

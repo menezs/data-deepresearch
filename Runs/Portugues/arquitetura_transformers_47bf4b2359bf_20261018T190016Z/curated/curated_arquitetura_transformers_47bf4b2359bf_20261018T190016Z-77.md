@@ -1,0 +1,254 @@
+[referencia=958844d4171dd73c score=0.139]
+24 `for i in range(axis_size)]), (k, v))` 25 `return (max_score, numerator, denominator, k, v), None` 26 `prev_max_score = jnp.full((batch, num_heads, q_len), -jnp.inf).astype(q.dtype)` 27 `(max_score, numerator, denominator, _, _), _ = lax.scan(scan_kv_block,` 28 `init=(prev_max_score, numerator, denominator, k, v), xs=jnp.arange(0, axis_size))` 29 `output = numerator / rearrange(denominator, 'b h q -> b q h')[..., None]` 30 `return output.astype(v.dtype), (output, q, k, v, attn_bias, denominator, max_score)` 31 32 `def _ring_attention_bwd(axis_name, float32_logits, blockwise_kwargs, res, g):` 33 `output, q, k, v, attn_bias, denominator, max_score = res` 34 `batch, kv_len, num_heads, dim_per_head = k.shape` 35 `axis_size = lax.psum(1, axis_name)` 36 `dq = jnp.zeros_like(q, dtype=jnp.float32)` 37 `dk = jnp.zeros_like(k, dtype=jnp.float32)` 38 `dv = jnp.zeros_like(v, dtype=jnp.float32)` 39 `query_chunk_size = blockwise_kwargs["query_chunk_size"]` 40 `key_chunk_size = blockwise_kwargs["key_chunk_size"]` 41 `block_size = q.shape[1]` _`# assumes this function is pre-sharded inside shard_map`_ 42 `def scan_kv_block(carry, idx):` 43 `dq, dk, dv, k, v = carry` 44 `attn_bias_slice = lax.dynamic_slice_in_dim(attn_bias,` 45 `(lax.axis_index(axis_name) - idx) % axis_size * kv_len, kv_len, axis=-1)` 46 `q_block_idx = lax.axis_index(axis_name)` 47 `k_block_idx = (lax.axis_index(axis_name) - idx) % axis_size` 48 `q_chunk_idx_start = q_block_idx * (block_size // query_chunk_size)` 49 `k_chunk_idx_start = k_block_idx * (block_size // key_chunk_size)` 50
+
+---
+
+[referencia=958844d4171dd73c score=0.106]
+### FFN( _x_ ) = max(0 _, xW_ 1 + _b_ 1) _W_ 2 + _b_ 2 _._ 
+
+**Blockwise Parallel Transformers.** Prior state-of-the-arts have led to substantial reductions in memory utilization, achieved through innovative techniques that enable attention computation without full materialization by computing attention in a block by block manner [30, 9, 23]. These advancements lowered the memory overhead of attention to 2 _bsh_ bytes per layer, where _b_ represents the batch size, _s_ denotes the sequence length, and _h_ stands for the hidden size of the model. To further reduce memory usage, blockwise parallel transformer (BPT) [23] introduced a strategy where the feedforward network associated with each self-attention sub-layer is computed in a block-wise fashion. This approach effectively limits the maximum activation size of feedforward network from 8 _bsh_ to 2 _bsh_ . For a more detailed analysis of memory efficiency, please refer to the discussion provided therein. In summary, the state-of-the-art transformer layer’s memory cost of activation is 2 _bsh_ . 
+
+**Large Output of Each Layer.** While BPT significantly reduces memory demand in Transformers, it still presents a major challenge for scaling up context length because it requires storing the output of each layer. This storage is crucial due to the inherent nature of self-attention, which involves interactions among all elements (n to n interactions). Without these stored outputs, the subsequent layer’s self-attention becomes computationally impractical, necessitating recomputation for each sequence element. To put it simply, processing 100 million tokens with a batch size of 1 requires over 1000GB of memory even for a modest model with a hidden size of 1024. In contrast, modern GPUs and TPUs typically provide less than 100GB of high-bandwidth memory (HBM), and the prospects for significant HBM expansion are hindered by physical limitations and high manufacturing costs.
+
+---
+
+[referencia=958844d4171dd73c score=0.069]
+## **1 Introduction** 
+
+Transformers [37] have become the backbone of many state-of-the-art AI systems that have demonstrated impressive performance across a wide range of AI problems. Transformers achieve this success through their architecture design that uses self-attention and position-wise feedforward mechanisms. However, scaling up the context length of Transformers is a challenge [29], since the inherited architecture design of Transformers, _i_ . _e_ . the self-attention has memory cost quadratic in the input sequence length, which makes it challenging to scale to longer input sequences. Large context Transformers are essential for tackling a diverse array of AI challenges, ranging from processing books and high-resolution images to analyzing long videos and complex codebases. They excel at extracting information from the interconnected web and hyperlinked content, and are crucial for handling complex scientific experiment data. There have been emerging use cases of language models with significantly expanded context than before: GPT-3.5 [32] with context length 16K, GPT-4 [29] with context length 32k, MosaicML’s MPT [25] with context length 65k, and Anthropic’s Claude [1] with context length 100k. 
+
+Driven by the significance, there has been surging research interests in reducing memory cost. One line of research leverages the observation that the softmax matrix in self-attention can be computed without materializing the full matrix [24] which has led to the development of blockwise computation of self-attention and feedforward [30, 9, 23] without making approximations. Despite the reduced memory, a significant challenge still arises from storing the output of each layer. This necessity arises from self-attention’s inherent nature, involving interactions among all elements (n to n interactions). The subsequent layer’s self-attention relies on accessing all of the prior layer’s outputs. Failing to do so would increase computational costs cubically, as every output must be recomputed for each sequence element, rendering it impractical for longer sequences. 
+
+> 1 Code: `https://github.com/lhao499/llm_large_context` 
+
+Preprint.
+
+---
+
+[referencia=958844d4171dd73c score=0.067]
+1 `def _ring_attention_fwd(q, k, v, attn_bias, axis_name, float32_logits, blockwise_kwargs):` 2 `if float32_logits:` 3 `q, k = q.astype(jnp.float32), k.astype(jnp.float32)` 4 `batch, q_len, num_heads, dim_per_head = q.shape` 5 `batch, kv_len, num_heads, dim_per_head = k.shape` 6 `numerator = jnp.zeros((batch, q_len, num_heads, dim_per_head)).astype(q.dtype)` 7 `denominator = jnp.zeros((batch, num_heads, q_len)).astype(q.dtype)` 8 `axis_size = lax.psum(1, axis_name)` 9 `block_size = q_len` _`# assumes this function is pre-sharded inside shard_map`_ 10 `query_chunk_size = blockwise_kwargs["query_chunk_size"]` 11 `key_chunk_size = blockwise_kwargs["key_chunk_size"]` 12 `def scan_kv_block(carry, idx):` 13 `prev_max_score, numerator, denominator, k, v = carry` 14 `attn_bias_slice = lax.dynamic_slice_in_dim(attn_bias,` 15 `(lax.axis_index(axis_name) - idx) % axis_size * kv_len, kv_len, axis=-1)` 16 `q_block_idx = lax.axis_index(axis_name)` 17 `k_block_idx = (lax.axis_index(axis_name) - idx) % axis_size` 18 `q_chunk_idx_start = q_block_idx * (block_size // query_chunk_size)` 19 `k_chunk_idx_start = k_block_idx * (block_size // key_chunk_size)` 20 `numerator, denominator, max_score = _blockwise_attention_fwd(q, k, v,` 21 `(numerator, denominator, prev_max_score), q_chunk_idx_start, k_chunk_idx_start,` 22 `bias=attn_bias_slice, **blockwise_kwargs)` 23 `k, v = map(lambda x: lax.ppermute(x, axis_name, perm=[(i, (i + 1) % axis_size)` 24 `for i in range(axis_size)]), (k, v))` 25 `return (max_score, numerator, denominator, k, v), None` 26
+
+---
+
+[referencia=958844d4171dd73c score=0.058]
+## **6 Related Work** 
+
+Transformers have garnered significant attention in the field of AI and have become the backbone for numerous state-of-the-art models. Several works have explored memory-efficient techniques to address the memory limitations of Transformers and enable their application to a wider range of problems. Computing exact self-attention in a blockwise manner using the tiling technique [24] has led to the development of memory efficient attention mechanisms [30] and its efficient CUDA implementation [9], and blockwise parallel transformer [23] that proposes computing both feedforward and self-attention block-by-block, resulting in a significant reduction in memory requirements. In line with these advancements, our work falls into the category of memory efficient computation for Transformers. Other works have investigated the approximation of attention mechanisms, yet these efforts have often yielded sub-optimal results or encountered challenges during scaling up. For an in-depth review of these techniques, we recommend referring to the surveys [26, 35]. Another avenue of research explores various parallelism methods, including data parallelism [10], tensor parallelism [34], pipeline parallelism [27, 15, 28], sequence parallelism [21, 18, 17], and FSDP [11, 31]. The activations of self-attention take a substantial amount of memory for large context models. Tensor parallelism can only reduce parts of activations memory and sequence parallelism introduces a significant communication overhead that cannot be fully overlapped with computation. Prior work has studied sharding along sequence and attention heads, and gathering sequences via an optimized all-to-all topology, achieving reduced communication [17]. However, this method is restricted by the number of attention heads and requires gathering the full sequence on each device. In comparison, our approach fully overlaps communication with blockwise computation, enhancing its scalability. Prior 
+
+9
+
+---
+
+[referencia=958844d4171dd73c score=0.041]
+# **Ring Attention with Blockwise Transformers for Near-Infinite Context** 
+
+### **Hao Liu, Matei Zaharia, Pieter Abbeel** 
+
+UC Berkeley 
+
+```
+hao.liu@cs.berkeley.edu
+```
+
+## **Abstract** 
+
+Transformers have emerged as the architecture of choice for many state-of-the-art AI models, showcasing exceptional performance across a wide range of AI applications. However, the memory demands imposed by Transformers limit their ability to handle long sequences, thereby posing challenges in utilizing videos, actions, and other long-form sequences and modalities in complex environments. We present a novel approach, Ring Attention with Blockwise Transformers (Ring Attention), which leverages blockwise computation of self-attention and feedforward to distribute long sequences across multiple devices while fully overlapping the communication of key-value blocks with the computation of blockwise attention. Our approach enables training and inference of sequences that are up to device count times longer than those achievable by prior memory-efficient Transformers, without resorting to approximations or incurring additional communication and computation overheads. Extensive experiments on language modeling and reinforcement learning tasks demonstrate the effectiveness of our approach in allowing millions of tokens context size and improving performance.<sup>1</sup> .
+
+---
+
+[referencia=958844d4171dd73c score=0.038]
+> 1 Code: `https://github.com/lhao499/llm_large_context` 
+
+Preprint. 
+
+These components facilitate the efficient capture of long-range dependencies between input tokens, and enable scalability through highly parallel computations. To put the memory demand in perspective, even when dealing with a batch size of 1, processing 100 million tokens requires over 1000GB of memory for a modest model with a hidden size of 1024. This is much greater than the capacity of contemporary GPUs and TPUs, which typically have less than 100GB of high-bandwidth memory (HBM). 
+
+To tackle this challenge, we make a key observation: by performing self-attention and feedforward network computations in a blockwise fashion [23], we can distribute sequence dimensions across multiple devices, allowing concurrent computation and communication. This insight stems from the fact that when we compute the attention on a block-by-block basis, the results are invariant to the ordering of these blockwise computations. Our method distributes the outer loop of computing blockwise attention among 
+
+
+
+Figure 1: Maximum context length under endto-end large-scale training on TPUv4-1024. Baselines are vanilla transformers [37], memory efficient transformers [30], and memory efficient attention and feedforward (blockwise parallel transformers) [23]. Our proposed approach Ring Attention allows training up to device count times longer sequence than baselines and enables the training of sequences that exceed millions in length without making approximations nor adding any overheads to communication and computation.
+
+---
+
+[referencia=958844d4171dd73c score=0.033]
+|||**Max contex**|**t size supported (**_×_|1e3**)**||
+|---|---|---|---|---|---|
+||Vanilla|Memory<br>Effcient Attn|Memory Effcient<br>Attn and FFN|Ring Attention<br>(Ours)|Ours<br>vs SOTA|
+|8x A100||||||
+|NVLink||||||
+|3B|4|32|64|**512**|8x|
+|7B|2|16|32|**256**|8x|
+|13B|2|4|16|**128**|8x|
+|32x A100||||||
+|InfniBand||||||
+|7B|4|64|128|**4096**|32x|
+|13B|4|32|64|**2048**|32x|
+|TPUv3-512||||||
+|7B|1|4|8|**2048**|256x|
+|13B|1|2|8|**1024**|128x|
+|TPUv4-1024||||||
+|3B|8|16|32|**16384**|512x|
+|7B|4|8|16|**8192**|512x|
+|13B|4|8|16|**4096**|256x|
+|30B|2|4|8|**2048**|256x|
+|TPUv5e-256||||||
+|3B|4|8|32|**4096**|128x|
+|7B|2|8|16|**2048**|128x|
+
+---
+
+[referencia=958844d4171dd73c score=0.020]
+## **3 Ring Attention with Blockwise Parallel Transformers** 
+
+Our primary objective is to eliminates the memory constraints imposed by individual devices by efficiently distribute long sequences across multiple hosts without adding overhead. To achieve this goal, we propose an enhancement to the blockwise parallel transformers (BPT) framework [23]. When distributing an input sequence across different hosts, each host is responsible for running one element of the outer loop of blockwise attention corresponding to its designated block, as well as the feedforward network specific to that block. These operations do not necessitate communication with other hosts. However, a challenge arises in the inner loop, which involves key-value block interactions that require fetching blocks from other hosts. Since each host possesses only one key-value block, the naive approach of fetching blocks from other hosts results in two significant issues. Firstly, it introduces a computation delay as the system waits to receive the necessary key-value blocks. Secondly, the accumulation of key-value blocks leads to increased memory usage, which defeats the purpose of reducing memory cost.
+
+---
+
+[referencia=958844d4171dd73c score=0.018]
+## **References** 
+
+- [1] Anthropic. Introducing claude, 2023. URL `https://www.anthropic.com/index/ introducing-claude` . 
+
+- [2] Christian Bischof. _Parallel computing: Architectures, algorithms, and applications_ , volume 15. IOS Press, 2008. 
+
+- [3] Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et al. Language models are few-shot learners. _Advances in neural information processing systems_ , 33:1877–1901, 2020. 
+
+- [4] Lili Chen, Kevin Lu, Aravind Rajeswaran, Kimin Lee, Aditya Grover, Misha Laskin, Pieter Abbeel, Aravind Srinivas, and Igor Mordatch. Decision transformer: Reinforcement learning via sequence modeling. _Advances in neural information processing systems_ , 34:15084–15097, 2021. 
+
+- [5] Tianqi Chen, Bing Xu, Chiyuan Zhang, and Carlos Guestrin. Training deep nets with sublinear memory cost. _arXiv preprint arXiv:1604.06174_ , 2016. 
+
+10
+
+---
+
+[referencia=958844d4171dd73c score=0.018]
+**Ring-Based Blockwise Attention.** To tackle the aforementioned challenges, we leverage the permutation invariance property of the inner loop’s key-value block operations. This property stems from the fact that the self-attention between a query block and a group of key-value blocks can be computed in any order, as long as the statistics of each block are combined correctly for rescaling. We leverage this property by conceptualizing all hosts as forming a ring structure: host-1, host-2, ..., host- _N_ . As we compute blockwise attention and feedforward, each host efficiently coordinates by concurrently sending key-value blocks being used for attention computation to the next host while receiving key-value blocks from the preceding host, effectively overlapping transferring of blocks with blockwise computation. Concretely, for any host- _i_ , during the computation of attention between its query block and a key-value block, it concurrently sends key-value blocks to the next host-( _i_ + 1) while receiving key-value blocks from the preceding host-( _i −_ 1). If the computation time exceeds the time required for transferring key-value blocks, this results in no additional communication cost. This overlapping mechanism applies to both forward and backward passes of our approach since the same operations and techniques can be used. Prior work has also proposed leveraging a ring topology to compute self-attention [21], aiming to reduce communication costs. Our work differs by utilizing blockwise parallel transformers to substantially reduce memory costs. As we show in the next section, this enables zero-overhead scaling of context size during both training and inference and allows arbitrarily large context size. 
+
+**Arithmetic Intensity Between Hosts.** In order to determine the minimal required block size to overlap transferring with computation, assume that each host has _F_ FLOPS and that the bandwidth 
+
+3
+
+---
+
+[referencia=958844d4171dd73c score=0.017]
+computation, the following condition must hold: 4 _dc_<sup>2</sup> _/F ≥_ 4 _cd/B_ . This implies that the block size, denoted as _c_ , should be greater than or equal to _F/B_ . Effectively, this means that the block size needs to be larger than the ratio of FLOPs over bandwidth. 
+
+**Memory Requirement.** A host needs to store multiple blocks, including one block size to store the current query block, two block sizes for the current key and value blocks, and two block sizes for receiving key and value blocks. Furthermore, storing the output of blockwise attention and feedforward necessitates one block size, as the output retains the shape of the query block. Therefore, a total of six blocks are required, which translates to 6 _bch_ bytes of memory. It’s worth noting that the blockwise feedforward network has a maximum activation size of 2 _bch_ [23]. Consequently, the total maximum activation size remains at 6 _bch_ bytes. Table 1 provides a detailed comparison of the memory costs between our method and other approaches. Notably, our method exhibits the advantage of linear memory scaling with respect to the block size _c_ , and is independent of the input sequence length _s_ . 
+
+Our analysis shows that the model needs to have a sequence length of _s_ = 6 _c_ , which is six times the minimal block size. Requirements for popular computing servers are shown in Table 2. The required minimal sequence length (rightmost column) for each host varies between 6K and 10K, and the minimal block size (second-to-rightmost column) for each host is around 1K for TPUs and GPUs with high bandwidth interconnect. For GPUs connected via InfiniBand, which offers lower bandwidth, the requirements are more strict. These requirements are easy to meet with parallelism such as data and tensor parallelism and memory efficient blockwise attention and feedforward [30, 9, 23], which we will show in experiment Section 5.
+
+---
+
+[referencia=958844d4171dd73c score=0.016]
+- [12] Xinyang Geng and Hao Liu. Openllama: An open reproduction of llama, may 2023. _URL https://github. com/openlm-research/open_llama_ , 2023. 
+
+- [13] Xinyang Geng, Arnav Gudibande, Hao Liu, Eric Wallace, Pieter Abbeel, Sergey Levine, and Dawn Song. Koala: A dialogue model for academic research. _Blog post, April_ , 1, 2023. 
+
+- [14] Andrew Gibiansky. Bringing hpc techniques to deep learning. _Baidu Research, Tech. Rep._ , 2017. 
+
+- [15] Yanping Huang, Youlong Cheng, Ankur Bapna, Orhan Firat, Dehao Chen, Mia Chen, HyoukJoong Lee, Jiquan Ngiam, Quoc V Le, Yonghui Wu, et al. Gpipe: Efficient training of giant neural networks using pipeline parallelism. _Advances in neural information processing systems_ , 32, 2019. 
+
+- [16] Joshua Hursey and Richard L Graham. Building a fault tolerant mpi application: A ring communication example. In _2011 IEEE International Symposium on Parallel and Distributed Processing Workshops and Phd Forum_ , pages 1549–1556. IEEE, 2011. 
+
+- [17] Sam Ade Jacobs, Masahiro Tanaka, Chengming Zhang, Minjia Zhang, Leon Song, Samyam Rajbhandari, and Yuxiong He. Deepspeed ulysses: System optimizations for enabling training of extreme long sequence transformer models. _arXiv preprint arXiv:2309.14509_ , 2023. 
+
+- [18] Vijay Korthikanti, Jared Casper, Sangkug Lym, Lawrence McAfee, Michael Andersch, Mohammad Shoeybi, and Bryan Catanzaro. Reducing activation recomputation in large transformer models. _arXiv preprint arXiv:2205.05198_ , 2022.
+
+---
+
+[referencia=958844d4171dd73c score=0.015]
+11 
+
+- [22] Hao Liu and Pieter Abbeel. Emergent agentic transformer from chain of hindsight experience. _International Conference on Machine Learning_ , 2023. 
+
+
+
+<!-- Start of picture text -->
+[23] Hao Liu and Pieter Abbeel. Blockwise parallel transformer for large context models. Advances<br>in neural information processing systems , 2023.<br>[24] Maxim Milakov and Natalia Gimelshein. Online normalizer calculation for softmax. arXiv<br>preprint arXiv:1805.02867 , 2018.<br>[25] MosaicML. Introducing mpt-7b: A new standard for open-source, commercially usable llms,<br>2023. URL  https://www.mosaicml.com/blog/mpt-7b .<br>[26] Sharan Narang, Hyung Won Chung, Yi Tay, William Fedus, Thibault Fevry, Michael Matena,<br>Karishma Malkan, Noah Fiedel, Noam Shazeer, Zhenzhong Lan, et al. Do transformer modifi-<br>cations transfer across implementations and applications? arXiv preprint arXiv:2102.11972 ,<br>2021.<br>[27] Deepak Narayanan, Aaron Harlap, Amar Phanishayee, Vivek Seshadri, Nikhil R Devanur,<br>Gregory R Ganger, Phillip B Gibbons, and Matei Zaharia. Pipedream: Generalized pipeline<br>parallelism for dnn training. In  Proceedings of the 27th ACM Symposium on Operating Systems<br>Principles , pages 1–15, 2019.<br><!-- End of picture text -->
+
+[28] Deepak Narayanan, Amar Phanishayee, Kaiyu Shi, Xie Chen, and Matei Zaharia. Memoryefficient pipeline-parallel dnn training. In _International Conference on Machine Learning_ , pages 7937–7947. PMLR, 2021. 
+
+[29] OpenAI. Gpt-4 technical report, 2023.
+
+---
+
+[referencia=958844d4171dd73c score=0.014]
+9 
+
+work extends sequence parallelism for computing self-attention using a ring topology [21], which reduces the communication cost compared to standard sequence parallelism. However, overlapping communication with computation remains challenging due to the constraints of arithmetic intensity. The communication overheads render this approach infeasible for training and inference in largecontext scenarios. Our work leverages on blockwise parallel transformers to distribute blockwise attention and feedforward across devices and concurrently overlaps the communication of key-value blocks in a circular of hosts with the computation of query-key-value blocks and feedforward, reducing memory cost substantially and allowing device count times larger context size with zero overheads. Overlapping communication with computation has been studied in high performance computing literature [7, 38, 8, _inter alia_ ]. While ring communication has found applications in other parallel computing scenarios [2, 16, 14, 33], our work stands out as the first work to show that it can be applied to self-attention as used in Transformers and to make it fit efficiently into Transformer training and inference without adding significant overhead by overlapping blockwise computation and communication. 
+
+## **7 Conclusion** 
+
+In conclusion, we propose a memory efficient approach to reduce the memory requirements of Transformers, the backbone of state-of-the-art AI models. Our approach allows the context length to scale linearly with the number of devices while maintaining performance, eliminating the memory bottleneck imposed by individual devices. Through extensive experiments on language modeling and reinforcement learning, we demonstrate its effectiveness, enabling training sequences that are up to device count times longer than those of prior memory-efficient Transformers, exceeding a context length of 100 million without making approximations to attention. In terms of future prospects, the possibility of near-infinite context introduces a vast array of exciting opportunities, such as large video-audio-language models, learning from extended feedback and trial-and-errors, understanding and generating codebase, adapting AI models to understand scientific data such as gene sequences, and developing strong reasoning from link gathering data.
+
+---
+
+[referencia=958844d4171dd73c score=0.011]
+- [19] Michael Laskin, Denis Yarats, Hao Liu, Kimin Lee, Albert Zhan, Kevin Lu, Catherine Cang, Lerrel Pinto, and Pieter Abbeel. Urlb: Unsupervised reinforcement learning benchmark. _arXiv preprint arXiv:2110.15191_ , 2021. 
+
+- [20] Dacheng Li, Rulin Shao, Anze Xie, Ying Sheng, Lianmin Zheng, Joseph E. Gonzalez, Ion Stoica, Xuezhe Ma, and Hao Zhang. How long can open-source llms truly promise on context length?, June 2023. URL `https://lmsys.org/blog/2023-06-29-longchat` . 
+
+- [21] Shenggui Li, Fuzhao Xue, Chaitanya Baranwal, Yongbin Li, and Yang You. Sequence parallelism: Long sequence training from system perspective. In Anna Rogers, Jordan Boyd-Graber, and Naoaki Okazaki, editors, _Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_ , pages 2391–2404, Toronto, Canada, July 2023. Association for Computational Linguistics. doi: 10.18653/v1/2023.acl-long.134. URL `https://aclanthology.org/2023.acl-long.134` . 
+
+11 
+
+- [22] Hao Liu and Pieter Abbeel. Emergent agentic transformer from chain of hindsight experience. _International Conference on Machine Learning_ , 2023. 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=958844d4171dd73c score=0.010]
+### **5.1 Evaluating Max Context Size** 
+
+We evaluate maximum supported context length using fully sharded tensor parallelsim (FSDP) [11] which is widely used in prior end-to-end training [36, 12]. We note that no tensor parallelism is considered in our evaluations since our approach is independent of tensor parallelism. Practitioners can combine our method with tensor parallelism, which we will show in Section 5.2. Using FSDP allows us to set the same batch size in tokens for baselines and our approach, ensuring a fair comparison. Concretely, on _n_ devices, FSDP is used to shard the model for baselines, which gives a sequence length of _l_ . The total batch size in tokens is _nl_ . We utilize FSDP along with Ring Attention to extend the sequence length to<sup>_<u>nl</u>_</sup> _m_<sup>and</sup><sup>_m_sequences.This means that the total batch size in tokens</sup> remains the same, but Ring Attention enables a significantly larger context size. Table 3 summarizes the results of our experiments. 
+
+6 
+
+Table 3: The maximum context length supported in end-to-end training using fully sharded data parallelism and various transformers architectures. We show different model sizes and accelerators. Baselines are vanilla transformer [37], transformer with memory efficient attention [30], and transformer with memory efficient attention and feedforward [23]. The context size is reported in tokens (1e3). Our Ring Attention substantially outperforms baselines and enables training sequences that are up to device count times longer than prior state-of-the-arts.
+
+---
+
+[referencia=958844d4171dd73c score=0.009]
+hosts, with each device managing its respective input block. For the inner loop, every device computes blockwise attention and feedforward operations specific to its designated input block. Host devices form a conceptual ring, where during the inner loop, each device sends a copy of its key-value blocks being used for blockwise computation to the next device in the ring, while simultaneously receiving key-value blocks from the previous one. As long as block computations take longer than block transfers, overlapping these processes results in no added overhead compared to standard transformers. The use of a ring topology for computing self-attention has also been studied in prior work [21] but it incurs non-overlapped communication overheads similar to sequence parallelism, making it infeasible for large context sizes. Our work utilizes blockwise parallel transformers [23] to substantially reduce memory costs, enabling zero-overhead scaling of context size across tens of millions of tokens during both training and inference, and allowing for the use of an arbitrarily large context size. Since our approach overlaps the communication of key-value blocks between hosts in a ring through blockwise computation of transformers, we name it Ring Attention with Blockwise Parallel Transformers (Ring Attention). 
+
+We evaluate the effectiveness of our approach on language modeling benchmarks. Our experiments show that Ring Attention can reduce the memory requirements of Transformers, enabling us to train more than 500 times longer sequence than prior memory efficient state-of-the-arts and enables the training of sequences that exceed 100 million in length without making approximations to attention. Importantly, Ring Attention eliminates the memory constraints imposed by individual devices, empowering the training and inference of sequences with lengths that scale in proportion to the number of devices, essentially achieving near-infinite context size. 
+
+Our contributions are twofold: (a) proposing a memory efficient transformers architecture that allows the context length to scale linearly with the number of devices while maintaining performance, eliminating the memory bottleneck imposed by individual devices, and (b) demonstrating the effectiveness of our approach through extensive experiments.
+
+---
+
+[referencia=958844d4171dd73c score=0.009]
+[29] OpenAI. Gpt-4 technical report, 2023. 
+
+[30] Markus N Rabe and Charles Staats. Self-attention does not need o(n2) memory. _arXiv preprint arXiv:2112.05682_ , 2021. [31] Samyam Rajbhandari, Jeff Rasley, Olatunji Ruwase, and Yuxiong He. Zero: Memory optimizations toward training trillion parameter models. In _SC20: International Conference for High Performance Computing, Networking, Storage and Analysis_ , pages 1–16. IEEE, 2020. 
+
+
+
+J. Parish, D. Cummings, R. Nayak, V. Balcom, D. Schnurr, T. Kaftan, C. Hallacy, N. Turley, N. Deutsch, and V. Goel. Chatgpt: Optimizing language models for dialogue. _OpenAI Blog_ , 2022. URL `https://openai.com/blog/chatgpt` . 
+
+[33] Alexander Sergeev and Mike Del Balso. Horovod: fast and easy distributed deep learning in tensorflow. _arXiv preprint arXiv:1802.05799_ , 2018. 
+
+
+
+[35] Yi Tay, Mostafa Dehghani, Samira Abnar, Hyung Won Chung, William Fedus, Jinfeng Rao, Sharan Narang, Vinh Q Tran, Dani Yogatama, and Donald Metzler. Scaling laws vs model architectures: How does inductive bias influence scaling? _arXiv preprint arXiv:2207.10551_ , 2022. 
+
+[36] Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, et al. Llama: Open and efficient foundation language models. _arXiv preprint arXiv:2302.13971_ , 2023.
+
+---
+
+[referencia=958844d4171dd73c score=0.008]
+## **2 Large Context Memory Constraint** 
+
+Given input sequences _Q, K, V ∈_ R<sup>_s×d_</sup> where _s_ is the sequence length and _d_ is the head dimension. We compute the matrix of outputs as: 
+
+
+
+where softmax is applied row-wise. Each self-attention sub-layer is accompanied with a feedforward network, which is applied to each position separately and identically. This consists of two linear 
+
+2 
+
+transformations with a ReLU activation in between.

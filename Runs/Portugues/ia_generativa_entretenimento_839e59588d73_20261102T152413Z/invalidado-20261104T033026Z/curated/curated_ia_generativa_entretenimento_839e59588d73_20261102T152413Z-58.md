@@ -1,0 +1,38 @@
+[referencia=156add2dff276ad1 score=0.995]
+# Supreme Court Denies Cert in AI Authorship Case – Updated with Comments from Dr. Thaler
+
+In a closely  watched case regarding copyright protection for AI-created works, on March 2,  2026, the Supreme Court of the United States declined to grant review in *Thaler  v. Perlmutter* (Case No. 25-449). In denying certiorari, the Court leaves standing,  and unaddressed by the Supreme Court, the 2025 DC Circuit opinion, which  affirmed the US Copyright Office (“USCO”) requirement of human authorship in  order to be eligible for copyright protection.<sup>1</sup>
+
+This case involves a piece of visual art, “A Recent Entrance to Paradise,” created entirely through the use of an AI system developed by Dr. Stephen Thaler, a computer scientist. In a conversation with the authors, Dr. Thaler noted that he neither prompted the AI system nor did any further edits or alterations to the final AI-generated image. In Thaler’s copyright application, he listed his AI system as the sole author, and at no point did he claim the image contained any human authorship.
+
+The USCO’s January  2025 report on copyrightability of works created with AI (further discussed  in our Legal  Update), which referenced the *Thaler* case throughout, clarified the  Office’s position that prompts alone are insufficient to afford a work  copyright protection, concluding that “[p]rompts essentially function as  instructions that convey unprotectable ideas,” and that currently available  technologies do not offer enough control and predictability in outputs.<sup>2</sup> The report recognized the role of the courts in “provid[ing] further guidance  on the human authorship requirement as it applies to specific uses of AI  (including in reviewing the USCO’s registration decisions).”<sup>3</sup>
+
+The decision  in *Thaler v. Perlmutter* also is consistent with decisions outside of the  AI context that have reinforced the requirement for human authorship. In *Naruto  v. Slater*, the “monkey selfie” case in which PETA attempted to obtain  copyright ownership for photographs taken by a monkey, the Ninth Circuit  affirmed the need for human authorship, finding that animals cannot be  copyright holders.<sup>4</sup> This  decision was also referenced in the USCO’s January 2025 report.<sup>5</sup>
+
+---
+
+[referencia=156add2dff276ad1 score=0.853]
+Recent  regulatory guidance and court decisions in patent law regarding AI and  inventorship have also consistently affirmed the need for human contribution,  and Thaler has positioned himself at the center of the court decisions testing  that requirement in this space, as well. For example, in *Thaler v. Vidal*,  a case involving patent applications filed by Thaler which listed his AI system  as the sole inventor, the Federal Circuit affirmed in 2022 that AI systems are  not natural persons and thus cannot be listed as inventors on patents.<sup>6</sup> The United States Patent and Trademark Office (“USPTO”) issued revised  guidance in November 2025, which confirmed the USPTO’s position that AI  cannot be named as an inventor while clarifying that human inventors may use AI  tools in their inventive process.<sup>7</sup>
+
+Neither the  USCO, the USPTO, nor the court system has provided bright-line guidance on just  how much human contribution is required for copyright or patent protection. Additional  pending cases, such as *Allen v. Perlmutter*, in which the plaintiff has  challenged the USCO’s refusal to register a work generated with more than 600  prompts directed at refining the AI-generated image,<sup>8</sup> may still serve to establish clearer guidance on where that line may fall. In  the interim, best practices for ensuring copyrightability include careful  documentation of human contribution to any works created with the assistance of  AI.
+
+
+
+<sup>1</sup> *Thaler v. Perlmutter*, 130 F.4th 1039 (D.C. Cir.  2025).
+
+<sup>2</sup> Copyright and Artificial Intelligence, Part 2:  Copyrightability, at 18.
+
+<sup>4</sup> *Naruto v. Slater*, 888 F.3d 418 (9th Cir. 2018).
+
+<sup>5</sup> Copyright and Artificial Intelligence, Part 2:  Copyrightability, at 7-8.
+
+<sup>6</sup> *Thaler v. Vidal*, 43 F.4th 2017 (Fed. Cir.  2022).
+
+<sup>7</sup> Revised Inventorship Guidance for AI-Assisted  Inventions, Docket No. PTO-P-2025-0014.
+
+---
+
+[referencia=156add2dff276ad1 score=0.060]
+<sup>7</sup> Revised Inventorship Guidance for AI-Assisted  Inventions, Docket No. PTO-P-2025-0014.
+
+<sup>8</sup> *Allen v. Perlmutter*, No. 1:24-cv-2665 (D. Colo. Sept. 26, 2024).

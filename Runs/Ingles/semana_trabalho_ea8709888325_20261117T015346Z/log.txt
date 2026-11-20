@@ -1,0 +1,365 @@
+2026-11-16 21:53:46,513 INFO     __main__: Iniciando run semana_trabalho_ea8709888325_20261117T015346Z para
+                                 answers/Ingles/Gemini/EmConsolidacao/semana_trabalho.docx (ferramenta=Gemini)
+2026-11-16 21:53:58,089 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-16 21:53:58,089 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-16 21:54:01,829 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 13491.39it/s]
+2026-11-16 21:54:16,491 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-16 21:54:16,503 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-16 21:54:16,654 INFO     auditframework.pipeline: Extraidas 81 referencias de
+                                 answers/Ingles/Gemini/EmConsolidacao/semana_trabalho.docx (0 descartadas como artefato
+                                 do exportador)
+2026-11-16 21:54:16,667 INFO     auditframework.pipeline: Resposta dividida em 114 trechos citados
+2026-11-16 21:54:16,673 INFO     auditframework.terminal: ✓ extraction concluído em 0.2s
+2026-11-16 21:54:16,674 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-16 21:54:16,679 INFO     auditframework.ingestion.service: Ingestao: 81 referencias, 0 ja baixadas, 0 ja
+                                 bloqueadas, 81 pendentes
+2026-11-16 21:54:22,118 WARNING  trafilatura.core: discarding data: None
+2026-11-16 21:54:26,724 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/392873157_The_consequences_of_a_compressed_workweek_a_systematic_literature_review:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/392873157_The_consequences_of_a_compressed_workweek_a_systematic_literature_review
+2026-11-16 21:54:26,726 WARNING  auditframework.ingestion.service: Falha ao converter:
+                                 https://www.researchgate.net/publication/392873157_The_consequences_of_a_compressed_workweek_a_systematic_literature_review
+                                 (trafilatura nao conseguiu extrair conteudo principal do HTML)
+2026-11-16 21:54:28,364 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf: Sem copia no
+                                 Wayback: https://www.help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf
+2026-11-16 21:54:28,366 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf
+2026-11-16 21:54:30,572 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em
+                                 https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf; tentando HTTP/1.1
+2026-11-16 21:54:32,366 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc:
+                                 Sem copia no Wayback:
+                                 https://www.krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc
+2026-11-16 21:54:32,368 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc
+2026-11-16 21:54:55,656 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q: Sem copia no
+                                 Wayback: https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q
+2026-11-16 21:54:55,658 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q
+2026-11-16 21:55:00,788 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www12.senado.leg.br/noticias/audios/2026/10/congresso-promulga-emendas-sobre-fim-da-escala-6x1-e-agentes-de-saude
+                                 recuperada imitando o Safari
+2026-11-16 21:55:08,992 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf recuperada do Wayback
+                                 (copia de 20261027021452)
+2026-11-16 21:55:09,218 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf: pymupdf4llm nao
+                                 conseguiu extrair texto do PDF
+2026-11-16 21:55:09,220 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf (Falha ao conectar em
+                                 https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf: Failed to perform,
+                                 curl: (56) Connection closed abruptly. See
+                                 https://curl.se/libcurl/c/libcurl-errors.html first for more details.)
+2026-11-16 21:55:21,256 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf; tentando HTTP/1.1
+2026-11-16 21:55:28,794 WARNING  trafilatura.core: discarding data: None
+2026-11-16 21:55:33,711 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.econstor.eu/bitstream/10419/145237/1/dp10103.pdf recuperada do Wayback
+                                 (copia de 20260820144729)
+2026-11-16 21:55:33,978 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.econstor.eu/bitstream/10419/145237/1/dp10103.pdf
+2026-11-16 21:55:47,199 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://teachingamericanhistory.org/document/henry-fords-five-day-week/: Falha ao
+                                 baixar a copia do Wayback de
+                                 https://teachingamericanhistory.org/document/henry-fords-five-day-week/: Rate limit
+                                 persistente em
+                                 http://web.archive.org/web/20261006011852id_/https://teachingamericanhistory.org/document/henry-fords-five-day-week/
+2026-11-16 21:55:47,201 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://teachingamericanhistory.org/document/henry-fords-five-day-week/
+2026-11-16 21:56:03,555 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em
+                                 https://autonomy.work/portfolio/sww-scotland-public-sector/; tentando HTTP/1.1
+2026-11-16 21:56:14,143 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453/
+                                 recuperada do Wayback (copia de 20250326073200)
+2026-11-16 21:56:14,237 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453/
+2026-11-16 21:56:14,629 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://autonomy.work/portfolio/sww-scotland-public-sector/ recuperada imitando o
+                                 Safari
+2026-11-16 21:56:30,942 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School
+2026-11-16 21:56:30,944 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School
+                                 (Falha ao acessar
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School
+                                 via cloudscraper: HTTPSConnectionPool(host='www.researchgate.net', port=443): Read
+                                 timed out. (read timeout=10))
+2026-11-16 21:56:34,836 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report:
+                                 Falha ao baixar a copia do Wayback de
+                                 https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report:
+                                 Rate limit persistente em
+                                 http://web.archive.org/web/20261011100101id_/https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report
+2026-11-16 21:56:34,839 WARNING  auditframework.ingestion.service: Falha ao converter:
+                                 https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report
+                                 (trafilatura nao conseguiu extrair conteudo principal do HTML)
+2026-11-16 21:56:48,263 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.healthplanspain.com/blog/health-news/2062-valencian-pilot-scheme-shows-4-day-work-week-improved-workers-health.html
+                                 recuperada do Wayback (copia de 20250212204817)
+2026-11-16 21:57:00,938 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf: Falha ao baixar a
+                                 copia do Wayback de https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf:
+                                 Rate limit persistente em
+                                 http://web.archive.org/web/20260722053247id_/https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf
+2026-11-16 21:57:00,941 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf (Falha ao conectar em
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf: Failed to perform,
+                                 curl: (56) Connection closed abruptly. See
+                                 https://curl.se/libcurl/c/libcurl-errors.html first for more details.)
+2026-11-16 21:57:03,793 WARNING  trafilatura.core: discarding data: None
+2026-11-16 21:57:06,879 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/375365733_The_social_economic_and_environmental_impacts_of_a_4-day_workweek_in_an_organization:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/375365733_The_social_economic_and_environmental_impacts_of_a_4-day_workweek_in_an_organization
+2026-11-16 21:57:06,881 WARNING  auditframework.ingestion.service: Falha ao converter:
+                                 https://www.researchgate.net/publication/375365733_The_social_economic_and_environmental_impacts_of_a_4-day_workweek_in_an_organization
+                                 (trafilatura nao conseguiu extrair conteudo principal do HTML)
+2026-11-16 21:57:10,065 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.acerta.be/en/inspiration/four-day-working-week-eight-out-of-ten-smes-not-behind-the-idea
+                                 recuperada do Wayback (copia de 20260120142706)
+2026-11-16 21:57:28,447 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.ncbi.nlm.nih.gov/books/NBK75539/ recuperada do Wayback (copia de
+                                 20250515152057)
+2026-11-16 21:57:28,477 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 81/81 [03:11<00:00,
+                                 2.37s/ref]
+2026-11-16 21:57:28,478 INFO     auditframework.ingestion.service: Retentando 2 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-16 21:57:29,590 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em
+                                 https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf; tentando HTTP/1.1
+2026-11-16 21:58:43,117 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf recuperada imitando o
+                                 Safari
+2026-11-16 21:58:55,269 INFO     auditframework.ingestion.service: Referencia
+                                 https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf recuperada na segunda
+                                 tentativa
+2026-11-16 21:58:56,423 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf; tentando HTTP/1.1
+2026-11-16 22:00:23,674 WARNING  auditframework.ingestion.service: Referencia
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf excedeu 90s na segunda
+                                 tentativa — mantida inacessivel
+2026-11-16 22:00:23,676 INFO     auditframework.terminal: Retentando inacessíveis: 100%|██████████| 2/2 [02:55<00:00,
+                                 87.60s/ref]
+2026-11-16 22:00:23,684 INFO     auditframework.pipeline: Ingestao concluida: 70 documentos disponiveis
+2026-11-16 22:00:23,686 INFO     auditframework.terminal: ✓ ingestion concluído em 373.5s
+2026-11-16 22:00:23,687 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-16 22:00:24,501 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 70/70
+                                 [00:00<00:00, 87.36doc/s]
+2026-11-16 22:00:24,501 INFO     auditframework.indexing.service: Gerando embeddings para 581 chunks de 70 documentos
+2026-11-16 22:00:45,344 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf: Falha ao baixar a
+                                 copia do Wayback de https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf:
+                                 Rate limit persistente em
+                                 http://web.archive.org/web/20260722053247id_/https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf
+2026-11-16 22:00:45,348 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf (Falha ao conectar em
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf: Failed to perform,
+                                 curl: (56) Connection closed abruptly. See
+                                 https://curl.se/libcurl/c/libcurl-errors.html first for more details.)
+2026-11-16 22:00:48,185 INFO     auditframework.terminal: Batches: 100%|██████████| 37/37 [00:23<00:00,  1.56it/s]
+2026-11-16 22:00:48,251 INFO     auditframework.pipeline: Indice construido a partir de 70 documentos
+2026-11-16 22:00:48,253 INFO     auditframework.terminal: ✓ indexing concluído em 25.1s
+2026-11-16 22:00:48,254 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-16 22:00:48,266 INFO     auditframework.pipeline: Julgamento: 114 chunks, 0 ja julgados, 0 ja pulados, 114
+                                 pendentes
+2026-11-16 22:00:49,665 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-16 22:00:50,487 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/114 [00:00<?,
+                                 ?chunk/s]
+2026-11-16 22:00:50,590 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-16 22:00:50,704 INFO     auditframework.terminal: Loading weights:  27%|██▋       | 108/393 [00:00<00:00,
+                                 1064.97it/s]
+2026-11-16 22:00:50,803 INFO     auditframework.terminal: Loading weights:  55%|█████▍    | 215/393 [00:00<00:00,
+                                 990.19it/s]
+2026-11-16 22:00:50,845 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 1098.18it/s]
+2026-11-16 22:01:24,259 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ea8709888325_20261117T015346Z-26 nao sera auditado: Referencia(s)
+                                 citada(s) ['17c3f556ec5ec165'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-16 22:01:24,263 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ea8709888325_20261117T015346Z-27 nao sera auditado: Referencia(s)
+                                 citada(s) ['17c3f556ec5ec165'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-16 22:01:45,627 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ea8709888325_20261117T015346Z-53 nao sera auditado: Referencia(s)
+                                 citada(s) ['d4ddca1ad6c6b0d5'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-16 22:02:09,162 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ea8709888325_20261117T015346Z-86 nao sera auditado: Referencia(s)
+                                 citada(s) ['dfa3216c48bf4651'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-16 22:02:35,917 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 114/114 [01:47<00:00,
+                                 1.06chunk/s]
+2026-11-16 22:07:36,585 WARNING  auditframework.pipeline: Chunk semana_trabalho_ea8709888325_20261117T015346Z-26 nao
+                                 auditado: Referencia(s) citada(s) ['17c3f556ec5ec165'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-16 22:07:36,587 WARNING  auditframework.pipeline: Chunk semana_trabalho_ea8709888325_20261117T015346Z-27 nao
+                                 auditado: Referencia(s) citada(s) ['17c3f556ec5ec165'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-16 22:15:28,116 WARNING  auditframework.pipeline: Chunk semana_trabalho_ea8709888325_20261117T015346Z-53 nao
+                                 auditado: Referencia(s) citada(s) ['d4ddca1ad6c6b0d5'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-16 22:28:59,878 WARNING  auditframework.pipeline: Chunk semana_trabalho_ea8709888325_20261117T015346Z-86 nao
+                                 auditado: Referencia(s) citada(s) ['dfa3216c48bf4651'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-16 22:39:05,646 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 114/114 [36:29<00:00,
+                                 19.21s/chunk]
+2026-11-16 22:39:05,648 INFO     auditframework.terminal: ✓ judging concluído em 2337.7s
+2026-11-16 22:39:05,658 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-16 22:39:05,668 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/semana_trabalho_ea8709888325_20261117T015346Z/report.md
+2026-11-16 22:39:05,670 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-16 22:39:05,670 INFO     __main__: Run semana_trabalho_ea8709888325_20261117T015346Z concluida
+2026-11-16 22:39:05,671 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/semana_trabalho_ea8709888325_20261117T015346Z/report.md
+2026-11-17 21:32:35,140 INFO     auditframework.terminal: audit refetch semana_trabalho_ea8709888325_20261117T015346Z
+2026-11-17 21:32:35,163 INFO     auditframework.ingestion.service: Ingestao: 81 referencias, 70 ja baixadas, 0 ja
+                                 bloqueadas, 11 pendentes
+2026-11-17 21:32:50,769 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q: Sem copia no
+                                 Wayback: https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q
+2026-11-17 21:32:50,772 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q
+2026-11-17 21:32:51,962 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc:
+                                 Sem copia no Wayback:
+                                 https://www.krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc
+2026-11-17 21:32:51,965 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc
+2026-11-17 21:32:53,041 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf; tentando HTTP/1.1
+2026-11-17 21:33:04,776 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf: Sem copia no
+                                 Wayback: https://www.help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf
+2026-11-17 21:33:04,780 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf
+2026-11-17 21:33:09,336 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf recuperada imitando o
+                                 Safari
+2026-11-17 21:33:36,311 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.researchgate.net/publication/392873157_The_consequences_of_a_compressed_workweek_a_systematic_literature_review
+                                 recuperada imitando o Safari
+2026-11-17 21:33:42,222 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453/
+                                 recuperada do Wayback (copia de 20250326073200)
+2026-11-17 21:33:42,387 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453/
+2026-11-17 21:34:07,690 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.econstor.eu/bitstream/10419/145237/1/dp10103.pdf: Falha ao baixar a copia
+                                 do Wayback de https://www.econstor.eu/bitstream/10419/145237/1/dp10103.pdf: Rate limit
+                                 persistente em
+                                 http://web.archive.org/web/20260820144729id_/https://www.econstor.eu/bitstream/10419/145237/1/dp10103.pdf
+2026-11-17 21:34:07,694 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.econstor.eu/bitstream/10419/145237/1/dp10103.pdf
+2026-11-17 21:34:47,461 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School:
+                                 Wayback indisponivel para
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School:
+                                 HTTPSConnectionPool(host='archive.org', port=443): Read timed out. (read timeout=10)
+2026-11-17 21:34:47,465 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School)
+2026-11-17 21:35:35,430 WARNING  auditframework.ingestion.service: Referencia
+                                 https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report
+                                 nao concluiu o download em 90s — marcada inacessivel
+2026-11-17 21:35:35,433 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 11/11 [03:00<00:00,
+                                 16.38s/ref]
+2026-11-17 21:35:47,715 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report:
+                                 Falha ao baixar a copia do Wayback de
+                                 https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report:
+                                 Falha ao conectar em
+                                 http://web.archive.org/web/20261011100101id_/https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report:
+                                 Failed to perform, curl: (28) Operation timed out after 25000 milliseconds with 87826
+                                 bytes received. See https://curl.se/libcurl/c/libcurl-errors.html first for more
+                                 details.
+2026-11-17 21:35:47,717 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report)
+2026-11-17 21:35:47,720 INFO     auditframework.ingestion.service: Retentando 1 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-17 21:35:51,367 INFO     auditframework.ingestion.service: Referencia
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School
+                                 recuperada na segunda tentativa
+2026-11-17 21:35:51,369 INFO     auditframework.terminal: Retentando inacessíveis: 100%|██████████| 1/1 [00:03<00:00,
+                                 3.65s/ref]
+2026-11-17 21:35:51,380 INFO     auditframework.terminal: semana_trabalho_ea8709888325_20261117T015346Z: 11 fonte(s) sem
+                                 conteudo, 5 recuperada(s)
+2026-11-17 21:35:51,380 INFO     auditframework.terminal:
+                                 https://www.researchgate.net/publication/392873157_The_consequences_of_a_compressed_workweek_a_systematic_literature_review
+                                 — downloaded
+2026-11-17 21:35:51,381 INFO     auditframework.terminal:
+                                 https://teachingamericanhistory.org/document/henry-fords-five-day-week/ — downloaded
+2026-11-17 21:35:51,381 INFO     auditframework.terminal:
+                                 https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf — downloaded
+2026-11-17 21:35:51,381 INFO     auditframework.terminal:
+                                 https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School
+                                 — downloaded
+2026-11-17 21:35:51,381 INFO     auditframework.terminal:
+                                 https://www.researchgate.net/publication/375365733_The_social_economic_and_environmental_impacts_of_a_4-day_workweek_in_an_organization
+                                 — downloaded
+2026-11-17 21:35:51,589 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para
+                                 data/runs/semana_trabalho_ea8709888325_20261117T015346Z/invalidado-20261118T013551Z
+2026-11-17 21:35:51,589 INFO     auditframework.terminal: 14 trecho(s) citado(s) para julgar de novo (os demais mantem o
+                                 veredito)
+2026-11-17 21:35:51,589 INFO     auditframework.terminal: Rode: audit resume
+                                 semana_trabalho_ea8709888325_20261117T015346Z
+2026-11-17 21:35:52,891 INFO     __main__: Retomando run semana_trabalho_ea8709888325_20261117T015346Z
+2026-11-17 21:36:03,567 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 21:36:03,567 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 21:36:06,193 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 6889.89it/s]
+2026-11-17 21:36:26,866 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-17 21:36:26,883 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-17 21:36:26,884 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-17 21:36:26,886 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-17 21:36:28,762 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 75/75
+                                 [00:01<00:00, 40.96doc/s]
+2026-11-17 21:36:28,762 INFO     auditframework.indexing.service: Gerando embeddings para 686 chunks de 75 documentos
+2026-11-17 21:37:07,044 INFO     auditframework.terminal: Batches: 100%|██████████| 43/43 [00:38<00:00,  1.12it/s]
+2026-11-17 21:37:07,167 INFO     auditframework.pipeline: Indice construido a partir de 75 documentos
+2026-11-17 21:37:07,173 INFO     auditframework.terminal: ✓ indexing concluído em 41.1s
+2026-11-17 21:37:07,174 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-17 21:37:07,204 INFO     auditframework.pipeline: Julgamento: 114 chunks, 97 ja julgados, 3 ja pulados, 14
+                                 pendentes
+2026-11-17 21:37:08,178 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-17 21:37:08,803 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/14 [00:00<?,
+                                 ?chunk/s]
+2026-11-17 21:37:08,911 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-17 21:37:09,012 INFO     auditframework.terminal: Loading weights:  26%|██▌       | 103/393 [00:00<00:00,
+                                 995.81it/s]
+2026-11-17 21:37:09,112 INFO     auditframework.terminal: Loading weights:  59%|█████▊    | 230/393 [00:00<00:00,
+                                 1153.63it/s]
+2026-11-17 21:37:09,135 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 1200.02it/s]
+2026-11-17 21:38:15,588 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 14/14 [01:08<00:00,
+                                 4.88s/chunk]
+2026-11-17 21:47:26,065 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 14/14 [09:10<00:00,
+                                 39.32s/chunk]
+2026-11-17 21:47:26,088 INFO     auditframework.terminal: ✓ judging concluído em 634.1s
+2026-11-17 21:47:26,107 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 21:47:26,137 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/semana_trabalho_ea8709888325_20261117T015346Z/report.md
+2026-11-17 21:47:26,141 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 21:47:26,142 INFO     __main__: Run semana_trabalho_ea8709888325_20261117T015346Z concluida
+2026-11-17 21:47:26,145 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/semana_trabalho_ea8709888325_20261117T015346Z/report.md

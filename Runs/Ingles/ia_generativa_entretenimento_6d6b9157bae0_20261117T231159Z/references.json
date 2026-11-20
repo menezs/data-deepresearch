@@ -1,0 +1,1769 @@
+[
+  {
+    "id": "51e7ec775395f3b9",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.precedenceresearch.com/generative-ai-in-the-media-and-entertainment-market",
+    "normalized_url": "https://precedenceresearch.com/generative-ai-in-the-media-and-entertainment-market",
+    "work_key": "https://precedenceresearch.com/generative-ai-in-the-media-and-entertainment-market",
+    "title": "Generative AI in the Media and Entertainment Market Companies, Size & Trends 2026-2035 -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:25.928127Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "03044ab3b7fcaa14",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://reports.weforum.org/docs/WEF_Artificial_Intelligence_in_Media_Entertainment_and_Sport_2025.pdf",
+    "normalized_url": "https://reports.weforum.org/docs/WEF_Artificial_Intelligence_in_Media_Entertainment_and_Sport_2025.pdf",
+    "work_key": "https://reports.weforum.org/docs/WEF_Artificial_Intelligence_in_Media_Entertainment_and_Sport_2025.pdf",
+    "title": "Artificial Intelligence in Media, Entertainment and Sport (World Economic Forum, 2025) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:38.183485Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "32f70638adeb2221",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/tmt-predictions-hollywood-cautious-of-genai-adoption.html",
+    "normalized_url": "https://deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/tmt-predictions-hollywood-cautious-of-genai-adoption.html",
+    "work_key": "https://deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/2025/tmt-predictions-hollywood-cautious-of-genai-adoption.html",
+    "title": "Large studios will likely take their time adopting generative AI for content creation (Deloitte Insights) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:26.433548Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9212bfa992f193d4",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.bfi.org.uk/news/generative-ai-screen-industries",
+    "normalized_url": "https://bfi.org.uk/news/generative-ai-screen-industries",
+    "work_key": "https://bfi.org.uk/news/generative-ai-screen-industries",
+    "title": "Generative AI in the screen industries (British Film Institute) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:26.281281Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cc1b42afee758e8a",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/417398892_A_Narrative_Review_of_the_Impact_of_AI_on_Film_and_TV_Production",
+    "normalized_url": "https://researchgate.net/publication/417398892_A_Narrative_Review_of_the_Impact_of_AI_on_Film_and_TV_Production",
+    "work_key": "https://researchgate.net/publication/417398892_A_Narrative_Review_of_the_Impact_of_AI_on_Film_and_TV_Production",
+    "title": "A Narrative Review of the Impact of AI on Film and TV Production (ResearchGate) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:50:43.501580Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/417398892_A_Narrative_Review_of_the_Impact_of_AI_on_Film_and_TV_Production",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3be31556c6e1e685",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+    "normalized_url": "https://theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+    "work_key": "https://theguardian.com/film/2026/oct/20/ai-actors-val-kilmer-as-deep-as-the-grave-tilly-norwood",
+    "title": "Hollywood AI-listers: is the technology ready to rival flesh-and-blood film stars? (The Guardian) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:26.939160Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "055c82db1255c45d",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.cbsnews.com/news/ai-actor-hollywood-tilly-norwood-stirs-outrage/",
+    "normalized_url": "https://cbsnews.com/news/ai-actor-hollywood-tilly-norwood-stirs-outrage",
+    "work_key": "https://cbsnews.com/news/ai-actor-hollywood-tilly-norwood-stirs-outrage",
+    "title": "AI-generated actor sparks outrage in Hollywood as creator seeks representation (CBS News) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:27.615908Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "39f10edd976957e1",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://vgtimes.com/movies-and-tv-series/134353-ai-actress-tilly-norwood-dubbed-the-new-scarlett-johansson-sparks-controversy-in-hollywood.html",
+    "normalized_url": "https://vgtimes.com/movies-and-tv-series/134353-ai-actress-tilly-norwood-dubbed-the-new-scarlett-johansson-sparks-controversy-in-hollywood.html",
+    "work_key": "https://vgtimes.com/movies-and-tv-series/134353-ai-actress-tilly-norwood-dubbed-the-new-scarlett-johansson-sparks-controversy-in-hollywood.html",
+    "title": "AI Actress Tilly Norwood, Dubbed the 'New Scarlett Johansson,' Sparks Controversy in Hollywood (VGTimes) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:27.736665Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "baad29ece74d72db",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.resultsense.com/news/2025-09-30-tilly-norwood-ai-actor-hollywood-controversy/",
+    "normalized_url": "https://resultsense.com/news/2025-09-30-tilly-norwood-ai-actor-hollywood-controversy",
+    "work_key": "https://resultsense.com/news/2025-09-30-tilly-norwood-ai-actor-hollywood-controversy",
+    "title": "AI 'Actor' Tilly Norwood Sparks Hollywood Backlash (ResultSense) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:28.406310Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c1470027d8b7928f",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://commons.lib.jmu.edu/cgi/viewcontent.cgi?article=1204&context=honors202029",
+    "normalized_url": "https://commons.lib.jmu.edu/cgi/viewcontent.cgi?article=1204&context=honors202029",
+    "work_key": "https://commons.lib.jmu.edu/cgi/viewcontent.cgi?article=1204&context=honors202029",
+    "title": "Welcome Tilly Norwood: Forecasting Hollywood's AI Policy Futures (James Madison University Honors Projects) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:49.595843Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "29361628c686506c",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.cbc.ca/news/entertainment/val-kilmer-ai-trailer-9.7166746",
+    "normalized_url": "https://cbc.ca/news/entertainment/val-kilmer-ai-trailer-9.7166746",
+    "work_key": "https://cbc.ca/news/entertainment/val-kilmer-ai-trailer-9.7166746",
+    "title": "AI-generated Val Kilmer movie debuts trailer, creators defend digital resurrection of late actor (CBC News) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:29.746664Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c4c774914c13a92b",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.theguardian.com/film/val-kilmer",
+    "normalized_url": "https://theguardian.com/film/val-kilmer",
+    "work_key": "https://theguardian.com/film/val-kilmer",
+    "title": "Val Kilmer | Film (The Guardian) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:31.590365Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ce2d90f52faee79f",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://flauntaudio.com/ai-voice-actor-statistics-2026/",
+    "normalized_url": "https://flauntaudio.com/ai-voice-actor-statistics-2026",
+    "work_key": "https://flauntaudio.com/ai-voice-actor-statistics-2026",
+    "title": "AI and Voice Actors: Statistics for 2026 (US and Canada) (Flaunt Audio) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:43.201314Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4d3273cea5d30205",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.gravyforthebrain.com/voice-acting-in-2025-2026-trends-insights-and-the-future/",
+    "normalized_url": "https://gravyforthebrain.com/voice-acting-in-2025-2026-trends-insights-and-the-future",
+    "work_key": "https://gravyforthebrain.com/voice-acting-in-2025-2026-trends-insights-and-the-future",
+    "title": "Voice Acting in 2025-2026: Trends, Insights and the Future (Gravy For The Brain) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:41.090620Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "489282bf7e203d33",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/391690363_The_Impact_Of_Ai-powered_Dubbing_And_Localization_On_Global_Media",
+    "normalized_url": "https://researchgate.net/publication/391690363_The_Impact_Of_Ai-powered_Dubbing_And_Localization_On_Global_Media",
+    "work_key": "https://researchgate.net/publication/391690363_The_Impact_Of_Ai-powered_Dubbing_And_Localization_On_Global_Media",
+    "title": "The Impact Of Ai-powered Dubbing And Localization On Global Media (ResearchGate) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:51:19.562736Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/391690363_The_Impact_Of_Ai-powered_Dubbing_And_Localization_On_Global_Media",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "effc7cf02037699f",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.morningstar.com/news/business-wire/20260826543251/new-data-shows-audiences-are-embracing-ai-dubbing-heres-what-the-media-industry-should-know",
+    "normalized_url": "https://morningstar.com/news/business-wire/20260826543251/new-data-shows-audiences-are-embracing-ai-dubbing-heres-what-the-media-industry-should-know",
+    "work_key": "https://morningstar.com/news/business-wire/20260826543251/new-data-shows-audiences-are-embracing-ai-dubbing-heres-what-the-media-industry-should-know",
+    "title": "New Data Shows Audiences Are Embracing AI Dubbing: Here's What the Media Industry Should Know (Morningstar / Business Wire) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:43.073463Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "272b45c1417f0558",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://mashable.com/article/fortnite-darth-vader-ai-james-earl-jones",
+    "normalized_url": "https://mashable.com/article/fortnite-darth-vader-ai-james-earl-jones",
+    "work_key": "https://mashable.com/article/fortnite-darth-vader-ai-james-earl-jones",
+    "title": "You can talk to Darth Vader in 'Fortnite' now thanks to generative AI (Mashable) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:44.489918Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6f9ed4d3061ee01c",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/2024%E2%80%932025_SAG-AFTRA_video_game_strike",
+    "normalized_url": "https://en.wikipedia.org/wiki/2024–2025_SAG-AFTRA_video_game_strike",
+    "work_key": "https://en.wikipedia.org/wiki/2024–2025_SAG-AFTRA_video_game_strike",
+    "title": "2024–2025 SAG-AFTRA video game strike (Wikipedia) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:13:43.824234Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1d0146b58ad5b7bb",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.youtube.com/watch?v=gGG7dpHVkrA",
+    "normalized_url": "https://youtube.com/watch?v=gGG7dpHVkrA",
+    "work_key": "https://youtube.com/watch?v=gGG7dpHVkrA",
+    "title": "Scarlett Johansson's feud with OpenAI puts focus on voice cloning (TODAY / YouTube) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:54.337317Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9bb45e12893ad6dd",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.mckoolsmith.com/newsroom-ailitigation-45",
+    "normalized_url": "https://mckoolsmith.com/newsroom-ailitigation-45",
+    "work_key": "https://mckoolsmith.com/newsroom-ailitigation-45",
+    "title": "UMG Recordings v. Uncharted Labs and UMG Recordings v. Suno (McKool Smith) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:50.413602Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6f469e21abebc899",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://dynamoi.com/learn/ai-music-distribution/ai-music-copyright-cases-timeline",
+    "normalized_url": "https://dynamoi.com/learn/ai-music-distribution/ai-music-copyright-cases-timeline",
+    "work_key": "https://dynamoi.com/learn/ai-music-distribution/ai-music-copyright-cases-timeline",
+    "title": "AI Music Lawsuits Timeline: Suno, Udio, Labels [2026] (Dynamoi) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:50.126066Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "89127e7e5f38bd2c",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform/",
+    "normalized_url": "https://musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+    "work_key": "https://musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+    "title": "Universal Music settles Udio lawsuit, strikes deal for licensed AI music platform (Music Business Worldwide) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:13:03.158856Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "715ac7f1a7b0bddd",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://everything-pr.com/the-lawsuit-war-room-every-major-ai-copyright-case-mapped-47-publishers-8-ai-companies-and-the-trial-that-will-reshape-the-internet",
+    "normalized_url": "https://everything-pr.com/the-lawsuit-war-room-every-major-ai-copyright-case-mapped-47-publishers-8-ai-companies-and-the-trial-that-will-reshape-the-internet",
+    "work_key": "https://everything-pr.com/the-lawsuit-war-room-every-major-ai-copyright-case-mapped-47-publishers-8-ai-companies-and-the-trial-that-will-reshape-the-internet",
+    "title": "The Lawsuit War Room: Every Major AI Copyright Case Mapped (Everything-PR) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:53.052251Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0364accd3b9078c9",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform/",
+    "normalized_url": "https://universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform",
+    "work_key": "https://universalmusic.com/universal-music-group-and-elevenlabs-announce-multi-year-strategic-agreement-beginning-with-a-new-licensed-ai-music-creation-platform",
+    "title": "Universal Music Group and ElevenLabs Announce Multi-Year Strategic Agreement, Beginning With a New Licensed AI Music Creation Platform (Universal Music Group) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:55.203196Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "18213f182208d622",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://elevenlabs.io/blog/umg",
+    "normalized_url": "https://elevenlabs.io/blog/umg",
+    "work_key": "https://elevenlabs.io/blog/umg",
+    "title": "Universal Music Group and ElevenLabs announce multi-year strategic agreement (ElevenLabs) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:55.053839Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "698567c939736ebc",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://routenote.com/blog/universal-music-group-and-elevenlabs-join-forces-on-new-ai-music-platform/",
+    "normalized_url": "https://routenote.com/blog/universal-music-group-and-elevenlabs-join-forces-on-new-ai-music-platform",
+    "work_key": "https://routenote.com/blog/universal-music-group-and-elevenlabs-join-forces-on-new-ai-music-platform",
+    "title": "Universal Music Group and ElevenLabs join forces on new AI music platform (RouteNote Blog) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:12:57.794754Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "841bc7907302c33a",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike",
+    "normalized_url": "https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike",
+    "work_key": "https://en.wikipedia.org/wiki/2023_SAG-AFTRA_strike",
+    "title": "2023 SAG-AFTRA strike (Wikipedia) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:13:55.876714Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "53e75ae0f08f1e88",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.sagaftra.org/sites/default/files/sa_documents/TV-Theatrical_23_Summary_Agreement_Final.pdf",
+    "normalized_url": "https://sagaftra.org/sites/default/files/sa_documents/TV-Theatrical_23_Summary_Agreement_Final.pdf",
+    "work_key": "https://sagaftra.org/sites/default/files/sa_documents/TV-Theatrical_23_Summary_Agreement_Final.pdf",
+    "title": "2023 TV/Theatrical Summary Agreement (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:52:40.070517Z",
+    "error_message": "HTTP 403 em https://www.sagaftra.org/sites/default/files/sa_documents/TV-Theatrical_23_Summary_Agreement_Final.pdf (PDF, sem fallback via playwright)",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b1fc05846ad56596",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+    "normalized_url": "https://sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+    "work_key": "https://sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+    "title": "Digital Replicas 101: What You Need to Know About the 2023 TV/Theatrical Contracts (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:13:30.911604Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0196d54da1d91266",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://productionguild.com/download/file/aGtkbXlabXN0TUVSekJYcXo4UDI3Zz09/sag-aftra-strike-2023_summary-of-agreed-terms/",
+    "normalized_url": "https://productionguild.com/download/file/aGtkbXlabXN0TUVSekJYcXo4UDI3Zz09/sag-aftra-strike-2023_summary-of-agreed-terms",
+    "work_key": "https://productionguild.com/download/file/aGtkbXlabXN0TUVSekJYcXo4UDI3Zz09/sag-aftra-strike-2023_summary-of-agreed-terms",
+    "title": "SAG-AFTRA Strike 2023: Summary of Agreed Terms (Production Guild) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:13:51.476317Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "15aae246033f2272",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/contracts/2024-sound-recordings-code",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/contracts/2024-sound-recordings-code",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/contracts/2024-sound-recordings-code",
+    "title": "2024 Sound Recordings Code (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:47:54.635416Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930049-GRU 1794966465 2453970890 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "350de76304ffe6f3",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.sagaftra.org/files/sa_documents/2024%20SAG-AFTRA%20Sound%20Recordings%20Code%20Contract%20Summary.pdf",
+    "normalized_url": "https://sagaftra.org/files/sa_documents/2024 SAG-AFTRA Sound Recordings Code Contract Summary.pdf",
+    "work_key": "https://sagaftra.org/files/sa_documents/2024 SAG-AFTRA Sound Recordings Code Contract Summary.pdf",
+    "title": "2024 SAG-AFTRA Sound Recordings Code Contract Summary (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:52:50.815800Z",
+    "error_message": "HTTP 403 em https://www.sagaftra.org/files/sa_documents/2024%20SAG-AFTRA%20Sound%20Recordings%20Code%20Contract%20Summary.pdf (PDF, sem fallback via playwright)",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c96f1679e56af436",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.sagaftra.org/sites/default/files/Sound%20Recordings%20Code%20Appendix%20on%20Artificial%20Intelligence.pdf",
+    "normalized_url": "https://sagaftra.org/sites/default/files/Sound Recordings Code Appendix on Artificial Intelligence.pdf",
+    "work_key": "https://sagaftra.org/sites/default/files/Sound Recordings Code Appendix on Artificial Intelligence.pdf",
+    "title": "Sound Recordings Code Appendix on Artificial Intelligence (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:52:58.048040Z",
+    "error_message": "HTTP 403 em https://www.sagaftra.org/sites/default/files/Sound%20Recordings%20Code%20Appendix%20on%20Artificial%20Intelligence.pdf (PDF, sem fallback via playwright)",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3b5160ea7832205d",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.dglaw.com/new-sag-aftra-commercials-contract-is-now-in-effect/",
+    "normalized_url": "https://dglaw.com/new-sag-aftra-commercials-contract-is-now-in-effect",
+    "work_key": "https://dglaw.com/new-sag-aftra-commercials-contract-is-now-in-effect",
+    "title": "New SAG-AFTRA Commercials Contract Is Now in Effect (Davis+Gilbert LLP) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:13:56.683221Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "aca12210a3d2f331",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+    "title": "2025 Interactive Media Video Game Agreement (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:48:23.963252Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930069-GRU 1794966496 1559067062 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6ba1f86e9b8f7d71",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://technologylaw.fkks.com/post/102mewu/inside-the-new-sag-aftra-interactive-media-agreement-new-standards-for-ai-and-di",
+    "normalized_url": "https://technologylaw.fkks.com/post/102mewu/inside-the-new-sag-aftra-interactive-media-agreement-new-standards-for-ai-and-di",
+    "work_key": "https://technologylaw.fkks.com/post/102mewu/inside-the-new-sag-aftra-interactive-media-agreement-new-standards-for-ai-and-di",
+    "title": "Inside the New SAG-AFTRA Interactive Media Agreement: New Standards for AI and Digital Replicas (Frankfurt Kurnit Klein & Selz) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:00.887119Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fa023ec6e7255463",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://legalmoveslawfirm.com/sag-aftra-ima/",
+    "normalized_url": "https://legalmoveslawfirm.com/sag-aftra-ima",
+    "work_key": "https://legalmoveslawfirm.com/sag-aftra-ima",
+    "title": "Navigating the SAG-AFTRA Interactive Media Agreement (Legal Moves Law Firm) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:01.644175Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2060c69319aa812c",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://www.wga.org/contracts/know-your-rights/artificial-intelligence",
+    "normalized_url": "https://wga.org/contracts/know-your-rights/artificial-intelligence",
+    "work_key": "https://wga.org/contracts/know-your-rights/artificial-intelligence",
+    "title": "Artificial Intelligence - Know Your Rights (Writers Guild of America) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:02.168039Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d653b6880a3fd9a4",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://aifilmsafe.com/compliance-calendar",
+    "normalized_url": "https://aifilmsafe.com/compliance-calendar",
+    "work_key": "https://aifilmsafe.com/compliance-calendar",
+    "title": "AI Film Compliance Calendar (AIFilmSafe) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:03.635990Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0ad3078ef2adc633",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts",
+    "title": "2026 TV/Theatrical Contracts (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:48:34.904293Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930080-GRU 1794966505 3538513624 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "846dc294893c7149",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www.screendaily.com/news/sag-aftra-national-members-ratify-new-four-year-deal/5217462.article",
+    "normalized_url": "https://screendaily.com/news/sag-aftra-national-members-ratify-new-four-year-deal/5217462.article",
+    "work_key": "https://screendaily.com/news/sag-aftra-national-members-ratify-new-four-year-deal/5217462.article",
+    "title": "SAG-AFTRA national members ratify new four-year deal (Screen Daily) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:11.121667Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c40f2af239094710",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/television/2026-television-animation-agreements",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/television/2026-television-animation-agreements",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/television/2026-television-animation-agreements",
+    "title": "2026 Television Animation Agreements (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:48:44.630980Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930095-GRU 1794966516 1687729947 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0bf79d0d09e5bc6f",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://slator.com/sag-aftra-requires-ai-dubbing-consent/",
+    "normalized_url": "https://slator.com/sag-aftra-requires-ai-dubbing-consent",
+    "work_key": "https://slator.com/sag-aftra-requires-ai-dubbing-consent",
+    "title": "SAG-AFTRA Requires AI Dubbing Consent in New TV Animation Contracts (Slator) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:11.711339Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "81a7959c95a34e56",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://www.equity.org.uk/news/2026/equity-congratulates-sag-aftra-and-says-ai-standards-must-become-uk-benchmark",
+    "normalized_url": "https://equity.org.uk/news/2026/equity-congratulates-sag-aftra-and-says-ai-standards-must-become-uk-benchmark",
+    "work_key": "https://equity.org.uk/news/2026/equity-congratulates-sag-aftra-and-says-ai-standards-must-become-uk-benchmark",
+    "title": "Equity congratulates SAG-AFTRA and says AI standards must become UK benchmark (Equity UK) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:12.840115Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "640563f2090e13e4",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://www.theguardian.com/technology/artificialintelligenceai",
+    "normalized_url": "https://theguardian.com/technology/artificialintelligenceai",
+    "work_key": "https://theguardian.com/technology/artificialintelligenceai",
+    "title": "Actors in UK to get more rights over their 'digital replicas' in deal on AI protections (The Guardian) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:12.909236Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d025ad3ecc8f0dc2",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://ai.ecu.edu/copy-ai-u-s-copyright-office-guidance/",
+    "normalized_url": "https://ai.ecu.edu/copy-ai-u-s-copyright-office-guidance",
+    "work_key": "https://ai.ecu.edu/copy-ai-u-s-copyright-office-guidance",
+    "title": "Copy-AI: U.S. Copyright Office Guidance (East Carolina University) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:13.404168Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b65b9431059254cc",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://www.skadden.com/insights/publications/2025/02/copyright-office-publishes-report",
+    "normalized_url": "https://skadden.com/insights/publications/2025/02/copyright-office-publishes-report",
+    "work_key": "https://skadden.com/insights/publications/2025/02/copyright-office-publishes-report",
+    "title": "Copyright Office Publishes Report on Copyrightability of AI-Generated Materials (Skadden, Arps, Slate, Meagher & Flom LLP) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:13.991333Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e32a3899a64c761b",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://copyrightinformation.org/ai/copyright-office-ai-guidance/",
+    "normalized_url": "https://copyrightinformation.org/ai/copyright-office-ai-guidance",
+    "work_key": "https://copyrightinformation.org/ai/copyright-office-ai-guidance",
+    "title": "Copyright Office AI Guidance (Copyright Information) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:13.732599Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "21f11da433cc1816",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://accordshield.com/blog-who-owns-ai-generated-code-content",
+    "normalized_url": "https://accordshield.com/blog-who-owns-ai-generated-code-content",
+    "work_key": "https://accordshield.com/blog-who-owns-ai-generated-code-content",
+    "title": "Who Owns AI-Generated Code & Content (AccordShield) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:14.281081Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "23f8528fd2cb9952",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://law.justia.com/cases/federal/appellate-courts/cadc/23-5233/23-5233-2025-03-18.html",
+    "normalized_url": "https://law.justia.com/cases/federal/appellate-courts/cadc/23-5233/23-5233-2025-03-18.html",
+    "work_key": "https://law.justia.com/cases/federal/appellate-courts/cadc/23-5233/23-5233-2025-03-18.html",
+    "title": "Thaler v. Perlmutter, No. 23-5233 (D.C. Cir. 2025) (Justia US Law) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:22.785467Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2f6661b70427872a",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act",
+    "normalized_url": "https://bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act",
+    "work_key": "https://bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act",
+    "title": "Supreme Court Denies Certiorari in Thaler v. Perlmutter: AI Cannot Be an Author Under the Copyright Act (Baker Donelson) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:15.657395Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c25a57863857d930",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court/",
+    "normalized_url": "https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court",
+    "work_key": "https://usfblogs.usfca.edu/centerforlawtechsocialgood/from-studio-to-silicon-human-authorship-ai-generated-art-and-the-supreme-court",
+    "title": "From Studio to Silicon: Human Authorship, AI-Generated Art, and the Supreme Court (USF Center for Law, Tech, and Social Good) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:17.889258Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2159d7f23e74a7cd",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://natlawreview.com/article/output-v-input-copyright-ownership-challenges-era-artificial-intelligence",
+    "normalized_url": "https://natlawreview.com/article/output-v-input-copyright-ownership-challenges-era-artificial-intelligence",
+    "work_key": "https://natlawreview.com/article/output-v-input-copyright-ownership-challenges-era-artificial-intelligence",
+    "title": "Output v. Input: Copyright Ownership Challenges in the Era of Artificial Intelligence (National Law Review) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:20.449589Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b59cf79ba07c59c4",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://legalblogs.wolterskluwer.com/copyright-blog/beijing-internet-court-grants-copyright-to-ai-generated-image-for-the-first-time/",
+    "normalized_url": "https://legalblogs.wolterskluwer.com/copyright-blog/beijing-internet-court-grants-copyright-to-ai-generated-image-for-the-first-time",
+    "work_key": "https://legalblogs.wolterskluwer.com/copyright-blog/beijing-internet-court-grants-copyright-to-ai-generated-image-for-the-first-time",
+    "title": "Beijing Internet Court Grants Copyright to AI-Generated Image for the First Time (Kluwer Copyright Blog) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:21.414128Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cb479708bc0dfef5",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://ailawsuittracker.com/international-ai-lawsuits/",
+    "normalized_url": "https://ailawsuittracker.com/international-ai-lawsuits",
+    "work_key": "https://ailawsuittracker.com/international-ai-lawsuits",
+    "title": "International AI Lawsuits (AI Lawsuit Tracker) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:21.766841Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a5ab084a52257129",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "normalized_url": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "work_key": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "title": "Copyright and Artificial Intelligence, Part 3: Generative AI Training, Pre-Publication Version (U.S. Copyright Office) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:09.212766Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "28a2f422c83992f3",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://www.jenner.com/en/news-insights/client-alerts/us-copyright-office-releases-pre-publication-version-of-report-on-copyright-issues-in-generative-ai-training",
+    "normalized_url": "https://jenner.com/en/news-insights/client-alerts/us-copyright-office-releases-pre-publication-version-of-report-on-copyright-issues-in-generative-ai-training",
+    "work_key": "https://jenner.com/en/news-insights/client-alerts/us-copyright-office-releases-pre-publication-version-of-report-on-copyright-issues-in-generative-ai-training",
+    "title": "US Copyright Office Releases \"Pre-Publication Version\" of Report on Copyright Issues in Generative AI Training (Jenner & Block) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:23.514971Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e1ecb38846ba5b1a",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://uk.practicallaw.thomsonreuters.com/w-046-9134?transitionType=Default&contextData=(sc.Default)",
+    "normalized_url": "https://uk.practicallaw.thomsonreuters.com/w-046-9134?contextData=%28sc.Default%29&transitionType=Default",
+    "work_key": "https://uk.practicallaw.thomsonreuters.com/w-046-9134?contextData=%28sc.Default%29&transitionType=Default",
+    "title": "US Copyright Office Releases Part 3 of AI and Copyright Report Addressing Generative AI Training (Thomson Reuters Practical Law) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:31.394064Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9a8f66ecd03cb43f",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://www.crowell.com/en/insights/client-alerts/us-copyright-office-releases-third-report-on-ai-and-copyright-addressing-training-ai-models-with-copyrighted-materials",
+    "normalized_url": "https://crowell.com/en/insights/client-alerts/us-copyright-office-releases-third-report-on-ai-and-copyright-addressing-training-ai-models-with-copyrighted-materials",
+    "work_key": "https://crowell.com/en/insights/client-alerts/us-copyright-office-releases-third-report-on-ai-and-copyright-addressing-training-ai-models-with-copyrighted-materials",
+    "title": "U.S. Copyright Office Releases Third Report on AI and Copyright Addressing Training AI Models with Copyrighted Materials (Crowell & Moring LLP) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:24.744392Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "994ae66275970078",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://law.duke.edu/centers/cspd/2026supplement.pdf",
+    "normalized_url": "https://law.duke.edu/centers/cspd/2026supplement.pdf",
+    "work_key": "https://law.duke.edu/centers/cspd/2026supplement.pdf",
+    "title": "2026 Copyright Law Supplement (Duke Law Center for the Study of the Public Domain) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:34.634243Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "614ac8deacf4b469",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://ailawsuittracker.com/cases/disney-enterprises-inc-v-midjourney-inc-2-25-cv-05275/",
+    "normalized_url": "https://ailawsuittracker.com/cases/disney-enterprises-inc-v-midjourney-inc-2-25-cv-05275",
+    "work_key": "https://ailawsuittracker.com/cases/disney-enterprises-inc-v-midjourney-inc-2-25-cv-05275",
+    "title": "Disney/Universal v. Midjourney (AI Lawsuit Tracker) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:25.153822Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "491e8445479fd489",
+    "citation_markers": [
+      "[62]"
+    ],
+    "raw_url": "https://www.theguardian.com/technology/2025/jun/11/disney-universal-ai-lawsuit",
+    "normalized_url": "https://theguardian.com/technology/2025/jun/11/disney-universal-ai-lawsuit",
+    "work_key": "https://theguardian.com/technology/2025/jun/11/disney-universal-ai-lawsuit",
+    "title": "Disney and Universal sue AI image creator Midjourney, alleging copyright infringement (The Guardian) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:25.752331Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3e3ea65b387725b6",
+    "citation_markers": [
+      "[63]"
+    ],
+    "raw_url": "https://www.law.georgetown.edu/tech-institute/research-insights/insights/disney-nbc-universal-and-dreamworks-file-major-ip-lawsuit-against-ai-image-generator-midjourney/",
+    "normalized_url": "https://law.georgetown.edu/tech-institute/research-insights/insights/disney-nbc-universal-and-dreamworks-file-major-ip-lawsuit-against-ai-image-generator-midjourney",
+    "work_key": "https://law.georgetown.edu/tech-institute/research-insights/insights/disney-nbc-universal-and-dreamworks-file-major-ip-lawsuit-against-ai-image-generator-midjourney",
+    "title": "Disney, NBC Universal, and DreamWorks File Major IP Lawsuit Against AI Image Generator Midjourney (Georgetown Law Institute for Technology Law & Policy) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:26.693942Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "59868667bded4880",
+    "citation_markers": [
+      "[64]"
+    ],
+    "raw_url": "https://rpjlaw.com/hollywood-strikes-back-disney-and-universal-sue-a-i-platform-midjourney-for-copyright-infringement/",
+    "normalized_url": "https://rpjlaw.com/hollywood-strikes-back-disney-and-universal-sue-a-i-platform-midjourney-for-copyright-infringement",
+    "work_key": "https://rpjlaw.com/hollywood-strikes-back-disney-and-universal-sue-a-i-platform-midjourney-for-copyright-infringement",
+    "title": "Hollywood Strikes Back: Disney and Universal Sue A.I. Platform Midjourney for Copyright Infringement (RPJ Law) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:28.353346Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "524f61e57a357570",
+    "citation_markers": [
+      "[65]"
+    ],
+    "raw_url": "https://cms.law/en/gbr/legal-updates/getty-images-v-stability-ai-permission-to-appeal-sought-by-getty-images-at-consequentials-hearing",
+    "normalized_url": "https://cms.law/en/gbr/legal-updates/getty-images-v-stability-ai-permission-to-appeal-sought-by-getty-images-at-consequentials-hearing",
+    "work_key": "https://cms.law/en/gbr/legal-updates/getty-images-v-stability-ai-permission-to-appeal-sought-by-getty-images-at-consequentials-hearing",
+    "title": "Getty Images v Stability AI - Permission to appeal sought by Getty Images at consequentials hearing (CMS Law-Now) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:30.281458Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b96039d1567590cd",
+    "citation_markers": [
+      "[66]"
+    ],
+    "raw_url": "https://assets.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt458646ff62fb9d7f/6a1f2d89339eecced0b42ca0/TH_13.00-14.00_Copyright_and_wrong.pdf",
+    "normalized_url": "https://assets.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt458646ff62fb9d7f/6a1f2d89339eecced0b42ca0/TH_13.00-14.00_Copyright_and_wrong.pdf",
+    "work_key": "https://assets.contentstack.io/v3/assets/bltd4dd5b2d705252bc/blt458646ff62fb9d7f/6a1f2d89339eecced0b42ca0/TH_13.00-14.00_Copyright_and_wrong.pdf",
+    "title": "Copyright and Wrong: AI Authorship and Global Copyright Litigation -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:50.730954Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8437f7527c4dc055",
+    "citation_markers": [
+      "[67]"
+    ],
+    "raw_url": "https://www.loeb.com/en/insights/publications/2025/07/lehrman-v-lovo-inc",
+    "normalized_url": "https://loeb.com/en/insights/publications/2025/07/lehrman-v-lovo-inc",
+    "work_key": "https://loeb.com/en/insights/publications/2025/07/lehrman-v-lovo-inc",
+    "title": "Lehrman v. Lovo Inc. (Loeb & Loeb LLP) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:32.732122Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1443f83fa4a07216",
+    "citation_markers": [
+      "[68]"
+    ],
+    "raw_url": "https://www.fredlaw.com/alert-federal-court-dismisses-trademark-and-copyright-claims-over-ai-voice-clones-but-leaves-door-open-under-state-publicity-law",
+    "normalized_url": "https://fredlaw.com/alert-federal-court-dismisses-trademark-and-copyright-claims-over-ai-voice-clones-but-leaves-door-open-under-state-publicity-law",
+    "work_key": "https://fredlaw.com/alert-federal-court-dismisses-trademark-and-copyright-claims-over-ai-voice-clones-but-leaves-door-open-under-state-publicity-law",
+    "title": "Federal Court Dismisses Trademark and Copyright Claims Over AI Voice Clones, But Leaves Door Open Under State Publicity Law (Fredrikson & Byron) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:33.942578Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f3e20b836daf5042",
+    "citation_markers": [
+      "[69]"
+    ],
+    "raw_url": "https://arxiv.org/html/2606.26111v1",
+    "normalized_url": "https://arxiv.org/html/2606.26111v1",
+    "work_key": "https://arxiv.org/html/2606.26111v1",
+    "title": "Generative AI, Music, and Copyright Law (arXiv) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:35.140289Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "23a34f7aff2a3825",
+    "citation_markers": [
+      "[70]"
+    ],
+    "raw_url": "https://ai.miraheze.org/wiki/Lovo",
+    "normalized_url": "https://ai.miraheze.org/wiki/Lovo",
+    "work_key": "https://ai.miraheze.org/wiki/Lovo",
+    "title": "Lovo (AI Wiki / Miraheze) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:48:57.540399Z",
+    "error_message": "barreira de acesso (no_content): Verification successful. Waiting for ai.miraheze.org to respond Enable JavaScript and cookies to continue",
+    "barrier_kind": "no_content",
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "79fe2dde0c9d4454",
+    "citation_markers": [
+      "[71]"
+    ],
+    "raw_url": "https://www.afterlife.ai/no-fakes-act-explained",
+    "normalized_url": "https://afterlife.ai/no-fakes-act-explained",
+    "work_key": "https://afterlife.ai/no-fakes-act-explained",
+    "title": "The NO FAKES Act Explained (Afterlife.ai) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:36.667819Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "73da2e8812471063",
+    "citation_markers": [
+      "[72]"
+    ],
+    "raw_url": "https://www.chartlex.com/blog/business/ai-voice-cloning-music-legal-2026",
+    "normalized_url": "https://chartlex.com/blog/business/ai-voice-cloning-music-legal-2026",
+    "work_key": "https://chartlex.com/blog/business/ai-voice-cloning-music-legal-2026",
+    "title": "AI Voice Cloning Music Laws 2026: Country by Country (Chartlex) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:38.023477Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f5ab54b8f564cede",
+    "citation_markers": [
+      "[73]"
+    ],
+    "raw_url": "https://air.io/en/youtube-hacks/youtube-ai-policy-2026-likeness-detection-and-the-no-fakes-act-what-creators-need-to-know",
+    "normalized_url": "https://air.io/en/youtube-hacks/youtube-ai-policy-2026-likeness-detection-and-the-no-fakes-act-what-creators-need-to-know",
+    "work_key": "https://air.io/en/youtube-hacks/youtube-ai-policy-2026-likeness-detection-and-the-no-fakes-act-what-creators-need-to-know",
+    "title": "YouTube AI Policy 2026: Likeness Detection and the NO FAKES Act (AIR Media-Tech) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:41.960735Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e6d95f5955eeaa83",
+    "citation_markers": [
+      "[74]"
+    ],
+    "raw_url": "https://stablediffusionfrivolous.com/deepfakes/right-of-publicity/",
+    "normalized_url": "https://stablediffusionfrivolous.com/deepfakes/right-of-publicity",
+    "work_key": "https://stablediffusionfrivolous.com/deepfakes/right-of-publicity",
+    "title": "Right of Publicity and AI Deepfakes (Stable Diffusion Frivolous) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:42.461925Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d8ee3eba84dd0caa",
+    "citation_markers": [
+      "[75]"
+    ],
+    "raw_url": "https://talkmie.com/news/no-fakes-act-voice-likeness-us-status",
+    "normalized_url": "https://talkmie.com/news/no-fakes-act-voice-likeness-us-status",
+    "work_key": "https://talkmie.com/news/no-fakes-act-voice-likeness-us-status",
+    "title": "NO FAKES Act: where the US bill on AI voice and likeness stands (TalkMie) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:14:43.688035Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0a797fc5e6aca167",
+    "citation_markers": [
+      "[76]"
+    ],
+    "raw_url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
+    "normalized_url": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
+    "work_key": "https://copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
+    "title": "Copyright and Artificial Intelligence, Part 1: Digital Replicas (U.S. Copyright Office) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:12.062312Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9d0ca35723cdd785",
+    "citation_markers": [
+      "[77]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+    "title": "Artificial Intelligence Member Resources (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:02.967999Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "377fa397a3a499a2",
+    "citation_markers": [
+      "[78]"
+    ],
+    "raw_url": "https://www.sagaftra.org/sag-aftra-ai-bargaining-and-policy-work-timeline",
+    "normalized_url": "https://sagaftra.org/sag-aftra-ai-bargaining-and-policy-work-timeline",
+    "work_key": "https://sagaftra.org/sag-aftra-ai-bargaining-and-policy-work-timeline",
+    "title": "SAG-AFTRA A.I. Bargaining and Policy Work Timeline (SAG-AFTRA) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:48:59.660743Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930058-GRU 1794966526 4234347310 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6b9c978375a917b2",
+    "citation_markers": [
+      "[79]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+    "title": "Transparency Obligations Under Article 50 of the AI Act: FAQs (European Commission) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:03.781632Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b76da90c9efa52ad",
+    "citation_markers": [
+      "[80]"
+    ],
+    "raw_url": "https://ppc.land/non-eu-advertisers-face-3-eu-fines-for-unlabelled-ai-deep-fake-ads/",
+    "normalized_url": "https://ppc.land/non-eu-advertisers-face-3-eu-fines-for-unlabelled-ai-deep-fake-ads",
+    "work_key": "https://ppc.land/non-eu-advertisers-face-3-eu-fines-for-unlabelled-ai-deep-fake-ads",
+    "title": "Non-EU advertisers face 3% EU fines for unlabelled AI deep fake ads (PPC Land) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:08.229329Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bf07a32b54786ba6",
+    "citation_markers": [
+      "[81]"
+    ],
+    "raw_url": "https://www.regulation-ai.eu/en/transparency-obligations/",
+    "normalized_url": "https://regulation-ai.eu/en/transparency-obligations",
+    "work_key": "https://regulation-ai.eu/en/transparency-obligations",
+    "title": "EU AI Act Transparency Obligations (Regulation-AI.eu) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:05.374489Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a73bbe86eb88a4c1",
+    "citation_markers": [
+      "[82]"
+    ],
+    "raw_url": "https://asee.io/blog/eu-ai-act-transparency-rules-customer-service/",
+    "normalized_url": "https://asee.io/blog/eu-ai-act-transparency-rules-customer-service",
+    "work_key": "https://asee.io/blog/eu-ai-act-transparency-rules-customer-service",
+    "title": "EU AI Act Transparency Rules for Voice Agents and Synthetic Media (Asee) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:07.747722Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "876d36e2e869a71a",
+    "citation_markers": [
+      "[83]"
+    ],
+    "raw_url": "https://www.biometricupdate.com/202611/deepfake-era-puts-likeness-in-legal-spotlight-as-eu-works-to-define-whats-allowed",
+    "normalized_url": "https://biometricupdate.com/202611/deepfake-era-puts-likeness-in-legal-spotlight-as-eu-works-to-define-whats-allowed",
+    "work_key": "https://biometricupdate.com/202611/deepfake-era-puts-likeness-in-legal-spotlight-as-eu-works-to-define-whats-allowed",
+    "title": "Deepfake era puts likeness in legal spotlight as EU works to define what's allowed (Biometric Update) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:08.812546Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "eb2637385c471519",
+    "citation_markers": [
+      "[84]"
+    ],
+    "raw_url": "https://www.europarl.europa.eu/RegData/etudes/ATAG/2026/782611/EPRS_ATA(2026)782611_EN.pdf",
+    "normalized_url": "https://europarl.europa.eu/RegData/etudes/ATAG/2026/782611/EPRS_ATA(2026)782611_EN.pdf",
+    "work_key": "https://europarl.europa.eu/RegData/etudes/ATAG/2026/782611/EPRS_ATA(2026)782611_EN.pdf",
+    "title": "The Danish approach to copyright and deepfakes: A model for the EU? (European Parliamentary Research Service) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:11.908329Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "565baf8382fc5938",
+    "citation_markers": [
+      "[85]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/401736407_Copyright_or_personality_rights_A_critical_analysis_of_Denmark's_approach_to_deepfakes",
+    "normalized_url": "https://researchgate.net/publication/401736407_Copyright_or_personality_rights_A_critical_analysis_of_Denmark's_approach_to_deepfakes",
+    "work_key": "https://researchgate.net/publication/401736407_Copyright_or_personality_rights_A_critical_analysis_of_Denmark's_approach_to_deepfakes",
+    "title": "Copyright or personality rights? A critical analysis of Denmark's approach to deepfakes (ResearchGate) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:53:39.216589Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/401736407_Copyright_or_personality_rights_A_critical_analysis_of_Denmark's_approach_to_deepfakes",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "265bc58c04b6709c",
+    "citation_markers": [
+      "[86]"
+    ],
+    "raw_url": "https://english.bjinternetcourt.gov.cn/2024-04/24/c_706.htm",
+    "normalized_url": "https://english.bjinternetcourt.gov.cn/2024-04/24/c_706.htm",
+    "work_key": "https://english.bjinternetcourt.gov.cn/2024-04/24/c_706.htm",
+    "title": "AI-generated voice mimicry infringes on rights (Beijing Internet Court) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:17.184738Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "96d72fb1f1c459ac",
+    "citation_markers": [
+      "[87]"
+    ],
+    "raw_url": "https://www.marks-clerk.com/insights/latest-insights/102kv8h-china-new-ruling-on-non-infringement-of-personality-rights-by-ai-voice-does-it-signal-a-shift-in-protection-standards/",
+    "normalized_url": "https://marks-clerk.com/insights/latest-insights/102kv8h-china-new-ruling-on-non-infringement-of-personality-rights-by-ai-voice-does-it-signal-a-shift-in-protection-standards",
+    "work_key": "https://marks-clerk.com/insights/latest-insights/102kv8h-china-new-ruling-on-non-infringement-of-personality-rights-by-ai-voice-does-it-signal-a-shift-in-protection-standards",
+    "title": "China: New Ruling on Non-Infringement of Personality Rights by AI Voice: Does It Signal a Shift in Protection Standards? (Marks & Clerk) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:13.861965Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "92d7831272f13c5d",
+    "citation_markers": [
+      "[88]"
+    ],
+    "raw_url": "https://adjuris.ro/books/plbs/13.pdf",
+    "normalized_url": "https://adjuris.ro/books/plbs/13.pdf",
+    "work_key": "https://adjuris.ro/books/plbs/13.pdf",
+    "title": "Identity Under Copyright: Legal Response to the Deepfake Era (Daniel Zigo, Prospects of Law in Business) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:17.032962Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6262972b1fd342ed",
+    "citation_markers": [
+      "[89]"
+    ],
+    "raw_url": "https://www.resemble.ai/resources/generative-ai-watermarking-opportunities-challenges",
+    "normalized_url": "https://resemble.ai/resources/generative-ai-watermarking-opportunities-challenges",
+    "work_key": "https://resemble.ai/resources/generative-ai-watermarking-opportunities-challenges",
+    "title": "Generative AI Watermarking: Opportunities and Challenges (Resemble AI) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:14.310728Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bddb258f50908e05",
+    "citation_markers": [
+      "[90]"
+    ],
+    "raw_url": "https://www.datamintelligence.com/research-report/digital-watermarking-market",
+    "normalized_url": "https://datamintelligence.com/research-report/digital-watermarking-market",
+    "work_key": "https://datamintelligence.com/research-report/digital-watermarking-market",
+    "title": "Digital Watermarking Market Research Report (DataM Intelligence) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:15.391145Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "44ecdf8f7c07c5ac",
+    "citation_markers": [
+      "[91]"
+    ],
+    "raw_url": "https://blog.promise.legal/ai-generated-content-film-legal-compliance-2026/",
+    "normalized_url": "https://blog.promise.legal/ai-generated-content-film-legal-compliance-2026",
+    "work_key": "https://blog.promise.legal/ai-generated-content-film-legal-compliance-2026",
+    "title": "AI-Generated Content in Film: Legal Compliance in 2026 (Promise Legal) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:16.127947Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9abf1e3404183774",
+    "citation_markers": [
+      "[92]"
+    ],
+    "raw_url": "https://aifilmsafe.com/glossary",
+    "normalized_url": "https://aifilmsafe.com/glossary",
+    "work_key": "https://aifilmsafe.com/glossary",
+    "title": "AI Film Compliance Glossary (AIFilmSafe) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:17.014845Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "748c3dc76a6c6b43",
+    "citation_markers": [
+      "[93]"
+    ],
+    "raw_url": "https://www.reedsmith.com/articles/entertainment-media-guide-to-ai-three-years-on/games/",
+    "normalized_url": "https://reedsmith.com/articles/entertainment-media-guide-to-ai-three-years-on/games",
+    "work_key": "https://reedsmith.com/articles/entertainment-media-guide-to-ai-three-years-on/games",
+    "title": "Entertainment & Media Guide to AI: Three Years On - Games (Reed Smith) -",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T23:15:18.336542Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "tool_name": "Gemini"
+  }
+]

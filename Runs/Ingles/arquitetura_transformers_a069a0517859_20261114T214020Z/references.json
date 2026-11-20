@@ -1,0 +1,819 @@
+[
+  {
+    "id": "a7468c6851652691",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1706.03762",
+    "normalized_url": "https://arxiv.org/abs/1706.03762",
+    "work_key": "ARXIV:1706.03762",
+    "title": "1. Attention Is All You Need (Vaswani et al., 2017).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:40:54.393460Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2cab3ea10b8b7ae2",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2005.14165",
+    "normalized_url": "https://arxiv.org/abs/2005.14165",
+    "work_key": "ARXIV:2005.14165",
+    "title": "2. Language Models are Few-Shot Learners (Brown et al., 2020).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:34.321237Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3972039dbf3f7ee7",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2302.13971",
+    "normalized_url": "https://arxiv.org/abs/2302.13971",
+    "work_key": "ARXIV:2302.13971",
+    "title": "3. LLaMA: Open and Efficient Foundation Language Models (Touvron et al., 2023).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:08.238715Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5727fed78bddc701",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2205.14135",
+    "normalized_url": "https://arxiv.org/abs/2205.14135",
+    "work_key": "ARXIV:2205.14135",
+    "title": "4. FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness (Dao et al., 2022).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:17.749116Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a114e852aac1b2cb",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2305.13245",
+    "normalized_url": "https://arxiv.org/abs/2305.13245",
+    "work_key": "ARXIV:2305.13245",
+    "title": "5. GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints (Ainslie et al., 2023).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:40:59.981094Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "647d0f26df7e19e1",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2310.06825",
+    "normalized_url": "https://arxiv.org/abs/2310.06825",
+    "work_key": "ARXIV:2310.06825",
+    "title": "6. Mistral 7B (Jiang et al., 2023).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:09.506315Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7616a9236ed354b5",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://huggingface.co/papers/2412.19437",
+    "normalized_url": "https://huggingface.co/papers/2412.19437",
+    "work_key": "https://huggingface.co/papers/2412.19437",
+    "title": "7. DeepSeek-V3 Technical Report (DeepSeek-AI, 2024), Hugging Face Papers.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:10.306309Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "671700500b326f78",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://blog.korolevalab.com/blog/2026/hybrid-attention/",
+    "normalized_url": "https://blog.korolevalab.com/blog/2026/hybrid-attention",
+    "work_key": "https://blog.korolevalab.com/blog/2026/hybrid-attention",
+    "title": "8. Hybrid attention: why new LLMs keep full attention in only a few layers (Koroleva Lab blog, 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:10.691845Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "fe06a65b0496fb2d",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.minimax.io/news/why-did-m2-end-up-as-a-full-attention-model",
+    "normalized_url": "https://minimax.io/news/why-did-m2-end-up-as-a-full-attention-model",
+    "work_key": "https://minimax.io/news/why-did-m2-end-up-as-a-full-attention-model",
+    "title": "9. Why Did M2 End Up as a Full Attention Model? (MiniMax, 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:11.552078Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c23bf2a3bc33cb7a",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1409.0473",
+    "normalized_url": "https://arxiv.org/abs/1409.0473",
+    "work_key": "ARXIV:1409.0473",
+    "title": "10. Neural Machine Translation by Jointly Learning to Align and Translate (Bahdanau, Cho, Bengio, 2014).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:21.229295Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c7a67a93fef201c0",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1508.04025",
+    "normalized_url": "https://arxiv.org/abs/1508.04025",
+    "work_key": "ARXIV:1508.04025",
+    "title": "11. Effective Approaches to Attention-based Neural Machine Translation (Luong, Pham, Manning, 2015).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:21.630307Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a37966686d387941",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://scilit.com/publications/4988b98a344caef9bd67bf8370a931c3",
+    "normalized_url": "https://scilit.com/publications/4988b98a344caef9bd67bf8370a931c3",
+    "work_key": "https://scilit.com/publications/4988b98a344caef9bd67bf8370a931c3",
+    "title": "12. Learning long-term dependencies with gradient descent is difficult (IEEE Transactions on Neural Networks, 1994).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T03:12:01.579670Z",
+    "error_message": null,
+    "barrier_kind": "http_error",
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "319a638394e5883b",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1211.5063",
+    "normalized_url": "https://arxiv.org/abs/1211.5063",
+    "work_key": "ARXIV:1211.5063",
+    "title": "13. On the difficulty of training Recurrent Neural Networks (Pascanu, Mikolov, Bengio, 2012).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:29.840406Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "34c4c8ee90c46400",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "normalized_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "work_key": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "title": "14. Attention Is All You Need (Wikipedia).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:42:30.759289Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ab38f2e1ef39faa3",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://nlp.seas.harvard.edu/annotated-transformer",
+    "normalized_url": "https://nlp.seas.harvard.edu/annotated-transformer",
+    "work_key": "https://nlp.seas.harvard.edu/annotated-transformer",
+    "title": "15. The Annotated Transformer (Harvard NLP).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:31.464691Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "32f3c7d144f036a0",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1810.04805",
+    "normalized_url": "https://arxiv.org/abs/1810.04805",
+    "work_key": "ARXIV:1810.04805",
+    "title": "16. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., 2018).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:39.686138Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a3e86ad05f37e40d",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+    "normalized_url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+    "work_key": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+    "title": "17. Improving Language Understanding by Generative Pre-Training (Radford et al., OpenAI, 2018).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:39.641441Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a1bf736f7779eb7a",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://huggingface.co/transformers/v2.5.1/model_doc/gpt.html",
+    "normalized_url": "https://huggingface.co/transformers/v2.5.1/model_doc/gpt.html",
+    "work_key": "https://huggingface.co/transformers/v2.5.1/model_doc/gpt.html",
+    "title": "18. OpenAI GPT (Hugging Face Transformers documentation, v2.5.1).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:39.830288Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "887da5f02141c29f",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1910.10683",
+    "normalized_url": "https://arxiv.org/abs/1910.10683",
+    "work_key": "ARXIV:1910.10683",
+    "title": "19. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al., 2019).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:42:10.880990Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "87f5786bc5be29ae",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1910.13461",
+    "normalized_url": "https://arxiv.org/abs/1910.13461",
+    "work_key": "ARXIV:1910.13461",
+    "title": "20. BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension (Lewis et al., 2019).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:45.680937Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "11ae39b661d58ec6",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2002.04745",
+    "normalized_url": "https://arxiv.org/abs/2002.04745",
+    "work_key": "ARXIV:2002.04745",
+    "title": "21. On Layer Normalization in the Transformer Architecture (Xiong et al., 2020).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:41:54.469889Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d0023c41add26a80",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1910.07467",
+    "normalized_url": "https://arxiv.org/abs/1910.07467",
+    "work_key": "ARXIV:1910.07467",
+    "title": "22. Root Mean Square Layer Normalization (Zhang and Sennrich, 2019).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:42:07.569046Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7febb7e905af5e40",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2002.05202",
+    "normalized_url": "https://arxiv.org/abs/2002.05202",
+    "work_key": "ARXIV:2002.05202",
+    "title": "23. GLU Variants Improve Transformer (Shazeer, 2020).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:42:10.020084Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "83213326f5835ccc",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2104.09864",
+    "normalized_url": "https://arxiv.org/abs/2104.09864",
+    "work_key": "ARXIV:2104.09864",
+    "title": "24. RoFormer: Enhanced Transformer with Rotary Position Embedding (Su et al., 2021).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:42:14.810189Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "25676193afe5f7ab",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2108.12409",
+    "normalized_url": "https://arxiv.org/abs/2108.12409",
+    "work_key": "ARXIV:2108.12409",
+    "title": "25. Train Short, Test Long: Attention with Linear Biases Enables Input Length Extrapolation (Press, Smith, Lewis, 2021).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:42:21.048891Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1b5948ab02410cc1",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://openai.com/index/better-language-models/",
+    "normalized_url": "https://openai.com/index/better-language-models",
+    "work_key": "https://openai.com/index/better-language-models",
+    "title": "26. Better Language Models and Their Implications (OpenAI, 2019).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:42:15.685878Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "85f66a6419d173a7",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2001.08361",
+    "normalized_url": "https://arxiv.org/abs/2001.08361",
+    "work_key": "ARXIV:2001.08361",
+    "title": "27. Scaling Laws for Neural Language Models (Kaplan et al., 2020).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:42:30.622957Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "46fd66187ec3e6ae",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2203.15556",
+    "normalized_url": "https://arxiv.org/abs/2203.15556",
+    "work_key": "ARXIV:2203.15556",
+    "title": "28. Training Compute-Optimal Large Language Models (Hoffmann et al., 2022).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:08.172933Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1098fc60be7ca2b0",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2203.02155",
+    "normalized_url": "https://arxiv.org/abs/2203.02155",
+    "work_key": "ARXIV:2203.02155",
+    "title": "29. Training language models to follow instructions with human feedback (Ouyang et al., 2022).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:37.864375Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a426845dabe2c7d6",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1902.10186",
+    "normalized_url": "https://arxiv.org/abs/1902.10186",
+    "work_key": "ARXIV:1902.10186",
+    "title": "30. Attention is not Explanation (Jain and Wallace, 2019).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:42:58.045288Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cad2d1b0df074a10",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1908.04626",
+    "normalized_url": "https://arxiv.org/abs/1908.04626",
+    "work_key": "ARXIV:1908.04626",
+    "title": "31. Attention is not not Explanation (Wiegreffe and Pinter, 2019).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:09.609837Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "23e5123e7f8f98e2",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html",
+    "normalized_url": "https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html",
+    "work_key": "https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html",
+    "title": "32. In-context Learning and Induction Heads (Olsson et al., Anthropic, 2022).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:08.108285Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4c6fe5590fff18ca",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.morphllm.com/kv-cache",
+    "normalized_url": "https://morphllm.com/kv-cache",
+    "work_key": "https://morphllm.com/kv-cache",
+    "title": "33. KV Cache Explained (Morph).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:08.657822Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5e9c4b0d7e28a9c7",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1911.02150",
+    "normalized_url": "https://arxiv.org/abs/1911.02150",
+    "work_key": "ARXIV:1911.02150",
+    "title": "34. Fast Transformer Decoding: One Write-Head is All You Need (Shazeer, 2019).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:18.547303Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "981cecee682065a2",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://huggingface.co/papers/2004.05150",
+    "normalized_url": "https://huggingface.co/papers/2004.05150",
+    "work_key": "https://huggingface.co/papers/2004.05150",
+    "title": "35. Longformer: The Long-Document Transformer (Beltagy, Peters, Cohan, 2020), Hugging Face Papers.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:09.270223Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bf9cd21d7a7afdff",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2101.03961",
+    "normalized_url": "https://arxiv.org/abs/2101.03961",
+    "work_key": "ARXIV:2101.03961",
+    "title": "36. Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity (Fedus, Zoph, Shazeer, 2021).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:39.743323Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "31ff4e3be2e00940",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2401.04088",
+    "normalized_url": "https://arxiv.org/abs/2401.04088",
+    "work_key": "ARXIV:2401.04088",
+    "title": "37. Mixtral of Experts (Mistral AI, 2024).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:24.655780Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5dd64e15cc7592b1",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2312.00752",
+    "normalized_url": "https://arxiv.org/abs/2312.00752",
+    "work_key": "ARXIV:2312.00752",
+    "title": "38. Mamba: Linear-Time Sequence Modeling with Selective State Spaces (Gu and Dao, 2023).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:44.032213Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "acf32742b39c0b77",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2305.13048",
+    "normalized_url": "https://arxiv.org/abs/2305.13048",
+    "work_key": "ARXIV:2305.13048",
+    "title": "39. RWKV: Reinventing RNNs for the Transformer Era (Peng et al., 2023).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:44.448784Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "739b0738cc518ef9",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2403.19887",
+    "normalized_url": "https://arxiv.org/abs/2403.19887",
+    "work_key": "ARXIV:2403.19887",
+    "title": "40. Jamba: A Hybrid Transformer-Mamba Language Model (AI21 Labs, 2024).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:51.558294Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "29ab108383433c26",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2504.03624",
+    "normalized_url": "https://arxiv.org/abs/2504.03624",
+    "work_key": "ARXIV:2504.03624",
+    "title": "41. Nemotron-H: A Family of Accurate and Efficient Hybrid Mamba-Transformer Models (NVIDIA, 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:55.016164Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "83ddb21bf38bcb8a",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
+    "normalized_url": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
+    "work_key": "https://venturebeat.com/ai/western-qwen-ibm-wows-with-granite-4-llm-launch-and-hybrid-mamba-transformer",
+    "title": "42. 'Western Qwen': IBM wows with Granite 4 LLM launch and hybrid Mamba/Transformer architecture (VentureBeat, 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:44.901059Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1f4047b3971cd26c",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://www.sebastianraschka.com/blog/2026/minimax-m2-technical-report.html",
+    "normalized_url": "https://sebastianraschka.com/blog/2026/minimax-m2-technical-report.html",
+    "work_key": "https://sebastianraschka.com/blog/2026/minimax-m2-technical-report.html",
+    "title": "43. MiniMax M2 Technical Report Notes (Sebastian Raschka, 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T21:43:46.448618Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_a069a0517859_20261114T214020Z",
+    "tool_name": "Claude"
+  }
+]

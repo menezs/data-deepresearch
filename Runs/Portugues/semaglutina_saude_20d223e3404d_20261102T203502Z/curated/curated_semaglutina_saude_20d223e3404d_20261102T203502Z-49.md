@@ -1,0 +1,19 @@
+[referencia=2948f337a370bfec score=0.659]
+### The Study
+
+In a new study published in the *New England Journal of Medicine*, the researchers report that semaglutide may be more effective than lifestyle changes for promoting weight loss, reducing pain and improving function in patients who are overweight and have knee OA.<sup>2</sup>
+
+“It was remarkable: even to us as old-school diet enthusiasts, this was a very, very strong signal,” Dr. Bliddal says. The weight loss, in fact, corresponded directly with the reduction in knee pain and increase in self-reported function. “It’s a substantial addition to our possibilities of interventions with this disease.”
+
+The 68-week trial, dubbed the Semaglutide Treatment Effect in People with Obesity (STEP) 9 trial and funded by Novo Nordisk, enrolled 407 patients at 61 sites in 11 countries; two-thirds of the patients received once-weekly semaglutide injections while the other one-third received a placebo. All patients also received counseling on physical activity and a reduced-calorie diet.
+
+After 68 weeks, the patients taking semaglutide lost 13.7% of their body weight, on average, while those taking a placebo lost only 3.2%. Those patients on semaglutide also reported a 41.7-point drop in the 0-to-100 Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain score, in which higher scores reflect more pain. For those on a placebo, the pain score dropped by 27.5 points. Finally, patients taking semaglutide reported a 12-point improvement on the 36-question Short Form Health Survey (SF-36), which measures their quality of life. Those taking a placebo reported a 6.5-point improvement on the 0-to-100 scale, in which higher scores indicate greater well-being.
+
+---
+
+[referencia=2948f337a370bfec score=0.001]
+Based on decades of data from dietary and other lifestyle interventions, doctors have long known that significant weight loss can be an effective treatment for people who are overweight and have knee osteoarthritis (OA). One meta-analysis showed that OA pain, function and stiffness scores improved by 2% for every 1% in lost weight.<sup>1</sup>
+
+But the disease can present a catch-22. “What’s particular about knee osteoarthritis is that it inhibits exercise to the degree where you can lose weight by exercising,” says Henning Bliddal, MD, a professor of rheumatology, an OA specialist and the head of the Parker Institute at Copenhagen University Hospital. “When your knees are affected to a certain extent, you cannot exercise the weight off. So you’ll have to do something else.”
+
+Although reduced-calorie diets have been successful in helping some patients with obesity and knee OA lose weight, Dr. Bliddal has long sought a medical alternative that can yield similar results. After multiple studies began documenting the effectiveness of the drug semaglutide as an anti-obesity and anti-diabetic therapy, he and colleagues convinced the drug’s manufacturer, Bagsværd, Denmark-based Novo Nordisk, to set up a double-blind, randomized, placebo-controlled trial to test its potential for patients with obesity and knee OA as well. Dr. Bliddal received no compensation from Novo Nordisk for leading the study.

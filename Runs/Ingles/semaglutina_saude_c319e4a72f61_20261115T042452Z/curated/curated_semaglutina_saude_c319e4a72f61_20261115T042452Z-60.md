@@ -1,0 +1,50 @@
+[referencia=3c1bf36999a25eed score=0.996]
+The PRAC has concluded that the available evidence does not support a causal association between the Glucagon-Like Peptide-1 receptor agonists (GLP-1) – dulaglutide, exenatide, liraglutide, lixisenatide and semaglutide – and suicidal and self-injurious thoughts and actions.
+
+GLP-1 receptor agonists are used to treat type 2 diabetes and some are also authorised for weight management under certain conditions in adults who are obese or overweight. The review started in July 2023, following case reports of suicidal thoughts and thoughts of self-injury from people using liraglutide and semaglutide medicines, and in November 2023 the committee requested additional data from the marketing authorisation holders for these medicines, namely Ozempic, Rybelsus, Wegovy, Victoza, Saxenda, Xultophy, Byetta, Bydureon, Lyxumia, Suliqua and Trulicity.
+
+Additionally, the committee analysed the results of a recent study1, based on a large database of electronic health records, which investigated the incidence of suicidal thoughts in patients with overweight and type 2 diabetes mellitus treated with semaglutide or other non-GLP-1 receptor agonist medicines for diabetes or overweight. The study found no causal association between the use of semaglutide and suicidal thoughts.
+
+Another study was conducted by EMA2, based on electronic health records, which examined the risk of suicide-related and self-injury-related events in people with type 2 diabetes mellitus. The results did not support a causal association between the use of GLP-1 receptor agonists and this risk.
+
+After reviewing the available evidence from non-clinical studies, clinical trials, post-marketing surveillance data and the available studies the PRAC considers that no update to the product information is warranted.
+
+The marketing authorisation holders for these medicines will continue to monitor these events closely, including any new publications, as part of their pharmacovigilance activities and report any new evidence on this issue in their Periodic Safety Update Reports (PSURs).
+
+New safety information for healthcare professionals: advice to CHMP on new Rybelsus tablets (oral semaglutide)
+
+Rybelsus is a medicine used to control blood glucose (sugar) levels in adults whose type 2 diabetes is not controlled well enough.
+
+---
+
+[referencia=3c1bf36999a25eed score=0.039]
+Rybelsus is a medicine used to control blood glucose (sugar) levels in adults whose type 2 diabetes is not controlled well enough.
+
+In the context of an ongoing application (line extension) to introduce new strengths of tablets for Rybelsus (oral semaglutide), PRAC was consulted on a proposed direct healthcare professional communication (DHPC) and communication plan for Rybelsus. The committee agreed on the content of the DHPC aiming at informing healthcare professionals on the differences between current and newly proposed formulations.
+
+The agreed content of the DHPC will be forwarded to the CHMP for adoption. After finalisation of the line extension application and in case of a positive opinion at CHMP, the DHPC will be disseminated to healthcare professionals by the marketing authorisation holder, according to an agreed communication plan, and published on the Direct healthcare professional communications page and in national registers in EU Member States.
+
+1 Wang, W., Volkow, N.D., Berger, N.A. et al. Association of semaglutide with risk of suicidal ideation in a real-world cohort. Nat Med 30, 168–176 (2024).
+
+Safety signal assessments. A safety signal is information which suggests a new potentially causal association, or a new aspect of a known association between a medicine and an adverse event that warrants further investigation. Safety signals are generated from several sources such as spontaneous reports, clinical studies and the scientific literature. More information can be found under 'Signal management'.
+
+Periodic safety update reports, abbreviated as PSURs, are reports prepared by the marketing authorisation holder to describe the worldwide safety experience with a medicine in a defined period after its authorisation. PSURs for medicinal products that contain the same active substance or the same combination of active substances but have different marketing authorisations and are authorised in different EU Member States, are jointly assessed in a single assessment procedure. More information can be found under 'Periodic safety update reports: questions and answers'.
+
+Risk management plans, abbreviated as RMPs, are detailed descriptions of the activities and interventions designed to identify, characterise, prevent or minimise risks relating to medicines. Companies are required to submit an RMP to EMA when applying for a marketing authorisation. RMPs are continually updated throughout the lifetime of the medicine as new information becomes available. More information is available under 'Risk-management plans'.
+
+---
+
+[referencia=3c1bf36999a25eed score=0.025]
+Post-authorisation safety studies, abbreviated as PASSs, are studies carried out after a medicine has been authorised to obtain further information on its safety, or to measure the effectiveness of risk-management measures. The PRAC assesses the protocols (aspects related to the organisation of a study) and the results of PASSs. More information can be found under 'Post-authorisation safety studies'.
+
+Referrals are procedures used to resolve issues such as concerns over the safety or benefit-risk balance of a medicine or a class of medicines. In a referral related to safety of medicines, the PRAC is requested by a Member State or the European Commission to conduct a scientific assessment of a particular medicine or class of medicines on behalf of the EU. More information can be found under referral procedures.
+
+Summary safety reports have been introduced as part of the enhanced safety monitoring of COVID-19 vaccines. Marketing authorisation holders are required to submit these reports to EMA, starting on a monthly basis. Their submission complements the submission of PSURs. For more information see Pharmacovigilance plan of the EU Regulatory Network for COVID-19 vaccines.
+
+Abbreviations used in EMA scientific committees and Coordination Group for Mutual Recognition and Decentralised Procedures (CMD) documents, and in relation to EMA’s regulatory activities
+
+Reference Number: EMA/899164/2022 Rev.5
+
+English (EN) (528.31 KB - PDF)
+
+Publicado por primera vez: 05/10/2012Última actualización: 03/07/2026

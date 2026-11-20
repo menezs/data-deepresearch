@@ -1,0 +1,422 @@
+[referencia=6d6bb718c8d385ac score=0.995]
+<p>Background Human papillomavirus (HPV) immunisation with a bivalent vaccine (Cervarix) was introduced in England, UK, in Sept 1, 2008: routine vaccination was offered to girls aged 12-13 years with a catch-up programme for females aged 14-18 years in 2008-10. We quantified the early effect of this immunisation programme on cervical cancer and cervical carcinoma in situ, namely grade 3 cervical intraepithelial neoplasia (CIN3), registrations.</p><p>Methods In this observational study, we used an extension of the age-period-cohort Poisson model to estimate the relative risk of cervical cancer in three vaccinated cohorts compared with earlier cohorts that were not eligible for HPV vaccination. Data from a population-based cancer registry were extracted on Jan 26, 2021, and were assessed for diagnoses of cervical cancer and CIN3 from Jan 1, 2006 to June 30, 2019 in women aged 20-64 years and who were a resident in England. We used three vaccinated cohorts to account for differences in the school year in which the vaccine was offered and its national coverage. Adjustment for confounding was made using information on changes in cervical screening policy and historical events that affected cervical cancer incidence. Results were compared across models with different adjustments for confounders.</p><p>Findings We used data from a total of 13.7 million-years of follow-up of women aged 20 years to younger than 30 years. The estimated relative reduction in cervical cancer rates by age at vaccine offer were 34% (95% CI 25-41) for age 16-18 years (school year 12-13), 62% (52-71) for age 14-16 years (school year 10-11), and 87% (72-94) for age 12-13 years (school year 8), compared with the reference unvaccinated cohort. The corresponding risk reductions for CIN3 were 39% (95% CI 36-41) for those offered at age 16-18 years, 75% (72-77) for age 14-16 years, and 97% (96-98) for age 12-13 years. These results remained similar across models.
+
+---
+
+[referencia=c823bd3cdf916319 score=0.994]
+In March, Sweden reported a huge reduction in cervical cancer among women who had the HPV vaccine in adolescence. This added to data from Denmark, Scotland, the Netherlands and the United States all pointing in the same direction: vaccination is preventing cancer.
+
+Now it’s England’s turn to make headlines. And, as well as reducing cervical cancer, health authorities have reported **no deaths** from the disease among women aged 20 to 24 – the first time this has been achieved over a five year period.
+
+Based on historical trends, the number of ‘expected deaths’ was 23. That’s twenty-three young women alive in England today. They are working, studying and socialising. And, of course, nobody can say *which* 23 women were spared by vaccination.
+
+Prof David Salisbury, who was Director of Immunisation at the UK Department of Health, when the vaccine was introduced almost twenty years ago, welcomed the striking new data.
+
+‘When the vaccine team at the then Department of Health led the implementation of HPV vaccination in England in 2008, we hoped for success,’ he told *Vaccines Today.* ‘Nobody expected that within such a short time, we would see the risk of death from cervical cancer dropping to zero in young women. Proof, if it was ever needed, of the value of vaccines.’
+
+Professor Peter Sasieni of Queen Mary University of London, who led the new study, praised the immunisation programme and called for higher uptake of the HPV vaccine. ‘The key takeaway is that the HPV vaccine works and we’re able to make it work on a population scale,’ he said.
+
+Prof Sadieni estimated that 200 deaths from cervical cancer have been avoided in England alone since the HPV vaccine was introduced. However, this enormous achievement cannot be taken for granted.
+
+In the cohort aged 20 to 24 at the time of the study, vaccination coverage was close to 90%. Vaccination is offered to adolescents aged 12 to 13. However, fewer of today’s adolescents are protected, meaning that ten years from now, cervical cancer deaths could return.
+
+‘In England as a whole, vaccine uptake has dropped to 76%, and in London it’s just 61%. There are local authorities where under 50% of girls have been vaccinated,’ Prof Sasieni said. ‘If that’s what’s going on we’ll see a resurgence of cervical cancer and young women dying of cervical cancer,’ said Prof Sasieni.
+
+---
+
+[referencia=84f714500cdb7ddc score=0.990]
+ 
+included studies, 177 reported only on females, 11 only males and 37 a 
+combination of males and females. Risk of bias ranged from overall moderate risk 
+to critical risk. Clinical outcomes There was moderate-certainty evidence from 
+20 studies that HPV vaccination reduces the incidence of cervical cancer. Five 
+cohort studies including 4,390,243 females reported adjusted estimates showing a 
+reduced risk of cervical cancer following HPV vaccination in the long term (risk 
+ratio (RR) 0.37, 95% confidence interval (CI) 0.25 to 0.56; I2 = 88%). There was 
+a significant interaction with age at vaccination, with a greater risk reduction 
+in younger people. For those vaccinated at or before 16 years of age, covering 
+4.54 million person-years, there was an 80% reduced risk of cervical cancer (RR 
+0.20, 95% CI 0.09 to 0.44; I2 = 69%). One cohort study, one case-control study, 
+one cross-sectional study and three RCT extension studies all reported no cases 
+of cervical cancer in the HPV vaccine groups. Eight pre-post vaccine 
+introduction studies each reported a reduction in cervical cancer incidence 
+following HPV vaccine introduction but did not provide data in a form that 
+allowed for meta-analysis. There was moderate-certainty evidence from 23 studies 
+that HPV vaccination reduces the incidence of cervical intraepithelial neoplasia 
+grade 3 or higher (CIN3+), including 12 cohort studies. For 1.5 million females 
+vaccinated at or before the age of 16 years in two cohort studies, there was a 
+reduction of CIN3+ incidence of 74% in the long term (RR 0.26, 95% CI 0.12 to 
+0.56; I2 = 80%). Three case-control studies, one RCT extension study and three 
+cross-sectional studies also reported a decreased risk of CIN3+ in vaccinated 
+participants. One cross-sectional study reported no difference in the risk of 
+CIN3+. Three pre-post vaccine introduction studies reported a decrease in CIN3+ 
+incidence following HPV vaccine introduction. There was moderate-certainty 
+evidence from 37 studies that HPV vaccination reduces the incidence of CIN2+. In 
+cohort studies with females vaccinated at or before the age of 16 years, a
+
+---
+
+[referencia=6d6bb718c8d385ac score=0.953]
+# The effects of the national HPV vaccination programme in England, UK, on cervical cancer and grade 3 cervical intraepithelial neoplasia incidence: a register-based observational study
+
+- Milena Falcaro,
+- Alejandra Castañon,
+- Busani Ndlela,
+- ,
+- ,
+
+- King's College London,
+- ,
+- Guy's Hospital
+
+Research Output: 
+
+Contribution to journal
+
+ Article
+
+ Research
+
+ Peer-review
+
+---
+
+[referencia=6d6bb718c8d385ac score=0.949]
+These results remained similar across models. We estimated that by June 30, 2019 there had been 448 (339-556) fewer than expected cervical cancers and 17 235 (15 919-18 552) fewer than expected cases of CIN3 in vaccinated cohorts in England.</p><p>Interpretation We observed a substantial reduction in cervical cancer and incidence of CIN3 in young women after the introduction of the HPV immunisation programme in England, especially in individuals who were offered the vaccine at age 12-13 years. The HPV immunisation programme has successfully almost eliminated cervical cancer in women born since Sept 1, 1995. </p><p>Copyright Crown Copyright (C) 2021 Published by Elsevier Ltd. All rights reserved.</p>
+
+## Research Output Information
+
+### **Output type**
+
+**Output type**
+
+Research Output: 
+
+Contribution to journal
+
+ Article
+
+ Research
+
+ Peer-review
+### **Original language**
+
+English
+**Original language**
+
+### **Pages from-to (Number of pages)**
+
+Pages 2084-2092 (9 pages)
+**Pages from-to (Number of pages)**
+
+### **Journal (Volume, Issue Number)**
+
+The Lancet (Volume 398, Issue 10316)
+**Journal (Volume, Issue Number)**
+
+### **Publication milestones**
+
+**Publication milestones**
+
+- Published - 04/12/2021
+
+### **Publication status**
+
+**Publication status**
+
+Published - 04/12/2021
+
+### **ISSN**
+
+0140-6736
+**ISSN**
+
+### **Publication IDs**
+
+**Publication IDs**
+
+- Scopus: 85120375989
+- WOS: 000726564200021
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.931]
+# HPV vaccines are highly effective in preventing infections and cervical cancer
+
+Because cervical cancer is caused by a virus, it can be prevented through vaccination.
+
+The first HPV vaccine was developed in the 1990s by researchers in Australia.<sup>4</sup>
+
+It was first introduced in 2006 and is effective against four major types of HPV.<sup>5</sup> Another version, introduced in 2014, expanded its coverage to protect against additional cancer-causing HPV types.<sup>6</sup>
+
+These vaccines work by stimulating the immune system to produce antibodies that can eliminate HPV and prevent infections.<sup>7</sup>
+
+HPV vaccines are highly effective, which has been demonstrated in large-scale randomized controlled trials. Research shows that, if given early, vaccination reduces the risk of serious cervical cell changes by 99% for the HPV types most likely to cause cervical cancer.<sup>8</sup>
+
+Recent research has found that even a single dose provides high efficacy against infections.<sup>9</sup>
+
+The vaccine is most effective when given early — before people are exposed to the virus. Vaccination programs in schools are, therefore, very impactful in making the most of HPV vaccines.
+
+There is also another important reason for giving out these vaccines in schools: the vaccine’s efficacy is long-lasting<sup>10</sup>, and vaccination programs are much easier to implement at scale through schools than vaccinating individuals at clinics.<sup>11</sup>
+
+## Cervical cancer rates have declined greatly among younger generations with vaccination
+
+In England, younger cohorts vaccinated at school show dramatically lower rates of cervical cancer than older cohorts when they reached the same age. This is shown in the chart below.<sup>12</sup>
+
+In the youngest cohort, which had a vaccination rate of 89%, cervical cancer rates were around 87% lower than in the oldest cohorts.
+
+Large reductions in cervical cancer rates have also been seen in other countries with high vaccination rates.<sup>13</sup>
+
+Because of highly effective vaccination and early screening programs, several countries have substantially reduced cervical cancer rates.
+
+Rates in Australia and the United Kingdom, for example, have recently fallen below 8 per 100,000 and are projected to fall below 4 per 100,000 in the coming decade.<sup>14</sup>
+
+But, at current vaccination rates, it will take decades for other countries to reach these levels — this is why raising vaccination rates is crucial.<sup>15</sup>
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.920]
+5. Specifically, it is effective against types 6, 11, 16, and 18.
+6. Markowitz, L. E., & Schiller, J. T. (2021). Human Papillomavirus Vaccines. *The Journal of Infectious Diseases* ,*224* (Supplement_4), S367–S378. https://doi.org/10.1093/infdis/jiaa621
+7. Markowitz, L. E., & Schiller, J. T. (2021). Human Papillomavirus Vaccines. *The Journal of Infectious Diseases* ,*224* (Supplement_4), S367–S378. https://doi.org/10.1093/infdis/jiaa621
+8. These efficacy estimates are shown in the results of Analysis 1.1 - Arbyn, M., Xu, L., Simoens, C., & Martin-Hirsch, P. P. (2018). Prophylactic vaccination against human papillomaviruses to prevent cervical cancer and its precursors. *Cochrane Database of Systematic Reviews* ,*2020* (3). https://doi.org/10.1002/14651858.CD009069.pub3
+9. International Agency for Research on Cancer. (2023). *Protection from a Single Dose of HPV Vaccine* . Available online.Basu, P., Malvi, S. G., Joshi, S., Bhatla, N., Muwonge, R., Lucas, E., Verma, Y., Esmy, P. O., Poli, U. R. R., Shah, A., Zomawia, E., Pimple, S., Jayant, K., Hingmire, S., Chiwate, A., Divate, U., Vashist, S., Mishra, G., Jadhav, R., … Sankaranarayanan, R. (2021). Vaccine efficacy against persistent human papillomavirus (HPV) 16/18 infection at 10 years after one, two, and three doses of quadrivalent HPV vaccine in girls in India: A multicentre, prospective, cohort study. The Lancet Oncology, 22(11), 1518–1529. https://doi.org/10.1016/S1470-2045(21)00453-8
+
+---
+
+[referencia=84f714500cdb7ddc score=0.878]
+ 
+failure, infertility or sexual activity (all moderate-certainty evidence). There 
+was evidence that suggests HPV vaccination was not associated with an increased 
+risk of Guillain-Barré syndrome (low-certainty evidence).
+AUTHORS' CONCLUSIONS: There are now long-term outcome data from different 
+countries and from different study designs that consistently report a reduction 
+in the development of high-grade CIN and cervical cancer in females vaccinated 
+against HPV in early adolescence. Data show that there is greater benefit to 
+vaccinating younger adolescents prior to becoming sexually active. There is 
+evidence that HPV vaccination does not increase the risk of the most common 
+adverse events reported on social media.
+
+Copyright © 2025 The Authors. Cochrane Database of Systematic Reviews published 
+by John Wiley & Sons, Ltd. on behalf of The Cochrane Collaboration.
+
+DOI: 10.1002/14651858.CD015363.pub2
+PMCID: PMC12640735
+PMID: 41276264 [Indexed for MEDLINE]
+
+---
+
+[referencia=84f714500cdb7ddc score=0.846]
+BACKGROUND: Human papillomavirus (HPV) vaccination has the potential to enhance 
+prevention of cervical cancer, especially in countries where screening 
+programmes are currently unaffordable or impractical. Rare adverse events and 
+longer-term benefits of HPV vaccination, such as effects on cancer rates, are 
+difficult to examine in randomised controlled trials (RCTs) and require large 
+data from population-level studies to inform decision-making.
+OBJECTIVES: We aimed to assess population-level effects of HPV vaccination 
+programmes on HPV-related disease and harms from vaccination.
+SEARCH METHODS: We conducted electronic searches on 11 September 2024 in CENTRAL 
+(Cochrane Library), Ovid MEDLINE and Ovid Embase. We also searched vaccine 
+manufacturer websites and checked reference lists from an index of HPV studies 
+and other relevant systematic reviews.
+SELECTION CRITERIA: We included studies that assessed the impact of HPV 
+vaccination on the general population. This included population-level studies 
+comparing outcomes before and after the introduction of HPV vaccine. We also 
+included individual-level, non-randomised comparative studies, such as cohort 
+studies, case-control studies, cross-sectional studies and self-controlled case 
+series.
+DATA COLLECTION AND ANALYSIS: We used methods recommended by Cochrane. Two 
+review authors carried out data extraction independently using pretested data 
+extraction forms. We assessed the risk of bias of all included effect estimates 
+using different tools according to study design. We carried out quantitative and 
+qualitative data synthesis separately by outcome and study design. We performed 
+meta-analysis on studies that reported effect estimates adjusted for 
+confounding, with a focus on those receiving HPV vaccination at or before the 
+age of 16 years (the target age group for vaccination). We rated the certainty 
+of the evidence with GRADE.
+MAIN RESULTS: We included 225 studies from 347 records in this review, 
+evaluating over 132 million people. We included 86 cohort studies, four 
+case-control studies, 46 cross-sectional studies, 69 pre-post vaccine 
+introduction studies, five RCT extensions and two self-controlled case series. 
+Thirteen additional studies reported on more than one type of analysis. Of the 
+included studies, 177 reported only on females, 11 only males and 37 a 
+combination of males and females. Risk of bias ranged from overall moderate risk 
+to critical risk. Clinical outcomes There was moderate-certainty evidence from
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.625]
+10. Basu, P., Malvi, S. G., Joshi, S., Bhatla, N., Muwonge, R., Lucas, E., Verma, Y., Esmy, P. O., Poli, U. R. R., Shah, A., Zomawia, E., Pimple, S., Jayant, K., Hingmire, S., Chiwate, A., Divate, U., Vashist, S., Mishra, G., Jadhav, R., … Sankaranarayanan, R. (2021). Vaccine efficacy against persistent human papillomavirus (HPV) 16/18 infection at 10 years after one, two, and three doses of quadrivalent HPV vaccine in girls in India: A multicentre, prospective, cohort study. The Lancet Oncology, 22(11), 1518–1529. https://doi.org/10.1016/S1470-2045(21)00453-8
+11. Ladner, J., Besson, M. H., Rodrigues, M., Audureau, E., & Saba, J. (2014). Performance of 21 HPV vaccination programs implemented in low and middle-income countries, 2009–2013. BMC public health, 14, 1-11. Available online. Kempe, A., Allison, M. A., & Daley, M. F. (2018). Can School-Located Vaccination Have a Major Impact on Human Papillomavirus Vaccination Rates in the United States? Academic Pediatrics, 18(2), S101–S105. https://doi.org/10.1016/j.acap.2017.08.010
+12. Falcaro, M., Castañon, A., Ndlela, B., Checchi, M., Soldan, K., Lopez-Bernal, J., Elliss-Brookes, L., & Sasieni, P. (2021). The effects of the national HPV vaccination programme in England, UK, on cervical cancer and grade 3 cervical intraepithelial neoplasia incidence: A register-based observational study. *The Lancet* ,*398* (10316), 2084–2092. https://doi.org/10.1016/S0140-6736(21)02178-4
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.543]
+13. Jansen, E. E. L., Zielonke, N., Gini, A., Anttila, A., Segnan, N., Vokó, Z., Ivanuš, U., McKee, M., De Koning, H. J., De Kok, I. M. C. M., Veerus, P., Anttila, A., Heinävaara, S., Sarkeala, T., Csanádi, M., Pitter, J., Széles, G., Vokó, Z., Minozzi, S., … Priaulx, J. (2020). Effect of organised cervical cancer screening on cervical cancer mortality in Europe: A systematic review. *European Journal of Cancer* ,*127* , 207–223. https://doi.org/10.1016/j.ejca.2019.12.013Brisson, M., Kim, J. J., Canfell, K., Drolet, M., Gingras, G., Burger, E. A., Martin, D., Simms, K. T., Bénard, É., Boily, M.-C., Sy, S., Regan, C., Keane, A., Caruana, M., Nguyen, D. T. N., Smith, M. A., Laprise, J.-F., Jit, M., Alary, M., … Hutubessy, R. (2020). Impact of HPV vaccination and cervical screening on cervical cancer elimination: A comparative modelling analysis in 78 low-income and lower-middle-income countries. The Lancet, 395(10224), 575–590.
+14. Hall, M. T., Simms, K. T., Lew, J.-B., Smith, M. A., Brotherton, J. M., Saville, M., Frazer, I. H., & Canfell, K. (2019). The projected timeframe until cervical cancer elimination in Australia: A modelling study. *The Lancet Public Health* ,*4* (1), e19–e27. https://doi.org/10.1016/S2468-2667(18)30183-X
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.538]
+# HPV vaccination: How the world can eliminate cervical cancer
+
+## HPV vaccines offer a rare opportunity to effectively eliminate one type of cancer. By taking this opportunity, it’s possible to save hundreds of thousands of women each year.
+
+Every year, over half a million women develop cervical cancer, and more than 300,000 die from the disease. These deaths are particularly tragic because we can prevent them through vaccination and early screening.
+
+It’s possible to virtually eliminate this type of cancer with existing vaccines. Some countries are already on track to achieve this goal within a decade, but many others lag behind.
+
+This is a huge opportunity to save hundreds of thousands of women every year.
+
+In this article, we describe the cause of cervical cancer and how we can use incredibly effective vaccines to eliminate it.
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.518]
+16. This was estimated by the WHO’s Global Cancer Observatory for 2022.
+17. Liu, G., Sharma, M., Tan, N., & Barnabas, R. V. (2018). HIV-positive women have higher risk of human papilloma virus infection, precancerous lesions, and cervical cancer. AIDS, 32(6), 795–808. https://doi.org/10.1097/QAD.0000000000001765 Rohner, E., Bütikofer, L., Schmidlin, K., Sengayi, M., Maskew, M., Giddy, J., Taghavi, K., Moore, R. D., Goedert, J. J., Gill, M. J., Silverberg, M. J., D’Souza, G., Patel, P., Castilho, J. L., Ross, J., Sohn, A., Bani‐Sadr, F., Taylor, N., Paparizos, V., … Bohlius, J. (2020). Cervical cancer risk in women living with HIV across four continents: A multicohort study. International Journal of Cancer, 146(3), 601–609. https://doi.org/10.1002/ijc.32260 Stelzle, D., Tanaka, L. F., Lee, K. K., Ibrahim Khalil, A., Baussano, I., Shah, A. S. V., McAllister, D. A., Gottlieb, S. L., Klug, S. J., Winkler, A. S., Bray, F., Baggaley, R., Clifford, G. M., Broutet, N., & Dalal, S. (2021). Estimates of the global burden of cervical cancer associated with HIV. The Lancet Global Health, 9(2), e161–e169. https://doi.org/10.1016/S2214-109X(20)30459-9
+18. Wang, H., Jiang, Y., Wang, Q., Lai, Y., & Holloway, A. (2023). The status and challenges of HPV vaccine programme in China: An exploration of the related policy obstacles. *BMJ Global Health* ,*8* (8), e012554. https://doi.org/10.1136/bmjgh-2023-012554
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.429]
+# Hundreds of thousands of women still get cervical cancer each year
+
+Cervical cancer still affects hundreds of thousands of women globally, despite the fact that vaccines and screening are highly effective. Screening and diagnosis can inform surgeries that could cure cervical cancer if identified in its early stages.
+
+It’s estimated that there were more than 660,000 new cases of cervical cancer and around 350,000 deaths globally in 2022.<sup>16</sup>
+
+The map shows that cervical cancer is much more common in Africa and South America than in other regions.
+
+There are two main reasons that cervical cancer deaths remain high.
+
+One reason is that women in many poor countries lack access to early screening, as shown in the map above. Another is that women living with HIV, which is much more common in sub-Saharan Africa, are much more at risk of cervical cancer because their immune system is weakened.<sup>17</sup>
+
+The final reason is that HPV vaccination rates are low or vaccines are unavailable in many countries.
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.425]
+21. World Health Organization. (2018). Global Market Study: HPV. Available online. World Health Organization. (2020). Global strategy to accelerate the elimination of cervical cancer as a public health problem. Available online.
+22. World Health Organization. (2024). *Considerations for Human Papillomavirus (HPV) Vaccine Product Choice* . Available online.International Agency for Research on Cancer. (2023). *Protection from a Single Dose of HPV Vaccine* . Available online.
+23. Simms, K. T., Steinberg, J., Caruana, M., Smith, M. A., Lew, J.-B., Soerjomataram, I., Castle, P. E., Bray, F., & Canfell, K. (2019). Impact of scaled up human papillomavirus vaccination and cervical screening and the potential for global elimination of cervical cancer in 181 countries, 2020–99: A modelling study. The Lancet Oncology, 20(3), 394–407. https://doi.org/10.1016/S1470-2045(18)30836-2
+
+### Cite this work
+
+Our articles and data visualizations rely on work from many different people and organizations. When citing this article, please also cite the underlying data sources. This article can be cited as:
+
+`Saloni Dattani and Veronika Samborska (2024) - “HPV vaccination: How the world can eliminate cervical cancer” Published online at OurWorldinData.org. Retrieved from: 'https://archive.ourworldindata.org/20261102-112946/hpv-vaccination-world-can-eliminate-cervical-cancer.html' [Online Resource] (archived on November 2, 2026).`
+BibTeX citation
+
+```
+@article{owid-hpv-vaccination-world-can-eliminate-cervical-cancer,
+    author = {Saloni Dattani and Veronika Samborska},
+    title = {HPV vaccination: How the world can eliminate cervical cancer},
+    journal = {Our World in Data},
+    year = {2024},
+    note = {https://archive.ourworldindata.org/20261102-112946/hpv-vaccination-world-can-eliminate-cervical-cancer.html}
+}
+```
+
+---
+
+[referencia=84f714500cdb7ddc score=0.422]
+ 
+incidence following HPV vaccine introduction. There was moderate-certainty 
+evidence from 37 studies that HPV vaccination reduces the incidence of CIN2+. In 
+cohort studies with females vaccinated at or before the age of 16 years, a 
+reduction in risk was seen in the medium term (RR 0.59, 95% CI 0.54 to 0.65; 2 
+cohort studies, 233,468 females; I2 = 0%) and long term (RR 0.38, 95% CI 0.31 to 
+0.45; 5 cohort studies, 6,455,176 females; I2 = 64%). There was 
+moderate-certainty evidence from 47 studies that HPV vaccination reduces the 
+incidence of anogenital warts. From the cohort studies with adjusted estimates, 
+the pooled impact of HPV vaccination on rates of anogenital warts indicated a 
+reduction of 47% in the medium term (RR 0.53, 95% CI 0.37 to 0.77; 4 studies, 
+6,430,295 females and 313 males; I2 = 98%) and 53% in the long term (RR 0.47, 
+95% CI 0.36 to 0.61; 13 studies, 4.5 million person-years plus 5,802,969 females 
+and males; I2 = 99%). Twenty-three pre-post vaccine introduction studies 
+reported a decrease in anogenital warts incidence following the introduction of 
+HPV vaccine. Six studies reported no difference in anogenital warts incidence. 
+There was only very low-certainty evidence on the effect of HPV vaccination on 
+the incidence of adenocarcinoma in situ (three studies) and vulval cancer (five 
+studies). No studies were identified that reported on community rates of serious 
+adverse events following HPV vaccination. Specific adverse events Across a range 
+of study designs, HPV vaccination was not associated with an increased risk of 
+postural orthostatic tachycardia syndrome, chronic fatigue syndrome/myalgic 
+encephalomyelitis, paralysis, complex regional pain syndrome, premature ovarian 
+failure, infertility or sexual activity (all moderate-certainty evidence). There 
+was evidence that suggests HPV vaccination was not associated with an increased 
+risk of Guillain-Barré syndrome (low-certainty evidence).
+AUTHORS'
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.411]
+19. Haruyama, R., Obara, H., & Fujita, N. (2022). Japan resumes active recommendations of HPV vaccine after 8·5 years of suspension. *The Lancet Oncology* ,*23* (2), 197–198. https://doi.org/10.1016/S1470-2045(22)00002-XIkeda, S., Ueda, Y., Yagi, A., Matsuzaki, S., Kobayashi, E., Kimura, T., ... & Kudoh, K. (2019). HPV vaccination in Japan: what is happening in Japan?. Expert review of vaccines, 18(4), 323-325. https://www.tandfonline.com/doi/abs/10.1080/14760584.2019.1584040 Hanley, S. J., Yoshioka, E., Ito, Y., & Kishi, R. (2015). HPV vaccination crisis in Japan. The Lancet, 385(9987), 2571. https://doi.org/10.1016/S0140-6736(15)61152-7
+20. Arbyn, M., & Xu, L. (2018). Efficacy and safety of prophylactic HPV vaccines. A Cochrane review of randomized trials. *Expert Review of Vaccines* ,*17* (12), 1085–1091. https://doi.org/10.1080/14760584.2018.1548282Faksová, K., Laksafoss, A. D., & Hviid, A. (2024). Human papillomavirus nonavalent (HPV9) vaccination and risk of immune mediated diseases, myocarditis, pericarditis, and thromboembolic outcomes in Denmark: Self-controlled case series study. BMJ Medicine, 3(1), e000854. https://doi.org/10.1136/bmjmed-2024-000854
+21. World Health Organization. (2018). Global Market Study: HPV. Available online. World Health Organization. (2020). Global strategy to accelerate the elimination of cervical cancer as a public health problem. Available online.
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.380]
+15. Davies-Oliveira, J. C., Smith, M. A., Grover, S., Canfell, K., & Crosbie, E. J. (2021). Eliminating Cervical Cancer: Progress and Challenges for High-income Countries. Clinical Oncology, 33(9), 550–559. https://doi.org/10.1016/j.clon.2021.06.013 Simms, K. T., Steinberg, J., Caruana, M., Smith, M. A., Lew, J.-B., Soerjomataram, I., Castle, P. E., Bray, F., & Canfell, K. (2019). Impact of scaled up human papillomavirus vaccination and cervical screening and the potential for global elimination of cervical cancer in 181 countries, 2020–99: A modelling study. The Lancet Oncology, 20(3), 394–407. https://doi.org/10.1016/S1470-2045(18)30836-2 Canfell, K., Kim, J. J., Brisson, M., Keane, A., Simms, K. T., Caruana, M., Burger, E. A., Martin, D., Nguyen, D. T. N., Bénard, É., Sy, S., Regan, C., Drolet, M., Gingras, G., Laprise, J.-F., Torode, J., Smith, M. A., Fidarova, E., Trapani, D., … Hutubessy, R. (2020). Mortality impact of achieving WHO cervical cancer elimination targets: A comparative modelling analysis in 78 low-income and lower-middle-income countries. The Lancet, 395(10224), 591–603. https://doi.org/10.1016/S0140-6736(20)30157-4
+16. This was estimated by the WHO’s Global Cancer Observatory for 2022.
+
+---
+
+[referencia=84f714500cdb7ddc score=0.323]
+1. Cochrane Database Syst Rev. 2025 Nov 24;11(11):CD015363. doi: 
+10.1002/14651858.CD015363.pub2.
+
+Effects of human papillomavirus (HPV) vaccination programmes on community rates 
+of HPV-related disease and harms from vaccination.
+
+Henschke N(1), Bergman H(1), Buckley BS(1)(2), Crosbie EJ(3), Dwan K(4), Golder 
+SP(5), Kyrgiou M(6), Loke YK(7), McIntosh HM(1), Probyn K(1), Villanueva G(1), 
+Morrison J(8)(9).
+
+Author information:
+(1)Cochrane Response, The Cochrane Collaboration, London, UK.
+(2)Department of Surgery, University of the Philippines, Manila, Philippines.
+(3)Division of Cancer Sciences, Faculty of Biology, Medicine and Health, 
+University of Manchester, Manchester, UK.
+(4)Centre for Reviews and Dissemination, University of York, York, UK.
+(5)Department of Health Sciences, University of York, York, UK.
+(6)IRDB, Department of Gut, Metabolism & Reproduction - Surgery & Cancer, 
+Imperial College London, London, UK.
+(7)Norwich Medical School, University of East Anglia, Norwich, UK.
+(8)Department of Gynaecological Oncology, Musgrove Park Hospital, Taunton, UK.
+(9)Faculty of Health and Life Sciences, University of Exeter, Exeter, Devon, UK.
+
+Update of
+    doi: 10.1002/14651858.CD015363.
+
+---
+
+[referencia=84f714500cdb7ddc score=0.214]
+Conflict of interest statement: Nicholas Henschke: declared that they have no 
+conflict of interest. Hanna Bergman: declared that they have no conflict of 
+interest. Brian Buckley: declared that they have no conflict of interest. Emma J 
+Crosbie: is an NIHR Research Professor and Honorary Consultant Gynaecological 
+Oncologist at the University of Manchester and Manchester University NHS 
+Foundation Trust. EJC treats patients with HPV‐related conditions, including 
+cervical and vulval cancer and pre‐cancer. EJC reports an NIHR grant to support 
+performing this review (academic support to perform the review from a 
+non‐conflicted source); paid to institution. EJC is Deputy Editor in Chief for 
+BJOG; personal payment. EJC is President of Peaches Womb Cancer Trust; unpaid. 
+EJC is Chair of the Research Advisory Committee for The Eve Appeal; unpaid. EJC 
+has received honoraria from GlaxoSmithKline and Astellas; personal payment. EJC 
+has received research grants from Roche and Novosanis; paid to institution. 
+Kerry Dwan: declared that they have no conflict of interest. Su P Golder: 
+declared that they have no conflict of interest. Maria Kyrgiou: reports a NIHR 
+EME grant to support the NOVEL trial (trial assessing value of vaccine in women 
+having conisation for CIN). MSD is only providing the vaccine for this trial; 
+the NIHR EM grant payment is to the institution. MK is an author of the article 
+‘Human papillomavirus vaccination: The ESGO‐EFC position paper of the European 
+society of Gynaecologic Oncology and the European Federation for colposcopy’ 
+(Joura EA, Kyrgiou M, Bosch FX, Kesic V, Niemenen P, Redman CW, Gultekin M. Eur 
+J Cancer. 2019 Jul;116:21‐26. doi: 10.1016/j.ejca.2019.04.032. Epub 2019 Jun 1. 
+PMID: 31163338). MK works as a consultant in the Imperial Healthcare NHS Trust. 
+Yoon Kong Loke: reports grant funding from the NIHR; payment to institution. 
+Heather M McIntosh: declared that they have no conflict of interest. Katrin

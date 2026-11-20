@@ -1,0 +1,314 @@
+[referencia=03044ab3b7fcaa14 score=0.010]
+# 59% 
+
+are concerned about disinformation.<sup>46</sup> 
+
+By 2028, 
+
+# 50% 
+
+of enterprises will adopt products, services or features to address disinformation, up from less than 5% in 2024.<sup>47</sup> 
+
+- Data ownership and data rights: The collection and use of user data raise questions around IP protection and how privacy rights are protected. A debate is ongoing as to whether copyright frameworks are still fit for purpose, striking the appropriate balance between incentivizing creativity while ensuring society can benefit from it. This has implications for accessibility to content for model training and the potential for AI to expand content distribution. Related issues, such as how to protect likeness rights over 
+
+AI-generated content to ensure that celebrities and individuals can exert stronger control over their image, voice and recognizable attributes, are also gaining traction with policy-makers. The development of robust frameworks is essential to protect creators and promote responsible innovation in this complex landscape. For example, how do we define the IP framework for synthetic content and handle cases where someone draws a portrait of an actor and then uses AI to generate images/ videos based on it? 
+
+Artificial Intelligence in Media, Entertainment and Sport 18 
+
+I N S I G H T 4 Intellectual property implications 
+
+A recent survey found that 
+
+# 52% 
+
+of respondents view IP infringement as a significant risk. 
+
+Accuracy and bias: GenAI outputs can amplify existing biases in training data and produce discriminatory outputs or generate hallucinations (false information), which can erode consumer trust 
+
+
+
+# 25% 
+
+report actively working to implement measures to mitigate it.<sup>48</sup> 
+
+and content value. Poor representation of diverse communities in model training datasets increases algorithmic bias, risking the marginalization of certain voices and reduction of models’ accuracy.<sup>49</sup> 
+
+###### I N S I G H T 5 Accuracy 
+
+Companies should use AI models that minimize bias and mitigate unintended consequences in content creation and distribution. 
+
+Research highlights a growing concern around genAI inaccuracy, with
+
+---
+
+[referencia=32f70638adeb2221 score=0.009]
+Like most companies, studios, streamers, and creative talent are both fascinated and concerned about the capabilities of gen AI. For studios exploring generative AI content creation in the year ahead, the dominant driver of adoption will likely be the magic and creativity it seems to enable—the strange fever dream of frontier models remixing human creativity into new forms. They will also be driven by the concern that new forms of media could emerge from outside the Hollywood ecosystem.
+
+More independent content creators are demonstrating what can be done with the latest synthetic media capabilities rapidly entering the market. Hollywood studios once enjoyed controlling the scarcity of content and distribution, but now these are both abundant and democratized.<sup>32</sup> In the year ahead, the sense of looming content disruption will likely only grow.
+
+Every month or so there are new developments in frontier models advancing their capabilities further along the path towards human intelligence, creativity, and insight. A year ago, it was thought that, by 2030, a major blockbuster film would likely be generated almost entirely from AI.<sup>33</sup> In 2025, that lofty goal may seem a bit more achievable.
+
+In the meantime, content owners will likely work to shore up the competitive moat around their IP, pursuing more litigation against, and regulation of, public models for perceived copyright violations. Regulators could require leading model providers to prove their training sets do not infringe on pre-existing content rights. Most big studios will likely resist offers from model providers to license their content catalogs into their public training sets, likely preferring to partner with smaller companies able to build more bespoke and protected models around studio IP—if the economics are favorable.
+
+At the macro level, generative AI has required enormous capital intensity that could slow growth if a path to broad economic value isn’t revealed within the next year or so.<sup>34</sup> (See this year’s TMT Prediction about on-device generative AI.) However, if the next generation of frontier models can overcome existing challenges, capabilities could advance quickly. Efforts will likely emerge to reduce the costs to train and run models, and to help reduce the amount of data needed.
+
+---
+
+[referencia=32f70638adeb2221 score=0.003]
+Big studios are also large enterprises that will likely adopt more gen AI capabilities that are focused on cutting costs, optimizing their businesses, raising productivity, and expanding and accelerating their reach to customers. In Deloitte’s 2024 State of Generative AI in the Enterprise survey, 42% of executives surveyed report efficiency, productivity, and cost reductions as their single most important benefit achieved from using AI; and 58% reported a range of other benefits such as increased innovation, improved products and services, or enhanced customer relationships.<sup>35</sup> There appears to be growing interest in applying these capabilities to modern businesses.
+
+A rising tide lifts all boats, as the saying goes. Gen AI tools seem poised to help more smaller companies and creators to achieve the kinds of productivity and levels of quality once reserved solely for the largest companies. Smaller studios and independent creators could become much more capable, while still being relatively free of the risks and cost overheads born by larger studios. The biggest studios among them may need to lower their costs and accelerate their time to market if they hope to compete—not just with each other, but also with user-generated content platforms, social media, and gaming. Production and distribution may be less scarce, but attention remains a finite resource.
+
+---
+
+[referencia=32f70638adeb2221 score=0.003]
+Additionally, studios—especially those in the United States—must work with guilds and labor unions that have shown strong resistance to adopting generative AI and have extracted guarantees from studios limiting its use.<sup>19</sup> Similar labor pushback is emerging in the United Kingdom<sup>20</sup> and in the European Union where studios will also need to be compliant with regulations like the EU Artificial Intelligence Act governing the safety of models, and the General Data Protection Regulation governing how they collect and store data that may be used for training.<sup>21</sup>
+
+In Deloitte’s 2024 TMT Predictions, we discussed the rise of private gen AI models to help avoid some of the challenges with public models and to gain more control over outputs.<sup>22</sup> Studios could avoid the liabilities and copyright challenges of public models by training their own models on their own IP.
+
+But training generative models has become very expensive—around US$100 billion to train a leading-edge model, by some estimates<sup>23</sup>—and the costs of inference and retraining can grow with usage. Open-source solutions (often more accurately referred to as “open weight”) may defray some costs, but their training sets are opaque, and costs are still high.<sup>24</sup> Studios may be challenged to attract expensive technical talent able to build such models—talent that may be more inclined to work with hyperscalers able to pay premium salaries. Additionally, investing in today’s models could require updates within six months due to the rapid pace of model development. To build more effective private models, studios and investors may have to think and act more like tech companies, building and maintaining ecosystem relationships with—and paying rents to—tech providers. For these reasons, studios may be less likely to train their own models without considerable shifts in economics.
+
+However, the year ahead could see a flurry of partnerships between studios and providers that could share the cost burdens more equitably.<sup>25</sup> In such partnerships, a third party could provide a pretrained model and interface that can then be further trained and customized with content owned by a studio. The model could then deliver generative content that follows the aesthetic of a studio, for example, or includes their signature characters and set pieces. Additionally, studios might be able to control against potential IP concerns by showing derivations from their own content. Still, providers of such capabilities could be expected to show greater maturity of the tools and outputs.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.003]
+## Concerns and challenges
+
+---
+
+[referencia=32f70638adeb2221 score=0.003]
+Large studios are also concerned about how gen AI content tools may raise their exposure to IP and liability risks, or make their own generative content indefensible as original works.<sup>12</sup> Some of the most capable publicly available models have been trained on public data, like images and videos from other creatives, making their outputs fundamentally derivative.<sup>13</sup> If a studio uses outputs from a public model for profit, and that model includes the protected works of other artists in its training set, the studio could be held liable for infringement. With potentially billions of works in a training set, infringement may be nigh impossible to prove— finding a “drop of water in the ocean”—but this uncertainty may be enough to scare off studios whose livelihood is making, securing, and defending their IP. Independent artists and creators are already suing public models for perceived infringements of their works in training sets,<sup>14</sup> as are publishers<sup>15</sup> and music labels.<sup>16</sup>
+
+Public models could also make it difficult or impossible for studios to secure their own IP. The US Copyright Act has required sufficient “human authorship” before it will issue a copyright.<sup>17</sup> In recent considerations, the US Copyright Office acknowledges that the degree of human authorship in works that include AI or generative inputs can vary on a case-by-case basis, and such works can receive a copyright provided they meet requirements of “sufficiency.” Which is to say, studios can get copyrights for human works that are supported by generative AI tools, but only to a degree and not for works primarily produced by generative models. This is an ongoing discussion in a maturing space, but the lack of precise definitions introduces further uncertainty and risk.
+
+Hungry for more data to feed their training sets, leading gen AI providers have been courting studios and incentivizing them to license their content archives.<sup>18</sup> However, studios may resist this entirely since their IP is their livelihood, or they may charge onerously high rates to gen AI companies that may already be straining under their own operational costs. Studios could even see an advantage in collectively denying data to training sets in hopes that they might inhibit frontier models—the algorithms being encoded and trained to generate text, audio, image, and video.
+
+---
+
+[referencia=32f70638adeb2221 score=0.003]
+Generative AI models for image, audio, and video are advancing, delivering more realistic and creative content that is becoming more controllable over longer sessions. Although studios may have been quick to experiment with gen AI content creation, they will likely be more cautious in moving it into full production. Some reasons for this include the immaturity of the tools and the challenges of content creation with current public models that may expose them to liability and threaten the defensibility of their intellectual property (IP). However, there is growing belief that gen AI applied across their businesses could help studios reduce costs and grow their profitability.
+
+Indeed, leading studios are facing cost pressures, and very few are showing profits.<sup>1</sup> Revenues are high, but operating expenses and the costs of production, marketing, and advertising have typically become higher.<sup>2</sup> This is often true for many studio streamers that are funding their streaming services without profit while losing revenues from declining cable TV subscriptions and advertising. Inflation, higher interest rates, and the impacts of the COVID-19 pandemic have further inflated costs, and studios now also compete with social media, user-generated content, and video games for consumer attention and revenues.
+
+In 2025, Deloitte predicts that the biggest TV and film studios—especially those in the United States and European Union—will be cautious in adopting generative AI for content creation, with less than 3% of their production budgets going to these tools.<sup>3</sup> But we also predict that operational spending will shift about 7% into emerging generative-AI-enabled tools supporting functions like contract and talent management, permitting and planning, marketing and advertising, and localization and dubbing of content that can expand their reach into diverse global markets.
+
+This approach can help studios slow the potential disruptions that gen AI can pose to talent and content, while more quickly adopting gen AI tools that can help reduce costs and accelerate performance across their businesses. However, independent content creators and social media platforms are moving quickly to adopt gen AI into their workflows and content, potentially enabling new forms of media to emerge that could further disadvantage traditional studios competing for scarce attention time.<sup>4</sup>
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.002]
+## Executive summary 
+
+Generative AI is poised to revolutionize the creative process, yet its impact and challenges require ethical considerations and governance frameworks. 
+
+As part of a series that addresses the impact of generative artificial intelligence (genAI) across industries, this white paper delves into its transformative potential on the media, entertainment and sport industry. It does not cover cross-industry topics but aims to clarify potential opportunities, challenges and disruptions, providing leaders and key stakeholders with insights to navigate these transformative times. Given the industry’s societal impact, it is important for players to develop a shared and comprehensive understanding of genAI’s role in the evolution of the creative landscape. 
+
+GenAI’s impact on the media, entertainment and sport industry is expected to be more profound than on other industries. It can not only drive efficiency and productivity, enhance audience engagement and optimize revenues, but also impact the core of the industry by augmenting human creativity, acting as a collaborator, and empowering humans to overcome previous limitations. It can support every stage of content creation, distribution and consumption. In the early stages, it can speed up prototyping of alternative ideas. By analysing vast amounts of data and providing actionable insights, it can form an iterative feedback loop, where insights from each stage inform the others. This content innovation loop can enhance creativity and improve the ability to predict audience preferences, in turn optimizing distribution and engagement, expanding reach and increasing revenues. Society will benefit from expanded access to information and content, as translation and format barriers will be removed. 
+
+Adoption has already accelerated in recent years, with both AI-native organizations and established players investing heavily in it. 
+
+Despite genAI’s potential, however, the report highlights challenges that must be addressed. The industry needs to pay close attention to the 
+
+risk of misinformation and disinformation, uncertainty of return on investment (ROI), the need for harmonized governance frameworks and practices to advance trust and transparency, the technological readiness, and the implementation of foundational requirements, including digital core infrastructure. 
+
+Readiness varies across the workforce. While some creators embrace genAI’s democratizing effects of lowering technical barriers to high-quality content creation, others remain cautious due to concerns over job displacement, intellectual property (IP) and likeness rights. Education and upskilling are crucial to ensure the responsible and transparent development of genAI products and features, and for effective governance and accountability.
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.001]
+# 38% 
+
+declared that they are working to mitigate it.<sup>50</sup> 
+
+cross-industry standards like ISO-42001<sup>52</sup> can streamline review and approval processes. 
+
+- Fairness: Companies should use AI models that minimize bias and mitigate unintended consequences in content creation and distribution. This will ensure equitable treatment, inclusivity and fairness across content platforms while safeguarding user data rights. 
+
+- Transparency: Nurturing consumers’ trust requires organizations to inform about AIgenerated content and its use through appropriate labelling and disclosures within the product experience – whether auto-generated, auto-generated with human oversight or human-generated. Information on related data practices, safety policies and potential risks (such as bias and privacy) of the AI model used in genAI products should be made available via accessible documentation. Standards and technical solutions to ensure content authenticity, such as digital watermarking, content origin and history, and blockchainbased rights management, are currently under development to support a trustworthy information ecosystem. However, successful adoption at scale requires policy frameworks that are aligned with common principles, rules and technological standards.<sup>53</sup> 
+
+Artificial Intelligence in Media, Entertainment and Sport 19
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.001]
+##### 3.2  Workforce 
+
+GenAI has the potential to revolutionize current ways of working, necessitating workforce upskilling and reskilling. Its integration can transform content creation and reshape job roles, such as in production, editing, distribution and marketing. By automating repetitive and technical tasks, it can create opportunities for professionals to focus on higher-order creativity and strategy. However, this shift requires a robust investment in workforce development to build both the technical skills and ethical awareness needed for working with genAI. A holistic training approach and a safe environment for experimentation are vital for adoption. Key workforce challenges include: 
+
+- Job transition: AI-driven automation may reduce the need for certain roles, requiring proactive workforce management and strategies to transition workers to new roles. The impact will vary across industry sectors and areas, so organizations will need to tailor their strategies to rebalance labour demands. 
+
+- Cautious adoption by the workforce: Many workers are cautious and concerned about the large-scale adoption of AI. To support effective onboarding, organizations must offer comprehensive training, transparent 
+
+adoption roadmaps and guidelines for genAI use. Regulation and self-governance are also needed to ensure the responsible use of digitally replicated likenesses and performances. 
+
+– Skill augmentation: Employees will need acquire new skills, particularly in AI and data management, to remain competitive in the labour market. 
+
+According to Accenture research,<sup>54</sup> the media and entertainment industry ranks among the top five industries with high automation potential (refer to the AI in Action: Beyond Experimentation to Transform Industry Value paper for an overview). 
+
+- On average, 50% of working hours in the industry can be transformed by LLMs, as they have a high potential to be automated or augmented.<sup>55</sup> 
+
+- A total of 24% of tasks are susceptible to automation, particularly in manual and routine roles.<sup>56</sup> 
+
+- A total of 26% of tasks could be augmented, enhancing roles that involve creativity and strategic decision-making.<sup>57</sup>
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.001]
+## 3 Enablers and other considerations 
+
+A responsible adoption requires addressing concerns about dis- and misinformation, intellectual property and impact on the workforce. 
+
+This section gives an overview of the key challenges and enablers for the responsible adoption of genAI in the industry. While not an exhaustive list, it identifies areas that play a role in ensuring 
+
+responsible and sustainable AI adoption at scale. Other important enablers, such as technology and infrastructure, are covered in the AI in Action: Beyond Experimentation to Transform Industry Value paper. 
+
+##### 3.1  Industry governance 
+
+As genAI advances rapidly, it presents complex challenges that must be overcome to make this revolution work for humanity. This section does not aim to provide comprehensive solutions but highlights critical areas that require multistakeholder, industry-level and company-level consideration. Key challenges include: 
+
+- Deepfakes and misinformation: By reducing production costs, genAI exacerbates the risk of mis- and disinformation spreading at an unprecedented speed and scale, and of deepfakes being used with harmful intent. From Q1 2023 to Q1 2024, the exchange 
+
+of deepfake tools on the dark web grew by 223%,<sup>42</sup> and AI-generated images surged from approximately 8,000 in 2018 and 15,000 in 2019 to approximately 15.5 billion in 2023.<sup>43</sup> This underscores the need for robust content moderation, enforcement, transparency, AI usage disclosure and source attribution.<sup>44</sup> Concerns focus on synthetic media’s potential impact on the trustworthiness and integrity of the information ecosystem, especially in elections and conflicts, and the proliferation of harmful content targeting individuals, such as non-consensual image sharing.<sup>45</sup> 
+
+###### I N S I G H T 3 Disinformation in the genAI era 
+
+According to Reuters, more than half of respondents 
+
+# 59% 
+
+are concerned about disinformation.<sup>46</sup> 
+
+By 2028,
+
+---
+
+[referencia=9212bfa992f193d4 score=0.001]
+AI use also raises questions about cultural homogenisation, environmental sustainability, data security and copyright, all major issues that require coordinated policy responses that balance innovation with accountability.
+
+Today’s state-of-the-art models have been trained, without permission, on vast amounts of copyrighted works such as scripts, images, sounds and video clips – anything that might be scraped from the internet. Vast amounts of energy are also consumed in the training and use of these models, challenging the screen sector’s commitment to more sustainable methods of production. And while currently available AI tools are impressive, they are often an imperfect fit for the highly specific needs of professional filmmakers, storytellers and worldbuilders.
+
+Innovation is not solely restricted to the private sector. The Government’s 2024 AI action plan recommended that “the public sector should rapidly pilot and scale AI products and services”. The screen sector is already seeing examples of public sector AI-driven service innovation, based on principles of responsible AI such as the Intelligent Systems for Screen Archives project being supported by the BFI’s National Lottery Innovation Challenge Fund and being designed by King’s College London.
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.001]
+# 63% 
+
+of respondents considering it a relevant risk. 
+
+Addressing these challenges is essential for industry leaders and society to ensure AI’s sustainable and responsible adoption. It calls for a human-centric and holistic approach. As regulation varies and evolves at a different pace across regions, there is opportunity for industry self-governance to complement regulation (“co-regulation”) through methods like collective bargaining, binding commitments, best practices and voluntary standards. Key governance themes have been defined and examined as part of the World Economic Forum’s Digital Trust Framework.<sup>51</sup> They include: 
+
+- Accountability: Organizations are defining principles for responsible AI adoption. Some are establishing governance bodies, like supervisory boards and AI councils, as well as human oversight processes to ensure ethics and transparency standards are upheld. These committees should consider diverse perspectives from technologists, ethicists, legal experts, creators and others to effectively assess genAI products and features. They should be responsible for reviewing AI practices, identifying potential risks and ensuring compliance with both internal policies and external regulations. Defining evaluation frameworks based on different categories of AI models, data sources and use cases, along with
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.001]
+8. Griffith, E. (2024). Investors Pour $27.1 Billion Into A.I. Start-Ups, Defying a Downturn. The New York Times. <u>https://www.nytimes.com/2024/07/03/technology/ai-startups-funding.html.</u> 
+
+9. Inworld. (n.d.). Home. <u>https://inworld.ai/.</u> 10. Runway. (n.d.). About. <u>https://runwayml.com/about.</u> 11. ProRata.ai. (n.d.). Home. <u>https://www.prorata.ai/.</u> 12. Held, A. (2023). Survey: Creators say AI leads to more creative content; those using AI have more followers, income. Descript. <u>https://www.descript.com/blog/article/creator-trends-how-ai-is-impacting-content-creation-survey.</u> 
+
+13. YouTube. (n.d.). A.I. and Creators: The Future of Tech and Creativity. <u>https://www.youtube.com/howyoutubeworks/ai-andcreators/?utm_source=aiandcreators&utm_medium=referral&utm_campaign=foc-launch-kc.</u> 
+
+14. YouTube. (n.d.). A.I. and Creators: The Future of Tech and Creativity. <u>https://www.youtube.com/howyoutubeworks/ai-andcreators/?utm_source=aiandcreators&utm_medium=referral&utm_campaign=foc-launch-kc.</u> 
+
+15. Insights. (n.d.). How Generative AI Can Augment Human Creativity. <u>https://insightss.co/blogs/how-generative-ai-canaugment-human-creativity/.</u> 
+
+16. Doshi, A. R. and O. P. Hauser. (2023). Generative artificial intelligence enhances creativity but reduces the diversity of novel content. Department of Strategy and Entrepreneurship, UCL School of Management and Department of Economics, University of Exeter. <u>https://arxiv.org/pdf/2312.00506.</u> 
+
+17. Salesforce. (2024). AI is Marketers’ Top Priority – And Biggest Headache. <u>https://www.salesforce.com/news/stories/ marketing-trends-ai-data/.</u>
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.001]
+Emerging trends and rapid technological advancements fuel optimistic outlooks for the global AI market in media, entertainment and sport. Revenues are projected to reach approximately $120 billion by 2032, with a compound annual growth rate of 26% from 2023 to 2032.<sup>5</sup> However, high upfront costs, fundamental infrastructure gaps, particularly high data debt (e.g. low data quality, lack of accurate metadata) and unclear business value raise concerns about long-term profitability. This leads to a high AI project failure rate, estimated at 30% to 80%.<sup>6,7</sup> Moreover, as discussed later, several challenges must be addressed to responsibly adopt the technology and ensure this revolution benefits humanity and enhances the creative landscape. 
+
+Uniquely human elements, such as the conception of original ideas and the stories behind them, the emotional resonance, cultural nuance and moral judgement will remain essential. Human accountability and creative oversight will continue to play a pivotal role. In the future, creators and users will need to be educated to navigate evolving sensitivities around trust and information integrity, especially as younger generations bring different sensitivities around these concepts. 
+
+Artificial Intelligence in Media, Entertainment and Sport 7
+
+---
+
+[referencia=9212bfa992f193d4 score=0.001]
+- The existing training paradigm for generative AI models poses a threat to the ability of the screen sector to create value from making and commercialising new intellectual property (IP). Sources of AI training data include scripts from more than 130,000 films and TV shows, YouTube videos, and databases of pirated books. As generative models learn the structure and language of screen storytelling – from text, images and video – they can then replicate those structures and create new outputs at a fraction of the cost and expense of the original works. These learned capabilities can be used to assist human creatives, but AI tools may also be used to compete against the original creators whose work they were trained on.
+- A coalition of screen sector organisations, including the BBC, Channel 4, Fremantle, ITN, ITV and Pact believes that AI developers should not scrape creative sector content without express permission and that a framework that supports licensing of copyright content for AI training is the best way for the UK to share in the opportunity created by AI.
+- AI’s text, video and image generation capabilities fuel concerns about loss of jobs and income for screen sector workers. The 2023 dispute between actors and Hollywood studios and streamers, included objections to proposals that would allow scanned images and likenesses of actors to be used by studios in perpetuity with no further consent or compensation. Concerns about AI and digital replicas again led to a strike by actors against video games employers in 2024, which is ongoing. AI also presents new opportunities and job roles for creative workers. Screen sector organisations recognise the need to train staff (including freelancers) in AI knowledge and skills in the next several years.
+- AI’s ability to automate tasks raises fears of job losses, particularly for junior or entry-level positions. Training and upskilling are seen as essential to prepare the workforce for AI integration.
+- Computational resources required for training and operating AI models result in high energy consumption and carbon emissions, challenging the screen sector’s sustainability goals.
+- Protecting human creative control is seen as vital and necessary, both by screen sector workers and audiences. A survey for the BBC shows audiences in favour of labelling AI uses, and a YouGov survey finds 86% of British respondents wanting AI content disclosures. Meanwhile, Screen Sector Task Force members surveyed by the BFI call for standards on content provenance and authenticity.
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.001]
+<br>https://techinformed.com/evidence-that-deepfakes-will-swing-vote-is-still-lacking-says-meta-advisor-henry-ajder/.|
+|46.|Reuters Institute. (2024).Reuters Institute Digital News Report 2024. https://reutersinstitute.politics.ox.ac.uk/sites/default/<br>fles/2024-06/RISJ_DNR_2024_Digital_v10%20lr.pdf.|
+|47.|Alvarez, G. (2024).Gartner Top 10 Strategic Technology Trends for 2025. https://www.gartner.com/en/articles/top-<br>technology-trends-2025.|
+|48.|McKinsey & Company. (2024).The state of AI in early 2024: Gen AI adoption spikes and starts to generate value.<br>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/.|
+|49.|IBM. (2024).The importance of diversity in AI isn’t opinion, it’s math. https://www.ibm.com/think/insights/ai-diversity-importance.|
+|50.|McKinsey & Company. (2024).The state of AI in early 2024: Gen AI adoption spikes and starts to generate value.<br>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai#/.|
+|51.|World Economic Forum. (2022).Earning Digital Trust: Decision-Making for Trustworthy Technologies. https://www.weforum.<br>org/publications/earning-digital-trust-decision-making-for-trustworthy-technologies/.|
+|52.|International Organization for Standardization (ISO). (2023).ISO/IEC 42001:2023: Information technology — Artifcial<br>intelligence — Management system. https://www.iso.org/standard/81230.html.|
+|53.|Coalition for Content Provenance and Authenticity (C2PA). (n.d.).Home. https://c2pa.org/.|
+|54.<br>|Accenture research analysis based on O*NET and national statistical databases from 22 countries and 19,000 work tasks.<br>|
+|55.|Ibid.|
+|56.|Ibid.|
+|57.|Ibid.|
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.000]
+###### F I G U R E 5 Potential large language model (LLM) impact distribution on work time in media and entertainment 
+
+|Weighted by employment levels<br>Publishing activities<br>28%|35%<br>22%<br>15%|
+|---|---|
+|Information service activities<br>30%|15%<br>23%<br>31%<br>|
+|Advertising and market research<br>28%|15%<br>26%<br>32%|
+|Programming and broadcasting activities<br>22%|21%<br>22%<br>35%|
+|Motion picture, video and television programme production,<br>sound recording and music publishing activities<br>22%|26%<br>21%<br>32%|
+|Gambling and betting activities<br>28%|30%<br>18%<br>24%|
+|Creative, arts and entertainment activities<br>21%|29%<br>22%<br>28%|
+|Sports activities and amusement and recreation activities<br>20%|34%<br>24%<br>21%|
+|Printing and reproduction of recorded media<br>22%|50%<br>13%<br>15%|
+|Higher potential for automation<br>Higher potential for augmentation<br>Lower po<br>Source:Accenture research analysis based on O*NET and national statistical databases from|tential for augmentation or automation<br>Non-language tasks<br>22 countries and 19,000 work tasks.<br>Artifcial Intelligence in Media, Entertainment and Sport<br>20|
+
+
+
+4 Future outlook 
+
+To successfully navigate a fast-evolving and potentially disrupted landscape, industry players should innovate and engage in new collaborations.
+
+---
+
+[referencia=9212bfa992f193d4 score=0.000]
+## Current use, experimentation and impacts
+
+Generative artificial intelligence (AI) has the potential to reshape how screen stories are developed and produced, as well as how audiences engage with media. In time, the implications could be far-reaching.
+
+AI has the potential to streamline repetitive work, increase agency of individual creatives, and in the near future to allow the development of innovative and rights-controlled, tools, services and products.
+
+The UK has a strong foundation of AI and innovation expertise to support experimentation. More than 13,000 creative technology companies are based in the country, including more than 4,000 businesses focused on applying emerging technologies across film, games, and other creative subsectors. World-leading UK creative technology companies include global VFX studio Framestore, virtual production and visual experience technology provider Disguise, and virtual world builder Improbable. And there are examples of cutting-edge research being spun-out of universities to drive new AI-enabled creative technology businesses, including DAACI, which offers tools for editing and generating music and syncing it to video, and digital humans company Humain.
+
+From AI-enhanced dubbing and visual effects to interactive storytelling and automated content classification, British creatives and technologists are pushing boundaries with generative tools and models. Award-winning dramas are using AI to improve the authenticity of accents, and major studios are investing in the development of new AI tools. In video games, developers are looking to generative AI to increase player immersion or give gamers the freedom to create their own personalised experiences. Creatives and technologists are exploring whether AI might allow game-like interactivity to become part of the film and TV experience as well.
+
+Tasks such as writing, translation, and now technical VFX can be automated, which may lead to reduced demand for certain skillsets. Tools like Wonder Dynamics automate character animation, prompting fears of obsolescence among professionals. However, AI also creates new opportunities for complementary skills, such as machine learning engineering and chatbot development. The challenge lies in equipping the UK’s screen sector workforce, including freelancers, with the training and resources needed to adapt and thrive alongside AI.
+
+AI use also raises questions about cultural homogenisation, environmental sustainability, data security and copyright, all major issues that require coordinated policy responses that balance innovation with accountability.
+
+---
+
+[referencia=03044ab3b7fcaa14 score=0.000]
+##### 4.1  Potential disruptions 
+
+As AI adoption increases across the industry, rapid advancements point towards profound shifts on the horizon, requiring businesses to prepare for a range of scenarios. To navigate this transformative landscape, businesses must be ready to innovate and adapt to emerging realities. This section explores three potential disruptions that could redefine the industry: 
+
+###### Evolution of the content discovery journey 
+
+Historically, information and content reached the public through the media; then new avenues for content discovery emerged, with search engines and social media platforms becoming a prominent access point for people on the web. The digital 
+
+content discovery journey can face a significant shift, as genAI powered products are emerging, capable of directly answering users’ queries, aggregating and elaborating information collected from multiple sources. These AI “answer engines” could play a pivotal role in the future of content discovery,<sup>58</sup> impacting how people access, find, share and experience information and content, with potential implications across the industry. Further, genAI-powered agents may proactively engage with users and on their behalf, learning their preferences and interests and acting as intermediaries and filtering content and ads. Brands and content producers will need to capture the attention of agents, not just users. Media outlets and other players will need to adapt to this scenario. 
+
+###### I N S I G H T 6 Consumers and AI assistants 
+
+<mark>77%</mark> 
+
+of global consumers want an AI assistant to vet advertisement and promotions on their behalf by 2035.<sup>59</sup>

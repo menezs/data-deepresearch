@@ -1,0 +1,193 @@
+[referencia=1f0bde2c2b7643aa score=0.518]
+## Abstract
+
+### Purpose of review:
+
+The purpose of this review is to describe the existing limited data related to the use of semaglutide in adolescents with obesity, supplementing with findings from adult studies of semaglutide use.
+
+### Recent findings:
+
+Semaglutide, as a once weekly subcutaneous injection for weight management, effectively reduces body mass index (BMI) while improving hyperglycemia, elevated alanine aminotransferase levels, hyperlipidemia, and quality of life in youth with obesity. As of this review, only one large randomized clinical trial of semaglutide in youth has been completed, with a follow-up duration of 68 weeks. Thus, long-term data on the safety in adolescents is limited, particularly regarding the risks of cholelithiasis, pancreatitis, suicidal ideation, and disordered eating. Due to the cost of semaglutide, particularly in the United States, limited cost effectiveness analyses have demonstrated unfavorable incremental cost-effectiveness ratios for semaglutide relative to phentermine-topiramate as an alternative anti-obesity medication in adolescents.
+
+### Summary:
+
+Semaglutide represents an important advance in the pediatric obesity management, with clear short-term reductions in BMI and improvement in metabolic parameters. However, its long-term safety and efficacy for youth with obesity remain to be demonstrated. Additional research is needed to assess trends in utilization and adherence to minimize the risk of worsening socioeconomic disparities in pediatric obesity.
+
+**Keywords:** pediatric obesity, anti-obesity medication, semaglutide, type 2 diabetes, glucagon-like peptide-1 receptor agonists
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.304]
+## Clinical Trial Outcomes
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.247]
+- 44.Ogden CL, Carroll MD, Fakhouri TH et al. Prevalence of Obesity Among Youths by Household Income and Education Level of Head of Household - United States 2011-2014. MMWR Morb Mortal Wkly Rep. 2018;67(6):186–9. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 45.Ogden CL, Fryar CD, Martin CB et al. Trends in Obesity Prevalence by Race and Hispanic Origin-1999-2000 to 2017-2018. JAMA. 2020;324(12):1208–10. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 46.Waidmann TA, Waxman E, Pancini V et al. Obesity Across America: Geographic Variation in Disease Prevalence and Treatment Options Urban Institute; 2022. [Google Scholar]
+- 47.Vajravelu ME, Chu P, Frank DA et al. Projected Impact of Anti-Obesity Pharmacotherapy Use on Racial and Ethnic Disparities in Adolescent Obesity. Pediatric Obesity. 2024. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 48.Lexchin J, Mintzes B. Semaglutide: a new drug for the treatment of obesity. Drug Ther Bull. 2023;61(12):182–8. [DOI] [PubMed] [Google Scholar]
+- 49.Kelly AS, Auerbach P, Barrientos-Perez M et al. A Randomized, Controlled Trial of Liraglutide for Adolescents with Obesity. N Engl J Med. 2020;382(22):2117–28. [DOI] [PubMed] [Google Scholar]
+- 50.Wilding JPH, Batterham RL, Davies M et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension. Diabetes Obes Metab. 2022;24(8):1553–64. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.243]
+## Conclusion
+
+Semaglutide, a GLP-1RA, has demonstrated efficacy in reducing BMI and weight and improving metabolic parameters in adolescents and adults with obesity. However, long-term data regarding safety and efficacy are currently lacking for adolescents. Clinical trial results and post-marketing reports can be used to guide clinicians when discussing potential risks, though data regarding associations between semaglutide and certain adverse effects, such as suicidal thoughts and behaviors, is particularly inconsistent. Semaglutide’s current high cost limits its cost-effectiveness for use in adolescents with obesity, and varying insurance coverage may contribute to inequities in uptake, exacerbating socioeconomic disparities in pediatric obesity. Ultimately, in order to fully realize semaglutide’s potential to significantly address pediatric obesity, longer-term data and reductions in cost are needed.
+
+## Key points:
+
+- Weekly subcutaneous semaglutide is a glucagon-like peptide-1 receptor agonist that leads to clinically significant reductions in body mass index and weight in youth, with associated improvements in metabolic parameters.
+- Although evidence in youth is currently very limited, findings from large and longer-term studies in adults with obesity, type 2 diabetes, and cardiovascular disease demonstrate positive impacts on metabolic and cardiovascular outcomes.
+- The most common adverse effects of semaglutide are gastrointestinal, with conflicting evidence of impacts on mental health, particularly suicidal ideation.
+- Important considerations for widespread use of semaglutide for management of pediatric obesity include its cost-effectiveness and accessibility in order to minimize the risk of worsening socioeconomic disparities in pediatric obesity as well as probable need for long-term use to avoid weight regain.
+
+## Financial support and sponsorship:
+
+*Drs. Bensignor and Vajravelu receive support from the National Institute of Health National Institute of Diabetes and Digestive and Kidney Disease: DK129721 (MOB) and DK125719 (MEV)*. The content is solely the responsibility of the author and does not necessarily represent the official views of the National Institutes of Health.
+
+### Conflicts of interest:
+
+MOB receives research support from Novo Nordisk and Vivus Inc.
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.192]
+Additional potential gastrointestinal effects include cholelithiasis and pancreatitis, though existing data in youth are limited. In the STEP-Teens trial, cholelithiasis occurred in 5 (4%) participants in the semaglutide group, including one with cholecystitis, versus none in the placebo group. Pancreatitis did not occur in either group, though amylase and lipase levels did increase from baseline in participants in the semaglutide group. In a meta-analysis of randomized clinical trials of adults with T2D comparing GLP-1RA (including semaglutide) use to placebo or other non-GLP-1RA drug, cholelithiasis was significantly more common with GLP-1RA use, with an odds ratio of 1.3 (95% CI 1.01-1.68), while pancreatitis was not associated with GLP-1RA use (26). Cholelithiasis risk was not associated with age, baseline BMI, or variations in BMI during treatment. In direct contrast, in a retrospective claims-based cohort of adults with obesity but without diabetes from 2006—2020 (27), Sodhi and colleagues found that new users of GLP-1RA (n=613 on semaglutide and n=4,144 on liraglutide) versus bupropion-naltrexone (n=654) for weight loss were at increased risk of pancreatitis (hazard ratio [HR]
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.163]
+| Serious GI adverse events (%) |  | 2 (vs 1) | 4.5 (vs 0.8) | 
+
+BMI, body mass index; HbA1c, hemoglobin A1c; SBP, DBP: systolic, diastolic blood pressure; QOL, quality of life; T2D, type 2 diabetes; GI, gastrointestinal
+
+### Glycemic Control
+
+In the STEP-Teens trial, participants treated with semaglutide experienced a significant reduction in hemoglobin A1c of 0.4%, compared to a 0.1% reduction in placebo group (13). As there were only eight participants with T2D in this trial, this data alone cannot be used to draw conclusions regarding semaglutide’s impact on glycemic control in youth-onset T2D (13). For adults with T2D, semaglutide subcutaneous at doses of 2.4 mg or 1.0 mg decreased mean hemoglobin A1c by 1.6% and 1.5%, respectively, versus a reduction of 0.4% among participants assigned placebo (16).
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.160]
+### Body Mass Index (BMI) Reduction
+
+Given the pleiotropic effects on both appetite regulation and glucose homeostasis, GLP-1RA were initially used to treat T2D in adults and subsequently approved to treat adult obesity (7). In 2022, subcutaneous semaglutide, up to a dose of 2.4 mg once weekly, was FDA-approved as an adjunctive agent to lifestyle modifications for chronic weight management in pediatric patients 12 years or older with a BMI ≥ 95<sup>th</sup> percentile for age and sex. This approval was based on the results of the Semaglutide Treatment Effect in People with obesity [STEP]-Teens trial. This trial was a 68-week, double-blind randomized control trial. Participants ages 12-18 years with a BMI ≥95<sup>th</sup> percentile or ≥85<sup>th</sup> percentile with at least one obesity-related comorbidity were randomized 2:1 to subcutaneous semaglutide 2.4 mg or placebo (13). The estimated mean percentage change in BMI from baseline to week 68 was −16.1% with semaglutide 2.4 mg and +0.6% with placebo (Table 1) (13). A greater proportion of participants treated with semaglutide (73%) experienced a reduction in BMI of ≥5% compared to 18% of the placebo group. Additionally, 53% of those treated with semaglutide experienced a ≥15% reduction in BMI compared to 5% in the placebo group. Notably, nearly 45% of participants randomized to semaglutide achieved a BMI in the normal weight or overweight category, versus 12% of participants assigned to placebo (14). Although no direct measures of body fat were obtained, it is likely that this degree of BMI reduction did lead to decreased body fat, which may reduce insulin resistance and other cardiovascular risks (15).
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.116]
+| Study Name | STEP-Young | STEP-Teens(13) | STEP −1(51) | 
+|---|---|---|---|
+| Clinicaltrials.gov | NCT05726227 | NCT04102189 | NCT03548935 | 
+| Study Population | • Age 6 to 18 years • Body weight > 45 kg • BMI ≥ 95th percentile or ≥ 85th percentile with the presence of ≥ 1 weight-related • For participants with T2D HbA1c ≤ 10.0% | • Age: 12 to <18 years • BMI ≥95 <sup>th</sup> percentile or ≥85<sup>th</sup> percentile with ≥ 1 obesity-related comorbidity• For participants with T2D, HbA1c ≤10% | • Age ≥ 18 years • BMI ≥ 30kg/m <sup>2</sup> or ≥ 27 kg/m<sup>2</sup> with ≥ 1 treated or untreated weight-related coexisting conditions• No History of T2D | 
+| **Weight/BMI related outcomes (vs placebo)** |  |  |  | 
+| Primary BMI outcome | *N/A; study currently recruiting* | Change in BMI%: −16.1% (vs + 0.6%) | Change in body weight%: −14.85% (vs −2.41%) | 
+| Weight (kg) |  | −15.3 kg (vs +2.4 kg) | −15.3 kg( vs −2.6) | 
+| Waist Circumference (cm) |  | −12.7 (vs −0.6) | −13.54 (vs −4.13) | 
+| Total body fat mass by DEXA (kg) |  | *Not measured* | −8.36 (vs −1.37) | 
+| Regional visceral body fat mass by DEXA (kg) |  |  | −0.36 (vs −0.10) | 
+| Total lean body mass by DEXA |  |  | −5.26 (vs −1.83) | 
+| **Obesity-related Comorbidities** (% change) |  |  |  |
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.111]
+### Dyslipidemia and Cardiovascular Risk
+
+In the STEP-Teens trial, semaglutide was found to significantly reduce total cholesterol, low density lipoprotein (LDL) cholesterol, very low density lipoprotein, and triglycerides compared to placebo (13). Although dyslipidemia increases long-term risk of cardiovascular disease, short-term adverse cardiovascular events are uncommon in adolescents, making these outcomes difficult to assess over the timeframe of most clinical trials. However, studies in adults demonstrate the beneficial cardiovascular effects of semaglutide. In adults with cardiovascular disease and obesity without diabetes, semaglutide reduced the risk of major adverse cardiovascular events (non-fatal stroke, non-fatal myocardial infarction, and cardiovascular death) (22). The SUSTAIN-6 clinical trial, which randomized 3,297 adults with T2D to semaglutide (0.5 or 1.0 mg once weekly) or placebo for 104 weeks, found that the primary composite outcome of first occurrence of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke was significantly less common in the semaglutide group compared to placebo (6.6% versus 8.9%, hazard ratio 0.74) (23). The SELECT clinical trial randomized 17,604 adults with obesity and cardiovascular disease to 2.4 mg once-weekly semaglutide or placebo, with a mean follow up of approximately 40 months (22). Subcutaneous semaglutide 2.4 mg resulted in lower incidence of cardiovascular-related death, nonfatal myocardial infarction, or nonfatal stroke, with a primary cardiovascular end-point event occurring in 6.5% versus 8.0% of semaglutide versus placebo group (hazard ratio 0.8, 95% CI 0.72-0.90). This may be due to semaglutide’s effects on lowering carotid intima-media thickness, total cholesterol, triglycerides and LDL cholesterol in adults with T2D (24). Additionally, in adults, semaglutide was found to reduce cardiovascular risk by resulting in lower systolic and diastolic blood pressure and C-reactive protein (25).
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.092]
+- 18.Zhu K, Kakkar R, Chahal D, Yoshida EM et al. Efficacy and safety of semaglutide in non-alcoholic fatty liver disease. World J Gastroenterol. 2023;29(37):5327–38. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 19.Bandyopadhyay S, Das S, Samajdar SS, Joshi SR. Role of semaglutide in the treatment of nonalcoholic fatty liver disease or non-alcoholic steatohepatitis: A systematic review and meta-analysis. Diabetes Metab Syndr. 2023;17(10):102849. [DOI] [PubMed] [Google Scholar]
+- 20.Kovalic AJ, Gozar M, Da BL et al. Pharmacotherapeutic efficacy on noninvasive fibrosis progression in nonalcoholic fatty liver disease: a systematic review and network meta-analysis. Eur J Gastroenterol Hepatol. 2023;35(1):102–11. [DOI] [PubMed] [Google Scholar]
+- 21.Loomba R, Abdelmalek MF, Armstrong MJ et al. Semaglutide 2·4 mg once weekly in patients with non-alcoholic steatohepatitis-related cirrhosis: a randomised, placebo-controlled phase 2 trial. Lancet Gastroenterol Hepatol. 2023;8(6):511–22. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 
+*22.Lincoff AM, Brown-Frandsen K, Colhoun HM
+et al. 
+Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes. N Engl J Med. 2023;389(24):2221–32.
+ [DOI] [PubMed] [Google Scholar]; This article describes that randominzed controlled, event-driven superiorit trial of subcutaneous semaglutide 2.4 mg daily or placebo in adults with pre-existing cardiovascular disease and a BMI ≥ 27 kg/m<sup>2</sup> . The primary end points were composite death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke, and in patients winth prexisting cardiovascular disease and overweight/obesity, semaglutide was superior to placebo in redusing these events at a mean follow-up of 39.8 months.
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.080]
+- **13.Weghuber D, Barrett T, Barrientos-Perez M, et al. Once-Weekly Semaglutide in Adolescents with Obesity. N Engl J Med. 2022;387(24):2245–57. [DOI] [PMC free article] [PubMed] [Google Scholar]; This randomized control trial of once-weekly subcutaneous semaglutide 2.4mg in adolescents with obesity is the primary trial leading to FDA-approval for this medication in pediatric obesity. These results demonstrate the efficacy and short-term efficacy of this medication in adolescents with obestiy.
+- 14.Kelly AS, Arslanian S, Hesse D et al. Reducing BMI below the obesity threshold in adolescents treated with once-weekly subcutaneous semaglutide 2.4 mg. Obesity (Silver Spring). 2023. [DOI] [PubMed] [Google Scholar]
+- 15.Abrams P, Levitt Katz LE, Moore RH et al. Threshold for improvement in insulin sensitivity with adolescent weight loss. J Pediatr. 2013;163(3):785–90. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 16.Davies M, Færch L, Jeppesen OK et al. Semaglutide 2·4 mg once a week in adults with overweight or obesity, and type 2 diabetes (STEP 2): a randomised, double-blind, double-dummy, placebo-controlled, phase 3 trial. Lancet. 2021;397(10278):971–84. [DOI] [PubMed] [Google Scholar]
+- 17.Yuan X, Gao Z, Yang C et al. Comparing the effectiveness of long-term use of daily and weekly glucagon-like peptide-1 receptor agonists treatments in patients with nonalcoholic fatty liver disease and type 2 diabetes mellitus: a network meta-analysis. Front Endocrinol (Lausanne). 2023;14:1170881. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.063]
+- 23.Marso SP, Bain SC, Consoli A et al. Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes. N Engl J Med. 2016;375(19):1834–44. [DOI] [PubMed] [Google Scholar]
+- 24.Patti AM, Giglio RV, Allotta A et al. Effect of Semaglutide on Subclinical Atherosclerosis and Cardiometabolic Compensation: A Real-World Study in Patients with Type 2 Diabetes. Biomedicines. 2023;11(5). [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 25.Kosiborod MN, Bhatta M, Davies M et al. Semaglutide improves cardiometabolic risk factors in adults with overweight or obesity: STEP 1 and 4 exploratory analyses. Diabetes Obes Metab. 2023;25(2):468–78. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 26.Monami M, Nreu B, Scatena A et al. Safety issues with glucagon-like peptide-1 receptor agonists (pancreatitis, pancreatic cancer and cholelithiasis): Data from randomized controlled trials. Diabetes Obes Metab. 2017;19(9):1233–41. [DOI] [PubMed] [Google Scholar]
+- *27.Sodhi M, Rezaeianzadeh R, Kezouh A, Etminan M. Risk of Gastrointestinal Adverse Events Associated With Glucagon-Like Peptide-1 Receptor Agonists for Weight Loss. JAMA. 2023;330(18):1795–7. [DOI] [PMC free article] [PubMed] [Google Scholar]; This research letter described the incidence of gastrointestinal adverse events addociated with GLP-1RA for weight loss using ha health claims database. This analysis found that when compared to buprior-naltrexone for weight loss, GLP-1RAs were associated with an increase risk of pancreatitis, gastroparesis, and bowel obstruction.
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.063]
+- **28.Chen C, Zhou R, Fu F, Xiao J. Postmarket safety profile of suicide/self-injury for GLP-1 receptor agonist: a real-world pharmacovigilance analysis. Eur Psychiatry. 2023;66(1):e99. [DOI] [PMC free article] [PubMed] [Google Scholar]; This study used a FDA Adverse Event Reporting System to evaluate the association between GLP-1RA use and suicide/self-injurty behavior. This analysis did not illustrate an overall safety signal for increase risk of suicide or self-injry attributable to GLP-1RA., although there may be a marginal elevation of risk with GLP-RA in children.
+- 29.Wang W, Volkow ND, Berger NAet al. Association of semaglutide with risk of suicidal ideation in a real-world cohort. Nat Med. 2024. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 30.McIntyre RS, Mansur RB, Rosenblat JD, Kwan ATH. The association between glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and suicidality: reports to the Food and Drug Administration Adverse Event Reporting System (FAERS). Expert Opin Drug Saf. 2023:1–9. [DOI] [PubMed] [Google Scholar]
+- 31.U.S. Food & Drug Administration. Update on FDA’s ongoing evaluation of reports of suicidal thoughts or actions in patients taking a certain type of medicines approved for type 2 diabetes and obesity. 2024 January-11-2024. [Google Scholar]
+- 32.Richards J, Bang N, Ratliff EL et al. Successful treatment of binge eating disorder with the GLP-1 agonist semaglutide: A retrospective cohort study. Obes Pillars. 2023;7:100080. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 33.Nicolau J, Pujol A, Tofe S et al. Short term effects of semaglutide on emotional eating and other abnormal eating patterns among subjects living with obesity. Physiol Behav. 2022;257:113967. [DOI] [PubMed] [Google Scholar]
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.054]
+- 51.Wilding JPH, Batterham RL, Calanna S et al. Once-Weekly Semaglutide in Adults with Overweight or Obesity. N Engl J Med. 2021;384(11):989–1002. [DOI] [PubMed] [Google Scholar]
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.044]
+### Equitable Access
+
+Cost-effectiveness analyses do not typically directly consider ethical concerns, including differential considerations for individuals from marginalized backgrounds, such as out-of-pocket costs and access to therapy (42), including at least 26 in-person contact hours for intensive health behavior and lifestyle treatment with a multidisciplinary team (43). Concerns about equitable access to therapy are particularly relevant for pediatric obesity, as it is most common among youth marginalized by race, ethnicity, and socioeconomic status (44, 45). Because insurance coverage for semaglutide and other anti-obesity medications varies widely, with many commercial and most Medicaid policies excluding coverage of anti-obesity medications (42, 46), such medications are cost-prohibitive for many youth, particularly youth of color, who are disproportionately insured by Medicaid. Differential access to highly effective anti-obesity medications such as semaglutide could thus lead to widening of racial and ethnic disparities in pediatric obesity (47). Furthermore, even in the setting of insurance coverage, patients have experienced interruptions in supply due to shortages spurred by high demand for semaglutide (48).
+
+### Lack of Durable Effect Once Medication is Discontinued
+
+Although there is limited data, results from the STEP-Teens trial demonstrate rebound weight gain as early as seven weeks following discontinuation of semaglutide (13). Weight regain nearly to baseline BMI was observed after discontinuation of another GLP-1RA, liraglutide, at 26 weeks after discontinuation of study drug (49). Adults treated with semaglutide 2.4 mg and lifestyle intervention regained two-thirds of their weight loss during the STEP-1 study after a year of semaglutide discontinuation (50). Given this data and the fact that obesity is a chronic disease, it is reasonable to surmise that youth may need lifelong therapy with semaglutide to prevent reoccurrence of obesity or weight regain. Interruptions in semaglutide administration due to insurance coverage, drug shortages, or adherence, could lead to significant weight regain.
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.042]
+## Introduction
+
+As the prevalence of both obesity and type 2 diabetes (T2D) has increased in youth, the interest in safe and effective pharmacotherapy to treat these diseases has also risen (1–5). Semaglutide 2.4 mg, a once-weekly subcutaneous glucagon-like peptide-1 receptor agonist (GLP-1RA), is the most recent medication approved by the U.S. Food and Drug Administration (FDA) to treat adolescent obesity (6) and represents a growing class of incretin hormone-based therapeutics for obesity (7). Incretin hormones including GLP-1 and glucose-dependent insulinotropic polypeptide are secreted by entero-endocrine cells in response to an oral glucose load and stimulate insulin secretion and regulate appetite (8). Semaglutide and other GLP-1RA reduce gastric emptying, inhibit glucagon secretion, and promote insulin secretion (9). Additionally, GLP-1RA also have effects on appetite modulation by the hypothalamus and brain stem, which can lead to increased satiety and reduced food intake and cravings (10, 11). The use of incretin hormone-based therapies in the treatment of obesity acknowledges the foundational concept that obesity is a biological disease of energy regulation with complex, genetic, societal, and neuro-endocrine pathophysiology (12).
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.040]
+- **40.Mital S, Nguyen HV. Cost-Effectiveness of Antiobesity Drugs for Adolescents With Severe Obesity. JAMA Netw Open. 2023;6(10):e2336400. [DOI] [PMC free article] [PubMed] [Google Scholar]; This cost-effectiveness analysis sought to quantify the cost-effectiveness of the four anti-obesity medications FDA-approved for long-term use for pediatric obesity. The findings indicate that phentermine-topiramate was the most cost-effective treatment over semaglutide.
+- **41.Lim F, Bellows BK, Tan SX et al. Cost-Effectiveness of Pharmacotherapy for the Treatment of Obesity in Adolescents. JAMA Netw Open. 2023;6(8):e2329178. [DOI] [PMC free article] [PubMed] [Google Scholar]; This analysis also evaluated the cost-effectivenss of FDA-approved anti-obesity pharmacotherapy for pediatric obesity compared to lufestyle couseling alone. This paper reinforces the findings of the Mital et al. paper that phenterime-topiramate adjunct to lifestyle counseling was more cost-effective at 5 years.
+- *42.Wright DR, Luviano A, Skelton JA. Interpreting Cost-Effectiveness Analyses of Anti-Obesity Medications for the Treatment of Adolescent Obesity-Reading the Tea Leaves. JAMA Netw Open. 2023;6(8):e2329422. [DOI] [PubMed] [Google Scholar]; This invited commentary discuss the Lim et al. paper listed above in the context of clinical practince and health ploicy, and how to apply cost-effective analyses to future obesity research.
+- **43.Hampl SE, Hassink SG, Skinner AC, Armstrong SC, Barlow SE, Bolling CF, et al. Clinical Practice Guideline for the Evaluation and Treatment of Children and Adolescents With Obesity. Pediatrics. 2023. [DOI] [PubMed] [Google Scholar]; The American Academy of Pediatrics publised these updated clinical practice guidelines for the evaluate and treatment of youth with obesity. These guidelines recommend the use of anti-obesity medications when applicable for youth with obesity as adjuvant therapy to lifestyle and behavioral modifications.
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.036]
+### Mental Health
+
+In STEP-Teens, adolescents were not eligible for enrollment if they had any history of severe psychiatric disorders, bulimia nervosa, or suicide attempt, or if they had major depressive disorders within two years before screening. Thus, the clinical trial should not be used to assess safety of use of semaglutide in these higher-risk populations. However, in the selected trial population, Patient Health Questionnaire 9-item version (PHQ-9) and Columbia-Suicide Severity Rating Scale (C-SSRS) scores were similar between the semaglutide and placebo groups, and psychiatric adverse events were reported more often by the placebo group than the semaglutide group (15% versus 7%) (13). During the trial, 3% of the semaglutide group had follow-up PHQ-9 score of ≥15 (the initial threshold for exclusion due to concern for moderate to severe depression), while this occurred in 6% of the placebo group. Only 1 (0.8%) participant in the semaglutide expressed passive suicidality, while none expressed more severe suicidality. In contrast, 3 (4.5%) participants in the placebo group expressed passive suicidality and 6 (13.5%) expressed more severe suicidality as measured by the C-SSRS.
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.036]
+### Metabolic Dysfunction Associated Non-Alcoholic Fatty Liver Disease
+
+Semaglutide may also be useful in treating metabolic dysfunction-associated steatotic liver disease (MASLD) by reducing liver fat content and liver enzyme levels in adult populations (17). Within the STEP-Teens trial, adolescents with obesity treated with semaglutide had an 18.3% reduction in alanine aminotransferase (ALT) levels compared to 4.9% reduction with placebo (−14.1, 95% CI [−25.2, −1.4]) (13). Since STEP-Teens was not a trial specifically assessing MASLD, no data on hepatosteatosis, liver stiffness, or visceral body fat was collected to provide more specific evidence regarding the effects on MASLD. Multiple meta-analyses evaluating the role of semaglutide in treatment of adult patients with MASLD or MASH (metabolic-associated steatohepatitis have concluded that semaglutide significantly improves liver enzymes (ALT and aspartate aminotransferase), reduces liver stiffness, improves steatosis and, in some cases, leads to MASH resolution (18–20). However, within an adult population with biopsy-confirmed non-alcoholic steatohepatitis-related cirrhosis, semaglutide 2.4mg weekly did not significantly improve fibrosis or achievement of MASH resolution versus placebo, which may speak to limited efficacy of semaglutide in more advanced liver disease (21). Additional studies evaluating the effects of semaglutide in adolescents with MASLD are needed to evaluate the efficacy in this patient population.
+
+---
+
+[referencia=1f0bde2c2b7643aa score=0.035]
+### Gastrointestinal Effects
+
+In the STEP-Teens trial, adverse event rates were higher for the semaglutide group than placebo group (435.7 versus 362.9 per 100 person-years), but were reported in the majority of adolescent participants overall (semaglutide group: 103/133, 79%; placebo group: 55/67, 82%) (13). Consistent with adult trials, the most frequent adverse events were gastrointestinal, including nausea, vomiting, and diarrhea, in 62% versus 42% of participants randomized to semaglutide versus placebo. These gastrointestinal effects were most common with increasing doses during the 16-week dose-escalation period. Notably, despite higher prevalence of gastrointestinal adverse events in the semaglutide group, adverse event-related discontinuation rates were 5% in both groups.

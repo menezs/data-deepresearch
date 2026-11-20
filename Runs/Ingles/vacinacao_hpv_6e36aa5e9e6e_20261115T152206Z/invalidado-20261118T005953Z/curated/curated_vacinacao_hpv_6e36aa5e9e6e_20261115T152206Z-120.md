@@ -1,0 +1,182 @@
+[referencia=4027ed46ff95f40b score=0.961]
+## Abstract
+
+Human papillomavirus (HPV) is the principal etiological factor in the majority of cervical, oropharyngeal, anal, and vulvar cancers. Persistent infection with high-risk HPV types promotes immune evasion, malignant transformation, and tumor progression. Currently licensed prophylactic HPV vaccines, based on L1 virus-like particles, are highly effective at preventing new infections and HPV-associated neoplastic disease through the induction of neutralizing antibodies. However, they do not eradicate established infections or preexisting lesions. These limitations have driven the development of therapeutic HPV vaccines and adoptive T-cell strategies aimed at eliciting robust cell-mediated immunity against HPV-associated malignancies. The viral oncoproteins E6 and E7 are attractive therapeutic targets. They disrupt cell-cycle control and are consistently expressed in HPV-driven precancerous and cancerous lesions. In this review, we provide a comprehensive overview of therapeutic HPV vaccines—including viral and bacterial vectors, DNA and RNA constructs, peptide/protein vaccines, and cell-based approaches—all designed to target E6 and E7, while considering the benefits and limitations of each platform. We also present an in-depth analysis of adoptive T-cell therapies, highlighting Immuno-STAT, a peptide–HLA fusion platform for the direct expansion of HPV-specific CD8<sup>+</sup> T cells. Furthermore, we discuss rational combination strategies that integrate these modalities with immune checkpoint inhibitors and other immunomodulatory agents, including the bifunctional PD-L1/TGF-β inhibitor bintrafusp alfa, to overcome key barriers and enhance clinical efficacy. Overall, this review synthesizes current evidence and outlines future directions for the development of more precisely tailored HPV-specific immunotherapies in cancer treatment.
+
+---
+
+[referencia=4027ed46ff95f40b score=0.949]
+Recognition of HPV as the causal agent of cervical and other HPV-associated malignancies has enabled major advances in cancer prevention and therapeutic development. Three prophylactic HPV vaccines are currently licensed; all are based on L1 virus-like particles that induce neutralizing antibodies, block viral entry, and provide robust protection against the most oncogenic HPV types (37–39). However, these vaccines do not treat established infections or pre-existing lesions, as L1 capsid proteins are not expressed in infected basal epithelial cells (37–39). However, these vaccines do not treat established infections or pre-existing lesions, as L1 capsid proteins are not expressed in infected basal epithelial cells (40), underscoring the need for therapeutic strategies capable of eliminating HPV-infected or transformed cells. Accordingly, increasing attention has focused on therapeutic HPV vaccines that elicit cell-mediated immune responses. These strategies primarily focus on the viral oncoproteins E6 and E7, which are indispensable for tumor initiation and maintenance and are constitutively expressed in HPV-driven precancerous and malignant cells. Although E5 has also been investigated as an immunotherapeutic target, its expression is frequently reduced or lost following viral genome integration, limiting its suitability as a therapeutic target in established HPV-associated malignancies (41). Because E6 and E7 are viral antigens absent from normal host tissues, they largely avoid central immune tolerance, making them particularly attractive targets for immunotherapy (42). A broad spectrum of therapeutic platforms has been developed to deliver E6/E7-derived antigens to antigen-presenting cells and induce robust cytotoxic T lymphocyte responses. In this review, we summarize current advances in therapeutic HPV vaccines and T cell–based immunotherapies, examine the integration of immune checkpoint blockade into HPV-directed treatment strategies, and highlight ongoing challenges and future directions toward improving immunological control of HPV-associated diseases.
+
+---
+
+[referencia=4027ed46ff95f40b score=0.937]
+## 3 Therapeutic HPV vaccines
+
+Progress in understanding HPV-driven oncogenesis and the identification of immunogenic viral epitopes have enabled the development of immunotherapeutic strategies targeting HPV-associated malignancies. Therapeutic vaccines aim to induce antigen-specific T-cell responses capable of eliminating HPV-infected or transformed cells, in contrast to prophylactic vaccines, which prevent infection through the induction of neutralizing antibodies (56, 57). Current therapeutic vaccine strategies include peptide- and protein-based vaccines, viral vector vaccines, DNA and RNA vaccines, and cell–based approaches (**Figure 2**). Although no therapeutic HPV vaccine has yet been approved for clinical use, numerous candidates have demonstrated promising immunogenicity and antitumor activity in preclinical and clinical studies (58–60). Therapeutic immunotherapy strategies targeting HPV-associated malignancies and their clinical evaluation are summarized in **Table 1**.
+
+Figure 2
+
+Table 1
+
+---
+
+[referencia=4027ed46ff95f40b score=0.899]
+Other bacterial vectors have also been investigated for therapeutic HPV vaccination. *Lactobacillus casei* can be administered non-invasively, typically via oral or intranasal routes, and is considered relatively safe because it lacks endotoxin. A phase I/IIa clinical study evaluating an oral *L. casei*–based vaccine expressing HPV16 E7 (GLBL101c, **Table 1**) in patients with HPV16-positive CIN3 demonstrated induction of E7-specific mucosal cellular immune responses and histological regression of lesions from CIN3 to CIN2 in approximately 70% of patients. As this was a single-arm study without a placebo or observation control group, the contribution of vaccination to the observed regression cannot be established. Nevertheless, the authors noted that the observed regression rate exceeded the approximately 10% spontaneous CIN3-to-CIN2 regression rate estimated from previous non-intervention cohorts and placebo arms of HPV therapeutic vaccine trials, although randomized placebo-controlled studies are required to confirm the clinical efficacy of GLBL101c. No significant adverse events were reported, and the presence of E7-specific lymphocytes in cervical tissue correlated with pathological regression (127).
+
+---
+
+[referencia=4027ed46ff95f40b score=0.857]
+#### 3.4.2 Viral vectors
+
+Vaccinia virus-based vectors are widely used in therapeutic HPV vaccination because their genetic stability and large cloning capacity enable efficient insertion and expression of transgenic DNA. Tipapkinogen sovacivec (TS; TG4001) is a replication-deficient modified vaccinia Ankara (MVA) vector encoding HPV16 E6 and E7 together with IL-2. In a phase II study (NCT01022346) involving patients with CIN2/3, TG4001 induced lesion regression during 2.5 years of follow-up, independent of high-risk HPV type (128).
+
+TG4001 is currently being evaluated in combination with the PD-L1 inhibitor avelumab in patients with HPV16-positive recurrent or metastatic cancers (NCT03260023, **Table 1**), where early-phase studies showed acceptable safety and preliminary antitumor activity (129).
+
+Another MVA-based therapeutic vaccine targeting HPV16 E2 has also demonstrated encouraging clinical activity. In a phase III study including 1,356 patients with HPV-associated anogenital intraepithelial lesions, histologic regression was observed in 89% of women and 100% of men, with HPV DNA clearance observed in 83% of treated individuals. These findings are consistent with the role of E2 in downregulating E6 and E7 expression and promoting apoptosis (130).
+
+TA-HPV, a live recombinant vaccinia virus encoding modified HPV16/18 E6 and E7 antigens, has been evaluated in heterologous DNA prime–viral boost regimens. In a phase I study in patients with HPV16-positive CIN2/3 (NCT00788164), priming with an E7-targeted DNA vaccine (pNGVL4a-Sig/E7(detox)/HSP70) followed by a TA-HPV boost was well tolerated and induced HPV-specific CD8<sup>+</sup> T-cell responses (131, 132).
+
+---
+
+[referencia=4027ed46ff95f40b score=0.816]
+## 2 The immune response against HPV infection
+
+Innate and adaptive immune responses are central to the control of HPV infection; however, inter-individual variability in the specificity and magnitude of these responses may permit sequential or concurrent infection with multiple HPV genotypes. Consequently, clinical outcome is determined by both viral virulence and the effectiveness of host immunity (43). In most individuals, high-risk HPV infection is eventually cleared through T-cell-mediated recognition of viral antigens. However, in approximately 10–15% of cases, these responses are insufficient, resulting in persistent infection and the development of epithelial lesions that may persist for years (44).
+
+HPV persistence is promoted by multiple immune-evasion mechanisms. The virus maintains extremely low levels of gene expression (10–100 copies per cell) within epithelial cells, thereby limiting major histocompatibility complex (MHC) class I-mediated antigen presentation to cytotoxic T lymphocytes. In addition, depletion of Langerhans cells within infected epithelia impairs antigen uptake and T-cell priming, further weakening local immune surveillance (45–48).
+
+Immune recognition also varies according to disease stage. E2- and E6-derived antigens are preferentially recognized in low-grade lesions, whereas E7 epitopes predominate in T-cell responses associated with high-grade disease (49, 50). The composition of the immune microenvironment is also influenced by HPV integration status; integration-negative tumors exhibit enriched immune-cell signatures associated with CD4<sup>+</sup> T cells, CD8<sup>+</sup> T cells, regulatory T cells, NK cells and B cells, correlating with more favorable clinical outcomes than integration-positive tumors (51).
+
+Persistent infection is further sustained by immunomodulatory activities of viral oncoproteins. E6 and E7 interfere with NF-κB signaling and suppress type I interferon responses, whereas E5 contributes to immune escape through downregulation of MHC class I and CD1d molecules, thereby limiting recognition by cytotoxic T lymphocytes and NK cells (52, 53).
+
+In parallel, increased infiltration of regulatory T cells, together with elevated production of immunosuppressive cytokines, including IL-10 and transforming growth factor-β (TGF-β), promotes a tolerogenic microenvironment that impairs effective viral clearance. Collectively, these mechanisms sustain viral oncogene expression and drive the progressive transition from persistent infection to dysplasia and ultimately invasive HPV-driven malignancy (43, 48, 54, 55).
+
+---
+
+[referencia=4027ed46ff95f40b score=0.786]
+- 86 KimJWHungC-FJuangJHeLKimTWArmstrongDKet al. Comparison of HPV DNA vaccines employing intracellular targeting strategies. *Gene Ther* . (2004) 11:1011–8. doi: 10.1038/sj.gt.3302252
+- 87 JiHWangTLChenCHPaiSIHungCFLinKYet al. Targeting human papillomavirus type 16 E7 to the endosomal/lysosomal compartment enhances the antitumor immunity of DNA vaccines against murine human papillomavirus type 16 E7-expressing tumors. *Hum Gene Ther* . (1999) 10:2727–40. doi: 10.1089/10430349950016474
+- 88 MüngerKBasileJRDuensingSEichtenAGonzalezSLGraceMet al. Biological activities and molecular targets of the human papillomavirus E7 oncoprotein. *Oncogene* . (2001) 20:7888–98. doi: 10.1038/sj.onc.1204860
+- 89 TrimbleCLinC-THungC-FPaiSJuangJHeLet al. Comparison of the CD8+ T cell responses and antitumor effects generated by DNA vaccine administered through gene gun, biojector, and syringe. *Vaccine* . (2003) 21:4036–42. doi: 10.1016/s0264-410x(03)00275-5
+- 90 KimTJJinH-THurS-YYangHGSeoYBHongSRet al. Clearance of persistent HPV infection and cervical lesion by therapeutic DNA vaccine in CIN3 patients. *Nat Commun* . (2014) 5:5317. doi: 10.1038/ncomms6317
+- 91 ChoiYJHurSYKimT-JHongSRLeeJKChoC-Het al. A phase II, prospective, randomized, multicenter, open-label study of GX-188E, an HPV DNA vaccine, in patients with cervical intraepithelial neoplasia 3. *Clin Cancer Res Off J Am Assoc Cancer Res* . (2020) 26:1616–23. doi: 10.1158/1078-0432.CCR-19-1513
+
+---
+
+[referencia=4027ed46ff95f40b score=0.784]
+- 144 SantinADBelloneSPalmieriMZanoliniARavaggiASiegelERet al. Human papillomavirus type 16 and 18 E7-pulsed dendritic cell vaccination of stage IB or IIA cervical cancer patients: a phase I escalating-dose trial. *J Virol* . (2008) 82:1968–79. doi: 10.1128/JVI.02343-07
+- 145 SantinADBelloneSPalmieriMRavaggiARomaniCTassiRet al. HPV16/18 E7-pulsed dendritic cell vaccination in cervical cancer patients with recurrent disease refractory to standard treatment modalities. *Gynecol Oncol* . (2006) 100:469–78. doi: 10.1016/j.ygyno.2005.09.040
+- 146 FerraraANonnMSehrPSchreckenbergerCPawlitaMDürstMet al. Dendritic cell-based tumor vaccine for cervical cancer II: results of a clinical pilot study in 15 individual patients. *J Cancer Res Clin Oncol* . (2003) 129:521–30. doi: 10.1007/s00432-003-0463-5
+- 147 RamanathanPGaneshrajahSRaghanvanRKSinghSSThangarajanR. Development and clinical evaluation of dendritic cell vaccines for HPV related cervical cancer--a feasibility study. *Asian Pac J Cancer Prev* . (2014) 15:5909–16. doi: 10.7314/apjcp.2014.15.14.5909
+- 148 RahmaOEHerrinVEIbrahimRAToubajiABernsteinSDakheelOet al. Pre-immature dendritic cells (PIDC) pulsed with HPV16 E6 or E7 peptide are capable of eliciting specific immune response in patients with advanced cervical cancer. *J Transl Med* . (2014) 12:353. doi: 10.1186/s12967-014-0353-4
+
+---
+
+[referencia=4027ed46ff95f40b score=0.770]
+- 127 KawanaKAdachiKKojimaSTaguchiATomioKYamashitaAet al. Oral vaccination against HPV E7 for treatment of cervical intraepithelial neoplasia grade 3 (CIN3) elicits E7-specific mucosal immunity in the cervix of CIN3 patients. *Vaccine* . (2014) 32:6233–9. doi: 10.1016/j.vaccine.2014.09.020
+- 128 HarperDMNieminenPDondersGEinsteinMHGarciaFHuhWKet al. The efficacy and safety of Tipapkinogen Sovacivec therapeutic HPV vaccine in cervical intraepithelial neoplasia grades 2 and 3: Randomized controlled phase II trial with 2.5 years of follow-up. *Gynecol Oncol* . (2019) 153:521–9. doi: 10.1016/j.ygyno.2019.03.250
+- 129 BorcomanELalanneADelordJ-PCassierPARollandFSalasSet al. Phase Ib/II trial of tipapkinogene sovacivec, a therapeutic human papillomavirus16-vaccine, in combination with avelumab in patients with advanced human papillomavirus16-positive cancers. *Eur J Cancer* . (2023) 191:112981. doi: 10.1016/j.ejca.2023.112981
+- 130 RosalesRLópez-ContrerasMRosalesCMagallanes-MolinaJ-RGonzalez-VergaraRArroyo-CazarezJMet al. Regression of human papillomavirus intraepithelial lesions is induced by MVA E2 therapeutic vaccine. *Hum Gene Ther* . (2014) 25:1035–49. doi: 10.1089/hum.2014.024
+- 131 SunY-YPengSHanLQiuJSongLTsaiYet al. Local HPV recombinant vaccinia boost following priming with an HPV DNA vaccine enhances local HPV-specific CD8+ T-cell–mediated tumor control in the genital tract. *Clin Cancer Res* . (2016) 22:657–69. doi: 10.1158/1078-0432.CCR-15-0234
+
+---
+
+[referencia=4027ed46ff95f40b score=0.759]
+Clinical translation of therapeutic HPV DNA vaccines also requires careful consideration of safety. Because E7 is intrinsically oncogenic through its interaction with the retinoblastoma (Rb) protein, genetically attenuated variants incorporating mutations at positions 24 and/or 26 were developed to disrupt Rb binding and abolish transforming potential (88).Vector selection is likewise critical for regulatory compliance. The pcDNA3 plasmid contains an ampicillin resistance gene, which may limit its suitability for human application. By contrast, the pNGVL4a vector, derived from the clinically tested pNGVL-3 backbone, lacks this resistance cassette and has therefore been adopted for clinical-grade DNA vaccine development (89).
+
+Several therapeutic HPV DNA vaccines have subsequently advanced to clinical evaluation, including GX-188E incorporating Flt3L (90, 91), pNGVL4a-CRT/E7(detox) (92), pNGVL4a-Sig/E7(detox)/HSP70 (93), VGX-3100 (94) and MEDI0457 (95). MEDI0457 is based on the VGX-3100 platform but additionally incorporates a plasmid encoding interleukin-12 to enhance cellular immunity. Clinical efficacy has varied across platforms. GX-188E demonstrated lesion regression in approximately 67% of patients in phase I/II studies, whereas VGX-3100 achieved histopathological regression in nearly half of treated patients compared with placebo (94). Other constructs demonstrated response rates of approximately 30% (92, 93).
+
+Given the risk of recurrence following surgical excision of cervical lesions, viral clearance represents a critical endpoint in therapeutic vaccination (96). VGX-3100, GX-188E, and MEDI0457 demonstrated correlations between HPV DNA clearance and histopathological regression (90, 94, 95), whereas pNGVL4a-CRT/E7 (detox) did not consistently reduce viral load (92). DNA vaccines have also been evaluated in combination with immune checkpoint inhibitors, including pembrolizumab, durvalumab and atezolizumab, in clinical trials in HPV-associated malignancies (**Table 1**).
+
+---
+
+[referencia=4027ed46ff95f40b score=0.750]
+| UMIN000001686 (127) | I/IIa | CIN3 | GLBL101c: attenuated Lactobacillus casei bacterial vector expressing modified full-length HPV16 E7 protein | HPV16 E7 mutated into the Rb-binding site (the D, C, and E in E7 aa21, aa24, and aa26, respectively, were all replaced by a G) | • 70% of patients showed pathological regression from CIN3 to CIN2 • No adverse events • Induced significant E7-specific mucosal IFN-γ–producing T cells in cervical lymphocytes • This study is the first to demonstrate a direct correlation between mucosal E7-specific cellular immunity and clinical response in human mucosal neoplasia | 
+| NCT03260023 (129) | Ib/II | Advanced/recurrent HPV16 <sup>+</sup> cancers (mainly anal, plus oropharyngeal, cervical, vulvar/vaginal) | TG4001: Viral vector vaccine (attenuated vaccinia virus Ankara expressing modified HPV16 E6/E7 and IL-2), combined with avelumab (anti-PD-L1) | HPV16 E6 and E7 | • No dose-limiting toxicities • TRAEs: 93%, mostly grade 1–2; one grade 3 anemia • ORR: 22% (8/36) overall • mPFS: 2.8 months • mOS: 11.0 months overall • Antigen-specific T-cell responses detected in 7/11 patients | 
+| NCT03141463 (140) | I/II | HPV16+ CIN3 | Vvax001: Viral vector vaccine (a replication-incompetent Semliki Forest virus expressing HPV16 E6/E7) | HPV16 E6 and E7 | • Well tolerated • Histologic complete response (≤ CIN1 or no dysplasia): 50% (9/18) • HPV16 clearance: 63% (10/16) • mDFS: 20 months |
+
+---
+
+[referencia=4027ed46ff95f40b score=0.749]
+### 3.1 Peptide- and protein-based vaccines
+
+Peptide- and protein-based vaccines targeting human papillomavirus (HPV) represent a key strategy in the development of therapeutic cancer vaccines, aimed at inducing antigen-specific T-cell responses against viral oncoproteins. Peptide vaccines are particularly attractive owing to their safety, specificity and ease of manufacture; however, their efficacy is limited by HLA restriction, thereby reducing broad applicability (61, 62). In addition, peptide vaccines exhibit low intrinsic immunogenicity and require co-administration with adjuvants, including cytokines or Toll-like receptor (TLR) agonists, to support dendritic cell activation and effective T-cell priming (58, 63).
+
+Synthetic long peptides (SLPs) were developed to overcome these limitations. Because SLPs require intracellular antigen processing, they enable presentation through both MHC class I and class II pathways, thereby promoting coordinated CD4<sup>+</sup> and CD8<sup>+</sup> T-cell responses while reducing HLA dependence. ISA101, an SLP-based vaccine comprising overlapping HPV16 E6 and E7 peptides formulated with Montanide ISA-51, demonstrated substantial clinical activity in patients with high-grade vulvar intraepithelial neoplasia. Vaccination induced antigen-specific T-cell responses in all patients and resulted in clinical responses in 79% of patients, including durable complete remission in 9 of 19 patients at two years (64). Notably, the magnitude of CD4<sup>+</sup> and CD8<sup>+</sup> T-cell responses correlated with clinical outcome. However, despite the induction of interferon-γ-associated T-cell responses in advanced disease, objective tumor regression was not achieved, highlighting the impact of tumor-mediated immune suppression (65).
+
+These findings have prompted the evaluation of peptide vaccines in combination with immune checkpoint inhibitors and other immunomodulatory approaches. In a phase II study, ISA101 combined with the anti-PD-1 antibody nivolumab demonstrated improved clinical activity in HPV16-positive malignancies. Clinical responses were associated with higher intratumoral infiltration of activated cytotoxic T cells and macrophages, together with enrichment of immune, inflammatory, and interferon-signaling gene signatures (NCT02426892, **Table 1**) (66).
+
+---
+
+[referencia=4027ed46ff95f40b score=0.744]
+- 56 KlaesRWoernerSMRidderRWentzensenNDuerstMSchneiderAet al. Detection of high-risk cervical intraepithelial neoplasia and cervical cancer by amplification of transcripts derived from integrated papillomavirus oncogenes. *Cancer Res* . (1999) 59:6132–6.
+- 57 LeeSJYangAWuTCHungCF. Immunotherapy for human papillomavirus-associated disease and cervical cancer: review of clinical and translational research. *J Gynecol Oncol* . (2016) 27:e51. doi: 10.3802/jgo.2016.27.e51
+- 58 YangAFarmerEWuTCHungC-F. Perspectives for therapeutic HPV vaccine development. *J BioMed Sci* . (2016) 23:75. doi: 10.1186/s12929-016-0293-9
+- 59 KimHJKimH-J. Current status and future prospects for human papillomavirus vaccines. *Arch Pharm Res* . (2017) 40:1050–63. doi: 10.1007/s12272-017-0952-8
+- 60 ViciPPizzutiLMarianiLZampaGSantiniDDi LauroLet al. Targeting immune response with therapeutic vaccines in premalignant lesions and cervical cancer: hope or reality from clinical studies. *Expert Rev Vaccines* . (2016) 15:1327–36. doi: 10.1080/14760584.2016.1176533
+- 61 KastWMBrandtRMSidneyJDrijfhoutJWKuboRTGreyHMet al. Role of HLA-A motifs in identification of potential CTL epitopes in human papillomavirus type 16 E6 and E7 proteins. *J Immunol* . (1994) 152:3904–12. doi: 10.4049/jimmunol.152.8.3904
+- 62 SuJ-HWuAScotneyEMaBMonieAHungC-Fet al. Immunotherapy for cervical cancer: research status and clinical potential. *BioDrugs* . (2010) 24:109–29. doi: 10.2165/11532810-000000000-00000
+
+---
+
+[referencia=4027ed46ff95f40b score=0.742]
+| NCT04180215 (141) | I/II | HPV16+ recurrent or metastatic HNSCC | HB-201 and HB-202: replication-competent non-lytic arenavirus vectors (HB-201: lymphocytic choriomeningitis virus; HB-202: Pichinde virus), given as single vector or alternating HB-201/HB-202 | HPV16 E6 and E7 | • HB-201 or HB-202 monotherapy is highly immunogenic, with marked inflammatory cytokine/chemokine induction and expansion of HPV16 E6/E7-specific CD8 <sup>+</sup> T cells• Alternating HB-202/HB-201 dosing increased HPV16-specific CD8 <sup>+</sup> T cells to up to 40% of total peripheral CD8<sup>+</sup> T cellsAmong 11 evaluable HPV <sup>+</sup> HNSCC patients treated with HB-201:• ORR: 18%, including 2 PR • DCR: 73% • mPFS: 3.45 months | 
+| NCT02866006 (155, 156) | IIa | Persistent/recurrent HPV16+/18+ cervical cancer | BVAC-C: autologous B cells and monocytes transfected with HPV E6/E7 recombinant genes and loaded with α-galactosylceramide (NKT ligand); intravenously as a monotherapy and in combination with topotecan (chemotherapy drug) | HPV16/18 E6/E7 | Among 30 evaluable patients: • ORR: 19.2% • DCR: 53.8% • mDOR: 7.5 months • mPFS: 5.8 months • mOS: 17.7 months • Induced the activation of NKT cells, NK cells, and E6/E7-specific T cells • Well tolerated • Topotecan did not improve clinical outcomes compared with BVAC-C monotherapy |
+
+---
+
+[referencia=4027ed46ff95f40b score=0.735]
+- 68 GreenfieldWWStrattonSLMyrickRSVaughnRDonnalleyLMColemanHNet al. A phase I dose-escalation clinical trial of a peptide-based human papillomavirus therapeutic vaccine with Candida skin test reagent as a novel vaccine adjuvant for treating women with biopsy-proven cervical intraepithelial neoplasia 2/3. *Oncoimmunology* . (2015) 4:e1031439. doi: 10.1080/2162402X.2015.1031439
+- 69 ColemanHNGreenfieldWWStrattonSLVaughnRKieberAMoerman-HerzogAMet al. Human papillomavirus type 16 viral load is decreased following a therapeutic vaccination. *Cancer Immunol Immunother* . (2016) 65:563–73. doi: 10.1007/s00262-016-1821-x
+- 70 SpeetjensFMWeltersMJPSlingerlandMvan PoelgeestMIEde Vos van SteenwijkPJRoozenIet al. Intradermal vaccination of HPV-16 E6 synthetic peptides conjugated to an optimized Toll-like receptor 2 ligand shows safety and potent T cell immunogenicity in patients with HPV-16 positive (pre-)malignant lesions. *J Immunother Cancer* . (2022) 10(10):e005016. doi: 10.1136/jitc-2022-005016
+- 71 GandhapudiSKWardMBushJPCBedu-AddoFConnGWoodwardJG. Antigen priming with enantiospecific cationic lipid nanoparticles induces potent antitumor CTL responses through novel induction of a type I IFN response. *J Immunol* . (2019) 202:3524–36. doi: 10.4049/jimmunol.1801634
+- 72 FloudasCSGoswamiMDonahueRNPastorDMRedmanJMBrownellIet al. Novel combination immunotherapy and clinical activity in patients with HPV-associated cancers: a nonrandomized clinical trial. *JAMA Oncol* . (2025) 11:394–9. doi: 10.1001/jamaoncol.2024.6998
+
+---
+
+[referencia=4027ed46ff95f40b score=0.721]
+- 92 AlvarezRDHuhWKBaeSLambLSJConnerMGBoyerJet al. A pilot study of pNGVL4a-CRT/E7(detox) for the treatment of patients with HPV16+ cervical intraepithelial neoplasia 2/3 (CIN2/3). *Gynecol Oncol* . (2016) 140:245–52. doi: 10.1016/j.ygyno.2015.11.026
+- 93 TrimbleCLPengSKosFGravittPViscidiRSugarEet al. A phase I trial of a human papillomavirus DNA vaccine for HPV16+ cervical intraepithelial neoplasia 2/3. *Clin Cancer Res Off J Am Assoc Cancer Res* . (2009) 15:361–7. doi: 10.1158/1078-0432.CCR-08-1725
+- 94 TrimbleCLMorrowMPKraynyakKAShenXDallasMYanJet al. Safety, efficacy, and immunogenicity of VGX-3100, a therapeutic synthetic DNA vaccine targeting human papillomavirus 16 and 18 E6 and E7 proteins for cervical intraepithelial neoplasia 2/3: a randomised, double-blind, placebo-controlled phase 2b trial. *Lancet (London England)* . (2015) 386:2078–88. doi: 10.1016/S0140-6736(15)00239-1
+- 95 HasanYFurtadoLTergasALeeNBrooksRMcCallAet al. A phase 1 trial assessing the safety and tolerability of a therapeutic DNA vaccination against HPV16 and HPV18 E6/E7 oncogenes after chemoradiation for cervical cancer. *Int J Radiat Oncol Biol Phys* . (2020) 107:487–98. doi: 10.1016/j.ijrobp.2020.02.031
+- 96 HungC-FMaBMonieATsenS-WWuT-C. Therapeutic human papillomavirus vaccines: current clinical trials and future directions. *Expert Opin Biol Ther* . (2008) 8:421–39. doi: 10.1517/14712598.8.4.421
+
+---
+
+[referencia=4027ed46ff95f40b score=0.666]
+## 5 Conclusions and perspectives
+
+HPV-associated carcinogenesis is driven by the viral oncoproteins E6 and E7, which disrupt tumor suppressor pathways, sustain proliferation, and promote invasion and disease progression. Their continuous expression and essential role in tumor maintenance make them compelling therapeutic targets.
+
+Current immunotherapeutic strategies, including therapeutic vaccines and adoptive T-cell therapies, aim to induce antigen-specific T-cell responses against these oncoproteins. Despite encouraging immunological activity, clinical efficacy has remained variable across studies, indicating that induction of HPV-specific T-cell responses alone is insufficient to achieve durable clinical benefit. Instead, therapeutic success depends on the quality, persistence, and functional capacity of HPV-specific T cells within the tumor microenvironment.
+
+A major limiting factor is the immunosuppressive tumor microenvironment, which restricts T-cell activity through inhibitory cytokines and suppressive immune populations such as tumor-associated myeloid cells (178, 179). Immune escape through impaired antigen presentation, altered interferon signaling, and increased PD-1 expression on tumor-infiltrating HPV16 E6-specific T cells has also emerged as an important mechanism of resistance in TCR-engineered T-cell studies.
+
+The consistent disconnect between immunogenicity and clinical efficacy observed across single-agent platforms has shifted the field toward rational combination strategies that simultaneously enhance antigen-specific immunity and overcome tumor-mediated immune suppression. These strategies include combining therapeutic vaccination with immune checkpoint blockade or tumor-targeted cytokines to sustain intratumoral T-cell function, integrating vaccination with chemotherapy or radiotherapy to promote immunogenic cell death and antigen cross-priming, and combining vaccination with adoptive T-cell therapies to improve the expansion, persistence, and effector function of transferred HPV-specific T cells (72, 180–182). Heterologous prime–boost strategies that combine different vaccine platforms can also overcome platform-specific limitations, reduce the impact of vector-specific immunity, and enhance the magnitude and durability of antigen-specific immune responses (183).
+
+---
+
+[referencia=4027ed46ff95f40b score=0.666]
+| NCT01304524 (94) | II | CIN 2/3 | VGX-3100: DNA vaccine with two plasmids encoding optimized synthetic consensus E6/E7 genes from HPV16 and HPV18, delivered IM followed by electroporation | HPV16/18 E6 and E7 | • Well tolerated: only injection site erythema common but no serious adverse events Histopathological regression: • 49.5% (53/107) VGX-3100 • 30.6% (11/36) placebo Concurrent regression plus HPV16/18 clearance: • 40.2% (43/107) VSX-3100 • 14.3% (5/35) placebo | 
+| NCT02139267 (91) | II | CIN3 | GX-188E: DNA vaccine encoding shuffled fusion protein of HPV16/18 E6/E7 fused to Flt3L domain for DC targeting and tPA signal sequence for secretion; delivered IM with electroporation | HPV16/18 E6 and E7 | • Histopathologic regression: 52% (33/64) at 20 weeks; 67% (35/52) at 36 weeks post first injection • HPV clearance significantly associated with regression • Patients with HPV clearance in 36 weeks post first injection showed higher IFNγ responses compared with those without HPV clearance • Variants sequence of HPV16 E6/E7 (D25E, V83L, and N29S) inversely associated with regression | 
+| NCT03444376 (199) | II | Advanced HPV16+/18+ cervical cancer | GX-188E combined with pembrolizumab (anti-PD-1) |  | • ORR: 35% (21/60), including 5 CR and 16 PR • mPFS: 4.4 months • mOS: 23.8 months • TRAEs of any grade: 33.8% including 4 patients in grade 3/4 |
+
+---
+
+[referencia=4027ed46ff95f40b score=0.644]
+Clinical translation has largely focused on HLA-A*02:01-restricted HPV16 epitopes. In a phase I/II trial (NCT02280811, **Table 1**), adoptive transfer of autologous T cells engineered to recognize the HLA-A*02:01-restricted E6<sub>29–38</sub> epitope mediated objective tumor regression in patients with HPV16-positive epithelial malignancies. Of 12 treated patients, two with anal carcinoma experienced partial responses. In one patient, a pulmonary metastasis completely regressed and two additional lesions decreased in size, enabling surgical resection; the patient remained free of detectable disease three years after infusion. Correlative analyses revealed intratumoral accumulation of E6-specific T cells with elevated PD-1 signaling, consistent with checkpoint-mediated functional attenuation within the tumor microenvironment. By contrast, non-responding tumors exhibited features of immune resistance, including a truncating mutation in IFNGR1 impairing interferon-γ signaling and loss of HLA-A*02:01 expression (163).
+
+Similarly, a phase I trial targeting the HLA-A*02:01-restricted E7<sub>11–19</sub> epitope (NCT02858310, **Table 1**) reported objective responses in 6 of 12 patients with metastatic HPV-associated epithelial cancers, including three complete regressions of metastatic lesions, with several responses sustained for months. The comparatively greater activity of E7-directed constructs has been attributed to higher functional avidity, prolonged peptide–MHC stability and improved transduction efficiency (164, 165). Transcriptomic analyses of non-responding tumors revealed alterations consistent with those observed in E6-directed therapy (166). These findings prompted initiation of a randomized phase II clinical trial (NCT05686226).
+
+Overall, TCR-engineered T-cell therapy has shown clear clinical activity in HPV-associated cancers. However, durable clinical benefit remains constrained by tumor-intrinsic immune escape and an immunosuppressive tumor microenvironment, highlighting the need for rational combination strategies that restore antigen processing and sustain T-cell function.
+
+---
+
+[referencia=4027ed46ff95f40b score=0.620]
+- 132 MaldonadoLTeagueJEMorrowMPJotovaIWuTCWangCet al. Intramuscular therapeutic vaccination targeting HPV16 induces T cell responses that localize in mucosal lesions. *Sci Transl Med* . (2014) 6:221ra13. doi: 10.1126/scitranslmed.3007323
+- 133 ChangJ. Adenovirus vectors: excellent tools for vaccine development. *Immune Netw* . (2021) 21(1):e6. doi: 10.4110/in.2021.21.e6
+- 134 KhanSOosterhuisKWunderlichKBunnikEMBhaggoeMBoedhoeSet al. Development of a replication-deficient adenoviral vector-based vaccine candidate for the interception of HPV16- and HPV18-induced infections and disease. *Int J Cancer* . (2017) 141:393–404. doi: 10.1002/ijc.30679
+- 135 ÇuburuNKhanSThompsonCDKimRVellingaJZahnRet al. Adenovirus vector-based prime-boost vaccination via heterologous routes induces cervicovaginal CD8(+) T cell responses against HPV16 oncoproteins. *Int J Cancer* . (2018) 142:1467–79. doi: 10.1002/ijc.31166
+- 136 HancockGBlightJLopez-CamachoCKopycinskiJPocockMByrneWet al. A multi-genotype therapeutic human papillomavirus vaccine elicits potent T cell responses to conserved regions of early proteins. *Sci Rep* . (2019) 9:18713. doi: 10.1038/s41598-019-55014-z
+- 137 FloudasCStraussJAllenCDonahueRJochemsCSteinbergSet al. 483 Initial safety results and immune responses induced by a novel human papillomavirus (HPV)-specific gorilla adenovirus immunotherapy vaccine, PRGN-2009, in patients with advanced HPV-associated cancers. *J Immunother Cancer* . (2021) 9(Suppl 2):A513. doi: 10.1136/jitc-2021-SITC2021.483

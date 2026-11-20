@@ -1,0 +1,767 @@
+{
+  "run_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+  "answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/Ingles/ChatGPT/Emergente/semaglutina_saude.md",
+  "generated_at": "2026-11-18T00:20:01.741164Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 26997,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 142,
+    "citation_markers_distinct": 19,
+    "references_listed": 19,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 108,
+  "pct_supported": 62.96296296296296,
+  "pct_unsupported": 25.925925925925924,
+  "pct_contradicted": 0.9259259259259258,
+  "count_supported": 68,
+  "count_unsupported": 28,
+  "count_contradicted": 1,
+  "count_skipped": 11,
+  "count_audited": 97,
+  "pct_supported_audited": 70.10309278350515,
+  "pct_unsupported_audited": 28.865979381443296,
+  "pct_contradicted_audited": 1.0309278350515463,
+  "count_partially_supported": 23,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 11
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 9,
+  "count_reclassified_by_verification": 3,
+  "verification_stage_counts": {
+    "context_expansion": 3
+  },
+  "mis_cited_reference_count": 6,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "758a12e3e172f5f1",
+      "citation_markers": [
+        "[4]"
+      ],
+      "raw_url": "https://www.nejm.org/doi/10.1056/NEJMoa2501006",
+      "normalized_url": "https://nejm.org/doi/10.1056/NEJMoa2501006",
+      "work_key": "DOI:10.1056/nejmoa2501006",
+      "title": "4. **Oral Semaglutide and Cardiovascular Outcomes in High-Risk Type 2 Diabetes.** *New England Journal of Medicine.*",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T00:10:47.752845Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "4191e06d1a0d1528",
+      "citation_markers": [
+        "[6]"
+      ],
+      "raw_url": "https://www.nejm.org/doi/10.1056/NEJMoa2403347",
+      "normalized_url": "https://nejm.org/doi/10.1056/NEJMoa2403347",
+      "work_key": "DOI:10.1056/nejmoa2403347",
+      "title": "6. **Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes.** *New England Journal of Medicine.*",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T00:10:39.740692Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "1c3374f534c1ffe4",
+      "citation_markers": [
+        "[18]"
+      ],
+      "raw_url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001453",
+      "normalized_url": "https://ahajournals.org/doi/10.1161/CIR.0000000000001453",
+      "work_key": "DOI:10.1161/cir.0000000000001453",
+      "title": "18. **2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome.** *Circulation.*",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T00:10:39.928576Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-14",
+      "reason": "Referencia(s) citada(s) ['758a12e3e172f5f1'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-17",
+      "reason": "Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-18",
+      "reason": "Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-24",
+      "reason": "Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-25",
+      "reason": "Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-26",
+      "reason": "Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-27",
+      "reason": "Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-35",
+      "reason": "Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-104",
+      "reason": "Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-105",
+      "reason": "Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-106",
+      "reason": "Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "20f8e4b048b0484f",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/218316s002lbl.pdf",
+      "times_cited": 25,
+      "supported_count": 18,
+      "unsupported_count": 7,
+      "contradicted_count": 0,
+      "supporting_citations": 16,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        1,
+        16,
+        19,
+        39,
+        54,
+        56,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        92,
+        94,
+        95
+      ],
+      "partial_positions": [
+        2,
+        11,
+        55,
+        91,
+        93,
+        100,
+        101
+      ],
+      "absent_positions": [
+        38,
+        57
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Semaglutide acts as a GLP-1 receptor agonist that selectively binds to and activates the GLP-1 receptor, the target for native GLP-1.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "0f8282f1ddbbfb52",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41865758/",
+      "times_cited": 10,
+      "supported_count": 5,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        72,
+        73,
+        74,
+        75
+      ],
+      "partial_positions": [
+        7,
+        70,
+        71,
+        77,
+        107
+      ],
+      "absent_positions": [
+        76
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The trials assessed the efficacy and safety of oral semaglutide up to 14 mg once daily in participants with amyloid-confirmed Alzheimer's disease, aged 55-85 years, with mild cognitive impairment or mild dementia due to Alzheimer's disease. [...] 3808 were randomly assigned; 1855 in evoke (semaglutide, n=928; placebo, n=927) and 1953 in evoke+ (semaglutide, n=976; placebo, n=977).",
+      "key_excerpt_position": 72
+    },
+    {
+      "reference_id": "4191e06d1a0d1528",
+      "url": "https://www.nejm.org/doi/10.1056/NEJMoa2403347",
+      "times_cited": 9,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        3,
+        24,
+        25,
+        26,
+        27,
+        35,
+        36,
+        91,
+        107
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0d2acc0c31dcc29e",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2306963",
+      "times_cited": 8,
+      "supported_count": 5,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        6,
+        21,
+        23,
+        59,
+        102
+      ],
+      "partial_positions": [
+        107
+      ],
+      "absent_positions": [
+        20,
+        22
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In patients with heart failure with preserved ejection fraction and obesity, treatment with semaglutide (2.4 mg) led to larger reductions in symptoms and physical limitations, greater improvements in exercise function, and greater weight loss than placebo. [...] once weekly semaglutide at a dose of 2.4 mg administered subcutaneously is a potent glucagon-like peptide 1 receptor agonist that is approved for long-term weight management [...] the Food and Drug Administration has endorsed the view that a treatment for heart failure is potentially approvable on the basis of reductions in symptoms and improvements in physical function alone. [...] semaglutide increased the 6-minute walk distance, resulted in more wins in the evaluation of the hierarchical composite end point, and reduced CRP levels to a greater extent than placebo. [...] Decreases in the CRP level, systolic blood pressure, and NT-proBNP level were also greater in the semaglutide group than in the placebo group, which indicates that semaglutide may have favorable antiinflammatory and hemodynamic effects.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "6e79a02824eb9ee6",
+      "url": "https://diabetesjournals.org/care/article/47/8/1350/156833/Effect-of-Semaglutide-on-Regression-and",
+      "times_cited": 8,
+      "supported_count": 8,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        40,
+        41,
+        42,
+        43,
+        45,
+        103
+      ],
+      "partial_positions": [
+        44
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a greater proportion treated with semaglutide were normoglycemic (69.5% vs. 35.8%; P < 0.0001) and a smaller proportion had biochemical diabetes by week 156 (1.5% vs. 6.9%; P < 0.0001). The number needed to treat was 18.5 to prevent a case of diabetes. [...] Mediation analyses suggested that approximately one-third of the effect of semaglutide to induce regression and prevent progression was due to its effect on weight.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "1b9fc317d4cfbd00",
+      "url": "https://www.nejm.org/doi/10.1056/NEJMoa2413258",
+      "times_cited": 8,
+      "supported_count": 5,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        48,
+        49
+      ],
+      "partial_positions": [
+        5,
+        46,
+        47,
+        53,
+        107
+      ],
+      "absent_positions": [
+        57
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Resolution of steatohepatitis without worsening of fibrosis occurred in 62.9% of the 534 patients in the semaglutide group and in 34.3% of the 266 patients in the placebo group (estimated difference, 28.7 percentage points; 95% confidence interval [CI], 21.1 to 36.2; P<0.001). A reduction in liver fibrosis without worsening of steatohepatitis was reported in 36.8% of the patients in the semaglutide group and in 22.4% of those in the placebo group",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "1c3374f534c1ffe4",
+      "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001453",
+      "times_cited": 8,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        2,
+        16,
+        17,
+        18,
+        100,
+        104,
+        105,
+        106
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ad53665ae02ab08b",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2307563",
+      "times_cited": 7,
+      "supported_count": 4,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        8,
+        9,
+        10,
+        15
+      ],
+      "partial_positions": [
+        3,
+        11,
+        107
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Among 17,604 patients with a BMI of 27 or greater and preexisting cardiovascular disease but without diabetes, treatment with once-weekly subcutaneous semaglutide at a dose of 2.4 mg... Mechanisms of cardiovascular risk reduction with semaglutide may include those related to... actions of semaglutide other than weight loss.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "4edb8443a18e7743",
+      "url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash",
+      "times_cited": 7,
+      "supported_count": 5,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        51,
+        53
+      ],
+      "partial_positions": [
+        5,
+        46,
+        50,
+        52,
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Wegovy received breakthrough therapy designation for this indication and was approved under the accelerated approval pathway, which allows a therapy treating serious conditions to get to market earlier based on a surrogate endpoint (e.g., a laboratory measure) with additional data required after approval to confirm the effect of the therapy on a clinically meaningful endpoint (i.e., how patients feel, function, or survive).",
+      "key_excerpt_position": 51
+    },
+    {
+      "reference_id": "91c77f152b720726",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42837024/",
+      "times_cited": 7,
+      "supported_count": 2,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        64
+      ],
+      "partial_positions": [
+        7,
+        69,
+        107
+      ],
+      "absent_positions": [
+        63,
+        67,
+        68
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A total of 6 RCTs involving 1,069 participants were included, four evaluating liraglutide and two tirzepatide. Compared with control, GLP-1 receptor agonist-based therapies reduced AHI by -9.99 events/hour (95% CI, -16.47 to -3.50; p < 0.01; I2 = 87%)",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "b880a3b4a26d0afd",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42070571/",
+      "times_cited": 7,
+      "supported_count": 3,
+      "unsupported_count": 3,
+      "contradicted_count": 1,
+      "supporting_citations": 2,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        81,
+        82
+      ],
+      "partial_positions": [
+        7,
+        78,
+        84,
+        107
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [
+        83
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In a 26-week, single-centre, randomised, double-blinded, placebo-controlled trial, treatment-seeking participants with moderate to severe alcohol use disorder and comorbid obesity were assigned (1:1) to receive once-weekly semaglutide (2·4 mg subcutaneously) or placebo (saline subcutaneously), in addition to standard cognitive behavioural therapy. [...] 108 participants (53 women and 55 men) were enrolled",
+      "key_excerpt_position": 81
+    },
+    {
+      "reference_id": "3f4a5d5a4922d3ed",
+      "url": "https://www.nature.com/articles/s41591-024-03015-5",
+      "times_cited": 6,
+      "supported_count": 4,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        29,
+        31,
+        34
+      ],
+      "partial_positions": [
+        32,
+        37
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [
+        30
+      ],
+      "not_audited_positions": [],
+      "key_excerpt": "This work is novel in demonstrating a potential beneficial kidney effect of semaglutide in the absence of diabetes and is the first demonstration, to our knowledge, of potential benefit in individuals with overweight or obesity.",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "2ab293d8fc356fe5",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42610271/",
+      "times_cited": 6,
+      "supported_count": 3,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        60,
+        61
+      ],
+      "partial_positions": [
+        58,
+        107
+      ],
+      "absent_positions": [
+        6,
+        62
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In this prespecified SELECT substudy, we evaluated whether baseline hsCRP levels predicted MACE risk and examined the relationships between changes in hsCRP levels and time to first MACE, baseline body weight, weight loss, and other clinical measures among treatment groups over time (104, 208 weeks) using multiple approaches, including Cox modeling. [...] Semaglutide reduced hsCRP levels (-37.8% [104 weeks]) and risk of MACE across all hsCRP subgroups. Greater reductions in ratio-to-baseline hsCRP with semaglutide were associated with greater weight loss, but preceded major weight loss, evident by 4 and 8 weeks, and occurred among those without weight loss. [...] Circulation. 2026 Sep 15;154(11):976-991",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "a9abb45de2912673",
+      "url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1607141",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        12,
+        13,
+        92
+      ],
+      "partial_positions": [
+        15,
+        93
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In patients with type 2 diabetes who were at high cardiovascular risk, the rate of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke was significantly lower among patients receiving semaglutide than among those receiving placebo, an outcome that confirmed the noninferiority of semaglutide.",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "18bb914a88f3d7b3",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-obstructive-sleep-apnea",
+      "times_cited": 5,
+      "supported_count": 2,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        66
+      ],
+      "partial_positions": [
+        65
+      ],
+      "absent_positions": [
+        63,
+        68,
+        69
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The improvement in AHI in participants with OSA is likely related to body weight reduction with Zepbound.",
+      "key_excerpt_position": 66
+    },
+    {
+      "reference_id": "052bb6eede208bf3",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39937469/",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        79,
+        80
+      ],
+      "partial_positions": [
+        7,
+        78,
+        84
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This was a phase 2, double-blind, randomized, parallel-arm trial involving 9 weeks of outpatient treatment. [...] 48 non-treatment-seeking participants with AUD were randomized. [...] Low-dose semaglutide reduced the amount of alcohol consumed during a posttreatment laboratory self-administration task [...] significantly reduced drinks per drinking day [...] and weekly alcohol craving [...] JAMA Psychiatry. 2025 Apr 1;82(4):395-405.",
+      "key_excerpt_position": 79
+    },
+    {
+      "reference_id": "9452584191e1d182",
+      "url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        96,
+        97,
+        98,
+        99
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The agency is requiring application holders for all GLP-1 RA medications to add information to the Warnings and Precautions section of labeling about the potential increased risk of NAION associated with use of these medications.",
+      "key_excerpt_position": 96
+    },
+    {
+      "reference_id": "9044ae16602da532",
+      "url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/209637s038lbl.pdf",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        28,
+        33
+      ],
+      "partial_positions": [
+        36,
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "to reduce the risk of sustained eGFR decline, end-stage kidney disease and cardiovascular death in adults with type 2 diabetes mellitus and chronic kidney disease. (1)",
+      "key_excerpt_position": 28
+    },
+    {
+      "reference_id": "758a12e3e172f5f1",
+      "url": "https://www.nejm.org/doi/10.1056/NEJMoa2501006",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        12,
+        14,
+        15
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-47",
+      "position": 47,
+      "claim_excerpt": "ESSENCE is an ongoing phase 3 trial in patients with biopsy-confirmed MASH and stage F2 or F3 fibrosis, and the planned 72-week interim analysis involved 800 participants receiving semaglutide 2.4 mg…",
+      "cited_markers": "[9]",
+      "corroborating_markers": "[5] [7] [2] [8] [1] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-50",
+      "position": 50,
+      "claim_excerpt": "On the basis of those histologic results, the FDA approved Wegovy in August 2025 for adults with noncirrhotic MASH and moderate-to-advanced fibrosis, corresponding to F2-F3 disease.",
+      "cited_markers": "[10]",
+      "corroborating_markers": "[1]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-52",
+      "position": 52,
+      "claim_excerpt": "The ongoing 240-week ESSENCE trial is intended to determine whether the histologic improvement translates into those clinically important outcomes.",
+      "cited_markers": "[10]",
+      "corroborating_markers": "[1] [8] [11] [7] [19] [14]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-55",
+      "position": 55,
+      "claim_excerpt": "Semaglutide reduces caloric intake and adiposity, improves insulin resistance and glycemia, and is associated with reductions in liver fat and several noninvasive markers of hepatic injury or fibrosi…",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[8] [19] [11] [7]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-78",
+      "position": 78,
+      "claim_excerpt": "Addiction research is earlier but more encouraging.",
+      "cited_markers": "[15] [16]",
+      "corroborating_markers": "[7] [8] [14] [12] [19]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_763e312081bf_20261115T131517Z-91",
+      "position": 91,
+      "claim_excerpt": "Vomiting and diarrhea can cause volume depletion and acute kidney injury, a clinically important irony for a drug that otherwise has proven long-term kidney benefit in appropriate CKD populations.",
+      "cited_markers": "[1] [6]",
+      "corroborating_markers": "[19] [7]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1959126,
+  "cost_tracked": false,
+  "processing_time_seconds": 212684.291937
+}

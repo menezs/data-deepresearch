@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "51a498d3ea61f1e3",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://ensinarhistoria.com.br/linha-do-tempo/assinada-a-lei-aurea/",
+    "normalized_url": "https://ensinarhistoria.com.br/linha-do-tempo/assinada-a-lei-aurea",
+    "work_key": "https://ensinarhistoria.com.br/linha-do-tempo/assinada-a-lei-aurea",
+    "title": "Assinada a Lei Áurea de abolição da escravidão - Ensinar História,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:25:15.242230Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bfef16fbfb6faa86",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "title": "Portal da Câmara dos Deputados,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:20.794274Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b12e3b689f0d3546",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?sequence=7&isAllowed=y",
+    "normalized_url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?isAllowed=y&sequence=7",
+    "work_key": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?isAllowed=y&sequence=7",
+    "title": "ASSINADA A LEI ÁUREA - Senado Federal,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:25:50.128307Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6b05c8ff2cb6eec3",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://iepecdg.com.br/wp-content/uploads/2025/11/LewisLab_WP1-.pdf",
+    "normalized_url": "https://iepecdg.com.br/wp-content/uploads/2025/11/LewisLab_WP1-.pdf",
+    "work_key": "https://iepecdg.com.br/wp-content/uploads/2025/11/LewisLab_WP1-.pdf",
+    "title": "African Slavery and the Reckoning of Brazil - IEPE / Casa das Garças,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:25:26.798928Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e82fd61caeac9b1b",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Slavery_in_Brazil",
+    "normalized_url": "https://en.wikipedia.org/wiki/Slavery_in_Brazil",
+    "work_key": "https://en.wikipedia.org/wiki/Slavery_in_Brazil",
+    "title": "Slavery in Brazil - Wikipedia,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:16.410562Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "febb4a377e47f399",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/infograficos/2017/12/negros-no-brasil-a-demorada-libertacao",
+    "normalized_url": "https://www12.senado.leg.br/noticias/infograficos/2017/12/negros-no-brasil-a-demorada-libertacao",
+    "work_key": "https://www12.senado.leg.br/noticias/infograficos/2017/12/negros-no-brasil-a-demorada-libertacao",
+    "title": "Negros no Brasil: a demorada libertação - Lei Feijó - Senado Federal,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:28:55.613287Z",
+    "error_message": "barreira de acesso (no_content): Ir para conteúdo principal Menu Acessibilidade Fale com o Senado Fale com o Senado × Quer receber notificações do portal",
+    "barrier_kind": "no_content",
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2332dc5527cae9f9",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://historiar.uvanet.br/index.php/1/article/download/273/pdf/546",
+    "normalized_url": "https://historiar.uvanet.br/index.php/1/article/download/273/pdf/546",
+    "work_key": "https://historiar.uvanet.br/index.php/1/article/download/273/pdf/546",
+    "title": "o 25 de março de 1884 no ceará e a luta pela libertação dos,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:25:54.238012Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "50222d4fb7793eae",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias",
+    "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias",
+    "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias",
+    "title": null,
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:31.057456Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0236817709950175",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/publicacoes/pdfs/estudos-historicos-sobre-rui-barbosa-ocr-1.pdf",
+    "normalized_url": "https://gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/publicacoes/pdfs/estudos-historicos-sobre-rui-barbosa-ocr-1.pdf",
+    "work_key": "https://gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/publicacoes/pdfs/estudos-historicos-sobre-rui-barbosa-ocr-1.pdf",
+    "title": "Estudos Históricos sobre Rui Barbosa,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:04.443881Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "619d77e6619813c9",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://pt.wikipedia.org/wiki/P%C3%B3s-aboli%C3%A7%C3%A3o_no_Brasil",
+    "normalized_url": "https://pt.wikipedia.org/wiki/Pós-abolição_no_Brasil",
+    "work_key": "https://pt.wikipedia.org/wiki/Pós-abolição_no_Brasil",
+    "title": "Pós-abolição no Brasil – Wikipédia, a enciclopédia livre,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:21.072060Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3dacfa48657244fb",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/3EA4D0ED3667ECE30B82609F0E1C6D02/9781107337046c1_p1-81_CBO.pdf/old_republic_18891930.pdf",
+    "normalized_url": "https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/3EA4D0ED3667ECE30B82609F0E1C6D02/9781107337046c1_p1-81_CBO.pdf/old_republic_18891930.pdf",
+    "work_key": "https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/3EA4D0ED3667ECE30B82609F0E1C6D02/9781107337046c1_p1-81_CBO.pdf/old_republic_18891930.pdf",
+    "title": "The Old Republic, 1889–1930,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:34.333964Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9a3a5bf97b0750e0",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://primeirosnegros.com/jose-do-patrocinio/",
+    "normalized_url": "https://primeirosnegros.com/jose-do-patrocinio",
+    "work_key": "https://primeirosnegros.com/jose-do-patrocinio",
+    "title": "José do Patrocínio, o abolicionista que proclamou a República,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:31.859800Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "10f596cd84c20bcc",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://piaui.uol.com.br/web/proclamacao-republica-brigas-exercito-fazendeiros/",
+    "normalized_url": "https://piaui.uol.com.br/web/proclamacao-republica-brigas-exercito-fazendeiros",
+    "work_key": "https://piaui.uol.com.br/web/proclamacao-republica-brigas-exercito-fazendeiros",
+    "title": "As brigas e as cifras por trás do golpe de 1889 - revista piauí - UOL,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:32.450393Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "74709e434e5374b6",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Abolitionism_in_Brazil",
+    "normalized_url": "https://en.wikipedia.org/wiki/Abolitionism_in_Brazil",
+    "work_key": "https://en.wikipedia.org/wiki/Abolitionism_in_Brazil",
+    "title": "Abolitionism in Brazil - Wikipedia,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:27:34.917333Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8624ebe6e662b82e",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/387895797_Land_of_Light_Slavery_Freed_People_and_Abolitionism_in_Ceara_Brazil_1845-1888",
+    "normalized_url": "https://researchgate.net/publication/387895797_Land_of_Light_Slavery_Freed_People_and_Abolitionism_in_Ceara_Brazil_1845-1888",
+    "work_key": "https://researchgate.net/publication/387895797_Land_of_Light_Slavery_Freed_People_and_Abolitionism_in_Ceara_Brazil_1845-1888",
+    "title": "Slavery, Freed People, and Abolitionism in Ceará, Brazil, 1845–1888,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-18T02:28:01.507176Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5a721d3200cf3fd2",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.linhadecor.com/verbetes/ano_1890/verbete3",
+    "normalized_url": "https://linhadecor.com/verbetes/ano_1890/verbete3",
+    "work_key": "https://linhadecor.com/verbetes/ano_1890/verbete3",
+    "title": "controle e embranquecimento do mercado de trabalho livre,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:40.427148Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "471b642317f8a827",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.linhadecor.com/verbetes/ano_1889",
+    "normalized_url": "https://linhadecor.com/verbetes/ano_1889",
+    "work_key": "https://linhadecor.com/verbetes/ano_1889",
+    "title": "1889 proibição do voto para quem não sabia ler e escrever,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:41.509596Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b091cebb1e3fbca3",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://revistas.usp.br/revhistoria/article/view/166560/176870",
+    "normalized_url": "https://revistas.usp.br/revhistoria/article/view/166560/176870",
+    "work_key": "https://revistas.usp.br/revhistoria/article/view/166560/176870",
+    "title": "as reformas que encolheram o eleitorado brasileiro (1881-1930),",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:42.350442Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "362840e3595fb011",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.migalhas.com.br/quentes/239130/lei-aurea--128-anos-da-abolicao-da-escravatura-e-a-acao-de-liberdade",
+    "normalized_url": "https://migalhas.com.br/quentes/239130/lei-aurea--128-anos-da-abolicao-da-escravatura-e-a-acao-de-liberdade",
+    "work_key": "https://migalhas.com.br/quentes/239130/lei-aurea--128-anos-da-abolicao-da-escravatura-e-a-acao-de-liberdade",
+    "title": "Lei Áurea: 128 anos da abolição da escravatura e a ação de liberdade,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:42.702137Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f7def69db66e2646",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://mecila.net/wp-content/uploads/2021/05/WP_Joao_Reis_36.pdf",
+    "normalized_url": "https://mecila.net/wp-content/uploads/2021/05/WP_Joao_Reis_36.pdf",
+    "work_key": "https://mecila.net/wp-content/uploads/2021/05/WP_Joao_Reis_36.pdf",
+    "title": "Slaves Who Owned Slaves in Nineteenth-Century Bahia, Brazil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:26:59.226530Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "43de03ab4d36a927",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.historia.uff.br/stricto/td/456.pdf",
+    "normalized_url": "https://historia.uff.br/stricto/td/456.pdf",
+    "work_key": "https://historia.uff.br/stricto/td/456.pdf",
+    "title": "A libertação gradual e a saída viável,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:27:48.933895Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7045a7cceab43da5",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://socialsciences.scielo.org/scielo.php?script=sci_arttext&pid=S0101-33002006000200004",
+    "normalized_url": "https://socialsciences.scielo.org/scielo.php?pid=S0101-33002006000200004&script=sci_arttext",
+    "work_key": "https://socialsciences.scielo.org/scielo.php?pid=S0101-33002006000200004&script=sci_arttext",
+    "title": "The dynamics of slavery in Brazil: resistance, the slave trade and,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:27:00.009731Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f278e66e63419006",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.slavevoyages.org/blog/introductory-maps-to-the-transatlantic-slave-trade/150",
+    "normalized_url": "https://slavevoyages.org/blog/introductory-maps-to-the-transatlantic-slave-trade/150",
+    "work_key": "https://slavevoyages.org/blog/introductory-maps-to-the-transatlantic-slave-trade/150",
+    "title": "Introductory Maps to the Transatlantic Slave Trade,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:27:16.388394Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e3b91e45a3e5389b",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.slavevoyages.org/static/uploads/2010estimates-method.pdf",
+    "normalized_url": "https://slavevoyages.org/static/uploads/2010estimates-method.pdf",
+    "work_key": "https://slavevoyages.org/static/uploads/2010estimates-method.pdf",
+    "title": "Estimates of the Size and Direction of Transatlantic Slave Trade,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:27:30.875424Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "555a37807652a7cc",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://eji.org/report/transatlantic-slave-trade/origins/",
+    "normalized_url": "https://eji.org/report/transatlantic-slave-trade/origins",
+    "work_key": "https://eji.org/report/transatlantic-slave-trade/origins",
+    "title": "Origins - The Transatlantic Slave Trade,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:28:04.656902Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "75a3727abf9ebce4",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.slavevoyages.org/blog/the-transatlantic-slave-trade-database/166",
+    "normalized_url": "https://slavevoyages.org/blog/the-transatlantic-slave-trade-database/166",
+    "work_key": "https://slavevoyages.org/blog/the-transatlantic-slave-trade-database/166",
+    "title": "The Trans-Atlantic Slave Trade Database - Slave Voyages,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:27:43.486794Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b6079278762640f0",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://escholarship.org/content/qt36c5d487/qt36c5d487.pdf?v=lg",
+    "normalized_url": "https://escholarship.org/content/qt36c5d487/qt36c5d487.pdf?v=lg",
+    "work_key": "https://escholarship.org/content/qt36c5d487/qt36c5d487.pdf?v=lg",
+    "title": "Using African Names to Identify the Origins of Captives in ... - UC Irvine,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:27:59.604789Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f74f154a855d8947",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://storymaps.arcgis.com/stories/9e0db7953b0b49f89c518c35f177aad8",
+    "normalized_url": "https://storymaps.arcgis.com/stories/9e0db7953b0b49f89c518c35f177aad8",
+    "work_key": "https://storymaps.arcgis.com/stories/9e0db7953b0b49f89c518c35f177aad8",
+    "title": "The Valley of Coffee & Slavery - ArcGIS StoryMaps,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:28:07.675069Z",
+    "error_message": "barreira de acesso (no_content): The Valley of Coffee & Slavery Share More actions",
+    "barrier_kind": "no_content",
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1203fccebffb63b5",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://english.elpais.com/international/2023-11-27/rio-de-janeiro-commemorates-enslaved-africans-at-the-wharf-where-a-million-disembarked.html",
+    "normalized_url": "https://english.elpais.com/international/2023-11-27/rio-de-janeiro-commemorates-enslaved-africans-at-the-wharf-where-a-million-disembarked.html",
+    "work_key": "https://english.elpais.com/international/2023-11-27/rio-de-janeiro-commemorates-enslaved-africans-at-the-wharf-where-a-million-disembarked.html",
+    "title": "Rio de Janeiro commemorates enslaved Africans at the wharf where,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:02.632095Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e739cd1e0b5e5fb0",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://rioonwatch.org/?p=21879",
+    "normalized_url": "https://rioonwatch.org?p=21879",
+    "work_key": "https://rioonwatch.org?p=21879",
+    "title": "Research Indicates that Rio Received Two Million Enslaved Africans,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:03.933258Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "191b29d320049d4c",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/A6A7A85ADEFE9185B79F94E76AEBC485",
+    "normalized_url": "https://cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/A6A7A85ADEFE9185B79F94E76AEBC485",
+    "work_key": "https://cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/A6A7A85ADEFE9185B79F94E76AEBC485",
+    "title": "Slavery and Freedom in Nineteenth-Century Brazil (Introduction),",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:05.805070Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0d36554e528f4456",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/289945387_African_diaspora_slavery_and_the_Paraiba_Valley_coffee_plantation_landscape_Nineteenth-century_Brazil",
+    "normalized_url": "https://researchgate.net/publication/289945387_African_diaspora_slavery_and_the_Paraiba_Valley_coffee_plantation_landscape_Nineteenth-century_Brazil",
+    "work_key": "https://researchgate.net/publication/289945387_African_diaspora_slavery_and_the_Paraiba_Valley_coffee_plantation_landscape_Nineteenth-century_Brazil",
+    "title": "(PDF) African diaspora, slavery, and the Paraiba Valley coffee,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-18T02:28:08.725922Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fb4e9962a892cd4e",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/institucional/museu/exposicoes/130-anos-da-abolicao-da-escravatura/galeria/catalogo/manual-do-arquivo-para-usuarios-site-arquivo.pdf",
+    "normalized_url": "https://www12.senado.leg.br/institucional/museu/exposicoes/130-anos-da-abolicao-da-escravatura/galeria/catalogo/manual-do-arquivo-para-usuarios-site-arquivo.pdf",
+    "work_key": "https://www12.senado.leg.br/institucional/museu/exposicoes/130-anos-da-abolicao-da-escravatura/galeria/catalogo/manual-do-arquivo-para-usuarios-site-arquivo.pdf",
+    "title": "Catalogação - Senado Federal,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:35.232486Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b23c6980b76b563c",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://revistas.usp.br/alb/en/article/view/11686",
+    "normalized_url": "https://revistas.usp.br/alb/en/article/view/11686",
+    "work_key": "https://revistas.usp.br/alb/en/article/view/11686",
+    "title": "African diaspora, slavery and the landscape of coffee plantation,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:12.008538Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "129cc104b03de3e2",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://vestibulares.estrategia.com/portal/materias/historia/6-leis-sobre-escravidao-sancionadas-antes-da-lei-aurea/",
+    "normalized_url": "https://vestibulares.estrategia.com/portal/materias/historia/6-leis-sobre-escravidao-sancionadas-antes-da-lei-aurea",
+    "work_key": "https://vestibulares.estrategia.com/portal/materias/historia/6-leis-sobre-escravidao-sancionadas-antes-da-lei-aurea",
+    "title": "6 leis sobre escravidão sancionadas antes da Lei Áurea,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:12.880628Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d309e100e1bea93b",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://www.slavevoyages.org/blog/glossary/178",
+    "normalized_url": "https://slavevoyages.org/blog/glossary/178",
+    "work_key": "https://slavevoyages.org/blog/glossary/178",
+    "title": "Glossary - Slave Voyages,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:18.937858Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "23a6028ac3607804",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://jsdp.enslaved.org/assets/downloaded/40-59-58/TEPRJ_Article_20230523.pdf",
+    "normalized_url": "https://jsdp.enslaved.org/assets/downloaded/40-59-58/TEPRJ_Article_20230523.pdf",
+    "work_key": "https://jsdp.enslaved.org/assets/downloaded/40-59-58/TEPRJ_Article_20230523.pdf",
+    "title": "The Intra-American Tra c of Enslaved People to Rio de Janeiro,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:24.474695Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0da531083cf56cc0",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/1o-censo-do-brasil-feito-ha-150-anos-contou-1-5-milhao-de-escravizados",
+    "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/1o-censo-do-brasil-feito-ha-150-anos-contou-1-5-milhao-de-escravizados",
+    "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/1o-censo-do-brasil-feito-ha-150-anos-contou-1-5-milhao-de-escravizados",
+    "title": "1º Censo do Brasil, feito há 150 anos, contou 1,5 milhão de,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:01.028542Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b761e821fb148a34",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://pt.wikipedia.org/wiki/Censo_demogr%C3%A1fico_do_Brasil_de_1872",
+    "normalized_url": "https://pt.wikipedia.org/wiki/Censo_demográfico_do_Brasil_de_1872",
+    "work_key": "https://pt.wikipedia.org/wiki/Censo_demográfico_do_Brasil_de_1872",
+    "title": "Censo demográfico do Brasil de 1872 - Wikipédia,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:32.194099Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "382b1ef68fd201d4",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://www.gov.br/palmares/pt-br/assuntos/noticias/populacao-escrava-do-brasil-e-detalhada-em-censo-de-1872",
+    "normalized_url": "https://gov.br/palmares/pt-br/assuntos/noticias/populacao-escrava-do-brasil-e-detalhada-em-censo-de-1872",
+    "work_key": "https://gov.br/palmares/pt-br/assuntos/noticias/populacao-escrava-do-brasil-e-detalhada-em-censo-de-1872",
+    "title": "População escrava do Brasil é detalhada em Censo de 1872 - GOV,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:35.601286Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "670c4c76a38f7c9d",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/fazendeiros-tentaram-impedir-aprovacao-da-lei-do-ventre-livre",
+    "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/fazendeiros-tentaram-impedir-aprovacao-da-lei-do-ventre-livre",
+    "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/fazendeiros-tentaram-impedir-aprovacao-da-lei-do-ventre-livre",
+    "title": "Fazendeiros tentaram impedir aprovação da Lei do Ventre Livre,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:12.160441Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "09867852803c2766",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://www.marxists.org/portugues/carneiro/1971/mes/40.pdf",
+    "normalized_url": "https://marxists.org/portugues/carneiro/1971/mes/40.pdf",
+    "work_key": "https://marxists.org/portugues/carneiro/1971/mes/40.pdf",
+    "title": "A LEI DO VENTRE-LIVRE (*) Édison Carneiro,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:28:48.194790Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f5b38d4b3e5d9ffc",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/fim-da-pena-de-acoite-foi-ensaio-para-abolicao-da-escravidao",
+    "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/fim-da-pena-de-acoite-foi-ensaio-para-abolicao-da-escravidao",
+    "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/fim-da-pena-de-acoite-foi-ensaio-para-abolicao-da-escravidao",
+    "title": "Fim da pena de açoite foi \"ensaio\" para abolição da escravidão,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:14.845147Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c4cae40675071a2d",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://www.scielo.br/j/er/a/bZGMg7ZCM6fGj8HQTXVtZWP/?lang=pt",
+    "normalized_url": "https://scielo.br/j/er/a/bZGMg7ZCM6fGj8HQTXVtZWP?lang=pt",
+    "work_key": "https://scielo.br/j/er/a/bZGMg7ZCM6fGj8HQTXVtZWP?lang=pt",
+    "title": "1881¹ Educação, classe, gênero e voto no Brasil imperial: Lei Saraiva,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:01.823244Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "588d212b0b9cc912",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://revistaeje.tse.jus.br/estudoseleitorais/article/download/99/72/301",
+    "normalized_url": "https://revistaeje.tse.jus.br/estudoseleitorais/article/download/99/72/301",
+    "work_key": "https://revistaeje.tse.jus.br/estudoseleitorais/article/download/99/72/301",
+    "title": "a educação e o voto no fim do império e início ... - Estudos Eleitorais,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:05.212975Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1f4743ff65db0cd8",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://digital.bbm.usp.br/handle/bbm/5218",
+    "normalized_url": "https://digital.bbm.usp.br/handle/bbm/5218",
+    "work_key": "https://digital.bbm.usp.br/handle/bbm/5218",
+    "title": "Banquete dado pela Confederação Abolicionista e alguns amigos,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:05.548685Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "57d2700eb349b184",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/institucional/arquivo/difusao",
+    "normalized_url": "https://www12.senado.leg.br/institucional/arquivo/difusao",
+    "work_key": "https://www12.senado.leg.br/institucional/arquivo/difusao",
+    "title": "Divulgação — Portal Institucional do Senado Federal,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:45.918504Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bcbe72414f0f964a",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://pt.wikipedia.org/wiki/Lei_%C3%81urea",
+    "normalized_url": "https://pt.wikipedia.org/wiki/Lei_Áurea",
+    "work_key": "https://pt.wikipedia.org/wiki/Lei_Áurea",
+    "title": "Lei Áurea – Wikipédia, a enciclopédia livre,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:12.581904Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "80237d0aa355bcdc",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://pt.wikipedia.org/wiki/Confedera%C3%A7%C3%A3o_Abolicionista",
+    "normalized_url": "https://pt.wikipedia.org/wiki/Confederação_Abolicionista",
+    "work_key": "https://pt.wikipedia.org/wiki/Confederação_Abolicionista",
+    "title": "Confederação Abolicionista – Wikipédia, a enciclopédia livre,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:13.585633Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "53a66c85f6e52b4d",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://revistapesquisa.fapesp.br/escravo-e-abolicionista/",
+    "normalized_url": "https://revistapesquisa.fapesp.br/escravo-e-abolicionista",
+    "work_key": "https://revistapesquisa.fapesp.br/escravo-e-abolicionista",
+    "title": "Escravo e abolicionista : Revista Pesquisa FAPESP,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:29:15.182271Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0a788637fae9881d",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://www.historia.uff.br/stricto/td/1464.pdf",
+    "normalized_url": "https://historia.uff.br/stricto/td/1464.pdf",
+    "work_key": "https://historia.uff.br/stricto/td/1464.pdf",
+    "title": "O Republicanismo de José do Patrocínio e sua vivência na República,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:02.319880Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "87f295ee3a97fb33",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://repositorio.unifesp.br/bitstreams/e0e27a64-aded-4e92-beb0-9e47fb48ab5a/download",
+    "normalized_url": "https://repositorio.unifesp.br/bitstreams/e0e27a64-aded-4e92-beb0-9e47fb48ab5a/download",
+    "work_key": "https://repositorio.unifesp.br/bitstreams/e0e27a64-aded-4e92-beb0-9e47fb48ab5a/download",
+    "title": "A relação de José do Patrocínio com o movimento republicano,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:04.096936Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ebee73aa44fef787",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://www.scielo.br/j/alm/a/4npGHrD9hk5h3xwtGLJyVQm/?format=pdf&lang=pt",
+    "normalized_url": "https://scielo.br/j/alm/a/4npGHrD9hk5h3xwtGLJyVQm?format=pdf&lang=pt",
+    "work_key": "https://scielo.br/j/alm/a/4npGHrD9hk5h3xwtGLJyVQm?format=pdf&lang=pt",
+    "title": "A ABOLIÇÃO INDENIZADA: O BANCO DO BRASIL E A ... - SciELO,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:00.657692Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3b9486d195dfb944",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://aca.org.br/abolicao-da-escravatura-no-amazonas-em-10-07-1884/",
+    "normalized_url": "https://aca.org.br/abolicao-da-escravatura-no-amazonas-em-10-07-1884",
+    "work_key": "https://aca.org.br/abolicao-da-escravatura-no-amazonas-em-10-07-1884",
+    "title": "Abolição da Escravatura no Amazonas em 10.07.1884,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:01.281210Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a073de4bead1a45d",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://causaoperaria.org.br/2026/os-caifazes-e-o-quilombo-do-jabaquara-2/",
+    "normalized_url": "https://causaoperaria.org.br/2026/os-caifazes-e-o-quilombo-do-jabaquara-2",
+    "work_key": "https://causaoperaria.org.br/2026/os-caifazes-e-o-quilombo-do-jabaquara-2",
+    "title": "Os Caifazes e o Quilombo do Jabaquara - Diário Causa Operária,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:02.725426Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "dd213104cfd96164",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://www1.folha.uol.com.br/fsp/1998/4/04/dinheiro/4.html",
+    "normalized_url": "https://www1.folha.uol.com.br/fsp/1998/4/04/dinheiro/4.html",
+    "work_key": "https://www1.folha.uol.com.br/fsp/1998/4/04/dinheiro/4.html",
+    "title": "Folha de S.Paulo - Cupins e caifazes - 4/4/1998,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:03.021676Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f269a1aba58a8e7d",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://www.wilsoncenter.org/blog-post/slavery-brazil",
+    "normalized_url": "https://wilsoncenter.org/blog-post/slavery-brazil",
+    "work_key": "https://wilsoncenter.org/blog-post/slavery-brazil",
+    "title": "Slavery in Brazil | Wilson Center,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:03.002833Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0ce7490469f2e658",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-3/slavery-and-aboliton/",
+    "normalized_url": "https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-3/slavery-and-aboliton",
+    "work_key": "https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-3/slavery-and-aboliton",
+    "title": "4.2 Slavery and Abolition in the 19th Century | Brazil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:05.558941Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "295543b99fda24b0",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://ejist.ro/files/pdf/435.pdf",
+    "normalized_url": "https://ejist.ro/files/pdf/435.pdf",
+    "work_key": "https://ejist.ro/files/pdf/435.pdf",
+    "title": "Slavery and Liberalism in the Empire of Brazil (1822-1889),",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:07.370785Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9e96ff12cac33427",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://vestibular.uol.com.br/resumo-das-disciplinas/historia-do-brasil/fim-da-escravidao-gera-medidas-de-apoio-a-imigracao-no-brasil.htm",
+    "normalized_url": "https://vestibular.uol.com.br/resumo-das-disciplinas/historia-do-brasil/fim-da-escravidao-gera-medidas-de-apoio-a-imigracao-no-brasil.htm",
+    "work_key": "https://vestibular.uol.com.br/resumo-das-disciplinas/historia-do-brasil/fim-da-escravidao-gera-medidas-de-apoio-a-imigracao-no-brasil.htm",
+    "title": "Fim da escravidão gera medidas de apoio à imigração no Brasil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:05.136754Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4c2edbfc26838583",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-528-28-junho-1890-506935-norma-pe.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-528-28-junho-1890-506935-norma-pe.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-528-28-junho-1890-506935-norma-pe.html",
+    "title": "Decreto nº 528, de 28 de Junho de 1890 - camara,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:31:12.391033Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f70652f0512a772b",
+    "citation_markers": [
+      "[62]"
+    ],
+    "raw_url": "https://vestibulares.estrategia.com/public/questoes/Texto-1-Decreto-no-528196880f24b0/",
+    "normalized_url": "https://vestibulares.estrategia.com/public/questoes/Texto-1-Decreto-no-528196880f24b0",
+    "work_key": "https://vestibulares.estrategia.com/public/questoes/Texto-1-Decreto-no-528196880f24b0",
+    "title": "Questão Texto 1 : “Decreto nº 528 de 28 de junho de 1890. Art. 1º,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:06.233715Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "384424f08bc572b1",
+    "citation_markers": [
+      "[63]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2016/11/04/por-100-anos-analfabeto-foi-proibido-de-votar-no-brasil",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2016/11/04/por-100-anos-analfabeto-foi-proibido-de-votar-no-brasil",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2016/11/04/por-100-anos-analfabeto-foi-proibido-de-votar-no-brasil",
+    "title": "Por 100 anos, analfabeto foi proibido de votar no Brasil,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:42.943198Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "52fa6c6f0312159b",
+    "citation_markers": [
+      "[64]"
+    ],
+    "raw_url": "https://revistahistoriador.com.br/index.php/principal/article/download/142/148",
+    "normalized_url": "https://revistahistoriador.com.br/index.php/principal/article/download/142/148",
+    "work_key": "https://revistahistoriador.com.br/index.php/principal/article/download/142/148",
+    "title": "GILBERTO FREYRE E FLORESTAN FERNANDES: O DEBATE EM,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:09.846629Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b9fe67c7292d6141",
+    "citation_markers": [
+      "[65]"
+    ],
+    "raw_url": "https://www.youtube.com/watch?v=CfHkG2hTIBU",
+    "normalized_url": "https://youtube.com/watch?v=CfHkG2hTIBU",
+    "work_key": "https://youtube.com/watch?v=CfHkG2hTIBU",
+    "title": "Democracia Racial: Gilberto Freyre X Florestan Fernandes - YouTube,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:17.356892Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2eaf9870ddae2a8f",
+    "citation_markers": [
+      "[66]"
+    ],
+    "raw_url": "https://blogdoibre.fgv.br/posts/florestan-fernandes-questao-racial-e-conservadorismo",
+    "normalized_url": "https://blogdoibre.fgv.br/posts/florestan-fernandes-questao-racial-e-conservadorismo",
+    "work_key": "https://blogdoibre.fgv.br/posts/florestan-fernandes-questao-racial-e-conservadorismo",
+    "title": "Florestan Fernandes, questão racial e conservadorismo,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:14.847485Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4a65289bb96303e1",
+    "citation_markers": [
+      "[67]"
+    ],
+    "raw_url": "https://periodicoseletronicos.ufma.br/index.php/rbrascaribe/article/download/24915/14110/92588",
+    "normalized_url": "https://periodicoseletronicos.ufma.br/index.php/rbrascaribe/article/download/24915/14110/92588",
+    "work_key": "https://periodicoseletronicos.ufma.br/index.php/rbrascaribe/article/download/24915/14110/92588",
+    "title": "RESENHA O pós-abolição e o destino dos negros no Brasil e no,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:16.929039Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "94e1a9a9b2914240",
+    "citation_markers": [
+      "[68]"
+    ],
+    "raw_url": "https://uspdigital.usp.br/janus/publico/disciplina/FLH5910",
+    "normalized_url": "https://uspdigital.usp.br/janus/publico/disciplina/FLH5910",
+    "work_key": "https://uspdigital.usp.br/janus/publico/disciplina/FLH5910",
+    "title": "História e Historiografia do Processo Abolicionista no Brasil - Janus,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:30:17.280021Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5ea8d8a62cb0526a",
+    "citation_markers": [
+      "[69]"
+    ],
+    "raw_url": "https://dspace.uevora.pt/rdpc/bitstream/10174/27854/1/Doutoramento-Hist%C3%B3ria_Contempor%C3%A2nea-Alessandro_Martins_Gomes-A_aboli%C3%A7%C3%A3o_da_escravatura_no_Brasil....pdf",
+    "normalized_url": "https://dspace.uevora.pt/rdpc/bitstream/10174/27854/1/Doutoramento-História_Contemporânea-Alessandro_Martins_Gomes-A_abolição_da_escravatura_no_Brasil....pdf",
+    "work_key": "https://dspace.uevora.pt/rdpc/bitstream/10174/27854/1/Doutoramento-História_Contemporânea-Alessandro_Martins_Gomes-A_abolição_da_escravatura_no_Brasil....pdf",
+    "title": "A Abolição da Escravatura no Brasil e as Leis Imperiais sobre a,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:31:41.656239Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d62732b437160ab1",
+    "citation_markers": [
+      "[70]"
+    ],
+    "raw_url": "https://funag.gov.br/loja/download/0298_caderno_especial_2005.pdf",
+    "normalized_url": "https://funag.gov.br/loja/download/0298_caderno_especial_2005.pdf",
+    "work_key": "https://funag.gov.br/loja/download/0298_caderno_especial_2005.pdf",
+    "title": "Cadernos do CHDD - Ministério dos Transportes,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T14:31:08.707780Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_4621e63273ff_20261115T142449Z",
+    "tool_name": "Gemini"
+  }
+]

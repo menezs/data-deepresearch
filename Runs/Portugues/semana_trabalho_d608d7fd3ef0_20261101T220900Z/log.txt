@@ -1,0 +1,193 @@
+2026-11-01 18:09:00,180 INFO     auditframework.cli: Iniciando run semana_trabalho_d608d7fd3ef0_20261101T220900Z para
+                                 answers/Claude/EmConsolidacao/semana_trabalho.md (ferramenta=Claude)
+2026-11-01 18:09:07,385 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-01 18:09:07,384 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-01 18:09:09,355 INFO     auditframework.terminal: Loading weights:
+                                 100%|███████████████████████████████████████████████████████████████████████████|
+                                 391/391 [00:00<00:00, 13586.28it/s]
+2026-11-01 18:09:19,275 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-01 18:09:19,283 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-01 18:09:19,292 INFO     auditframework.pipeline: Extraidas 48 referencias de
+                                 answers/Claude/EmConsolidacao/semana_trabalho.md (0 descartadas como artefato do
+                                 exportador)
+2026-11-01 18:09:19,300 INFO     auditframework.pipeline: Resposta dividida em 84 trechos citados
+2026-11-01 18:09:19,302 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-01 18:09:19,303 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-01 18:09:19,306 INFO     auditframework.ingestion.service: Ingestao: 48 referencias, 0 ja baixadas, 0 ja
+                                 bloqueadas, 48 pendentes
+2026-11-01 18:09:31,096 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-piloto-de-semana-de-trabalho-de-4-dias
+2026-11-01 18:09:37,041 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://diariodepernambuco.com.br/dpmais/oficial-governo-bateu-o-martelo-e-jornada-de-trabalho-de-13-horas-foi-confirmada-neste-pais/
+2026-11-01 18:09:40,802 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.capradio.org/187667
+2026-11-01 18:10:10,344 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www12.senado.leg.br/noticias/materias/2026/10/06/pec-que-acaba-com-escala-6x1-comeca-a-tramitar-no-plenario
+2026-11-01 18:10:10,349 INFO     auditframework.terminal: Baixando referências:
+                                 100%|██████████████████████████████████████████████████████████████████████████| 48/48
+                                 [00:51<00:00,  1.06s/ref]
+2026-11-01 18:10:10,349 INFO     auditframework.ingestion.service: Retentando 1 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-01 18:10:32,885 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www12.senado.leg.br/noticias/materias/2026/10/06/pec-que-acaba-com-escala-6x1-comeca-a-tramitar-no-plenario
+2026-11-01 18:10:32,886 INFO     auditframework.terminal: Retentando inacessíveis:
+                                 100%|█████████████████████████████████████████████████████████████████████████| 1/1
+                                 [00:22<00:00, 22.54s/ref]
+2026-11-01 18:10:32,888 INFO     auditframework.pipeline: Ingestao concluida: 44 documentos disponiveis
+2026-11-01 18:10:32,889 INFO     auditframework.terminal: ✓ ingestion concluído em 71.3s
+2026-11-01 18:10:32,890 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-01 18:10:33,238 INFO     auditframework.terminal: Extraindo chunks de documentos:
+                                 100%|███████████████████████████████████████████████████████████████| 44/44
+                                 [00:00<00:00, 128.74doc/s]
+2026-11-01 18:10:33,239 INFO     auditframework.indexing.service: Gerando embeddings para 184 chunks de 44 documentos
+2026-11-01 18:10:40,509 INFO     auditframework.terminal: Batches:
+                                 100%|████████████████████████████████████████████████████████████████████████████████████████|
+                                 12/12 [00:07<00:00,  1.65it/s]
+2026-11-01 18:10:40,528 INFO     auditframework.pipeline: Indice construido a partir de 44 documentos
+2026-11-01 18:10:40,530 INFO     auditframework.terminal: ✓ indexing concluído em 7.6s
+2026-11-01 18:10:40,531 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-01 18:10:40,534 INFO     auditframework.pipeline: Julgamento: 84 chunks, 0 ja julgados, 0 ja pulados, 84
+                                 pendentes
+2026-11-01 18:10:41,238 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-01 18:10:41,706 INFO     auditframework.terminal: Recuperando contexto:   0%|
+                                 | 0/84 [00:00<?, ?chunk/s]
+2026-11-01 18:10:41,807 INFO     auditframework.terminal: Loading weights:   0%|
+                                 | 0/393 [00:00<?, ?it/s]
+2026-11-01 18:10:41,856 INFO     auditframework.terminal: Loading weights:
+                                 100%|████████████████████████████████████████████████████████████████████████████|
+                                 393/393 [00:00<00:00, 2624.19it/s]
+2026-11-01 18:10:58,860 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_d608d7fd3ef0_20261101T220900Z-40 nao sera auditado: Referencia(s)
+                                 citada(s) ['b2139a2621921ffc'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:11:00,985 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_d608d7fd3ef0_20261101T220900Z-57 nao sera auditado: Referencia(s)
+                                 citada(s) ['be754527b6103806'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:11:01,604 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_d608d7fd3ef0_20261101T220900Z-64 nao sera auditado: Referencia(s)
+                                 citada(s) ['f93803f5a2f56b17'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:11:01,865 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_d608d7fd3ef0_20261101T220900Z-67 nao sera auditado: Referencia(s)
+                                 citada(s) ['de48be3624ddef10'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:11:02,470 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_d608d7fd3ef0_20261101T220900Z-72 nao sera auditado: Referencia(s)
+                                 citada(s) ['de48be3624ddef10'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:11:02,472 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_d608d7fd3ef0_20261101T220900Z-73 nao sera auditado: Referencia(s)
+                                 citada(s) ['de48be3624ddef10'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:11:06,015 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_d608d7fd3ef0_20261101T220900Z-82 nao sera auditado: Referencia(s)
+                                 citada(s) ['be754527b6103806'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:11:06,238 INFO     auditframework.terminal: Recuperando contexto:
+                                 100%|████████████████████████████████████████████████████████████████████████| 84/84
+                                 [00:25<00:00,  3.27chunk/s]
+2026-11-01 18:13:43,562 WARNING  auditframework.pipeline: Chunk semana_trabalho_d608d7fd3ef0_20261101T220900Z-40 nao
+                                 auditado: Referencia(s) citada(s) ['b2139a2621921ffc'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:14:24,267 WARNING  auditframework.pipeline: Chunk semana_trabalho_d608d7fd3ef0_20261101T220900Z-57 nao
+                                 auditado: Referencia(s) citada(s) ['be754527b6103806'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:14:37,763 WARNING  auditframework.pipeline: Chunk semana_trabalho_d608d7fd3ef0_20261101T220900Z-64 nao
+                                 auditado: Referencia(s) citada(s) ['f93803f5a2f56b17'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:14:54,060 WARNING  auditframework.pipeline: Chunk semana_trabalho_d608d7fd3ef0_20261101T220900Z-67 nao
+                                 auditado: Referencia(s) citada(s) ['de48be3624ddef10'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:15:07,232 WARNING  auditframework.pipeline: Chunk semana_trabalho_d608d7fd3ef0_20261101T220900Z-72 nao
+                                 auditado: Referencia(s) citada(s) ['de48be3624ddef10'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:15:07,234 WARNING  auditframework.pipeline: Chunk semana_trabalho_d608d7fd3ef0_20261101T220900Z-73 nao
+                                 auditado: Referencia(s) citada(s) ['de48be3624ddef10'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:15:59,956 WARNING  auditframework.pipeline: Chunk semana_trabalho_d608d7fd3ef0_20261101T220900Z-82 nao
+                                 auditado: Referencia(s) citada(s) ['be754527b6103806'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 18:16:30,659 INFO     auditframework.terminal: Julgando chunks:
+                                 100%|█████████████████████████████████████████████████████████████████████████████|
+                                 84/84 [05:24<00:00,  3.86s/chunk]
+2026-11-01 18:16:30,660 INFO     auditframework.terminal: ✓ judging concluído em 337.0s
+2026-11-01 18:16:30,668 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-01 18:16:30,674 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/semana_trabalho_d608d7fd3ef0_20261101T220900Z/report.md
+2026-11-01 18:16:30,676 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-01 18:16:30,676 INFO     auditframework.cli: Run semana_trabalho_d608d7fd3ef0_20261101T220900Z concluida
+2026-11-01 18:16:30,677 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/semana_trabalho_d608d7fd3ef0_20261101T220900Z/report.md
+2026-11-03 23:40:59,039 INFO     auditframework.terminal: audit refetch semana_trabalho_d608d7fd3ef0_20261101T220900Z
+2026-11-03 23:40:59,044 INFO     auditframework.ingestion.service: Ingestao: 48 referencias, 44 ja baixadas, 0 ja
+                                 bloqueadas, 4 pendentes
+2026-11-03 23:41:03,527 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://www.insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-piloto-de-semana-de-trabalho-de-4-dias
+2026-11-03 23:41:03,850 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.capradio.org/187667
+2026-11-03 23:41:06,145 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em
+                                 https://diariodepernambuco.com.br/dpmais/oficial-governo-bateu-o-martelo-e-jornada-de-trabalho-de-13-horas-foi-confirmada-neste-pais/
+2026-11-03 23:41:35,591 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www12.senado.leg.br/noticias/materias/2026/10/06/pec-que-acaba-com-escala-6x1-comeca-a-tramitar-no-plenario
+                                 recuperada imitando o Safari
+2026-11-03 23:41:35,608 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 4/4 [00:36<00:00,
+                                 9.13s/ref]
+2026-11-03 23:41:35,611 INFO     auditframework.terminal: semana_trabalho_d608d7fd3ef0_20261101T220900Z: 4 fonte(s) sem
+                                 conteudo, 1 recuperada(s)
+2026-11-03 23:41:35,612 INFO     auditframework.terminal:
+                                 https://www12.senado.leg.br/noticias/materias/2026/10/06/pec-que-acaba-com-escala-6x1-comeca-a-tramitar-no-plenario
+                                 — downloaded
+2026-11-03 23:41:35,697 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para
+                                 data/runs/semana_trabalho_d608d7fd3ef0_20261101T220900Z/invalidado-20261104T034135Z
+2026-11-03 23:41:35,697 INFO     auditframework.terminal: 1 trecho(s) citado(s) para julgar de novo (os demais mantem o
+                                 veredito)
+2026-11-03 23:41:35,697 INFO     auditframework.terminal: Rode: audit resume
+                                 semana_trabalho_d608d7fd3ef0_20261101T220900Z
+2026-11-03 23:41:36,227 INFO     __main__: Retomando run semana_trabalho_d608d7fd3ef0_20261101T220900Z
+2026-11-03 23:41:42,656 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:41:42,656 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:41:44,382 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 14691.67it/s]
+2026-11-03 23:41:51,983 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-03 23:41:51,990 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-03 23:41:51,990 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-03 23:41:51,991 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-03 23:41:52,358 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 45/45
+                                 [00:00<00:00, 123.61doc/s]
+2026-11-03 23:41:52,359 INFO     auditframework.indexing.service: Gerando embeddings para 189 chunks de 45 documentos
+2026-11-03 23:41:59,865 INFO     auditframework.terminal: Batches: 100%|██████████| 12/12 [00:07<00:00,  1.60it/s]
+2026-11-03 23:41:59,883 INFO     auditframework.pipeline: Indice construido a partir de 45 documentos
+2026-11-03 23:41:59,886 INFO     auditframework.terminal: ✓ indexing concluído em 7.9s
+2026-11-03 23:41:59,887 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-03 23:41:59,891 INFO     auditframework.pipeline: Julgamento: 84 chunks, 77 ja julgados, 6 ja pulados, 1
+                                 pendentes
+2026-11-03 23:42:00,688 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-03 23:42:01,143 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/1 [00:00<?, ?chunk/s]
+2026-11-03 23:42:01,247 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-03 23:42:01,321 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 2221.35it/s]
+2026-11-03 23:42:11,097 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 1/1 [00:11<00:00,
+                                 11.21s/chunk]
+2026-11-03 23:42:17,631 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 1/1 [00:06<00:00,
+                                 6.53s/chunk]
+2026-11-03 23:42:17,632 INFO     auditframework.terminal: ✓ judging concluído em 17.7s
+2026-11-03 23:42:17,634 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-03 23:42:17,645 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/semana_trabalho_d608d7fd3ef0_20261101T220900Z/report.md
+2026-11-03 23:42:17,646 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-03 23:42:17,647 INFO     __main__: Run semana_trabalho_d608d7fd3ef0_20261101T220900Z concluida
+2026-11-03 23:42:17,647 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/semana_trabalho_d608d7fd3ef0_20261101T220900Z/report.md

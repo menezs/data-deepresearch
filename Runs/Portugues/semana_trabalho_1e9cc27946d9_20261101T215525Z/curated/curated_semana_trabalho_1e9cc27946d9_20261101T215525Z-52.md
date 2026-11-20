@@ -1,0 +1,567 @@
+[referencia=a38ffa89f273703c score=0.981]
+In conclusion, there is an established and growing body of evidence supporting the hypothesis that reductions in working time can increase productivity and improve workers’ wellbeing and work-life balance. A key to this is the re-organisation of work and established working practices. 
+
+## **II**
+
+---
+
+[referencia=a38ffa89f273703c score=0.776]
+### **Results and impact** 
+
+During the trials, data was collected on a range of indicators including wellbeing, performance, and worklife balance. This section collates the most significant results, providing a holistic picture of the trials’ effects on workers and their organisations. Appendix II reviews further results from the trials. 
+
+Overall, the results of the trials show that the reductions in working hours: 
+
+- Maintained or increased productivity and service provision. 
+
+- Improved workers’ wellbeing and work-life balance. 
+
+The quantitative and qualitative data surveyed below provides important real world evidence of the benefits of working time reduction, disarming worries about falling productivity and bolstering claims of improved worker wellbeing. 
+
+In this section, the report dives into the wide-ranging available data to explore: 
+
+- a) How effectively working time was reduced 
+
+- b) How service provision and productivity were affected 
+
+- c) Whether improvements in workers’ wellbeing and work-life balance took place 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+34
+
+---
+
+[referencia=51ae2b54e60da70b score=0.608]
+## Abstract
+
+Time spent on the job is a fundamental aspect of working conditions that influences many facets of individuals’ lives. Here we study how an organization-wide 4-day workweek intervention—with no reduction in pay—affects workers’ well-being. Organizations undergo pre-trial work reorganization to improve efficiency and collaboration, followed by a 6-month trial. Analysis of pre- and post-trial data from 2,896 employees across 141 organizations in Australia, Canada, Ireland, New Zealand, the UK and the USA shows improvements in burnout, job satisfaction, mental health and physical health—a pattern not observed in 12 control companies. Both company-level and individual-level reductions in hours are correlated with well-being gains, with larger individual-level (but not company-level) reductions associated with greater improvements in well-being. Three key factors mediate the relationship: improved self-reported work ability, reduced sleep problems and decreased fatigue. The results indicate that income-preserving 4-day workweeks are an effective organizational intervention for enhancing workers’ well-being.
+
+This is a preview of subscription content, access via your institution
+
+## Access options
+
+Access Nature and 54 other Nature Portfolio journals
+
+Get Nature+, our best-value online-access subscription
+
+Subscribe to this journal
+
+Receive 12 digital issues and online access to articles
+
+Buy this article
+
+- Purchase on SpringerLink
+- Instant access to the full article PDF.
+
+USD 39.95
+
+Prices may be subject to local taxes which are calculated during checkout
+
+### Similar content being viewed by others
+
+## Data availability
+
+The data that support the findings of this study are currently not publicly available due to privacy considerations. Many of the participating organisations are identifiable through public announcements about their 4-day workweek trials, which increases the risk of identification. Researchers interested in working with these datasets should contact the corresponding authors directly (W.F. and J.B.S.). As outlined in the data management plans of the grant proposals that supported this research, we will make the data publicly available by 2027, after carefully reviewing and managing the data to determine which variables can be shared, and the data will be held in the Inter-university Consortium for Political and Social Research (ICPSR).
+
+## Code availability
+
+Analysis scripts are available via OSF at https://osf.io/kqwhz.
+
+---
+
+[referencia=51ae2b54e60da70b score=0.465]
+## About this article
+
+### Cite this article
+
+Fan, W., Schor, J.B., Kelly, O. *et al.* Work time reduction via a 4-day workweek finds improvements in workers’ well-being.
+                    *Nat Hum Behav* **9**, 2153–2168 (2025). https://doi.org/10.1038/s41562-025-02259-6
+
+- Received:
+- Accepted:
+- Published:
+- Version of record:
+- Issue date:
+- DOI: https://doi.org/10.1038/s41562-025-02259-6
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.337]
+##### ~~WORKING TIME REDUCTIONS~~ 
+
+We turn now to the data we collected from employees. When we report a ‘change’, this means the difference between the baseline and endpoint values is statistically significant. 
+
+Our findings show that the trial changed the workplace in important ways. As expected, work time declined, from 38 hours per week on average to 34. While this isn’t a full reduction to 32 hours, this can be attributed to a few companies executing less than an 8 hour reduction (and starting from above 40 hours on average). In other organisations, people were still doing some work on the day off. Nevertheless, there was a significant average reduction of a full 4 hours of work across the week. 
+
+When measured by the number of people whose work time went down (or up), we find that 71% of the sample reported a decline in working hours, while 15% were working more and 13% experienced no change. Similarly, the average number of days worked went from 4.86 to 4.52 (slicing off roughly a third of a day). It appears that many employees experienced four-day weeks, but occasionally carried out modest amounts of work on the fifth day.<sup>23</sup> 
+
+In other positive findings, the frequency of overtime also fell, both on average and in terms of individual experiences, with over a third (34%) of employees reporting reductions in overtime. However, 49% reported no change in their overtime hours. It is also notable that the amount of days spent remote working declined slightly over the trial, from an average of 2.88 days per week to 2.66 (a 34% reduction), even though, at the end of the trial, more people reported working remotely at least some of the time (with 9% increasing their level of remote working, compared to 6% decreasing). 
+
+23 This was corroborated by the interview component of the research. See ‘Perspectives from the shopfloor’ chapter. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+33 
+
+
+
+<!-- Start of picture text -->
+Reported increase<br>15%<br>Reported no change<br>13%<br>71%<br>Reported decrease<br><!-- End of picture text -->
+
+_Figure 7: Change in participating employees’ working time between baseline and endpoint surveys. Employees were asked to report how many hours they worked a week._ 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.196]
+#### CONCLUSIONS 
+
+As the four-day week has continued to spread around the world, a wide-range of benefits have been touted by those making the shift to shorter hours: from improved well-being and productivity in the organisations and employees undertaking the change, to improved recruitment and retention among staff, and even improved revenue. 
+
+To assess these claims, this report studied a wide range of UK companies and employees piloting a four-day work week with no reduction in pay in 2022, as part of one of the largest coordinated trials to date. 
+
+As the report makes clear, the results of these trials have been resoundingly positive. While companies, through their leaders, have expressed that they are extremely pleased with performance, productivity and their overall experience, it has been a similar case for employees themselves too. The four-day week, simply put, is a popular policy for those who work it. 
+
+However, the results captured throughout the trial – owing to the specific research design that has informed it – allow us to capture the positive impact of reduced working hours on a range of variables far beyond these headline figures. 
+
+With ‘before-and-after’ data for a wide range of metrics, we have been able to measure the beneficial impact of a four-day week ‘across the board’. Focusing on the narrow, ‘business case’, for instance, we found that revenue stayed approximately the same (rising slightly by 1.4% over the trial), and was up 35% in comparison to the same period in 2021, while there were also improvements in hiring, absenteeism and resignations. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+68 
+
+Looking more broadly however, it is also clear that employees found themselves in a much improved position at the close of the trial than they did when it commenced. Shorter working hours left them less stressed and burned out, with their feedback also suggesting improved mental and physical health – perhaps not surprising given their increased time exercising and lower levels of fatigue. As a result of the four-day week many employees therefore reported that their _life satisfaction_ had improved. 
+
+While self-assessments of work performance increased significantly, the data shows that this was not due to any increase in work intensity. Through careful planning, and the input of staff, companies’ efforts to revise working practices successfully improved productivity without any knock-on ill effects. We shouldn’t be too surprised, then, that employees’ job satisfaction therefore improved by the end of the trial.
+
+---
+
+[referencia=a38ffa89f273703c score=0.132]
+##### How were service provision and productivity affected? 
+
+In interviews prior to the Icelandic Government trial, workers said they believed they could maintain a similar level of service provision by being more focused on their work processes, shortening meetings, and removing longer coffee breaks. Some workers were concerned that they would need to work faster, but others looked forward to shorter Fridays and felt that this was the “carrot” that kept them going (Government of Iceland, June 2019, pp. 13–15). One worker said that “[i]t would be a disadvantage to go back to the longer hours” (p. 15). 
+
+There is a vast repository of data on how service provision was affected by the Icelandic shorter working week trials, covering a wide range of indicators, from the processing of immigration applications, to active cases in a police department or customer satisfaction terminals in the lobby of the Directorate of Internal Revenue. Appendix II offers a comprehensive overview, probing the detailed changes across the broad set of workplaces and industries in which shorter working hours took hold. 
+
+**The overarching picture that emerges, however, is that the Icelandic trials strongly challenge the idea that a reduction in working hours will lower service provision** . On the contrary, they show that productivity can, in many instances, be increased through working time reduction; this is evidenced by the similar levels of service provision that were maintained in participating workplaces even though fewer hours of work were required to deliver them. On the whole, indicators of service provision and productivity either stayed within expected levels of variation, or rose during the period of the trial. 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+40 
+
+Did improvements in workers wellbeing and work-life balance take place? 
+
+The trials also aimed to find out whether shorter 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.117]
+The UK’s four-day week pilot 
+
+Autonomy 
+
+6 
+
+- **»** The report results draw on administrative data from companies, survey data from employees, alongside a range of interviews conducted over the pilot period, providing measurement points at the beginning, middle and end of the trial. 
+
+- **»** The trial was a resounding success. Of the 61 companies that participated, 56 are continuing with the fourday week (92%), with 18 confirming the policy is a permanent change. 
+
+- **»** Some of the most extensive benefits of shorter working hours were found in employees’ well-being. ‘Before and after’ data shows that 39% of employees were less stressed, and 71% had reduced levels of burnout at the end of the trial. Likewise, levels of anxiety, fatigue and sleep issues decreased, while mental and physical health both improved. 
+
+- **»** Measures of work-life balance also improved across the trial period. Employees also found it easier to balance their work with both family and social commitments – for 54%, it was easier to balance work with household jobs – and employees were also more satisfied with their household finances, relationships and how their time was being managed. 
+
+- **»** 60% of employees found an increased ability to combine paid work with care responsibilities, and 62% reported it easier to combine work with social life. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+7 
+
+- **»** However, other key business metrics also showed signs of positive effects from shorter working hours. Companies’ revenue, for instance, stayed broadly the same over the trial period, rising by 1.4% on average, weighted by company size, across respondent organisations. When compared to a similar period from previous years, organisations reported revenue increases of 35% on average - which indicates healthy growth during this period of working time reduction. 
+
+- **»** The number of staff leaving participating companies decreased significantly, dropping by 57% over the trial period. 
+
+- **»** For many, the positive effects of a four-day week were worth more than their weight in money. 15% of employees said that no amount of money would induce them to accept a five-day schedule over the four-day week to which they were now accustomed. 
+
+Autonomy 
+
+8 
+
+The UK’s four-day week pilot
+
+---
+
+[referencia=a38ffa89f273703c score=0.114]
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+40 
+
+Did improvements in workers wellbeing and work-life balance take place? 
+
+The trials also aimed to find out whether shorter 
+
+
+
+<!-- Start of picture text -->
+working hours could lead to a healthier workforce,<br>especially in the context of Iceland’s poor work-life<br>balance. Data were therefore collected during both<br>trials on quality of life and wellbeing at work, as well as<br>on symptoms of stress and burnout.<br>Wellbeing<br>Workers at Icelandic Government workplaces<br>that saw reductions in working time experienced<br>improvements in wellbeing at work . 3  Meanwhile,<br>control workplaces working a full working week showed<br>no such improvements (Government of Iceland, April<br>2019, pp. 25–30).<br>In the Reykjavík City Council trial, wellbeing at work<br>was analysed during the final phase of the trial. There<br>was increased wellbeing in workplaces such as offices,<br><!-- End of picture text -->
+
+schools and outdoor jobs. Other workplaces showed no increase but did not noticeably decrease (Reykjavík City, June 2019, pp. 14–15). Workers said that they felt 
+
+more positive and happier at work (Kjartansdóttir, Kjartansdóttir & Magnúsdóttir, 2018, pp. 57–58; Jóhannesson & Víkingsdóttir, June 2018, pp. 20–21). 
+
+“This [reduction in hours] shows increased respect for the individual. That we are not just machines that just work … all day. Then sleep and get back to work. [But that] we are persons with desires and private lives, families and hobbies.” (quoted Jóhannesson & Víkingsdóttir, June 2018, pp. 20–21). 
+
+3 Quantitative data. Statistically significant difference using a t-test (p < 0,05). Questions centered on how satisfied workers were in their work, motivation from others, feeling well at work, etc. 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+41
+
+---
+
+[referencia=51ae2b54e60da70b score=0.100]
+37. Sharif, M. A., Mogilner, C. & Hershfield, H. E. Having too little or too much time is linked to lower subjective well-being. *J. Pers. Soc. Psychol.***121** , 933–947 (2021).
+38. Fox, K. E. et al. Organisational- and group-level workplace interventions and their effect on multiple domains of worker well-being: a systematic review. *Work Stress***36** , 30–59 (2022).
+39. Kelly, E. et al. Getting there from here: research on the effects of work-family initiatives on work-family conflict and business outcomes. *Acad. Manag. Ann.***2** , 305–349 (2008).
+40. Kelly, E. L. et al. Changing work and work–family conflict: evidence from the work, family, and health network. *Am. Sociol. Rev.***79** , 485–516 (2014).
+41. Moen, P. et al. Does a flexibility/support organizational initiative improve high-tech employees’ well-being? Evidence from the work, family, and health network. *Am. Sociol. Rev.***81** , 134–164 (2016).
+42. Barck-Holst, P., Nilsonne, Å., Åkerstedt, T. & Hellgren, C. Reduced working hours and stress in the Swedish social services: a longitudinal study. *Int. Soc. Work***60** , 897–913 (2017).
+43. Haraldsson, G. D. & Kellam, J. *Going Public; Icelands Journey to a Shorter Working Week* (Autonomy, 2021); https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf
+44. Kamerāde, D., Wang, S., Burchell, B., Balderson, S. U. & Coutts, A. A shorter working week for everyone: how much paid work is needed for mental health and well-being? *Soc. Sci. Med.***241** , 112353 (2019).
+45. Moen, P. & Chu, Y. Time work in the office and shop: workers’ strategic adaptations to the 4-day week. *Work Occup.***51** , 607–633 (2024).
+
+---
+
+[referencia=a38ffa89f273703c score=0.089]
+### **Contents** 
+
+#### **Executive summary** 
+
+#### **Introduction** 
+
+The Icelandic context 
+
+#### **Bakground to the trials** 
+
+The existing evidence 
+
+#### **Developing the trials** 
+
+The Reykjavík City trial (2014–2019) 
+
+The Icelandic Government trial (2017–2021) 
+
+Timeline of trials and new contracts 
+
+Analysing the trials 
+
+#### **Results and impact** 
+
+How effectively was working time reduced? 
+
+How were service provision and productivity affected? 
+
+Did improvements in workers’ wellbeing and work-life balance take place? 
+
+Work-life balance 
+
+Easier to do errands 
+
+Participation in home duties 
+
+More time for oneself 
+
+Less stress at home 
+
+Positive effects on single parents 
+
+More exercise 
+
+Wider social wellbeing 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+5 
+
+Leading by example? The experience of management 
+
+#### **Conclusions from the trials** 
+
+#### **After the trials: continuing the path to shorter working hours** 
+
+In the public sector 
+
+In the private sector 
+
+#### **Appendix I: Participating workplaces** 
+
+#### **Appendix II: Maintaining service provision** 
+
+Quantitative data 
+
+Reykjavík Child Protection Services (Reykjavík trial) 
+
+Service Centers (Reykjavík trial) 
+
+Department of Accountancy (Reykjavík trial) 
+
+Police Westfjords (Icelandic Government trial) 
+
+The Icelandic Directorate of Immigration (Icelandic Government trial) 
+
+Qualitative data: information gathered using interviews 
+
+#### **Appendix III: Strategies for working time reduction** 
+
+#### **Appendix IV: Challenges** 
+
+#### **References** 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+6
+
+---
+
+[referencia=51ae2b54e60da70b score=0.077]
+28. Hulshof, C. T. et al. The effect of occupational exposure to ergonomic risk factors on osteoarthritis of hip or knee and selected other musculoskeletal diseases: a systematic review and meta-analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury. *Environ. Int.***150** , 106349 (2021).
+29. Kleiner, S., Schunck, R. & Schömann, K. Different contexts, different effects? Work time and mental health in the United States and Germany. *J. Health Soc. Behav.***56** , 98–113 (2015).
+30. Watanabe, K., Imamura, K. & Kawakami, N. Working hours and the onset of depressive disorder: a systematic review and meta-analysis. *Occup. Environ. Med.***73** , 877–884 (2016).
+31. Virtanen, M. et al. Long working hours and depressive symptoms: systematic review and meta-analysis of published studies and unpublished individual participant data. *Scand. J. Work Environ. Health***44** , 239–250 (2018).
+32. Fan, W. et al. Constrained choices? Linking employees’ and spouses’ work time to health behaviors. *Soc. Sci. Med.***126** , 99–109 (2015).
+33. Nomaguchi, K. M. & Bianchi, S. M. Exercise time: gender differences in the effects of marriage, parenthood, and employment. *J. Marriage Fam.***66** , 413–430 (2004).
+34. Berniell, I. & Bietenbeck, J. The effect of working hours on health. *Econ. Hum. Biol.***39** , 100901 (2020).
+35. Lepinteur, A. The shorter workweek and worker wellbeing: evidence from Portugal and France. *Labour Econ.***58** , 204–220 (2019).
+36. Hamermesh, D. S., Kawaguchi, D. & Lee, J. Does labor legislation benefit workers? Well-being after an hours reduction. *J. Jpn Int. Econ.***44** , 1–12 (2017).
+
+---
+
+[referencia=a38ffa89f273703c score=0.077]
+### **Conclusions from the trials** 
+
+“[A shorter working week] is the future… there is no going back...” _—_ **_Anonymous participant_** _._<sup>_8_</sup> 
+
+The Icelandic trials were a major success. Based on the analysis of a wide range of data, we can see that workers experienced significant increases in wellbeing and work-life balance — all while existing levels of service provision and productivity were at the very least maintained, and in some instances improved. Fears of overwork turned out to be ungrounded, as care was taken with the design of the trials. 
+
+The trials have shown that shortening working hours can have a powerful positive effect on work-life balance. Given Iceland’s shortcomings in this area, as detailed in the initial section of this report, the positive changes identified by participants ought to place shorter working hours as a prime strategy for other governments looking to address work-life balance and wellbeing deficiency in their economies. These beneficial effects included: 
+
+- Less stress at home, in light of greater time to spend with partners or on domestic activities. 
+
+- Greater time spent with wider family and friends. 
+
+- Increased time for oneself, whether on hobbies, passions, other interests, or simply for rest. 
+
+- Greater time for chores and domestic activities during the working week freeing up time on weekends, increasing their quality. 
+
+- Men in heterosexual partnerships took on greater domestic responsibilities, sharing out the division of labour more equitably. 
+
+8 Helgadóttir, Sigmundsdóttir & Sölvason (2018), p. 30. 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+51 
+
+- Positive effects on single parents, a demographic that is often acutely ‘time poor’. 
+
+- Beneficial impacts upon even those who were not directly working less, such as extended family and friends, who now had greater contact with trial participants. 
+
+These effects were profound, and the trials were unsurprisingly popular among both staff and managers, as seen in the qualitative data compiled in the preceding section. Shorter working hours, certainly by the end of the trials, were greatly desired by many.
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.071]
+##### ~~FAMILY AND HOUSEHOLD LIFE~~ 
+
+Positive changes also occurred at the intersection of paid work and family/ other parts of life. When asked about the ease of combining paid work with care responsibilities, the average score increased from 2.76 to 3.58 on a 1 (‘very difficult’) to 5 (‘very easy’) scale. 60% of employees reported that balancing care responsibilities had become easier. 
+
+Similarly, the experience of balancing employment with social life benefited, with an average reported increase from 2.9 to 3.78 (again with 1 as ‘very difficult’, and 5 as ‘very easy’). In correspondence with these findings, conflicts between work and family time decreased: over the course of the trial 54% of employees found they were less likely to feel too tired to do household jobs following the trial (compared to 10% who felt they were more likely). 
+
+Reported increase 10% Reported no change 36% 54% 
+
+Reported decrease 
+
+_Figure 13: Change to participating employees’ experience of ‘work-family conflict’ between baseline and endpoint surveys. Employees were asked to report how often they were ‘too tired from work to do household jobs’ on a 3 point scale (‘never’ to ‘several times a week’)._ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+40 
+
+More specifically, we can observe a general decline in the feeling of time inadequacy when it comes to a number of activities outside of paid work. Employees generally seemed more satisfied in this regard. 
+
+
+
+<!-- Start of picture text -->
+Baseline<br>Endpoint 87%<br>Change<br>80<br>61%<br>59%<br>60<br>54%<br>52%<br>45%<br>40<br>32%<br>30%<br>26%<br>23%<br>20 15%<br>12%<br>0<br>-9%<br>-20 -14% -15%<br>-21%<br>-27%<br>-33%<br>Caring for/educating Housework Cooking Caring for elderly Volunteering Own hobbies<br>(grand-)children disabled infirm<br>% of employees<br><!-- End of picture text -->
+
+---
+
+[referencia=a38ffa89f273703c score=0.071]
+### **Executive summary** 
+
+- In 2015 and 2017, in response to campaigning by trade unions and civil society organisations, two major trials of a shorter working week were initiated by Reykjavík City Council and the Icelandic national government. 
+
+- These eventually involved over 2,500 workers — more than 1% of Iceland’s entire working population — many of which moved from a 40-hour to a 35- or 36-hour working week. 
+
+- These trials not only aimed to improve work-life balance, but also to maintain or increase productivity. Reductions in working time were not accompanied by reductions in pay. 
+
+- The trials evolved to include nine-to-five workers alongside those on non-standard shift patterns, and took place in a wide range of workplaces, from offices to playschools, social service providers and hospitals. 
+
+- The scale of the trials, combined with the diversity of workplaces involved and the wealth of available quantitative and qualitative data provides groundbreaking evidence for the efficacy of working time reduction. 
+
+- Results summarised in this report, based on both qualitative and quantitative data, demonstrate the transformative positive effects of a shorter working week for both employees and businesses alike. 
+
+- Productivity and service provision remained the same or improved across the majority of trial workplaces. 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+7 
+
+- Worker wellbeing increased across a range of indicators, from perceived stress and burnout, to health and work-life balance. 
+
+- Following the trials’ success, Icelandic trade unions and their confederations achieved permanent reductions in working hours for tens of thousands of their members across the country. In total, roughly 86% of Iceland’s entire working population has now either moved to working shorter hours or have gained the right to shorten their working hours. 
+
+- These reductions were won in contracts negotiated between 2019 and 2021, and have already come into effect for most workers. Some of these contracts give shorter hours to all union members, while other contracts stipulate that staff and their individual workplaces can negotiate shorter hours. 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+8
+
+---
+
+[referencia=a38ffa89f273703c score=0.070]
+_Figure 1: Per hour productivity and average yearly hours across different countries. There is a strong correlation between shorter working hours and increased productivity amongst wealthy nations. Source: OECD (December 2017c, 2017d)._ 
+
+Likewise, a range of studies performed in workplaces show that where working time has been reduced and working patterns reorganised, productivity has concurrently increased. In their research into working time reduction in the last few decades of the 20th century, for instance, Bosch and Lehndorff (2001) note how a number of workplaces have indicated that successful reductions in working hours have been closely tied to changes in the organisation of work — whether through workers gaining greater autonomy over work processes, or changes in operating times and shift patterns. Such reorganisations have clearly had a positive impact on productivity. 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+17 
+
+The evidence correlating reductions in working time — or simply increases in time spent away from work — with improvements in wellbeing and work-life balance is also strong (see Autonomy, 2019). To offer just a sample of the available evidence, a comparative study of Swedish childcare and health workers investigated the effects of a reduction to a six-hour day, or 30-hour working week (reduced down from 39 hours) on their health and wellbeing, by comparing an experimental group to a control group that remained on the same hours (Åkerstedt et al., 2001). They found that such a reduction “greatly improves time for family/friends and social activities and results in a moderate improvement of fatigue, sleep and heart/respiratory complaints” (ibid., p. 201). 
+
+Likewise, in a range of studies, Sabine Sonnentag and colleagues have also looked at clerical workers, paramedics, schoolteachers, civil servants, and the selfemployed — as well as further job categories — to assess the significance of the quantity and quality of non-work time (Sonnentag, 2003; Fritz and Sonnentag 2005; Sonnentag et al., 2008; Sonnentag et al., 2014). Her findings have shown that if workers are able to escape mentally from their work (to ‘psychologically detach’), more readily facilitated by a reduced working week, they are often more productive, engaged on the job and convivial with their colleagues.
+
+---
+
+[referencia=a38ffa89f273703c score=0.070]
+##### The Reykjavík City trial (2014–2019) 
+
+Campaigning by BSRB and grassroot organisations helped to convince Reykjavík City Council members that changes to working time were desperately needed. In 2014, the body therefore committed to a shorter working week trial in a selection of its workplaces, with _all_ Council members supporting the trial (Reykjavík City Council, May 25th, 2014). The project then commenced shortly after. 
+
+The trial had two main aims: 
+
+1. To see if working time reduction could address **poor work-life balance** , given the centrality of this concern to the pre-existing public campaign (BSRB, n.d.). 
+
+2. To understand if shorter working hours could **increase productivity** , and see how this might be achieved in practice. This was particularly important, since the aim was to reduce hours while _maintaining_ workers’ existing salaries. As such, the workplaces needed to maintain service provision equivalent to that prior to initiation of the trial (Reykjavík City, 2016; June 2019). 
+
+Two committees were set up to manage the scheme, develop measurements to assess its success, and create strategies to shorten working hours (Reykjavík City, 2016). Working time reductions were developed in cooperation with individual workplaces to be bespoke to specific duties and modes of operation, although in some cases pre-defined strategies were applied. In many workplaces, discussions were held on time-management and efficiency (Gísladóttir, 2018), and Appendix III 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+20 
+
+offers more specific detail on how performance was maintained. It was also made explicit that reductions in working time would have no impact on salaries, which remained the same for every staff member. 
+
+Initially, two workplaces were selected. The first was a service-centre for Eastern parts of Reykjavík City, Árbær and Grafarholt, while the second was the Reykjavík Child Protection Service. Both were chosen on account of the high levels of stress present in each workplace, which shorter working hours aimed to reduce. An additional workplace was also selected as a control group for comparison. This was also an office location, albeit one that administered different duties.
+
+---
+
+[referencia=a38ffa89f273703c score=0.038]
+##### The existing evidence 
+
+Owing to the trends noted above, Icelandic trade unions, civil society organisations and workers alike have in recent years increasingly argued that the country’s combination of low productivity levels and high incomes — despite Iceland’s otherwise advanced economy — should be attributed to the effects of excessively long working hours. Worn down by long hours spent at work, the Icelandic workforce is often fatigued, which takes a toll on its productivity. In a vicious circle, this lower productivity ends up necessitating longer working days to ‘make up’ the lost output, lowering ‘per-hour productivity’ even further. 
+
+The idea that a reduction in working hours would be an effective remedy for both Iceland’s low productivity, as well as its poor work-life balance and wellbeing, is borne out by an array of available economic evidence. 
+
+On the one hand, there is a strong correlation between shorter working hours and increased productivity amongst wealthy nations. Although this relation is mediated by various factors — such as levels of general technological and industrial development, investment, equality, available part-time work, and so on — Figure 1 shows how the link between those two factors remains strong: countries with greater productivity per hour usually have fewer hours of work. Furthermore, not only does greater productivity usually correlate with shorter work hours, but as productivity _increases_ , working hours tend to _go down over time_ . 
+
+Autonomy 
+
+Going Public: Iceland’s journey to a shorter working week 
+
+16 
+
+
+
+<!-- Start of picture text -->
+2000<br>2005<br>2015<br>Iceland<br>1900<br>1800<br>1700<br>Finland<br>United Kingdom<br>Sweden<br>1600<br>France<br>1500<br>Norway<br>Denmark<br>1400<br>Germany<br>40 50 60 70 80<br>Productivity per hour worked (PPP, USD)<br>Average yearly working hours per worker<br><!-- End of picture text -->
+
+_Figure 1: Per hour productivity and average yearly hours across different countries. There is a strong correlation between shorter working hours and increased productivity amongst wealthy nations. Source: OECD (December 2017c, 2017d)._
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.036]
+##### ~~HEALTH & WELL-BEING~~ 
+
+In view of the strong positive changes in employees’ work situations, it is not surprising that health and well-being outcomes also show noticeable improvements after the six month trial. Some well-being outcomes are specifically related to work. Of course, as with the other findings in this report, participants are subject to a great many personal life events outside of work, as well as contingencies in work that are separable from working time. To this end, we should be attentive, first and foremost, to broad tendencies. 
+
+###### STRESS, BURNOUT & JOB SATISFACTION 
+
+We found that work stress decreased over the trial period. On a 1-5 scale from ‘never’ to ‘all the time’, the frequency of reported work stress declined on average from 3.07 before to 2.74 after the trial. While nearly 13% of employees did experience an increase in stress, three times as many (39%) were less stressed, with the remainder (48%) recording no change in stress levels. 
+
+Burnout also declined on average from a score of 2.8 to 2.34 (captured through a score amalgamated from 7 associated criteria ranked on a 1 to 5 frequency scale, capturing experiences of tiredness, exhaustion, frustration, and more). A significant 71% of employees reported lower levels of burnout, compared to only 22% who registered a higher burnout score. 
+
+Corresponding to the decreases in work stress and burnout, employees are more satisfied with their job, registering a significant average increase from 7.12 to 7.69 on a 0 to 10 scale, and with 48% of employees more satisfied than when they started. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+37 
+
+
+
+<!-- Start of picture text -->
+Reported increase<br>22%<br>Reported no change 7%<br>71%<br>Reported decrease<br><!-- End of picture text -->
+
+_Figure 11: Change in participating employees’ reported levels of ‘burnout’ between baseline and endpoint surveys. Employees were asked, using a 5 point frequency scale (‘never’ to ‘always’), to grade how often they had experienced different markers of burnout (‘exhaustion’, ‘frustration’, etc.) in the preceding 4 weeks, from which a combined score was calculated._
+
+---
+
+[referencia=51ae2b54e60da70b score=0.035]
+45. Moen, P. & Chu, Y. Time work in the office and shop: workers’ strategic adaptations to the 4-day week. *Work Occup.***51** , 607–633 (2024).
+46. Persson, O., Larsson, J. & Nässén, J. Working less by choice: what are the benefits and hardships?. *Sustain. Sci. Pract. Policy***18** , 81–96 (2022).
+47. Schiller, H. et al. The impact of reduced worktime on sleep and perceived stress—a group randomized intervention study using diary data. *Scand. J. Work Environ. Health***43** , 109–116 (2017).
+48. Schiller, H. et al. Total workload and recovery in relation to worktime reduction: a randomised controlled intervention study with time-use data. *Occup. Environ. Med.***75** , 218–226 (2018).
+49. Mullens, F. & Laurijssen, I. An organizational working time reduction and its impact on three domains of mental well-being of employees: a panel study. *BMC Public Health***24** , 1727–1740 (2024).
+50. Voglino, G. et al. How the reduction of working hours could influence health outcomes: a systematic review of published studies. *BMJ Open***12** , e051131 (2022).
+51. Cho, S.-S., Ju, Y., Paek, D., Kim, H. & Jung-Choi, K. The combined effect of long working hours and low job control on self-rated health. *J. Occup. Environ. Med.***60** , 475–480 (2017).
+52. Kato, R., Haruyama, Y., Endo, M., Tsutsumi, A. & Muto, T. Heavy overtime work and depressive disorder among male workers. *Occup. Med.***64** , 622–628 (2014).**8** .
+53. Kristensen, T. S., Borritz, M., Villadsen, E. & Christensen, K. B. The Copenhagen Burnout Inventory: a new tool for the assessment of burnout. *Work Stress***19** , 192–207 (2005).

@@ -1,0 +1,1392 @@
+[
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-0",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 0,
+    "text": "Generative AI is changing entertainment less by producing fully autonomous films or songs than by inserting machine-learning systems into existing production pipelines for writing, visual effects, performance capture, dubbing, voice synthesis, localization, advertising, games, and post-production.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-1",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 1,
+    "text": "The most legally sensitive applications are “digital replicas”: realistic synthetic or manipulated representations of an identifiable person’s voice or appearance, whether authorized or unauthorized.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-2",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 2,
+    "text": "In the United States, the Copyright Office deliberately uses a technologically neutral definition because a replica can be produced by generative AI, conventional computer graphics, compositing, voice conversion, or combinations of those techniques.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-3",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 3,
+    "text": "For screen production, machine learning can now alter an actor’s apparent age, replace or transform facial performances, generate synthetic faces, and retarget captured performances while preserving much of the original acting.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "141fa255b5f5db2d"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-4",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 4,
+    "text": "Disney Research’s Face Re-Aging Network, for example, was designed as an automated system for re-aging faces in video while preserving identity across changes in expression, viewpoint, and lighting and allowing artists localized control over the result.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "141fa255b5f5db2d"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-5",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 5,
+    "text": "Such tools illustrate an important distinction: generative or neural techniques can operate as artist-controlled visual-effects instruments rather than substitutes for actors.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "141fa255b5f5db2d"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-6",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 6,
+    "text": "The practical and legal question therefore is often not whether AI was used, but what human performance was captured, what the system changed, and whether the resulting use remained within the performer’s authorization.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-7",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 7,
+    "text": "Synthetic speech has advanced even faster because modern systems can represent speech through learned acoustic or codec tokens and condition generation on a short reference sample.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "b3be602ae28ce7ec"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-8",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 8,
+    "text": "Microsoft’s VALL-E research demonstrated personalized text-to-speech generation from a three-second sample while preserving characteristics such as speaker identity, emotion, and acoustic environment.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "b3be602ae28ce7ec"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-9",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 9,
+    "text": "Its researchers explicitly identified entertainment, translation, and other applications while warning that systems capable of reproducing a person’s voice should include speaker-approval and synthetic-speech-detection safeguards.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "b3be602ae28ce7ec"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-10",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 10,
+    "text": "Cross-lingual speech synthesis can also preserve aspects of a speaker’s voice while producing another language, making the technology particularly attractive for dubbing and localization.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "b3be602ae28ce7ec"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-11",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 11,
+    "text": "Google research likewise describes machine-learning approaches to dubbing that preserve voice characteristics and improve audiovisual synchronization, including systems that use visual information to align generated speech with visible mouth movement.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "7bf9bf765e30299b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-12",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 12,
+    "text": "These technologies create a continuum rather than a binary distinction between “real” and “synthetic” performance.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-13",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 13,
+    "text": "A production may use AI merely to clean or retime audio, to correct a few phonemes in an actor’s recorded dialogue, to make an older actor sound younger, to generate wholly new lines in that actor’s recognizable voice, or to create a completely synthetic performer who resembles no real individual.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-14",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 14,
+    "text": "The legal and labor consequences can differ dramatically across those scenarios because copyright, contract, collective bargaining, and publicity law protect different interests.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-15",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 15,
+    "text": "James Earl Jones approved Lucasfilm’s use of archival recordings and Respeecher technology to continue the younger-sounding Darth Vader voice after he stepped back from regularly performing the character.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "0ea8278bfffbfe74"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-16",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 16,
+    "text": "That arrangement became an important example of a consensual, negotiated synthetic performance rather than an unauthorized clone.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "0ea8278bfffbfe74"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-17",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 17,
+    "text": "Yet when an AI-generated Darth Vader voice appeared in *Fortnite* in 2025, SAG-AFTRA filed an unfair-labor-practice charge against Llama Productions, alleging that the employer had failed to provide notice and bargain with the union over replacing bargaining-unit voice work with AI.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "0ad3175ab92621b5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-18",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 18,
+    "text": "The union’s objection therefore concerned collective-bargaining obligations even though the James Earl Jones estate had separately authorized use of his voice for the character.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "0ad3175ab92621b5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-19",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 19,
+    "text": "Another boundary case was *The Brutalist*, whose filmmakers said Respeecher was used in post-production on Hungarian-language dialogue to refine particular vowels and sounds spoken by Adrien Brody and Felicity Jones.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "6fc4e82a3daa6747"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-20",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 20,
+    "text": "Director Brady Corbet maintained that the performances remained the actors’ own and that the technology was used for limited dialogue editing rather than to generate their performances wholesale.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "6fc4e82a3daa6747"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-21",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 21,
+    "text": "The controversy nevertheless demonstrated that audience expectations increasingly extend beyond legal consent to disclosure and perceived authenticity: even subtle synthetic modification can matter when a performance is being culturally or professionally evaluated.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "6fc4e82a3daa6747"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-22",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 22,
+    "text": "The most consequential governance developments in entertainment have come from collective bargaining because union contracts can impose consent and compensation rules more specific than general intellectual-property law.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-23",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 23,
+    "text": "SAG-AFTRA’s 2023 television and theatrical agreement requires informed consent for creation and use of covered digital replicas and distinguishes employment-based replicas, independently created replicas, background-actor replicas, and wholly synthetic performers.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-24",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 24,
+    "text": "Performers asked to participate in creating a replica, such as by undergoing a scan, must receive advance notice, and the time spent creating the replica is treated as work time.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-25",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 25,
+    "text": "Consent must be clear and conspicuous rather than buried in standard boilerplate, and new or materially different uses generally trigger further consent and compensation obligations.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-26",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 26,
+    "text": "For principal performers and background actors, the 2023 framework also addresses attempts to use replicas as substitutes for future employment.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-27",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 27,
+    "text": "SAG-AFTRA states that producers may not use background digital replicas to evade hiring requirements and that qualifying replica uses can generate compensation and residuals comparable to work the performer would otherwise have performed.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-28",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 28,
+    "text": "The contractual structure is significant because ownership of recorded production materials does not necessarily equal an unrestricted right to generate new performances from them.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-29",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 29,
+    "text": "In other words, a studio may possess footage, scans, or recordings while still being contractually required to obtain new authorization before using those materials to create new expressive conduct by the performer.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-30",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 30,
+    "text": "The video-game sector reached a parallel accommodation after a lengthy SAG-AFTRA strike.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "aca12210a3d2f331"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-31",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 31,
+    "text": "Members ratified the 2025 Interactive Media Agreement by 95.04 percent to 4.96 percent, ending the strike and establishing consent and disclosure obligations for various digital-replica uses.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "aca12210a3d2f331"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-32",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 32,
+    "text": "The agreement also gives performers a mechanism to suspend consent for generation of new material during a strike, reducing the risk that a previously captured voice or likeness can function as a strikebreaking substitute.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "aca12210a3d2f331"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-33",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 33,
+    "text": "Writers obtained a different but related set of protections because their central concern is authorship and credit rather than likeness.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "2060c69319aa812c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-34",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 34,
+    "text": "Under the Writers Guild of America’s 2023 Minimum Basic Agreement, generative AI is not a “writer,” AI-generated material is not treated as literary material for credit and compensation purposes, companies cannot require writers to use AI, and companies must disclose when materials supplied to a writer contain AI-generated material.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "2060c69319aa812c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-35",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 35,
+    "text": "The 2026 MBA preserved those protections and added a requirement that companies notify the Guild when they license covered writers’ works to a commercial generative-AI system for training, allowing the Guild to seek discussion over the license and possible remuneration.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "2060c69319aa812c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-36",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 36,
+    "text": "These agreements establish a practical principle that broader law still applies inconsistently: permission should be specific to the model of exploitation, not treated as perpetual permission to do anything technically possible with captured data.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-37",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 37,
+    "text": "A robust consent process therefore needs to distinguish creation of a replica from later uses of that replica, identify media and projects, address whether new dialogue or performances may be generated, specify compensation, establish duration and termination rights, and cover posthumous use.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-38",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 38,
+    "text": "Collective bargaining has effectively turned “informed consent” from a vague ethical concept into a production-management requirement.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-39",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 39,
+    "text": "Copyright addresses a different question from performer identity: it protects original expression fixed in a work, not a human being’s persona as such.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "87b8ff41c875d639"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-40",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 40,
+    "text": "As of November 2026, the U.S. Copyright Office’s position is that existing copyright doctrine can accommodate AI-assisted creativity without creating a new copyright for purely machine-generated material.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "87b8ff41c875d639"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-41",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 41,
+    "text": "Human-authored expression remains copyrightable even when incorporated into a work containing AI-generated material, and creative human selection, arrangement, coordination, or modification can itself support protection.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "87b8ff41c875d639"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-42",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 42,
+    "text": "Purely AI-generated material, or material whose expressive elements were not sufficiently controlled by a human, is not protectable, and prompts alone generally do not provide enough control under current technology to constitute authorship.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "87b8ff41c875d639"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-43",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 43,
+    "text": "The federal courts have reinforced the human-authorship rule.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "ab52c2427b53aaca"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-44",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 44,
+    "text": "In *Thaler v. Perlmutter*, the D.C. Circuit held in March 2025 that the Copyright Act’s concept of authorship requires a human author and affirmed refusal to register a work that the applicant represented as generated autonomously by a machine.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "ab52c2427b53aaca"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-45",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 45,
+    "text": "The court did not decide every possible question about human use of AI because the applicant’s alternative theory that he personally authored the work through his operation of the system was procedurally waived.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "ab52c2427b53aaca"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-46",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 46,
+    "text": "Consequently, the settled proposition is narrower than “AI-assisted works cannot be copyrighted”: works can qualify where protectable expression is attributable to human creative control.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "87b8ff41c875d639"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-47",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 47,
+    "text": "Training is substantially less settled.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-48",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 48,
+    "text": "Generative models are developed using large collections of data that can include copyrighted works, and training ordinarily requires acts of copying at various stages of data acquisition, preprocessing, and model development.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-49",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 49,
+    "text": "The central U.S. question is therefore often whether those copies are authorized or qualify as fair use under Section 107 of the Copyright Act.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-50",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 50,
+    "text": "The Copyright Office’s 2025 Part 3 report concluded that fair use must be evaluated contextually and rejected categorical claims that all generative-AI training is either automatically lawful or automatically infringing.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-51",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 51,
+    "text": "It emphasized market substitution, market dilution, the emergence of training-license markets, the source and lawfulness of training copies, and the nature of model outputs as relevant considerations.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-52",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 52,
+    "text": "Two 2025 district-court rulings illustrate why the legal landscape cannot accurately be reduced to a single rule.",
+    "cited_markers": [
+      "[16]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "c1c002c763064e0c",
+      "68be3e5add7cb005"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-53",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 53,
+    "text": "In *Bartz v. Anthropic*, Judge William Alsup held that Anthropic’s use of lawfully acquired books to train language models was fair use on the record before him, while holding separately that creating and retaining a library assembled from pirated copies raised distinct infringement issues not excused merely because some books were later used for training.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "c1c002c763064e0c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-54",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 54,
+    "text": "That case did not proceed to a definitive appellate ruling on the training question because the parties ultimately settled the class claims, and the court granted final approval of the settlement on July 20, 2026.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "8b8315487e8dbdae"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-55",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 55,
+    "text": "The action was dismissed with prejudice pursuant to the settlement, so the 2025 district-court fair-use reasoning is influential but not a binding nationwide appellate rule governing all AI training.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "8b8315487e8dbdae"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-56",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 56,
+    "text": "In *Kadrey v. Meta*, Judge Vince Chhabria granted Meta summary judgment on the authors’ presented fair-use theory in June 2025 but stressed that generative-AI training may frequently present serious market-substitution problems and that the plaintiffs had not developed the evidentiary record needed to prevail on that theory in that case.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "68be3e5add7cb005"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-57",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 57,
+    "text": "The litigation remained active in 2026, with class discovery and related proceedings continuing as of late October.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "f1dd1d33f1abd0d1"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-58",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 58,
+    "text": "*Andersen v. Stability AI*, involving visual artists’ allegations concerning image-model training and generated outputs, likewise remained active in discovery in 2026 rather than producing a final merits judgment resolving the broader legality of image-model training.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "fd81087a0e575273"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-59",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 59,
+    "text": "These cases should therefore be described as developing precedents, not as a settled rule that unlicensed training is lawful.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-60",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 60,
+    "text": "For entertainment companies, the practical consequence is that provenance of training data has become a business-risk issue as much as a doctrinal one.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-61",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 61,
+    "text": "The Copyright Office notes that voluntary licensing arrangements have emerged and may be workable in sectors where valuable content can be licensed at meaningful scale, while also recognizing that licensing may be difficult for some kinds of data and developers.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-62",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 62,
+    "text": "A studio, label, game publisher, or production vendor using a generative model therefore needs to know not only what the model can produce but what rights were obtained for the material used to train or customize it.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-63",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 63,
+    "text": "Copyright does not by itself give a performer exclusive ownership of the abstract sound of their voice or the fact of their appearance.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "71d64041f82aa847"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-64",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 64,
+    "text": "U.S. protection against unauthorized imitation has historically come from state rights of publicity, privacy law, false endorsement, contract, and related doctrines.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-65",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 65,
+    "text": "* and *Waits v. Frito-Lay* are foundational because they recognized claims based on deliberate imitation of distinctive celebrity voices even where defendants had not simply copied the plaintiffs’ own sound recordings.",
+    "cited_markers": [
+      "[21]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "71d64041f82aa847",
+      "cab6074f06d035fc"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-66",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 66,
+    "text": "Those decisions illustrate why a synthetic voice may create identity liability even when a copyright claim involving the underlying recording would fail.",
+    "cited_markers": [
+      "[21]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "71d64041f82aa847",
+      "cab6074f06d035fc"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-67",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 67,
+    "text": "The fragmented state-law system has become increasingly difficult to apply to replicas distributed nationally online.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-68",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 68,
+    "text": "In its 2024 digital-replica report, the Copyright Office concluded that existing federal and state remedies left significant gaps and recommended a new federal right covering realistic unauthorized replicas of both living and deceased individuals, while preserving meaningful First Amendment safeguards and avoiding complete preemption of stronger state protections.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-69",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 69,
+    "text": "The Office also recommended that individuals be able to license their digital-replica rights but not permanently assign them away, reflecting concern about contracts that could alienate control over a person’s identity indefinitely.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-70",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 70,
+    "text": "California and Tennessee have moved faster than Congress.",
+    "cited_markers": [
+      "[11]",
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "221360daf85211c5",
+      "7c547b5c757e9dae"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-71",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 71,
+    "text": "California enacted AB 2602 in 2024 to restrict enforcement of certain contractual provisions authorizing digital replicas in place of a performer’s services unless the intended use is adequately specified and the performer receives professional representation in the negotiation.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "221360daf85211c5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-72",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 72,
+    "text": "California also enacted AB 1836 to require consent from a deceased performer’s rights holder for specified commercial uses of digital replicas in audiovisual works, sound recordings, games, and related entertainment contexts.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "221360daf85211c5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-73",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 73,
+    "text": "Tennessee’s ELVIS Act, signed in March 2024, expanded the state’s existing personality-right framework to protect voice alongside name, image, and likeness and specifically addressed technologies capable of producing unauthorized vocal and visual impersonations.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "7c547b5c757e9dae"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-74",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 74,
+    "text": "At the federal level, Congress had still not enacted a comprehensive digital-replica statute by November 14, 2026.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "ce46489436b9038e"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-75",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 75,
+    "text": "The NO FAKES Act of 2026, S.4591, was introduced on May 20, reported favorably by the Senate Judiciary Committee in June, and placed on the Senate legislative calendar, but a September 30 attempt to pass it by unanimous consent was blocked.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "ce46489436b9038e"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-76",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 76,
+    "text": "The bill would create a federal intellectual-property right in an individual’s voice and visual likeness against certain unauthorized highly realistic digital replicas, coupled with platform procedures and speech-related limitations.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "ce46489436b9038e"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-77",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 77,
+    "text": "Because it remained pending rather than enacted, it should not be described as current federal law.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "ce46489436b9038e"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-78",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 78,
+    "text": "Congress did enact the TAKE IT DOWN Act in May 2025, but that statute addresses a narrower category: nonconsensual intimate visual depictions, including qualifying AI-generated digital forgeries.",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "61f86c55b5111b4a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-79",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 79,
+    "text": "It therefore provides important deepfake protections but is not a general entertainment-industry right over voice and likeness.",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "61f86c55b5111b4a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-80",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 80,
+    "text": "The Federal Trade Commission has separately emphasized that existing fraud and consumer-protection laws can apply to harmful AI impersonation and has explored technical countermeasures including authentication, detection, and provenance mechanisms for cloned voices.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "afa4f469ce101553"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-81",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 81,
+    "text": "The European Union has adopted a different regulatory approach focused heavily on transparency.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-82",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 82,
+    "text": "Article 50 of the EU AI Act has applied since August 2, 2026 and requires providers of generative systems to make covered synthetic outputs machine-readable and detectable as AI-generated or manipulated, subject to specified exceptions.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-83",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 83,
+    "text": "Deployers of systems generating or manipulating deepfakes must disclose their artificial nature, although artistic, fictional, satirical, and analogous works receive a more flexible disclosure rule designed not to interfere with enjoyment of the work.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-84",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 84,
+    "text": "The European Commission’s 2026 guidance explains that ordinary film effects and standard post-production may fall outside the core deepfake concern where audiences would not reasonably understand the result as an authentic depiction of reality.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-85",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 85,
+    "text": "For global entertainment distributors, this makes disclosure strategy a jurisdictional compliance issue rather than merely a voluntary ethical choice.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-86",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 86,
+    "text": "Generative production tools can reduce the marginal cost of localization, retakes, age alteration, background population, voice editing, and other technically demanding work.",
+    "cited_markers": [
+      "[4]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "141fa255b5f5db2d",
+      "b3be602ae28ce7ec",
+      "7bf9bf765e30299b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-87",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 87,
+    "text": "They can also preserve performances that would otherwise be unavailable, facilitate accessibility, and allow authorized performers to license digital versions of themselves for new media or languages.",
+    "cited_markers": [
+      "[5]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "b3be602ae28ce7ec",
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-88",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 88,
+    "text": "Those efficiencies create genuine economic value, particularly for productions that could not afford extensive conventional reshoots, dubbing, or visual effects.",
+    "cited_markers": [
+      "[4]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "141fa255b5f5db2d",
+      "7bf9bf765e30299b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-89",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 89,
+    "text": "The same economics, however, can shift bargaining power away from performers if a one-time scan or recording can generate large quantities of future work.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-90",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 90,
+    "text": "A synthetic performer has effectively zero fatigue and can be reproduced across versions, languages, advertisements, games, or sequels at a marginal cost far below repeated human performance, which is precisely why unions have focused on consent, reuse payments, and limits on substitution.",
+    "cited_markers": [
+      "[8]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a",
+      "aca12210a3d2f331"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-91",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 91,
+    "text": "The risk is not only complete replacement; even partial automation of pickups, dubbing, background performance, or voiceover can redistribute income away from entry-level and supporting roles that historically sustain careers between major engagements.",
+    "cited_markers": [
+      "[8]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a",
+      "aca12210a3d2f331"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-92",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 92,
+    "text": "There is also a reputational problem that property law captures imperfectly.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-93",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 93,
+    "text": "A convincing synthetic performance can make a person appear to endorse dialogue, conduct, products, political positions, or artistic choices that the person never approved.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-94",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 94,
+    "text": "The harm can therefore include lost income, audience deception, reputational damage, erosion of artistic identity, and loss of control over posthumous legacy.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-95",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 95,
+    "text": "The ethical concern becomes particularly acute after death because an estate may possess legal power to license a replica even though the performer can no longer evaluate the specific script or cultural context of a new performance.",
+    "cited_markers": [
+      "[1]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167",
+      "221360daf85211c5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-96",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 96,
+    "text": "Synthetic media also complicate audience trust.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-97",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 97,
+    "text": "Viewers may accept extensive digital effects in fantasy cinema while caring deeply whether an acclaimed dramatic performance, singer’s vocal take, documentary interview, or celebrity endorsement was authentically performed.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-98",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 98,
+    "text": "The emerging regulatory trend is therefore toward contextual transparency rather than a rule that every machine-assisted frame must carry an intrusive warning.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-99",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 99,
+    "text": "A workable governance model should separate four rights questions that are often mistakenly collapsed into “AI rights”: rights in training material, rights in generated outputs, rights in a performer’s identity, and contractual or labor rights governing the production relationship.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167",
+      "87b8ff41c875d639",
+      "a5ab084a52257129",
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-100",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 100,
+    "text": "A studio may have copyright permission to use an old recording yet lack permission to create new dialogue in the performer’s voice, while a performer may consent to a replica without resolving whether the AI vendor lawfully trained the underlying model.",
+    "cited_markers": [
+      "[1]",
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167",
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-101",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 101,
+    "text": "Treating those layers separately is the most reliable way to prevent false assumptions about clearance.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-102",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 102,
+    "text": "For performers, consent should be granular, time-limited where appropriate, project- and medium-specific, and explicit about whether the replica may generate new material rather than merely modify existing recorded performance.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-103",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 103,
+    "text": "Contracts should specify compensation, residuals or reuse payments, sublicensing, localization, advertising uses, posthumous treatment, security obligations for biometric assets, and procedures for revocation or renegotiation where applicable.",
+    "cited_markers": [
+      "[8]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6dcd292ca023401a",
+      "aca12210a3d2f331"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-104",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 104,
+    "text": "Organizations operating under union agreements must overlay those negotiated rules on any individual performer license because private consent does not automatically eliminate collective-bargaining obligations.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "0ad3175ab92621b5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-105",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 105,
+    "text": "For models and vendors, entertainment companies should maintain documented provenance for training and fine-tuning data, vendor warranties concerning lawful acquisition, records of licenses and opt-outs, and contractual indemnity appropriate to the remaining legal uncertainty.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-106",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 106,
+    "text": "High-risk uses involving recognizable people should also preserve audit records identifying the source recordings, model version, prompts or editing instructions, authorized scope, human approvers, and final distributed asset.",
+    "cited_markers": [
+      "[1]",
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167",
+      "afa4f469ce101553"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-107",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 107,
+    "text": "Technical provenance mechanisms, watermarking, detection systems, and cryptographic credentials can assist, but the FTC cautions that no single detection or watermarking method is a complete solution because marks may be removed and detectors can produce errors.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "afa4f469ce101553"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-108",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 108,
+    "text": "Finally, organizations should establish a disclosure standard based on audience expectations and legal jurisdiction.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-109",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 109,
+    "text": "Minor production assistance may warrant internal documentation without an on-screen notice, while a materially synthetic performance by a recognizable person may justify prominent credits or disclosure even where not strictly required by U.S. law.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-110",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 110,
+    "text": "The central governance objective is not to prohibit generative AI, but to preserve traceable human authorization, rights provenance, compensation, and accountability as synthetic performance becomes indistinguishable from recorded performance.",
+    "cited_markers": [
+      "[1]",
+      "[8]",
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "0a797fc5e6aca167",
+      "6dcd292ca023401a",
+      "6b9c978375a917b2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-111",
+    "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+    "position": 111,
+    "text": "As of November 2026, copyright doctrine governing human authorship is comparatively settled, whereas the legality of many training practices and the contours of a federal digital-replica right remain under active judicial and legislative development.",
+    "cited_markers": [
+      "[2]",
+      "[3]",
+      "[14]",
+      "[19]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "87b8ff41c875d639",
+      "a5ab084a52257129",
+      "ce46489436b9038e",
+      "f1dd1d33f1abd0d1",
+      "fd81087a0e575273"
+    ]
+  }
+]

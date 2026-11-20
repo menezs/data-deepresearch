@@ -1,0 +1,45 @@
+[referencia=f76894fef2052ca2 score=0.927]
+## Empregadores propõem negociação coletiva para reduzir jornada para 36 horas em vez de mudar a Constituição
+
+Representantes de setores como indústria, comércio, transporte, agropecuária, saúde e educação sugeriram nesta segunda-feira (18), em audiência pública na Câmara dos Deputados, que a redução da jornada de trabalho no país, das atuais 44 horas semanais para 36 horas, seja feita por meio de negociação coletiva e não por uma mudança na Constituição Federal.
+
+O debate foi promovido pela comissão especial da Casa que analisa duas propostas de emenda à Constituição (PECs) sobre o assunto, que preveem jornadas de 36 horas semanais e o fim do atual modelo de seis dias de trabalho com um dia de descanso, a chamada escala 6x1.
+
+Para o diretor da Confederação Nacional da Indústria (CNI), Alexandre Furlan, reduzir a jornada sem corte salarial elevaria os custos de produção e os preços ao consumidor. “A redução sustentável da jornada deveria ser consequência de ganhos de produtividade e não um ponto de partida”, disse.
+
+O argumento comum é que diferentes setores têm realidades específicas e poderiam enfrentar aumento de custos, dificuldades operacionais e impactos sobre empregos e serviços.
+
+---
+
+[referencia=f76894fef2052ca2 score=0.484]
+### Escalas flexíveis
+
+Luciana Rodrigues, da Confederação Nacional do Comércio de Bens, Serviços e Turismo, afirmou que o comércio, hotéis, bares e restaurantes têm funcionamento contínuo e demandas variáveis, o que exige escalas flexíveis. “Hoje não temos uma média de 44 horas semanais, mas sim de 39 horas semanais. E como que a gente atinge essa média? É pelas negociações coletivas.”, observou.
+
+Presidente da Confederação Nacional do Transporte, Vander Costa disse que, com a redução de jornada, o setor de transporte teria de contratar mais de 250 mil profissionais em um cenário de pleno emprego. “No caso específico do transporte, a gente tem que andar com o ônibus urbano sete dias por semana, não há como tirar o direito do cidadão”, disse. Ele sugeriu uma transição de “uma hora a menos a cada ano, durante quatro anos”.
+
+Pela Confederação da Agricultura e Pecuária do Brasil, Rodrigo Mello disse que as propostas em análise desconsideram as necessidades do campo, onde atividades ligadas a seres vivos não podem ser interrompidas. “A gente não vai conseguir aumentar a produtividade por meio de um decreto, de uma lei ou de uma emenda à Constituição. Então, a premissa está invertida”, criticou.
+
+A PEC 221/19, do deputado Reginaldo Lopes (PT-MG), reduz, após dez anos, a atual jornada de 44 horas semanais para 36 horas. Já a PEC 8/25, da deputada Erika Hilton (Psol-SP), propõe uma semana de quatro dias de trabalho com limite de 36 horas, com período de transição de um ano
+
+---
+
+[referencia=f76894fef2052ca2 score=0.430]
+### Contraponto
+
+Lopes rebateu o argumento dos empregadores em favor apenas de negociações e acordos coletivos locais. Segundo ele, esse modelo atual não foi capaz de proteger os profissionais mais vulneráveis. "A convenção coletiva continuará forte, mas servirá para as empresas e sindicatos combinarem os formatos das escalas dentro do limite máximo de 40 horas semanais.", disse.
+
+Na semana passada, o presidente da Câmara, Hugo Motta (Republicanos-PB), anunciou um acordo com o governo para reduzir a jornada de trabalho no País para 40 horas semanais, com dois dias de descanso, sem redução salarial. Segundo Motta, situações específicas seriam tratadas no Projeto de Lei 1838/26, enviado pelo Executivo, e em convenções trabalhistas.
+
+Presidente da comissão especial, o deputado Alencar Santana (PT-SP) lembrou que o sentimento majoritário na sociedade e no Parlamento é favorável ao fim da escala 6x1. Ele destacou que a mudança busca garantir direitos sem prejudicar a economia e defendeu que os novos formatos de escala sejam definidos por acordos e convenções coletivas. "As atividades, lembremos, poderão funcionar de segunda a segunda. Os trabalhadores é que terão uma nova escala".
+
+Segundo Santana, a comissão realizará mais dois debates públicos e o relatório inicial do deputado Leo Prates (Republicanos-BA) será apresentado nesta quarta-feira (20). A comissão fará ainda audiências em Minas Gerais, Santa Catarina e Amazonas. A votação do texto final está prevista para o dia 26 de maio.
+
+---
+
+[referencia=f76894fef2052ca2 score=0.059]
+### Mudança gradual
+
+Representando a CNSaúde, Genildo de Albuquerque Neto propôs aos deputados uma transição gradual a fim de evitar impactos no atendimento de saúde, além de flexibilizações para acomodar escalas de 12 por 36 horas, como, por exemplo, permitir a compensação de horas entre semanas e a não consecutividade das folgas.
+
+Pelos estabelecimentos privados de ensino, Elizabeth Guedes disse que com a redução de jornada as escolas enfrentariam dificuldades para cumprir os 200 dias letivos exigidos por lei, especialmente as que utilizam sábados para aulas do ensino médio. “Falar em reduzir carga de trabalho, mantendo o salário, sem fazer um planejamento objetivo, é fazer poesia, não é fazer política trabalhista”, declarou.

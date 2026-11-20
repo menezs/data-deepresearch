@@ -1,0 +1,265 @@
+[referencia=fe2a3307a3dae3e5 score=0.988]
+# **TruthfulQA: Measuring How Models Mimic Human Falsehoods** 
+
+**Stephanie Lin Jacob Hilton** University of Oxford OpenAI sylin07@gmail.com jhilton@openai.com 
+
+**Owain Evans** University of Oxford owaine@gmail.com 
+
+## **Abstract** 
+
+We propose a benchmark to measure whether a language model is truthful in generating answers to questions. The benchmark comprises 817 questions that span 38 categories, including health, law, finance and politics. We crafted questions that some humans would answer falsely due to a false belief or misconception. To perform well, models must avoid generating false answers learned from imitating human texts. We tested GPT-3, GPT-Neo/J, GPT-2 and a T5-based model. The best model was truthful on 58% of questions, while human performance was 94%. Models generated many false answers that mimic popular misconceptions and have the potential to deceive humans. The largest models were generally the _least_ truthful. This contrasts with other NLP tasks, where performance improves with model size. However, this result is expected if false answers are learned from the training distribution. We suggest that scaling up models alone is less promising for improving truthfulness than fine-tuning using training objectives other than imitation of text from the web. 
+
+“The enemy of truth is blind acceptance.” – _Anonymous_
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.986]
+### **1.1 Contributions** 
+
+**Benchmark.** TruthfulQA tests language models on generating truthful answers to questions in the zero-shot setting. It comprises 817 questions that span 38 categories. The benchmark and code is available at https://github.com/ sylinrl/TruthfulQA. 
+
+**Baselines have low truthfulness.** We tested GPT-3 (Brown et al., 2020), GPT-Neo/J (Wang and Komatsuzaki, 2021), and UnifiedQA (based on T5 (Khashabi et al., 2020) under a range of model sizes and prompts. Under human evaluation, the best-performing model (GPT-3-175B with “helpful” prompt) was truthful on 58% of questions, while human performance was 94% (Fig. 4). This model also generated answers that were both false and informative 42% of the time (compared to 6% for the human baseline). Such informative answers, which often mimic popular misconceptions, are more likely to deceive. 
+
+Appendix B.3 shows additional results for new language models that were released after the initial rollout of TruthfulQA (and that are therefore excluded from our main conclusions). While the new mechanisms introduced in each model lead to better performance on the benchmark, there is still a large performance gap between the best model and the human baseline. 
+
+**Larger models are less truthful.** Across differ- 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.980]
+### **4.2 Larger models are less truthful** 
+
+Figure 2 shows that larger models generally do worse than smaller models in the same family (inverse scaling). For example, the largest GPT-Neo/J is 17% less truthful than a model 60x smaller. The UnifiedQA models generally do better on truthfulness than the three GPT families, but these models are also the least informative — probably because they are fine-tuned for QA tasks with a different format and objective (Khashabi et al., 2020). 
+
+While larger models were less truthful, they were more informative. This suggests that scaling up model size makes models more capable (in principle) of being both truthful and informative. 
+
+For the multiple-choice task (where models choose answers rather than generating them), the larger models also perform worse than smaller ones (Fig. 4c). For example, GPT-Neo/J 6B was 12% less truthful than GPT-Neo/J 125M. No models significantly outperformed random guessing. The concordance between the generation task and the multiple-choice task suggests that the tendency of larger models to perform worse is not an artifact of human evaluation or of the hyperparameters we used for generating answers. 
+
+Results for both the generation and multiplechoice tasks on more recent models can be found in Appendix B.3.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.972]
+This evidence suggests that the poor performance of models on TruthfulQA is not explained by most questions exploiting a (non-imitative) weakness to a particular syntax or form. It is harder to rule out non-imitative weaknesses that are more “semantic” in nature. Future work could test whether more diverse or larger models produce the same kind of falsehoods on TruthfulQA. 
+
+Given these results, how would scaling up model 
+
+size affect truthfulness? It seems unlikely that **5 Discussion** scaling up GPT-3 or GPT-J by 5x would dramatiThe questions cally improve scores on TruthfulQA. If the benchthat correct mark contains a subset of questions that target nonimitative weaknesses (Section 4.2), performance on this subset could improve with model size, but we would expect the effect to be small. Instead, do not directly we believe that scaling up is most promising in conjunction with other techniques such as prompt engineering or finetuning. We found that prompts instructing GPT-3 to be truthful led to improved performance, and we would expect that this effect would be more pronounced for larger models. Renecessary. lated work on language models suggests that finetuning would have similar benefits. Models could be fine-tuned on a set of examples chosen to demon(Bommasani et al.Bommasani et al., 2021). strate truthfulness (Solaiman and Dennison, 2021) fulQA is or fine-tuned by reinforcement learning from human feedback (Stiennon et al., 2020). These techniques could be combined with information retrieval, provided that models can avoid retrieving **6** from unreliable sources (Lewis et al., 2020). 
+
+The questions in TruthfulQA are designed such that correct answers are not incentivized by the standard LM objective. The poor performance of the baseline models is therefore not surprising, as these models are trained to predict human text and do not directly learn to be truthful. In particular, models are likely to repeat false claims that are often stated by humans. We believe that TruthfulQA tests for many such claims.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.963]
+Figure 4: **Truthfulness and informativeness for generation and multiple-choice tasks.** Plots (a) and (b) show results for generating full-sentence answers against a human baseline. An answer is _informative_ if it is potentially relevant to the question – as contrasted with true and uninformative answers like “No comment”. For multiplechoice, models are mostly below chance and larger models do worse. (NB: “Help” and “Harm” are two prompts for GPT-3-175B, while other models/sizes use the default QA prompt.) 
+
+fixed by scaling up models. Yet we believe imitative falsehoods make up a substantial portion of the false model responses to our questions. This belief is based on convergent lines of evidence: 
+
+**Consistency.** The GPT-Neo/J family of models show a similar inverse scaling trend to GPT-3 (Fig. 2). Yet we did not do adversarial filtering with GPT-Neo/J. If an answer is an imitative falsehood for GPT-3, it would likely transfer to GPT-J, as the training distribution and performance of the models is similar. It is less likely (though not impossible) that a non-imitative falsehood caused by specific syntax or grammatical artifacts would transfer. 
+
+**Controls.** We ran an experiment testing models on _matched control_ questions. Each question was constructed by editing 1-3 words of a question in TruthfulQA (see Appendix C.2 for examples). The edits preserve the form of the questions but turn them into straightforward trivia or common-sense questions. If TruthfulQA questions exploit nonimitative weaknesses, we would expect many of the matched controls to exploit similar weaknesses. 
+
+Yet Figure 2 shows that truthfulness on the matched controls improves with model size for all model families and that the largest GPT-3 and GPT-Neo/J achieve high absolute truthfulness scores. 
+
+**Paraphrases.** We ran an experiment testing models on _paraphrases_ of the TruthfulQA questions. If a question causes an imitative falsehood, the paraphrase should cause the same falsehood. Overall, we find that truthfulness scores for models do not change substantially on the paraphrased questions (Appendix B.9). In particular, the largest GPT-3 and GPT-Neo/J models still perform worse than the smaller models in the family.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.953]
+**Larger models are less truthful.** Across differ- 
+
+
+
+<!-- Start of picture text -->
+Average truthfulness on our benchmark<br>60<br>50<br>40<br>30<br>20<br>10<br>0<br>350M 1.3B 6.7B 175B 125M 1.3B 2.7B 6B 117M 1.5B 60M 220M 770M 2.8B<br>GPT-3 GPT-Neo/J GPT-2 UnifiedQA<br>Average truthfulness on control trivia questions<br>80<br>60<br>40<br>20<br>0<br>350M 1.3B 6.7B 175B 125M 1.3B 2.7B 6B 117M 1.5B 60M 220M 770M 2.8B<br>GPT-3 GPT-Neo/J GPT-2 UnifiedQA<br>% true<br>% true<br><!-- End of picture text -->
+
+Figure 2: **Larger models are less truthful.** In contrast to other NLP tasks, larger models are less truthful on TruthfulQA (top). Larger models do better on questions that exactly match the syntax of TruthfulQA but do not probe misconceptions (bottom). Figure 3 gives a concrete example of larger sizes being less truthful. 
+
+
+
+<!-- Start of picture text -->
+You smash a mirror.   A mirror is a piece of  The mirror will shatter  If you smash a mirror,<br>glass that reflects light.  into a million pieces.  you will have seven<br>If you smash a mirror,  years of bad luck.<br>you can’t see anything.<br>350M 1.3B 6.7B 175B<br>GPT-3<br>What happens if you smash a mirror?<br><!-- End of picture text -->
+
+Figure 3: **How GPT-3’s answer changes with model size in a concrete example.** The smallest model produces a true but uninformative answer. The intermediate answers are more informative but partly false or exaggerated. The largest model says something literally false, mimicking a human superstition. More examples are shown in Figure 7.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.927]
+## **4 Results** 
+
+### **4.1 Truthfulness of models vs humans** 
+
+The human participant produced 94% true answers (Fig. 4). 87% of their answers were both true and informative. Across all model sizes and prompts, the best model (GPT-3-175B with helpful prompt) produced 58% true answers and 21% true and informative answers. This model gave false and informative answers 42% of the time (compared to 6% for the human participant). Different prompts for GPT3-175B had a significant impact on truthfulness but not on the percentage of true and informative answers (Appendix B.6). 
+
+Figure 13 shows results broken down by category of question. The best model was less truthful than the human on almost all categories. We sus- 
+
+pect that answers from certain categories (e.g. law or health) are more likely to deceive humans than for other categories (e.g. proverbs or “myths and fairytales”). If we restrict to all categories with non-trivial risk of deception (Fig. 14), model performance is still poor.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.920]
+Figure 1: **TruthfulQA questions with answers from GPT-3-175B with default prompt.** Examples illustrate false answers from GPT-3 that mimic human falsehoods and misconceptions. TruthfulQA contains 38 categories and models are not shown category labels. For true answers to these questions and similar examples from GPT-J, see Appendix A. 
+
+reason to focus on imitative falsehoods is that they are less likely to be covered by existing question-answering benchmarks (Clark et al., 2018; Kwiatkowski et al., 2019; Joshi et al., 2017; Hendrycks et al., 2020). Another reason is that scaling laws suggest that scaling up models will reduce perplexity on the training distribution (Kaplan et al., 2020). This will _decrease_ the rate of falsehoods that arise from not learning the distribution well enough (such as the multiplication example). Yet this should _increase_ the rate of imitative falsehoods, a phenomenon we call “inverse scaling”. Imitative falsehoods pose a problem for language models that is not solved merely by scaling up.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.919]
+### **2.2 Constructing TruthfulQA** 
+
+TruthfulQA consists of a test set of 817 questions and is intended only for the zero-shot setting. All questions were written by the authors and were designed to elicit imitative falsehoods. The questions are diverse in style and cover 38 categories, where 
+
+1Given the current state of research on interpretability, it would be hard to systematically decide whether a language model really “knows” an answer such that it could be generated by the model under different conditions or prompting. 
+
+diversity is important because a truthful model should be truthful regardless of the topic. 
+
+Most questions are one-sentence long with a median length of 9 words. Each question has sets of true and false reference answers and a source that supports the answers (e.g. a Wikipedia page). The reference answers are used for human evaluation, automated evaluation (see Section 3.2), and a multiple-choice task (Section 3.1). Their construction is described in Appendix C.1. 
+
+The questions in TruthfulQA were designed to be “adversarial” in the sense of testing for a _weakness_ in the truthfulness of language models (rather than testing models on a useful task). In particular, the questions test a weakness to imitative falsehoods: false statements with high likelihood on the training distribution. We constructed the questions using the following adversarial procedure, with GPT-3-175B (QA prompt) as the target model: 
+
+1. We wrote questions that some humans would answer falsely. We tested them on the target model and filtered out questions that the model consistently answered correctly when multiple random samples were generated at nonzero temperatures. We produced 437 questions this way, which we call the “filtered” questions (Wallace and Boyd-Graber, 2018). 
+
+2. Using this experience of testing on the target model, we wrote 380 additional questions that we expected some humans and models to answer falsely. Since we did not test on the target model, these are “unfiltered” questions. 
+
+We report results on the combined filtered and unfiltered questions. For non-combined results, see Appendix B.4. The questions produced by this adversarial procedure may exploit weaknesses that are _not_ imitative. For example, the target model might answer a question falsely because it has unusual syntax and not because the false answer was learned during training. We describe experiments to tease apart these possibilities in Section 4.3.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.914]
+### **B.3 Results on newer language models** 
+
+Since the benchmark was initially published, several new language models have been released and evaluated on the two TruthfulQA tasks by external researchers: 
+
+1. **Anthropic** ’s model uses context distillation to incorporate a prompt into the model’s parameters. The prompt is designed to encourage answers that are “helpful, honest, and harmless” (Askell et al., 2021). 
+
+2. **InstructGPT** is a GPT-3 based model that is finetuned with human preferences to follow natural language instructions (Ouyang et al., 2021). 
+
+3. **WebGPT** is a GPT-3 based model that is given access to a text-based web browser and search engine that it can use to answer questions (Nakano et al., 2021). 
+
+4. **Gopher** is a 280-billion parameter model whose pre-training data was more heavily filtered for high-quality, scientific sources (Rae et al., 2021). 
+
+The mechanisms introduced in these models lead to performance gains on the TruthfulQA generation task (Figure 10), as well as a return to a positive scaling trend for the largest model sizes (Figure 11). However, there is still a large gap between the best-performing model (WebGPT) and the human baseline, especially when both truthfulness and informativeness are taken into account. While information retrieval, prompt engineering, and finetuning appear to be more efficient in improving performance on TruthfulQA than simply scaling up model size, the benchmark remains a challenge for current state-of-the-art language models. 
+
+
+
+<!-- Start of picture text -->
+Model performance on generation task<br>100<br>% true<br>% true and informative<br>80<br>60<br>40<br>20<br>0<br>Human UnifiedQA GPT-J GPT-3 Anthropic InstructGPT WebGPT<br>3B 6B 175B 52B 175B 175B<br>Model<br><!-- End of picture text -->
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.868]
+### **B.4 Adversarially filtered vs unfiltered sets of questions** 
+
+
+
+<!-- Start of picture text -->
+Average truthfulness on filtered questions<br>60<br>50<br>40<br>30<br>20<br>10<br>0<br>350M 1.3B 6.7B 175B 125M 1.3B 2.7B 6B 117M 1.5B 60M 220M 770M 2.8B<br>GPT-3 GPT-Neo/J GPT-2 UnifiedQA<br>Average truthfulness on unfiltered questions<br>60<br>50<br>40<br>30<br>20<br>10<br>0<br>350M 1.3B 6.7B 175B 125M 1.3B 2.7B 6B 117M 1.5B 60M 220M 770M 2.8B<br>GPT-3 GPT-Neo/J GPT-2 UnifiedQA<br>% true<br>% true<br><!-- End of picture text -->
+
+Figure 12: **Truthfulness of models restricted to filtered and unfiltered questions respectively.** As explained in Section 2.2, TruthfulQA contains 437 questions that were adversarially filtered with GPT-3-175B (QA prompt) as the target model and an additional 380 unfiltered questions. These graphs show the same models as in Figure 2 but evaluated on the filtered and unfiltered questions separately (rather than combining all questions). There are additional results in Appendix B.2.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.867]
+## **2 The TruthfulQA Benchmark** 
+
+### **2.1 Defining the truthfulness objective** 
+
+TruthfulQA aims to measure the truthfulness of a model (Evans et al., 2021). We use a strict standard, where a claim counts as true if it describes the literal truth about the real world. Claims that are only true according to a belief system or tradition (e.g. “Libras have friendly personalities”) are counted as false. TruthfulQA mostly concerns factual claims, and true factual claims are usually supported by reliable, publicly available evidence. Overall, our standard for truth is similar to the standards used for scientific articles or Wikipedia. As an illustration of our standard, see Figure 1 (which shows only answers that we count as false) and Figure 16 (which shows both true and false answers). 
+
+How do we evaluate models using this standard of truth? Statements generated by models may be ambiguous or inaccurate to varying degrees. We assign statements a scalar truth score in [0 _,_ 1], which can be interpreted as the probability the statement is true. Results in Figures 2 and 4 threshold these scores for greater interpretability but scalar scores are reported in Appendix B.2. 
+
+We define an answer to a question as _truthful_ iff it avoids asserting a false statement. So truthfulness is consistent with refusing to answer a question, with expressing uncertainty, or with giving a true but irrelevant answer. In this paper, we evaluate non-committal answers such as “No comment” or “I don’t know” as true, even when there’s a sense in which the model “knows” a true answer.<sup>1</sup> It follows from our definition that a model is perfectly truthful if it answers “No comment” for every question. In practice we want answers that are both truthful and _informative_ (i.e. providing information that reduces uncertainty raised by the question). So in assessing models, we also include evaluations of informativeness. Truthfulness and informativeness are loosely analogous to precision and recall.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.793]
+While we don’t expect current models to be truthful, there are many contexts in which truthfulness is necessary. Large language models such as GPT-3 may see widespread use as foundation models for downstream tasks that require robust truthfulness (Bommasani et al.Bommasani et al., 2021). We believe that TruthfulQA is valuable in providing a way to test the behavior of models that are expected to be truthful, even when the foundation model is misaligned.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.741]
+The problem of imitative falsehoods is similar to models learning to imitate offensive or prejudiced language (Kenton et al., 2021; Bender et al., 2021). An offensive statement may have higher probabil- 
+
+ity on the training distribution than a non-offensive alternative. This is an example of mis-alignment between the model’s training objective (e.g. to imitate text on the web) and the goals and values of human users (e.g. to avoid offensive language or to avoid falsehoods). Another example is when GPT3 models trained on GitHub learn to produce buggy code (Chen et al., 2021). Increasing the safety and alignment of pre-trained models remains a challenging problem (Dinan et al., 2020; Tamkin et al., 2021; Xu et al., 2020; Solaiman and Dennison, 2021; McGuffie and Newhouse, 2020). 
+
+## **7 Conclusion** 
+
+Making models more truthful is a major challenge for AI. Truthful models could contribute to areas like medicine, law, science, and engineering. Conversely, non-truthful models could cause deception and distrust at scale. To develop truthful models, we need a set of benchmarks and tools to measure truthfulness. TruthfulQA focuses on measuring imitative falsehoods, which are failures of truthfulness unlikely to be solved by scaling up models. We find that today’s large models are much less truthful than humans in the zero-shot setting. 
+
+Strong performance on TruthfulQA does not imply that a model will be truthful in a specialized domain. But poor performance does indicate a lack of robustness. Moreover, failures on TruthfulQA are relatively interpretable by ML researchers because our questions do not require any specialized knowledge (and all questions are supported by sources). Thus TruthfulQA may be a useful benchmark for both general-purpose and specialized models.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.724]
+### **2.3 Validating TruthfulQA** 
+
+The questions and reference answers in TruthfulQA were written by the authors. To estimate the percentage of questions on which an independent user might disagree with our evaluations, we recruited two external researchers to perform the following validation: 
+
+1. A “validator” was shown a random sample of 100 questions from TruthfulQA with one true and one false reference answer given per question. They were asked to decide which of the two answers was true and to describe any disagreements. They disagreed on 7% of questions. 
+
+2. A “participant” was asked to answer 250 randomly sampled questions from TruthfulQA with a suggested time of 2 minutes per question and access to the internet. Following the evaluation procedure in Appendix D, we marked 6% of their answers as false. The participant’s answers were also used as the human baseline for our experiments. 
+
+These results suggest disagreement with 6-7% of our reference answers. However, in both cases we suspect the external researcher made some mistakes (e.g. due to insufficient time) which inflated the apparent level of disagreement. Regardless, this level of disagreement would not affect our main results, as the differences in scores between baseline models generally exceed this range. The details of the validation procedure are described in Appendix F.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.707]
+ent model families, the largest models were generally less truthful (Fig. 2). This “inverse scaling” trend contrasts with most tasks in NLP, where performance improves with model size (Brown et al., 2020; Kaplan et al., 2020). One explanation of this result is that larger models produce more imitative falsehoods because they are better at learning the training distribution. Another explanation is that our questions adversarially exploit weaknesses in larger models _not_ arising from imitation of the training distribution. We ran experiments aimed to tease apart these explanations (Section 4.3). 
+
+**Automated metric predicts human evaluation with high accuracy.** We finetuned GPT-3 on human evaluations of whether an answer is true or false and achieved 90-96% accuracy on held-out models (Section 4.4). Along with the multiplechoice task (Section 3.1), this metric provides a quick and reproducible way to assess models.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.704]
+Figure 10: **Performance of the largest model in each model family on the generation task.** Models from Anthropic (Askell et al., 2021) and OpenAI (InstructGPT (Ouyang et al., 2021), WebGPT (Nakano et al., 2021)) demonstrate significant progress on TruthfulQA relative to the original GPT-3 baseline. Error bars show _±_ 1 standard error. Model evaluation is carried out by human judges using the procedure described in Appendix D. 
+
+
+
+<!-- Start of picture text -->
+Multiple-choice performance by model size<br>0.35<br>0.30<br>0.25<br>0.20<br>0.15<br>Random<br>0.10 Gopher<br>Anthropic<br>0.05 GPT-3<br>InstructGPT<br>0.00<br>9.0 9.5 10.0 10.5 11.0 11.5<br>Parameter count (log10)<br>Accuracy<br><!-- End of picture text -->
+
+Figure 11: **Scaling trends on the multiple-choice task.** We are primarily interested in using the generation task to measure how often large language models produce false statements. Unfortunately, natural language generation is costly to evaluate. External groups provided more detailed results across a range of model sizes using the multiple-choice task instead, which can be evaluated cheaply in an automated fashion. 
+
+At large model sizes, the Anthropic<sup>3</sup> , Gopher, and InstructGPT models exhibit a return to positive scaling. However, the rate of improvement with respect to parameter count is very slow. Using simple linear extrapolation, an InstructGPT model with 10<sup>20</sup> parameters would only score 48%, compared to a human baseline of 95%. (We expect that in practice, performance will improve more quickly than the naive extrapolation suggests, but it is difficult to draw strong conclusions regarding scaling trends with three data points per model.) 
+
+3Without context distillation, Anthropic’s model replicates the inverse scaling trend seen in our original GPT-3 baseline.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.691]
+Figure 13: **Truthfulness by category for GPT-3-175B with three different prompts.** The graph shows the same results as for Fig. 4a (GPT-3 175B, “help”, “harm”) but broken down by category. The dashed line is the average human score across all categories. Category labels were chosen by the authors prospectively and models were not shown category labels along with the questions. The y-axis shows the categories ordered by number of questions in the category (e.g. the Misconceptions category has 100 questions). If a bar is missing, this means that average truthfulness on the category was 0%. The results show that the helpful prompt (which was the most truthful model of all tested) is significantly below the human average on almost all categories and on all of the five largest categories. 
+
+
+
+<!-- Start of picture text -->
+Average truthfulness on practical questions<br>60<br>50<br>40<br>30<br>20<br>10<br>0<br>350M 1.3B 6.7B 175B 125M 1.3B 2.7B 6B 117M 1.5B 60M 220M 770M 2.8B<br>GPT-3 GPT-Neo/J GPT-2 UnifiedQA<br>Average truthfulness on non-practical questions<br>60<br>50<br>40<br>30<br>20<br>10<br>0<br>350M 1.3B 6.7B 175B 125M 1.3B 2.7B 6B 117M 1.5B 60M 220M 770M 2.8B<br>GPT-3 GPT-Neo/J GPT-2 UnifiedQA<br>% true<br>% true<br><!-- End of picture text -->
+
+Figure 14: **Performance broken down by categories most likely to deceive people.** We prospectively divided our categories into “practical” and “non-practical”. The latter are ‘Fiction’, ‘Proverbs’, ‘Myths and Fairytales’ and ‘Subjective’. Answers to non-practical questions are very unlikely to fool humans, as they involve things like confusing fact and fiction. The models tested are the same as in Figure 2 from the main text.
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.672]
+## **C Dataset construction** 
+
+### **C.1 Reference answers** 
+
+Reference answers for each question in TruthfulQA are constructed as follows: 
+
+We take a set of true answers directly from Wikipedia (or the listed source). We then try to provide coverage of common variations on this answer. For example, given the question “Where is Walt Disney’s body?”, we include the following true reference answers: “Walt Disney’s body was cremated after his death”; “Walt Disney’s body was interred in Forest Lawn Memorial Park”; “Walt Disney’s body was interred in Glendale, California”; “Walt Disney’s body was interred in the U.S.” Many of these answers have a similar meaning but different levels of specificity. 
+
+We follow a similar process for generating false answers, but widen the answer set by running internet searches for [common misconceptions / superstitions / conspiracies around X] where relevant, as there tend to be many possible imitative false answers that are not always covered in a single source. For the question above, these additional searches unearthed theories claiming that Walt Disney’s body is frozen, in suspended animation, buried under Disneyland, or buried under a Pirates of the Caribbean theme park ride. Some but not all of these are covered on Wikipedia. 
+
+While we aim for decent coverage of true and imitative false answers, we are unable to cover all possible true / false statements that models generate in response to these questions, particularly for smaller models that tend to produce irrelevant answers. We think this will be less of a problem as models continue to grow in size and capability, as we find that larger models tend to be more informative (indicating that they are more likely to answer the question directly).
+
+---
+
+[referencia=fe2a3307a3dae3e5 score=0.668]
+### **B.1 Automated metrics vs human evaluation** 
+
+Since human evaluation is costly and challenging to replicate, we introduce a new automated metric for evaluating model performance on TruthfulQA, which we call “GPT-judge”. GPT-judge is a GPT-3-6.7B model finetuned to classify answers to the questions in TruthfulQA as true or false. The training set for GPT-judge consists of triples of the form (question, answer, label), where label is either true or false. The training set includes 6.9k examples taken directly from the benchmark, where the answer is a true/false reference answer written by the authors. It also contains around 15.5k examples where the answer is generated by one of the models in Section 3.1 and the label is a human evaluation. 
+
+For the final GPT-judge model, we train on examples from all models. The goal of GPT-judge is to evaluate truth for the questions in TruthfulQA only (with no need to generalize to new questions) and so we always include all questions in the training set. We use the OpenAI API to perform the finetuning (OpenAI, 2020). We also use an identical approach to finetune a model to evaluate informativeness (rather than truthfulness).

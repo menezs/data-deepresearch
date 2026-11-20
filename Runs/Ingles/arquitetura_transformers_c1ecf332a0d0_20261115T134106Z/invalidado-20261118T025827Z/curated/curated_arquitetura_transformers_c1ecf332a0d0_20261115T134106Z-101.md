@@ -1,0 +1,353 @@
+[referencia=363fb5dd108968a4 score=0.999]
+### The arithmetic, honestly done
+
+Run the Chapter 2 formula across the full 60-layer stack and the totals fall out cleanly: MHA 3.84 MB/token, GQA-8 240 KB, MLA 67.5 KB (the paper rounds to 70 KB). MLA's per-token footprint is thus **56.9× smaller than MHA** at identical geometry — which matches the ~57× theoretical HBM-traffic reduction the paper derives for decoding — and **5.6× smaller than the 67B's GQA-8 across its 95 layers** (389 KB → 67.5 KB, an 82.2% reduction). The abstract's headline 93.3%, meanwhile, is DeepSeek's own accounting against the 67B under its stated comparison conditions; independent arithmetic at face-value configs lands between 82% and 98% depending on the baseline chosen (the V2 report's MHA-vs-MLA framing implies the upper end, the GQA framing the lower).
+
+The 93.3% is quoted everywhere and verified nowhere at its exact value; what is verifiable is the shape of the result. Face-value arithmetic gives 5.6× (vs. 67B GQA-8) to 56.9× (vs. MHA at V2 scale) — a cache reduction somewhere between 82% and 98.2%. Every downstream claim in this paper uses the transparent arithmetic, and the official 93.3% is cited as the paper's own summary. Engineering readers should replicate the three-line calculation before quoting either number.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.967]
+## 4. DeepSeek-V2: MLA Changes Everything
+
+May 2024: 236B parameters, 21B active, and a KV cache compressed into a single latent vector per token.
+
+DeepSeek-V2 (arXiv:2405.04434, released May 2024) is one of the most consequential architecture papers of the decade, and its abstract compresses the entire business case into three numbers: **saves 42.5% of training costs, reduces the KV cache by 93.3%, and boosts the maximum generation throughput to 5.76×** — all comparisons against the lab's own DeepSeek 67B. The model itself is a 236B-parameter MoE with 21B activated per token, 60 transformer layers, native 128K context (via the MLLA architecture plus YaRN-style extension from a shorter pretraining window), and 8.1T pretraining tokens. But the number everyone remembers is the cache.
+
+### The idea in one paragraph
+
+MQA shares one K/V head across all query heads (tiny cache, degraded quality). GQA splits the difference (smaller cache, small quality cost). MLA refuses the trade: instead of *sharing heads*, it **caches a compressed latent representation and reconstructs per-head keys and values from it on demand**. Per token, per layer, the cache holds exactly two things: a 512-dimensional compressed latent c<sub>KV</sub> shared by all heads, and a single 64-dimensional RoPE-encoded key k<sub>rope</sub> (the decoupled positional key, Chapter 5). That is 576 cached elements versus 32,768 for the counterfactual MHA — 1.76% of the bytes, with the V2 paper's own ablation table showing MLA *outperforming* MHA on hard benchmarks, not merely matching it.
+
+**MHA @ V2 scale**
+
+128 heads × 128 dims × 2 (K,V)
+
+32,768 elems · 65,536 B
+
+**GQA-8 @ V2 scale**
+
+8 KV heads × 128 dims × 2
+
+2,048 elems · 4,096 B
+
+**MLA (V2)**
+
+latent 512 + rope key 64
+
+576 elems · 1,152 B (bf16)
+
+---
+
+[referencia=363fb5dd108968a4 score=0.957]
+### What it meant at the time
+
+V2's 128K context arrived at 67.5 KB/token instead of 240 KB: at full window, one request's cache falls from ~31.5 GB (counterfactual GQA-8) to ~8.9 GB, and — because decode traffic scales with cache bytes — the measured maximum generation throughput rose 5.76× against the 67B. The launch-era API pricing made the savings visible to customers immediately, and the lab followed with a systems-level complement that turned prefix reuse into a near-free operation (Chapter 6). But the deeper consequence was strategic: V2 proved that a frontier-quality model could carry an order-of-magnitude cache advantage, which is precisely the property that later made a 671B V3 affordable to train (Chapter 7), a reasoning RL run viable on top of it (Chapter 8), and a 1M-token V4 conceivable (Chapter 12).
+
+| DeepSeek-V2 vs. predecessors | DeepSeek 67B (2023) | DeepSeek-V2 (May 2024) | 
+|---|---|---|
+| Total / active params | 67B dense | 236B total · 21B active (MoE) | 
+| Attention | GQA-8 | **MLA** (512+64 latent, 128 heads) | 
+| Context | 4K (32K ext.) | 128K | 
+| KV bytes / token | ~389 KB | **~70 KB (bf16)** | 
+| Official claims vs. 67B | — | −42.5% training cost · −93.3% KV cache · 5.76× max generation throughput | 
+| Ecosystem effect | — | MLA later adopted by Kimi K2, reused unchanged in V3/R1/V3.1 |
+
+---
+
+[referencia=363fb5dd108968a4 score=0.952]
+### 16.1 — The mechanisms, compared
+
+| Mechanism | Core idea | Typical cache effect | Used by | 
+|---|---|---|---|
+| MHA | Every head caches its own K/V | baseline (4 MB/token @ V3 scale) | Pre-2023 models; DeepSeek LLM 7B | 
+| GQA | Groups share KV heads | ÷ 8 (500 KB) | Llama 3, Qwen3, gpt-oss; DeepSeek LLM 67B | 
+| MQA | One KV head for all | ÷ 128, quality cost | PaLM era; the indexer inside DSA borrows its shape | 
+| SWA | Fixed local window, old context discarded | O(window) | Gemma 3; the local branch in CSA/HCA | 
+| **MLA** | Cache a shared low-rank latent; reconstruct on demand | ÷ 57 vs. MHA (70 KB) | **DeepSeek V2–V3.2** ; Kimi K2; MLX-portable via absorption | 
+| **DSA** | Lightning indexer selects top-2,048; attention reads only those | read ÷ ~5 @131K; stored unchanged | **DeepSeek V3.2** ; GLM 5/5.1 (indexer shared across layers) | 
+| **CSA + HCA** | Pool 4× (sparse) and 128× (dense) entries, interleaved | ÷ ~10 end-to-end vs. V3.2 | **DeepSeek V4** | 
+| **CSA2** | Entry × sequence × *layer* compression; MXFP4; CED projection | **890 B/token global** | **DeepSeek-V4.1-Flash** | 
+
+Three patterns in the table are worth naming. The industry's default (GQA) plateaued at ~8× while DeepSeek compounded 57× more on top of it; the labs that followed DeepSeek adopted its mechanisms rather than inventing parallel ones (Kimi K2 took MLA, Z.ai took DSA whole — including the layer-shared indexer refinement); and every DeepSeek mechanism degrades gracefully into a standard component (MLA decodes as SDPA, DSA adds a gather, CSA pools existing entries), which is precisely why the ecosystem could absorb each generation in days rather than quarters.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.942]
+Agents make it worse in a specific, structural way. The V4.1-Flash report describes the new reality plainly: long-horizon agents have made workloads *input-heavy*. A coding agent re-submits a growing repository transcript on every tool call; a browsing agent accumulates page dumps; a reasoning model keeps its own chain of thought in context. Input-heavy means cache-heavy: the prompt is processed once (prefill, compute-bound) but then sits in the cache being re-read on every single decode step (memory-bound) for as long as generation lasts. Multiply by continuous batching — the technique that makes serving profitable by packing dozens of concurrent requests into one GPU — and the cache's linear growth becomes the wall. Weights load once and amortize across the batch; the cache grows with the batch. At large combined sequence lengths, cache traffic exceeds weight traffic and never looks back.
+
+DeepSeek's response to this wall is the through-line of this paper, and it is notably architectural rather than infrastructural. Other labs met the cache with bigger HBM pools, paged memory management (vLLM's PagedAttention), prefix cache reuse, or aggressive speculative decoding. DeepSeek did those too, but its signature move was to keep attacking the *bytes per token* inside the model itself, generation after generation:
+
+**2024 — MLA (DeepSeek-V2).**Compress
+
+*what*is cached: one shared 576-element latent replaces per-head keys and values. Official result: 93.3% cache reduction, 5.76× max generation throughput.
+
+**2025 — DSA (DeepSeek-V3.2-Exp).**Choose
+
+*which*tokens are read: a lightning indexer scores everything cheaply, and full attention touches only the top 2,048. Decode traffic at 131K context drops ~5×.
+
+**2026 (April) — CSA + HCA (DeepSeek-V4).**Shrink the sequence itself: pool 4 tokens into one cached entry (CSA) or 128 into one (HCA), interleaved across layers. 1M-token context at 10%/7% of V3.2's cache.
+
+**2026 (September) — CSA2 + FP4 + CED (DeepSeek-V4.1-Flash).**Share the cache
+
+---
+
+[referencia=363fb5dd108968a4 score=0.935]
+One detail deserves a raised eyebrow: **the 7B model caches more per token than the 67B.** A quarter of the layers of the big model, but four times the KV heads — MHA's 32 heads at 16 KB per layer beat GQA's 8 heads across 95 layers. The cross-over is the whole GQA pitch in miniature: at 7B scale nobody feels it (480 KB × the 4K context of that era is 1.9 GB, awkward but survivable on a single GPU), while the same context on the 67B is 1.5 GB of pure cache on top of 134 GB of bf16 weights. The era's context lengths — 4K native, extendable to 32K with YaRN-style interpolation — were chosen precisely because the cache arithmetic said so. Nobody ships a 128K window when the per-token bill is 380 KB.
+
+It is also worth recording what the lab was learning in parallel, because it explains the architecture that followed. The DeepSeek LLM paper itself ran GQA-Int8 ablations — 8 KV heads in int8 storage, cutting the 67B's cache to ~194 KB/token, and finding it "surprisingly strong" — an early signal that the team was already thinking about cache bytes as a first-class design variable rather than an afterthought. And in January and February 2024, two companion papers arrived that built the other half of the future: *DeepSeekMoE* (arXiv:2401.06066), which split experts fine-grained and added a shared expert to make sparse FFNs cheap and stable, and *DeepSeekMath* (arXiv:2402.03300), which introduced GRPO, the reinforcement-learning algorithm that would later make R1 famous. The V2 recipe — MoE for cheap computation, MLA for a cheap cache, RL for the finishing — was assembled from these parts.
+
+Hold the 67B fixed and extend its window from 4K to 128K — a 32× stretch of the context. The cache bill goes from 1.5 GB to **48 GB for a single request**, before weights, before batching, in an era when an 80 GB A100 was the ceiling. That is the wall DeepSeek-V2 was designed to break, and it is why the next chapter begins with a 93.3% figure rather than an incremental one.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.928]
+## Frequently asked questions
+
+### What is Multi-head Latent Attention (MLA)?
+
+MLA is the attention design DeepSeek introduced in DeepSeek-V2 (May 2024). Instead of caching per-head keys and values, it caches a single 512-dimensional compressed latent plus a 64-dimensional rotary key per token — 576 cached elements per layer — and reconstructs the per-head keys and values on demand. The V2 paper reports a 93.3% KV cache reduction and a 5.76x maximum generation throughput versus DeepSeek 67B.
+
+### What is DeepSeek Sparse Attention (DSA)?
+
+DSA is the sparse-attention mechanism shipped experimentally in DeepSeek-V3.2-Exp (September 2025). A 64-head lightning indexer scores every cached token cheaply and selects the top 2,048, so only those entries pay the full MLA cost. This cuts the bytes read per decode step by roughly 5x at 131K context.
+
+### What is the lightning indexer in DeepSeek Sparse Attention?
+
+The lightning indexer is DSA's cheap scoring stage: 64 multi-query heads that score every cached token so the model can select the top 2,048 to attend to. Because it scores all tokens but only selects a few, it shrinks the bytes read per decode step without shrinking what must be stored.
+
+### How small is DeepSeek-V4.1-Flash's KV cache?
+
+890 bytes per token in HBM, down from roughly 390 KB per token for DeepSeek's 2023 models — a 438x reduction. It is achieved with CSA2 cross-layer KV reuse, 4-bit MXFP4 cache storage, and replaying instead of persisting sliding-window state, which also gives one-eighth the persistent SSD footprint of V4-Flash.
+
+### What is CSA2 in DeepSeek-V4.1-Flash?
+
+CSA2 (Compressed Sparse Attention 2) is the attention design in DeepSeek-V4.1-Flash. It adds a third compression axis — reusing KV entries across layers through Full, Reindex and Reuse modes — on top of CSA's 4x token pooling and HCA's 128x pooling, and stores the cache in 4-bit MXFP4.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.891]
+## 2. The Arithmetic of Cache Memory
+
+One formula, three precisions, and the three axes on which every DeepSeek innovation operates.
+
+Before the history, the mathematics — because every claim in this paper reduces to it. The KV cache size for a standard multi-head or grouped-query attention transformer is:
+
+```
+bytes_per_token = 2                            # K and V, both cached
+                * n_kv_heads                  # key/value heads (shared in GQA/MQA)
+                * head_dim                    # dimension of each head
+                * n_layers                    # every transformer layer caches its own
+                * bytes_per_element           # 2 for bf16, 1 for fp8, 0.5 for fp4
+```
+The factor of 2 is the K/V pair; the per-layer multiplication is the silent killer — a 61-layer model stores 61 independent copies of every token's past. Work it for three familiar configurations in bf16 and the scale of the problem appears immediately:
+
+| Configuration | KV heads | Head dim | Layers | Per layer | Per token (bf16) | At 32K ctx, batch 1 | 
+|---|---|---|---|---|---|---|
+| Llama-3.3-70B (GQA-8) | 8 | 128 | 80 | 4,096 B | 320 KB | 10.5 GB | 
+| Hypothetical MHA @ V2 scale | 128 | 128 | 60 | 65,536 B | 3.84 MB | 126 GB | 
+| Hypothetical GQA-8 @ V2 scale | 8 | 128 | 60 | 4,096 B | 240 KB | 7.9 GB | 
+
+Two observations fall out of this table. First, MHA is not a serious option at frontier scale: 3.84 MB per token means a single 32K-context request would need 126 GB of cache before the weights arrive. Second, GQA's 8× head sharing only buys you to ~240 KB per token — still 7.9 GB for one long-context request. The gap between "GQA is fine" and "GQA is fine at 1M tokens" is where the entire DeepSeek program lives: 240 KB × 1M tokens × a commercial batch is measured in petabytes.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.888]
+### The worked example that frames everything
+
+Fix one benchmark in memory, because this paper returns to it in every part. Take DeepSeek-V3's published attention geometry: 128 heads, head_dim 128, 61 layers, and the MLA latent of 512 + 64 = 576 cached elements per layer. In bf16, the Tensor Economics computation gives 4.0 MB/token for counterfactual MHA, ~500 KB for GQA-8 at the Llama-3 ratio, and **70 KB for MLA** — a 57× and 7× reduction respectively. Now project to a production decode step at 131K context: dense MLA reads 5.2 GB per step (656 bytes × 131,072 tokens × 61 layers); DSA reads 1.1 GB; V4 reads a fraction of that; V4.1-Flash reads 890 bytes × some bounded selection × a layer count that shares entries across halves of the network. The entire history of this paper is visible in that one progression — and every one of those numbers will be re-derived, with sources, in its own chapter.
+
+With the formula and the axes in hand, we can finally meet the baseline: the 2023 models where none of these levers had been pulled, and the cache was exactly as large as naive attention made it.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.828]
+## 7. V2.5 to V3: Scaling the Latent
+
+December 26, 2024: 671B parameters, 37B active — and the exact same 576-element cache, now carrying the biggest open model on Earth.
+
+DeepSeek-V3 (arXiv:2412.19437) is the model that made the lab globally famous, and its treatment of the KV cache is a study in confidence: **it changed nothing**. The technical report adopts MLA and DeepSeekMoE "thoroughly validated in DeepSeek-V2" as-is — the same 512+64 latent, the same 128 heads, the same decoupled RoPE — and simply scales around them: 671B total parameters, 37B active per token, 61 layers (one more than V2), 14.8T pretraining tokens, and an auxiliary-loss-free load-balancing scheme that keeps the MoE routing healthy without gradient interference. Training consumed 2.788M H800 GPU-hours (about $5.6M at rental rates, the report notes) with zero irrecoverable loss spikes.
+
+That stability is the point of this chapter. V3 was the test of whether MLA's low-rank cache survives a 10× parameter scale-up, 128K native context, FP8 mixed-precision training, and multi-token prediction heads — and it passed without modification. The Tensor Economics recomputation of the cache arithmetic at V3's exact geometry (128 heads, 128 head_dim, 61 layers) makes the inherited advantage precise:
+
+| Attention at V3 geometry (61 layers) | Per layer | Per token (bf16) | Per token (fp8 latent) | vs. MLA | 
+|---|---|---|---|---|
+| Counterfactual MHA (128 heads) | 65,536 B | 4.0 MB | 2.0 MB | 57× larger | 
+| Counterfactual GQA-8 (Llama-3 ratio) | 4,096 B | ~500 KB | ~250 KB | 7× larger | 
+| **MLA (as shipped)** | 1,152 B | **70.3 KB** | **~35.2 KB** | 1× |
+
+---
+
+[referencia=363fb5dd108968a4 score=0.818]
+The history breaks into four discontinuities, and this paper treats each as a case study with the arithmetic shown in full. **First, Multi-head Latent Attention (MLA)**, introduced in DeepSeek-V2 in May 2024: instead of caching per-head keys and values, cache a single 512-dimensional compressed latent plus a 64-dimensional rotary key per token, and reconstruct the rest on the fly. The official paper reports a 93.3% KV cache reduction against DeepSeek 67B while boosting maximum generation throughput 5.76×. **Second, DeepSeek Sparse Attention (DSA)**, which arrived experimentally in V3.2-Exp in September 2025: a "lightning indexer" — 64 cheap multi-query heads scoring every cached token — selects the top 2,048 entries, and only those pay the full MLA bill, cutting the bytes read per decode step by roughly 5× at 131K context. **Third, the hybrid compressed attention of DeepSeek-V4** in April 2026: Compressed Sparse Attention (CSA) pools four tokens into one cached entry while Heavily Compressed Attention (HCA) pools 128, together bringing a 1M-token context window within reach at 10% (V4-Pro) to 7% (V4-Flash) of V3.2's cache footprint. **Fourth, CSA2 in DeepSeek-V4.1-Flash** (September 10, 2026), which adds the third axis nobody had dared: reusing KV entries *across layers*, storing the cache in 4-bit MXFP4, and replaying instead of persisting sliding-window state — 890 bytes per token in HBM, one-eighth the persistent SSD footprint of V4-Flash.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.790]
+## 3. Before MLA: The 2023 Baseline
+
+DeepSeek LLM 7B and 67B: a textbook MHA/GQA pair, 480 KB and 380 KB per token, and the problem that motivated everything after.
+
+DeepSeek's first-generation language models, released in November 2023 and documented in *DeepSeek LLM: Scaling Open-Source Language Models with Longtermism* (arXiv:2401.02954), are deliberately unglamorous. The two models — a 7B and a 67B dense transformer — were built to prove the lab could scale the standard recipe with unusually careful data hygiene (67B surpassing LLaMA-2 70B on code, math, and reasoning benchmarks with a smaller training corpus), not to innovate on attention. And that makes them the perfect baseline: they show exactly what the cache costs when nobody has touched it.
+
+The attention designs were the era's defaults, as the team's own release notes state plainly: *the 7B model uses Multi-Head attention (MHA) while the 67B model uses Grouped-Query Attention (GQA)*. Plug the published configurations into the Chapter 2 formula and the baseline appears:
+
+| Model (2023) | Attention | Query heads | KV heads | Head dim | Layers | Per layer | KV bytes / token (bf16) | 
+|---|---|---|---|---|---|---|---|
+| DeepSeek LLM 7B | MHA | 32 | 32 | 128 | 30 | 16,384 B | **491,520 B ≈ 480 KB** | 
+| DeepSeek LLM 67B | GQA | 64 | 8 | 128 | 95 | 4,096 B | **389,120 B ≈ 380 KB** |
+
+---
+
+[referencia=363fb5dd108968a4 score=0.770]
+| Model (date) | Attention | Total / active | Context | KV bytes / token | Basis | vs. V1 | 
+|---|---|---|---|---|---|---|
+| DeepSeek LLM 7B (Nov 2023) | MHA | 7B dense | 4K | 491,520 B | bf16 arithmetic | 1.26× worse | 
+| DeepSeek LLM 67B (Nov 2023) | GQA-8 | 67B dense | 4K–32K | 389,120 B | bf16 arithmetic | 1× (baseline) | 
+| DeepSeek-V2 (May 2024) | MLA | 236B / 21B | 128K | 69,120 B | bf16 arithmetic | 5.6× smaller | 
+| V2.5 / V2.5-1210 (Sep–Dec 2024) | MLA | 236B / 21B | 128K | 69,120 B | unchanged | 5.6× smaller | 
+| DeepSeek-V3 (Dec 2024) | MLA | 671B / 37B | 128K | 70,272 B | bf16 (35.4 KB fp8) | 5.5× smaller | 
+| R1 / R1-0528 (2025) | MLA | 671B / 37B | 128K | 70,272 B | unchanged | 5.5× smaller | 
+| V3.1-Terminus (Aug 2025) | MLA | 671B / 37B | 128K | 70,272 B | unchanged | 5.5× smaller | 
+| V3.2 / V3.2-Exp (Sep–Dec 2025) | MLA + DSA | 671B / 37B | 128K | 48,068 B | stored, fp8 latent + 132 B indexer | 8.1× smaller | 
+| V4-Pro (Apr 2026) | CSA + HCA + SWA | 1.6T / 49B | 1M | ~10% of V3.2 | DeepSeek claim @1M | ~80× smaller |
+
+---
+
+[referencia=363fb5dd108968a4 score=0.754]
+### 14.3 — The 890 bytes, accounted
+
+The arithmetic of the headline now closes. Per token: MXFP4 main KV entries (4 bits per element across the pooled, head-shared latents), a 4×-pooled sequence representation inherited from the V4 compressor family, an indexer's worth of small keys — and the layer dimension divided by the reuse factor of the Full/Reindex/Reuse schedule. The result, always resident in HBM: **890 bytes per token, against ~390,000 bytes for DeepSeek-V1 at 67B scale — a 438× reduction** in the report's own retrospective framing. Composed with the CED prefill halving and the bounded indexer, the report plots decode computation remaining nearly constant as context scales to one million tokens.
+
+### 14.4 — SWA Bounded Replay: deleting the local cache
+
+The slickest systems trick in the release targets persistent storage. Hybrid attention needs a sliding-window cache for recent tokens, and that cache traditionally must be persisted (to SSD or host DRAM) so a resumed request can rebuild its state. V4.1-Flash declines: **when a request resumes and the sliding-window KV is missing, the system replays only the most recent n<sub>win</sub> tokens to approximately reconstruct the local state** — accepting a bounded approximation on local detail rather than paying to persist exact copies. The global cache (long-term dependencies) remains worth persisting exactly; the local one does not. Persistent footprint: one eighth of V4-Flash's, and the agent-billing consequence is the announcement's own line — cache-hit charges are a large share of agent costs, and compressing the cache cuts them significantly.
+
+**ENCODER · 20 layers · 8B active**
+
+processes the input once; produces H
+
+<sub>L/2</sub>
+
+global KV entries projected from encoder output
+
+**DECODER · 20 layers · 16B active**
+
+generates; reuses encoder-projected global KV
+
+Full / Reindex / Reuse modes share entries across layers
+
+**Hierarchical indexer**
+
+Full-mode layer picks a blockwise candidate pool; Reindex layers search only inside it
+
+**MXFP4 main cache**
+
+QAT-trained 4-bit KV entries · 890 B/token in HBM
+
+**SWA Bounded Replay**
+
+local window reconstructed by replaying n
+
+<sub>win</sub>recent tokens · persistent KV ÷ 8
+
+---
+
+[referencia=363fb5dd108968a4 score=0.667]
+## Abstract & How to Read This Paper
+
+What this document is, who it is for, and how it is organized.
+
+This paper answers one engineering question: **how did DeepSeek cut the memory cost of a cached token from roughly 390,000 bytes to 890 bytes — a 438× reduction — in just under three years, and what exactly did each step cost and buy?** The question matters because the KV cache is the quiet tax on everything a modern language model does. Every agent loop that re-feeds a 60,000-token transcript, every coding session that replays a repository, every reasoning chain that keeps its own scratchpad alive — all of it is paid for in cached keys and values. DeepSeek's own V4.1-Flash technical report opens by identifying this exact bottleneck: large KV caches strain HBM capacity, SSD capacity, and data-transfer bandwidth simultaneously, and together these demands constitute the primary obstacle to lowering deployment costs for long-horizon agents.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.663]
+## 12. V4: CSA + HCA, the 1M Era
+
+April 24, 2026: two checkpoints, one million tokens of context, and a hybrid attention stack that pools the past before it caches it.
+
+DeepSeek-V4 Preview (arXiv:2606.19348, open-sourced April 24, 2026) is the release where the KV cache stops being a compressed record of the past and becomes a *summary* of it. Two MoE checkpoints shipped together: **V4-Pro**, 1.6T total parameters with 49B active, and **V4-Flash**, 284B total with 13B active — both carrying a 1M-token context window. The headline comparisons were framed against V3.2 at one million tokens: **V4-Pro uses 27% of the single-token inference FLOPs and 10% of the KV cache memory; V4-Flash drops to 10% of the FLOPs and 7% of the cache**. Against a conventional GQA-8 design storing bf16, the V4 cache is roughly 2% of the size. The mechanism is a hybrid of two new attention types, interleaved layer by layer.
+
+### 12.1 — Compressed Sparse Attention (CSA)
+
+CSA attacks the sequence axis directly: **every 4 tokens are pooled into a single cached KV entry** using softmax-gated pooling with a learned positional bias — the compressor decides, per group, how to represent four tokens in one pair of latent vectors. A lightning indexer (the V3.2 inheritance, now running its dot-product scoring over the 4×-shorter compressed stream in FP4) then picks the top-k compressed blocks per query, and attention reads only those. The causality subtlety that pooling introduces — a compressed entry aggregates future tokens into a past token's representation — is handled by a strict guard documented in DeepSeek's LMCache collaboration: **entries are only compressed once they are at least 128 tokens behind the current position**, so no query ever attends to information from its own future. A sliding-window branch covers the uncompressed recent tokens, whose local detail pooling would blur.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.644]
+### 16.2 — Serving recipes, generation by generation
+
+```
+# ---- V3.2 (DSA): block size 64 enforced; fp8 native layout ----
+vllm serve deepseek-ai/DeepSeek-V3.2-Exp --tensor-parallel-size 8 --trust-remote-code
+# ---- V4-Flash (CSA+HCA): tagged vLLM release only ----
+vllm serve deepseek-ai/DeepSeek-V4-Flash \
+    --tensor-parallel-size 8 --enable-expert-parallel \
+    --kv-cache-dtype fp8_ds_mla --trust-remote-code \
+    --tokenizer-mode deepseek_v4 \
+    --kv-transfer-config '{"kv_connector":"LMCacheMPConnector","kv_role":"kv_both"}'
+# speculative decoding (native MTP head; validated with LMCache):
+#   --speculative-config '{"method":"mtp","num_speculative_tokens":1}'
+# start the LMCache movement-storage layer (100 GB L1, LRU eviction):
+lmcache server --l1-size-gb 100 --eviction-policy LRU
+# ---- API (V4.1-Flash): the cache-hit economics ----
+curl https://api.deepseek.com/chat/completions \
+  -H "Content-Type: application/json" \
+  -d '{"model":"deepseek-flash",
+       "messages":[{"role":"system","content":"...big static prefix..."},
+                   {"role":"user","content":"..."}]}'
+# prompt_cache_hit_tokens / prompt_cache_miss_tokens in usage:
+# hits bill at $0.006/M (peak) - a 50x discount; keep prefixes stable,
+# put volatile content LAST, and monitor hit ratio in the dashboard.
+```
+(1) For V4-Flash, use the *tagged* vLLM release, not main — the development branch of the era mis-dispatches FP4 MoE experts and fails to load real weights; validation also needed --enforce-eager on one nightly where CUDA graphs crashed even on vanilla serves. (2) Generation is not bit-exact between cached and fresh runs on MXFP4 kernels — expect score-level equivalence, not token-level. (3) DSA capacity-plans like dense MLA (everything is stored); only read traffic is saved. (4) V4's cache is a hybrid of groups with different block geometries — secondary-storage layers need the per-model layouts LMCache ships.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.642]
+The paper is written to be read once, linearly, and then used as a reference. Part I builds the foundation: why decode is memory-bound, how to compute cache bytes by hand for any architecture, and what DeepSeek's 2023 models cost before any of this existed. Part II covers the latent revolution of 2024, from the MLA paper's mathematics to the disk-caching business decision that turned compression into a pricing weapon. Part III covers the sparsity turn of 2025, when the question changed from "how do we store tokens more cheaply" to "which tokens do we need at all." Part IV covers the V4 era through September 2026, then compiles the evidence: master tables, a full timeline, competitor comparisons against GQA, sliding-window, and NSA-family designs, and deployment recipes for vLLM, SGLang, and LMCache. Readers who only want the numbers can jump straight to Chapter 15; readers who only want the deploy commands can jump to Chapter 16.
+
+Every quantitative claim in this paper is either (a) quoted from a primary source — the DeepSeek technical reports, the official API changelog and pricing pages, or the vLLM/SGLang engineering blogs — or (b) derived arithmetically from published configuration values, with the computation shown so you can check it. Where independent arithmetic and a paper's headline number diverge, both are presented (Chapter 4 has one such case, and it is instructive). Secondary coverage is used for context, never for numbers. All sources are listed in Chapter 16.
+
+## The Problem and the Arithmetic
+
+Why the KV cache — not the weights, not the FLOPs — is the binding constraint on long-context serving, the exact formulas that govern it, and the 2023 models that established DeepSeek's baseline: 480 KB and 380 KB per cached token, with nothing compressed at all.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.639]
+### 5.5 — The configuration, for the record
+
+| Parameter | Value (V2 / V3) | Role | 
+|---|---|---|
+| num_attention_heads | 128 | Query heads per layer | 
+| kv_lora_rank (d <sub>c</sub> ) | 512 | The joint K/V latent — the cached content | 
+| q_lora_rank | 1536 | Query latent (not cached) | 
+| qk_nope_head_dim | 128 | Per-head content dims (from latent) | 
+| qk_rope_head_dim | 64 | Per-head positional dims (decoupled RoPE) | 
+| v_head_dim | 128 | Per-head value dims (from latent) | 
+| n_layers | 60 / 61 | V2 / V3 transformer layers | 
+| **Cached elements per token per layer** | **512 + 64 = 576** | **1,152 bytes bf16 · 576 bytes fp8** | 
+
+Two properties of this design earned it the industry's respect. First, **quality parity**: the V2 ablations show MLA outscoring MHA (and GQA, and MQA) at matched training budgets — low-rank projection turned out to be a mild regularizer of attention rather than a bottleneck, which is why no DeepSeek model since has felt the need to widen the latent. Second, **portability**: because absorbed decode is plain SDPA, MLA runs anywhere a matmul runs — MLX on Apple Silicon, consumer runtimes, research code — with the full compression and no custom kernel. The custom kernels (FlashMLA, Chapter 8) exist to go *faster* than SDPA, not to make the mechanism possible.
+
+MLA caches a 576-element thought per token per layer instead of 32,768 numbers, reconstructs whatever the current phase needs from it, and arranges the algebra so decode never reconstructs anything — 57× less traffic, no measured quality loss, and a fixed 576-element target that every later precision trick (fp8 in V3.2, MXFP4 in V4.1) could attack with arithmetic instead of architecture.
+
+---
+
+[referencia=363fb5dd108968a4 score=0.605]
+### 10.4 — Day-0 kernels and what the support post reveals
+
+The engineering lift to serve DSA was nontrivial, and the vLLM team's Day-0 post is the best public record of why. Three cache layouts now coexist (latent, indexer keys at per-block granularity, page table mappings between them); continuous batching must track separate prefill/decode paths for the indexer; and the top-k over a materialized (q, n, h) logits tensor wants fusion at scale — vLLM shipped a fused kernel taking design cues from DeepSeek's own TileLang reference. The compute path uses new DeepGEMM routines (fp8_mqa_logits for indexer scoring, causality bounded by per-query start/end context markers) and a new sparse attention kernel in FlashMLA, with out-of-the-box Blackwell support landed in collaboration with NVIDIA (B200 and GB200 from day zero). SGLang's simultaneous Day-0 post told the same story from its side. The message to the industry was unmistakable: when DeepSeek ships an attention mechanism, it ships the kernels too, and the engines follow within hours.
+
+```
+# 8x H200 / 8x B200 / 16x H100; block size 64 enforced by the layout
+vllm serve deepseek-ai/DeepSeek-V3.2-Exp \
+    --tensor-parallel-size 8 \
+    --trust-remote-code
+# indexer K cache + MLA latent cache are allocated automatically;
+# fp8 KV is the model's native serving precision (656 B + 132 B layout)
+```
+DSA does not reduce *storage*. You still allocate and hold the full 788 B × N × 61 cache, because the indexer must be able to score any token at any step (and the selection changes per query). What shrinks is HBM traffic per step. Plan capacity like dense MLA; plan bandwidth like constant-time. Teams that conflated the two ran out of memory at exactly the context lengths where DSA's latency looked best.
+
+V3.2-Exp was released as an experiment and flagged as such — weights on Hugging Face, kernel stack open, evaluations honest about the frontier. Ten weeks later the experiment graduated.

@@ -1,0 +1,1068 @@
+{
+  "run_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+  "answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+  "tool_name": "Gemini",
+  "answer_path": "answers/Gemini/Emergente/ia_generativa_entretenimento.docx",
+  "generated_at": "2026-11-04T02:45:27.733796Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".docx",
+    "size_bytes": 3030601,
+    "page_count": null,
+    "pdf_title": "Word Document",
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": "2026-11-02 15:33:43+00:00",
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 87,
+    "citation_markers_distinct": 20,
+    "references_listed": 32,
+    "references_never_cited": 12,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 87,
+  "pct_supported": 31.03448275862069,
+  "pct_unsupported": 34.48275862068966,
+  "pct_contradicted": 0.0,
+  "count_supported": 27,
+  "count_unsupported": 30,
+  "count_contradicted": 0,
+  "count_skipped": 30,
+  "count_audited": 57,
+  "pct_supported_audited": 47.368421052631575,
+  "pct_unsupported_audited": 52.63157894736842,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 19,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 25,
+    "ref_bloqueada": 5
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 7,
+  "count_reclassified_by_verification": 2,
+  "verification_stage_counts": {
+    "context_expansion": 2
+  },
+  "mis_cited_reference_count": 9,
+  "uncredited_reference_count": 2,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "b1fc05846ad56596",
+      "citation_markers": [
+        "[1]"
+      ],
+      "raw_url": "https://www.sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+      "normalized_url": "https://sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+      "work_key": "https://sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+      "title": "Digital Replicas - SAG-AFTRA,",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-04T02:42:18.450641Z",
+      "error_message": "HTTP 403 em https://www.sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf (PDF, sem fallback via playwright)",
+      "barrier_kind": null,
+      "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "86b633d7e4e014bb",
+      "citation_markers": [
+        "[4]"
+      ],
+      "raw_url": "https://www.sagaftra.org/sites/default/files/sa_documents/Contract%20Bulletin%20-%20A.I.%20Synthetic%20Performer%20vs%20Digital%20Replicas.pdf",
+      "normalized_url": "https://sagaftra.org/sites/default/files/sa_documents/Contract Bulletin - A.I. Synthetic Performer vs Digital Replicas.pdf",
+      "work_key": "https://sagaftra.org/sites/default/files/sa_documents/Contract Bulletin - A.I. Synthetic Performer vs Digital Replicas.pdf",
+      "title": "Contract Bulletin - A.I. Synthetic Performer vs Digital Replicas,",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-04T02:42:18.923119Z",
+      "error_message": "HTTP 403 em https://www.sagaftra.org/sites/default/files/sa_documents/Contract%20Bulletin%20-%20A.I.%20Synthetic%20Performer%20vs%20Digital%20Replicas.pdf (PDF, sem fallback via playwright)",
+      "barrier_kind": null,
+      "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "c1f4cdfc95600424",
+      "citation_markers": [
+        "[29]"
+      ],
+      "raw_url": "https://quod.lib.umich.edu/j/jcms/images/12_64.1infocus-holliday.pdf",
+      "normalized_url": "https://quod.lib.umich.edu/j/jcms/images/12_64.1infocus-holliday.pdf",
+      "work_key": "https://quod.lib.umich.edu/j/jcms/images/12_64.1infocus-holliday.pdf",
+      "title": "Ghosts in the Celluloid: AI Video Dubbing and TrueSync,",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-04T02:42:19.193695Z",
+      "error_message": "HTTP 403 em https://quod.lib.umich.edu/j/jcms/images/12_64.1infocus-holliday.pdf (PDF, sem fallback via playwright)",
+      "barrier_kind": null,
+      "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "9d0ca35723cdd785",
+      "citation_markers": [
+        "[5]"
+      ],
+      "raw_url": "https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+      "normalized_url": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+      "work_key": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+      "title": "Artificial Intelligence | SAG-AFTRA,",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T02:41:53.618237Z",
+      "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930092-GRU 1793760112 3490068709 Varnish cache server",
+      "barrier_kind": "http_error",
+      "source_answer_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-0",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-2",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-4",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-9",
+      "reason": "Referencia(s) citada(s) ['86b633d7e4e014bb'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-13",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-14",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-15",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-16",
+      "reason": "Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-17",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-18",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-19",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-20",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-21",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-22",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-23",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-24",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-25",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-26",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-27",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-31",
+      "reason": "Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-42",
+      "reason": "Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-43",
+      "reason": "Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-44",
+      "reason": "Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-62",
+      "reason": "Referencia(s) citada(s) ['c1f4cdfc95600424'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-64",
+      "reason": "Referencia(s) citada(s) ['c1f4cdfc95600424'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-65",
+      "reason": "Referencia(s) citada(s) ['c1f4cdfc95600424'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-73",
+      "reason": "Referencia(s) citada(s) ['c1f4cdfc95600424'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-83",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-84",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-86",
+      "reason": "Referencia(s) citada(s) ['b1fc05846ad56596'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "b1fc05846ad56596",
+      "url": "https://www.sagaftra.org/sites/default/files/sa_documents/DigitalReplicas.pdf",
+      "times_cited": 20,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0,
+        2,
+        4,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        83,
+        84,
+        86
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a6e0ab0ab4bf0fc8",
+      "url": "https://blog.promise.legal/sag-aftra-ai-indie-film-compliance/",
+      "times_cited": 12,
+      "supported_count": 7,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        3,
+        5,
+        7,
+        8,
+        10,
+        12
+      ],
+      "partial_positions": [
+        6,
+        11,
+        76,
+        77,
+        85
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "An Employment-Based Digital Replica is a digital reproduction of a performer's voice or likeness created with the performer's physical participation during their employment on a production.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "2b8b43b8a5f54e81",
+      "url": "https://flawlessai.com/",
+      "times_cited": 6,
+      "supported_count": 2,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        61,
+        74
+      ],
+      "partial_positions": [
+        60,
+        75
+      ],
+      "absent_positions": [
+        70,
+        72
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "To meet the needs of the film industry, Flawless has been created in close collaboration with guilds, unions, studios, and post-production partners. Clear Rights, No Gray Zones. Our models are built with rights and provenance in mind. [...] Informed Consent by Design. The Artistic Rights Treasury (A.R.T.) ensures that when AI assists in refining a performance, the actor reviews and consents to every change before release.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "d273a927c888476b",
+      "url": "https://felixrunye.medium.com/the-invisible-magic-of-netflixs-neural-dubbing-how-ai-rewrites-actor-lips-96e5fc1df317",
+      "times_cited": 6,
+      "supported_count": 3,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        66,
+        67,
+        69
+      ],
+      "partial_positions": [
+        63,
+        68,
+        71
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "First, the AI analyzes the original film frame-by-frame. It places thousands of invisible tracking points over the actor's face, mapping the precise geometry of the jawline, lips, teeth, and cheeks. This completely isolates the \"performance zone\" from the rest of the head.",
+      "key_excerpt_position": 66
+    },
+    {
+      "reference_id": "9d0ca35723cdd785",
+      "url": "https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+      "times_cited": 5,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        16,
+        31,
+        42,
+        43,
+        44
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ba0a1d26baec7c1f",
+      "url": "https://studio.aifilms.ai/blog/california-ai-laws-protect-actors-digital-replicas",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        32,
+        33,
+        34,
+        36
+      ],
+      "partial_positions": [
+        35
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "AB 2602 prohibits contractual provisions that would allow for the use of a digital replica of an individual's voice or likeness in place of the individual's actual services, unless the individual gave their consent to a clear, specific description of how the AI would be used. The law requires labor contracts to specify if AI generated replicas of a performer, imitating their likeness or voice, are being used, and mandates that the performer is represented by a union or lawyer in such contracts.",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "fce5f836c523fbb0",
+      "url": "https://www.satedrj.org.br/sindicato-repudia-globo-por-usar-ia-no-lugar-de-dubladores-em-documentario/",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "partial_positions": [
+        46
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Sated-RJ (Sindicato dos Artistas e Técnicos em Espetáculos de Diversões do Estado do Rio de Janeiro) emitiu nota de repúdio contra o Globoplay, plataforma de streaming do Grupo Globo, por usar inteligência artificial na dublagem do documentário “Rio-Paris: A Tragédia do Voo 447”.",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "2146be9641e49751",
+      "url": "https://www.americanbar.org/groups/communications_law/resources/magazine/2024-summer/elvis-act-tennessee-shows-its-burning-love-recording-artists/",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        78,
+        79
+      ],
+      "absent_positions": [
+        80,
+        81
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "generative AI model “learns its skills by analyzing massive amounts of digital [media] culled from the internet",
+      "key_excerpt_position": 78
+    },
+    {
+      "reference_id": "d50904ab9268760a",
+      "url": "https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        53,
+        58
+      ],
+      "partial_positions": [
+        54,
+        59
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Os senadores mantiveram no texto a proteção dos direitos dos criadores de conteúdo e obras artísticas. […] Já o uso de imagem e voz de pessoas por sistemas de IA deverá respeitar os direitos da personalidade, conforme previstos no Código Civil.",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "c1f4cdfc95600424",
+      "url": "https://quod.lib.umich.edu/j/jcms/images/12_64.1infocus-holliday.pdf",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        62,
+        64,
+        65,
+        73
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d9376c402e2d44bc",
+      "url": "https://www.dglaw.com/importance-of-digital-replica-consents-under-the-sag-aftra-commercials-contract/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        28,
+        29
+      ],
+      "partial_positions": [
+        30
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The 2025 SAG-AFTRA Commercials Contract, effective April 1, 2025, included for the first time detailed provisions relating to the creation and use of synthetic performers and digital replicas of union performers generated using AI technologies. The Digital Replica Rider is now available as the standardized consent form jointly drafted by SAG-AFTRA and the Joint Policy Committee (JPC).",
+      "key_excerpt_position": 28
+    },
+    {
+      "reference_id": "f546d3dd48eb2c5c",
+      "url": "https://www.armstrongteasdale.com/thought-leadership/artificial-intelligence-and-copyrights-tennessees-elvis-act-becomes-law/",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        37
+      ],
+      "partial_positions": [
+        38,
+        41
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "On March 21, 2024, the Ensuring Likeness Voice and Image Security Act (ELVIS Act) was signed into law by Tennessee Gov. Bill Lee. ... Tennessee is the first state to implement legislation of this kind, with the law taking effect on July 1, 2024.",
+      "key_excerpt_position": 37
+    },
+    {
+      "reference_id": "11d3753c958cd0bf",
+      "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/157233/pdf?_materia_WAR_atividadeportlet_utm_source=chatgpt.com",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        52
+      ],
+      "partial_positions": [
+        51
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Decisão: Aprovada pelo Plenário ... Destino: À Câmara dos Deputados ... Último estado: 17/03/2025 - REMETIDA À CÂMARA DOS DEPUTADOS ... Relator(es): Senador Eduardo Gomes (encerrado em 05/12/2024 - Deliberação da matéria) ... Senador Eduardo Gomes (encerrado em 10/12/2024 - Matéria ... Encerrada a relatoria do Senador Eduardo Gomes por deliberação da matéria.",
+      "key_excerpt_position": 52
+    },
+    {
+      "reference_id": "5f3e072377bda147",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        56,
+        57
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "86b633d7e4e014bb",
+      "url": "https://www.sagaftra.org/sites/default/files/sa_documents/Contract%20Bulletin%20-%20A.I.%20Synthetic%20Performer%20vs%20Digital%20Replicas.pdf",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        9
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "95a8b0ef336269b2",
+      "url": "https://aicompliant.ai/blog/ai-impact-assessment-tennessee-elvis-act-2024",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        82
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "expands Tennessee's existing \"right of publicity\" laws to explicitly include protections for individual voices, images, and likenesses against unauthorized use, particularly in the context of generative AI technologies",
+      "key_excerpt_position": 82
+    },
+    {
+      "reference_id": "b2b19e5f033855c4",
+      "url": "https://scholarship.law.vanderbilt.edu/context/jetlaw/article/1654/viewcontent/Why_Tennessee_s_ELVIS_Act_is_the_King_of_Artificial_Intelligence__Fowler.pdf",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        39
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ac7f9fe919b1276a",
+      "url": "https://iprmentlaw.com/2024/04/14/tennessees-elvis-act-protecting-the-voice-of-an-artist/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        40
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It has also introduced a new form of secondary liability relevant for AI companies. Under Section 6[iii] of the amendment act (Section 47-25-1105), the law now would introduce two forms of civil liability",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "05ddd42fdd22875e",
+      "url": "https://www.youtube.com/watch?v=4yNRe8lHufc",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        45
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "FÁBIO AZEVEDO, PRESIDENTE DUBLAR E REPRESENTANTE DO MOVIMENTO DUBLAGEM VIVA",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "e78e724fea229bf8",
+      "url": "https://apublica.org/nota/ia-pl-2338-protege-direitos-autorais-mas-nao-os-trabalhistas/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o projeto de lei da inteligência artificial (IA) resistiu às pressões do setor privado e garantiu que um sistema não possa usar obras autorais protegidas sem autorização e remuneração. [...] representantes do setor de tecnologia defendendo a utilização de produções alheias sem remuneração para treinar seus sistemas",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "3e1328a0e99529c8",
+      "url": "https://www.loeb.com/en/insights/passle/2023/11/artificial-intelligence-terms-of-sagaftra-tv-theatrical-contract",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ad63931a4a7e0a42",
+      "url": "https://www.facebook.com/61577797664422/posts/%EF%B8%8F-the-entertainment-creative-arts-magaziness-october-creatively-legal-section-di/122186514272926588/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d34bcbfc2b76f491",
+      "url": "https://www.proskauer.com/blog/california-enacts-generative-ai-law-addressing-digital-replicas-of-performers",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "bef76463c3192de3",
+      "url": "https://law.vanderbilt.edu/why-tennessees-elvis-act-is-the-king-of-artificial-intelligence-protections/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "84cf7987b5bb5b2a",
+      "url": "https://diplomatique.org.br/inteligencia-artificial-generativa-para-quem/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f58e147fa935486e",
+      "url": "https://gqcanimes.com.br/dubladores-brasileiros-pedem-regulamentacao-para-uso-de-ia/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1dcee30b7b9ae204",
+      "url": "https://diariodopara.com.br/noticias/ia-vai-substituir-dubladores-fim-da-profissao-pode-ser-inevitavel-entenda/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "2ddcc05b33f7db1a",
+      "url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "76c8a7e45d361217",
+      "url": "https://www.dataprivacybr.org/a-construcao-da-legislacao-de-inteligencia-artificial-no-brasil-analise-tecnica-do-texto-que-sera-votado-no-plenario-do-senado-federal/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "c102ab75f03f6682",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "586c4bc75023321b",
+      "url": "https://www.reddit.com/r/artificial/comments/10qwqfp/flawless_ai_lets_you_change_the_dialogue_on_a/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "286bd171eea53a56",
+      "url": "https://www.ortmoragency.com/blog/ai-lip-sync",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-38",
+      "position": 38,
+      "claim_excerpt": "Concebida primordialmente para proteger o setor musical de Nashville e Memphis, a lei atualizou a legislação estadual de proteção de direitos pessoais (Personal Rights Protection Act) para incluir fo…",
+      "cited_markers": "[10]",
+      "corroborating_markers": "[15] [14] [11] [25] [9] [12] [6] [21]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-39",
+      "position": 39,
+      "claim_excerpt": "O ELVIS Act definiu a voz como um som em qualquer meio que seja prontamente identificável e atribuível a um indivíduo, independentemente de ser o som real ou uma simulação gerada por tecnologia.",
+      "cited_markers": "[13]",
+      "corroborating_markers": "[14] [15] [10] [12] [11] [25]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-40",
+      "position": 40,
+      "claim_excerpt": "A inovação legislativa do Tennessee reside no estabelecimento da responsabilidade civil primária e secundária para empresas e desenvolvedores que disponibilizem tecnologias, softwares ou serviços cuj…",
+      "cited_markers": "[15]",
+      "corroborating_markers": "[10] [12] [11] [14] [26] [25] [18]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-54",
+      "position": 54,
+      "claim_excerpt": "O substitutivo manteve a exigência de autorização prévia e remuneração justa aos titulares de direitos autorais para a utilização de obras protegidas como insumo no treinamento de sistemas de intelig…",
+      "cited_markers": "[24]",
+      "corroborating_markers": "[27] [25] [18] [26] [14] [21]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-56",
+      "position": 56,
+      "claim_excerpt": "Além disso, o projeto estipula a obrigatoriedade de transparência e rotulagem para conteúdos sintéticos.",
+      "cited_markers": "[22]",
+      "corroborating_markers": "[25] [26] [27] [7] [21]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-59",
+      "position": 59,
+      "claim_excerpt": "A fiscalização e aplicação de sanções administrativas do Marco Legal da IA foram atribuídas à Autoridade Nacional de Proteção de Dados (ANPD), que atuará como autoridade competente para expedir norma…",
+      "cited_markers": "[24]",
+      "corroborating_markers": "[26] [25] [23]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-63",
+      "position": 63,
+      "claim_excerpt": "Esse desalinhamento forçava os tradutores a adaptarem os diálogos para encontrar palavras que coincidissem com a abertura de boca do ator em cena, muitas vezes adulterando o sentido original do rotei…",
+      "cited_markers": "[30]",
+      "corroborating_markers": "[19] [32] [20] [31] [18] [17] [16]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-68",
+      "position": 68,
+      "claim_excerpt": "Modelagem Tridimensional Generativa: Uma malha 3D dinâmica da área bucal é gerada e modificada em tempo real para acompanhar o ritmo e a cadência da nova voz.",
+      "cited_markers": "[30]",
+      "corroborating_markers": "[32] [19] [9] [12] [18] [14] [26] [21] [22] [2] [3] [31]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_083edd66e9bc_20261102T153322Z-78",
+      "position": 78,
+      "claim_excerpt": "Para desenvolver algoritmos capazes de sintetizar vozes, rostos e estilos de atuação, as empresas de tecnologia realizam a raspagem massiva de dados (data scraping) contidos em filmes, músicas, grava…",
+      "cited_markers": "[14]",
+      "corroborating_markers": "[18] [17] [15] [9] [26] [19] [2] [6] [22] [25] [3] [31]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1064976,
+  "cost_tracked": false,
+  "processing_time_seconds": 126725.542538
+}

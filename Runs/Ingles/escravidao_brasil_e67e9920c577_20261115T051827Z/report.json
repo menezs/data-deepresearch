@@ -1,0 +1,1215 @@
+{
+  "run_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+  "answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/Ingles/ChatGPT/Consolidado/escravidao_brasil.md",
+  "generated_at": "2026-11-18T00:24:16.508811Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 32917,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 111,
+    "citation_markers_distinct": 34,
+    "references_listed": 34,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 111,
+  "pct_supported": 38.73873873873874,
+  "pct_unsupported": 36.93693693693694,
+  "pct_contradicted": 0.9009009009009009,
+  "count_supported": 43,
+  "count_unsupported": 41,
+  "count_contradicted": 1,
+  "count_skipped": 26,
+  "count_audited": 85,
+  "pct_supported_audited": 50.588235294117645,
+  "pct_unsupported_audited": 48.23529411764706,
+  "pct_contradicted_audited": 1.1764705882352942,
+  "count_partially_supported": 21,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 26
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 16,
+  "count_reclassified_by_verification": 2,
+  "verification_stage_counts": {
+    "context_expansion": 2
+  },
+  "mis_cited_reference_count": 20,
+  "uncredited_reference_count": 5,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "2a7aff30ef7372be",
+      "citation_markers": [
+        "[4]"
+      ],
+      "raw_url": "https://guides.loc.gov/brazil-us-relations/slavery-and-abolition",
+      "normalized_url": "https://guides.loc.gov/brazil-us-relations/slavery-and-abolition",
+      "work_key": "https://guides.loc.gov/brazil-us-relations/slavery-and-abolition",
+      "title": "4. Library of Congress, “Slavery and Abolition in Brazil-US Relations.”",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T00:21:30.256768Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "eaccdcfdbd37e579",
+      "citation_markers": [
+        "[5]"
+      ],
+      "raw_url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546391139",
+      "normalized_url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546391139",
+      "work_key": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546391139",
+      "title": "5. Rafael de Bivar Marquese, “Coffee and the Formation of Modern Brazil, 1860–1914,” Oxford Research Encyclopedia of Latin American History.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T00:20:18.797624Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "cccef09cf4140c13",
+      "citation_markers": [
+        "[9]"
+      ],
+      "raw_url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546615849",
+      "normalized_url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546615849",
+      "work_key": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546615849",
+      "title": "9. Ricardo Salles, “The Abolition of Brazilian Slavery, 1864–1888,” Oxford Research Encyclopedia of Latin American History.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T00:20:25.076971Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "2c6101b3e57c889f",
+      "citation_markers": [
+        "[10]"
+      ],
+      "raw_url": "https://www.loc.gov/item/hlas-bi2007000899/",
+      "normalized_url": "https://loc.gov/item/hlas-bi2007000899",
+      "work_key": "https://loc.gov/item/hlas-bi2007000899",
+      "title": "10. Library of Congress, “A abolição na Bahia, 1870–1888,” *Handbook of Latin American Studies* annotation.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T00:20:39.420377Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-4",
+      "reason": "Referencia(s) citada(s) ['2a7aff30ef7372be'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-5",
+      "reason": "Referencia(s) citada(s) ['2a7aff30ef7372be'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-6",
+      "reason": "Referencia(s) citada(s) ['eaccdcfdbd37e579'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-7",
+      "reason": "Referencia(s) citada(s) ['eaccdcfdbd37e579'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-13",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-14",
+      "reason": "Referencia(s) citada(s) ['2a7aff30ef7372be'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-15",
+      "reason": "Referencia(s) citada(s) ['2c6101b3e57c889f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-16",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-27",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-29",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-30",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-39",
+      "reason": "Referencia(s) citada(s) ['eaccdcfdbd37e579'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-40",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-41",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-42",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-49",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-50",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-52",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-55",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-62",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-73",
+      "reason": "Referencia(s) citada(s) ['eaccdcfdbd37e579'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-74",
+      "reason": "Referencia(s) citada(s) ['eaccdcfdbd37e579'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-75",
+      "reason": "Referencia(s) citada(s) ['eaccdcfdbd37e579'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-104",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-105",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-106",
+      "reason": "Referencia(s) citada(s) ['cccef09cf4140c13'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "cccef09cf4140c13",
+      "url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546615849",
+      "times_cited": 16,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        13,
+        16,
+        27,
+        29,
+        30,
+        40,
+        41,
+        42,
+        49,
+        50,
+        52,
+        55,
+        62,
+        104,
+        105,
+        106
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "25c4e400498ef53d",
+      "url": "https://www.cambridge.org/core/journals/international-review-of-social-history/article/precariousness-of-freedom-in-a-slave-society-brazil-in-the-nineteenth-century/8496E56A9C311D9B941F94E22F48F15D",
+      "times_cited": 10,
+      "supported_count": 5,
+      "unsupported_count": 4,
+      "contradicted_count": 1,
+      "supporting_citations": 5,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        10,
+        79,
+        90,
+        95,
+        97
+      ],
+      "partial_positions": [
+        72,
+        88,
+        89,
+        91
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [
+        99
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "significant rates of manumission resulted in a high percentage of free and freed people of color in the population of the country throughout the nineteenth century. [...] Self-purchase was different from other types of conditional manumission because the initiative belonged to the slave [...] freedoms conceded in last will and testaments and post-mortem inventories [...] manumissions achieved by judicial means [...] the idea is to highlight situations which often blurred the distinction between slavery and freedom in nineteenth-century Brazil, therefore rendering insecure the condition of free and freed people of African descent [...] a generalized racial prejudice against the African race [...] the masters' exclusive prerogative to decide whether, when, or how to free their slaves constituted a major aspect of social control within Brazilian slavery",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "ad3c442c7b266e1f",
+      "url": "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio/",
+      "times_cited": 10,
+      "supported_count": 7,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        31,
+        35,
+        37,
+        59,
+        60,
+        64,
+        65
+      ],
+      "partial_positions": [
+        34,
+        93,
+        109
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O processo de abolição da escravidão no Brasil foi lento e gradual, tendo início ainda no período joanino, quando Portugal e Inglaterra assinaram os primeiros tratados pelo fim do tráfico, e terminando no final do século XIX, após décadas de luta, resistência e pressões internas e externas.",
+      "key_excerpt_position": 31
+    },
+    {
+      "reference_id": "f117639fe46df69c",
+      "url": "https://www.cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/EC17B17AE1B57465E31691EEF5C6558A",
+      "times_cited": 9,
+      "supported_count": 2,
+      "unsupported_count": 7,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        2
+      ],
+      "partial_positions": [
+        8,
+        92,
+        100,
+        110
+      ],
+      "absent_positions": [
+        9,
+        26,
+        94
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "May 13, 1888, the day that ended legalized slavery in his country. Brazil was the last nation in the Western hemisphere to abolish slavery; it had also been the largest and the most enduring slave society in the Americas. For more than 350 years, from the arrival of the first enslaved Africans in the early sixteenth century until abolition, slavery shaped Brazilian history across nearly every region of its continental geography. Over those centuries, nearly five million enslaved Africans arrived in Brazil",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "eaccdcfdbd37e579",
+      "url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546391139",
+      "times_cited": 6,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        6,
+        7,
+        39,
+        73,
+        74,
+        75
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "c63afb6be21f2911",
+      "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/golden-law",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        24
+      ],
+      "partial_positions": [
+        25,
+        51,
+        66
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Contemporary abolitionists—particularly Joaquim Nabuco and André Rebouças—were outspoken critics of what they regarded as only a partial abolition that had failed to include land reform, necessary in their view if Brazil was to realize its potential as a producing nation on a footing with the industrializing societies of Europe.",
+      "key_excerpt_position": 24
+    },
+    {
+      "reference_id": "530eecfb25f2691c",
+      "url": "https://www.scielo.br/j/rbh/a/BcBZ8KgTsqPZZr7vVmGDc6t/?lang=pt",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        45,
+        46,
+        70,
+        71
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a importância da garantia do direito dos escravizados de formar um pecúlio, e de obter a alforria caso tivessem os meios para indenizar o seu valor (Chalhoub, 1990)",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "f719e5d5494d2e4a",
+      "url": "https://cpdoc.fgv.br/sites/default/files/movimento_negro/raca_racismo/Notas_LeiAurea.pdf",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        54
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        53,
+        63,
+        103
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Princesa Imperial Regente, em nome de Sua Majestade o Imperador, o Senhor D. Pedro II, faz saber a todos os súditos do Império que a Assembleia Geral decretou e ela sancionou a lei seguinte: Art. 1°: É declarada extinta desde a data desta lei a escravidão no Brasil.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "b412d28ea76e5575",
+      "url": "https://www.scielo.br/j/rh/a/YJd7BKnhn54kLNRym8VFSTJ/?lang=pt",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        67,
+        69,
+        98
+      ],
+      "partial_positions": [
+        68
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A população negra não ficou alheia ao fundo de emancipação nem às disputas que o envolvia. Ainda sob a Monarquia, em 26 de abril de 1889, pouco antes da Lei de 13 de maio completar seu primeiro ano, a Gazeta de Notícias da Corte publicou uma carta elaborada por um grupo de libertos que representavam os libertos da região de Vassouras, província do Rio de Janeiro.",
+      "key_excerpt_position": 67
+    },
+    {
+      "reference_id": "2531b2a54790170d",
+      "url": "https://www.scielo.br/j/alm/a/6jgKHcz533MNMn5VcPPGR5M/?lang=pt",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        76,
+        77,
+        78,
+        96
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o seu 'sentido racista', que valorizava o europeu branco em detrimento dos escravos, libertos e pobres livres no mercado de trabalho, bem como sua importância para o 'processo civilizador' do povo brasileiro. Pensamento embasado em teorias científicas sobre as raças, denominado à época no Brasil de 'branqueamento', que predominava entre os membros da elite política e intelectual nacional.",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "09f82efdab55e105",
+      "url": "https://cpdoc.fgv.br/artigos/proclamacao-republica",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        82,
+        84,
+        85
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        80
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Não havia uma maioria republicana no país e nem mesmo unidade entre os militares. De fato, apenas uma pequena fração do Exército, e com características muito específicas, esteve envolvida na conspiração republicana. [...] Havia muitos republicanos civis no final do Império, mas eles estiveram praticamente ausentes da conspiração. O golpe republicano foi sem dúvida militar, em sua organização e execução.",
+      "key_excerpt_position": 82
+    },
+    {
+      "reference_id": "2a7aff30ef7372be",
+      "url": "https://guides.loc.gov/brazil-us-relations/slavery-and-abolition",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        4,
+        5,
+        14
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "7f3ad505024580cc",
+      "url": "https://bndigital.bn.gov.br/dossies/literatura-matriz-afro-brasileira/autores-na-biblioteca-nacional-digital/luis-gama/",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        18,
+        20,
+        36
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "bfef16fbfb6faa86",
+      "url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        58
+      ],
+      "partial_positions": [
+        108
+      ],
+      "absent_positions": [
+        107
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Art. 1º É declarada extincta desde a data d'esta Lei, a escravidão no Brazil. Art. 2º Revogam-se as disposições em contrário.",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "f5218277344e2be8",
+      "url": "https://atlas.fgv.br/verbetes/proclamacao-da-republica",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        81,
+        86,
+        87
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o partido era uma força política significativa apenas no Rio Grande do Sul e em São Paulo, onde contava com cerca de 25% do eleitorado e estava em crescimento, devido ao apoio que passara a receber de muitos fazendeiros após o fim da escravidão",
+      "key_excerpt_position": 81
+    },
+    {
+      "reference_id": "b37443337044d8e2",
+      "url": "https://www.gov.br/igualdaderacial/pt-br/assuntos/noticias/nesta-data-em-1853-nasceu-jose-carlos-do-patrocinio",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        21,
+        22
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Filho de Justina Maria do Espírito Santo, mulher escravizada, e do padre João Carlos Monteiro, Patrocínio conheceu desde cedo as marcas de uma sociedade escravocrata. Na imprensa, atuou em veículos como Gazeta da Tarde e Cidade do Rio [...] Ao lado de nomes como Joaquim Nabuco e André Rebouças, teve papel de destaque no movimento abolicionista. Em 1885, participou de uma conferência pública no Teatro Politeama, promovida no âmbito da Confederação Abolicionista. Também como vereador, articulou campanhas, eventos e discursos [...] Em 1883, publicou o Manifesto da Confederação Abolicionista, documento ligado à articulação do movimento pela abolição.",
+      "key_excerpt_position": 21
+    },
+    {
+      "reference_id": "83c89cc46593dee9",
+      "url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-2040-28-setembro-1871-538828-publicacaooriginal-35591-pl.html",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        44
+      ],
+      "partial_positions": [
+        43
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Art. 1º Os filhos de mulher escrava que nascerem no Imperio desde a data desta lei, serão considerados de condição livre. § 1º Os ditos filhos menores ficarão em poder o sob a autoridade dos senhores de suas mãis, os quaes terão obrigação de crial-os e tratal-os até a idade de oito annos completos. Chegando o filho da escrava a esta idade, o senhor da mãi terá opção, ou de receber do Estado a indemnização de 600$000, ou de utilisar-se dos serviços do menor até a idade de 21 annos completos.",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "51a1e5d1bf229808",
+      "url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3270-28-setembro-1885-543466-publicacaooriginal-53780-pl.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        47,
+        48
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Regula a extincção gradual do elemento servil. [...] LEI Nº 3.270, DE 28 DE SETEMBRO DE 1885 [...] São libertos os escravos de 60 annos de idade, completos antes e depois da data em que entrar em execução esta Lei; ficando, porém, obrigados, a titulo de indemnização pela sua alforria, a prestar serviços a seus ex-senhores pelo espaço de tres annos.",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "b12e3b689f0d3546",
+      "url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?isAllowed=y&sequence=7",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        56,
+        57
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0910994a45779fa7",
+      "url": "https://repositorio.ipea.gov.br/bitstream/11058/12387/1/NT_110_Disoc_a_luta.pdf",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        101,
+        102
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O 13 de maio foi ressignificado pelo movimento negro como dia de denúncia e de enfrentamento à discriminação e ao racismo. [...] outras razões para a contestação do 13 de maio pelos movimentos negros [...] o caráter comemorativo da data ainda é bastante contestado pelos movimentos negros [...] o dia 13 de maio foi ressignificado como o Dia Nacional de Combate e Denúncia contra o Racismo",
+      "key_excerpt_position": 101
+    },
+    {
+      "reference_id": "ea9705502cac620d",
+      "url": "https://whc.unesco.org/document/159617",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        1
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Over this period 4.864.373 enslaved Africans reached the Brazilian territory alive, brought in by slave ships. […] Thus, according to this database, Brazil received a little more than 45% of all the enslaved Africans who arrived in the Americas alive […] Brazil was the country, which received most captives brought from Africa",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "31dde344718e5461",
+      "url": "https://bndigital.bn.gov.br/dossies/rede-da-memoria-virtual-brasileira/escravidao-jose-roberto-pinto-de-goes/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        3
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a190ddcc4ec71575",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13162-asi-ibge-lanca-colecao-inedita-da-historia-das-estatisticas-brasileiras",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        11
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o Brasil, que no censo de 1872 tinha quase 10 milhões de pessoas sendo 8,4 livres e 1,5 escravos",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "9644c2b166700874",
+      "url": "https://rbg.ibge.gov.br/index.php/rbg/article/download/2620/1990",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        12
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "1887......|..············|723419(censo) ... as condições de vida dos escravos determinavam uma taxa de mortalidade superior à da natalidade ... 1871 (Ventre Livre) e 1885 (Sexagenário) ... os escravos, desde 1886, fugiam em massa das fazendas ... a condenação moral pela opinião pública",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "2c6101b3e57c889f",
+      "url": "https://www.loc.gov/item/hlas-bi2007000899/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        15
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a208e290b586ab77",
+      "url": "https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/escravidao-no-brasil/movimentos-abolicionistas-e-alforrias/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        17
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1ee507bd076bf2f1",
+      "url": "https://www.gov.br/mdh/pt-br/sdh/noticias/2018/janeiro/luis-gama-e-reconhecido-por-lei-como-patrono-da-abolicao-da-escravatura-do-brasil/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        19
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "advogado Luiz Gama como Patrono da Abolição da Escravidão no Brasil. Nascido em Salvador em 1830, Luiz Gama foi poeta, jornalista e rábula autodidata. Lutou pela libertação de mais de 500 negros mantidos em regime de escravidão e atuou contra a manutenção da escravatura. Em 2015, a Ordem dos Advogados do Brasil concedeu o título de advogado a Luís Gama, reconhecendo sua importância enquanto jurista. Além de seu trabalho jurídico, foi também uma referência central para a imprensa negra paulistana.",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "1f68f21bb21cef26",
+      "url": "https://bdlb.bn.gov.br/acervo/handle/20.500.12156.3/420758",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        23
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Title: | Manifesto da Confederação Abolicionista do Rio de Janeiro",
+      "key_excerpt_position": 23
+    },
+    {
+      "reference_id": "e653c152cee0777c",
+      "url": "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/luiz-gama/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        28
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Sob a inspiração e influência de Luiz Gama, seu amigo, o advogado e maçom Antonio Bento de Souza e Castro organizou os Caifazes, movimento radical de libertação de escravos, que organizava fugas coletivas de escravos das fazendas e os encaminhava para o quilombo do Jabaquara, nas cercanias da cidade de Santos.",
+      "key_excerpt_position": 28
+    },
+    {
+      "reference_id": "f35048b1aa898543",
+      "url": "https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/acordos-internacionais-e-legislacao-sobre-escravidao/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        32
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f519f5c4b76450a8",
+      "url": "https://www2.camara.leg.br/legin/fed/lei_sn/1824-1899/lei-37659-7-novembro-1831-564776-publicacaooriginal-88704-pl.html",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        33
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Declara livres todos os escravos vindos de fôra do Imperio, e impõe penas aos importadores dos mesmos escravos.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "c846a6f09feec92e",
+      "url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-581-4-setembro-1850-559820-publicacaooriginal-82230-pl.html",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        38
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "LEI Nº 581, DE 4 DE SETEMBRO DE 1850",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "1fa9b05bb6d03482",
+      "url": "https://www12.senado.leg.br/radio/1/noticia/2018/05/11/senado-promove-exibicao-das-leis-que-culminaram-com-sancao-da-lei-aurea",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        61
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "libertou cerca de 700 mil pessoas do cativeiro",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "a3f8c5eb87ac18a2",
+      "url": "https://guides.loc.gov/brazil-us-relations/empire-of-brazil",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        83
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The devastating Paraguayan War (1865-1870) -- also known in Portuguese as the Guerra da Tríplice Aliança for the coalition Argentina, Brazil, and Uruguay formed to combat Paraguay -- gave rise to the Brazilian military's longstanding involvement in national politics, culminating in Field Marshal Deodoro da Fonseca's overthrow of Pedro II and the end of Brazil's monarchy in November 1889.",
+      "key_excerpt_position": 83
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-8",
+      "position": 8,
+      "claim_excerpt": "The result was that even as Atlantic slavery was disappearing elsewhere in the Americas, Brazilian economic modernization remained deeply entangled with coerced Black labor.",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[6] [2] [30] [23]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-9",
+      "position": 9,
+      "claim_excerpt": "Brazilian slavery nevertheless coexisted with a substantial population of free and freed people of African descent.",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[6] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-18",
+      "position": 18,
+      "claim_excerpt": "Luiz Gama, born in Bahia in 1830 and illegally enslaved as a child, obtained his own freedom and became a self-taught legal advocate, poet, and journalist in São Paulo.",
+      "cited_markers": "[12]",
+      "corroborating_markers": "[13] [17] [6]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-20",
+      "position": 20,
+      "claim_excerpt": "Gama’s career illustrates how abolitionism operated not only through parliamentary debate but also through litigation challenging the legality of individual enslavements and demanding enforcement of…",
+      "cited_markers": "[12]",
+      "corroborating_markers": "[6] [17] [34] [29] [23]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-23",
+      "position": 23,
+      "claim_excerpt": "In 1883, Patrocínio and the Black engineer and intellectual André Rebouças were associated with the Manifesto of the Confederação Abolicionista, part of a broader effort to coordinate abolitionist or…",
+      "cited_markers": "[15]",
+      "corroborating_markers": "[14] [2] [34] [29] [23] [18] [6] [16]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-32",
+      "position": 32,
+      "claim_excerpt": "Britain abolished its own slave trade in 1807 and increasingly used diplomatic and naval pressure to suppress the Atlantic trade carried on by other nations, while Brazil’s dependence on British comm…",
+      "cited_markers": "[19]",
+      "corroborating_markers": "[2] [18] [6] [30] [16]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-33",
+      "position": 33,
+      "claim_excerpt": "Under British pressure, the Brazilian government enacted the Law of November 7, 1831, declaring free all enslaved persons imported into Brazil from abroad after that date and establishing penalties f…",
+      "cited_markers": "[20]",
+      "corroborating_markers": "[6] [8] [30] [18] [2] [33]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-34",
+      "position": 34,
+      "claim_excerpt": "The 1831 statute was systematically violated, however, and hundreds of thousands of Africans were illegally imported in subsequent years.",
+      "cited_markers": "[18]",
+      "corroborating_markers": "[6] [30] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-36",
+      "position": 36,
+      "claim_excerpt": "The law nevertheless acquired renewed importance later because Black litigants and abolitionist lawyers could argue that people imported after 1831, and in some cases their descendants, had been unla…",
+      "cited_markers": "[12]",
+      "corroborating_markers": "[6] [30] [18] [29]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-38",
+      "position": 38,
+      "claim_excerpt": "In 1850, the Brazilian Empire finally passed the Eusébio de Queirós Law, which strengthened enforcement against the importation of enslaved Africans and effectively ended the transatlantic traffic to…",
+      "cited_markers": "[21]",
+      "corroborating_markers": "[2] [18] [30] [6] [34]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-53",
+      "position": 53,
+      "claim_excerpt": "Princess Isabel’s role should therefore be understood precisely rather than mythologized.",
+      "cited_markers": "[25]",
+      "corroborating_markers": "[23] [34] [28] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-61",
+      "position": 61,
+      "claim_excerpt": "Approximately 700,000 people were directly liberated from legal enslavement, although the exact number varies according to registration dates and statistical method.",
+      "cited_markers": "[28]",
+      "corroborating_markers": "[34] [6] [29] [16]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-72",
+      "position": 72,
+      "claim_excerpt": "The transition from slave to free labor therefore did not eliminate coercion; rather, some coercive practices were reconfigured through labor contracts, policing, and vagrancy enforcement.",
+      "cited_markers": "[6]",
+      "corroborating_markers": "[30] [23]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-89",
+      "position": 89,
+      "claim_excerpt": "Political exclusion was reinforced by the electoral rules of the late empire and early republic.",
+      "cited_markers": "[6]",
+      "corroborating_markers": "[32] [29] [31] [30] [23] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-92",
+      "position": 92,
+      "claim_excerpt": "The most enduring paradox of Brazilian abolition is that an extraordinarily radical change in legal status occurred without an equally radical transformation of property, education, or political powe…",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[16] [6] [2] [34] [29]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-93",
+      "position": 93,
+      "claim_excerpt": "Former slaves became legally free citizens, but the economic and social structures produced by centuries of slavery continued to influence their opportunities and those of their descendants.",
+      "cited_markers": "[18]",
+      "corroborating_markers": "[6] [30] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-94",
+      "position": 94,
+      "claim_excerpt": "Historians therefore distinguish between emancipation as the termination of legal ownership and freedom as a broader condition involving autonomy, security, access to resources, civil equality, and p…",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[6] [30] [29] [34] [23]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-100",
+      "position": 100,
+      "claim_excerpt": "The history of post-abolition Brazil is therefore simultaneously a history of persistent structural inequality and of sustained Black institution-building, negotiation, and resistance.",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[34] [23] [6] [29] [2] [28]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-103",
+      "position": 103,
+      "claim_excerpt": "This reinterpretation does not require denying Isabel’s support for abolition or her constitutional act of sanctioning the law; rather, it places that act within the broader social struggle that made…",
+      "cited_markers": "[25]",
+      "corroborating_markers": "[34] [23] [6] [16] [28] [29]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-107",
+      "position": 107,
+      "claim_excerpt": "The Golden Law was therefore both an extraordinary achievement and an incomplete social revolution.",
+      "cited_markers": "[27]",
+      "corroborating_markers": "[16] [8] [6] [28] [34] [23]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1300653,
+  "cost_tracked": false,
+  "processing_time_seconds": 241549.110348
+}

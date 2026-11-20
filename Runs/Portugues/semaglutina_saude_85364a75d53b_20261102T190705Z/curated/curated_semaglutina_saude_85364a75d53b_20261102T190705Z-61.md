@@ -1,0 +1,73 @@
+[referencia=f129353320dd37c4 score=0.935]
+This practice recommendation serves as an update to the 2023 AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease (NAFLD), now known as metabolic dysfunction-associated steatotic liver disease (MASLD), and provides implementable guidance on patient selection for treatment, consideration of comorbidities, and monitoring of treatment safety and efficacy of semaglutide. FDA-indication and Practice Recommendation: The Wegovy formulation, whose main ingredient is semaglutide, received accelerated FDA approval in August 2025 for treating MASH with moderate-to-advanced fibrosis (consistent with stages F2-F3 fibrosis), based on interim results of the phase 3 ESSENCE trial where 72 weeks of 2.4 mg/week subcutaneous injection resulted in achievement of both primary histologic endpoints: (1) resolution of MASH without worsening of fibrosis (62.9% vs. 34.3% placebo, p <0.001) and (2) ≥1 stage reduction in liver fibrosis without worsening of MASH (36.8% vs. 22.4% placebo, p <0.001); final approval awaits long-term outcomes. Patient Selection: Candidates should have MASH with stage 2-3 fibrosis, identified using non-invasive tests (NITs) such as VCTE (8-15 kPa), MRE (3.1-4.4 kPa), or ELF (9.2-10.5), rather than liver biopsy, which is impractical and unnecessary for most patients. In those with VCTE (15-20 kPa), MRE (4.4-5 kPa), or ELF (10.5-11.3), an individualized decision to treat should be based on exclusion of cirrhosis with another confirmatory NIT, or cross-sectional imaging excluding nodular-appearing liver contour and signs of portal hypertension, or a platelet count of <
+
+---
+
+[referencia=f129353320dd37c4 score=0.528]
+<150,000/mm 3 . While semaglutide is not approved to treat patients with MASH cirrhosis (VCTE >20 kPa, MRE>5.0 kPa, ELF>11.3, and/or evidence of portal hypertension), those with compensated cirrhosis who are receiving semaglutide for another FDA-approved indication should be monitored carefully. Monitoring and Safety: Semaglutide showed a favorable hepatic safety profile in the ESSENCE trial, with no discontinuations due to liver enzyme elevations. Routine hepatic panels are recommended only as clinically indicated. The most common adverse events were gastrointestinal (nausea, diarrhea, constipation, vomiting), generally mild and transient; patient education and dose titration help improve tolerance. Clinicians should monitor for rare but serious risks, including acute kidney injury (from dehydration), symptomatic gallbladder disease, pancreatitis, thyroid C-cell tumors, retinopathy progression, and lean mass loss. Treatment Response and Concomitant Therapy: Lifestyle modification remains the cornerstone of MASLD/MASH management alongside semaglutide. Combination use of resmetirom with semaglutide 2.4mg/week has not been studied. While no NITs reliably predict histologic response at the individual patient level, reductions from baseline to 72 weeks of treatment suggest significant improvement in MASH resolution (ALT ≥17 U/L or ≥20%) and fibrosis improvement (VCTE LSM ≥30%; MRE LSM ≥20%; ELF ≥0.5). Non-response may be suspected if ALT or NITs worsen. The benefit is uncertain if a suboptimal response occurs, and may require an individualized approach and further follow-up.
+
+      
+        
+          **Keywords:**
+        
+      
+      MASH; MASLD; NAFLD; NASH; Wegovy; fatty liver disease; semaglutide.
+    
+
+Copyright © 2025 American Association for the Study of Liver Diseases.
+
+---
+
+[referencia=f129353320dd37c4 score=0.289]
+# Semaglutide therapy for metabolic dysfunction-associated steatohepatitis: November 2025 updates to AASLD Practice Guidance
+
+---
+
+[referencia=f129353320dd37c4 score=0.206]
+# Semaglutide therapy for metabolic dysfunction-associated steatohepatitis: November 2025 updates to AASLD Practice Guidance
+
+- 
+          
+  
+    
+      PMID:
+    
+  
+  
+    **41201884**
+- DOI: 10.1097/HEP.0000000000001608
+
+---
+
+[referencia=f129353320dd37c4 score=0.099]
+## References
+
+1. 
+    
+  1. Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, Abdelmalek MF, Caldwell S, Barb D, et alAASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease. Hepatology. 2023;77:1797–1835.
+3. 
+    
+  1. Sanyal AJ, Newsome PN, Kliers I, Ostergaard LH, Long MT, Kjaer MS, et alPhase 3 trial of semaglutide in metabolic dysfunction–associated steatohepatitis. N Engl J Med. 2025;392:2089–2099.
+4. 
+    
+  1. Sterling RK, Patel K, Duarte-Rojo A, Asrani SK, Alsawas M, Dranoff JA, et alAASLD Practice Guideline on blood-based noninvasive liver disease assessment of hepatic fibrosis and steatosis. Hepatology. 2025;81:321–357.
+5. 
+    
+  1. Sterling RK, Duarte-Rojo A, Patel K, Asrani SK, Alsawas M, Dranoff JA, et alAASLD Practice Guideline on imaging-based noninvasive liver disease assessment of hepatic fibrosis and steatosis. Hepatology. 2025;81:672–724.
+
+## Publication types
+
+## MeSH terms
+
+## Substances
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+- ### Medical
+- ### Miscellaneous
+
+---
+
+[referencia=f129353320dd37c4 score=0.010]
+## Abstract

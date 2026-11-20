@@ -1,0 +1,277 @@
+[referencia=0a797fc5e6aca167 score=0.585]
+19 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+their voice or a particular pose has achieved trademark status as the basis for a successful claim.<sup>122</sup> 
+
+Both false endorsement and trademark infringement claims require proof of commercial use and a likelihood of consumer confusion, mistake, or deceit.  The Lanham Act specifies that the defendant’s use must be “likely to cause confusion, or to cause mistake, or to deceive as to the affiliation, connection, or association of such person with another person, or as to the origin, sponsorship, or approval of his or her goods, services, or commercial activities by another person.”<sup>123</sup> It may be difficult for many individuals, including artists and performers, to prove that the challenged conduct is likely to confuse consumers regarding the plaintiff’s association with, or approval of, the defendant’s commercial activities.  And as INTA noted, AI-generated ”revenge porn” would likely fall beyond its reach.<sup>124</sup>
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.314]
+45 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+interests may be presented in the given case.”<sup>278</sup> Professor Jennifer Rothman suggested that a new law be specific regarding uses that would not be Constitutionally privileged:  “Current common areas of agreement are that unauthorized uses of a person’s identity are not protected by the First Amendment if a person’s ‘entire act’ or performance is used, or the uses are in commercial products or advertising not related to an authorized underlying work.”<sup>279</sup> 
+
+Each of these approaches has advantages and disadvantages.  Enumerated exceptions provide greater certainty:  users can more easily determine from the face of the statute whether the use they are considering is lawful.  In addition, the existing bodies of state precedent are available to be drawn upon for purposes of interpretation.  But such exceptions may be both over- and under-inclusive depending on the facts.<sup>280</sup> For example, an exception for expressive works, if not appropriately cabined, could render the law toothless against common uses of digital replicas—such as voice clones in music or deepfake pornography.  Indeed, many of the problematic uses reported have been in expressive or political contexts, such as the “Fake Drake” song and the President Biden robocalls described above.<sup>281</sup> 
+
+The Office stresses the importance of explicitly addressing First Amendment concerns. While acknowledging the benefits of predictability, we believe that in light of the unique and evolving nature of the threat to an individual’s identity and reputation, a balancing framework is preferable.  Although the potential overbreadth of categorical exceptions can be cabined by conditions like those proposed by MPA, this introduces a high level of complexity.  In addition, we note that in today’s online environment, traditional categories such as “news” or “public affairs” are often difficult to define.<sup>282</sup> The result may be to exempt conduct that legislators intended to prohibit. 
+
+In our view, a balancing framework permits greater flexibility to assess whether a particular unauthorized use is protected by the First Amendment.  Rather than checking a box marked “news” or “musical work,” courts can assess the full range of factors relevant to the First Amendment analysis.  These could include the purpose of the use, including whether it is
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.226]
+4 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+Second, the ability to create deepfakes offers a “potent means to perpetrate fraudulent activities with alarming ease and sophistication.”<sup>25</sup> The media has reported on scams in which defrauders replicated the images and voices of a multinational financial firm’s CEO and its employees to steal $25.6 million;<sup>26</sup> replicated loved ones’ voices to demand a ransom;<sup>27</sup> and replicated the voice of an attorney’s son asking him to wire $9,000 to post a bond.<sup>28</sup> Digital replicas of celebrities have been used to falsely portray them as endorsing products.<sup>29</sup> 
+
+Finally, there is a danger that digital replicas will undermine our political system and news reporting by making misinformation impossible to discern.  Recent examples involving politicians include a voice replica of a Chicago mayoral candidate appearing to condone police brutality;<sup>30</sup> a robocall with a replica of President Biden’s voice discouraging voters from participating in a primary election;<sup>31</sup> and a campaign ad that used AI-generated images to depict former President Trump appearing with former Director of the National Institute of Allergy and Infectious Diseases, Anthony Fauci.<sup>32</sup> Deepfake videos were even used to influence a high 
+
+> 25 Giuseppe Ciccomascolo, _Deepfakes Make Up 66% of AI Fraud While Crypto Scams Halved_ , CCN (Apr. 25, 2024), https://www.ccn.com/news/technology/deepfakes-ai-fraud-crypto-scams/. 
+
+> 26 Heather Chen & Kathleen Magramo, _Finance worker pays out $25 million after video call with deepfake ‘chief financial officer’_ , CNN (Feb. 4, 2024), https://www.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html (“The elaborate scam saw the [finance] worker duped into attending a video call with what he thought were several other members of staff, but all of whom were in fact deepfake recreations . . . . [T]he worker put aside his early doubts after the video call because other people in attendance had looked and sounded just like colleagues he recognized . . . .”).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.186]
+##### **f) First Amendment Concerns** 
+
+Digital replicas may be used in the context of constitutionally protected speech, including news reporting, artistic works, parody, and political opinion, in ways that may be unauthorized and objectionable.  Federal legislation in this area will need to take into account the speech interests protected by the First Amendment.<sup>261</sup> 
+
+The First Amendment, however, does not protect all speech equally.  While the Supreme Court has acknowledged that “some false statements are inevitable if there is to be an open and vigorous expression of views in public and private conversation, expression the First Amendment seeks to guarantee,”<sup>262</sup> it has permitted restrictions in cases of defamation,<sup>263</sup> fraud,<sup>264</sup> and commercially misleading speech<sup>265</sup> —each of which could be implicated by certain uses of unauthorized digital replicas. 
+
+In applying state rights of publicity, courts have acknowledged the tension between an individual’s right to control their persona and a third party’s free speech rights.<sup>266</sup> However, the outcomes in these cases are not consistent, leading to a lack of predictability.  The application of First Amendment principles in right of publicity cases has been described by scholars as “a confusing morass of inconsistent, incomplete, or mutually exclusive approaches, tests, and 
+
+Section 6750, entered into during minority, cannot be disaffirmed on that ground either during the minority of the person entering into the contract, or at any time thereafter, _if the contract has been approved by the superior court_ in any county in which the minor resides or is employed or in which any party to the contract has its principal office in this state for the transaction of business.” (emphasis added)). 
+
+261 _See, e.g._ , _The NO FAKES Act: Protecting Americans from Unauthorized Digital Replicas: Hearing Before the Subcomm. on Intell. Prop. of the S. Comm. on the Judiciary_ , 118th Cong. (2024) (statement of Benjamin Sheffner, Senior Vice President & Associate General Counsel, MPA) (“[C]reation of a new right that would apply in expressive works raises serious First Amendment concerns and risks interfering with core creative freedoms.”). 
+
+> 262 _United States v. Alvarez_ , 567 U.S. 709, 718 (2012).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.186]
+##### **a) Subject Matter** 
+
+In this Report, we have defined “digital replica” as “a video, image, or audio recording that has been digitally created or manipulated to realistically but falsely depict an individual.”<sup>187</sup> A new bill will have to include text that precisely prescribes the subject matter it seeks to protect.  Although the Office did not receive comments proposing definitions, in our view the new right should not sweep too broadly.  As discussed above, state rights of publicity have been interpreted to cover a broad range of imitations or evocations, including catch phrases or caricatures.<sup>188</sup> But the conduct that now demands federal attention—such as voice cloning in music and the creation of a video or image that appears to depict a real person—involves replicas that do not merely evoke an individual but are difficult to distinguish from reality.  We recommend that federal law target replicas that convincingly appear to be the actual individual being replicated.
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.166]
+The recent emergence of sophisticated generative artificial intelligence (“AI”) models<br>available for use by consumers constitutes a major leap forward in technology.  It presents both<br>exciting opportunities and complex challenges for society as a whole, which have captured the<br>attention of policymakers around the world, as well as the press and the public.<br>One of the areas affected is intellectual property.  Copyright issues in particular have<br>risen to the forefront, due to their visibility, immediacy, and relevance to the average person.<br>By the fall of 2022, millions of Americans were utilizing generative AI systems and services to<br>produce an astonishing array of expressive material, including visual art, text, and music.<br>Almost weekly, tremendous strides have been announced in the technology’s capabilities.<br>Artists have harnessed the power of AI to find new ways to express themselves and new ways<br>of connecting with audiences.  At the same time, AI-generated deepfakes have proliferated<br>online, from celebrities’ images endorsing products to politicians’ likenesses seeking to affect<br>voter behavior.  Over the past year or so, the resulting debates have intensified, with<br>enthusiasm about the promise of extraordinary technical potential tempered by concern about<br>the impact on individuals’ livelihoods and reputations.<br>AI raises fundamental questions for copyright law and policy, which many see as<br>existential.  To what extent will AI-generated content replace human authorship?  How does<br>human creativity differ in nature from what AI systems can generate, now or in the future?<br>What does this mean for the incentive-based foundation of the U.S. copyright system?  In what<br>ways can the technology serve as a valuable tool to amplify human creativity and ultimately<br>promote science and the arts?  How do we respect and reward human creators without<br>impeding technological progress?<br>For copyright, this is the latest chapter in a symbiotic relationship with technology.<br>Throughout history, technological innovation has shaped the evolution of copyright law and<br>policy, with new forms of expression, such as photography, motion pictures, and computer<br>programs; new methods of copying, such as photocopiers and video-cassette recorders; and<br>new means of distribution, such as radio, television, and the internet.  In recent decades, the<br>
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.130]
+### **_A. AI and Digital Replicas_** 
+
+This Report uses the term “digital replica” to refer to a video, image, or audio recording that has been digitally created or manipulated to realistically but falsely depict an individual.  A “digital replica” may be authorized or unauthorized and can be produced by any type of digital technology, not just AI.  The terms “digital replicas” and “deepfakes” are used here interchangeably.<sup>10</sup> 
+
+Digital replicas may have both beneficial and harmful uses.  On the positive side, they can serve as accessibility tools for people with disabilities,<sup>11</sup> enable “performances” by deceased or non-touring artists,<sup>12</sup> support creative work,<sup>13</sup> or allow individuals to license, and be compensated for, the use of their voice, image, and likeness.<sup>14</sup> In one noted example, musician 
+
+10 Although the term “deepfake” is often associated with unauthorized or deceptive uses, especially in explicit imagery, _see infra_ notes 22–23, some dictionary definitions are broader. _See deepfake_ , MERRIAM-WEBSTER DICTIONARY, https://www.merriam-webster.com/dictionary/deepfake (“an image or recording that has been convincingly altered and manipulated to misrepresent someone as doing or saying something that was not actually done or said”) (last updated July 20, 2024); _deepfake_ , CAMBRIDGE DICTIONARY, 
+
+https://dictionary.cambridge.org/us/dictionary/english/deepfake (“a video or sound recording that replaces someone's face or voice with that of someone else, in a way that appears real”).  In popular media too, the term has been used to describe authorized uses as well as malicious ones. _See_ Nilesh Christopher & Varsha Bansal, _Indian Voters Are Being Bombarded With Millions of Deepfakes. Political Candidates Approve_ , WIRED (May 20, 2024), https://www.wired.com/story/indian-elections-ai-deepfakes/ (“Politicians are using audio and video deepfakes of themselves to reach voters—who may have no idea they’ve been talking to a clone.“).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.104]
+empowered to protect the public against deceptive and unfair uses of AI technologies that harm 
+
+competition, and “there is no AI exemption from the laws on the books.”<sup>110</sup> According to the 
+
+FTC, the use of a digital replica that mimics an individual’s voice and likeness might qualify as an unfair method of competition or an unfair or deceptive practice, particularly if it “deceives consumers, exploits a creator’s reputation or diminishes the value of her existing or future works, reveals private information, or otherwise causes substantial injury to consumers.”<sup>111</sup> 
+
+The FTC is also exploring issues related to digital replicas in its ongoing rulemaking to amend its Rule on Impersonation of Government and Businesses.<sup>112</sup> Concurrent with the promulgation of the Impersonation Rule,<sup>113</sup> it issued a supplemental notice requesting comments on the Rule’s expansion to prohibit the impersonation of individuals and to extend liability to parties who provide goods and services with knowledge or reason to know that they will be used in impersonations that are unlawful under the Impersonation Rule.<sup>114</sup> The proposed prohibition is meant to address misrepresentations that the person is, or is affiliated with, the impersonated individual, including those that use “identifying information, or insignia or likeness of an individual.”<sup>115</sup> Digital replicas, including voice cloning, would be covered.<sup>116</sup> 
+
+cause of action for those who engage in trade or commerce who suffer loss “as a result of the use or employment by another person who engages in any trade or commerce of an unfair method of competition or an unfair or deceptive act or practice”).  Because these laws largely parallel the protections provided by the FTC Act and the Lanham Act, we do not discuss them separately. 
+
+110 FTC Initial Comments at 3–4, 6, 8 (“The FTC is empowered under Section 5 of the FTC Act to protect the public against unfair methods of competition, including when powerful firms unfairly use AI technologies in a manner that tends to harm competitive conditions.”). 
+
+> 111 _Id._ at 4–6. 
+
+112 Trade Regulation Rule on Impersonation of Government and Businesses, 89 Fed. Reg. 15072 (Mar. 1, 2024)
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.087]
+The Federal Trade Commission Act prohibits unfair or deceptive acts or practices in or affecting commerce.<sup>149</sup> While it can be applied to cases where digital replicas are used in commercially misleading ways, it does not provide comprehensive protection in other circumstances.  Similarly, under the Lanham Act, claims such as false endorsement involving a digital replica are limited to unauthorized _commercial_ uses, and most federal courts also require a showing of consumer awareness of the depicted individual in order to establish a likelihood of confusion, limiting the Lanham Act’s protection to well-known figures and commercial circumstances.  It may be difficult for many individuals, including less famous artists and performers, to prove that the challenged conduct is likely to confuse consumers regarding the plaintiff’s association with, or approval of, the defendant’s commercial activities.  And issues like AI-generated ”revenge porn” would likely fall beyond its reach.<sup>150</sup> 
+
+Nor can federal communications law address all of the issues raised by unauthorized digital replicas.  It only provides the FCC with enforcement powers related to its authority over common carrier services, transmissions, and cable services.<sup>151</sup> The agency’s efforts to combat robocall scams stem from its authority related to telephony issues and can help with that particular context.  It does not offer a comprehensive solution that could extend more broadly to situations where the use and dissemination of digital replicas may be common, but are not under the FCC’s enforcement purview, such as websites featuring user-generated content.
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.042]
+15 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+work as a fictional character or for the live performance of a musical work” if the use is likely to 
+
+deceive the public.<sup>100</sup> Both laws incorporate categorical exemptions to accommodate free speech concerns. New York specifies a list of uses excluded from protection: [I]f the work is of parody, satire, commentary, or criticism; works of political or newsworthy value, or similar works, such as documentaries, docudramas, or historical or biographical works, regardless of the degree of fictionalization; a representation of a deceased performer as himself or herself, regardless of the 
+
+degree of fictionalization, except in a live performance of a musical work; de minimis or incidental; or an advertisement or commercial announcement for any of the foregoing works.<sup>101</sup> Louisiana’s law similarly exempts several categories of uses:  those made in connection with “a news, public affairs, sports transmission or account, or political campaign,” in works of 
+
+“political, public interest, educational, or newsworthy value,” and in “a play, book, magazine, 
+
+newspaper, literary work, musical composition, single and original work of art or photograph, or visual work.”<sup>102</sup> The law also exempts “a sound recording, audiovisual work, motion picture, or radio or television program,” but not if they include unauthorized digital replicas that substitute for a professional performer who did not actually appear in the work.<sup>103</sup>
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.032]
+**_First Amendment Protections._** States have adopted varied approaches to accommodating First Amendment concerns, either by statute or judicial interpretation.<sup>87</sup> A number of statutes provide carveouts for categories of conduct likely to implicate protected speech, such as news reporting, sports broadcasts, political campaigns, commentary, and satire.<sup>88</sup> California’s law, for example, permits unauthorized uses of an individual’s voice or likeness “in connection with any news, public affairs, or sports broadcast or account, or any political campaign.”<sup>89</sup> Some carveouts also cover broader categories of expressive works, such as in Ohio, which exempts a “literary work, dramatic work, fictional work, historical work, audiovisual work, or musical work regardless of the media in which the work appears or is transmitted.”<sup>90</sup> 
+
+Others, however, are silent on this issue.<sup>91</sup> When interpreting the common law, or a statute without an express exemption, courts analyze the extent to which the claim at hand implicates First Amendment rights.<sup>92</sup> 
+
+**_Jurisdiction and Remedies._** State right of publicity statutes apply varying jurisdictional requirements.  Some restrict the law’s protections to those domiciled in the state; others are
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.021]
+##### **c) New State Regulation of Digital Replicas** 
+
+In response to the emergence of AI-created digital replicas, a number of states have taken steps to either amend existing right of publicity statutes or adopt new laws.<sup>95</sup> Tennessee, for example, recently extended its right of publicity statute to encompass voice simulations.<sup>96</sup> It also expanded the law’s scope beyond solely commercial conduct ( _i.e._ , “purposes of advertising”) to include all acts of unauthorized publishing, performing, distributing, transmitting, or making available to the public.<sup>97</sup> 
+
+Two other states, Louisiana and New York, recently passed laws targeting the use of digital replicas.<sup>98</sup> The Louisiana statute applies only to living, professional performers, and prohibits the use of their digital replicas “in a public performance of a scripted audiovisual work, or in a live performance of a dramatic work, if the use is intended to create, and creates, the clear impression that the professional performer is actually performing in the role of a fictional character.”<sup>99</sup> New York’s amendment of its existing right of publicity prohibits unauthorized digital replicas of deceased professional performers “in a scripted audiovisual 
+
+> 93 _Compare_ WASH. REV. CODE § 63.60.010 (2024) (applying to “all individuals and personalities, living and deceased, regardless of place of domicile or place of domicile at time of death”), _with_ OHIO REV. CODE ANN. § 2741.03 (West 2024) (limiting to individuals whose domicile or residence is or was in the state). 
+
+> 94 _See, e.g._ , ARK. CODE ANN. § 4-75-1109 (2024) (providing for injunctive relief and recovery of monetary damages and profits); OHIO REV. CODE ANN. § 2741.07 (West 2024) (providing for injunctive relief and recovery of actual damages including profits, statutory damages, punitive damages, attorney’s fees, and treble damages).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.018]
+##### **c) Lanham Act** 
+
+The Lanham Act is the federal trademark law and addresses certain acts of unfair competition.  It prohibits deceptive and misleading uses of marks and unfair competition, and fraud and deception in commerce, among other things.<sup>119</sup> Several commenters noted that thirdparty uses of a digital replica without authorization could constitute false endorsement under the Lanham Act.<sup>120</sup> They cited cases where Lanham Act claims were successful based on unauthorized uses of aspects of plaintiffs’ identities, such as soundalikes and lookalikes in advertising.<sup>121</sup> In some circumstances a celebrity or performer may be able to demonstrate that 
+
+117 89 Fed. Reg. 15017, 15030–31 (to be codified at 16 C.F.R. pt. 461) (statement of Chair Lina M. Khan joined by Comm’r Rebecca Kelly Slaughter and Comm’r Alvaro M. Bedoya). 
+
+> 118 _Id._ at 15031 (to be codified at 16 C.F.R. pt. 461) (statement of Chair Lina M. Khan joined by Comm’r Rebecca Kelly Slaughter and Comm’r Alvaro M. Bedoya). 
+
+119 15 U.S.C. § 1127.  In March 2024, the U.S. Patent and Trademark Office held a public symposium on intellectual property and AI, which included a panel discussion titled “AI, NIL, and the Lanham Act,” which addressed the legal and policy considerations related to name, image, and likeness, and the intersection with generative AI. _See Public Symposium on AI and IP_ , U.S. PAT. AND TRADEMARK OFF., https://www.uspto.gov/about-us/events/public-symposiumai-and-ip (last visited July 21, 2024).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.017]
+> 278 A2IM-Recording Academy-RIAA Joint Reply Comments at 16–17; _see also id._ at 17 (“[W]e disagree with those commenters who argue that any federal right of an individual to control uses of their voice or likeness must contain express, categorical exclusions for all uses of a certain type, such as unauthorized uses of an individual’s voice or likeness in any ‘expressive works,’ regardless of the particular facts and circumstances of the use.”). 
+
+279 Jennifer Rothman Initial Comments at 6. 
+
+> 280 _See_ Joshua Matz, RIGHT OF PUBLICITY AND THE FIRST AMENDMENT (2024), humanartistrycampaign.com/rop-firstamendment; Letter from RIAA, Summary of _Ex Parte_ Meeting on April 23, 2024 Regarding the Office’s AI Study, to U.S. Copyright Office (Apr. 29, 2024) (endorsing Matz’s view). 
+
+> 281 _See supra_ Section I. 
+
+> 282 Indeed, the meanings of categories like “news” or “public affairs” are themselves contested. _See_ Richard L. Hansen, _From Bloggers in Pajamas to The Gateway Pundit: How Government Entities Do and Should Identify Professional Journalists for Access and Protection_ (2024), https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4776774; Sonja R. West, _Favoring the Press_ , 106 CAL. L. REV. 91 (2018). 
+
+46 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+commercial; its expressive or political nature; the relevance of the digital replica to the purpose of the use; whether the use is intentionally deceptive; whether the replica was labeled; the extent of the harm caused; and the good faith of the user.<sup>283</sup> We believe that this approach would leave room for the types of expressive works that many commenters identified as a priority.<sup>284</sup>
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.015]
+44 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+Protection for expressive works was a principal area of focus.<sup>273</sup> The MPA offered several examples of expressive uses as deserving of protection, including documentaries using digital replicas “to re-create scenes from history where no actual footage exists” and late-night comedians “using digital replicas to poke fun at celebrities, politicians, athletes.”<sup>274</sup> It asserted that categorical exceptions “are crucial to giving filmmakers clarity so they know what uses are allowed, or not allowed” before they undertake expensive projects, and proposed a list of exceptions, some subject to the caveat that the use was not intended to and did not create a false impression of authenticity.<sup>275</sup> Donaldson Callif Perez LLP stated that “the implementation of a right that does not explicitly exempt expressive works would have immediate negative consequences.”<sup>276</sup> 
+
+Other commenters argued that categorical exceptions are unnecessary and could undermine effective protection.  RIAA asserted that “categorical exclusions for certain speechoriented uses are not constitutionally required and, in fact, risk overprotection of speech interests at the expense of important publicity interests.”<sup>277</sup> Instead, “the First Amendment calls for a case-specific balancing of the right of publicity against whatever First Amendment 
+
+> 273 _See_ MPA, Comments Submitted in Response to U.S. Copyright Office’s Aug. 30, 2023, Notice of Inquiry at 71 (Oct. 30, 2023) (“MPA Initial Comments”) (“The right of publicity does not—and, to be consistent with the First Amendment, may not—regulate uses of or references to individuals’ [name, image and likeness] in ‘expressive works,’ such as books, plays, news articles and broadcasts, songs, and movies and television programs.  Such expressive works are non-commercial speech fully protected by the First Amendment, regardless of whether those works are sold for a profit.”); David Newhoff Initial Comments at 5 (“If ROP law is expanded, it should . . .  not restrict expressive uses of AI-generated likeness for purposes (e.g., biographical films) that fall within the scope of protected speech.”).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.014]
+67 A number of commenters agreed that existing rights of publicity would apply to certain uses of digital replicas. _See, e.g._ , Jennifer Rothman, Comments Submitted in Response to U.S. Copyright Office’s Aug. 30, 2023, Notice of Inquiry at 2–3 (Oct. 25, 2023) (“Jennifer Rothman Initial Comments”) (noting that, in the context of an AI-generated Tom Hanks appearing in an advertisement and the AI-generated voices of Drake and The Weeknd appearing in a song, “[a]bsent jurisdictional hurdles, . . . each have straightforward lawsuits under state right of publicity laws for the uses described”); SAG-AFTRA Initial Comments at 6–7; _see also_ Russell Spivak, _“Deepfakes”: The Newest Way to Commit One of the Oldest Crimes_ , 3 GEO. L. TECH. REV. 339, 383–85 (2019); Alexandra Curren, _Digital Replicas: Harm Caused by Actors’ Digital Twins and Hope Provided by the Right of Publicity_ , 102 TEX. L. REV. 155, 164, 166–67 (2023). Indeed, courts have applied standard right of publicity laws to other forms of digital likenesses. _See, e.g._ , _Hart v. Elec. Arts, Inc._ , 717 F.3d 141 (3d Cir. 2013) (digital avatars of football players); _No Doubt v. Activision Publ’g, Inc._ , 122 Cal. Rptr. 3d 397 (Cal. Ct. App. 2011) (digital avatars of the musical group No Doubt).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.013]
+light, and (4) appropriation of a person’s name or likeness for the defendant’s advantage.  DAN B. DOBBS, PAUL T. HAYDEN & ELLEN M. BUBLICK, THE LAW OF TORTS § 578 (2d ed. 2024). 
+
+> 47 _See_ Nicholas Schmidt, _Privacy Law and Resolving ‘Deepfakes’ Online_ , IAPP (Jan. 30, 2019), 
+
+https://iapp.org/news/a/privacy-law-and-resolving-deepfakes-online/; _see also_ Bobby Chesney & Danielle Citron, _Deep_ 
+
+_Fakes: A Looming Challenge for Privacy, Democracy, and National Security_ , 107 CALIF. L. REV. 1753, 1794–95 (2019). 
+
+8 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+distress as in defamation.”<sup>48</sup> Liability arises when someone “gives publicity to a matter concerning another that places [them] before the public in a false light,” if the false light is “highly offensive to a reasonable person,” and if “the actor had knowledge of or acted in reckless disregard as to the falsity.”<sup>49</sup> For example, courts have found liability where a defendant spread false statements that “attribut[ed] a lewd fantasy” to a woman and claimed 
+
+she agreed to appear nude in an adult magazine,<sup>50</sup> as well as where a defendant used individuals’ names and likenesses in promotions for strip clubs without their consent.<sup>51</sup> The majority of jurisdictions have recognized this tort,<sup>52</sup> with a few incorporating it by statute.<sup>53</sup> False light invasion of privacy may provide some legal protection against unauthorized digital replicas when they are used to depict an individual participating in offensive conduct.<sup>54</sup> It would appear particularly appropriate to address deepfake pornography.  However, the objective “highly offensive” standard will limit its applicability to other uses of unauthorized digital replicas, such as depictions that are merely untruthful.<sup>55</sup>
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.012]
+###### **(ii) Knowledge Standard** 
+
+Although the Office did not receive many comments on this issue, we recommend adoption of an actual knowledge standard for direct liability. 
+
+Under the actual knowledge standard, liability would attach only where the distributor, publisher, or displayer acted with actual knowledge both that the representation in question was a digital replica of a real person, and that it was unauthorized.  An objective or “should have known” standard might ensnare unsuspecting or technologically unsophisticated defendants.  Given the volume of potential outputs produced by current technologies, and the number of individuals who could be targeted, there are likely to be cases where a user passes along an image or audio recording without realizing that it is a replica of someone’s voice or likeness.<sup>218</sup> And even where the user recognizes the subject of a digital replica, they may not be aware that the replica is inauthentic or unauthorized. 
+
+Some commenters proposed the stricter standard of intent to deceive.  NPR, for instance, argued that “Congress should adopt a narrow law that creates liability in instances where someone’s name, image, likeness, or voice is used with intent to deceive the audience to believe that false, faked, or AI-generated content is true or represents actual facts or event[s]. . . . Liability would turn on intentional deceptiveness—that something is fake but is trying to persuade someone otherwise.”<sup>219</sup> The Office notes, however, that there may be no intent to deceive in some situations where liability should attach, such as where an unauthorized digital replica is used to harass or ridicule an individual, or to profit from the replica of a popular 
+
+> 217 _See supra_ Section II.A.1.a. 
+
+> 218 _E.g._ , Public Knowledge, Comments Submitted in Response to U.S. Copyright Office’s Aug. 30, 2023, Notice of Inquiry at 20 (Oct. 30, 2023) (“[A]ny universally-available right needs to adequately address the ‘digital doppelganger’ problem—namely, ways of dealing with situations in which an AI-generated work, by pure mathematical chance, looks or sounds like an otherwise unknown individual. Such instances should not give rise to liability, or trigger a rabbit hole of provenance questions about the training data of the GAI system that generated the accidental lookalike.”). 
+
+> 219 NPR Initial Comments at 9–10. 
+
+35
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.012]
+> 31 Shannon Bond, _AI Fakes Raise Election Risks As Lawmakers and Tech Companies Scramble to Catch Up_ , NPR (Feb. 8, 2024), https://www.npr.org/2024/02/08/1229641751. 
+
+> 32 Nicholas Nehamas, _DeSantis Campaign Uses Apparently Fake Images to Attack Trump on Twitter_ , N.Y. TIMES (June 8, 2023), https://www.nytimes.com/2023/06/08/us/politics/desantis-deepfakes-trump-fauci.html. 
+
+5 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+profile union vote by falsely showing a union leader urging members to oppose the contract that he had “negotiated and . . . strongly supported.”<sup>33</sup> 
+
+Summarizing the challenges to the information ecosystem, <mark>one digital forensics scholar cautioned, “[i]f we enter a world where any story, any audio recording, any image, any video can be fake . . . then nothing has to be real.”</mark><sup>34</sup> As AI technology continues to improve, researchers predict that it will become increasingly difficult to distinguish between digital replicas and authentic content.<sup>35</sup>
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.009]
+#### **3. Private Agreements** 
+
+Beyond these statutory and common law protections, private contracts can be negotiated to govern the use of individuals’ names or likenesses.  Performer service agreements, for example, often include terms proscribing whether and how the other contracting party can use the performer’s identity.  These usually cover use of the performer’s name, image, voice, or likeness for the purpose of promoting the works in which the performer appeared.<sup>128</sup> They may be structured to allow only limited uses, for instance through time-limited grants and restrictions to a particular performance or context, or they may grant broad control, such as an assignment in perpetuity on an exclusive basis.<sup>129</sup> With the advent of AI, some agreements now include specific terms for the use of digital replicas.  Talent agency WME, for example, described deals for the use of its clients’ likenesses and personalities in connection with AI experiences and products.<sup>130</sup> 
+
+In the entertainment field, collective bargaining agreements that establish baseline employment terms have begun to include provisions on the treatment of AI-generated replicas. In December 2023, SAG-AFTRA ratified a multi-year agreement with the Alliance of Motion Picture and Television Producers (“AMPTP”) that incorporates new provisions related to the 
+
+> 127 _FCC Makes AI-Generated Voices in Robocalls Illegal_ , FCC (Feb. 8, 2024), https://docs.fcc.gov/public/attachments/DOC400393A1.pdf. 
+
+> 128 2 J. THOMAS MCCARTHY & ROGER E. SCHECHTER, THE RIGHTS OF PUBLICITY AND PRIVACY § 10:48 (2d ed. 2024) (“When an actor or performer contracts with a producer to perform in a motion picture or record a phonorecord, the actor or performer commonly signs a contract which includes a ‘grant of rights’ clause.  A ‘grant of rights’ clause typically assigns copyright in the work to the producer and exclusively licenses the producer to use the actor or performer’s identity in advertising and promotion of the work.”).

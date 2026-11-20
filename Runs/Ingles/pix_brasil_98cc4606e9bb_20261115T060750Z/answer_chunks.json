@@ -1,0 +1,1384 @@
+[
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-0",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 0,
+    "text": "Brazil’s Pix system is one of the most consequential recent experiments in digital retail payments because it combines near-universal interoperability, real-time settlement, broad participation by banks and non-banks, low end-user prices, and direct public provision of core infrastructure by the Banco Central do Brasil (BCB).",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "7b00af1395157128"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-1",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 1,
+    "text": "Since its nationwide launch on November 16, 2020, Pix has become embedded in everyday transfers, merchant payments, business receipts, government-related transactions, and an expanding range of recurring and in-person payment uses.",
+    "cited_markers": [
+      "[1]",
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "d2c8fd50e499bd81"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-2",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 2,
+    "text": "By December 2025, 148.1 million individuals had sent or received at least one Pix transaction in that month, equivalent to about 86% of Brazil’s adult population, while almost 80 billion Pix transactions were executed during 2025 with a total value exceeding R$35 trillion.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-3",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 3,
+    "text": "Assessing Pix as an instrument of financial inclusion requires a distinction between **access**, **use**, and **meaningful financial inclusion**.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-4",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 4,
+    "text": "Access means having an account or a usable payment instrument; use means actually making or receiving payments; and meaningful inclusion additionally implies that financial services are affordable, safe, trusted, appropriate, and capable of improving households’ or firms’ ability to transact, save, borrow, manage risks, and withstand shocks.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-5",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 5,
+    "text": "This distinction matters particularly in Brazil because formal account ownership is already very high, but large gaps remain in how intensively and beneficially different groups use financial services.",
+    "cited_markers": [
+      "[4]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183",
+      "1a4407452cc29300"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-6",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 6,
+    "text": "The most recent BCB Financial Citizenship Report states that 96.4% of Brazilian adults had a deposit or payment account and about 88% were active users of the national financial system, while Pix had reached most demographic and geographic groups by 2025.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-7",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 7,
+    "text": "Yet the World Bank’s 2024 Global Findex data show substantial differences in account ownership and digital-payment use by income and gender, indicating that near-universal formal access does not imply equal use or equal benefits.",
+    "cited_markers": [
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "1a4407452cc29300",
+      "62bf28a30e575342"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-8",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 8,
+    "text": "The strongest evidence therefore supports a nuanced conclusion: Pix has substantially reduced payment frictions and helped turn dormant or lightly used accounts into practical transaction tools, but the evidence that Pix alone caused broader improvements in credit, savings, resilience, income, or welfare remains much less conclusive.",
+    "cited_markers": [
+      "[4]",
+      "[7]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183",
+      "d232e56b64bd8437",
+      "5d1d657519f0e933"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-9",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 9,
+    "text": "The institutional origins of Pix predate its 2020 launch by several years.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "d2c8fd50e499bd81"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-10",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 10,
+    "text": "The BCB began developing its policy for instant payments during the previous decade and created a working group to define a competitive, efficient, secure, and inclusive instant-payments ecosystem; the process culminated in the BCB’s December 2018 publication of fundamental requirements for such a system.",
+    "cited_markers": [
+      "[9]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "b22522e263dc9187",
+      "95cd47665c8dc7af"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-11",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 11,
+    "text": "The formal Pix arrangement was established through BCB Resolution No. 1 of August 12, 2020, and nationwide operation began on November 16, 2020.",
+    "cited_markers": [
+      "[3]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "d2c8fd50e499bd81",
+      "4c73ce48f226d6cc"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-12",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 12,
+    "text": "Pix’s design directly addressed several barriers that had historically limited competitive digital payments.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-13",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 13,
+    "text": "Transfers are available around the clock, every day of the year, and funds are made available to recipients within seconds.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "b76146e5bb085608"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-14",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 14,
+    "text": "The BCB operates the Sistema de Pagamentos Instantâneos, or SPI, the centralized infrastructure through which inter-institution Pix transactions are settled individually in real time through specialized accounts at the central bank.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "b76146e5bb085608"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-15",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 15,
+    "text": "The Diretório de Identificadores de Contas Transacionais, or DICT, maps aliases such as CPF numbers, CNPJ numbers, phone numbers, e-mail addresses, and random keys to transaction-account information, reducing the information needed to initiate a transfer.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-16",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 16,
+    "text": "The architecture was deliberately interoperable rather than organized around proprietary bank networks.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-17",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 17,
+    "text": "Institutions authorized by the BCB with more than 500,000 active customer accounts were required to participate, a rule intended to ensure that the new system immediately covered a large share of the population and avoided the coordination problem that can arise when each bank waits for competitors to join first.",
+    "cited_markers": [
+      "[11]",
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "4c73ce48f226d6cc",
+      "9a7b5aa8a4f0f5ea"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-18",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 18,
+    "text": "The Bank for International Settlements has identified mandatory participation by large institutions and the BCB’s simultaneous role as infrastructure provider and rule setter as two important explanations for Pix’s unusually rapid diffusion.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-19",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 19,
+    "text": "Pricing policy was similarly important.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "c0bf8cd0d19fb935"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-20",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 20,
+    "text": "BCB Resolution No. 19 generally prohibits institutions from charging natural persons, including individual entrepreneurs, for ordinary Pix sending and receiving, subject to specified commercial-use exceptions, while legal entities may be charged by their providers.",
+    "cited_markers": [
+      "[14]",
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "c0bf8cd0d19fb935",
+      "3f3b9762709e00ec"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-21",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 21,
+    "text": "The central infrastructure itself is exceptionally inexpensive: the BCB’s 2025 SPI report states that direct receiving participants were charged R$0.01 for each ten Pix credits, while sending institutions were not charged that settlement fee.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "9c1763091f40bb98"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-22",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 22,
+    "text": "BIS research has estimated the average merchant cost of accepting Pix at about 0.22% of transaction value, far below typical card-acceptance costs reported in the same research.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "6de680ad84c198c3"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-23",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 23,
+    "text": "These characteristics make Pix a form of digital public infrastructure rather than merely another payment product.",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "7b00af1395157128"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-24",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 24,
+    "text": "The state provides the shared rails, identity-linked addressing system, operating rules, and settlement layer, while banks, fintechs, payment institutions, cooperatives, and other intermediaries compete in customer-facing services.",
+    "cited_markers": [
+      "[1]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "f024b3e66b9e0177"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-25",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 25,
+    "text": "This separation between public infrastructure and private interface competition lowers entry barriers because a new provider does not need to construct its own nationwide acceptance network before offering a usable payment service.",
+    "cited_markers": [
+      "[2]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128",
+      "f024b3e66b9e0177"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-26",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 26,
+    "text": "Pix adoption has been extraordinarily rapid by both Brazilian and international standards.",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "7b00af1395157128"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-27",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 27,
+    "text": "The number of individual Pix users rose from about 34.1 million in December 2020 to 90.4 million in December 2021, 113.5 million in 2022, 128.7 million in 2023, 140.7 million in 2024, and 148.1 million in December 2025.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-28",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 28,
+    "text": "By the end of 2025, more than 920 million Pix keys were registered, of which about 875 million belonged to natural persons and 44.7 million to legal entities.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-29",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 29,
+    "text": "Income gradients narrowed substantially over time, although they did not disappear.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-30",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 30,
+    "text": "Among payers earning up to one minimum wage, BCB data show Pix usage rising from 37% in December 2021 to 52% in 2022, 59% in 2023, 65% in 2024, and 71% in 2025.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-31",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 31,
+    "text": "For people earning between one and two minimum wages, the corresponding figure reached 81% in 2025, while use among those earning two to five minimum wages reached 87%.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-32",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 32,
+    "text": "Higher-income groups had adopted earlier and more intensively, but the convergence over time suggests that Pix did not remain confined to affluent digital early adopters.",
+    "cited_markers": [
+      "[1]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "a23b6e831cd1a911"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-33",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 33,
+    "text": "Evidence from Cadastro Único is especially relevant to low-income inclusion.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-34",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 34,
+    "text": "In December 2023, 74% of adults registered in CadÚnico had at least one Pix key and 72% had made at least one Pix payment during the year, compared with much lower proportions in 2020.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-35",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 35,
+    "text": "The gap between registration and actual use narrowed from seven percentage points in 2022 to two percentage points in 2023, which is important because it indicates that access increasingly translated into active use among low-income users.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-36",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 36,
+    "text": "The BCB explicitly describes this evidence as descriptive, however, and it does not establish that Pix caused improvements in income, savings, debt outcomes, or financial resilience.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-37",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 37,
+    "text": "Geographic diffusion has also been broad.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-38",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 38,
+    "text": "In December 2025, practically every Brazilian state had Pix usage above 80% of the adult population according to the BCB’s state-level measure, while São Paulo reached 94% and both the Federal District and Roraima reached 100% under that measure.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-39",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 39,
+    "text": "The numbers are striking because high usage extended to northern and northeastern states that historically face lower incomes, greater distances, and weaker physical financial infrastructure.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-40",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 40,
+    "text": "Nevertheless, regional payment inclusion is still constrained by digital connectivity: IBGE reported that 95% of Brazilian households had internet access in 2025, but mobile-broadband household access remained lowest in the Northeast at 72.4%, compared with more than 80% in the other major regions and 91.9% in the Southeast.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "e1f89a222970ba24"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-41",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 41,
+    "text": "Age is one of the clearest remaining divides.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-42",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 42,
+    "text": "In December 2025, BCB estimates placed Pix usage at 95% among people aged 20–29, 96% among those aged 30–39, 89% among those aged 40–49, 77% among those aged 50–59, but only 51% among people aged over 60.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-43",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 43,
+    "text": "The rate among people up to age 19 was 26%, reflecting both lower independent income and a smaller population with full banking needs.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-44",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 44,
+    "text": "The older-age gap is consistent with broader evidence that difficulties with digital interfaces, confidence, fraud risk, and internet use remain barriers to meaningful digital financial inclusion.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-45",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 45,
+    "text": "The gender picture is more mixed than aggregate Pix transaction counts initially suggest.",
+    "cited_markers": [
+      "[1]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "1a4407452cc29300"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-46",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 46,
+    "text": "Women accounted for 49% of the number of Pix transactions in 2025 and men for 51%, a distribution that had been nearly stable since 2021.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-47",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 47,
+    "text": "Yet men accounted for 59% of the value transferred and women 41%, suggesting that equal frequency does not imply equal financial volume or economic resources.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-48",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 48,
+    "text": "Global Findex 2024 data likewise report account ownership of 91% among Brazilian men and 82% among women, while digital-payment use was 82% among men and 69% among women.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "1a4407452cc29300"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-49",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 49,
+    "text": "The poorest 40% of adults had 78% account ownership compared with 92% among the wealthiest 60%, and digital-payment use was 73% versus 83%, respectively.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "1a4407452cc29300"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-50",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 50,
+    "text": "These gaps reinforce why Pix transaction penetration should not be equated with full equality in financial inclusion.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "1a4407452cc29300"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-51",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 51,
+    "text": "Pix has also diffused deeply into the business sector.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-52",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 52,
+    "text": "The number of legal-entity users rose from 2.57 million in December 2020 to 12.77 million in December 2025, equivalent to about 51.4% of active firms according to the BCB’s comparison with business-registration statistics.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-53",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 53,
+    "text": "The BCB reports that small and medium-sized firms increasingly integrate Pix through APIs, financial-management systems, QR codes, and contactless solutions, reducing operational frictions and giving small merchants access to payment functionality that previously required more expensive acquiring arrangements.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-54",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 54,
+    "text": "Pix’s relevance to microenterprises is especially important because payment acceptance can itself be a financial-inclusion constraint.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "6de680ad84c198c3"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-55",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 55,
+    "text": "A merchant that can receive funds instantly using a smartphone and an account can avoid specialized card hardware and often faces lower acceptance costs than under traditional card acquiring.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "6de680ad84c198c3"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-56",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 56,
+    "text": "Instant settlement also improves the timing of cash availability compared with payment instruments whose receivables may be delayed, although the size of the resulting working-capital benefit varies by merchant and cannot be inferred directly from aggregate Pix adoption.",
+    "cited_markers": [
+      "[2]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128",
+      "6de680ad84c198c3"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-57",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 57,
+    "text": "Competition effects are visible in the composition of Pix transactions.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-58",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 58,
+    "text": "In 2020, multiple banks accounted for 55.8% of the number of payer-side Pix transactions and payment institutions for 25.5%, whereas by 2025 payment institutions accounted for 50% and multiple banks for 35%.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-59",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 59,
+    "text": "In value terms, incumbent multiple banks remained dominant, but their share fell from 74.5% in 2020 to 61.3% in 2025, while payment institutions rose from 9.7% to 21.3%.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-60",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 60,
+    "text": "The BCB interprets this as evidence of payment-market deconcentration, although the statistics by themselves do not identify how much of the change was caused by Pix rather than by the broader expansion of fintechs and digital accounts.",
+    "cited_markers": [
+      "[1]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "f024b3e66b9e0177"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-61",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 61,
+    "text": "The IMF similarly argues that Pix has strengthened competition by providing a common public infrastructure on which payment institutions can compete with large banks for transaction activity and deposits.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "1bb81415aef649b7"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-62",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 62,
+    "text": "An IMF study of Brazilian fintech competition finds that Pix formed part of a broader structural transformation in which fintechs, digital banks, and credit cooperatives increased competitive pressure on traditional banks, contributing to declining margins in several banking activities.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "f024b3e66b9e0177"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-63",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 63,
+    "text": "Because these changes coincide with Open Finance, regulatory reforms, new digital banks, and shifts in consumer behavior, attributing changes in bank pricing or concentration solely to Pix would overstate what the evidence can establish.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "f024b3e66b9e0177"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-64",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 64,
+    "text": "The causal literature is promising but still developing.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d232e56b64bd8437",
+      "5d1d657519f0e933",
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-65",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 65,
+    "text": "A 2025 FGV dissertation using municipality-level panel data from late 2020 through 2024 reports that a 1% increase in Pix usage was associated with roughly 0.77 additional bank accounts per 1,000 adults, with substantially larger estimated effects in municipalities that already had stronger financial infrastructure.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "d232e56b64bd8437"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-66",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 66,
+    "text": "A 2026 Princeton study using regional differences in adoption and a difference-in-differences design estimates that a 1% increase in Pix transactions per person was associated with a 0.14% increase in bank credit to individuals after Pix’s introduction.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "5d1d657519f0e933"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-67",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 67,
+    "text": "A 2026 Inter-American Development Bank study likewise finds Pix diffusion associated with deposit and credit expansion, particularly in municipalities that began with weaker digital infrastructure, including increases in savings deposits and rural credit.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-68",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 68,
+    "text": "These results should not be read as settled proof of large nationwide welfare effects.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d232e56b64bd8437",
+      "5d1d657519f0e933",
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-69",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 69,
+    "text": "Pix adoption is endogenous because places with faster fintech diffusion, greater smartphone use, better connectivity, stronger local economies, or more innovative financial institutions may simultaneously experience greater financial deepening.",
+    "cited_markers": [
+      "[7]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "d232e56b64bd8437",
+      "5d1d657519f0e933"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-70",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 70,
+    "text": "Difference-in-differences and panel methods can reduce some confounding, but the absence of a clean randomized rollout makes causal identification difficult because Pix became nationally available at essentially the same time.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "5d1d657519f0e933"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-71",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 71,
+    "text": "The most defensible conclusion is therefore that causal evidence points toward positive effects on account activity and credit access, but estimated magnitudes remain method-dependent and broader welfare effects require further research.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d232e56b64bd8437",
+      "5d1d657519f0e933",
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-72",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 72,
+    "text": "The same characteristics that make Pix useful—speed, continuous availability, and immediate settlement—also increase the importance of fraud prevention and rapid remediation.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-73",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 73,
+    "text": "Brazil has experienced a broader shift in property crime toward digitally mediated fraud: the BCB’s 2025 Financial Citizenship Report cites public-security data showing roughly 1.9 million fraud records in 2023 compared with about 870,000 robbery records, and notes a 13.6% increase in virtual fraud between 2022 and 2023.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-74",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 74,
+    "text": "These statistics concern the wider financial and digital environment, not Pix alone, so they should not be interpreted as a Pix-specific fraud rate.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-75",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 75,
+    "text": "The BCB has progressively tightened Pix safeguards.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-76",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 76,
+    "text": "The DICT now stores fraud markings associated with users and keys and distributes security information to participating institutions for use in fraud-risk controls.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-77",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 77,
+    "text": "The Mecanismo Especial de Devolução, or MED, was strengthened so that from 2026 potentially fraudulent funds can be traced beyond the first receiving account through chains of dispersion, with institutions able to block and assess funds held in subsequent accounts linked to confirmed fraud.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-78",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 78,
+    "text": "In 2025 the BCB also introduced tighter restrictions for certain unauthorized participants, fraud-marked keys, device registration, geolocation-related limits, and enhanced monitoring of Pix settlement accounts.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-79",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 79,
+    "text": "Consumer protection is an inclusion issue rather than a separate regulatory concern because fear of fraud can discourage adoption among already vulnerable groups.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-80",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 80,
+    "text": "In the BCB’s survey of payment habits, 17.3% of respondents had not used Pix in the previous 12 months; among nonusers, 37.3% cited lack of knowledge about how to use it, while some users reported choosing other methods because of internet-access difficulties or perceived convenience.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-81",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 81,
+    "text": "This is consistent with the lower usage rate among older adults and with persistent digital-connectivity gaps.",
+    "cited_markers": [
+      "[1]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "e1f89a222970ba24"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-82",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 82,
+    "text": "Digital access itself is close to universal but not universal.",
+    "cited_markers": [
+      "[20]",
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "e1f89a222970ba24",
+      "3721294f7af1afd3"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-83",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 83,
+    "text": "IBGE reported that more than 90% of Brazilians aged ten or older used the internet in 2025 and that 98.7% of internet users accessed it through a mobile phone.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "3721294f7af1afd3"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-84",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 84,
+    "text": "Yet lack of digital skills, affordability constraints, device limitations, weak connectivity in some regions, and dependency on others for digital transactions remain relevant for excluded households.",
+    "cited_markers": [
+      "[20]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "e1f89a222970ba24",
+      "3ddd1dcda25d03e5"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-85",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 85,
+    "text": "A payment system can therefore be technically universal while still being harder to use safely and independently for the elderly, people with disabilities, residents of poorly connected areas, individuals with low literacy, or consumers without reliable smartphones.",
+    "cited_markers": [
+      "[4]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183",
+      "e1f89a222970ba24"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-86",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 86,
+    "text": "Pix has substantially advanced **transactional inclusion** in Brazil.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-87",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 87,
+    "text": "Its strongest demonstrated achievement is not simply that more Brazilians have formal accounts, but that a very large share of the population—including low-income users—can use those accounts frequently for low-cost, interoperable, real-time payments.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-88",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 88,
+    "text": "The rise of Pix among CadÚnico participants, lower-income earners, peripheral regions, and small businesses shows that the infrastructure has diffused far beyond the middle-class customers who typically adopt new financial technologies first.",
+    "cited_markers": [
+      "[1]",
+      "[4]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "2d4da85080980183",
+      "a23b6e831cd1a911"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-89",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 89,
+    "text": "Public infrastructure and market competition appear to have been complementary rather than opposing strategies.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-90",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 90,
+    "text": "By mandating large-provider participation, standardizing interoperability, supplying settlement infrastructure, and keeping retail prices extremely low, the BCB created a shared network in which private providers could compete on interfaces, account products, customer service, credit, and value-added services instead of competing through closed payment networks.",
+    "cited_markers": [
+      "[2]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128",
+      "4c73ce48f226d6cc"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-91",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 91,
+    "text": "The Brazilian experience therefore offers an important policy lesson for digital public infrastructure: public coordination can be used to create common rails while leaving substantial scope for private innovation.",
+    "cited_markers": [
+      "[2]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "7b00af1395157128",
+      "a24049a4d5807b8b"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-92",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 92,
+    "text": "The next stage of inclusion is harder because the remaining problems are less about opening accounts and more about quality of use.",
+    "cited_markers": [
+      "[4]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183",
+      "1a4407452cc29300"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-93",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 93,
+    "text": "Policy should therefore place increasing weight on digital literacy, accessible interfaces, fraud prevention, reliable redress, connectivity, consumer confidence, responsible credit, and the ability of low-income households to save and manage financial shocks rather than treating transaction counts as the principal measure of success.",
+    "cited_markers": [
+      "[4]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183",
+      "1a4407452cc29300"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-94",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 94,
+    "text": "The persistence of gender, income, and age gaps in broader financial behavior shows that universal payment infrastructure cannot by itself eliminate disparities rooted in labor income, wealth, education, digital skills, or access to affordable credit.",
+    "cited_markers": [
+      "[1]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "1a4407452cc29300"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-95",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 95,
+    "text": "A particularly important policy priority is to preserve low-cost universal access while strengthening security.",
+    "cited_markers": [
+      "[1]",
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "c0bf8cd0d19fb935"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-96",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 96,
+    "text": "Excessively burdensome security controls could undermine inclusion for legitimate low-income or digitally inexperienced users, while weak controls would disproportionately harm people who cannot absorb fraud losses.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-97",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 97,
+    "text": "The BCB’s move toward stronger participant authorization, shared fraud information, device controls, and a more capable refund mechanism reflects this trade-off between openness and resilience.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-98",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 98,
+    "text": "The evidence also supports retaining cash and alternative service channels during the transition toward digital payments.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-99",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 99,
+    "text": "Pix has displaced part of cash usage, but older people, residents with weak connectivity, and consumers who lack confidence in digital tools still depend disproportionately on non-digital options.",
+    "cited_markers": [
+      "[1]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "e1f89a222970ba24"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-100",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 100,
+    "text": "Pix Saque and Pix Troco partially bridge the digital and cash economies; in 2025, Pix Saque recorded 19.5 million transactions and approximately 14,000 establishments, correspondents, lottery outlets, and ATMs offered Pix Saque or Pix Troco services.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-101",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 101,
+    "text": "Overall, Pix is best understood as a highly successful expansion of Brazil’s **payments frontier**, with credible but still incomplete evidence that it has also deepened broader financial inclusion.",
+    "cited_markers": [
+      "[1]",
+      "[7]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "d232e56b64bd8437",
+      "5d1d657519f0e933"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-102",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 102,
+    "text": "It clearly lowered the monetary and practical cost of digital transfers, expanded meaningful payment use among low-income Brazilians, widened participation by non-bank providers, and gave millions of small firms and individuals a simple interoperable acceptance instrument.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94",
+      "7b00af1395157128",
+      "2d4da85080980183"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-103",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 103,
+    "text": "It probably contributed to higher account activity, financial deepening, and competitive pressure, and recent quasi-experimental research is consistent with positive effects on account ownership and credit access.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d232e56b64bd8437",
+      "5d1d657519f0e933",
+      "3840eab9f5e75580"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-104",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 104,
+    "text": "But Pix should not be credited automatically with all improvements in Brazilian financial inclusion since 2020, because its rollout coincided with pandemic-era digitalization, government transfers through digital accounts, fintech expansion, Open Finance, regulatory reform, and broader growth in smartphone and internet access.",
+    "cited_markers": [
+      "[18]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "f024b3e66b9e0177",
+      "e1f89a222970ba24",
+      "1bb81415aef649b7"
+    ]
+  },
+  {
+    "id": "pix_brasil_98cc4606e9bb_20261115T060750Z-105",
+    "answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "position": 105,
+    "text": "The most defensible policy conclusion is that Pix solved a major part of the problem of inexpensive, interoperable access to digital payments, while the remaining inclusion agenda concerns whether every Brazilian can use the financial system safely, confidently, affordably, and in ways that improve long-term financial well-being.",
+    "cited_markers": [
+      "[4]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "2d4da85080980183",
+      "1a4407452cc29300"
+    ]
+  }
+]

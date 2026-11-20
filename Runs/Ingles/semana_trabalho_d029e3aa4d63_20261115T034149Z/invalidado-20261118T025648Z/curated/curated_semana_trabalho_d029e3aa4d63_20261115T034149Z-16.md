@@ -1,0 +1,60 @@
+[referencia=7412db1664d26834 score=0.990]
+## How the Pilots Worked
+
+
+The pilot programs, instituted by nonprofit 4 Day Week Global, were done with companies that were interested in instituting a reduced workweek with no reduction in pay. A two-month on-ramp period preceded the trial period. The on-ramp period allowed companies to prepare for the scheduling change; they were offered workshops, along with coaching and mentoring.
+
+Participating organizations typically scheduled their workweeks Monday through Thursday.
+
+"The results are now in: The trials have been a resounding success on virtually every dimension," the researchers wrote in *Assessing Global Trials of Reduced Work Time with No Reduction in Pay*.
+
+Among the findings:
+
+- Average number of days worked dropped from 5.0 to 4.36.
+- 52 percent of employees thought their pace of work increased; 42 percent thought it was the same.
+- 67 percent of employees reported lower levels of burnout; 20 percent registered a higher burnout score.
+- The prevalence of remote working declined from an average of 3.72 days per week to 3.37 days per week.
+
+Employees fared better during the reduced workweek, according to the researchers.
+
+"They were less stressed and less burned out. The ratings they gave on their physical and mental health were better. They were spending more time exercising and were less fatigued. Their sense of satisfaction with their lives improved, both generally and across a range of domains. Their self-reports of work performance went up substantially, but not because they were sped up or worked harder. The companies' efforts to re-organize work were successful in eliciting productivity without speed-up."
+
+The result, researchers noted, "strongly suggests that a four-day workweek has the potential to reduce costs associated with health care."
+
+Researchers concluded that the trial "had profound effects," with 97 percent of the employees indicating they want to continue working a four-day week.
+
+In fact, a majority of employees would not return to a five-day workweek unless they received increased pay—70 percent said they would require between 10 percent and 50 percent more pay, and 13 percent would require more than 50 percent to return to a five-day workweek. And 13 percent said no amount of money could convince them to give up the four-day week, researchers noted.
+
+---
+
+[referencia=7412db1664d26834 score=0.109]
+Two six-month global pilot programs testing a four-day workweek this year have been "a resounding success," benefiting both organizations and their employees, according to a new report from independent academic researchers.
+
+The trials—one starting in February and the second in April—involved 33 companies and more than 900 employees. Most of the companies were in Ireland and the U.S., although one large global company had employees in Australia, New Zealand and the U.K. Twelve companies were fully remote. Among participating employers, 52 percent had 10 or fewer employees. 
+
+"We found that the trial had profound effects," researchers at Boston College, Cambridge University and the University College Dublin wrote in the report. "Revenue rose approximately 8 percent over the trial and was up 37.55 percent [compared] to the same period in 2021. Hiring rose, absenteeism was reduced, and resignations declined slightly."
+
+A similar pilot was executed in the U.K. this year, involving more than 3,300 employees at 73 companies. The majority of those participating organizations reported it was working well, according to the BBC, with 95 percent saying productivity has remained the same or improved. Nearly half of the organizations surveyed said they would continue the four-day week after the trial ends.
+
+Organizations competing for talent should take note, said Chris Federspiel, CEO and founder of New York City-based Blackthorn.io, a builder of Salesforce-platform apps.
+
+"A four-day workweek isn't the future—it's now," he told *SHRM Online*. His company uses a four-day workweek. In the summer of 2021, the company gave employees every other Friday off; in August that year, they decided to make the four-day workweek an ongoing practice.
+
+"Startup and tech companies implementing four-day workweeks have found this approach is transformational," Federspiel said. "It has improved employee productivity and satisfaction and increased overall retention rates."
+
+---
+
+[referencia=7412db1664d26834 score=0.008]
+"These calculations should serve as a strong signal to employers that it's time to retire the nearly 100-year-old convention of the five-day, 40-hour week," researchers wrote in the report, "and begin to embrace a four-day, 32-hour week." **Other SHRM resources**:
+
+The Executive View: Companies with Shorter Workweeks Find Less Is More, *SHRM Executive Network*, January 2022
+
+Want to Switch to a 4-Day Work Week? Here's How to Run a Pilot, *SHRM Executive Network*, January 2022
+
+What Employers Should Know Before Trying a 4-Day Workweek, *SHRM Online*, June 2022
+
+A CEO's Advice on Adopting an Alternating Four-Day Workweek, *SHRM Online*, July 2021
+
+Rethinking the Workweek, *All Things Work*, November 2022
+
+**Was this resource helpful?**

@@ -1,0 +1,597 @@
+[referencia=37441f02f270282b score=0.807]
+▼B
+
+Article 3
+
+Definitions
+
+For the purposes of this Regulation, the following definitions apply:
+
+(1) ‘AI system’ means a machine-based system that is designed to operate with varying levels of autonomy and that may exhibit adaptiveness after deployment, and that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments;
+
+(2) ‘risk’ means the combination of the probability of an occurrence of harm and the severity of that harm;
+
+(3) ‘provider’ means a natural or legal person, public authority, agency or other body that develops an AI system or a general-purpose AI model or that has an AI system or a general-purpose AI model developed and places it on the market or puts the AI system into service under its own name or trademark, whether for payment or free of charge;
+
+(4) ‘deployer’ means a natural or legal person, public authority, agency or other body using an AI system under its authority except where the AI system is used in the course of a personal non-professional activity;
+
+(5) ‘authorised representative’ means a natural or legal person located or established in the Union who has received and accepted a written mandate from a provider of an AI system or a general-purpose AI model to, respectively, perform and carry out on its behalf the obligations and procedures established by this Regulation;
+
+(6) ‘importer’ means a natural or legal person located or established in the Union that places on the market an AI system that bears the name or trademark of a natural or legal person established in a third country;
+
+(7) ‘distributor’ means a natural or legal person in the supply chain, other than the provider or the importer, that makes an AI system available on the Union market;
+
+(8) ‘operator’ means a provider, product manufacturer, deployer, authorised representative, importer or distributor;
+
+(9) ‘placing on the market’ means the first making available of an AI system or a general-purpose AI model on the Union market;
+
+(10) ‘making available on the market’ means the supply of an AI system or a general-purpose AI model for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+
+---
+
+[referencia=37441f02f270282b score=0.423]
+6. Distributors shall cooperate with the relevant competent authorities in any action those authorities take in relation to a high-risk AI system made available on the market by the distributors, in particular to reduce or mitigate the risk posed by it.
+
+Article 25
+
+Responsibilities along the AI value chain
+
+1. Any distributor, importer, deployer or other third-party shall be considered to be a provider of a high-risk AI system for the purposes of this Regulation and shall be subject to the obligations of the provider under Article 16, in any of the following circumstances:
+
+(a) they put their name or trademark on a high-risk AI system already placed on the market or put into service, without prejudice to contractual arrangements stipulating that the obligations are otherwise allocated;
+
+(b) they make a substantial modification to a high-risk AI system that has already been placed on the market or has already been put into service in such a way that it remains a high-risk AI system pursuant to Article 6;
+
+(c) they modify the intended purpose of an AI system, including a general-purpose AI system, which has not been classified as high-risk and has already been placed on the market or put into service in such a way that the AI system concerned becomes a high-risk AI system in accordance with Article 6.
+
+▼M1
+
+2. Where the circumstances referred to in paragraph 1 occur, the provider that initially placed the AI system on the market or put it into service shall no longer be considered to be a provider of that specific AI system for the purposes of this Regulation.
+
+That initial provider shall closely cooperate with new providers and shall make available the necessary information and provide the reasonably expected technical access and other assistance that are required for the fulfilment of the obligations set out in this Regulation, in particular with regard to compliance with the conformity assessment of high-risk AI systems.
+
+In particular, the obligation laid down in the second subparagraph shall include, where relevant for the purposes specified therein, the following:
+
+(a) making available of technical documentation sufficient to assess compliance with the requirements laid down in Article 16;
+
+(b) informing the new providers about known limitations and failure modes; and
+
+(c) providing the new providers with targeted technical access, including for testing and validation.
+
+This paragraph shall not apply in cases where the initial provider has clearly specified that its AI system is not to be changed into a high-risk AI system and therefore does not fall under the obligation to cooperate with the new providers and hand over the documentation.
+
+▼B
+
+---
+
+[referencia=37441f02f270282b score=0.420]
+(Text with EEA relevance)
+
+CHAPTER I
+
+GENERAL PROVISIONS
+
+Article 1
+
+Subject matter'
+
+1. The purpose of this Regulation is to improve the functioning of the internal market and promote the uptake of human-centric and trustworthy artificial intelligence (AI), while ensuring a high level of protection of health, safety, fundamental rights enshrined in the Charter, including democracy, the rule of law and environmental protection, against the harmful effects of AI systems in the Union and supporting innovation.
+
+2. This Regulation lays down:
+
+(a) harmonised rules for the placing on the market, the putting into service, and the use of AI systems in the Union;
+
+(b) prohibitions of certain AI practices;
+
+(c) specific requirements for high-risk AI systems and obligations for operators of such systems;
+
+(d) harmonised transparency rules for certain AI systems;
+
+(e) harmonised rules for the placing on the market of general-purpose AI models;
+
+(f) rules on market monitoring, market surveillance, governance and enforcement;
+
+▼M1
+
+(g) measures to support innovation, with a particular focus on small mid-cap enterprises (SMCs) and small and medium-sized enterprises (SMEs), including start-ups.
+
+▼B
+
+Article 2
+
+Scope
+
+1. This Regulation applies to:
+
+(a) providers placing on the market or putting into service AI systems or placing on the market general-purpose AI models in the Union, irrespective of whether those providers are established or located within the Union or in a third country;
+
+(b) deployers of AI systems that have their place of establishment or are located within the Union;
+
+(c) providers and deployers of AI systems that have their place of establishment or are located in a third country, where the output produced by the AI system is used in the Union;
+
+(d) importers and distributors of AI systems;
+
+(e) product manufacturers placing on the market or putting into service an AI system together with their product and under their own name or trademark;
+
+(f) authorised representatives of providers, which are not established in the Union;
+
+(g) affected persons that are located in the Union.
+
+▼M1
+
+---
+
+[referencia=37441f02f270282b score=0.367]
+▼B
+
+3. In the case of high-risk AI systems that are safety components of products covered by the Union harmonisation legislation listed in Section A of Annex I, the product manufacturer shall be considered to be the provider of the high-risk AI system, and shall be subject to the obligations under Article 16 under either of the following circumstances:
+
+(a) the high-risk AI system is placed on the market together with the product under the name or trademark of the product manufacturer;
+
+(b) the high-risk AI system is put into service under the name or trademark of the product manufacturer after the product has been placed on the market.
+
+▼M1
+
+4. The provider of a high-risk AI system and the third party that supplies an AI system, AI model, tools, services, components, or processes that are used or integrated in a high-risk AI system shall, by written agreement, specify the necessary information, capabilities, technical access and other assistance based on the generally acknowledged state of the art, in order to enable the provider of the high-risk AI system to fully comply with the obligations set out in this Regulation. This paragraph shall not apply to third parties making accessible to the public tools, services, processes, or components, other than general-purpose AI models, under a free and open-source licence.
+
+▼B
+
+The AI Office may develop and recommend voluntary model terms for contracts between providers of high-risk AI systems and third parties that supply tools, services, components or processes that are used for or integrated into high-risk AI systems. When developing those voluntary model terms, the AI Office shall take into account possible contractual requirements applicable in specific sectors or business cases. The voluntary model terms shall be published and be available free of charge in an easily usable electronic format.
+
+5. Paragraphs 2 and 3 are without prejudice to the need to observe and protect intellectual property rights, confidential business information and trade secrets in accordance with Union and national law.
+
+Article 26
+
+Obligations of deployers of high-risk AI systems
+
+---
+
+[referencia=37441f02f270282b score=0.297]
+4. Deployers of an AI system that generates or manipulates image, audio or video content constituting a deep fake, shall disclose that the content has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offence. Where the content forms part of an evidently artistic, creative, satirical, fictional or analogous work or programme, the transparency obligations set out in this paragraph are limited to disclosure of the existence of such generated or manipulated content in an appropriate manner that does not hamper the display or enjoyment of the work.
+
+Deployers of an AI system that generates or manipulates text which is published with the purpose of informing the public on matters of public interest shall disclose that the text has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offences or where the AI-generated content has undergone a process of human review or editorial control and where a natural or legal person holds editorial responsibility for the publication of the content.
+
+5. The information referred to in paragraphs 1 to 4 shall be provided to the natural persons concerned in a clear and distinguishable manner at the latest at the time of the first interaction or exposure. The information shall conform to the applicable accessibility requirements.
+
+6. Paragraphs 1 to 4 shall not affect the requirements and obligations set out in Chapter III, and shall be without prejudice to other transparency obligations laid down in Union or national law for deployers of AI systems.
+
+▼M1
+
+7. The Commission shall encourage and facilitate the drawing up of codes of practice at Union level to facilitate the effective implementation of the obligations regarding the detection, marking and labelling of artificially generated or manipulated content. The Commission, taking utmost account of the opinion of the Board, shall assess whether adherence to those codes of practice is adequate to ensure compliance with the obligations laid down in paragraphs 2 and 4 of this Article, in accordance with the procedure laid down in Article 56(6). If it deems the code of practice to be inadequate, the Commission may adopt an implementing act specifying common rules for the implementation of those obligations in accordance with the examination procedure laid down in Article 98(2).
+
+▼B
+
+CHAPTER V
+
+GENERAL-PURPOSE AI MODELS
+
+SECTION 1
+
+Classification rules
+
+Article 51
+
+Classification of general-purpose AI models as general-purpose AI models with systemic risk
+
+---
+
+[referencia=37441f02f270282b score=0.263]
+Article 54
+
+Authorised representatives of providers of general-purpose AI models
+
+1. Prior to placing a general-purpose AI model on the Union market, providers established in third countries shall, by written mandate, appoint an authorised representative which is established in the Union.
+
+2. The provider shall enable its authorised representative to perform the tasks specified in the mandate received from the provider.
+
+3. The authorised representative shall perform the tasks specified in the mandate received from the provider. It shall provide a copy of the mandate to the AI Office upon request, in one of the official languages of the institutions of the Union. For the purposes of this Regulation, the mandate shall empower the authorised representative to carry out the following tasks:
+
+(a) verify that the technical documentation specified in Annex XI has been drawn up and all obligations referred to in Article 53 and, where applicable, Article 55 have been fulfilled by the provider;
+
+(b) keep a copy of the technical documentation specified in Annex XI at the disposal of the AI Office and national competent authorities, for a period of 10 years after the general-purpose AI model has been placed on the market, and the contact details of the provider that appointed the authorised representative;
+
+(c) provide the AI Office, upon a reasoned request, with all the information and documentation, including that referred to in point (b), necessary to demonstrate compliance with the obligations in this Chapter;
+
+(d) cooperate with the AI Office and competent authorities, upon a reasoned request, in any action they take in relation to the general-purpose AI model, including when the model is integrated into AI systems placed on the market or put into service in the Union.
+
+4. The mandate shall empower the authorised representative to be addressed, in addition to or instead of the provider, by the AI Office or the competent authorities, on all issues related to ensuring compliance with this Regulation.
+
+5. The authorised representative shall terminate the mandate if it considers or has reason to consider the provider to be acting contrary to its obligations pursuant to this Regulation. In such a case, it shall also immediately inform the AI Office about the termination of the mandate and the reasons therefor.
+
+6. The obligation set out in this Article shall not apply to providers of general-purpose AI models that are released under a free and open-source licence that allows for the access, usage, modification, and distribution of the model, and whose parameters, including the weights, the information on the model architecture, and the information on model usage, are made publicly available, unless the general-purpose AI models present systemic risks.
+
+SECTION 3
+
+---
+
+[referencia=37441f02f270282b score=0.238]
+(10) ‘making available on the market’ means the supply of an AI system or a general-purpose AI model for distribution or use on the Union market in the course of a commercial activity, whether in return for payment or free of charge;
+
+(11) ‘putting into service’ means the supply of an AI system for first use directly to the deployer or for own use in the Union for its intended purpose;
+
+(12) ‘intended purpose’ means the use for which an AI system is intended by the provider, including the specific context and conditions of use, as specified in the information supplied by the provider in the instructions for use, promotional or sales materials and statements, as well as in the technical documentation;
+
+(13) ‘reasonably foreseeable misuse’ means the use of an AI system in a way that is not in accordance with its intended purpose, but which may result from reasonably foreseeable human behaviour or interaction with other systems, including other AI systems;
+
+▼M1
+
+(14) ‘safety component’ means a component of a product or of an AI system which fulfils a safety function for that product or AI system, or the failure or malfunctioning of which endangers the health and safety of persons or property; for the purposes of this definition, a component fulfils a safety function where its intended purpose is to prevent or mitigate risks to health and safety of persons or property;
+
+▼M1
+
+(14a) ‘micro, small and medium-sized enterprise’ or ‘SME’ means a micro, small or medium-sized enterprise as defined in Article 2 of the Annex to Recommendation 2003/361/EC;
+
+(14b) ‘small mid-cap enterprise’ or ‘SMC’ means a small mid-cap enterprise as defined in point (2) of the Annex to Recommendation (EU) 2025/1099;
+
+▼B
+
+(15) ‘instructions for use’ means the information provided by the provider to inform the deployer of, in particular, an AI system’s intended purpose and proper use;
+
+(16) ‘recall of an AI system’ means any measure aiming to achieve the return to the provider or taking out of service or disabling the use of an AI system made available to deployers;
+
+(17) ‘withdrawal of an AI system’ means any measure aiming to prevent an AI system in the supply chain being made available on the market;
+
+---
+
+[referencia=37441f02f270282b score=0.232]
+(62) ‘critical infrastructure’ means critical infrastructure as defined in Article 2, point (4), of Directive (EU) 2022/2557;
+
+(63) ‘general-purpose AI model’ means an AI model, including where such an AI model is trained with a large amount of data using self-supervision at scale, that displays significant generality and is capable of competently performing a wide range of distinct tasks regardless of the way the model is placed on the market and that can be integrated into a variety of downstream systems or applications, except AI models that are used for research, development or prototyping activities before they are placed on the market;
+
+(64) ‘high-impact capabilities’ means capabilities that match or exceed the capabilities recorded in the most advanced general-purpose AI models;
+
+(65) ‘systemic risk’ means a risk that is specific to the high-impact capabilities of general-purpose AI models, having a significant impact on the Union market due to their reach, or due to actual or reasonably foreseeable negative effects on public health, safety, public security, fundamental rights, or the society as a whole, that can be propagated at scale across the value chain;
+
+(66) ‘general-purpose AI system’ means an AI system which is based on a general-purpose AI model and which has the capability to serve a variety of purposes, both for direct use as well as for integration in other AI systems;
+
+(67) ‘floating-point operation’ means any mathematical operation or assignment involving floating-point numbers, which are a subset of the real numbers typically represented on computers by an integer of fixed precision scaled by an integer exponent of a fixed base;
+
+(68) ‘downstream provider’ means a provider of an AI system, including a general-purpose AI system, which integrates an AI model, regardless of whether the AI model is provided by themselves and vertically integrated or provided by another entity based on contractual relations.
+
+▼M1
+
+Article 4
+
+AI literacy
+
+---
+
+[referencia=37441f02f270282b score=0.194]
+13. Market surveillance authorities shall be granted access to the source code of the high-risk AI system upon a reasoned request and only when both of the following conditions are fulfilled:
+
+(a) access to source code is necessary to assess the conformity of a high-risk AI system with the requirements set out in Chapter III, Section 2; and
+
+(b) testing or auditing procedures and verifications based on the data and documentation provided by the provider have been exhausted or proved insufficient.
+
+14. Any information or documentation obtained by market surveillance authorities shall be treated in accordance with the confidentiality obligations set out in Article 78.
+
+Article 75
+
+▼M1
+
+Market surveillance and control of AI systems and mutual assistance
+
+1. The AI Office shall be exclusively competent for the supervision and enforcement of the obligations under this Regulation in relation to the following AI systems:
+
+(a) AI systems based on general-purpose AI models where the model and the system are developed by the same provider, or by providers forming part of the same undertaking as that provider, with the exception of:
+
+(i) AI systems related to products covered by the Union harmonisation legislation listed in Annex I;
+
+(ii) AI systems referred to in point 2 of Annex III;
+
+(iii) AI systems provided by law enforcement authorities, border management authorities and financial institutions, insofar as those AI systems fall under Article 74(6); and
+
+(iv) AI systems referred to in point 8 of Annex III as regards the administration of justice;
+
+(b) AI systems that constitute or that are integrated into a very large online platform or very large online search engine designated in accordance with Regulation (EU) 2022/2065.
+
+The exclusive competence referred to in the first subparagraph shall apply to the providers of those systems. It shall apply to the deployers of those systems only when they are also the provider or form part of the same undertaking as the provider.
+
+▼M1
+
+1a. By way of derogation from Article 73, providers of high-risk AI systems subject to the competence of the AI Office pursuant to paragraph 1 of this Article shall report any serious incidents to the AI Office. Article 73 (2) to (9), shall apply mutatis mutandis. The AI Office shall promptly transmit the relevant information to the market surveillance authority of the Member State in the territory of which the provider or its legal representative is situated.
+
+---
+
+[referencia=37441f02f270282b score=0.158]
+(d) draw up and make publicly available a sufficiently detailed summary about the content used for training of the general-purpose AI model, according to a template provided by the AI Office.
+
+2. The obligations set out in paragraph 1, points (a) and (b), shall not apply to providers of AI models that are released under a free and open-source licence that allows for the access, usage, modification, and distribution of the model, and whose parameters, including the weights, the information on the model architecture, and the information on model usage, are made publicly available. This exception shall not apply to general-purpose AI models with systemic risks.
+
+3. Providers of general-purpose AI models shall cooperate as necessary with the Commission and the national competent authorities in the exercise of their competences and powers pursuant to this Regulation.
+
+4. Providers of general-purpose AI models may rely on codes of practice within the meaning of Article 56 to demonstrate compliance with the obligations set out in paragraph 1 of this Article, until a harmonised standard is published. Compliance with European harmonised standards grants providers the presumption of conformity to the extent that those standards cover those obligations. Providers of general-purpose AI models who do not adhere to an approved code of practice or do not comply with a European harmonised standard shall demonstrate alternative adequate means of compliance for assessment by the Commission.
+
+5. For the purpose of facilitating compliance with Annex XI, in particular points 2 (d) and (e) thereof, the Commission is empowered to adopt delegated acts in accordance with Article 97 to detail measurement and calculation methodologies with a view to allowing for comparable and verifiable documentation.
+
+6. The Commission is empowered to adopt delegated acts in accordance with Article 97(2) to amend Annexes XI and XII in light of evolving technological developments.
+
+7. Any information or documentation obtained pursuant to this Article, including trade secrets, shall be treated in accordance with the confidentiality obligations set out in Article 78.
+
+Article 54
+
+Authorised representatives of providers of general-purpose AI models
+
+---
+
+[referencia=37441f02f270282b score=0.155]
+(48) ‘national competent authority’ means a notifying authority or a market surveillance authority; as regards AI systems put into service or used by Union institutions, agencies, offices and bodies, references to national competent authorities or market surveillance authorities in this Regulation shall be construed as references to the European Data Protection Supervisor;
+
+(49) ‘serious incident’ means an incident or malfunctioning of an AI system that directly or indirectly leads to any of the following:
+
+(a) the death of a person, or serious harm to a person’s health;
+
+(b) a serious and irreversible disruption of the management or operation of critical infrastructure;
+
+(c) the infringement of obligations under Union law intended to protect fundamental rights;
+
+(d) serious harm to property or the environment;
+
+(50) ‘personal data’ means personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;
+
+(51) ‘non-personal data’ means data other than personal data as defined in Article 4, point (1), of Regulation (EU) 2016/679;
+
+(52) ‘profiling’ means profiling as defined in Article 4, point (4), of Regulation (EU) 2016/679;
+
+(53) ‘real-world testing plan’ means a document that describes the objectives, methodology, geographical, population and temporal scope, monitoring, organisation and conduct of testing in real-world conditions;
+
+(54) ‘sandbox plan’ means a document agreed between the participating provider and the competent authority describing the objectives, conditions, timeframe, methodology and requirements for the activities carried out within the sandbox;
+
+(55) ‘AI regulatory sandbox’ means a controlled framework set up by a competent authority which offers providers or prospective providers of AI systems the possibility to develop, train, validate and test, where appropriate in real-world conditions, an innovative AI system, pursuant to a sandbox plan for a limited time under regulatory supervision;
+
+(56) ‘AI literacy’ means skills, knowledge and understanding that allow providers, deployers and affected persons, taking into account their respective rights and obligations in the context of this Regulation, to make an informed deployment of AI systems, as well as to gain awareness about the opportunities and risks of AI and possible harm it can cause;
+
+---
+
+[referencia=37441f02f270282b score=0.117]
+The following information shall be provided and thereafter kept up to date with regard to high-risk AI systems to be registered in accordance with Article 49(1):
+
+1. The name, address and contact details of the provider;
+
+2. Where submission of information is carried out by another person on behalf of the provider, the name, address and contact details of that person;
+
+3. The name, address and contact details of the authorised representative, where applicable;
+
+4. The AI system trade name and any additional unambiguous reference allowing the identification and traceability of the AI system;
+
+5. A description of the intended purpose of the AI system and of the components and functions supported through this AI system;
+
+6. A basic and concise description of the information used by the system (data, inputs) and its operating logic;
+
+7. The status of the AI system (on the market, or in service; no longer placed on the market/in service, recalled);
+
+8. The type, number and expiry date of the certificate issued by the notified body and the name or identification number of that notified body, where applicable;
+
+9. A scanned copy of the certificate referred to in point 8, where applicable;
+
+10. Any Member States in which the AI system has been placed on the market, put into service or made available in the Union;
+
+11. A copy of the EU declaration of conformity referred to in Article 47;
+
+12. Electronic instructions for use; this information shall not be provided for high-risk AI systems in the areas of law enforcement or migration, asylum and border control management referred to in Annex III, points 1, 6 and 7;
+
+13. A URL for additional information (optional).
+
+Section B — Information to be submitted by providers of high-risk AI systems in accordance with Article 49(2)
+
+The following information shall be provided and thereafter kept up to date with regard to AI systems to be registered in accordance with Article 49(2):
+
+---
+
+[referencia=37441f02f270282b score=0.101]
+(k) the predictions, recommendations or decisions of the AI system can be effectively reversed and disregarded.
+
+5. Any subjects of the testing in real world conditions, or their legally designated representative, as appropriate, may, without any resulting detriment and without having to provide any justification, withdraw from the testing at any time by revoking their informed consent and may request the immediate and permanent deletion of their personal data. The withdrawal of the informed consent shall not affect the activities already carried out.
+
+6. In accordance with Article 75, Member States shall confer on their market surveillance authorities the powers of requiring providers and prospective providers to provide information, of carrying out unannounced remote or on-site inspections, and of performing checks on the conduct of the testing in real world conditions and the related high-risk AI systems. Market surveillance authorities shall use those powers to ensure the safe development of testing in real world conditions.
+
+7. Any serious incident identified in the course of the testing in real world conditions shall be reported to the national market surveillance authority in accordance with Article 73. The provider or prospective provider shall adopt immediate mitigation measures or, failing that, shall suspend the testing in real world conditions until such mitigation takes place, or otherwise terminate it. The provider or prospective provider shall establish a procedure for the prompt recall of the AI system upon such termination of the testing in real world conditions.
+
+8. Providers or prospective providers shall notify the national market surveillance authority in the Member State where the testing in real world conditions is to be conducted of the suspension or termination of the testing in real world conditions and of the final outcomes.
+
+9. The provider or prospective provider shall be liable under applicable Union and national liability law for any damage caused in the course of their testing in real world conditions.
+
+▼M1
+
+Article 60a
+
+Testing of high-risk AI systems covered by Union harmonisation legislation listed in Section B of Annex I in real-world conditions outside AI regulatory sandboxes
+
+---
+
+[referencia=37441f02f270282b score=0.083]
+(c) the system bears the required CE marking and is accompanied by the EU declaration of conformity referred to in Article 47 and instructions for use;
+
+(d) the provider has appointed an authorised representative in accordance with Article 22(1).
+
+2. Where an importer has sufficient reason to consider that a high-risk AI system is not in conformity with this Regulation, or is falsified, or accompanied by falsified documentation, it shall not place the system on the market until it has been brought into conformity. Where the high-risk AI system presents a risk within the meaning of Article 79(1), the importer shall inform the provider of the system, the authorised representative and the market surveillance authorities to that effect.
+
+3. Importers shall indicate their name, registered trade name or registered trade mark, and the address at which they can be contacted on the high-risk AI system and on its packaging or its accompanying documentation, where applicable.
+
+4. Importers shall ensure that, while a high-risk AI system is under their responsibility, storage or transport conditions, where applicable, do not jeopardise its compliance with the requirements set out in Section 2.
+
+5. Importers shall keep, for a period of 10 years after the high-risk AI system has been placed on the market or put into service, a copy of the certificate issued by the notified body, where applicable, of the instructions for use, and of the EU declaration of conformity referred to in Article 47.
+
+6. Importers shall provide the relevant competent authorities, upon a reasoned request, with all the necessary information and documentation, including that referred to in paragraph 5, to demonstrate the conformity of a high-risk AI system with the requirements set out in Section 2 in a language which can be easily understood by them. For this purpose, they shall also ensure that the technical documentation can be made available to those authorities.
+
+7. Importers shall cooperate with the relevant competent authorities in any action those authorities take in relation to a high-risk AI system placed on the market by the importers, in particular to reduce and mitigate the risks posed by it.
+
+Article 24
+
+Obligations of distributors
+
+---
+
+[referencia=37441f02f270282b score=0.083]
+(b) AI systems intended to be used for influencing the outcome of an election or referendum or the voting behaviour of natural persons in the exercise of their vote in elections or referenda. This does not include AI systems to the output of which natural persons are not directly exposed, such as tools used to organise, optimise or structure political campaigns from an administrative or logistical point of view.
+
+ANNEX IV
+
+Technical documentation referred to in Article 11(1)
+
+The technical documentation referred to in Article 11(1) shall contain at least the following information, as applicable to the relevant AI system:
+
+1. A general description of the AI system including:
+
+(a) its intended purpose, the name of the provider and the version of the system reflecting its relation to previous versions;
+
+(b) how the AI system interacts with, or can be used to interact with, hardware or software, including with other AI systems, that are not part of the AI system itself, where applicable;
+
+(c) the versions of relevant software or firmware, and any requirements related to version updates;
+
+(d) the description of all the forms in which the AI system is placed on the market or put into service, such as software packages embedded into hardware, downloads, or APIs;
+
+(e) the description of the hardware on which the AI system is intended to run;
+
+(f) where the AI system is a component of products, photographs or illustrations showing external features, the marking and internal layout of those products;
+
+(g) a basic description of the user-interface provided to the deployer;
+
+(h) instructions for use for the deployer, and a basic description of the user-interface provided to the deployer, where applicable;
+
+2. A detailed description of the elements of the AI system and of the process for its development, including:
+
+(a) the methods and steps performed for the development of the AI system, including, where relevant, recourse to pre-trained systems or tools provided by third parties and how those were used, integrated or modified by the provider;
+
+---
+
+[referencia=37441f02f270282b score=0.078]
+▼M1
+
+(ba) the placing on the market, the putting into service or the use of an AI system that generates or manipulates realistic images, videos, audio or similar material of an identifiable natural person’s intimate parts, or of an identifiable natural person engaged in sexually explicit activities, without that person’s freely-given, specific, informed, unambiguous and explicit consent for that generation or manipulation;
+
+(bb) the placing on the market, the putting into service or the use of an AI system that generates or manipulates material or performance within the meaning of Article 2, points (c) and (e), of Directive 2011/93/EU, except where a ‘without right’ defence applies under national law;
+
+▼B
+
+(c) the placing on the market, the putting into service or the use of AI systems for the evaluation or classification of natural persons or groups of persons over a certain period of time based on their social behaviour or known, inferred or predicted personal or personality characteristics, with the social score leading to either or both of the following:
+
+(i) detrimental or unfavourable treatment of certain natural persons or groups of persons in social contexts that are unrelated to the contexts in which the data was originally generated or collected;
+
+(ii) detrimental or unfavourable treatment of certain natural persons or groups of persons that is unjustified or disproportionate to their social behaviour or its gravity;
+
+(d) the placing on the market, the putting into service for this specific purpose, or the use of an AI system for making risk assessments of natural persons in order to assess or predict the risk of a natural person committing a criminal offence, based solely on the profiling of a natural person or on assessing their personality traits and characteristics; this prohibition shall not apply to AI systems used to support the human assessment of the involvement of a person in a criminal activity, which is already based on objective and verifiable facts directly linked to a criminal activity;
+
+(e) the placing on the market, the putting into service for this specific purpose, or the use of AI systems that create or expand facial recognition databases through the untargeted scraping of facial images from the internet or CCTV footage;
+
+(f) the placing on the market, the putting into service for this specific purpose, or the use of AI systems to infer emotions of a natural person in the areas of workplace and education institutions, except where the use of the AI system is intended to be put in place or into the market for medical or safety reasons;
+
+---
+
+[referencia=37441f02f270282b score=0.067]
+(h) that participation in the AI regulatory sandbox is limited to a period that is appropriate to the complexity and scale of the project and that may be extended by the national competent authority;
+
+(i) that AI regulatory sandboxes facilitate the development of tools and infrastructure for testing, benchmarking, assessing and explaining dimensions of AI systems relevant for regulatory learning, such as accuracy, robustness and cybersecurity, as well as measures to mitigate risks to fundamental rights and society at large.
+
+3. Prospective providers in the AI regulatory sandboxes, in particular SMEs and start-ups, shall be directed, where relevant, to pre-deployment services such as guidance on the implementation of this Regulation, to other value-adding services such as help with standardisation documents and certification, testing and experimentation facilities, European Digital Innovation Hubs and centres of excellence.
+
+4. Where national competent authorities consider authorising testing in real world conditions supervised within the framework of an AI regulatory sandbox to be established under this Article, they shall specifically agree the terms and conditions of such testing and, in particular, the appropriate safeguards with the participants, with a view to protecting fundamental rights, health and safety. Where appropriate, they shall cooperate with other national competent authorities with a view to ensuring consistent practices across the Union.
+
+Article 59
+
+Further processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox
+
+1. In the AI regulatory sandbox, personal data lawfully collected for other purposes may be processed solely for the purpose of developing, training and testing certain AI systems in the sandbox when all of the following conditions are met:
+
+(a) AI systems shall be developed for safeguarding substantial public interest by a public authority or another natural or legal person and in one or more of the following areas:
+
+(i) public safety and public health, including disease detection, diagnosis prevention, control and treatment and improvement of health care systems;
+
+(ii) a high level of protection and improvement of the quality of the environment, protection of biodiversity, protection against pollution, green transition measures, climate change mitigation and adaptation measures;
+
+(iii) energy sustainability;
+
+(iv) safety and resilience of transport systems and mobility, critical infrastructure and networks;
+
+(v) efficiency and quality of public administration and public services;
+
+(b) the data processed are necessary for complying with one or more of the requirements referred to in Chapter III, Section 2 where those requirements cannot effectively be fulfilled by processing anonymised, synthetic or other non-personal data;
+
+---
+
+[referencia=37441f02f270282b score=0.065]
+The notified body shall notify the provider of its decision. The notification shall contain the conclusions of the examination of the changes and the reasoned assessment decision.
+
+4. Control of the technical documentation.
+
+4.1. In addition to the application referred to in point 3, an application with a notified body of their choice shall be lodged by the provider for the assessment of the technical documentation relating to the AI system which the provider intends to place on the market or put into service and which is covered by the quality management system referred to under point 3.
+
+4.2. The application shall include:
+
+(a) the name and address of the provider;
+
+(b) a written declaration that the same application has not been lodged with any other notified body;
+
+(c) the technical documentation referred to in Annex IV.
+
+4.3. The technical documentation shall be examined by the notified body. Where relevant, and limited to what is necessary to fulfil its tasks, the notified body shall be granted full access to the training, validation, and testing data sets used, including, where appropriate and subject to security safeguards, through API or other relevant technical means and tools enabling remote access.
+
+4.4. In examining the technical documentation, the notified body may require that the provider supply further evidence or carry out further tests so as to enable a proper assessment of the conformity of the AI system with the requirements set out in Chapter III, Section 2. Where the notified body is not satisfied with the tests carried out by the provider, the notified body shall itself directly carry out adequate tests, as appropriate.
+
+4.5. Where necessary to assess the conformity of the high-risk AI system with the requirements set out in Chapter III, Section 2, after all other reasonable means to verify conformity have been exhausted and have proven to be insufficient, and upon a reasoned request, the notified body shall also be granted access to the training and trained models of the AI system, including its relevant parameters. Such access shall be subject to existing Union law on the protection of intellectual property and trade secrets.
+
+4.6. The decision of the notified body shall be notified to the provider or its authorised representative. The notification shall contain the conclusions of the assessment of the technical documentation and the reasoned assessment decision.
+
+---
+
+[referencia=37441f02f270282b score=0.064]
+(17) ‘withdrawal of an AI system’ means any measure aiming to prevent an AI system in the supply chain being made available on the market;
+
+(18) ‘performance of an AI system’ means the ability of an AI system to achieve its intended purpose;
+
+(19) ‘notifying authority’ means the national authority responsible for setting up and carrying out the necessary procedures for the assessment, designation and notification of conformity assessment bodies and for their monitoring;
+
+(20) ‘conformity assessment’ means the process of demonstrating whether the requirements set out in Chapter III, Section 2 relating to a high-risk AI system have been fulfilled;
+
+(21) ‘conformity assessment body’ means a body that performs third-party conformity assessment activities, including testing, certification and inspection;
+
+(22) ‘notified body’ means a conformity assessment body notified in accordance with this Regulation and other relevant Union harmonisation legislation;
+
+(23) ‘substantial modification’ means a change to an AI system after its placing on the market or putting into service which is not foreseen or planned in the initial conformity assessment carried out by the provider and as a result of which the compliance of the AI system with the requirements set out in Chapter III, Section 2 is affected or results in a modification to the intended purpose for which the AI system has been assessed;
+
+(24) ‘CE marking’ means a marking by which a provider indicates that an AI system is in conformity with the requirements set out in Chapter III, Section 2 and other applicable Union harmonisation legislation providing for its affixing;
+
+(25) ‘post-market monitoring system’ means all activities carried out by providers of AI systems to collect and review experience gained from the use of AI systems they place on the market or put into service for the purpose of identifying any need to immediately apply any necessary corrective or preventive actions;
+
+(26) ‘market surveillance authority’ means the national authority carrying out the activities and taking the measures pursuant to Regulation (EU) 2019/1020;
+
+(27) ‘harmonised standard’ means a harmonised standard as defined in Article 2(1), point (c), of Regulation (EU) No 1025/2012;
+
+(28) ‘common specification’ means a set of technical specifications as defined in Article 2, point (4) of Regulation (EU) No 1025/2012, providing means to comply with certain requirements established under this Regulation;
+
+---
+
+[referencia=37441f02f270282b score=0.055]
+(a) a general-purpose AI model poses concrete identifiable risk at Union level; or
+
+(b) a general-purpose AI model meets the conditions referred to in Article 51.
+
+2. Upon such qualified alert, the Commission, through the AI Office and after having informed the Board, may exercise the powers laid down in this Section for the purpose of assessing the matter. The AI Office shall inform the Board of any measure according to Articles 91 to 94.
+
+3. A qualified alert shall be duly reasoned and indicate at least:
+
+(a) the point of contact of the provider of the general-purpose AI model with systemic risk concerned;
+
+(b) a description of the relevant facts and the reasons for the alert by the scientific panel;
+
+(c) any other information that the scientific panel considers to be relevant, including, where appropriate, information gathered on its own initiative.
+
+Article 91
+
+Power to request documentation and information
+
+1. The Commission may request the provider of the general-purpose AI model concerned to provide the documentation drawn up by the provider in accordance with Articles 53 and 55, or any additional information that is necessary for the purpose of assessing compliance of the provider with this Regulation.
+
+2. Before sending the request for information, the AI Office may initiate a structured dialogue with the provider of the general-purpose AI model.
+
+3. Upon a duly substantiated request from the scientific panel, the Commission may issue a request for information to a provider of a general-purpose AI model, where the access to information is necessary and proportionate for the fulfilment of the tasks of the scientific panel under Article 68(2).
+
+4. The request for information shall state the legal basis and the purpose of the request, specify what information is required, set a period within which the information is to be provided, and indicate the fines provided for in Article 101 for supplying incorrect, incomplete or misleading information.
+
+5. The provider of the general-purpose AI model concerned, or its representative shall supply the information requested. In the case of legal persons, companies or firms, or where the provider has no legal personality, the persons authorised to represent them by law or by their statutes, shall supply the information requested on behalf of the provider of the general-purpose AI model concerned. Lawyers duly authorised to act may supply information on behalf of their clients. The clients shall nevertheless remain fully responsible if the information supplied is incomplete, incorrect or misleading.
+
+Article 92
+
+Power to conduct evaluations
+
+1. The AI Office, after consulting the Board, may conduct evaluations of the general-purpose AI model concerned:

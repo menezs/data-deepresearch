@@ -1,0 +1,229 @@
+[referencia=dd468fcd5c200c36 score=0.055]
+Less than half the studies included performance and safety outcomes. They primarily focused on outcomes within a specific workplace sector, particularly the healthcare sector and police force. In general, the results for performance and safety were mixed, with studies supporting both positive and negative outcomes of a compressed workweek, as well as multiple studies identifying no significant difference. The outcomes investigated were highly heterogeneous though, which makes the mixed results difficult to aggregate and compare.
+
+When looking at sector specific outcomes, the results for activities and performance in the police force were mixed, with both positive and negative outcomes. However, the studies on healthcare outcomes yielded either positive or insignificant differences for patient safety, and thus more in line with Bambra et al. (2008) indicating that compressed workweeks may be implemented without adverse organizational outcomes.
+
+Prior research on extended shifts have supported that increased fatigue towards the end of a long shift may lead to adverse job outcomes such as an increased risk of errors (Bae & Fabry 2014; Clendon and Gibbons 2015; Dall'Ora et al. 2016; Leroyer et al. 2014). However, the relationship between a compressed workweek and performance outcomes may be more complex. Within the healthcare sector handovers, when the responsibility for a patient is transferred from one person to another, is considered an important risk of error (Desmedt et al. 2020). By extending the length of a shift the number of handovers necessary during 24 h is reduced. Within the police force simulations have demonstrated that the length of the shift is also important for efficient use of personnel (i.e. match between fluctuation work demand and percentage of officers working at any given hour) (Barnum 2011). It is therefore important to investigate the total effects of a compressed workweek on performance and safety outcomes. There is a clear need for more high-quality studies investigating the potentially complex relationship between compressed workweek and patient and safety outcomes.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.021]
+Two of the studies investigating safety or performance in the police force also included *performance on test and simulations, one comparing a comparing two compressed schedule of 12 h and 10 h shifts to an* 8 h hour shift schedule (Amendola et al. 2011) and one comparing between 13 and 10 h schedules (Bell et al. 2015). The studies did not find a significant difference in police officers´ results on shooting tests between any of the schedules (Amendola et al. 2011; Bell et al. 2015) or on a driving simulator (Amendola et al. 2011). One study found no significant difference on vigilance or fatigue test (Amendola et al. 2011), while another study showed mixed results of the vigilance test as officers working 13 h shifts demonstrated significantly more lapses in concentration compared to officers on 10 h shifts, but also fewer anticipatory errors at one point after the intervention (Bell et al. 2015). The latter study examining vigilance also found no significant difference between 13 and 10 h shift schedules in cognitive processing at the beginning of a shift, but significantly poorer cognitive processing at the end of shift among officers working the longest shifts (Bell et al. 2015). Additionally, they found that officers working the 13 h shift schedule had a significant increase in number of citizen complaints, and involvement in incidents (Bell et al. 2015). There is not sufficient evidence to assess whether a compressed work schedule is longitudinally linked with performance on test and simulation.
+
+Finally, as the only study investigating safety and performance outcomes outside the health and police sectors; investigating senior executives in a technology company, Mills and Grotto (2017) found no significant relationship between self-report of working compressed workweeks and supervisor-rated performance.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.013]
+Four studies investigated *sleepiness, alertness and daytime disfunction*. Two studies found partial support for less sleepiness (Puttonen et al. 2022; Shochat et al. 2019) while another found significantly more sleepiness and less alertness (Amendola et al. 2011) when working a compressed 12 h schedule, as compared to a non-compressed schedule. Comparing two compressed schedules, a fourth study found more daytime dysfunction due to sleepiness (e.g. having trouble staying awake) when employees work 13.5 h shifts rather than 10 h shifts (Bell et al. 2015). There is mixed evidence for a relationship between compressed work and sleepiness.
+
+Of additional sleep related outcomes two studies found no significant difference in sleep disorder between a compressed 12 h schedule, 10 h schedule and non-compressed schedule (Amendola et al. 2011) or insomnia for a compressed 12 h schedule compared to a non-compressed schedule (Puttonen et al. 2022). One study found that employees working compressed 12 h shifts had significantly more social jetlag (i.e. a larger difference in sleep patterns between work and free days) (Casjens et al. 2022b).
+
+Four studies investigated ***stress and work pressure***. Of these, two studies found no significant difference in stress measured with cortisol levels between 12 and 8 h shift workers, (Casjens et al. 2022a) or between 13 and 10 h shift workers (Bell et al. 2015). One study found no significant difference in work-related stress measured with self-reports between 12 h, 10 h and 8 h shift workers (Amendola et al. 2011). One study found significant higher self-reported work pressure for employees working a compressed schedule of 12 h (Bacon et al. 2005). There is insufficient evidence to support a relationship between compressed work and stress and work pressure. Rather, with three strong or moderate studies reporting no difference in stress or work pressure, the evidence could be interpreted as moderate support for there not being a relationship. However, it is important to note that none of the studies used non-inferiority tests or equivalent approaches to directly assess the certainty of the null hypothesis (i.e. that there is no difference).
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.007]
+### Strengths and limitations in the current systematic review
+
+The current review applied a transparent and rigorous systematic method of searching, screening, and quality assessing the studies according to predefined criteria in several electronic databases. Still, there are some limitations to be discussed.
+
+First, there were challenges in distinguishing which studies investigate compressed workweeks when the authors did not specify this clearly, or asked the respondents, how an extended shift is organized. We have thus excluded studies where participants report the length of a usual shift—without control for weekly work hours or days worked a week. The argument is, as stated above, that an extended shift then may be part of a long workweek, and not necessarily a compressed week. However, the extent to which this happens will likely vary across countries and sectors, and for many a compressed workweek is likely to be implied when discussing extended shifts. It is therefore important to recognize that in the pursuit of summarizing studies focusing precisely on compressed workweeks we might have excluded studies on extended shifts, which indirectly captured compressed work schedules. Similarly, we excluded studies focusing on outcomes during, or after, a single shift because they do not take the workweek (or additional days off) into account. By excluding these studies we have likely excluded outcomes generally studied by focusing on single shifts—such as drowsy driving after shift (Scott et al. 2007). It is important to interpret the findings of the present study together with other reviews looking at extended shifts more broadly.
+
+Second, the studies were heterogenous in which and how work schedules and outcomes were operationalized –complicating generalization across studies and excluding the possibility of meta-analyses. For example, the six studies investigating sickness absence were heterogeneous in type of compressed schedule, control group, and operationalizing of absence. In the current review we have used EPHPP to assess the global rating of each study and level of evidence for each outcome. It is important to note that different quality assessment tool may yield different results (Bilotta et al. 2014; Voss and Rehfuess 2013) and using a count approach to synthesizing has clear limitations such as accounting for difference in sample size and handling non-significant findings (see below). Future studies should strive to also replicate findings from prior studies in new populations—comparing similar work schedules and using similar outcomes, thus facilitating the possibility to aggregate findings across populations and countries in meta-analyses.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.004]
+Thirdly, the results consist of multiple non-significant findings that are difficult to synthesize. In the current review we consider a significant and non-significant result as contradicting. However, if some of these studies are non-significant for reasons such as a small sample size—arguably they are not necessarily contradictory of a significant study. For instance, for two health outcomes, cardiovascular health and quality of life, we have assessed the evidence as mixed based on studies showing reduced cardiovascular health and no significant difference, and improved quality of life and no significant difference.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.004]
+Importantly, studies investigating the consequences of extended daily work hours often do not control for weekly work hours (Dall'Ora et al. 2016). Some employees who work extended daily work hours will also work extended weekly work hours (e.g., ≥ 10 h a day five days a week), either scheduled (Sallinen & Kecklund 2010; Wong et al. 2018) or because they work overtime on top of scheduled shorter shifts (Griffiths et al. 2014; Scott et al. 2006). A substantial part of the research on extended shifts are focused on profession such as health care workers and police officers. Yet, with an increasing demand for nursing care, some hospitals require or allow nurses to work extended shifts and an extended number of shifts per week—up to and in excess of 60 h per week (Surani et al. 2007). Similar patterns of extreme work hours are also reported from police offices (Vila 2006). Adverse health effects of working more than 50 or 55 h a week are well documented (Bonde et al. 2013; Kivimaki et al. 2015; Litwiller et al. 2017; Palmer et al. 2013; van Melick et al. 2014; Virtanen et al. 2015). A question is whether the adverse effects of extended daily workhours persists when total weekly work hours are kept constant and within safe limits.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.003]
+## Discussion
+
+In the current systematic literature review, we assessed the longitudinal employee and workplace consequences of compressed workweeks. We identified 20 longitudinal studies examining the consequences of compressed workweeks directly, or indirectly with extended daily work hours while controlling for weekly work hours. The results were mixed for both health and performance outcomes, and suggested that findings vary depending on the type of compressed schedule, shift length and type of work hour arrangement serving as comparison. The results yielded moderate support for satisfaction with shift system.
+
+In their systematic literature review Bambra et al. (2008) concluded that compressed work can improve work-life balance, and that it may do so with a low risk of adverse health or organizational effects. The results of the current review, including only longitudinal studies were more mixed, and less optimistic.
+
+Most of the studies in the current review focused on health and well-being outcomes. Unlike the review by Bambra et al. (2008), there were slightly more studies finding significant negative health and wellbeing outcomes than positive health outcomes of compressed work schedules. Specifically, the results were cautiously negative for sickness absence (i.e. more sickness absence for compressed workers), and cautiously positive for satisfaction with work schedule. In line with former reviews (Driscoll et al. 2007), our results were primarily mixed for sleep and sleepiness outcomes, though some indication of increased sleep amount for employees working a compressed week at least on some nights. In comparison to the current review, Bambra et al. (2008) focused solely on experimental and quasi-experimental studies. The current review was broader, including also longitudinal observational studies. However, limiting our findings to those from intervention studies still yields highly mixed results.
+
+When looking at the differences in work schedules; studies comparing a compressed workweek to fixed day work supported negative health outcomes. Similarly, studies investigating frequency of 12 h shifts not specifically organized in a compressed schedule were also predominantly negative. In contrast, studies comparing a compressed workweek of 12 h shift to other shift arrangements were highly mixed, while studies comparing 10 h shift to other shift arrangements were few but more positive.
+
+In sum, the results for health and well-being outcomes are highly mixed, and possibly dependent on the specific outcome, length of extended shifts, and work hour arrangement in the control group. It is also possible that employees working a compressed week experience some negative health consequences from working extended shifts, while also benefiting from extended periods of recovery. How the free periods are organized would then also be of importance.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.003]
+## Abstract
+
+### Purpose
+
+Compressed workweek arrangements, where employees work extended daily hours in exchange for fewer workdays, are adopted to address individual and organizational needs. While advocates highlight benefits such as improved work-life balance and reduced commuting time, the effects on employee health/well-being and work outcomes remain unclear. The objective of the current paper is to summarize existing knowledge on the longitudinal relationship between compressed workweeks and employee health/wellbeing and work outcomes.
+
+### Methods
+
+We conducted a systematic search in Medline, Embase, PsycINFO, Cinahl, and Web of Science in March 2023. We included peer-reviewed publications that empirically investigated the longitudinal relationship between compressed work schedules and employee health/well-being or work outcomes in employees working no more than 55 h a week. Twenty studies met the inclusion criteria. The study is registered in Prospero (CRD42020172595).
+
+### Results
+
+The 20 longitudinal studies yielded mixed results, identifying positive and negative effects on health/well-being and work outcomes. Most studies found no significant differences in at least one outcome. Results suggest that a compressed workweek increases sickness absence but also improves shift satisfaction. Predominantly negative health effects were observed when comparing a compressed workweek to fixed day work, mixed effects when comparing a compressed workweek with 12 h shifts to alternative shifts arrangements, and limited evidence for a compressed workweek with 10 h shifts.
+
+### Conclusion
+
+The impact of compressed workweeks remains uncertain, demonstrating mixed results on employee health and work outcomes. The findings vary depending on the length of shifts and alternative schedule.
+
+### Similar content being viewed by others
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.003]
+- Wijaya, M. I., Mohamad, A. R., & Hafizurrachman, M. (2020). Shift schedule realignment and patient safety culture. *International journal of health care quality assurance. ahead of print, 15* . Retrieved from ht://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emexb&AN=630812576 h://openurl.bibsys.no/openurl?sid=OVID:embase&id=pmid:32012498&id=10.1108%2FIJHCQA-04-2019-0080&issn=0952-6862&isbn=&volume=ahead-of-print&issue=aheadofprint&spage=&pages=&date=2020&title=International+journal+of+health+care+quality+assurance&atitle=Shift+schedule+realignment+and+patient+safety+culture&aulast=Wijaya
+- Wilson JM, Grammich CA (2024) Reframing the police staffing challenge: a systems approach to workforce planning and managing workload demand. Policing A J Policy Pract. https://doi.org/10.1093/police/paae005
+- Wong LR, Flynn-Evans E, Ruskin KJ (2018) Fatigue risk management: the impact of anesthesiology residents’ work schedules on job performance and a review of potential countermeasures. Anesth Analg 126(4):1340–1348. https://doi.org/10.1213/ane.0000000000002548
+
+## Funding
+
+Open access funding provided by OsloMet - Oslo Metropolitan University. Research Council of Norway, 320741.
+
+## Ethics declarations
+
+### Conflict of interest
+
+The authors have no competing Interests.
+
+## Additional information
+
+### Publisher's Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.002]
+Reviewing the shifts lengths in more detail; eight studies investigated health outcomes of a compressed *12 h-schedule compared to 8 h shift schedules*. Of these studies, three showed positive health and wellbeing outcomes of compressed 12 h work schedules (Battle and Temblett 2018b; Puttonen et al. 2022; Shochat et al. 2019), two supported poorer health and wellbeing (Amendola et al. 2011; Rodriguez Santana et al. 2020), two showed mixed results (Bacon et al. 2005; Casjens et al. 2022a), and one found no significant difference (Casjens et al. 2022b). Four studies investigated safety and performance outcomes of a compressed 12 h-schedule compared to 8 h shift schedules. Of these, one showed a positive outcome (Wijaya et al. 2020), one a negative (Barnum 2011), and two showed primarily no significant difference (Amendola et al. 2011; Battle and Temblett 2018b). Collectively, the results of a compressed 12 h schedule compared to 8 h shift schedules on both health and performance consequences are mixed.
+
+Three studies *investigated frequencies of* ≥ *12 or* ≥ *13 h shift*, not explicitly examining compressed workweek schedules, while controlling for weekly work hours, all with negative health outcomes (Dall'Ora et al. 2019; Ropponen et al. 2020; Trinkoff et al. 2006).
+
+Two studies investigated *10 h shift schedules compared to other schedules*. One study reported improved health indicators among employees working 10 h shift compared to 8 and 12 h shifts (Amendola et al. 2011). The second study found both health and performance advantage of 10 h shift compared to longer shifts, but made no comparison to traditional 8 h shifts (Bell et al. 2015). Results for 10 h shift are thus more positive than for 12 h shift, however, there is a clear lack of studies comparing 10 h shifts to a traditional 8 h shift schedule.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.002]
+Noteworthy, none of the studies identifying insignificant relationships used non-inferiority tests (e.g. testing if compressed workweeks are not worse than the alternative, rather than not finding sufficient support for compressed workweeks being wors at a given outcome). Several studies demonstrated insignificant differences between employees working compressed schedules and traditional shorter shifts. Because it is important to know whether compressed workweeks can be implemented without risk to employee health or organizational performance it is important to note that absence of evidence is not the same as evidence of absence (Altman and Bland 1995). Future studies should actively include non-inferiority tests on non-significant findings, or power estimates indicating what effect sizes they are able to detect.
+
+There was also a lack of studies addressing the potential healthy worker effect and the effect of compressed workweek on employees with reduced health. If employees who adverse health effect from working compressed work schedule are more prone to leaving the organization, it would like skew the results. Furthermore, it would have important policy implications as several of the sectors using compressed schedules, such as the police force, often suffer from staffing shortages (Wilson and Grammich 2024).
+
+Finally, despite mixed results in the current and prior literature review, no studies investigated when, for whom, or under which conditions compressed schedules may be beneficial or harmful. Thus, one potential reason for the mixed findings is the wide range of variations in work characteristics in the samples. Arguably, the consequences of working longer hours per day may vary depending on the intensity of the shift, the physical, mental and emotional work demands, number and length of breaks taken, and so forth. From a theoretical standpoint it is argued that strain is not necessarily harmful, but when sustained over a longer period, strain can become harmful (Hunter and Wu 2016; Meijman 1998). Based on this reasoning we expect that the level of strain employees experience at work will be more important when they need to sustain that level for a longer period during the day. Future studies should aim to fill this gap and investigate when and under which conditions compressed schedules may be beneficial or harmful, using work characteristics as moderators.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.002]
+## Introduction
+
+Today a significant part of the work force works non-standard working time arrangements (Gracia et al. 2021). A compressed workweek is on such non-standard work hour arrangement used to address individual and organizational needs, such as increased work-life balance (Bambra et al. 2008), optimizing the use of personnel (Barnum 2011), or extending business hours (Wadsworth et al. 2010).
+
+However, the consequences for employee well-being and for the quality of work remain unclear. It is crucial to understand the consequences of alternative work schedules so that employees and employers can adapt work hours to their needs safely.
+
+In a compressed workweek, employees work extended daily work hours (≥ 10 h), also referred to as extended shifts, compensated by a reduced number of workdays so that the weekly work hours remain the same. For example, employees might work a compressed workweek of 10 h 4 days a week as an alternative to 8 h 5 days a week. A compressed workweek is advocated as a central tool in addressing individual, organizational and societal challenges. Proposed benefits include reduced travel time, improved work-life balance, optimizing the use of personnel, and for industries requiring 24-h service such as healthcare and law enforcement, reduced number of handovers, staffing shortages and increased continuity of care (Bambra et al. 2008; Dall’Ora et al. 2022; Ganong et al. 1976; Harris et al. 2015; Parkinson et al. 2018; Persson et al. 2006). However, the use of such schedules is highly debated; in countries where extended shifts are common, arguments are being put forth to revert to shorter shifts for the sake of employees' health and performance (Geiger-Brown and Trinkoff 2010; Harris et al. 2015).
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.001]
+### Inclusion/exclusion criteria
+
+Studies were included when the following criteria were met:
+
+1. 
+                    (1)
+                    
+                      Participants: Employees whose weekly work hours did not exceed 55 h a week on average across the population. No limitations were put on work sector or employee group.
+2. 
+                    (2)
+                    
+                      Intervention: Compressed work schedules.
+3. 
+                    (3)
+                    
+                      Control: employees with "regular" workweeks (fixed day) or other shift arrangements, or pre-data.
+4. 
+                    (4)
+                    
+                      Outcomes: Employee health/wellbeing (e.g., physical and mental health, stress, life satisfaction, sickness absence, work-life balance), and/or work outcomes including safety and performance outcomes (e.g. accidents, error/near error, adverse events, customer/patient satisfaction, and patients´ bed soars).
+5. 
+                    (5)
+                    
+                      Method: Longitudinal quantitative studies (including both intervention and observational studies).
+6. 
+                    (6)
+                    
+                      Journal, language and publication year: Full-text articles in peer-reviewed journals, published in English, Dutch or any Scandinavian language from 2005 to 2023.
+
+For the compressed work schedule-criteria, we specifically included studies where (1) the authors clearly stated that they investigated a compressed schedule; (2) it was assessed as highly plausible from the description of the extended shifts that they were part of a compressed schedule (e.g. when a hospital ward changes from an 8-h shift system, to a 12-h shift system) or (3) outcomes of extended shifts were examined while controlling for weekly work hours. Studies were thus excluded when it was unclear whether they were part of a compressed schedule, and weekly work hours were not adjusted for. Studies focusing on a single shift (e.g. comparing fatigue or accidents after a specific shift) were therefore excluded as these studies did not account for the added days off.
+
+To minimize erroneous rejection of studies, and get a better overview of the field, cross-sectional studies and studies investigating the consequences of extended shifts without controlling for weekly work hours were excluded during full-text screening and not abstract screening.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.001]
+Of the six studies investigating ***sleep***, all have included different sleep related outcomes, most commonly sleep quality, sleep amount, and sleepiness.
+
+One study found partial support for better *sleep quality* (Shochat et al. 2019), while two studies found no significant difference in sleep quality (Amendola et al. 2011; Casjens et al. 2022a), all examining compressed 12 h shift schedule versus non-compressed shifts. Moreover, one study also found no significant difference in sleep quality when examining a compressed 10 h shift schedule versus non-compressed shifts (Amendola et al. 2011). A fourth study compared two different compressed schedules and found poorer sleep quality when employees work 13.5 h shifts rather than 10 h shifts (Bell et al. 2015). There is insufficient evidence to support a longitudinal relationship between compressed work and sleep quality, according to the EPHPP-global rating.
+
+Investigating *sleep amount*, two studies found that employees reported more sleep in total when working a compressed 12 h (Shochat et al. 2019) and 10 h schedule (Amendola et al. 2011) versus a non-compressed schedule. The difference was not significant when sleep was measured objectively by actigraphy in one of these studies (Shochat et al. 2019). Two studies found no significant difference in total or habitual sleep, but they found significant differences when dividing sleep according to shift type and work-free days (Casjens et al. 2022b; Puttonen et al. 2022). More specifically, one study found that employees working a compressed schedule with 12 h shift, compared to a non-compressed schedule, slept more on work-free days, but less on workdays, yielding insignificant difference on total sleep (Casjens et al. 2022a). The other study found that employees on compressed schedules of 12 h shift slept more before and between morning shifts compared to employees on a non-compressed schedule, but not on any other day (Puttonen et al. 2022). Finally, one study found more sleep when employees worked a compressed schedule of 10 h shifts compared to a compressed schedule of 13.5 h shifts (Bell et al. 2015). There is mixed evidence for a relationship between compressed work and sleep amount.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.001]
+In sum, while the results of the current review on compressed workweek were not as optimistic as those of Bambra et al. (2008), the results are not as negative as prior reviews investigating extended shifts (Bae and Fabry 2014; Banakhar 2017; Bannai and Tamakoshi 2014a, b; Dall'Ora et al. 2016; Kang et al. 2012; Solovieva et al. 2013). Our results indicate that the consequences of compressed workweeks are complex, and that an important question for further research is not only whether compressed workweeks can be implemented with a low risk of adverse health or organizational effects, but also when or how they have negative versus positive effects. We argue that important questions that remains to be examined in future studies are both details of the compressed workweek, such as the length of shift and which alternative work schedules are the comparison, as well as contextual factors when working the compressed week, such as work intensity, work quality and other working conditions.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.001]
+Three studies investigated safety or performance outcomes of compressed workweeks in the ***police force***. All three studies included some measure of *activities completed.* One study found no significant difference in activity levels (e.g. arrests made) between 12, 10 and 8 h shifts (Amendola et al. 2011). The second study found significant longer time for answering calls during 12 h shifts compared to 8 h shifts, but no other significant difference in time spent handling calls (Barnum 2011). The third study found that police officers working 13 h shifts conducted significantly more adult bookings (i.e., the processing of individuals taken into custody) and field interrogations compared to those working 10 h shifts (Bell et al. 2015). There is mixed evidence for whether a compressed work schedule is longitudinally linked with activities completed withing the police force.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.001]
+- Shochat T, Hadish-Shogan S, Banin Yosipof M, Recanati A, Tzischinsky O (2019). Burnout, Sleep, and Sleepiness during Day and Night Shifts in Transition from 8- to 12-Hour Shift Rosters among Airline Ground Crew Managers. Clocks & Sleep, 1(2), 226–239. Retrieved from https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=pmnm4&AN=33089166
+- Slavin RE (1995) Best evidence synthesis: an intelligent alternative to meta-analysis. J Clin Epidemiol 48(1):9–18
+- Solovieva S, Lallukka T, Virtanen M, Viikari-Juntura E (2013) Psychosocial factors at work, long work hours, and obesity: a systematic review. Scand J Work Environ Health 39(3):241–258. https://doi.org/10.5271/sjweh.3364
+- Su S-B, Lu C-W, Kao Y-Y, Guo H-R (2008. Effects of 12-hour rotating shifts on menstrual cycles of photoelectronic workers in Taiwan. Chronobiology International, 25(2–3), 237–248. Retrieved from http://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2008-07476-007
+- Surani S, Murphy J, Shah A (2007) Sleepy nurses: are we willing to accept the challenge today? Nursing administration quarterly, 31(2), 146–151. Retrieved from https://login.ezproxy.hioa.no/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=c8h&AN=106287894&site=ehost-live
+- Tanaka K, Takahashi M, Hiro H, Kakinuma M, Tanaka M, Kamata N, Miyaoka H (2010) Differences in medical error risk among nurses working two- and three-shift systems at teaching hospitals: a six-month prospective study. Ind Health 48(3):357–364. https://doi.org/10.2486/indhealth.48.357
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.001]
+Studies focusing specifically on compressed workweeks have found more optimistic results regarding employee health and performance (Bambra et al. 2008; Sallinen & Kecklund 2010), as compared to studies examining extended daily work hours in general. A 2007 systematic review on shift interventions, found inconsistent findings and insufficient evidence for definitive conclusions (Driscoll et al. 2007). Meanwhile, a 2008 systematic review on the health impacts of compressed workweeks was cautiously optimistic yet remained inconclusive (Bambra et al. 2008). The latter review indicated that compressed workweeks sometimes improved self-reported health and was seldom detrimental for employee health outcomes. Adverse organizational effects such as productivity and errors were small or absent. However, the studies had several methodological challenges such as small samples, inadequate control groups, only self-reported measures, and short follow-up times (Bambra et al. 2008). Therefore, the authors called for better designed studies to be able to gain more robust conclusions.
+
+In sum, a compressed workweek might be a useful tool to address individual and organizational challenges, but their potential consequences are highly debated. As the former two reviews summarized, the evidence base of compressed workweek´s consequences up until 2005 (Bambra et al. 2008) and 2006 (Driscoll et al. 2007), there is a need for an updated systematic review examining studies conducted the past decade.
+
+The objective of the present study is, therefore, to conduct a systematic literature review of longitudinal studies investigating the consequences of compressed, compared to non-compressed work for employee health, wellbeing, and work outcomes.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.001]
+Three studies investigated ***quality of work life, job satisfaction and satisfaction with shift system***. All studies reported positive results for a compressed schedule. The results included higher satisfaction with this shift system (Puttonen et al. 2022) and a higher satisfaction with working hours, shift rotation pattern and overall job satisfaction (Bacon et al. 2005) among employees working a compressed 12 h shift schedule compared to a non-compressed schedule. In addition, employees working a compressed 10 h shift schedule reported better quality of work life (measured as job satisfaction, schedule satisfaction, organizational commitment, and job involvement) compared to a non-compressed schedule (Amendola et al. 2011). In accordance with the EPHPP-global rating, there is moderate evidence that compressed work schedules are longitudinally linked with higher satisfaction with shift system.
+
+Three studies investigated ***quality of life or work-life balance***. One study found significantly improved work-life balance among employees working a compressed 12 h schedule (Puttonen et al. 2022). Another study reported no significant differences in self-reported quality in personal life (measured as work-family conflict) when working a compressed 12 or 10 h schedule compared to a non-compressed schedule (Amendola et al. 2011). A final study reported significantly lower quality of life among employees working a compressed schedule with 13.25-h shifts compared to employees working 10 h shifts, and no significant difference in partners’ quality of life (Bell et al. 2015). The evidence for work-life balance is insufficient.
+
+Two studies investigated ***burnout***—both supporting less burnout among employees working compressed 12 h work schedules (Battle and Temblett 2018b; Shochat et al. 2019). With one study rated as weak and one moderate—the evidence for burnout is insufficient.
+
+Two studies investigated ***cardiovascular health***, with one study finding no significant difference in cardiovascular health between compressed 12 h, 10 h and a non-compressed schedule (Amendola et al. 2011) and the other finding increased risk of metabolic syndrome for employees working compressed 12 h work schedules (Oh and Yim 2018). The evidence for cardiovascular health is therefore mixed.
+
+---
+
+[referencia=dd468fcd5c200c36 score=0.001]
+### Practical implications
+
+Employers and employees may want to implement a compressed workweek for a multitude of reasons. We see a strong growth in compressed schedules in countries such as Norway (Fevang et al. 2024). In other countries researchers and practitioners are advocating for the need to reduce extended shifts (Geiger-Brown and Trinkoff 2010; Harris et al. 2015). Based on the current review, it is unclear whether extended shifts may be used within a compressed schedule without negative consequences for employee health and organizational outcomes. While the current findings are not unequivocally negative, they are also far from endorsing the implementation of compressed workweeks.
+
+So far, it seems relevant for practitioners to consider the type of compressed workweek and what the alternative workhour arrangement is. In the current review, studies comparing compressed workweeks to fixed 8 h day work predominantly reported negative health outcomes, suggesting that a compressed workweek is inadvisable when traditional day work is the alternative. Similarly, all three studies analysing frequency of ≥ 12 h shifts not explicitly organized in a compressed schedule (but controlling for weekly work hours) also supported negative health consequences. The results thus also caution against 12 h shift when they are not fully organized in a compressed schedule. The results for a compressed 10 h shift schedule on the other hand were optimistic, cautiously indicated positive health and performance consequences. However, the evidence was scarce. Finally, evidence for a compressed schedule with 12 h shifts compared to an 8 h shiftwork schedule were mixed for both health and performance, making potential outcomes highly uncertain.
+
+The evidence moderately supports that employees working compressed workweeks (of 10 or 12 h) are more satisfied with their work schedule. Practitioners considering whether to implement or abandon compressed workweekschedules compared to non-compressed shift are thus faced with a difficult dilemma; if a compressed workweekis desired by employees– how certain should they be about the presence or absence of negative outcomes before allowing or denying the use of the schedule?

@@ -1,0 +1,12 @@
+[referencia=f117639fe46df69c score=0.342]
+With these words, Brazilian novelist Joaquim Maria Machado de Assis described May 13, 1888, the day that ended legalized slavery in his country. Brazil was the last nation in the Western hemisphere to abolish slavery; it had also been the largest and the most enduring slave society in the Americas. For more than 350 years, from the arrival of the first enslaved Africans in the early sixteenth century until abolition, slavery shaped Brazilian history across nearly every region of its continental geography. Over those centuries, nearly five million enslaved Africans arrived in Brazil, more than 45 percent of the total number of persons forcibly brought to the Americas. In the years that followed that sunny May 13 of abolition, Machado de Assis himself would be witness to the brevity of its joy and to the immense challenges of Brazilian freedom. The scale of those challenges was such that, a scant decade after abolition, Machado de Assis’ friend Joaquim Nabuco would write: “Slavery will long remain Brazil’s defining national feature.” Well over a century later, the power of those words persists: slavery and its legacies remain Brazil’s most formative elements.
+
+To save this book to your Kindle, first ensure no-reply@cambridge.org is added to your Approved Personal Document E-mail List under your Personal Document Settings on the Manage Your Content and Devices page of your Amazon account. Then enter the ‘name’ part of your Kindle email address below. Find out more about saving to your Kindle.
+
+Note you can select to save to either the @free.kindle.com or @kindle.com variations. ‘@free.kindle.com’ emails are free but can only be saved to your device when it is connected to wi-fi. ‘@kindle.com’ emails can be delivered even when you are not connected to wi-fi, but note that service fees apply.
+
+Find out more about the Kindle Personal Document Service.
+
+To save content items to your account, please confirm that you agree to abide by our usage policies. If this is the first time you use this feature, you will be asked to authorise Cambridge Core to connect with your account. Find out more about saving content to Dropbox.
+
+To save content items to your account, please confirm that you agree to abide by our usage policies. If this is the first time you use this feature, you will be asked to authorise Cambridge Core to connect with your account. Find out more about saving content to Google Drive.

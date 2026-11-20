@@ -1,0 +1,245 @@
+[referencia=e872d145d17252c4 score=1.000]
+## Abstract
+
+High-risk human papillomavirus causes cervical cancer. Vaccines have been developed that significantly reduce the incidence of preinvasive and invasive disease. This population-based observational study used linked screening, immunization, and cancer registry data from Scotland to assess the influence of age, number of doses, and deprivation on the incidence of invasive disease following administration of the bivalent vaccine.
+
+Data for women born between January 1, 1988, and June 5, 1996, were extracted from the Scottish cervical cancer screening system in July 2020 and linked to cancer registry, immunization, and deprivation data. Incidence of invasive cervical cancer per 100 000 person-years and vaccine effectiveness were correlated with vaccination status, age at vaccination, and deprivation; Kaplan Meier curves were calculated.
+
+No cases of invasive cancer were recorded in women immunized at 12 or 13 years of age irrespective of the number of doses. Women vaccinated at 14 to 22 years of age and given 3 doses of the bivalent vaccine showed a significant reduction in incidence compared with all unvaccinated women (3.2/100 000 [95% confidence interval (CI) = 2.1 to 4.6] vs 8.4 [95% CI = 7.2 to 9.6]). Unadjusted incidence was significantly higher in women from most deprived (Scottish Index of Multiple Deprivation 1) than least deprived (Scottish Index of Multiple Deprivation 5) areas (10.1/100 000 [95% CI = 7.8 to 12.8] vs 3.9 [95% CI = 2.6 to 5.7]). Women from the most deprived areas showed a significant reduction in incidence following 3 doses of vaccine (13.1/100 000 [95% CI = 9.95 to 16.9] vs 2.29 [95% CI = 0.62 to 5.86]).
+
+Our findings confirm that the bivalent vaccine prevents the development of invasive cervical cancer and that even 1 or 2 doses 1 month apart confer benefit if given at 12-13 years of age. At older ages, 3 doses are required for statistically significant vaccine effectiveness. Women from more deprived areas benefit more from vaccination than those from less deprived areas.
+
+---
+
+[referencia=e872d145d17252c4 score=0.999]
+## Discussion
+
+The article presents real-life data showing that routine immunization with the bivalent vaccine at 12 to 13 years of age is highly effective in preventing invasive cervical cancer, with no cases recorded over the period of follow-up. Vaccination with 3 doses at ages up to 18 years of age was also shown to have significantly reduced the incidence of invasive cancer. These data confirm the predicted reduction in invasive cancers following the previous report of dramatic reductions in infection and high-grade CIN reported in Scotland; our findings validate the use of infection and preinvasive disease as credible markers of vaccine impact (2,5,6). They add further detail on age at vaccination, number of doses received, and the interaction with deprivation, and they complement population and register-based studies that have demonstrated falling rates of invasive cancer associated with both the bivalent and quadrivalent vaccines.
+
+This study showed a greater risk reduction than predicted for girls vaccinated at age 12 or 13 years because no cases of invasive cancer have yet been diagnosed in this age group (13). It has, however, been previously reported that a small number of cancers related to other HPV types will remain following elimination of vaccine-directed and cross-protective types by the bivalent and nonavalent vaccines (14). Therefore, invasive cancers may yet develop in the UK cohort immunized with the bivalent vaccine at age 12 or 13 years, particularly given evidence that HPV-16 and HPV-18 are proportionally more frequent drivers of cancer in younger women (18-21). Thus, vaccinated women still need to be encouraged to attend screening, albeit at a reduced frequency, given their lower risk of malignancy.
+
+The Swedish (11) and Danish (12) studies both use direct linkage between immunization and cancer registries. The populations were divided into those vaccinated before age 17 years (11) and before age 16 years (12) and therefore included some women who were likely to be sexually active. The risk reductions reported by both studies were similar to the English study [Lei et al.: 0.21, 95% CI = 0.00 to 0.34; Kjaer et al.: 0.14, 95% CI = 0.04 to 0⋅53; Falcaro et al. (13): 0.13, 95% CI = 0.06 to 0.28].
+
+---
+
+[referencia=e872d145d17252c4 score=0.998]
+## Results
+
+### Baseline characteristics
+
+We collected 447 955 individual records from SCCRS. Data cleansing removed 110 individuals with incorrect vaccination dates (being before the date when routine immunization was available in Scotland or administered at an early age); none of the removed individuals were recorded as having cancer. In total, 234 records of invasive cancer were obtained from the Scottish Cancer Registry population, and a further 7 records were obtained from SCCRS of individuals who had had abnormal screening results leading to a biopsy diagnosis of invasive malignancy. One woman with 2 synchronous tumors has been counted as 1 case; 2 cases were childhood tumors, and these were excluded (Figure 2).
+
+Table 1 shows the demographic characteristics of the cohort, stratified by immunization status. Because of the small numbers of cervical cancers observed among women immunized at 14 years of age or older, analysis and presentation of results have been aggregated where necessary in accordance with national guidance to preclude deductive disclosure (17). No cases were recorded in women receiving 2 doses 5 or 6 months apart.
+
+---
+
+[referencia=e872d145d17252c4 score=0.992]
+### Unadjusted analyses
+
+The results of unadjusted analysis of incidence rates per 100 000 person-years and vaccine effectiveness are presented in Table 2.
+
+There were significant reductions in incidence following 3 doses at any age (from 8.4 [95% CI = 7.2 to 9.6] per 100 000 person-years in unvaccinated women to 2.3 [95% CI = 1.4 to 3.5] per 100 000 person-years in women receiving 3 doses), corresponding to a vaccine effectiveness rate of 78% (95% CI = 66.2 to 86.4).
+
+Significant reductions were also observed with any vaccination both at age 12 or 13 (0/100 000 person-years, 95% CI = 0.00 to 2.7) and at age 14 or older (3.2/100 000 person-years, 95% CI = 2.1 to 4.6). As no cancers have arisen in women vaccinated at age 12 or 13 years, it is not possible to calculate vaccine effectiveness and confidence intervals for this group. In total, 124 069 individuals aged 14-18 years were vaccinated, and 3601 individuals aged over 18 were vaccinated. In those 2 groups combined, 29 cases of cervical cancer were found. Only a small number (<5) were in the over 18 years of age group, so these groups have been combined in the table of cases and incidence rates to avoid inadvertent disclosure. There is significant vaccine effectiveness for 3 doses at older ages, but this benefit is confined to those immunized between 14 and 18 years of age (68.8, 95% CI = 53.5 to 79.0). The estimates of vaccine effectiveness for those older than 18 years are imprecise because of the small number vaccinated in this group (76.0, 95% CI = ‒71.0 to 96.6).
+
+---
+
+[referencia=e872d145d17252c4 score=0.987]
+Reductions in incidence are seen following 3 doses at ages 12 and 13 years and at ages 14 years and older compared with no vaccination (ages 12-13 years: 0/100 000 person-years, 95% CI = 0.00 to 2.7; ages 14-18 years: 2.7/100 000 person-years, 95% CI = 1.7 to 4.2; unvaccinated: 8.4/100 000 person-years, 95% CI = 7.2 to 9.6). Although no cancers have been diagnosed in women receiving 1 dose or 2 doses 1 month apart at 12-13 years of age, effect here cannot be robustly estimated because of the small denominator. Vaccine effectiveness was complete in those vaccinated at 12-13 years of age (vaccine effectiveness = 100.0, 95% CI = 67.4 to 100) and high in those receiving 3 doses at 14 years of age or older (vaccine effectiveness = 73.8, 95% CI = 58.9 to 83.4). Incidence in women receiving 1 dose or 2 doses 1 month apart at 14-18 years of age was slightly lowered, but this lower rate did not translate to significant vaccine effectiveness (vaccine effectiveness = 40, 95% CI = ‒22.8 to 70.7).
+
+Stratification of incidence by SIMD and vaccination status showed reductions in incidence across SIMD quintiles, with the largest reductions for SIMD1 (most deprived: 13.1/100 000 person-years, 95% CI = 9.95 to 16.9 vs 2.29/100 000 person-years, 95% CI = 0.62 to 5.86) and SIMD3 (middle quintile: 8.77/100 000 person-years, 95% CI = 6.31 to 11.8 vs 1.9/100 000 person-years, 95% CI = 0.45 to 5.24) (Figure 4).
+
+---
+
+[referencia=e872d145d17252c4 score=0.983]
+### Statistical analysis
+
+Estimated rates of cervical carcinoma were stratified by number of doses (divided into 3 groups: no immunization, 1 or 2 doses given 1 month apart, and 2 doses 5 or 6 months apart or 3 doses), SIMD quintile (where SIMD1 is the most deprived and SIMD5 is the least deprived stratum), age at vaccination (routine, catch-up, and unvaccinated cohort), and the combination of age at vaccination and number of doses. Kaplan-Meier curves were created to show the change in carcinoma over time in different groups.
+
+Estimates of vaccine effectiveness against a diagnosis of invasive cancer were estimated from Cox proportional hazards models to account for variation in the follow-up periods available for different individuals and changes in carcinoma risk over time. Vaccine effectiveness was calculated as 100 × (1-HR), where *HR* is the hazard ratio of the relevant vaccinated group compared with the unvaccinated population, estimated from the weighted Cox proportional hazards model. The corresponding 95% confidence intervals (CIs) were estimated using robust standard errors from the Cox proportional hazards model. Where zero cases of disease were observed, the 95% confidence interval could not be estimated from Cox proportional hazards. In these instances, vaccine effectiveness equals 100, and the 95% confidence interval was estimated using the exact Poisson method for a rate ratio. Individuals were followed-up until disease was recorded in the period or the end of follow-up (August 2020), whichever was sooner. The reference group for analyses by vaccination status comprised all unvaccinated women.
+
+All analyses were weighted according to the 2018 cohort population estimates to account for some unscreened women no longer living in Scotland. Women with a screening entry were given a weight of 1 because they were known to be living in Scotland at the date of screening. All others were given a reduced weighting, defined by the degree of overinflation of their birth cohort size in SCCRS compared with the National Registry Scotland population estimates in 2018 (see Tables 1 and 2).
+
+---
+
+[referencia=e872d145d17252c4 score=0.982]
+The bivalent vaccine generates significant cross-protection against HPV-31, HPV-33, and HPV-45 in addition to the target types HPV-16 and HPV-18 [Kavanagh et al. (2)]. Its spectrum of activity is broader than the quadrivalent vaccine but not as wide as the nonavalent vaccine. For Scotland, the vaccine confers protection against approximately 85% of HPV-positive invasive cervical cancers (20). The oncogenic potential of the HPV types not covered by the current vaccines is not known in detail, however, because of the dominance of HPV-16. Therefore, although the data presented are extremely encouraging, further surveillance is needed to monitor the incidence rates over a longer period. It is possible that the HPV types still in circulation in the postvaccination era will generate invasive cancers but take longer to do so (21). Recent data from the Costa Rica study [Shing et al. (27)] and from Scotland [Cuschieri et al. (28)] as well as data from Sweden [Kann et al. (29)] show that the HPV spectrum in CIN is changing following HPV immunization. It is likely that this change will be reflected in a changed biology of what is currently thought of as high-grade CIN and its progression to invasive cancer.
+
+Early indications of the potential of the remaining HPV types to cause significant disease will come first from monitoring disease rates in screened populations and studies investigating the HPV spectrum in high-grade CIN, particularly CIN-3. Women therefore need to be encouraged to attend for cervical screening to allow continued active monitoring of screening program outcomes in vaccinated populations following changes in vaccination schedule, and due to the passage of time since immunization. Antibody studies from the original vaccine trials are encouraging with regard to the longevity of protection [Hoes et al. (30)], and experience suggests that antibody levels are a reliable indicator of vaccine effectiveness (29-31). There may also be changes in the susceptibility of the population, as discussed by Shing et al. (27).
+
+In summary, the data presented in this study confirm that immunization at 12 to 13 years of age with the bivalent vaccine is highly effective at preventing invasive cervical cancer. Continued participation in screening and monitoring of outcomes is required, however, to assess the effects of changes in vaccines used and dosage schedules since the start of vaccination in Scotland in 2008 and the longevity of protection the vaccines offer. This will, in turn, guide the development of screening schedules based on individual risk.
+
+---
+
+[referencia=e872d145d17252c4 score=0.972]
+The changes reported imply that the rates of invasive cervical cancer should also fall [Cuzick et al. (6)]. Several publications have reported reduced rates of cervical cancer based on passive follow-up of clinical trials or register-derived data, where changes observed have been related to vaccination programs (7-10). Recent publications from Sweden [Lei et al. (11)], Denmark [Kjaer et al. (12)], and England and Wales [Falcaro et al. (13)] have provided evidence that HPV immunization is associated with a reduction in invasive cervical cancer. The Swedish and Danish reports presented registry data linking incidence with immunization with the quadrivalent vaccine. England and Wales reported registry data showing reduction of cancer at the population level in those eligible for bivalent vaccine using age cohort rates of immunization. Sweden and Denmark begin cervical screening at 23 years of age and England and Wales begin at 25 years of age, so immunized women have begun to appear in their screening programs only recently. Cervical screening in Scotland began at age 20 years until June 2016 and immunized women have been screened since 2011. Up to eleven years data on cervical disease in immunised women is therefore available. A fuller description of both screening and immunization programs in Scotland is available in Palmer et al. (5), and the relationship between screening and immunization is shown in Figure 1. Routine screening stopped in April 2020 because of the COVID-19 pandemic and restarted in August 2020 for women on early recall and in October 2020 for women on routine recall.
+
+Scotland brings together demographic, screening, diagnostic, treatment, and immunization data through a unique personal identifier. It is therefore possible to obtain a complete record of all cervical cancers diagnosed and registered in Scotland and link them to a variety of demographic and screening parameters at an individual level.
+
+Using the Scottish screening system and national cancer registry data, this article examines the overall impact of the bivalent HPV vaccine on cervical cancer incidence and stratifies the effectiveness by age at immunization and the number of doses received. We present the first population-based, individual-level data documenting reductions in cervical cancer following bivalent vaccine administration.
+
+---
+
+[referencia=e872d145d17252c4 score=0.956]
+It is encouraging that even the most deprived quintile in Scotland shows a significant reduction in cervical cancer incidence rate following complete immunization. However, this finding may be attributable in part to the increased attendance at screening following vaccination, which was previously reported by Palmer et al. (25) and shown by routine reporting on screening uptake in Scotland (26). Their relative contributions cannot be determined through this study as the follow-up time in the screening program was short in the youngest cohort of women.
+
+The strengths of this study include the use of individual-level data derived from the routine cervical screening management system used throughout Scotland since 2007 and linkage of these data to other health-care information systems using a unique personal identifier. Longitudinal analysis of these data and the intelligence derived from them has led to several impactful publications (2,5,20-23,25,26). Scotland screened for cervical precancer at age 20 years until June 2016, so enough time has elapsed to give confidence in the incidence rates reported, with a minimum follow-up period of 50 months. As the findings are based on individual data, they describe the effectiveness of the vaccine in more detail, providing information that will support cervical cancer elimination efforts across the globe.
+
+Weaknesses follow from the success of the immunization program, which has consistently achieved uptake of 3 doses of vaccine in excess of 80% in the routine cohorts, declining to approximately 40% in the oldest women in the catch-up cohort. There are therefore only small numbers of women receiving 1 or 2 doses of vaccine, so although reductions in incidence are seen in all strata analyzed, the confidence intervals for incomplete immunization overlap with the unvaccinated group. The data on 1 and 2 doses given 1 month apart were aggregated because earlier analyses showed no significant difference in the odds ratio of infection with or vaccine effectiveness against vaccine-covered HPV types nor of abnormal cytology or CIN (2,5), Women who received 2 doses 5 or 6 months apart were combined with those who received 3 doses because these women would currently be considered fully vaccinated. This cohort included no women with 2 doses administered 5 or 6 months apart, so it is not possible to comment on the impact of current 2-dose schedules.
+
+---
+
+[referencia=e872d145d17252c4 score=0.934]
+## Methods
+
+### Design and participants
+
+This population-based, retrospective national evaluation of the impact of HPV vaccination used routinely collected data on all women in Scotland eligible for the national cervical cancer screening program who were born on or after January 1, 1988, up to June 6, 2016 (inclusive). The cohort for evaluation included women who were not eligible for HPV vaccination (birth years 1988-1990), women offered vaccination at 14-18 years of age as part of a catch-up program during 2008 and 2009, (years of birth 1991-1994), and the routine program from 2008 onwards (administered at 12-13 years of age; years of birth 1995 and 1996).
+
+### Data sources and linkage
+
+The study analyzed data collected as part of routine clinical activity by National Health Service Scotland and recorded in the Scottish Cervical Cancer Call Recall System (SCCRS) and Scottish Cancer Registry. Demographic data, screening events and cytology results, all histology results and HPV vaccination history (date and number of doses received), and postcode of residence were obtained from the SCCRS (censored at August 1, 2020). Histologic diagnoses (as a Systematized Nomenclature of Medicine code) for all cervical cancers (*International Classification of Diseases, Tenth Revision* code C53) made up to December 31, 2020, in women with the same date-of-birth parameters were obtained from the Scottish Cancer Registry (censored at August 2022). The records were linked using the Community Health Index (CHI) number, a unique number given to individuals in Scotland at birth or on registration with a general practice. The postcode was used to link to the Scottish Index of Multiple Deprivation (SIMD), an area-based measure of deprivation that considers income, employment, education, health, access to services, crime and housing, and ranks from most (SIMD1) to least (SIMD5) deprived (14). The final dataset was anonymized before analysis.
+
+---
+
+[referencia=e872d145d17252c4 score=0.909]
+For older cohorts, the English, Swedish, and Danish data all show similar risk reduction, allowing for differences in the age bands. The Danish and English data refer to an upper age limit of 19 and 18 years, respectively, and the Swedish study had an upper age limit of 30 years. The reduction in incidence rate following complete vaccination at 14 years of age or older is significant in Scottish data, although the benefit is confined to women immunized between 14 and 18 years of age. This finding is in keeping with the Danish data, which do not show any vaccine effectiveness following vaccination at age 20 years or older and reduced vaccine effectiveness for vaccination between 16 and 18 years of age (12). The data from this study, as well as those from Denmark, are in keeping with the findings of the vaccine trials that demonstrate poor or no protection against precancer among older women (3).
+
+This study showed a lower, non–statistically significant level of vaccine effectiveness for girls who were first vaccinated between 14 and 18 years of age and who did not complete the vaccination schedule, receiving only 1 dose or 2 doses 1 month apart. It should be noted, however, that the vaccine effectiveness here was estimated with less precision because of the reduced sample size in this group. Further, this cohort was vaccinated in the catch-up program (between 2008 and 2011). They were older than the current age for routine vaccination (11 or 12 years of age) and were more likely to have started sexual activity and to have come from deprived communities, where risk factors for cervical cancer are more common (22,23). Therefore, the women receiving 1 dose or 2 doses 1 month apart should not be compared with the current cohorts vaccinated with 1 dose at 11 to 13 years of age nor those who received 2 doses 6 months apart.
+
+The data on women who received 1 dose or 2 doses 1 month apart at 11, 12, or 13 years of age showed 100% vaccine effectiveness, although the confidence intervals for the estimated incidence rate were wide. Within these limitations, they supported the move to a 1-dose schedule. The evidence for moving to a 1-dose schedule was discussed in greater depth in the recent advice from the UK Joint Committee on Vaccines and Immunisation, which also emphasized the need for continuing monitoring of vaccine effectiveness (24).
+
+---
+
+[referencia=e872d145d17252c4 score=0.891]
+- Split View
+- 
+                            
+                                
+                                Views
+- 
+    Cite### CiteTim J Palmer, Kimberley Kavanagh, Kate Cuschieri, Ross Cameron, Catriona Graham, Allan Wilson, Kirsty Roy, Invasive cervical cancer incidence following bivalent human papillomavirus vaccination: a population-based observational study of age at immunization, dose, and deprivation, *JNCI: Journal of the National Cancer Institute* , Volume 116, Issue 6, June 2024, Pages 857–865, https://doi.org/10.1093/jnci/djad263Close
+- 
+        
+            *Share Icon* Share
+
+---
+
+[referencia=e872d145d17252c4 score=0.749]
+Vaccination status: Unvaccinated (no doses given), Incomplete (1 dose or 2 doses 1 month apart: n = 5219, 1 dose; n = 9426, 2 doses), and Complete (2 doses at least 5 months apart or 3 doses: n = 131, 2 dose; n = 138 848, 3 doses). No cancers were diagnosed in those immunized with 2 doses at 5 or 6 months apart. Eight cancers were diagnosed in those immunized with 1 or 2 doses. There are 21 cancers in those receiving 3 doses of vaccine, all in those immunized at 14-18 years of age. CI = confidence interval.
+
+Vaccine effectiveness is adjusted for Scottish Index of Multiple Deprivation.
+
+For incomplete doses in the group of 12-13 year olds, there were too few individuals in the denominator to provide any reasonable estimate of vaccine effectiveness and its confidence intervals.
+
+No cases therefore had vaccine effectiveness of 100%, and no reliable confidence intervals could be obtained from Cox proportional hazards estimates. Estimates of 95% confidence intervals and *P* values were obtained using an exact Poisson approximation of the weighted rate ratio, where the numerator was 0 events in 134 299.8 person-years of follow-up and the denominator was 196 events in 2 337 136.3 person-years of follow-up.
+
+---
+
+[referencia=e872d145d17252c4 score=0.670]
+| Attendance at screening | At least 1 attendance | — | 271 896 | — | 152 523 (56.1) | 11 423 (4.2) | 107 950 (39.7) | 
+|  | No attendance | — | 175 949 | — | 141 698 (80.5) | 3222 (1.8) | 31 029 (17.6) | 
+
+Vaccination status: Unvaccinated (no doses given), Incomplete (1 dose or 2 doses 1 month apart: n = 5219, 1 dose; n = 9426, 2 doses), and Complete (2 doses at least 5 months apart or 3 doses: n = 131, 2 doses; n = 138 848, 3 doses). No cancers were diagnosed in those immunized with 2 doses at 5 or 6 months apart. Eight cancers were diagnosed in those immunized with 1 or 2 doses. There were 21 cancers in those receiving 3 doses of vaccine, all in those immunized at 14-18 years of age.
+
+In the Scottish Cervical Cancer Call Recall System, the population extract is inflated relative to the true population size resident in Scotland, as given by the National Registry for Scotland figure.
+
+The 1996 cohort was subject to a change in the cervical screening age. Those born on or before June 5, 1996, were eligible for screening at 20 years of age; hence, the 1996 cohort represents only those born in 5 of 12 months, and therefore the comparator population of 34 625 is downsized to 14 428.
+
+The Scottish Index of Multiple Deprivation is derived from the postcode of residence, where SIMD1 is the most deprived stratum and SIMD5 the least deprived stratum.
+
+---
+
+[referencia=e872d145d17252c4 score=0.541]
+Cervical cancer is the fourth-most common cancer in women worldwide. The World Health Organization has called for the elimination of cervical cancer (defined as an age-standardized incidence rate of 4 per 100 000 women) because of its social and economic consequences, which fall disproportionately on low- and middle-income countries. The World Health Organization recommends a strategy of vaccination, screening, and access to treatment to reach this target (1).
+
+Organized human papillomavirus (HPV) vaccination programs have been in place since 2007, and the United Kingdom was one of the first countries to offer a national program through schools from 2008. The program included an initial 2-year catch-up for girls aged 14-18 years. Routine vaccination, given at ages 12–13, was associated with an uptake rate above 80%. The vaccine used until 2012 was the bivalent vaccine, Cervarix (GlaxoSmithKline Biologicals), which conferred protection against HPV-16 and HPV-18 and significant cross-protection against HPV-31, HPV-33, and HPV-45 (2). The quadrivalent vaccine, Gardasil (Merck & Co ), which protects against HPV-16 and HPV-18, was used until 2022-2023, when the nonavalent vaccine Gardasil 9 (Merck Sharp & Dohme) was introduced into the national vaccination program.
+
+Significant impact from HPV vaccines in reducing the prevalence of vaccine-type infection and high-grade disease (cervical intraepithelial neoplasia [CIN]) was demonstrated in HPV vaccine randomized controlled trials, especially if given before age 26 years. This impact has also been reported from many countries, as summarized in a Cochrane review (3) and by Drolet et al. in 2019 (4). Palmer et al. (5) reported a 90% reduction in high-grade CIN in Scotland following vaccination at age 12-13 years.
+
+---
+
+[referencia=e872d145d17252c4 score=0.470]
+### Adjusted analyses
+
+The results of analysis by age at vaccination stratified by vaccination status, following adjustment by deprivation, are shown in Table 3. A Kaplan-Meier plot showing incidence over time since eligibility for screening (age 20 years) or first screen, whichever was earlier, by deprivation and vaccination status, is shown in Figure 3.
+
+| Combined vaccine status <sup>a</sup> and age at vaccination, y             . | Denominator . | Cases of disease, No. weighted (unweighted) . | Person-years of follow-up, weighted (unweighted) . | Incidence rate per 100 000 people (95% CI) . | Adjusted vaccine effectiveness (95% CI) <sup>b</sup> . | *P* . | 
+|---|---|---|---|---|---|---|
+| Unvaccinated | 294 221 | 195.7 (210) | 2 337 136.3 (2 739 122.6) | 8.4 (7.2 to 9.6) | — | — | 
+| Incomplete12-13 | 411 | 0.0 (0) | 1847.9 (1968.9) | 0.0 (0.0 to 199.6) | — <sup>c</sup> | — | 
+| Complete12-13 | 29 144 | 0 (0) | 134 299.8 (140 081.7) | 0.0 (0.0 to 2.7) | 100 <sup>d</sup> (66.9 to 100) | — | 
+| Incomplete≥14 | 14 234 | 6.8 (8) | 103 627.4 (110 146.3) | 6.5 (2.6 to 13.6) | 40.0 (‒22.8 to 70.7) | .16 | 
+| Complete ≥14 | 109 835 | 20.4 (21) | 754 122.3 (796 571.6) | 2.7 (1.7 to 4.2) | 73.8 (58.9 to 83.4) | <.001 |
+
+---
+
+[referencia=e872d145d17252c4 score=0.396]
+Weighting: Women who attended for screening were given a weighting of 1. Women not attending were given a reduced weighting, defined by the degree of overinflation of their birth cohort size in the Scottish Cervical Cancer Call Recall System compared with the National Registry Scotland population estimates in 2018. CI = confidence interval.
+
+Vaccination status: Unvaccinated (no doses given), Incomplete (1 dose or 2 doses 1 month apart: n = 5219, 1 dose; n = 9426, 2 doses), and Complete (2 doses at least 5 months apart or 3 doses: n = 131, 2 doses; n = 138 848, 3 doses). No cancers were diagnosed in those immunized with 2 doses at 5 or 6 months apart. Eight cancers were diagnosed in those immunized with 1 or 2 doses. There are 21 cancers in those receiving 3 doses of vaccine, all in those immunized at 14-18 years of age.
+
+No cases, so vaccine effectiveness of 100%, and no reliable confidence intervals could be obtained from Cox proportional hazards estimates. Estimates of 95% confidence intervals and *P* value were obtained using an exact Poisson approximation of the weighted rate ratio, where the numerator was 0 events in 136 147.7 person-years of follow-up and the denominator was 196 events in 2 337 136.3 person-years of follow-up.
+
+There were 78 862 individuals aged 14-16 years, 41 606 individuals aged 17-18 years, and 3601 individuals aged over 18 years who were vaccinated. In these 3 groups combined, 29 cases of cervical cancer were found. Only a small number (<5) were in the 18 years of age and older group, so these groups have been combined in the table of cases and incidence rates to avoid inadvertent disclosure. Estimates of vaccine effectiveness are presented for each group separately and for a combined group.
+
+Scottish Index of Multiple Deprivation is derived from the postcode of residence, where SIMD1 is the most deprived stratum and SIMD5 the least deprived stratum.
+
+---
+
+[referencia=e872d145d17252c4 score=0.347]
+## Data availability
+
+Access to data is available on request from Public Health Scotland upon completing the appropriate documentation, which is can be obtained from [email protected] and is required for audit purposes.
+
+## Author contributions
+
+Timothy J. Palmer, FRCPath (Conceptualization; Data curation; Validation; Writing—original draft; Writing—review & editing), Kim Kavanagh, PhD (Formal analysis; Methodology; Writing—original draft; Writing—review & editing), Kate Cuschieri, PhD (Conceptualization; Writing—original draft; Writing—review & editing), Ross Cameron, MPH (Data curation; Writing—review & editing), Catriona Graham, MSc (Data curation; Writing—review & editing), Allan Wilson, FIBMS (Writing—review & editing), Kirsty Roy, PhD (Supervision; Writing—review & editing).
+
+## Funding
+
+Funding was provided by the Scottish government through core funding of Public Health Scotland.
+
+## Conflicts of interest
+
+T.P., K.K., R.C., C.G., A.W., and K.R. report no conflicts of interest.
+
+K.C. attended an advisory board meeting for HOLOGIC, for which UK travel was paid, and an online advisory board meeting for Vaccitech (no personal renumeration received). K.C.’s institution has received research funding or gratis consumables to support funding from the following in the last 3 years: Cepheid, Euroimmun, GeneFirst, SelfScreen, Hiantis, Seegene, Roche, Hologic, and Vaccitech.
+
+## Acknowledgements
+
+The funding source played no part in the design, execution, analysis and interpretation, or preparation of the manuscript for publication.
+
+## References
+
+https://uicc-live.1xinternet.de/what-we-do/thematic-areas/cervical-cancer-elimination. Accessed January 6, 2024.
+
+*Scottish Index of Multiple Deprivation 2020 - gov.scot.* www.gov.scot. Accessed October 10, 2023.
+
+*JCVI Statement on a One-Dose Schedule for the Routine HPV Immunisation.* https://www.gov.uk/government/publications/single-dose-of-hpv-vaccine-jcvi-concluding-advice/jcvi-statement-on-a-one-dose-schedule-for-the-routine-hpv-immunisation-programme. Accessed May 31, 2023.
+
+## Comments
+
+---
+
+[referencia=e872d145d17252c4 score=0.268]
+| . | . | Denominator . | Cases of disease, No. weighted (unweighted <sup>a</sup> )             . | Person-years of follow-up, weighted (unweighted <sup>a</sup> )             . | Incidence rate per 100 000 people (95% CI) . | Unadjusted vaccine effectiveness (95% CI) . | *P* . | 
+|---|---|---|---|---|---|---|---|
+| Vaccine status <sup>b</sup> | Unvaccinated | 294 221 | 195.7 (210) | 2 337 136.3 (2 739 122.6) | 8.4 (7.2 to 9.6) | — | — | 
+|  | Incomplete | 14 645 | 6.8 (8) | 105 475.3 (112 115.2) | 6.4 (2.5 to 13.4) | 34.7 (‒33.8 to 68.1) | .25 | 
+|  | Complete | 138 979 | 20.4 (21) | 888 422.1 (936 653.3) | 2.3 (1.4 to 3.5) | 78.5 (66.2 to 86.4) | <.001 | 
+| Age at vaccination, y | Unvaccinated | 294 221 | 195.7 (210) | 2 337 136.3 (2 739 122.6) | 8.4 (7.2 to 9.6) | — | — | 
+|  | 12-13 | 29 555 | 0 (0) | 136 147.7 (142 050.7) | 0.0 (0.0 to 2.7) | 100.0 <sup>c</sup> | — | 
+|  | ≥14 | 124 069.00 | 27.2 (29) | 857 749.7 (906 717.9) | 3.2 (2.1 to 4.6) | 69.0 (54.1 to 79.1) | <.001 |
+
+---
+
+[referencia=e872d145d17252c4 score=0.222]
+|  |  | Denominator | Cases of disease, No. weighted (unweighted <sup>a</sup> | Person-years of follow-up, weighted (unweighted <sup>a</sup> | Incidence rate per 100 000 people (95% CI) | Unadjusted vaccine effectiveness (95% CI) | *P* | 
+|---|---|---|---|---|---|---|---|
+| Vaccine status <sup>b</sup> | Unvaccinated | 294 221 | 195.7 (210) | 2 337 136.3 (2 739 122.6) | 8.4 (7.2 to 9.6) | — | — | 
+|  | Incomplete | 14 645 | 6.8 (8) | 105 475.3 (112 115.2) | 6.4 (2.5 to 13.4) | 34.7 (‒33.8 to 68.1) | .25 | 
+|  | Complete | 138 979 | 20.4 (21) | 888 422.1 (936 653.3) | 2.3 (1.4 to 3.5) | 78.5 (66.2 to 86.4) | <.001 | 
+| Age at vaccination, y | Unvaccinated | 294 221 | 195.7 (210) | 2 337 136.3 (2 739 122.6) | 8.4 (7.2 to 9.6) | — | — | 
+|  | 12-13 | 29 555 | 0 (0) | 136 147.7 (142 050.7) | 0.0 (0.0 to 2.7) | 100.0 <sup>c</sup> | — | 
+|  | ≥14 | 124 069.00 | 27.2 (29) | 857 749.7 (906 717.9) | 3.2 (2.1 to 4.6) | 69.0 (54.1 to 79.1) | <.001 |

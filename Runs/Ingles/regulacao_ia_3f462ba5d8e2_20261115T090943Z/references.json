@@ -1,0 +1,192 @@
+[
+  {
+    "id": "623d9b5287962fa0",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/eli/reg/2024/1689",
+    "normalized_url": "https://eur-lex.europa.eu/eli/reg/2024/1689",
+    "work_key": "https://eur-lex.europa.eu/eli/reg/2024/1689",
+    "title": "1. **Regulation (EU) 2024/1689 — Artificial Intelligence Act, consolidated version as amended through July 27, 2026**, EUR-Lex.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:29:01.467163Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e77912f7b6ecab11",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/enforcement-ai-act",
+    "title": "2. **The enforcement framework of the AI Act**, European Commission, Shaping Europe’s Digital Future.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T09:10:07.253164Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "87544486094db75f",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/guidelines-gpai-providers",
+    "title": "3. **Guidelines for providers of general-purpose AI models**, European Commission, Shaping Europe’s Digital Future.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T09:10:07.272826Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "d5c1e904603038ee",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+    "title": "4. **The General-Purpose AI Code of Practice**, European Commission, Shaping Europe’s Digital Future.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T09:10:07.275377Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "77e096f27c9d4bf6",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence/",
+    "normalized_url": "https://consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence",
+    "work_key": "https://consilium.europa.eu/en/policies/artificial-intelligence-act/timeline-artificial-intelligence",
+    "title": "5. **Timeline — Artificial intelligence**, Council of the European Union.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T09:10:15.744066Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5f3e072377bda147",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "work_key": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "title": "6. **PL 2338/2023 — Legislative Procedure and Current Status**, Chamber of Deputies of Brazil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T09:10:08.034481Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "19836916515bd208",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106629&filename=Avulso+PL+2338%2F2023",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106629&filename=Avulso+PL+2338%2F2023",
+    "work_key": "https://camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3106629&filename=Avulso+PL+2338%2F2023",
+    "title": "7. **PL 2338/2023 — Senate-approved text and attached legislative material**, Chamber of Deputies of Brazil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T09:10:47.122518Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2ddcc05b33f7db1a",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "normalized_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "work_key": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "title": "8. **Projeto de Lei n° 2338, de 2023 — Marco Legal da Inteligência Artificial**, Federal Senate of Brazil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T09:10:47.272436Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "25b776d1fcfaae00",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.gov.br/gestao/pt-br/assuntos/noticias/2025/dezembro/pl-do-governo-propoe-sistema-de-governanca-para-a-inteligencia-artificial-no-pais",
+    "normalized_url": "https://gov.br/gestao/pt-br/assuntos/noticias/2025/dezembro/pl-do-governo-propoe-sistema-de-governanca-para-a-inteligencia-artificial-no-pais",
+    "work_key": "https://gov.br/gestao/pt-br/assuntos/noticias/2025/dezembro/pl-do-governo-propoe-sistema-de-governanca-para-a-inteligencia-artificial-no-pais",
+    "title": "9. **PL do governo propõe sistema de governança para a inteligência artificial no país**, Ministry of Management and Innovation in Public Services, Government of Brazil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T09:10:16.201695Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "81265ed60a1951f6",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.camara.leg.br/radio/radioagencia/1314245-projeto-de-regulacao-da-ia-no-brasil-pode-ser-arquivado",
+    "normalized_url": "https://camara.leg.br/radio/radioagencia/1314245-projeto-de-regulacao-da-ia-no-brasil-pode-ser-arquivado",
+    "work_key": "https://camara.leg.br/radio/radioagencia/1314245-projeto-de-regulacao-da-ia-no-brasil-pode-ser-arquivado",
+    "title": "10. **Projeto de regulação da IA no Brasil pode ser arquivado**, Chamber of Deputies of Brazil, Radioagência, October 27, 2026.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T09:10:16.454682Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_3f462ba5d8e2_20261115T090943Z",
+    "tool_name": "ChatGPT"
+  }
+]

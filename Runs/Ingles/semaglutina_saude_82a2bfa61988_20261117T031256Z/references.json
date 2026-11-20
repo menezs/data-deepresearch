@@ -1,0 +1,1826 @@
+[
+  {
+    "id": "91b567181f732a42",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2023/11/09/15/04/select",
+    "normalized_url": "https://acc.org/latest-in-cardiology/clinical-trials/2023/11/09/15/04/select",
+    "work_key": "https://acc.org/latest-in-cardiology/clinical-trials/2023/11/09/15/04/select",
+    "title": "American College of Cardiology. Semaglutide and Cardiovascular Outcomes in Obesity Without Diabetes - SELECT.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:20.629879Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "83422a560b1359a7",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2025/03/27/15/04/soul",
+    "normalized_url": "https://acc.org/latest-in-cardiology/clinical-trials/2025/03/27/15/04/soul",
+    "work_key": "https://acc.org/latest-in-cardiology/clinical-trials/2025/03/27/15/04/soul",
+    "title": "American College of Cardiology. Semaglutide Cardiovascular Outcomes Trial - SOUL.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:20.647144Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3ed2d75d95d9fd3a",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2024/05/29/17/23/flow",
+    "normalized_url": "https://acc.org/latest-in-cardiology/clinical-trials/2024/05/29/17/23/flow",
+    "work_key": "https://acc.org/latest-in-cardiology/clinical-trials/2024/05/29/17/23/flow",
+    "title": "American College of Cardiology. Evaluate Renal Function With Semaglutide Once Weekly - FLOW.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:20.579640Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "eb61872878dab4b7",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2023/08/23/19/18/step-hfpef",
+    "normalized_url": "https://acc.org/latest-in-cardiology/clinical-trials/2023/08/23/19/18/step-hfpef",
+    "work_key": "https://acc.org/latest-in-cardiology/clinical-trials/2023/08/23/19/18/step-hfpef",
+    "title": "American College of Cardiology. Semaglutide Treatment Effect in People With Obesity and HFpEF - STEP-HFpEF.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:20.639364Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1a165f4b8c91918f",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2024/04/05/03/29/step-hfpef-dm",
+    "normalized_url": "https://acc.org/latest-in-cardiology/clinical-trials/2024/04/05/03/29/step-hfpef-dm",
+    "work_key": "https://acc.org/latest-in-cardiology/clinical-trials/2024/04/05/03/29/step-hfpef-dm",
+    "title": "American College of Cardiology. Semaglutide Treatment Effect in People With Obesity and Heart Failure With Preserved Ejection Fraction and Diabetes Mellitus - STEP-HFpEF DM.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:21.637509Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b95c0fedb8d9d8a4",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://gpcardio.org/en/2025-05-03_semaglutide-and-walking-capacity-in-people-with-symptomatic-peripheral-artery-disease-and-type-2-diabetes-stride/",
+    "normalized_url": "https://gpcardio.org/en/2025-05-03_semaglutide-and-walking-capacity-in-people-with-symptomatic-peripheral-artery-disease-and-type-2-diabetes-stride",
+    "work_key": "https://gpcardio.org/en/2025-05-03_semaglutide-and-walking-capacity-in-people-with-symptomatic-peripheral-artery-disease-and-type-2-diabetes-stride",
+    "title": "GPCardio. Semaglutide and walking capacity in people with symptomatic peripheral artery disease and type 2 diabetes (STRIDE): a phase 3b, double-blind, randomised, placebo-controlled trial.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:21.902773Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "66625f5741ca7ad1",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.abom.org/wp-content/uploads/2025/06/Phase-3-Trial-of-Semaglutide-in-Metabolic-Dysfunctio.pdf",
+    "normalized_url": "https://abom.org/wp-content/uploads/2025/06/Phase-3-Trial-of-Semaglutide-in-Metabolic-Dysfunctio.pdf",
+    "work_key": "https://abom.org/wp-content/uploads/2025/06/Phase-3-Trial-of-Semaglutide-in-Metabolic-Dysfunctio.pdf",
+    "title": "Sanyal AJ, Newsome PN, Kliers I, et al. Phase 3 Trial of Semaglutide in Metabolic Dysfunction–Associated Steatohepatitis (NEJM).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:35.537905Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ec5f29001f160c05",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag524/8774585",
+    "normalized_url": "https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag524/8774585",
+    "work_key": "DOI:10.1093/eurheartj/ehag524/8774585",
+    "title": "European Heart Journal. Semaglutide and cardiovascular risk reduction: a mediation analysis of the SELECT trial.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:32.136411Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1661cf7c1e88b2da",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/41138739/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/41138739",
+    "work_key": "PMID:41138739",
+    "title": "PubMed. Semaglutide and cardiovascular outcomes by baseline and changes in adiposity measurements: a prespecified analysis of the SELECT trial (The Lancet).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:22.547634Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f88f99503bfed62d",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13574348/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13574348",
+    "work_key": "PMC:PMC13574348",
+    "title": "Plutzky J, et al. High-Sensitivity C-Reactive Protein and Cardiovascular Outcomes in the SELECT Trial (PubMed Central PMC13574348).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:22.723216Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "06223bb9ec2da914",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program",
+    "normalized_url": "https://researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program",
+    "work_key": "https://researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program",
+    "title": "ResearchGate. Semaglutide and NTproBNP in Obesity-Related HFpEF: Insights from STEP-HFpEF Program (JACC).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:17:22.069281Z",
+    "error_message": "download excedeu 90s",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "706bb87bfd285b19",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.neurologylive.com/view/from-glucose-to-cognition-where-repurposed-diabetes-drugs-stand-ad",
+    "normalized_url": "https://neurologylive.com/view/from-glucose-to-cognition-where-repurposed-diabetes-drugs-stand-ad",
+    "work_key": "https://neurologylive.com/view/from-glucose-to-cognition-where-repurposed-diabetes-drugs-stand-ad",
+    "title": "NeurologyLive. From Glucose to Cognition: Where Repurposed Diabetes Drugs Stand in AD.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:24.124414Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1f54e67feb11f827",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://tnsam.org/wp-content/uploads/2025/05/jamapsychiatry_hendershot_2025_oi_240094_1743461595.52316.pdf",
+    "normalized_url": "https://tnsam.org/wp-content/uploads/2025/05/jamapsychiatry_hendershot_2025_oi_240094_1743461595.52316.pdf",
+    "work_key": "https://tnsam.org/wp-content/uploads/2025/05/jamapsychiatry_hendershot_2025_oi_240094_1743461595.52316.pdf",
+    "title": "Hendershot CS, Bremmer MP, Paladino MB, et al. Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial (JAMA Psychiatry).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:30.931511Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f2f1f20ec57e14f1",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://psychiatryonline.org/ajp/doi/10.1176/appi.ajp.20260003",
+    "normalized_url": "https://psychiatryonline.org/ajp/doi/10.1176/appi.ajp.20260003",
+    "work_key": "DOI:10.1176/appi.ajp.20260003",
+    "title": "American Journal of Psychiatry. Oral Semaglutide in Treatment-Seeking Adults With Alcohol Use Disorder.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:16:15.027038Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c11d87854dd15515",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice",
+    "normalized_url": "https://researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice",
+    "work_key": "https://researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice",
+    "title": "ResearchGate. Semaglutide in obesity-related knee osteoarthritis: Interpreting STEP 9 and implications for practice (The Innovation Medicine).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:20:25.576007Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "978a7e1d95773919",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://eprints.whiterose.ac.uk/id/eprint/212814/1/Once-weekly%20semaglutide%20versus%20placebo%20in%20adults%20with%20increased%20fracture%20risk%20a%20randomised%2C%20double-blinded%2C%20two-centre%2C%20phas.pdf",
+    "normalized_url": "https://eprints.whiterose.ac.uk/id/eprint/212814/1/Once-weekly semaglutide versus placebo in adults with increased fracture risk a randomised, double-blinded, two-centre, phas.pdf",
+    "work_key": "https://eprints.whiterose.ac.uk/id/eprint/212814/1/Once-weekly semaglutide versus placebo in adults with increased fracture risk a randomised, double-blinded, two-centre, phas.pdf",
+    "title": "White Rose Research Online. Once-weekly semaglutide versus placebo in adults with increased fracture risk: a randomised, double-blinded, two-centre, phase 2 clinical trial (eClinicalMedicine).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:39.773009Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bff4f88cda9a114b",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.natap.org/2023/HIV/100923_01.htm",
+    "normalized_url": "https://natap.org/2023/HIV/100923_01.htm",
+    "work_key": "https://natap.org/2023/HIV/100923_01.htm",
+    "title": "NATAP. Risk of Gastrointestinal Adverse Events Associated With Glucagon-Like Peptide-1 Receptor Agonists for Weight Loss (JAMA).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:36.719015Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9452584191e1d182",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
+    "normalized_url": "https://fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
+    "work_key": "https://fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
+    "title": "U.S. Food and Drug Administration. FDA requires safety labeling changes for glucagon-like peptide-1 receptor agonists (GLP-1 RAs) due to potential risk of NAION.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:37.060657Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3732f46349cec28e",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy",
+    "normalized_url": "https://ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy",
+    "work_key": "https://ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy",
+    "title": "European Medicines Agency. PRAC concludes eye condition NAION is a very rare side effect of semaglutide medicines Ozempic, Rybelsus and Wegovy.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:37.858383Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1f0bde2c2b7643aa",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11222026/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11222026",
+    "work_key": "PMC:PMC11222026",
+    "title": "PubMed Central. Cardiometabolic Effects and Withdrawal Rebound After Semaglutide (PMC11222026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:39.013324Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bebe6cfed8cd9d7c",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.nrfhh.com/index.php/journal/article/download/2283/1314/4930",
+    "normalized_url": "https://nrfhh.com/index.php/journal/article/download/2283/1314/4930",
+    "work_key": "https://nrfhh.com/index.php/journal/article/download/2283/1314/4930",
+    "title": "Nutrition and Food Research. Semaglutide Structural Spacer and C-18 Fatty Acid Pharmacokinetics.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:47.592293Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "200430f919b38cc1",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/325848624_Pharmacokinetics_and_Clinical_Implications_of_Semaglutide_A_New_Glucagon-Like_Peptide_GLP-1_Receptor_Agonist",
+    "normalized_url": "https://researchgate.net/publication/325848624_Pharmacokinetics_and_Clinical_Implications_of_Semaglutide_A_New_Glucagon-Like_Peptide_GLP-1_Receptor_Agonist",
+    "work_key": "https://researchgate.net/publication/325848624_Pharmacokinetics_and_Clinical_Implications_of_Semaglutide_A_New_Glucagon-Like_Peptide_GLP-1_Receptor_Agonist",
+    "title": "ResearchGate. Pharmacokinetics and Clinical Implications of Semaglutide: A New Glucagon-Like Peptide (GLP-1) Receptor Agonist.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:13:42.524764Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "020e6ddbcdb3132b",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/209637Orig1s000PharmR.pdf",
+    "normalized_url": "https://accessdata.fda.gov/drugsatfda_docs/nda/2017/209637Orig1s000PharmR.pdf",
+    "work_key": "https://accessdata.fda.gov/drugsatfda_docs/nda/2017/209637Orig1s000PharmR.pdf",
+    "title": "U.S. Food and Drug Administration. Pharmacology Review: Ozempic (Semaglutide Injection) NDA 209637.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:14:49.462597Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "343ec7eb93410477",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://journals.bioscientifica.com/joe/article/263/1/e240046/5657/GLP-1-receptor-agonist-based-therapies-and",
+    "normalized_url": "https://journals.bioscientifica.com/joe/article/263/1/e240046/5657/GLP-1-receptor-agonist-based-therapies-and",
+    "work_key": "https://journals.bioscientifica.com/joe/article/263/1/e240046/5657/GLP-1-receptor-agonist-based-therapies-and",
+    "title": "Journal of Endocrinology. GLP-1 receptor agonist-based therapies and the cardiovascular system.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:14:56.158455Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8cb78cb7fede837a",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.scielo.br/j/jbn/a/qhJZhkW8dzY5qzRQ9hhXbkR/?format=html&lang=en",
+    "normalized_url": "https://scielo.br/j/jbn/a/qhJZhkW8dzY5qzRQ9hhXbkR?format=html&lang=en",
+    "work_key": "https://scielo.br/j/jbn/a/qhJZhkW8dzY5qzRQ9hhXbkR?format=html&lang=en",
+    "title": "SciELO (Jornal Brasileiro de Nefrologia). Physiological mechanisms of GLP-1 receptor agonists at the renal level.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:14:11.173495Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a79b9a1b5929a3c3",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/213051Orig1s000PharmR.pdf",
+    "normalized_url": "https://accessdata.fda.gov/drugsatfda_docs/nda/2019/213051Orig1s000PharmR.pdf",
+    "work_key": "https://accessdata.fda.gov/drugsatfda_docs/nda/2019/213051Orig1s000PharmR.pdf",
+    "title": "U.S. Food and Drug Administration. Pharmacology Review: Rybelsus (Semaglutide Tablet) NDA 213051.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:02.407941Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ecf50d756d9b4478",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf",
+    "normalized_url": "https://novofrontier.ai/uploads/Users_old/Digital Scientific Partner/Non User Customer Journey/Articles Repositories/review of oral glp-1.pdf",
+    "work_key": "https://novofrontier.ai/uploads/Users_old/Digital Scientific Partner/Non User Customer Journey/Articles Repositories/review of oral glp-1.pdf",
+    "title": "Novo Nordisk Scientific Repository. Review of Oral GLP-1 Receptor Agonists.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:16:04.645023Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2ae0a30788703213",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience",
+    "normalized_url": "https://researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience",
+    "work_key": "https://researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience",
+    "title": "ResearchGate. Current Understanding of Sodium N-(8-[2-Hydroxybenzoyl] Amino) Caprylate (SNAC) as an Absorption Enhancer: The Oral Semaglutide Experience.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:21:03.688773Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d1149bbb7df29fde",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5939638/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5939638",
+    "work_key": "PMC:PMC5939638",
+    "title": "PubMed Central. Baggio LL, et al. GLP-1 Receptor Expression Within the Human Heart (PMC5939638).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:14:57.230263Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cb77f027d2b76893",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.jci.org/articles/view/194749",
+    "normalized_url": "https://jci.org/articles/view/194749",
+    "work_key": "https://jci.org/articles/view/194749",
+    "title": "Journal of Clinical Investigation. Renoprotective effects of GLP-1 receptor agonists: clinical trials and postulated mechanisms.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:00.061189Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2965df6a6d2f63a2",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12454090/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12454090",
+    "work_key": "PMC:PMC12454090",
+    "title": "PubMed Central. Effects of GLP1-RA on Endothelium and Endothelial Progenitor Cells (PMC12454090).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:02.356126Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4edb8443a18e7743",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash",
+    "normalized_url": "https://fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash",
+    "work_key": "https://fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash",
+    "title": "U.S. Food and Drug Administration. FDA Approves Treatment for Serious Liver Disease Known as 'MASH'.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:00.514725Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6c9eff9a0f3d85e5",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.mdpi.com/2813-0618/4/3/14",
+    "normalized_url": "https://mdpi.com/2813-0618/4/3/14",
+    "work_key": "https://mdpi.com/2813-0618/4/3/14",
+    "title": "MDPI. Comparative Evidence for Resmetirom and Semaglutide in Metabolic Dysfunction-Associated Steatohepatitis.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:09.949703Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5ae587d6739bb1d1",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9417299/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9417299",
+    "work_key": "PMC:PMC9417299",
+    "title": "PubMed Central. Blood-Brain Barrier Penetration of GLP-1 Receptor Agonists and SGLT-2 Inhibitors (PMC9417299).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:03.792707Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a153f343ab7c4cb5",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.645566/full",
+    "normalized_url": "https://frontiersin.org/journals/endocrinology/articles/10.3389/fendo.2021.645566/full",
+    "work_key": "DOI:10.3389/fendo.2021.645566/full",
+    "title": "Frontiers in Endocrinology. Cardiovascular Safety and Benefits of Semaglutide in Patients With Type 2 Diabetes: Findings From SUSTAIN 6 and PIONEER 6.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:03.678614Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2dce5ff2a7e1a4ca",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/31903692/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/31903692",
+    "work_key": "PMID:31903692",
+    "title": "PubMed. Pooled Cardiovascular Outcomes of Semaglutide in SUSTAIN 6 and PIONEER 6 (PMID 31903692).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:04.402210Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c0c7b1fb23e5b8d0",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://ore.exeter.ac.uk/articles/journal_contribution/Effects_of_semaglutide_on_stroke_subtypes_in_type_2_diabetes_post_hoc_analysis_of_the_randomised_SUSTAIN_6_PIONEER_6/29787056/1/files/56823629.pdf",
+    "normalized_url": "https://ore.exeter.ac.uk/articles/journal_contribution/Effects_of_semaglutide_on_stroke_subtypes_in_type_2_diabetes_post_hoc_analysis_of_the_randomised_SUSTAIN_6_PIONEER_6/29787056/1/files/56823629.pdf",
+    "work_key": "https://ore.exeter.ac.uk/articles/journal_contribution/Effects_of_semaglutide_on_stroke_subtypes_in_type_2_diabetes_post_hoc_analysis_of_the_randomised_SUSTAIN_6_PIONEER_6/29787056/1/files/56823629.pdf",
+    "title": "University of Exeter Open Research. Effects of Semaglutide on Stroke Subtypes in Type 2 Diabetes: Post Hoc Analysis of SUSTAIN 6 and PIONEER 6 (Stroke).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 202,
+    "fetched_at": "2026-11-18T01:16:26.861756Z",
+    "error_message": "barreira de acesso (anti_bot): In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable JavaScript and then re",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d8283ec02067cd8e",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://www.appliedclinicaltrialsonline.com/view/semaglutide-cardiovascular-risk-type-2-diabetes",
+    "normalized_url": "https://appliedclinicaltrialsonline.com/view/semaglutide-cardiovascular-risk-type-2-diabetes",
+    "work_key": "https://appliedclinicaltrialsonline.com/view/semaglutide-cardiovascular-risk-type-2-diabetes",
+    "title": "Applied Clinical Trials Online. SOUL Trial Shows Oral Semaglutide Significantly Reduces Cardiovascular Risk in Type 2 Diabetes.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:05.982214Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "846b28be0e57e7b3",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial",
+    "normalized_url": "https://researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial",
+    "work_key": "https://researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial",
+    "title": "ResearchGate. Marx N, et al. Oral Semaglutide and Cardiovascular Outcomes in Persons With Type 2 Diabetes According to SGLT2i Use: Prespecified Analyses of SOUL (Circulation).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:21:53.155461Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4a985e6acad2a753",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://www.tctmd.com/news/oral-semaglutide-gets-fda-approval-cv-event-reduction-high-risk-diabetes-patients",
+    "normalized_url": "https://tctmd.com/news/oral-semaglutide-gets-fda-approval-cv-event-reduction-high-risk-diabetes-patients",
+    "work_key": "https://tctmd.com/news/oral-semaglutide-gets-fda-approval-cv-event-reduction-high-risk-diabetes-patients",
+    "title": "TCTMD. Oral Semaglutide Gets FDA Approval for CV Event Reduction in High-risk Diabetes Patients.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:12.329963Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d886c9b3c1bc4745",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://pace-cme.org/news/semaglutide-reduces-mace-independent-of-baseline-adiposity/2484958/",
+    "normalized_url": "https://pace-cme.org/news/semaglutide-reduces-mace-independent-of-baseline-adiposity/2484958",
+    "work_key": "https://pace-cme.org/news/semaglutide-reduces-mace-independent-of-baseline-adiposity/2484958",
+    "title": "PACE-CME. Semaglutide reduces MACE independent of baseline adiposity and weight loss.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:12.647235Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b273cd141d5b4e4f",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://www.tctmd.com/news/step-hfpef-dm-trial-hints-semaglutide-hf-effects-beyond-pounds-shed",
+    "normalized_url": "https://tctmd.com/news/step-hfpef-dm-trial-hints-semaglutide-hf-effects-beyond-pounds-shed",
+    "work_key": "https://tctmd.com/news/step-hfpef-dm-trial-hints-semaglutide-hf-effects-beyond-pounds-shed",
+    "title": "TCTMD. STEP-HFpEF DM Trial Hints Semaglutide HF Effects Beyond Pounds Shed.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:14.988165Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fb7245323a2daeff",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://pace-cme.org/news/pooled-trial-analysis-shows-consistent-benefits-glp-1ra-obesity-related-hfpef/2462928/",
+    "normalized_url": "https://pace-cme.org/news/pooled-trial-analysis-shows-consistent-benefits-glp-1ra-obesity-related-hfpef/2462928",
+    "work_key": "https://pace-cme.org/news/pooled-trial-analysis-shows-consistent-benefits-glp-1ra-obesity-related-hfpef/2462928",
+    "title": "PACE-CME. Pooled trial analysis shows consistent benefits of GLP-1RA in obesity-related HFpEF.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:13.207190Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7c3945ced8888a3c",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://pace-cme.org/news/glp-1ra-reduces-nt-probnp-patients-obesity-related-hfpef/2463033/",
+    "normalized_url": "https://pace-cme.org/news/glp-1ra-reduces-nt-probnp-patients-obesity-related-hfpef/2463033",
+    "work_key": "https://pace-cme.org/news/glp-1ra-reduces-nt-probnp-patients-obesity-related-hfpef/2463033",
+    "title": "PACE-CME. GLP-1RA reduces NT-proBNP in patients with obesity-related HFpEF.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:13.748313Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e2524e90e0c5f84c",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://www.prnewswire.com/news-releases/new-pooled-analysis-published-in-the-lancet-demonstrated-reduced-risk-of-combined-cv-death-or-worsening-heart-failure-with-semaglutide-302234945.html",
+    "normalized_url": "https://prnewswire.com/news-releases/new-pooled-analysis-published-in-the-lancet-demonstrated-reduced-risk-of-combined-cv-death-or-worsening-heart-failure-with-semaglutide-302234945.html",
+    "work_key": "https://prnewswire.com/news-releases/new-pooled-analysis-published-in-the-lancet-demonstrated-reduced-risk-of-combined-cv-death-or-worsening-heart-failure-with-semaglutide-302234945.html",
+    "title": "PR Newswire. New pooled analysis published in The Lancet demonstrated reduced risk of combined CV death or worsening heart failure with semaglutide.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:14.750680Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4b96ecae0ddbeca2",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/39222642/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/39222642",
+    "work_key": "PMID:39222642",
+    "title": "PubMed. Semaglutide versus placebo in patients with heart failure and mildly reduced or preserved ejection fraction (The Lancet, PMID 39222642).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:15.505698Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e414fe6db4ffb893",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2025/03/27/14/43/stride",
+    "normalized_url": "https://acc.org/latest-in-cardiology/clinical-trials/2025/03/27/14/43/stride",
+    "work_key": "https://acc.org/latest-in-cardiology/clinical-trials/2025/03/27/14/43/stride",
+    "title": "American College of Cardiology. Semaglutide and Walking Capacity in People With Symptomatic Peripheral Artery Disease and Type 2 Diabetes - STRIDE.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:16.494471Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5eeb83ba6b4a8c6c",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://www.veithsymposium.org/2025/abstracts/vei/369.pdf",
+    "normalized_url": "https://veithsymposium.org/2025/abstracts/vei/369.pdf",
+    "work_key": "https://veithsymposium.org/2025/abstracts/vei/369.pdf",
+    "title": "VEITHsymposium. Weight Loss Semaglutide Drugs Increase Walking Ability and ABIs in PAD (STRIDE Subgroup Analysis).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:18.167165Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a6c06b2f2f926693",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://diabetes.org/newsroom/press-releases/semaglutide-increases-walking-capacity-patients-peripheral-artery-disease",
+    "normalized_url": "https://diabetes.org/newsroom/press-releases/semaglutide-increases-walking-capacity-patients-peripheral-artery-disease",
+    "work_key": "https://diabetes.org/newsroom/press-releases/semaglutide-increases-walking-capacity-patients-peripheral-artery-disease",
+    "title": "American Diabetes Association. Semaglutide Increases Walking Capacity in Patients with Peripheral Artery Disease and Type 2 Diabetes.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:17.304135Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "488ee0f3e0e2c901",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis",
+    "normalized_url": "https://researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis",
+    "work_key": "https://researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis",
+    "title": "ResearchGate. Improvement in Walking Distance With Semaglutide in Smokers With Peripheral Artery Disease: STRIDE Trial Subgroup Analysis (JACC).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:22:33.315425Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f2847b5f94cfe53f",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "http://www.nephjc.com/news/flow",
+    "normalized_url": "https://nephjc.com/news/flow",
+    "work_key": "https://nephjc.com/news/flow",
+    "title": "NephJC. The FLOW Trial: Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:19.528235Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "926b78a1b0f21cd9",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://diabetesonthenet.com/diabetes-primary-care/distilled-flow-semaglutide/",
+    "normalized_url": "https://diabetesonthenet.com/diabetes-primary-care/distilled-flow-semaglutide",
+    "work_key": "https://diabetesonthenet.com/diabetes-primary-care/distilled-flow-semaglutide",
+    "title": "DiabetesontheNet. Diabetes Distilled: Keeping kidneys FLOWing – semaglutide improves renal outcomes.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:22.598434Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f9d6cf2a5518f01c",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://www.kidney.org/news-stories/fda-approves-ozempic-type-2-diabetes-and-chronic-kidney-disease",
+    "normalized_url": "https://kidney.org/news-stories/fda-approves-ozempic-type-2-diabetes-and-chronic-kidney-disease",
+    "work_key": "https://kidney.org/news-stories/fda-approves-ozempic-type-2-diabetes-and-chronic-kidney-disease",
+    "title": "National Kidney Foundation. FDA Approves Ozempic for Type 2 Diabetes and Chronic Kidney Disease.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:26.898581Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a7041a653c38b8f9",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial",
+    "normalized_url": "https://researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial",
+    "work_key": "https://researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial",
+    "title": "ResearchGate. Colhoun HM, et al. Long-term kidney outcomes of semaglutide in obesity and cardiovascular disease in the SELECT trial (Nature Medicine).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:23:10.539384Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cf2884959a888e8d",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://www.theisn.org/in-action/research/clinical-trials-isn-act-archive/semaglutide-in-patients-with-overweight-or-obesity-and-chronic-kidney-disease-without-diabetes-a-randomized-double-blind-placebo-controlled-clinical-trial/",
+    "normalized_url": "https://theisn.org/in-action/research/clinical-trials-isn-act-archive/semaglutide-in-patients-with-overweight-or-obesity-and-chronic-kidney-disease-without-diabetes-a-randomized-double-blind-placebo-controlled-clinical-trial",
+    "work_key": "https://theisn.org/in-action/research/clinical-trials-isn-act-archive/semaglutide-in-patients-with-overweight-or-obesity-and-chronic-kidney-disease-without-diabetes-a-randomized-double-blind-placebo-controlled-clinical-trial",
+    "title": "International Society of Nephrology. Semaglutide in patients with overweight or obesity and chronic kidney disease without diabetes (SMART Trial).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:15:59.068039Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "47a5dae02d0d4d0e",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://www.ncbi.nlm.nih.gov/books/NBK603723/",
+    "normalized_url": "https://ncbi.nlm.nih.gov/books/NBK603723",
+    "work_key": "https://ncbi.nlm.nih.gov/books/NBK603723",
+    "title": "StatPearls (NCBI Bookshelf). Semaglutide (NBK603723).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:18:14.132163Z",
+    "error_message": "barreira de acesso (anti_bot): Checking your browser before accessing www.ncbi.nlm.nih.gov ... Click here if you are not automatically redirected after",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "85af8d77a8c4fb79",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/36934740/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/36934740",
+    "work_key": "PMID:36934740",
+    "title": "PubMed. Loomba R, et al. Semaglutide 2.4 mg once weekly in patients with non-alcoholic steatohepatitis-related cirrhosis (PMID 36934740).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:07.496755Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "25173a1bf565f815",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://www.gastroenterologyandhepatology.net/archives/february-2025/recent-data-from-the-essence-trial-on-semaglutide-in-metabolic-dysfunction-associated-steatohepatitis/",
+    "normalized_url": "https://gastroenterologyandhepatology.net/archives/february-2025/recent-data-from-the-essence-trial-on-semaglutide-in-metabolic-dysfunction-associated-steatohepatitis",
+    "work_key": "https://gastroenterologyandhepatology.net/archives/february-2025/recent-data-from-the-essence-trial-on-semaglutide-in-metabolic-dysfunction-associated-steatohepatitis",
+    "title": "Gastroenterology & Hepatology. Recent Data From the ESSENCE Trial on Semaglutide in Metabolic Dysfunction-Associated Steatohepatitis.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:08.126322Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "696ad2d98b6128dd",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://firstwordpharma.com/story/6522602",
+    "normalized_url": "https://firstwordpharma.com/story/6522602",
+    "work_key": "https://firstwordpharma.com/story/6522602",
+    "title": "FirstWord Pharma. Wegovy associated with liver health-related benefits not solely based on weight loss in ESSENCE secondary analyses.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:18:08.212540Z",
+    "error_message": "barreira de acesso (requires_js_login_region): You need to enable JavaScript to run this app. Loading...",
+    "barrier_kind": "requires_js_login_region",
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2ea01bbc2d866823",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://www.globenewswire.com/news-release/2025/11/24/3193328/0/en/novo-nordisk-a-s-evoke-phase-3-trials-did-not-demonstrate-a-statistically-significant-reduction-in-alzheimer-s-disease-progression.html",
+    "normalized_url": "https://globenewswire.com/news-release/2025/11/24/3193328/0/en/novo-nordisk-a-s-evoke-phase-3-trials-did-not-demonstrate-a-statistically-significant-reduction-in-alzheimer-s-disease-progression.html",
+    "work_key": "https://globenewswire.com/news-release/2025/11/24/3193328/0/en/novo-nordisk-a-s-evoke-phase-3-trials-did-not-demonstrate-a-statistically-significant-reduction-in-alzheimer-s-disease-progression.html",
+    "title": "GlobeNewswire. Novo Nordisk A/S: Evoke Phase 3 Trials Did Not Demonstrate a Statistically Significant Reduction in Alzheimer's Disease Progression.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:10.888721Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0f8282f1ddbbfb52",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/41865758/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/41865758",
+    "work_key": "PMID:41865758",
+    "title": "PubMed. Efficacy and safety of oral semaglutide 14 mg in early-stage symptomatic Alzheimer's disease (evoke and evoke+) (The Lancet, PMID 41865758).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:11.662951Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "da572091d8e14cb4",
+    "citation_markers": [
+      "[62]"
+    ],
+    "raw_url": "https://www.clinicaltrialsarena.com/analyst-comment/ad-pd-2026-novo-nordisk-semaglutide-early-alzheimers/",
+    "normalized_url": "https://clinicaltrialsarena.com/analyst-comment/ad-pd-2026-novo-nordisk-semaglutide-early-alzheimers",
+    "work_key": "https://clinicaltrialsarena.com/analyst-comment/ad-pd-2026-novo-nordisk-semaglutide-early-alzheimers",
+    "title": "Clinical Trials Arena. AD/PD 2026: Novo Nordisk's semaglutide fails to demonstrate any benefit for early Alzheimer's.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:15.127076Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7547c6af2b3eaee6",
+    "citation_markers": [
+      "[63]"
+    ],
+    "raw_url": "https://www.drugdiscoverynews.com/glp-1-and-neurodegeneration-what-the-failed-alzheimer-s-trial-means-for-drug-discovery-17287",
+    "normalized_url": "https://drugdiscoverynews.com/glp-1-and-neurodegeneration-what-the-failed-alzheimer-s-trial-means-for-drug-discovery-17287",
+    "work_key": "https://drugdiscoverynews.com/glp-1-and-neurodegeneration-what-the-failed-alzheimer-s-trial-means-for-drug-discovery-17287",
+    "title": "Drug Discovery News. GLP-1 and neurodegeneration: what the failed Alzheimer's trial means for drug discovery.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:33.823897Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "aa3288520fa65762",
+    "citation_markers": [
+      "[64]"
+    ],
+    "raw_url": "https://www.ucl.ac.uk/news/2025/feb/glp-1-drug-shows-little-benefit-people-parkinsons-disease",
+    "normalized_url": "https://ucl.ac.uk/news/2025/feb/glp-1-drug-shows-little-benefit-people-parkinsons-disease",
+    "work_key": "https://ucl.ac.uk/news/2025/feb/glp-1-drug-shows-little-benefit-people-parkinsons-disease",
+    "title": "University College London. GLP-1 drug shows little benefit for people with Parkinson's disease.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:24.567473Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6fa7d61b3ed235cf",
+    "citation_markers": [
+      "[65]"
+    ],
+    "raw_url": "https://clinicaltrials.gov/study/NCT03659682",
+    "normalized_url": "https://clinicaltrials.gov/study/NCT03659682",
+    "work_key": "https://clinicaltrials.gov/study/NCT03659682",
+    "title": "ClinicalTrials.gov. GLP1R in Parkinson's Disease (GIPD, NCT03659682).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:28.717407Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2fd1e18176999408",
+    "citation_markers": [
+      "[66]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population",
+    "normalized_url": "https://researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population",
+    "work_key": "https://researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population",
+    "title": "ResearchGate. Wang W, Volkow ND, et al. Associations of semaglutide with incidence and recurrence of alcohol use disorder in real-world population (Nature Communications).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:23:48.879806Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f41ef5e8a1a73f81",
+    "citation_markers": [
+      "[67]"
+    ],
+    "raw_url": "https://insight.jci.org/articles/view/170671",
+    "normalized_url": "https://insight.jci.org/articles/view/170671",
+    "work_key": "https://insight.jci.org/articles/view/170671",
+    "title": "JCI Insight. Chuong V, et al. The glucagon-like peptide-1 analogue semaglutide reduces alcohol drinking and modulates central GABA neurotransmission.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:30.059378Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "50d835814c4454dd",
+    "citation_markers": [
+      "[68]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/38486046/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/38486046",
+    "work_key": "PMID:38486046",
+    "title": "PubMed. Wang W, Volkow ND, et al. Association of semaglutide with reduced incidence and relapse of cannabis use disorder in real-world populations (PMID 38486046).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:30.014944Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1bc321171c0407c4",
+    "citation_markers": [
+      "[69]"
+    ],
+    "raw_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=1383&context=nurs-capstones",
+    "normalized_url": "https://commons.und.edu/cgi/viewcontent.cgi?article=1383&context=nurs-capstones",
+    "work_key": "https://commons.und.edu/cgi/viewcontent.cgi?article=1383&context=nurs-capstones",
+    "title": "University of North Dakota Commons. GLP-1 Therapy and Substance Use Disorders.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:38.081765Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6c561648c6df0cc9",
+    "citation_markers": [
+      "[70]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort",
+    "normalized_url": "https://researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort",
+    "work_key": "https://researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort",
+    "title": "ResearchGate. Wang W, Volkow ND, et al. Association of semaglutide with risk of suicidal ideation in a real-world cohort (Nature Medicine).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:24:31.600271Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5dbffe44d666d222",
+    "citation_markers": [
+      "[71]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/40760781/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/40760781",
+    "work_key": "PMID:40760781",
+    "title": "PubMed. Semaglutide for Weight Management and Risk of Suicide-Related Outcomes (PMID 40760781).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:35.149192Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "94b1481e7270addb",
+    "citation_markers": [
+      "[72]"
+    ],
+    "raw_url": "https://www.hcplive.com/view/semaglutide-linked-to-suicidal-ideation-new-study-reveals",
+    "normalized_url": "https://hcplive.com/view/semaglutide-linked-to-suicidal-ideation-new-study-reveals",
+    "work_key": "https://hcplive.com/view/semaglutide-linked-to-suicidal-ideation-new-study-reveals",
+    "title": "HCPLive. Semaglutide Linked to Suicidal Ideation, New Study Reveals.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:37.097442Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "676e062603bdfbe5",
+    "citation_markers": [
+      "[73]"
+    ],
+    "raw_url": "https://www.ajmc.com/view/glp-1-drugs-tackle-both-skin-inflammation-and-metabolism-in-psoriasis",
+    "normalized_url": "https://ajmc.com/view/glp-1-drugs-tackle-both-skin-inflammation-and-metabolism-in-psoriasis",
+    "work_key": "https://ajmc.com/view/glp-1-drugs-tackle-both-skin-inflammation-and-metabolism-in-psoriasis",
+    "title": "American Journal of Managed Care. GLP-1 Drugs Tackle Both Skin Inflammation and Metabolism in Psoriasis.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:38.627722Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5d7ebb1643a0c2c8",
+    "citation_markers": [
+      "[74]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/41832804/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/41832804",
+    "work_key": "PMID:41832804",
+    "title": "PubMed. Semaglutide in patients with hidradenitis suppurativa and obesity (Med Clin [Barc], PMID 41832804).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:38.862779Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f92f776a7970beb7",
+    "citation_markers": [
+      "[75]"
+    ],
+    "raw_url": "https://www.ijord.com/index.php/ijord/article/view/2239",
+    "normalized_url": "https://ijord.com/index.php/ijord/article/view/2239",
+    "work_key": "https://ijord.com/index.php/ijord/article/view/2239",
+    "title": "International Journal of Research in Dermatology. GLP-1 Receptor Agonists in Hidradenitis Suppurativa: Retrospective Cohort Study.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:39.715052Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2255bf34e08d3f6d",
+    "citation_markers": [
+      "[76]"
+    ],
+    "raw_url": "https://www.news-medical.net/health/How-GLP-1-Drugs-May-Help-Psoriasis-and-Hidradenitis-Suppurativa.aspx",
+    "normalized_url": "https://news-medical.net/health/How-GLP-1-Drugs-May-Help-Psoriasis-and-Hidradenitis-Suppurativa.aspx",
+    "work_key": "https://news-medical.net/health/How-GLP-1-Drugs-May-Help-Psoriasis-and-Hidradenitis-Suppurativa.aspx",
+    "title": "News-Medical. How GLP-1 Drugs May Help Psoriasis and Hidradenitis Suppurativa.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:39.282259Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bc87b595fa04d0f2",
+    "citation_markers": [
+      "[77]"
+    ],
+    "raw_url": "https://www.hcplive.com/view/semaglutide-cuts-asthma-attacks-by-up-to-40-real-world-study",
+    "normalized_url": "https://hcplive.com/view/semaglutide-cuts-asthma-attacks-by-up-to-40-real-world-study",
+    "work_key": "https://hcplive.com/view/semaglutide-cuts-asthma-attacks-by-up-to-40-real-world-study",
+    "title": "HCPLive. Semaglutide Cuts Asthma Attacks by up to 40% in Real-World Study (ERS Congress 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:41.103061Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7f813a7301265048",
+    "citation_markers": [
+      "[78]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302747/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12302747",
+    "work_key": "PMC:PMC12302747",
+    "title": "PubMed Central. Mendelian Randomization Analysis of Genetically Proxied GLP-1RAs in COPD and Asthma (PMC12302747).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:40.830922Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f68eaa90cb04c3d7",
+    "citation_markers": [
+      "[79]"
+    ],
+    "raw_url": "https://esmed.org/tirzepatide-and-semaglutide-impact-on-sleep-apnea-and-obesity/",
+    "normalized_url": "https://esmed.org/tirzepatide-and-semaglutide-impact-on-sleep-apnea-and-obesity",
+    "work_key": "https://esmed.org/tirzepatide-and-semaglutide-impact-on-sleep-apnea-and-obesity",
+    "title": "ESMED. Tirzepatide and Semaglutide Impact on Sleep Apnea and Obesity.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:42.155705Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4446ac42a584a98a",
+    "citation_markers": [
+      "[80]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/39476339/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/39476339",
+    "work_key": "PMID:39476339",
+    "title": "PubMed. Bliddal H, et al. Once-Weekly Semaglutide in Persons with Obesity and Knee Osteoarthritis (STEP 9, PMID 39476339).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:41.633723Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6e445c1a9bc447af",
+    "citation_markers": [
+      "[81]"
+    ],
+    "raw_url": "https://www.rxfiles.ca/rxfiles/uploads/documents/ts-semaglutide-for-OA-STEP-9-2024.pdf",
+    "normalized_url": "https://rxfiles.ca/rxfiles/uploads/documents/ts-semaglutide-for-OA-STEP-9-2024.pdf",
+    "work_key": "https://rxfiles.ca/rxfiles/uploads/documents/ts-semaglutide-for-OA-STEP-9-2024.pdf",
+    "title": "RxFiles. Semaglutide for Knee Osteoarthritis: STEP 9 Trial Summary.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:45.495839Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ecd5db75c8c476b5",
+    "citation_markers": [
+      "[82]"
+    ],
+    "raw_url": "https://www.springermedizin.de/cardiovascular-metabolic-and-safety-outcomes-with-semaglutide-by/50193014",
+    "normalized_url": "https://springermedizin.de/cardiovascular-metabolic-and-safety-outcomes-with-semaglutide-by/50193014",
+    "work_key": "https://springermedizin.de/cardiovascular-metabolic-and-safety-outcomes-with-semaglutide-by/50193014",
+    "title": "SpringerMedizin. Cardiovascular, Metabolic, and Safety Outcomes with Semaglutide by Baseline Age: Post Hoc Analysis of SUSTAIN 6 and PIONEER 6.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:18:36.125093Z",
+    "error_message": "barreira de acesso (no_content): Please enable JavaScript to proceed. Enter the characters seen in the image below: Audio is currently unavailable. Pleas",
+    "barrier_kind": "no_content",
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1fb957376d77cb4d",
+    "citation_markers": [
+      "[83]"
+    ],
+    "raw_url": "https://diabetesonthenet.com/wp-content/uploads/DPC_23-4_103-104.pdf",
+    "normalized_url": "https://diabetesonthenet.com/wp-content/uploads/DPC_23-4_103-104.pdf",
+    "work_key": "https://diabetesonthenet.com/wp-content/uploads/DPC_23-4_103-104.pdf",
+    "title": "DiabetesontheNet. GLP-1 receptor agonists and diabetic retinopathy.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:46.886108Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5370839a6a69415e",
+    "citation_markers": [
+      "[84]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study",
+    "normalized_url": "https://researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study",
+    "work_key": "https://researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study",
+    "title": "ResearchGate. Semaglutide and diabetic retinopathy: an OHDSI network study (BMJ Open Diabetes Research & Care).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:25:11.688958Z",
+    "error_message": "Rate limit persistente em https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "66e90c501310f185",
+    "citation_markers": [
+      "[85]"
+    ],
+    "raw_url": "https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/focus-semaglutide-effect-on-diabetic-retinopathy/",
+    "normalized_url": "https://hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/focus-semaglutide-effect-on-diabetic-retinopathy",
+    "work_key": "https://hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/focus-semaglutide-effect-on-diabetic-retinopathy",
+    "title": "UK Health Research Authority. FOCUS - semaglutide effect on diabetic retinopathy.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:51.679812Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "da958b89c97e4ea3",
+    "citation_markers": [
+      "[86]"
+    ],
+    "raw_url": "https://www.who.int/news/item/27-06-2025-27-06-2025-semaglutide-medicines-naion",
+    "normalized_url": "https://who.int/news/item/27-06-2025-27-06-2025-semaglutide-medicines-naion",
+    "work_key": "https://who.int/news/item/27-06-2025-27-06-2025-semaglutide-medicines-naion",
+    "title": "World Health Organization. The use of semaglutide medicines and risk of non-arteritic anterior ischemic optic neuropathy (NAION).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:52.320302Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7743f97bc668e222",
+    "citation_markers": [
+      "[87]"
+    ],
+    "raw_url": "https://www.drugdiscoverytrends.com/fdas-glp-1-vision-warning-rests-on-mixed-evidence/",
+    "normalized_url": "https://drugdiscoverytrends.com/fdas-glp-1-vision-warning-rests-on-mixed-evidence",
+    "work_key": "https://drugdiscoverytrends.com/fdas-glp-1-vision-warning-rests-on-mixed-evidence",
+    "title": "Drug Discovery Trends. FDA's GLP-1 vision warning rests on mixed evidence.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:53.536918Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5b0f1e852ef87355",
+    "citation_markers": [
+      "[88]"
+    ],
+    "raw_url": "https://www.neurologylive.com/view/fda-requires-naion-warning-across-glp-1-receptor-agonist-class",
+    "normalized_url": "https://neurologylive.com/view/fda-requires-naion-warning-across-glp-1-receptor-agonist-class",
+    "work_key": "https://neurologylive.com/view/fda-requires-naion-warning-across-glp-1-receptor-agonist-class",
+    "title": "NeurologyLive. FDA Requires NAION Warning Across GLP-1 Receptor Agonist Class.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:16:54.870912Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f5df628e737a2d15",
+    "citation_markers": [
+      "[89]"
+    ],
+    "raw_url": "https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/",
+    "normalized_url": "https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis",
+    "work_key": "https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis",
+    "title": "University of British Columbia News. First epidemiological study links popular weight-loss drugs to stomach paralysis, other serious gastrointestinal conditions.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:18:47.819558Z",
+    "error_message": "Referencia nao encontrada (404): https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e09c651a3d601d85",
+    "citation_markers": [
+      "[90]"
+    ],
+    "raw_url": "https://www.ifso.com/pdf/teresa-la-masters-new.pdf",
+    "normalized_url": "https://ifso.com/pdf/teresa-la-masters-new.pdf",
+    "work_key": "https://ifso.com/pdf/teresa-la-masters-new.pdf",
+    "title": "IFSO. Perioperative Management of Patients on GLP-1 Receptor Agonists.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:17:11.321441Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f86c9a9e82d05b1e",
+    "citation_markers": [
+      "[91]"
+    ],
+    "raw_url": "https://www.medaptly.com/news/surgery/perioperative-glp-1-management-aspiration-2026/",
+    "normalized_url": "https://medaptly.com/news/surgery/perioperative-glp-1-management-aspiration-2026",
+    "work_key": "https://medaptly.com/news/surgery/perioperative-glp-1-management-aspiration-2026",
+    "title": "MedAptly. Perioperative GLP-1 Management and Aspiration Risk (2026 Review).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:17:15.271732Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "263fd91db8dc0a7d",
+    "citation_markers": [
+      "[92]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/38683947/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/38683947",
+    "work_key": "PMID:38683947",
+    "title": "PubMed. Pasternak B, et al. Glucagon-like peptide 1 receptor agonist use and risk of thyroid cancer: Scandinavian cohort study (PMID 38683947).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:17:15.965051Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d1306dd781a9c686",
+    "citation_markers": [
+      "[93]"
+    ],
+    "raw_url": "https://www.mdpi.com/2076-3271/13/4/265",
+    "normalized_url": "https://mdpi.com/2076-3271/13/4/265",
+    "work_key": "https://mdpi.com/2076-3271/13/4/265",
+    "title": "MDPI. Comprehensive Review of Semaglutide Pharmacology and Clinical Applications.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:17:25.345532Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ad09636e759bab54",
+    "citation_markers": [
+      "[94]"
+    ],
+    "raw_url": "https://diabetesonthenet.com/diabetes-primary-care/distilled-surpass-cvot/",
+    "normalized_url": "https://diabetesonthenet.com/diabetes-primary-care/distilled-surpass-cvot",
+    "work_key": "https://diabetesonthenet.com/diabetes-primary-care/distilled-surpass-cvot",
+    "title": "DiabetesontheNet. Diabetes Distilled: SURPASS-CVOT – Tirzepatide demonstrates cardiovascular benefit in secondary prevention.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:17:28.180755Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a1627fec06addcba",
+    "citation_markers": [
+      "[95]"
+    ],
+    "raw_url": "https://esmed.org/glp-1-and-incretin-agonists-in-obstructive-sleep-apnea/",
+    "normalized_url": "https://esmed.org/glp-1-and-incretin-agonists-in-obstructive-sleep-apnea",
+    "work_key": "https://esmed.org/glp-1-and-incretin-agonists-in-obstructive-sleep-apnea",
+    "title": "ESMED. GLP-1 and Incretin Agonists in Obstructive Sleep Apnea (citing STEP 1 Extension).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:17:29.355144Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "299fb9e115e5393e",
+    "citation_markers": [
+      "[96]"
+    ],
+    "raw_url": "https://asa.org.au/wp-content/uploads/2024/10/ASA-FS1-Perioperative-Management-of-Patients-on-GLP-1-Receptor-Agonists-GLP-1-RAs.pdf",
+    "normalized_url": "https://asa.org.au/wp-content/uploads/2024/10/ASA-FS1-Perioperative-Management-of-Patients-on-GLP-1-Receptor-Agonists-GLP-1-RAs.pdf",
+    "work_key": "https://asa.org.au/wp-content/uploads/2024/10/ASA-FS1-Perioperative-Management-of-Patients-on-GLP-1-Receptor-Agonists-GLP-1-RAs.pdf",
+    "title": "Australian Society of Anaesthetists. Perioperative Management of Patients on GLP-1 Receptor Agonists (citing STEP 4).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T03:17:31.029199Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_82a2bfa61988_20261117T031256Z",
+    "tool_name": "Gemini"
+  }
+]

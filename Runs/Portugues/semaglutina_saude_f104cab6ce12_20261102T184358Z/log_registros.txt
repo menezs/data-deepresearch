@@ -1,0 +1,136 @@
+2026-11-02 14:43:58,182 INFO     auditframework.cli: Iniciando run semaglutina_saude_f104cab6ce12_20261102T184358Z para answers/Gemini/Emergente/semaglutina_saude.docx (ferramenta=Gemini)
+2026-11-02 14:44:07,602 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-02 14:44:07,602 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-02 14:44:09,613 INFO     auditframework.terminal: Loading weights: 100%|███████████████████████████████████████████████████████████████████████████| 391/391 [00:00<00:00, 12627.61it/s]
+2026-11-02 14:44:20,158 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-02 14:44:20,167 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-02 14:44:20,280 INFO     auditframework.extraction.reference_extractor: numero(s) [1] da lista secundaria de fontes descartado(s): https://www.acc.org/latest-in-cardiology/clinical-trials/2023/11/09/15/04/select ja esta listada como [1]
+2026-11-02 14:44:20,282 INFO     auditframework.extraction.reference_extractor: numero(s) [3] da lista secundaria de fontes descartado(s): https://pubmed.ncbi.nlm.nih.gov/39181597/ ja esta listada como [4]
+2026-11-02 14:44:20,284 INFO     auditframework.extraction.reference_extractor: numero(s) [4] da lista secundaria de fontes descartado(s): https://sciencehub.novonordisk.com/scientific-publications/articles/original-article.NN19a58b3e511.semaglutide-and-cardiovascular-outcomes-by.html ja esta listada como [5]
+2026-11-02 14:44:20,284 INFO     auditframework.extraction.reference_extractor: numero(s) [5] da lista secundaria de fontes descartado(s): https://www.news-medical.net/news/20251026/Semaglutide-protects-the-heart-beyond-weight-loss-SELECT-trial-shows.aspx ja esta listada como [6]
+2026-11-02 14:44:20,285 INFO     auditframework.extraction.reference_extractor: numero(s) [6] da lista secundaria de fontes descartado(s): https://www.cardionerds.com/cardsjc-semaglutide-and-cardiovascular-outcomes-in-obesity-without-diabetes-select-trial/ ja esta listada como [2]
+2026-11-02 14:44:20,286 INFO     auditframework.extraction.reference_extractor: numero(s) [7] da lista secundaria de fontes descartado(s): https://www.news-medical.net/news/20251026/Semaglutide-protects-the-heart-beyond-weight-loss-SELECT-trial-shows.aspx ja esta listada como [6]
+2026-11-02 14:44:20,287 INFO     auditframework.extraction.reference_extractor: numero(s) [8] da lista secundaria de fontes descartado(s): https://franquia.sergios.com.br/select-trial-semaglutide-cv-outcomes-pro/ ja esta listada como [3]
+2026-11-02 14:44:20,288 INFO     auditframework.extraction.reference_extractor: numero(s) [9] da lista secundaria de fontes descartado(s): https://www.acc.org/latest-in-cardiology/clinical-trials/2024/05/29/17/23/flow ja esta listada como [7]
+2026-11-02 14:44:20,288 INFO     auditframework.extraction.reference_extractor: numero(s) [10] da lista secundaria de fontes descartado(s): https://pubmed.ncbi.nlm.nih.gov/38785209/ ja esta listada como [10]
+2026-11-02 14:44:20,289 INFO     auditframework.extraction.reference_extractor: numero(s) [11] da lista secundaria de fontes descartado(s): https://www.theisn.org/in-action/research/clinical-trials-isn-act-archive/the-flow-study-effects-of-semaglutide-on-chronic-kidney-disease-in-patients-with-type-2-diabetes/ ja esta listada como [11]
+2026-11-02 14:44:20,290 INFO     auditframework.extraction.reference_extractor: numero(s) [12] da lista secundaria de fontes descartado(s): https://franquia.sergios.com.br/flow-trial-semaglutide-chronic-kidney-disease-line/ ja esta listada como [9]
+2026-11-02 14:44:20,291 INFO     auditframework.extraction.reference_extractor: numero(s) [14] da lista secundaria de fontes descartado(s): https://gi.org/journals-publications/ebgi/kwo_sep2025/ ja esta listada como [12]
+2026-11-02 14:44:20,292 INFO     auditframework.extraction.reference_extractor: numero(s) [15] da lista secundaria de fontes descartado(s): https://pace-cme.org/news/phase-3-trial-results-of-semaglutide-in-mash-with-liver-fibrosis/2475390/ ja esta listada como [13]
+2026-11-02 14:44:20,292 INFO     auditframework.extraction.reference_extractor: numero(s) [16] da lista secundaria de fontes descartado(s): https://www.springermedicine.com/metabolic-dysfunction-associated-steatohepatitis/semaglutide/essence-trial-reduces-liver-fibrosis-steatohepatitis-mash/50971388 ja esta listada como [16]
+2026-11-02 14:44:20,293 INFO     auditframework.extraction.reference_extractor: numero(s) [17] da lista secundaria de fontes descartado(s): https://pandapeptide.ca/peptide-blog/semaglutide-and-alzheimers/ ja esta listada como [17]
+2026-11-02 14:44:20,294 INFO     auditframework.extraction.reference_extractor: numero(s) [18] da lista secundaria de fontes descartado(s): https://pubmed.ncbi.nlm.nih.gov/41522368/ ja esta listada como [18]
+2026-11-02 14:44:20,295 INFO     auditframework.extraction.reference_extractor: numero(s) [19] da lista secundaria de fontes descartado(s): https://www.researchgate.net/publication/387830143_evoke_and_evoke_design_of_two_large-scale_double-blind_placebo-controlled_phase_3_studies_evaluating_efficacy_safety_and_tolerability_of_semaglutide_in_early-stage_symptomatic_Alzheimer's_disease ja esta listada como [19]
+2026-11-02 14:44:20,295 INFO     auditframework.extraction.reference_extractor: numero(s) [20] da lista secundaria de fontes descartado(s): https://www.neurology.org/doi/10.1212/WNL.0000000000216975 ja esta listada como [20]
+2026-11-02 14:44:20,296 INFO     auditframework.extraction.reference_extractor: numero(s) [21] da lista secundaria de fontes descartado(s): https://www.alz.org/news/2025/alzheimers-association-statement-oral-semaglutide-phase-3-topline-data-release ja esta listada como [21]
+2026-11-02 14:44:20,297 INFO     auditframework.extraction.reference_extractor: numero(s) [22] da lista secundaria de fontes descartado(s): https://neurologytoday.aan.com/doi/10.1212/breakingnews.1444 ja esta listada como [22]
+2026-11-02 14:44:20,298 INFO     auditframework.extraction.reference_extractor: numero(s) [23] da lista secundaria de fontes descartado(s): https://pubmed.ncbi.nlm.nih.gov/38598572/ ja esta listada como [23]
+2026-11-02 14:44:20,298 INFO     auditframework.extraction.reference_extractor: numero(s) [24] da lista secundaria de fontes descartado(s): https://www.parkinsons.org.uk/news/2024/results-phase-2-trial-lixisenatide-have-been-published ja esta listada como [26]
+2026-11-02 14:44:20,299 INFO     auditframework.extraction.reference_extractor: numero(s) [25] da lista secundaria de fontes descartado(s): https://www.ovid.com/journals/nejm/pdf/10.1056/nejmoa2312323~trial-of-lixisenatide-in-early-parkinsons-disease ja esta listada como [24]
+2026-11-02 14:44:20,300 INFO     auditframework.extraction.reference_extractor: numero(s) [26] da lista secundaria de fontes descartado(s): https://www.michaeljfox.org/news/results-parkinsons-trial-diabetes-drug-lixisenatide-published ja esta listada como [25]
+2026-11-02 14:44:20,301 INFO     auditframework.extraction.reference_extractor: numero(s) [27] da lista secundaria de fontes descartado(s): https://www.prnewswire.com/news-releases/essence-phase-3-trial-results-demonstrating-statistically-significant-and-superior-improvements-with-semaglutide-2-4-mg-in-people-with-mash-presented-at-aasld-2024--the-liver-meeting-302310474.html ja esta listada como [15]
+2026-11-02 14:44:20,302 INFO     auditframework.extraction.reference_extractor: numero(s) [28] da lista secundaria de fontes descartado(s): https://www.biochempeg.com/article/416.html ja esta listada como [14]
+2026-11-02 14:44:20,303 WARNING  auditframework.extraction.reference_extractor: marcador(es) [2] de https://pubmed.ncbi.nlm.nih.gov/37952131/ ja pertencem a outra referencia da lista (numeracao repetida em duas listas de fontes) — mantida a primeira ocorrencia
+2026-11-02 14:44:20,304 WARNING  auditframework.extraction.reference_extractor: marcador(es) [13] de https://www.ovid.com/journals/nejm/fulltext/10.1056/nejmc2410532~semaglutide-for-chronic-kidney-disease-in-type-2-diabetes ja pertencem a outra referencia da lista (numeracao repetida em duas listas de fontes) — mantida a primeira ocorrencia
+2026-11-02 14:44:20,306 INFO     auditframework.pipeline: Extraidas 28 referencias de answers/Gemini/Emergente/semaglutina_saude.docx (0 descartadas como artefato do exportador)
+2026-11-02 14:44:20,314 INFO     auditframework.pipeline: Resposta dividida em 55 trechos citados
+2026-11-02 14:44:20,320 INFO     auditframework.terminal: ✓ extraction concluído em 0.2s
+2026-11-02 14:44:20,320 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-02 14:44:20,322 INFO     auditframework.ingestion.service: Ingestao: 28 referencias, 0 ja baixadas, 0 ja bloqueadas, 28 pendentes
+2026-11-02 14:44:21,254 ERROR    trafilatura.utils: lxml parsing failed: Document is empty
+2026-11-02 14:44:21,260 ERROR    trafilatura.utils: lxml parser bytestring Document is empty
+2026-11-02 14:44:21,261 ERROR    trafilatura.core: empty HTML tree: None
+2026-11-02 14:44:21,262 WARNING  trafilatura.core: discarding data: None
+2026-11-02 14:44:23,614 ERROR    trafilatura.utils: lxml parsing failed: Document is empty
+2026-11-02 14:44:23,615 ERROR    trafilatura.utils: lxml parser bytestring Document is empty
+2026-11-02 14:44:23,616 ERROR    trafilatura.core: empty HTML tree: None
+2026-11-02 14:44:23,616 WARNING  trafilatura.core: discarding data: None
+2026-11-02 14:44:26,413 WARNING  trafilatura.core: discarding data: None
+2026-11-02 14:44:26,414 WARNING  auditframework.ingestion.service: Falha ao converter https://franquia.sergios.com.br/select-trial-semaglutide-cv-outcomes-pro/: trafilatura nao conseguiu extrair conteudo principal do HTML
+2026-11-02 14:44:27,960 WARNING  trafilatura.core: discarding data: None
+2026-11-02 14:44:27,961 WARNING  auditframework.ingestion.service: Falha ao converter https://franquia.sergios.com.br/flow-trial-semaglutide-chronic-kidney-disease-line/: trafilatura nao conseguiu extrair conteudo principal do HTML
+2026-11-02 14:44:30,302 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.neurology.org/doi/10.1212/WNL.0000000000216975
+2026-11-02 14:44:30,407 WARNING  auditframework.ingestion.service: Barreira de acesso (no_content) em https://www.springermedicine.com/metabolic-dysfunction-associated-steatohepatitis/semaglutide/essence-trial-reduces-liver-fibrosis-steatohepatitis-mash/50971388
+2026-11-02 14:44:30,427 WARNING  trafilatura.core: discarding data: None
+2026-11-02 14:44:30,428 WARNING  auditframework.ingestion.service: Falha ao converter https://www.researchgate.net/publication/387830143_evoke_and_evoke_design_of_two_large-scale_double-blind_placebo-controlled_phase_3_studies_evaluating_efficacy_safety_and_tolerability_of_semaglutide_in_early-stage_symptomatic_Alzheimer's_disease: trafilatura nao conseguiu extrair conteudo principal do HTML
+2026-11-02 14:44:31,887 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://neurologytoday.aan.com/doi/10.1212/breakingnews.1444
+2026-11-02 14:44:32,688 INFO     auditframework.terminal: Baixando referências: 100%|██████████████████████████████████████████████████████████████████████████| 28/28 [00:12<00:00,  2.27ref/s]
+2026-11-02 14:44:32,690 INFO     auditframework.pipeline: Ingestao concluida: 22 documentos disponiveis
+2026-11-02 14:44:32,691 INFO     auditframework.terminal: ✓ ingestion concluído em 10.9s
+2026-11-02 14:44:32,692 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-02 14:44:33,003 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|████████████████████████████████████████████████████████████████| 22/22 [00:00<00:00, 72.18doc/s]
+2026-11-02 14:44:33,004 INFO     auditframework.indexing.service: Gerando embeddings para 124 chunks de 22 documentos
+2026-11-02 14:44:38,537 INFO     auditframework.terminal: Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 8/8 [00:05<00:00,  1.45it/s]
+2026-11-02 14:44:38,555 INFO     auditframework.pipeline: Indice construido a partir de 22 documentos
+2026-11-02 14:44:38,556 INFO     auditframework.terminal: ✓ indexing concluído em 5.9s
+2026-11-02 14:44:38,557 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-02 14:44:38,563 INFO     auditframework.pipeline: Julgamento: 55 chunks, 0 ja julgados, 0 ja pulados, 55 pendentes
+2026-11-02 14:44:39,356 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-02 14:44:39,823 INFO     auditframework.terminal: Recuperando contexto:   0%|                                                                                 | 0/55 [00:00<?, ?chunk/s]
+2026-11-02 14:44:39,928 INFO     auditframework.terminal: Loading weights:   0%|                                                                                        | 0/393 [00:00<?, ?it/s]
+2026-11-02 14:44:40,032 INFO     auditframework.terminal: Loading weights:  32%|████████████████████████▏                                                   | 125/393 [00:00<00:00, 1235.94it/s]
+2026-11-02 14:44:40,129 INFO     auditframework.terminal: Loading weights:  63%|████████████████████████████████████████████████▏                           | 249/393 [00:00<00:00, 1230.90it/s]
+2026-11-02 14:44:40,134 INFO     auditframework.terminal: Loading weights: 100%|████████████████████████████████████████████████████████████████████████████| 393/393 [00:00<00:00, 1281.28it/s]
+2026-11-02 14:45:02,805 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_f104cab6ce12_20261102T184358Z-38 nao sera auditado: Referencia(s) citada(s) ['d028cc9ae1f893dd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 14:45:02,808 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_f104cab6ce12_20261102T184358Z-39 nao sera auditado: Referencia(s) citada(s) ['d028cc9ae1f893dd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 14:45:02,810 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_f104cab6ce12_20261102T184358Z-40 nao sera auditado: Referencia(s) citada(s) ['d028cc9ae1f893dd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 14:45:03,288 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_f104cab6ce12_20261102T184358Z-43 nao sera auditado: Referencia(s) citada(s) ['d028cc9ae1f893dd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 14:45:06,486 INFO     auditframework.terminal: Recuperando contexto: 100%|████████████████████████████████████████████████████████████████████████| 55/55 [00:27<00:00,  1.97chunk/s]
+2026-11-02 14:53:22,075 WARNING  auditframework.pipeline: Chunk semaglutina_saude_f104cab6ce12_20261102T184358Z-38 nao auditado: Referencia(s) citada(s) ['d028cc9ae1f893dd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 14:53:22,081 WARNING  auditframework.pipeline: Chunk semaglutina_saude_f104cab6ce12_20261102T184358Z-39 nao auditado: Referencia(s) citada(s) ['d028cc9ae1f893dd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 14:53:22,082 WARNING  auditframework.pipeline: Chunk semaglutina_saude_f104cab6ce12_20261102T184358Z-40 nao auditado: Referencia(s) citada(s) ['d028cc9ae1f893dd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 14:53:48,034 WARNING  auditframework.pipeline: Chunk semaglutina_saude_f104cab6ce12_20261102T184358Z-43 nao auditado: Referencia(s) citada(s) ['d028cc9ae1f893dd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-02 14:56:59,568 INFO     auditframework.terminal: Julgando chunks: 100%|█████████████████████████████████████████████████████████████████████████████| 55/55 [11:53<00:00, 12.97s/chunk]
+2026-11-02 14:56:59,569 INFO     auditframework.terminal: ✓ judging concluído em 709.7s
+2026-11-02 14:56:59,578 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-02 14:56:59,583 INFO     auditframework.pipeline: Relatorio gerado em data/runs/semaglutina_saude_f104cab6ce12_20261102T184358Z/report.md
+2026-11-02 14:56:59,584 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-02 14:56:59,585 INFO     auditframework.cli: Run semaglutina_saude_f104cab6ce12_20261102T184358Z concluida
+2026-11-02 14:56:59,585 INFO     auditframework.terminal: Relatorio gerado em data/runs/semaglutina_saude_f104cab6ce12_20261102T184358Z/report.md
+2026-11-03 23:48:16,275 INFO     auditframework.terminal: audit refetch semaglutina_saude_f104cab6ce12_20261102T184358Z
+2026-11-03 23:48:16,279 INFO     auditframework.ingestion.service: Ingestao: 28 referencias, 22 ja baixadas, 0 ja bloqueadas, 6 pendentes
+2026-11-03 23:48:16,968 ERROR    trafilatura.utils: lxml parsing failed: Document is empty
+2026-11-03 23:48:16,969 ERROR    trafilatura.utils: lxml parsing failed: Document is empty
+2026-11-03 23:48:16,971 ERROR    trafilatura.utils: lxml parser bytestring Document is empty
+2026-11-03 23:48:16,973 ERROR    trafilatura.utils: lxml parser bytestring Document is empty
+2026-11-03 23:48:16,973 ERROR    trafilatura.core: empty HTML tree: None
+2026-11-03 23:48:16,976 ERROR    trafilatura.core: empty HTML tree: None
+2026-11-03 23:48:16,977 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:48:16,978 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:48:20,472 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:48:20,473 WARNING  auditframework.ingestion.service: Falha ao converter https://franquia.sergios.com.br/flow-trial-semaglutide-chronic-kidney-disease-line/: trafilatura nao conseguiu extrair conteudo principal do HTML
+2026-11-03 23:48:20,478 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:48:20,479 WARNING  auditframework.ingestion.service: Falha ao converter https://franquia.sergios.com.br/select-trial-semaglutide-cv-outcomes-pro/: trafilatura nao conseguiu extrair conteudo principal do HTML
+2026-11-03 23:48:20,650 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:48:20,651 WARNING  auditframework.ingestion.service: Falha ao converter https://www.researchgate.net/publication/387830143_evoke_and_evoke_design_of_two_large-scale_double-blind_placebo-controlled_phase_3_studies_evaluating_efficacy_safety_and_tolerability_of_semaglutide_in_early-stage_symptomatic_Alzheimer's_disease: trafilatura nao conseguiu extrair conteudo principal do HTML
+2026-11-03 23:48:22,688 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.neurology.org/doi/10.1212/WNL.0000000000216975
+2026-11-03 23:48:23,350 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://neurologytoday.aan.com/doi/10.1212/breakingnews.1444
+2026-11-03 23:48:23,352 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 6/6 [00:07<00:00,  1.18s/ref]
+2026-11-03 23:48:23,354 INFO     auditframework.terminal: semaglutina_saude_f104cab6ce12_20261102T184358Z: 6 fonte(s) sem conteudo, 1 recuperada(s)
+2026-11-03 23:48:23,354 INFO     auditframework.terminal:   https://www.springermedicine.com/metabolic-dysfunction-associated-steatohepatitis/semaglutide/essence-trial-reduces-liver-fibrosis-steatohepatitis-mash/50971388 — downloaded
+2026-11-03 23:48:23,424 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para data/runs/semaglutina_saude_f104cab6ce12_20261102T184358Z/invalidado-20261104T034823Z
+2026-11-03 23:48:23,424 INFO     auditframework.terminal: 0 trecho(s) citado(s) para julgar de novo (os demais mantem o veredito)
+2026-11-03 23:48:23,424 INFO     auditframework.terminal: Rode: audit resume semaglutina_saude_f104cab6ce12_20261102T184358Z
+2026-11-03 23:48:23,928 INFO     __main__: Retomando run semaglutina_saude_f104cab6ce12_20261102T184358Z
+2026-11-03 23:48:30,123 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:48:30,122 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:48:32,408 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 9898.79it/s]
+2026-11-03 23:48:40,728 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-03 23:48:40,734 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-03 23:48:40,734 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-03 23:48:40,735 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-03 23:48:41,008 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 23/23 [00:00<00:00, 84.90doc/s]
+2026-11-03 23:48:41,009 INFO     auditframework.indexing.service: Gerando embeddings para 127 chunks de 23 documentos
+2026-11-03 23:48:46,481 INFO     auditframework.terminal: Batches: 100%|██████████| 8/8 [00:05<00:00,  1.46it/s]
+2026-11-03 23:48:46,492 INFO     auditframework.pipeline: Indice construido a partir de 23 documentos
+2026-11-03 23:48:46,493 INFO     auditframework.terminal: ✓ indexing concluído em 5.8s
+2026-11-03 23:48:46,494 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-03 23:48:46,497 INFO     auditframework.pipeline: Julgamento: 55 chunks, 51 ja julgados, 4 ja pulados, 0 pendentes
+2026-11-03 23:48:46,498 INFO     auditframework.terminal: Recuperando contexto: 0chunk [00:00, ?chunk/s]
+2026-11-03 23:48:46,499 INFO     auditframework.terminal: Julgando chunks: 0chunk [00:00, ?chunk/s]
+2026-11-03 23:48:46,499 INFO     auditframework.terminal: ✓ judging concluído em 0.0s
+2026-11-03 23:48:46,501 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-03 23:48:46,505 INFO     auditframework.pipeline: Relatorio gerado em data/runs/semaglutina_saude_f104cab6ce12_20261102T184358Z/report.md
+2026-11-03 23:48:46,506 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-03 23:48:46,507 INFO     __main__: Run semaglutina_saude_f104cab6ce12_20261102T184358Z concluida
+2026-11-03 23:48:46,508 INFO     auditframework.terminal: Relatorio gerado em data/runs/semaglutina_saude_f104cab6ce12_20261102T184358Z/report.md

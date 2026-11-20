@@ -1,0 +1,45 @@
+[referencia=71163b79b7c7859a score=0.987]
+Notably, the review also examined differences between dosing schedules. Greater protection against cervical cancer was observed when the vaccine was given at younger ages. Further, pooled evidence from randomized trials and observational studies suggests that a single dose of HPV vaccine provides protection comparable to two- and three-dose regimens for certain outcomes in females, including persistent infection and cervical pre-cancers, at least within five years of follow-up. Reducing the number of required doses could improve vaccination coverage and access.
+
+Evidence suggests that while additional doses generally produce higher antibody levels, a single dose was shown to generate strong and durable immune responses, maintaining high levels of protection against the most dangerous HPV types.
+
+Despite these findings, the authors note important gaps in the evidence base. Data on long-term protection from a single dose, effectiveness in males, and protection against non-cervical cancers remain limited and warrant further study.
+
+“As medical societies determine vaccine recommendations, this review provides the most up-to-date evaluation of the evidence supporting the safety and effectiveness of the HPV vaccine,” Center for Infectious Disease Research and Policy Research Director Dr. Angela Ulrich said. Ulrich led the Vaccine Integrity Project’s HPV vaccine evidence review. “The data show how important HPV vaccination is to prevent persistent HPV infections that lead to cancer. The review also contributes to the body of evidence supporting a one-dose regimen, while acknowledging where more data are still needed, especially about its long-term durability and effectiveness in preventing certain types of cancer, especially in men.”
+
+Overall, the review concludes that HPV vaccines continue to offer substantial public health benefits, with strong evidence supporting their role in preventing cancer and precancerous disease. The growing body of research on reduced-dose schedules may help inform future policy decisions aimed at expanding access and increasing vaccination coverage.
+
+**Media Contact:**
+
+Kevin Griffis
+
+Director of Media Relations and Public Affairs
+
+Center for Infectious Disease Research and Policy
+
+University of Minnesota
+
+kgriffis@umn.edu
+
+202-412-8377
+
+---
+
+[referencia=71163b79b7c7859a score=0.966]
+*Review supports strength of one-dose regimen to prevent certain cancers and pre-cancers in women.* 
+
+**FOR IMMEDIATE RELEASE**
+
+**May 5, 2026**
+
+MINNEAPOLIS, Minn. — The Vaccine Integrity Project’s comprehensive review of peer-reviewed evidence related to human papillomavirus (HPV) vaccines finds that they remain highly safe and effective in preventing cervical cancer, precancerous lesions, and persistent HPV infection, with emerging evidence supporting the potential effectiveness of a single-dose regimen for key outcomes in women.
+
+The systematic review and meta-analysis screened more than 5,000 abstracts and evaluated more than 120 studies published between 2024-26. The newer data and updated findings were integrated with 153 studies from two comprehensive 2025 Cochrane reviews, limiting the Cochrane studies to those only related to vaccines approved in the U.S. The data reviewed – dating more than 20 years – included randomized controlled trials, cohort studies, ecological studies, case-control studies, and immunogenicity analyses.
+
+The findings, from the Vaccine Integrity Project, an initiative of the University of Minnesota’s Center for Infectious Disease Research and Policy, reinforce decades of research demonstrating that HPV vaccination significantly reduces the risk of cervical cancer and other HPV-related diseases.
+
+HPV is the most common sexually transmitted infection globally and is responsible for most cervical and anal cancers, as well as a substantial share of other cancers affecting the throat and reproductive system, in both men and women. In the United States alone, HPV-related disease accounts for more than $9 billion annually in screening and treatment costs.
+
+The review found no credible evidence linking HPV vaccination to serious adverse events, including neurological conditions, adverse pregnancy outcomes, or other long-term health risks. These findings update and are consistent with prior large-scale reviews and continue to support a strong safety profile for HPV vaccines.
+
+In addition to confirming safety, the analysis found substantial and consistent reductions in cancer and pre-cancer outcomes among vaccinated individuals. Vaccination was associated with significantly lower rates of invasive cervical cancer and high-grade cervical lesions (a cancer precursor), as well as large reductions in persistent infection with high-risk HPV strains responsible for most cancers.

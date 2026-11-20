@@ -1,0 +1,374 @@
+[referencia=25676193afe5f7ab score=0.924]
+**Nonoverlapping Inference** To train on or evaluate a sequence longer than _L_ tokens, it is typical to segment the sequence into _L_ -length subsequences and train on or evaluate them independently. Unless otherwise stated, we use nonoverlapping inference to report perplexity scores. 
+
+**Extrapolation During Inference** Formally, the functions that define a transformer layer are agnostic to input length;<sup>3</sup> they map from some arbitrary, unfixed number of input vectors to the same number of output vectors. When transformers are applied to data that is inherently sequential, like text, positional information is injected into the inputs in various ways. Vaswani et al. (2017) discussed two options for embedding positions into vectors to be added to word embeddings: learning embeddings for specific positions and unlearned sinusoidal embeddings. They observed similar performance between these two but preferred the sinusoidal approach, which they argued might extrapolate to longer input sequences during inference. We find that this model cannot extrapolate to more than a few dozen tokens beyond _L_ .<sup>4</sup> 
+
+**Experiment Setup** We first test the extrapolation abilities of various position methods on the WikiText-103 corpus (Merity et al., 2016) using the transformer language model of Baevski & Auli (2018). We use this model because of its prominent role in recent language modeling developments (Khandelwal et al., 2020; Press et al., 2021). The training set is about 103 million tokens from English Wikipedia (half a gigabyte). The model has 16 transformer layers of dimension 1024, with 8 heads, and a feedforward inner dimension of 4096. This model ties the word embedding and softmax matrices (Press & Wolf, 2017; Inan et al., 2017). In our experiments, other than varying the position method and training subsequence length, we modify no other hyperparameters, including the random seed and number of training epochs (205).
+
+---
+
+[referencia=25676193afe5f7ab score=0.907]
+Figure 6: The ALiBi and sinusoidal models (with both _L_ = 512 and 1024) trained for 50k updates (1 epoch) on the CC100+RoBERTa corpus, extrapolating on the validation set. ALiBi achieves the best results at around 2 _L_ but maintains strong performance even up to 10000 tokens in these experiments. 
+
+Figure 6 shows that our models trained on _L_ = 512 and _L_ = 1024 achieve the best results when extrapolating to about double the tokens that they were trained on. Specifically, the _L_ = 512 model (that obtains 9.79 perplexity when _Lvalid_ = 512) achieves its best score (9.3) when extrapolating to 
+
+8 
+
+Published as a conference paper at ICLR 2022 
+
+1012 tokens, and the _L_ = 1024 model (that obtains 9.16 perplexity when _Lvalid_ = 1024) achieves its best score (8.9) when extrapolating to 2024 tokens. 
+
+One possible explanation is that the subsequences the model observes during training are up to _L_ tokens long. When performing inference on subsequences of length 2 _L_ , half of the subsequences the model consumes are as long as the examples seen during training. When inference is performed on subsequences of length 2 _L_ + 1 or longer, less than half of the predictions the model makes are on subsequences of lengths seen during training, and that might degrade performance. 
+
+The sinusoidal model cannot extrapolate at all in this setting, with its performance degrading for both the _L_ = 512 and 1024 models as soon as one token more than _L_ is added during evaluation. 
+
+In Appendix B, we find that ALiBi’s edge over sinusoidal embeddings is largely explained by its improved avoidance of the early token curse. We posit that future work building on ALiBi might achieve further gains by more efficiently exploiting longer histories.
+
+---
+
+[referencia=25676193afe5f7ab score=0.835]
+#### 2.2 MEASURING EXTRAPOLATION 
+
+**Sinusoidal Position Embeddings** Sinusoidal position embeddings (Vaswani et al., 2017; §3.5) are constant, non-learned vectors that are added to token embeddings on input to the first layer of the transformer. They are frequently used in transformer language modeling (Baevski & Auli, 2018; Lewis et al., 2021) and machine translation (Vaswani et al., 2017; Ott et al., 2018) models. We first consider the unmodified model of Baevski & Auli (2018), which uses sinusoidal position embeddings, and train it on _L_ = 512 tokens; we then run inference with it on the validation set on _L_ + _k_ tokens, with _k_ ranging from 0 to 15,000. Figure 1 (left) and the corresponding Table 2 (in the appendix) show that while the model improves perplexity up to _k_ = 20, performance stops improving and stays steady from _k_ = 20 to _k_ = 50 and then begins degrading. Similar results are obtained for a model trained with _L_ = 1024 tokens (Figure 1 (right) and Table 3 in the appendix). That model improves for up to _Lvalid_ = _L_ + 50 tokens, after which performance declines. 
+
+> 3These include the embedding lookup, feedforward sublayer, and softmax layer, which act independently on vector inputs, as well as the attention sublayers, whose parameters do not depend on input length (and which must handle variable-length inputs, e.g., due to causal masking). 
+
+> 4The learned positional embedding approach does not have a way to encode positions greater than _L_ ; it therefore has no ability to extrapolate. 
+
+3 
+
+Published as a conference paper at ICLR 2022 
+
+**Rotary Position Embeddings** The rotary method was introduced by Su et al. (2021) and has recently been popularized by the open source GPT-3 (Brown et al., 2020) implementation GPTJ (Wang & Komatsuzaki, 2021). Instead of adding sinusoidal embeddings at the bottom of the transformer, they multiply the keys and queries of every attention layer by sinusoidal embeddings.
+
+---
+
+[referencia=25676193afe5f7ab score=0.791]
+### 1 INTRODUCTION 
+
+When constructing a transformer-based language model, a major design decision is the length of training sequences, denoted _L_ herein, which has to date been equivalent to the length of inference sequences. More context, achieved by larger _L_ , improves predictions at inference time. But longer sequences are more expensive to train on.<sup>2</sup> 
+
+Before transformers, RNN language models were trained on shorter- _L_ sequences and assumed to generalize to longer contexts at inference time (Mikolov et al., 2010; Mikolov & Zweig, 2012; Zaremba et al., 2014). Vaswani et al. (2017), introducing the transformer, speculated that it “may [...] extrapolate to sequence lengths longer than the ones encountered during training.” We define _extrapolation_ as a model’s ability to continue performing well as the number of input tokens during validation increases beyond the number of tokens on which the the model was trained. We find that transformer language models (LMs) that use sinusoidal position embeddings have very weak extrapolation abilities; see Figure 1. 
+
+We demonstrate that this failure to extrapolate is caused by the position embedding method. As shown in Figure 1, recent alternatives to the original sinusoidal position method (Su et al., 2021; Raffel et al., 2020) have improved extrapolation. However, the better of these, the T5 bias, is considerably slower than the sinusoidal approach and uses extra memory and parameters (Figure 2). 
+
+We therefore introduce Attention with Linear Biases (ALiBi) to facilitate efficient extrapolation. ALiBi negatively biases attention scores with a linearly decreasing penalty proportional to the distance between the relevant key and query. Our simple approach eliminates position embeddings. 
+
+> 1Code & models: https://github.com/ofirpress/attention_with_linear_biases 
+
+> 2Figure 7 in the appendix plots training speed, in words per second, against _L_ . 
+
+1 
+
+Published as a conference paper at ICLR 2022 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=25676193afe5f7ab score=0.789]
+To our knowledge, extrapolation has not been previously explored in transformer language modeling, but it has been investigated previously and concurrently with transformers on other tasks, such as machine translation (Rosendahl et al., 2019; Neishi & Yoshinaga, 2019; Newman et al., 2020; Kiyono et al., 2021), sequence-to-sequence models trained on an artificial dataset (Hupkes et al., 2020), pretrained sequence-to-sequence models tested on arithmetic tasks (Nogueira et al., 2021, Appendix C), models trained with reinforcement learning (Lampinen et al., 2021), image, speech recognition, and machine translation models (Likhomanenko et al., 2021), and protein structure prediction (Jumper et al., 2021, Appendix 1.5). 
+
+### 6 CONCLUSION 
+
+We showed that the sinusoidal position embedding approach does not enable transformers to extrapolate to inputs longer than the ones they were trained on. We then established that extrapolation in transformers can be enabled by just changing the position method. We showed that our ALiBi method offers an extremely simple replacement for existing position approaches and allow models to extrapolate. In addition, when not extrapolating, our method achieves either better perplexity than the sinusoidal method (in models smaller than 1B parameters, trained on less data) or similar perplexity (in larger, billion parameter models trained on much more data). ALiBi is simple to implement and does not slow down runtime or require extra parameters (but does occasionally require a negligible amount of extra memory). Using our method, we sped up the training of a 1.3 billion parameter model evaluated on the same input sequence length as GPT-3 (2048). 
+
+9 
+
+Published as a conference paper at ICLR 2022 
+
+#### ACKNOWLEDGMENTS 
+
+We thank Tim Dettmers, Gabriel Ilharco, Jungo Kasai, Hao Peng, Sewon Min, Sofia Serrano, Sam Shleifer, Luke Zettlemoyer, Julian Michael, Nikolaos Pappas, Yizhong Wang, and the anonymous reviewers for their valuable feedback and fruitful discussions. 
+
+10 
+
+Published as a conference paper at ICLR 2022
+
+---
+
+[referencia=25676193afe5f7ab score=0.663]
+6 
+
+Published as a conference paper at ICLR 2022 
+
+Our second observation is that all of our models can extrapolate, and they obtain improved perplexity scores when handling more tokens than they observed during training. For example, our model trained on 512 tokens (which achieves 19.73 perplexity when evaluating subsequences of length 512 in the development set) achieves a perplexity score of 18.40 on the development set when extrapolating to subsequences of length 3072. Surprisingly, this surpasses the score that the _L_ = 3072 sinusoidal model obtains on the development set by a statistically significant margin. Note that all our models trained on _L_ = 512 to _L_ = 2048 outperform the sinusoidal baseline trained on _L_ = 3072 when extrapolating to _Lvalid_ = 3072 even though those models all take much less time to train since they train on shorter subsequences (Appendix Figure 8 compares training speed to perplexity for these models)! The _L_ = 512 model is 1.84 times faster to train and yet still outperforms the _L_ = 3072 sinusoidal model when extrapolating to _Lvalid_ = 3072. In addition, training the _L_ = 3072 sinusoidal model requires a GPU with more than 16 GB of memory to fit the large attention matrices, which our _L_ = 512 outperforms even though it can be trained on a GPU with much less memory due to much smaller attention matrices.
+
+---
+
+[referencia=25676193afe5f7ab score=0.628]
+|Position Method|Train Length|Spee<br>Train|d (_↑_)<br>Eval.|Memory (_↓_)|
+|---|---|---|---|---|
+||512|28.5k|82.1k|15.3 GB|
+|Sinusoidal|1024|26.0k|77.8k|19.2 GB|
+||3072|15.3k|42.4k|15.1 GB|
+||512|20.0k|43.4k|17.8 GB|
+|Rotary|1024|17.7k|39.4k|22.8 GB|
+||3072|11.5k|29.5k|17.8 GB|
+||512|14.4k|21.8k|16.9 GB|
+|T5 Bias|1024|13.0k|20.2k|20.9 GB|
+||3072|4.3k|4.9k|15.9 GB|
+||512|28.3k|85.8k|15.3 GB|
+|ALiBi|1024|25.8k|76.4k|19.3 GB|
+||3072|15.5k|42.2k|15.2 GB|
+
+
+
+Tables 2, 3, and 4 show the perplexity and runtime of models using the sinusoidal, rotary T5 bias, and ALiBi position methods when extrapolating to sequences longer than the ones they were trained on. The models used in these tables were trained on _L_ = 512 _,_ 1024 and 3072 tokens. 
+
+15 
+
+Published as a conference paper at ICLR 2022 
+
+Table 2: The sinusoidal, rotary, T5 bias and ALiBi models trained on _L_ = **512** on WikiText-103 and evaluated with different values of _Lvalid_ on the validation set. **Bold** shows the best score for each model. Inference speeds (in words per second) are from inference on a GPU with batch size of one.
+
+---
+
+[referencia=25676193afe5f7ab score=0.626]
+Additionally, Table 5 (in the appendix) also shows that, for _L_ s of 1024 and 3072, our method performs better than the rotary and T5 bias models even when _Lvalid_ = _L_ (i.e., no extrapolation is occurring). Figure 1 (and the corresponding Appendix Tables 2 and 3) more broadly explore our method vs. the other position methods. They show that the T5 bias (the best of the baselines) improves perplexity until _Lvalid_ is around 2 _L_ , but on the WikiText-103 dataset our method continually improves perplexity until at least around 3 _L_ , with the _L_ = 512 model improving perplexity even when _Lvalid_ exceeds 12k tokens. Even when unable to improve perplexity given longer sequences, ALiBi always maintains strong performance as more tokens are added. 
+
+Appendix Table 6 shows that our results on the validation set also transfer to the test set of WikiText103. Currently, almost all models that present results on WikiText-103 use sliding window evaluation (defined in §B) to compute perplexities. We apply that method to our (and to the sinusoidal, rotary and T5 bias) models in Appendix Table 7. We find that our L = 3072 model surpasses the performance of Transformer-XL (Dai et al., 2019), the Sandwich (Press et al., 2020), and Shortformer (Press et al., 2021) models. Our results are similar to the ones obtained with staged training (Press et al., 2021) but fall short of results obtained by Routing Transformer (Roy et al., 2020) and kNN-LM (Khandelwal et al., 2020). The methods used in those models are orthogonal to ours, and we hypothesize that combining them with ours might lead to even larger performance increases. 
+
+After developing our method on WikiText-103, in Appendix Section A.3, we run one set of experiments on a different domain (books) using a similar model architecture and without modifying any of the ALiBi hyperparameters (the slopes) and show that our results fully transfer to this new domain. Our models are able to both surpass the sinusoidal baseline when not extrapolating while also outperforming it when extrapolating to longer sequences.
+
+---
+
+[referencia=25676193afe5f7ab score=0.606]
+#### 4.1 RESULTS ON WIKITEXT-103 AND TORONTO BOOKCORPUS 
+
+
+
+<!-- Start of picture text -->
+AL B  Ex(rapola( ng on W k Tex(-103<br>21.0<br>AL B , L = 512<br>20.5<br>S nuso dal, L = 512<br>20.0 AL B , L = 1024<br>19.5 S nuso dal, L = 1024<br>19.0 AL B , L = 1536<br>18.5 S nuso dal, L = 1536<br>18.0 AL B , L = 2048<br>S nuso dal, L = 2048<br>17.5<br>AL B , L = 3072<br>17.0<br>512 1024 1536 2048 3072 S nuso dal, L = 3072<br>Validation Input Length (Lvalid)<br> (←←<br>Perplexi(y<br><!-- End of picture text -->
+
+Figure 4: ALiBi models trained and evaluated on varying sequence lengths on the WikiText-103 validation set and the sinusoidal baseline (not evaluated on longer sequences). All of our models outperform the sinusoidal ones even when trained on fewer tokens. Appendix Table 5 has exact perplexities, more ALiBi models (trained on fewer tokens), and results for rotary and T5 bias models. 
+
+We first develop our method on the WikiText-103 corpus (Merity et al., 2016), replacing the sinusoidal position embeddings in the language model of Baevski & Auli (2018) with ALiBi. 
+
+Figure 4 (and the corresponding Appendix Table 5) show our results for models trained with varying numbers of input subsequence tokens ( _L_ ), extrapolating to longer subsequence lengths on the validation dataset. Our first observation is that, without extrapolation, for every _L_ , our models outperform those using the sinusoidal method, sometimes by a significant amount. For example, the Baevski & Auli model achieves 18.67 _±_ 0.24 (std. dev.) perplexity when trained with _L_ = 3072 input tokens, but our _L_ = 3072 model achieves 17.60 perplexity (when both models evaluate with _Lvalid_ = 3072). 
+
+6
+
+---
+
+[referencia=25676193afe5f7ab score=0.597]
+Figure 9: ALiBi-enabled models evaluated on different input lengths on the Toronto BookCorpus. Our models extrapolate to longer sequence lengths and outperform the sinusoidal baseline even when trained on much shorter sequences. 
+
+addition, our model is able to extrapolate to longer sequences at inference. This occurs even though our set of slopes was _not_ tuned on this dataset. This result establishes the generality of ALiBi and the particular set of slopes we found and suggests that they may be used on different text domains without further hyperparameter tuning. 
+
+Tables 9 and 10 present the perplexities for our ALiBi models, the baselines, and the current state of the art on the Toronto BookCorpus validation and test sets. Our results here mirror our results on WikiText-103: we improve over the sinusoidal baseline even when AliBi is trained on fewer tokens. 
+
+Table 8: ALiBi models extrapolating on the Toronto BookCorpus development set.<sup>_∗_</sup> For the results of the sinusoidal models, _L_ = _Lvalid_ (so we do not test the extrapolation abilities of those models here). 
+
+||Evalu|ation Le|ngth|
+|---|---|---|---|
+|Train Length|512|1024|3072|
+|512|14.29|13.64|13.55|
+|1024|-|13.86|13.52|
+|3072|-|-|13.15|
+|Sinusoidal<sup>_∗_</sup>|14.80|14.73|14.46|
+
+
+
+Table 9: Validation and test perplexities on the Toronto Book Corpus dataset. 
+
+|Model|Param. _↓_|Valid_↓_|Test_↓_|
+|---|---|---|---|
+|Sinusoidal, L = 3072|**247M**|14.46|11.67|
+|iBi<br>_Ltrain_= 512,_Lvalid_ = 3072|**247M**|13.55|10.98|
+|AL<br>_Ltrain_= 3072,_Lvalid_= 3072|**247M**|**13.15**|**10.73**|
+
+---
+
+[referencia=25676193afe5f7ab score=0.586]
+In Figure 5 (right), results become even more impressive, showing that our model trained on _L_ = 1024 outperforms by 0.09 perplexity the sinusoidal model trained on _L_ = 2048 (when evaluating with _Lvalid_ = 2048) even though our model uses 3.1 GB less memory. Our model maintains a lead in perplexity over the sinusoidal model during the entire training process. By sampling five evenly distributed points across the training process, we compute that our _L_ = 1024 model reaches a given perplexity value, on average, 11% faster than the sinusoidal model does. 
+
+Since our models in these comparisons use much less memory, they allow for stacking more layers, which would further improve performance (with negligible, if any, runtime cost). To keep our experiments as straightforward as possible, however, we do not add layers to our models. 
+
+Appendix Table 12 presents additional results comparing our models to the sinusoidal baseline when both are trained on the same _L_ , showing that ALiBi performs similarly to the sinusoidal baseline when not extrapolating. This contrasts with the results presented on the smaller datasets, where ALiBi consistently outperforms other position methods even when not extrapolating, suggesting that ALiBi’s inductive bias provides additional benefits for lower-resource language modeling. 
+
+
+
+<!-- Start of picture text -->
+Extrapolation, L = 512 Extrapolation, L = 1024<br>on CC100+RoBERTa on CC100+RoBERTa<br>10.2 10.2<br>Sinusoidal<br>9.8 9.8 ALiBi<br>9.4 9.4<br>9.0 Sinusoidal 9.0<br>ALiBi<br>8.6 8.6<br>512 2500 5000 7500 10000 1024 2500 5000 7500 10000<br>Validation Input Length (Lvalid) Validation Input Length (Lvalid)<br>) )<br>Perplexity ( Perplexity (<br><!-- End of picture text -->
+
+---
+
+[referencia=25676193afe5f7ab score=0.564]
+#### 2.1 BACKGROUND AND EXPERIMENTAL SETUP 
+
+A transformer LM receives a list of tokens and outputs a probability distribution representing its prediction for the next token. We call the input list the _current input subsequence_ since the inputs to language models are typically subsequences from (much longer) training or evaluation sequences. During both training and perplexity evaluation (i.e., scoring a fixed sequence), many predictions can be calculated at once; this is done using a “causal mask” that ensures each position’s prediction is influenced only by tokens to its left. Let _L_ be the length of each input subsequence during training; it includes _L_ predictions, which on average have access to<sup>_<u>L</u>_</sup><sup><u>+1</u></sup> 2 tokens of (left) context. To explore a model’s extrapolation abilities, we are interested in cases where sequences of length _Lvalid > L_ are considered at evaluation time. When _L_ differs between inference and training, we use _L_ to refer to the length of subsequences during training and _Lvalid_ to refer to their length at validation. 
+
+2 
+
+Published as a conference paper at ICLR 2022 
+
+
+
+<!-- Start of picture text -->
+30k Training Speed 100k Inference Speed 30 Training Memory<br>Sinusoidal<br>20k 75k 20 Rotary<br>50k<br>10k 25k 10 T5 Bias<br>ALiBi<br>0 512 1024 3072 0k 512 1024 3072 0 512 1024 3072<br>Input Length Input Length Input Length<br>) ) )<br>WPS ( WPS ( GB (<br><!-- End of picture text -->
+
+Figure 2: A comparison of batched training, inference speed and memory use of the sinusoidal, rotary, T5 bias, and our ALiBi position methods. The speed differences between our method and the sinusoidal are within 1% during training and 3% for inference, which is insignificant on our hardware. ALiBi uses 100MB of extra memory when training on input lengths 1024 and 3072 in this setting. Memory usage is lower in all approaches when training on 3072 tokens (compared to 1024) since we break batches into multiple updates. See Table 1 in the appendix for exact numbers.
+
+---
+
+[referencia=25676193afe5f7ab score=0.503]
+> 2Figure 7 in the appendix plots training speed, in words per second, against _L_ . 
+
+1 
+
+Published as a conference paper at ICLR 2022 
+
+
+
+<!-- Start of picture text -->
+Extrapolation for Extrapolation for<br>Models Trained on 512 Tokens Models Trained on 1024 Tokens<br>55 55<br>Sinusoidal<br>Rotary<br>45 45<br>Sinusoidal T5 Bias<br>Rotary ALiBi<br>35 35<br>T5 Bias<br>ALiBi<br>25 25<br>15 15<br>512 4000 8000 12000 16000 1024 4000 8000 12000 16000<br>Inference Input Tokens Inference Input Tokens<br>) )<br>Perplexity ( Perplexity (<br><!-- End of picture text -->
+
+Figure 1: Extrapolation: as the (validation-set’s) input sequence gets longer ( _x_ -axis), current position methods (sinusoidal, rotary, and T5) show degraded perplexity ( _y_ -axis, lower is better), but our method (§3) does not. Models were trained on WikiText-103 with sequences of _L_ = 512 (left) or _L_ = 1,024 (right) tokens. T5 ran out of memory on our 32GB GPU. For more detail on exact perplexities and runtimes, see Tables 2 and 3 in the appendix. 
+
+Compared to a sinusoidal model trained on the same input length, our method requires no additional runtime or parameters and incurs a negligible (0–0.7%) memory increase. ALiBi can be implemented by changing only a few lines of existing transformer code. 
+
+Using ALiBi, a transformer LM can be trained on short- _L_ sequences and therefore at much lower cost, and it can still be reliably applied to long sequences at runtime. For example, a 1.3 billion parameter LM trained on _L_ = 1024 tokens with ALiBi achieves the same perplexity as a sinusoidal model trained on _L_ = 2048 when both are tested on sequences of 2048 tokens, even though _our model is 11% faster and uses 11% less memory._
+
+---
+
+[referencia=25676193afe5f7ab score=0.455]
+### 2 CURRENT APPROACHES DO NOT EXTRAPOLATE EFFICIENTLY 
+
+We show for the first time that the sinusoidal position method, which technically should be able to extrapolate, in practice has very limited extrapolation capabilities. Though the rotary position method improves over the sinusoidal one, it still does not achieve satisfying results. Holding everything else constant, we are the first to observe that the T5 bias method leads to better extrapolation than either of these, and so we conclude that extrapolation ability depends heavily on the position embedding. Unfortunately, the T5 bias is computationally costly (Figure 2).
+
+---
+
+[referencia=25676193afe5f7ab score=0.415]
+#### A.3 RESULTS ON THE TORONTO BOOK CORPUS 
+
+To ensure that our results are not specific to the WikiText-103 corpus, we next apply our model and the baselines to a different domain while using a similar model architecture and the same ALiBi slopes as those used in the previous subsection. 
+
+We emphasize that our set of slopes was chosen by running experiments on the WikiText-103 corpus, and here we apply that set of slopes to a model trained on a very different text domain. Throughout the entire process of developing this method, we ran only one set of experiments on this domain using the previously selected set of slopes. 
+
+Specifically, we use the Toronto BooksCorpus (Zhu et al., 2015), which has been used to train BERT (Devlin et al., 2019) (in conjuction with the English Wikipedia). The corpus is about 700M tokens (2.9 GB). 
+
+We use the same train/validation/test split as Khandelwal et al. (2020) and their tokenization, which uses BERT’s vocabulary of 29K byte-pair encodings. Since the vocabulary is much smaller than WikiText-103’s, we replace the adaptive word embedding and softmax of Baevski & Auli (2018) with a tied word embedding and softmax matrix (Press & Wolf, 2017; Inan et al., 2017). 
+
+Our results in Figure 9 (and Table 8) replicate our success on the WikiText-103 dataset. Our model surpasses the sinusoidal baseline when trained on the same amount of input tokens ( _L_ ) and, in 
+
+20 
+
+Published as a conference paper at ICLR 2022 
+
+
+
+<!-- Start of picture text -->
+ALiBi Extrap lating<br> n T r nt  B  kC rpus<br>15.0<br>L = 512<br>Sinus idal← L = 512<br>14.5<br>L = 1024<br>Sinus idal← L = 1024<br>14.0 L = 3072<br>Sinus idal← L = 3072<br>13.5<br>13.0<br>512 1024 3072<br>Validation Input Length (Lvalid)<br>Perplexity (()<br><!-- End of picture text -->
+
+---
+
+[referencia=25676193afe5f7ab score=0.379]
+Unlike the sinusoidal or learned positional embedding approach, the rotary method injects position information into the model at every layer, not just at the initial one. In addition, it adds no position information to the values of the self-attention sublayer. The output of a self-attention sublayer is a linearly transformed, weighted sum of the input value vectors; therefore, by not inserting position information into the values, the outputs of each transformer-layer contain no explicit position information. We suspect that this segregation of position information may be beneficial for extrapolation, and we draw inspiration from it in the design of our method (§3). 
+
+We apply the rotary position embedding method to our Baevski & Auli baseline.<sup>5</sup> The perplexity results (Figure 1 and Appendix Tables 2 and 3) are better than the sinusoidal approach: the model with _L_ = 512 ( _L_ = 1024) improves perplexity with up to _k_ = 200 ( _k_ = 100) more tokens than it saw during training, but this comes at the cost of slower training and inference (Figure 2).
+
+---
+
+[referencia=25676193afe5f7ab score=0.357]
+As Figure 1 shows, the T5 bias improves perplexity with longer sequences than the ones it was trained on, i.e., _k_ = 600 ( _k_ = 800) extra tokens for a model trained on _L_ = 512 ( _L_ = 1024) input tokens. Unfortunately, this impressive performance comes at a cost: training is at least twice as slow as with the sinusoidal model. Therefore, this model’s extrapolation ability provides no efficiency advantage. For example, to do inference on 1024 tokens, we could either train the sinusoidal model with _L_ = 1024 or train the T5 bias model on _L_ = 512 tokens and extrapolate to 1024 for inference. However, the _L_ = 1024 sinusoidal model runs at 28.5k words per second (WPS), while the _L_ = 512 T5 bias model runs at 14.4k WPS (Appendix Table 1), so there is no speedup when training on shorter sequences with this method.<sup>8</sup> 
+
+> 5Our rotary method implementation is based on the code in https://github.com/JunnYu/ RoFormer_pytorch, which is linked to from the official repository of Su et al. (2021): (https: //github.com/ZhuiyiTechnology/roformer). After we finished running our experiments with the rotary method, we were informed that the runtime of the code linked above could be optimized, making it only 
+
+> 2% slower than the sinusoidal approach. This optimization would not change extrapolation performance. 
+
+> 6This method is similar to the one used in Parikh et al. (2016, Equation 7). 
+
+> 7Our T5 bias implementation is based on the one used in HuggingFace Transformers (Wolf et al., 2020), 
+
+> 8Narang et al. (2021) benchmarked the T5 bias as being just 8.7% slower than the sinusoidal approach; thus, while always incurring a runtime penalty, this method’s runtime could be faster depending on the choice of hardware and software frameworks used. Narang et al. used the Tensorflow T5 library running on TPUs, while we used the PyTorch Fairseq library running on GPUs. 
+
+4 
+
+Published as a conference paper at ICLR 2022 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=25676193afe5f7ab score=0.354]
+#### B.2 EXTRAPOLATION REDUCES THE EARLY TOKEN CURSE 
+
+We presented results showing that our ALiBi method (and, to a lesser extent, the T5 bias) allows LMs to extrapolate during inference. Two reasons could explain why these methods enable LMs to achieve better perplexity given longer input subsequences: 
+
+1. Performance improves because the models can use longer contexts to make more accurate predictions. For example, the average article length in the WikiText-103 corpus is about 3600 tokens; therefore, if a model trained on _L_ = 512 tokens extrapolates to _Lvalid_ = 3072 tokens during inference and achieves better results, that might be because it can spot patterns occurring across more than 512 tokens. 
+
+2. Performance improves because longer input sequences mean the early token curse is reduced. For example, during nonoverlapping evaluation on sequences of length _Lvalid_ = 1000, 10% of predictions have 100 tokens of context or less. If we rerun nonoverlapping evaluation on that model with _Lvalid_ = 2000 tokens, now only 5% of predictions have 100 
+
+> 12Nonoverlapping inference can be viewed as sliding window inference with stride _L_ . 
+
+23 
+
+Published as a conference paper at ICLR 2022 
+
+tokens of context or less. So, by simply being able to handle longer sequences, a model can substantially reduce the early token curse and improve performance.<sup>13</sup> 
+
+To better understand what might be occurring, we re-evaluate the development set of WikiText-103 with our models and the sinusoidal baseline with _L_ = 512 _,_ 1024 _,_ 3072. However, this time we use sliding window evaluation with a stride of _S_ = 1, meaning that we move the sliding window just one token after every inference pass, giving each prediction the maximum number of context tokens that the model can use. 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=25676193afe5f7ab score=0.288]
+Our ALiBi results mirror what occurs in the model using the T5 bias: when using sliding window evaluation, perplexity remains relatively flat when evaluating longer sequences (see Table 14). 
+
+Our analysis reveals that when _Lvalid > L_ , ALiBi might not be using contexts longer than the ones it was trained on. This highlights a research direction that could be pursued in future work. 
+
+These findings do not lessen the value of ALiBi. When _Lvalid_ = _L_ , ALiBi achieves either superior or similar results to the sinusoidal method and other alternatives even though it is simpler and requires no learned parameters. When evaluating _Lvalid > L_ tokens, even if ALiBi does not attend to more than _L_ tokens, it yields better results than the other alternatives that can be used in this case, i.e., standard nonoverlapping inference (which is cheap, but does not perform as well) and the more accurate sliding window approach (which is very slow). 
+
+> 13100 tokens is an arbitrary small number used here to represent a short history context, i.e., one in which making predictions for the next output token would be harder. 
+
+24 
+
+Published as a conference paper at ICLR 2022 
+
+Table 13: Perplexities of the **sinusoidal** models evaluated with sliding window evaluation with stride _S_ = 1 on the WikiText-103 validation dataset. 
+
+|||Evaluati|on Length|(_S_ = 1)||
+|---|---|---|---|---|---|
+|Train Length|512|1024|1536|2048|3072|
+|512|18.35|204.42|264.74|306.19|360.12|
+|1024|-|18.05|206.55|302.6|393.71|
+|3072|-|-|-|-|18.03|
+
+
+
+Table 14: Perplexities of the **T5 bias** models evaluated with sliding window evaluation with stride _S_ = 1 on the WikiText-103 validation dataset.
+
+---
+
+[referencia=25676193afe5f7ab score=0.273]
+#### A.4 RESULTS ON THE CC100+ROBERTA CORPUS 
+
+Table 11 compares our 1.3 billion parameter ALiBi models when extrapolating to two times the number of tokens that they were trained on. We use the sinusoidal model as our baseline, and train it for the same amount of time as we train the ALiBi model that we compare it to (and so since our ALiBi models run faster in this setting, the sinusoidal models complete less updates). 
+
+21 
+
+Published as a conference paper at ICLR 2022 
+
+Table 10: Validation and test perplexities on the Toronto Book Corpus dataset with a sliding window (§B). Following (Baevski & Auli, 2018; Khandelwal et al., 2020; Press et al., 2020; 2021), we set the sliding window stride _S_ =512. 
+
+|Model|Param. _↓_|Valid_↓_|Test_↓_|
+|---|---|---|---|
+|kNN-LM (Khandelwal et al., 2020)|**247M**|14.20|10.89|
+|Shortformer (Press et al., 2021)|**247M**|13.40|10.88|
+|Sandwich (Press et al., 2020)|**247M**|-|10.83|
+|Staged Training (Press et al., 2021)|**247M**|12.80|10.48|
+|Sinusoidal, L = 3072|**247M**|14.06|11.40|
+|iBi<br>_L_= 512,_Lvalid_= 3072|**247M**|13.76|11.11|
+|AL<br>_L_= 3072,_Lvalid_= 3072|**247M**|12.70|10.40|
+
+
+
+Table 11: Perplexity, memory, and train time on the CC100+RoBERTa corpus for our ALiBi models and the sinusoidal baseline. We run our _L_ = 512 (1024) model and the sinusoidal model with _L_ = 1024 (2048) for the same amount of time. We show that our models achieve strong results even though they use 6–11% less memory.

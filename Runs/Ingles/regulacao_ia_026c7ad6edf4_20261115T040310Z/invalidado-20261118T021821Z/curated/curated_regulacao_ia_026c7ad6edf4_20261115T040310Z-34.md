@@ -1,0 +1,70 @@
+[referencia=126bafaec4822d43 score=0.103]
+## The call adds to ongoing concerns about the short timeframe in which companies will have to comply with a set of voluntary rules on general-purpose AI.
+
+CEOs from more than 40 European companies including ASML, Philips, Siemens and Mistral, are asking for a “two-year clock-stop” on the AI Act before key obligations enter into force this August.
+
+In a letter to European Commission President Ursula von der Leyen, made public on Thursday, they say this would allow “both for reasonable implementation by companies, and for further simplification of the new rules.”
+
+The AI Act – rules that regulate artificial intelligence systems according to the risk they pose to society – entered into force in August 2024, but will fully apply in 2027.
+
+The companies call for a pause on obligations on high-risk AI systems, due to take effect as of August 2026, and to obligations for general-purpose AI models (GPAI), due to enter into force as of August 2025.
+
+“This postponement, coupled with a commitment to prioritise regulatory quality over speed, would send innovators and investors around the world a strong signal that Europe is serious about its simplification and competitiveness agenda,” the letter says.
+
+The call comes as the Code of Practice on GPAI, a voluntary set of rules aiming to help providers of AI models, such as ChatGPT and Gemini, comply with the EU’s AI Act, is yet to be released.
+
+The rules enter into force on 2 August, and the Commission has said it will publish the guidelines before that date.
+
+However, Euronews reported earlier this week that several companies including Google have been asking for a grace period to be able to comply with the code.
+
+Thomas Regnier, the Commission spokesperson on digital, told Euronews that what is being discussed in the context of the AI Board is "the timing to implement the Code of Practice, with the end of 2025 being considered."
+
+"This would be well ahead of the AI Act's enforcement deadlines - 2026 for new models and 2027 for existing models," he added.
+
+The process has been criticised since Commission-appointed experts started drafting the rules in September 2024. Tech giants as well as publishers and rights-holders are concerned that the rules violate the EU’s Copyright laws, and restrict innovation.
+
+---
+
+[referencia=cc173de3bd9b422a score=0.021]
+### Transparency Rules Remain on Track
+
+Organisations should not be misled by headlines that say “delayed”: delay does not extend to most of the AI Act’s transparency obligations.
+
+From 2 August 2026, organisations must continue to comply with requirements relating to:
+
+• Disclosure that users are interacting with an AI system;
+
+• Labelling of deepfakes and certain AI-generated content; and
+
+• Notification obligations for emotion recognition and biometric categorisation systems.
+
+A limited four-month grace period applies only to certain machine-readable marking requirements for generative AI systems already on the market before 2 August 2026.
+
+### Practical Takeaways
+
+The AI Omnibus provides welcome additional time for many organisations developing or deploying high-risk AI systems. However, it is far from a regulatory pause. For many businesses, key compliance obligations remain imminent.
+
+---
+
+[referencia=cc173de3bd9b422a score=0.021]
+The EU has adopted its first substantive amendment to the AI Act. Regulation (EU) 2026/1744, commonly referred to as the AI Omnibus, was published in the Official Journal on 24 July 2026 and entered into force on 27 July 2026. While the legislation postpones certain aspects of the AI Act’s compliance timetable, it would be a mistake for organisations to view the Omnibus as a broad pause on AI regulation in Europe.
+
+### High-Risk AI Deadlines Pushed Back
+
+The most significant change is the deferral of obligations applying to many high-risk AI systems. The application date for stand-alone high-risk systems under Annex III, including AI used in employment, education, credit assessment, law enforcement and critical infrastructure, moves from 2 August 2026 to 2 December 2027.
+
+For AI systems embedded in products already subject to EU product safety legislation, such as medical devices, machinery and toys, compliance is deferred further, until 2 August 2028.
+
+### What Has Not Been Delayed?
+
+Many important requirements remain on their original timetable.
+
+Most notably, the AI Act’s provisions governing general-purpose AI (GPAI) models continue to apply as planned, including transparency, reporting and systemic risk obligations for the largest models.
+
+The Omnibus also introduces two new prohibited AI practices, targeting systems designed to generate or manipulate realistic intimate imagery or child sexual abuse material. These prohibitions apply from 2 December 2026 and reflect the EU’s increasing focus on AI-enabled harms. While other legal regimes already address such conduct, the AI Act will soon provide a direct regulatory basis for enforcement.
+
+### Expanded Powers for the AI Office
+
+The Omnibus significantly strengthens the role of the European AI Office. The AI Office now has exclusive supervisory responsibility for certain AI systems built on general-purpose AI models and for AI systems integrated into very large online platforms and search engines regulated under the Digital Services Act.
+
+The new provisions give the AI Office powers closely resembling those exercised by European competition regulators. These include the ability to launch investigations, compel the production of information, carry out inspections, accept binding commitments and impose periodic penalty payments of up to 5% of average daily turnover for continuing infringements.

@@ -1,0 +1,444 @@
+[referencia=b2d8bf37e2e4f0eb score=0.774]
+N.S. - Reduction not statistically significant. 
+
+**_NOTE:_** _When comparing vaccinated cohorts versus unvaccinated cohorts (impact) instead of vaccinated versus unvaccinated individuals (effectiveness), it is crucial to consider vaccination coverage rates. In the previous study from England, between 2008 and 2012 the coverage with at least one dose was 86%–91% in the routine vaccination cohort and 56%–82% in the catch-up cohort._ 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+13 
+
+
+
+All the studies above have measured an important reduction in cervical cancer incidence after 11 -13 years after vaccination. However, this effect largely varies by age (34%-100%), showing that the effect of HPV vaccines is greater in women vaccinated at younger ages as depicted in **Figure 6** . 
+
+
+
+**Figure 6. Cumulative incidence of cervical cancer based on vaccination status.** Adapted 
+
+from  Lei et al., 2020a. 
+
+In the figure above, cervical cancer incidence started to rise at the start age of cervical cancer screening. Incidence remained low for those women vaccinated before age 17 ( **blue line** ). For those vaccinated at age 17-30, cervical cancer incidence continued to increase ( **orange line** ) although not as much as the unvaccinated ones ( **green line** ). 
+
+###### **Did you know?** 
+
+In the Danish study, women were followed-up until age 30. Therefore, while no vaccine effect was observed in women vaccinated at 20-30 years, a potential reduction in cancer incidence could be observed in these women after a longer follow-up until age 40. 
+
+**_The studies above emphasize the crucial role of linking vaccination records with screening or cancer registries._** 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+14 
+
+
+
+Linkage of screening data with vaccination records or integration into one comprehensive program can estimate the effectiveness of HPV vaccines against cervical disease, improve the screening quality and efficiency of screening programs, fine-tuning of screening policies adjusted by vaccination status and address scientific questions that otherwise would remain unanswered (Arbyn et al., 2024 RISCC).
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.438]
+###### **Did you know?** 
+
+Besides type replacement, another potential phenomenon is clinical unmasking. HPV vaccination reduces the number of excisional treatments due to the lower prevalence of lesions caused by HPV16 or HPV18. As a result, other HPV types that progress more slowly to malignancy - HPV types that would have been removed in the event of lesions caused by HPV16/18 - may now have the needed time to progress to lesions. 
+
+Slight increases in the prevalence of lesions caused by non-vaccine types have been observed at 7-11 years of follow-up (Shing et al., 2022). However, these lesions are a very small fraction of those prevented by the vaccine and further follow-up and research are necessary. 
+
+More recently published studies have shown that the reduction in the prevalence of high-grade cervical precancerous lesions is even greater: 
+
+- In Scotland, routine vaccination of girls with the bivalent vaccine has led to a reduction in the diagnosis of pre-invasive cervical cancer at age 20 (89%, 88%, and 79% reduction in CIN3+, CIN2+, and CIN1, respectively), compared to unvaccinated cohorts (Palmer et al., 2019). The vaccine showed higher reductions at younger ages (86% and 51% reduction in CIN3+ in women vaccinated at age 12-13 and age 17, respectively). 
+
+- In England, a reduction in the incidence of CIN3 cases in cohorts of girls vaccinated with the bivalent vaccine was higher in girls vaccinated at younger ages, compared to reference unvaccinated cohorts (97%, 75%, and 39% reduction in women vaccinated at 12–13 years, 14–16 years, and 16–18 years, respectively) (Falcaro et al., 2021).
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.421]
+**_HPV vaccines reduce cervical disease in women of all ages, providing individual benefits that vary by age of vaccination. Therefore, to maximize the overall reduction in cervical disease, vaccination programs should begin at an early age and aim for high coverage._** 
+
+There was also a 54% reduction in the prevalence of some HPV genotypes not targeted by the vaccine (HPV31, 33 and 45) among girls and women aged 13-19 ( **Figure 4** ). This effect is called **_cross-protection_** . However, it should be noted that cross-protection with Cervarix® has been observed for HPV types 31/33/45 and 52 whereas crossprotection with the quadrivalent vaccine is only observed for HPV31 due to their different adjuvant composition. 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+9 
+
+
+
+
+
+**Figure 4. Pre- vs post-vaccination changes in HPV31, 33 and 45 infection prevalence at 5-8 years following vaccination.** Adapted from Drolet et al. 2019 
+
+The impact of the HPV vaccine has also been observed in resource-limited countries. Bhutan and Rwanda introduced the quadrivalent vaccine into their vaccination programs in 2010 and 2011, respectively. In these countries, where high coverage rates have been achieved, the HPV vaccination programs have resulted in an 88% and 78% reduction in the prevalence of infections caused by vaccine-included types, respectively (Baussano et al., 2021). 
+
+**_The antibody response for HPV types not included in the vaccine (cross-protection) is not comparable to the specific response obtained when those HPV types are included in the vaccine._** 
+
+**_Even though the immune response differs between vaccines, both the nonavalent vaccine and Cervarix® are expected to provide similar protection against cervical cancer—as long as Cervarix® continues to offer crossprotection over time, which has been shown to last at least 12 years so far (Mariz et al., 2021)._** 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+10
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.337]
+Drolet, M., Bénard, É., Pérez, N., Brisson, M., & HPV Vaccination Impact Study Group. (2019). Population-level impact and herd effects following the introduction of human papillomavirus vaccination programmes: Updated systematic review and meta-analysis. _Lancet (London, England)_ , _394_ (10197), 497–509. https://doi.org/10.1016/S0140-6736(19)30298-3 
+
+Elfström, K. M., Lazzarato, F., Franceschi, S., Dillner, J., & Baussano, I. (2016). Human Papillomavirus Vaccination of Boys and Extended Catch-up Vaccination: Effects on the Resilience of Programs. _The Journal of Infectious Diseases_ , _213_ (2), 199–205. https://doi.org/10.1093/infdis/jiv368 
+
+Falcaro, M., Castañon, A., Ndlela, B., Checchi, M., Soldan, K., Lopez-Bernal, J., EllissBrookes, L., & Sasieni, P. (2021). The effects of the national HPV vaccination programme in England, UK, on cervical cancer and grade 3 cervical intraepithelial neoplasia incidence: A register-based observational study. _The Lancet_ , _398_ (10316), 2084–2092. https://doi.org/10.1016/S0140-6736(21)02178-4 
+
+Franco, E. L. (2017). _Screening of HPV vaccinated women_ . HPW: The Newsletter on HPV. https://www.hpvworld.com/articles/screening-of-hpv-vaccinated-women 
+
+Franco, E. L., Mahmud, S. M., Tota, J., Ferenczy, A., & Coutlée, F. (2009). The Expected Impact of HPV Vaccination on the Accuracy of Cervical Cancer Screening: The Need for a Paradigm Change. _Archives of Medical Research_ , _40_ (6), 478–485. https://doi.org/10.1016/j.arcmed.2009.06.003
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.318]
+13. Jansen, E. E. L., Zielonke, N., Gini, A., Anttila, A., Segnan, N., Vokó, Z., Ivanuš, U., McKee, M., De Koning, H. J., De Kok, I. M. C. M., Veerus, P., Anttila, A., Heinävaara, S., Sarkeala, T., Csanádi, M., Pitter, J., Széles, G., Vokó, Z., Minozzi, S., … Priaulx, J. (2020). Effect of organised cervical cancer screening on cervical cancer mortality in Europe: A systematic review. *European Journal of Cancer* ,*127* , 207–223. https://doi.org/10.1016/j.ejca.2019.12.013Brisson, M., Kim, J. J., Canfell, K., Drolet, M., Gingras, G., Burger, E. A., Martin, D., Simms, K. T., Bénard, É., Boily, M.-C., Sy, S., Regan, C., Keane, A., Caruana, M., Nguyen, D. T. N., Smith, M. A., Laprise, J.-F., Jit, M., Alary, M., … Hutubessy, R. (2020). Impact of HPV vaccination and cervical screening on cervical cancer elimination: A comparative modelling analysis in 78 low-income and lower-middle-income countries. The Lancet, 395(10224), 575–590.
+14. Hall, M. T., Simms, K. T., Lew, J.-B., Smith, M. A., Brotherton, J. M., Saville, M., Frazer, I. H., & Canfell, K. (2019). The projected timeframe until cervical cancer elimination in Australia: A modelling study. *The Lancet Public Health* ,*4* (1), e19–e27. https://doi.org/10.1016/S2468-2667(18)30183-X
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.315]
+###### Effect of HPV vaccination on cervical cancer by girls-only vaccination 
+
+The first evidence of the efficacy of both the bivalent and quadrivalent HPV vaccines in women vaccinated at age 16-17 was reported in Finland in 2018. During the 8-years follow up of two vaccination trials, only 10 cases of HPV-related cancers were detected (eight cervical cancers, one oropharyngeal cancer and one vulvar cancer), all of them among unvaccinated women (Lehtinen et al., 2021; Luostarinen et al., 2018). 
+
+Since then, further population-based evidence to support the effectiveness and impact of HPV vaccines in the incidence of cervical cancer has been published ( **Table 1** ). All studies estimated vaccine effectiveness through registry linkage except England, that evaluated the impact of the vaccine comparing vaccinated versus unvaccinated cohorts. 
+
+**Table 1. Real-world evidence on the effect of HPV vaccines in cervical cancer incidence.** Adapted from Arbyn et al., 2024 (RISCC). 
+
+|**Study**|**Vaccine**|**Age at vaccination**<br>**(years)**|**Effect (95%CI)**|**Effect measure**|
+|---|---|---|---|---|
+|**Sweden**<br>(Lei et al., 2020a)|Quadrivalent|<17<br>17-30|81% (35 - 95%)<br>36% (0 - 61%)|Effectiveness|
+|**Denmark**|Quadrivalent|<16|87% (59 - 96%)|Effectiveness|
+|(Kjaer et al.,<br>2021)||17-19<br>20-30|69% (-7 – 91%)<br>N. S.||
+|**England**|Bivalent|12-13|87% (72 - 94%)|Impact|
+|(Falcaro et al.,<br>2021)||14-16<br>16-18|62% (52 - 71%)<br>34% (25 - 41%)||
+|**Scotland**|Bivalent|12-13|100% (67 - 100%)|Effectiveness|
+|(Palmer et al.,<br>2024)||14-18|69% (54 - 79%)||
+
+
+
+N.S. - Reduction not statistically significant.
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.309]
+# HPV vaccines are highly effective in preventing infections and cervical cancer
+
+Because cervical cancer is caused by a virus, it can be prevented through vaccination.
+
+The first HPV vaccine was developed in the 1990s by researchers in Australia.<sup>4</sup>
+
+It was first introduced in 2006 and is effective against four major types of HPV.<sup>5</sup> Another version, introduced in 2014, expanded its coverage to protect against additional cancer-causing HPV types.<sup>6</sup>
+
+These vaccines work by stimulating the immune system to produce antibodies that can eliminate HPV and prevent infections.<sup>7</sup>
+
+HPV vaccines are highly effective, which has been demonstrated in large-scale randomized controlled trials. Research shows that, if given early, vaccination reduces the risk of serious cervical cell changes by 99% for the HPV types most likely to cause cervical cancer.<sup>8</sup>
+
+Recent research has found that even a single dose provides high efficacy against infections.<sup>9</sup>
+
+The vaccine is most effective when given early — before people are exposed to the virus. Vaccination programs in schools are, therefore, very impactful in making the most of HPV vaccines.
+
+There is also another important reason for giving out these vaccines in schools: the vaccine’s efficacy is long-lasting<sup>10</sup>, and vaccination programs are much easier to implement at scale through schools than vaccinating individuals at clinics.<sup>11</sup>
+
+## Cervical cancer rates have declined greatly among younger generations with vaccination
+
+In England, younger cohorts vaccinated at school show dramatically lower rates of cervical cancer than older cohorts when they reached the same age. This is shown in the chart below.<sup>12</sup>
+
+In the youngest cohort, which had a vaccination rate of 89%, cervical cancer rates were around 87% lower than in the oldest cohorts.
+
+Large reductions in cervical cancer rates have also been seen in other countries with high vaccination rates.<sup>13</sup>
+
+Because of highly effective vaccination and early screening programs, several countries have substantially reduced cervical cancer rates.
+
+Rates in Australia and the United Kingdom, for example, have recently fallen below 8 per 100,000 and are projected to fall below 4 per 100,000 in the coming decade.<sup>14</sup>
+
+But, at current vaccination rates, it will take decades for other countries to reach these levels — this is why raising vaccination rates is crucial.<sup>15</sup>
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.238]
+### <mark>INTRODUCTION AND LEARNING OBJECTIVES</mark> 
+
+Following the licensure of the first generation of HPV vaccines in 2006-2007, many countries have incorporated these vaccines into their national immunization schedules. This has led to what are known as 'vaccinated cohorts', i.e birth cohorts that were eligible for routine vaccination and got the vaccine at the target ages. Each cohort includes both vaccinated and unvaccinated individuals, with the proportions among women and men reflecting the vaccination strategy implemented and coverage achieved. These new populations of women, characterized by a distinct HPV epidemiology due to vaccination impact, are now reaching the age of screening initiation at 25 years and represent most younger women undergoing screening in the countries that started systematic HPV vaccination programs more than 10 years ago. 
+
+Quantifying the impact of the HPV vaccination program is essential for decision makers, not only to examine whether to introduce or modify HPV vaccination programmes but to evaluate those cervical cancer screening programmes already implemented. 
+
+This module reviews the impact of HPV vaccination on cervical cancer epidemiology and the potential impact of HPV vaccination on cervical cancer screening performance. 
+
+At the conclusion of this module, participants will be able to: 
+
+- Assess the impact of HPV vaccination programs on the epidemiology of HPV infection and HPV-related lesions and cancers in the cervix and other anatomical sites. 
+
+- Interpret the direct and indirect effect of HPV vaccination by vaccination strategy (girls-only versus gender-neutral vaccination) 
+
+- Describe the rationale and needs for adapting cervical cancer screening in the post-vaccination era, including the selection of screening tests, appropriate screening age and frequency, as well as triage and lesion management. 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+4
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.219]
+Naber, S. K., Matthijsse, S. M., Rozemeijer, K., Penning, C., de Kok, I. M. C. M., & van Ballegooijen, M. (2016). Cervical Cancer Screening in Partly HPV Vaccinated Cohorts—A Cost-Effectiveness Analysis. _PloS One_ , _11_ (1), e0145548. https://doi.org/10.1371/journal.pone.0145548 
+
+Nielsen, K. J., Jakobsen, K. K., Jensen, J. S., Grønhøj, C., & Von Buchwald, C. (2021). The Effect of Prophylactic HPV Vaccines on Oral and Oropharyngeal HPV Infection— A Systematic Review. _Viruses_ , _13_ (7), Article 7. https://doi.org/10.3390/v13071339 
+
+Ortega Llobet, M., Gray, P., Baussano, I., Elfström, M., Eriksson, T., Lagheden, C., Nieminen, P., Vänskä, S., Söderlund-Strand, A., Suomenrinne-Nordvik, A., Dillner, J., Pimenoff, V., & Lehtinen, M. (2025). _Randomized trial of cervical cancer screening frequency among vaccinated women_ . 
+
+Palmer, T., Kavanagh, K., Cuschieri, K., Cameron, R., Graham, C., Wilson, A., & Roy, K. (2024). Invasive cervical cancer incidence following bivalent human papillomavirus vaccination: A population-based observational study of age at immunization, dose, and deprivation. _Journal of the National Cancer Institute_ , _116_ (6), 857–865. https://doi.org/10.1093/jnci/djad263
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.206]
+###### EXAMPLE 
+
+In Sweden, the PPV for high-grade cytology decreased from 70% to 57%, representing a 17% reduction in those vaccinated before the age of 17 years compared to those unvaccinated (Lei et al., 2020). 
+
+This decrease on the PPV has been observed in both conventional and liquid-based cytology samples and is more pronounced the earlier the age of vaccination (Munro et al., 2017; Palmer et al., 2016; Sultana et al., 2019; Teoh et al., 2022). 
+
+Although the evidence is more limited than that for cytology, some declines in PPV have also been observed for hrHPV testing without genotyping for primary screening in vaccinated women  (Bhatia & Cuschieri, 2019; Rebolj et al., 2022). 
+
+###### EXAMPLE 
+
+In England (Rebolj et al., 2022), a decreasing trend in the PPV of the referral of those women with a positive HPV result and an abnormal cytology triage has been observed overtime. 
+
+
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+
+
+24 
+
+
+
+###### **Did you know?** 
+
+A rapid increase in the false positive rate after HPV testing has been predicted at a critical threshold of 0.2% in the prevalence of precancerous cervical lesions (Franco, 2017). 
+
+Despite a slight reduction in HPV testing performance, an increased detection of precancerous lesions has been observed in vaccinated women screened with HPV testing compared to those with cytology (Canfell et al., 2017).
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.184]
+###### Effect of HPV vaccine in anogenital lesions other than cervix 
+
+For other anogenital precancerous lesions, data on HPV vaccine effectiveness and impact are more limited. This is because the incidence of lesions and cancer at these sites is much lower than at the cervix. Nevertheless, these outcomes make a significant contribution to the overall HPV-attributable disease burden. 
+
+In Denmark, after more than a decade of follow-up, a 78% and 84% reduction in the incidence of **high-grade lesions in the vulva and vagina** , respectively, has been observed in girls vaccinated up to the age of 16 (Dehlendorff et al., 2021). In the U.S., a 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+15 
+
+
+
+decrease in the incidence of **high-grade precancerous lesions in the vulva (VIN3)** has been observed in women up to 29 years old and **in the vagina (VaIN3)** in women up to 39 years old, with this decline being more pronounced at younger ages (Mix et al., 2022). 
+
+In the U.S., stabilization in the incidence of **high-grade precancerous anal lesions (AIN3)** has also been observed in women aged 15 to 29. In men, although the incidence of AIN3 continues to rise, the growth has slowed within the same age range (Mix et al., 2022). Also in the U.S., since 2008, a reduction in the incidence of **squamous anal cancer (both in situ and invasive)** has been observed in women and men aged 20-44 years (Berenson et al., 2022). 
+
+Finally, in the U.S., an 85% reduction in **HPV infections in the penis** has been observed in men who have sex with men aged 18 to 26, vaccinated with the quadrivalent vaccine before the age of 18 (Winer et al., 2022). In Australia, a reduction in the **prevalence of infection by HPV genotypes included in the quadrivalent vaccine in the penis** has also been observed in heterosexual men up to 35 years old (Chow et al., 2019; Machalek et al., 2018).
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.171]
+Luostarinen, T., Apter, D., Dillner, J., Eriksson, T., Harjula, K., Natunen, K., Paavonen, J., Pukkala, E., & Lehtinen, M. (2018). Vaccination protects against invasive HPVassociated cancers. _International Journal of Cancer_ , _142_ (10), 2186–2187. https://doi.org/10.1002/ijc.31231 
+
+Machalek, D. A., Garland, S. M., Brotherton, J. M. L., Bateson, D., McNamee, K., Stewart, M., Rachel Skinner, S., Liu, B., Cornall, A. M., Kaldor, J. M., & Tabrizi, S. N. (2018). Very Low Prevalence of Vaccine Human Papillomavirus Types Among 18- to 35-Year Old Australian Women 9 Years Following Implementation of Vaccination. _The Journal of Infectious Diseases_ , _217_ (10), 1590–1600. https://doi.org/10.1093/infdis/jiy075 
+
+Mariz, F. C., Gray, P., Bender, N., Eriksson, T., Kann, H., Apter, D., Paavonen, J., Pajunen, E., Prager, K. M., Sehr, P., Surcel, H.-M., Waterboer, T., Müller, M., Pawlita, M., & Lehtinen, M. (2021). Sustainability of neutralising antibodies induced by bivalent or quadrivalent HPV vaccines and correlation with efficacy: A combined follow-up analysis of data from two randomised, double-blind, multicentre, phase 3 trials. _The Lancet. Infectious Diseases_ , _21_ (10), 1458–1468. https://doi.org/10.1016/S14733099(20)30873-2
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.160]
+**Figure 2. The effects of vaccination programmes.** Adapted from Halloran et al., 2010 and Rosenblum et al., 2022. 
+
+
+
+Assessing the effect of HPV vaccination can be challenging for several reasons: 
+
+- Long latency from HPV infection to cancer. Fortunately, the natural history of cervical cancer provides us with multiple intermediate biological endpoints that can be measured (such as HPV infection, precancerous lesions and cancer), though this also increases the complexity of the assessment. 
+
+- Quality of information sources 
+
+- Coexistence of HPV vaccination programmes with cervical cancer screening activities that also contribute to reducing cervical cancer incidence and mortality. 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+7 
+
+
+
+###### **_The currently licensed HPV vaccines are prophylactic; they prevent HPV infection and HPV-related disease but have no therapeutic effect on existing infections and lesions._** 
+
+1.1 The effect of HPV vaccination programs on cervical HPV infection, precancerous lesions and cervical cancer. 
+
+**_NOTE:_** _As of November 2024, there are 6 commercialised HPV vaccines. This module focuses on the three HPV vaccines distributed in Europe, which differ on the HPV types they include:_ 
+
+- _Cervarix or bivalent vaccine: HPV16/18_ 
+
+- _Gardasil or quadrivalent vaccine: HPV16/18/6/11_ 
+
+- _Gardasil 9 or nonavalent vaccine: HPV16/18/31/33/45/52/58/6/11._
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.145]
+21. World Health Organization. (2018). Global Market Study: HPV. Available online. World Health Organization. (2020). Global strategy to accelerate the elimination of cervical cancer as a public health problem. Available online.
+22. World Health Organization. (2024). *Considerations for Human Papillomavirus (HPV) Vaccine Product Choice* . Available online.International Agency for Research on Cancer. (2023). *Protection from a Single Dose of HPV Vaccine* . Available online.
+23. Simms, K. T., Steinberg, J., Caruana, M., Smith, M. A., Lew, J.-B., Soerjomataram, I., Castle, P. E., Bray, F., & Canfell, K. (2019). Impact of scaled up human papillomavirus vaccination and cervical screening and the potential for global elimination of cervical cancer in 181 countries, 2020–99: A modelling study. The Lancet Oncology, 20(3), 394–407. https://doi.org/10.1016/S1470-2045(18)30836-2
+
+### Cite this work
+
+Our articles and data visualizations rely on work from many different people and organizations. When citing this article, please also cite the underlying data sources. This article can be cited as:
+
+`Saloni Dattani and Veronika Samborska (2024) - “HPV vaccination: How the world can eliminate cervical cancer” Published online at OurWorldinData.org. Retrieved from: 'https://archive.ourworldindata.org/20261102-112946/hpv-vaccination-world-can-eliminate-cervical-cancer.html' [Online Resource] (archived on November 2, 2026).`
+BibTeX citation
+
+```
+@article{owid-hpv-vaccination-world-can-eliminate-cervical-cancer,
+    author = {Saloni Dattani and Veronika Samborska},
+    title = {HPV vaccination: How the world can eliminate cervical cancer},
+    journal = {Our World in Data},
+    year = {2024},
+    note = {https://archive.ourworldindata.org/20261102-112946/hpv-vaccination-world-can-eliminate-cervical-cancer.html}
+}
+```
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.135]
+Palmer, T., McFadden, M., Pollock, K. G. J., Kavanagh, K., Cuschieri, K., Cruickshank, M., Cotton, S., Nicoll, S., & Robertson, C. (2016). HPV immunisation and cervical screening—confirmation of changed performance of cytology as a screening test in immunised women: A retrospective population-based cohort study. _British Journal of Cancer_ , _114_ (5), 582–589. https://doi.org/10.1038/bjc.2015.474 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+38 
+
+
+
+Palmer, T., Wallace, L., Pollock, K. G., Cuschieri, K., Robertson, C., Kavanagh, K., & Cruickshank, M. (2019). Prevalence of cervical disease at age 20 after immunisation with bivalent HPV vaccine at age 12-13 in Scotland: Retrospective population study. _BMJ (Clinical Research Ed.)_ , _365_ , l1161. https://doi.org/10.1136/bmj.l1161 
+
+- Pedersen, K., Burger, E. A., Nygård, M., Kristiansen, I. S., & Kim, J. J. (2018). Adapting cervical cancer screening for women vaccinated against human papillomavirus infections: The value of stratifying guidelines. _European Journal of Cancer_ , _91_ , 68–75. https://doi.org/10.1016/j.ejca.2017.12.018 
+
+Pimenoff, V. N., Gray, P., Louvanto, K., Eriksson, T., Lagheden, C., Söderlund-Strand, A., Dillner, J., & Lehtinen, M. (2023). Ecological diversity profiles of non-vaccinetargeted HPVs after gender-based community vaccination efforts. _Cell Host & Microbe_ , _31_ (11), 1921-1929.e3. https://doi.org/10.1016/j.chom.2023.10.001
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.133]
+###### Effect of HPV vaccination programs on cervical HPV infection by girls-only vaccination 
+
+This section examines the impact of the introduction of HPV vaccination programs using the results of a systematic review and meta-analysis of 65 studies published up to 2019 (Drolet et al., 2019). The meta-analysis includes data on more than 60 million individuals from 14 high-income countries that incorporated the bivalent or quadrivalent vaccines into their national immunisation programmes. The study compared the frequency of various HPV-related outcomes during the prevaccination periods (before a programme was introduced) and post-vaccination periods (after the programme was introduced) and included follow-up of up to 8 years after vaccination. 
+
+**_NOTE:_** _This study provides the impact of HPV vaccines when only girls with the initial schedule of 3 doses were vaccinated but larger effects in boys and girls are obtained when genderneutral vaccination is implemented, as described in Unit 1.3._ 
+
+As expected, the first observed impact following the implementation of the HPV vaccine was a reduction in the prevalence of HPV infections and a reduction in the incidence of anogenital warts ( **Figure 3** ). 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+8 
+
+
+
+
+
+**Figure 3. Pre- vs post-vaccination changes in HPV16/18 infection prevalence at 5-8 years following vaccination.** Adapted from Drolet et al. 2019 
+
+**_NOTE_** _: The figure above is a forest plot, commonly used in meta-analyses. The diamond represents the estimated effect while the horizonal lines indicate the 95% confidence interval (95%CI). In this figure, the vertical line at 1 represents no vaccine effect – if a 95%CI crosses it, the estimated effect is not statistically significant. Estimated effects below 1 indicate HPV prevalence reduction._ 
+
+HPV16 and HPV18 prevalence was reduced in girls and women aged 13-29 in comparison with the pre-vaccination period, with a more pronounced reduction in younger age groups (83% reduction among girls and women aged 13-19). Women aged 25-29, most of which unvaccinated, showed a 37% reduction in HPV16 and HPV18 prevalence, pointing to herd protection.
+
+---
+
+[referencia=f4a3d78ffd526476 score=0.126]
+15. Davies-Oliveira, J. C., Smith, M. A., Grover, S., Canfell, K., & Crosbie, E. J. (2021). Eliminating Cervical Cancer: Progress and Challenges for High-income Countries. Clinical Oncology, 33(9), 550–559. https://doi.org/10.1016/j.clon.2021.06.013 Simms, K. T., Steinberg, J., Caruana, M., Smith, M. A., Lew, J.-B., Soerjomataram, I., Castle, P. E., Bray, F., & Canfell, K. (2019). Impact of scaled up human papillomavirus vaccination and cervical screening and the potential for global elimination of cervical cancer in 181 countries, 2020–99: A modelling study. The Lancet Oncology, 20(3), 394–407. https://doi.org/10.1016/S1470-2045(18)30836-2 Canfell, K., Kim, J. J., Brisson, M., Keane, A., Simms, K. T., Caruana, M., Burger, E. A., Martin, D., Nguyen, D. T. N., Bénard, É., Sy, S., Regan, C., Drolet, M., Gingras, G., Laprise, J.-F., Torode, J., Smith, M. A., Fidarova, E., Trapani, D., … Hutubessy, R. (2020). Mortality impact of achieving WHO cervical cancer elimination targets: A comparative modelling analysis in 78 low-income and lower-middle-income countries. The Lancet, 395(10224), 591–603. https://doi.org/10.1016/S0140-6736(20)30157-4
+16. This was estimated by the WHO’s Global Cancer Observatory for 2022.
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.126]
+##### Should screening be continued in vaccinated women? 
+
+Women vaccinated in pre-adolescence have a lower risk of developing high-grade cervical precancerous lesions and cervical cancer. Therefore, continuing with current screening recommendations, originally tailored for unvaccinated populations, may lead to over-screening in vaccinated cohorts, thereby increasing screening-related harms (see **MODULE 2** ). 
+
+###### EXAMPLE 
+
+Using the follow-up screening data from over 20,000 Dutch women (Inturrisi et al., 2021 RISCC ), it was estimated that the lifetime risk of CIN3+ to be detected by a five-yearly primary HPV screening programme in vaccinated women between age 30-60 is very low, particularly when protection is life-long and beyond genotypes 16 and 18 (lifetime CIN3+ risk of 4.1% in unvaccinated women vs 0.5% in women with the nonavalent vaccine). 
+
+
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+21 
+
+
+
+
+
+However, cervical cancer screening in vaccinated women may remain beneficial as: 
+
+- Current vaccines do not protect against all oncogenic HPVs, leaving approximately 10% of cervical cancer cases still not vaccine preventable (de Sanjosé et al., 2018). 
+
+- Women already infected with an oncogenic HPV type are not protected by the vaccine for that type (Hildesheim et al., 2007). 
+
+- Although there is no evidence of waning efficacy, the HPV vaccines are relatively new and there is no data on whether girls vaccinated at young ages will still be protected from infection 15-25 years later.
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.123]
+###### **Did you know?** 
+
+Sweden is nationally offering concomitant HPV vaccination and screening of cervical cancer to unvaccinated women aged 23 to 29. Modelled data based on the baseline results on screening and acceptance rates predict that this strategy can reduce the incidence of hrHPV infections in the targeted women by 62-64% in 3 years, leading to a faster elimination of cervical cancer (Arroyo Mühr et al., 2024 **RISCC** ). 
+
+A large community-randomised trial was set up to examine the effect of the bivalent HPV vaccine when offered through a gender-neutral vaccination strategy (Lehtinen et al., 2015). The study randomised 33 communities in Finland to three arms: no vaccination, vaccination of only preadolescent (12-15 years) girls or vaccination of preadolescent girls and boys between 2007 and 2009. At a later stage, the trial was re-randomised to infrequent vs frequent screening to assess the screening needs of vaccinated cohorts. 
+
+Despite moderate coverage levels (approximately 45% in girls in both arms and 20% in boys), relevant results have been observed: 
+
+- Four years after vaccination, unvaccinated women from the gender-neutral vaccination communities showed a statistically significant 59% reduction in HPV 18, 31 and 33 prevalence (Vänskä et al., 2020) which is 150% stronger than in communities with girls-only vaccination. 
+
+- Four years after vaccination, a herd effect for HPV16 was only observed in the gender-neutral vaccination communities (Gray et al., 2021). 
+
+- Eight years after vaccination, HPV 16, 18 and 31 prevalence was lower in both vaccinated communities (girls-only or gender-neutral vaccination) but HPV45 was only lower in gender-neutral vaccinated communities (Pimenoff et al., 2023 **RISCC** ). 
+
+
+
+_CC BY-NC-SA 4.0 – © 2025 The RISCC project consortium Evidence-Based Approaches to HPV Screening implementation. Module 6 - Impact of HPV vaccination on screening_ 
+
+18
+
+---
+
+[referencia=b2d8bf37e2e4f0eb score=0.107]
+### <mark>BIBLIOGRAPHY</mark> 
+
+Arbyn, M., Rousta, P., Bruni, L., Schollin Ask, L., & Basu, P. (2024). Linkage of individualpatient data confirm protection of prophylactic human papillomavirus vaccination against invasive cervical cancer. _JNCI: Journal of the National Cancer Institute_ , djae042. https://doi.org/10.1093/jnci/djae042 
+
+Arroyo Mühr, L. S., Gini, A., Yilmaz, E., Hassan, S. S., Lagheden, C., Hultin, E., Garcia Serrano, A., Ure, A. E., Andersson, H., Merino, R., Elfström, K. M., Baussano, I., & Dillner, J. (2024). Concomitant human papillomavirus (HPV) vaccination and screening for elimination of HPV and cervical cancer. _Nature Communications_ , _15_ (1), 3679. https://doi.org/10.1038/s41467-024-47909-x 
+
+Asti, L., Hopley, C., Avelis, C., Bartsch, S. M., Mueller, L. E., Domino, M., Cox, S. N., Andrews, J. C., Randall, S. L., Stokes-Cawley, O. J., Asjes, C., & Lee, B. Y. (2021). The Potential Clinical and Economic Value of a Human Papillomavirus Primary Screening Test That Additionally Identifies Genotypes 31, 45, 51, and 52 Individually. _Sexually Transmitted Diseases_ , _48_ (5), 370–380. https://doi.org/10.1097/OLQ.0000000000001327 
+
+- Baussano, I. (2010). _HPV-16 Infection and Cervical Cancer: A dynamic model_ [Ph.D., Imperial College London]. 
+
+https://ethos.bl.uk/OrderDetails.do?did=1&uin=uk.bl.ethos.526378

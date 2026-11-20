@@ -1,0 +1,459 @@
+[referencia=56356420a12ce27d score=0.814]
+# **4.8 Undesirable effects** 
+
+# <u>A. Summary of the safety profile</u> 
+
+In 7 clinical trials, individuals were administered Gardasil 9 on the day of enrolment and approximately 2 and 6 months thereafter. Safety was evaluated using vaccination report card (VRC)-aided surveillance for 14 days after each injection of Gardasil 9. A total of 15,776 individuals (10,495 subjects 16 through 26 years of age and 5,281 girls and boys 9 through 15 years of age at enrolment) received Gardasil 9. Few individuals (0.1%) discontinued due to adverse experiences. 
+
+In one of these clinical trials which enrolled 1,053 healthy girls and boys 11-15 years of age, administration of the first dose of Gardasil 9 concomitantly with a combined diphtheria, tetanus, pertussis [acellular, component] and poliomyelitis [inactivated] booster vaccine showed that more injection-site reactions (swelling, erythema), headache and pyrexia were reported. The differences observed were < 10% and in the majority of subjects, the adverse events were reported as mild to moderate in intensity (see section 4.5). 
+
+The most common adverse reactions observed with Gardasil 9 were injection-site adverse reactions (84.8% of vaccinees within 5 days following any vaccination visit) and headache (13.2% of the vaccinees within 15 days following any vaccination visit). These adverse reactions usually were mild or moderate in intensity. 
+
+# <u>B. Tabulated summary of adverse reactions</u> 
+
+The adverse reactions are categorized by frequency using the following convention: 
+
+- Very common (≥1/10) 
+
+- Common (≥1/100 to <1/10) 
+
+- Uncommon (≥1/1,000 to <1/100) 
+
+- Rare (≥1/10,000 to <1/1,000) 
+
+- Not known (cannot be estimated from the available data)
+
+---
+
+[referencia=56356420a12ce27d score=0.797]
+# <u>Clinical Trials</u> 
+
+Table 1 presents adverse reactions considered as being at least possibly related to vaccination and observed in recipients of Gardasil 9 at a frequency of at least 1.0% from 7 clinical trials (PN 001, 002, 003, 005, 006, 007 and 009, N=15,776 individuals) (see section 5.1 for description of the clinical trials). 
+
+# <u>Post-marketing experience</u> 
+
+Table 1 also includes adverse events which have been spontaneously reported during the post-marketing use of Gardasil 9 worldwide. Their frequencies were estimated based on relevant clinical trials. 
+
+5 
+
+WHO-PI-V503-I-092022 
+
+Table 1: Adverse reactions following administration of Gardasil 9 from clinical trials and adverse <u>events from post-marketing data</u> 
+
+|**System Organ Class**|**Frequency**|**Adverse reactions**|
+|---|---|---|
+|Blood and lymphatic system<br>disorders|Uncommon|Lymphadenopathy*|
+||Rare|Hypersensitivity*|
+|Immune system disorders|Not known|Anaphylactic reactions*|
+||Very common|Headache|
+|Nervous system disorders|Common|Dizziness|
+||Uncommon|Syncope sometimes accompanied by tonic-<br>clonic movements*|
+||Common|Nausea|
+|Gastrointestinal disorders|Uncommon|Vomiting*|
+|Skin and subcutaneous tissue<br>disorders|Uncommon|Urticaria*|
+|Musculoskeletal and connective<br>tissue disorders|Uncommon|Arthralgia*, myalgia*|
+||Very common|At the injection-site: pain, swelling, erythema|
+|General disorders and<br>administration site conditions|Common|Pyrexia, fatigue,<br>At the injection-site: pruritus, bruising|
+||Uncommon|Asthenia*, chills*, malaise|
+
+
+
+*Adverse events reported during post-marketing use of Gardasil 9. The frequency was estimated based on relevant clinical trials. For events not observed in clinical trials the frequency is indicated as “Not known”.
+
+---
+
+[referencia=56356420a12ce27d score=0.532]
+# _qHPV vaccine_ 
+
+The following adverse experiences have been spontaneously reported during post-approval use of qHPV vaccine and may also be seen in post-marketing experience with Gardasil 9. The post-marketing safety experience with qHPV vaccine is relevant to Gardasil 9 since the vaccines contain L1 HPV proteins of 4 of the same HPV types. 
+
+Because these events were reported voluntarily from a population of uncertain size, it is not possible to reliably estimate their frequency or to establish, for all events, a causal relationship to vaccine exposure. 
+
+Infections and infestations: Injection-site cellulitis. 
+
+Blood and lymphatic system disorders: Idiopathic thrombocytopenic purpura. 
+
+Immune system disorders: Anaphylactoid reactions, bronchospasm. 
+
+Nervous system disorders: Acute disseminated encephalomyelitis, Guillain-Barré syndrome. 
+
+6 
+
+WHO-PI-V503-I-092022 
+
+# <u>Reporting of suspected adverse reactions</u> 
+
+Reporting suspected adverse reactions after authorisation of the medicinal product is important. It allows continued monitoring of the benefit/risk balance of the medicinal product. 
+
+# **4.9 Overdose** 
+
+No cases of overdose have been reported. 
+
+# **5. PHARMACOLOGICAL PROPERTIES** 
+
+# **5.1 Pharmacodynamic properties** 
+
+Pharmacotherapeutic group: Vaccines, Papillomavirus vaccines, ATC code: J07BM03
+
+---
+
+[referencia=56356420a12ce27d score=0.488]
+*The PPI population consisted of individuals who received all three vaccinations within pre-defined day ranges, did not have major deviations from the study protocol, met predefined criteria for the interval between the Month 6 and Month 7 visit, were naïve (PCR negative [among 16- through 26-year-old girls and women] and seronegative) to the relevant HPV type(s) (types 6, 11, 16, and 18) prior to dose 1, and among 16- through 26-year-old girls and women, were PCR negative to the relevant HPV type(s) through one month postdose 3 (Month 7). §mMU=milli-Merck units. ¶p-value <0.001. #Demonstration of non-inferiority required that the lower bound of the 95% CI of the GMT ratio be greater than 0.67. CI=Confidence Interval. GMT=Geometric Mean Titers. cLIA= Competitive Luminex Immunoassay. N= Number of individuals randomized to the respective vaccination group who received at least one injection. n= Number of individuals contributing to the analysis.
+
+---
+
+[referencia=56356420a12ce27d score=0.365]
+# **Immune Responses to Gardasil 9 using a 2-dose schedule in girls and boys 9 through 14 years of age** 
+
+Protocol 010 measured HPV antibody responses to the 9 HPV types after Gardasil 9 vaccination in the following cohorts: girls and boys 9 to 14 years old receiving 2 doses at a 6 month or 12-month interval (+/- 1 month); girls 9 to 14 years old receiving 3 doses (at 0, 2, 6 months); and women 16 to 26 years old receiving 3 doses (at 0, 2, 6 months). 
+
+One month following the last dose of the assigned regimen, between 97.9% and 100% of subjects across all groups became seropositive for antibodies against the 9 vaccine HPV types. GMTs were higher in girls and boys who received 2 doses of Gardasil 9 (at either 0, 6 months or 0, 12 months) than 16 to 26-year-old girls and women who received 3 doses of Gardasil 9 (at 0, 2, 6 months) for each 
+
+15 
+
+WHO-PI-V503-I-092022 
+
+of the 9 vaccine HPV types. On the basis of this immunogenicity bridging, the efficacy of a 2-dose regimen of Gardasil 9 in 9 to 14-year-old girls and boys is inferred. 
+
+In the same study, in girls and boys 9 to 14 years old, GMTs at one month after the last vaccine dose were numerically lower for some vaccine types after a 2-dose schedule than after a 3-dose schedule (i.e., HPV types 18, 31, 45, and 52 after 0, 6 months and HPV type 45 after 0, 12 months). The clinical relevance of these findings is unknown. 
+
+Duration of protection of a 2-dose schedule of Gardasil 9 has not been established.
+
+---
+
+[referencia=56356420a12ce27d score=0.183]
+|9 to 15-year-old boys|1239|1072|1545.8 (1470.6, 1624.8)|
+|16 to 26-year-old women|7260|4818|489.2 (477.5, 501.2)|
+
+
+
+*The PPI population consisted of individuals who received all three vaccinations within pre-defined day ranges, did not have major deviations from the study protocol, met predefined criteria for the interval between the Month 6 and Month 7 visit, were naïve (PCR negative and seronegative) to the relevant HPV type(s) (types 6, 11, 16, and 18) prior to dose 1, and among 16- through 26-year-old girls and women, were PCR negative to the relevant HPV type(s) through one month postdose 3 (Month 7). 
+
+§mMU=milli-Merck Units. 
+
+cLIA=Competitive Luminex Immunoassay. CI=Confidence Interval. 
+
+GMT=Geometric Mean Titers. N= Number of individuals randomized to the respective vaccination group who received at least one injection. n= Number of individuals contributing to the analysis. 
+
+Anti-HPV responses at Month 7 among 9- through 15-year-old girls/boys were comparable to anti-HPV responses in 16- through 26-year-old women in the combined database of immunogenicity studies for Gardasil 9. 
+
+14 
+
+WHO-PI-V503-I-092022 
+
+On the basis of this immunogenicity bridging, the efficacy of Gardasil 9 in 9- through 15-year-old girls and boys is inferred. 
+
+Anti-HPV antibody GMTs at Month 7 among 16- through 26-year-old boys and men (HM) were comparable to anti-HPV antibody GMTs among 16- through 26-year-old girls and women. High immunogenicity in 16- through 26-year-old MSM was also observed, although lower than in HM, similarly to qHPV vaccine. These results support the efficacy of Gardasil 9 in the male population.
+
+---
+
+[referencia=56356420a12ce27d score=0.170]
+There are no data on the use of Gardasil 9 in individuals with impaired immune responsiveness. Safety and immunogenicity of a qHPV vaccine have been assessed in individuals aged from 7 to 12 years who are known to be infected with human immunodeficiency virus (HIV) (see section 5.1). 
+
+3 
+
+WHO-PI-V503-I-092022 
+
+Individuals with impaired immune responsiveness, due to either, the use of potent immunosuppressive therapy, a genetic defect, Human Immunodeficiency Virus (HIV) infection, or other causes, may not respond to the vaccine. 
+
+This vaccine should be given with caution to individuals with thrombocytopaenia or any coagulation disorder because bleeding may occur following an intramuscular administration in these individuals. 
+
+Long-term follow-up studies are currently ongoing to determine the duration of protection (see section 5.1). 
+
+There are no safety, immunogenicity or efficacy data to support interchangeability of Gardasil 9 with bivalent or quadrivalent HPV vaccines. 
+
+# <u>Sodium</u> 
+
+This medicinal product contains less than 1 mmol sodium (23 mg) per dose, that is to say essentially “sodium-free”. 
+
+# **4.5 Interaction with other medicinal products and other forms of interaction** 
+
+Safety and immunogenicity in individuals who have received immunoglobulin or blood-derived products during the 3 months prior to vaccination have not been studied in clinical trials. 
+
+# <u>Use with other vaccines</u> 
+
+Gardasil 9 may be administered concomitantly with a combined booster vaccine containing diphtheria (d) and tetanus (T) with either pertussis [acellular, component] (ap) and/or poliomyelitis [inactivated] (IPV) (dTap, dT-IPV, dTap-IPV vaccines) with no significant interference with antibody response to any of the components of either vaccine. This is based on the results from a clinical trial in which a combined dTap-IPV vaccine was administered concomitantly with the first dose of Gardasil 9 (see section 4.8).
+
+---
+
+[referencia=56356420a12ce27d score=0.163]
+# **Immune response to Gardasil 9 at month 7 across all clinical studies** 
+
+Immunogenicity was measured by (1) the percentage of individuals who were seropositive for antibodies against the relevant vaccine HPV type, and (2) the Geometric Mean Titer (GMT). 
+
+Gardasil 9 induced robust anti-HPV 6, anti-HPV 11, anti-HPV 16, anti-HPV 18, anti-HPV 31, antiHPV 33, anti-HPV 45, anti-HPV 52, and anti-HPV 58 responses measured at Month 7 (Table 5). In clinical studies 99.6% to 100% who received Gardasil 9 became seropositive for antibodies against all 9 vaccine types by Month 7 across all groups tested. GMTs were higher in girls and boys than in 16through 26-year-old women, and higher in boys than in girls and women. 
+
+13 
+
+WHO-PI-V503-I-092022 
+
+<u>Table 5: Summary of month 7 Anti-HPV cLIA Geometric Mean Titers in the PPI* population</u>
+
+---
+
+[referencia=56356420a12ce27d score=0.147]
+# **1. NAME OF THE MEDICINAL PRODUCT** 
+
+Gardasil™9 suspension for injection Human Papillomavirus 9-valent Vaccine (Recombinant) 
+
+# **2. QUALITATIVE AND QUANTITATIVE COMPOSITION** 
+
+1 dose (0.5 mL) contains approximately: 
+
+Human Papillomavirus<sup>1</sup> Type 6 L1 protein<sup>2,3</sup> 30 micrograms Human Papillomavirus<sup>1</sup> Type 11 L1 protein<sup>2,3</sup> 40 micrograms Human Papillomavirus<sup>1</sup> Type 16 L1 protein<sup>2,3</sup> 60 micrograms Human Papillomavirus<sup>1</sup> Type 18 L1 protein<sup>2,3</sup> 40 micrograms Human Papillomavirus<sup>1</sup> Type 31 L1 protein<sup>2,3</sup> 20 micrograms Human Papillomavirus<sup>1</sup> Type 33 L1 protein<sup>2,3</sup> 20 micrograms Human Papillomavirus<sup>1</sup> Type 45 L1 protein<sup>2,3</sup> 20 micrograms Human Papillomavirus<sup>1</sup> Type 52 L1 protein<sup>2,3</sup> 20 micrograms Human Papillomavirus<sup>1</sup> Type 58 L1 protein<sup>2,3</sup> 20 micrograms 
+
+1Human Papillomavirus = HPV. 
+
+> 2L1 protein in the form of virus-like particles produced in yeast cells ( _Saccharomyces cerevisiae_ CANADE 3C-5 (Strain 1895)) by recombinant DNA technology. 
+
+3Adsorbed on amorphous aluminium hydroxyphosphate sulphate adjuvant (0.5 milligrams Al). 
+
+For the full list of excipients, see section 6.1. 
+
+# **3. PHARMACEUTICAL FORM** 
+
+Suspension for injection. Clear liquid with white precipitate. 
+
+# **4. CLINICAL PARTICULARS**
+
+---
+
+[referencia=56356420a12ce27d score=0.135]
+||**Gardas**<br>**N=7099**|**il 9**<br><br>|**qHPV**<br>**N=710**|**Vaccine**<br>**5**<br>|**%Efficacy****|
+|---|---|---|---|---|---|
+|**Disease Endpoint**|n|Number<br>of<br>cases*|n|Number<br>of<br>cases*|<br>**(95% CI)**|
+|**HPV 31-, 33-, 45-, 52-, 58-related CIN 2/3,**<br>**AIS, Cervical Cancer, VIN 2/3, VaIN 2/3,**<br>**Vulvar Cancer, and Vaginal Cancer**<sup>**α**</sup>|6016|1|6017|38|97.4<br>(85.0, 99.9)|
+|**HPV 31-, 33-, 45-, 52-, 58-related CIN 2/3**<br>**or AIS**<sup>**α**</sup><br>**HPV 31-, 33-, 45-, 52-, 58-related CIN2**<br>**HPV 31-, 33-, 45-, 52-, 58-related CIN3**|5949<br>5949<br>5949|1<br>1<br>0|5943<br>5943<br>5943|35<br>32<br>7|97.1<br>(83.5, 99.9)<br>96.9<br>(81.5, 99.8)<br>100<br>(39.4, 100)|
+|**HPV 31-, 33-, 45-, 52-, 58-related VIN 2/3,**<br>**VaIN 2/3**|6009|0|6012|3|100.0<br>(-71.5, 100.0)|
+|**HPV 31-, 33-, 45-, 52-, 58-related**<br>**Persistent Infection ≥6 Months**<sup>**§**</sup>|5941|41|5955|946|96.0<br>(94.6, 97.1)|
+
+---
+
+[referencia=56356420a12ce27d score=0.112]
+|**HPV 31-, 33-, 45-, 52-, 58-related**<br>**Persistent Infection ≥12 Months**<sup>**¶**</sup>|5941|23|5955|657|96.7<br>(95.1, 97.9)|
+|**HPV 31-, 33-, 45-, 52-, 58-related ASC-US**<br>**HR-HPV Positive or Worse Pap**<sup>**#**</sup><br>**Abnormality**|5883|37|5882|506|92.9<br>(90.2, 95.1)|
+|**HPV 31-, 33-, 45-, 52-, 58-related cervical**<br>**definitive therapy procedures**<sup>**†**</sup>|6013|4|6014|41|90.2<br>(75.0, 96.8)|
+
+
+
+‡The PPE population consisted of individuals who received all 3 vaccinations within one year of enrolment, did not have major deviations from the study protocol, were naïve (PCR negative and seronegative) to the relevant HPV type(s) (Types 31, 33, 45, 52, and 58) prior to dose 1, and who remained PCR negative to the relevant HPV type(s) through one month postdose 3 (Month 7). 
+
+N=Number of individuals randomized to the respective vaccination group who received at least one injection n=Number of individuals contributing to the analysis 
+
+§Persistent infection detected in samples from two or more consecutive visits 6 months (±1 month visit windows) apart. 
+
+¶Persistent infection detected in samples from three or more consecutive visits 6 months (±1 month visit windows) apart. 
+
+#Papanicolaou test. CI=Confidence Interval. ASC-US=Atypical squamous cells of undetermined significance. HR=High Risk. 
+
+*Number of individuals with at least one follow-up visit after Month 7 
+
+**Subjects were followed for up to 67 months postdose 3 (median 43 months postdose 3) αno cases of cervical cancer, VIN2/3, vulvar and vaginal cancer were diagnosed in the PPE population †loop electrosurgical excision procedure (LEEP) or conisation
+
+---
+
+[referencia=56356420a12ce27d score=0.095]
+# **4.2 Posology and method of administration** 
+
+# <u>Posology</u> 
+
+_Girls and Boys 9 to and including 14 years of age at time of first injection_ Gardasil 9 can be administered according to a 2-dose schedule (see section 5.1). The second dose should be administered between 5 and 13 months after the first dose. If the second vaccine dose is administered earlier than 5 months after the first dose, a third dose should always be administered. 
+
+Gardasil 9 can be administered according to a 3-dose (0, 2, 6 months) schedule. The second dose should be administered at least one month after the first dose and the third dose should be administered at least 3 months after the second dose. All three doses should be given within a 1-year period. 
+
+_Women and Men 15 years of age and older at time of first injection_ Gardasil 9 should be administered according to a 3-dose (0, 2, 6 months) schedule. 
+
+The second dose should be administered at least one month after the first dose and the third dose should be administered at least 3 months after the second dose. All three doses should be given within a 1-year period. 
+
+The use of Gardasil 9 should be in accordance with official recommendations. 
+
+It is recommended that individuals who receive a first dose of Gardasil 9 complete the vaccination course with Gardasil 9 (see section 4.4). 
+
+The need for a booster dose has not been established _._ 
+
+Studies using a mixed regimen (interchangeability) of HPV vaccines were not performed for Gardasil 9. 
+
+Subjects previously vaccinated with a 3-dose regimen of quadrivalent HPV types 6, 11, 16, and 18 vaccine (Gardasil), hereafter referred to as qHPV vaccine, may receive 3 doses of Gardasil 9 (see section 5.1). 
+
+# _Paediatric population (girls and boys <9 years of age)_ 
+
+The safety and efficacy of Gardasil 9 in girls and boys below 9 years of age have not been established. No data are available (see section 5.1).
+
+---
+
+[referencia=56356420a12ce27d score=0.093]
+# **<u>Impact of Gardasil 9 against cervical biopsy and definite therapy related to HPV Types 6, 11, 16, 18, 31, 33, 45, 52, and 58 in the PPE</u>** 
+
+The efficacy of Gardasil 9 against cervical biopsy related to HPV Types 6, 11, 16, 18, 31, 33, 45, 52, and 58 compared to qHPV vaccine was 95.9% (95% CI 92.7; 97.9) with 11/6016 versus 262/6018 cases. The efficacy of Gardasil 9 against cervical definitive therapy (including loop electrosurgical excision procedure [LEEP] or conisation) related to HPV Types 6, 11, 16, 18, 31, 33, 45, 52, and 58 compared to qHPV vaccine was 90.7% (95% CI 76.3; 97.0) with 4/6016 versus 43/6018 cases. 
+
+# <u>Immunogenicity</u> 
+
+The minimum anti-HPV titer that confers protective efficacy has not been determined. 
+
+Type-specific immunoassays with type-specific standards were used to assess immunogenicity to each vaccine HPV type. These assays measured antibodies against neutralizing epitopes for each HPV type. The scales for these assays are unique to each HPV type; thus, comparisons across types and to other assays are not appropriate.
+
+---
+
+[referencia=56356420a12ce27d score=0.086]
+# **Administration of Gardasil 9 to girls and women previously vaccinated with qHPV vaccine** 
+
+Protocol 006 evaluated the immunogenicity of Gardasil 9 in 921 girls and women (12 through 26 years of age) who had previously been vaccinated with qHPV vaccine. For subjects receiving Gardasil 9 after receiving 3 doses of qHPV vaccine, there was an interval of at least 12 months between completion of vaccination with qHPV vaccine and the start of vaccination with Gardasil 9 with a 3-dose regimen (the time interval ranged from approximately 12 to 36 months). 
+
+Seropositivity to HPV Types 6, 11, 16, 18, 31, 33, 45, 52, and 58 in the per protocol population ranged from 98.3 to 100% by Month 7 in individuals who received Gardasil 9. The GMTs to HPV Types 6, 11, 16, and 18 were higher than in the population who had not previously received qHPV vaccine in other studies whereas the GMTs to HPV Types 31, 33, 45, 52 and 58 were lower. The clinical significance of this observation is not known.
+
+---
+
+[referencia=56356420a12ce27d score=0.081]
+# <u>Use with hormonal contraceptives</u> 
+
+In clinical studies, 60.2% of women aged 16 through 26 years who received Gardasil 9 used hormonal contraceptives during the vaccination period of the clinical studies. Use of hormonal contraceptives did not appear to affect the type specific immune responses to Gardasil 9. 
+
+# **4.6 Fertility, pregnancy and lactation** 
+
+# <u>Pregnancy</u> 
+
+A large amount of data on pregnant women (more than 1000 pregnancy outcomes) indicates no malformative nor foeto/neonatal toxicity of Gardasil 9 (see section 5.1). 
+
+Animal studies do not indicate reproductive toxicity (see section 5.3). 
+
+However, these data are considered insufficient to recommend use of Gardasil 9 during pregnancy. Vaccination should be postponed until completion of pregnancy (see section 5.1). 
+
+# <u>Breast-feeding</u> 
+
+Gardasil 9 can be used during breast-feeding. 
+
+A total of 92 women were breast-feeding during the vaccination period of the clinical studies of Gardasil 9. In the studies, vaccine immunogenicity was comparable between breast-feeding women and women who did not breast-feed. In addition, the adverse experience profile for breast-feeding women was comparable to that of the women in the overall safety population. There were no 
+
+4 
+
+WHO-PI-V503-I-092022 
+
+vaccine-related serious adverse experiences reported in infants who were breast-feeding during the vaccination period. 
+
+# <u>Fertility</u> 
+
+No human data on the effect of Gardasil 9 on fertility are available. Animal studies do not indicate harmful effects on fertility (see section 5.3). 
+
+# **4.7 Effects on ability to drive and use machines** 
+
+Gardasil 9 has no or negligible influence on the ability to drive or use machines. However, some of the effects mentioned under section 4.8 “Undesirable effects” may temporarily affect the ability to drive or use machines. 
+
+# **4.8 Undesirable effects**
+
+---
+
+[referencia=56356420a12ce27d score=0.073]
+# <u>Mechanism of action</u> 
+
+Gardasil 9 is an adjuvanted non-infectious recombinant 9-valent vaccine. It is prepared from the highly purified virus-like particles (VLPs) of the major capsid L1 protein from the same four HPV types (6, 11, 16, 18) in qHPV vaccine Gardasil and from 5 additional HPV types (31, 33, 45, 52, 58). It uses the same amorphous aluminium hydroxyphosphate sulphate adjuvant as qHPV vaccine. The VLPs cannot infect cells, reproduce or cause disease. The efficacy of L1 VLP vaccines is thought to be mediated by the development of a humoral immune response. 
+
+Based on epidemiology studies, Gardasil 9 is anticipated to protect against the HPV types that cause approximately: 90% of cervical cancers, more than 95% of adenocarcinoma _in situ_ (AIS), 75-85% of high-grade cervical intraepithelial neoplasia (CIN 2/3), 85-90% of HPV related vulvar cancers, 90-95% of HPV related high-grade vulvar intraepithelial neoplasia (VIN 2/3), 80-85% of HPV related vaginal cancers, 75-85% of HPV related high-grade vaginal intraepithelial neoplasia (VaIN 2/3), 90-95% of HPV related anal cancer, 85-90% of HPV related high-grade anal intraepithelial neoplasia (AIN2/3), and 90% of genital warts. 
+
+The indication of Gardasil 9 is based on:
+
+---
+
+[referencia=56356420a12ce27d score=0.067]
+|**Genital Warts**||||||
+|**16- Through 26-Year-Old Boys a**<br>|**nd Men**|||||
+|**External HPV 6-, 11-, 16-, or**<br>**18-related Genital Lesions**<sup>***</sup>|1394|3|1404|32|90.6 (70.1, 98.2)|
+|**HPV 6-, 11-, 16-, or 18-related**<br>**Genital Warts**<sup>***</sup>|1394|3|1404|28|89.3 (65.3, 97.9)|
+|**HPV 6-, 11-, 16-, or 18-related**<br>**PIN 1/2/3**<sup>***</sup>|1394|0|1404|4|100.0 (-52.1,<br>100.0)|
+|**HPV 6-, 11-, 16-, or 18-related**<br>**AIN 2/3**<sup>****</sup>|194|3|208|13|74.9 (8.8, 95.4)|
+
+
+
+*The PPE population consisted of individuals who received all 3 vaccinations within 1 year of enrolment, did not have major deviations from the study protocol, and were naïve (PCR negative and seronegative) to the relevant HPV type(s) (Types 6, 11, 16, and 18) prior to dose 1 and through 1 month postdose 3 (Month 7). †Analyses of the combined trials were prospectively planned and included the use of similar study entry criteria. N=Number of individuals with at least 1 follow-up visit after Month 7. CI=Confidence Interval. **Patients were followed for up to 4 years (median 3.6 years) ***Median duration of follow-up 2.4 years ****Median duration of follow-up was 2.15 years
+
+---
+
+[referencia=56356420a12ce27d score=0.067]
+# _Woman population ≥ 27 years of age_ 
+
+The safety and efficacy of Gardasil 9 in women 27 years of age and older have not been studied (see section 5.1). 
+
+# <u>Method of administration</u> 
+
+The vaccine should be administered by intramuscular injection. The preferred site is the deltoid area of the upper arm or in the higher anterolateral area of the thigh. 
+
+Gardasil 9 must not be injected intravascularly, subcutaneously or intradermally. The vaccine should not be mixed in the same syringe with any other vaccines and solution. 
+
+For instructions on the handling of the vaccine before administration, see section 6.6. 
+
+2 
+
+WHO-PI-V503-I-092022 
+
+# **4.3 Contraindications** 
+
+Hypersensitivity to the active substances or to any of the excipients listed in section 6.1. 
+
+Individuals with hypersensitivity after previous administration of Gardasil 9 or Gardasil should not receive Gardasil 9. 
+
+# **4.4 Special warnings and precautions for use**
+
+---
+
+[referencia=56356420a12ce27d score=0.057]
+# <u>Clinical studies for Gardasil 9</u> 
+
+Efficacy and/or immunogenicity of Gardasil 9 were assessed in eight clinical studies. Clinical studies evaluating the efficacy of Gardasil 9 against placebo were not acceptable because HPV vaccination is recommended and implemented in many countries for protection against HPV infection and disease. 
+
+Therefore, the pivotal clinical study (Protocol 001) evaluated the efficacy of Gardasil 9 using qHPV vaccine as a comparator. 
+
+Efficacy against HPV Types 6, 11, 16, and 18 was primarily assessed using a bridging strategy that demonstrated comparable immunogenicity (as measured by Geometric Mean Titers [GMT]) of Gardasil 9 compared with qHPV vaccine (Protocol 001 and GDS01C/Protocol 009). 
+
+9 
+
+WHO-PI-V503-I-092022 
+
+In the pivotal study Protocol 001, the efficacy of Gardasil 9 against HPV Types 31, 33, 45, 52, and 58 was evaluated compared to qHPV vaccine in women 16 through 26 years of age (N=14,204: 7,099 receiving Gardasil 9; 7,105 receiving qHPV vaccine). 
+
+Protocol 002 evaluated immunogenicity of Gardasil 9 in girls and boys 9 through 15 years of age and women 16 through 26 years of age (N=3,066: 1,932 girls; 666 boys; and 468 women receiving Gardasil 9). 
+
+Protocol 003 evaluated immunogenicity of Gardasil 9 in men 16 through 26 years of age and women 16 through 26 years of age (1,103 Heterosexual Men [HM]; 313 Men Who Have Sex with Men [MSM]; and 1,099 women receiving Gardasil 9). 
+
+Protocols 005 and 007 evaluated Gardasil 9 concomitantly administered with vaccines recommended routinely in girls and boys 11 through 15 years of age (N=2,295). 
+
+Protocol 006 evaluated administration of Gardasil 9 to girls and women 12 through 26 years of age previously vaccinated with qHPV vaccine (N=921; 615 receiving Gardasil 9 and 306 receiving placebo).
+
+---
+
+[referencia=56356420a12ce27d score=0.056]
+# **6.5 Presentation** 
+
+# <u>Vials</u> 
+
+Gardasil 9 is supplied as a carton of ten 0.5-mL single-dose vials. 
+
+## **<u>Figure 1: The Vaccine Vial Monitor</u>** 
+
+
+
+The Vaccine Vial Monitors (VVMs) are incorporated into the vial label of Gardasil 9 manufactured by Merck Sharp & Dohme LLC. The color dot which appears on the label of the vial is a VVM. This is a time-temperature sensitive dot that provides an indication of the cumulative heat to which the vial has been exposed. It warns the end user when exposure to heat is likely to have degraded the vaccine beyond an acceptable level. 
+
+The interpretation of the VVM is simple. Focus on the central square. Its color will change progressively. As long as the color of this square is lighter than the color of the ring, then the vaccine can be used. As soon as the color of the central square is the same color as the ring or of a darker color than the ring, then the vial should be discarded. 
+
+17 
+
+WHO-PI-V503-I-092022 
+
+# **6.6 Special precautions for disposal and other handling** 
+
+Single-dose vial. 
+
+- Gardasil 9 may appear as a clear liquid with a white precipitate prior to agitation. 
+
+- Shake well before use to make a suspension. After thorough agitation, it is a white, cloudy liquid. 
+
+- Inspect the suspension visually for particulate matter and discolouration prior to administration. Discard the vaccine if particulates are present and/or if it appears discoloured. 
+
+- Withdraw the 0.5 mL dose of vaccine from the single-dose vial using a sterile needle and syringe. 
+
+- Inject immediately using the intramuscular (IM) route, preferably in the deltoid area of the upper arm or in the higher anterolateral area of the thigh. 
+
+- The vaccine should be used as supplied. The full recommended dose of the vaccine should be used. 
+
+Any unused vaccine or waste material should be disposed of in accordance with local requirements. 
+
+18

@@ -1,0 +1,971 @@
+[
+  {
+    "id": "7779355497c3d434",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://fpabramo.org.br/timeline/lei-aurea/",
+    "normalized_url": "https://fpabramo.org.br/timeline/lei-aurea",
+    "work_key": "https://fpabramo.org.br/timeline/lei-aurea",
+    "title": "Fundação Perseu Abramo – Lei Áurea (linha do tempo).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:38.566675Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "59bd6cba4a72d9df",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://almapreta.com.br/?p=13245",
+    "normalized_url": "https://almapreta.com.br?p=13245",
+    "work_key": "https://almapreta.com.br?p=13245",
+    "title": "Alma Preta – Série de lives de historiadores aborda os 170 anos do fim do tráfico de africanos escravizados.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:40.873911Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3cc02f2f0f24778c",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.poder360.com.br/brasil/censo-de-1872-registrou-15-milhao-de-escravos-no-brasil/",
+    "normalized_url": "https://poder360.com.br/brasil/censo-de-1872-registrou-15-milhao-de-escravos-no-brasil",
+    "work_key": "https://poder360.com.br/brasil/censo-de-1872-registrou-15-milhao-de-escravos-no-brasil",
+    "title": "Poder360 – Censo de 1872 registrou 1,5 milhão de escravos no Brasil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:38.585888Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cccd4e838aa68dcc",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://ojs.ifch.unicamp.br/index.php/rhs/article/download/315/271/20740",
+    "normalized_url": "https://ojs.ifch.unicamp.br/index.php/rhs/article/download/315/271/20740",
+    "work_key": "https://ojs.ifch.unicamp.br/index.php/rhs/article/download/315/271/20740",
+    "title": "Revista de História Social (Unicamp/IFCH) – artigo sobre liberdade e alforria no Brasil escravista (século XIX).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:44.884126Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b6a77a65a43cef02",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+    "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+    "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+    "title": "Agência Senado (Arquivo S) – Marinha britânica forçou Brasil a acabar com tráfico negreiro.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:39:27.262116Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f6d33456385f33ae",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.preparaenem.com/historia-do-brasil/lei-eusebio-de-queiros.htm",
+    "normalized_url": "https://preparaenem.com/historia-do-brasil/lei-eusebio-de-queiros.htm",
+    "work_key": "https://preparaenem.com/historia-do-brasil/lei-eusebio-de-queiros.htm",
+    "title": "Prepara Enem – Lei Eusébio de Queirós.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:39.192816Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9d848d43ca1b7e2b",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.preparaenem.com/historia-do-brasil/o-lento-processo-abolicao-escravidao-no-brasil.htm",
+    "normalized_url": "https://preparaenem.com/historia-do-brasil/o-lento-processo-abolicao-escravidao-no-brasil.htm",
+    "work_key": "https://preparaenem.com/historia-do-brasil/o-lento-processo-abolicao-escravidao-no-brasil.htm",
+    "title": "Prepara Enem – O lento processo da abolição da escravidão no Brasil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:39.604446Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d1212187d7aecebd",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://periodicos.sbu.unicamp.br/ojs/index.php/resgate/article/download/8659126/25743/89334",
+    "normalized_url": "https://periodicos.sbu.unicamp.br/ojs/index.php/resgate/article/download/8659126/25743/89334",
+    "work_key": "https://periodicos.sbu.unicamp.br/ojs/index.php/resgate/article/download/8659126/25743/89334",
+    "title": "Resgate: Revista Interdisciplinar de Cultura (Unicamp) – artigo sobre africanos livres e a lei de 1831.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:39:00.178716Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0f196cde18747213",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://projetoagathaedu.com.br/questoes-vestibular/resolucao-historia/imperio/lei-de-terras.php",
+    "normalized_url": "https://projetoagathaedu.com.br/questoes-vestibular/resolucao-historia/imperio/lei-de-terras.php",
+    "work_key": "https://projetoagathaedu.com.br/questoes-vestibular/resolucao-historia/imperio/lei-de-terras.php",
+    "title": "Projeto Agatha Edu – Lei de Terras (questões resolvidas).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:41.275045Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9518fb2444467d01",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.eco.unicamp.br/images/arquivos/artigos/447/10-PLINIO6.pdf",
+    "normalized_url": "https://eco.unicamp.br/images/arquivos/artigos/447/10-PLINIO6.pdf",
+    "work_key": "https://eco.unicamp.br/images/arquivos/artigos/447/10-PLINIO6.pdf",
+    "title": "Instituto de Economia da Unicamp – artigo sobre a Lei de Terras de 1850.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:42.836127Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a510795eb18f9758",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.historiadomundo.com.br/idade-moderna/lei-do-ventre-livre.htm",
+    "normalized_url": "https://historiadomundo.com.br/idade-moderna/lei-do-ventre-livre.htm",
+    "work_key": "https://historiadomundo.com.br/idade-moderna/lei-do-ventre-livre.htm",
+    "title": "História do Mundo – Lei do Ventre Livre.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:43.375144Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "dc1262d44fc6b8d7",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.preparaenem.com/historia-do-brasil/leis-abolicionistas-no-imperio.htm",
+    "normalized_url": "https://preparaenem.com/historia-do-brasil/leis-abolicionistas-no-imperio.htm",
+    "work_key": "https://preparaenem.com/historia-do-brasil/leis-abolicionistas-no-imperio.htm",
+    "title": "Prepara Enem – Leis abolicionistas no Império.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:43.744209Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e4f1a9834fdde4ce",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://almapreta.com.br/sessao/cotidiano/leis-do-ventre-livre-e-dos-sexagenarios-promessas-de-liberdade-que-prolongaram-a-escravidao/",
+    "normalized_url": "https://almapreta.com.br/sessao/cotidiano/leis-do-ventre-livre-e-dos-sexagenarios-promessas-de-liberdade-que-prolongaram-a-escravidao",
+    "work_key": "https://almapreta.com.br/sessao/cotidiano/leis-do-ventre-livre-e-dos-sexagenarios-promessas-de-liberdade-que-prolongaram-a-escravidao",
+    "title": "Alma Preta – Leis do Ventre Livre e dos Sexagenários: promessas de liberdade que prolongaram a escravidão.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:46.217303Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7049fd0188575619",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548855456_fc442dbc3e312c198a5a1acac6eb5a11.pdf",
+    "normalized_url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548855456_fc442dbc3e312c198a5a1acac6eb5a11.pdf",
+    "work_key": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548855456_fc442dbc3e312c198a5a1acac6eb5a11.pdf",
+    "title": "ANPUH – Anais de simpósio: educação dos ingênuos após a Lei do Ventre Livre (1871–1879).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:49.910135Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8fdbab35f45fa9df",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.preparaenem.com/historia-do-brasil/lei-do-ventre-livre.htm",
+    "normalized_url": "https://preparaenem.com/historia-do-brasil/lei-do-ventre-livre.htm",
+    "work_key": "https://preparaenem.com/historia-do-brasil/lei-do-ventre-livre.htm",
+    "title": "Prepara Enem – Lei do Ventre Livre.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:46.525945Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "01c48d8ee2bf7bb9",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.historiadomundo.com.br/idade-moderna/lei-dos-sexagenarios.htm",
+    "normalized_url": "https://historiadomundo.com.br/idade-moderna/lei-dos-sexagenarios.htm",
+    "work_key": "https://historiadomundo.com.br/idade-moderna/lei-dos-sexagenarios.htm",
+    "title": "História do Mundo – Lei dos Sexagenários.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:46.830119Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cd8464e323ea0e82",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.preparaenem.com/historia-do-brasil/lei-dos-sexagenarios.htm",
+    "normalized_url": "https://preparaenem.com/historia-do-brasil/lei-dos-sexagenarios.htm",
+    "work_key": "https://preparaenem.com/historia-do-brasil/lei-dos-sexagenarios.htm",
+    "title": "Prepara Enem – Lei dos Sexagenários.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:47.107131Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "20be8c1b93e2c520",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.conjur.com.br/?p=352983",
+    "normalized_url": "https://conjur.com.br?p=352983",
+    "work_key": "https://conjur.com.br?p=352983",
+    "title": "Consultor Jurídico – Luiz Gama: um legado de luta por democracia, liberdade e igualdade.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:38:54.141679Z",
+    "error_message": "Referencia nao encontrada (404): https://www.conjur.com.br/?p=352983",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e644f70509ff5738",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://jcconcursos.com.br/noticia/area-juridica/luiz-gama-heroi-do-povo-brasileiro-5458",
+    "normalized_url": "https://jcconcursos.com.br/noticia/area-juridica/luiz-gama-heroi-do-povo-brasileiro-5458",
+    "work_key": "https://jcconcursos.com.br/noticia/area-juridica/luiz-gama-heroi-do-povo-brasileiro-5458",
+    "title": "JC Concursos – Luiz Gama, herói do povo brasileiro.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:47.606407Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e4ad4d88dad9a0ec",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://jus.com.br/artigos/97597/direito-e-arte",
+    "normalized_url": "https://jus.com.br/artigos/97597/direito-e-arte",
+    "work_key": "https://jus.com.br/artigos/97597/direito-e-arte",
+    "title": "Jus.com.br – Direito e arte: poeta jurista Luiz Gonzaga Pinto da Gama.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:48.205993Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "777b4f514410e734",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.brasilparalelo.com.br/noticias/conheca-a-historia-de-quatro-brasileiros-que-lutaram-contra-a-escravidao",
+    "normalized_url": "https://brasilparalelo.com.br/noticias/conheca-a-historia-de-quatro-brasileiros-que-lutaram-contra-a-escravidao",
+    "work_key": "https://brasilparalelo.com.br/noticias/conheca-a-historia-de-quatro-brasileiros-que-lutaram-contra-a-escravidao",
+    "title": "Brasil Paralelo – Conheça a história de quatro brasileiros que lutaram contra a escravidão.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:48.786629Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e6bf7c14773be270",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.preparaenem.com/amp/historia-do-brasil/movimento-abolicionista-elite-ou-popular.htm",
+    "normalized_url": "https://preparaenem.com/amp/historia-do-brasil/movimento-abolicionista-elite-ou-popular.htm",
+    "work_key": "https://preparaenem.com/amp/historia-do-brasil/movimento-abolicionista-elite-ou-popular.htm",
+    "title": "Prepara Enem – Movimento abolicionista: de elite ou popular?",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:49.181100Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "afce93367961e50b",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://mais.opovo.com.br/jornal/cidades/2023/03/25/data-magna-do-ceara-marca-pioneirismo-do-estado-em-abolir-a-escravidao.html",
+    "normalized_url": "https://mais.opovo.com.br/jornal/cidades/2023/03/25/data-magna-do-ceara-marca-pioneirismo-do-estado-em-abolir-a-escravidao.html",
+    "work_key": "https://mais.opovo.com.br/jornal/cidades/2023/03/25/data-magna-do-ceara-marca-pioneirismo-do-estado-em-abolir-a-escravidao.html",
+    "title": "O Povo+ – Data Magna do Ceará marca pioneirismo do Estado em abolir a escravidão.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:49.658484Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1677bdb894f54b08",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.opovo.com.br/noticias/ceara/2020/03/24/data-magna-do-ceara--primeira-provincia-a-libertar-escravizados-manteve-exploracao-mesmo-apos-abolicao--aponta-historiadoras.html",
+    "normalized_url": "https://opovo.com.br/noticias/ceara/2020/03/24/data-magna-do-ceara--primeira-provincia-a-libertar-escravizados-manteve-exploracao-mesmo-apos-abolicao--aponta-historiadoras.html",
+    "work_key": "https://opovo.com.br/noticias/ceara/2020/03/24/data-magna-do-ceara--primeira-provincia-a-libertar-escravizados-manteve-exploracao-mesmo-apos-abolicao--aponta-historiadoras.html",
+    "title": "O Povo – Data Magna do Ceará: primeira província a libertar escravizados manteve exploração mesmo após abolição, aponta historiadora.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:50.077492Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "effc34e4d4fa4c1a",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://portalamazonia.com/cultura/ruas-manaus-batizadas-com-datas/",
+    "normalized_url": "https://portalamazonia.com/cultura/ruas-manaus-batizadas-com-datas",
+    "work_key": "https://portalamazonia.com/cultura/ruas-manaus-batizadas-com-datas",
+    "title": "Portal Amazônia – Que data é essa na placa? Saiba por quê algumas ruas de Manaus foram batizadas com datas.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:51.795361Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "54898eaa240efdae",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://portalamazonia.com/historias-da-amazonia/a-maconaria-e-a-libertacao-dos-escravos-no-amazonas/",
+    "normalized_url": "https://portalamazonia.com/historias-da-amazonia/a-maconaria-e-a-libertacao-dos-escravos-no-amazonas",
+    "work_key": "https://portalamazonia.com/historias-da-amazonia/a-maconaria-e-a-libertacao-dos-escravos-no-amazonas",
+    "title": "Portal Amazônia – A Maçonaria e a Libertação dos Escravos no Amazonas.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:51.708305Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9d04e831cb4e6083",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.preparaenem.com/historia-do-brasil/caifazes-luta-pela-abolicao-no-imperio.htm",
+    "normalized_url": "https://preparaenem.com/historia-do-brasil/caifazes-luta-pela-abolicao-no-imperio.htm",
+    "work_key": "https://preparaenem.com/historia-do-brasil/caifazes-luta-pela-abolicao-no-imperio.htm",
+    "title": "Prepara Enem – Caifazes e a luta pela abolição no Império.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:51.960233Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "fdd27519269724b6",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://periodicos.ufpel.edu.br/index.php/CLIO/article/view/16061/10724",
+    "normalized_url": "https://periodicos.ufpel.edu.br/index.php/CLIO/article/view/16061/10724",
+    "work_key": "https://periodicos.ufpel.edu.br/index.php/CLIO/article/view/16061/10724",
+    "title": "CLIO – Revista de Pesquisa Histórica (UFPel) – artigo sobre fugas escravas em Pernambuco.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:55.476132Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1ab5de85194e7cf8",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://projetoagathaedu.com.br/blog/historia-do-brasil/imperio/questao-escravista.php",
+    "normalized_url": "https://projetoagathaedu.com.br/blog/historia-do-brasil/imperio/questao-escravista.php",
+    "work_key": "https://projetoagathaedu.com.br/blog/historia-do-brasil/imperio/questao-escravista.php",
+    "title": "Projeto Agatha Edu – Questão Escravista.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:52.208297Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cdd91bd773131f0a",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://seer.ufrgs.br/index.php/revistaihgrgs/article/download/106925/58221/439482",
+    "normalized_url": "https://seer.ufrgs.br/index.php/revistaihgrgs/article/download/106925/58221/439482",
+    "work_key": "https://seer.ufrgs.br/index.php/revistaihgrgs/article/download/106925/58221/439482",
+    "title": "Revista do IHGRGS (UFRGS) – O Clube Militar e a Proclamação da República.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:17.610829Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3412da1ca2685b93",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://vermelho.org.br/2014/08/03/joao-quartim-de-moraes-fala-sobre-a-esquerda-militar-no-brasil/",
+    "normalized_url": "https://vermelho.org.br/2014/08/03/joao-quartim-de-moraes-fala-sobre-a-esquerda-militar-no-brasil",
+    "work_key": "https://vermelho.org.br/2014/08/03/joao-quartim-de-moraes-fala-sobre-a-esquerda-militar-no-brasil",
+    "title": "Vermelho – João Quartim de Moraes fala sobre a esquerda militar no Brasil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:53.368209Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "424b02824f31c8b5",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://congressoemfoco.com.br/noticia/14616/lei-aurea-a-historia-do-seu-nascimento",
+    "normalized_url": "https://congressoemfoco.com.br/noticia/14616/lei-aurea-a-historia-do-seu-nascimento",
+    "work_key": "https://congressoemfoco.com.br/noticia/14616/lei-aurea-a-historia-do-seu-nascimento",
+    "title": "Congresso em Foco – Lei Áurea: a história do seu nascimento.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:54.151438Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bc185892268002d5",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.todamateria.com.br/lei-aurea/",
+    "normalized_url": "https://todamateria.com.br/lei-aurea",
+    "work_key": "https://todamateria.com.br/lei-aurea",
+    "title": "Toda Matéria – Lei Áurea.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:55.405322Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b99cd6430e7cf35c",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.infoescola.com/historia-do-brasil/lei-aurea/",
+    "normalized_url": "https://infoescola.com/historia-do-brasil/lei-aurea",
+    "work_key": "https://infoescola.com/historia-do-brasil/lei-aurea",
+    "title": "InfoEscola – Lei Áurea.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:55.838233Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4f39204cc739af28",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.historiadomundo.com.br/idade-moderna/lei-aurea.htm",
+    "normalized_url": "https://historiadomundo.com.br/idade-moderna/lei-aurea.htm",
+    "work_key": "https://historiadomundo.com.br/idade-moderna/lei-aurea.htm",
+    "title": "História do Mundo – Lei Áurea.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:55.942701Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1a345b938b0f0ec7",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://companhiadasletras.com.br/sala_professor/pdfs/CadernoAtividades_BrasilUmaBiografia_cap12.pdf",
+    "normalized_url": "https://companhiadasletras.com.br/sala_professor/pdfs/CadernoAtividades_BrasilUmaBiografia_cap12.pdf",
+    "work_key": "https://companhiadasletras.com.br/sala_professor/pdfs/CadernoAtividades_BrasilUmaBiografia_cap12.pdf",
+    "title": "Companhia das Letras – Caderno de Atividades, *Brasil: uma biografia*, cap. 12 (\"Ela vai cair: o fim da monarquia no Brasil\").",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:38:51.677619Z",
+    "error_message": "Referencia nao encontrada (404): https://companhiadasletras.com.br/sala_professor/pdfs/CadernoAtividades_BrasilUmaBiografia_cap12.pdf",
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "617856f43ca8a96e",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://www.todamateria.com.br/exercicio-sobre-a-proclamacao-da-republica-15-de-novembro/",
+    "normalized_url": "https://todamateria.com.br/exercicio-sobre-a-proclamacao-da-republica-15-de-novembro",
+    "work_key": "https://todamateria.com.br/exercicio-sobre-a-proclamacao-da-republica-15-de-novembro",
+    "title": "Toda Matéria – Exercício sobre a Proclamação da República (15 de novembro).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:57.223889Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bff3273108aa17db",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772007_1e0263eca733383e79934480401fc831.pdf",
+    "normalized_url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772007_1e0263eca733383e79934480401fc831.pdf",
+    "work_key": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772007_1e0263eca733383e79934480401fc831.pdf",
+    "title": "ANPUH – José do Patrocínio e a luta contra a indenização aos \"republicanos de 14 de maio\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:01.019275Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1ae12c948af1e9f5",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.jornalopcao.com.br/colunas-e-blogs/periscopio/luta-de-jose-do-patrocinio-pela-abolicao-da-escravidao-no-brasil-573744/",
+    "normalized_url": "https://jornalopcao.com.br/colunas-e-blogs/periscopio/luta-de-jose-do-patrocinio-pela-abolicao-da-escravidao-no-brasil-573744",
+    "work_key": "https://jornalopcao.com.br/colunas-e-blogs/periscopio/luta-de-jose-do-patrocinio-pela-abolicao-da-escravidao-no-brasil-573744",
+    "title": "Jornal Opção – Luta de José do Patrocínio pela abolição da escravidão no Brasil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:07:58.974517Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "da1d3005e771af9d",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://www.maxwell.vrac.puc-rio.br/6401/6401_4.PDF",
+    "normalized_url": "https://maxwell.vrac.puc-rio.br/6401/6401_4.PDF",
+    "work_key": "https://maxwell.vrac.puc-rio.br/6401/6401_4.PDF",
+    "title": "PUC-Rio (Maxwell) – No Olho da Rua: valorização e ampliação do espaço público do Rio de Janeiro na década de 1880.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:33.951174Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b3f2b2520709d296",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www.migalhas.com.br/quentes/100434/pretensao-de-incinerar-processos-arquivados-ja-foi-enfrentada-pelo-stj",
+    "normalized_url": "https://migalhas.com.br/quentes/100434/pretensao-de-incinerar-processos-arquivados-ja-foi-enfrentada-pelo-stj",
+    "work_key": "https://migalhas.com.br/quentes/100434/pretensao-de-incinerar-processos-arquivados-ja-foi-enfrentada-pelo-stj",
+    "title": "Migalhas – Pretensão de incinerar processos arquivados já foi enfrentada pelo STJ.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:01.335035Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3e1e4bbf7edfb8b9",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://www.conjur.com.br/2015-set-13/embargos-culturais-rui-barbosa-polemica-queima-arquivos-escravidao",
+    "normalized_url": "https://conjur.com.br/2015-set-13/embargos-culturais-rui-barbosa-polemica-queima-arquivos-escravidao",
+    "work_key": "https://conjur.com.br/2015-set-13/embargos-culturais-rui-barbosa-polemica-queima-arquivos-escravidao",
+    "title": "Consultor Jurídico – Embargos Culturais: Rui Barbosa e a polêmica queima dos arquivos da escravidão.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:38:54.629254Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "db9768497bb732c5",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://www2.ufjf.br/arquivocentral/?p=10421",
+    "normalized_url": "https://www2.ufjf.br/arquivocentral?p=10421",
+    "work_key": "https://www2.ufjf.br/arquivocentral?p=10421",
+    "title": "Arquivo Central da UFJF – Dia Nacional da Consciência Negra (documento e destruição dos arquivos da escravidão).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:06.507542Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9b9add530dee5df3",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://www.gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/publicacoes/pdfs/rui-barbosa-e-a-queima-dos-arquivos-ocr.pdf",
+    "normalized_url": "https://gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/publicacoes/pdfs/rui-barbosa-e-a-queima-dos-arquivos-ocr.pdf",
+    "work_key": "https://gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/publicacoes/pdfs/rui-barbosa-e-a-queima-dos-arquivos-ocr.pdf",
+    "title": "Fundação Casa de Rui Barbosa – *Rui Barbosa e a queima dos arquivos* (1988).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:09:00.827941Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b6da0980c550972f",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://historiaeeconomia.pt/index.php/he/article/download/337/242",
+    "normalized_url": "https://historiaeeconomia.pt/index.php/he/article/download/337/242",
+    "work_key": "https://historiaeeconomia.pt/index.php/he/article/download/337/242",
+    "title": "História e Economia – A formação do mercado de trabalho assalariado em São Paulo: o debate acerca da inserção da população negra no pós-Abolição.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:24.855966Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "44f05b2a186ecb6f",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://ojs.uel.br/revistas/uel/index.php/mediacoes/article/download/9096/7647/33416",
+    "normalized_url": "https://ojs.uel.br/revistas/uel/index.php/mediacoes/article/download/9096/7647/33416",
+    "work_key": "https://ojs.uel.br/revistas/uel/index.php/mediacoes/article/download/9096/7647/33416",
+    "title": "Mediações (UEL) – Após o Treze de Maio: a convivência entre afro-descendentes e imigrantes em São Paulo nas primeiras décadas do século XX.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:35.619132Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4497143f53a8ceac",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://anais-siiepe.ufpel.edu.br/2022/CH_06026.pdf",
+    "normalized_url": "https://anais-siiepe.ufpel.edu.br/2022/CH_06026.pdf",
+    "work_key": "https://anais-siiepe.ufpel.edu.br/2022/CH_06026.pdf",
+    "title": "Anais do SIIEPE/UFPel – Preconceito racial no imediato pós-abolição (Pelotas, RS).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:28.898470Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "03c943159bf80b2b",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://vestibulares.estrategia.com/portal/historia/herancas-da-escravidao-na-primeira-republica/",
+    "normalized_url": "https://vestibulares.estrategia.com/portal/historia/herancas-da-escravidao-na-primeira-republica",
+    "work_key": "https://vestibulares.estrategia.com/portal/historia/herancas-da-escravidao-na-primeira-republica",
+    "title": "Estratégia Vestibulares – Heranças da escravidão na Primeira República.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:31.086251Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f92beb5dc1efe601",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://doaj.org/article/0e1d0967ed73404387fb60208ca04c55",
+    "normalized_url": "https://doaj.org/article/0e1d0967ed73404387fb60208ca04c55",
+    "work_key": "https://doaj.org/article/0e1d0967ed73404387fb60208ca04c55",
+    "title": "Entretextos (via DOAJ) – Racialização, imigração e as transformações dos espaços urbanos em São Paulo.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:38:59.448967Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4acdd75924664ebd",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://trt15.jus.br/noticia/2022/abolicao-o-protagonismo-dos-escravizados-em-uma-luta-que-ainda-nao-terminou",
+    "normalized_url": "https://trt15.jus.br/noticia/2022/abolicao-o-protagonismo-dos-escravizados-em-uma-luta-que-ainda-nao-terminou",
+    "work_key": "https://trt15.jus.br/noticia/2022/abolicao-o-protagonismo-dos-escravizados-em-uma-luta-que-ainda-nao-terminou",
+    "title": "TRT da 15ª Região – Abolição: o protagonismo dos escravizados em uma luta que ainda não terminou.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:34.825117Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c07a1fe28be72fa2",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://static.even3.com/anais/1369885.pdf",
+    "normalized_url": "https://static.even3.com/anais/1369885.pdf",
+    "work_key": "https://static.even3.com/anais/1369885.pdf",
+    "title": "Anais (Even3) – A distribuição de terras após a abolição da escravidão.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:08:37.244868Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+    "tool_name": "Claude"
+  }
+]

@@ -1,0 +1,2 @@
+[referencia=e72c2e3631af87c7 score=0.004]
+Science Hub is Novo Nordisk’s one-stop portal for all our scientific publications and clinical trials, congress materials and medical updates. Sign up to gain full access.

@@ -1,0 +1,534 @@
+[
+  {
+    "id": "102d3ed3ffd0ee94",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "normalized_url": "https://bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "work_key": "https://bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "title": "Banco Central do Brasil, \"Relatório de Gestão do Pix 2023-2025\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:33.132003Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7b00af1395157128",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.bis.org/publ/bisbull52.pdf",
+    "normalized_url": "https://bis.org/publ/bisbull52.pdf",
+    "work_key": "https://bis.org/publ/bisbull52.pdf",
+    "title": "Bank for International Settlements, BIS Bulletin nº 52, \"Central banks, the monetary system and public payment infrastructures: lessons from Brazil's Pix\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:22.164158Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "dcabb6ea0933910e",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://conversableeconomist.com/2022/03/24/brazils-pix-system-electronic-payments-for-67-in-a-year/",
+    "normalized_url": "https://conversableeconomist.com/2022/03/24/brazils-pix-system-electronic-payments-for-67-in-a-year",
+    "work_key": "https://conversableeconomist.com/2022/03/24/brazils-pix-system-electronic-payments-for-67-in-a-year",
+    "title": "Conversable Economist, \"Brazil's Pix System: Electronic Payments for 67% in a Year\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:12.881247Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "87e5535c43c5592c",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.poder360.com.br/poder-economia/bancarizacao-atinge-964-da-populacao-brasileira-diz-bc/",
+    "normalized_url": "https://poder360.com.br/poder-economia/bancarizacao-atinge-964-da-populacao-brasileira-diz-bc",
+    "work_key": "https://poder360.com.br/poder-economia/bancarizacao-atinge-964-da-populacao-brasileira-diz-bc",
+    "title": "Poder360, \"Bancarização atinge 96,4% da população brasileira, diz BC\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:12.077874Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "959729bf65c9eaf2",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://feebpr.org.br/noticias/6FOX-bancarizacao-atinge-964-da-populacao-brasileira-diz-bc",
+    "normalized_url": "https://feebpr.org.br/noticias/6FOX-bancarizacao-atinge-964-da-populacao-brasileira-diz-bc",
+    "work_key": "https://feebpr.org.br/noticias/6FOX-bancarizacao-atinge-964-da-populacao-brasileira-diz-bc",
+    "title": "FEEB-PR, \"Bancarização atinge 96,4% da população brasileira, diz BC\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:12.793966Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "37794808ff23b249",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://neofeed.com.br/insiders/o-pix-tirou-70-milhoes-de-brasileiros-do-papel-moeda-o-proximo-passo-e-o-credito/",
+    "normalized_url": "https://neofeed.com.br/insiders/o-pix-tirou-70-milhoes-de-brasileiros-do-papel-moeda-o-proximo-passo-e-o-credito",
+    "work_key": "https://neofeed.com.br/insiders/o-pix-tirou-70-milhoes-de-brasileiros-do-papel-moeda-o-proximo-passo-e-o-credito",
+    "title": "NeoFeed, \"O Pix tirou 70 milhões de brasileiros do papel-moeda. O próximo passo é o crédito\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:13.141423Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c154dbcf4f63bc20",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.letsmoney.com.br/pix/pix-142-mi-usuarios-drex-sem-prazo/",
+    "normalized_url": "https://letsmoney.com.br/pix/pix-142-mi-usuarios-drex-sem-prazo",
+    "work_key": "https://letsmoney.com.br/pix/pix-142-mi-usuarios-drex-sem-prazo",
+    "title": "Let's Money, \"Pix: 142 mi de brasileiros fizeram transações em abril\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:13.973652Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8652afca8ca4c27f",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Apresentacao_GabrielGalipolo_FebrabanTech_24.8.2026.pdf",
+    "normalized_url": "https://bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Apresentacao_GabrielGalipolo_FebrabanTech_24.8.2026.pdf",
+    "work_key": "https://bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Apresentacao_GabrielGalipolo_FebrabanTech_24.8.2026.pdf",
+    "title": "Banco Central do Brasil, \"Apresentação de Gabriel Galípolo na Febraban Tech 2026\" (24/8/2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:27.699735Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3aab261137e45a03",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://jornaldebrasilia.com.br/noticias/economia/galipolo-pix-foi-responsavel-por-inclusao-financeira-relevante-em-especial-da-baixa-renda/",
+    "normalized_url": "https://jornaldebrasilia.com.br/noticias/economia/galipolo-pix-foi-responsavel-por-inclusao-financeira-relevante-em-especial-da-baixa-renda",
+    "work_key": "https://jornaldebrasilia.com.br/noticias/economia/galipolo-pix-foi-responsavel-por-inclusao-financeira-relevante-em-especial-da-baixa-renda",
+    "title": "Jornal de Brasília, \"Galípolo: Pix foi responsável por inclusão financeira relevante, em especial da baixa renda\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:14.673958Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5d1d657519f0e933",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+    "normalized_url": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+    "work_key": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+    "title": "Princeton University, \"Instant Payments, Financial Inclusion, and Access to Credit: Evidence from the Adoption of Pix in Brazil\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:15.237306Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3840eab9f5e75580",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "normalized_url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "work_key": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "title": "Banco Interamericano de Desenvolvimento, \"Digital Transformation and Financial Inclusion: The Case of Instant Payments in Brazil\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:47:26.197840Z",
+    "error_message": "Rate limit persistente em https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e6dcb26bef11d041",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://static.poder360.com.br/2025/11/estudo-fgv-impacto-bancarizacao-14nov2025.pdf",
+    "normalized_url": "https://static.poder360.com.br/2025/11/estudo-fgv-impacto-bancarizacao-14nov2025.pdf",
+    "work_key": "https://static.poder360.com.br/2025/11/estudo-fgv-impacto-bancarizacao-14nov2025.pdf",
+    "title": "Fundação Getulio Vargas, \"Impacto da adoção do Pix nos meios de pagamento\" (dissertação).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:35.840609Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b9a55625e8b8c099",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://mais.opovo.com.br/jornal/economia/2023/06/03/pix-e-principal-meio-de-pagamento-para-meis.html",
+    "normalized_url": "https://mais.opovo.com.br/jornal/economia/2023/06/03/pix-e-principal-meio-de-pagamento-para-meis.html",
+    "work_key": "https://mais.opovo.com.br/jornal/economia/2023/06/03/pix-e-principal-meio-de-pagamento-para-meis.html",
+    "title": "O Povo, \"Pix é principal meio de pagamento para MEIs\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:22.621019Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4fee6b147cbf1413",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://agenciasebrae.com.br/?p=40360",
+    "normalized_url": "https://agenciasebrae.com.br?p=40360",
+    "work_key": "https://agenciasebrae.com.br?p=40360",
+    "title": "Agência Sebrae, \"Pix é a principal forma de pagamento adotada pelos pequenos negócios\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:23.323027Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9fc68658daa122c5",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/radio/1/noticia/2025/08/18/mais-de-24-milhoes-de-pessoas-foram-vitimas-de-golpes-pelo-pix",
+    "normalized_url": "https://www12.senado.leg.br/radio/1/noticia/2025/08/18/mais-de-24-milhoes-de-pessoas-foram-vitimas-de-golpes-pelo-pix",
+    "work_key": "https://www12.senado.leg.br/radio/1/noticia/2025/08/18/mais-de-24-milhoes-de-pessoas-foram-vitimas-de-golpes-pelo-pix",
+    "title": "Rádio Senado, \"Mais de 24 milhões de pessoas foram vítimas de golpes pelo PIX\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:46:32.007404Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f503a98152f4764e",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.band.com.br/bandnews-fm/noticias/datafolha-24-milhoes-de-brasileiros-ja-cairam-no-golpe-do-pix-202508142018",
+    "normalized_url": "https://band.com.br/bandnews-fm/noticias/datafolha-24-milhoes-de-brasileiros-ja-cairam-no-golpe-do-pix-202508142018",
+    "work_key": "https://band.com.br/bandnews-fm/noticias/datafolha-24-milhoes-de-brasileiros-ja-cairam-no-golpe-do-pix-202508142018",
+    "title": "BandNews FM, \"Datafolha: 24 milhões de brasileiros já caíram no golpe do pix\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:29.527511Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9e4701b7d3ecf4ec",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.oliberal.com/economia/golpes-pix-ja-atingiram-24-milhoes-de-brasileiros-1.1021709",
+    "normalized_url": "https://oliberal.com/economia/golpes-pix-ja-atingiram-24-milhoes-de-brasileiros-1.1021709",
+    "work_key": "https://oliberal.com/economia/golpes-pix-ja-atingiram-24-milhoes-de-brasileiros-1.1021709",
+    "title": "O Liberal, \"Golpes pix já atingiram 24 milhões de brasileiros\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:57.243895Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f104fcaca3f8e720",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/novas-regras-de-seguranca-do-pix-entram-em-vigor-veja-mudancas",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/novas-regras-de-seguranca-do-pix-entram-em-vigor-veja-mudancas",
+    "work_key": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-02/novas-regras-de-seguranca-do-pix-entram-em-vigor-veja-mudancas",
+    "title": "Agência Brasil, \"Novas regras de segurança do Pix entram em vigor; veja mudanças\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:34.667715Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0124c1e70dd707b4",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.procon.sp.gov.br/procon-sp-orienta-sobre-as-novas-regras-do-pix/",
+    "normalized_url": "https://procon.sp.gov.br/procon-sp-orienta-sobre-as-novas-regras-do-pix",
+    "work_key": "https://procon.sp.gov.br/procon-sp-orienta-sobre-as-novas-regras-do-pix",
+    "title": "Procon-SP, \"Procon-SP orienta sobre as novas regras do Pix\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:36.507948Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b9d30df959d24941",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.opovo.com.br/noticias/economia/2025/01/16/amp/governo-recua-e-revoga-normativa-do-pix-apos-onda-de-noticias-falsas.html",
+    "normalized_url": "https://opovo.com.br/noticias/economia/2025/01/16/amp/governo-recua-e-revoga-normativa-do-pix-apos-onda-de-noticias-falsas.html",
+    "work_key": "https://opovo.com.br/noticias/economia/2025/01/16/amp/governo-recua-e-revoga-normativa-do-pix-apos-onda-de-noticias-falsas.html",
+    "title": "O Povo / Agência Estado, \"Governo recua e revoga normativa do Pix após onda de notícias falsas\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:36.159343Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1ff0f349b975c7fb",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://movimentoeconomico.com.br/geral/redacao/2025/01/28/transacoes-por-pix-voltam-a-aumentar-apos-onda-de-fake-news/",
+    "normalized_url": "https://movimentoeconomico.com.br/geral/redacao/2025/01/28/transacoes-por-pix-voltam-a-aumentar-apos-onda-de-fake-news",
+    "work_key": "https://movimentoeconomico.com.br/geral/redacao/2025/01/28/transacoes-por-pix-voltam-a-aumentar-apos-onda-de-fake-news",
+    "title": "Movimento Econômico, \"Transações por Pix voltam a aumentar após onda de fake news\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:36.739514Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b782d264127ee303",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.opovo.com.br/noticias/economia/2025/12/04/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado.html",
+    "normalized_url": "https://opovo.com.br/noticias/economia/2025/12/04/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado.html",
+    "work_key": "https://opovo.com.br/noticias/economia/2025/12/04/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado.html",
+    "title": "O Povo, \"Após adiamentos, Banco Central desiste de regular Pix Parcelado\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:36.801520Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b88440888c8345f3",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://tecnoblog.net/noticias/pix-parcelado-gera-impasse-entre-bancos-e-banco-central/",
+    "normalized_url": "https://tecnoblog.net/noticias/pix-parcelado-gera-impasse-entre-bancos-e-banco-central",
+    "work_key": "https://tecnoblog.net/noticias/pix-parcelado-gera-impasse-entre-bancos-e-banco-central",
+    "title": "Tecnoblog, \"Pix Parcelado gera impasse entre bancos e Banco Central\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:37.101165Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f6ccf347ebf0518d",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.brasildefato.com.br/2026/06/02/governo-trump-ameaca-brasil-com-tarifaco-de-25-apos-investigacao-que-mira-pix-regulacao-das-redes-e-comercio/",
+    "normalized_url": "https://brasildefato.com.br/2026/06/02/governo-trump-ameaca-brasil-com-tarifaco-de-25-apos-investigacao-que-mira-pix-regulacao-das-redes-e-comercio",
+    "work_key": "https://brasildefato.com.br/2026/06/02/governo-trump-ameaca-brasil-com-tarifaco-de-25-apos-investigacao-que-mira-pix-regulacao-das-redes-e-comercio",
+    "title": "Brasil de Fato, \"Governo Trump ameaça Brasil com tarifaço de 25% após concluir investigação que mira Pix, regulação das redes e comércio\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:37.036774Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9eb0b6152ff2ce8e",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/06/conclusao-preliminar-da-investigacao-da-secao-301",
+    "normalized_url": "https://gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/06/conclusao-preliminar-da-investigacao-da-secao-301",
+    "work_key": "https://gov.br/secom/pt-br/acompanhe-a-secom/noticias/2026/06/conclusao-preliminar-da-investigacao-da-secao-301",
+    "title": "Secretaria de Comunicação Social da Presidência da República, \"Conclusão preliminar da investigação da Seção 301\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:37.486874Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9aba1f1694a2c906",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.gtlaw.com/pt/insights/2026/7/ustr-announces-section-301-tariffs-on-brazil-new-25-duties-to-take-effect-july-22",
+    "normalized_url": "https://gtlaw.com/pt/insights/2026/7/ustr-announces-section-301-tariffs-on-brazil-new-25-duties-to-take-effect-july-22",
+    "work_key": "https://gtlaw.com/pt/insights/2026/7/ustr-announces-section-301-tariffs-on-brazil-new-25-duties-to-take-effect-july-22",
+    "title": "Greenberg Traurig, \"USTR anuncia tarifas da Seção 301 sobre o Brasil: novas alíquotas de 25% entram em vigor em 22 de julho\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:39.429916Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9539be6049a90bac",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/radio/1/noticia/2025/08/15/novo-relatorio-da-pec-do-banco-central-blinda-pix-de-taxacao",
+    "normalized_url": "https://www12.senado.leg.br/radio/1/noticia/2025/08/15/novo-relatorio-da-pec-do-banco-central-blinda-pix-de-taxacao",
+    "work_key": "https://www12.senado.leg.br/radio/1/noticia/2025/08/15/novo-relatorio-da-pec-do-banco-central-blinda-pix-de-taxacao",
+    "title": "Rádio Senado, \"Novo relatório da PEC do Banco Central blinda PIX de taxação\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:38.260058Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ed76a74a6b10b639",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.enfoquems.com.br/inclusao-financeira-avanca-com-pix-mas-desafios-persistem-aponta-pesquisa/",
+    "normalized_url": "https://enfoquems.com.br/inclusao-financeira-avanca-com-pix-mas-desafios-persistem-aponta-pesquisa",
+    "work_key": "https://enfoquems.com.br/inclusao-financeira-avanca-com-pix-mas-desafios-persistem-aponta-pesquisa",
+    "title": "Enfoque MS, \"Inclusão financeira avança com Pix, mas desafios persistem, aponta pesquisa\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T18:23:39.373183Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_663a2298105f_20261101T182250Z",
+    "tool_name": "Claude"
+  }
+]

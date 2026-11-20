@@ -1,0 +1,26 @@
+[referencia=80f03c79d4a35214 score=0.951]
+### Sofie Axelsson
+
+Associate
+
+Stockholm
+
+Denmark
+
+by Sofie Axelsson
+
+Published:
+
+On 26 June 2025, Denmark unveiled a legislative first: a proposed amendment to its Copyright Act granting every individual rights over their body, facial features and voice. The proposal, backed across parties, is framed as a way to give citizens control over their digital identity against AI-generated deepfakes.
+
+Under the proposal, likeness is treated as a copyright-style entitlement, enabling individuals to issue takedown notices, claim compensation even without reputational harm, and trigger platform liability if hosts fail to act. If approved, the amendment could be enacted as early as late 2025 or early 2026.
+
+Importantly, protections extend to all persons, not only public figures. Performers gain specific safeguards against synthetic imitations of their acts. The draft reform introduces two new provisions in the Copyright Act:
+
+By embedding these rules in copyright law, Denmark leverages a familiar enforcement infrastructure: infringement standards, notice-and-takedown mechanics, and remedies already embedded in European practice. To preserve freedom of expression, the legislation explicitly carves out exemptions for parodies and satire, caricature, and social criticism.
+
+The proposed provisions are not confined to Danish nationals but extend to any natural person whose likeness is reproduced or disseminated within Denmark’s territorial jurisdiction. This extraterritorial dimension is particularly relevant in the digital context, where infringing deepfake material is often hosted or circulated across multiple jurisdictions.
+
+Denmark’s approach is pioneering in its attempt to anchor personal identity within the domain of intellectual property, but it also presents a series of practical and legal considerations. The wide scope raises practical questions about how infringements originating outside Denmark can be addressed by Danish authorities. Furthermore, careful coordination with existing frameworks is necessary. These include the GDPR and obligations for online platforms already established under the EU’s Digital Services Act (DSA).
+
+Despite these challenges, Denmark’s initiative may serve as a model for other jurisdictions. With its current EU presidency, the country could use its position to promote a broader European framework on digital identity rights.

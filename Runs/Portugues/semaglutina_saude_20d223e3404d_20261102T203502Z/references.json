@@ -1,0 +1,914 @@
+[
+  {
+    "id": "2de9d010d82d0330",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://newsroom.clevelandclinic.org/2023/11/11/international-clinical-trial-finds-that-semaglutide-reduced-cardiovascular-events-by-20-in-adults-with-overweight-or-obesity-who-dont-have-diabetes/",
+    "normalized_url": "https://newsroom.clevelandclinic.org/2023/11/11/international-clinical-trial-finds-that-semaglutide-reduced-cardiovascular-events-by-20-in-adults-with-overweight-or-obesity-who-dont-have-diabetes",
+    "work_key": "https://newsroom.clevelandclinic.org/2023/11/11/international-clinical-trial-finds-that-semaglutide-reduced-cardiovascular-events-by-20-in-adults-with-overweight-or-obesity-who-dont-have-diabetes",
+    "title": "Cleveland Clinic Newsroom. International Clinical Trial Finds that Semaglutide Reduced Cardiovascular Events by 20% in Adults with Overweight or Obesity Who Don't Have Diabetes.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:27.728523Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c3d5980c46a2ff7f",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://pharmaceutical-journal.com/?p=201091",
+    "normalized_url": "https://pharmaceutical-journal.com?p=201091",
+    "work_key": "https://pharmaceutical-journal.com?p=201091",
+    "title": "The Pharmaceutical Journal. Semaglutide reduced cardiovascular events by 20% in adults with obesity (SELECT).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:27.313628Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0106e4f8b130866e",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.sciencemediacentre.org/?p=56599",
+    "normalized_url": "https://sciencemediacentre.org?p=56599",
+    "work_key": "https://sciencemediacentre.org?p=56599",
+    "title": "Science Media Centre. Expert reaction to study looking at semaglutide and cardiovascular health with or without weight loss.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:27.309294Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9428b70cfd9c3296",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://scholars.lib.ntu.edu.tw/handle/123456789/737742",
+    "normalized_url": "https://scholars.lib.ntu.edu.tw/handle/123456789/737742",
+    "work_key": "https://scholars.lib.ntu.edu.tw/handle/123456789/737742",
+    "title": "National Taiwan University Scholars. Semaglutide and cardiovascular outcomes by baseline and changes in adiposity measurements: a prespecified analysis of the SELECT trial (The Lancet, 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:27.842291Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "83422a560b1359a7",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2025/03/27/15/04/soul",
+    "normalized_url": "https://acc.org/latest-in-cardiology/clinical-trials/2025/03/27/15/04/soul",
+    "work_key": "https://acc.org/latest-in-cardiology/clinical-trials/2025/03/27/15/04/soul",
+    "title": "American College of Cardiology. Semaglutide Cardiovascular Outcomes Trial – SOUL.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:28.742908Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cfc8ac8a206fc055",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.biospace.com/press-releases/novo-nordisk-a-s-rybelsus-oral-semaglutide-14-mg-demonstrates-superior-reduction-in-cardiovascular-events-in-the-soul-trial-at-acc-2025",
+    "normalized_url": "https://biospace.com/press-releases/novo-nordisk-a-s-rybelsus-oral-semaglutide-14-mg-demonstrates-superior-reduction-in-cardiovascular-events-in-the-soul-trial-at-acc-2025",
+    "work_key": "https://biospace.com/press-releases/novo-nordisk-a-s-rybelsus-oral-semaglutide-14-mg-demonstrates-superior-reduction-in-cardiovascular-events-in-the-soul-trial-at-acc-2025",
+    "title": "BioSpace (Novo Nordisk). Rybelsus (oral semaglutide 14 mg) demonstrates superior reduction in cardiovascular events in the SOUL trial at ACC 2025.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:28.547793Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3d83d23909822741",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.ajmc.com/view/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss",
+    "normalized_url": "https://ajmc.com/view/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss",
+    "work_key": "https://ajmc.com/view/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss",
+    "title": "AJMC. FDA Approves Oral Semaglutide as First GLP-1 Pill for Weight Loss.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:28.491806Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6c948e6901afc0fd",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.escardio.org/static-file/Escardio/Congresses/ESC",
+    "normalized_url": "https://escardio.org/static-file/Escardio/Congresses/ESC",
+    "work_key": "https://escardio.org/static-file/Escardio/Congresses/ESC",
+    "title": "European Society of Cardiology. ESC Congress 2023 Hot Line – STEP-HFpEF (visual summary).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:28:24.543512Z",
+    "error_message": "barreira de acesso (anti_bot): This website is using a security service to protect itself from online attacks. The action you just performed triggered ",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5c1ce7db1c9d150e",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.acc.org/Latest-in-Cardiology/Articles/2023/08/23/19/16/fri-515am-step-hfpef-esc-2023",
+    "normalized_url": "https://acc.org/Latest-in-Cardiology/Articles/2023/08/23/19/16/fri-515am-step-hfpef-esc-2023",
+    "work_key": "https://acc.org/Latest-in-Cardiology/Articles/2023/08/23/19/16/fri-515am-step-hfpef-esc-2023",
+    "title": "American College of Cardiology. STEP-HFpEF: Semaglutide Improves Symptoms, Physical Limitations, Weight Loss in Patients With HFpEF and Obesity.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:29.852304Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6625ffcb734b66a8",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10782938",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10782938",
+    "work_key": "PMC:PMC10782938",
+    "title": "PubMed Central. Effects of Semaglutide on Symptoms, Function, and Quality of Life in Patients With HFpEF and Obesity: A Prespecified Analysis of the STEP-HFpEF Trial.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:28:22.007230Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "97e2a9551016b487",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.uspharmacist.com/article/semaglutide-improved-heart-failure-symptoms-weight-loss",
+    "normalized_url": "https://uspharmacist.com/article/semaglutide-improved-heart-failure-symptoms-weight-loss",
+    "work_key": "https://uspharmacist.com/article/semaglutide-improved-heart-failure-symptoms-weight-loss",
+    "title": "U.S. Pharmacist. Semaglutide Improved Heart Failure Symptoms, Weight Loss.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:29.893973Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6a801500b31e5095",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/40169145/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/40169145",
+    "work_key": "PMID:40169145",
+    "title": "PubMed. Semaglutide and walking capacity in people with symptomatic peripheral artery disease and type 2 diabetes (STRIDE).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:30.446746Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d62ed6948128c455",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://vascularnews.com/?p=17611",
+    "normalized_url": "https://vascularnews.com?p=17611",
+    "work_key": "https://vascularnews.com?p=17611",
+    "title": "Vascular News. ACC.25: Semaglutide improves walk distance for PAD patients with diabetes.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:32.074892Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "39daeecf51a65676",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://diabetes.acponline.org/archives/2025/09/12/7.htm",
+    "normalized_url": "https://diabetes.acponline.org/archives/2025/09/12/7.htm",
+    "work_key": "https://diabetes.acponline.org/archives/2025/09/12/7.htm",
+    "title": "ACP Diabetes Monthly. In symptomatic peripheral artery disease with T2D, semaglutide increased maximum walking distance at 1 y.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:28:24.434933Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4572a9715f30c596",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.theisn.org/?p=40615",
+    "normalized_url": "https://theisn.org?p=40615",
+    "work_key": "https://theisn.org?p=40615",
+    "title": "International Society of Nephrology. ISN-ACT: FLOW trial summary (Perkovic et al., NEJM 2024).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:33.421804Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "692927c8e35fbb49",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://renalinterventions.net/semaglutide-significantly-reduces-risk-of-major-kidney-disease-events-and-mortality-in-patients-with-type-2-diabetes-and-chronic-kidney-disease",
+    "normalized_url": "https://renalinterventions.net/semaglutide-significantly-reduces-risk-of-major-kidney-disease-events-and-mortality-in-patients-with-type-2-diabetes-and-chronic-kidney-disease",
+    "work_key": "https://renalinterventions.net/semaglutide-significantly-reduces-risk-of-major-kidney-disease-events-and-mortality-in-patients-with-type-2-diabetes-and-chronic-kidney-disease",
+    "title": "Renal Interventions. Semaglutide significantly reduces risk of major kidney disease events and mortality in patients with type 2 diabetes and chronic kidney disease.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:35.230653Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "86238fab2c883fdd",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/38914124/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/38914124",
+    "work_key": "PMID:38914124",
+    "title": "PubMed. Effects of semaglutide with and without concomitant SGLT2 inhibitor use in participants with type 2 diabetes and chronic kidney disease in the FLOW trial.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:33.304596Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9f0d2831a29eb896",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://abc7news.com/post/fda-approves-ozempic-reduce-risks-chronic-kidney-disease-diabetes-patients/15846312/",
+    "normalized_url": "https://abc7news.com/post/fda-approves-ozempic-reduce-risks-chronic-kidney-disease-diabetes-patients/15846312",
+    "work_key": "https://abc7news.com/post/fda-approves-ozempic-reduce-risks-chronic-kidney-disease-diabetes-patients/15846312",
+    "title": "ABC7 News (CNN). FDA approves Ozempic to reduce risks from chronic kidney disease in diabetes patients.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:34.263721Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "fd64cbdf4f7f1ffa",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.healio.com/news/endocrinology/20250501/semaglutide-tied-to-significant-improvements-in-mash-liver-fibrosis-at-72-weeks",
+    "normalized_url": "https://healio.com/news/endocrinology/20250501/semaglutide-tied-to-significant-improvements-in-mash-liver-fibrosis-at-72-weeks",
+    "work_key": "https://healio.com/news/endocrinology/20250501/semaglutide-tied-to-significant-improvements-in-mash-liver-fibrosis-at-72-weeks",
+    "title": "Healio. Semaglutide tied to significant improvements in MASH, liver fibrosis at 72 weeks.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:34.397652Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "73d7c049e25ce0a1",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://endocrinenews.endocrine.org/?p=16305",
+    "normalized_url": "https://endocrinenews.endocrine.org?p=16305",
+    "work_key": "https://endocrinenews.endocrine.org?p=16305",
+    "title": "Endocrine News. Pharma Fridays – August 22, 2025 (FDA Approves Wegovy to Treat MASH).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:34.224391Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d4a8e57abe535e15",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.sec.gov/Archives/edgar/data/353278/000117184325005454/f6k_081525.htm",
+    "normalized_url": "https://sec.gov/Archives/edgar/data/353278/000117184325005454/f6k_081525.htm",
+    "work_key": "https://sec.gov/Archives/edgar/data/353278/000117184325005454/f6k_081525.htm",
+    "title": "U.S. SEC / Novo Nordisk (Form 6-K). Wegovy approved in the US for the treatment of MASH.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:37.523065Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bb22da6463bb0c71",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.managedhealthcareexecutive.com/view/fda-grants-accelerated-approval-of-wegovy-to-treat-liver-disease",
+    "normalized_url": "https://managedhealthcareexecutive.com/view/fda-grants-accelerated-approval-of-wegovy-to-treat-liver-disease",
+    "work_key": "https://managedhealthcareexecutive.com/view/fda-grants-accelerated-approval-of-wegovy-to-treat-liver-disease",
+    "title": "Managed Healthcare Executive. FDA Grants Accelerated Approval of Wegovy to Treat Liver Disease.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:36.411806Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2a4f3f3ced0223bf",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.vcuhealth.org/news/clinical-trial-results-show-weight-loss-drug-reduces-the-risk-of-heart-and-liver-diseases-in-people-with-obesity/",
+    "normalized_url": "https://vcuhealth.org/news/clinical-trial-results-show-weight-loss-drug-reduces-the-risk-of-heart-and-liver-diseases-in-people-with-obesity",
+    "work_key": "https://vcuhealth.org/news/clinical-trial-results-show-weight-loss-drug-reduces-the-risk-of-heart-and-liver-diseases-in-people-with-obesity",
+    "title": "VCU Health. Clinical trial results show weight loss drug reduces the risk of heart and liver diseases in people with obesity.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:35.588751Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e1ff70e2a945f142",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.novonordisk-us.com/media/news-archive/news-details.html?id=171970",
+    "normalized_url": "https://novonordisk-us.com/media/news-archive/news-details.html?id=171970",
+    "work_key": "https://novonordisk-us.com/media/news-archive/news-details.html?id=171970",
+    "title": "Novo Nordisk US. STEP 9 results, published in NEJM, demonstrated semaglutide reduced knee osteoarthritis-related pain in people with obesity.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:36.661158Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2948f337a370bfec",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://the-rheumatologist.org/?p=61848",
+    "normalized_url": "https://the-rheumatologist.org?p=61848",
+    "work_key": "https://the-rheumatologist.org?p=61848",
+    "title": "The Rheumatologist. Semaglutide and knee osteoarthritis (STEP 9).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:38.117955Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5d29b469a697113a",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://hcplive.com/view/semaglutide-reduces-knee-osteoarthritis-pain-people-obesity",
+    "normalized_url": "https://hcplive.com/view/semaglutide-reduces-knee-osteoarthritis-pain-people-obesity",
+    "work_key": "https://hcplive.com/view/semaglutide-reduces-knee-osteoarthritis-pain-people-obesity",
+    "title": "HCPLive. Semaglutide Reduces Knee Osteoarthritis Pain in People With Obesity.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:28:21.774583Z",
+    "error_message": "Referencia nao encontrada (404): https://hcplive.com/view/semaglutide-reduces-knee-osteoarthritis-pain-people-obesity",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "479324ac4f971458",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://rheumnow.com/news/glp-1-inhibitor-reduces-knee-osteoarthritis-pain",
+    "normalized_url": "https://rheumnow.com/news/glp-1-inhibitor-reduces-knee-osteoarthritis-pain",
+    "work_key": "https://rheumnow.com/news/glp-1-inhibitor-reduces-knee-osteoarthritis-pain",
+    "title": "RheumNow. GLP-1 Inhibitor Reduces Knee Osteoarthritis Pain.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:37.749500Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "587e52e7a8c784eb",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://epocrates.com/online/article/semaglutide-reduces-alcohol-consumption-cravings-in-randomized-trial",
+    "normalized_url": "https://epocrates.com/online/article/semaglutide-reduces-alcohol-consumption-cravings-in-randomized-trial",
+    "work_key": "https://epocrates.com/online/article/semaglutide-reduces-alcohol-consumption-cravings-in-randomized-trial",
+    "title": "Epocrates. Semaglutide reduces alcohol consumption, cravings in randomized trial (JAMA Psychiatry).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:28:31.026397Z",
+    "error_message": "barreira de acesso (requires_js_login_region): # Access limited to the U.S. At this time, epocrates is not available outside the U.S. Because we cannot guarantee that ",
+    "barrier_kind": "requires_js_login_region",
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "04cdf29dbffea7f8",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.healthday.com/healthpro-news/mental-health/semaglutide-may-reduce-craving-in-alcohol-use-disorder",
+    "normalized_url": "https://healthday.com/healthpro-news/mental-health/semaglutide-may-reduce-craving-in-alcohol-use-disorder",
+    "work_key": "https://healthday.com/healthpro-news/mental-health/semaglutide-may-reduce-craving-in-alcohol-use-disorder",
+    "title": "HealthDay. Semaglutide May Reduce Craving in Alcohol Use Disorder.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:38.389636Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "65efbec0ba35221e",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.eurekalert.org/news-releases/1126086",
+    "normalized_url": "https://eurekalert.org/news-releases/1126086",
+    "work_key": "https://eurekalert.org/news-releases/1126086",
+    "title": "EurekAlert! The Lancet: GLP-1 reduces heavy drinking days in treatment seeking people with alcohol use disorder and obesity, finds small trial.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:28:24.075850Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "65a4a5eba8dcd494",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
+    "normalized_url": "https://nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
+    "work_key": "https://nih.gov/news-events/nih-research-matters/glp-1-plus-therapy-can-reduce-heavy-drinking",
+    "title": "National Institutes of Health. GLP-1 plus therapy can reduce heavy drinking (NIH Research Matters).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:43.314013Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "12cc00ed2adbf517",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916462",
+    "normalized_url": "https://novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916462",
+    "work_key": "https://novonordisk.com/news-and-media/news-and-ir-materials/news-details.html?id=916462",
+    "title": "Novo Nordisk. Evoke phase 3 trials did not demonstrate a statistically significant reduction in Alzheimer's disease progression.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:40.083153Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5ff540cf79310410",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://alzheimersnewstoday.com/news/oral-semaglutide-fails-slow-alzheimers-pair-clinical-trials/",
+    "normalized_url": "https://alzheimersnewstoday.com/news/oral-semaglutide-fails-slow-alzheimers-pair-clinical-trials",
+    "work_key": "https://alzheimersnewstoday.com/news/oral-semaglutide-fails-slow-alzheimers-pair-clinical-trials",
+    "title": "Alzheimer's News Today. Oral semaglutide fails to slow Alzheimer's in pair of clinical trials.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:28:27.062071Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1fbfc9d6d181a8f5",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.precisionmedicineonline.com/node/44766",
+    "normalized_url": "https://precisionmedicineonline.com/node/44766",
+    "work_key": "https://precisionmedicineonline.com/node/44766",
+    "title": "Precision Medicine Online. Semaglutide did not slow early Alzheimer's progression in Evoke trials (CTAD 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:28:27.499198Z",
+    "error_message": "Referencia nao encontrada (404): https://www.precisionmedicineonline.com/node/44766",
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3ab9f246b4adc325",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.neurologylive.com/view/ctad-presentation-lays-insights-disappointing-phase-3-evoke-trial-of-glp-1-semaglutide-alzheimers",
+    "normalized_url": "https://neurologylive.com/view/ctad-presentation-lays-insights-disappointing-phase-3-evoke-trial-of-glp-1-semaglutide-alzheimers",
+    "work_key": "https://neurologylive.com/view/ctad-presentation-lays-insights-disappointing-phase-3-evoke-trial-of-glp-1-semaglutide-alzheimers",
+    "title": "NeurologyLive. CTAD Presentation Lays Insights Into Disappointing Phase 3 EVOKE Trial of GLP-1 Semaglutide in Alzheimer Disease.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:44.480938Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "72973462f58e1dd5",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://medicine.washu.edu/news/study-identifies-benefits-risks-linked-to-popular-weight-loss-drugs/",
+    "normalized_url": "https://medicine.washu.edu/news/study-identifies-benefits-risks-linked-to-popular-weight-loss-drugs",
+    "work_key": "https://medicine.washu.edu/news/study-identifies-benefits-risks-linked-to-popular-weight-loss-drugs",
+    "title": "WashU Medicine. Study identifies benefits, risks linked to popular weight-loss drugs.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:43.825396Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "09b3b24d8f5cd562",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://www.expressandstar.com/uk-news/weight-loss-jabs-may-have-wider-health-benefits-study-suggests-5730135",
+    "normalized_url": "https://expressandstar.com/uk-news/weight-loss-jabs-may-have-wider-health-benefits-study-suggests-5730135",
+    "work_key": "https://expressandstar.com/uk-news/weight-loss-jabs-may-have-wider-health-benefits-study-suggests-5730135",
+    "title": "Express & Star (PA). Weight-loss jabs may have wider health benefits, study suggests.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:45.014767Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9be532dba111da85",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://www.ema.europa.eu/ga/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy",
+    "normalized_url": "https://ema.europa.eu/ga/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy",
+    "work_key": "https://ema.europa.eu/ga/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy",
+    "title": "European Medicines Agency. PRAC concludes eye condition NAION is a very rare side effect of semaglutide medicines Ozempic, Rybelsus and Wegovy.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:45.549539Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "da958b89c97e4ea3",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.who.int/news/item/27-06-2025-27-06-2025-semaglutide-medicines-naion",
+    "normalized_url": "https://who.int/news/item/27-06-2025-27-06-2025-semaglutide-medicines-naion",
+    "work_key": "https://who.int/news/item/27-06-2025-27-06-2025-semaglutide-medicines-naion",
+    "title": "World Health Organization. The use of semaglutide medicines and risk of non-arteritic anterior ischemic optic neuropathy (NAION).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:46.623101Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bfdd6921337a47d2",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://www.ema.europa.eu/de/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-april-2024",
+    "normalized_url": "https://ema.europa.eu/de/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-april-2024",
+    "work_key": "https://ema.europa.eu/de/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-april-2024",
+    "title": "European Medicines Agency. Meeting highlights from the Pharmacovigilance Risk Assessment Committee (PRAC) 8-11 April 2024.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:46.571471Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "97e347a6949e786f",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www.epocrates.com/online/article/glp-1-agonists-associated-with-higher-gi-risk-than-older-weight-loss-drug",
+    "normalized_url": "https://epocrates.com/online/article/glp-1-agonists-associated-with-higher-gi-risk-than-older-weight-loss-drug",
+    "work_key": "https://epocrates.com/online/article/glp-1-agonists-associated-with-higher-gi-risk-than-older-weight-loss-drug",
+    "title": "Epocrates. GLP-1 agonists associated with higher GI risk than older weight loss drug combo (JAMA, Sodhi et al.).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:28:30.046723Z",
+    "error_message": "barreira de acesso (requires_js_login_region): # Access limited to the U.S. At this time, epocrates is not available outside the U.S. Because we cannot guarantee that ",
+    "barrier_kind": "requires_js_login_region",
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8377203d068fae33",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://www.the-hospitalist.org/hospitalist/article/38195/gastroenterology/gastrointestinal-risks-associated-with-glp-1-receptor-agonists-in-patients-with-obesity/",
+    "normalized_url": "https://the-hospitalist.org/hospitalist/article/38195/gastroenterology/gastrointestinal-risks-associated-with-glp-1-receptor-agonists-in-patients-with-obesity",
+    "work_key": "https://the-hospitalist.org/hospitalist/article/38195/gastroenterology/gastrointestinal-risks-associated-with-glp-1-receptor-agonists-in-patients-with-obesity",
+    "title": "The Hospitalist. Gastrointestinal risks associated with GLP-1 receptor agonists in patients with obesity.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:46.551103Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ac2ce5c3dfcb68b9",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://clinicaltrials.gov/study/NCT06420739",
+    "normalized_url": "https://clinicaltrials.gov/study/NCT06420739",
+    "work_key": "https://clinicaltrials.gov/study/NCT06420739",
+    "title": "ClinicalTrials.gov. Improving Patient Safety for Surgical Patients on Semaglutide: A Gastric Ultrasound Initiative (NCT06420739).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:50.069692Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9db580755a6f8629",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://timesbrasil.com.br/brasil/anvisa-amplia-indicacoes-de-wegovy-e-ozempic-para-riscos-cardiovascular-e-renal/",
+    "normalized_url": "https://timesbrasil.com.br/brasil/anvisa-amplia-indicacoes-de-wegovy-e-ozempic-para-riscos-cardiovascular-e-renal",
+    "work_key": "https://timesbrasil.com.br/brasil/anvisa-amplia-indicacoes-de-wegovy-e-ozempic-para-riscos-cardiovascular-e-renal",
+    "title": "Times Brasil (CNBC). Anvisa amplia indicações de Wegovy e Ozempic para riscos cardiovascular e renal.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:47.645000Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b571335cfc4a62c8",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://www.poder360.com.br/poder-saude/canetas-emagrecedoras-quais-sao-as-novas-opcoes-no-brasil/",
+    "normalized_url": "https://poder360.com.br/poder-saude/canetas-emagrecedoras-quais-sao-as-novas-opcoes-no-brasil",
+    "work_key": "https://poder360.com.br/poder-saude/canetas-emagrecedoras-quais-sao-as-novas-opcoes-no-brasil",
+    "title": "Poder360. Canetas emagrecedoras: quais são as novas opções no Brasil.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:54.510553Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "dd1b0f20cf206855",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://revistaoeste.com/brasil/anvisa-aprova-14-novas-canetas-para-diabetes-e-obesidade/",
+    "normalized_url": "https://revistaoeste.com/brasil/anvisa-aprova-14-novas-canetas-para-diabetes-e-obesidade",
+    "work_key": "https://revistaoeste.com/brasil/anvisa-aprova-14-novas-canetas-para-diabetes-e-obesidade",
+    "title": "Revista Oeste. Anvisa aprova 14 novas canetas para diabetes e obesidade.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:47.960063Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "650f7975313eacb0",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://www.diariodepernambuco.com.br/brasil/2026/08/11721434-anvisa-aprova-novas-canetas-de-semaglutida-incluindo-a-1-generica.html",
+    "normalized_url": "https://diariodepernambuco.com.br/brasil/2026/08/11721434-anvisa-aprova-novas-canetas-de-semaglutida-incluindo-a-1-generica.html",
+    "work_key": "https://diariodepernambuco.com.br/brasil/2026/08/11721434-anvisa-aprova-novas-canetas-de-semaglutida-incluindo-a-1-generica.html",
+    "title": "Diario de Pernambuco (Agência Brasil). Anvisa aprova novas canetas de semaglutida, incluindo a 1ª genérica.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:35:50.217925Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b3b0f8aedbdf3576",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://www.medrxiv.org/content/10.64898/2026.04.19.26351196.full.pdf",
+    "normalized_url": "https://medrxiv.org/content/10.64898/2026.04.19.26351196.full.pdf",
+    "work_key": "DOI:10.64898/2026.04.19.26351196.full.pdf",
+    "title": "medRxiv. A systematic review and meta-analysis of the efficacy and safety of pharmacological treatments for obesity in adults: 2026 Update.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T20:36:01.172703Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_20d223e3404d_20261102T203502Z",
+    "tool_name": "Claude"
+  }
+]

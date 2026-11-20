@@ -1,0 +1,1269 @@
+{
+  "run_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z",
+  "answer_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Claude/Consolidado/vacinacao_hpv.md",
+  "generated_at": "2026-11-04T03:38:47.609839Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 30430,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 91,
+    "citation_markers_distinct": 44,
+    "references_listed": 44,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 88,
+  "pct_supported": 75.0,
+  "pct_unsupported": 12.5,
+  "pct_contradicted": 1.1363636363636365,
+  "count_supported": 66,
+  "count_unsupported": 11,
+  "count_contradicted": 1,
+  "count_skipped": 10,
+  "count_audited": 78,
+  "pct_supported_audited": 84.61538461538461,
+  "pct_unsupported_audited": 14.102564102564102,
+  "pct_contradicted_audited": 1.282051282051282,
+  "count_partially_supported": 6,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 5,
+    "ref_sem_conteudo": 5
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 5,
+  "count_reclassified_by_verification": 1,
+  "verification_stage_counts": {
+    "context_expansion": 1
+  },
+  "mis_cited_reference_count": 5,
+  "uncredited_reference_count": 2,
+  "dead_references": [
+    {
+      "id": "259868a97827cf7b",
+      "citation_markers": [
+        "[41]"
+      ],
+      "raw_url": "https://www.ocafezinho.com/2026/04/14/sus-implementa-teste-molecular-de-hpv-como-estrategia-principal-de-rastreamento-do-cancer-do-colo-do-utero/amp/",
+      "normalized_url": "https://ocafezinho.com/2026/04/14/sus-implementa-teste-molecular-de-hpv-como-estrategia-principal-de-rastreamento-do-cancer-do-colo-do-utero/amp",
+      "work_key": "https://ocafezinho.com/2026/04/14/sus-implementa-teste-molecular-de-hpv-como-estrategia-principal-de-rastreamento-do-cancer-do-colo-do-utero/amp",
+      "title": "O Cafezinho – SUS implementa teste molecular de HPV como estratégia principal de rastreamento do câncer do colo do útero.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-11-04T03:37:05.514953Z",
+      "error_message": "Referencia nao encontrada (404): https://www.ocafezinho.com/2026/04/14/sus-implementa-teste-molecular-de-hpv-como-estrategia-principal-de-rastreamento-do-cancer-do-colo-do-utero/amp/",
+      "barrier_kind": null,
+      "source_answer_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "inaccessible_references": [
+    {
+      "id": "e5a30ca762aae1b3",
+      "citation_markers": [
+        "[11]"
+      ],
+      "raw_url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009069.pub3/pdf/CDSR/CD009069/CD009069_abstract.pdf",
+      "normalized_url": "https://cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009069.pub3/pdf/CDSR/CD009069/CD009069_abstract.pdf",
+      "work_key": "DOI:10.1002/14651858.cd009069.pub3/pdf/cdsr/cd009069/cd009069_abstract.pdf",
+      "title": "Cochrane Library – Prophylactic vaccination against human papillomaviruses to prevent cervical cancer and its precursors (resumo).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-04T03:37:09.294312Z",
+      "error_message": "HTTP 403 em https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009069.pub3/pdf/CDSR/CD009069/CD009069_abstract.pdf (PDF, sem fallback via playwright)",
+      "barrier_kind": null,
+      "source_answer_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "6317eb68a64a7b60",
+      "citation_markers": [
+        "[17]"
+      ],
+      "raw_url": "https://researchexchange.ocrahope.org/papers/s0140-6736-21-02178-4",
+      "normalized_url": "https://researchexchange.ocrahope.org/papers/s0140-6736-21-02178-4",
+      "work_key": "https://researchexchange.ocrahope.org/papers/s0140-6736-21-02178-4",
+      "title": "Falcaro M et al. – The effects of the national HPV vaccination programme in England, UK, on cervical cancer and grade 3 cervical intraepithelial neoplasia incidence (The Lancet, 2021).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-04T03:37:12.935004Z",
+      "error_message": "HTTP 410 em https://researchexchange.ocrahope.org/papers/s0140-6736-21-02178-4",
+      "barrier_kind": null,
+      "source_answer_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "4e792edbdd54108f",
+      "citation_markers": [
+        "[2]"
+      ],
+      "raw_url": "https://www.who.int/initiatives/cervical-cancer-elimination-initiative/cervical-cancer-forum",
+      "normalized_url": "https://who.int/initiatives/cervical-cancer-elimination-initiative/cervical-cancer-forum",
+      "work_key": "https://who.int/initiatives/cervical-cancer-elimination-initiative/cervical-cancer-forum",
+      "title": "OMS – Global Cervical Cancer Forum (Cervical Cancer Elimination Initiative).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:37:03.301383Z",
+      "error_message": "barreira de acesso (interstitial): # Global cervical cancer elimination forum: advancing the call to action ## Every 2 minutes ### a woman dies of cervical",
+      "barrier_kind": "interstitial",
+      "source_answer_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "3366c2cf3a2971f9",
+      "citation_markers": [
+        "[12]"
+      ],
+      "raw_url": "https://mdedge.com/content/cochrane-report-hpv-vaccine-proves-its-worth-adolescent-young-adult-women",
+      "normalized_url": "https://mdedge.com/content/cochrane-report-hpv-vaccine-proves-its-worth-adolescent-young-adult-women",
+      "work_key": "https://mdedge.com/content/cochrane-report-hpv-vaccine-proves-its-worth-adolescent-young-adult-women",
+      "title": "MDedge – Cochrane report: HPV vaccine proves its worth in adolescent, young adult women.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:37:02.508256Z",
+      "error_message": "barreira de acesso (anti_bot): This website is using a security service to protect itself from online attacks. The action you just performed triggered ",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "dbdde3c4d6251bee",
+      "citation_markers": [
+        "[19]"
+      ],
+      "raw_url": "https://pulsetoday.co.uk/?p=142882",
+      "normalized_url": "https://pulsetoday.co.uk?p=142882",
+      "work_key": "https://pulsetoday.co.uk?p=142882",
+      "title": "Pulse Today – No cervical cancer cases in fully vaccinated women in Scotland.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:37:04.749853Z",
+      "error_message": "barreira de acesso (anti_bot): This website is using a security service to protect itself from online attacks. The action you just performed triggered ",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "60fab7be2b39184c",
+      "citation_markers": [
+        "[24]"
+      ],
+      "raw_url": "https://immattersacp.org/weekly/archives/2025/12/09/1.htm",
+      "normalized_url": "https://immattersacp.org/weekly/archives/2025/12/09/1.htm",
+      "work_key": "https://immattersacp.org/weekly/archives/2025/12/09/1.htm",
+      "title": "ACP Internist Weekly – Single-dose HPV vaccine noninferior to two doses, large trial finds.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:37:06.816616Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-2",
+      "reason": "Referencia(s) citada(s) ['4e792edbdd54108f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-13",
+      "reason": "Referencia(s) citada(s) ['3366c2cf3a2971f9'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-14",
+      "reason": "Referencia(s) citada(s) ['3366c2cf3a2971f9'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-21",
+      "reason": "Referencia(s) citada(s) ['6317eb68a64a7b60'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-23",
+      "reason": "Referencia(s) citada(s) ['dbdde3c4d6251bee'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-25",
+      "reason": "Referencia(s) citada(s) ['6b28389c16049223'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-31",
+      "reason": "Referencia(s) citada(s) ['60fab7be2b39184c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-34",
+      "reason": "Referencia(s) citada(s) ['e5a30ca762aae1b3'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-35",
+      "reason": "Referencia(s) citada(s) ['e5a30ca762aae1b3'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-63",
+      "reason": "Referencia(s) citada(s) ['259868a97827cf7b'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "5c94eb5f7e421dca",
+      "url": "https://www.bemparana.com.br/bem-estar/vacinacao-contra-hpv-reduz-infeccao-mesmo-entre-mulheres-nao-imunizadas-aponta-estudo-brasileiro/",
+      "times_cited": 6,
+      "supported_count": 6,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55,
+        56,
+        59,
+        61,
+        62,
+        83
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Entre as mulheres vacinadas, a prevalência dos tipos de HPV cobertos pela vacina caiu 81% em relação ao período anterior à vacinação (de 15,6% para 3,1%).",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "765c2ca77fe27157",
+      "url": "https://medicinasa.com.br/?p=169920",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        8,
+        10,
+        67,
+        74
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A vacinação, no entanto, não substitui o rastreamento, já que não oferece proteção contra todos os tipos do HPV associados ao câncer. A vacina oferecida pelo SUS protege contra quatro tipos do HPV, os tipos 6, 11, 16 e 18.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "35d49d106015fcba",
+      "url": "https://consumer.healthday.com/substantial-decline-in-cervical-ca-cin3-after-hpv-vaccination-2655486099.html",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        19,
+        20,
+        71,
+        78
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "dfcffdad91ca80db",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/immunization-coverage",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        33,
+        40,
+        41,
+        45
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "By end 2025, 93 countries used a 1-dose schedule, and globally more than 85% of girls aged 9–14 years vaccinated that year were on a single dose schedule.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "07fd476f69a9eaf3",
+      "url": "https://medicinasa.com.br/?p=154047",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        86
+      ],
+      "partial_positions": [
+        75
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O câncer do colo do útero é o segundo mais incidente entre as mulheres nas regiões Norte e Nordeste, enquanto no Sudeste ocupa a quinta posição.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "7f34d4a50db171ce",
+      "url": "https://who.int/publications/i/item/9789240014107",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        6,
+        7
+      ],
+      "partial_positions": [
+        87
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "90% of girls fully vaccinated with HPV vaccine by age 15 years; 70% of women are screened with a high-performance test by 35 years of age and again by 45 years of age; 90% of women identified with cervical disease receive treatment (90% of women with precancer treated, and 90% of women with invasive cancer managed).",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "41d7e57ac527c801",
+      "url": "https://www.intramed.net/content/fundacao-do-cancer-divulgou-nova-versao-do-guia-sobre-prevencao-e-rastreamento-do-cancer-de-colo-do-utero",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        9,
+        65,
+        66
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Quando o teste aponta infecção pelos tipos 16 ou 18 — responsáveis por cerca de 70% dos casos de câncer do colo do útero — a recomendação é encaminhar a paciente diretamente para colposcopia.",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "3aaec0fb2693de4c",
+      "url": "https://link.springer.com/10.1038/s41591-023-02658-0",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        12,
+        30
+      ],
+      "partial_positions": [
+        73
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The vaccine virus-like-particle (VLP) structure, which self-assembles to mimic the live virus without the replicating DNA, generates strong immunity with a single dose, analogous to highly immunogenic whole-virus vaccines rather than a subunit vaccine, supporting a biological mechanism for single-dose efficacy rather than the prime-boost multi-dose schedule that optimizes subunit vaccine efficacy (VE).",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "dfeae0ae1d79c26c",
+      "url": "https://news.ki.se/hpv-vaccine-effective-against-cervical-cancer",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        16,
+        18,
+        77
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This is the first time that we, on a population level, are able to show that HPV vaccination is protective not only against cellular changes that can be precursors to cervical cancer but also against actual invasive cervical cancer",
+      "key_excerpt_position": 16
+    },
+    {
+      "reference_id": "7516e7dc5506ad6e",
+      "url": "https://www.sydney.edu.au/news-opinion/news/2025/11/20/australia-on-track-to-eliminating-cervical-cancer.html",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        24,
+        26,
+        76
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It found there was not a single documented case of cervical cancer among women under 25 across Australia in 2021 – the latest available data – demonstrating the efficacy of Australia's HPV (human papillomavirus) vaccination program which commenced in 2007. [...] the disease is expected to be eliminated as a public health problem by 2035",
+      "key_excerpt_position": 24
+    },
+    {
+      "reference_id": "9e20cc62111e95c3",
+      "url": "https://www.who.int/news/item/20-12-2022-who-updates-recommendations-on-hpv-vaccination-schedule",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        27,
+        28
+      ],
+      "partial_positions": [
+        80
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "WHO now recommends: - A one or two-dose schedule for girls aged 9-14 years - A one or two-dose schedule for girls and women aged 15-20 years [...] The position paper underscores the importance of vaccinating as a priority immunocompromised people, or those living with HIV.",
+      "key_excerpt_position": 27
+    },
+    {
+      "reference_id": "68771f7110f9ee7d",
+      "url": "https://www.poder360.com.br/poder-saude/saude-amplia-prazo-para-vacinacao-contra-o-hpv-ate-dezembro/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        49,
+        50
+      ],
+      "partial_positions": [
+        82
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 2024, o Brasil atingiu mais de 82% de cobertura vacinal entre meninas de 9 a 14 anos, índice acima da média global, de só 37%, segundo dados da OMS (Organização Mundial da Saúde). Entre os meninos da mesma idade, a cobertura chegou a 67%.",
+      "key_excerpt_position": 49
+    },
+    {
+      "reference_id": "55a9230eebd4f435",
+      "url": "https://www.opovo.com.br/noticias/saude/2026/07/24/amp/pesquisa-mostra-que-vacinacao-diminuiu-prevalencia-de-hpv-entre-jovens.html",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        54,
+        57,
+        58
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Nos dois períodos, o foco foram os jovens de 16 a 25 anos, como explica a médica epidemiologista e líder da pesquisa Eliana Wendland: \"Essa faixa etária é a que tem a maior prevalência de HPV, porque é o início da atividade sexual.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "32ca152641255f61",
+      "url": "https://www.parana.pr.gov.br/aen/Noticia/Parana-inicia-implementacao-de-teste-inovador-para-rastrear-cancer-do-colo-do-utero",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        64,
+        68,
+        84
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O teste de DNA-HPV, no entanto, detecta diretamente a presença do HPV, permitindo identificar a infecção antes das alterações celulares.",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "5602f23f62a54dee",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/human-papillomavirus-(hpv)-and-cervical-cancer",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        1
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        0
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Women living with HIV are six times more likely to develop cervical cancer compared to the general population",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "80ee4946222fdd47",
+      "url": "https://www.febrasgo.org.br/wp-content/uploads/2026/01/Pacto-Nacional-Cancer.pdf",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        85
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "estima-se que ocorram 19.310 novos casos por ano no triênio 2026–2028, com um risco de 17,59 casos a cada 100.000 mulheres.",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "e5a30ca762aae1b3",
+      "url": "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD009069.pub3/pdf/CDSR/CD009069/CD009069_abstract.pdf",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        34,
+        35
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "3366c2cf3a2971f9",
+      "url": "https://mdedge.com/content/cochrane-report-hpv-vaccine-proves-its-worth-adolescent-young-adult-women",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        13,
+        14
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "2c7475cf88d5f960",
+      "url": "https://oalib-perpustakaan.upi.edu/Record/doaj_4e874a61a70a4f4fa1fc761eea178a97/Description",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        15
+      ],
+      "partial_positions": [
+        72
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "No protection against cervical precancer was found in mid-adult women unselected by HPV DNA status at enrollment.",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "3a9d2a56497bd69f",
+      "url": "https://ascopost.com/news/october-2020/swedish-study-of-hpv-vaccination-and-risk-of-invasive-cervical-cancer/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        17
+      ],
+      "partial_positions": [
+        71
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the fully adjusted incidence rate ratios for cervical cancer were 0.12 (95% CI = 0.00–0.34) among women vaccinated before age 17 and 0.47 (95% CI = 0.27–0.75) among those vaccinated between the ages of 17 and 30.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "6f609546df698c18",
+      "url": "https://publichealthscotland.scot/news/2024/january/no-cervical-cancer-cases-detected-in-vaccinated-women-following-hpv-immunisation/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        22,
+        79
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "no cervical cancer cases have been detected in fully vaccinated women following the human papillomavirus (HPV) immunisation at age 12-13 since the programme started in Scotland in 2008.",
+      "key_excerpt_position": 22
+    },
+    {
+      "reference_id": "60fab7be2b39184c",
+      "url": "https://immattersacp.org/weekly/archives/2025/12/09/1.htm",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        31,
+        80
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "caf399badc724d7e",
+      "url": "https://dceg.cancer.gov/research/cancer-types/cervix/escuddo",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        32
+      ],
+      "partial_positions": [
+        73
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The trial results were published in December 2025, showing non-inferiority of one dose, compared to two doses.",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "ccd2b2fb545e94e0",
+      "url": "https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/human-papillomavirus-vaccines/safety",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        36,
+        81
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Since licensure of HPV vaccines, GACVS has found no new adverse events of concern based on many very large, high quality studies.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "1c7ebe4a288b12a7",
+      "url": "https://www.scielo.br/j/rimtsp/a/KKmPv7mZ39YXfpkfBNTqm5Q/?lang=en",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        38,
+        47
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In the second semester of 2014, the vaccine coverage dropped continuously until the end of that year, the national mean coverage of the second HPV vaccine dose was only 40.8% and, in Sao Paulo State, it was 44.6%. The causes of this drop in HPV vaccine coverage are not completely clear, but the widespread disclosure in the traditional and social media of a cluster of adverse events following 4vHPV vaccination in a school in the city of Bertioga, a coastal city in Sao Paulo State, in September 2014, may have had a role",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "96ab6ec2c824940c",
+      "url": "https://publichealth.jhu.edu/ivac/2026/latest-global-immunization-coverage-estimates-illustrate-gaps-in-vaccine-access",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        42,
+        44
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "15 countries introduced HPV vaccines into their nationwide immunization programs in 2025, including China, greatly increasing access.",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "f5d5de0290570242",
+      "url": "https://www.tnh1.com.br/noticia/nid/ministerio-da-saude-amplia-prazo-de-resgate-vacinal-contra-o-hpv-ate-2026/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        51
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [
+        52
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Ministério da Saúde prorrogou até o primeiro semestre de 2026 a estratégia de resgate vacinal contra o HPV destinada a jovens de 15 a 19 anos que não receberam a vacina na idade recomendada.",
+      "key_excerpt_position": 51
+    },
+    {
+      "reference_id": "4e792edbdd54108f",
+      "url": "https://www.who.int/initiatives/cervical-cancer-elimination-initiative/cervical-cancer-forum",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        2
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "33dc9a86e6273a39",
+      "url": "https://www.bemparana.com.br/bem-estar/parana-deve-registrar-mais-de-2-mil-novos-casos-de-cancer-de-utero-e-ovario-em-2026/amp/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        3
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O dado oficial mais recente registra 7.493 mortes por câncer do colo do útero no Brasil em 2024.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "fe8eb6ddcf1d9613",
+      "url": "https://unicef.org/stories/fast-facts-hpv-cervical-cancer",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        11
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "HPV vaccines can protect against up to 90 per cent of cervical cancer cases.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "6317eb68a64a7b60",
+      "url": "https://researchexchange.ocrahope.org/papers/s0140-6736-21-02178-4",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        21
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "dbdde3c4d6251bee",
+      "url": "https://pulsetoday.co.uk/?p=142882",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        23
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6b28389c16049223",
+      "url": "https://tri.edu.au/node/6103",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        25
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a9873973001927ad",
+      "url": "https://www.massgeneral.org/news/research-spotlight/research-spotlight-single-dose-of-hpv-is-highly-efficacious-in-protecting-young-women",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        29
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "534a09b2d8ffd0f0",
+      "url": "https://english.prescrire.org/en/81/168/52232/0/About.aspx",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        37
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A statistically significant association was identified between Guillain-Barré syndrome and HPV vaccine: 1 to 2 additional cases per year per 100 000 vaccinees. A link between Guillain-Barré syndrome and other vaccines has already been observed, making a causal link plausible, despite the lack of an established causal mechanism.",
+      "key_excerpt_position": 37
+    },
+    {
+      "reference_id": "3e7462bfe14a6f01",
+      "url": "https://www.aosfatos.org/noticias/como-desinformacao-provocou-rejeicao-de-jovens-vacina-contra-hpv-no-acre/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        39
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A coordenadora do núcleo do PNI (Programa Nacional de Imunizações do Ministério da Saúde) no Acre, Renata Quiles, também não descarta a possibilidade de que a criação de páginas e grupos no Facebook de denúncia aos supostos efeitos da vacina tenha ajudado a disseminar a desinformação sobre as reações colaterais da imunização.",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "3b261283ca02ba15",
+      "url": "https://data.unicef.org/topic/child-health/immunization/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        43
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "only 33 per cent of girls received the first dose of HPV vaccine (HPV1), and just 31 per cent received the final dose (HPVc).",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "e00eab6f4b8198e9",
+      "url": "https://www.gavi.org/vaccineswork/state-global-immunisation-eight-charts",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        46
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In these countries, coverage with a first dose currently stands at 29%.",
+      "key_excerpt_position": 46
+    },
+    {
+      "reference_id": "479ad47a03f932fe",
+      "url": "https://www.conass.org.br/?p=7417",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        48
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Brasil será o primeiro país da América Latina e o sétimo do mundo a oferecer a vacina contra o HPV para meninos em programas nacionais de imunizações.",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "34e050676589f215",
+      "url": "https://www.parana.pr.gov.br/aen/Noticia/Saude-intensifica-vacinacao-contra-HPV-passando-abranger-adolescentes-de-15-19-anos",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        53
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "outros grupos populacionais também podem se vacinar, como pessoas que vivem com HIV, transplantados de órgãos sólidos, de medula óssea ou pacientes oncológicos entre 9 e 45 anos",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "a1bf5df1fdbb2db1",
+      "url": "https://portal.afya.com.br/saude/vacinacao-contra-o-hpv-reduz-prevalencia-da-doenca-entre-jovens",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        60
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O estudo não encontrou diferença na prevalência entre participantes vacinados com uma, duas ou três doses, resultado que sustenta a eficácia do esquema atual de dose única do SUS.",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "259868a97827cf7b",
+      "url": "https://www.ocafezinho.com/2026/04/14/sus-implementa-teste-molecular-de-hpv-como-estrategia-principal-de-rastreamento-do-cancer-do-colo-do-utero/amp/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        63
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6ab493c5bb61d9dd",
+      "url": "https://portalelegis.alesc.sc.gov.br/documentos/ZLkQ7",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        69
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pessoas imunossuprimidas devem realizar o teste trienalmente.",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "af3d858b513c4ce5",
+      "url": "https://futurodasaude.com.br/inca-estimativas-cancer-2026-2028/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        70
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A presidente de honra da Sociedade Brasileira de Oncologia Clínica (SBOC), Angélica Nogueira, destaca as projeções de câncer do colo do útero e de cólon e reto, por exemplo. [...] No Brasil e em outros países de média renda e baixa renda, não houve redução do câncer do colo do útero de maneira significativa com o papanicolau.",
+      "key_excerpt_position": 70
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-11",
+      "position": 11,
+      "claim_excerpt": "As vacinas de espectro mais amplo, como a nonavalente, podem proteger contra os tipos que causam até 90% dos casos.",
+      "cited_markers": "[9]",
+      "corroborating_markers": "[10] [39] [29] [34] [40] [30] [38] [7]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-72",
+      "position": 72,
+      "claim_excerpt": "A vacina é profilática: não elimina infecções já instaladas e tem pouco efeito em mulheres adultas já expostas.",
+      "cited_markers": "[13]",
+      "corroborating_markers": "[39] [27] [10] [14] [34] [4] [3] [38] [40] [29] [25]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-75",
+      "position": 75,
+      "claim_excerpt": "**Desigualdades regionais.** O peso maior da doença no Norte e no Nordeste mostra que médias nacionais podem esconder bolsões de baixa cobertura vacinal e de rastreamento.",
+      "cited_markers": "[4]",
+      "corroborating_markers": "[44] [39] [5] [26] [1] [30] [32] [33] [43] [38] [31]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-82",
+      "position": 82,
+      "claim_excerpt": "vacina gratuita para meninas e meninos; - dose única adotada em 2024; - produção nacional e cobertura acima de 80% entre as meninas",
+      "cited_markers": "[35]",
+      "corroborating_markers": "[39] [36] [37] [4] [26] [34] [31] [30] [8] [32] [7]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-87",
+      "position": 87,
+      "claim_excerpt": "Ela exige sustentar coberturas altas e homogêneas em todo o território, enfrentar a desinformação, concluir a implantação do rastreamento molecular e garantir o tratamento das lesões detectadas, exat…",
+      "cited_markers": "[6]",
+      "corroborating_markers": "[5] [8] [39] [44] [26] [4] [32] [43] [7] [1]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 415377,
+  "cost_tracked": false,
+  "processing_time_seconds": 821013.811086
+}

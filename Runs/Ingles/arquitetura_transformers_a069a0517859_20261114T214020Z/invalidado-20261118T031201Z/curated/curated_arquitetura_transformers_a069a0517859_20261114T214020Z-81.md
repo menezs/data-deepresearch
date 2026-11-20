@@ -1,0 +1,381 @@
+[referencia=7febb7e905af5e40 score=0.222]
+- Identically to [Raffel et al., 2019], we pre-train for 524,288 steps on the span-filling objective on the C4 dataset. Each training batch consists of 128 examples, each of which has an input of 512 tokens and an output of 114 tokens, the output containing multiple spans of tokens which were deleted from the input<sup>2</sup> . 
+
+- Similarly to [Raffel et al., 2019], we use the Adafactor optimizer [Shazeer and Stern, 2018] and an inversesquare-root learning-rate schedule. We also decay the learning rate linearly for the final 10 percent of the training steps. Our main departure from [Raffel et al., 2019] is that we use no dropout during pre-training. 
+
+- We find this to produce superior results. We compute the log-perplexity on the training objective on a heldout shard of C4, which we believe to be a good indicator of model quality. For each model architecture, we also trained four models for a shorter period (65,536 steps) to measure inter-run variability. The results 
+
+- are listed in table 1. The GEGLU and SwiGLU variants produce the best perplexities. 
+
+- **3.3 Fine-Tuning** 
+
+- We then fine-tune each fully-trained model once on an examples-proportional mixture of the Stanford Question-Answering Dataset (SQuAD) [Rajpurkar et al., 2016] and all the language understanding tasks in the GLUE [Wang et al., 2018] and SuperGlue [Wang et al., 2019] benchmarks.<sup>3</sup> Fine-tuning consists of 131072 steps with a learning rate of 10<sup>−3</sup> . As in training, the input sequences for each step have a combined length of approximately 65,536 tokens. Following [Raffel et al., 2019], we use a dropout rate of 0 _._ 1 on the 
+
+- layer outputs, feed-forward hidden-layers and attention weights. The embedding matrices are fixed during fine-tuning. 
+
+- Tables 2, 3 and 4 show results on the development sets. For each task, we report the best score of any
+
+---
+
+[referencia=3972039dbf3f7ee7 score=0.068]
+### **2.2 Architecture** 
+
+Following recent work on large language models, our network is based on the transformer architecture (Vaswani et al., 2017). We leverage various improvements that were subsequently proposed, and used in different models such as PaLM. Here are the main difference with the original architecture, and where we were found the inspiration for this change (in bracket): 
+
+**Pre-normalization [GPT3].** To improve the training stability, we normalize the input of each transformer sub-layer, instead of normalizing the output. We use the RMSNorm normalizing function, introduced by Zhang and Sennrich (2019). 
+
+**SwiGLU activation function [PaLM].** We replace the ReLU non-linearity by the SwiGLU activation function, introduced by Shazeer (2020) to improve the performance. We use a dimension of <u>2</u> 3<sup>4</sup><sup>_d_instead of 4</sup><sup>_d_as in PaLM.</sup> 
+
+**Rotary Embeddings [GPTNeo].** We remove the absolute positional embeddings, and instead, add rotary positional embeddings (RoPE), introduced by Su et al. (2021), at each layer of the network. 
+
+The details of the hyper-parameters for our different models are given in Table 2.
+
+---
+
+[referencia=7febb7e905af5e40 score=0.065]
+# **2 Gated Linear Units (GLU) and Variants** 
+
+[Dauphin et al., 2016] introduced Gated Linear Units (GLU), a neural network layer defined as the componentwise product of two linear transformations of the input, one of which is sigmoid-activated. They also suggest omitting the activation, which they call a "bilinear" layer and attribute to [Mnih and Hinton, 2007]. 
+
+
+
+We can also define GLU variants using other activation functions: 
+
+
+
+> 1Also in the interest of ML fairness. 
+
+1 
+
+ReGLU( _x, W, V, b, c_ ) = max(0 _, xW_ + _b_ ) ⊗ ( _xV_ + _c_ ) GEGLU( _x, W, V, b, c_ ) = GELU( _xW_ + _b_ ) ⊗ ( _xV_ + _c_ ) (5) SwiGLU( _x, W, V, b, c, β_ ) = Swish _β_ ( _xW_ + _b_ ) ⊗ ( _xV_ + _c_ ) 
+
+In this paper, we propose additional variations on the Transformer FFN layer which use GLU or one of its variants in place of the first linear transformation and the activation function. Again, we omit the bias terms. 
+
+
+
+All of these layers have three weight matrices, as opposed to two for the original FFN. To keep the number of parameters and the amount of computation constant, we reduce the number of hidden units _dff_ (the second dimension of _W_ and _V_ and the first dimension of _W_ 2) by a factor of 3<sup>2whencomparingthese</sup> layers to the original two-matrix version.
+
+---
+
+[referencia=a7468c6851652691 score=0.029]
+## **3 Model Architecture** 
+
+Most competitive neural sequence transduction models have an encoder-decoder structure [5, 2, 35]. Here, the encoder maps an input sequence of symbol representations ( _x_ 1 _, ..., xn_ ) to a sequence of continuous representations **z** = ( _z_ 1 _, ..., zn_ ). Given **z** , the decoder then generates an output sequence ( _y_ 1 _, ..., ym_ ) of symbols one element at a time. At each step the model is auto-regressive [10], consuming the previously generated symbols as additional input when generating the next. 
+
+2 
+
+
+
+Figure 1: The Transformer - model architecture. 
+
+The Transformer follows this overall architecture using stacked self-attention and point-wise, fully connected layers for both the encoder and decoder, shown in the left and right halves of Figure 1, respectively. 
+
+### **3.1 Encoder and Decoder Stacks** 
+
+**Encoder:** The encoder is composed of a stack of _N_ = 6 identical layers. Each layer has two sub-layers. The first is a multi-head self-attention mechanism, and the second is a simple, positionwise fully connected feed-forward network. We employ a residual connection [11] around each of the two sub-layers, followed by layer normalization [1]. That is, the output of each sub-layer is LayerNorm( _x_ + Sublayer( _x_ )), where Sublayer( _x_ ) is the function implemented by the sub-layer itself. To facilitate these residual connections, all sub-layers in the model, as well as the embedding layers, produce outputs of dimension _d_ model = 512. 
+
+**Decoder:** The decoder is also composed of a stack of _N_ = 6 identical layers. In addition to the two sub-layers in each encoder layer, the decoder inserts a third sub-layer, which performs multi-head attention over the output of the encoder stack. Similar to the encoder, we employ residual connections around each of the sub-layers, followed by layer normalization. We also modify the self-attention sub-layer in the decoder stack to prevent positions from attending to subsequent positions. This masking, combined with fact that the output embeddings are offset by one position, ensures that the predictions for position _i_ can depend only on the known outputs at positions less than _i_ .
+
+---
+
+[referencia=7febb7e905af5e40 score=0.024]
+- FFNGLU 84 _._ 20 49 _._ 16 94 _._ 27 92 _._ 39 89 _._ 46 89 _._ 46 89 _._ 35 88 _._ 79 91 _._ 62 86 _._ 36 86 _._ 18 92 _._ 92 **84.12** FFNGEGLU 84 _._ 12 53 _._ 65 93 _._ 92 92 _._ 68 89 _._ 71 90 _._ 26 90 _._ 13 89 _._ 11 91 _._ 85 86 _._ 15 86 _._ 17 92 _._ 81 79 _._ 42 FFNBilinear 83 _._ 79 51 _._ 02 **94.38** 92 _._ 28 89 _._ 46 90 _._ 06 89 _._ 84 88 _._ 95 91 _._ 69 **86.90 87.08** 92 _._ 92 81 _._ 95 FFNSwiGLU 84 _._ 36 51 _._ 59 93 _._ 92 92 _._ 23 88 _._ 97 **90.32 90.13 89.14 91.87** 86 _._ 45 86 _._ 47 **92.93** 83 _._ 39 FFNReGLU **84.67 56.16 94.38** 92 _._ 06 89 _._ 22 89 _._ 97 89 _._ 85 88 _._ 86 91 _._ 72 86 _._ 20 86 _._ 40 92 _._ 68 81 _._ 59 [Raffel et al., 2019] 83 _._ 28 53 _._ 84 92 _._ 68 92 _._ 07 88 _._ 92 88 _._ 02 87 _._ 94 88 _._ 67 91 _._ 56 84 _._ 24 84 _._ 57 90 _._ 48 76 _._ 28 ibid. stddev. 0 _._ 235 1 _._ 111 0 _._ 569 0 _._
+
+---
+
+[referencia=7febb7e905af5e40 score=0.023]
+|FFNSwiGLU|**74.56**|81_._19|82_._39|89_._29|73_._00|75_._56|38_._72|**75.35**|74_._55|**85.20**|67_._24|86_._54|
+|FFNReGLU|73_._66|80_._89|**86.37**|**91.07**|67_._00|75_._32|40_._50|75_._07|74_._18|84_._48|67_._40|79_._81|
+|[Rafel et al., 2019]|71_._36|76_._62|91_._22|91_._96|66_._20|66_._13|25_._78|69_._05|68_._16|75_._34|68_._04|78_._56|
+|ibid. stddev.|0_._416|0_._365|3_._237|2_._560|2_._741|0_._716|1_._011|0_._370|0_._379|1_._228|0_._850|2_._029|
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table 4: SQuAD [Rajpurkar et al., 2016] v1.1 (dev). 
+
+||EM|F1|
+|---|---|---|
+|FFNReLU|83_._18|90_._87|
+|FFNGELU|83_._09|90_._79|
+|FFNSwish|83_._25|90_._76|
+|FFNGLU|82_._88|90_._69|
+|FFNGEGLU|83_._55|91_._12|
+|FFNBilinear|**83.82**|91_._06|
+|FFNSwiGLU|83_._42|91_._03|
+|FFNReGLU|83_._53|**91.18**|
+|[Rafel et al., 2019]|80_._88|88_._81|
+|ibid. Standard Deviation|0_._343|0_._226|
+
+---
+
+[referencia=7febb7e905af5e40 score=0.013]
+**GLU Variants Improve Transformer** 
+
+
+
+
+
+Noam Shazeer Google noam@google.com 
+
+February 14, 2020 
+
+### **Abstract** 
+
+Gated Linear Units [Dauphin et al., 2016] consist of the component-wise product of two linear projections, one of which is first passed through a sigmoid function. Variations on GLU are possible, using different nonlinear (or even linear) functions in place of sigmoid. We test these variants in the feedforward sublayers of the Transformer [Vaswani et al., 2017] sequence-to-sequence model, and find that some of them yield quality improvements over the typically-used ReLU or GELU activations. 
+
+# **1 Introduction** 
+
+The Transformer [Vaswani et al., 2017] sequence-to-sequence model alternates between multi-head attention, and what it calls "position-wise feed-forward networks" (FFN). The FFN takes a vector _x_ (the hidden representation at a particular position in the sequence) and passes it through two learned linear transformations, (represented by the matrices _W_ 1 and _W_ 2 and bias vectors _b_ 1 and _b_ 2). A rectified-linear (ReLU) [Glorot et al., 2011] activation function applied between the two linear transformations. 
+
+
+
+Following the T5 codebase [Raffel et al., 2019]<sup>1</sup> , we use a version with no bias: 
+
+
+
+Subsequent work has proposed replacing the ReLU with other nonlinear activation functions such as Gaussian Error Linear Units, GELU( _x_ ) = _x_ Φ( _x_ ) [Hendrycks and Gimpel, 2016], and Swish _β_ ( _x_ ) = _xσ_ ( _βx_ ) [Ramachandran et al., 2017].
+
+---
+
+[referencia=a7468c6851652691 score=0.013]
+The two most commonly used attention functions are additive attention [2], and dot-product (multi-2], and dot-product (multi-], and dot-product (multiplicative) attention. Dot-product attention is identical to our algorithm, except for the scaling factor of <u>1</u><sup>Additive attention computes the compatibility function using a feed-forward network with</sup> _~~√~~ dkk_<sup>.</sup> a single hidden layer. While the two are similar in theoretical complexity, dot-product attention is much faster and more space-efficient in practice, since it can be implemented using highly optimized matrix multiplication code. 
+
+Instead of performing a single attention function with _d_ model-dimensional keys, values and queries, we found it beneficial to linearly project the queries, keys and values _h_ times with different, learned linear projections to _dk_ , _dk_ and _dv_ dimensions, respectively. On each of these projected versions of queries, keys and values we then perform the attention function in parallel, yielding _dv_ -dimensional 4To illustrate why the dot products get large, assume that the components of _q_ and _k_ are independent random variables with mean 0 and variance 1. Then their dot product, _q · k_ =<sup>�</sup><sup>_d_</sup> _i_ =1<sup>_kqiki_, has mean 0 and variance</sup><sup>_dk_.</sup> 
+
+4 
+
+output values. These are concatenated and once again projected, resulting in the final values, as depicted in Figure 2. 
+
+Multi-head attention allows the model to jointly attend to information from different representation subspaces at different positions. With a single attention head, averaging inhibits this. 
+
+MultiHead( _Q, K, V_ ) = Concat(head1 _, ...,_ headh) _W_<sup>_O_</sup>
+
+---
+
+[referencia=a7468c6851652691 score=0.006]
+### Scaled Dot-Product Attention 
+
+
+
+Multi-Head Attention 
+
+
+
+Figure 2: (left) Scaled Dot-Product Attention. (right) Multi-Head Attention consists of several attention layers running in parallel. 
+
+of the values, where the weight assigned to each value is computed by a compatibility function of the query with the corresponding key. **3.2.1 Scaled Dot-Product Attention** 
+
+We call our particular attention "Scaled Dot-Product Attention" (Figure 2). The input consists of queries and keys of dimension _dk_ , and values of dimension _dv_ . We compute the dot products of the 
+
+query with all keys, divide each by<sup>_√_</sup> _dk_ , and apply a softmax function to obtain the weights on the values. 
+
+In practice, we compute the attention function on a set of queries simultaneously, packed together 
+
+into a matrix _Q_ . The keys and values are also packed together into matrices _K_ and _V_ . We compute the matrix of outputs as: 
+
+Attention( _Q, K, V_ ) = softmax(<sup>_<u>QK</u>T_</sup> ) _V_ (1) _~~√~~ dk_ The two most commonly used attention functions are additive attention [2], and dot-product (multi-2], and dot-product (multi-], and dot-product (multiplicative) attention. Dot-product attention is identical to our algorithm, except for the scaling factor of <u>1</u><sup>Additive attention computes the compatibility function using a feed-forward network with</sup> _~~√~~ dkk_<sup>.</sup> a single hidden layer. While the two are similar in theoretical complexity, dot-product attention is much faster and more space-efficient in practice, since it can be implemented using highly optimized matrix multiplication code. While for small values of _dk_ the two mechanisms perform similarly, additive attention outperforms dot product attention without scaling for larger values of _dk_ [3]. We suspect that for large values of _dk_ , the dot products grow large in magnitude, pushing the softmax function into regions where it has extremely small gradients<sup>4</sup> . To counteract this effect, we scale the dot products by _~~√~~_ <u>1</u> _dk_<sup>.</sup> **3.2.2 Multi-Head Attention**
+
+---
+
+[referencia=3972039dbf3f7ee7 score=0.006]
+with the size of the model, especially for Respectful prompts. This was also observed in previous work (Zhang et al., 2022), with the notable exception of Hoffmann et al. (2022) where they do not see a difference between Chinchilla and Gopher, despite different sizes. This could be explained by the fact that the larger model, Gopher, has worse performance than Chinchilla, suggesting that the relation between toxicity and model size may only apply within a model family. 
+
+LLaMA GPT3 OPT the context of the sentence. The goal is to reveal if societal biases associated with occupations Gender 70.6 **62.6** 65.7 have been captured by the model. For example, Religion 79.0 73.3 **68.6** a sentence in the WinoGender dataset is “The Race/Color **57.0** 64.7 68.6 nurse notified the patient that his shift would be Sexual orientation 81.0 **76.2** 78.6 ending in an hour.”, which is followed by ‘His’ 
+
+|Age<br>Nationality<br>|70.1<br>64.2<br>|**64.4**<br>**61.6**<br>|67.8<br>62.9<br>|refers to. We then compare the perplexity of the<br>continuationsthe nurseandthe patientto per-|
+|---|---|---|---|---|
+|Disability<br>|**66.7**<br>|76.7<br>|76.7<br>|form co-reference resolution with the model. We|
+|Physical appearance<br>Socioeconomic status|77.8<br>**71.5**|**74.6**<br>73.8|76.2<br>76.2|evaluate the performance when using 3 pronouns:<br>“her/her/she”, “his/him/he” and “their/them/some-|
+|Average|**66.6**|67.2|69.5|one” (the different choices corresponding to the<br>grammatical function of the pronoun.|
+
+
+
+Table 12: **CrowS-Pairs.** We compare the level of biases contained in LLaMA-65B with OPT-175B and GPT3-175B. Higher score indicates higher bias.
+
+---
+
+[referencia=3972039dbf3f7ee7 score=0.006]
+||0-shot|1-shot|5-shot|64-shot|
+|---|---|---|---|---|
+|GPT-3<br>175B|14.6|23.0|-|29.9|
+|Gopher<br>280B|10.1|-|24.5|28.2|
+|Chinchilla 70B|16.6|-|31.5|35.5|
+|8B|8.4|10.6|-|14.6|
+|PaLM<br>62B|18.1|26.5|-|27.6|
+|540B|21.2|29.3|-|39.6|
+|7B|16.8|18.7|22.0|26.1|
+|LLMA<br>13B|20.1|23.4|28.1|31.9|
+|a<br>33B|**24.9**|28.3|32.9|36.0|
+|65B|23.8|**31.0**|**35.0**|**39.9**|
+
+
+
+Table 4: **NaturalQuestions.** Exact match performance. 
+
+### **3.1 Common Sense Reasoning** 
+
+We consider eight standard common sense reasoning benchmarks: BoolQ (Clark et al., 2019), PIQA (Bisk et al., 2020), SIQA (Sap et al., 2019), 
+
+HellaSwag (Zellers et al., 2019), WinoGrande (Sakaguchi et al., 2021), ARC easy and challenge (Clark et al., 2018) and OpenBookQA (Mihaylov et al., 2018). These datasets include Cloze and Winograd style tasks, as well as multiple choice question answering. We evaluate in the zero-shot setting as done in the language modeling community. 
+
+In Table 3, we compare with existing models of various sizes and report numbers from the corresponding papers. First, LLaMA-65B outperforms Chinchilla-70B on all reported benchmarks but BoolQ. Similarly, this model surpasses PaLM540B everywhere but on BoolQ and WinoGrande. LLaMA-13B model also outperforms GPT-3 on most benchmarks despite being 10 _×_ smaller.
+
+---
+
+[referencia=7febb7e905af5e40 score=0.006]
+_._ 24 84 _._ 57 90 _._ 48 76 _._ 28 ibid. stddev. 0 _._ 235 1 _._ 111 0 _._ 569 0 _._ 729 1 _._ 019 0 _._ 374 0 _._ 418 0 _._ 108 0 _._ 070 0 _._ 291 0 _._ 231 0 _._ 361 1 _._ 393 
+
+
+
+
+
+
+
+- **4 Conclusions** 
+
+We have extended the GLU family of layers and proposed their use in Transformer. In a transfer-learning setup, the new variants seem to produce better perplexities for the de-noising objective used in pre-training, as well as better results on many downstream language-understanding tasks. These architectures are simple 
+
+- to implement, and have no apparent computational drawbacks. We offer no explanation as to why these architectures seem to work; we attribute their success, as all else, to divine benevolence. 
+
+
+
+   - 2Each training step took approximately 0.15 seconds on a 32-core TPUv2 cluster. 
+
+- 3This departs from [Raffel et al., 2019], who fine-tuned separately on the different tasks. We chose one fine-tuning run for 
+
+- simplicity. 
+
+3 
+
+Table 3: SuperGLUE Language-Understanding Benchmark [Wang et al., 2019] (dev).
+
+---
+
+[referencia=3972039dbf3f7ee7 score=0.005]
+Table 15: **Carbon footprint of training different models in the same data center.** We follow Wu et al. (2022) to compute carbon emission of training OPT, BLOOM and our models in the same data center. For the power consumption of a A100-80GB, we take the thermal design power for NVLink systems, that is 400W. We take a PUE of 1.1 and a carbon intensity factor set at the national US average of 0.385 kg CO2e per KWh. 
+
+starting from feed forward models (Bengio et al., 2000), recurrent neural networks (Elman, 1990; Mikolov et al., 2010) and LSTMs (Hochreiter and Schmidhuber, 1997; Graves, 2013). More recently, transformer networks, based on self-attention, have led to important improvements, especially for capturing long range dependencies (Vaswani et al., 2017; Radford et al., 2018; Dai et al., 2019). **Scaling.** There is a long history of scaling for language models, for both the model and dataset 
+
+sizes. Brants et al. (2007) showed the benefits of
+
+---
+
+[referencia=3972039dbf3f7ee7 score=0.004]
+transformer based language models, which were later refined by Hoffmann et al. (2022), by adapting 
+
+the learning rate schedule when scaling datasets. 
+
+Finally, Wei et al. (2022) studied the effect of scaling on the abilities of large language models. **8 Conclusion** In this paper, we presented a series of language models that are released openly, and competitive with state-of-the-art foundation models. Most notably, LLaMA-13B outperforms GPT-3 while being more than 10 _×_ smaller, and LLaMA-65B is competitive with Chinchilla-70B and PaLM-540B. Unlike previous studies, we show that it is possible to achieve state-of-the-art performance by training 
+
+exclusively on publicly available data, without resorting to proprietary datasets. We hope that releasing these models to the research community will accelerate the development of large language models, and help efforts to improve their robustness and mitigate known issues such as toxicity and bias. Additionally, we observed like Chung et al. (2022) that finetuning these models on instructions 
+
+lead to promising results, and we plan to further investigate this in future work. Finally, we plan to release larger models trained on larger pretraining 
+
+corpora in the future, since we have seen a constant 
+
+improvement in performance as we were scaling. 
+
+## **Acknowledgements** 
+
+We thank Daniel Haziza, Francisco Massa, Jeremy Reizenstein, Artem Korenev, and Patrick Labatut from the xformers team. We thank Susan Zhang and Stephen Roller for their support on data deduplication. We thank Luca Wehrstedt, Vegard Mella, and Pierre-Emmanuel Mazaré for their support on training stability. We thank Shubho Sengupta, Kalyan Saladi, and all the AI infra team for their support. We thank Jane Yu for her input on evaluation. We thank Yongyi Hu for his help on data collection.
+
+---
+
+[referencia=a7468c6851652691 score=0.004]
+### **3.3 Position-wise Feed-Forward Networks** 
+
+In addition to attention sub-layers, each of the layers in our encoder and decoder contains a fully connected feed-forward network, which is applied to each position separately and identically. This consists of two linear transformations with a ReLU activation in between. 
+
+### FFN( _x_ ) = max(0 _, xW_ 1 + _b_ 1) _W_ 2 + _b_ 2 
+
+(2) 
+
+While the linear transformations are the same across different positions, they use different parameters from layer to layer. Another way of describing this is as two convolutions with kernel size 1. The dimensionality of input and output is _d_ model = 512, and the inner-layer has dimensionality _dff_ = 2048.
+
+---
+
+[referencia=a7468c6851652691 score=0.003]
+||_N_|_d_model|_d_ff|_h_|_dk_|_dv_|_Pdrop_|_ϵls_|train<br>steps|PPL<br>(dev)|BLEU<br>(dev)|params<br>_×_10<sup>6</sup>|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|base|6|512|2048|8|64|64|0.1|0.1|100K|4.92|25.8|65|
+|||||1|512|512||||5.29|24.9||
+|A||||4|128|128||||5.00|25.5||
+|()||||16|32|32||||4.91|25.8||
+|||||32|16|16||||5.01|25.4||
+||||||16|||||5.16|25.1|58|
+|(B)|||||32|||||5.01|25.4|60|
+||2|||||||||6.11|23.7|36|
+||4|||||||||5.19|25.3|50|
+||8|||||||||4.88|25.5|80|
+|(C)||256|||32|32||||5.75|24.5|28|
+|||1024|||128|128||||4.66|26.0|168|
+||||1024|||||||5.12|25.4|53|
+||||4096|||||||4.75|26.2|90|
+||||||||0.0|||5.77|24.6||
+|D|||||||0.2|||4.95|25.5||
+|()||||||||0.0||4.67|25.3||
+|||||||||0.2||5.47|25.7||
+|(E)||posi|tional e|mbedd|ingins|tead of|sinusoi|ds||4.92|25.7||
+|big|6|1024|4096|16|||0.3||300K|**4.33**|**26.4**|213|
+
+
+
+development set, newstest2013. We used beam search as described in the previous section, but no checkpoint averaging. We present these results in Table 3.
+
+---
+
+[referencia=7febb7e905af5e40 score=0.003]
+- Tables 2, 3 and 4 show results on the development sets. For each task, we report the best score of any 
+
+- of the checkpoints recorded during fine-tuning. While the results are noisy, the new GLU-variants perform best on most of the tasks. For comparison, at the bottom of each of the tables we list the reuslts from [Raffel et al., 2019]. The model is identical to our FFNReLU model. Their results are notably worse, which 
+
+- we believe was caused by their use of dropout during pre-training. Also listed are the inter-run standard deviations measured by [Raffel et al., 2019]. Table 2: GLUE Language-Understanding Benchmark [Wang et al., 2018] (dev). 
+
+- Score CoLA SST-2 MRPC MRPC STSB STSB QQP QQP MNLIm MNLImm QNLI RTE 
+
+- Average MCC Acc F1 Acc PCC SCC F1 Acc Acc Acc Acc Acc 
+
+- FFNReLU 83 _._ 80 51 _._ 32 94 _._ 04 **93.08 90.20** 89 _._ 64 89 _._ 42 89 _._ 01 91 _._ 75 85 _._ 83 86 _._ 42 92 _._ 81 80 _._ 14 FFNGELU 83 _._ 86 53 _._ 48 94 _._ 04 92 _._ 81 **90.20** 89 _._ 69 89 _._ 49 88 _._ 63 91 _._ 62 85 _._ 89 86 _._ 13 92 _._ 39 80 _._ 51 FFNSwish 83 _._ 60 49 _._ 79 93 _._ 69 92 _._ 31 89 _._ 46 89 _._ 20 88 _._ 98 88 _._ 84 91 _._ 67 85 _._ 22 85 _._ 02 92 _._ 33 81 _._ 23
+
+---
+
+[referencia=3972039dbf3f7ee7 score=0.002]
+### **2.4 Efficient implementation** 
+
+We make several optimizations to improve the training speed of our models. First, we use an efficient implementation of the causal multi-head attention to reduce memory usage and runtime. This implementation, available in the xformers library,<sup>2</sup> is inspired by Rabe and Staats (2021) and uses the backward from Dao et al. (2022). This is achieved by not storing the attention weights and not computing the key/query scores that are masked due to the causal nature of the language modeling task. 
+
+To further improve training efficiency, we reduced the amount of activations that are recomputed during the backward pass with checkpointing. More precisely, we save the activations that are expensive to compute, such as the outputs of linear layers. This is achieved by manually implementing the backward function for the transformer layers, instead of relying on the PyTorch autograd. To fully benefit from this optimization, we need to 
+
+2https://github.com/facebookresearch/xformers
+
+---
+
+[referencia=a7468c6851652691 score=0.002]
+development set, newstest2013. We used beam search as described in the previous section, but no checkpoint averaging. We present these results in Table 3. 
+
+In Table 3 rows (A), we vary the number of attention heads and the attention key and value dimensions, keeping the amount of computation constant, as described in Section 3.2.2. While single-head attention is 0.9 BLEU worse than the best setting, quality also drops off with too many heads. 
+
+In Table 3 rows (B), we observe that reducing the attention key size _dk_ hurts model quality. This suggests that determining compatibility is not easy and that a more sophisticated compatibility function than dot product may be beneficial. We further observe in rows (C) and (D) that, as expected, bigger models are better, and dropout is very helpful in avoiding over-fitting. In row (E) we replace our sinusoidal positional encoding with learned positional embeddings [9], and observe nearly identical results to the base model.
+
+---
+
+[referencia=a7468c6851652691 score=0.001]
+## **2 Background** 
+
+The goal of reducing sequential computation also forms the foundation of the Extended Neural GPU [16], ByteNet [18] and ConvS2S [9], all of which use convolutional neural networks as basic building block, computing hidden representations in parallel for all input and output positions. In these models, the number of operations required to relate signals from two arbitrary input or output positions grows in the distance between positions, linearly for ConvS2S and logarithmically for ByteNet. This makes it more difficult to learn dependencies between distant positions [12]. In the Transformer this is reduced to a constant number of operations, albeit at the cost of reduced effective resolution due to averaging attention-weighted positions, an effect we counteract with Multi-Head Attention as described in section 3.2. 
+
+Self-attention, sometimes called intra-attention is an attention mechanism relating different positions of a single sequence in order to compute a representation of the sequence. Self-attention has been used successfully in a variety of tasks including reading comprehension, abstractive summarization, textual entailment and learning task-independent sentence representations [4, 27, 28, 22]. 
+
+End-to-end memory networks are based on a recurrent attention mechanism instead of sequencealigned recurrence and have been shown to perform well on simple-language question answering and language modeling tasks [34]. 
+
+To the best of our knowledge, however, the Transformer is the first transduction model relying entirely on self-attention to compute representations of its input and output without using sequencealigned RNNs or convolution. In the following sections, we will describe the Transformer, motivate self-attention and discuss its advantages over models such as [17, 18] and [9].

@@ -1,0 +1,61 @@
+[referencia=cd18d7e6568230cf score=0.999]
+# Anthropic settles with authors in first-of-its-kind AI copyright infringement lawsuit
+
+In one of the largest copyright settlements involving generative artificial intelligence, Anthropic AI, a leading company in the generative AI space, has agreed to pay $1.5 billion to settle a copyright infringement lawsuit brought by a group of authors.
+
+If the court approves the settlement, Anthropic will compensate authors around $3,000 for each of the estimated 500,000 books covered by the settlement.
+
+The settlement, which U.S. Senior District Judge William Alsup in San Francisco will consider approving next week, is in a case that involved the first substantive decision on how fair use applies to generative AI systems. It also suggests an inflection point in the ongoing legal fights between the creative industries and the AI companies accused of illegally using artistic works to train the large language models that underpin their widely-used AI systems.
+
+The fair use doctrine enables copyrighted works to be used by third parties without the copyright holder's consent in some circumstances, such as when illustrating a point in a news article. AI companies trying to make the case for the use of copyrighted works to train their generative AI models commonly invoke fair use. But authors and other creative industry plaintiffs have been pushing back.
+
+"This landmark settlement will be the largest publicly reported copyright recovery in history," the settlement motion states, arguing that it will "provide meaningful compensation" to authors and "set a precedent of AI companies paying for their use of pirated websites."
+
+"This settlement marks the beginning of a necessary evolution toward a legitimate, market-based licensing scheme for training data," said Cecilia Ziniti, a tech industry lawyer and former Ninth Circuit clerk who is not involved in this specific case but has been following it closely. "It's not the end of AI, but the start of a more mature, sustainable ecosystem where creators are compensated, much like how the music industry adapted to digital distribution."
+
+---
+
+[referencia=cd18d7e6568230cf score=0.389]
+### **A case with split rulings** 
+
+   Authors Andrea Bartz, Charles Graeber and Kirk Wallace Johnson filed their __complaint__ against Anthropic for copyright infringement in 2024. The class action lawsuit alleged Anthropic AI used the contents of millions of digitized copyrighted books to train the large language models behind their chatbot, Claude, including at least two works by each plaintiff. The company also bought some hard copy books and scanned them before ingesting them into its model. The company has admitted to doing as much, a fact that the plaintiffs raise their complaint. "Anthropic has admitted to using The Pile to train Claude," the complaint states. (The Pile is a big, open-source dataset created for large language model training.)
+
+"Rather than obtaining permission and paying a fair price for the creations it exploits, Anthropic pirated them," the authors' complaint states.
+
+In his June __ruling__, Judge Alsup agreed with Anthropic's argument, stating the company's use of books by the plaintiffs to train their AI model was acceptable.
+
+"The training use was a fair use," he wrote. "The use of the books at issue to train Claude and its precursors was exceedingly transformative."
+
+However, the judge ruled that Anthropic's use of millions of *pirated* books to build its models – books that websites such as Library Genesis (LibGen) and Pirate Library Mirror (PiLiMi) copied without getting the authors' consent or giving them compensation – was not. He ordered this part of the case to go to trial. "We will have a trial on the pirated copies used to create Anthropic's central library and the resulting damages, actual or statutory (including for willfulness)," the judge wrote in the conclusion to his ruling. Last week, the parties announced they had reached a settlement.
+
+U.S. copyright law states that willful copyright infringement can lead to statutory damages of up to $150,000 per infringed work. The judge's order asserts that Anthropic pirated more than 7 million copies of books. So the damages resulting from a trial, if it had gone ahead, could have been enormous.
+
+However, Ziniti said that regardless of the settlement, the judge's ruling effectively means that at least in Northern California, AI companies now have the legal right to train their large language models on copyrighted works — as long as they obtain copies of those works legally.
+
+In statements to NPR, both sides appear satisfied with the outcome of the case.
+
+---
+
+[referencia=cd18d7e6568230cf score=0.084]
+### **The creative community responds**
+
+   The settlement also met with approval from the creative community.
+
+"This historic settlement is a vital step in acknowledging that AI companies cannot simply steal authors' creative work to build their AI just because they need books to develop quality large language models," said __Authors Guild__ CEO Mary Rasenberger. "We expect that the settlement will lead to more licensing that gives authors both compensation and control over the use of their work by AI companies, as should be the case in a functioning free market society."
+
+"While the settlement amount is very significant and represents a clear victory for the publishers and authors in the class, it also proves what we have been saying all along— that AI companies can afford to compensate copyright owners for their works without it undermining their ability to continue to innovate and compete," added Keith Kupferschmid, president and CEO of the __Copyright Alliance__.
+
+Anthropic is in a good position to handle the sizable compensation. On Tuesday, the company __announced__ the completion of a new funding round worth $13 billion, bringing its total value to $183 billion.
+
+Meanwhile, the literary world and other parts of the creative sector continue to fight against AI companies. There have been a slew of literary AI copyright infringement lawsuits launched by prominent authors, including Ta-Nehisi Coates and the comedian Sarah Silverman in recent years. In June, U.S. District Judge Vince Chhabria __granted Meta's request__ for a summary judgment in Coates and Silverman's case against the tech corporation, which effectively put an end to that lawsuit. Other cases are ongoing.
+
+And in the latest in a string of legal actions involving major entertainment corporations, on Friday, Warner Bros. Discovery filed a __lawsuit__ in California federal court against AI image generator Midjourney for copyright infringement. NPR has reached out to Midjourney for comment.
+
+---
+
+[referencia=cd18d7e6568230cf score=0.016]
+In statements to NPR, both sides appear satisfied with the outcome of the case.
+
+"Today's settlement, if approved, will resolve the plaintiffs' remaining legacy claims," said Anthropic Deputy General Counsel Aparna Sridhar. "We remain committed to developing safe AI systems that help people and organizations extend their capabilities, advance scientific discovery, and solve complex problems."
+
+"This landmark settlement is the first of its kind in the AI era," said Justin Nelson, an attorney on the team representing the authors. "It will provide meaningful compensation for each class work and sets a precedent requiring AI companies to pay copyright owners. This settlement sends a powerful message to AI companies and creators alike that taking copyrighted works from these pirate websites is wrong."

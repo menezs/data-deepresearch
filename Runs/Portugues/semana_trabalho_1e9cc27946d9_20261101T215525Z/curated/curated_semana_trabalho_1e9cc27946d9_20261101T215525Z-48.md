@@ -1,0 +1,473 @@
+[referencia=26991fcd7fe5b57f score=0.148]
+##### ~~HEALTH & WELL-BEING~~ 
+
+In view of the strong positive changes in employees’ work situations, it is not surprising that health and well-being outcomes also show noticeable improvements after the six month trial. Some well-being outcomes are specifically related to work. Of course, as with the other findings in this report, participants are subject to a great many personal life events outside of work, as well as contingencies in work that are separable from working time. To this end, we should be attentive, first and foremost, to broad tendencies. 
+
+###### STRESS, BURNOUT & JOB SATISFACTION 
+
+We found that work stress decreased over the trial period. On a 1-5 scale from ‘never’ to ‘all the time’, the frequency of reported work stress declined on average from 3.07 before to 2.74 after the trial. While nearly 13% of employees did experience an increase in stress, three times as many (39%) were less stressed, with the remainder (48%) recording no change in stress levels. 
+
+Burnout also declined on average from a score of 2.8 to 2.34 (captured through a score amalgamated from 7 associated criteria ranked on a 1 to 5 frequency scale, capturing experiences of tiredness, exhaustion, frustration, and more). A significant 71% of employees reported lower levels of burnout, compared to only 22% who registered a higher burnout score. 
+
+Corresponding to the decreases in work stress and burnout, employees are more satisfied with their job, registering a significant average increase from 7.12 to 7.69 on a 0 to 10 scale, and with 48% of employees more satisfied than when they started. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+37 
+
+
+
+<!-- Start of picture text -->
+Reported increase<br>22%<br>Reported no change 7%<br>71%<br>Reported decrease<br><!-- End of picture text -->
+
+_Figure 11: Change in participating employees’ reported levels of ‘burnout’ between baseline and endpoint surveys. Employees were asked, using a 5 point frequency scale (‘never’ to ‘always’), to grade how often they had experienced different markers of burnout (‘exhaustion’, ‘frustration’, etc.) in the preceding 4 weeks, from which a combined score was calculated._
+
+---
+
+[referencia=51ae2b54e60da70b score=0.114]
+## Abstract
+
+Time spent on the job is a fundamental aspect of working conditions that influences many facets of individuals’ lives. Here we study how an organization-wide 4-day workweek intervention—with no reduction in pay—affects workers’ well-being. Organizations undergo pre-trial work reorganization to improve efficiency and collaboration, followed by a 6-month trial. Analysis of pre- and post-trial data from 2,896 employees across 141 organizations in Australia, Canada, Ireland, New Zealand, the UK and the USA shows improvements in burnout, job satisfaction, mental health and physical health—a pattern not observed in 12 control companies. Both company-level and individual-level reductions in hours are correlated with well-being gains, with larger individual-level (but not company-level) reductions associated with greater improvements in well-being. Three key factors mediate the relationship: improved self-reported work ability, reduced sleep problems and decreased fatigue. The results indicate that income-preserving 4-day workweeks are an effective organizational intervention for enhancing workers’ well-being.
+
+This is a preview of subscription content, access via your institution
+
+## Access options
+
+Access Nature and 54 other Nature Portfolio journals
+
+Get Nature+, our best-value online-access subscription
+
+Subscribe to this journal
+
+Receive 12 digital issues and online access to articles
+
+Buy this article
+
+- Purchase on SpringerLink
+- Instant access to the full article PDF.
+
+USD 39.95
+
+Prices may be subject to local taxes which are calculated during checkout
+
+### Similar content being viewed by others
+
+## Data availability
+
+The data that support the findings of this study are currently not publicly available due to privacy considerations. Many of the participating organisations are identifiable through public announcements about their 4-day workweek trials, which increases the risk of identification. Researchers interested in working with these datasets should contact the corresponding authors directly (W.F. and J.B.S.). As outlined in the data management plans of the grant proposals that supported this research, we will make the data publicly available by 2027, after carefully reviewing and managing the data to determine which variables can be shared, and the data will be held in the Inter-university Consortium for Political and Social Research (ICPSR).
+
+## Code availability
+
+Analysis scripts are available via OSF at https://osf.io/kqwhz.
+
+---
+
+[referencia=51ae2b54e60da70b score=0.019]
+## About this article
+
+### Cite this article
+
+Fan, W., Schor, J.B., Kelly, O. *et al.* Work time reduction via a 4-day workweek finds improvements in workers’ well-being.
+                    *Nat Hum Behav* **9**, 2153–2168 (2025). https://doi.org/10.1038/s41562-025-02259-6
+
+- Received:
+- Accepted:
+- Published:
+- Version of record:
+- Issue date:
+- DOI: https://doi.org/10.1038/s41562-025-02259-6
+
+---
+
+[referencia=51ae2b54e60da70b score=0.012]
+45. Moen, P. & Chu, Y. Time work in the office and shop: workers’ strategic adaptations to the 4-day week. *Work Occup.***51** , 607–633 (2024).
+46. Persson, O., Larsson, J. & Nässén, J. Working less by choice: what are the benefits and hardships?. *Sustain. Sci. Pract. Policy***18** , 81–96 (2022).
+47. Schiller, H. et al. The impact of reduced worktime on sleep and perceived stress—a group randomized intervention study using diary data. *Scand. J. Work Environ. Health***43** , 109–116 (2017).
+48. Schiller, H. et al. Total workload and recovery in relation to worktime reduction: a randomised controlled intervention study with time-use data. *Occup. Environ. Med.***75** , 218–226 (2018).
+49. Mullens, F. & Laurijssen, I. An organizational working time reduction and its impact on three domains of mental well-being of employees: a panel study. *BMC Public Health***24** , 1727–1740 (2024).
+50. Voglino, G. et al. How the reduction of working hours could influence health outcomes: a systematic review of published studies. *BMJ Open***12** , e051131 (2022).
+51. Cho, S.-S., Ju, Y., Paek, D., Kim, H. & Jung-Choi, K. The combined effect of long working hours and low job control on self-rated health. *J. Occup. Environ. Med.***60** , 475–480 (2017).
+52. Kato, R., Haruyama, Y., Endo, M., Tsutsumi, A. & Muto, T. Heavy overtime work and depressive disorder among male workers. *Occup. Med.***64** , 622–628 (2014).**8** .
+53. Kristensen, T. S., Borritz, M., Villadsen, E. & Christensen, K. B. The Copenhagen Burnout Inventory: a new tool for the assessment of burnout. *Work Stress***19** , 192–207 (2005).
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.009]
+_(CEO, non-profit organisation)_ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+53 
+
+It is important, however, not to overstate the influence of the pandemic on pilot companies’ decision to take part. Many told us a shorter working week had been tabled before the pandemic (and in some cases that Covid had only delayed plans). This was often the case in companies with emotionally involving or demanding work. In organisations supporting brain injury patients, teaching pupils with special educational needs, or advising citizens experiencing poverty, for example, senior managers stressed the emotional pressures on their staff, along with a hope that the four-day week would give staff some necessary distance from work. 
+
+_I don’t want to retire and go 'what the hell do I do now?'... I need to start doing things now that are going to sustain me when I finish working._ 
+
+_(CEO, care organisation)_ 
+
+In other cases, the four-day week was described as a response to industry-wide problems of overwork. A video game studio, for example, pointed to several high-profile industry cases of crunch and burnout. The company was started with the express purpose of differentiating from an industry that can 'treat people like economic units', and the four-day week was seen as consistent with this goal. The CEO’s belief was that long-hours culture is not only bad for staff health - it also fails to produce results. 
+
+_If you know you’re going to be there until 10 o’clock at night, you think - 'I’m going to be here all night, so I’ll just do the work I need to do'._ 
+
+_(CEO, creative company)_ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+54 
+
+~~PREPARATIONS~~ 
+
+_You’re looking at giving people 40, 50 extra days a year, which is incredible really… If we can make it work, it’s very precious._
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.008]
+# THE RESULTS ARE IN: THE UK’S FOUR-DAY WEEK PILOT 
+
+February 2023 
+
+
+
+
+
+
+
+###### Authors 
+
+###### Autonomy team 
+
+Kyle Lewis Will Stronge Jack Kellam Lukas Kikuchi 
+
+###### Quantitative research team 
+
+Prof. Juliet Schor, Boston College Prof. Wen Fan, Boston College Prof. Orla Kelly, University College Dublin Guolin Gu, Boston College 
+
+###### Qualitative research team 
+
+Dr. David Frayne - University of Cambridge Prof. Brendan Burchell - University of Cambridge Niamh Bridson Hubbard - University of Cambridge Jon White - University of Cambridge 
+
+Dr. Daiga Kamarāde - University of Salford Francisca Mullens - Vrije Universiteit Brussel 
+
+
+
+Autonomy is an independent research organisation which creates datadriven tools and research for sustainable economic planning. 
+
+Published 2023 by © Autonomy 
+
+Autonomy Research Ltd Cranbourne Pilcot Road Crookham Village Hampshire GU51 5RU 
+
+This project was partially supported by the Barry Amiel & Norman Melburn Foundation. The qualitative strand of this project was partly supported by funding from the University of Cambridge, as well as the UK Economic and Social Research Council [grant number ES/S012532/1], as part of the Digital Futures at Work Research Centre (Digit). This support is gratefully acknowledged. 
+
+CONTENTS 4 Executive summary 8 14 Introduction Trial format 
+
+26 
+
+Company data findings 
+
+31 
+
+49 
+
+Employee data findings Perspectives from the shopfloor 
+
+66 
+
+Conclusions
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.008]
+#### CONCLUSIONS 
+
+As the four-day week has continued to spread around the world, a wide-range of benefits have been touted by those making the shift to shorter hours: from improved well-being and productivity in the organisations and employees undertaking the change, to improved recruitment and retention among staff, and even improved revenue. 
+
+To assess these claims, this report studied a wide range of UK companies and employees piloting a four-day work week with no reduction in pay in 2022, as part of one of the largest coordinated trials to date. 
+
+As the report makes clear, the results of these trials have been resoundingly positive. While companies, through their leaders, have expressed that they are extremely pleased with performance, productivity and their overall experience, it has been a similar case for employees themselves too. The four-day week, simply put, is a popular policy for those who work it. 
+
+However, the results captured throughout the trial – owing to the specific research design that has informed it – allow us to capture the positive impact of reduced working hours on a range of variables far beyond these headline figures. 
+
+With ‘before-and-after’ data for a wide range of metrics, we have been able to measure the beneficial impact of a four-day week ‘across the board’. Focusing on the narrow, ‘business case’, for instance, we found that revenue stayed approximately the same (rising slightly by 1.4% over the trial), and was up 35% in comparison to the same period in 2021, while there were also improvements in hiring, absenteeism and resignations. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+68 
+
+Looking more broadly however, it is also clear that employees found themselves in a much improved position at the close of the trial than they did when it commenced. Shorter working hours left them less stressed and burned out, with their feedback also suggesting improved mental and physical health – perhaps not surprising given their increased time exercising and lower levels of fatigue. As a result of the four-day week many employees therefore reported that their _life satisfaction_ had improved. 
+
+While self-assessments of work performance increased significantly, the data shows that this was not due to any increase in work intensity. Through careful planning, and the input of staff, companies’ efforts to revise working practices successfully improved productivity without any knock-on ill effects. We shouldn’t be too surprised, then, that employees’ job satisfaction therefore improved by the end of the trial.
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.007]
+##### ~~FAMILY AND HOUSEHOLD LIFE~~ 
+
+Positive changes also occurred at the intersection of paid work and family/ other parts of life. When asked about the ease of combining paid work with care responsibilities, the average score increased from 2.76 to 3.58 on a 1 (‘very difficult’) to 5 (‘very easy’) scale. 60% of employees reported that balancing care responsibilities had become easier. 
+
+Similarly, the experience of balancing employment with social life benefited, with an average reported increase from 2.9 to 3.78 (again with 1 as ‘very difficult’, and 5 as ‘very easy’). In correspondence with these findings, conflicts between work and family time decreased: over the course of the trial 54% of employees found they were less likely to feel too tired to do household jobs following the trial (compared to 10% who felt they were more likely). 
+
+Reported increase 10% Reported no change 36% 54% 
+
+Reported decrease 
+
+_Figure 13: Change to participating employees’ experience of ‘work-family conflict’ between baseline and endpoint surveys. Employees were asked to report how often they were ‘too tired from work to do household jobs’ on a 3 point scale (‘never’ to ‘several times a week’)._ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+40 
+
+More specifically, we can observe a general decline in the feeling of time inadequacy when it comes to a number of activities outside of paid work. Employees generally seemed more satisfied in this regard. 
+
+
+
+<!-- Start of picture text -->
+Baseline<br>Endpoint 87%<br>Change<br>80<br>61%<br>59%<br>60<br>54%<br>52%<br>45%<br>40<br>32%<br>30%<br>26%<br>23%<br>20 15%<br>12%<br>0<br>-9%<br>-20 -14% -15%<br>-21%<br>-27%<br>-33%<br>Caring for/educating Housework Cooking Caring for elderly Volunteering Own hobbies<br>(grand-)children disabled infirm<br>% of employees<br><!-- End of picture text -->
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.006]
+###### EMOTIONAL, MENTAL AND PHYSICAL WELL-BEING 
+
+Other well-being outcomes also improved by the end of the trial. The average mental health score (ranging from 1 ‘poor’, to 5 ‘excellent’), for example, increased from 2.95 at the beginning of the trial to 3.32 by the end (43% reporting an increase in mental health versus only 16% a decline). Anxiety and negative emotions also both fell substantially. Experiences of anxiety (1-4, ‘never’ to ‘daily’), fell slightly from 2.26 to 1.96 on average, and 54% of employees reported a reduction in negative emotions. 
+
+Positive emotions amongst employees (taking an average score from 5 different categories, each measured on a scale of 1-5) increased from 3.13 to 3.58 (with 64% of employees reporting an increase). It is also encouraging to see that participants reported slight improvements in their physical health. With 37% of employees reporting improvements in physical health (versus 18% decreases), the study suggests that a four-day work week has the potential to reduce costs associated with health care. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+38 
+
+###### FATIGUE AND SLEEP 
+
+These improvements in physical and mental health might dovetail with the changes in fatigue and sleep that employees experienced. We found improvements in fatigue, with the average fatigue score falling from 2.56 to 2.12 (on a scale of 1-4, from never to daily), and 46% of employees reported a reduction in fatigue (with only 14% reporting an increase). 
+
+The prevalence of insomnia and general sleep problems declined significantly. 40% saw a reduction in sleep difficulties, whilst 45% saw no change and only 15% saw increases. 
+
+
+
+<!-- Start of picture text -->
+Reported increase<br>15%<br>40% Reported decrease<br>45%<br>Reported no change<br><!-- End of picture text -->
+
+_Figure 12: Change to participating employees’ sleep difficulties between baseline and endpoint surveys. Employees were asked to report how often they experienced sleep difficulties or insomnia on a 4 point scale (‘never’ to ‘daily’)._ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+39
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.004]
+The UK’s four-day week pilot 
+
+Autonomy 
+
+6 
+
+- **»** The report results draw on administrative data from companies, survey data from employees, alongside a range of interviews conducted over the pilot period, providing measurement points at the beginning, middle and end of the trial. 
+
+- **»** The trial was a resounding success. Of the 61 companies that participated, 56 are continuing with the fourday week (92%), with 18 confirming the policy is a permanent change. 
+
+- **»** Some of the most extensive benefits of shorter working hours were found in employees’ well-being. ‘Before and after’ data shows that 39% of employees were less stressed, and 71% had reduced levels of burnout at the end of the trial. Likewise, levels of anxiety, fatigue and sleep issues decreased, while mental and physical health both improved. 
+
+- **»** Measures of work-life balance also improved across the trial period. Employees also found it easier to balance their work with both family and social commitments – for 54%, it was easier to balance work with household jobs – and employees were also more satisfied with their household finances, relationships and how their time was being managed. 
+
+- **»** 60% of employees found an increased ability to combine paid work with care responsibilities, and 62% reported it easier to combine work with social life. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+7 
+
+- **»** However, other key business metrics also showed signs of positive effects from shorter working hours. Companies’ revenue, for instance, stayed broadly the same over the trial period, rising by 1.4% on average, weighted by company size, across respondent organisations. When compared to a similar period from previous years, organisations reported revenue increases of 35% on average - which indicates healthy growth during this period of working time reduction. 
+
+- **»** The number of staff leaving participating companies decreased significantly, dropping by 57% over the trial period. 
+
+- **»** For many, the positive effects of a four-day week were worth more than their weight in money. 15% of employees said that no amount of money would induce them to accept a five-day schedule over the four-day week to which they were now accustomed. 
+
+Autonomy 
+
+8 
+
+The UK’s four-day week pilot
+
+---
+
+[referencia=51ae2b54e60da70b score=0.004]
+62. Zhang, T., Ham, J. & Ren, X. Why exercise at work: development of the office exercise behavior determinants scale. *Int. J. Environ. Res. Public. Health***18** , 2736–2754 (2021).
+63. Hernan, M. A. & Robins, J. M. *Causal Inference: What If* (Taylor and Francis, 2023).
+64. Wooldridge, J. M. *Introductory Econometrics: A Modern Approach* (Cengage, 2025).
+65. Kohler, U., Karlson, K. B. & Holm, A. Comparing coefficients of nested nonlinear probability models. *Stata J.***11** , 420–438 (2011).
+66. Cohen, J. *Statistical Power Analysis for the Behavioral Sciences* (L. Erlbaum Associates, Hillsdale, 1988).
+67. Perlow, L. A. & Kelly, E. L. Toward a model of work redesign for better work and better life. *Work Occup.***41** , 111–134 (2014).
+68. Williams, J. *Unbending Gender: Why Family and Work Conflict and What to Do about It* . (Oxford Univ. Press, 2001).
+69. Gould, R., Ilmarinen, J., Järvisalo, J. & Koskinen, S. *Dimensions of Work Ability: Results of the Health 2000 Survey* (Finnish Centre for Pensions, The Social Insurance Institution, National Public Health Institute, Finnish Institute of Occuptional Health, Helsinki, Finland, 2008).
+70. Thomas, L. T. & Ganster, D. C. Impact of family-supportive work variables on work-family conflict and strain: a control perspective. *J. Appl. Psychol.***80** , 6–15 (1995).
+71. Chen, B. et al. Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motiv. Emot.***39** , 216–236 (2015).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.003]
+10. Benach, J. et al. Precarious employment: understanding an emerging social determinant of health. *Annu. Rev. Public Health***35** , 229–253 (2014).
+11. Berkman, L. F., Kawachi, I. & Theorell, T. in *Social Epidemiology* (eds. Berkman, L. F., Kawachi, I. & Glymour, M. M.) 153–181 (Oxford Univ. Press, 2014); https://doi.org/10.1093/med/9780195377903.003.0005
+12. Folkard, S. & Lombardi, D. A. Modeling the impact of the components of long work hours on injuries and “accidents”. *Am. J. Ind. Med.***49** , 953–963 (2006).
+13. Giurge, L. M., Whillans, A. V. & West, C. Why time poverty matters for individuals, organisations and nations. *Nat. Hum. Behav.***4** , 993–1003 (2020).
+14. Kalleberg, A. L. *Precarious Lives: Job Insecurity and Well-Being in Rich Democracies* (Polity Press, 2018).
+15. Karasek, R. A. Job Demands, job decision latitude, and mental strain: implications for job redesign. *Adm. Sci. Q.***24** , 285–308 (1979).
+16. Kelly, E. L. & Moen, P. *Overload: How Good Jobs Went Bad and What We Can Do about It* (Princeton Univ. Press, 2021); https://doi.org/10.1515/9780691230801
+17. Link, B. G. & Phelan, J. Social conditions as fundamental causes of disease. *J. Health Soc. Behav* . https://doi.org/10.2307/2626958 (1995).
+18. Marmot, M. G. et al. Health inequalities among British civil servants: the Whitehall II study. *Lancet***337** , 1387–1393 (1991).
+19. Marmot, M. Social determinants of health inequalities. *Lancet***365** , 1099–1104 (2005).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.003]
+19. Marmot, M. Social determinants of health inequalities. *Lancet***365** , 1099–1104 (2005).
+20. Schieman, S., Glavin, P. & Milkie, M. A. When work interferes with life: work–nonwork interference and the influence of work-related demands and resources. *Am. Sociol. Rev.***74** , 966–988 (2009).
+21. Siegrist, J. Adverse health effects of high-effort/low-reward conditions. *J. Occup. Health Psychol.***1** , 27–41 (1996).
+22. Sonnentag, S. & Zijlstra, F. Job characteristics and off-job activities as predictors of need for recovery, well-being, and fatigue. *J. Appl. Psychol.***91** , 330–350 (2006).**2** .
+23. Bakker, A. B. & Demerouti, E. The job demands–resources model: state of the art. *J. Manag. Psychol.***22** , 309–328 (2007).
+24. Bakker, A. B. & Demerouti, E. Job demands–resources theory: taking stock and looking forward. *J. Occup. Health Psychol.***22** , 273–285 (2017).
+25. Kivimäki, M. & Kawachi, I. Work stress as a risk factor for cardiovascular disease. *Curr. Cardiol. Rep.***17** , 630–639 (2015).
+26. Pega, F. et al. Global, regional, and national burdens of ischemic heart disease and stroke attributable to exposure to long working hours for 194 countries, 2000–2016: a systematic analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury. *Environ. Int.***154** , 106595 (2021).
+27. Ervasti, J. et al. Long working hours and risk of 50 health conditions and mortality outcomes: a multicohort study in four European countries. *Lancet Reg. Health Eur.***11** , 100212 (2021).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.003]
+37. Sharif, M. A., Mogilner, C. & Hershfield, H. E. Having too little or too much time is linked to lower subjective well-being. *J. Pers. Soc. Psychol.***121** , 933–947 (2021).
+38. Fox, K. E. et al. Organisational- and group-level workplace interventions and their effect on multiple domains of worker well-being: a systematic review. *Work Stress***36** , 30–59 (2022).
+39. Kelly, E. et al. Getting there from here: research on the effects of work-family initiatives on work-family conflict and business outcomes. *Acad. Manag. Ann.***2** , 305–349 (2008).
+40. Kelly, E. L. et al. Changing work and work–family conflict: evidence from the work, family, and health network. *Am. Sociol. Rev.***79** , 485–516 (2014).
+41. Moen, P. et al. Does a flexibility/support organizational initiative improve high-tech employees’ well-being? Evidence from the work, family, and health network. *Am. Sociol. Rev.***81** , 134–164 (2016).
+42. Barck-Holst, P., Nilsonne, Å., Åkerstedt, T. & Hellgren, C. Reduced working hours and stress in the Swedish social services: a longitudinal study. *Int. Soc. Work***60** , 897–913 (2017).
+43. Haraldsson, G. D. & Kellam, J. *Going Public; Icelands Journey to a Shorter Working Week* (Autonomy, 2021); https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf
+44. Kamerāde, D., Wang, S., Burchell, B., Balderson, S. U. & Coutts, A. A shorter working week for everyone: how much paid work is needed for mental health and well-being? *Soc. Sci. Med.***241** , 112353 (2019).
+45. Moen, P. & Chu, Y. Time work in the office and shop: workers’ strategic adaptations to the 4-day week. *Work Occup.***51** , 607–633 (2024).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.002]
+## Acknowledgements
+
+This research was supported by the US National Science Foundation (grant no. 2241840), the Russell Sage Foundation (grant no. 2205-38631) and Boston College Ignite Grant, all awarded to J.B.S. and W.F. The Irish trial was supported by Forsa trade union. The funders had no role in the study design, data collection and analysis, decision to publish or preparation of the manuscript. We thank T. Bezdenezhnykh, N. Bridson Hubbard, P. Moen, A. Campbell and Y. Chu, as well as our NGO partners C. Lockhart and A. Barnes, J. O’Connor, A. Soojung-Kim Pang, D. Whelehan, W. Stronge, K. Lewis and all the members of the 4 Day Week Global, Four Day Week Campaign UK and Autonomy teams.
+
+## Ethics declarations
+
+### Competing interests
+
+The authors declare no competing interests. We are independent researchers invited by 4DWG to collect and analyse data. We have no financial or legal connections or agreements with 4DWG. 4DWG has no influence over the design, results or outputs of our research.
+
+## Peer review
+
+### Peer review information
+
+*Nature Human Behaviour* thanks Anthony Lepinteur, Kaitlin Woolley and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.
+
+## Additional information
+
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+## Supplementary information
+
+### Supplementary Tables (download XLSX )
+
+Results from supplementary analyses.
+
+## Rights and permissions
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+---
+
+[referencia=51ae2b54e60da70b score=0.002]
+28. Hulshof, C. T. et al. The effect of occupational exposure to ergonomic risk factors on osteoarthritis of hip or knee and selected other musculoskeletal diseases: a systematic review and meta-analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury. *Environ. Int.***150** , 106349 (2021).
+29. Kleiner, S., Schunck, R. & Schömann, K. Different contexts, different effects? Work time and mental health in the United States and Germany. *J. Health Soc. Behav.***56** , 98–113 (2015).
+30. Watanabe, K., Imamura, K. & Kawakami, N. Working hours and the onset of depressive disorder: a systematic review and meta-analysis. *Occup. Environ. Med.***73** , 877–884 (2016).
+31. Virtanen, M. et al. Long working hours and depressive symptoms: systematic review and meta-analysis of published studies and unpublished individual participant data. *Scand. J. Work Environ. Health***44** , 239–250 (2018).
+32. Fan, W. et al. Constrained choices? Linking employees’ and spouses’ work time to health behaviors. *Soc. Sci. Med.***126** , 99–109 (2015).
+33. Nomaguchi, K. M. & Bianchi, S. M. Exercise time: gender differences in the effects of marriage, parenthood, and employment. *J. Marriage Fam.***66** , 413–430 (2004).
+34. Berniell, I. & Bietenbeck, J. The effect of working hours on health. *Econ. Hum. Biol.***39** , 100901 (2020).
+35. Lepinteur, A. The shorter workweek and worker wellbeing: evidence from Portugal and France. *Labour Econ.***58** , 204–220 (2019).
+36. Hamermesh, D. S., Kawaguchi, D. & Lee, J. Does labor legislation benefit workers? Well-being after an hours reduction. *J. Jpn Int. Econ.***44** , 1–12 (2017).
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.002]
+###### _That should give us a competitive advantage_ 
+
+_(Senior manager, Insurance firm)_ 
+
+Other companies focused on their aspirations as employee-focused organisations, describing the four-day week as a logical next step in their existing commitment to staff well-being. Often the four-day week was introduced on the back of existing policies such as the option of flexible working patterns or a policy of no evening working. 
+
+In some cases, the four-day week was an attempt to improve over previous initiatives. The senior manager of a financial firm, for example, grew to see its previous policy of quarterly monetary prizes as divisive. The four-day week was an opportunity to provide a benefit that included everybody. In other cases, the four-day week was described as preferential to happiness 'gimmicks' such as staff game rooms or chillout zones, common in the creative and craft industries. By contrast, the four-day week was represented as a substantial material change for staff – 'more concrete and grown up', as one interviewee put it.
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.001]
+_Figure 14: Change to participating employees’ perception of time inadequacy between baseline and endpoint surveys. Employees were asked to report whether they ‘would like to spend more time’ pursuing a range of categories._ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+41 
+
+In general, we can say that employees within the cohort experienced increases in life satisfaction. 
+
+At the beginning of the trial, when asked how satisfied they are with their life (from 0 ‘not satisfied at all’, to 10 ‘completely satisfied’), participants responded with an average of 6.69 out of 10. This measure had an almost full point increase, to 7.56. Employees are also more satisfied with other domains of life, including household finances (44% reported an increase) and relationships (45% reported an increase). Most notably, employees recorded an increase in over two points regarding satisfaction with time, from 5.28 before the trial to 7.51 after. 73% said that they had greater satisfaction in this regard. 
+
+
+
+<!-- Start of picture text -->
+Reported decrease<br>12%<br>Reported no change<br>15%<br>73%<br>Reported increase<br><!-- End of picture text -->
+
+_Figure 15: Change to participating employees’ time satisfaction between baseline and endpoint surveys. Employees were asked to report, on a 0-10 scale (‘not satisfied at all’ to ‘completely satisfied’) how satisfied they were with the amount of time they have to do the things they like doing._ 
+
+###### GENDER EQUALITY 
+
+How did a four-day week affect gender equality in the household division of labour for our cohort? The rationale for many advocates is that with more free time available, men may spend greater time in housework or childcare, thereby narrowing the well-documented gender gap in unpaid domestic and care work. In the trial, the time men spent looking after children increased by more than double that of women (27% to 13%), but the share of housework between these two genders stayed almost exactly the same (68% reporting no change for men and women). 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+42
+
+---
+
+[referencia=51ae2b54e60da70b score=0.001]
+54. Idler, E. L. & Benyamini, Y. Self-rated health and mortality: a review of twenty-seven community studies. *J. Health Soc. Behav.***38** , 21–37 (1997).
+55. Pituch, K. A. & Stapleton, L. M. Distinguishing between cross- and cluster-level mediation processes in the cluster randomized trial. *Sociol. Methods Res.***41** , 630–670 (2012).
+56. Rudolph, C. W., Katz, I. M., Lavigne, K. N. & Zacher, H. Job crafting: a meta-analysis of relationships with individual differences, job characteristics, and work outcomes. *J. Vocat. Behav.***102** , 112–138 (2017).
+57. Demerouti, E. & Peeters, M. C. W. Transmission of reduction‐oriented crafting among colleagues: a diary study on the moderating role of working conditions. *J. Occup. Organ. Psychol.***91** , 209–234 (2018).
+58. Demerouti, E., Soyer, L. M. A., Vakola, M. & Xanthopoulou, D. The effects of a job crafting intervention on the success of an organizational change effort in a blue‐collar work environment. *J. Occup. Organ. Psychol.***94** , 374–399 (2021).
+59. Johnson, J. V. & Hall, E. M. Job strain, work place social support, and cardiovascular disease: a cross-sectional study of a random sample of the Swedish working population. *Am. J. Public Health***78** , 1336–1342 (1988).
+60. Kelly, E., Moen, P. & Tranby, E. Changing workplaces to reduce work–family conflict. *Am. Sociol. Rev.***76** , 265–290 (2011).
+61. Baumeister, R. F. & Leary, M. R. The need to belong: desire for interpersonal attachments as a fundamental human motivation. *Psychol. Bull.***117** , 497–529 (1995).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.001]
+1. *Amid Spiking Burnout, Workplace Flexibility Fuels Company Culture and Productivity Winter Snapshot* (Future Forum, 2023); https://futureforum.com/wp-content/uploads/2023/02/Future-Forum-Pulse-Report-Winter-2022-2023.pdf (2023).
+2. *State of the Global Workplace Report* (Gallup, 2023); https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx
+3. *ManpowerGroup Talent Shortage Study* (Manpower Group, 2023); https://go.manpowergroup.com/talent-shortage
+4. Organization for Economic Co-operation and Development. *Other Labor Market Measures: Job Vacancies: Total: Unfilled Vacancies (Stock) for United States* (FRED, Federal Reserve Bank of St. Louis, 2023); https://fred.stlouisfed.org/series/LMJVTTUVUSM647S
+5. Penn, R. & Nezamis, E. *Job Openings and Quits Reach Record Highs in 2021, Layoffs and Discharges Fall to Record Lows* (US Bureau of Labor Statistics, 2022); https://www.bls.gov/opub/mlr/2022/article/job-openings-and-quits-reach-record-highs-in-2021.htm
+6. Barrero, J. M., Bloom, N. & Davis, S. J. The evolution of work from home. *J. Econ. Perspect.***37** , 23–49 (2023).
+7. Fan, W. & Moen, P. Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. *Work Occup.***49** , 143–186 (2022).
+8. Fan, W. & Moen, P. Remote/hybrid work in flux: work-place/preference mismatch and adaptations. *Soc. Forces* https://doi.org/10.1093/sf/soaf035 (2025).
+9. Bakker, A. B., Demerouti, E. & Sanz-Vergel, A. Job demands–resources theory: ten years later. *Annu. Rev. Organ. Psychol. Organ. Behav.***10** , 25–53 (2023).

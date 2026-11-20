@@ -1,0 +1,368 @@
+[referencia=0a797fc5e6aca167 score=0.387]
+##### **a) No AI FRAUD Act** 
+
+Introduced in early 2024, the No AI FRAUD Act would establish intellectual property rights in voice and likeness<sup>163</sup> and protect against the use of unauthorized digital voice replicas and digital depictions that readily identify an individual.<sup>164</sup> The bill would allow these rights to be transferred during the individual’s lifetime and would make them descendible.<sup>165</sup> Rights would endure at least ten years after the death of the individual, even if they had not been used commercially during their lifetime, and would continue until either (a) proof that they had not been used commercially in a two-year period by an executor, transferee, heir, or devisee; or (b) the death of all executors, transferees, heirs, or devisees.<sup>166</sup> 
+
+The legislation would require any authorization to use a digital depiction or digital voice replica to be in writing and valid only if the individual is represented by counsel.  If the individual is a minor, the agreement must be approved by a court in accordance with state 
+
+160 No AI FRAUD Act, H.R. 6943, 118th Cong. (2024). 
+
+161 Sen. Chris Coons et al., NO FAKES Act Discussion Draft (2023), https://www.coons.senate.gov/imo/media/doc/no_fakes_act_draft_text.pdf.  The COPIED Act, introduced in July 2024, establishes rules regarding the attachment of content provenance information for synthetic content, such as digital replicas, but does not provide new rights to individuals. _See_ The COPIED Act, S. 4674, 118th Cong. (2024).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.386]
+<br>programs; new methods of copying, such as photocopiers and video-cassette recorders; and<br>new means of distribution, such as radio, television, and the internet.  In recent decades, the<br>pace of change has sharply accelerated, and today’s generative AI tools have picked it up even<br>further.  The late 20th century saw the Copyright Act amended to respond to the challenge of<br>digital networked technology.  History has shown that the copyright system is resilient and<br>continues to evolve as needed.<br>In response to the importance and urgency of the copyright issues, in early 2023 the<br>Copyright Office initiated the study that led to this Report.  Our work is just one part of a<br>broader national and global conversation.  In the United States, the Biden Administration’s|
+|---|
+
+
+
+October 2023 Executive Order on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence addresses how AI technologies can be deployed safely and responsibly while taking into account concerns about fraud, bias, and transparency, as well as the impact on intellectual property rights.  Other agencies are examining issues within their own areas of jurisdiction, and Congress is debating the need for legislation.  Governments of other countries are similarly grappling with the potential impact of AI in all of its forms. 
+
+As with all of the Copyright Office’s studies, our analysis is guided by the Constitutional goal of promoting creativity in order ultimately to benefit the public. This requires an appropriate balance, enabling technology to move forward while ensuring that human creativity continues to thrive.  It is our hope that this Report will further productive discussions in Congress, the courts, and the executive branch, to help achieve that balance. 
+
+
+
+**Shira Perlmutter** Register of Copyrights and Director U.S. Copyright Office
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.374]
+The recent emergence of sophisticated generative artificial intelligence (“AI”) models<br>available for use by consumers constitutes a major leap forward in technology.  It presents both<br>exciting opportunities and complex challenges for society as a whole, which have captured the<br>attention of policymakers around the world, as well as the press and the public.<br>One of the areas affected is intellectual property.  Copyright issues in particular have<br>risen to the forefront, due to their visibility, immediacy, and relevance to the average person.<br>By the fall of 2022, millions of Americans were utilizing generative AI systems and services to<br>produce an astonishing array of expressive material, including visual art, text, and music.<br>Almost weekly, tremendous strides have been announced in the technology’s capabilities.<br>Artists have harnessed the power of AI to find new ways to express themselves and new ways<br>of connecting with audiences.  At the same time, AI-generated deepfakes have proliferated<br>online, from celebrities’ images endorsing products to politicians’ likenesses seeking to affect<br>voter behavior.  Over the past year or so, the resulting debates have intensified, with<br>enthusiasm about the promise of extraordinary technical potential tempered by concern about<br>the impact on individuals’ livelihoods and reputations.<br>AI raises fundamental questions for copyright law and policy, which many see as<br>existential.  To what extent will AI-generated content replace human authorship?  How does<br>human creativity differ in nature from what AI systems can generate, now or in the future?<br>What does this mean for the incentive-based foundation of the U.S. copyright system?  In what<br>ways can the technology serve as a valuable tool to amplify human creativity and ultimately<br>promote science and the arts?  How do we respect and reward human creators without<br>impeding technological progress?<br>For copyright, this is the latest chapter in a symbiotic relationship with technology.<br>Throughout history, technological innovation has shaped the evolution of copyright law and<br>policy, with new forms of expression, such as photography, motion pictures, and computer<br>programs; new methods of copying, such as photocopiers and video-cassette recorders; and<br>new means of distribution, such as radio, television, and the internet.  In recent decades, the<br>
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.365]
+## **EXECUTIVE SUMMARY** 
+
+This first Part of the Copyright Office’s Report on copyright and artificial intelligence (“AI”)<sup>1</sup> addresses the topic of digital replicas.  From AI-generated musical performances to robocall impersonations of political candidates to images in pornographic videos, an era of sophisticated digital replicas has arrived.  Although technologies have long been available to produce fake images or recordings, generative AI<sup>2</sup> technology’s ability to do so easily, quickly, and with uncanny verisimilitude has drawn the attention and concern of creators, legislators, and the general public. 
+
+As part of a broad AI Initiative, the Copyright Office sought comments on these developments.  We asked whether existing laws provide sufficient protection against unauthorized digital replicas or if new protection is needed at the federal level.  In response, numerous commenters called for a new federal law to protect individuals from the appropriation of their persona.  They provided extensive input into the justifications for and the appropriate parameters of such a law. 
+
+In the months since the Office’s inquiry was launched, unauthorized digital replicas have continued to make headlines, and have triggered Congressional activity.  During this time, we analyzed the comments received, performed additional research, and consulted with other agencies on their relevant areas of expertise.  Based on all of this input, we have concluded that a new law is needed.  The speed, precision, and scale of AI-created digital replicas calls for prompt federal action.  Without a robust nationwide remedy, their unauthorized publication and distribution threaten substantial harm not only in the entertainment and political arenas, but also for private individuals. 
+
+Section I summarizes the context and history of the Office’s study of the digital replicas issue.  Section II.A outlines the main existing legal frameworks:  state rights of privacy and publicity, including recent legislation specifically targeting digital replicas, and at the federal level, the Copyright Act, the Federal Trade Commission Act, the Communications Act, and the Lanham Act.
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.338]
+We then address requests for protection against AI outputs that mimic or appropriate an artist’s style.  While the Office acknowledges the seriousness of this concern, we believe that existing laws may provide sufficient protection at this time. 
+
+> 39 _Id._ at 59945, 59948. 
+
+> 40 _Id._ at 59948. 
+
+41 Moral rights are non-economic rights in copyrighted works that are considered personal to the authors.  The two most commonly recognized are the right of attribution (being credited as the author) and the right of integrity (preventing distortions of the work).  U.S. COPYRIGHT OFFICE, AUTHORS, ATTRIBUTION, AND INTEGRITY: EXAMINING MORAL RIGHTS IN THE UNITED STATES 6 (2019) (“MORAL RIGHTS REPORT”), https://copyright.gov/policy/moralrights/fullreport.pdf.  The United States provides these moral rights through a combination of federal and state laws, most of which are described below, including the Lanham Act, certain provisions of the Copyright Act, and state laws relating to privacy and publicity, contracts, fraud and misrepresentation, unfair competition, and defamation. _See id._ at 7. 
+
+> 42 _Id._ at 110–19. 
+
+7 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+**II. PROTECTION AGAINST UNAUTHORIZED DIGITAL REPLICAS** **_A. Existing Legal Frameworks_** 
+
+A variety of legal frameworks provide protection against the unauthorized use of aspects of an individual’s persona.  Some exist at the state level, including statutory and common law rights of privacy and publicity.  Others are based on federal law, including the Copyright Act, the Federal Trade Commission Act, the Lanham Act, and the Communications Act. 
+
+**1. State Common and Statutory Law** The most directly relevant state laws are the long-standing rights of publicity and privacy.  In response to the accelerating pace of replicas created by generative AI systems, many 
+
+states are also considering or have enacted new legislation specifically directed at unauthorized digital replicas. 
+
+**a) Right of Privacy**
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.309]
+### **_B. The Need for Federal Legislation_** 
+
+The Copyright Office concludes that new federal legislation is urgently needed. As numerous commenters noted, generative AI technology enables the production and dissemination of digital replicas at a speed and scale that calls for a national response.<sup>137</sup> 
+
+131 Memorandum of Agreement Between the SAG-AFTRA and the AMPTP 60–76 (2023) (“SAG-AFTRA 2023 Agreement”), https://www.sagaftra.org/files/2023_Theatrical_Television_MOA.pdf. 
+
+132 SAG-AFTRA Initial Comments at 1 (“[M]any of our members have identified AI as their number one issue, more important to them than increases in wages or improvements in other working conditions, because it poses an existential threat to their very livelihoods.”). 
+
+133 SAG-AFTRA 2023 Agreement at 60–76. 
+
+> 134 _Id._ at 67. 
+
+135 In January 2024, SAG-AFTRA entered into an agreement with Replica Studios covering the use of digital voice replicas by video game studios, and in April 2024, its members ratified an agreement with several major record labels regarding the use of voice replicas in sound recordings.  Both agreements include provisions regarding consent and compensation. _SAG-AFTRA and Replica Studios Introduce Groundbreaking AI Voice Agreement at CES_ , SAG-AFTRA (Jan. 9, 2024), https://www.sagaftra.org/sag-aftra-and-replica-studios-introduce-groundbreaking-ai-voice-agreement-ces; _SAG-AFTRA Members Ratify 2024 Sound Recordings Code Contract_ , SAG-AFTRA (Apr. 30, 2024), https://www.sagaftra.org/sag-aftra-members-ratify-2024-sound-recordings-code-contract.
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.302]
+## **IV. CONCLUSION** 
+
+The Copyright Office agrees with the numerous commenters that have asserted an urgent need for new protection at the federal level.  The widespread availability of generative AI tools that make it easy to create digital replicas of individuals’ images and voices has highlighted gaps in existing laws and raised concerns about the harms that can be inflicted by unauthorized uses. 
+
+We recommend that Congress establish a federal right that protects all individuals during their lifetimes from the knowing distribution of unauthorized digital replicas.  The right should be licensable, subject to guardrails, but not assignable, with effective remedies including monetary damages and injunctive relief.  Traditional rules of secondary liability should apply, but with an appropriately conditioned safe harbor for OSPs.  The law should contain explicit First Amendment accommodations.  Finally, in recognition of well-developed state rights of publicity, we recommend against full preemption of state laws. 
+
+The Office remains available as a resource to Congress, the courts, and the executive branch in considering the recommendations in this Report and future developments. 
+
+> Directors Guild, Summary of _Ex Parte_ Meetings on May 22 and May 29, 2024 Regarding the Office’s AI Study, to U.S. Copyright Office 1–2 (June 4, 2024).  In this area, too, it is important to note that several bodies of existing law protect against the unauthorized and confusing use of an individual’s name. _See, e.g._ , CAL. CIV. CODE § 3344 (West 2024) (protecting “ <mark>name, voice, signature, photograph, or likeness”</mark> ); FLA. STAT. § 540.08 (2024) (protecting “name, portrait, photograph, or other likeness”); VA. CODE ANN. § 8.01-40 (2024) (protecting “name, portrait, or picture”); 15 U.S.C. § 1125 (providing a cause of action for using, among other things, a name in connection with goods and services that is likely to cause confusion). 
+
+57
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.288]
+empowered to protect the public against deceptive and unfair uses of AI technologies that harm 
+
+competition, and “there is no AI exemption from the laws on the books.”<sup>110</sup> According to the 
+
+FTC, the use of a digital replica that mimics an individual’s voice and likeness might qualify as an unfair method of competition or an unfair or deceptive practice, particularly if it “deceives consumers, exploits a creator’s reputation or diminishes the value of her existing or future works, reveals private information, or otherwise causes substantial injury to consumers.”<sup>111</sup> 
+
+The FTC is also exploring issues related to digital replicas in its ongoing rulemaking to amend its Rule on Impersonation of Government and Businesses.<sup>112</sup> Concurrent with the promulgation of the Impersonation Rule,<sup>113</sup> it issued a supplemental notice requesting comments on the Rule’s expansion to prohibit the impersonation of individuals and to extend liability to parties who provide goods and services with knowledge or reason to know that they will be used in impersonations that are unlawful under the Impersonation Rule.<sup>114</sup> The proposed prohibition is meant to address misrepresentations that the person is, or is affiliated with, the impersonated individual, including those that use “identifying information, or insignia or likeness of an individual.”<sup>115</sup> Digital replicas, including voice cloning, would be covered.<sup>116</sup> 
+
+cause of action for those who engage in trade or commerce who suffer loss “as a result of the use or employment by another person who engages in any trade or commerce of an unfair method of competition or an unfair or deceptive act or practice”).  Because these laws largely parallel the protections provided by the FTC Act and the Lanham Act, we do not discuss them separately. 
+
+110 FTC Initial Comments at 3–4, 6, 8 (“The FTC is empowered under Section 5 of the FTC Act to protect the public against unfair methods of competition, including when powerful firms unfairly use AI technologies in a manner that tends to harm competitive conditions.”). 
+
+> 111 _Id._ at 4–6. 
+
+112 Trade Regulation Rule on Impersonation of Government and Businesses, 89 Fed. Reg. 15072 (Mar. 1, 2024)
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.235]
+### **_B. Background of This Study_** 
+
+In early 2023, the Copyright Office announced an initiative to examine the copyright issues raised by AI.  Over the following months, we hosted public listening sessions and engaged in extensive outreach to better understand the issues, including those related to generative AI’s ability to produce digital replicas.<sup>36</sup> 
+
+The topic of digital replicas does not fall neatly under any one area of existing law.  While some characterize it as a form of intellectual property, protection against the use of unauthorized digital replicas raises overlapping issues including privacy, unfair competition, consumer protection, and fraud.  It relates to copyright in a number of ways:  creators such as artists and performers are particularly affected; copyrighted works are often used to produce digital replicas; and the replicas are often disseminated as part of larger copyrighted works. Moreover, the noncommercial harms that may be caused are similar to violations of moral rights protected in part through the copyright system.<sup>37</sup> 
+
+In August 2023, the Office published a Notice of Inquiry on AI and Copyright that sought input on “the treatment of generative AI outputs that imitate the identity or style of human artists,” among other topics.<sup>38</sup> The NOI asked what existing laws apply to AI-generated material that features the voice or likeness of a particular person; whether Congress should enact a new federal law that would protect against unauthorized digital replicas; and, if so, 
+
+> 33 _The NO FAKES Act: Protecting Americans from Unauthorized Digital Replicas: Hearing Before the Subcomm. on Intell. Prop. of the S. Comm. on the Judiciary_ , 118th Cong. (2024) (statement of Duncan Crabtree-Ireland, National Executive Director, SAG-AFTRA). 
+
+> 34 Weekend Edition Sunday, _As Tech Evolves, Deepfakes Will Become Even Harder to Spot_ , NPR (July 3, 2022), https://www.npr.org/2022/07/03/1109607618 (Interview with Professor Hany Farid of U.C. Berkeley). 
+
+> 35 _E.g._ , Weekend Edition Sunday, _As Tech Evolves, Deepfakes Will Become Even Harder to Spot_ , NPR (July 3, 2022), https://www.npr.org/2022/07/03/1109607618 (Interview with Professor Hany Farid of U.C. Berkeley).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.195]
+##### **a) Copyright Act** 
+
+Copyright protects original works of authorship, including the material—photographs or audio or video recordings—from which a digital replica might be constructed.<sup>105</sup> The Copyright Act provides copyright owners with a bundle of exclusive rights, including the rights to reproduce a work and to prepare derivative works.<sup>106</sup> 
+
+Digital replicas that are produced by ingesting copies of preexisting copyrighted works, or by altering them—such as superimposing someone’s face onto an audiovisual work or simulating their voice singing the lyrics of a musical work—may implicate those exclusive rights.<sup>107</sup> If the depicted individual is an owner of the copyrighted work, he or she could have a copyright claim for infringement of the work as a whole.  Copyright does not, however, protect an individual’s identity in itself, even when incorporated into a work of authorship.<sup>108</sup> A replica of their image or voice alone would not constitute copyright infringement. 
+
+**b) Federal Trade Commission Act** 
+
+The Federal Trade Commission Act prohibits “[u]nfair methods of competition in or 
+
+affecting commerce, and unfair or deceptive acts or practices in or affecting commerce.”<sup>109</sup> FTC and their agents may not use deliberately deceptive AI in campaign ads. _Comments sought on amending regulation to include deliberately deceptive Artificial Intelligence in campaign ads_ , FEC (Aug. 16, 2023), https://www.fec.gov/updates/comments-sought-on-amending-regulation-to-include-deliberately-deceptive-artificialintelligence-in-campaign-ads/. 
+
+> 105 _See_ 17 U.S.C. § 102. 
+
+> 106 _Id._ § 106. Under the Copyright Act, a “derivative work” is a work “based upon one or more preexisting works” in which the original is “recast, transformed, or adapted.” _Id._ § 101.  Examples of derivative works in the Act’s definition include, but are not limited to, “a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation.” _Id._ 
+
+107 The Office will address the legal issues involved in use of copyrighted works in AI systems in a subsequent Part of
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.171]
+- <u>Relationship to State Laws.  Given well-established state rights of publicity and</u> privacy, the Office does not recommend full federal preemption.  Federal law should provide a floor of consistent protection nationwide, with states continuing to be able 
+
+iv 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+to provide additional protections.  It should be clarified that section 114(b) of the Copyright Act does not preempt or conflict with laws restricting unauthorized voice digital replicas. 
+
+Section III discusses protection against AI outputs that deliberately imitate an artist’s style.  We acknowledge the seriousness of creators’ concerns and identify legal remedies available to address this type of harm.  We do not, however, recommend including style in the coverage of new legislation at this time. 
+
+The Office appreciates and has benefitted from the extensive and thoughtful comments we received on this important topic.  We remain available to assist as Congress continues to consider legislative solutions. 
+
+v 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas**
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.158]
+##### **h) Preemption** 
+
+An overarching question is whether, and to what extent, a federal digital replica law should preempt state laws.<sup>291</sup> Commenters were divided on this issue, with some urging preemption and others seeking to preserve state flexibility. 
+
+The benefit of preempting state laws as they pertain to digital replicas would be to establish a uniform nationwide standard, entirely replacing the patchwork of existing coverage. Commenters who supported this approach asserted that it would provide clarity for creators, businesses, and consumers alike.<sup>292</sup> DiMA, for example, stated that “Congress should ensure that content related matters have consistent standards by preempting state and common laws where doing so would ensure consistency in application and reduce operational challenges and improve the customer experience.”<sup>293</sup> MPA also urged preemption to “provide national uniformity.”<sup>294</sup> 
+
+> 288 _See, e.g._ , NPR Initial Comments at 10 (“Criminal penalties may be necessary.”); Walker Wambsganss et al. Initial Comments at 5. 
+
+> 289 _E.g._ , Anonymous AI Technical Writer, Reply Comments Submitted in Response to U.S. Copyright Office’s Aug. 30, 2023, Notice of Inquiry at 17 (Dec. 6, 2023) (“At minimum the right to not have one’s face used in generative AI, with criminal penalties for nonconsensual pornography and child pornography generated with AI.”). 
+
+290 For example, the TAKE IT DOWN Act, introduced in the Senate in June of 2024, would criminalize publishing or threatening to publish non-consensual intimate imagery.  TAKE IT DOWN Act of 2024, S.4569, 118th Cong. (2024). 
+
+> 291 _See generally_ CONG. RSCH. SERV., ARTIFICIAL INTELLIGENCE PROMPTS RENEWED CONSIDERATION OF A FEDERAL RIGHT OF PUBLICITY (2024), https://crsreports.congress.gov/product/pdf/LSB/LSB11052. 
+
+> 292 _See, e.g._ , DiMA Initial Comments at 5; INTA Initial Comments at 9; MPA Reply Comments at 34; BLIP Initial Comments at 32. 
+
+> 293 DiMA Initial Comments at 5. 
+
+> 294 MPA Reply Comments at 34. 
+
+48
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.138]
+45 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+interests may be presented in the given case.”<sup>278</sup> Professor Jennifer Rothman suggested that a new law be specific regarding uses that would not be Constitutionally privileged:  “Current common areas of agreement are that unauthorized uses of a person’s identity are not protected by the First Amendment if a person’s ‘entire act’ or performance is used, or the uses are in commercial products or advertising not related to an authorized underlying work.”<sup>279</sup> 
+
+Each of these approaches has advantages and disadvantages.  Enumerated exceptions provide greater certainty:  users can more easily determine from the face of the statute whether the use they are considering is lawful.  In addition, the existing bodies of state precedent are available to be drawn upon for purposes of interpretation.  But such exceptions may be both over- and under-inclusive depending on the facts.<sup>280</sup> For example, an exception for expressive works, if not appropriately cabined, could render the law toothless against common uses of digital replicas—such as voice clones in music or deepfake pornography.  Indeed, many of the problematic uses reported have been in expressive or political contexts, such as the “Fake Drake” song and the President Biden robocalls described above.<sup>281</sup> 
+
+The Office stresses the importance of explicitly addressing First Amendment concerns. While acknowledging the benefits of predictability, we believe that in light of the unique and evolving nature of the threat to an individual’s identity and reputation, a balancing framework is preferable.  Although the potential overbreadth of categorical exceptions can be cabined by conditions like those proposed by MPA, this introduces a high level of complexity.  In addition, we note that in today’s online environment, traditional categories such as “news” or “public affairs” are often difficult to define.<sup>282</sup> The result may be to exempt conduct that legislators intended to prohibit. 
+
+In our view, a balancing framework permits greater flexibility to assess whether a particular unauthorized use is protected by the First Amendment.  Rather than checking a box marked “news” or “musical work,” courts can assess the full range of factors relevant to the First Amendment analysis.  These could include the purpose of the use, including whether it is
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.136]
+> 1  For purposes of the Copyright Office’s Report on Copyright and Artificial Intelligence, “AI” or “Artificial Intelligence” is a general classification of automated systems designed to perform tasks typically associated with human intelligence or cognitive functions.  Artificial Intelligence Study: Notice of Inquiry, 88 Fed. Reg. 59942, 59948 (Aug. 30, 2023) (“NOI”). _See also_ John S. McCain National Defense Authorization Act for Fiscal Year 2019, Pub. L. 115–232, § 238(g)(2), 132 Stat. 1636, 1697–98 (2018) (defining “artificial intelligence” to include systems “developed in computer software, physical hardware, or other context that solves tasks requiring human-like perception, cognition, planning, learning, communication, or physical action”). 
+
+> 2 “Generative AI” refers to applications of AI used to generate outputs in the form of expressive material such as text, images, audio, or video.  NOI at 59948–49. 
+
+iii 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+In Section II.B, we explain why existing laws do not provide sufficient legal redress for those harmed by unauthorized digital replicas and propose the adoption of a new federal law. We make the following recommendations regarding its contours:
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.135]
+#### **2. Congressional Activity** 
+
+The Office’s recommendations here are presented against the backdrop of ongoing congressional activity.<sup>152</sup> Members of Congress have warned that AI-generated digital replicas have the potential to exacerbate problems of copyright infringement, as well as labor 
+
+> 147 _See_ 17 U.S.C. § 102; _see also supra_ Section II.A.2.a. 
+
+> 148 _See_ 17 U.S.C. § 102(a); _id._ § 201(a). 
+
+> 149 _See_ 15 U.S.C. § 45(a)(1). 
+
+150 INTA Initial Comments at 8. 
+
+> 151 _Comcast Corp. v. FCC_ , 600 F.3d 642, 645 (D.C. Cir. 2010). 
+
+> 152 This discussion reflects relevant Congressional activity that has occurred before July 22, 2024. 
+
+24 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+displacement and election misinformation.<sup>153</sup> At a hearing last year on AI and copyright, Senator Chris Coons inquired “whether changes to our copyright laws or whole new protections like a federal right of publicity may be necessary to strike the right balance between creators’ rights and AI’s ability to enhance innovation and creativity.”<sup>154</sup> 
+
+Legislation has been introduced to address unauthorized digital replicas in various contexts, including political advertisements and communications<sup>155</sup> and sexually explicit images.<sup>156</sup> These bills include the Preventing Deepfakes of Intimate Images Act,<sup>157</sup> which would make it a crime to intentionally disclose or threaten to disclose AI-generated intimate digital depictions; the REAL Political Advertisements Act,<sup>158</sup> which would require political advertisements to disclaim the use of AI-generated sounds or images; and the Protect Elections from Deceptive AI Act,<sup>159</sup> which would make it a crime to distribute deceptive AI-generated media relating to federal elections.
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.131]
+> 212 _E.g._ , Artist Rights Alliance & Future of Music Coalition Reply Comments Submitted in Response to U.S. Copyright Office’s Aug. 30, 2023, Notice of Inquiry at 3 (Dec. 6, 2023) (“[T]he harms go deeper still.  Just last week, reports surfaced of a generative AI engine used to create non-consensual pornographic images, including those depicting ‘several multiplatinum Grammy Award-winning singer-songwriters and Academy Award-winning actresses’ among others.  And reports of other forms of deepfake harms such as cyber bullying, impersonation scams, and revenge porn are well-known.”). 
+
+> 213 _E.g._ , BLIP Initial Comments at 32 (“[S]ometimes the end-users do not produce [deepfakes] for commercial purposes, but for creativity or maliciousness.”). 
+
+> 214 _E.g._ , NPR, Comments Submitted in Response to U.S. Copyright Office’s Aug. 30, 2023, Notice of Inquiry at 9 (Oct. 30, 2023) (“NPR Initial Comments”). 
+
+> 215 _See_ Stacey M. Lantagne, _Famous on the Internet: The Spectrum of Internet Memes and the Legal Challenge of Evolving Methods of Communication_ , 52 U. RICH. L. REV. 387, 416–17 (2018) (“[C]ommercial use on the internet—especially on social media—can be a complicated question. . . . In fact, everything on social media is advertising at some level—a level that has become increasingly difficult to determine.” (footnotes omitted)). 
+
+> 216 _See, e.g._ , WME Initial Comments at 5 (“Here too, there is often limited recourse.  Right-of-publicity laws are generally limited to commercial uses, leaving it unclear whether they apply to fan-generated deepfakes that were not created for profit or for commercial distribution.”). 
+
+34 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+commercial uses.  In this respect, the law would incorporate aspects of the right of privacy, which typically guards against non-economic damage.<sup>217</sup>
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.131]
+#### **3. Private Agreements** 
+
+Beyond these statutory and common law protections, private contracts can be negotiated to govern the use of individuals’ names or likenesses.  Performer service agreements, for example, often include terms proscribing whether and how the other contracting party can use the performer’s identity.  These usually cover use of the performer’s name, image, voice, or likeness for the purpose of promoting the works in which the performer appeared.<sup>128</sup> They may be structured to allow only limited uses, for instance through time-limited grants and restrictions to a particular performance or context, or they may grant broad control, such as an assignment in perpetuity on an exclusive basis.<sup>129</sup> With the advent of AI, some agreements now include specific terms for the use of digital replicas.  Talent agency WME, for example, described deals for the use of its clients’ likenesses and personalities in connection with AI experiences and products.<sup>130</sup> 
+
+In the entertainment field, collective bargaining agreements that establish baseline employment terms have begun to include provisions on the treatment of AI-generated replicas. In December 2023, SAG-AFTRA ratified a multi-year agreement with the Alliance of Motion Picture and Television Producers (“AMPTP”) that incorporates new provisions related to the 
+
+> 127 _FCC Makes AI-Generated Voices in Robocalls Illegal_ , FCC (Feb. 8, 2024), https://docs.fcc.gov/public/attachments/DOC400393A1.pdf. 
+
+> 128 2 J. THOMAS MCCARTHY & ROGER E. SCHECHTER, THE RIGHTS OF PUBLICITY AND PRIVACY § 10:48 (2d ed. 2024) (“When an actor or performer contracts with a producer to perform in a motion picture or record a phonorecord, the actor or performer commonly signs a contract which includes a ‘grant of rights’ clause.  A ‘grant of rights’ clause typically assigns copyright in the work to the producer and exclusively licenses the producer to use the actor or performer’s identity in advertising and promotion of the work.”).
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.123]
+###### **(ii) Knowledge Standard** 
+
+Although the Office did not receive many comments on this issue, we recommend adoption of an actual knowledge standard for direct liability. 
+
+Under the actual knowledge standard, liability would attach only where the distributor, publisher, or displayer acted with actual knowledge both that the representation in question was a digital replica of a real person, and that it was unauthorized.  An objective or “should have known” standard might ensnare unsuspecting or technologically unsophisticated defendants.  Given the volume of potential outputs produced by current technologies, and the number of individuals who could be targeted, there are likely to be cases where a user passes along an image or audio recording without realizing that it is a replica of someone’s voice or likeness.<sup>218</sup> And even where the user recognizes the subject of a digital replica, they may not be aware that the replica is inauthentic or unauthorized. 
+
+Some commenters proposed the stricter standard of intent to deceive.  NPR, for instance, argued that “Congress should adopt a narrow law that creates liability in instances where someone’s name, image, likeness, or voice is used with intent to deceive the audience to believe that false, faked, or AI-generated content is true or represents actual facts or event[s]. . . . Liability would turn on intentional deceptiveness—that something is fake but is trying to persuade someone otherwise.”<sup>219</sup> The Office notes, however, that there may be no intent to deceive in some situations where liability should attach, such as where an unauthorized digital replica is used to harass or ridicule an individual, or to profit from the replica of a popular 
+
+> 217 _See supra_ Section II.A.1.a. 
+
+> 218 _E.g._ , Public Knowledge, Comments Submitted in Response to U.S. Copyright Office’s Aug. 30, 2023, Notice of Inquiry at 20 (Oct. 30, 2023) (“[A]ny universally-available right needs to adequately address the ‘digital doppelganger’ problem—namely, ways of dealing with situations in which an AI-generated work, by pure mathematical chance, looks or sounds like an otherwise unknown individual. Such instances should not give rise to liability, or trigger a rabbit hole of provenance questions about the training data of the GAI system that generated the accidental lookalike.”). 
+
+> 219 NPR Initial Comments at 9–10. 
+
+35
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.108]
+235 The hurdles rightsholders face to identify infringers was the subject of a number of comments in the Office’s Section 512 Study. _See_ U.S. COPYRIGHT OFFICE, SECTION 512 OF TITLE 17 164 (2020) (“SECTION 512 REPORT”), https://www.copyright.gov/policy/section512/section-512-full-report.pdf. 
+
+> 236 _See_ Letter from OpenAI, Summary of _Ex Parte_ Meeting on May 28, 2024 Regarding the Office’s AI Study, to U.S. Copyright Office 4 (June 4, 2024). 
+
+237 _See, e.g._ , _The NO FAKES Act: Protecting Americans from Unauthorized Digital Replicas: Hearing Before the Subcomm. on Intell. Prop. of the S. Comm. on the Judiciary_ , 118th Cong. (2024) (statement of Lisa P. Ramsey, Professor of Law, University of San Diego School of Law, in response to QFRs from Sen. Tillis). 
+
+> 238 H.R. REP. NO. 105-551, pt. 2, at 49 (1998). 
+
+> 239 U.S. COPYRIGHT OFFICE, SECTION 512 OF TITLE 17 13–21 (2020) (“SECTION 512 REPORT”), https://www.copyright.gov/policy/section512/section-512-full-report.pdf. 
+
+> 240 _See_ 17 U.S.C. § 512(c)–(d). 
+
+38 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+specifically identified content upon notice.”<sup>241</sup> Warner Music Group, by contrast, requested a framework that conditions safe harbor on platforms’ not only taking content down, but ensuring that it stays down.<sup>242</sup> 
+
+The Office agrees that a notice and takedown system, combined with an appropriate safe harbor, could be an effective approach.  Such a system need not duplicate every element of section 512.  In our 2020 report on section 512, we observed that some of its provisions were not
+
+---
+
+[referencia=0a797fc5e6aca167 score=0.106]
+> 293 DiMA Initial Comments at 5. 
+
+> 294 MPA Reply Comments at 34. 
+
+48 
+
+**U.S. Copyright Office** 
+
+**Copyright and Artificial Intelligence, Part 1: Digital Replicas** 
+
+Commenters opposing preemption stressed the desirability of preserving the extensive body of state law precedent developed over many decades.<sup>295</sup> SONA, Black Music Artists Coalition, and MAC stated that “there is nothing that should warrant preemption of laws that have been thoroughly considered and vetted in our state.“<sup>296</sup> 
+
+Many proposed that federal law should set a “floor,” permitting states to offer broader protection than federal law and displacing only those state laws that fell beneath the federal standard.<sup>297</sup> In testimony before Congress, Warner Music Group advocated for this approach.<sup>298</sup> ImageRights International also urged that the federal right “should set a baseline (floor) for protections, allowing states to provide additional protections if they choose.”<sup>299</sup> Dina LaPolt, an entertainment lawyer, stated, “It is important that any potential federal right protecting voice and likeness set a ‘floor’ of fundamental rights such that states can be individualized in their approach to cater to the potentially more stringent wishes of their residents.”<sup>300</sup> 
+
+295 _See, e.g._ , SAG-AFTRA Initial Comments at 8 (A “federal right should not preempt state right of publicity laws unless it provides individuals greater protections over their name, image, voice, or likeness than existing state law. Further, it is critical that any federal law relating to AI-generated image and/or voice not supersede, whether intentional or inadvertent, existing state law relating to sexually explicit digital replicas.”); A2IM-Recording Academy-RIAA Joint Reply Comments at 18 (“[A] federal right should not preempt state law to deprive individuals of rights that have been carefully developed over decades of legislation and litigation.”); SONA-MAC-BMAC Joint Initial Comments at 10–11.

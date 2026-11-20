@@ -1,0 +1,195 @@
+[referencia=f6e3890dc139e699 score=0.499]
+Table 1
+
+| S. no. | Phytocompound | Natural source | Cell type/model | Study observations | Ref. | 
+|---|---|---|---|---|---|
+| 1 | Curcumin | *Curcuma longa* (rhizome) | HeLa, SiHa, and C33A | Inhibition of E6 and E7 transcripts and protein, prevention of NF-κβ and AP1 translocation, and apoptosis induction | Divya and Pillai (2006) | 
+| 2 | Berberine | *Berberis* sp. (rhizome/bark) | HeLa and SiHa | Repression of E6 and E7 with a concomitant increase in p53 and pRb activates AP1 and induces apoptosis. Suppresses hTERT expression. | Mahata et al. (2011) | 
+| 3 | Jaceosidin | *Artemisia argyi* (leaves) | SiHa and CasKi | Inhibited binding of E6 and p53 and E7 and pRb | Lee et al. (2005) | 
+| 4 | Wogonin | *Scutellaria baicalensis* | SiHa and CasKi | Promotes intrinsic apoptosis through suppression of E6 and E7 and increase in p53 and pRb | Kim et al. (2013) | 
+| 5 | Nordihydroguaiaretic acid | *Scutellaria baicalensis* | SiHa | Inhibition of E6 expression and upregulation of p53 and p21 | Gao et al. (2010) | 
+| 6 | Tanshinone IIA | *Salvia* sp. | HeLa, SiHa, CasKi, and C33A | Downregulates E6 and E7, induces apoptosis and cell cycle arrest, inhibits tumor growth *in vivo* | Munagala et al. (2014) | 
+| 7 | Withaferin A | *Withania somnifera* | CasKi | Apoptosis through E6 and E7 repression; inhibition of tumor growth *in vivo* | Munagala et al. (2011) | 
+
+Phytocompounds with anti-oncogenic activity for E6 and E7.
+
+---
+
+[referencia=f6e3890dc139e699 score=0.460]
+- 106 ZhangB.ChenW.RomanA. (2006). The E7 proteins of low- and high-risk human papillomaviruses share the ability to target the pRB family member p130 for degradation. *Proc. Natl. Acad. Sci. USA* 103, 437–442. doi: 10.1073/pnas.0510012103
+- 107 ZhangY.DakicA.ChenR.DaiY.SchlegelR.LiuX. (2017). Direct HPV E6/Myc interactions induce histone modifications, pol II phosphorylation, and hTERT promoter activation. *Oncotarget* 8, 96323–96339. doi: 10.18632/oncotarget.22036
+- 108 ZhengY. F.RaoZ. G.ZhangJ. R. (2002). Effects of anti-HPV16 E6-ribozyme on the proliferation and apoptosis of human cervical cancer cell line CaSKi. *Di Yi Jun Yi Da Xue Xue Bao* 22, 496–498. PMID:
+- 109 ZhengY.ZhangJ.RaoZ. (2004). Ribozyme targeting HPV16 E6E7 transcripts in cervical cancer cells suppresses cell growth and sensitizes cells to chemotherapy and radiotherapy. *Cancer Biol. Ther.* 3, 1129–1134. discussion 1135-1136. doi: 10.4161/cbt.3.11.1215
+- 110 ZhouX.MungerK. (2009). Expression of the human papillomavirus type 16 E7 oncoprotein induces an autophagy-related process and sensitizes normal human keratinocytes to cell death in response to growth factor deprivation. *Virology* 385, 192–197. doi: 10.1016/j.virol.2008.12.003
+- 111 ZhouX.SpangleJ. M.MungerK. (2009). Expression of a viral oncoprotein in normal human epithelial cells triggers an autophagy-related process: is autophagy an “Achilles’ heel” of human cancers? *Autophagy* 5, 578–579. doi: 10.4161/auto.5.4.8367
+
+---
+
+[referencia=f6e3890dc139e699 score=0.442]
+A normal cell enters and progresses through cell cycle and divisional phases in response to the several growth promoting signals, which are produced and released in a controlled fashion. These signals are sensed by the receptor kinases present on the cell surface and transmitted inside the cells through several branched pathways. These pathways are the means to regulate the cellular dynamics related to survival or energy metabolism. In case of a cancer cell, these signaling pathways are deregulated through several means, which lead to sustenance of unrestricted proliferation. One such important signaling pathway helping in cell survival and proliferation is mediated by the oncogenic Ras. Mutated version of Ras helps to drive the cells to tumor progression through downstream effector pathways, like PI3K (phosphor-inositol-3kinase)-PKB (protein kinase B)/Akt and MAPK (MAP kinase) pathways. E6 has been found to activate the MAPK pathway through immunohistochemical analysis of organotypic raft cultures (Chakrabarti et al., 2004). Besides this, E6 and E7 have been found to have a deep implication on mTOR pathway to regulate cell proliferation too. HPV16 E7 expressing cells were found to undergo autophagy even in nutrient rich condition (Zhou and Munger, 2009). When nutrients were limited, E7 expressing cells unlike the normal cells would still continue to proliferate and ultimately lead to caspase-independent cell death, a process termed as “trophic sentinel response” (Eichten et al., 2004). But in the presence of E6, this can be avoided, as E6 is known to activate mTORC1 signaling to increase protein synthesis even in the absence of growth factors (Zhou et al., 2009; Spangle and Munger, 2010). Even in the absence of sufficient nutrient signals, E6 can activate mTORC1 through the upstream kinases PDK1 and mTORC2. PDK1 is located downstream of PI3K signaling pathway and is activated through several membrane associated receptors, such as ERBB, INSR (insulin receptor), IGFR (insulin-like growth factor receptor), and RPTKs (receptor protein tyrosine kinases). These receptors then interact with multiple signaling adaptor proteins such as GRB2 (growth factor receptor-bound protein 2) and SHC (Src homology 2 domain) to trigger the downstream cascade of AKT and mTORC1.
+
+---
+
+[referencia=f6e3890dc139e699 score=0.432]
+HPV E6 and E7 target another vital oncogene, c-myc, which has been claimed as a marker protein for several cancer forms, including cervical cancer. When disrupted by E6/E7, it has been found to disrupt cell proliferation, apoptosis, and cellular transformation. Peter et al. (2006) demonstrated the most noteworthy fact that the HPV genome integration takes place within the MYC locus (chromosome band 8q24), through FISH (fluorescence *in situ* hybridization) experiments. This is the reason c-myc expression is often altered in HPV infected cervical cancer cells. Deregulation of c-myc leads to disruption of Cdks, cyclins, and E2F transcription factors, as myc is capable of inducing cyclin/Cdk complexes with the help of Cdk activating kinase (CAK) and Cdc25 phosphatases. Myc is further found to reverse the Cdk inhibiting activity of p21 and p27 (Bretones et al., 2015). Besides this, both E6 and E7 can interact with c-myc to cause hTERT promoter activation, thus contributing to immortality of the cancer cells (Veldman et al., 2003; Liu et al., 2007).
+
+In order to ensure continued cell proliferation, the HPV-infected cells need to bypass the mitotic spindle checkpoint too, which is also carried out by E6 and E7 together (Thomas and Laimins, 1998). E6 relies on p53-dependent pathway, while E7 evades the spindle checkpoint in a p53-independent manner, taking help of pRb. This was proved by Khan and Wahl (1998), wherein he showed that Rb deficient cells remain arrested at the spindle assembly checkpoint.
+
+As a result of the alteration of several cell cycle regulators, the Cyclin-CDK complexes are the major players of cell cycle that gets transformed dramatically in HPV-infected cervical cancer cells. Cyclin D1-CDK4 and Cyclin D1-CDK2 associations get reduced in cells expressing E6 and gets completely abolished in cells expressing both E6 and E7. This has been linked to the reduced levels of p21 and activated levels of p16 (Xiong et al., 1996).
+
+---
+
+[referencia=f6e3890dc139e699 score=0.419]
+## Human Papillomavirus E6 and E7 – the Oncoplayers
+
+HPV E6 and E7 viral oncoproteins play the pivotal role in driving the cells toward oncogenesis. In their process of replicating the viral genome, they can induce all the hallmarks of a cancer cell, i.e., uncontrolled cellular proliferation, angiogenesis, invasion, metastasis, and unrestricted telomerase activity along with the evasion of apoptosis and growth suppressors’ activity. Several *in vitro* and xenograft studies have also shown cancer cells to senesce or undergo apoptosis in the absence of E6 and E7 activity (Yamato et al., 2008; Jabbar et al., 2009), thus proving the absolute requirement of E6 and E7 for persistence of HPV-mediated cancer.
+
+Both E6 and E7 are transcribed polycistronically from a single promoter located at the 3′ end of the upstream regulatory region (URR). E6/E7 transcription is under the regulation of several transcription factors such as AP1 and SP1, which functions by binding to the URR region.
+
+E7 was the first oncogene to be discovered, among all the HPV oncogenes. It is a relatively small phosphoprotein of about 100 amino acids, with three conserved regions 1/2/3 (CR1/2/3). A small portion of CR1 and nearly entire CR2 from the amino terminal holds sequence similarity with adenovirus (Ad) E1A proteins and large T antigen of SV40 (Phelps et al., 1988). The CR2 domain is composed of poorly conserved sequence followed by the CR3 region. The CR3 region at the carboxyl terminal end is conserved and encodes a zinc finger domain containing two CXXC motifs separated by 29 amino acid residues (Barbosa et al., 1990; McIntyre et al., 1993). It is responsible for the zinc-dependent dimerization and for mediating E7 interaction with cellular proteins responsible for cell cycle regulation and apoptosis (p21 and pRb; Ohlenschlager et al., 2006).
+
+---
+
+[referencia=f6e3890dc139e699 score=0.351]
+- 100 XiongY.KuppuswamyD.LiY.LivanosE. M.HixonM.WhiteA.et al. (1996). Alteration of cell cycle kinase complexes in human papillomavirus E6- and E7-expressing fibroblasts precedes neoplastic transformation. *J. Virol.* 70, 999–1008. PMID:
+- 101 YamatoK.YamadaT.KizakiM.Ui-TeiK.NatoriY.FujinoM.et al. (2008). New highly potent and specific E6 and E7 siRNAs for treatment of HPV 16 positive cervical cancer. *Cancer Gene Ther.* 15, 140–153. doi: 10.1038/sj.cgt.7701118
+- 102 YangA.JeangJ.ChengK.ChengT.YangB.WuT. C.et al. (2016). Current state in the development of candidate therapeutic HPV vaccines. *Expert Rev. Vaccines* 15, 989–1007. doi: 10.1586/14760584.2016.1157477
+- 103 YoshibaT.SagaY.UrabeM.UchiboriR.MatsubaraR.FujiwaraH.et al. (2018). CRISPR/Cas-9 mediated cervical cancer treatment targeting human papillomavirus E6. *Oncol. Lett.* 17, 2197–2206. doi: 10.3892/ol.2018.9815
+- 104 YuanC. H.FilippovaM.Duerksen-HughesP. (2012). Modulation of apoptotic pathways by human papillomaviruses (HPV): mechanisms and implications for therapy. *Viruses* 4, 3831–3850. doi: 10.3390/v4123831
+- 105 ZanierK.ould M’hamed ould SidiA.Boulade-LadameC.RybinV.ChappelleA.AtkinsonA.et al. (2012). Solution structure analysis of the HPV16 E6 oncoprotein reveals a self-association mechanism required for E6-mediated degradation of p53. *Structure* 20, 604–617. doi: 10.1016/j.str.2012.02.001
+
+---
+
+[referencia=9f7d3422467da12b score=0.285]
+A large number of studies have related the inactivation of tumor suppressor genes to the development of cervical neoplasia. When tumors are HPV positive, the expression of HPV E6 and E7 proteins increases, which inactivates the tumor suppressor gene p53.10,11 In this study, p53 expression was positive in 23 (37.1%) cases and negative in 39 cases (62.9%) of cervical tissues infected with HPV 52 and 58 genotypes. While not statistically significant, the loss of p53 function in HPV-infected cervical neoplasia may be related to a loss of p53 proteins in cells. Among the 62 cases of HPV 52 and 58 infected cervical tissues, p16 expression was positive in 41 (66.1%) cases and negative in 21 (33.9%) cases. It is possible that the inactivation of Rb is caused by the HPV E7 protein, which may then lead to increased expression of p16 through a negative feedback mechanism. Keating et al.18 found that low-risk HPV genotypes reduce p16 expression, while high-risk HPV genotypes show different p16 levels according to the grading of lesions. For high-risk HPV genotypes, they reported an increase in p16 expression with cervical cancer progression.19,20 This study also reported that, p16 expression tended to increase with more advanced histologic grades of CIN, although this result was not statistically significant. Considering the high expression of p16 in 10 (58.8%) out of 17 cases of normal tissues infected with HPV 52 and 58 genotypes, we recommend that more studies should be conducted in this area, as p16 levels can serve as an indicator of infection by high-risk HPV genotypes. Song et al.21 reported significant relationships between HPV and p16, between HPV and p53, and between p16 and p53 in HPV-infected cervical neoplasia. In this study, p53 protein expression was generally positive when p16 was absent in cervical neoplasia infected with HPV 52 and 58 genotypes, but the results were not significant. While this may be interpreted as a loss of p53 due to HPV E6 and an increase in p16 from Rb inactivation due to HPV E7, some follow-up is needed due to the fact that this study was limited to 45 cases of cervical neoplasia infected with HPV 52 and 58 genotypes.
+
+---
+
+[referencia=f6e3890dc139e699 score=0.231]
+- 39 KennedyE. M.KornepatiA. V. R.GoldsteinM.BogerdH. P.PolingB. C.WhisnantA. W. (2014). Inactivation of human papillomavirus E6 or E7 gene in cervical carcinoma cells by using a bacterial CRISPR/Cas RNA-guided endonuclease. *J. Virol.* 88, 11965–11972. doi: 10.1128/JVI.01879-14
+- 40 KhanS. H.WahlG. M. (1998). P53 and pRb prevent rereplication in response to microtubule inhibitors by mediating a reversible G1 arrest. *Cancer Res.* 58, 396–401. PMID:
+- 41 KimM. S.BakY.ParkY. S.LeeD. H.KimJ. H.KangJ. W.et al. (2013). Wogonin induces apoptosis by suppressing E6 and E7 expressions and activating intrinsic signalling pathways in HPV16 cervical cancer cells. *Cell Biol. Toxicol.* 29, 259–272. doi: 10.1007/s10565-013-9251-4
+- 42 KimY.CairnsM. J.MarougaR.SunL. Q. (2003). E6AP gene suppression and characterization with in vitro selected hammerhead ribozymes. *Cancer Gene Ther.* 10, 707–716. doi: 10.1038/sj.cgt.7700623
+- 43 KimY. G.ChaJ.ChandrasegaranS. (1996). Hybrid restriction enzymes: zinc finger fusions to Fok I cleavage domain. *Proc. Natl. Acad. Sci. USA* 93, 1156–1160. doi: 10.1073/pnas.93.3.1156
+
+---
+
+[referencia=f6e3890dc139e699 score=0.210]
+- 65 PeterM.RostyC.CouturierJ.RadvanyiF.TeshimaH.Sastre-GarauX. (2006). MYC activation associated with the integration of HPV DNA at the MYC locus in genital tumors. *Oncogene* 25, 5985–5993. doi: 10.1038/sj.onc.1209625
+- 66 PflaumJ.SchlosserS.MullerM. (2014). P53 family and cellular stress responses in cancer. *Front. Oncol.* 4:285. doi: 10.3389/fonc.2014.00285
+- 67 PhelpsW. C.YeeC. L.MüngerK.HowleyP. M. (1988). The human papillomavirus type 16 E7 gene encodes transactivation and transformation functions similar to those of adenovirus E1A. *Cell* 53, 539–547. doi: 10.1016/0092-8674(88)90570-3
+- 68 QuX.WangP.DingD.LiL.WangH.MaL.et al. (2013). Zinc-finger-nucleases mediate specific and efficient excision of HIV-1 proviral DNA from infected and latently infected human T cells. *Nucleic Acids Res.* 41, 7771–7782. doi: 10.1093/nar/gkt571
+- 69 RashidN. N.RothanH. A.YusoffM. S. M. (2015). The association of mammalian DREAM complex and HPV 16 E7 proteins. *Am. J. Cancer Res.* 5, 3525–3533. PMID:
+- 70 RashidN. N.YusofR.WatsonR. J. (2011). Disruption of repressive p130-DREAM complexes by human papillomavirus 16 E6/E7 oncoproteins is required for cell-cycle progression in cervical cancer cells. *J. Gen. Virol.* 92, 2620–2627. doi: 10.1099/vir.0.035352-0
+
+---
+
+[referencia=f6e3890dc139e699 score=0.182]
+## Abstract
+
+Human papillomavirus (HPV)-induced cervical cancer is a major health issue among women from the poorly/under-developed sectors of the world. It accounts for a high-mortality rate because of its late diagnosis and poor prognosis. Initial establishment and subsequent progression of this form of cancer are completely dependent on two major oncogenes E6 and E7, which are expressed constitutively leading to tumorigenesis. Thus, manipulation of these genes represents the most successful form of cervical cancer therapy. In the present article, information on structural, functional, and clinical dimensions of E6 and E7 activity has been reviewed. The genome organization and protein structure of E6 and E7 have been discussed followed by their mechanism to establish the six major cancer hallmarks in cervical tissues for tumor propagation. The later section of this review article deals with the different modes of therapeutics, which functions by deregulating E6 and E7 activity. Since E6 and E7 are the biomarkers of a cervical cancer cell and are the ones driving the cancer progression, therapeutic approaches targeting E6 and E7 have been proved to be highly efficient in terms of focused removal of abnormally propagating malignant cells. Therapeutics including different forms of vaccines to advanced genome editing techniques, which suppress E6 and E7 activity, have been found to successfully bring down the population of cervical cancer cells infected with HPV. T-cell mediated immunotherapy is another upcoming successful form of treatment to eradicate HPV-infected tumorigenic cells. Additionally, therapeutics using natural compounds from plants or other natural repositories, i.e., phytotherapeutic approaches have also been reviewed here, which prove their anticancer potential through E6 and E7 inhibitory effects. Thus, E6 and E7 repression through any of these methods is a significant approach toward cervical cancer therapy, described in details in this review along with an insight into the signaling pathways and molecular mechanistic of E6 and E7 action.
+
+---
+
+[referencia=f6e3890dc139e699 score=0.179]
+- 89 TorreL. A.IslamiF.SiegelR. L.WardE. M.JemalA. (2017). Global cancer in woman: burden and trends. *Cancer Epidemiol. Biomarkers Prev.* 26, 444–457. doi: 10.1158/1055-9965.EPI-16-0858
+- 90 Toussaint-SmithE.DonnerD. B.RomanA. (2004). Expression of human papillomavirus type 16 E6 and E7 oncoproteins in primary foreskin keratinocytes is sufficient to alter the expression of angiogenic factors. *Oncogene* 23, 2988–2995. doi: 10.1038/sj.onc.1207442
+- 91 TrimbleC. L.MorrowM. P.KraynyakK. A.ShenX.DallasM.YanJ.et al. (2015). Safety, efficacy, and immunogenicity of VGX-3100, a therapeutic synthetic DNA vaccine targeting human papillomavirus 16 and 18 E6 and E7 proteins for cervical intraepithelial neoplasia 2/3: a randomised, double-blind, placebo-controlled phase 2b trial. *Lancet* 386, 2078–2088. doi: 10.1016/S0140-6736(15)00239-1
+- 92 VarillaV.AtienzaJ.DasanuC. A. (2013). Immune alterations and immunotherapy prospects in head and neck cancer. *Expert. Opin. Biol. Ther.* 13, 1241–1256. doi: 10.1517/14712598.2013.810716
+- 93 VeldmanT.LiuX.YuanH.SchlegelR. (2003). Human papillomavirus E6 and Myc proteins associate in vivo and bind to and cooperatively activate the telomerase reverse transcriptase promoter. *Proc. Natl. Acad. Sci. USA* 100, 8211–8216. doi: 10.1073/pnas.1435900100
+
+---
+
+[referencia=f6e3890dc139e699 score=0.169]
+## Conclusion
+
+E6 and E7 as correctly coined “HPV oncoplayers” are the major driving force for cervical carcinogenesis. They are responsible from the initiation point of tumor development including the maintenance of continuous proliferative signaling, the escape of tumor suppressors, and activation of telomerase to the induction of angiogenesis and invasion to metastatic stages. These are the six primary hallmarks of any form of cancer established by Hanahan and Weinberg (2000). E6 and E7 singly take in charge of all the six hallmarks to establish and help in the successful progression of cervical cancer. Thus, this review tried to incorporate the significance of these HPV oncogenes in all the spheres of cancer cell activity and also included their therapeutic role. Since, these oncogenes are the major carcinogenic factors, targeting cervical cancer cells specifically could be achieved with the help of E6 and E7 targeting. This makes them the most effective drug candidates for HPV-infected cancers, including cervical cancer. Several forms of therapies have been studied and tried using E6 and E7 targeting, all of which have their own merits and demerits. Combinatorial approach is the newest form of clinical practice, which could result in better ways to combat the high-mortality index of cervical cancer worldwide.
+
+## Statements
+
+### Author contributions
+
+AP and RK designed the structure of the article, researched through the experimental publications, and discussed the conclusive idea of the review article. AP wrote and edited the manuscript. RK reviewed the manuscript before submission.
+
+### Acknowledgments
+
+The authors would like to acknowledge Department of Botany, Centre of Advanced Studies, University of Calcutta. AP would like to recognize the University Grants Commission (UGC), Government of India for research fellowship.
+
+### Conflict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+---
+
+[referencia=f6e3890dc139e699 score=0.152]
+##### RNA Interference
+
+RNA interference is a comparatively advanced mode of genome editing, which utilizes double-stranded RNA molecules (termed as small interfering RNA-siRNA or short hairpin RNA-shRNA) to silence the target oncogenes E6 and E7. Several approaches have used this technique to silence E6/E7 either partially or completely, which brought about cell senescence through cellular accumulation of p53, hypophosphorylation of pRb, inhibited cell growth in monolayers, and anchorage-independent growth leading to apoptotic outcomes. Similar results were also observed *in vivo* study wherein the tumor growth reduced upon E6/E7 silencing. HPV16-E7 shRNA when programmed induced degradation of both E6 and E7 transcripts and proteins, resulting in accumulation of cellular p53, p21, and hypophosphorylation of pRb. Ultimately, the loss of E6 and E7 resulted in apoptosis (Sima et al., 2008). siRNA-mediated knockdown of E6/E7 was also found to sensitize the cells to cisplatin-induced cell death (Tan et al., 2012). A review by Togtema et al. (2018) surveyed over 25 experimental data analyzing over 60 synthetically prepared siRNAs targeting HPV16 E6, all of which have been found to be effective in inhibiting the growth of tumor both *in vitro* and *in vivo*. The percentage of E6 knockdown showed variation (~10% to around 80%) depending on the sequence of the oncogenes targeted, the molar concentration of siRNA used, the mode of cellular delivery, the cellular model used for the study, and so on (Togtema et al., 2018).
+
+Thus, all the forms of nucleic acid-based therapies when target the oncogenes E6 and E7 bring about efficient reduction in cervical cancer progression through similar pathways of cell growth inhibition and apoptosis.
+
+---
+
+[referencia=f6e3890dc139e699 score=0.141]
+- 60 MunagalaR.KauserH.MunjalC.GuptaR. C. (2011). Withaferin A induces p53-dependent apoptosis by repression of HPV oncogenes and upregulation of tumor suppressor proteins in human cervical cancer cells. *Carcinogenesis* 32, 1697–1705. doi: 10.1093/carcin/bgr192
+- 61 NeveuG.CassonnetP.VidalainP. O.RolloyC.MendozaJ.JonesL.et al. (2012). Comparative analysis of virus–host interactomes with a mammalian high-throughput protein complementation assay based on *Gaussia princeps* luciferase.*Methods* 58, 349–359. doi: 10.1016/j.ymeth.2012.07.029
+- 62 NguyenM.SongS.LiemA.AndrophyE.LiuY.LambertP. F. (2002). A mutant of human papillomavirus type 16 E6 deficient in binding alpha-helix partners displays reduced oncogenic potential in vivo. *J. Virol.* 76, 13039–13048. doi: 10.1128/JVI.76.24.13039-13048.2002
+- 63 NomineY.MassonM.CharbonnierS.ZanierK.RistrianiT.DeryckereF.et al. (2006). Structural and functional analysis of E6 oncoprotein: insights in the molecular pathways of human papillomavirus-mediated pathogenesis. *Mol. Cell* 21, 665–678. doi: 10.1016/j.molcel.2006.01.024
+- 64 OhlenschlagerO.SeibothT.ZengerlingH.BrieseL.MarchankaA.RamachandranR.et al. (2006). Solution structure of the partially folded high-risk human papilloma virus 45 oncoprotein E7. *Oncogene* 25, 5953–5959. doi: 10.1038/sj.onc.1209584
+
+---
+
+[referencia=f6e3890dc139e699 score=0.141]
+- 94 VenutiA.PaoliniF.NasirL.CorteggioA.RopertoS.CampoM. S.et al. (2011). Papillomavirus E5: The smallest oncoprotein with many functions. *Mol. Cancer* 10:140. doi: 10.1186/1476-4598-10-140
+- 95 WangN.ZhanT.KeT.HuangX.KeD.CampoM. S.et al. (2014). Increased expression of RRM2 by human papillomavirus E7 oncoprotein promotes angiogenesis in cervical cancer. *Br. J. Cancer* 110, 1034–1044. doi: 10.1038/bjc.2013.817
+- 96 WhiteE. A.KramerR. E.TanM. J. A.HayesS. D.HarperJ. W.HowleyP. M. (2012a). Comprehensive analysis of host cellular interactions with human papillomavirus E6 proteins identifies new E6 binding partners and reflects viral diversity. *J. Virol.* 86, 13174–13186. doi: 10.1128/JVI.02172-12
+- 97 WhiteE. A.SowaM. E.TanM. J. A.JeudyS.HayesS. D.SanthaS.et al. (2012b). Systematic identification of interactions between host cell proteins and E7 oncoproteins from diverse human papillomaviruses. *Proc. Natl. Acad. Sci. USA* 109, E260–E267. doi: 10.1073/pnas.1116776109
+- 98 WrightA. V.NunezJ. K.DoudnaJ. A. (2016). Biology and applications of CRISPR systems: harnessing nature’s toolbox for genome engineering. *Cell* 164, 29–44. doi: 10.1016/j.cell.2015.12.035
+- 99 WymanC.KanaarR. (2006). DNA double-strand break repair: all’s well that ends well. *Annu. Rev. Genet.* 40, 363–383. doi: 10.1146/annurev.genet.40.110405.090451
+
+---
+
+[referencia=f6e3890dc139e699 score=0.124]
+### Activation of Invasion and Metastasis
+
+E6 and E7 oncogenes have been found to induce the epithelial-to-mesenchymal transition (EMT), a process required for the tumor cells to invade into the bloodstream and metastasize at other place in the body. Using the epithelial MDCK cell line as an *in vitro* model, the study by Kim et al. (2013) showed that ectopic expression of E6/E7 can induce cobblestone-shaped epithelial cell formation from spindle-shaped mesenchymal cells. Moreover, they also showed that E6 and E7 could activate the EMT-inducing transcriptional factors such as Slug, Twist, ZEB1, and ZEB2 followed by an increase in the migratory and invasive potentials of the cells. The EMT markers, like E-cadherin (epithelial cell marker), were found to decrease (D’costa et al., 2012), whereas N-cadherin, fibronectin, and vimentin, the mesenchymal markers, increase in response to E6 and E7 (Hellner et al., 2009). In addition to E6 and E7, E5 has also been reported to upregulate VEGF through EGFR, MEK/ERK1 and 2 along with PI3K/Akt, which induces cell invasion and metastasis (Kim et al., 2006).
+
+---
+
+[referencia=f6e3890dc139e699 score=0.107]
+- 71 ReschnerA.BontemsS.Le GacS.LambermontJ.MarcelisL.DefrancqE.et al. (2013). Ruthenium oligonucleotides, targeting HPV 16 E6 oncogene, inhibit the growth of cervical cancer cells under illumination by a mechanism involving p53. *Gene Ther.* 20, 435–443. doi: 10.1038/gt.2012.54
+- 72 SadasivamS.DeCaprioJ. A. (2013). The DREAM complex: master coordinator of cell cycle dependent gene expression. *Nat. Rev. Cancer* 13, 585–595. doi: 10.1038/nrc3556
+- 73 ScheffnerM.HuibregtseJ. M.VierstraR. D.HowleyP. M. (1993). The HPV16 E6 and E6-AP complex functions as a ubiquitin-protein ligase in the ubiquitination of p53. *Cell* 75, 495–505. doi: 10.1016/0092-8674(93)90384-3
+- 74 ScheffnerM.WernessB. A.HuibregtseJ. M.LevineA. J.HowleyP. M. (1990). The E6 oncoprotein encoded by human papillomavirus types 16 and 18 promotes the degradation of p53. *Cell* 63, 1129–1136. doi: 10.1016/0092-8674(90)90409-8
+- 75 SerranoB.BrotonsM.BoschF. X.BruniL. (2017). Epidemiology and burden of HPV related disease. *Best Pract. Res. Clin. Obstet. Gynaecol.* 47, 14–26. doi: 10.1016/j.bpobgyn.2017.08.006
+- 76 ShankarS.PrasadD.SanawarR.DasA. V.PillaiM. R. (2017). TALEN based HPV-E7 editing triggers necrotic cell death in cervical cancer cells. *Sci. Rep.* 7:5500. doi: 10.1038/s41598-017-05696-0
+
+---
+
+[referencia=f6e3890dc139e699 score=0.100]
+- 54 McIntyreM. C.FrattiniM. G.GrossmanS. R.LaiminsL. A. (1993). Human papillomavirus type 18 E7 protein requires intact Cys-X-X-Cys motifs for zinc binding, dimerization, and transformation but not for Rb binding. *J. Virol.* 67, 3142–3150. PMID:
+- 55 McLaughlin-DrubinM. E.ParkD.MungerK. (2013). Tumour suppressor p16 <sup>INK4A</sup> is necessary for survival of cervical carcinoma cell lines.*Proc. Natl. Acad. Sci. USA* 110, 16175–16180. doi: 10.1073/pnas.1310432110
+- 56 McMurrayH. R.McCanceD. J. (2003). Human papillomavirus type 16 E6 activates TERT gene transcription through induction of c-Myc and release of USF-mediated repression. *J. Virol.* 77, 9852–9861. doi: 10.1128/JVI.77.18.9852-9861.2003
+- 57 MinoT.AoyamaY.SeraT. (2009). Efficient double stranded DNA cleavage by artificial zinc-finger nucleases composed of one zinc-finger protein and a single chain FokI dimer. *J. Biotechnol.* 140, 156–161. doi: 10.1016/j.jbiotec.2009.02.004
+- 58 MinoT.MoriT.AoyamaY.SeraT. (2013). Gene and protein delivered zinc finger staphylococcal nuclease hybrid for inhibition of DNA replication of human papillomavirus. *PLoS One* 8:e56633. doi: 10.1371/journal.pone.0056633
+- 59 MunagalaR.AqilF.JeyabalanJ.GuptaR. C. (2014). Tanshinone IIA inhibits viral oncogene expression leading to apoptosis and inhibition of cervical cancer. *Cancer Lett.* 356, 536–546. doi: 10.1016/j.canlet.2014.09.037
+
+---
+
+[referencia=f6e3890dc139e699 score=0.098]
+### Evasion of Growth Suppressors
+
+Both E6 and E7 contribute to achieve uncontrolled proliferation through deregulation of growth suppressors. E6 targets an important growth suppressor, p53, while pRb is one of the major targets of E7 among few others. It has been diagrammatically illustrated in Figure 2.
+
+Figure 2
+
+E6-mediated inhibition of p53 allows several cellular changes to turn a cell oncogenic, one of them being induction of uncontrolled cell proliferation by evading the cellular checkpoints. The 53 kD molecular weight protein, p53, is the most well-characterized tumor suppressor protein till date and is often called as the “guardian of the genome” since it decides the fate of a cell during stressed conditions. When the cell experiences stress in the form of oxidative damage or other forms, it acts a transcription factor to transcribe the genes needed for either cell cycle arrest or apoptosis (Pflaum et al., 2014). On the other hand, murine double minute 2 (MDM2) homolog, an E3 ubiquitin ligase, helps to maintain it at a basal level in a healthy cell. Thus, p53 perturbation by E6 is significant to ensure continuous cellular proliferation.
+
+E6 has been found to degrade p53 through ubiquitination with the help of E6AP (E6-associated protein also known as UBE3A; Scheffner et al., 1990, 1993). HPV E6 can bind to the LxxLL consensus sequence in the conserved domain of E6AP to form a heterotrimeric complex of E6/E6AP/p53, ultimately leading to the degradation of p53. This forces the cells through uncontrolled cellular division, evading the preventive checkpoints. Several *in vivo* experiments showed that interaction with E6AP is an absolute necessity to develop tumorigenecity in several tumor forms (Nguyen et al., 2002; Kelley et al., 2005).
+
+---
+
+[referencia=f6e3890dc139e699 score=0.082]
+### Angiogenesis Induction
+
+A major requisite for tumorigenesis is the recruitment of blood circulation to the transforming cells from the existing vasculature, a process termed as “angiogenesis.” This act is maintained by an equilibrium between angiogenesis inducers and angiogenesis inhibitors. E6 and E7 help the HPV infected cells derive nutrition and oxygen from the surrounding tissues through angiogenesis by regulating the expressions and activities of the inducers and inhibitors. The major noteworthy change in the expression of the tumor suppressor p53 and pRb by E6 and E7, respectively, has been found to be linked to the angiogenesis modulators. A microarray analysis by Toussaint-Smith et al. (2004) showed three genes regulated by p53 to change its expression in cells transformed with E6 and E7, including thrombospondin-1, maspin (angiogenesis inhibitors), and VEGF (vascular endothelial growth factor – angiogenesis inducer). Thrombospondin-1 and maspin act as angiogenesis inhibitors and are positively regulated by p53. Thus, since p53 is degraded by E6 successfully, the angiogenesis inhibitors are not functional. VEGF is a well-known angiogenesis inducer, which is negatively regulated by p53 through the HIF-1α, and in the absence of p53 (i.e., mediated by E6), it becomes activated and helps in angiogenesis. IL-8 (Interleukin-8) was also found to increase in the response to E6 and E7 expression in the same report by Toussaint-Smith et al. (2004). IL-8 is known to be a major angiogenesis inducer. VEGF regulation by E6 can occur in a p53-independent mechanism, through the activation of Sp1 transcription factor (Lopez-Ocejo et al., 2000). VEGF promoter contains an AP1 binding site, which can be activated by E7 (Tischer et al., 1991). Recent report by Wang et al. (2014) also showed an upregulation of RRM2 by E7, which functions to induce angiogenesis *via* ROS-ERK1/2-HIF-1α-VEGF.

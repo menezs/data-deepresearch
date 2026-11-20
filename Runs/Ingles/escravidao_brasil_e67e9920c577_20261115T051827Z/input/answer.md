@@ -1,0 +1,155 @@
+# Abolition of Slavery in Brazil in 1888: Background and Consequences
+
+## Slavery, the Atlantic economy, and the making of imperial Brazil
+
+The abolition of slavery in Brazil on May 13, 1888, was the endpoint of a centuries-long system of coerced labor that had shaped the country’s economy, population, political institutions, and racial order since the early colonial period.[1] Brazil was the largest destination in the transatlantic slave trade, receiving roughly 4.9 million enslaved Africans who survived the Atlantic crossing, more than 45 percent of all Africans landed alive in the Americas.[2] The scale of this forced migration made slavery not merely a labor arrangement but one of the central institutions through which colonial and later imperial Brazilian society was constructed.[1]
+
+Portuguese colonization initially relied on multiple forms of coerced Indigenous labor, but the expansion of sugar cultivation, demographic catastrophe among Indigenous peoples caused by warfare and disease, and Portuguese commercial connections in Africa encouraged a massive shift toward African slavery.[3] By the sixteenth and seventeenth centuries, enslaved Africans and their descendants were indispensable to the northeastern sugar economy, especially in Pernambuco and Bahia, while later slave labor became central to gold and diamond mining in Minas Gerais and, in the nineteenth century, to coffee cultivation in southeastern Brazil.[4] Enslaved workers also performed domestic service, transportation, artisanal labor, dock work, urban street vending, and innumerable other occupations, so slavery penetrated rural and urban economies alike.[4]
+
+The nineteenth-century coffee boom made slavery particularly important in the provinces of Rio de Janeiro, São Paulo, and Minas Gerais.[5] Before the effective suppression of the Atlantic trade in 1850, coffee planters could replenish their labor forces through continued imports from Africa; afterward, a large internal slave trade transferred enslaved people from older northeastern and urban slaveholding regions toward the expanding coffee zones of the Southeast.[5] The result was that even as Atlantic slavery was disappearing elsewhere in the Americas, Brazilian economic modernization remained deeply entangled with coerced Black labor.[1]
+
+Brazilian slavery nevertheless coexisted with a substantial population of free and freed people of African descent.[1] Manumission, self-purchase, testamentary freedom, litigation, and informal arrangements created pathways out of bondage, although freedom remained precarious in a society where racial hierarchy and slaveholding power remained pervasive.[6] The first national census, conducted in 1872, counted roughly 1.5 million enslaved people in a population of about 10 million, demonstrating both the continuing magnitude of slavery and the growth of a much larger legally free population.[7] By 1887, the registered enslaved population had fallen to roughly 723,000, a decline caused by deaths, manumissions, gradual-emancipation legislation, escape, and intensifying abolitionist activity.[8]
+
+## Resistance, Black agency, and the rise of abolitionism
+
+The destruction of Brazilian slavery cannot be explained simply as a reform bestowed from above by the monarchy.[9] Enslaved people had resisted slavery throughout its existence through flight, the formation of quilombo communities, work slowdowns, negotiation, preservation of African-derived cultural practices, legal petitions, revolts, and direct challenges to masters.[4] In the final decades of slavery, enslaved men and women increasingly used the language of law and freedom itself, contesting illegal enslavement, pursuing manumission, escaping collectively, refusing labor, and exploiting the weakening legitimacy of slaveholders’ authority.[10] Historical scholarship has consequently shifted away from older narratives that portrayed the enslaved population as largely passive and now treats enslaved people as major political actors in the process that made slavery ungovernable by the late 1880s.[9]
+
+Black abolitionists were especially important in translating these struggles into legal, journalistic, and organizational campaigns.[11] Luiz Gama, born in Bahia in 1830 and illegally enslaved as a child, obtained his own freedom and became a self-taught legal advocate, poet, and journalist in São Paulo.[12] He used court proceedings and legal arguments to secure freedom for large numbers of enslaved people and became one of the most influential Black intellectuals of nineteenth-century Brazil.[13] Gama’s career illustrates how abolitionism operated not only through parliamentary debate but also through litigation challenging the legality of individual enslavements and demanding enforcement of laws that slaveholders and officials had often ignored.[12]
+
+José do Patrocínio, the son of an enslaved Black woman and a priest, became another major Black abolitionist leader through journalism, public speaking, political organizing, and the creation of antislavery associations.[14] Through newspapers such as the Gazeta da Tarde and later Cidade do Rio, Patrocínio helped transform abolition into a mass urban political cause and attacked both slavery and the racial doctrines increasingly used to justify Black subordination.[14] In 1883, Patrocínio and the Black engineer and intellectual André Rebouças were associated with the Manifesto of the Confederação Abolicionista, part of a broader effort to coordinate abolitionist organizations across the empire.[15]
+
+André Rebouças brought to abolitionism a distinctive critique linking emancipation to landholding and economic independence.[16] Rebouças and Joaquim Nabuco both warned that legal emancipation without broader reforms, particularly changes in access to land, would leave former slaves economically dependent and preserve much of the social structure created under slavery.[16] This distinction between the abolition of legal ownership in persons and the construction of substantive freedom became central to later debates over the meaning of 1888.[1]
+
+Abolitionism expanded rapidly from the late 1870s into the 1880s, moving beyond elite parliamentary circles into newspapers, clubs, fundraising organizations, public lectures, theater performances, student activism, and direct assistance to fugitives.[9] Radical activists in São Paulo associated with Antônio Bento and the Caifazes organized escapes from plantations and helped fugitives reach places of refuge such as the Jabaquara community near Santos.[17] Abolitionists also pressured rail workers, boatmen, lawyers, journalists, artisans, and urban sympathizers to refuse cooperation with slave recapture.[9] By the final years of slavery, the convergence of mass flight and organized abolitionist action was undermining slaveholders’ practical ability to enforce captivity in several regions.[9]
+
+## International pressure and the gradual legal dismantling of slavery
+
+International pressure, especially from Britain, was an important but insufficient cause of Brazilian abolition.[18] Britain abolished its own slave trade in 1807 and increasingly used diplomatic and naval pressure to suppress the Atlantic trade carried on by other nations, while Brazil’s dependence on British commerce made the issue a recurring source of conflict after Brazilian independence in 1822.[19] Under British pressure, the Brazilian government enacted the Law of November 7, 1831, declaring free all enslaved persons imported into Brazil from abroad after that date and establishing penalties for traffickers.[20]
+
+The 1831 statute was systematically violated, however, and hundreds of thousands of Africans were illegally imported in subsequent years.[18] Its frequent description as a “law for the English to see” reflects the gap between its formal prohibition and the state’s limited willingness to enforce it against powerful commercial and plantation interests.[18] The law nevertheless acquired renewed importance later because Black litigants and abolitionist lawyers could argue that people imported after 1831, and in some cases their descendants, had been unlawfully held in slavery.[12]
+
+British impatience produced the Aberdeen Act of 1845, which empowered British authorities to seize vessels engaged in the Brazilian slave trade and subject their crews to British adjudication.[18] In 1850, the Brazilian Empire finally passed the Eusébio de Queirós Law, which strengthened enforcement against the importation of enslaved Africans and effectively ended the transatlantic traffic to Brazil.[21] The cessation of imports did not abolish slavery, but it transformed the institution by making the enslaved population a finite domestic labor force and increasing reliance on the internal trade.[5]
+
+The geopolitical environment changed further after the abolition of slavery in the United States in 1865.[9] By the late 1860s Brazil had become increasingly isolated among major Western states in retaining legal slavery, and the Paraguayan War of 1864–1870 also contributed to political debates about citizenship, military service, and the future of slavery.[9] These pressures did not automatically determine Brazilian policy, but they strengthened the position of imperial reformers who favored controlled, gradual emancipation.[9]
+
+The Law of the Free Womb of September 28, 1871, represented the most important step in this gradualist strategy.[22] It declared children born thereafter to enslaved mothers legally free, while allowing slaveholders to retain authority over those children until age eight and then either surrender them to the state for compensation or claim their labor until age twenty-one.[22] The law also strengthened mechanisms for manumission, including recognition of enslaved persons’ ability to accumulate peculium and purchase freedom under specified circumstances.[23] Yet the law simultaneously embodied coercive assumptions about freed labor, including provisions intended to discipline people considered “idle,” illustrating that gradual emancipation could coexist with attempts to preserve elite control over workers.[23]
+
+The Sexagenarian Law of September 28, 1885, was another compromise intended to manage the decline of slavery gradually.[24] It reorganized slave registration and provided emancipation for older enslaved people under conditions that could include continuing obligations of service.[24] By this stage, however, gradualism was being overtaken by events because abolitionist organizations, mass escapes, public mobilization, and provincial emancipation campaigns were moving faster than parliamentary reform.[9]
+
+## The crisis of slavery and the Golden Law
+
+By 1887–1888, slavery was collapsing both politically and practically in important parts of Brazil.[9] Large numbers of enslaved people were leaving plantations, abolitionists were organizing and protecting fugitives, and some masters responded by granting freedom in hopes of retaining former slaves as wage laborers or tenants.[16] Slavery still remained legally valid and economically important in several regions, but the state faced increasing difficulty sustaining an institution whose enforcement required coercion that parts of society were becoming unwilling to provide.[9]
+
+Princess Isabel’s role should therefore be understood precisely rather than mythologized.[25] As imperial regent during the absence of her father, Emperor Pedro II, Isabel supported abolition and exercised the constitutional act of sanctioning the bill passed by the General Assembly, but she did not single-handedly “free the slaves.”[25] The final legislation emerged from decades of enslaved resistance, Black activism, abolitionist organization, parliamentary conflict, demographic decline in the enslaved population, and the erosion of slaveholders’ political authority.[9]
+
+In May 1888 the imperial government moved rapidly.[26] The abolition proposal reached the General Assembly on May 8, passed through the legislature with extraordinary speed, and was sanctioned by Isabel on May 13.[26] Law No. 3,353, known as the Lei Áurea or Golden Law, contained only two substantive articles: the first declared slavery extinct in Brazil from the date of the law, and the second revoked contrary provisions.[27]
+
+The law provided neither compensation to slaveholders nor a program of reparations, land redistribution, schooling, housing, or economic assistance for the newly freed population.[18] Its brevity was politically powerful because it abolished ownership in human beings without transitional labor obligations, but it also meant that the state created no comprehensive institutional framework for converting juridical emancipation into social and economic equality.[18] Approximately 700,000 people were directly liberated from legal enslavement, although the exact number varies according to registration dates and statistical method.[28]
+
+Popular celebration of abolition was immediate, especially in Rio de Janeiro and other cities, but historical interpretation has increasingly emphasized that the decisive protagonists included enslaved people and Black activists whose action had helped force the state’s hand.[9] The older commemorative image of Isabel as a benevolent “Redeemer” captures her genuine institutional role but obscures the political struggle that made continued slavery untenable.[25]
+
+## Freedom without redistribution: immediate social and economic consequences
+
+Abolition transformed legal status instantly but did not redistribute the resources on which economic independence depended.[18] Formerly enslaved people received no general grant of land, no compensation for generations of unpaid labor, and no national program designed to ensure access to schooling or property.[18] In regions where land remained concentrated in large estates, many freed families therefore had to negotiate their freedom within labor markets still dominated by former masters and other landowners.[16]
+
+This did not mean that emancipation left former slaves without agency.[29] Freed people used mobility as a new right, leaving plantations associated with violence or unwanted dependency, seeking family members, changing employers, relocating to towns, demanding wages, or attempting to renegotiate working conditions.[29] Historians caution against treating such movement as economic disorder because departure from an estate could itself be an assertion that freedom included the right to choose where, how, and for whom to work.[29]
+
+Former slaveholders, by contrast, frequently interpreted labor mobility as “vagrancy,” indiscipline, or unwillingness to work.[23] These attitudes had been developing before 1888 and helped racialize emerging ideas about free labor by associating Black people with alleged idleness and by legitimizing police surveillance and coercive labor regulation.[23] The transition from slave to free labor therefore did not eliminate coercion; rather, some coercive practices were reconfigured through labor contracts, policing, and vagrancy enforcement.[6]
+
+The economic consequences varied substantially by region.[5] In the older coffee districts of the Paraíba Valley, where plantations had depended heavily on aging slave labor, abolition compounded an existing economic decline associated with soil exhaustion and shifting coffee production.[5] In western São Paulo, however, planters had already begun developing labor systems based on subsidized European immigration, and coffee output expanded dramatically in the post-abolition period under arrangements such as the colonato.[5]
+
+Immigration policy had an explicitly racial dimension as well as an economic one.[30] Influential Brazilian elites increasingly associated European immigration with modernization and “whitening,” while Black freedpeople and poor free Brazilians were frequently represented as unsuitable or insufficiently disciplined workers.[30] Public subsidies and private initiatives encouraged European immigration, and some employers preferred immigrants in ways that narrowed opportunities for Afro-Brazilian workers.[30] The replacement of slavery by legally free labor thus occurred within a social order in which racial ideology continued to shape access to employment, mobility, and state resources.[6]
+
+## Abolition, the fall of the monarchy, and the republic
+
+Abolition contributed to the political destabilization of the Brazilian monarchy, but it should not be treated as the single cause of the republican coup of November 1889.[31] Some slaveholding elites, especially those who had expected compensation for emancipated property, turned against the imperial regime after 1888, and the Republican Party gained additional support among planters in São Paulo.[32] Yet republicanism remained electorally limited, and the movement that overthrew the monarchy was primarily a military conspiracy rather than a mass civilian revolution.[31]
+
+The imperial regime had already been weakened by other conflicts involving the army, church-state relations, party politics, and disputes over the status and autonomy of the military after the Paraguayan War.[33] On November 15, 1889, a relatively small group of army officers centered on figures including Marshal Deodoro da Fonseca and the military intellectual Benjamin Constant toppled the imperial government and established a provisional republic.[31] Contemporary evidence does not support the idea that a unified Brazilian population demanded the end of the monarchy, and even the army itself was divided.[31]
+
+Abolition nevertheless altered the political coalition on which the monarchy had long rested.[32] By ending slavery without indemnifying owners, the imperial government alienated part of a landowning class whose loyalty had historically helped sustain the regime.[32] At the same time, the monarchy gained insufficient durable support from the newly freed population because formal emancipation was not accompanied by political incorporation on comparable terms.[6]
+
+Political exclusion was reinforced by the electoral rules of the late empire and early republic.[6] Literacy requirements adopted in the 1881 electoral reform effectively excluded much of the poor population, including many freedpeople, from electoral participation.[6] Consequently, the political transition of 1888–1889 abolished slavery and monarchy in rapid succession without producing a democratic redistribution of political power to the Black population that had borne the weight of slavery.[6]
+
+## Long-term racial, social, and political legacy
+
+The most enduring paradox of Brazilian abolition is that an extraordinarily radical change in legal status occurred without an equally radical transformation of property, education, or political power.[1] Former slaves became legally free citizens, but the economic and social structures produced by centuries of slavery continued to influence their opportunities and those of their descendants.[18] Historians therefore distinguish between emancipation as the termination of legal ownership and freedom as a broader condition involving autonomy, security, access to resources, civil equality, and political participation.[1]
+
+Racial hierarchy did not disappear with slavery; it was reformulated.[6] During and after abolition, theories of scientific racism and elite projects of “whitening” gave intellectual and policy justification to preferences for European immigration and to assumptions about Black social inferiority.[30] Police practices and labor regulation increasingly treated poor Afro-Brazilians as suspect populations, while access to formal schooling, skilled occupations, landownership, and political influence remained highly unequal.[6]
+
+It would nevertheless be misleading to describe post-emancipation Afro-Brazilians simply as victims of exclusion.[29] Black families built communities, formed religious and cultural institutions, created mutual-aid associations, entered new labor markets, used courts, moved across regions, and continued political traditions developed during slavery and abolition.[6] The history of post-abolition Brazil is therefore simultaneously a history of persistent structural inequality and of sustained Black institution-building, negotiation, and resistance.[1]
+
+The meaning of May 13 has accordingly become contested in Brazilian public memory.[34] Older official narratives frequently centered Princess Isabel and represented abolition as a humanitarian gift from the monarchy, whereas Black movements and later scholarship have emphasized enslaved resistance, Black abolitionists, and the failure of the state to guarantee material equality after emancipation.[34] This reinterpretation does not require denying Isabel’s support for abolition or her constitutional act of sanctioning the law; rather, it places that act within the broader social struggle that made the law politically possible.[25]
+
+Established evidence therefore supports a multi-causal explanation of the abolition of Brazilian slavery.[9] International pressure helped terminate the Atlantic trade, gradual-emancipation legislation weakened the legal reproduction of slavery, changing labor arrangements reduced dependence on slavery in some regions, abolitionists mobilized public opinion and organized direct action, and enslaved people themselves destabilized the system through escape, litigation, refusal, and collective resistance.[9] The interpretive question is not which single factor “caused” abolition but how these forces interacted until the political costs of defending slavery exceeded the capacity and willingness of the imperial state to preserve it.[9]
+
+The Golden Law was therefore both an extraordinary achievement and an incomplete social revolution.[27] It permanently destroyed the legal institution that had permitted one person to own another, and its unconditional wording rejected the final attempts to preserve slavery through long transitional service.[27] Yet because abolition was not accompanied by land reform, reparations, universal education, or broad political inclusion, inequalities rooted in slavery survived into the republican era in transformed forms.[18] The central historical legacy of 1888 is thus not that abolition “failed,” but that legal freedom and social equality were separate historical processes, and Brazil accomplished the first far more rapidly than the second.[1]
+
+## References
+
+1. Brodwyn Fischer and Keila Grinberg, “Slavery and Freedom in Nineteenth-Century Brazil,” in *The Boundaries of Freedom: Slavery, Abolition, and the Making of Modern Brazil*, Cambridge University Press. https://www.cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/EC17B17AE1B57465E31691EEF5C6558A
+
+2. UNESCO, “Valongo Wharf Archaeological Site” nomination documentation, incorporating Trans-Atlantic Slave Trade Database estimates. https://whc.unesco.org/document/159617
+
+3. Biblioteca Nacional Digital, “Escravidão,” Rede da Memória Virtual Brasileira. https://bndigital.bn.gov.br/dossies/rede-da-memoria-virtual-brasileira/escravidao-jose-roberto-pinto-de-goes/
+
+4. Library of Congress, “Slavery and Abolition in Brazil-US Relations.” https://guides.loc.gov/brazil-us-relations/slavery-and-abolition
+
+5. Rafael de Bivar Marquese, “Coffee and the Formation of Modern Brazil, 1860–1914,” Oxford Research Encyclopedia of Latin American History. https://academic.oup.com/edited-volume/61800/chapter-abstract/546391139
+
+6. Sidney Chalhoub, “The Precariousness of Freedom in a Slave Society (Brazil in the Nineteenth Century),” *International Review of Social History*. https://www.cambridge.org/core/journals/international-review-of-social-history/article/precariousness-of-freedom-in-a-slave-society-brazil-in-the-nineteenth-century/8496E56A9C311D9B941F94E22F48F15D
+
+7. IBGE, “IBGE lança coleção inédita da História das Estatísticas Brasileiras.” https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13162-asi-ibge-lanca-colecao-inedita-da-historia-das-estatisticas-brasileiras
+
+8. IBGE, “O Negro no Brasil: Evolução Demográfica,” *Revista Brasileira de Geografia*. https://rbg.ibge.gov.br/index.php/rbg/article/download/2620/1990
+
+9. Ricardo Salles, “The Abolition of Brazilian Slavery, 1864–1888,” Oxford Research Encyclopedia of Latin American History. https://academic.oup.com/edited-volume/61800/chapter-abstract/546615849
+
+10. Library of Congress, “A abolição na Bahia, 1870–1888,” *Handbook of Latin American Studies* annotation. https://www.loc.gov/item/hlas-bi2007000899/
+
+11. Biblioteca Nacional Digital, “Movimentos abolicionistas e alforrias.” https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/escravidao-no-brasil/movimentos-abolicionistas-e-alforrias/
+
+12. Biblioteca Nacional Digital, “Luís Gama.” https://bndigital.bn.gov.br/dossies/literatura-matriz-afro-brasileira/autores-na-biblioteca-nacional-digital/luis-gama/
+
+13. Ministério dos Direitos Humanos e da Cidadania, “Luís Gama é reconhecido por lei como Patrono da Abolição da Escravatura do Brasil.” https://www.gov.br/mdh/pt-br/sdh/noticias/2018/janeiro/luis-gama-e-reconhecido-por-lei-como-patrono-da-abolicao-da-escravatura-do-brasil/
+
+14. Ministério da Igualdade Racial, “Nesta data, em 1853, nasceu José Carlos do Patrocínio.” https://www.gov.br/igualdaderacial/pt-br/assuntos/noticias/nesta-data-em-1853-nasceu-jose-carlos-do-patrocinio
+
+15. Biblioteca Nacional, “Manifesto da Confederação Abolicionista do Rio de Janeiro.” https://bdlb.bn.gov.br/acervo/handle/20.500.12156.3/420758
+
+16. “Golden Law,” *Encyclopedia of Latin American History and Culture*. https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/golden-law
+
+17. Fundação Joaquim Nabuco, “Luiz Gama.” https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/luiz-gama/
+
+18. Arquivo Nacional, “Legislação abolicionista no Império.” https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio/
+
+19. Biblioteca Nacional Digital, “Acordos internacionais e legislação sobre escravidão.” https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/acordos-internacionais-e-legislacao-sobre-escravidao/
+
+20. Câmara dos Deputados, “Lei de 7 de Novembro de 1831.” https://www2.camara.leg.br/legin/fed/lei_sn/1824-1899/lei-37659-7-novembro-1831-564776-publicacaooriginal-88704-pl.html
+
+21. Câmara dos Deputados, “Lei nº 581, de 4 de Setembro de 1850 — Lei Eusébio de Queirós.” https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-581-4-setembro-1850-559820-publicacaooriginal-82230-pl.html
+
+22. Câmara dos Deputados, “Lei nº 2.040, de 28 de Setembro de 1871 — Lei do Ventre Livre.” https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-2040-28-setembro-1871-538828-publicacaooriginal-35591-pl.html
+
+23. Beatriz Mamigonian et al., “Racismo, trabalho e ociosidade no processo de abolição: o Brasil e o Império Português numa perspectiva global (1870–1888),” *Revista Brasileira de História*. https://www.scielo.br/j/rbh/a/BcBZ8KgTsqPZZr7vVmGDc6t/?lang=pt
+
+24. Câmara dos Deputados, “Lei nº 3.270, de 28 de Setembro de 1885 — Lei dos Sexagenários.” https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3270-28-setembro-1885-543466-publicacaooriginal-53780-pl.html
+
+25. FGV CPDOC, “Nota de esclarecimento — Lei Áurea.” https://cpdoc.fgv.br/sites/default/files/movimento_negro/raca_racismo/Notas_LeiAurea.pdf
+
+26. Senado Federal, “Jornal do Senado — Uma reconstituição histórica — Rio de Janeiro, 14 de maio de 1888.” https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?isAllowed=y&sequence=7
+
+27. Câmara dos Deputados, “Lei nº 3.353, de 13 de Maio de 1888 — Lei Áurea.” https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html
+
+28. Senado Federal, “Senado promove exibição das leis que culminaram com sanção da Lei Áurea.” https://www12.senado.leg.br/radio/1/noticia/2018/05/11/senado-promove-exibicao-das-leis-que-culminaram-com-sancao-da-lei-aurea
+
+29. *Revista de História*, “Qual foi o destino do dinheiro do Fundo de Emancipação no pós-abolição? Projetos, protestos e disputas (1884–1890).” https://www.scielo.br/j/rh/a/YJd7BKnhn54kLNRym8VFSTJ/?lang=pt
+
+30. “Escravos e imigrantes são o que importam: fornecimento e controle da mão de obra para a economia agroexportadora oitocentista,” *Almanack*. https://www.scielo.br/j/alm/a/6jgKHcz533MNMn5VcPPGR5M/?lang=pt
+
+31. FGV CPDOC, “15 de novembro de 1889: a Proclamação da República.” https://cpdoc.fgv.br/artigos/proclamacao-republica
+
+32. FGV, *Atlas Histórico do Brasil*, “Proclamação da República.” https://atlas.fgv.br/verbetes/proclamacao-da-republica
+
+33. Library of Congress, “Empire of Brazil (1822–1889).” https://guides.loc.gov/brazil-us-relations/empire-of-brazil
+
+34. IPEA, “A luta e a resistência da população negra: uma reflexão sobre o 13 de maio.” https://repositorio.ipea.gov.br/bitstream/11058/12387/1/NT_110_Disoc_a_luta.pdf

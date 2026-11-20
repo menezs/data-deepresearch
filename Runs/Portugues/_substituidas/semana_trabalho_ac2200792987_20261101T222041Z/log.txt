@@ -1,0 +1,443 @@
+2026-11-01 18:20:41,657 INFO     auditframework.cli: Iniciando run semana_trabalho_ac2200792987_20261101T222041Z para
+                                 answers/Gemini/EmConsolidacao/semana_trabalho.docx (ferramenta=Gemini)
+2026-11-01 18:20:49,541 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-01 18:20:49,541 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-01 18:20:51,435 INFO     auditframework.terminal: Loading weights:
+                                 100%|███████████████████████████████████████████████████████████████████████████|
+                                 391/391 [00:00<00:00, 11906.12it/s]
+2026-11-01 18:21:02,694 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-01 18:21:02,702 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-01 18:21:02,841 INFO     auditframework.extraction.reference_extractor: numero(s) [1] da lista secundaria de
+                                 fontes descartado(s): https://en.wikipedia.org/wiki/Four-day_workweek ja esta listada
+                                 como [4]
+2026-11-01 18:21:02,843 INFO     auditframework.extraction.reference_extractor: numero(s) [2] da lista secundaria de
+                                 fontes descartado(s): https://www.nirandfar.com/4-day-workweek/ ja esta listada como
+                                 [5]
+2026-11-01 18:21:02,844 INFO     auditframework.extraction.reference_extractor: numero(s) [3] da lista secundaria de
+                                 fontes descartado(s): https://www.4dayweek.com/news-posts/100-80-100-rule-mwmb7 ja esta
+                                 listada como [1]
+2026-11-01 18:21:02,845 INFO     auditframework.extraction.reference_extractor: numero(s) [4] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.sociology.cam.ac.uk/news/new-results-worlds-largest-trial-four-day-working-week
+                                 ja esta listada como [9]
+2026-11-01 18:21:02,845 INFO     auditframework.extraction.reference_extractor: numero(s) [5] da lista secundaria de
+                                 fontes descartado(s): https://disprz.ai/blog/4-day-work-week-experiment-impact ja esta
+                                 listada como [3]
+2026-11-01 18:21:02,846 INFO     auditframework.extraction.reference_extractor: numero(s) [8] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.uts.edu.au/case-studies/mythbusting-four-day-work-week ja esta listada como
+                                 [2]
+2026-11-01 18:21:02,847 INFO     auditframework.extraction.reference_extractor: numero(s) [10] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.iefp.pt/documents/10181/11729755/Relatorio1Fase_Final.pdf/13cf9e6c-50f7-4830-a822-c1d443f36f31
+                                 ja esta listada como [12]
+2026-11-01 18:21:02,848 INFO     auditframework.extraction.reference_extractor: numero(s) [11] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://rhmagazine.pt/95-das-empresas-avaliam-positivamente-o-projeto-piloto-da-semana-de-quatro-dias/
+                                 ja esta listada como [10]
+2026-11-01 18:21:02,849 INFO     auditframework.extraction.reference_extractor: numero(s) [13] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias
+                                 ja esta listada como [11]
+2026-11-01 18:21:02,849 INFO     auditframework.extraction.reference_extractor: numero(s) [14] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://www.michaelpage.com.tr/en/advice/career-advice/4-day-work-week-guide ja esta
+                                 listada como [6]
+2026-11-01 18:21:02,850 INFO     auditframework.extraction.reference_extractor: numero(s) [15] da lista secundaria de
+                                 fontes descartado(s): https://www.4dayweek.com/ ja esta listada como [7]
+2026-11-01 18:21:02,851 INFO     auditframework.extraction.reference_extractor: numero(s) [16] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://leadership.global/insights/news-trends-insights/how-the-four-day-week-model-boosts-employees-happiness/
+                                 ja esta listada como [8]
+2026-11-01 18:21:02,852 INFO     auditframework.extraction.reference_extractor: numero(s) [17] da lista secundaria de
+                                 fontes descartado(s):
+                                 https://portal.fgv.br/en/noticias/estudo-indica-que-semana-de-quatro-dias-exige-confianca-e-flexibilidade-para-gerar-resultados
+                                 ja esta listada como [32]
+2026-11-01 18:21:02,852 INFO     auditframework.extraction.reference_extractor: numero(s) [18] da lista secundaria de
+                                 fontes descartado(s): https://4dayweek.io/country/brazil ja esta listada como [31]
+2026-11-01 18:21:02,853 WARNING  auditframework.extraction.reference_extractor: marcador(es) [6] de
+                                 https://support.google.com/knowledgepanel/answer/9787176 ja pertencem a outra
+                                 referencia da lista (numeracao repetida em duas listas de fontes) — mantida a primeira
+                                 ocorrencia
+2026-11-01 18:21:02,855 WARNING  auditframework.extraction.reference_extractor: marcador(es) [7] de
+                                 https://recipp.ipp.pt/bitstreams/34066234-3582-4f47-907a-142a99dead62/download ja
+                                 pertencem a outra referencia da lista (numeracao repetida em duas listas de fontes) —
+                                 mantida a primeira ocorrencia
+2026-11-01 18:21:02,856 WARNING  auditframework.extraction.reference_extractor: marcador(es) [9] de
+                                 https://ipps.iscte-iul.pt/images/Trabalho%20final%20-%20Grupo%201.pdf ja pertencem a
+                                 outra referencia da lista (numeracao repetida em duas listas de fontes) — mantida a
+                                 primeira ocorrencia
+2026-11-01 18:21:02,857 WARNING  auditframework.extraction.reference_extractor: marcador(es) [12] de
+                                 https://www.adcoesao.pt/wp-content/uploads/guia_para_a_avaliacao.pdf ja pertencem a
+                                 outra referencia da lista (numeracao repetida em duas listas de fontes) — mantida a
+                                 primeira ocorrencia
+2026-11-01 18:21:02,859 INFO     auditframework.pipeline: Extraidas 36 referencias de
+                                 answers/Gemini/EmConsolidacao/semana_trabalho.docx (0 descartadas como artefato do
+                                 exportador)
+2026-11-01 18:21:02,869 INFO     auditframework.pipeline: Resposta dividida em 126 trechos citados
+2026-11-01 18:21:02,896 INFO     auditframework.terminal: ✓ extraction concluído em 0.2s
+2026-11-01 18:21:02,896 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-01 18:21:02,899 INFO     auditframework.ingestion.service: Ingestao: 36 referencias, 0 ja baixadas, 0 ja
+                                 bloqueadas, 36 pendentes
+2026-11-01 18:21:22,109 WARNING  auditframework.ingestion.service: Barreira de acesso (no_content) em
+                                 https://japantoday.com/category/business/microsoft-japan%E2%80%99s-experiment-with-3-day-weekend-boosts-worker-productivity-by-40
+2026-11-01 18:21:23,149 ERROR    auditframework.ingestion.service: Erro inesperado ao ingerir
+                                 https://www.adcoesao.pt/wp-content/uploads/guia_para_a_avaliacao.pdf
+                                 Traceback (most recent call last):
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/.venv/lib/python3.12/site-packages/curl_cffi/requests/session.py",
+                                 line 827, in _request_once
+                                     c.perform()
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/.venv/lib/python3.12/site-packages/curl_cffi/curl.py",
+                                 line 594, in perform
+                                     self._check_error(ret, "perform")
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/.venv/lib/python3.12/site-packages/curl_cffi/curl.py",
+                                 line 320, in _check_error
+                                     raise error
+                                 curl_cffi.curl.CurlError: Failed to perform, curl: (92) Invalid HTTP header field was
+                                 received: frame type: 1, stream: 1, name: [upgrade], value: [h2]. See
+                                 https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+
+                                 The above exception was the direct cause of the following exception:
+
+                                 Traceback (most recent call last):
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/src/auditframework/ingestion/service.py",
+                                 line 253, in _ingest_one
+                                     result, markdown = _fetch_and_convert(reference, fetcher)
+                                                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/src/auditframework/ingestion/service.py",
+                                 line 309, in _fetch_and_convert
+                                     result = fetcher.fetch(reference.raw_url)
+                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/src/auditframework/ingestion/fetcher.py",
+                                 line 218, in fetch
+                                     return self._fetch_once(url)
+                                            ^^^^^^^^^^^^^^^^^^^^^
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/src/auditframework/ingestion/fetcher.py",
+                                 line 231, in _fetch_once
+                                     return self._get(url, verify=True)
+                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/src/auditframework/ingestion/fetcher.py",
+                                 line 312, in _get
+                                     response, method = _http_get(url, headers=_HEADERS, timeout=self.timeout,
+                                 verify=verify)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/src/auditframework/ingestion/fetcher.py",
+                                 line 59, in _http_get
+                                     response = _curl_requests.get(
+                                                ^^^^^^^^^^^^^^^^^^^
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/.venv/lib/python3.12/site-packages/curl_cffi/requests/__init__.py",
+                                 line 153, in get
+                                     return request(method="GET", url=url, **kwargs)
+                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/.venv/lib/python3.12/site-packages/curl_cffi/requests/__init__.py",
+                                 line 145, in request
+                                     return s.request(method=method, url=url, **kwargs)
+                                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/.venv/lib/python3.12/site-packages/curl_cffi/requests/session.py",
+                                 line 900, in request
+                                     return self._request_once(
+                                            ^^^^^^^^^^^^^^^^^^^
+                                   File
+                                 "/home/menezes/Projetos/Mestrado/deep-research-auditor/.venv/lib/python3.12/site-packages/curl_cffi/requests/session.py",
+                                 line 834, in _request_once
+                                     raise error(str(e), e.code, rsp) from e
+                                 curl_cffi.requests.exceptions.HTTPError: Failed to perform, curl: (92) Invalid HTTP
+                                 header field was received: frame type: 1, stream: 1, name: [upgrade], value: [h2]. See
+                                 https://curl.se/libcurl/c/libcurl-errors.html first for more details.
+2026-11-01 18:21:25,378 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://recipp.ipp.pt/bitstreams/34066234-3582-4f47-907a-142a99dead62/download
+2026-11-01 18:22:05,419 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://en.wikipedia.org/wiki/Four-day_workweek
+2026-11-01 18:22:05,430 INFO     auditframework.terminal: Baixando referências:
+                                 100%|██████████████████████████████████████████████████████████████████████████| 36/36
+                                 [01:02<00:00,  1.74s/ref]
+2026-11-01 18:22:05,431 INFO     auditframework.ingestion.service: Retentando 1 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-01 18:22:36,794 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://en.wikipedia.org/wiki/Four-day_workweek
+2026-11-01 18:22:36,796 INFO     auditframework.terminal: Retentando inacessíveis:
+                                 100%|█████████████████████████████████████████████████████████████████████████| 1/1
+                                 [00:31<00:00, 31.36s/ref]
+2026-11-01 18:22:36,798 INFO     auditframework.pipeline: Ingestao concluida: 32 documentos disponiveis
+2026-11-01 18:22:36,799 INFO     auditframework.terminal: ✓ ingestion concluído em 90.7s
+2026-11-01 18:22:36,799 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-01 18:22:37,186 INFO     auditframework.terminal: Extraindo chunks de documentos:
+                                 100%|████████████████████████████████████████████████████████████████| 32/32
+                                 [00:00<00:00, 83.41doc/s]
+2026-11-01 18:22:37,187 INFO     auditframework.indexing.service: Gerando embeddings para 185 chunks de 32 documentos
+2026-11-01 18:22:44,566 INFO     auditframework.terminal: Batches:
+                                 100%|████████████████████████████████████████████████████████████████████████████████████████|
+                                 12/12 [00:07<00:00,  1.63it/s]
+2026-11-01 18:22:44,589 INFO     auditframework.pipeline: Indice construido a partir de 32 documentos
+2026-11-01 18:22:44,591 INFO     auditframework.terminal: ✓ indexing concluído em 7.8s
+2026-11-01 18:22:44,592 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-01 18:22:44,599 INFO     auditframework.pipeline: Julgamento: 126 chunks, 0 ja julgados, 0 ja pulados, 126
+                                 pendentes
+2026-11-01 18:22:45,443 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-01 18:22:45,905 INFO     auditframework.terminal: Recuperando contexto:   0%|
+                                 | 0/126 [00:00<?, ?chunk/s]
+2026-11-01 18:22:46,008 INFO     auditframework.terminal: Loading weights:   0%|
+                                 | 0/393 [00:00<?, ?it/s]
+2026-11-01 18:22:46,108 INFO     auditframework.terminal: Loading weights:  35%|██████████████████████████▎
+                                 | 136/393 [00:00<00:00, 1347.32it/s]
+2026-11-01 18:22:46,172 INFO     auditframework.terminal: Loading weights:
+                                 100%|████████████████████████████████████████████████████████████████████████████|
+                                 393/393 [00:00<00:00, 1479.04it/s]
+2026-11-01 18:22:56,389 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-6 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:22:56,391 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-7 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:03,146 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-43 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:03,148 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-44 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:03,409 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-46 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:03,411 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-47 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,288 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-58 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,290 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-59 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,291 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-60 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,293 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-61 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,294 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-62 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,295 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-63 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,296 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-64 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,297 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-65 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,298 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-66 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,299 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-67 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,301 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-68 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:05,302 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-69 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:10,121 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-91 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:13,623 WARNING  auditframework.indexing.retriever: Chunk
+                                 semana_trabalho_ac2200792987_20261101T222041Z-110 nao sera auditado: Referencia(s)
+                                 citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-01 18:23:15,376 INFO     auditframework.terminal: Recuperando contexto:
+                                 100%|██████████████████████████████████████████████████████████████████████| 126/126
+                                 [00:30<00:00,  4.09chunk/s]
+2026-11-01 18:24:48,182 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-6 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:24:48,184 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-7 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:34:32,566 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-43 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:34:32,567 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-44 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:34:45,071 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-46 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:34:45,073 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-47 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,608 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-58 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,609 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-59 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,610 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-60 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,611 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-61 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,612 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-62 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,613 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-63 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,614 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-64 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,615 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-65 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,616 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-66 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,617 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-67 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,617 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-68 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:37:49,618 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-69 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:42:45,755 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-91 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:48:12,663 WARNING  auditframework.pipeline: Chunk semana_trabalho_ac2200792987_20261101T222041Z-110 nao
+                                 auditado: Referencia(s) citada(s) ['29cf52756bba7b06'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-01 18:52:26,535 INFO     auditframework.terminal: Julgando chunks:
+                                 100%|███████████████████████████████████████████████████████████████████████████|
+                                 126/126 [29:11<00:00, 13.90s/chunk]
+2026-11-01 18:52:26,536 INFO     auditframework.terminal: ✓ judging concluído em 1721.5s
+2026-11-01 18:52:26,545 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-01 18:52:26,554 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/semana_trabalho_ac2200792987_20261101T222041Z/report.md
+2026-11-01 18:52:26,556 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-01 18:52:26,556 INFO     auditframework.cli: Run semana_trabalho_ac2200792987_20261101T222041Z concluida
+2026-11-01 18:52:26,557 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/semana_trabalho_ac2200792987_20261101T222041Z/report.md
+2026-11-03 23:05:08,276 INFO     auditframework.terminal: audit refetch semana_trabalho_ac2200792987_20261101T222041Z
+2026-11-03 23:05:08,280 INFO     auditframework.ingestion.service: Ingestao: 36 referencias, 32 ja baixadas, 0 ja
+                                 bloqueadas, 4 pendentes
+2026-11-03 23:05:09,286 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em
+                                 https://www.adcoesao.pt/wp-content/uploads/guia_para_a_avaliacao.pdf; tentando HTTP/1.1
+2026-11-03 23:05:12,282 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:05:12,283 WARNING  auditframework.ingestion.service: Barreira de acesso (no_content) em
+                                 https://japantoday.com/category/business/microsoft-japan%E2%80%99s-experiment-with-3-day-weekend-boosts-worker-productivity-by-40
+2026-11-03 23:05:13,304 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://recipp.ipp.pt/bitstreams/34066234-3582-4f47-907a-142a99dead62/download
+2026-11-03 23:05:19,591 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 4/4 [00:11<00:00,
+                                 2.82s/ref]
+2026-11-03 23:05:19,597 INFO     auditframework.terminal: semana_trabalho_ac2200792987_20261101T222041Z: 4 fonte(s) sem
+                                 conteudo, 2 recuperada(s)
+2026-11-03 23:05:19,598 INFO     auditframework.terminal:   https://en.wikipedia.org/wiki/Four-day_workweek — downloaded
+2026-11-03 23:05:19,598 INFO     auditframework.terminal:
+                                 https://www.adcoesao.pt/wp-content/uploads/guia_para_a_avaliacao.pdf — downloaded
+2026-11-03 23:05:19,702 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para
+                                 data/runs/semana_trabalho_ac2200792987_20261101T222041Z/invalidado-20261104T030519Z
+2026-11-03 23:05:19,702 INFO     auditframework.terminal: 20 trecho(s) citado(s) para julgar de novo (os demais mantem o
+                                 veredito)
+2026-11-03 23:05:19,702 INFO     auditframework.terminal: Rode: audit resume
+                                 semana_trabalho_ac2200792987_20261101T222041Z
+2026-11-03 23:05:20,239 INFO     __main__: Retomando run semana_trabalho_ac2200792987_20261101T222041Z
+2026-11-03 23:05:26,126 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:05:26,126 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:05:27,745 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 15286.70it/s]
+2026-11-03 23:05:39,091 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-03 23:05:39,101 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-03 23:05:39,102 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-03 23:05:39,103 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-03 23:05:39,690 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 34/34
+                                 [00:00<00:00, 58.24doc/s]
+2026-11-03 23:05:39,690 INFO     auditframework.indexing.service: Gerando embeddings para 311 chunks de 34 documentos
+2026-11-03 23:05:50,129 INFO     auditframework.terminal: Batches: 100%|██████████| 20/20 [00:10<00:00,  1.92it/s]
+2026-11-03 23:05:50,153 INFO     auditframework.pipeline: Indice construido a partir de 34 documentos
+2026-11-03 23:05:50,154 INFO     auditframework.terminal: ✓ indexing concluído em 11.1s
+2026-11-03 23:05:50,155 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-03 23:05:50,161 INFO     auditframework.pipeline: Julgamento: 126 chunks, 106 ja julgados, 0 ja pulados, 20
+                                 pendentes
+2026-11-03 23:05:50,843 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-03 23:05:51,277 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/20 [00:00<?,
+                                 ?chunk/s]
+2026-11-03 23:05:51,379 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-03 23:05:51,430 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 2593.81it/s]
+2026-11-03 23:06:26,478 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 20/20 [00:36<00:00,
+                                 1.82s/chunk]
+2026-11-03 23:16:13,596 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 20/20 [09:47<00:00,
+                                 29.36s/chunk]
+2026-11-03 23:16:13,597 INFO     auditframework.terminal: ✓ judging concluído em 578.7s
+2026-11-03 23:16:13,603 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-03 23:16:13,612 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/semana_trabalho_ac2200792987_20261101T222041Z/report.md
+2026-11-03 23:16:13,614 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-03 23:16:13,614 INFO     __main__: Run semana_trabalho_ac2200792987_20261101T222041Z concluida
+2026-11-03 23:16:13,615 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/semana_trabalho_ac2200792987_20261101T222041Z/report.md
+2026-11-04 01:59:30,786 INFO     __main__: Retomando run semana_trabalho_ac2200792987_20261101T222041Z
+2026-11-04 01:59:35,507 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:59:35,507 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:59:37,703 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 13805.65it/s]
+2026-11-04 01:59:44,159 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-04 01:59:44,167 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-04 01:59:44,167 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-04 01:59:44,167 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: indexing
+2026-11-04 01:59:44,168 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: judging
+2026-11-04 01:59:44,169 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-04 01:59:44,178 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/semana_trabalho_ac2200792987_20261101T222041Z/report.md
+2026-11-04 01:59:44,180 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-04 01:59:44,181 INFO     __main__: Run semana_trabalho_ac2200792987_20261101T222041Z concluida
+2026-11-04 01:59:44,182 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/semana_trabalho_ac2200792987_20261101T222041Z/report.md

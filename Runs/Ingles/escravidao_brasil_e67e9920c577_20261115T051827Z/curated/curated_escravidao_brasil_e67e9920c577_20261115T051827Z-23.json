@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "escravidao_brasil_e67e9920c577_20261115T051827Z-23",
+  "passages": [
+    {
+      "reference_chunk_id": "1f68f21bb21cef26-0",
+      "reference_id": "1f68f21bb21cef26",
+      "score": 0.9225501418113708,
+      "text": "| Title: | Manifesto da Confederação Abolicionista do Rio de Janeiro | \n| Author/Contributor: | Patrocínio, José do, 1854-1905. | \n|  | Rebouças, André, 1838-1898. | \n| Date: | 1883 | \n|  | 2009-10-23T22:33:21Z | \n|  | 2013-04-17T13:39:38Z | \n|  | 2009-10-23T22:33:21Z | \n|  | 2013-04-17T13:39:38Z | \n|  | 2016-06-09T18:52:30Z | \n|  | 2016-06-09T18:52:30Z | \n| Description: | Inclui notas explicativas. | \n|  | Blake, Sacramento. Diccionario bibliographico brazileiro. Rio de Janeiro: Imprensa Nacional, 1883-1902. v. 4, p. 376-377. | \n| Type: | Texto | \n|  | Livro | \n| Language: | pt_BR |"
+    }
+  ],
+  "assembled_context": "[referencia=1f68f21bb21cef26 score=0.923]\n| Title: | Manifesto da Confederação Abolicionista do Rio de Janeiro | \n| Author/Contributor: | Patrocínio, José do, 1854-1905. | \n|  | Rebouças, André, 1838-1898. | \n| Date: | 1883 | \n|  | 2009-10-23T22:33:21Z | \n|  | 2013-04-17T13:39:38Z | \n|  | 2009-10-23T22:33:21Z | \n|  | 2013-04-17T13:39:38Z | \n|  | 2016-06-09T18:52:30Z | \n|  | 2016-06-09T18:52:30Z | \n| Description: | Inclui notas explicativas. | \n|  | Blake, Sacramento. Diccionario bibliographico brazileiro. Rio de Janeiro: Imprensa Nacional, 1883-1902. v. 4, p. 376-377. | \n| Type: | Texto | \n|  | Livro | \n| Language: | pt_BR |",
+  "skip_reason": null
+}

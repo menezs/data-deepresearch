@@ -1,0 +1,249 @@
+[
+  {
+    "id": "51ae2b54e60da70b",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.nature.com/articles/s41562-025-02259-6",
+    "normalized_url": "https://nature.com/articles/s41562-025-02259-6",
+    "work_key": "DOI:10.1038/s41562-025-02259-6",
+    "title": "Fan, Wen; Schor, Juliet B.; Kelly, Orla; Gu, Guolin. **“Work time reduction via a 4-day workweek finds improvements in workers’ well-being.” Nature Human Behaviour, 2025.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T21:55:49.776894Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "26991fcd7fe5b57f",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+    "normalized_url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+    "work_key": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+    "title": "Autonomy; University of Cambridge; Boston College. **“The Results Are In: The UK’s Four-Day Week Pilot.” 2023.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:46:08.984312Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3507306c7e394c9f",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias/",
+    "normalized_url": "https://planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias",
+    "work_key": "https://planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias",
+    "title": "PLANAPP — Centro de Competências de Planeamento, de Políticas e de Prospetiva da Administração Pública. **“Avaliação do Projeto-Piloto Semana de Quatro Dias.” 2024.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T21:55:51.484993Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f89fbb944287be18",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+    "normalized_url": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+    "work_key": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+    "title": "Governo de Portugal. **“95% das empresas avaliam positivamente experiência da Semana de Quatro Dias.” 2023.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T21:55:49.558819Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "d352417fcb9d933b",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.iefp.pt/documents/10181/11729755/Experiencia-Piloto_Semana%2Bde%2Bquatro%2Bdias.pdf/f4cdc63f-1023-4e1b-89c3-e35e8a7a06ea",
+    "normalized_url": "https://iefp.pt/documents/10181/11729755/Experiencia-Piloto_Semana+de+quatro+dias.pdf/f4cdc63f-1023-4e1b-89c3-e35e8a7a06ea",
+    "work_key": "https://iefp.pt/documents/10181/11729755/Experiencia-Piloto_Semana+de+quatro+dias.pdf/f4cdc63f-1023-4e1b-89c3-e35e8a7a06ea",
+    "title": "Instituto do Emprego e Formação Profissional — IEFP / Governo de Portugal. **“Experiência-Piloto Semana de Quatro Dias.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T21:55:53.739604Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a38ffa89f273703c",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf",
+    "normalized_url": "https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf",
+    "work_key": "https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf",
+    "title": "Haraldsson, Guðmundur D.; Kellam, Jack. Autonomy e Alda. **“Going Public: Iceland’s Journey to a Shorter Working Week.” 2021.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:46:11.129092Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ead9fd3b4c80cdae",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693e8a0d0669596b183b27fa/1765706253519/Brazil%2B4%2BDay%2BWeek%2BPilot%2B2024.pdf",
+    "normalized_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693e8a0d0669596b183b27fa/1765706253519/Brazil+4+Day+Week+Pilot+2024.pdf",
+    "work_key": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693e8a0d0669596b183b27fa/1765706253519/Brazil+4+Day+Week+Pilot+2024.pdf",
+    "title": "4 Day Week Brazil / Reconnect. **“Brazil 4 Day Week Pilot — Final Trial Results.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T21:56:03.073843Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c86fe6d5187bd205",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "title": "Brasil, Presidência da República. **“Constituição da República Federativa do Brasil de 1988”, especialmente art. 7º.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T21:55:53.172160Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c1d23f5bb1a53a63",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "title": "Brasil, Presidência da República. **“Decreto-Lei nº 5.452, de 1º de maio de 1943 — Consolidação das Leis do Trabalho”, especialmente arts. 59, 59-A, 66, 67 e 611-A.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T21:56:02.967230Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0f6a73b74e4adf6e",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0088",
+    "normalized_url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=CELEX%3A32003L0088",
+    "work_key": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=CELEX%3A32003L0088",
+    "title": "União Europeia. **“Directive 2003/88/EC concerning certain aspects of the organisation of working time.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:45:36.229546Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0325c9551f2573da",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.gov.uk/flexible-working",
+    "normalized_url": "https://gov.uk/flexible-working",
+    "work_key": "https://gov.uk/flexible-working",
+    "title": "Governo do Reino Unido. **“Flexible working.” GOV.UK.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T21:55:55.261922Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f76894fef2052ca2",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.camara.leg.br/noticias/1273660-empregadores-propoem-negociacao-coletiva-para-reduzir-jornada-para-36-horas-em-vez-de-mudar-a-constituicao/",
+    "normalized_url": "https://camara.leg.br/noticias/1273660-empregadores-propoem-negociacao-coletiva-para-reduzir-jornada-para-36-horas-em-vez-de-mudar-a-constituicao",
+    "work_key": "https://camara.leg.br/noticias/1273660-empregadores-propoem-negociacao-coletiva-para-reduzir-jornada-para-36-horas-em-vez-de-mudar-a-constituicao",
+    "title": "Câmara dos Deputados. **“Empregadores propõem negociação coletiva para reduzir jornada para 36 horas em vez de mudar a Constituição.” 2026.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T21:55:55.616142Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b87b1041646ea721",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2025/04/08/jornada-de-36-horas-trara-empregos-e-qualidade-de-vida-dizem-debatedores",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2025/04/08/jornada-de-36-horas-trara-empregos-e-qualidade-de-vida-dizem-debatedores",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2025/04/08/jornada-de-36-horas-trara-empregos-e-qualidade-de-vida-dizem-debatedores",
+    "title": "Senado Federal. **“Jornada de 36 horas trará empregos e qualidade de vida, dizem debatedores.” 2025.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:46:11.379226Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+    "tool_name": "ChatGPT"
+  }
+]

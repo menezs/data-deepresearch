@@ -1,0 +1,327 @@
+[referencia=d001ef8922253622 score=0.905]
+# Mamba: Linear-Time Sequence Modeling with Selective State Spaces 
+
+Albert Gu<sup>∗1</sup> and Tri Dao<sup>∗2</sup> 
+
+1 Machine Learning Department, Carnegie Mellon University 
+
+2 Department of Computer Science, Princeton University agu@cs.cmu.edu, tri@tridao.me 
+
+##### **Abstract** 
+
+Foundation models, now powering most of the exciting applications in deep learning, are almost universally based on the Transformer architecture and its core attention module. Many subquadratic-time architectures such as linear attention, gated convolution and recurrent models, and structured state space models (SSMs) have been developed to address Transformers’ computational inefficiency on long sequences, but they have not performed as well as attention on important modalities such as language. We identify that a key weakness of such models is their inability to perform content-based reasoning, and make several improvements. First, simply letting the SSM parameters be functions of the input addresses their weakness with discrete modalities, allowing the model to _selectively_ propagate or forget information along the sequence length dimension depending on the current token. Second, even though this change prevents the use of efficient convolutions, we design a hardware-aware parallel algorithm in recurrent mode. We integrate these selective SSMs into a simplified end-to-end neural network architecture without attention or even MLP blocks ( **Mamba** ). Mamba enjoys fast inference (5× higher throughput than Transformers) and linear scaling in sequence length, and its performance improves on real data up to million-length sequences. As a general sequence model backbone, Mamba achieves state-of-the-art performance across several modalities such as language, audio, and genomics. On language modeling, our Mamba-3B model outperforms Transformers of the same size and matches Transformers twice its size, both in pretraining and downstream evaluation.
+
+---
+
+[referencia=d001ef8922253622 score=0.564]
+### **4.2 Language Modeling** 
+
+We evaluate the Mamba architecture on standard autoregressive language modeling against other architectures, on both pretraining metrics (perplexity) and zero-shot evaluations. We set the model sizes (depth and width) to mirror GPT3 specifications. We use the Pile dataset (L. Gao, Biderman, et al. 2020), and follow the training recipe described in Brown et al. (2020). All training details are in Appendix E.2. 
+
+#### **4.2.1 Scaling Laws** 
+
+For baselines, we compare against the standard Transformer architecture (GPT3 architecture), as well as the strongest Transformer recipe we know of (here referred to as Transformer++), based on the PaLM and LLaMa architectures (e.g. rotary embedding, SwiGLU MLP, RMSNorm instead of LayerNorm, no linear bias, and higher learning rates). We also compare against other recent subquadratic architectures (Figure 4). All model details are in Appendix E.2. 
+
+Figure 4 shows scaling laws under the standard Chinchilla (Hoffmann et al. 2022) protocol, on models from ≈ 125 _𝑀_ to ≈ 1 _._ 3 _𝐵_ parameters. **Mamba is the first attention-free model to match the performance of a very strong Transformer recipe (Transformer++) that has now become standard, particularly as the sequence length grows.** (We note that full results on context length 8k are missing for the RWKV and RetNet baselines, prior strong recurrent models that can also be interpreted as SSMs, because of a lack of efficient implementations leading to out-of-memory or unrealistic computation requirements.) 
+
+11
+
+---
+
+[referencia=d001ef8922253622 score=0.406]
+Its primary source of improvement is using a linear attention with large _head dimension_ , which can be viewed as another method to perform input-dependent state expansion. Using a larger head dimension in the context of linear attention variants was first done by H3, but not extensively used since this requires a proportional amount of extra computation. RetNet avoids this with an alternate way to parallelize the computation with a variant of standard multi-head attention instead of convolutions, made feasible by their particular special case of SSMs which acts as a simple EMA. 
+
+- RWKV (B. Peng et al. 2023) is another recent RNN designed for language modeling. It is based on AFT (attention-free Transformer (S. Zhai et al. 2021)), another variant of linear attention. Its main “WKV” mechanism involves LTI recurrences and can be seen as the ratio of two SSMs. 
+
+We also highlight the gated attention unit (GAU) from Hua et al. (2022), which was motivated by combining the Transformer’s MHA and MLP blocks together and was an inspiration for our architecture (Section 3.4) combining the H3 and MLP blocks.
+
+---
+
+[referencia=d001ef8922253622 score=0.368]
+- [16] Aakanksha Chowdhery, Sharan Narang, Jacob Devlin, Maarten Bosma, Gaurav Mishra, Adam Roberts, Paul Barham, Hyung Won Chung, Charles Sutton, Sebastian Gehrmann, et al. “PaLM: Scaling Language Modeling with Pathways”. In: _Journal of Machine Learning Research_ 24.240 (2023), pp. 1–113. url: http://jmlr.org/papers/v24/221144.html. 
+
+- [17] Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, and Yoshua Bengio. “Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling”. In: _arXiv preprint arXiv:1412.3555_ (2014). 
+
+- [18] Peter Clark, Isaac Cowhey, Oren Etzioni, Tushar Khot, Ashish Sabharwal, Carissa Schoenick, and Oyvind Tafjord. “Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge”. In: _arXiv preprint arXiv:1803.05457_ (2018). 
+
+- [19] Tri Dao. “FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning”. In: _The International Conference on Learning Representations (ICLR)_ . 2024. 
+
+- [20] Tri Dao, Daniel Y Fu, Stefano Ermon, Atri Rudra, and Christopher Ré. “FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ . 2022. 
+
+- [21] Tri Dao, Daniel Y Fu, Khaled K Saab, Armin W Thomas, Atri Rudra, and Christopher Ré. “Hungry Hungry Hippos: Towards Language Modeling with State Space Models”. In: _The International Conference on Learning Representations (ICLR)_ . 2023. 
+
+- [22] Yann N Dauphin, Angela Fan, Michael Auli, and David Grangier. “Language Modeling with Gated Convolutional Networks”. In: _The International Conference on Machine Learning (ICML)_ . PMLR. 2017, pp. 933–941.
+
+---
+
+[referencia=d001ef8922253622 score=0.353]
+## **1 Introduction** 
+
+Foundation models (FMs), or large models pretrained on massive data then adapted for downstream tasks, have emerged as an effective paradigm in modern machine learning. The backbone of these FMs are often _sequence models_ , operating on arbitrary sequences of inputs from a wide variety of domains such as language, images, speech, audio, time series, and genomics (Brown et al. 2020; Dosovitskiy et al. 2020; Ismail Fawaz et al. 2019; Oord et al. 2016; Poli et al. 2023; Sutskever, Vinyals, and Quoc V Le 2014). While this concept is agnostic to a particular choice of model architecture, modern FMs are predominantly based on a single type of sequence model: the Transformer (Vaswani et al. 2017) and its core attention layer (Bahdanau, Cho, and Bengio 2015) The efficacy of self-attention is attributed to its ability to route information densely within a context window, allowing it to model complex data. However, this property brings fundamental drawbacks: an inability to model anything outside of a finite window, and quadratic scaling with respect to the window length. An enormous body of research has appeared on more efficient variants of attention to overcome these drawbacks (Tay, Dehghani, Bahri, et al. 2022), but often at the expense of the very properties that makes it effective. As of yet, none of these variants have been shown to be empirically effective at scale across domains. 
+
+Recently, structured state space sequence models (SSMs) (Gu, Goel, and Ré 2022; Gu, Johnson, Goel, et al. 2021) have emerged as a promising class of architectures for sequence modeling. These models can be interpreted as a combination of recurrent neural networks (RNNs) and convolutional neural networks (CNNs), with inspiration from classical state space models (Kalman 1960). This class of models can be computed very efficiently as either a recurrence or convolution, with linear or near-linear scaling in sequence length. Additionally, they have principled mechanisms for modeling long-range dependencies (Gu, Dao, et al. 2020) in certain data modalities, and have dominated benchmarks such as the Long Range 
+
+> ∗Alphabetical by first name. 
+
+1
+
+---
+
+[referencia=d001ef8922253622 score=0.287]
+- Linear attention (Katharopoulos et al. 2020) is an approximation of self-attention involving a recurrence which can be viewed as a degenerate linear SSM. 
+
+- H3 (Dao, Fu, Saab, et al. 2023) generalized this recurrence to use S4; it can be viewed as an architecture with an SSM sandwiched by two gated connections (Figure 3). H3 also inserts a standard local convolution, which they frame as a shift-SSM, before the main SSM layer. 
+
+- Hyena (Poli et al. 2023) uses the same architecture as H3 but replaces the S4 layer with an MLP-parameterized global convolution (Romero et al. 2021). 
+
+- RetNet (Y. Sun et al. 2023) adds an additional gate to the architecture and uses a simpler SSM, allowing an alternative parallelizable computation path, using a variant of multi-head attention (MHA) instead of convolutions. 
+
+- RWKV (B. Peng et al. 2023) is a recent RNN designed for language modeling based on another linear attention approximation, the attention-free Transformer (S. Zhai et al. 2021). Its main “WKV” mechanism involves LTI recurrences and can be viewed as the ratio of two SSMs. 
+
+Other closely related SSMs and architectures are discussed further in an extended related work (Appendix B). We highlight in particular S5 (Smith, Warrington, and Linderman 2023), QRNN (Bradbury et al. 2016), and SRU (Lei et al. 2017), which we view as the most closely related methods to our core selective SSM. 
+
+4
+
+---
+
+[referencia=d001ef8922253622 score=0.155]
+- [62] Alex Krizhevsky, Ilya Sutskever, and Geoffrey E Hinton. “ImageNet Classification with Deep Convolutional Neural Networks”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ 25 (2012). 
+
+- [63] Tao Lei. “When Attention Meets Fast Recurrence: Training Language Models with Reduced Compute”. In: _Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing_ . 2021, pp. 7633–7648. 
+
+- [64] Tao Lei, Yu Zhang, Sida I Wang, Hui Dai, and Yoav Artzi. “Simple Recurrent Units for Highly Parallelizable Recurrence”. In: _arXiv preprint arXiv:1709.02755_ (2017). 
+
+- [65] Mario Lezcano-Casado and David Martínez-Rubio. “Cheap Orthogonal Constraints in Neural Networks: A Simple Parametrization of the Orthogonal and Unitary Group”. In: _The International Conference on Machine Learning (ICML)_ . 2019. 
+
+- [66] Yuhong Li, Tianle Cai, Yi Zhang, Deming Chen, and Debadeepta Dey. “What Makes Convolutional Models Great on Long Sequence Modeling?” In: _The International Conference on Learning Representations (ICLR)_ . 2023. 
+
+- [67] Vasileios Lioutas and Yuhong Guo. “Time-aware Large Kernel Convolutions”. In: _The International Conference on Machine Learning (ICML)_ . PMLR. 2020, pp. 6172–6183. 
+
+- [68] Chris Lu, Yannick Schroecker, Albert Gu, Emilio Parisotto, Jakob Foerster, Satinder Singh, and Feryal Behbahani. “Structured State Space Models for In-Context Reinforcement Learning”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ . 2023. 
+
+- [69] Shahar Lutati, Itamar Zimerman, and Lior Wolf. “Focus Your Attention (with Adaptive IIR Filters)”. In: _arXiv preprint arXiv:2305.14952_ (2023). 
+
+20
+
+---
+
+[referencia=d001ef8922253622 score=0.128]
+- [109] Pete Warden. “Speech Commands: A Dataset for Limited-Vocabulary Speech Recognition”. In: _ArXiv_ abs/1804.03209 (2018). 
+
+- [110] Samuel Williams, Andrew Waterman, and David Patterson. “Roofline: An Insightful Visual Performance Model for Multicore Architectures”. In: _Communications of the ACM_ 52.4 (2009), pp. 65–76. 
+
+- [111] Brandon Yang, Gabriel Bender, Quoc V Le, and Jiquan Ngiam. “CondConv: Conditionally Parameterized Convolutions for Efficient Inference”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ 32 (2019). 
+
+- [112] Rowan Zellers, Ari Holtzman, Yonatan Bisk, Ali Farhadi, and Yejin Choi. “HellaSwag: Can a Machine Really Finish Your Sentence?” In: _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics_ . 2019. 
+
+22 
+
+- [113] Shuangfei Zhai, Walter Talbott, Nitish Srivastava, Chen Huang, Hanlin Goh, Ruixiang Zhang, and Josh Susskind. “An Attention Free Transformer”. In: _arXiv preprint arXiv:2105.14103_ (2021). 
+
+- [114] Michael Zhang, Khaled K Saab, Michael Poli, Tri Dao, Karan Goel, and Christopher Ré. “Effectively Modeling Time Series with Simple Discrete State Spaces”. In: _The International Conference on Learning Representations (ICLR)_ . 2023. 
+
+- [115] Lin Zheng, Chong Wang, and Lingpeng Kong. “Linear complexity randomized self-attention mechanism”. In: _International Conference on Machine Learning_ . PMLR. 2022, pp. 27011–27041. 
+
+- [116] Simiao Zuo, Xiaodong Liu, Jian Jiao, Denis Charles, Eren Manavoglu, Tuo Zhao, and Jianfeng Gao. “Efficient Long Sequence Modeling via State Space Augmented Transformer”. In: _arXiv preprint arXiv:2212.08136_ (2022). 
+
+23
+
+---
+
+[referencia=d001ef8922253622 score=0.121]
+### **B.2 SSM Architectures** 
+
+We use SSM architectures or state space neural networks (SSNN) to refer to deep neural network architectures incorporating one of the previous SSMs as a black box layer. 
+
+- GSS (Mehta et al. 2023) was the first gated neural network architecture incorporating SSMs. It is motivated by the gated attention unit (GAU) of Hua et al. (2022) and looks quite similar to our block, except with additional projections. Most importantly, its projection _contracts_ the model dimension to reduce the state size of the SSM, while ours _expands_ the model dimension in order to increase the state size, based on the motivation in Section 3.1. 
+
+- Mega (Ma et al. 2023) combined the EMA simplification of S4 described above into a hybrid architecture using an efficient attention approximation. 
+
+- H3 (Dao, Fu, Saab, et al. 2023) is motivated by combining S4 with linear attention (Katharopoulos et al. 2020). It is the first to generalize this formulation of linear attention to more general recurrences, which is also the basis of later architectures. 
+
+- Selective S4 (J. Wang et al. 2023) incorporates S4 as a black box to generate a binary mask which is multiplied on the input. While sharing the “selection” name, we consider this an architectural modification that is closer to architectural gating than a selection mechanism (Appendix A). For example, we hypothesize that it would not solve the Selective 
+
+25 
+
+Copying task because simply masking out the irrelevant inputs does not affect the spacing between the relevant ones (indeed, the Selective Copying task can even be viewed as coming pre-masked if the noise tokens are embedded to 0). 
+
+- RetNet (Y. Sun et al. 2023) is also based on Linear Attention and very similar to H3, but reduces the inner S4 layer to a special case where the state dimension is _𝑁_ = 1. Although not framed as such, its recurrence can be viewed as a special case of a linear SSM.
+
+---
+
+[referencia=d001ef8922253622 score=0.084]
+In this case, the _𝑨_ ∈ R<sup>_𝑁_×</sup><sup>_𝑁_</sup> _, 𝑩_ ∈ R<sup>_𝑁_×1</sup> _, 𝑪_ ∈ R<sup>1×</sup><sup>_𝑁_</sup> matrices can all be represented by _𝑁_ numbers. To operate over an input sequence _𝑥_ of batch size _𝐵_ and length _𝐿_ with _𝐷_ channels, the SSM is applied independently to each channel. Note that in this case, the total hidden state has dimension _𝐷𝑁_ per input, and computing it over the sequence length requires _𝑂_ ( _𝐵𝐿𝐷𝑁_ ) time and memory; this is the root of the fundamental efficiency bottleneck addressed in Section 3.3. 
+
+**General State Space Models.** We note that the term _state space model_ has a very broad meaning which simply represents the notion of any recurrent process with a latent state. It has been used to refer to many disparate concepts in different disciplines, including Markov decision processes (MDP) (reinforcement learning (Hafner et al. 2020)), dynamic causal modeling (DCM) (computational neuroscience (Friston, Harrison, and Penny 2003)), Kalman filters (controls (Kalman 1960)), hidden Markov models (HMM) and linear dynamical systems (LDS) (machine learning), and recurrent (and sometimes convolutional) models at large (deep learning).
+
+---
+
+[referencia=d001ef8922253622 score=0.079]
+- [37] Albert Gu, Karan Goel, and Christopher Ré. “Efficiently Modeling Long Sequences with Structured State Spaces”. In: _The International Conference on Learning Representations (ICLR)_ . 2022. 
+
+- [38] Albert Gu, Caglar Gulcehre, Tom Le Paine, Matt Hoffman, and Razvan Pascanu. “Improving the Gating Mechanism of Recurrent Neural Networks”. In: _The International Conference on Machine Learning (ICML)_ . 2020. 
+
+- [39] Albert Gu, Ankit Gupta, Karan Goel, and Christopher Ré. “On the Parameterization and Initialization of Diagonal State Space Models”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ . 2022. 
+
+- [40] Albert Gu, Isys Johnson, Karan Goel, Khaled Saab, Tri Dao, Atri Rudra, and Christopher Ré. “Combining Recurrent, Convolutional, and Continuous-time Models with the Linear State Space Layer”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ . 2021. 
+
+- [41] Albert Gu, Isys Johnson, Aman Timalsina, Atri Rudra, and Christopher Ré. “How to Train Your HIPPO: State Space Models with Generalized Basis Projections”. In: _The International Conference on Learning Representations (ICLR)_ . 2023. 
+
+- [42] Ankit Gupta, Albert Gu, and Jonathan Berant. “Diagonal State Spaces are as Effective as Structured State Spaces”. In: _Advances in Neural Information Processing Systems_ 35 (2022), pp. 22982–22994. 
+
+- [43] Ankit Gupta, Harsh Mehta, and Jonathan Berant. “Simplifying and Understanding State Space Models with Diagonal Linear RNNs”. In: _arXiv preprint arXiv:2212.00768_ (2022). 
+
+- [44] David Ha, Andrew Dai, and Quoc V. Le. “HyperNetworks”. In: _The International Conference on Learning Representations (ICLR)_ . 2017.
+
+---
+
+[referencia=d001ef8922253622 score=0.078]
+- [9] Sid Black, Stella Biderman, Eric Hallahan, Quentin Anthony, Leo Gao, Laurence Golding, Horace He, Connor Leahy, Kyle McDonell, Jason Phang, et al. “Gpt-NeoX-20B: An Open-source Autoregressive Language Model”. In: _arXiv preprint arXiv:2204.06745_ (2022). 
+
+- [10] Guy E Blelloch. “Prefix Sums and Their Applications”. In: (1990). [11] James Bradbury, Stephen Merity, Caiming Xiong, and Richard Socher. “Quasi-recurrent Neural Networks”. In: _arXiv preprint arXiv:1611.01576_ (2016). 
+
+- [12] Tom Brown, Benjamin Mann, Nick Ryder, Melanie Subbiah, Jared D Kaplan, Prafulla Dhariwal, Arvind Neelakantan, Pranav Shyam, Girish Sastry, Amanda Askell, et al. “Language Models are Few-shot Learners”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ 33 (2020), pp. 1877–1901. 
+
+- [13] Aydar Bulatov, Yuri Kuratov, and Mikhail S Burtsev. “Scaling Transformer to 1M tokens and Beyond with RMT”. In: _arXiv preprint arXiv:2304.11062_ (2023). 
+
+- [14] Rewon Child, Scott Gray, Alec Radford, and Ilya Sutskever. “Generating Long Sequences with Sparse Transformers”. In: _arXiv preprint arXiv:1904.10509_ (2019). 
+
+- [15] Krzysztof Choromanski, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins, Jared Davis, Afroz Mohiuddin, Lukasz Kaiser, et al. “Rethinking Attention with Performers”. In: _The International Conference on Learning Representations (ICLR)_ . 2021.
+
+---
+
+[referencia=d001ef8922253622 score=0.078]
+Figure 9 ( _Right_ ) shows these variants compared to the original (homogenous) Mamba architecture. Interestingly, neither change matters too much. The Mamba-MLP architecture is only slightly worse, and still better than all models except Transformer++. The Mamba-MHA architecture is only slightly better, which is somewhat surprising in light of the fact that many recent works have found that combining (LTI) SSMs with Attention can lead to substantial improvements (Dao, Fu, Saab, et al. 2023; Fathi et al. 2023; Fathullah et al. 2023; Saon, Gupta, and Cui 2023; Zuo et al. 2022). 
+
+**H3 Architecture: Training Recipes.** Next we ablate differences between the Hyena and H3++ models, our weakest and strongest models outside of Transformer++ and Mamba, particularly to isolate the effect of training recipes. 
+
+- **Hyena** : The Hyena block with its original architecture and GPT3 training recipe (same as Figure 4). 
+
+- **Hyena+** : The same architecture but with the improved training recipe described above. 
+
+- **H3+** : The same architecture as Hyena+ but with the Hyena convolution kernel swapped out for S4D convolution kernel. 
+
+- **H3++** : The same as H3+, but with a linear attention _head dimension_ of 8. This increases computation inside the SSM recurrence but does not increase parameters. 
+
+Our general convention is that “Model+” represents the base model with the improved training recipe, and “Model++” also allows for architectural changes. 
+
+Figure 9 ( _Right_ ) shows that 
+
+- A large improvement is achieved by the improved training recipe, which was used for many of the models in the main Figure 4 (RetNet, H3++, Transformer++, Mamba). 
+
+- The choice of the inner LTI SSM does not matter (e.g. Hyena vs. S4), consistent with findings throughout this paper. 
+
+- The head dimension expansion improves performance, consistent with one of our main themes that expanded state dimension improves performance for SSMs (Section 3).
+
+---
+
+[referencia=d001ef8922253622 score=0.071]
+**No Free Lunch: Continuous-Discrete Spectrum.** Structured SSMs were originally defined as discretizations of continuous systems (1), and have had a strong inductive bias toward continuous-time data modalities such as perceptual signals (e.g. audio, video). As discussed in Sections 3.1 and 3.5, the selection mechanism overcomes their weaknesses on discrete modalities such as text and DNA; but this conversely can impede their performance on data that LTI SSMs excel on. Our ablations on audio waveforms examine this tradeoff in more detail. 
+
+**Downstream Affordances.** Transformer-based foundation models (particularly LLMs) have a rich ecosystem of properties and modes of interaction with pretrained models, such as fine-tuning, adaptation, prompting, in-context learning, instruction tuning, RLHF, quantization, and so on. We are particularly interested in whether Transformer alternatives such as SSMs have similar properties and affordances. 
+
+**Scaling.** Our empirical evaluation is limited to small model sizes, below the threshold of most strong open source LLMs (e.g. Llama (Touvron et al. 2023)) as well as other recurrent models such as RWKV (B. Peng et al. 2023) and RetNet (Y. Sun et al. 2023), which have been evaluated at the 7B parameter scale and beyond. It remains to assess whether Mamba still compares favorably at these larger sizes. We also note that scaling SSMs may involve further engineering challenges and adjustments to the model that are not discussed in this paper. 
+
+## **6 Conclusion** 
+
+We introduce a selection mechanism to structured state space models, allowing them to perform context-dependent reasoning while scaling linearly in sequence length. When incorporated into a simple attention-free architecture, Mamba achieves state-of-the-art results on a diverse set of domains, where it matches or exceeds the performance of strong Transformer models. We are excited about the broad applications of selective state space models to build foundation models for different domains, especially in emerging modalities requiring long context such as genomics, audio, and video. Our results suggest that Mamba is a strong candidate to be a general sequence model backbone. 
+
+#### **Acknowledgments** 
+
+We thank Karan Goel, Arjun Desai, and Kush Bhatia for helpful feedback on the draft.
+
+---
+
+[referencia=d001ef8922253622 score=0.068]
+- [70] Xuezhe Ma, Chunting Zhou, Xiang Kong, Junxian He, Liangke Gui, Graham Neubig, Jonathan May, and Luke Zettlemoyer. “Mega: Moving Average Equipped Gated Attention”. In: _The International Conference on Learning Representations (ICLR)_ . 2023. 
+
+- [71] Eric Martin and Chris Cundy. “Parallelizing Linear Recurrent Neural Nets Over Sequence Length”. In: _The International Conference on Learning Representations (ICLR)_ . 2018. 
+
+- [72] Soroush Mehri, Kundan Kumar, Ishaan Gulrajani, Rithesh Kumar, Shubham Jain, Jose Sotelo, Aaron Courville, and Yoshua Bengio. “SampleRNN: An Unconditional End-to-End Neural Audio Generation Model”. In: _The International Conference on Learning Representations (ICLR)_ . 2017. 
+
+- [73] Harsh Mehta, Ankit Gupta, Ashok Cutkosky, and Behnam Neyshabur. “Long Range Language Modeling via Gated State Spaces”. In: _The International Conference on Learning Representations (ICLR)_ . 2023. 
+
+- [74] Zakaria Mhammedi, Andrew Hellicar, Ashfaqur Rahman, and James Bailey. “Efficient Orthogonal Parametrisation of Recurrent Neural Networks using Householder Reflections”. In: _International Conference on Machine Learning_ . PMLR. 2017, pp. 2401–2409. 
+
+- [75] Eric Nguyen, Karan Goel, Albert Gu, Gordon Downs, Preey Shah, Tri Dao, Stephen Baccus, and Christopher Ré. “S4ND: Modeling Images and Videos as Multidimensional Signals with State Spaces”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ . 2022. 
+
+- [76] Eric Nguyen, Michael Poli, Marjan Faizi, Armin Thomas, Callum Birch-Sykes, Michael Wornow, Aman Patel, Clayton Rabideau, Stefano Massaroli, Yoshua Bengio, et al. “HyenaDNA: Long-range Genomic Sequence Modeling at Single Nucleotide Resolution”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ . 2023.
+
+---
+
+[referencia=d001ef8922253622 score=0.051]
+- [102] Corentin Tallec and Yann Ollivier. “Can Recurrent Neural Networks Warp Time?” In: _The International Conference on Learning Representations (ICLR)_ . 2018. 
+
+- [103] Yi Tay, Mostafa Dehghani, Samira Abnar, Yikang Shen, Dara Bahri, Philip Pham, Jinfeng Rao, Liu Yang, Sebastian Ruder, and Donald Metzler. “Long Range Arena: A Benchmark for Efficient Transformers”. In: _International Conference on Learning Representations (ICLR)_ . 2021. 
+
+- [104] Yi Tay, Mostafa Dehghani, Dara Bahri, and Donald Metzler. “Efficient Transformers: A Survey”. In: _ACM Computing Surveys_ 55.6 (2022), pp. 1–28. 
+
+- [105] Hugo Touvron, Thibaut Lavril, Gautier Izacard, Xavier Martinet, Marie-Anne Lachaux, Timothée Lacroix, Baptiste Rozière, Naman Goyal, Eric Hambro, Faisal Azhar, et al. “Llama: Open and Efficient Foundation Language Models”. In: _arXiv preprint arXiv:2302.13971_ (2023). 
+
+- [106] Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. “Attention Is All You Need”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ . 2017. 
+
+- [107] Eugene Vorontsov, Chiheb Trabelsi, Samuel Kadoury, and Chris Pal. “On Orthogonality and Learning Recurrent Networks with Long Term Dependencies”. In: _International Conference on Machine Learning_ . PMLR. 2017, pp. 3570– 3578. 
+
+- [108] Jue Wang, Wentao Zhu, Pichao Wang, Xiang Yu, Linda Liu, Mohamed Omar, and Raffay Hamid. “Selective Structured State-Spaces for Long-form Video Understanding”. In: _Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition_ . 2023, pp. 6387–6397.
+
+---
+
+[referencia=d001ef8922253622 score=0.044]
+We also note that there is a long line of work on orthogonal RNNs (Arjovsky, Shah, and Bengio 2016; Henaff, Szlam, and LeCun 2016; Lezcano-Casado and Martínez-Rubio 2019; Mhammedi et al. 2017; Vorontsov et al. 2017) which are motivated by constraining the _𝑨_ transition matrix to be orthogonal or unitary, in order to control its eigenvalues and prevent the vanishing gradient problem. However, these had other limitations; we believe that these stem from the fact that orthogonal/unitary RNNs are also LTI. For example, they are almost always evaluated on the Copying task which they can solve perfectly, but observed to struggle on the Selective Copying task (Jing et al. 2019). 
+
+### **B.4 Linear Attention** 
+
+The Linear Attention (LA) (Katharopoulos et al. 2020) framework is an important result popularizing kernel attention and showing how it relates to recurrent autoregressive models. Many variants have proposed alternative kernels and other modifications. Random Feature Attention (RFA) (H. Peng et al. 2021) chooses the kernel feature map to approximate softmax attention (i.e. the exp feature map) using the random Fourier feature approximation of Gaussian kernels (Rahimi and Recht 2007). Performer (Choromanski et al. 2021) finds an approximation to the exponential kernel involving only positive 
+
+26 
+
+features, which also allows the softmax normalization term. TransNormer (Qin, Han, W. Sun, D. Li, et al. 2022) showed that the LA denominator term can be unstable and proposed replacing it with a LayerNorm. cosFormer (Qin, W. Sun, et al. 2022) augments RFA with a cosine reweighting mechanism that incorporates positional information to emphasize locality. Linear Randomized Attention (Zheng, C. Wang, and L. Kong 2022) generalize RFA from the perspective of importance sampling, and generalize it to provide better estimates of the full softmax kernel (rather than just the exp-transformed numerator). 
+
+Aside from kernel attention, many other variants of efficient attention exist; the survey Tay, Dehghani, Bahri, et al. (2022) offers an extensive categorization of many of these.
+
+---
+
+[referencia=d001ef8922253622 score=0.044]
+- [30] Karl J Friston, Lee Harrison, and Will Penny. “Dynamic Causal Modelling”. In: _Neuroimage_ 19.4 (2003), pp. 1273– 1302. 
+
+- [31] Daniel Y Fu, Elliot L Epstein, Eric Nguyen, Armin W Thomas, Michael Zhang, Tri Dao, Atri Rudra, and Christopher Ré. “Simple Hardware-efficient Long Convolutions for Sequence Modeling”. In: _The International Conference on Machine Learning (ICML)_ (2023). 
+
+- [32] Ken-ichi Funahashi and Yuichi Nakamura. “Approximation of Dynamical Systems by Continuous Time Recurrent Neural Networks”. In: _Neural Networks_ 6.6 (1993), pp. 801–806. 
+
+- [33] Leo Gao, Stella Biderman, Sid Black, Laurence Golding, Travis Hoppe, Charles Foster, Jason Phang, Horace He, Anish Thite, Noa Nabeshima, Shawn Presser, and Connor Leahy. “The Pile: An 800GB Dataset of Diverse Text for Language Modeling”. In: _arXiv preprint arXiv:2101.00027_ (2020). 
+
+- [34] Leo Gao, Jonathan Tow, Stella Biderman, Sid Black, Anthony DiPofi, Charles Foster, Laurence Golding, Jeffrey Hsu, Kyle McDonell, Niklas Muennighoff, Jason Phang, Laria Reynolds, Eric Tang, Anish Thite, Ben Wang, Kevin Wang, and Andy Zou. _A Framework for Few-shot Language Model Evaluation_ . Version v0.0.1. Sept. 2021. doi: 10.5281/zenodo.5371628. url: https://doi.org/10.5281/zenodo.5371628. 
+
+- [35] Karan Goel, Albert Gu, Chris Donahue, and Christopher Ré. “It’s Raw! Audio Generation with State-Space Models”. In: _The International Conference on Machine Learning (ICML)_ . 2022. 
+
+- [36] Albert Gu, Tri Dao, Stefano Ermon, Atri Rudra, and Christopher Ré. “HIPPO: Recurrent Memory with Optimal Polynomial Projections”. In: _Advances in Neural Information Processing Systems (NeurIPS)_ . 2020.
+
+---
+
+[referencia=d001ef8922253622 score=0.036]
+### **3.3 Efficient Implementation of Selective SSMs** 
+
+Hardware-friendly primitives such as convolutions (Krizhevsky, Sutskever, and Hinton 2012) and attention (Bahdanau, Cho, and Bengio 2015; Vaswani et al. 2017) enjoy widespread application. Here we aim to make selective SSMs efficient on modern hardware (GPUs) as well. The selection mechanism is quite natural, and earlier works attempted to incorporate special cases of selection, such as letting Δ vary over time in recurrent SSMs (Gu, Dao, et al. 2020). However, as previously mentioned a core limitation in the usage of SSMs is their computational efficiency, which was why S4 and all derivatives used LTI (non-selective) models, most commonly in the form of global convolutions. 
+
+#### **3.3.1 Motivation of Prior Models** 
+
+We first revisit this motivation and overview our approach to overcome limitations of prior methods. 
+
+- At a high level, recurrent models such as SSMs always balance a tradeoff between expressivity and speed: as discussed in Section 3.1, models with larger hidden state dimension should be more effective but slower. Thus we want to _maximize hidden state dimension without paying speed and memory costs_ . 
+
+- Note that the recurrent mode is more flexible than the convolution mode, since the latter (3) is derived from expanding the former (2) (Gu, Goel, and Ré 2022; Gu, Johnson, Goel, et al. 2021). However, this would require computing and materializing the latent state _ℎ_ with shape (B _,_ L _,_ D _,_ N), which is much larger (by a factor of _𝑁_ , the SSM state dimension) than the input _𝑥_ and output _𝑦_ of shape (B _,_ L _,_ D). Thus the more efficient convolution mode was introduced which could bypass the state computation and materializes a convolution kernel (3a) of size only (B _,_ L _,_ D). 
+
+- Prior LTI state space models leverage the dual recurrent-convolutional forms to increase the effective state dimension by a factor of _𝑁_ (≈ 10 − 100), much larger than traditional RNNs, without efficiency penalties. 
+
+6
+
+---
+
+[referencia=d001ef8922253622 score=0.028]
+**Data-dependence.** Similar to hypernetworks, data-dependence can refer to any notion where some parameters of the model depend on the data (Poli et al. 2023). 
+
+**Example: GLU Activation.** To illustrate the issues with these concepts, consider a simple diagonal linear layer _𝑦_ = _𝑫𝑥_ , where _𝑫_ is a diagonal weight parameter. Now suppose that _𝑫_ is itself generated from a linear transformation of _𝑥_ , with an optional nonlinearity: _𝑫_ = _𝜎_ ( _𝑾𝑥_ ). Since it is diagonal, the multiplication becomes an elementwise product: _𝑦_ = _𝜎_ ( _𝑾𝑥_ ) ◦ _𝑥_ . 
+
+This is a rather trivial transformation, yet it technically satisfies the common meanings of gating (since it has a multiplicative “branch”), hypernetworks (since the parameter _𝑫_ is generated by another layer), and data-dependent (since _𝑫_ depends on the data _𝑥_ ). However, this in fact simply defines a GLU function, which is so simple that it is often considered just an activation function (Dauphin et al. 2017; Shazeer 2020) instead of a meaningful layer. 
+
+**Selection.** Thus, while selection mechanisms could be considered a special case of ideas such as architectural gating, hypernetworks, or data-dependence, so can an enormous range of other constructions—essentially anything with a multiplication, including standard attention mechanisms (Bahdanau, Cho, and Bengio 2015; Vaswani et al. 2017) as well—and we find it uninformative to think of them as such.

@@ -1,0 +1,233 @@
+[referencia=43de03ab4d36a927 score=0.775]
+grande valia para a análise dos aspectos administrativos do fundo, com informações sobre o valor aplicado, número de escravos libertados e dificuldades na matrícula e na classificação. Por tudo isto, meu trabalho perdeu um pouco o alcance local que tinha, para abranger um espectro mais amplo do fundo de emancipação. Mas o local não foi excluído totalmente: acredito que uma escala pequena seja muito útil para desvendar alguns aspectos que os relatórios e os discursos parlamentares não atingem. * * * O fundo de emancipação de escravos foi um instrumento jurídico criado pela lei n.<sup>o</sup> 2040, de 28 de setembro de 1871 (conhecida como Lei do Ventre Livre ou Lei Rio 
+
+Branco – prefiro chamá-la simplesmente lei de 1871), que previa a destinação de recursos pecuniários a cada província do país e ao Município Neutro (o Rio de Janeiro) para a libertação de tantos escravos quantos possível. Mais detalhes sobre a estrutura do fundo viriam no decreto n. 5.135, de 13 de novembro de 1872, que regulamentou a lei. 
+
+no Brasil. Campinas: Unicamp/Cecult, 1999. 
+
+7
+
+---
+
+[referencia=43de03ab4d36a927 score=0.720]
+## **_A matrícula dos escravos_** 
+
+A matrícula especial dos escravos foi instituída pelo artigo 8.<sup>o</sup> da lei de 1871, com o objetivo principal de dotar o governo de uma estatística confiável do número de escravos existentes no país e a sua distribuição por localidades. Isso era necessário para, entre outras razões, proceder à aplicação proporcional dos recursos do fundo de emancipação. 
+
+O decreto número 4.835, de 1.<sup>o</sup> de dezembro de 1871, regulamentou esse artigo 
+
+3 Ver capítulo 1. 
+
+71 
+
+da lei e forneceu todos os detalhes necessários à execução da matrícula especial. Pelos termos do decreto, esta matrícula deveria ser executada entre 1º de abril e 30 de setembro de 1872, e deveria registrar todos os escravos que existissem no Brasil. Os senhores ou responsáveis deveriam comparecer à repartição fiscal do município em que seus escravos residissem e declarar, diante dos coletores, administradores de mesas ou demais encarregados, uma série de informações sobre os escravos que detivessem. Essas informações eram nome, cor, sexo, idade, estado, filiação (se conhecida), aptidão para o trabalho e profissão do escravo<sup>[4]</sup> . Para cada escravo pagariam uma taxa de matrícula de quinhentos réis, que dobraria se a matrícula ocorresse após o final do prazo. O escravo que não estivesse matriculado depois de um ano do encerramento do prazo seria considerado livre.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.686]
+4 o o Decreto n. 4.835, de 1. de dezembro de 1871, art. 1. . 
+
+72 
+
+processo; afinal, mais do que ao cobrar uma taxa irrisória de quinhentos réis por escravo, a matrícula feria os interesses senhoriais ao obrigar a um registro de suas propriedades e, assim como outras cláusulas estabelecidas pela lei de 1871, interferia na relação puramente pessoal entre senhores e escravos. Mais ainda, abria a possibilidade de se libertar um escravo à revelia do senhor, pelos critérios do fundo de emancipação, que, como se verá mais adiante, eram estabelecidos justamente com base naquela matrícula. 
+
+Enquanto esta não estivesse concluída em todo o país, as quotas do fundo não poderiam ser distribuídas, o que faz pensar que a matrícula pudesse ser deliberadamente retardada. Bastava uma confiança senhorial de que a cláusula da libertação dos nãomatriculados não seria cumprida rigorosamente para desaparecerem os temores dos senhores mais poderosos, ou mais prepotentes. Não obstante, apesar dos contratempos e das omissões – em 1882, havia ainda 42 municípios cujos dados da matrícula não estavam disponíveis – a matrícula finalmente ocorreu.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.676]
+**RESUMO** 
+
+O Fundo de Emancipação de Escravos foi criado pela lei do Ventre Livre (lei n. 2040, de 28 de setembro de 1871), para libertar escravos em todos os municípios do país. Durante muito tempo o fundo foi considerado um instrumento ineficiente de libertação, em vista da pequena quantidade de escravos que libertou comparado ao total da população escrava, dos avultados recursos despendidos para isso e nas diversas fraudes a que sua aplicação foi sujeita. Este trabalho visa a discutir essa idéia e, com isso, ampliar um pouco a discussão sobre o fundo. Ao analisar com cuidado os valores envolvidos e apresentar a sua aplicação do ponto de vista de uma localidade do sul do Brasil (Desterro, hoje Florianópolis), pretendemos observar as possibilidades que o 
+
+fundo de emancipação abria para a liberdade de alguns escravos, e como a sua existência interferia na sociedade escravista do final do século XIX. **ABSTRACT** 
+
+The Slaves Emancipation Fund was created by Brazilian Freebirth Law (law no. 2040, September 28<sup>th</sup> , 1871), to grant freedom for slaves throughout the country. For a long time, this fund has been taken as inefficient, due to the small amount of slaves it has freed compared to the number of slaves existent, to the large amount of money spent and the many frauds that were detected in its application. This essay will put this idea into question and, thus, widen the discussions on the Fund. By analyzing carefully the values and amounts involved, and observing its application in a small town in Southern Brazil (Desterro, now Florianopolis), we wish to understand the possibilities of liberty granted by the fund to some slaves, and how its existence would interfere in Brazilian society of the late 19<sup>th</sup> century. 
+
+2
+
+---
+
+[referencia=43de03ab4d36a927 score=0.675]
+no Brasil. Campinas: Unicamp/Cecult, 1999. 
+
+7 
+
+A quota cabível a cada província (e a cada município, pois os presidentes das províncias deveriam redividir dos valores de acordo com os mesmos critérios) era proporcional à quantidade de escravos que ali houvesse, de acordo com a matrícula efetuada a partir de 1871 e das estimativas anuais elaboradas a partir de então. Desde a sua instituição, em 1871 até o final da escravidão, o fundo de emancipação libertou mais de 32 mil escravos em todo o país, para o que foram despendidos mais de vinte e sete mil contos de réis. A maior parte dessas libertações aconteceu nos últimos anos: até 1883, o fundo havia libertado apenas 12 898 escravos, o que deu margem a muitas críticas durante a discussão, no Parlamento, da lei aprovada em 1885. 
+
+O baixo percentual de libertados, em torno de 2,1% do total de escravos do país em 1872, e talvez principalmente, as críticas ao fundo em meados da década de 1880, contribuíram para criar uma interpretação historiográfica que considerou durante muito tempo o fundo de emancipação uma forma pouco importante de libertação de cativos. Mais recentemente os estudos têm  abandonado as discussões quantitativas e utilitárias sobre as leis emancipacionistas, mas ainda assim  pouca atenção foi dada ao fundo de emancipação e suas implicações na política cotidiana da dominação e/ou na luta dos escravos pela liberdade.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.637]
+O fundo também abria a possibilidade de as províncias e os municípios instituírem suas próprias quotas ou taxas para essa finalidade, e de se destinarem doações, legados ou subscrições de particulares. Nesses casos, os valores arrecadados seriam aplicados diretamente nas respectivas províncias, municípios ou freguesias. Isso permitia que as províncias determinassem com mais autonomia os rumos da libertação de escravos pelo fundo, e pudessem usufruir de um eventual comprometimento maior da população com a emancipação. Diversas províncias aderiram a essa idéia, destinando recursos específicos para essa finalidade, algumas ainda antes da lei de 1871. Foi o caso do Amazonas, que reservou 12 contos de réis para libertações em 1870, e depois destinaria mais 15 contos, em 1883<sup>[39]</sup> . O Ceará destinou 15 contos de réis para esse fim ainda em 1870, que libertaram 21 escravos na capital e 83 no interior. Foram mais 92 escravos em 1871 e 71 em 72<sup>[40]</sup> . 
+
+Se tomarmos os valores arrecadados pelo fundo de emancipação de escravos, poderemos ter uma idéia do alcance que essa forma de libertação obteve em termos quantitativos, bem como da procedência das críticas que se fizeram à sua atuação. Apresentaremos aqui os recursos correspondentes aos três primeiros anos de vigência do fundo de emancipação. São os seguintes: 
+
+> <sup>38</sup> Decreto n.<sup>o</sup> 5.135, de 13 de novembro de 1872, art. 96. 
+
+> <sup>39</sup> AMAZONAS. Relatório 1871, p. 10.; Relatório 1883, p. 47. 
+
+> <sup>40</sup> CEARÁ. Fala 1870, p. 20 _;_ Relatório 1871, p. 33. Relatório 1873, p. 12. 
+
+87
+
+---
+
+[referencia=43de03ab4d36a927 score=0.631]
+Historiadores posteriores (décadas de 1960 e 1970) não se furtaram a comentar a atuação do fundo de emancipação, em trabalhos que guardam grandes semelhanças, tanto pela natureza das fontes pesquisadas quanto pelas conclusões a que chegaram. Emília Viotti da Costa, em _Da senzala à colônia_ , atenta para os problemas que o fundo de emancipação enfrentou em sua execução: foi aí, bem como na matrícula dos escravos, que ocorreram as maiores irregularidades de aplicação da lei<sup>[61]</sup> , visando em geral a atrasar o processo. A matrícula dos escravos, pré-requisito essencial para a aplicação do fundo, foi postergada em todo o país, a ponto de o governo adiar em dois anos o prazo para a sua conclusão. Em seguida, a autora nos informa, baseada nos valores publicados no jornal _A Província de São Paulo_ de 9 de fevereiro de 1879, que o fundo de emancipação libertara, até aquele ano, um total de 4 438 escravos em todo o país. Comparados com os mais de 25 mil libertados por “ação particular” – isto é, por meio da entrega de pecúlio ao senhor no valor estipulado –, esse número daria ao fundo de emancipação, nos termos de Viotti da Costa, um efeito emancipador “minguado”<sup>[62]</sup> .
+
+---
+
+[referencia=43de03ab4d36a927 score=0.437]
+8 
+
+tramitação da lei, mas que tinha idéias bastante favoráveis à elaboração de um fundo de emancipação. 
+
+O capítulo 3 se concentra na forma pela qual o fundo de emancipação foi aprovado e executado a partir de 1871. Analisaremos detalhadamente os processos de matrícula e classificação dos escravos, exigências obrigatórias para a aplicação do fundo de emancipação, e a origem e o valor dos recursos que foram destinados para esse fim. Através de alguns episódios ocorridos em Nossa Senhora do Desterro, atual Florianópolis, e em outras localidades, analisaremos de forma mais próxima todo o processo de libertação e questionaremos se o fundo de emancipação não permitia, de fato, uma saída viável do cativeiro, ao menos para alguns escravos. A seguir, observaremos as críticas que foram feitas no Parlamento durante a discussão da lei de 1885, e como se desejava repensar o fundo de emancipação naquele momento. 
+
+9
+
+---
+
+[referencia=43de03ab4d36a927 score=0.419]
+# **Capítulo 2 A liberdade gradual: Projetos e propostas de fundos de emancipação de escravos** 
+
+O Fundo de Emancipação de Escravos foi um mecanismo criado pela lei n.° 2.040, de 28 de setembro de 1871 (Lei do Ventre Livre), com o objetivo de distribuir recursos para as províncias e o Município Neutro, de modo a permitir a libertação de uma determinada quantidade de escravos anualmente mediante a garantia de uma indenização pecuniária aos seus proprietários. Foi uma das formas encontradas pelos legisladores de 1871 para permitir aos escravos já existentes no Brasil a possibilidade de obtenção de sua alforria, desde que atendessem a uma série de critérios de preferência e o tesouro dispusesse de recursos suficientes para tal. 
+
+## **_Os projetos de fundo de emancipação no Brasil_** 
+
+Diversos projetos de extinção da escravidão propunham a criação de instituições semelhantes à que foi implantada em 1871. No entanto, por mais que recebessem, em cada projeto, nomes semelhantes, os fundos de emancipação imaginados antes da lei de 1871 continham elementos por vezes bastante distintos entre si. Analisaremos a seguir alguns desses projetos e o papel que os fundos de emancipação desempenhavam em cada período.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.416]
+> 62 _Liberdade pelo Fundo de Emancipação_ , caixa 1 – 1886, n.o 512. 
+
+98 
+
+artigo 42 do regulamento 5.135, de 13 de novembro de 1871. É possível imaginar esse gesto como necessário dentro dos costumes do escravismo brasileiro, e que a libertação só seria vista como efetivada quando o senhor entregasse, em mãos, a carta de alforria ao seu antigo escravo. Podemos supor que essa entrega simbolizava uma transferência ao novo liberto do poder de decidir seu próprio destino, e que essa entrega – _concessão_ era o termo preferido pelos defensores do escravismo – deveria ser feita ao escravo pelo senhor, sem a interferência de terceiros. 
+
+Mas é precisamente por essa razão que um aviso ministerial datado de 9 de abril de 1881 pode à primeira vista parecer desnecessário, justamente por reiterar o que não teria, aparentemente, necessidade de confirmação: 
+
+Convindo fixar a inteligência do art. 42 do Regulamento aprovado pelo Decreto n° 5135 de 13 de Novembro de 1872, na parte relativa ao modo por que devem ser entregues pelos Juizes de Órfãos as cartas dos escravos libertados pelo fundo de emancipação, afim de que tenha execução uniforme em todos os municípios, Sua Majestade o Imperador, tendo ouvido a Secção dos Negócios do Império do Conselho de Estado, e conformando-se por Sua Imediata Resolução de 24 de Março próximo findo com o parecer exarado em Consulta de 10 de Fevereiro precedente, Houve por bem Declarar que as cartas passadas pelos Juizes de Órfãos em execução do citado artigo do Regulamento devem ser em sua presença entregues aos próprios libertandos, por intermédio dos senhores ou procuradores que comparecerem no dia designado e anunciado por edital do Juízo, para a distribuição das mesmas cartas.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.383]
+> <sup>26</sup> _Idem_ , p. 188. 
+
+54 
+
+Para deixar mais claras suas opiniões, Muritiba elaborou um projeto de lei que regulava os pontos sobre os quais os conselheiros estavam discutindo. Entre outras medidas, propunha que as caixas de redenção fossem compostas de um imposto de mil réis por escravo, mais o produto de multas, donativos e legados que não explicitassem beneficiário, impostos de heranças em que não se pudesse libertar escravos ou que estivessem sujeitas a hipoteca e recursos que o governo central ou as províncias desejassem acrescentar a esse montante. Também incluíam uma módica contribuição de todos os escravos, de qualquer sexo ou idade. 
+
+As discussões travadas no Conselho de Estado em 1867 foram transformadas em um projeto de lei, assinado por Nabuco de Araújo, que condensava as idéias do marquês de São Vicente. O projeto dava a liberdade aos recém-nascidos, garantia o direito à liberdade pelo pecúlio e declarava libertos alguns tipos de escravos como os da nação. Em relação ao fundo de emancipação, o projeto detalhava algumas fontes de recursos – subscrições e doações, um novo imposto de matrícula, loterias e quantias fixadas localmente – e deixava os critérios de classificação para regulamentos futuros.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.382]
+O artigo 8.º instituía uma matrícula especial dos escravos, que tinha por objetivo proporcionar uma estatística confiável do número de cativos existentes em todo o país. Essa estatística era considerada essencial para se ter uma estimativa do tempo necessário para a extinção da escravidão e para permitir a interferência do poder público nesse processo. A matrícula também foi instituída para os filhos libertos de escravas que nascessem a partir da data da lei. 
+
+A interferência governamental vinha na forma de um fundo de emancipação de escravos, estabelecido no artigo 3.º, que destinava recursos às províncias e ao Município Neutro (o Rio de Janeiro) para a libertação de cativos. A libertação dos escravos dependia de uma classificação completa a ser efetuada por juntas classificadoras em cada município ou freguesia do país, relacionando-os conforme os critérios de preferência estabelecidos pelo decreto que regulamentou a lei do ventre livre (Decreto n.° 5.135, de 13 de novembro de 1872). Por esses critérios, a preferência para a libertação era dada aos escravos que tivessem família (fossem casados ou pelo menos tivessem filhos), depois aos indivíduos, começando pelas mulheres mais jovens e os homens mais idosos. Havia uma série de detalhes nos critérios classificadores, que serão analisados com maior profundidade mais adiante.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.369]
+Em vista disso, a quota de 25% destinada a esse fim foi reincorporada ao fundo a partir de 1882<sup>[48]</sup> .Ao mesmo tempo, o fundo de emancipação ganhava um reforço de caixa, através de duas leis (3.017, de 5 de novembro de 1880, e 3.140, de 30 de outubro de 1881). Foi um aumento significativo: os valores de 1881-1882 voltaram a superar um por cento da receita anual<sup>[49]</sup> , e dois anos depois chegariam quase a 1,5%<sup>[50]</sup> . Mesmo assim, os ministros protestavam: 
+
+Apesar deste aumento são ainda muito escassas as fontes que constituem a receita deste humanitário fundo. É digno de chamar a vossa atenção [do Parlamento] o fato de não haver o Estado, em doze anos, que quase tantos conta a Lei [...], logrado alforriar senão 12.898 escravos [até 1882]: a proporção dessas alforrias para o algarismo da população escrava é _verdadeiramente insignificante_ . Tal não foi por certo o pensamento da Lei ao criar o Fundo de Emancipação<sup>[51]</sup> . 
+
+É de se imaginar que a libertação de menos de 13 mil escravos em um universo de um milhão e meio frustrasse as expectativas do ministro da Agricultura, que tinha por dever de ofício desejar valores mais expressivos; o tom que usa para desqualificar a atuação daquele “ _humanitário fundo_ ” é contundente. Aparentemente, o ministro entendia que o objetivo original do fundo de emancipação não seria promover tão poucas emancipações, mas se constituir em uma modalidade de libertação que contribuísse ativamente para a diminuição da população escrava.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.364]
+> 68 CONRAD, R. _Op. Cit._ , p. 140. 
+
+26 
+
+matrícula. Isso demonstra que esses processos, que estavam intimamente ligados, foram alvo de má execução – ou, em outras palavras, que a aplicação da lei, que envolvia esses três processos, foi prejudicada nos seus diversos momentos. 
+
+Gebara, ao considerar os significados políticos da lei, questiona-se sobre o que significaria, de fato, aplicá-la. Em sua interpretação, os processos de matrícula, classificação e liberdades pelo fundo de emancipação atendiam à idéia geral da lei de 1871. Dentro dessa lógica, buscava-se alongar ao máximo a sobrevida da escravidão, agora com um _status_ modificado pela interferência estatal, bem como forçar os libertos ao trabalho. Não seria possível, contudo, realizar essa transformação de modo unilateral: era necessário contar com a aquiescência do escravo. Os meios de cooptação de que o Estado passava a dispor para essa tarefa, a partir da lei, já não eram os mesmos: de um lado, a lei forçava um relaxamento dos aparelhos repressivos de controle e, de outro, promovia uma incorporação pelo poder público das promessas de recompensa, como a possibilidade de libertação<sup>[69]</sup> . Com efeito, esse relaxamento era necessário, uma vez que os donos de escravos tinham cada vez menos condições de manter a segurança de suas propriedades por meio da força, e o Estado não teria estrutura para assumir esse encargo em seu lugar<sup>[70]</sup> . A única maneira de se resolver a questão seria adotar estratégias menos beligerantes e mais negociadas. Eis a razão para a garantia da liberdade aos escravos que dispusessem de seu pecúlio e atendessem aos critérios desejados para o fundo de emancipação.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.355]
+# **Índice de Tabelas** 
+
+|**Tabela 1 – Número de libertados pelo Fundo de Emancipação de Escravos em alguns**<br>**municípios brasileiros (1883) .....................................................................30**|
+|---|
+|**Tabela 2 – Escravos matriculados anualmente, por província, 1872-1876. ......................73**|
+|**Tabela 3 – Discriminação dos valores do fundo de emancipação por origem fiscal,**<br>**1871-1874. ...............................................................................................87**|
+|**Tabela 4 – Valores anuais destinados ao fundo de emancipação, 1871-1887. ...................90**|
+|**Tabela 5 – Valores finais arrecadados pelo fundo de emancipação (1888) .......................93**|
+|**Tabela 6 – Valores totais despendidos pelo fundo de emancipação, incluindo pecúlios ..113**|
+
+---
+
+[referencia=43de03ab4d36a927 score=0.332]
+Os “ _fundos de redenção dos escravos_ ” seriam compostos do imposto de matrícula rural dos escravos (estabelecida no terceiro projeto), das multas estabelecidas pela lei, doações, quotas dos jornais dos libertos, taxa geral dos escravos, imposto substitutivo da meia sisa e do produto de loterias (art. 19). A cada seis meses, as juntas centrais protetoras da emancipação, criadas em todas as capitais, redistribuiriam os valores proporcionalmente aos municípios e freguesias das províncias (art. 21). As juntas protetoras guardam bastante semelhança com os Conselhos Conservadores de José Bonifácio, e talvez tenham sido mesmo inspiradas por estes; não são equivalentes exatos das juntas de classificação instituídas na lei, mas instituições consideravelmente mais poderosas. Era a elas que os escravos poderiam recorrer quando dispusessem em pecúlio do valor pedido pelo senhor para a libertação, e elas poderiam representar o escravo no arbitramento do preço. 
+
+O terceiro projeto regulava a matrícula dos escravos. Os senhores deveriam comparecer à coletoria em um prazo de seis meses para matricular seus escravos e pagar por cada um o imposto de quinhentos réis; do contrário, o escravo seria considerado livre. Também foi estabelecido o registro dos ingênuos, tanto de batismo como de óbito, e do óbito dos escravos. Esse projeto estabeleceu, basicamente, o que foi disposto no artigo 8.° da lei de 1871 e no regulamento n.° 4.835, de 1.° de dezembro do mesmo ano. Os demais projetos tratam da libertação dos escravos da nação (projeto 4), em um prazo 
+
+51
+
+---
+
+[referencia=43de03ab4d36a927 score=0.313]
+Os relatórios ministeriais informaram a libertação de mais de trinta e duas mil pessoas pelo fundo de emancipação em dezessete anos (entre 1871 e 1888), para o que se despendeu uma quantia superior a quarenta e sete mil contos de réis, e criou-se um aparato burocrático tão eficiente quanto fosse do interesse dos envolvidos na sua execução – e, claro, de suas possibilidades. Anualmente, o ministério da Agricultura, Comércio e Obras Públicas, encarregado da tarefa, divulgava os valores despendidos e os resultados. Nota-se o funcionamento da burocracia libertadora – matrícula, classificação e libertação – em todo o país, apesar dos abusos que foram cometidos. A quantidade de energia despendida em toda essa burocracia parece demonstrar a relevância que essa libertação oficial adquiria no contexto da lei do ventre livre. É difícil imaginar que essa máquina teria sido mantida em funcionamento por tanto tempo se seu objetivo carecesse de qualquer importância e seus resultados tivessem sido um retumbante fracasso. 
+
+34
+
+---
+
+[referencia=43de03ab4d36a927 score=0.286]
+## **_A composição financeira do fundo de emancipação_** 
+
+O artigo terceiro da lei número 2.040, de 28 de setembro de 1871, determinava a criação de um fundo de emancipação de escravos e previa os recursos que seriam utilizados para o seu custeamento. Sua redação era a seguinte: 
+
+**Art. 3.**<sup>**o**</sup> Serão anualmente libertados em cada Província do Império tantos escravos quantos corresponderem à quota anualmente disponível do fundo destinado para a emancipação. 
+
+- **§ 1.**<sup>**o**</sup> O fundo de emancipação compõe-se: 
+
+- I. Da taxa de escravos. 
+
+II. Dos impostos gerais sobre transmissão de propriedade dos escravos; 
+
+III. Do produto de seis loterias anuais, isentos de impostos, e da décima parte das que forem concedidas d’ora em diante para correrem na capital do Império; 
+
+IV. Das multas impostas em virtude desta lei; 
+
+V. Das quotas que sejam marcadas no Orçamento geral e nos provinciais e municipais; 
+
+VI. De subscrições, doações e legados com esse destino. 
+
+**§ 2.**<sup>**o**</sup> As quotas marcadas nos Orçamentos provinciais e municipais, assim como as subscrições, doações e legados com destino local, serão aplicadas à emancipação nas Províncias, Comarcas, Municípios  e Freguesias designadas.<sup>[37]</sup> 
+
+Percebe-se que os recursos a serem aplicados seriam provenientes de diversas fontes, em sua maioria relacionadas ao próprio rendimento do escravismo. A taxa de escravos era um imposto pago pelo senhor por cada escravo que possuísse, mas não foi possível descobrir o seu valor.
+
+---
+
+[referencia=43de03ab4d36a927 score=0.270]
+Os impostos gerais sobre a transmissão de propriedade escrava eram cobrados quando o cativo fosse vendido ou inventariado. Também a transmissão de escravos por doação exigia o pagamento de uma parte de seu valor a título de impostos. 
+
+As loterias eram uma forma tradicional de se proverem recursos adicionais para os mais variados fins, e eram exaustivamente utilizadas no Império. Para o fundo de 
+
+> 35 _Idem_ , art. 46. 
+
+> 36 _Idem_ , art. 47. 
+
+> 37 Lei n.º 2040, de 28 de setembro de 1871, art. 3.º. 
+
+86 
+
+emancipação, foram destinados os recursos arrecadados por seis loterias anuais, mais a décima parte de todas as que corressem na cidade do Rio de Janeiro, o que representava um montante considerável de recursos. Posteriormente, esses valores foram ampliados ainda mais, e chegaram a constituir mais de um quarto do total da arrecadação do fundo. 
+
+As multas que fossem cobradas em decorrência da aplicação da lei também reverteriam para o fundo de emancipação de escravos. O decreto 4.835, de 1<sup>o</sup> de dezembro de 1871, que regulamentava a matrícula dos escravos, previa uma série de multas, que variavam de vinte a duzentos mil-réis, para as pessoas que omitissem ou falseassem declarações e para os funcionários encarregados da matrícula que falhassem em desempenhar suas tarefas. Também o decreto 5.135, de 13 de novembro de 1872, previa a aplicação de multas, que iam de vinte a cem mil-réis, para os que se recusassem a cumprir suas tarefas ou a prestar esclarecimentos, fossem negligentes ou omissos<sup>[38]</sup> .
+
+---
+
+[referencia=43de03ab4d36a927 score=0.265]
+A partir daquele momento, confiou-se nas averbações para a atualização dos números e a correção das irregularidades. As províncias obrigavam-se a enviar dados anuais sobre o movimento da população escrava, relacionando o número de escravos entrados, saídos, libertos e falecidos em cada município; a partir desses dados, seria possível saber a quantidade de escravos em cada localidade e, a partir daí, destinar os recursos futuros do fundo de emancipação na proporção correta. Mas as averbações não eram isentas de incorreções ou de omissões, de modo que os números se tornaram cada vez menos confiáveis com o passar dos anos. Em 1882, foi publicado um aviso circular exigindo o reexame das escriturações da matrícula a fim de sanar as lacunas existentes e intimando as autoridades locais a executar, sem remuneração adicional, essa tarefa. Mesmo assim, o ministro não se mostrava satisfeito com os resultados: 
+
+Apesar disto há razão para crer que a matrícula está muito longe de exprimir a verdade, já porque a insignificante multa imposta à falta de averbações não impede omissões, das quais resulta acharem-se inscritos como domiciliados nalguns municípios escravos transferidos para outros; já porque, não sendo punível a falta de averbação das manumissões, muitas devem ter sido concedidas sem que constem às competentes repartições fiscais. Estas e muitas outras causas concorrem para que os algarismos extraídos dos registros, ainda que correspondam com rigorosa exatidão aos lançamentos, não traduzam realmente o valor numérico da população escrava<sup>[12]</sup> .

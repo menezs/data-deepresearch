@@ -1,0 +1,761 @@
+[referencia=5a3d3f781b170925 score=0.994]
+### 2025 MCV* coverage also remains below the 2019 baseline 
+
+Measles vaccination with at least one dose is also struggling to regain its 2019 level. There are still 1.8Mn more children unvaccinated for measles than in 2019, 173,000 more than in 2024. Coverage with the 2<sup>nd</sup> dose of measles vaccine keeps improving as countries that introduced this dose recently are strengthening their 2nd year-of-life platform. 
+
+2 countries have yet to introduce the 2nd dose in the national schedule: The Central African Republic and Gabon. 
+
+_*MCV: a vaccine containing measles antigens, like MR or MMR._ 
+
+
+
+<!-- Start of picture text -->
+WUENIC 2025<br><!-- End of picture text -->
+
+
+
+
+
+3 
+
+### 2025 HPV* immunization coverage continues to improve, albeit at a slower pace 
+
+Globally, 33% of the 66.1Mn girls eligible for HPV vaccination worldwide (22.5Mn) received at least one dose of HPV vaccine in 2025, as 15 new countries implemented programmes for this vaccine. 
+
+43.6Mn girls still did not receive the vaccine. 
+
+- 22.8Mn (35% of the global cohort) live in a country where the vaccine is not part of the immunization programme. 
+
+- 20.8Mn (32% of the global cohort) were missed by the HPV programme in their country 
+
+_~~*HPV: Human Papilloma Virus vaccine. The coverage~~_ 4 _shown here refers to girls 9-14yo receiving at least one_ WUENIC 2025 _dose through routine HPV vaccination_ 
+
+
+
+
+
+### DTP1 coverage and number of zero-dose children by country, 2025 
+
+5
+
+---
+
+[referencia=5a3d3f781b170925 score=0.968]
+Countries introduced in 2026, as of June 
+
+32 
+
+WUENIC 2025 
+
+Total number of girls reached in routine cohorts with HPV vaccine rose modestly, despite 15 introductions. 
+
+The main driver of increased dose deployment are 15 new HPV vaccine introductions accounting for 2.5Mn additional vaccines being administered in routine cohorts compared to last year. 
+
+Revitalization of HPV programmes in a set of countries, particularly those carrying out catch up campaigns, further boosted the total number of girls reached with HPV vaccines – while a subset of countries saw coverages slide at a higher rate than in 2024 (5 largest shown in graph). 
+
+The main driver behind the modest global increase is drops in some large countries, including Bangladesh (1.3Mn), of girls vaccinated in 2025 from 2024, which nearly offsets the gains made through new introductions. 
+
+
+
+<!-- Start of picture text -->
+~58% of the drop in doses<br>can be accounted  for by<br>BGD<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+~58% of the drop in doses<br>25M can be accounted  for by<br>1.1M 2.3M BGD<br>24M<br>2.5M<br>Country Δ vax. girls<br>23M<br>MLI 149,516 22.5<br>CIV 107,884<br>22M BRA 90,821 Country Δ vax. girls<br>21.2 LKA 85,340 BGD -1,316,639<br>21M MWI 67,411  PHL -321,739<br>UGA -164,555<br>20M ETH -107,606<br>MOZ -66,929<br>19M<br>18M<br>17M<br>16M<br>15M<br>2024 baseline New Introductions improved Decreased Total<br>Increase Decrease Total<br><!-- End of picture text -->
+
+> • WUENIC 2025 _*New Introductions: Angola, Benin, Belarus, China (no data yet), Comoros, Cuba, Djibouti, Ghana, Madagascar, Namibia, Nepal, Oman, Pakistan, Tajikistan, Tunisia_ 
+
+- _** Data based on HPV1 coverage_ 
+
+- _*** Countries listed with increase and decreases in coverage are only the 5 largest by number of girls_
+
+---
+
+[referencia=5a3d3f781b170925 score=0.935]
+# **Emerging Country Performance Archetypes** 
+
+Country trajectories are not uniform. Global immunization recovery demands highly tailored, context-specific strategies mapped against four distinct archetypes: 
+
+
+
+
+
+
+
+
+
+###### **Lower income, High Growth** 
+
+###### **Fragile, Conflict, & Vulnerable** 
+
+###### **Backsliding Jurisdictions** 
+
+###### **Life-Course & Resilient** 
+
+Primarily low-income countries in the AFR & EMR regions experiencing rapid demographic expansion. Weak health systems are compounded by severe poverty and subnational inequities. 
+
+Countries facing multiple challenges resulting in high initial access hurdles (17% Zero-Dose prevalence) and poor continuity of care (high drop-out rates). 
+
+High and upper-middle-income countries that historically performed well but are now slipping. Driven primarily by fading political commitment and growing vaccine hesitancy. 
+
+Countries prioritizing immunization across the entire life course, maintaining resilience. 90 countries maintained coverage >95%, and 21 are on track for IA2030 goals. 
+
+
+
+- Global recovery in routine immunization remains too slow and world remains far off-track for the 2030 Zero-Dose reduction target. 
+
+Key summary findings from 2025 WUENIC data 
+
+_These should inform our response and actions_ 
+
+- Zero-dose children are increasingly concentrated in fragile, conflict-affected and vulnerable (FCV) settings. 
+
+- Drop-out is an important and growing contributor to undervaccination, and reflects program performance. 
+
+- Country patterns are not uniform and require locally tailored responses. 
+
+- New vaccine access is expanding, but coverage gains are uneven, and post-intro program performance is relevant. `o` e.g. HPV continues successful expansion, but sub-optimal coverage means too many girls are still missed. 
+
+- Routine immunization is the core mechanism for preventing costly and disruptive outbreaks. 
+
+37 
+
+Where to find data and background information on immunization coverage estimates and related data 
+
+WUENIC and the annual immunization data reported by countries are available on WHO and UNICEF Immunization data portals 
+
+- www.who.int/data/immunization 
+
+- https://data.unicef.org/topic/child-health/immunization/ 
+
+###### Other datasets
+
+---
+
+[referencia=5a3d3f781b170925 score=0.896]
+### MCV1 coverage and number of unvaccinated children by country, 2025 
+
+8 
+
+### Top 10 countries with the most unvaccinated children and lowest MCV1 coverage in 2025 
+
+Nigeria also has the largest number of children unvaccinated against measles in 2025, and the 10th lowest MCV1 coverage. 
+
+India no longer features in the list of countries with most measles unvaccinated children, for the first time since WUENIC estimates were first published in 2001. This underscores the outstanding progress in India's EPI programme over the last decade. 
+
+The list of countries with the lowest measles coverage includes countries with fragile settings as well as several stable countries in Europe and elsewhere with significant health system issues. 
+
+
+
+
+
+<!-- Start of picture text -->
+0%-59% 60%-69% 70%-79% 80%-89% 90%-94% 95%-100%<br>Countries in bold are in the top 10 for both the highest number of unvaccinated children and lowest coverage.<br>When two countries have the same coverage, the country with highest number of unvaccinated children is ranked first.<br><!-- End of picture text -->
+
+9
+
+---
+
+[referencia=5a3d3f781b170925 score=0.881]
+### DTP1 coverage and number of zero-dose children by country, 2025 
+
+5 
+
+### Top 10 countries with the most unvaccinated children and lowest DTP1 coverage in 2025 
+
+Nigeria is the country with the largest number of Zero-Dose Children in 2025, driven by a combination of low coverage and a large birth cohort. 
+
+Yemen , where conflict has severely weakened health systems, has the world's lowest DTP1  coverage and the third-largest cohort of completely unvaccinated children, in spite of a modest size birth cohort (21<sup>st</sup> in the world). 
+
+
+
+
+
+
+
+<!-- Start of picture text -->
+0%-59% 60%-69% 70%-79% 80%-89% 90%-94% 95%-100%<br>Countries in bold are in the top 10 for both the highest number of unvaccinated children and lowest coverage.<br>When two countries have the same coverage, the country with highest number of unvaccinated children is ranked first.<br><!-- End of picture text -->
+
+6 
+
+### Progress with DTP1 coverage diverges by region 
+
+The longer-term trends in DTP1 coverage diverges somewhat by region. 
+
+- SEAR and AMR have improved coverage above the 2019 baseline. 
+
+- SEAR is now the best performing region, for the first time ever. 
+
+- AFR, EMR, EUR, and WPR are below their 2019 baseline 
+
+- EUR, WPR, and possibly AMR seem to be establishing a longrunning trend (10+years) of backsliding 
+
+
+
+<!-- Start of picture text -->
+7<br><!-- End of picture text -->
+
+
+
+<!-- Start of picture text -->
+WUENIC 2025<br><!-- End of picture text -->
+
+
+
+
+
+### MCV1 coverage and number of unvaccinated children by country, 2025 
+
+8
+
+---
+
+[referencia=5a3d3f781b170925 score=0.872]
+- _** Data based on HPV1 coverage_ 
+
+- _*** Countries listed with increase and decreases in coverage are only the 5 largest by number of girls_ 
+
+33 
+
+Countries with large or disruptive measles outbreaks achieve coverage well below the required levels for disease control 
+
+97 countries experienced large or disruptive Measles outbreaks in the last 5 years. They represent 74% of total surviving infants and achieve substantially lower routine immunization coverage than the group of countries that avoided outbreaks. 
+
+This finding illustrates that achieving high routine coverage remains the best way to avoid outbreaks. 
+
+
+
+34 
+
+WUENIC 2025 
+
+IPV coverage remains too low in countries with active cVDPV circulation 
+
+Countries that schedule an Oral Polio Vaccine (OPV) have also introduced at least one, and increasingly two doses of inactivated polio vaccine (IPV). Countries with active polio virus circulation in 2025 (either detected in cases or in environmental samples) have much lower mean coverage. 
+
+
+
+35 
+
+WUENIC 2025
+
+---
+
+[referencia=5a3d3f781b170925 score=0.872]
+### Global access* to HPV vaccine has increased significantly to 65% in 2025 
+
+Global access* to HPV vaccine has increased significantly to 65% in 2025. The leap is particularly due to introduction in China and 14 other countries. 
+
+22.5Mn (33% of all girls) received at least one dose of HPV vaccine in 2025, 20.8Mn (32% of all girls) were missed by the HPV programme in their country, and the remaining 22.8 Mn (35% of girls) live in a country where the vaccine is not part of the immunization programme. 
+
+The modest increase in girls vaccinated, in the face of 15 countries newly introducing HPV vaccine in 2025 is attributed to a combination of coverage backsliding in some existing programs and no coverage data reporting for some 2025 introductions, including China 
+
+30 
+
+WUENIC 2025 
+
+*Access is defined as HPV vaccine included in a country's program 
+
+
+
+Access to HPV vaccine is geographically uneven 
+
+Significant introduction progress has been made in AFR and WPR. This is accompanied by significant reductions in numbers of girls who are never reached in AFR, AMR, EUR by HPV vaccination. 
+
+There are still gains to be made in introductions and reducing gaps in coverage in SEAR and EMR. 
+
+_* The introduction in China has greatly increased access in 2025 to the HPV vaccine in WPR. When China starts reporting HPV coverage data, girls vaccinate in WPR is anticipated to increase considerbly._ 
+
+
+
+31 
+
+WUENIC 2025 
+
+The HPV vaccine is now introduced in countries representing 70% of the global burden of cervical cancer 
+
+By end of 2025, with 15 new vaccine introductions, HPV vaccine was introduced in countries with nearly 70% of the global burden of cervical cancer. This includes China which has one of the largest cervical cancer burdens globally. 
+
+2026 Introductions (planned and completed) will raise this proportion to ~90% of the global cervical cancer burden will be in countries that will now be including HPV vaccine in the immunization programme 
+
+
+
+Countries introduced in 2026, as of June 
+
+32 
+
+WUENIC 2025 
+
+Total number of girls reached in routine cohorts with HPV vaccine rose modestly, despite 15 introductions.
+
+---
+
+[referencia=5a3d3f781b170925 score=0.834]
+##### **Country response** 
+
+**Note** : Country-reported unverified administrative data for which figures may be over- or under-estimated based on various limitations _Polio campaign in Gaza reaches ~603 000 children_ with the source data, including variability in recording/reporting practices, and potential revaccination of individual children previously vaccinated. Data received as of 15 June 2026. _with nOPV2 in February 2025_ 
+
+21 
+
+Countries with Fragile, Conflict, and Vulnerable (FCV) settings are home to 33% of the world’s birth cohort, but 54% of ZeroDose children 
+
+Countries afflicted with conflict, vulnerable and conflict settings experience obvious challenges that hamper their ability to provide access for all. 17% of children remain entirely unvaccinated and a further 8% drop out before full vaccination with a 3- dose schedule, resulting in only 75% DTP3 coverage in such countries. 
+
+Other countries perform much better on average, with only 7% zero-dose prevalence and 3% of children dropping out. Average DTP3 coverage in these countries is 90%. 
+
+
+
+<!-- Start of picture text -->
+42m children (33% of cohort) in  87m (67% of cohort) children in 162<br>33 countries with FCV settings  countries without FCV settings<br>Vaccinated DTP3 Vaccinated DTP3<br>31.5m (75%) 78.5m (90%)<br>ZDC ZDC<br>7.3m (17%) 6.2m (7%)<br>Drop Out 3.4m (8%) Drop Out 2.7m (3%)<br><!-- End of picture text -->
+
+22 
+
+WUENIC 2025 
+
+Countries and territories with fragile, conflict, and vulnerable (FCV) settings worsened at a faster pace since 2019 
+
+FCV settings go some way in explaining why Zero Dose Targets were not met and still exceed the 2019 baseline. That includes the initiation of conflict in Sudan and a worsening situation in Yemen and Venezuela. 
+
+However, plenty of more stable countries like South Africa. Bolivia, or Gabon also perform worse now than in 2019. 
+
+
+
+<!-- Start of picture text -->
+WUENIC 2025<br><!-- End of picture text -->
+
+
+
+23
+
+---
+
+[referencia=5a3d3f781b170925 score=0.810]
+### Big Catch-up results among 36 priority countries 
+
+Children born in earlier cohort years, were caught up in 2024-2026. The following numbers of catch-up doses were reported by 36 BCU countries: 
+
+- DTP1: 14.3m (shown) 
+
+- DTP3: 14.1m 
+
+- MCV1: 17.2m 
+
+- MCV2: 10.6m 
+
+- IPV1: 25.3m 
+
+- OPV: 28.9m 
+
+
+
+##### **_Reaching Zero-Dose Children from previous years_** 
+
+Penta1 catch-up doses administered 12-59m 
+
+
+
+<!-- Start of picture text -->
+34<br>Total est. ZDC 12-59m in 36 BCU<br>countries<br>Target childen to be covered by BCU 17.4<br>plans with Penta1 14.3<br>Children 12-59m caught up with<br>Penta1<br>Total in 36 BCU countries<br># children (millions)<br><!-- End of picture text -->
+
+**Note** : Total estimated missing doses (gray bars) is calculated from WUENIC 2024 and UN Population estimates for children born in 2021-2024; includes national figures and noting that 6 countries have subnational plans (KGZ, MLI, MOZ, NGA, SUD, TJK). Target children (middle bars) is from BCU plans with ambition coverage derived from WUENIC 2022 for children born in 2019-2022.
+
+---
+
+[referencia=5a3d3f781b170925 score=0.716]
+### Meningitis A and MCV1 coverage in countries from the Meningitis belt 
+
+Among 26 countries in the African meningitis belt, 15 have introduced a Meningitis A vaccine in routine immunization. 
+
+Averaging across all countries in the meningitis belt, MenA vaccine coverage stands at 30%, with the 15 that have introduced achieving 61%. This value is insufficient to sustain the disease elimination that has already been achieved. 
+
+The gap between MCV1 and MenA coverage (administered at the same age) in those countries using both vaccines is marginal (4%). 
+
+
+
+28 
+
+WUENIC 2025 
+
+
+
+<!-- Start of picture text -->
+The introduction gap for<br>a second dose of<br>Measles is almost closed<br>In 2000, only 20% of the world’s<br>children lived in a country where a<br>second dose of measles was<br>routinely offered. In 2025, only two<br>countries (Central African Republic<br>and Gabon) are yet to introduce<br>this dose, representing less than 1%<br>of the global cohort.<br>A coverage gap of 22%<br>nevertheless remains as<br>programmes often find it harder to<br>serve older children.<br>29 WUENIC 2025<br><!-- End of picture text -->
+
+---
+
+[referencia=5a3d3f781b170925 score=0.705]
+###### Other datasets 
+
+###### <u>WHO</u> MI4A Public Vaccine Purchase Dataset 
+
+- https://www.who.int/publications/m/item/2025-mi4a-public-vaccine- <u>purchase-dataset</u> 
+
+WHO and UNICEF coverage estimates methods and country profiles : 
+
+- https://www.who.int/teams/immunization-vaccines-andbiologicals/immunization-analysis-and-insights/globalmonitoring/immunization-coverage/who-unicef-estimates-of-nationalimmunization-coverage 
+
+WHO Immunization Expenditure Dataset 
+
+   - https://immunizationdata.who.int/global/wiise-detailpage/immunization-expenditure?ISO_3_CODE=&YEAR= 
+
+- https://worldhealthorg.shinyapps.io/wuenic-trends/ 
+
+- https://www.who.int/teams/immunization-vaccines-andbiologicals/diseases/human-papillomavirus-vaccines-(HPV)/hpvclearing-house/hpv-dashboard 
+
+For more information on the Immunization Agenda 2030 , please visit 
+
+   - www.immunizationagenda2030.org/ 
+
+- For more information on “Big Catch-Up ”, please visit • www.who.int/publications/i/item/9789240075511 
+
+- WHO dashboard with immunization coverage and vaccine introduction data • https://worldhealthorg.shinyapps.io/IVB_standard_outputs/ 
+
+38 
+
+
+
+
+
+<!-- Start of picture text -->
+WUENIC 2025<br><!-- End of picture text -->
+
+© WHO and UNICEF, 2026. Some rights reserved. This work is available under the CC BY-NC-SA 3.0 IGO licence.
+
+---
+
+[referencia=5a3d3f781b170925 score=0.687]
+However, plenty of more stable countries like South Africa. Bolivia, or Gabon also perform worse now than in 2019. 
+
+
+
+<!-- Start of picture text -->
+WUENIC 2025<br><!-- End of picture text -->
+
+
+
+23 
+
+More children vaccinated than ever in Gavi countries (but still more ZDC than in 2019) because birth cohort increases 
+
+69 million children received at least one dose, and 65 million received three doses of a DTP containing vaccines in Gavi countries, That is more than in 2019 (67 million DTP1 and 63m DTP3). 
+
+However, due to the birth cohort growth in Gavi countries, there were still slightly more zero-dose children in 2025 than in 2019 (9.5m v 9.1m) in the Gavi countries as a whole. 
+
+
+
+24 
+
+
+
+<!-- Start of picture text -->
+BOP in GAVI supported countries between 2000 and 2025<br><!-- End of picture text -->
+
+### The Breadth of Protection in Gavi countries is almost on par with non-Gavi countries 
+
+The Breadth of Protection (BOP) in Gavi countries has increased sharply and is now on par with non-Gavi countries, primarily attributable to vaccine introductions. 
+
+Despite dramatic increases in BOP following new vaccine introduction, coverage for all antigens is relatively stalled on average across both Gavi and non-Gavi countries. 
+
+
+
+Programme improvements at local level with focus on equitable access are needed to achieve further closure of the residual gaps. 
+
+Breadth of protection (as a %) = coverage % ((DTP3 x 3) + HepB3 + Hib3 + IPV1 + IPVC + MCV1 + MCV2 + PCVC + RCV1 + RotaC + HPV) / 13 
+
+25 
+
+WUENIC 2025
+
+---
+
+[referencia=5a3d3f781b170925 score=0.544]
+#### Relative contribution to non-attainment of 
+
+
+
+<!-- Start of picture text -->
+DTP3 MCV1<br>100% 100%<br>0.4  0.2  0.3<br>0.4<br>80% 5.8  2.9  1.3  0.2  0.6  80% 6.8  4.8  1.4  0.2<br>60% 60%<br>1.1<br>40% 1.7  40% 1.3  1.7<br>1.3<br>13.8  6.6  2.4  0.5  1.2  13.8  2.4  0.5<br>6.6<br>20% 20%<br>0% 0%<br>GLOBAL AFR AMR EMR EUR SEAR WPR GLOBAL AFR AMR EMR EUR SEAR WPR<br>ZDC Dropped out ZDC Dropped Out<br>Realative contribution to non-attainment of DTP3 and NCV1<br><!-- End of picture text -->
+
+19 
+
+WUENIC 2025 
+
+Seriously off track to achieve the Zero-Dose Children IA2030 target agreed by all countries 
+
+The IA2030 strategy aims to reduce the number of Zero-Dose Children by half, to 6.4Mnby 2030 from 12.8Mn at the 2019 baseline. 
+
+At the decade’s midpoint in 2025, there were 13.5Mn ZDC, 0.7Mn more than in 2019. 
+
+That is 3.9Mn above the 2025 target of 9.6Mn, which is the halfway point of IA2030. 
+
+2025 numbers are further away from the annual ZDC target than the world was in 2024. 
+
+
+
+<!-- Start of picture text -->
+2019 2025<br>12.8 Mn 13.5 Mn<br>9.6<br>6.4<br><!-- End of picture text -->
+
+20 
+
+WUENIC 2025 
+
+Data as of 30 June 2026
+
+---
+
+[referencia=5a3d3f781b170925 score=0.483]
+**Progress and Challenges with Achieving Universal Vaccine Access and Immunization Coverage** 
+
+2025 WHO/UNICEF Estimates of National Immunization Coverage 
+
+###### **Sources:** 
+
+- Member State reports to WHO and UNICEF up to 21 June 2026 
+
+- World Bank. (2026, July 1). World Bank country classifications by income level for 2025–2026. Retrieved from https://datahelpdesk.worldbank.org/knowledgebase/articles/906519- <u>world-bank-country-and-lending-groups</u> 
+
+- United Nations, Population Division, 2024 revision 
+
+
+
+
+
+_Estimates as of 15 July 2026_ 
+
+### 2025 DTP* coverage remains below the 2019 baseline 
+
+In 2025 programmes slightly improved the DTP coverage vs. 2024, but are still below 2019 levels, which is the baseline for Immunization Agenda 2030 targets. 
+
+There are 674,000 more "Zero Dose Children" now than in 2019, but 745,000 fewer than in 2024. 
+
+The majority (69%) of children not fully vaccinated with a DTP-containing vaccine were “Zero-Dose”, i.e. never reached by routine immunization at all. Nearly a third (31%) of those not fully DTP vaccinated had “dropped out”, i.e. started but did not finish 3-doses, so were known to the programme. 
+
+_*DTP: a vaccine containing diphtheria, tetanus and pertussis antigens_ 
+
+
+
+<!-- Start of picture text -->
+WUENIC 2025<br><!-- End of picture text -->
+
+
+
+
+
+2
+
+---
+
+[referencia=5a3d3f781b170925 score=0.373]
+## DTP1-MCV1 dropout rates are too high in some regions 
+
+It is important that all children are reached (DTP1) and fully vaccinated (DTP3 or MCV1) by the health system. 
+
+While access to health is measured by the “zero-dose” indicator, full vaccination is best measured by the drop-out rate (% of children who start but don't complete vaccinations). 
+
+The drop-out rate between DTP1 and MCV1 ranges from 0% to 15% across regions. 
+
+The MCV1 vaccine visit is the same visit where Yellow Fever vaccine, meningitis vaccine, and malaria vaccine is often given, making this dropout issue particularly important. 
+
+. 
+
+
+
+18 
+
+WUENIC 2025 
+
+Among children who are not fully vaccinated, some are ZDC while others are known to the system (i.e. dropouts), giving multiple opportunities to protect kids. 
+
+70% of those who are not vaccinated with DTP3, and 67% of those missing MCV1 never received any vaccine dose (ZDC). 
+
+The remainder of those not fully vaccinated received at least one dose of DTP but dropped out of the programme before completion of DTP3 (30%) and MCV1 (33%). I.e. they are known to the programme but are not receiving core, life-saving vaccines. 
+
+The contribution of drop-out to not receiving MCV1  is especially high in AFR (42%) and EMR (36%).
+
+---
+
+[referencia=5a3d3f781b170925 score=0.155]
+### Some introduction gaps remain for new vaccines 
+
+This chart shows introduction and coverage gaps for each of the vaccines for which WUENIC estimates are available. 
+
+- Introduction gaps refer to the percentage of children living in a country that has not yet introduced the vaccine, i.e. they don’t have access 
+
+- Coverage gaps refer to the percentage of unvaccinated children living in a country that has introduced the vaccine 
+
+
+
+_The cohort for most vaccines is surviving infants, except BCG (births in countries that recommend the vaccine), HepBB (births), HPV (15 years old girls), YFV (surviving infants in countries at risk), MenA (surviving infants in Meningitis belt countries) and MCV2 (children of the minimum age at which MCV2 is recommended for each country). The HepBB introduction gap may include countries that introduced Hepatitis B birth dose but are not able to differentiate doses given within 24 hours from doses given beyond 24 hours._ 
+
+26 
+
+WUENIC 2025 
+
+### Yellow Fever Vaccine (YFV) coverage remains too low to prevent outbreaks in countries at risk 
+
+Yellow Fever Vaccine coverage , averaged across 39 countries at risk for the disease is just 54%, too low to prevent outbreaks and necessitating campaigns in many countries. This low value is partly a result of 5 countries not yet having introduced YFV into the RI schedule. 
+
+There is also a significant difference between Yellow Fever and Measles vaccines coverage in those countries with YF risk even though both vaccines are administered at the same age (9 months) - - data shown in left hand figure 
+
+This gap is partly explained by some countries not yet having introduced YFV, a partial introduction of YFV in countries with subnational risk, and partly because of under-performance of Yellow Fever vaccination compared to Measles vaccine (5% difference in countries that did introduce at national level) -- data shown <u>in right hand figure.</u> 
+
+
+
+*excludes countries with subnational risk (Argentina, Kenya and Panama) 
+
+27 
+
+WUENIC 2025
+
+---
+
+[referencia=5a3d3f781b170925 score=0.078]
+### 62% of the world's countries either maintained high coverage or made progress, while 38% added ZDC between 2019 and 2025 
+
+By endorsing the Immunization Agenda 2030, countries agreed to target a reduction in the number of Zero-Dose Children by 50% by 2030. Political commitment at national level is critical. This graph shows midterm progress towards those targets by country – rather than in global averages. 
+
+- 90 countries maintained high and stable coverage, over 95% 
+
+- 21 met the 2025 milestone by reducing the number by 25% or more 
+
+- 9 countries made some progress but did not reach the milestone. 
+
+- 74 countries had more zero dose children in 2025 than in 2019. 
+
+#### Absolute change in # of ZDC 
+
+#### Relative change in # of ZDC 
+
+
+
+
+
+16 
+
+WUENIC 2025 
+
+### DTP1-DTP3 dropout rates are too high in some regions 
+
+It is important that all children are reached (DTP1) and fully vaccinated (DTP3 or MCV1) by the health system. While access to health is measured by the “zero-dose” indicator, full vaccination is best measured by the drop-out rate (% of children who start but don't complete vaccinations). 
+
+The drop-out rate between DTP1 and DTP3 ranges from 2% to 9% by region. A high drop-out rate points to improvements needed in defaulter tracing, immunization service quality, and community engagement including demand generation. 
+
+
+
+17 
+
+WUENIC 2025
+
+---
+
+[referencia=5a3d3f781b170925 score=0.065]
+### Progress with MCV1 coverage diverges by region 
+
+The longer-term trends in MCV1 coverage diverges somewhat by region. 
+
+- SEAR and AMR have improved coverage above the 2019 baseline. 
+
+- SEAR is now the best performing region. 
+
+- AFR, EMR, EUR, and WPR are below their 2019 baseline 
+
+- EUR, WPR, and possibly AMR seem to be establishing a longrunning trend (10+years) of backsliding 
+
+
+
+
+
+10 
+
+WUENIC 2025 
+
+MCV1 coverage distribution by regions shows backsliding and rising inequity in previously well performing regions 
+
+This slide shows the density distribution of countries according to MCV1 coverage, by region for 5 points in time. 
+
+- AFR shows a gradual improvement as there are fewer countries with very low coverage, with ever more countries at the top (high coverage) of each distribution 
+
+- AMR and especially EUR show some backsliding and rising inequity as more countries move from very high to middling or very low coverage 
+
+- SEAR is increasingly bifurcated, with mostly very well performing countries as well as some relative lagging countries. 
+
+- WPR  and EMR show a more nuanced picture where the lowest bound is not worsening, but the belly of each distribution is nevertheless thickening, indicating more middling countries. 
+
+
+
+11 
+
+WUENIC 2025 
+
+### Progress with MCV1 coverage diverges by WB income status* 
+
+Low-Income countries were hardest hit by the pandemic and its aftermath but are now reporting clear signs of recovery. This recovery is tentative as in many countries it still needs to be confirmed by household surveys. 
+
+Lower middle-income countries have as a group recovered to the 2019 baseline. 
+
+However, high-income countries and especially upper-middle-income countries show some backsliding since 2019. 
+
+_* Countries without a World Bank classification are excluded (Cook Island, Niue)_ 
+
+
+
+
+
+12 
+
+WUENIC 2025
+
+---
+
+[referencia=5a3d3f781b170925 score=0.042]
+### Progress with MCV1 coverage diverges by Gavi eligibility status 
+
+All low-income and some middleincome countries are eligible for Gavi funding. As a group, these countries have improved coverage meaningfully over the last few years and are just shy of their 2019 level. 
+
+Countries that transitioned out of Gavi support initially experienced large drops but are now showing encouraging trends. 
+
+Countries that were never eligible for Gavi support are clearly backsliding, like the high-income country group. 
+
+
+
+
+
+13 
+
+WUENIC 2025 
+
+### Progress and backsliding on Zero-Dose Children since 2024 
+
+The overall progress in reducing the number of Zero-Dose Children results from both strengthened and weakened programme performance. 
+
+Sudan reported a recovery in its programme in 2025, even while violence continues. 
+
+India, Brazil, Ethiopia, and Mexico all strengthened programme access last year. 
+
+Bangladesh, South Africa, Nigeria, Pakistan, and Japan all saw an increase in the number of Zero-Dose Children in 2025. 
+
+Other countries saw smaller changes, often simply driven by increasing or decreasing birth cohorts. 
+
+
+
+14 
+
+WUENIC 2025 
+
+### Progress and backsliding on Zero-Dose Children since 2019 
+
+Since 2019, the baseline year for the immunization agenda, IA2030, many countries experienced multiple challenges related to the Covid-19 pandemic, diminished external funding, conflict and instability. 
+
+India, Brazil, Ethiopia, Mexico and Cameroon all made notable progress. 
+
+On the other hand, Yemen, Sudan, Nigeria, South Africa, and Bangladesh saw an increase in the number of Zero-Dose Children since 2019. 
+
+Other countries saw smaller changes, often simply driven by increasing or decreasing birth cohorts. 
+
+
+
+15 
+
+WUENIC 2025

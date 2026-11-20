@@ -1,0 +1,744 @@
+{
+  "run_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+  "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/Ingles/ChatGPT/Consolidado/arquitetura_transformers.md",
+  "generated_at": "2026-11-18T10:36:36.033899Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 27523,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 128,
+    "citation_markers_distinct": 19,
+    "references_listed": 19,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 104,
+  "pct_supported": 75.0,
+  "pct_unsupported": 22.115384615384613,
+  "pct_contradicted": 0.0,
+  "count_supported": 78,
+  "count_unsupported": 23,
+  "count_contradicted": 0,
+  "count_skipped": 3,
+  "count_audited": 101,
+  "pct_supported_audited": 77.22772277227723,
+  "pct_unsupported_audited": 22.772277227722775,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 26,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 2,
+    "fonte_citada_sem_conteudo": 1
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 7,
+  "count_reclassified_by_verification": 14,
+  "verification_stage_counts": {
+    "full_doc_scan": 2,
+    "context_expansion": 12
+  },
+  "mis_cited_reference_count": 7,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "5d21dc0cbc3014c2",
+      "citation_markers": [
+        "[19]"
+      ],
+      "raw_url": "https://doi.org/10.1145/3442188.3445922",
+      "normalized_url": "https://doi.org/10.1145/3442188.3445922",
+      "work_key": "DOI:10.1145/3442188.3445922",
+      "title": "19. Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell, **“On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?”**",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T03:03:08.624819Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-95",
+      "reason": "Referencia(s) citada(s) ['5d21dc0cbc3014c2'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-96",
+      "reason": "Referencia(s) citada(s) ['5d21dc0cbc3014c2'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-98",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['5d21dc0cbc3014c2'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-98",
+        "verdict": "unsupported",
+        "justification": "A evidência discute separadamente arquitetura, objetivo, composição do dataset, escala e questões de implantação, mas em nenhum momento afirma que os problemas surgem da interação desses fatores 'em vez de apenas da atenção'. A comparação específica com 'atenção isolada' não aparece no texto, tornando a afirmação uma síntese não fundamentada diretamente pela evidência.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "A afirmação de que os problemas surgem da interação de arquitetura, objetivo, composição do dataset, escala e implantação",
+          "A comparação 'em vez de apenas da atenção' (rather than from attention alone)"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "2cab3ea10b8b7ae2",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 116755,
+        "completion_tokens": 5342,
+        "cost_usd": 0.0,
+        "latency_ms": 40537,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": true,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência discute separadamente arquitetura, objetivo, composição do dataset, escala e questões de implantação, mas em nenhum momento afirma que os problemas surgem da interação desses fatores 'em vez de apenas da atenção'. A comparação específica com 'atenção isolada' não apa…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência discute separadamente limitações de arquitetura, objetivo, composição de dados, escala e implantação, mas em nenhum momento afirma que os problemas surgem da 'interação' desses fatores 'em vez da atenção isoladamente'. Essa síntese não está explicitamente presente no…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "claim ausente das 17 janela(s) do(s) documento(s) citado(s)"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "a7468c6851652691",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "times_cited": 39,
+      "supported_count": 31,
+      "unsupported_count": 8,
+      "contradicted_count": 0,
+      "supporting_citations": 26,
+      "partial_citations": 9,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        1,
+        2,
+        3,
+        9,
+        12,
+        13,
+        14,
+        15,
+        17,
+        18,
+        19,
+        20,
+        21,
+        24,
+        26,
+        28,
+        29,
+        30,
+        31,
+        32,
+        36,
+        37,
+        38,
+        44,
+        54
+      ],
+      "partial_positions": [
+        16,
+        22,
+        23,
+        27,
+        46,
+        47,
+        85,
+        100,
+        102
+      ],
+      "absent_positions": [
+        4,
+        8,
+        11,
+        99
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "a3e86ad05f37e40d",
+      "url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+      "times_cited": 8,
+      "supported_count": 3,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        51,
+        57
+      ],
+      "partial_positions": [
+        10,
+        45,
+        52
+      ],
+      "absent_positions": [
+        39,
+        86
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we use a multi-layer Transformer decoder [34] for the language model [...] generative pre-training of a language model on a diverse corpus of unlabeled text, followed by discriminative fine-tuning on each specific task",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "5727fed78bddc701",
+      "url": "https://arxiv.org/abs/2205.14135",
+      "times_cited": 8,
+      "supported_count": 8,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        25,
+        74,
+        75,
+        76,
+        77,
+        88,
+        89
+      ],
+      "partial_positions": [
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the self-attention module at their heart has time and memory complexity quadratic in sequence length",
+      "key_excerpt_position": 25
+    },
+    {
+      "reference_id": "32f3c7d144f036a0",
+      "url": "https://arxiv.org/abs/1810.04805",
+      "times_cited": 7,
+      "supported_count": 4,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        48,
+        49,
+        50,
+        57
+      ],
+      "partial_positions": [
+        6,
+        47,
+        86
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "BERT's model architecture is a multi-layer bidirectional Transformer encoder [...] BERT is designed to pretrain deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers. [...] the [CLS] representation is fed into an output layer for classification, such as entailment or sentiment analysis. [...] the token representations are fed into an output layer for token-level tasks, such as sequence tagging or question answering",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "dd0416935c1f8d1f",
+      "url": "https://www.jmlr.org/papers/v21/20-074.html",
+      "times_cited": 7,
+      "supported_count": 2,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        55
+      ],
+      "partial_positions": [
+        6
+      ],
+      "absent_positions": [
+        10,
+        47,
+        56,
+        57,
+        86
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "introducing a unified framework that converts all text-based language problems into a text-to-text format. Our systematic study compares pre-training objectives, architectures, unlabeled data sets, transfer approaches, and other factors on dozens of language understanding tasks.",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "2cab3ea10b8b7ae2",
+      "url": "https://arxiv.org/abs/2005.14165",
+      "times_cited": 6,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        53,
+        97
+      ],
+      "partial_positions": [
+        52,
+        103
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [
+        7
+      ],
+      "not_audited_positions": [
+        98
+      ],
+      "key_excerpt": "we train GPT-3, an autoregressive language model with 175 billion parameters [...] For all tasks, GPT-3 is applied without any gradient updates or fine-tuning, with tasks and few-shot demonstrations specified purely via text interaction with the model. [...] we evaluate GPT-3 under 3 conditions: (a) \"few-shot learning\", or in-context learning where we allow as many demonstrations as will fit into the model's context window [...] (b) \"one-shot learning\", where we allow only one demonstration, and (c) \"zero-shot\" learning, where no demonstrations are allowed and only an instruction in natural language is given to the model. [...] Broadly, on NLP tasks GPT-3 achieves promising results in the zero-shot and one-shot settings, and in the the few-shot setting is sometimes competitive with or even occasionally surpasses state-of-the-art [...] We emphasize that these \"learning\" curves involve no gradient updates or fine-tuning, just increasing numbers of demonstrations given as conditioning.",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "1098fc60be7ca2b0",
+      "url": "https://arxiv.org/abs/2203.02155",
+      "times_cited": 6,
+      "supported_count": 4,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        58,
+        59,
+        60,
+        94
+      ],
+      "partial_positions": [
+        10
+      ],
+      "absent_positions": [
+        103
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "By default, language models optimize the next word prediction objective, which is only a proxy for what we want these models to do.",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "85f66a6419d173a7",
+      "url": "https://arxiv.org/abs/2001.08361",
+      "times_cited": 6,
+      "supported_count": 4,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        61,
+        62,
+        63
+      ],
+      "partial_positions": [
+        99,
+        100,
+        103
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Performance depends strongly on scale, weakly on model shape: Model performance depends most strongly on scale, which consists of three factors: the number of model parameters N (excluding embeddings), the size of the dataset D, and the amount of compute C used for training. Within reasonable limits, performance depends very weakly on other architectural hyperparameters such as depth vs. width.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "46fd66187ec3e6ae",
+      "url": "https://arxiv.org/abs/2203.15556",
+      "times_cited": 6,
+      "supported_count": 5,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        64,
+        65,
+        66,
+        67
+      ],
+      "partial_positions": [
+        101
+      ],
+      "absent_positions": [
+        103
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We hypothesize that the race to train larger and larger models is resulting in models that are substantially underperforming compared to what could be achieved with the same compute budget. We directly test this hypothesis by training Chinchilla, a 70B parameter model, and show that it outperforms Gopher and even larger models on nearly every measured evaluation task.",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "a2690ed31e8cc7e9",
+      "url": "https://arxiv.org/abs/1508.07909",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [
+        41,
+        46,
+        100
+      ],
+      "absent_positions": [
+        40
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We adapt byte pair encoding (BPE) (Gage, 1994), a compression algorithm, to the task of word segmentation. BPE allows for the representation of an open vocabulary through a fixed-size vocabulary of variable-length character sequences, making it a very suitable word segmentation strategy for neural network models.",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "5e9c4b0d7e28a9c7",
+      "url": "https://arxiv.org/abs/1911.02150",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        68,
+        69,
+        70,
+        71,
+        90
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "While training these layers is generally fast and simple, due to parallelizability across the length of the sequence, incremental inference (where such paralleization is impossible) is often slow, due to the memory-bandwidth cost of repeatedly loading the large \"keys\" and \"values\" tensors.",
+      "key_excerpt_position": 68
+    },
+    {
+      "reference_id": "546b28dbd4726cdc",
+      "url": "https://www.jmlr.org/papers/v23/21-0998.html",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        82,
+        83
+      ],
+      "partial_positions": [
+        84,
+        101
+      ],
+      "absent_positions": [
+        81
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Mixture of Experts (MoE) models defy this and instead select different parameters for each incoming example. The result is a sparsely-activated model---with an outrageous number of parameters---but a constant computational cost.",
+      "key_excerpt_position": 82
+    },
+    {
+      "reference_id": "a114e852aac1b2cb",
+      "url": "https://arxiv.org/abs/2305.13245",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        72,
+        73,
+        90
+      ],
+      "partial_positions": [
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Grouped-query attention divides query heads into _G groups_ , each of which shares a single key head and value head. [...] grouped-query attention (GQA), a generalization of multi-query attention which uses an intermediate (more than one, less than number of query heads) number of key-value heads [...] Grouped-query attention instead shares single key and value heads for each _group_ of query heads, interpolating between multi-head and multi-query attention.",
+      "key_excerpt_position": 72
+    },
+    {
+      "reference_id": "fd3d857f4120158d",
+      "url": "https://proceedings.mlr.press/v202/leviathan23a.html",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        78,
+        79,
+        80
+      ],
+      "partial_positions": [
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "using speculative execution and a novel sampling method, we can make exact decoding from the large models faster, by running them in parallel on the outputs of the approximation models, potentially generating several tokens concurrently, and without changing the distribution",
+      "key_excerpt_position": 78
+    },
+    {
+      "reference_id": "3972039dbf3f7ee7",
+      "url": "https://arxiv.org/abs/2302.13971",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        85
+      ],
+      "partial_positions": [
+        35,
+        87
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Following recent work on large language models, our network is based on the transformer architecture (Vaswani et al., 2017). We leverage various improvements that were subsequently proposed, and used in different models such as PaLM. Here are the main difference with the original architecture",
+      "key_excerpt_position": 85
+    },
+    {
+      "reference_id": "6a4bad7787419973",
+      "url": "https://aclanthology.org/2022.acl-long.229/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        92,
+        93
+      ],
+      "partial_positions": [
+        91
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Models generated many false answers that mimic popular misconceptions and have the potential to deceive humans. The largest models were generally the least truthful. This contrasts with other NLP tasks, where performance improves with model size. However, this result is expected if false answers are learned from the training distribution. We suggest that scaling up models alone is less promising for improving truthfulness than fine-tuning using training objectives other than imitation of text from the web.",
+      "key_excerpt_position": 92
+    },
+    {
+      "reference_id": "5d21dc0cbc3014c2",
+      "url": "https://doi.org/10.1145/3442188.3445922",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        95,
+        96,
+        98
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "83213326f5835ccc",
+      "url": "https://arxiv.org/abs/2104.09864",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        33,
+        34
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Later work Raffel et al. [2020], He et al. [2020], Ke et al. [2020], Huang et al. [2020] followed these settings by only encoding the relative position information into the attention weights.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "50d4fd98520a4e3b",
+      "url": "https://aclanthology.org/D18-2012/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        43
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "SentencePiece, a language-independent subword tokenizer and detokenizer",
+      "key_excerpt_position": 43
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-4",
+      "position": 4,
+      "claim_excerpt": "The original Transformer was not itself a “large language model” in the contemporary sense, but its components became the substrate from which the dominant families of pretrained language models deve…",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[3] [13] [9] [8] [5] [12] [7] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-16",
+      "position": 16,
+      "claim_excerpt": "Softmax converts these scores into nonnegative weights that sum to one across the attended positions, and multiplication by \\(V\\) produces a weighted mixture of their value vectors.",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[14] [8] [7] [2] [13] [3] [5]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-39",
+      "position": 39,
+      "claim_excerpt": "This causal constraint is what makes a decoder-only Transformer a valid autoregressive model: the probability of a token is conditioned only on tokens already available.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[15] [12] [1] [16] [13] [3] [5] [14]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-40",
+      "position": 40,
+      "claim_excerpt": "Before any of this computation occurs, raw text must be converted into discrete token identifiers.",
+      "cited_markers": "[10]",
+      "corroborating_markers": "[9] [2] [3] [11] [5] [7] [16]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-43",
+      "position": 43,
+      "claim_excerpt": "SentencePiece later provided language-independent BPE and unigram tokenization that can train directly on raw text without requiring prior whitespace tokenization, an important property for multiling…",
+      "cited_markers": "[11]",
+      "corroborating_markers": "[10] [13] [9] [2] [5]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-81",
+      "position": 81,
+      "claim_excerpt": "Another path to efficiency is conditional computation.",
+      "cited_markers": "[17]",
+      "corroborating_markers": "[1] [5] [12] [14] [9] [8] [2] [7]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-91",
+      "position": 91,
+      "claim_excerpt": "A second limitation is that the language-modeling objective is fundamentally predictive rather than truth-verifying.",
+      "cited_markers": "[18]",
+      "corroborating_markers": "[5] [6] [3] [13] [12] [9] [2]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 2505249,
+  "cost_tracked": false,
+  "processing_time_seconds": 2174.794989
+}

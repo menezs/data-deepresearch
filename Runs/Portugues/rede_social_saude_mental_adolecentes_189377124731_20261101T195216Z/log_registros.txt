@@ -1,0 +1,126 @@
+2026-11-01 15:52:16,117 INFO     auditframework.cli: Iniciando run rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z para answers/ChatGPT/EmConsolidacao/rede_social_saude_mental_adolecentes.md (ferramenta=ChatGPT)
+2026-11-01 15:52:24,694 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-01 15:52:24,694 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-01 15:52:26,645 INFO     auditframework.terminal: Loading weights: 100%|███████████████████████████████████████████████████████████████████████████| 391/391 [00:00<00:00, 13271.18it/s]
+2026-11-01 15:52:36,879 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-01 15:52:36,888 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-01 15:52:36,895 INFO     auditframework.pipeline: Extraidas 20 referencias de answers/ChatGPT/EmConsolidacao/rede_social_saude_mental_adolecentes.md (0 descartadas como artefato do exportador)
+2026-11-01 15:52:36,907 INFO     auditframework.pipeline: Resposta dividida em 131 trechos citados
+2026-11-01 15:52:36,909 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-01 15:52:36,909 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-01 15:52:36,911 INFO     auditframework.ingestion.service: Ingestao: 20 referencias, 0 ja baixadas, 0 ja bloqueadas, 20 pendentes
+2026-11-01 15:52:38,552 WARNING  trafilatura.core: discarding data: None
+2026-11-01 15:52:39,637 WARNING  trafilatura.core: discarding data: None
+2026-11-01 15:52:42,275 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.pnas.org/doi/10.1073/pnas.1902058116
+2026-11-01 15:52:43,450 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://doi.org/10.1016/j.eclinm.2018.12.005
+2026-11-01 15:52:46,726 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://jamanetwork.com/journals/jama/fullarticle/2835481
+2026-11-01 15:52:48,044 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext
+2026-11-01 15:52:48,810 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em https://www.sciencedirect.com/science/article/pii/S2666560325000714
+2026-11-01 15:52:51,387 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://academic.oup.com/jcmc/article/13/1/210/4583062
+2026-11-01 15:52:51,388 INFO     auditframework.terminal: Baixando referências: 100%|██████████████████████████████████████████████████████████████████████████| 20/20 [00:14<00:00,  1.38ref/s]
+2026-11-01 15:52:51,390 INFO     auditframework.pipeline: Ingestao concluida: 14 documentos disponiveis
+2026-11-01 15:52:51,392 INFO     auditframework.terminal: ✓ ingestion concluído em 13.5s
+2026-11-01 15:52:51,392 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-01 15:52:51,760 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|████████████████████████████████████████████████████████████████| 14/14 [00:00<00:00, 38.81doc/s]
+2026-11-01 15:52:51,760 INFO     auditframework.indexing.service: Gerando embeddings para 161 chunks de 14 documentos
+2026-11-01 15:52:59,981 INFO     auditframework.terminal: Batches: 100%|████████████████████████████████████████████████████████████████████████████████████████| 11/11 [00:08<00:00,  1.34it/s]
+2026-11-01 15:53:00,000 INFO     auditframework.pipeline: Indice construido a partir de 14 documentos
+2026-11-01 15:53:00,001 INFO     auditframework.terminal: ✓ indexing concluído em 8.6s
+2026-11-01 15:53:00,002 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-01 15:53:00,008 INFO     auditframework.pipeline: Julgamento: 131 chunks, 0 ja julgados, 0 ja pulados, 131 pendentes
+2026-11-01 15:53:00,703 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-01 15:53:01,154 INFO     auditframework.terminal: Recuperando contexto:   0%|                                                                                | 0/131 [00:00<?, ?chunk/s]
+2026-11-01 15:53:01,260 INFO     auditframework.terminal: Loading weights:   0%|                                                                                        | 0/393 [00:00<?, ?it/s]
+2026-11-01 15:53:01,378 INFO     auditframework.terminal: Loading weights:  35%|██████████████████████████▋                                                 | 138/393 [00:00<00:00, 1360.27it/s]
+2026-11-01 15:53:01,458 INFO     auditframework.terminal: Loading weights: 100%|████████████████████████████████████████████████████████████████████████████| 393/393 [00:00<00:00, 1313.49it/s]
+2026-11-01 15:53:18,312 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-9 nao sera auditado: Referencia(s) citada(s) ['1f85ec9d9aa26554'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:53:18,317 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-10 nao sera auditado: Referencia(s) citada(s) ['1f85ec9d9aa26554'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:53:19,970 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-13 nao sera auditado: Referencia(s) citada(s) ['2e9603edb7ba47ac'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:53:26,373 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-19 nao sera auditado: Referencia(s) citada(s) ['768f99758bc7edf5'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:53:49,873 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-47 nao sera auditado: Referencia(s) citada(s) ['e001941295e48843'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:53:49,875 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-48 nao sera auditado: Referencia(s) citada(s) ['e001941295e48843'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:53:49,876 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-49 nao sera auditado: Referencia(s) citada(s) ['e001941295e48843'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:53:52,369 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-53 nao sera auditado: Referencia(s) citada(s) ['be0a0138b48a436c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:53:52,371 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-54 nao sera auditado: Referencia(s) citada(s) ['be0a0138b48a436c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:54:10,036 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-72 nao sera auditado: Referencia(s) citada(s) ['1f85ec9d9aa26554'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:54:10,038 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-73 nao sera auditado: Referencia(s) citada(s) ['1f85ec9d9aa26554'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:54:18,642 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-85 nao sera auditado: Referencia(s) citada(s) ['be0a0138b48a436c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:54:28,949 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-94 nao sera auditado: Referencia(s) citada(s) ['8dc10495234d1686'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:54:28,951 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-95 nao sera auditado: Referencia(s) citada(s) ['8dc10495234d1686'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:54:35,776 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-106 nao sera auditado: Referencia(s) citada(s) ['2e9603edb7ba47ac'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:54:35,778 WARNING  auditframework.indexing.retriever: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-107 nao sera auditado: Referencia(s) citada(s) ['2e9603edb7ba47ac'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:55:01,674 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████████████████████████████████████████████████████████████████| 131/131 [02:01<00:00,  1.08chunk/s]
+2026-11-01 15:59:59,843 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-9 nao auditado: Referencia(s) citada(s) ['1f85ec9d9aa26554'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 15:59:59,844 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-10 nao auditado: Referencia(s) citada(s) ['1f85ec9d9aa26554'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:00:50,644 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-13 nao auditado: Referencia(s) citada(s) ['2e9603edb7ba47ac'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:02:47,724 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-19 nao auditado: Referencia(s) citada(s) ['768f99758bc7edf5'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:09:47,175 WARNING  auditframework.judging.verification.context_expansion: Juiz nao parseavel na expansao de contexto (chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-30): resposta do LLM nao e JSON valido: ''
+2026-11-01 16:17:02,615 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-47 nao auditado: Referencia(s) citada(s) ['e001941295e48843'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:17:02,622 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-48 nao auditado: Referencia(s) citada(s) ['e001941295e48843'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:17:02,623 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-49 nao auditado: Referencia(s) citada(s) ['e001941295e48843'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:17:32,407 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-53 nao auditado: Referencia(s) citada(s) ['be0a0138b48a436c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:17:32,408 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-54 nao auditado: Referencia(s) citada(s) ['be0a0138b48a436c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:22:56,717 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-72 nao auditado: Referencia(s) citada(s) ['1f85ec9d9aa26554'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:22:56,718 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-73 nao auditado: Referencia(s) citada(s) ['1f85ec9d9aa26554'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:26:36,224 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-85 nao auditado: Referencia(s) citada(s) ['be0a0138b48a436c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:28:39,103 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-94 nao auditado: Referencia(s) citada(s) ['8dc10495234d1686'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:28:39,105 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-95 nao auditado: Referencia(s) citada(s) ['8dc10495234d1686'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:32:34,918 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-106 nao auditado: Referencia(s) citada(s) ['2e9603edb7ba47ac'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:32:34,920 WARNING  auditframework.pipeline: Chunk rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-107 nao auditado: Referencia(s) citada(s) ['2e9603edb7ba47ac'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-01 16:42:43,180 INFO     auditframework.terminal: Julgando chunks: 100%|███████████████████████████████████████████████████████████████████████████| 131/131 [47:41<00:00, 21.84s/chunk]
+2026-11-01 16:42:43,183 INFO     auditframework.terminal: ✓ judging concluído em 2897.3s
+2026-11-01 16:42:43,196 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-01 16:42:43,206 INFO     auditframework.pipeline: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z/report.md
+2026-11-01 16:42:43,208 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-01 16:42:43,209 INFO     auditframework.cli: Run rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z concluida
+2026-11-01 16:42:43,210 INFO     auditframework.terminal: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z/report.md
+2026-11-03 23:00:23,197 INFO     auditframework.terminal: audit refetch rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z
+2026-11-03 23:00:23,200 INFO     auditframework.ingestion.service: Ingestao: 20 referencias, 14 ja baixadas, 0 ja bloqueadas, 6 pendentes
+2026-11-03 23:00:25,164 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:00:27,102 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.pnas.org/doi/10.1073/pnas.1902058116
+2026-11-03 23:00:27,337 WARNING  auditframework.ingestion.service: Barreira de acesso (http_error) em https://www.sciencedirect.com/science/article/pii/S2666560325000714
+2026-11-03 23:00:27,341 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://jamanetwork.com/journals/jama/fullarticle/2835481
+2026-11-03 23:00:29,713 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:00:29,715 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://doi.org/10.1016/j.eclinm.2018.12.005
+2026-11-03 23:00:29,865 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762%2825%2900003-1/fulltext
+2026-11-03 23:00:30,734 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://academic.oup.com/jcmc/article/13/1/210/4583062
+2026-11-03 23:00:30,736 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 6/6 [00:07<00:00,  1.25s/ref]
+2026-11-03 23:00:30,742 INFO     auditframework.terminal: rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z: 6 fonte(s) sem conteudo, 0 recuperada(s)
+2026-11-04 01:24:48,239 INFO     __main__: Retomando run rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z
+2026-11-04 01:24:53,069 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:24:53,069 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:24:55,369 INFO     auditframework.terminal: Loading weights: 100%|█████████████████████████████████████████████████████████████████████████████████████████████| 391/391 [00:00<00:00, 11014.22it/s]
+2026-11-04 01:25:05,734 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-04 01:25:05,743 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-04 01:25:05,743 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-04 01:25:05,744 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: indexing
+2026-11-04 01:25:05,745 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-04 01:25:05,767 INFO     auditframework.pipeline: Julgamento: 131 chunks, 114 ja julgados, 16 ja pulados, 1 pendentes
+2026-11-04 01:25:05,769 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:00<00:00, 1554.60chunk/s]
+2026-11-04 01:25:42,619 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-04 01:25:43,178 INFO     auditframework.terminal: Julgando chunks:   0%|                                                                                                         | 0/1 [00:00<?, ?chunk/s]
+2026-11-04 01:25:43,284 INFO     auditframework.terminal: Loading weights:   0%|                                                                                                          | 0/393 [00:00<?, ?it/s]
+2026-11-04 01:25:43,387 INFO     auditframework.terminal: Loading weights:  33%|██████████████████████████████▊                                                               | 129/393 [00:00<00:00, 1273.86it/s]
+2026-11-04 01:25:43,487 INFO     auditframework.terminal: Loading weights:  65%|█████████████████████████████████████████████████████████████▍                                | 257/393 [00:00<00:00, 1244.83it/s]
+2026-11-04 01:25:43,489 INFO     auditframework.terminal: Loading weights: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 393/393 [00:00<00:00, 1275.33it/s]
+2026-11-04 01:32:17,106 INFO     auditframework.terminal: Julgando chunks: 100%|████████████████████████████████████████████████████████████████████████████████████████████████| 1/1 [07:11<00:00, 431.34s/chunk]
+2026-11-04 01:32:17,108 INFO     auditframework.terminal: ✓ judging concluído em 431.4s
+2026-11-04 01:32:17,114 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-04 01:32:17,125 INFO     auditframework.pipeline: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z/report.md
+2026-11-04 01:32:17,127 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-04 01:32:17,127 INFO     __main__: Run rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z concluida
+2026-11-04 01:32:17,128 INFO     auditframework.terminal: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z/report.md
+2026-11-04 01:57:57,319 INFO     __main__: Retomando run rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z
+2026-11-04 01:58:02,368 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:58:02,368 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-04 01:58:04,327 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 15608.98it/s]
+2026-11-04 01:58:10,883 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-04 01:58:10,890 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-04 01:58:10,890 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-04 01:58:10,891 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: indexing
+2026-11-04 01:58:10,891 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: judging
+2026-11-04 01:58:10,891 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-04 01:58:10,901 INFO     auditframework.pipeline: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z/report.md
+2026-11-04 01:58:10,903 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-04 01:58:10,904 INFO     __main__: Run rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z concluida
+2026-11-04 01:58:10,905 INFO     auditframework.terminal: Relatorio gerado em data/runs/rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z/report.md

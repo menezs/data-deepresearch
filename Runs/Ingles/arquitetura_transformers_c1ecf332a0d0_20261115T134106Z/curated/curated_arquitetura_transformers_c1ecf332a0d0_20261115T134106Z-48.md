@@ -1,0 +1,270 @@
+[referencia=d9c08b4d6cd4e69f score=0.988]
+## 8. Stage 6 — Feed-forward network (FFN)
+
+**Why this stage is necessary.** In attention, the weights depend on content, but the output is a weighted average of Values obtained through linear projections (V = X·Wv, followed by Wo); the only nonlinearity is the softmax that determines the weights. The FFN adds a nonlinear transformation applied to each token after contextual information has been assembled. There is also a capacity rationale: FFNs contain roughly two-thirds of a Transformer’s parameters and act as memories for patterns (Geva et al., 2021). Expanding to d_ff = 4 × d_model in the original model is a design choice that increases this capacity (Vaswani et al., 2017).
+
+**Concept.** After attention, each position passes through a small neural network with two linear layers and a nonlinearity between them, applied **independently to each token** with the same weights at every position in the layer (Vaswani et al., 2017):
+
+Attention mixes information **between** tokens. The FFN transforms information **within** each token, expanding it to a larger dimension d_ff (2048 in the original model, or 4 × d_model), applying the nonlinearity, and compressing it back to d_model.
+
+**Activation functions.** ReLU is used in the original Transformer; GELU in BERT and GPT (Hendrycks and Gimpel, 2016; Devlin et al., 2019; Radford et al., 2019); and gated variants of GLU, such as **SwiGLU**, in more recent models (Shazeer, 2020; Touvron et al., 2023).
+
+**Interpretation.** Geva et al. (2021) propose that the FFN functions as a **key–value memory**: columns of W1 detect patterns in the input vector (keys), while rows of W2 contribute associated information (values). This interpretation helps explain why much factual knowledge appears to reside in FFNs rather than attention. It is an interpretive hypothesis supported by empirical analysis, not a fact demonstrated for every model.
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.085]
+## 9. Stage 7 — Multilayer stacking
+
+**Why this stage is necessary.** One layer captures relationships in one step. Many tasks require composition: identify the token, relate it to context, infer its sense, and only then predict. Stacking enables successive refinement, and probing analyses reveal different levels of information across layers (Jawahar et al., 2019; Tenney et al., 2019; Belrose et al., 2023). Some documented mechanisms, such as induction heads, require at least two attention layers (Elhage et al., 2021; Olsson et al., 2022). More layers increase both capacity and cost, so depth is a design choice, as shown below.
+
+**Mechanism.** A **Transformer block** follows the sequence attention → Add & Norm → FFN → Add & Norm. The model stacks N blocks: the output of layer l becomes the input to layer l + 1, and each layer has its **own weights**. The n × d_model matrix retains the same shape across the stack; what changes is the content of each vector as it is progressively refined.
+
+**What different depths tend to represent.** Probing studies in BERT indicate an approximate progression: early layers capture surface and local-order patterns; intermediate layers capture syntactic structure; and higher layers capture semantic and long-range relationships (Jawahar et al., 2019). Tenney et al. (2019) observed that stages of the classical NLP pipeline — part-of-speech tagging, syntactic parsing, entities, semantic roles, and coreference — can be recovered in that order across the layers. Figure 5 summarizes this tendency.
+
+**Iterative refinement of the prediction.** Techniques such as the *logit lens* and *tuned lens* project the intermediate state of each layer onto the vocabulary and show that the predicted next-token distribution becomes more precise layer by layer (Belrose et al., 2023).
+
+**Circuits that require depth.** **Induction heads** are a documented example: one head in an earlier layer copies information from the previous token, and a later head uses it to locate past occurrences of a pattern and predict its continuation. This mechanism requires at least two attention layers and has been associated with the emergence of *in-context learning* during training (Elhage et al., 2021; Olsson et al., 2022).
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.080]
+## 14. Limitations, caveats, and open debates
+
+**Purpose of this section.** It defines what the article does and does not demonstrate. This is necessary because the examples are simplified and because the mechanism itself has limitations and unresolved questions that readers should understand.
+
+**Limitations of this article.**
+
+- The numerical examples use very small dimensions, a single head, and hand-selected or random weights. They demonstrate the arithmetic, not the behavior of a trained model.
+- For simplicity, the article omits biases in all projections, dropout, cross-attention in the decoder of the original model, and variants such as mixtures of experts and attention alternatives such as state-space models (Gu and Dao, 2023).
+- Details such as the exact number of layers, activation function, normalization type, and positional encoding vary among models and are not always disclosed.
+
+**Debates and limitations of the mechanism itself.**
+
+- **Attention and explanation.** Attention weights are not, by themselves, a reliable explanation of model behavior (Jain and Wallace, 2019; Wiegreffe and Pinter, 2019).
+- **Quadratic cost and long context.** Attention cost grows with the square of sequence length, and long-context models may use information located in the middle of the context less effectively (Liu et al., 2024).
+- **Hallucination.** The model computes likely tokens given the context; the architecture contains no step that verifies the truth of what it generates. Fluent but factually incorrect output is a documented problem (Ji et al., 2023).
+- **“Only statistics” or a “world model”?** Positions diverge. One argues that models trained only on textual form cannot attain understanding of meaning (Bender and Koller, 2020). Another points to evidence that models trained for next-token prediction can construct internal representations of domain structure, such as the state of an Othello board (Li et al., 2023). The characterization of “understanding” remains contested, and this article is limited to the mechanisms and cited evidence.
+- **Emergence.** See Section 13: the nature of capability jumps with scale remains debated (Wei et al., 2022a; Schaeffer et al., 2023).
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.078]
+*Table 6. Contextual disambiguation of banco. Copyright 2026 Aridio Silva | CC BY 4.0.* In isolation, the vector is equally distant from both senses (0.632 versus 0.632). In the context *lotado de clientes*, it moves closer to the financial-institution prototype (0.851 versus 0.468). In the context *praça … madeira*, it moves closer to the seat prototype (0.858 versus 0.452). The mechanism is the same in both cases; only the neighboring tokens change. In a real model, Wq, Wk, and Wv and the knowledge in the FFNs result from training, and the distinction is distributed across many heads and layers rather than one step in a toy example.
+
+**Why this emerges from training.** To predict the next word in sentences such as “O banco estava lotado de ___,” the model must represent whether the sentence concerns a branch office or a seat. Statistically, *lotado* co-occurs with customers, queues, and branches. Sense representation is therefore a useful by-product of minimizing prediction error (Section 13).
+
+**Caution when interpreting attention maps.** Visualizing attention weights — for example, with tools such as Vig (2019) — is a useful first analytical step, but **attention weight is not equivalent to causal explanation**: different weights can produce the same prediction, and the attention in one layer is only one part of the computation (Jain and Wallace, 2019; Wiegreffe and Pinter, 2019). Claims about what the model “uses” require intervention experiments or circuit analysis (Elhage et al., 2021; Olsson et al., 2022).
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.062]
+**Numerical parameter example (base Transformer).** W1 contains 512 × 2048 = 1,048,576 weights and W2 contains 2048 × 512 = 1,048,576, totaling 2,097,152 per layer without biases. Adding the 1,048,576 attention weights (Section 6), the layer contains approximately 3.15 million weights, roughly two-thirds of which belong to the FFN.
+
+**Numerical computation example (d_model = 4, d_ff = 8; W1 and W2 generated randomly with a fixed seed and no training).** For the token *estava* at position 2, the FFN input is the normalized vector [1.389; −0.901; −0.999; 0.511]. After W1 and ReLU, the hidden layer is [0.907; 0.660; 0.330; 0; 0.623; 0; 1.541; 0.759]: six of the eight units are active and two are zeroed by ReLU. After W2, the output is [0.231; 0.954; 0.437; −0.291]. Adding it to the input through the residual path and normalizing yields [1.613; −0.351; −1.121; −0.141]. For *banco* at position 1, all eight hidden units are zero in this example, so the FFN output is zero and the vector crosses the sublayer unchanged through the residual path. In a trained model, the sparse activation pattern is learned, and each token activates a different subset of units.
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.046]
+# FIG 1 flow
+fig,ax=plt.subplots(figsize=(9,11)); ax.set_xlim(0,10); ax.set_ylim(0,14.2); ax.axis("off")
+box(ax,2,12.9,6,0.9,"1. TEXTO DE ENTRADA\n\"O banco estava lotado\"",C["in"],bold=True)
+box(ax,2,11.3,6,0.9,"2. TOKENIZAÇÃO (BPE / SentencePiece)\n[O] [banco] [estava] [lotado] → IDs inteiros",C["tok"],bold=True)
+box(ax,2,9.8,6,0.9,"3. EMBEDDING + CODIFICAÇÃO POSICIONAL\nmatriz X ∈ ℝ^(n × d_model)",C["emb"],bold=True)
+ax.add_patch(FancyBboxPatch((1.1,3.9),7.8,5.4,boxstyle="round,pad=0.02,rounding_size=0.1",fc="#fafafa",ec="#222",lw=1.6,ls="--"))
+ax.text(5,8.95,"4. BLOCO TRANSFORMER  ×  N camadas (pesos próprios por camada)",ha="center",fontsize=9.5,fontweight="bold")
+box(ax,2.3,7.65,5.6,0.8,"Self-Attention multi-cabeça\n(Q, K, V = X·Wq, X·Wk, X·Wv)",C["att"],fs=8.8)
+box(ax,2.3,6.55,5.6,0.6,"Add & Norm (residual + normalização)",C["gray"],fs=8.8)
+box(ax,2.3,5.3,5.6,0.8,"Rede Feed-Forward (FFN) por posição",C["ffn"],fs=8.8)
+box(ax,2.3,4.2,5.6,0.6,"Add & Norm (residual + normalização)",C["gray"],fs=8.8)
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.041]
+## 19.1 Numerical core of the didactic example
+
+**File:** `01_nucleo_numerico_calc.py`. **Function.** Defines the four tokens (“O”, “banco”, “estava”, “lotado”) with hand-selected four-dimensional embeddings; computes sinusoidal positional encoding and X = E + P; applies Q, K, and V projections (fixed matrices, d_k = 2), QKᵀ scores, division by √d_k, and bidirectional softmax; and repeats softmax with a causal mask. It then traverses the rest of the block—Wo projection, residual addition, LayerNorm, RMSNorm, an FFN with d_ff = 8 and random weights using seed 0, logits over five words, softmax with T = 0.5, 1, and 2, and sorting for top-p—and writes the results to `toy.npz`.
+
+**Supports.** Values in Sections 4–6 and Figures 2 and 4. The FFN and output results produced here use the bidirectional chain and are not those cited in the text; Sections 7–11 use Program 19.2, which recomputes the chain with a causal mask.
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.028]
+## 5. Stage 3 — Self-attention
+
+**Why this stage is necessary.** A word’s meaning depends on its neighbors, while the input embedding is static (Section 4): *banco* begins with the same vector in every sentence. A mechanism is needed in which each token consults the others using content-dependent rather than fixed-position weights. Recurrent models transmit information step by step, so distant dependencies cross many operations; with attention, any two positions can connect in one step, and the computation can be parallelized (Vaswani et al., 2017). Separating Query, Key, and Value is a design choice that decouples what a token seeks, what it offers for matching, and the content it passes onward. Division by √d_k prevents softmax saturation when d_k is large.
+
+**Concept.** **Self-attention** allows each token to recompute its representation as a weighted average of the representations of every token in the sequence, including itself, with content-dependent weights. Attention first emerged in machine translation to align output words with input words (Bahdanau et al., 2015), and the Transformer generalized it to operate from a sequence onto itself (Vaswani et al., 2017).
+
+**Three roles per token.** Three trainable weight matrices project each input vector:
+
+- **Query (Q = X·Wq):** what this token is looking for.
+- **Key (K = X·Wk):** what this token offers for matching.
+- **Value (V = X·Wv):** the content this token passes on when selected.
+
+**Formula (scaled dot-product attention).**
+
+- **QKᵀ** measures compatibility between each Query and each Key (a high dot product means that the vectors point in similar directions).
+- **Division by √d_k:** if the components of q and k have mean 0 and variance 1, the dot product has variance d_k. Without scaling, scores grow with dimensionality and push softmax into regions with near-zero gradients (Vaswani et al., 2017).
+- **Softmax:** converts each row of scores into positive weights that sum to 1.
+- **Multiplication by V:** the result is the weighted average of the Values, yielding the**contextualized token** .
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.020]
+**Numerical example (d_model = 4, d_k = 2, values calculated by code).** Using X from Section 4 and hand-selected Wq, Wk, and Wv matrices, the following values are obtained for the token *banco* at position 1:
+
+*Table 4. Numerical attention calculation. Copyright 2026 Aridio Silva | CC BY 4.0.* The weights sum to 1.000. The output for *banco* is Z = 0.143·v_O + 0.459·v_banco + 0.265·v_estava + 0.133·v_lotado = [1.043; 1.360], where v_O = [1.000; 1.500], v_banco = [1.096; 2.040], v_estava = [1.419; 0.384], and v_lotado = [0.156; 0.810]. The vector for *banco* is no longer only *banco*: it incorporates information from the other tokens in proportion to the attention weights. Because the weights in this example were selected by hand, no linguistic meaning should be inferred from the resulting pattern; in a trained model, Wq, Wk, and Wv learn which relationships matter.
+
+**How to read the map (Figure 4).** Rows are Queries (who asks); columns are Keys (who is attended to); each row sums to 1. On the left, every token can attend to every other token (encoder style). On the right, the **causal mask** sets future positions to zero (Section 6).
+
+**Cost.** The score matrix contains n × n entries, so time and memory grow quadratically with sequence length. Implementations such as FlashAttention reduce memory traffic without changing the mathematical result (Dao et al., 2022).
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.020]
+## 6. Stage 4 — Multi-head attention and masks
+
+**Why this stage is necessary.** A single attention operation produces only one weighted average per token, which, according to Vaswani et al. (2017), inhibits simultaneous attention to information from different representational subspaces. Multiple heads allow different relationships to be modeled in parallel without increasing total cost because each head operates in a smaller dimension. The causal mask is necessary for generation: during training, the entire text is available, and without the mask the model would “see” the token it must predict, learn to copy it, and then fail during inference, where the future does not exist. The padding mask prevents empty positions from influencing the result. Shared K/V variants and the KV cache exist because rereading and recomputing the entire past for every generated token would otherwise be prohibitive (Pope et al., 2023).
+
+**Concept.** A single attention operation produces one weighted average per token. **Multi-head attention** executes h attention operations in parallel, each with its own Wq, Wk, and Wv matrices and operating in a subspace of dimension d_k = d_model / h. The head outputs are concatenated and projected through a Wo matrix (Vaswani et al., 2017):
+
+**Numerical example (original Transformer, base configuration).** With d_model = 512 and h = 8, each head has d_k = d_v = 64, and total computational cost is similar to that of a single head with dimension 512 (Vaswani et al., 2017). Together, the four projection matrices in one attention layer contain 4 × 512 × 512 = 1,048,576 weights, excluding biases. For internal consistency, h must divide d_model; therefore, 12 heads do not apply to d_model = 512. BERT-base uses 12 heads with d_model = 768, yielding d_k = 64 (Devlin et al., 2019).
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.017]
+**Numerical example (token *banco*, causal version, γ = 1, β = 0).** The attention output projected by Wo is o = [1.074; 1.912; 0.537; 0.956]. The input was x = [0.841; 1.540; 0.510; 1.000]. Residual addition gives r = x + o = [1.915; 3.453; 1.047; 1.956]. The mean is μ = 2.093 and the variance is σ² = 0.748. LayerNorm with ε = 10⁻⁵ gives [(1.915 − 2.093)/0.865; …] = [−0.205; 1.572; −1.209; −0.158], with mean 0 and variance 1. By comparison, RMSNorm of the same vector, with root mean square 2.264, yields [0.846; 1.525; 0.462; 0.864]: it preserves the proportions among components without centering them at zero.
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.015]
+**Alternatives used in the literature.**
+
+- **Learned positions:** a trainable table used in BERT and GPT-2 (Devlin et al., 2019; Radford et al., 2019).
+- **Relative positions:** attention becomes dependent on the distance between tokens (Shaw et al., 2018).
+- **RoPE (rotary position embeddings):** rotates Q and K according to position, encoding relative position in the dot product itself (Su et al., 2021). It is used in models such as LLaMA (Touvron et al., 2023).
+- **ALiBi:** adds a linear distance-dependent bias to attention scores, improving extrapolation to sequences longer than those seen in training (Press et al., 2022).
+
+**Numerical example.** Let d_model = 4 (didactic; the original Transformer uses 512), with hand-selected embeddings for the four tokens and sinusoidal encoding computed by the formula above. For *banco* at position 1: PE = [sin(1), cos(1), sin(0.01), cos(0.01)] = [0.841; 0.540; 0.010; 1.000]. Adding the embedding [0; 1; 0.5; 0] yields x = [0.841; 1.540; 0.510; 1.000]. Figure 2 shows the three matrices; X = E + P, of dimension 4 × 4, is the input to the first layer.
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.015]
+## 7. Stage 5 — Residual connection and normalization (Add & Norm)
+
+**Why this stage is necessary.** Stacking many layers requires both the signal and the training gradient to pass through many transformations. Without a shortcut, deeper networks may perform worse during training, a degradation problem mitigated by residual connections (He et al., 2016). The residual path also preserves the original information and lets each sublayer learn only a correction. Normalization keeps value scales stable with depth (Ba et al., 2016), while its position (Pre-LN or Post-LN) affects training stability when careful warm-up is absent (Xiong et al., 2020). Without these mechanisms, the depth that gives the model capacity could not be trained reliably.
+
+**Residual connection.** After each sublayer (attention or FFN), the sublayer input is added to its output: y = x + Sublayer(x). The idea comes from residual networks in computer vision (He et al., 2016). It creates a direct path for the signal and gradient, enabling deep stacks to be trained, and causes each sublayer to learn a **correction** to what already exists rather than reconstructing everything. In circuit interpretations, this path is the **residual stream**, a channel that every layer reads from and writes to (Elhage et al., 2021).
+
+**Normalization.** Without scale control, values may grow or shrink across layers and destabilize training. **LayerNorm** normalizes each token separately across its d_model components, not across the batch, and then applies a learned scale γ and shift β (Ba et al., 2016):
+
+**RMSNorm** omits mean subtraction and normalizes only by the root mean square, at lower cost and with comparable performance (Zhang and Sennrich, 2019); it is used in models such as LLaMA (Touvron et al., 2023).
+
+**Post-LN and Pre-LN.** The original Transformer applies normalization after the residual addition (**Post-LN**). Many current models apply it before each sublayer (**Pre-LN**), a variant that trains more stably and reduces dependence on careful learning-rate warm-up (Xiong et al., 2020).
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.014]
+## 19.5 Generation of Figures 1–6
+
+**File:** `05_figuras.py`. **Function.** Uses Matplotlib to draw the flow diagram (Figure 1), E/P/X heat maps (Figure 2), the Q/K/V mechanism diagram (Figure 3), bidirectional and causal attention maps (Figure 4), the layer-specialization scheme (Figure 5), and probability bars by temperature (Figure 6). It reads `toy.npz` and `toy2.npz` and writes to the `fig/` directory, which must exist before execution.
+
+**Supports.** Values in Sections 4–6 and Figures 2 and 4. The FFN and output results produced here use the bidirectional chain and are not those cited in the text; Sections 7–11 use Program 19.2, which recomputes the chain with a causal mask.
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.013]
+# FIG 4 QKV mechanism
+fig,ax=plt.subplots(figsize=(10,4.6)); ax.set_xlim(0,12); ax.set_ylim(0,6); ax.axis("off")
+box(ax,0.1,2.4,1.5,1.2,"X\n(n × d_model)",C["emb"],bold=True)
+for k,(lab,y) in enumerate([("Q = X·Wq",4.3),("K = X·Wk",2.5),("V = X·Wv",0.7)]):
+    box(ax,2.4,y,1.8,0.9,lab,C["att"] if k<2 else C["ffn"],bold=True); arrow(ax,1.6,3.0,2.4,y+0.45)
+box(ax,5.3,3.4,2.1,1.0,"Scores\nS = Q·Kᵀ / √d_k",C["gray"],fs=9); arrow(ax,4.2,4.75,5.3,4.0);arrow(ax,4.2,2.95,5.3,3.7)
+box(ax,5.3,1.9,2.1,0.9,"(máscara causal\nopcional: −∞)",C["gray"],fs=8.5); arrow(ax,6.35,2.8,6.35,3.4)
+box(ax,8.2,3.4,1.5,1.0,"A = softmax(S)\nlinhas somam 1",C["out"],fs=8.5); arrow(ax,7.4,3.9,8.2,3.9)
+box(ax,8.2,1.0,1.5,1.0,"Z = A·V",C["out"],bold=True); arrow(ax,8.95,3.4,8.95,2.0); arrow(ax,4.2,1.15,8.2,1.4)
+box(ax,10.2,1.0,1.7,1.0,"Z·Wo\n(saída da\ncamada)",C["emb"],fs=8.5); arrow(ax,9.7,1.5,10.3,1.5)
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.011]
+# **Opening the Black Box of LLM Inference: Foundations of Generative AI**
+
+## Anatomy of the Transformer from the Inside, from Input to Output Token
+
+**SGAEIA Research Series — Article 22**
+
+**Aridio Silva**
+
+Independent Researcher, Brazil
+
+Creator of SGAEIA — Secure Governed Autonomous Edge Intelligence Architecture**ORCID:** 0009–0008–2411–6995**DOI:** https://doi.org/10.5281/zenodo.23540392**Published:** October 21, 2026**License:** Creative Commons Attribution 4.0 International — CC BY 4.0
+
+## Abstract
+
+This article provides a technical, formal, and didactic explanation of the inference process in Transformer-based language models, from input tokenization to next-token selection. It combines formulas, reproducible numerical examples, and six figures to explain embeddings, positional encoding, self-attention, masks, residual connections, normalization, feed-forward networks, logits, softmax, and decoding strategies. A small-scale case study of the ambiguous Portuguese word *banco* demonstrates how context changes representations without claiming to reproduce the behavior of a real trained model. Finally, the article distinguishes model inference from the governed execution of an agentic system and presents a public, non-normative interpretation of the implications for SGAEIA.
+
+**Keywords:** AI; Transformer; inference; LLM; attention; tokenization; embeddings; softmax; emergent properties; SGAEIA.
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.011]
+## 2. Overview of the inference flow
+
+**Why the flow contains these stages in this order.** Each stage solves a problem left open by the previous one. The network operates only on numbers (tokenization); integer IDs have neither geometry nor order (embeddings and position); each token needs context (attention); the contextual mixture must be transformed, stabilized, and repeated in depth (FFN, Add & Norm, stacking); behavior depends on weights that must be learned (training); and the final result must become a token (logits, softmax, and decoding). The table summarizes the problem solved by each stage and what would be missing without it.
+
+**Inference** in a language model is the execution of an already-trained model with fixed weights to produce an output from an input. In a generative model, execution is cyclical: the model calculates a probability distribution over the next token, a token is selected and appended to the input, and the cycle repeats (**autoregressive generation**). A complete computation through all layers is called a **forward pass**.
+
+The original architecture combines an encoder and a decoder (Vaswani et al., 2017). Two derivative families dominate current use: **encoder-only** models, such as BERT (Devlin et al., 2019), which observe the sequence in both directions, and **decoder-only** models, such as the GPT series (Radford et al., 2018; Radford et al., 2019; Brown et al., 2020), which generate text from left to right. The mechanisms described in the following sections apply to all of them, with the primary difference being the **attention mask** (Section 6).
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.009]
+## 4. Stage 2 — Embeddings and positional encoding
+
+**Why this stage is necessary.** An integer ID is an arbitrary label: ID 4871 is not more similar in meaning to ID 4872. An embedding converts each label into a vector in which training can organize similarity (Bengio et al., 2003; Mikolov et al., 2013), and subsequent operations such as sums and dot products are meaningful only over vectors. Positional encoding is necessary because attention does not inherently use order: “the cat eats the fish” and “the fish eats the cat” contain the same tokens, and without position information unmasked attention treats them as equivalent up to permutation (Vaswani et al., 2017). In causally masked decoders, some positional information can be inferred from the number of visible tokens, but explicit positional encoding remains standard practice.
+
+**Embedding.** Each ID selects one row from a weight matrix W_E of dimension |V| × d_model, producing a **dense vector** that represents the token. The idea of representing words as continuous vectors in which geometric proximity reflects similarity of use comes from neural language models (Bengio et al., 2003) and word2vec (Mikolov et al., 2013). In the Transformer, the matrix is learned jointly with the rest of the model, the vectors are multiplied by √d_model, and the same matrix is often shared with the output projection (Vaswani et al., 2017; Press and Wolf, 2017). A central point is that the input embedding is **static**: *banco* receives the same vector in every sentence. Contextualization occurs later, through attention.
+
+**Positional encoding.** Attention alone treats the input as a set: permuting the tokens permutes the output in the same way without distinguishing order. A position-dependent vector is therefore added to the embedding. The original proposal uses sinusoidal functions at geometrically varying frequencies (Vaswani et al., 2017):
+
+Each pair of dimensions oscillates at a different frequency, and the difference between positions can be expressed as a linear transformation of the vectors, which facilitates learning relative-distance relationships (Vaswani et al., 2017).
+
+**Alternatives used in the literature.**
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.009]
+**Why multiple heads.** Each head can learn a different type of relationship. Attention analyses in BERT have identified heads that focus on delimiters, fixed positional offsets, and syntactic relationships such as verbs and direct objects (Clark et al., 2019). There is also evidence that many heads are redundant: a small subset accounts for most of the performance, and the remainder can be pruned with little loss (Voita et al., 2019; Michel et al., 2019).
+
+**Variants for efficient inference.** In **Multi-Query Attention**, all heads share a single pair of K and V matrices (Shazeer, 2019). In **Grouped-Query Attention**, groups of heads share K and V, providing a compromise between quality and memory use (Ainslie et al., 2023). Both reduce the size of the **KV cache**, which stores previously computed K and V values so that the past need not be recomputed for each newly generated token (Pope et al., 2023).
+
+**Attention masks.**
+
+- **Bidirectional (encoder):** each position can attend to every other position. This is the BERT regime (Devlin et al., 2019).
+- **Causal (decoder):** before softmax, scores for future positions receive −∞, making their weights exactly 0. This preserves the autoregressive property: the prediction at position t depends only on positions up to t (Vaswani et al., 2017; Radford et al., 2019).
+- **Padding:** ignores empty positions used to equalize sequence lengths within a batch.
+
+**Numerical example of the causal mask.** In the row for *banco*, the scaled scores were [3.165; 4.334; 3.785; 3.093]. With a causal mask, the final two positions (*estava* and *lotado*, which are in the future) become −∞, and softmax over [3.165; 4.334] yields [0.237; 0.763; 0; 0]. Therefore, **in a generative model, *banco* cannot attend to *lotado***; disambiguation using later words occurs only after they have been read, at subsequent positions. In bidirectional models, such as the left-hand map in Figure 4, forward attention is permitted.
+
+---
+
+[referencia=d9c08b4d6cd4e69f score=0.009]
+The connection to SGAEIA does not turn the article’s didactic examples into architectural controls. The table organizes high-level research questions and public properties while preserving the boundary between explanation and private mechanism. The operational conclusion is limited but important: understanding how an LLM produces a token is necessary to govern an LLM-based system, but it is not sufficient to authorize, observe, contain, or assure that system’s effects.
+
+## 16. Conclusion
+
+Opening the black box of inference makes it possible to follow the transformation of text into IDs, vectors, attention relationships, contextual representations, logits, and probabilities. The reduced examples show the arithmetic of each stage and make explicit where learned weights, masks, normalization, nonlinearity, and the decoding rule enter the process. They also clarify the limit of the demonstration: didactic numbers explain the mechanism, but they do not measure a real model and do not independently support claims about reasoning, safety, or reliability.
+
+The *banco* case study shows why a token representation does not remain static after context passes through the layers. At the same time, the caveats concerning attention maps, emergence, and hallucination prevent a mathematical explanation from being confused with complete causal transparency. Inference is probabilistic, contextual, and dependent on weights, configuration, and decoding strategy; its analysis must preserve those conditions rather than convert fluency into certainty.
+
+For SGAEIA, the principal implication is the separation between inference and effect. The model may propose a path, but authority determines whether that path is reachable, and policies and evidence determine whether it can become a legitimate action. Opening the black box of an agentic system therefore requires explaining not only how the token was produced, but also who authorized each action, under what limits, with what records, and with what capacity for interruption, revocation, and recovery.
+
+## 17. Glossary of terms, concepts, and techniques
+
+**Purpose of this section.** It fixes the terminology used in the article. This is necessary because the terms come from distinct fields, including computational linguistics, optimization, and interpretability.
+
+Alphabetical order. The “Section” column indicates where each term is developed.
+
+The following five images preserve the Term, Definition, and Section columns in the Medium editor.

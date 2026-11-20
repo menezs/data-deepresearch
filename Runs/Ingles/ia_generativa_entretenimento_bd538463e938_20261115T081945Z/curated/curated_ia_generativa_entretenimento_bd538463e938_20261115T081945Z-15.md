@@ -1,0 +1,42 @@
+[referencia=0ea8278bfffbfe74 score=0.766]
+Back at Skywalker Sound in Northern California, Matthew Wood was the supervising sound editor on the receiving end of the transmissions from Ukraine. He says that they hired Respeecher because the vocal performances that the start-up generates have an often elusive human touch. “Certainly my main concern was their well-being,” says Wood, who is a 32-year veteran of Lucasfilm. “There are always alternatives that we could pursue that wouldn’t be as good as what they would give us. We never wanted to put them in any kind of additional danger to stay in the office to do something.”
+
+What Respeecher could do better than anyone was re-create the unforgettably menacing way that Jones, now 91, sounded half a lifetime ago. Wood estimates that he’s recorded the actor at least a dozen times over the decades, the last time being a brief line of dialogue in 2019’s *The Rise of Skywalker.* “He had mentioned he was looking into winding down this particular character,” says Wood. “So how do we move forward?” When he ultimately presented Jones with Respeecher’s work, the actor signed off on using his archival voice recordings to keep Vader alive and vital even by artificial means—appropriate, perhaps, for a character who is half mechanical. Jones is credited for guiding the performance on *Obi-Wan Kenobi,* and Wood describes his contribution as “a benevolent godfather.” They inform the actor about their plans for Vader and heed his advice on how to stay on the right course.
+
+Before the invasion, there was a near-constant volley of information between Wood, *Obi-Wan Kenobi* director and showrunner Deborah Chow, and the Respeecher team. Wood says, “For a character such as Darth Vader, who might have 50 lines on a show, I might have a back-and-forth of almost over 10,000 files.” Much of that was changes in dialogue and the subsequent fine-tuning. As the Russian attack loomed, Wood says, he began pulling back. He remembers thinking, I don’t need to go back to them under an air raid siren to communicate this one particular part is a little different. But the Respeecher team’s attitude, he says, was: “Let’s work, let’s work in the face of this adversity, let’s persevere.”
+
+---
+
+[referencia=0ea8278bfffbfe74 score=0.715]
+Bogdan Belyaev was working from home when the air raid sirens went off. They hadn’t been heard in the city of Lviv since World War II, but it was February 24, and Russia had just invaded Ukraine. “When we heard that missiles were attacking and that our [internet] connection was dropping from parts of our country, we got into shelter,” says Belyaev. That meant him, his wife, and their dog and two cats huddling in the center of their building. “It’s a ‘shelter,’ really in quotes because it was actually our bathroom,” he says. “There is a rule of two walls. You need to be behind two walls. The first wall is taking the impact, and the second one is stopping the small shrapnel.” But for Belyaev, work carried on because he needed it to. People on the other side of the world were relying on him, and the project was the culmination of a passion he’d had since childhood: *Star Wars.*
+
+Belyaev is a 29-year-old synthetic-speech artist at the Ukrainian start-up Respeecher, which uses archival recordings and a proprietary A.I. algorithm to create new dialogue with the voices of performers from long ago. The company worked with Lucasfilm to generate the voice of a young Luke Skywalker for Disney+’s *The Book of Boba Fett,* and the recent *Obi-Wan Kenobi* series tasked them with making Darth Vader sound like James Earl Jones’s dark side villain from 45 years ago, now that Jones’s voice has altered with age and he has stepped back from the role. Belyaev was rushing to finish his work as Putin’s troops came across the border. “If everything went bad, we would never make these conversions delivered to Skywalker Sound,” he says. “So I decided to push this data right on the 24th of February.”
+
+Respeecher employees in Kyiv also soldiered on while hunkered down. Dmytro Bielievtsov, the company’s cofounder and CTO, got online in a theater where tabletops, books, and more had been stacked in front of windows in case of blasts. Programmers “training” the A.I. to replicate Jones’s voice and editors piecing together the output worked from corridors in the interior of their apartments. One took refuge in an ancient brick “basement” no bigger than a crawl space.
+
+---
+
+[referencia=0ea8278bfffbfe74 score=0.084]
+Alex Serdiuk, the CEO and cofounder of the voice-cloning company, knows that creating the voice of Darth Vader for a TV show is not a life-or-death endeavor. Still, he takes pride in their contribution to *Obi-Wan Kenobi* and wants the world to know that Ukrainians helped make that particular trip to the galaxy far, far away possible, even under horrible circumstances. “We create places to work for people, we create jobs, we pay them money, we contribute to the Ukrainian economy, and that’s quite meaningful,” he says. “But also, hopefully more people will hear about Ukraine—about our tech community, about our start-ups—because of it.”
+
+Respeecher’s work has continued, mainly on projects that are still secret. “It’s been hard,” Serdiuk says. “A 44- million nation is in pain. Many refugees, many civilians died, many people in the army died because of the Russian invasion of Ukraine. We all have the additional [responsibility] of helping each other. You’ve seen how united and resilient Ukrainians are at this moment, but in terms of how we live now: We wake up, we go to work, and then we go home and try to get some sleep. I’m currently separated from my family. So my wife and daughter, they’re abroad. I brought them to the border as soon as it all started.”
+
+*Obi-Wan Kenobi* provided a rare moment of celebration. The Respeecher employees who were still residing in Kyiv gathered to watch Vader’s first appearance on the show and called Belyaev in Lviv to cheer for him. Viewers adored Vader’s terrifying return, praising his chilling presence. Jones’s family told Wood how pleased they were with the result of all the work, a tribute to the actor that honors his many years giving voice to the galactic tyrant.
+
+---
+
+[referencia=0ea8278bfffbfe74 score=0.005]
+After completing work on Vader, Belyaev began volunteering to help victims of the war. Lviv has suffered bombardment too, but it has become a sanctuary for others fleeing war zones. Much of his work there has been helping refugees find food and shelter. Asked about those uncertain early days and his determination to finish his creative work, he says, “Why did I do it? It’s a big honor to work with Lucasfilm, and I’ve been a fan of *Star Wars* since I was a kid. Even if it’s war, there’s no excuse for you to be the troublemaker of what you loved from childhood.”
+
+## More Great Stories From *Vanity Fair*
+
+- Erika Kirk Doesn't Really Want to Talk Politics. So How's She Going to Lead Turning Point USA?
+- A Deep Dive Into How Larry Ellison Built His Influence
+- Making the Elizabeth Holmes Doc Fried Nathan Fielder’s and Lance Oppenheim’s Brains
+- “History Will Judge”: Fox News Anchor Bret Baier on Donald Trump and Pete Hegseth’s War With the Press
+- How I Blew Up My Life. (Or, the Gavin Newsom Affair)
+- Inside Lane Kiffin’s Trash-Talking, “Joey Freshwater” Era With Nick Saban at Alabama
+- A “Top One Percent” Vagina Is the Newest Status Symbol in Longevity Circles
+- The 25 Best Movies on Netflix to Watch This October
+- An All-American Tragedy: The Story of Brandon and Candice Miller
+- From the Archive: Inside Elizabeth Holmes’s Chilling Final Months at Theranos

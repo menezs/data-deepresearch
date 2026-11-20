@@ -1,0 +1,29 @@
+[referencia=4edb8443a18e7743 score=0.968]
+# FDA Approves Treatment for Serious Liver Disease Known as ‘MASH’
+
+Action Will Provide New Therapy for Growing Public Health Issue
+
+## Action
+
+The U.S. Food and Drug Administration has approved Wegovy (semaglutide) injection to treat metabolic-associated steatohepatitis (MASH) in adults with moderate-to-advanced fibrosis (excessive scar tissue in the liver). MASH, also known as nonalcoholic steatohepatitis, is a serious liver disease. Wegovy, which was first approved in 2017, is also approved for obesity or overweight and to reduce cardiovascular events, such as heart attacks, in individuals at high risk of these events. Approximately 6% of U.S. adults (14.9 million people) have MASH, and its prevalence is expanding.
+
+## Disease or Condition
+
+MASH is a severe form of metabolic-associated fatty liver disease that develops when fat buildup in the liver causes inflammation and scarring. Conditions such as obesity, type 2 diabetes, high triglycerides (a type of fat), and high LDL-cholesterol increase the likelihood of developing MASH. MASH is a progressive disease that can lead to cirrhosis (severe liver scarring), hepatic decompensation (worsening of liver function), liver cancer, liver transplantation, or death. Symptoms can include fatigue, unexplained weight loss, and muscle weakness, but many people do not have symptoms until they experience severe liver damage.
+
+Wegovy promotes weight loss and potentially other mechanisms not fully understood, which may improve liver inflammation and scarring. Wegovy received breakthrough therapy designation for this indication and was approved under the accelerated approval pathway, which allows a therapy treating serious conditions to get to market earlier based on a surrogate endpoint (e.g., a laboratory measure) with additional data required after approval to confirm the effect of the therapy on a clinically meaningful endpoint (i.e., how patients feel, function, or survive).
+
+---
+
+[referencia=4edb8443a18e7743 score=0.951]
+## Data Supporting Wegovy
+
+Wegovy’s efficacy was demonstrated in one ongoing phase 3 trial. The planned interim analysis at week 72 included 800 clinical trial participants randomly assigned to either Wegovy (534 participants) or placebo (266 participants) in addition to lifestyle changes (e.g., dietary modification such as a reduced calorie diet and increased physical activity). Participants were on stable doses of lipid-lowering, glucose-management, and weight-loss medications. At week 72, the primary efficacy endpoint was based on histology (liver biopsy results).
+
+Interim results showed 63% of participants receiving Wegovy had MASH resolution and no worsening of liver scarring compared to 34% of participants receiving placebo, and 37% of participants on Wegovy had improvement in liver scarring and no worsening of MASH, compared to 22% of participants receiving placebo. The trial will continue for a total of 240 weeks to determine whether inflammation and scarring improvements seen after 72 weeks translate into decreases in death, liver transplant, and other liver-related events.
+
+## Safety Information
+
+The most common side effects of Wegovy include nausea, diarrhea, vomiting, constipation, abdominal pain, headache, fatigue, dyspepsia (indigestion), dizziness, abdominal distension, eructation (burping), hypoglycemia in patients with type 2 diabetes, flatulence, gastroenteritis (stomach flu), gastroesophageal reflux disease, and nasopharyngitis (common cold). People with a personal or family history of medullary thyroid cancer; with multiple endocrine neoplasia, type 2; or with a known sensitivity to semaglutide or Wegovy excipients should not take this drug.
+
+The Wegovy approval for the treatment of MASH with moderate-to-advanced scarring was granted to Novo Nordisk.

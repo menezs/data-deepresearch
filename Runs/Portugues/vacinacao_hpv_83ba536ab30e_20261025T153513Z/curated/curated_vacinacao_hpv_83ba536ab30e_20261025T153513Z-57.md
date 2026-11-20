@@ -1,0 +1,46 @@
+[referencia=55a9230eebd4f435 score=0.975]
+De acordo com Eliana, a pesquisa verificou ainda que o imunizante já foi capaz de produzir um certo "efeito rebanho":
+
+"Nós também percebemos nas meninas um efeito populacional da vacinação. Mesmo entre aquelas que não foram vacinadas, nós tivemos uma diminuição da prevalência de HPV."
+
+Isso acontece porque a vacinação em altas coberturas diminui a circulação dos agentes causadores de doença, protegendo indiretamente toda a população. Na parcela de meninas e mulheres não vacinadas, a prevalência dos quatro tipos de HPV combatidos pela vacina foi de 10,5% na segunda fase da pesquisa.
+
+Já entre os homens, a prevalência desses subtipos do vírus caiu de 13,8% para 4,6% entre os vacinados, mas não houve mudança estatisticamente significativa entre os participantes não vacinados da segunda fase. De acordo com Eliana, a explicação é a baixa cobertura vacinal desse público.
+
+"Esse achado não é inesperado, uma vez que os meninos costumam receber menos incentivo à vacinação contra o HPV do que as meninas, em parte porque o vírus ainda é amplamente percebido como uma causa predominantemente do câncer do colo do útero", destaca a prévia do artigo que será publicado na revista npj Vaccines com os resultados da pesquisa.
+
+---
+
+[referencia=55a9230eebd4f435 score=0.326]
+# Pesquisa mostra que vacinação diminuiu prevalência de HPV entre jovens
+
+13:30 | Jul. 24, 2026
+
+A prevalência dos principais tipos de HPV caiu quase à metade no Brasil após a vacinação, aponta o maior estudo sobre a eficácia do imunizante já realizado na América Latina.
+
+**Dados coletados em 2016 e 2017 mostram que 14,98% dos participantes já tinham sido infectados por pelo menos um dos quatro tipos cobertos pela vacina. Já nas amostras coletadas entre 2020 e 2023, essa proporção ficou em 7,95%.** 
+
+A pesquisa Pop-Brasil foi realizada pelo Hospital Moinhos de Vento, em parceria com o Ministério da Saúde. Na primeira fase, foram analisadas amostras de 6.388 participantes não vacinados de ambos os sexos. Já na segunda fase, foram mais de 10 mil participantes, vacinados e não vacinados. As amostras foram coletadas em unidades de saúde.
+
+Nos dois períodos, o foco foram os jovens de 16 a 25 anos, como explica a médica epidemiologista e líder da pesquisa Eliana Wendland:
+
+"Essa faixa etária é a que tem a maior prevalência de HPV, porque é o início da atividade sexual. Essa faixa etária também foi escolhida porque todo mundo ali já deveria ter sido vacinado"
+
+Infelizmente, não foi isso o que aconteceu. Entre as meninas e mulheres da pesquisa, apenas 61,8% estavam vacinadas, e a proporção foi ainda menor entre os participantes do sexo masculino: 31,1%. A taxa de cobertura ideal é de 90%.
+
+Ainda assim, a vacina comprovou o seu potencial. Entre as meninas e mulheres, a prevalência dos tipos de HPV cobertos pelo imunizante foi de 15,6% na primeira fase, quando apenas pessoas não vacinadas participaram da pesquisa. Já na segunda fase, a detecção do vírus entre as participantes vacinadas caiu para 3,1%.
+
+---
+
+[referencia=55a9230eebd4f435 score=0.048]
+## Vacinação eficaz
+
+Outro dado reforça o poder e a importância da vacina é que, entre as duas fases da pesquisa, a prevalência geral de HPV na população, considerando todos os subtipos existentes, subiu de 46,7% para 56,6%, ao contrário do que aconteceu com os quatro subtipos combatidos pelo imunizante.
+
+**A pesquisa também encontrou evidências de que o esquema atual oferecido pelo Sistema Único de Saúde (SUS), de apenas uma dose, é eficaz**, porque não encontrou diferença na prevalência do vírus comparando pessoas vacinadas com uma, duas ou três doses. 
+
+A vacinação contra o HPV pelo Sistema Único de Saúde começou em 2014, apenas com meninas, mas passou a englobar também os meninos a partir de 2017, com algumas mudanças na faixa etária ao longo dos anos. Em 2024, o esquema básico mudou de duas doses para uma.
+
+Hoje, o público-alvo são todas as crianças e adolescentes de 9 a 14 anos, além de alguns públicos adultos vulneráveis, como imunossuprimidos, vítimas de violência sexual, usuários de profilaxia pré-exposição para prevenção do HPV e pessoas que já tiveram lesões precursoras no colo do útero.
+
+O HPV, sigla para papilomavírus humano, é o principal causador do câncer do colo do útero, mas também pode provocar a doença em outros órgãos como pênis, ânus e garganta. Nem todo subtipo do vírus têm potencial cancerígeno, mas a vacina disponível no sistema público protege contra os quatro principais tipos oncogênicos.

@@ -1,0 +1,648 @@
+[
+  {
+    "id": "f117639fe46df69c",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/EC17B17AE1B57465E31691EEF5C6558A",
+    "normalized_url": "https://cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/EC17B17AE1B57465E31691EEF5C6558A",
+    "work_key": "https://cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/EC17B17AE1B57465E31691EEF5C6558A",
+    "title": "1. Brodwyn Fischer and Keila Grinberg, “Slavery and Freedom in Nineteenth-Century Brazil,” in *The Boundaries of Freedom: Slavery, Abolition, and the Making of Modern Brazil*, Cambridge University Press.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:18:52.401819Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ea9705502cac620d",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://whc.unesco.org/document/159617",
+    "normalized_url": "https://whc.unesco.org/document/159617",
+    "work_key": "https://whc.unesco.org/document/159617",
+    "title": "2. UNESCO, “Valongo Wharf Archaeological Site” nomination documentation, incorporating Trans-Atlantic Slave Trade Database estimates.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:19:26.594972Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "31dde344718e5461",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://bndigital.bn.gov.br/dossies/rede-da-memoria-virtual-brasileira/escravidao-jose-roberto-pinto-de-goes/",
+    "normalized_url": "https://bndigital.bn.gov.br/dossies/rede-da-memoria-virtual-brasileira/escravidao-jose-roberto-pinto-de-goes",
+    "work_key": "https://bndigital.bn.gov.br/dossies/rede-da-memoria-virtual-brasileira/escravidao-jose-roberto-pinto-de-goes",
+    "title": "3. Biblioteca Nacional Digital, “Escravidão,” Rede da Memória Virtual Brasileira.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:18:50.215897Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2a7aff30ef7372be",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://guides.loc.gov/brazil-us-relations/slavery-and-abolition",
+    "normalized_url": "https://guides.loc.gov/brazil-us-relations/slavery-and-abolition",
+    "work_key": "https://guides.loc.gov/brazil-us-relations/slavery-and-abolition",
+    "title": "4. Library of Congress, “Slavery and Abolition in Brazil-US Relations.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:21:30.256768Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "eaccdcfdbd37e579",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546391139",
+    "normalized_url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546391139",
+    "work_key": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546391139",
+    "title": "5. Rafael de Bivar Marquese, “Coffee and the Formation of Modern Brazil, 1860–1914,” Oxford Research Encyclopedia of Latin American History.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:20:18.797624Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "25c4e400498ef53d",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.cambridge.org/core/journals/international-review-of-social-history/article/precariousness-of-freedom-in-a-slave-society-brazil-in-the-nineteenth-century/8496E56A9C311D9B941F94E22F48F15D",
+    "normalized_url": "https://cambridge.org/core/journals/international-review-of-social-history/article/precariousness-of-freedom-in-a-slave-society-brazil-in-the-nineteenth-century/8496E56A9C311D9B941F94E22F48F15D",
+    "work_key": "https://cambridge.org/core/journals/international-review-of-social-history/article/precariousness-of-freedom-in-a-slave-society-brazil-in-the-nineteenth-century/8496E56A9C311D9B941F94E22F48F15D",
+    "title": "6. Sidney Chalhoub, “The Precariousness of Freedom in a Slave Society (Brazil in the Nineteenth Century),” *International Review of Social History*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:18:53.242383Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a190ddcc4ec71575",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13162-asi-ibge-lanca-colecao-inedita-da-historia-das-estatisticas-brasileiras",
+    "normalized_url": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13162-asi-ibge-lanca-colecao-inedita-da-historia-das-estatisticas-brasileiras",
+    "work_key": "https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/13162-asi-ibge-lanca-colecao-inedita-da-historia-das-estatisticas-brasileiras",
+    "title": "7. IBGE, “IBGE lança coleção inédita da História das Estatísticas Brasileiras.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:18:53.664314Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9644c2b166700874",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://rbg.ibge.gov.br/index.php/rbg/article/download/2620/1990",
+    "normalized_url": "https://rbg.ibge.gov.br/index.php/rbg/article/download/2620/1990",
+    "work_key": "https://rbg.ibge.gov.br/index.php/rbg/article/download/2620/1990",
+    "title": "8. IBGE, “O Negro no Brasil: Evolução Demográfica,” *Revista Brasileira de Geografia*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:20:24.121373Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "cccef09cf4140c13",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546615849",
+    "normalized_url": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546615849",
+    "work_key": "https://academic.oup.com/edited-volume/61800/chapter-abstract/546615849",
+    "title": "9. Ricardo Salles, “The Abolition of Brazilian Slavery, 1864–1888,” Oxford Research Encyclopedia of Latin American History.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:20:25.076971Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2c6101b3e57c889f",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.loc.gov/item/hlas-bi2007000899/",
+    "normalized_url": "https://loc.gov/item/hlas-bi2007000899",
+    "work_key": "https://loc.gov/item/hlas-bi2007000899",
+    "title": "10. Library of Congress, “A abolição na Bahia, 1870–1888,” *Handbook of Latin American Studies* annotation.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:20:39.420377Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a208e290b586ab77",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/escravidao-no-brasil/movimentos-abolicionistas-e-alforrias/",
+    "normalized_url": "https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/escravidao-no-brasil/movimentos-abolicionistas-e-alforrias",
+    "work_key": "https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/escravidao-no-brasil/movimentos-abolicionistas-e-alforrias",
+    "title": "11. Biblioteca Nacional Digital, “Movimentos abolicionistas e alforrias.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:19:17.490205Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "7f3ad505024580cc",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://bndigital.bn.gov.br/dossies/literatura-matriz-afro-brasileira/autores-na-biblioteca-nacional-digital/luis-gama/",
+    "normalized_url": "https://bndigital.bn.gov.br/dossies/literatura-matriz-afro-brasileira/autores-na-biblioteca-nacional-digital/luis-gama",
+    "work_key": "https://bndigital.bn.gov.br/dossies/literatura-matriz-afro-brasileira/autores-na-biblioteca-nacional-digital/luis-gama",
+    "title": "12. Biblioteca Nacional Digital, “Luís Gama.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:19:17.817534Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1ee507bd076bf2f1",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.gov.br/mdh/pt-br/sdh/noticias/2018/janeiro/luis-gama-e-reconhecido-por-lei-como-patrono-da-abolicao-da-escravatura-do-brasil/",
+    "normalized_url": "https://gov.br/mdh/pt-br/sdh/noticias/2018/janeiro/luis-gama-e-reconhecido-por-lei-como-patrono-da-abolicao-da-escravatura-do-brasil",
+    "work_key": "https://gov.br/mdh/pt-br/sdh/noticias/2018/janeiro/luis-gama-e-reconhecido-por-lei-como-patrono-da-abolicao-da-escravatura-do-brasil",
+    "title": "13. Ministério dos Direitos Humanos e da Cidadania, “Luís Gama é reconhecido por lei como Patrono da Abolição da Escravatura do Brasil.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:19:18.591710Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b37443337044d8e2",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.gov.br/igualdaderacial/pt-br/assuntos/noticias/nesta-data-em-1853-nasceu-jose-carlos-do-patrocinio",
+    "normalized_url": "https://gov.br/igualdaderacial/pt-br/assuntos/noticias/nesta-data-em-1853-nasceu-jose-carlos-do-patrocinio",
+    "work_key": "https://gov.br/igualdaderacial/pt-br/assuntos/noticias/nesta-data-em-1853-nasceu-jose-carlos-do-patrocinio",
+    "title": "14. Ministério da Igualdade Racial, “Nesta data, em 1853, nasceu José Carlos do Patrocínio.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:19:19.404392Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1f68f21bb21cef26",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://bdlb.bn.gov.br/acervo/handle/20.500.12156.3/420758",
+    "normalized_url": "https://bdlb.bn.gov.br/acervo/handle/20.500.12156.3/420758",
+    "work_key": "https://bdlb.bn.gov.br/acervo/handle/20.500.12156.3/420758",
+    "title": "15. Biblioteca Nacional, “Manifesto da Confederação Abolicionista do Rio de Janeiro.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:19:19.748791Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c63afb6be21f2911",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/golden-law",
+    "normalized_url": "https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/golden-law",
+    "work_key": "https://encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/golden-law",
+    "title": "16. “Golden Law,” *Encyclopedia of Latin American History and Culture*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:19:20.598458Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e653c152cee0777c",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/luiz-gama/",
+    "normalized_url": "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/luiz-gama",
+    "work_key": "https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/luiz-gama",
+    "title": "17. Fundação Joaquim Nabuco, “Luiz Gama.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:20:42.130871Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ad3c442c7b266e1f",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio/",
+    "normalized_url": "https://gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio",
+    "work_key": "https://gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio",
+    "title": "18. Arquivo Nacional, “Legislação abolicionista no Império.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:19:27.067777Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f35048b1aa898543",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/acordos-internacionais-e-legislacao-sobre-escravidao/",
+    "normalized_url": "https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/acordos-internacionais-e-legislacao-sobre-escravidao",
+    "work_key": "https://bndigital.bn.gov.br/dossies/trafico-de-escravos-no-brasil/acordos-internacionais-e-legislacao-sobre-escravidao",
+    "title": "19. Biblioteca Nacional Digital, “Acordos internacionais e legislação sobre escravidão.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:19:27.358481Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f519f5c4b76450a8",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/lei_sn/1824-1899/lei-37659-7-novembro-1831-564776-publicacaooriginal-88704-pl.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/lei_sn/1824-1899/lei-37659-7-novembro-1831-564776-publicacaooriginal-88704-pl.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/lei_sn/1824-1899/lei-37659-7-novembro-1831-564776-publicacaooriginal-88704-pl.html",
+    "title": "20. Câmara dos Deputados, “Lei de 7 de Novembro de 1831.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:20:24.512720Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c846a6f09feec92e",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-581-4-setembro-1850-559820-publicacaooriginal-82230-pl.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-581-4-setembro-1850-559820-publicacaooriginal-82230-pl.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-581-4-setembro-1850-559820-publicacaooriginal-82230-pl.html",
+    "title": "21. Câmara dos Deputados, “Lei nº 581, de 4 de Setembro de 1850 — Lei Eusébio de Queirós.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:26:48.208666Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "83c89cc46593dee9",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-2040-28-setembro-1871-538828-publicacaooriginal-35591-pl.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-2040-28-setembro-1871-538828-publicacaooriginal-35591-pl.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-2040-28-setembro-1871-538828-publicacaooriginal-35591-pl.html",
+    "title": "22. Câmara dos Deputados, “Lei nº 2.040, de 28 de Setembro de 1871 — Lei do Ventre Livre.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:22:23.620778Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "530eecfb25f2691c",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.scielo.br/j/rbh/a/BcBZ8KgTsqPZZr7vVmGDc6t/?lang=pt",
+    "normalized_url": "https://scielo.br/j/rbh/a/BcBZ8KgTsqPZZr7vVmGDc6t?lang=pt",
+    "work_key": "https://scielo.br/j/rbh/a/BcBZ8KgTsqPZZr7vVmGDc6t?lang=pt",
+    "title": "23. Beatriz Mamigonian et al., “Racismo, trabalho e ociosidade no processo de abolição: o Brasil e o Império Português numa perspectiva global (1870–1888),” *Revista Brasileira de História*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:20:42.670521Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "51a1e5d1bf229808",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3270-28-setembro-1885-543466-publicacaooriginal-53780-pl.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3270-28-setembro-1885-543466-publicacaooriginal-53780-pl.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3270-28-setembro-1885-543466-publicacaooriginal-53780-pl.html",
+    "title": "24. Câmara dos Deputados, “Lei nº 3.270, de 28 de Setembro de 1885 — Lei dos Sexagenários.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:20:25.019373Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f719e5d5494d2e4a",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://cpdoc.fgv.br/sites/default/files/movimento_negro/raca_racismo/Notas_LeiAurea.pdf",
+    "normalized_url": "https://cpdoc.fgv.br/sites/default/files/movimento_negro/raca_racismo/Notas_LeiAurea.pdf",
+    "work_key": "https://cpdoc.fgv.br/sites/default/files/movimento_negro/raca_racismo/Notas_LeiAurea.pdf",
+    "title": "25. FGV CPDOC, “Nota de esclarecimento — Lei Áurea.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:21:21.710804Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b12e3b689f0d3546",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?isAllowed=y&sequence=7",
+    "normalized_url": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?isAllowed=y&sequence=7",
+    "work_key": "https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?isAllowed=y&sequence=7",
+    "title": "26. Senado Federal, “Jornal do Senado — Uma reconstituição histórica — Rio de Janeiro, 14 de maio de 1888.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:21:58.210782Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "bfef16fbfb6faa86",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "title": "27. Câmara dos Deputados, “Lei nº 3.353, de 13 de Maio de 1888 — Lei Áurea.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:20:25.344045Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1fa9b05bb6d03482",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/radio/1/noticia/2018/05/11/senado-promove-exibicao-das-leis-que-culminaram-com-sancao-da-lei-aurea",
+    "normalized_url": "https://www12.senado.leg.br/radio/1/noticia/2018/05/11/senado-promove-exibicao-das-leis-que-culminaram-com-sancao-da-lei-aurea",
+    "work_key": "https://www12.senado.leg.br/radio/1/noticia/2018/05/11/senado-promove-exibicao-das-leis-que-culminaram-com-sancao-da-lei-aurea",
+    "title": "28. Senado Federal, “Senado promove exibição das leis que culminaram com sanção da Lei Áurea.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:22:35.375163Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b412d28ea76e5575",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.scielo.br/j/rh/a/YJd7BKnhn54kLNRym8VFSTJ/?lang=pt",
+    "normalized_url": "https://scielo.br/j/rh/a/YJd7BKnhn54kLNRym8VFSTJ?lang=pt",
+    "work_key": "https://scielo.br/j/rh/a/YJd7BKnhn54kLNRym8VFSTJ?lang=pt",
+    "title": "29. *Revista de História*, “Qual foi o destino do dinheiro do Fundo de Emancipação no pós-abolição? Projetos, protestos e disputas (1884–1890).”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:22:24.325974Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2531b2a54790170d",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.scielo.br/j/alm/a/6jgKHcz533MNMn5VcPPGR5M/?lang=pt",
+    "normalized_url": "https://scielo.br/j/alm/a/6jgKHcz533MNMn5VcPPGR5M?lang=pt",
+    "work_key": "https://scielo.br/j/alm/a/6jgKHcz533MNMn5VcPPGR5M?lang=pt",
+    "title": "30. “Escravos e imigrantes são o que importam: fornecimento e controle da mão de obra para a economia agroexportadora oitocentista,” *Almanack*.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:22:24.634445Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "09f82efdab55e105",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://cpdoc.fgv.br/artigos/proclamacao-republica",
+    "normalized_url": "https://cpdoc.fgv.br/artigos/proclamacao-republica",
+    "work_key": "https://cpdoc.fgv.br/artigos/proclamacao-republica",
+    "title": "31. FGV CPDOC, “15 de novembro de 1889: a Proclamação da República.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:22:25.217709Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f5218277344e2be8",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://atlas.fgv.br/verbetes/proclamacao-da-republica",
+    "normalized_url": "https://atlas.fgv.br/verbetes/proclamacao-da-republica",
+    "work_key": "https://atlas.fgv.br/verbetes/proclamacao-da-republica",
+    "title": "32. FGV, *Atlas Histórico do Brasil*, “Proclamação da República.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:22:25.585357Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a3f8c5eb87ac18a2",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://guides.loc.gov/brazil-us-relations/empire-of-brazil",
+    "normalized_url": "https://guides.loc.gov/brazil-us-relations/empire-of-brazil",
+    "work_key": "https://guides.loc.gov/brazil-us-relations/empire-of-brazil",
+    "title": "33. Library of Congress, “Empire of Brazil (1822–1889).”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:20:46.430247Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0910994a45779fa7",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://repositorio.ipea.gov.br/bitstream/11058/12387/1/NT_110_Disoc_a_luta.pdf",
+    "normalized_url": "https://repositorio.ipea.gov.br/bitstream/11058/12387/1/NT_110_Disoc_a_luta.pdf",
+    "work_key": "https://repositorio.ipea.gov.br/bitstream/11058/12387/1/NT_110_Disoc_a_luta.pdf",
+    "title": "34. IPEA, “A luta e a resistência da população negra: uma reflexão sobre o 13 de maio.”",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T05:22:42.918642Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_e67e9920c577_20261115T051827Z",
+    "tool_name": "ChatGPT"
+  }
+]

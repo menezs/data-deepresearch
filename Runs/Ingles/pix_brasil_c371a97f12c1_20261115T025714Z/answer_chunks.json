@@ -1,0 +1,946 @@
+[
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-0",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 0,
+    "text": "Pix, the instant payment system that the Banco Central do Brasil (BCB) built and launched in November 2020, has become the dominant way Brazilians move money, and its clearest contribution to financial inclusion lies in how people use accounts rather than in whether they have one.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-1",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 1,
+    "text": "In 2025, **148 million people, about 86% of adults, and 12.8 million firms** made or received at least one Pix, and in the second half of that year Pix carried **54.7% of all payment transactions** in the country.",
+    "cited_markers": [
+      "[2]",
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a953ff16b2baa823",
+      "5b7dc28761c8fd72"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-2",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 2,
+    "text": "BCB data show that about **49 million adults made their first electronic transfers only after Pix arrived**, and that these newcomers were poorer and less formally employed than existing transfer users.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "38a2b70a7736f991"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-3",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 3,
+    "text": "Quasi-experimental studies find that Pix reshuffled deposits mainly among the already banked, pushed banks to hold more liquidity and raised wages at small firms, while evidence that it brought the unbanked into the formal system or widened credit is weak or mixed.",
+    "cited_markers": [
+      "[5]",
+      "[6]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "ca515750bf81c83b",
+      "3e97484ccd9f04b1",
+      "3646952cd08b16a5"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-4",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 4,
+    "text": "The price of reach has been a surge in scams, continued exclusion of offline older and poorer Brazilians, an unregulated market for expensive credit sold under the Pix name, and pressure at home and abroad on the central bank's role as operator.",
+    "cited_markers": [
+      "[8]",
+      "[9]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "aa88d85dfb053cd4",
+      "84e20f22127a2ea5",
+      "b782d264127ee303",
+      "d5af779d9704441c"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-5",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 5,
+    "text": "It built the platform, runs the settlement system and keeps the directory of payment aliases, a combination that sets Pix apart from most instant-payment schemes.",
+    "cited_markers": [
+      "[1]",
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f",
+      "98456dda9a9115d9"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-6",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 6,
+    "text": "The first was price: Pix is **free for individuals**, while firms may pay a small fee that varies by institution.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-7",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 7,
+    "text": "CGAP's early comparison with India's UPI noted that customer fees were prohibited from launch, that acquirers could set merchant fees freely, and that Pix carries no interchange fee.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "98456dda9a9115d9"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-8",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 8,
+    "text": "Institutions with **more than 500,000 accounts had to join**, which meant 38 mandatory participants, and more than 700 others joined voluntarily at launch.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-9",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 9,
+    "text": "Economists writing for the BIS attributed Pix's unusually fast uptake, with 67% of adults signed up in little over a year, to this mandate, which created network effects from day one, and to the BCB's dual role as operator and rule-setter.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "6781184a2fd1a3e2"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-10",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 10,
+    "text": "Pix replaced branch and account numbers with \"keys\" such as a phone number or email address, stored in a centralized BCB directory, and let non-bank account issuers participate directly.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "98456dda9a9115d9"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-11",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 11,
+    "text": "In May 2025, Deputy Governor Renato Gomes called Pix \"a public, open instant payments platform\" with \"an open architecture and inclusive design,\" crediting it with reducing reliance on cash and reaching underserved populations.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "d304c2236cfcbdde"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-12",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 12,
+    "text": "The same model lets the BCB push features across the market through its Fórum Pix plenary.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "b782d264127ee303"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-13",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 13,
+    "text": "Contactless Pix became mandatory for all institutions on 28 February 2025, although it initially worked only on Android through Google Wallet, with a R$500 cap per transaction.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "c9bc2fa751408186"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-14",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 14,
+    "text": "The BCB's 2023–2025 management report adds Pix Automático for recurring payments after a single authorization, and its agenda includes offline contactless payments and hybrid boleto-Pix bills.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "a953ff16b2baa823"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-15",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 15,
+    "text": "FGV's municipal series shows the share of adults using Pix in a given month rising from **6.2% in November 2020** to 49.5% a year later and **90.9% in October 2025**.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "d79d9878209dc519"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-16",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 16,
+    "text": "In 2025 Pix processed **79.8 billion transactions worth R$35.36 trillion**, up from 63.5 billion and R$26.24 trillion in 2024, roughly a quarter more in count and a third more in value.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "b9cf048a318e6ea2"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-17",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 17,
+    "text": "Growth has slowed but not stopped: in September 2026 the system processed 7.1 billion transactions worth about R$3.2 trillion, and registered keys passed **1 billion**, held by about 170 million clients.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "719bbfb995f6940f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-18",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 18,
+    "text": "The daily record, set on 6 November 2026, is 319.7 million transactions.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "7b6fab40049d082c"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-19",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 19,
+    "text": "In the second half of 2025 Pix carried 54.7% of payment transactions but only 28.6% of their value, while TED, the older interbank transfer, led by value with an average ticket of R$58,300 against Pix's R$456.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "5b7dc28761c8fd72"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-20",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 20,
+    "text": "Pix transactions grew 24.3% year on year as debit-card transactions fell 0.2% and traditional cash withdrawals fell 13.8%.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "5b7dc28761c8fd72"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-21",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 21,
+    "text": "Pix has become the rail for small, everyday payments, although a BCB working paper finds that between 2020 and 2023 it complemented boletos and TED at the municipal level rather than simply displacing them.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-22",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 22,
+    "text": "Fintechs' share of payer-side Pix transactions doubled from 25.5% in 2020 to 50% in 2025, though banks still hold 61.3% of value against 21.3% for fintechs.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "347d3ebe6b50ca6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-23",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 23,
+    "text": "For merchants, BCB economists estimated in 2022 that Pix cost about 0.22% per transaction, against just over 1% for debit cards and up to 2.2% for credit cards.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "6da30963d1c5cd6e"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-24",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 24,
+    "text": "The strongest descriptive evidence on who Pix reached comes from the BCB's Relatório de Economia Bancária 2021, released in October 2022. Of about 178.6 million adults, more than 120 million had never made an electronic transfer before Pix; by December 2021, 49 million had begun, and 36 million of them used only Pix.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "38a2b70a7736f991"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-25",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 25,
+    "text": "These newcomers had lower incomes, less formal employment and higher enrollment in the Cadastro Único social registry than existing TED users.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "38a2b70a7736f991"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-26",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 26,
+    "text": "An earlier claim by BCB director João Manoel Pinho de Mello that about 40 million people made their first transfer through Pix came without a published method, so the report's 49 million is the more authoritative figure.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "e1bd68833fb67bf9"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-27",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 27,
+    "text": "The Global Findex, as summarized by the BCB, shows account ownership rising from 70% in 2017 to **84% in 2021**, with ownership among the poorest 40% jumping from 57% to 82% and the gap with the richest 60% shrinking from 22 to 3 percentage points.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "a25800d4d7023e3a"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-28",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 28,
+    "text": "The BCB names Pix as a possible reason, but that is an interpretation, not an estimate.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "a25800d4d7023e3a"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-29",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 29,
+    "text": "Ownership then rose only to **86% in the 2024 data**, two points during the years in which Pix use exploded, a pattern that fits a story in which Pix acted on usage more than access.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-30",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 30,
+    "text": "Convergence also has exceptions: the gender gap in digital payments widened between 2017 and 2021, with women at 72.6% against 80.3% for men by the end of the period.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "a25800d4d7023e3a"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-31",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 31,
+    "text": "By December 2024, 96.4% of adults had some banking relationship, but 11.6% were inactive, concentrated among North residents, older people and those without formal jobs.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-32",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 32,
+    "text": "Among Cadastro Único adults, 74% had a Pix key and 72% made a Pix payment in 2023, and the gap between access and use narrowed from 7 points to 2.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-33",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 33,
+    "text": "In the BCB's household survey, Pix as the most-used payment method rose from 16.7% in 2021 to 46.1% in 2024, while cash fell from 41.7% to 22.0%.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-34",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 34,
+    "text": "In 2021, 55% of adults in Maranhão had never made an electronic transfer, and a Febraban survey found Pix use at 71% overall but 64% among those earning up to two minimum wages and 53% among those with only primary education.",
+    "cited_markers": [
+      "[4]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "38a2b70a7736f991",
+      "796fbe82226ab347"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-35",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 35,
+    "text": "By 2025, FGV found every region above 85% monthly adoption, with the North leading since 2023, and convergence across municipal income groups; municipalities with the lowest share of white residents reached about 81% against about 73% for the whitest, reversing the early pattern.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "d79d9878209dc519"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-36",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 36,
+    "text": "FGV's authors describe their explanations as indications, not causal findings.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "d79d9878209dc519"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-37",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 37,
+    "text": "In 2021, 69% of people over 65 used neither Pix nor TED; in 2024 only 43.9% of people over 60 used Pix frequently, while 72.7% used cash frequently; and in 2025 the oldest municipalities sat at about 69% monthly adoption against 83% in the youngest.",
+    "cited_markers": [
+      "[4]",
+      "[24]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "38a2b70a7736f991",
+      "ce4ef0b8fb18629f",
+      "d79d9878209dc519"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-38",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 38,
+    "text": "FGV also reports a persistent gap for low-connectivity municipalities.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "d79d9878209dc519"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-39",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 39,
+    "text": "Among small businesses, an IPA survey in Espírito Santo found that 96% of owners used Pix but 71% of business users relied partly on a personal-account key, and rejected loan applicants were most often told their account was \"too new\"; the sample size was not disclosed.",
+    "cited_markers": [
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "2c4c3ee30ffdb4a6"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-40",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 40,
+    "text": "The study closest to a direct inclusion estimate, a BCB working paper by Sampaio and Ornelas, finds that a 1% increase in Pix users raises first-time bank adoption by 0.80% and first-time credit relationships by about 0.45%, but the authors flag pre-trend concerns that weaken the causal reading.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "35f5c93c45673f6f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-41",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 41,
+    "text": "Sarkisyan instruments Pix use with the easing of COVID-19 restrictions and finds that small banks' deposits rose about 3% to 4% relative to large banks and that deposit concentration fell, but the effects came mainly from the already-banked population, with small-bank gains largest in richer, better-banked areas.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "ca515750bf81c83b"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-42",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 42,
+    "text": "Gonzalez, Ma and Zeng use Pix processing timeouts at counterparty banks as an instrument and find that a one-standard-deviation rise in Pix usage raised banks' liquid-asset ratio by 15.2 points and cut their loan ratio by about 28 points.",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "30e6c5302f0447af"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-43",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 43,
+    "text": "Liang, Sampaio and Sarkisyan report rising account ownership and falling branch numbers in high-Pix areas, but when they test for an inclusion channel the effect on depositors per capita is small and insignificant; lending flows fall and payment-related bank fees decline.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "3e97484ccd9f04b1"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-44",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 44,
+    "text": "A one-standard-deviation increase in exposure raised small-firm wages by about 0.3% to 0.4%, reaching about 0.8% by 2024, lowered the wage Gini by about 0.9% of its mean through gains in the bottom half, and raised micro-establishment employment and registrations of individual micro-entrepreneurs.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3646952cd08b16a5"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-45",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 45,
+    "text": "The same paper finds no fall in informal employment, no rise in business lending, and wider wage dispersion between cities because adoption was uneven.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3646952cd08b16a5"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-46",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 46,
+    "text": "Persistent informality fits the IPA finding that small firms run sales through personal keys: Pix lets informal businesses go digital without formalizing.",
+    "cited_markers": [
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "2c4c3ee30ffdb4a6"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-47",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 47,
+    "text": "Bank-level studies find falling loan ratios, the wage study finds no change in business lending, and a Princeton senior thesis, not peer-reviewed, associates a 1% rise in Pix transactions per adult with a 0.14% rise in credit to individuals.",
+    "cited_markers": [
+      "[27]",
+      "[6]",
+      "[7]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "30e6c5302f0447af",
+      "3e97484ccd9f04b1",
+      "3646952cd08b16a5",
+      "5d1d657519f0e933"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-48",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 48,
+    "text": "A J-PAL pilot with BCB participation is studying effects on small-firm productivity and formalization but has reported no results.",
+    "cited_markers": [
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "972d39a793c53c03"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-49",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 49,
+    "text": "Police recorded 2.26 million fraud cases in 2025, 429.8% more than in 2018, although the series mixes traditional and electronic fraud and does not count Pix scams separately.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "aa88d85dfb053cd4"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-50",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 50,
+    "text": "Underreporting is large: in a March 2026 survey, about 26.3 million Brazilians said they had been scammed or lost money online or by phone in the previous year.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "aa88d85dfb053cd4"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-51",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 51,
+    "text": "An earlier survey estimated that about 24 million people fell victim to Pix or boleto scams between July 2024 and June 2025, losing almost R$29 billion, with older people targeted mainly through fake boletos.",
+    "cited_markers": [
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "9fc68658daa122c5"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-52",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 52,
+    "text": "Since November 2024, a device never before used to send a Pix is limited to R$200 per transaction and R$1,000 per day until registered.",
+    "cited_markers": [
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "f15fb45f74de157d"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-53",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 53,
+    "text": "From October 2025 every app had to offer fully digital fraud contestation, with refunds traceable beyond the first receiving account.",
+    "cited_markers": [
+      "[32]"
+    ],
+    "cited_reference_ids": [
+      "eee36e2f5c7c5d7a"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-54",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 54,
+    "text": "This expanded return mechanism, MED 2.0, became mandatory on 2 February 2026, with adaptation until May 2026; sources disagree on whether refunds take up to 7 or up to 11 days.",
+    "cited_markers": [
+      "[33]",
+      "[32]"
+    ],
+    "cited_reference_ids": [
+      "170dedd0600a429f",
+      "eee36e2f5c7c5d7a"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-55",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 55,
+    "text": "Its predecessor recovered **only about 7% of losses** on average, so victims bore almost all the cost through 2025.",
+    "cited_markers": [
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "2ba12bc33b3fc8d9"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-56",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 56,
+    "text": "No data on MED 2.0's results appeared in the sources. Privacy adds exposure, because Pix turns personal identifiers into payment addresses, and the BCB has disclosed 23 leaks of key-registration data since launch.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "1d3b956f3693de74"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-57",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 57,
+    "text": "The digital divide caps Pix's reach. TIC Domicílios 2025 counts **28 million Brazilians who do not use the internet**, including 16 million aged 60 or older and 14 million in the poorest classes.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "84e20f22127a2ea5"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-58",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 58,
+    "text": "Among users, 65% go online only by phone, and 64 million ran out of mobile data at least once in three months.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "84e20f22127a2ea5"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-59",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 59,
+    "text": "For these groups cash remains the default even as its infrastructure shrinks: bank branches fell 14.6% between 2020 and 2024, and municipalities served only by banking correspondents rose from 408 to 520.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-60",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 60,
+    "text": "Liang and coauthors find a causal branch decline in high-Pix areas.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "3e97484ccd9f04b1"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-61",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 61,
+    "text": "Pix's trusted brand also creates a credit hazard. On 4 December 2025 the BCB abandoned plans to regulate \"Pix Parcelado,\" installment credit sold through the Pix interface, banning the name but leaving products that charge around 5% a month, with a total effective cost near 8%.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "b782d264127ee303"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-62",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 62,
+    "text": "The consumer group Idec called the reversal unacceptable and warned that Pix's reputation could encourage impulsive borrowing.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "b782d264127ee303"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-63",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 63,
+    "text": "In July 2025 attackers used client credentials at C&M Software, a provider connecting smaller institutions to the BCB, to divert funds from settlement reserve accounts; unofficial loss estimates ranged from R$400 million to R$800 million.",
+    "cited_markers": [
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "9393b05055f4d2be"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-64",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 64,
+    "text": "The BCB responded in September 2025 with a R$15,000 cap on transfers by unauthorized payment institutions, a May 2026 deadline for them to seek authorization instead of December 2029, and R$15 million minimum capital for technology providers.",
+    "cited_markers": [
+      "[37]"
+    ],
+    "cited_reference_ids": [
+      "2f9c77c95a0e17df"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-65",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 65,
+    "text": "At home, a Receita Federal rule in force from 1 January 2025 extended transaction reporting to Pix and fintechs, and false claims that the government would tax Pix spread rapidly.",
+    "cited_markers": [
+      "[38]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "39a7694b5e3ab753",
+      "f9b95a4325f0f212"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-66",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 66,
+    "text": "Pix transfers in the first two weeks of January fell to 2.29 billion, the lowest since July 2023; the rule was annulled, the government issued a provisional measure restating that Pix is tax-free and covered by bank secrecy, and volumes returned to near their average by late January, though part of the dip was seasonal.",
+    "cited_markers": [
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "39a7694b5e3ab753"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-67",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 67,
+    "text": "In a Section 301 investigation, the US Trade Representative objected to the BCB's dual role as regulator and operator, mandatory participation by large banks, Pix's prominent placement in banking apps and fee caps.",
+    "cited_markers": [
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "1c1492830eca1836"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-68",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 68,
+    "text": "On 1 June 2026 USTR found Brazil's practices actionable and recommended tariffs of up to 25% on most Brazilian goods.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "d5af779d9704441c"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-69",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 69,
+    "text": "As of 21 July 2026 negotiations remained open, and President Lula called Pix \"a heritage of our people.\"",
+    "cited_markers": [
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "1c1492830eca1836"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-70",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 70,
+    "text": "PIIE's Monica de Bolle argues that a public payment system is not a trade barrier and that the deeper risk is sanctions spillover; for her the question is whether Pix \"can remain Brazilian in governance and design.\" The sources do not establish whether the tariffs took effect or how the dispute stood after July 2026.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "d5af779d9704441c"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-71",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 71,
+    "text": "It is unclear how many of the roughly 71 million adults who used neither Pix nor TED in 2021 have since joined, because the count has not been officially updated.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "38a2b70a7736f991"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-72",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 72,
+    "text": "No causal study in the sources links Pix to government transfers such as Bolsa Família, despite near-universal Pix use among Cadastro Único adults.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-73",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 73,
+    "text": "Whether MED 2.0 raises recovery above 7% is unknown.",
+    "cited_markers": [
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "2ba12bc33b3fc8d9"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-74",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 74,
+    "text": "Researchers disagree on whether Pix expands lending, and regulators have declined to set rules for the credit products that use its name.",
+    "cited_markers": [
+      "[28]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "5d1d657519f0e933",
+      "b782d264127ee303"
+    ]
+  },
+  {
+    "id": "pix_brasil_c371a97f12c1_20261115T025714Z-75",
+    "answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "position": 75,
+    "text": "Whether the widened gender gap of 2021 has persisted cannot be judged from the sources reviewed.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "a25800d4d7023e3a"
+    ]
+  }
+]

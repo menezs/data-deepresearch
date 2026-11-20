@@ -1,0 +1,6 @@
+[referencia=5e24303b44285404 score=0.990]
+Loading...
+
+All glucagon-like peptide-1 (GLP-1) receptor agonists available in the U.S. carry a boxed warning about a possible association with thyroid cancer; they are contraindicated in patients with personal or family histories of medullary thyroid cancer or multiple endocrine neoplasia syndrome type 2. These concerns emerged from premarketing studies in rodents and have been sustained by some evidence from pharmacovigilance studies, post hoc analyses of randomized trials, and observational data.
+
+To examine this issue, investigators analyzed Scandinavian registry data from 145,000 patients who started taking GLP-1 receptor agonists and 290,000 patients who started taking dipeptidyl peptidase-4 (DPP-4) inhibitors between 2007 and 2021. (DPP-4 inhibito…

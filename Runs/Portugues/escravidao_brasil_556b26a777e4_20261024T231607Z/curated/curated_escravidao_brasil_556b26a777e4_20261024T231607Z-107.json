@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "escravidao_brasil_556b26a777e4_20261024T231607Z-107",
+  "passages": [
+    {
+      "reference_chunk_id": "0ca0d957bc45b8a5-0",
+      "reference_id": "0ca0d957bc45b8a5",
+      "score": 0.00034260391839779913,
+      "text": "A Proclamação da República\n  Em 1889, sob fortes questionamentos dos fazendeiros, dos militares e da Igreja, o imperador D. Pedro II é deposto. Um levante militar institui a república como a nova forma de governo do Brasil. \n  https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica\n  https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica/@@download/image/video_proclamacao.jpg\n \n            \n                # A Proclamação da República\n\n            \n            \n\n            \n                Em 1889, sob fortes questionamentos dos fazendeiros, dos militares e da Igreja, o imperador D. Pedro II é deposto. Um levante militar institui a república como a nova forma de governo do Brasil."
+    }
+  ],
+  "assembled_context": "[referencia=0ca0d957bc45b8a5 score=0.000]\nA Proclamação da República\n  Em 1889, sob fortes questionamentos dos fazendeiros, dos militares e da Igreja, o imperador D. Pedro II é deposto. Um levante militar institui a república como a nova forma de governo do Brasil. \n  https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica\n  https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica/@@download/image/video_proclamacao.jpg\n \n            \n                # A Proclamação da República\n\n            \n            \n\n            \n                Em 1889, sob fortes questionamentos dos fazendeiros, dos militares e da Igreja, o imperador D. Pedro II é deposto. Um levante militar institui a república como a nova forma de governo do Brasil.",
+  "skip_reason": null
+}

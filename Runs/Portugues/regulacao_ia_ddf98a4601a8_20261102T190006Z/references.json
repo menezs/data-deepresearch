@@ -1,0 +1,173 @@
+[
+  {
+    "id": "37441f02f270282b",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng",
+    "normalized_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng",
+    "work_key": "https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng",
+    "title": "**União Europeia — Regulation (EU) 2024/1689 — Artificial Intelligence Act, versão consolidada em 27 de julho de 2026.** EUR-Lex.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T06:04:07.253947Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "7d26e3244b0c5fcf",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32026R1744",
+    "normalized_url": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=CELEX%3A32026R1744",
+    "work_key": "https://eur-lex.europa.eu/legal-content/EN/TXT?uri=CELEX%3A32026R1744",
+    "title": "**União Europeia — Regulation (EU) 2026/1744, que altera o Regulamento (UE) 2024/1689, inclusive quanto a disposições e cronogramas de aplicação.** EUR-Lex.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T01:43:20.194551Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "8f3783089fb74217",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9915448",
+    "normalized_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9915448",
+    "work_key": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9915448",
+    "title": "**Senado Federal — Autógrafo do Projeto de Lei nº 2.338, de 2023: “Dispõe sobre o uso da Inteligência Artificial”, texto aprovado pelo Senado e encaminhado à Câmara dos Deputados.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-04T06:04:53.046716Z",
+    "error_message": "pymupdf4llm nao conseguiu extrair texto do PDF",
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2ddcc05b33f7db1a",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "normalized_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "work_key": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "title": "**Senado Federal — Projeto de Lei nº 2.338, de 2023 — Marco Legal da Inteligência Artificial: tramitação, documentos, votação e autógrafo.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T01:43:59.758568Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f7d309a1d1b98e5f",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2338-2023",
+    "normalized_url": "https://congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2338-2023",
+    "work_key": "https://congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2338-2023",
+    "title": "**Congresso Nacional — PL 2338/2023 — Tramitação bicameral e situação atual.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T01:44:03.825844Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5f3e072377bda147",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "work_key": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "title": "**Câmara dos Deputados — PL 2338/2023 — Ficha de tramitação na Câmara dos Deputados.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:00:32.027487Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0c6729482dce59f9",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://itsrio.org/pt/publicacoes/relatorio-matriz-comparada-de-obrigacoes-pl-2338-2023-vs-eu-ai-act-2/",
+    "normalized_url": "https://itsrio.org/pt/publicacoes/relatorio-matriz-comparada-de-obrigacoes-pl-2338-2023-vs-eu-ai-act-2",
+    "work_key": "https://itsrio.org/pt/publicacoes/relatorio-matriz-comparada-de-obrigacoes-pl-2338-2023-vs-eu-ai-act-2",
+    "title": "**Instituto de Tecnologia e Sociedade do Rio — Relatório: Matriz comparada de obrigações — PL 2338/2023 vs. EU AI Act.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T19:00:34.556378Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5fdb278a20487e16",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/382094171_Regulation_of_artificial_intelligence_in_Brazil_examination_of_Draft_Bill_no_23382023",
+    "normalized_url": "https://researchgate.net/publication/382094171_Regulation_of_artificial_intelligence_in_Brazil_examination_of_Draft_Bill_no_23382023",
+    "work_key": "https://researchgate.net/publication/382094171_Regulation_of_artificial_intelligence_in_Brazil_examination_of_Draft_Bill_no_23382023",
+    "title": "**FRAZÃO, Ana — “Regulation of artificial intelligence in Brazil: examination of Draft Bill no. 2338/2023”.** Estudo acadêmico sobre a abordagem regulatória baseada em risco do projeto brasileiro.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T06:04:06.867089Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "d636ac1d267aca78",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2629/audiencias",
+    "normalized_url": "https://legis.senado.leg.br/atividade/comissoes/comissao/2629/audiencias",
+    "work_key": "https://legis.senado.leg.br/atividade/comissoes/comissao/2629/audiencias",
+    "title": "**Senado Federal — Comissão Temporária Interna sobre Inteligência Artificial no Brasil — audiências públicas e debates sobre categorização de riscos, governança e avaliação de impacto algorítmico no PL 2338/2023.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T01:43:40.306759Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_ddf98a4601a8_20261102T190006Z",
+    "tool_name": "ChatGPT"
+  }
+]

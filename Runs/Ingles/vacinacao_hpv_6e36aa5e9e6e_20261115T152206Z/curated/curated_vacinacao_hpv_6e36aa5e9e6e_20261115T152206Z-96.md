@@ -1,0 +1,76 @@
+[referencia=73456c7ed7abb3d0 score=0.002]
+# Reports
+
+**Please Note:**These reports are written and intended for the education of healthcare professionals.
+
+### FUTURE I and FUTURE II: Vaccination Against Human Papillomavirus
+
+This report is based on medical evidence presented at sanctioned medical congress, from peer reviewed literature or opinion provided by a qualified healthcare practitioner. The consumption of the information contained within this report is intended for qualified Canadian healthcare practitioners only.
+
+##### Based on the following published articles: N Engl J Med May 10, 2007;356(19):1915-27, 1938-43
+
+---
+
+[referencia=73456c7ed7abb3d0 score=0.000]
+## Questions and Answers
+
+The following question-and-answer session was conducted with Dr. Marc Steben, Associate, Institut national de santé publique du Québec, Montreal, and FUTURE I co-investigator.
+
+ *Q: How would you characterize results from these two studies?*
+
+*A:* We knew the vaccine would be pretty good because preliminary immunogenicity results were good, but now we know that the vaccine protects not only against infection but disease, and significant disease at that, including precursors to cancer. So results are pretty astonishing, especially because the women included in the study are fairly low-risk. And if you look at how many women were in the trials, the data are very strong. 
+
+ *Q: How long do you think protection from the vaccine can be expected to persist?*
+
+*A:* We have data now out to beyond five years, and we have found that the vaccine induces not just humoral but cellular responses. With this kind of immune reaction, it is pretty safe to say protection could be life-long. 
+
+ *Q: What impact do you foresee the vaccine having on HPV-related disease?*
+
+*A:* With this vaccine, we see the disappearance of four HPV viral strains that are responsible for most of the burden of HPV-related disease. For example, 16 and 18 are responsible for about 70% of cervical cancer, so that is one big benefit. Further, 90% of adenocarcinomas are caused by 16 and 18 and again, we saw complete protection against these precursors, so there is another major benefit. We should also not forget the burden of diseased caused by HPV 6 and 11, which are responsible for 90% of genital warts, because not only are genital warts extremely common but treatment can destroy genital tissue. Low-risk HPV types probably also cause up to one-quarter of low-grade smears on PAP tests and maybe another quarter of atypical squamous cells, so there is a huge potential to save both morbidity and costs associated with abnormal PAP smears. The government invested $300 million to vaccinate young women so the vaccine must represent one of the best investments they could make in terms of the health of Canadians. 
+
+References:
+
+---
+
+[referencia=73456c7ed7abb3d0 score=0.000]
+The per-protocol population, consisting of 2261 women in the vaccine group and 2279 in the placebo group, was seronegative and HPV DNA-negative on PCR analysis for all four subtypes on day 1, and they remained negative for the same subtypes out to seven months. They also received all three doses of the vaccine within 12 months of study entry. In this population, the vaccine proved 100% effective in preventing vaginal, vulvar, perineal and perianal intraepithelial lesions or warts caused by vaccine-type HPV. The vaccine was 100% effective in preventing CIN grades 1 to 3 as well as adenocarcinoma in situ from vaccine-type HPV again in the per-protocol group.
+
+An unrestricted susceptible population included women who were naive to vaccine subtypes at study entry but whose PAP smear results may have been abnormal on day 1 and who may not have followed study protocol requirements. In this cohort, the vaccine proved to be 95% effective against all grades of external anogenital or vaginal lesions combined, 98% effective against all grades of cervical lesions combined and 91% effective against high-grade vulvar or vaginal lesions. Against adenocarcinoma in situ, it was 100% effective.
+
+As investigators pointed out, the public health benefit of a safe and effective HPV vaccine will be measured by its effect in all vaccinated women. They therefore estimated vaccine efficacy in an intention-to-treat (ITT) population as well. The ITT group included women even if they had vaccine-type HPV infection or disease prior to vaccination and even if results on cervical cytologic exam on day 1 were abnormal. Those who violated the protocol were included in the ITT analysis as well. In this real-world ITT population, the vaccine was 73% effective against all grades of vaccine-type HPV-related external anogenital or vaginal lesions combined and 55% effective against all grades of cervical lesions combined.
+
+---
+
+[referencia=73456c7ed7abb3d0 score=0.000]
+## FUTURE I
+
+The new quadrivalent vaccine against human papillomavirus (HPV) offers not only 100% protection against anogenital disease in women who have not been exposed to HPV prior to vaccination, but it also reduces the number of anogenital lesions in women who may have been infected with HPV.
+
+Results from the randomized 16-country FUTURE I (Females United to Unilaterally Reduce Endo/Ectocervical Disease) study reaffirmed findings from earlier trials that vaccinating young women prior to their sexual debut offers complete protection against HPV subtypes 6, 11, 16 and 18 for at least three years. Findings also support current National Advisory Committee on Immunization (NACI) recommendations to vaccinate females between the ages of nine and 13, before the onset of sexual intercourse, where the efficacy of the vaccine would be greatest. NACI also recommends females between the ages of 14 and 26 receive the vaccine, whether or not they are already sexually active. They may not have been infected with HPV yet and it would be quite unlikely to have been infected with all four vaccine types. Sexually active females in this age group who have had previous PAP abnormalities, including cervical cancer, or have had known HPV infection or genital warts would also still benefit from the vaccine, although it would not have any effect on existing cervical lesions.
+
+FUTURE I enrolled a total of 5455 women between the ages of 16 and 24 who were randomized to receive either three doses of the quadrivalent vaccine or placebo. The co-primary composite end point was the incidence of genital warts, vulvar or vaginal intraepithelial neoplasia or cancer, as well as the incidence of cervical intraepithelial neoplasia (CIN) of any grade, adenocarcinoma in situ or cancer associated with HPV types 6, 11,16 or 18.
+
+---
+
+[referencia=73456c7ed7abb3d0 score=0.000]
+References:
+
+Future II Study Group. Quadrivalent vaccine against human papillomavirus to prevent high-grade cervical lesions. N Engl J Med 2007;356(19):1915-27 Garland et al. Quadrivalent vaccine against human papillomavirus to prevent angenital diseases. N Engl J Med 2007;356(19):1928-43
+
+---
+
+[referencia=73456c7ed7abb3d0 score=0.000]
+## FUTURE II
+
+FUTURE II, another major, randomized trial involving over 12,000 women, demonstrated that the quadrivalent vaccine significantly lowers the occurrence of high-grade CIN caused by HPV 16 or 18 in women not previously infected with either viral subtype. As in FUTURE I, the per-protocol group, including 5305 women in the vaccine group and 5260 in the placebo group, had no virologic evidence of infection with either HPV 16 or 18 through to month 7, while the ITT population included those with and without previous infection. An unrestricted susceptible population was defined as in FUTURE I. The primary composite end point was the incidence of CIN grades 2 or 3, adenocarcinoma in situ or cervical cancer related to HPV 16 or 18.
+
+In the per-protocol population, the vaccine prevented 98% of HPV 16- and 18-related high-grade cervical lesions. Vaccine efficacy remained high at 95% in the unrestricted susceptible population, while in the ITT population (including women with and without prevalent CIN and infection due to vaccine and non-vaccine HPV types at baseline), vaccine efficacy was 44% against high-grade cervical disease caused by HPV 16 or 18. Estimated vaccine efficacy against all high-grade cervical lesions—regardless of causal HPV type—was 17% in the ITT population, investigators added.
+
+Intriguingly, a study of 100 patients with newly diagnosed oropharyngeal cancer suggests that HPV 16 infection is present in the majority of cancers sampled and that some oral, oropharyngeal and laryngeal cancer might be prevented by HPV vaccination as well.
+
+Together, FUTURE I and II provide the most comprehensive data ever collected for a vaccine against cancer and suggest that vaccination prior to a female’s sexual debut could virtually eliminate disease caused by HPV types 6, 11, 16 and 18 and reduce all HPV-related disease burden, regardless of the causal type.
+
+---
+
+[referencia=73456c7ed7abb3d0 score=0.000]
+A second ITT analysis was carried out to evaluate the effectiveness of the vaccine against anogenital disease caused by strains not covered by the vaccine. “For the primary composite disease end points, in the vaccine group there was a reduction of 34%... in the incidence of external anogenital or vaginal lesions and a reduction of 20%... in cervical lesions, regardless of the causal HPV type,” investigators reported. Injection-site adverse events were more likely to be reported by vaccine recipients, the most common being pain. In what has been an exceptionally large clinical program evaluating its safety and efficacy, the vaccine has proven to be remarkably safe.

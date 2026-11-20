@@ -1,0 +1,356 @@
+[referencia=7cae18c31cf69814 score=0.669]
+PNPE 16/84 
+
+61 
+
+Assim, estes quatro Censos constituem a melhor fonte de inform-aço es sobre a populaçao escrava, no Brasil do século XIX. 
+
+Podemos observar na tabela 1, deste anexo, que o número de escravos do Brasil elevou-se de 1823 a 1872, a uma taxa média geométrica de crescimento de 0,54% ao ano, declinando, porém, de 1872/73 a 1886/87 a uma taxa de C-5,44%) ao ano. 
+
+A população da região produtora de cafe apresenta a mesma evo­ lução da população total de escravos do Brasil, mas, com uma importante diferença: apresenta uma taxa de crescimento mais alta Cl»44%) ao ano, durante a tendência ascendente. 
+
+Se considerarmos o agregado de outras regiões., entretanto,.sur­ gira um quadro diferente. A população escrava diminui era am­ bos os períodos. De 1823 a 1872 decresce a uma taxa negativa de C~0s29%) ao ano, e de 1872 /73 a 1886 /87 ã taxa de C“7,28%) ao ano . 
+
+Portanto, a população escrava, em termos relativos, concentra­ va-se na região produtora de café, passando de 38,4% do total da população escrava brasileira, em 1823, para 59,0%, em 1872. Em 1886/87, ãs vesperas da aboliçao final, concentrava 66,7% do número total de escravos do Brasil. 
+
+Embora os dados agregados possam indicar os efeitos das migra­ ções do restante do Brasil para à região produtora de cafe, nao apontam as importantes migrações internas na região produtora de cafe .
+
+---
+
+[referencia=7cae18c31cf69814 score=0.608]
+82 
+
+PNPE 16/84 
+
+~ .22 liçao da escravatura por parte dos- fazendeiros outra conse­ quência da pressão aho 1icionista1; C6 1 uma concentração de cuidados com os pês jã plantados, que, como ja foi visto, mon­ tavam a quase 1 bilhão,dos quais quase 50% tinham sido planta­ dos na década de 70. 
+
+2 .5 Algumas projeçòes 
+
+Um tópico de considerável impor tancia durante este período consistiu na previsão do tempo de duraçao do estoque de escra­ vos, por a Lei do Ventre Livre e a Lei dos Sexagenários terem sido estabelecidas e postas em vigor e dada a suposição de que a taxa de manumissões foi constante em níveis que prevaleciam antes da pressão abolicionista da década de 80. 
+
+Portanto, podemos expressar este tópico na seguinte hipótese contra-factua1: supondo-se a existência das Leis de 1871e 1885 e, naturalmente, a inexistência da Lei da Abolição Total de 1888, e dadas as tendências históricas da manumissao (antes da mudança extraordinária das taxas, ocasionada pela pressão abo­ licionista da década de 80), qual seria a população escrava no futuro, isto ê, em 1892 e 1902? Q uao adequado seria esse es­ toque projetado de escravos, para suprir trabalhadores para as fazendas de cafe (supondo-se que as tarifas de importação da região do cafe sobre o comércio interprovincial de escravos nao tivessem sido estabelecidas nem tivessem em vigor)?
+
+---
+
+[referencia=7cae18c31cf69814 score=0.552]
+a] Uma migração internacional relativamente insig­ nificante; ou seja, uma população aproximadamente fechada,com uma inexpressiva migração externa para dentro ou de nacionais para fora do país; 
+
+b) uma fecundidade aproximadamente constante nos a- nos anteriores ao recenseamento. 
+
+**PNPE 16/84** 
+
+**177** 
+
+Com relação ao item "a" anterior, examinaremos em primeiro lugar a questão da emigração. 
+
+As manumissões podem ser vistas como uma emigração de elementos da população escrava para a livre. Dada a expre£ siva importância das manumissões, não podemos afirmar que - a população escrava era fechada. Não conhecemos o número, por sexo e idade, da parcela da população do Brasil em 1872, que nasceu escrava, mas foi alforriada antes da data do censo. Da da a extensão e o grau de manumissões e a importância da popu lação preta, parda e mulata na população escrava, nossa anãli se abrange o total da população de cor, livre e escrava, ao invés de apenas a população escrava. 
+
+Portanto, usando a população total de cor, o proble ma das manumissões se torna irrelevante. Além do mais, como os outros ajustes que serão feitos são de pequena grandeza em relação ã população escrava, as estimativas de longevidade do total da população de cor podem ser usadas com certa confian­ ça, como uma aproximação do limite superior da longevidade dos escravos. 
+
+Além disso,dadas as condições de mortalidade entre pretos, pardos e mulatos livres não diferirem muito das que prevaleciam entre os escravos, como veremos adiante, estas es_ timativas podem ser interpretadas como um limite superior de um intervalo relativamente pequeno.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.504]
+Observemos os dados apresentados na tabela 10. Utilizamos como base para as projeções o número de escravos e a distribuição eta ria apresentados no Recenseamento de 18'72. Os resultados nao-agregados para faixas etãrias de um e de cinco anos, apresentados no Recer.se amen t o , foram usados sempre que possível. As proje­ ções foram feitas separadamente para escravos do sexo masculino e feminino. Para todos os grupos etários, pr ime ir ament ?. - por in it e r p o 1 a ç ã o . 1 i ne a r , se necessário - obtivemos o número de escra-vos em cada faixa etária de um ano, centra 1izand o-o na metade do ■ano, e então aplicamos os coeficientes de probabilidade de sobre vivência dez anos depois. Estes coeficientes sao a média entre as estimativas do limite superior e inferior da probabilidade' de sobrevivência de escravos, num período de 10 anos (ver Mello, op. cit . , Tabelas 8 e 9), Finalmente, as populações escravas projetei das em 1882, 1892 e 1902 foram agregadas nas faixas etãrias dec£ na i s . 
+
+VER TABELA 10 
+
+As projeções da populaçao escrava apresentadas na tabela em quejs tão não consideraram o .numero de manumissoes no período. Isto, como veremos posteriormente, será mais que contrabalançado pela inclusão de ingênuos. 
+
+23 Não há registros sistemáticos do número de escravos fugidos. Entretanto, antes das fugas em massa da década de 80, causadas pelo movimento aboli - cionista, as fugas de escravos das fazendas de café eram relativaniente sem importância. 84 PNPE 
+
+PNPE 16/84 
+
+Tabela 10 - Projeções demográficas da população escrava do sexo masculi­ no e do sexo feminino, segundo faixas-etárias deccnais, 1392.e 1902
+
+---
+
+[referencia=7cae18c31cf69814 score=0.393]
+Esses dados sao provenientes de quatro recenseamentos de es­ cravos, feitos durante o século XIX1: Cl) 0 Re censeamento de 1823 foi o melhor recenseamento de escravos realizado no pe­ ríodo anterior à abolição do tráfico de escravos africanos; (.2) o Recenseamento de 1872 foi o único recenseamento geral da po­ pulaçao , ■fei to durante o período de escravidão, abrangendo a população livre e a escrava: e bastante fidedigno e foi reali­ zado em agosto de 1872, embora em algumas províncias (por exem­ plo, Sao Paulo) tenha sido concluído apenas dois anos mais tarde; (_
+
+---
+
+[referencia=7cae18c31cf69814 score=0.392]
+|31-40<br>201.888|335.366|218.063|211.018|
+|41-50<br>65.276|151.584|‘251.965|163.474|
+|51-60<br>51.164|43.715|102.048|169.338|
+|738.071|803.960|835,467|543.830|
+
+
+
+------Nct a ' . £ Resultados do Recenseamento de 1872. Para as projeções do item c, usamos como base o número de escra­ vos c a distribuição etária apresentados no Recenseamento dc 1872. Fonte: Recenseamento de 1872. In: Brasil. Recenseamento da população do Brazil a que se nrocedcu no dia lç de a;>ost õ dc 187 2 . Rio de danei ™“18T2 - 67--------- '--------------------- ------------------ ------------------------Matrícula 1836/87. In: Brasil. Ministério da Agricultura. Rclatório 1888. 
+
+PNPE 16/84 
+
+85 
+
+A década de 70, no que .diz respeitoàs manumissoes que estavam ocorrendo, nao foi típica das tendências históricas precedentes, devido ao número relativamente alto de manumissoes, embora seja muito mais representativa da historia da escravatura brasileira que a década de 80.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.381]
+**PNPE 16/84** 
+
+**216** 
+
+
+
+|80.3SS<br>I<br>8.928<br>1<br>8.928<br>I 89.281<br>I<br>89.284|
+|---|
+
+
+
+**I CM CQ C3 0 CÚ** 
+
+**PNPE. 16/84** 
+
+217 
+
+da tabela A2 (anexo 1). Assumimos que apenas uma-parte dos so breviventes de cor mostrados na tabela B2 nasceram escravos . Para calcular seu número, supusemos que as taxas de manumis_ são das populações africanas masculina e feminina (25,8 a 21,835) também se aplicariam a eles, e, além disso, não haveria diferenças dessas taxas de manumissão entre faixas etá­ rias. Também deduzimos, portanto, estes resultados da popula­ ção escrava e obtivemos a população8 nativa de escravos. 
+
+Necessitamos um ajustamento adicional para a popula­ ção nativa de escravos: somar aqueles que nasceram escravos, mas foram alforriados antes da data do recenseamento . Calcula, mos que esta proporção era de 7,55, em relação ã população e^s crava de 1872. 
+
+Obtivemos esta taxa com um estudo que fizemos, no R£ censeamento de 1856, da Província do Rio de Janeiro, em que a proporção era de 7,3359. Para obter o número de alforriados por sexo e faixa etãria, fizemos três tipos de cálculo: em primeiro lugar, tomamos em consideração que a taxa de manumis_ são de escravos africanos não era típica da população escrava como um todo10; em segundo lugar, tivemos de estimar o número desses libertos segundo o sexo11; finalmente, estimamos a dis_ tribuição'dos libertos segundo faixas etárias12. A estimativa final dos libertos por sexo e idade em 1872 é, portanto, a se guinte: 
+
+VER TABELA B-3
+
+---
+
+[referencia=7cae18c31cf69814 score=0.315]
+|tura Populacionai ê~~Economica de alguns Centros Mineratorios,<br>^71^|
+|1804], Sao Paulo: Instituto dé Pesquisas EconômicasTT981; IRAGl DEL|
+|NERO D.A COSTA, Vila Rica: População (1719-18261 , São Paulo: Instituto<br>|
+|de Pesquisas Econômicas, Í97B'; 'RAR.REN DEAN, Rio Claro: A Brazilian|
+|Plantation System, 1820-1920, Stanford Universíty Press, 1976.|
+
+
+
+- 2- Constituem exceção o Recenseamento de 1872, como será visto adiante, e as Matrículas Gerais dos Escravos (1873 e 1887]. 
+
+- 3« Se D representa o total de mortes entre os escravos do país durante um certo ano, e P o número médio de escravos vivendo no país no mesmo período, então a taxa bruta de mortalidade (TBM) é definida como: 
+
+
+
+onde K é uma constante, que toma o valor de 1.000. Esta fórmula é uma versão modificada daquela apresentada por SPIEGELMAN, Mortimer. Introduction to demogranhy. Chicago, The Society of Actuaries, 1955, p. 54-5. 
+
+- Se, para qualquer sexo, nDx ê o número de mortes entrepos^ escravos com idades de x a x+n num determinado ano e país, e n x ê o número médio de escravos com idade de x e x+n vivendo no país durante o mes mo período, então a taxa específica cie mortalidade segundo a faixa e- tãria é; 
+
+
+
+SPIEGELMAN, Mortimer. op. cit., p. 55-6. 
+
+**193** 
+
+**PNPE 16/84**
+
+---
+
+[referencia=7cae18c31cf69814 score=0.312]
+|a) População' escrava do sexo|masculino|||
+|---|---|---|---|
+|Faixas etári as<br>1 872a|1382|1892|1902|
+|0-10<br>195.906||||
+|11-20<br>174.960||||
+|21-30<br>223.606|150.164|142.835||
+|31-40<br>104.348|■ 177.404|118.988|113.676|
+|41-50<br>33.989|76.246|129.972|87.024|
+|51-60<br>26.793|21.669|48.694|82.978|
+|61-70<br>21.004||||
+|71 +■<br>22.476||||
+|803.032|425.483|440.489|283.678|
+|b] População escrava do sexo|feminino|||
+|Faixas otárias<br>1872a ■|1 882|1 892|1902|
+|0-10<br>170.033||||
+|' 11-20 ‘<br>145.350||||
+|21-30<br>196.137|123.131|. 150.556||
+|31-40<br>97.540|157.962|99.075|97.342|
+|41-50<br>31.287|75.338|121.993|76.450|
+|51-60<br>24.371|22.046|53.354|83.360|
+|61-70<br>19.304|•|||
+|71 +<br>20.206||||
+|704.228|378,477|394.978|260.152|
+|c) População escrava total.|de 21 a 60 anos d|e idade||
+|Faixas etárias .<br>1 872a|1882|1892|1902|
+|21-30<br>419.743|273.295|263.391||
+|31-40<br>201.888|335.366|218.063|211.018|
+|41-50<br>65.276|151.584|‘251.965|163.474|
+
+---
+
+[referencia=7cae18c31cf69814 score=0.297]
+**PNPE 16/84** 
+
+**175** 
+
+Tabela 1 - Brasil, 1872. População livre e escrava por sexo e cor (a) 
+
+|Estado jurídico|Masculino|Feminino|Total|
+|---|---|---|---|
+|Livre|4-388,7|4.100,9|8.429,6 .|
+|Brancos|■ 1.971,8|1.815,5|3.787,3|
+|Mulatos|1.684,0|1.650,3|3.334,3|
+|Pretos .|472,0|449,1|921,1|
+|Caboclos|200,9|186,0|386,9|
+|Escrava|805 ; 1|705,7|1.510,8|
+|Mulatos|252,8|224,7|477,5|
+|Pretos|552;3 '|481,0 ;|1.033,3|
+|Total|5.133,8|4.806,6|9.940,4|
+
+
+
+Notas: a) Os resultados apresentados nesta tabela são os resultados a- gregados da distribuição por idade dos "Quadros Gerais". 
+
+- b) Os caboclos eram os descendentes puros de índios, ou aqueles com predominância dessa raça, geralmente misturados com bran cos. 
+
+Fonte: Recenseamento de 1872. In: BRASIL. Recenseamento da população do Brázil a que se procedeu no dia l9 de Agosto de 1872. Rio de Ja neirõ, 1872-76. 
+
+Podemos fazer duas considerações com base nesses da dos: quando a população parda, mulata e preta ê considerada c-m sua totalidade, vemos que a participação relativa dos escra­ vos é pequena, representando somente 26,2*a. Esta proporção é pequena, quando comparada com o .mesmo fenômeno no sul dos Es­ tados Unidos ou mesmo em Cuba, quando de suas respectivas ex­ periências com a escravidão?5.. A segunda consideração ê que 
+
+**176** 
+
+**PNPE 16/84**
+
+---
+
+[referencia=7cae18c31cf69814 score=0.292]
+Quando os resultados da Matrícula de 1886/87 foram divulgados, a diferença entre a populaçao escrava em 30 de setembro de 1886 (meio do período da Matrícula, feita entre 30 de março de 1886 e 30 de março de 1887) e a última atualização da Matrícula de 1872/73 (feita em 30 de junho de 1885) era de 409.809 escravos32. Uma fraçao substancial desta cifra, entretanto, não consistia de manumissoes: foi causada por uma sub contagem de mortes de escravos, acumuladas em sucessivas atualizações da Matricula de 1872/73, fato descoberto apenas pela segunda Matrícula de 1886/ 87. Já que as cifras de manumissoes efetivas entre 30 de junho de 1885 e 30 de setembro de 1886 (com exceção dos escravos se­ xagenários libertados) não foram publicadas, estimamos que, pa­ ra este período de 15 meses, o número de manumissoes, era bases 
+
+""BRASIL. Ministério da Agricultura. Relatório, 1880, p. 44. 29 BRASIL. Ministério da Agricultura. Relatório, 1883, p. 12. 30 BRASIL. Ministério da Agricultura. Relatório, 1886, p. 34. 31 Id. ibid., p. 31. 32 BRASIL. Ministério da Agricultura. Relatório, 1888, p. 25 
+
+PNPE 16/84 
+
+87
+
+---
+
+[referencia=7cae18c31cf69814 score=0.270]
+O segundo item de grande importância, que resultou na desagregação do trabalho servil, foi o fato de a escravidão ne­ gra no Brasil ter sido a forma dominante de organização do tra­ balho durante o período colonial (1500-1822). Durante as três últimas décadas do período imperial (1822-89), embora sua irnpo� tância tivesse declinado em algumas regiões do País, o trabalho servil foi o modo predominante de organização do trabalho na r� gião formada pelas províncias produtoras de café,<sup>5</sup> onde as fa­ zendas cafeeiras utilizavam, em sua quase totalidade, trabalha­ dores escravos, até a abolição final em 1888. A população es­ crava superou a população livre no Brasil durante quase todo o período colonial. Em meados do século XVIII, os escravos perf� ziam mais de 60% da população do Pais, constituindo, em 1800, cerca da metade dessa população.<sup>6</sup> Em 1850, essa proporçao era de 30% e, em 1872, de 15%. O Brasil também foi o principal im­ portador de escravos africanos, no período de 1500 a 1852 (qua� A Lei de 4 de setembro de 1850 pode ser considerada em par­ te urna exceção a essa afirmativa, pois foi promulgada após anos de urna crescente pressão da Inglaterra. 
+
+> 5Províncias do Rio de Janeiro, são Paulo, Minas Gerais e Es­ pírito Santo, e o Município Neutro, onde se localizava a cidade do Rio de Janeiro. 
+
+6Prado Junior, Caio. História econômica do Brasil. 8.ed.São Paulo, Editora Brasiliens ~~e, 1962, p.~~ **~~351.~~** 
+
+PNPE 16/84 
+
+3
+
+---
+
+[referencia=7cae18c31cf69814 score=0.251]
+PNPE 16/84 
+
+87 
+
+anuais, foi o njesmo observado entre 30 de junho de 1882 e 30 de junho de 1885 C23.317 por ano), o que nos dã uma cifrade 29.146 manumissoes para õ período. Somamos a esta cifra um adicional de 59.045 manumissoes de sexagenários33. Somando—se todas estas cifras, o número de manumissoes, de 28 de setembro de 1871 a 30 de setembro de 1886, era de 286.695.’A partir desta data ate 13 de maio- de 1888, um adicional de 123.419 escravos foram liberta­ dos. Quando, neste dia, foi decretada a Abolição, havia 600.000 escravos no Império314. 
+
+Considerando o período de 28' de setembro de 1871 a 30 de junho de 1882, o número total de manumissoes foi de 87.695. Isto su­ gere, para a década de 70, uma media anual de 7.972 escravos libertados por ano. ■ 
+
+Infelízmente, não temos evidências sistemáticas sobre sexo, ida­ de, qua1ificaçao, saúda e domicílio dos escravos libertados. Se­ gundo a literatura disponível, há um padrão de idade e domicí­ lio, e talvez de saúde e qualificaçao, mais que de sexo, no sentido, de que os escravos mais' velhos e urbanos, e talvez os doentes e os qualificados Cestes últimos por disporem de uma maior possibilidade de obterem a liberdade indenizando os seus donos) tivessem mais probabilidade de serem libertados35. 
+
+lá que estamos interessados na taxa de manumissoes representati­ va das tendências históricas prevalecentes na história da escra­ vatura brasileira, .utiTi zaretnos a média da década de 70 como ta­ xa representativa (.79.720 por década), embora •isto provávelmen-•
+
+---
+
+[referencia=7cae18c31cf69814 score=0.251]
+_3) a Lei do Ventre Livre de 28 de setembro de 18 71 continha uma clausula exigindo um registro ou contagem de es­ cravos (Matrícula dos Escravos). Este Recenseamento e também de grande fidedignidade, jã que a Matrícula fornecería ao pro­ prietário de escravos uma prova legal da sua propriedade, in­ centivando-o, portanto, a fazer um registro honesto e completo. A Matrícula foi feita entre 19 de abril de 1872 e 30 de setem­ bro de 1873. Era considerada um registro legal de propriedade de escravos, originando um documento a ser utilizado em vendas, transferências, inventários., heranças e outras transações que envolviam escravos. A Matrícula de escravas foi feita indepen­ dente do Recenseamento da populaçao de 1872, e por diferentes orgaos do governo o pessoal. Portanto, pode ser comparada com o Recenseamento de 1872 para testar sua consistência e preci­ são. A Matricula foi atualizada muitas vezes nos anos subse­ quentes e seus resultados foram publicados em relatórios do Ministério da Agricultura; (4) a segundo Matrícula dos Escra - vos foi realizada entre 30 de março de 1886 e 30 de março de 1887, em cumprimento a uma cláusula da Lei dos Sexagenários. Do mesmo modo que a primeira Matrícula, e pelas mesmas razoes, é bastante fidedigna. 
+
+1 Para uma análise criteriosa e aprofundada das fontes* demográficas deste período, veja SLENES The demography and economics of Brazilian slavery: 1850-1888 , cap. 2. ‘ 
+
+PNPE 16/84 
+
+61 
+
+Assim, estes quatro Censos constituem a melhor fonte de inform-aço es sobre a populaçao escrava, no Brasil do século XIX.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.212]
+'*3LAÍ-RME. op. cit., p. 378-9. 
+
+   - '‘Enquanto a Lei da Emancipaçao de 1871 continuar vigorando, nao existirá razao para se esperar - para os primeiros seis eu sete ancs, paio menos - qualquer diminuição relevante na colheita de cafe no Brasil. Durante quan­ to tempo ainda o sistema dc escravos continuará a fornecer maos suficien­ tes para o plantio do cafc - esta é uma pergunta difícil de ser respondi­ da, no momento, com algum grau de certeza" (T. do A.). 
+
+- MI*Este aspecto baseia-se na suposição - nao confirmada pela experiência his­ tórica em muito exemplos (na fazenda de café Ybicaba, entre outras) - de que, nas fazendas d.? café, os escravos poderíam ser usados apenas na base do "tudo-ou-nada", isto ê, de que a força de trabalho mista de escravos e imigrantes ou trabalhadores livres -nunca podería ser usada. 
+
+PNPE 16/84 
+
+93 
+
+oferta de escravos, os que desempenharam o papel mais importan­ te . 
+
+Finalmente, podemos testar a utilidade de estimativas da morta­ lidade de escravos, fazendo uma projeção da populaçao escrava de agosto de'1872 a setembro de 1886. Utilizando o mesmo método em­ pregado na tabela 10, estimamos o total de escravos, com idade de 15 a 6Q anos, como sendo 993.525. . %
+
+---
+
+[referencia=7cae18c31cf69814 score=0.196]
+33BRASIL. Ministério da Agricultura. Relatório, 1887. p. 39. 
+
+3UThe south... op. cit,, p. 436. 
+
+35DEGLER. Neither black nor white, p. 43-4; Viotti da COSTA. Da senzala à Colônia, p. 263-4; CONRAD. The destruction of Brazilian slavery, p. 111-3 
+
+PNPE 16/84 
+
+88 
+
+te seja uma superestimativa das tendências tradicionais. Alea disso, uma vez que estamos interessados em estimar o impacto de manumissões sobre as faixas etãrias de 21 a 60 anos, e já que os escravos mais velhos er am os que tinh am mais possibilidade de serem libertados, podemos afirmar cue o impacto cumulativo da manumissões, estimado ao final da década sobre estas faixas e­ tárias determinadas, seria reduzido de 79.720 para '50.000 por década 3 6. 
+
+Podemos afirmar, então", apenas como uma aprosimaçao da ordem de grandezas envolvida aqui, que o total de escravos entre 21 e 60 anos, em 1892, seria menor em cerca de 100.000 escravos (12%), ou igual a 735.467 escravos, ao invés dos 835.467 apresentados na tabela 10 c~, devido a manumissões. Em 1902 , já que assumimos uma taxa cumulativa de 50.000 manumissões por década, o número de escravos projetados entre 21 e 60 anos seria menor em cerca de 150.000 escravos (28%), ou igual a 393.830. ao invés cos 543.830 escravos projetados.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.191]
+0 mesmo tema constituia-se também no fulcro de um in tenso debate travado no cenário político do Brasil na segunda metade do século XIX. A Lei do VentT.j Livre de 1871, promulga_ da apenas duas décadas após o término do trafico africano de escravos, determinou um fim previsível para a escravidão, cu­ ja concretização dependeria das condições medias de mortalida de dos escravos que existiam naquela época. 
+
+> *Professor Conferencista do Mestrado de Transportes do Instituto Militar de Engenharia. .0 autor agradece os comentários do Prof. Robert IV. Slencs e a colabora­ ção de Eduardo Peixoto da Silva e de Solangc Maria da Rocha Rodrigues. 0 trabalho contou com o suporte do Programa Nacional de Pesquisa Econômica - PNPE do Instituto de Planejamento Econômico e Social - 1PEA. 
+
+**165** 
+
+**PNPE 16/84** 
+
+Na hipótese de um cumprimento integral desta Lei, es sas condições demográficas determinariam a duração do período de anos que restaria até o final da escravidão. A questão cru ciai - um tema de grande discussão e com um alto apelo emoci£ nal naqueles anos - era quais seriam realmente as condições de mortalidade típicas da população escrava. As previsões so­ bre a longevidade dos escravos segundo as faixas etãrias esta vam entre os tópicos de maior importância, uma vez que o as­ pecto mais sensível da questão era a previsão de porte futuro da força de trabalho escrava, nas faixas etãrias de maior pr£ dutividade (15 a 45 anos).
+
+---
+
+[referencia=7cae18c31cf69814 score=0.190]
+## 2•5 Algumas projeçoes 
+
+Um tópico de considerável importância durante este período consistiu na previsão do tempo de duraçao do estoque de escra­ vos, por a Lei do Ventre Livre e a Lei dos Sexagenários terem sido estabelecidas e postas em vigor e dada a suposição de que a taxa de manumissoes foi constante em níveis que prevaleciam antes da pressão abolicionista da década de 80. 
+
+Portanto, podemos expressar este topico na seguinte hipótese contra-factual: supondo-se a existência das Leis de 1871 e 1885 e, naturalmente, a inexistência da Lei da Abolição Total de 1888, e dadas as tendências históricas da manumissao (antes da mudança extraordinária das taxas, ocasionada pela pressão abo­ licionista da década de 80), qual seria a populaçao escrava no futuro, isto ê, em 1892 e 1902? Q ua o adequado seria esse es­ toque projetado de escravos, para suprir trabalhadores para as fazendas de café Csupondo-se que as tarifas de importação da região do café sobre o comércio interprovincia 1 de escravos nao tivessem sico estabelecidas nem tivessem em vigor)? 
+
+" Existem inúmeras passagens, no Relatorio de Laürne, sobre este aspecto (por exemplo, p, 272-3, 286, 339-40, 345) nas quais ê típica tal afirmaçao: "Ha quatro ou cinco anos atrás, as plantações estavam constantemen­ te se expandindo, tanto que não havia mão-de-obra dispensável; atualmen­ te ha muito menos plantações do que e necessário para manter os cafezais existentes", (T. do A.). LAÍÍRNE, Ç. F.'Van Delden. Brazil and Java: re­ por t on coffee culture in America, Asia and África. Londonj W. H. Alden, 1835, p. 286. PNPE 16/84 
+
+83
+
+---
+
+[referencia=7cae18c31cf69814 score=0.188]
+Acrescente-se a isso que o debate sobre a Lei do Ven tre Livre começou a adquirir contornos definidos jã em 1867 e. por consegüinte, fatalmente teria afetado as expectativas dos donos de escravos quanto aos benefícios de longo prazo e lu­ cratividade a 'serem obtidos com tal política de bons tratos aos escravos. Além disso, havia grandes diferenças nas diver­ sas reg.iões geográficas do país quanto às expectativas sobre a adequação da oferta de trabalho de longo prazo, suas neces­ sidades e incentivos econômico para essa política de melhoria 
+
+**182** 
+
+**PNPE 16/84** 
+
+no tratamento de escravos. Nesse sentido, o tráfico inter-regional de escravos oferecia uma alternativa para a política de melhoria de tratamento de escravos. Finalmente, dado o es­ tado de insalubridade e de enfermidade dos escravos, caracte­ rístico do período de 1852-1872, as condições de epidemicidade eram grandes e poderiam facilmente subjugar qualquer esfo£ ço deliberado de aumentar a taxa de fecundidade 1,2 . Portanto, achamos extremamente duvidoso que tenham havido mudanças men­ suráveis nas condições de fecundidade da população de cor livre e escrava - no Brasil entre 1852 e 1872. 
+
+IV. ESTIMATIVA DA LONGEVIDADE DOS ESCRAVOS POR MEIO DA CONSTRUÇ.AO DE TABUAS DE SOBREVIVÊNCIA
+
+---
+
+[referencia=7cae18c31cf69814 score=0.171]
+- 2UDEGLER, Carl N. Neither black nor white: slavery and race relations in Brazil and the United Slates. New York, The Macmillan Corapany, 1971, p. 39-47. . 
+
+- 2 5 GOUVEIA. Historia da escravidão, p. 299; CONRAD. The Destruction of Brazilian Slavery, p. 112; Henrique de Beaurepaire ROHAN. 0 futuro da grande la­ voura e da grande propriedade no Brazil. In: Congresso Agrícola: coleção de documentos, Rio de Janeiro, Typ. Nacional, 1878, p. 248. 
+
+- 2 6 CONRAD. The destruction of Brazilian slavery, p. 72-3; ROHAN, 0 futuro da grande lavoura e da grande propriedade no Brazil, p. 248. 
+
+- 2 7 CONRAD. The destruction of Brazilian slavery, p. 76. 
+
+86 
+
+PNPE 16/84 
+
+A partir da data da Lei do Yentre Livre C2 8 de setembro de 1871) ate 31 de dezembro de 1878, 21.342 escravos foram libertados - de acordo com as estatísticas oficiais. Desses, 24,5^ pelo Fun­ do de Emancipação e 75,5^ gr atuitaménte, por seus proprieta - rios28. De 31 de dezembro de 1878 até 30 de junho de 1882, um adicional' de 66.363 escravos foram libertados (40Z pelo Fundo da Emancipação e .outras fontes e 60£ gratuitamente29). 
+
+Após os anos de 1882 e 1883, o número de manumi ssoes elevou-se suhstanciaImente . Entre 19 de julho de 1882 e 30 de junho de 1885, 69.951 escravos foram, libertados30, e, com a Lei dos Se­ xagenários de 28 de setembro de 1885, libertou-se um adicional de 40.858 escravos33.

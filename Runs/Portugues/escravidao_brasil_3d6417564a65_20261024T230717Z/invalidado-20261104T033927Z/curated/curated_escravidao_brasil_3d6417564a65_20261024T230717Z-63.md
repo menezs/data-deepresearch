@@ -1,0 +1,243 @@
+[referencia=bff3273108aa17db score=0.710]
+# **JOSÉ DO PATROCÍNIO AND HIS FIGHT AGAINST THE COMPENSATION FOR “MAY 14 REPUBLICANS”** 
+
+**ABSTRACT:** José do Patrocínio was known as one of the leaders of the abolitionism in the Rio de Janeiro . He writed in his newspapers about the slavery`s problems and against the monarchistic regime, but it did not save him from the criticism of the Republicans, who disagree Patrocínio`s praises to Princess Isabel. 
+
+**Keywords :** José do Patrocínio- monarchy- republic - 
+
+José do Patrocínio (1853-1905) sofreu críticas contundentes dos republicanos, devido ao seu apoio à Princesa Isabel. Embora tenha tido uma trajetória vinculada ao movimento republicano e sempre priorizado a luta contra o cativeiro, quando pressentiu a possibilidade de “solução” para a “questão servil” através do governo, mudou o tom do discurso, aprovando no _Cidade do Rio_ , jornal de sua propriedade, os atos da Princesa Isabel. Com isso, entrou em conflito com os defensores da República, especialmente aqueles que ele denominava “republicanos de 14 de maio”, numa alusão à mudança de atitude de alguns proprietários em relação à monarquia. Patrocínio acusava este grupo de tentar preservar seus privilégios, abandonando os ideais republicanos, e respaldar os projetos que concediam uma indenização aos antigos senhores por causa do término do cativeiro. 
+
+O seu envolvimento com a propaganda republicana começou com a participação nas reuniões do Clube Abolicionista e Republicano de São Cristóvão e com visitas à casa de um dos seus líderes, o Capitão Emiliano Rosa de Sena, seu futuro sogro. Foi assim que Patrocínio 
+
+> * 
+
+1 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009.
+
+---
+
+[referencia=bff3273108aa17db score=0.204]
+Percebe-se, pois, que existia uma oposição ferrenha, por parte dos antigos senhores, a reformas que minorassem os problemas decorrentes da escravidão. Além do que a bandeira republicana era vista como a esperança para esses setores da possibilidade de uma indenização pela perda de seus escravos. A questão crucial relacionava-se à possibilidade de indenizar os proprietários que se bandearam para o movimento republicano, numa perspectiva oportunista -os “republicanos de 14 de maio”-, e que Patrocínio denominava também como os “neo-republicanos da indenização e aos seus patronos, que viram neles o melhor instrumento para os seus despeitos encanecidos”. (CIDADE DO RIO, 31/07/1888) 
+
+Apesar de Patrocínio ressalvar os “velhos republicanos sinceros, os que pugnaram sempre pela verdadeira República”, as polêmicas acentuaram-se em virtude do seu apoio à monarquia. Quintino Bocaiúva, Rui Barbosa e Silva Jardim também entraram no rol dos seus desafetos, acusados, conforme o jornalista, de defensores dos “republicanos escravocratas”.(MAGALHÃES JR., 1969: 246-254, 272-273). Acusavam-no de “vendido” e de “servilismo” à monarquia, e que ele “[...] converteu-se em órgão da dinastia, principalmente da Princesa D. Isabel, e do ministério, que apenas presidira ao ato parlamentar da abolição; e daí começou de sustentá-los, traidor então de sua raça, que por proletária no Brasil carece claramente, para o seu desenvolvimento de um regime republicano, traidor do partido a que dissera pertencer”. (SILVA JARDIM, 1888-1889:321-324)
+
+---
+
+[referencia=bff3273108aa17db score=0.150]
+Percebe-se, pelas palavras de Patrocínio, como ele vinculava a atuação de Cotegipe aos interesses dos proprietários que pleiteavam a indenização. Por outro lado, o que estava em jogo também, era a preservação do regime monárquico. Para o jornalista, a aprovação de indenização “maculará” o governo, dificultando o estabelecimento de um terceiro reinado, 
+
+5 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009. 
+
+retirando-lhe a “auréola redentora, sua maior força”. E mais adiante, acusava frontalmente os defensores da escravidão de desejarem “apoderar-se de novo do Governo”, chefiado por João Alfredo. 
+
+_Para o Sr. barão de Cotegipe tudo serve. Se ele consegue arranjar maioria para a indenização, há de acontecer uma de duas: ou o Ministério retira-se, e neste caso a indenização atirará com os abolicionistas para o campo revolucionário; ou a Coroa dissolve a Câmara, e as novas eleições dão à nova assembléia a agitação revolucionária, que o escravagismo por todos os meios provoca para vingar-se da heroicidade da princesa, que fulminou a pirataria._ (CIDADE DO RIO, 11/06/1888)
+
+---
+
+[referencia=bff3273108aa17db score=0.086]
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009. 
+
+# **JOSÉ DO PATROCÍNIO E A LUTA CONTRA A INDENIZAÇÃO AOS “REPUBLICANOS DE 14 DE MAIO”** 
+
+Humberto Fernandes Machado<sup>*</sup> 
+
+**RESUMO:** José do Patrocínio foi reconhecido como um dos baluartes do abolicionismo no Rio de Janeiro, divulgando nos seus jornais as mazelas da escravidão. No entanto, o reconhecimento de seu empenho no processo de desagregação do escravismo não serviu para atenuar as críticas que sofreu, por parte dos republicanos, devido ao seu apoio à Princesa Isabel. Apesar de ardoroso defensor da República e crítico contumaz do regime monárquico, Patrocínio sempre priorizou a luta contra o cativeiro. 
+
+**Palavras-chave:** José do Patrocínio- monarquia – república
+
+---
+
+[referencia=bff3273108aa17db score=0.052]
+Foi apresentado um projeto, por alguns deputados ligados à lavoura cafeeira, para ser encaminhado “[...]à Assembléia Geral Legislativa reclamando a indenização devida aos exsenhores de escravos, desapropriados em virtude da lei de 13 de maio do corrente ano”.(ANAIS, 30/08/1888: 39) Inúmeros debates ocorreram na Assembléia, sendo que as propostas foram derrotadas, com alegações de que o estado não teria como arcar “[...]uma despesa tão grande para constituir a indenização da propriedade escrava[...]” e que os recursos deveriam ser direcionados para atrair “milhões de imigrantes” porque o país “[...]lucraria muito mais com essa introdução, do que com a indenização aos proprietários de escravos[...]”.(ANAIS, 9/10/1888: 270) 
+
+Essas tentativas foram combatidas enfaticamente pelos abolicionistas, em especial por José do Patrocínio, responsabilizando o Barão de Cotegipe por essas iniciativas. 
+
+_Pouco se importa o Sr. barão de Cotegipe com suas contradições. Ontem, S. Ex.ª dizia no Governo à regente: não ceder ao abolicionismo porque ele é revolução; hoje, quando o escravismo se revoluciona, francamente, audaciosamente, apesar da sua impotência, filha da sua impopularidade, o Sr. barão de Cotegipe empunhou a bandeira revolucionária da indenização e quer plantá-la no Senado. S. Ex.ª diz que está convencido de que a propriedade escrava é tão sagrada como a que mais o seja; [...]_ 
+
+_O nosso fim é outro: deixar demonstrado que o Sr. barão de Cotegipe tem apenas em vista, como demagogo, perturbar o início do terceiro reinado, em nome da escravidão ._ (CIDADE DO RIO, 18/6/1888)
+
+---
+
+[referencia=bff3273108aa17db score=0.037]
+7 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009. 
+
+acirraram com a abolição e que o incompatibilizaram com os republicanos. O sentimento de “gratidão” o fez aproximar-se da monarquia e do Gabinete de João Alfredo, assumindo a defesa da Princesa Isabel. Com a ascensão do Gabinete Ouro Preto, em junho de 1889, o jornalista iniciou, paulatinamente, um armistício com os republicanos. Durante o segundo semestre do ano, os editoriais do _Cidade do Rio_ , começaram a modificar os comentários a respeito da República. Em julho, assinou uma matéria que reafirmava, categoricamente, a sua posição em relação aos partidos: não estava filiado a nenhum, porém era “republicano só pela República”. (27/07/1889) Às vésperas do término do Império, ele condenava as autoridades governamentais pelo tratamento dispensado ao exército. (14/11/1889) No dia 15 de novembro de 1889, como fez no dia 13 de maio de 1888, Patrocínio saudou o governo engrossando as fileiras daqueles que diziam existir um grande entusiasmo pela vitória do exército. (CIDADE DO RIO, 15/11/1889) A figura da República substituiu a da “Redentora”. O “Proclamador Civil da República”, como ele se autodenominou, após obter uma moção de apoio da Câmara de Vereadores da Corte ao novo regime, deslocou o abolicionista. Entretanto, estas mudanças de comportamento não conseguiram atenuar a desconfiança com que os novos governantes o tratariam. Com a República, Patrocínio entrou na fase do ostracismo que o perseguiu até a sua morte em 1905. 
+
+# **REFERÊNCIAS BIBLIOGRÁFICAS**
+
+---
+
+[referencia=bff3273108aa17db score=0.032]
+O antagonismo entre Patrocínio e os republicanos acentuou-se portanto após a abolição em virtude das pretensões de indenização por parte dos setores escravistas. Durante a discussão da lei que extinguia a escravidão, o Barão de Cotegipe (1815-1889) já denunciava que ela violava os direitos de propriedade. Segundo ele, com a sua aprovação, o Estado poderia mais tarde decretar a “divisão das terras”, sem “indenização”, expropriando-a e não levando em consideração “o direito natural”. (ANAIS DO SENADO, 1888: 59-73) Logo, nada mais natural que projetos a respeito de indenização começassem a ser apresentados ao Parlamento. O próprio Cotegipe, por exemplo, submeteu à apreciação do Senado, em 19 de junho, um pedido de autorização para a emissão de títulos para reembolso dos antigos 
+
+4 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009. 
+
+proprietários.(ANAIS DO SENADO, 1888: 109-111) Apesar dessa proposta, entre outras, ter sido rechaçada pelo Governo de João Alfredo, a indenização foi sistematicamente debatida no Parlamento. 
+
+Essa situação encontrava eco, principalmente, entre os proprietários de café do Vale do Paraíba, o último baluarte da escravidão, completamente endividados em virtude da baixa produtividade de suas terras.(MACHADO, 1993) Cabe ressaltar que dos nove votos, na Câmara dos Deputados, contra a Lei de 13 de maio, oito pertenciam a representantes da Província do Rio de Janeiro, o outro era de Pernambuco. A indenização foi também intensamente debatida na Assembléia Legislativa Provincial, no segundo semestre de 1888, utilizando-se como argumento que o direito de propriedade não tinha sido levado em conta por parte do Estado Imperial.
+
+---
+
+[referencia=bff3273108aa17db score=0.013]
+_Declarada de direito a extinção da escravidão, entendi que devia ficar ao lado do governo, para vê-la realizada de fato, o que ainda não se deu, por culpa do republicanismo de relho e indenização[...] Disse que hei de honrar a Princesa e que lhe agradeço,  como ao governo, ter decretado a abolição[...] (31/07/1888)_<sup>_3_</sup> 
+
+> 3- O jornalista se referiu a Manuel  Pinto de Souza Dantas (1831-1894) que presidiu o  Gabinete de Ministros (1884-1885) , apresentando um projeto gradual de eliminação do cativeiro, não conseguindo, entretanto, apoio do Parlamento. 
+
+3 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009. 
+
+Em outro editorial, repudiava as acusações de “vendido” porque estava apoiando o governo. Ironicamente, afirmava que era “vendido” ao ministério “que salvou a sua raça”; um “vendido” à Princesa Isabel por suas atitudes: “[...]mulher sagrada e meiga, boa e santa, que enquanto a república agachava miseravelmente diante da lavoura para apanhar-lhe votos, ela expunha a sua coroa a tufões desencontrados da falsa república[...]”.(28/09/1888) Patrocínio destacava que esses “neorepublicanos” queriam apenas preservar os seus privilégios e se beneficiarem com as propostas que estavam sendo discutidas no Senado, concedendo indenização aos antigos senhores de escravos. (CONRAD, 1978: 334)
+
+---
+
+[referencia=bff3273108aa17db score=0.012]
+Mas, muito antes da abolição, em 1884, Patrocínio já repudiava as atitudes tímidas dos defensores da República em relação ao abolicionismo. Estas foram, inclusive, as razões alegadas pelo jornalista para o seu rompimento com os republicanos, quando pressentiu que a abolição da escravidão não estava entre as suas prioridades. 
+
+_Se a república, que se quer fundar no Brasil, pretende se limitar a escrever um programa e a deixar perdurar todos os erros sociais, contra os quais ela se insurge, melhor é deixar-nos ficar como estamos, porque ao menos a monarquia vai procurando mascarar diante da América e do mundo a nossa vergonha. (GAZETA DA TARDE, 27/08/1884)_ 
+
+Portanto, os conflitos com os republicanos antecederam a abolição. Com esta, as contradições se acentuaram, pois, Patrocínio, de forma nenhuma, alterou o seu comportamento em relação à Princesa Isabel e ao gabinete responsável pelo término do escravismo, liderado por João Alfredo. Por ocasião do primeiro aniversário da assinatura da “Lei Áurea”, comentou, através do _Cidade do Rio_ , o desenrolar do movimento abolicionista, rechaçando as acusações de ter se “vendido” à “[...]Isabel, a Redentora, no dia 13 de maio; fui apenas reiterar o protesto abolicionista de fidelidade e solidariedade com a política atual da Coroa[...]”.(13/05/1889)
+
+---
+
+[referencia=bff3273108aa17db score=0.009]
+Além da defesa intransigente da Princesa Isabel, Patrocínio elogiava a atuação do Gabinete João Alfredo, “o glorioso brasileiro” que retirou da “escravidão” a “mamadeira da boca”, terminando com os “privilégios e vantagens” dos senhores de escravos. Mais adiante, na mesma linha, desferia comentários ferinos contra os “amigos do Barão de Cotegipe” que desejavam manter “o presente de casas, feito pelo Estado” e as “fazendas de saúva e samambaia”. Enfim, para o abolicionista encerravam-se as benesses derivadas da escravidão! Segundo Patrocínio, a indenização ameaçava a consolidação da abolição porque os seus interessados queriam que ocorresse com “a lei de 13 de maio o mesmo que se deu com a de 7 de novembro de 1831”, ou seja, outra lei para inglês ver! E mais adiante alertava: 
+
+_Que diabo! É preciso apanhar uma lambujem e a melhor é a república de tenentescoronéis e barões, república que já nasce confiscada pelos indenizadores; república que é uma nova fazenda, cujo primeiro título é a dívida antes da fundação.  Ah! Tartufos! Como a história os há de amaldiçoar._ (CIDADE DO RIO, 11/06/1888)
+
+---
+
+[referencia=bff3273108aa17db score=0.003]
+> * 
+
+1 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009. 
+
+ampliou o seu círculo de amizades e o espaço que lhe abriu as portas do jornalismo da Corte, inicialmente, como conferente de revisão do jornal _A Reforma_ .<sup>1</sup> (MACHADO, 1991; MAGALHÃES JR., 1969: 28) Ele ingressou, em 1877, na _Gazeta de Notícias_ , periódico no qual atuou até 1881, quando adquiriu parte da sociedade e depois a propriedade da _Gazeta da Tarde_ que tinha acabado de perder um dos seus donos, com o falecimento de Ferreira de Menezes.(GAZETA DA TARDE, 29/5/1884) Patrocínio transformou-o no principal jornal abolicionista da Corte. 
+
+Em 1886, participou de duas eleições. A primeira, em janeiro, para o preenchimento das vagas para a Câmara de Deputados, após sua dissolução, efetuada pelo governo do Barão de Cotegipe (1885-1888). Concorreu, pelo Município Neutro, sob os auspícios do Partido Republicano com o apoio da Confederação Abolicionista. No seu manifesto, reafirmou suas convicções republicanas e antimonarquistas, embora enfatizando seu caráter abolicionista. 
+
+_Republicano desde os primeiros dias da lucidez do meu raciocínio, em toda parte a que pode chegar uma palavra minha, na imprensa como na tribuna popular, protestei sempre contra o sistema que nos enfraquece e desnatura os sentimentos e o caráter, que nos deforma e brutaliza os atos e as aspirações: a monarquia constitucional. [...]Pedindo os vossos sufrágios, Srs. eleitores, para aventurar-me à luta sem tréguas contra a monarquia e a escravidão.(GAZETA DA TARDE, 5/01/1886)_
+
+---
+
+[referencia=bff3273108aa17db score=0.003]
+# **Periódicos** 
+
+Cidade do Rio – 1887-1889 
+
+Gazeta da Tarde- 1881-1888 
+
+# **Bibliografia** 
+
+CARVALHO, José Murilo de. _Os Bestializados, O Rio de Janeiro e a República que não foi_ . São Paulo: Cia. da Letras, 1987. 
+
+CONRAD, Robert E _. Os Últimos Anos da Escravatura no Brasil: 1850-1888._ Trad. de Fernando de Castro Ferro. Rio de Janeiro: Civilização Brasileira, 1978. 
+
+MACHADO, Humberto Fernandes. _Palavras e Brados. A Imprensa Abolicionista do Rio de Janeiro (1880-1888)._ Tese de Doutorado, São Paulo: USP, 1991 
+
+------------------------------------------- _Escravos, Senhores e Café. Um estudo da crise da cafeicultura escravista do Vale do Paraíba Fluminense. 1860-1888._ Niterói : Kromos, 1993. 
+
+----------------------------------------- “Imprensa Abolicionista e a Censura no Império do Brasil”, in _Entre a Monarquia e a República: imprensa, pensamento político e historiografia (1822-1889)_ , LESSA, Mônica L. e FONSECA, Sílvia Carla P. de B. (orgs.). Rio de Janeiro: Eduerj, 2008 
+
+MAGALHÃES JR, Raimundo _. A Vida Turbulenta de José do Patrocínio_ , Rio de Janeiro: Sabiá, 1969. 
+
+9
+
+---
+
+[referencia=bff3273108aa17db score=0.002]
+Estas palavras de Silva Jardim servem para aquilatar como Patrocínio havia se distanciado, pelo menos naquele momento, dos republicanos. Oportunismo, ou não, na verdade o propagandista da abolição apresentava todo um discurso contrário aos membros do Partido Republicano, endossando a opinião de uma parcela marginalizada da sociedade, especialmente aquela que ocupava o espaço urbano da Corte. A oposição aos defensores da República não se limitava a Patrocínio. A população mais humilde, incluindo os libertos, mulatos e brancos pobres, identificava a Princesa Isabel como a “heroína” e “defensora” dos oprimidos. As idéias republicanas não tinham grande penetração nos chamados “setores populares”, sendo que o próprio Imperador detinha grande prestígio entre esses  segmentos. (CARVALHO, 1987) 
+
+Não causa estranheza, portanto, que Patrocínio ficasse marginalizado com a República apesar de buscar conciliar com os novos detentores do poder. Conflitos antigos que se 
+
+7 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009.
+
+---
+
+[referencia=bff3273108aa17db score=0.002]
+Patrocínio estabeleceu analogias entre as dificuldades que os abolicionistas enfrentaram com os Clubes da Lavoura, criados para preservar a estrutura escravista, com os Clubes Republicanos, compostos por proprietários ressentidos pela extinção da escravidão: “Os clubes neo-republicanos são os mesmos clubes de lavoura da escravidão. O tom, a ameaça são os mesmos. O povo que vê nas mãos da maioria desses republicanos das dúzias o calo do _chiqueirador_ de eito[...]oligarquia que ontem era conservadora de fazer inveja e hoje ameaça eleger republicanos”.(CIDADE DO RIO, 18/06/1888) 
+
+Nesse mesmo editorial, ele enfatizou a necessidade de implementar medidas complementares para a eliminação dos resquícios da escravidão, como educação básica e distribuição de terras para os ex-escravos. Defendeu medidas mais efetivas que amparassem os libertos, pela “desapropriação das terras à margem das estradas de ferro e dos rios navegáveis”. (18/06/1888) Como Joaquim Nabuco assinalou anteriormente: “as reformas 
+
+6 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009. 
+
+sociais” deveriam prevalecer sobre as políticas e a emancipação tem que ocorrer paralelamente à “democratização” do solo. Uma é o complemento da outra. “Acabar com a escravidão, não basta; é preciso destruir a obra da escravidão.” (CONFERÊNCIA NO TEATRO SANTA ISABEL, 30/11/1884: 377-378)
+
+---
+
+[referencia=bff3273108aa17db score=0.001]
+“[...]seja festejado esse extraordinário momento em que foi despedido do poder esse homem que pôs seu talento ao serviço das senzalas[...].”(8/03/1888) 
+
+Os elogios e a aproximação com a Princesa Isabel acentuaram-se. Em outro editorial, no Cidade do Rio, Patrocínio, praticamente, defendeu o estabelecimento de um reinado sob a égide da Regente: “[...]Vossa Alteza está salva, pode reinar utilmente sobre este povo, digno de um governo honesto e patriótico[...]”.(12/03/1888) Ocorreu um processo de mitificação da figura da Princesa Isabel com o apoio dos abolicionistas, mesmo sendo de matizes aparentemente diferentes. Joaquim Nabuco (1849-1910), em discurso proferido na Câmara, na sessão em que se discutia a abolição, louvou a Regente, contribuindo, desta forma, para a criação da “heróica Redentora”. Ressaltou a atuação da “Princesa Imperial” merecedora da “máxima gratidão do nosso povo” porque transformou o Império num “país livre”, cimentando “[...]em um dia essa união do trono com o povo[...].” (NABUCO, DISCURSOS PARLAMENTARES, 1949: 327)
+
+---
+
+[referencia=bff3273108aa17db score=0.001]
+Após a abolição, Patrocínio exprimiu, através dos seus textos no _Cidade do Rio_ , uma atitude de “gratidão” em relação à Princesa Imperial. A “sereníssima carola”, que era, até então, criticada veementemente pelo jornalista, passou a ocupar um lugar de destaque na imprensa do Rio de Janeiro. Patrocínio assumiu a defesa da “Redentora”, da “espartana coroada”, da “alma de diamante”, da “brasileira intemerata”, a qual se cercou de um governo responsável, segundo suas palavras, para estabelecer uma “pátria reabilitada”.(1/06/1888) As críticas dos republicanos se acentuaram. Respondendo às acusações de que teria se ajoelhado, por ocasião da assinatura da “Lei Áurea”, enfatiza. 
+
+_Quando foi que pedi, de joelhos, a libertação? Seria pedir de joelhos o manter-me dez anos em guerra contra tudo e contra todos os que não eram abolicionistas?.... Enquanto o Partido Republicano,..., comia tranqüilamente o suor do negro, e tratava a chicote os seus irmãos; .....; o que era que eu fazia senão combater dia e noite na tribuna e na imprensa?_ 
+
+_Que fizeram os republicanos neste tempo? Qual o sacrifício coletivo por eles feito?_ 
+
+_................_ 
+
+_Disse-o sempre: o meu único fito em meu país é cooperar. Antes de tudo, para a extinção da escravidão. Nunca iludi ninguém. Apoiei o Sr. Dantas, sendo entretanto republicano[...]_
+
+---
+
+[referencia=bff3273108aa17db score=0.000]
+As eleições foram uma grande derrota para os abolicionistas, inclusive Patrocínio, pois o Gabinete Cotegipe utilizou todos os mecanismos da máquina governamental para preservar a maioria conservadora. O jornalista comentou o resultado do escrutínio que expressava, segundo as suas palavras, a força de um governo baseado “na coerção política”.(GAZETA DA TARDE, 16/01/1886) Apesar de derrotado, tentou novamente a carreira política, conseguindo uma cadeira de vereador na Câmara Municipal da Corte, após uma campanha que tinha como plataforma básica a eliminação do trabalho escravo da cidade do Rio de Janeiro.(GAZETA DA TARDE, 25/04/1887) 
+
+A demissão do Gabinete Cotegipe foi perseguida por Patrocínio, através do seu jornal – _Cidade do Rio_ : “[...]o ministério da escravidão não pode continuar sem ofensa ao país[...]”; solicitava à Regente que não conciliasse mais com aquele Gabinete pois, assim, passaria à história como a “[...]imagem viva da hipocrisia, quando aliás é sabido que o seu coração está limpo dessa culpa[...]”.(26/02/1888) A queda de Cotegipe e a formação do ministério, sob a liderança de João Alfredo (1888-1889),<sup>2</sup> foram saudadas efusivamente por Patrocínio: 
+
+> 1 - Fundado em 1869, foi um dos primeiros jornais antiescravistas da cidade do Rio de Janeiro. 
+
+> 2 - João Alfredo Correia de Oliveira (1835-1915) presidiu o Conselho de Ministros de 10/03/1888 a 7/06/1889 
+
+2 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009. 
+
+“[...]seja festejado esse extraordinário momento em que foi despedido do poder esse homem que pôs seu talento ao serviço das senzalas[...].”(8/03/1888)
+
+---
+
+[referencia=bff3273108aa17db score=0.000]
+# **REFERÊNCIAS BIBLIOGRÁFICAS** 
+
+# **Fontes impressas** 
+
+ANAIS da Assembléia Legislativa Provincial do Rio de Janeiro, Rio de Janeiro: Tip. Imperial e Constitucional de J. de Villeneuve & C., 1888. 
+
+ANAIS do Parlamento Brasileiro. Senado. Rio de Janeiro, 1888. 
+
+JARDIM, Antonio da Silva. _Propaganda Republicana (1888-1889)_ . Rio de Janeiro: Fundação Casa de Rui Barbosa/Conselho Federal de Cultura, 1978. 
+
+NABUCO, Joaquim. _O Abolicionismo._ (1883) São Paulo: Progresso Editorial, 1949 **.** 
+
+_---------------------------Conferências e Discursos Abolicionistas,_ São Paulo: Instituto Progresso Editorial, 1949. 
+
+**---------------------------** _Discursos Parlamentares (1879-1889)_ , São Paulo: Instituto Progresso Editorial, 1949. 
+
+8 
+
+ANPUH – XXV SIMPÓSIO NACIONAL DE HISTÓRIA – Fortaleza, 2009. 
+
+# **Periódicos** 
+
+Cidade do Rio – 1887-1889 
+
+Gazeta da Tarde- 1881-1888

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "6b61a2ccb08c11cd",
+    "citation_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "raw_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act",
+    "normalized_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act",
+    "work_key": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/timeline/timeline-implementation-eu-ai-act",
+    "title": "European Commission. EU AI Act Service Desk - Timeline for Implementation of the EU AI Act. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:12.308927Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "64b4c84a1acfe340",
+    "citation_markers": [
+      "[2]",
+      "[10]"
+    ],
+    "raw_url": "https://www.euaiact.com/implementation-timeline",
+    "normalized_url": "https://euaiact.com/implementation-timeline",
+    "work_key": "https://euaiact.com/implementation-timeline",
+    "title": "EU AI Act Portal. The EU AI Act Implementation Timeline. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:12.209781Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fe6068de3d89f7d2",
+    "citation_markers": [
+      "[3]",
+      "[14]"
+    ],
+    "raw_url": "https://artificialintelligenceact.eu/implementation-timeline/",
+    "normalized_url": "https://artificialintelligenceact.eu/implementation-timeline",
+    "work_key": "https://artificialintelligenceact.eu/implementation-timeline",
+    "title": "EU Artificial Intelligence Act. Implementation Timeline. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:12.338346Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b90b992d0c2eba47",
+    "citation_markers": [
+      "[5]",
+      "[11]"
+    ],
+    "raw_url": "https://euaicompass.com/timeline.html",
+    "normalized_url": "https://euaicompass.com/timeline.html",
+    "work_key": "https://euaicompass.com/timeline.html",
+    "title": "EU AI Compass. Educational Timeline & Regulation (EU) 2026/1744 Baseline. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:22.723216Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8017bf63ce478c77",
+    "citation_markers": [
+      "[6]",
+      "[13]"
+    ],
+    "raw_url": "https://reversa.ai/regulations/eu-ai-act",
+    "normalized_url": "https://reversa.ai/regulations/eu-ai-act",
+    "work_key": "https://reversa.ai/regulations/eu-ai-act",
+    "title": "Reversa AI. EU AI Act - Regulation on Artificial Intelligence (EU 2024/1689) Guide. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:12.915510Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cf6364475f91d784",
+    "citation_markers": [
+      "[7]",
+      "[8]"
+    ],
+    "raw_url": "https://artificialintelligenceact.eu/the-act/",
+    "normalized_url": "https://artificialintelligenceact.eu/the-act",
+    "work_key": "https://artificialintelligenceact.eu/the-act",
+    "title": "EU Artificial Intelligence Act. Official Journal (2024) Publication Text. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:12.576000Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b2ce96fb6edc925d",
+    "citation_markers": [
+      "[9]",
+      "[15]"
+    ],
+    "raw_url": "https://artificialintelligenceact.eu/",
+    "normalized_url": "https://artificialintelligenceact.eu",
+    "work_key": "https://artificialintelligenceact.eu",
+    "title": "EU Artificial Intelligence Act. Overview and Risk Categories Guide. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:12.591602Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "59afac7a9650252d",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.trooper.dk/en/eu-ai-act-guide/",
+    "normalized_url": "https://trooper.dk/en/eu-ai-act-guide",
+    "work_key": "https://trooper.dk/en/eu-ai-act-guide",
+    "title": "Trooper. EU AI Act Guide - Regulation (EU) 2024/1689 Overview. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:13.110948Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c881d3853a0f27f3",
+    "citation_markers": [
+      "[16]",
+      "[24]"
+    ],
+    "raw_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233/pdf",
+    "normalized_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233/pdf",
+    "work_key": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233/pdf",
+    "title": "Senado Federal. Projeto de Lei nº 2338, de 2023 - Texto do Substitutivo e PDF da Tramitação. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T00:48:20.807471Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c102ab75f03f6682",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+    "normalized_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+    "work_key": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+    "title": "Senado Federal. Texto do Substitutivo Aprovado do PL 2338/2023 na Comissão e Plenário. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:32.961492Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2ddcc05b33f7db1a",
+    "citation_markers": [
+      "[18]",
+      "[23]"
+    ],
+    "raw_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "normalized_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "work_key": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "title": "Senado Federal. Ficha da Matéria e Tramitação do PL 2338/2023. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T00:48:08.609500Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f7d309a1d1b98e5f",
+    "citation_markers": [
+      "[19]",
+      "[22]"
+    ],
+    "raw_url": "https://www.congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2338-2023",
+    "normalized_url": "https://congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2338-2023",
+    "work_key": "https://congressonacional.leg.br/materias/materias-bicamerais/-/ver/pl-2338-2023",
+    "title": "Congresso Nacional. Matérias Bicamerais - Projeto de Lei nº 2338, de 2023. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:20:31.503695Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d50904ab9268760a",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara",
+    "title": "Agência Senado. Senado aprova regulamentação da inteligência artificial; texto vai à Câmara. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T00:48:06.568286Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ff78e92cbf7a6a71",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2024/12/05/comissao-chega-a-consenso-e-regulamentacao-da-inteligencia-artificial-vai-a-plenario",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2024/12/05/comissao-chega-a-consenso-e-regulamentacao-da-inteligencia-artificial-vai-a-plenario",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2024/12/05/comissao-chega-a-consenso-e-regulamentacao-da-inteligencia-artificial-vai-a-plenario",
+    "title": "Agência Senado. Comissão chega a consenso e regulamentação da inteligência artificial vai a Plenário. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:49.903516Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "14d93332dc180e13",
+    "citation_markers": [
+      "[25]",
+      "[35]"
+    ],
+    "raw_url": "https://sciereli.com.br/blog/governanca-ia-saude-brasil/",
+    "normalized_url": "https://sciereli.com.br/blog/governanca-ia-saude-brasil",
+    "work_key": "https://sciereli.com.br/blog/governanca-ia-saude-brasil",
+    "title": "Sciereli. Governança de IA em Saúde no Brasil: O Mapa Prático. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:49.586358Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4b9a533e3264d328",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://repositorio.uel.br/bitstreams/d2237cbd-9bfb-4b9e-90d3-cd3721add89c/download",
+    "normalized_url": "https://repositorio.uel.br/bitstreams/d2237cbd-9bfb-4b9e-90d3-cd3721add89c/download",
+    "work_key": "https://repositorio.uel.br/bitstreams/d2237cbd-9bfb-4b9e-90d3-cd3721add89c/download",
+    "title": "Repositório UEL. ANPD, PL 2338/2023 e os Desafios Regulatórios da Inteligência Artificial. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:19:12.450784Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "871f6f1bc93b91f7",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://douglasvilar.com.br/artigos/posts/2026-06-13_marco-legal-ia-pl-2338-regulacao-brasil",
+    "normalized_url": "https://douglasvilar.com.br/artigos/posts/2026-06-13_marco-legal-ia-pl-2338-regulacao-brasil",
+    "work_key": "https://douglasvilar.com.br/artigos/posts/2026-06-13_marco-legal-ia-pl-2338-regulacao-brasil",
+    "title": "Douglas Vilar. Marco Legal da IA: PL 2338/2023 e a Regulação no Brasil. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:17:51.021353Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b070f2856552a22b",
+    "citation_markers": [
+      "[28]",
+      "[36]"
+    ],
+    "raw_url": "https://itsrio.org/wp-content/uploads/2017/01/Livro-Inteligencia-Artificial-e-Sociedade-Conectada.pdf",
+    "normalized_url": "https://itsrio.org/wp-content/uploads/2017/01/Livro-Inteligencia-Artificial-e-Sociedade-Conectada.pdf",
+    "work_key": "https://itsrio.org/wp-content/uploads/2017/01/Livro-Inteligencia-Artificial-e-Sociedade-Conectada.pdf",
+    "title": "ITS Rio. Livro Inteligência Artificial e Sociedade Conectada. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:19:45.093139Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c20cbdad998e6a81",
+    "citation_markers": [
+      "[29]",
+      "[31]"
+    ],
+    "raw_url": "https://gedai.ufpr.br/responsabilizacao-das-plataformas-digitais-pela-violacao-de-direitos-autorais/",
+    "normalized_url": "https://gedai.ufpr.br/responsabilizacao-das-plataformas-digitais-pela-violacao-de-direitos-autorais",
+    "work_key": "https://gedai.ufpr.br/responsabilizacao-das-plataformas-digitais-pela-violacao-de-direitos-autorais",
+    "title": "GEDAI UFPR. Responsabilização das Plataformas Digitais e Direitos Autorais na IA. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T00:47:31.273875Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9fd4bd9408bfd617",
+    "citation_markers": [
+      "[30]",
+      "[32]"
+    ],
+    "raw_url": "https://intic.gov.mz/wp-content/uploads/2025/05/Inteligencia_Artificial_Desafios_e_Oportunidades_assinado.pdf",
+    "normalized_url": "https://intic.gov.mz/wp-content/uploads/2025/05/Inteligencia_Artificial_Desafios_e_Oportunidades_assinado.pdf",
+    "work_key": "https://intic.gov.mz/wp-content/uploads/2025/05/Inteligencia_Artificial_Desafios_e_Oportunidades_assinado.pdf",
+    "title": "INTIC. Inteligência Artificial: Desafios e Oportunidades. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:19:26.175360Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cd7722e2d9a8dea6",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://repositorio.ufrn.br/bitstreams/fe6b8240-cdbf-45ea-8704-7c2882b10194/download",
+    "normalized_url": "https://repositorio.ufrn.br/bitstreams/fe6b8240-cdbf-45ea-8704-7c2882b10194/download",
+    "work_key": "https://repositorio.ufrn.br/bitstreams/fe6b8240-cdbf-45ea-8704-7c2882b10194/download",
+    "title": "Repositório UFRN. Estudo sobre AI Act, ANPD e Responsabilidade Civil. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T00:47:36.550797Z",
+    "error_message": "barreira de acesso (interstitial): We collect and process your personal information for the following purposes: Functional, Statistical That's ok Decline C",
+    "barrier_kind": "interstitial",
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "98bbdc3dea5965d4",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://vlklaw.com.br/wp-content/uploads/2024/12/Tendencias-Direito-Digital-2025.-comprimido.pdf",
+    "normalized_url": "https://vlklaw.com.br/wp-content/uploads/2024/12/Tendencias-Direito-Digital-2025.-comprimido.pdf",
+    "work_key": "https://vlklaw.com.br/wp-content/uploads/2024/12/Tendencias-Direito-Digital-2025.-comprimido.pdf",
+    "title": "VLK Advogados. Tendências em Direito Digital: Governança de IA, ANPD e SIA. Disponível em:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T16:19:02.144514Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "tool_name": "Gemini"
+  }
+]

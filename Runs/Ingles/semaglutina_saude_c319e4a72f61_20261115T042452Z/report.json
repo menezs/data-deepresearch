@@ -1,0 +1,1760 @@
+{
+  "run_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z",
+  "answer_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Ingles/Claude/Emergente/semaglutina_saude.md",
+  "generated_at": "2026-11-18T10:36:36.535510Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 34098,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 106,
+    "citation_markers_distinct": 58,
+    "references_listed": 58,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 95,
+  "pct_supported": 70.52631578947368,
+  "pct_unsupported": 14.736842105263156,
+  "pct_contradicted": 2.1052631578947367,
+  "count_supported": 67,
+  "count_unsupported": 14,
+  "count_contradicted": 2,
+  "count_skipped": 12,
+  "count_audited": 83,
+  "pct_supported_audited": 80.72289156626506,
+  "pct_unsupported_audited": 16.867469879518072,
+  "pct_contradicted_audited": 2.4096385542168677,
+  "count_partially_supported": 22,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 6,
+    "ref_sem_conteudo": 3,
+    "fonte_citada_sem_conteudo": 3
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 1,
+  "count_reclassified_by_verification": 6,
+  "verification_stage_counts": {
+    "context_expansion": 5,
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 5,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "a2c13a5f20e8c4b0",
+      "citation_markers": [
+        "[16]"
+      ],
+      "raw_url": "https://www.nasdaq.com/articles/novo-nordisk-emas-chmp-backs-ozempic-label-update",
+      "normalized_url": "https://nasdaq.com/articles/novo-nordisk-emas-chmp-backs-ozempic-label-update",
+      "work_key": "https://nasdaq.com/articles/novo-nordisk-emas-chmp-backs-ozempic-label-update",
+      "title": "16. Nasdaq (RTTNews): Novo Nordisk – EMA's CHMP Backs Ozempic Label Update.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-18T02:51:36.574985Z",
+      "error_message": "Falha ao renderizar https://www.nasdaq.com/articles/novo-nordisk-emas-chmp-backs-ozempic-label-update via playwright: Page.goto: net::ERR_HTTP2_PROTOCOL_ERROR at https://www.nasdaq.com/articles/novo-nordisk-emas-chmp-backs-ozempic-label-update\nCall log:\n  - navigating to \"https://www.nasdaq.com/articles/novo-nordisk-emas-chmp-backs-ozempic-label-update\", waiting until \"domcontentloaded\"\n",
+      "barrier_kind": null,
+      "source_answer_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "ffcb3b3726568b29",
+      "citation_markers": [
+        "[11]"
+      ],
+      "raw_url": "https://epocrates.com/online/article/trial-evaluates-semaglutide-in-patients-with-hfpef-and-obesity",
+      "normalized_url": "https://epocrates.com/online/article/trial-evaluates-semaglutide-in-patients-with-hfpef-and-obesity",
+      "work_key": "https://epocrates.com/online/article/trial-evaluates-semaglutide-in-patients-with-hfpef-and-obesity",
+      "title": "11. Epocrates: Trial evaluates semaglutide in patients with HFpEF and obesity.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T02:50:21.233552Z",
+      "error_message": "barreira de acesso (requires_js_login_region): # Access limited to the U.S. At this time, epocrates is not available outside the U.S. Because we cannot guarantee that ",
+      "barrier_kind": "requires_js_login_region",
+      "source_answer_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "b981e0d9bdde8dd3",
+      "citation_markers": [
+        "[32]"
+      ],
+      "raw_url": "https://doaj.org/article/2987d7d3f4c144f7aff6183d6f034505",
+      "normalized_url": "https://doaj.org/article/2987d7d3f4c144f7aff6183d6f034505",
+      "work_key": "https://doaj.org/article/2987d7d3f4c144f7aff6183d6f034505",
+      "title": "32. DOAJ: Aranäs C, et al. Semaglutide reduces alcohol intake and relapse-like drinking in male and female rats (eBioMedicine 2023).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T02:50:24.556869Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "587e52e7a8c784eb",
+      "citation_markers": [
+        "[33]"
+      ],
+      "raw_url": "https://epocrates.com/online/article/semaglutide-reduces-alcohol-consumption-cravings-in-randomized-trial",
+      "normalized_url": "https://epocrates.com/online/article/semaglutide-reduces-alcohol-consumption-cravings-in-randomized-trial",
+      "work_key": "https://epocrates.com/online/article/semaglutide-reduces-alcohol-consumption-cravings-in-randomized-trial",
+      "title": "33. Epocrates: Semaglutide reduces alcohol consumption, cravings in randomized trial.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T02:50:33.933343Z",
+      "error_message": "barreira de acesso (requires_js_login_region): # Access limited to the U.S. At this time, epocrates is not available outside the U.S. Because we cannot guarantee that ",
+      "barrier_kind": "requires_js_login_region",
+      "source_answer_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "4e26e51e3a4e6313",
+      "citation_markers": [
+        "[37]"
+      ],
+      "raw_url": "https://diabetes.acponline.org/archives/2024/08/09/8.htm",
+      "normalized_url": "https://diabetes.acponline.org/archives/2024/08/09/8.htm",
+      "work_key": "https://diabetes.acponline.org/archives/2024/08/09/8.htm",
+      "title": "37. ACP Diabetes Monthly: Semaglutide associated with reduced tobacco use disorder encounters in smokers with type 2 diabetes.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T02:51:31.826255Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "a1fc556bcd60ce59",
+      "citation_markers": [
+        "[58]"
+      ],
+      "raw_url": "https://www.pubmed.gov/35441470/",
+      "normalized_url": "https://pubmed.gov/35441470",
+      "work_key": "https://pubmed.gov/35441470",
+      "title": "58. PubMed: Wilding JPH, et al. Weight regain and cardiometabolic effects after withdrawal of semaglutide: The STEP 1 trial extension (Diabetes Obes Metab 2022).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T02:50:45.932664Z",
+      "error_message": "barreira de acesso (http_error): 403 Forbidden",
+      "barrier_kind": "http_error",
+      "source_answer_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-20",
+      "reason": "Referencia(s) citada(s) ['ffcb3b3726568b29'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-26",
+      "reason": "Referencia(s) citada(s) ['a2c13a5f20e8c4b0'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-50",
+      "reason": "Referencia(s) citada(s) ['b981e0d9bdde8dd3'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-51",
+      "reason": "Referencia(s) citada(s) ['587e52e7a8c784eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-52",
+      "reason": "Referencia(s) citada(s) ['587e52e7a8c784eb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-56",
+      "reason": "Referencia(s) citada(s) ['4e26e51e3a4e6313'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-68",
+      "reason": "Referencia(s) citada(s) ['28dfd4633d46fcb8'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-87",
+      "reason": "Referencia(s) citada(s) ['28dfd4633d46fcb8'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-88",
+      "reason": "Referencia(s) citada(s) ['a1fc556bcd60ce59'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-91",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['ffcb3b3726568b29'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-91",
+        "verdict": "unsupported",
+        "justification": "A evidência cobre benefícios sintomáticos em osteoartrite de joelho (dor e função física) e doença arterial periférica (PAD) com diabetes tipo 2 (capacidade de caminhada), mas NÃO menciona absolutamente nada sobre insuficiência cardíaca com fração de ejeção preservada (HFpEF). Como a afirmação afirma que benefícios estão 'estabelecidos' para três condições e uma delas (HFpEF) não tem qualquer cobertura na evidência, a afirmação não é totalmente sustentada. Além disso, a caracterização dos ganhos absolutos como 'moderados' não é explicitamente feita na evidência.",
+        "cited_excerpts": [
+          "Participants receiving semaglutide experienced significant improvements in both weight reduction and knee pain relief compared to the placebo group.",
+          "WOMAC pain scores improved by 41.7 points in the semaglutide group versus 27.5 points in the placebo group (p<0.001), indicating a significant reduction in knee pain.",
+          "The STRIDE trial has demonstrated that semaglutide significantly enhances walking capacity in individuals with peripheral artery disease (PAD) and type 2 diabetes (T2D).",
+          "semaglutide led to a median improvement of 26.4 meters over the placebo in maximum walking distance"
+        ],
+        "supporting_reference_ids": [
+          "7a4ece632343fd00",
+          "e36237132add58bd"
+        ],
+        "unsupported_aspects": [
+          "Heart failure with preserved ejection fraction (HFpEF) — não mencionada em nenhuma evidência",
+          "Caracterização dos ganhos absolutos como 'moderados' — não explicitada na evidência"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "e36237132add58bd",
+            "relation": "partial",
+            "excerpt": "semaglutide significantly enhances walking capacity in individuals with peripheral artery disease (PAD) and type 2 diabetes (T2D)"
+          },
+          {
+            "reference_id": "7a4ece632343fd00",
+            "relation": "partial",
+            "excerpt": "Knee pain scores on the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) scale significantly decreased with semaglutide compared to placebo."
+          }
+        ],
+        "prompt_tokens": 16960,
+        "completion_tokens": 4361,
+        "cost_usd": 0.0,
+        "latency_ms": 15130,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência cobre benefícios sintomáticos em osteoartrite de joelho (dor e função física) e doença arterial periférica (PAD) com diabetes tipo 2 (capacidade de caminhada), mas NÃO menciona absolutamente nada sobre insuficiência cardíaca com fração de ejeção preservada (HFpEF). C…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência cobre benefícios sintomáticos em doença arterial periférica (PAD) e osteoartrite de joelho, mas NÃO menciona insuficiência cardíaca com fração de ejeção preservada (HFpEF), que é parte essencial da afirmação. Além disso, a caracterização dos ganhos absolutos como 'mo…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em e36237132add58bd, 7a4ece632343fd00; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-92",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['587e52e7a8c784eb'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-92",
+        "verdict": "unsupported",
+        "justification": "A evidência sustenta que os efeitos no tratamento de AUD (transtorno por uso de álcool) parecem promissores e que os dados provêm de um estudo observacional. No entanto, a afirmação menciona 'one small trial' (um pequeno ensaio clínico), o que não aparece em nenhuma parte da evidência. A evidência descreve apenas um estudo de coorte observacional, sem qualquer menção a ensaios clínicos. Como parte essencial da afirmação não está fundamentada na evidência, o veredito é unsupported.",
+        "cited_excerpts": [
+          "This cohort study was an observational study conducted nationwide in Sweden",
+          "Semaglutide and liraglutide may be effective in the treatment of AUD, and clinical trials are urgently needed to confirm these findings.",
+          "the use of semaglutide and liraglutide were associated with a substantially decreased risk of hospitalization due to AUD"
+        ],
+        "supporting_reference_ids": [
+          "3be224a4b1caea63"
+        ],
+        "unsupported_aspects": [
+          "one small trial — não há menção a nenhum ensaio clínico na evidência, apenas um estudo observacional",
+          "addiction (termo amplo) — a evidência trata especificamente de AUD e SUD, não de 'vício' de forma geral"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "3be224a4b1caea63",
+            "relation": "partial",
+            "excerpt": "This cohort study was an observational study"
+          }
+        ],
+        "prompt_tokens": 14274,
+        "completion_tokens": 2849,
+        "cost_usd": 0.0,
+        "latency_ms": 14106,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [
+          "7ea778ac91b68b29",
+          "1672a42e60fb7bed",
+          "1c4fd2e1be93baf6",
+          "4be4c6ad8c3dacda",
+          "cd24963dbdb0af70",
+          "50959c060a1474c5",
+          "4854bec5209008df",
+          "0032441c9df7368f",
+          "9c365255c4a90f3c"
+        ],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência sustenta que os efeitos no tratamento de AUD (transtorno por uso de álcool) parecem promissores e que os dados provêm de um estudo observacional. No entanto, a afirmação menciona 'one small trial' (um pequeno ensaio clínico), o que não aparece em nenhuma parte da evi…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência menciona dados observacionais (coorte de 227.866 indivíduos) e efeitos promissores na redução de hospitalização por transtorno de uso de álcool, mas não menciona 'one small trial' (um pequeno ensaio clínico). Essa parte específica da afirmação não está fundamentada n…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em 3be224a4b1caea63; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "claim sustentado por outra(s) referencia(s) nao citada(s): 7ea778ac91b68b29, 1672a42e60fb7bed, 1c4fd2e1be93baf6, 4be4c6ad8c3dacda, cd24963dbdb0af70, 50959c060a1474c5, 4854bec5209008df, 0032441c9df7368f, 9c365255c4a90f3c"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-94",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['28dfd4633d46fcb8', 'a1fc556bcd60ce59'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-94",
+        "verdict": "unsupported",
+        "justification": "A evidência sustenta parcialmente a afirmação: (1) a questão sobre desfechos hepáticos graves é apoiada pelo fato de que a Parte 2 do estudo ESSENCE (desfechos hepáticos clínicos) ainda não foi concluída (leitura esperada em 2029); (2) a incerteza sobre o risco de NAION é apoiada pela evidência conflitante entre estudos observacionais e pela contestação da Novo Nordisk sobre causalidade. No entanto, a afirmação também inclui duas questões — efeitos em ossos e músculos ao longo de muitos anos, e durabilidade dos benefícios após a interrupção do tratamento — que não são mencionadas em nenhuma parte da evidência. Como partes essenciais da afirmação não têm qualquer cobertura na evidência, o veredito é unsupported.",
+        "cited_excerpts": [
+          "In part 2, the objective is to demonstrate that treatment with semaglutide 2.4 mg lowers the risk of liver-related clinical events compared to placebo in adults with MASH and moderate to advanced liver fibrosis at 240 weeks.",
+          "Part 2 of the ESSENCE trial is expected to read out in 2029.",
+          "two recent observational studies suggested an elevated risk of patients developing NAION",
+          "two other recent observational studies do not suggest an increased risk",
+          "Based on the totality of evidence, we concluded that the data did not suggest a reasonable possibility of a causal relationship between semaglutide and NAION"
+        ],
+        "supporting_reference_ids": [
+          "59e050de1bfd408e",
+          "303b7c9b222dc549"
+        ],
+        "unsupported_aspects": [
+          "What happens to bone and muscle over many years — nenhuma menção na evidência",
+          "How durable each benefit is once treatment stops — nenhuma menção na evidência"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "59e050de1bfd408e",
+            "relation": "partial",
+            "excerpt": "In part 2, the objective is to demonstrate that treatment with semaglutide 2.4 mg lowers the risk of liver-related clinical events compared to placebo in adults with MASH and moderate to advanced liver fibrosis at 240 weeks."
+          },
+          {
+            "reference_id": "303b7c9b222dc549",
+            "relation": "partial",
+            "excerpt": "two recent observational studies suggested an elevated risk of patients developing NAION"
+          }
+        ],
+        "prompt_tokens": 18446,
+        "completion_tokens": 4103,
+        "cost_usd": 0.0,
+        "latency_ms": 18744,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência sustenta parcialmente a afirmação: (1) a questão sobre desfechos hepáticos graves é apoiada pelo fato de que a Parte 2 do estudo ESSENCE (desfechos hepáticos clínicos) ainda não foi concluída (leitura esperada em 2029); (2) a incerteza sobre o risco de NAION é apoiad…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência sustenta parcialmente a afirmação: o ESSENCE trial parte 2 (resultados em 2029) indica que os desfechos hepáticos duros ainda estão em investigação, e os estudos conflitantes sobre NAION sugerem incerteza sobre o risco. Porém, a evidência não menciona absolutamente n…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em 59e050de1bfd408e, 303b7c9b222dc549; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "3ed2d75d95d9fd3a",
+      "url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2024/05/29/17/23/flow",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        27,
+        29,
+        30,
+        32
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        89
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Total randomized participants: 3,533 [...] DM2 with glycated hemoglobin (HbA1c) ≤10% [...] High-risk CKD (estimated glomerular filtration rate [eGFR] 25-75 mL/min/1.73 m2 with a urinary albumin-to-creatinine ratio of >300 and <5000 [...] Receiving a stable maximal labeled dose (or the maximal dose without unacceptable side effects) of renin-angiotensin system inhibitors (angiotensin-converting enzyme inhibitor [ACEi]/angiotensin receptor blocker [ARB]) [...] Patients were randomized in 1:1 fashion to once weekly subcutaneous semaglutide (n = 1,767) or matching placebo (n = 1,766). [...] maintenance dose of 1.0 mg per week",
+      "key_excerpt_position": 27
+    },
+    {
+      "reference_id": "66ab682191d7e206",
+      "url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2016/09/16/09/09/sustain-6",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        84
+      ],
+      "partial_positions": [
+        0,
+        2
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The primary outcome, CV death, nonfatal myocardial infarction (MI), or stroke for semaglutide vs. placebo, was 6.6% vs. 8.9% (hazard ratio 0.74, 95% confidence interval 0.58-0.95, p < 0.001 for noninferiority; p = 0.02 for superiority).",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "6aa085aeb05d538f",
+      "url": "https://www.bariatricnews.net/post/select-semaglutide-reduces-cv-events-in-non-diabetic-patients-with-overweight-or-obesity",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        3,
+        4,
+        6
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        89
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "SELECT was a randomised, double-blind, parallel-group, placebo-controlled trial designed to evaluate the efficacy of semaglutide 2.4 mg versus placebo as an adjunct to standard of care for reducing the risk of MACE in people with established CVD with overweight or obesity with no prior history of diabetes. [...] The trial enrolled 17,604 adults [...] People included in the trial were aged ≥45 years with a BMI ≥27 kg/m2.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "ccdc2d10e9003a62",
+      "url": "https://news-medical.net/news/20260927/Semaglutide-cuts-major-heart-events-but-researchers-still-cannot-fully-explain-why.aspx",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        10,
+        14
+      ],
+      "partial_positions": [
+        11,
+        90
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In a recent study published in the **European Heart Journal**, researchers investigated which measured cardiovascular risk factors might help explain semaglutide's cardioprotective effects. [...] In the multivariable model, conventional risk factors such as body weight, blood pressure, cholesterol, and blood glucose produced a joint mediation point estimate of 31.4%. Based on this estimate, about 68.6% of the treatment effect was not accounted for by the included measures",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "de1fb1ff7563e469",
+      "url": "https://www.news-medical.net/news/20260824/Semaglutidee28099s-heart-benefits-may-partly-involve-reduced-inflammation.aspx",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        12,
+        13,
+        15
+      ],
+      "partial_positions": [
+        90
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Semaglutide produced a 37.8% placebo-corrected reduction in geometric mean hsCRP levels at week 104. [...] In a recent study published in the journal Circulation, researchers conducted a prespecified secondary analysis of data from the landmark SELECT trial [...] Plutzky, J., et al. (2026). [...] Circulation, 154. [...] elevated circulating concentrations of hsCRP can serve as a biomarker (physiological proxy) of systemic inflammation",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "4b0693866d93670b",
+      "url": "https://www.drugs.com/clinical_trials/essence-phase-3-trial-semaglutide-showed-significant-improvements-72-weeks-adults-mash-published-22022.html",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        36,
+        37,
+        77
+      ],
+      "partial_positions": [
+        44
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Today, The New England Journal of Medicine (NEJM) published results from part 1 of the ongoing phase 3 ESSENCE trial which investigated the effects of once-weekly subcutaneous semaglutide 2.4 mg on liver histology compared to placebo at 72 weeks in adults with MASH and moderate to advanced liver fibrosis (stage 2 or 3). [...] In part 1, the objective was to demonstrate that treatment with semaglutide 2.4 mg improves liver histology compared with placebo at 72 weeks based on biopsy sampling from the first 800 randomized patients.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "59e050de1bfd408e",
+      "url": "https://www.drugs.com/newdrugs/wegovy-approved-us-mash-6595.html",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 2,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        38
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        89
+      ],
+      "contradicts_positions": [
+        41
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        94
+      ],
+      "key_excerpt": "Bagsværd, Denmark, 15 August 2025 – Novo Nordisk today announced that the US Food and Drug Administration (FDA) has approved an additional indication for Wegovy (semaglutide 2.4 mg) based on a supplemental New Drug Application (sNDA) for treatment of noncirrhotic metabolic dysfunction-associated steatohepatitis (MASH) in adults with moderate to advanced liver fibrosis (consistent with stages F2 to F3 fibrosis), in combination with a reduced calorie diet and increased physical activity.",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "7a4ece632343fd00",
+      "url": "https://www.2minutemedicine.com/semaglutide-reduces-weight-and-pain-in-obese-patients-with-knee-osteoarthritis/",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        65,
+        66,
+        67
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        91
+      ],
+      "key_excerpt": "The Semaglutide Treatment Effect in People with Obesity (STEP) 9 trial was a 68-week, double-blind, randomized controlled trial evaluating once-weekly semaglutide (2.4 mg) for weight management and knee osteoarthritis symptoms in obese adults. Eligible participants, aged 18 and older with a BMI of 30 or higher and moderate knee osteoarthritis [...] At 68 weeks, the semaglutide group had a mean weight reduction of 13.7%, compared to 3.2% in the placebo group (p<0.001). WOMAC pain scores improved by 41.7 points in the semaglutide group versus 27.5 points in the placebo group (p<0.001)",
+      "key_excerpt_position": 65
+    },
+    {
+      "reference_id": "303b7c9b222dc549",
+      "url": "https://pharmaceutical-journal.com/article/news/eye-disorder-is-a-very-rare-side-effect-of-weight-loss-drugs-concludes-ema-review",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        81,
+        82,
+        83
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        94
+      ],
+      "key_excerpt": "The eye disorder non-arteritic anterior ischemic optic neuropathy (NAION) is a “very rare side effect” of the use of semaglutide medicines, a review conducted by the European Medicines Agency’s (EMA) Pharmacovigilance Risk Assessment Committee (PRAC) has concluded. In a statement published on 6 June 2025, the PRAC said it had reviewed “all available data on NAION with semaglutide” […] PRAC concluded that NAION is a “very rare” side effect of semaglutide use and that it may affect up to 1 in 10,000 people who take the medicines.",
+      "key_excerpt_position": 81
+    },
+    {
+      "reference_id": "83422a560b1359a7",
+      "url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2025/03/27/15/04/soul",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        16,
+        17
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [
+        89
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Total number of enrollees: 9,650\nDuration of follow-up: median 49.5 months\npatients with type 2 diabetes mellitus (T2DM) and atherosclerotic cardiovascular disease (ASCVD), chronic kidney disease (CKD), or both",
+      "key_excerpt_position": 16
+    },
+    {
+      "reference_id": "3ab9f246b4adc325",
+      "url": "https://www.neurologylive.com/view/ctad-presentation-lays-insights-disappointing-phase-3-evoke-trial-of-glp-1-semaglutide-alzheimers",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        47
+      ],
+      "partial_positions": [
+        48,
+        93
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "there was an estimated –0.06-point (95% CI, –0.48 to 0.36) difference between oral semaglutide (2.2) and placebo (2.2; P = .7727) in EVOKE during that time. For EVOKE+, which included patients with vascular pathology, there was a 0.15-point difference (95% CI, –0.24 to 0.54) between semaglutide (2.1) and placebo (2.0), which was also not significant (P = .4604). [...] there was no significant difference between treatment groups. [...] there was no beneficial effects on cognition and function, using scales like Montreal Cognitive Assessment, ADAS-Cog13, MMSE, and ADCOMS. [...] the investigators reported a hazard ratio (HR) of 0.96 (95% CI, 0.86-1.06).",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "587e52e7a8c784eb",
+      "url": "https://epocrates.com/online/article/semaglutide-reduces-alcohol-consumption-cravings-in-randomized-trial",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        51,
+        52,
+        92
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "28dfd4633d46fcb8",
+      "url": "https://www.mdlinx.com/article/5-year-glp-1-data-raises-red-flags-for-bone-and-joint-health-what-next/3lLWWjMMdpDj4XP3x5NjFa",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        68,
+        87,
+        94
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6b16224d35d830f7",
+      "url": "https://www.acc.org/about-acc/press-releases/2024/08/30/11/41/semaglutide-reduces-covid-19-related-deaths",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        74,
+        75,
+        76
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Of the 833 deaths in trial participants, 58% were CV related, and 42% were non-CV related. Infection was the most common cause of non-CV death, but that occurred at a lower rate in the semaglutide group vs. the placebo group.",
+      "key_excerpt_position": 74
+    },
+    {
+      "reference_id": "2968f8e371c69aaa",
+      "url": "https://www.drugs.com/news/fda-approves-wegovy-help-prevent-heart-attack-stroke-118075.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        7
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "which occurred in 6.5% of participants who received Wegovy compared to 8% of participants who received placebo",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "ffcb3b3726568b29",
+      "url": "https://epocrates.com/online/article/trial-evaluates-semaglutide-in-patients-with-hfpef-and-obesity",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        20,
+        91
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "54f89b4aaeb8402d",
+      "url": "https://www.biospace.com/press-releases/new-pooled-analysis-published-in-the-lancet-demonstrated-reduced-risk-of-combined-cv-death-or-worsening-heart-failure-with-semaglutide",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        22,
+        23
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The study was a pooled, post hoc participant-level analysis of 3,743 patients with a history of HFpEF from four randomized trials... semaglutide led to a 31% reduced risk of combined cardiovascular (CV) death or worsening heart failure (HF) events... (HR 0.69; 95% CI 0.53-0.89; P=0.0045)... Semaglutide also led to a 41% lower risk of worsening HF... HR 0.59 (95% CI 0.41-0.82), P=0.0019)... There was no significant effect on the incidence of CV death... HR 0.82 (95% CI 0.57-1.16), P=0.25).",
+      "key_excerpt_position": 22
+    },
+    {
+      "reference_id": "e36237132add58bd",
+      "url": "https://medicaldialogues.in/amp/cardiology-ctvs/news/semaglutide-boosts-walking-capacity-in-pad-and-type-2-diabetes-stride-trial-finds-145873",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        24
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        91
+      ],
+      "key_excerpt": "the trial enrolled 792 participants aged 18 years and older, all diagnosed with T2D and PAD with intermittent claudication. Eligible participants were required to have a Fontaine stage IIa classification (walking ability over 200 meters) and an ankle-brachial index of 0.90 or lower or a toe–brachial index of 0.70 or lower. Participants were randomly assigned in a 1:1 ratio to receive either a weekly 1.0 mg subcutaneous injection of semaglutide or a placebo for one year. After 52 weeks of treatment, patients receiving semaglutide experienced a 21% improvement in maximum walking distance compared to just 8% in the placebo group. \"The study found a significant difference between the two groups, with an estimated treatment ratio of 1.13 (95% CI 1.06–1.21; p=0.0004)",
+      "key_excerpt_position": 24
+    },
+    {
+      "reference_id": "1ab4ad7206ff0270",
+      "url": "https://www.news-medical.net/news/20240528/Semaglutide-shows-significant-kidney-benefits-in-non-diabetic-obese-patients-with-heart-disease.aspx",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        33,
+        34
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "One or more of these outcomes occurred in 1.8% of semaglutide recipients as compared to 2.2% of the placebo group, thus indicating that the risk for this outcome was reduced by 20% in these patients. This risk reduction was mainly due to a reduced onset of macroalbuminuria and fewer patients with a 50% or more reduction in eGFR.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "f8d6761941779510",
+      "url": "https://neurologylive.com/view/glp-1-agonist-semaglutide-significant-prevention-alzheimers-emulation-target-trials",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        45
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        93
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A recently published target trial emulation of electronic healthy records from more than 1 million patients with type 2 diabetes mellitus (T2DM) showed that treatment with semaglutide [...] can delay or prevent Alzheimer disease (AD). [...] semaglutide-treated patients had a significantly lower risk of first-time AD diagnosis, with a hazard ratio (HR) of 0.33 (0.21-0.51) compared with insulins and an HR of 0.59 (0.37-0.95) compared with other GLP-1RAs.",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "3be224a4b1caea63",
+      "url": "https://researchportal.tuni.fi/en/publications/repurposing-semaglutide-and-liraglutide-for-alcohol-use-disorder/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        54
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        92
+      ],
+      "key_excerpt": "This cohort study was an observational study conducted nationwide in Sweden [...] The cohort included 227 866 individuals with AUD [...] Semaglutide (4321 users) was associated with the lowest risk (AUD: adjusted hazard ratio [aHR], 0.64; 95% CI, 0.50-0.83",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "4be4c6ad8c3dacda",
+      "url": "https://nature.com/articles/s41380-024-02498-5.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        58
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In patients with obesity (mean age 51.3 years, 65.6% women), semaglutide compared with non-GLP-1RA anti-obesity medications was associated with lower risk for incident CUD in patients with no prior history CUD (HR: 0.56, 95% CI: 0.42–0.75)",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "4854bec5209008df",
+      "url": "https://www.novo-pi.com/wegovy.pdf",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        73,
+        79
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "WEGOVY® is contraindicated in patients with a personal or family history of MTC or in patients with Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).",
+      "key_excerpt_position": 73
+    },
+    {
+      "reference_id": "a1fc556bcd60ce59",
+      "url": "https://www.pubmed.gov/35441470/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        88,
+        94
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "23abb35777c01384",
+      "url": "https://www.news-medical.net/news/20260211/Semaglutide-lowers-cardiovascular-events-even-without-major-weight-loss-researchers-report.aspx",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        8
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "with consistent effects across all baseline weight and waist circumference categories. [...] early weight loss did not predict subsequent MACE risk in the semaglutide group. [...] a prespecified analysis of the SELECT trial [...] The Lancet 406: 2257–2268, published online October 22, 2025",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "4f813777af2f12ae",
+      "url": "https://www.hcplive.com/view/select-semaglutide-indicates-possible-cardiovascular-disease-modifying-effect",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        9
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Investigators estimated 33% of the observed benefit on MACE was mediated through waist circumference reduction (HR, 0.86; 95% CI, 0.77-0.97 after adjustment for time-varying changes in waist circumference).",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "71c2e23521eafec7",
+      "url": "https://www.hcplive.com/view/fda-approves-oral-semaglutide-rybelsus-for-cv-risk-reduction-in-type-2-diabetes",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        18
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Oral semaglutide is FDA-approved for cardiovascular risk reduction in high-risk type 2 diabetes patients, regardless of prior cardiovascular events. [...] Announced by parent company Novo Nordisk on October 17, 2025, the approval [...] FDA Approves Oral Semaglutide (Rybelsus) for CV Risk Reduction in Type 2 Diabetes",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "8b4aa11dcd91ce44",
+      "url": "https://www.ajmc.com/fda-approves-oral-semaglutide-as-first-glp-1-pill-for-weight-loss",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        19
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The FDA has approved the first oral glucagon-like peptide-1 (GLP-1) receptor agonist for weight loss and to reduce the risk of major adverse cardiovascular events (MACE). Novo Nordisk plans to launch the once-daily oral semaglutide (Wegovy) 25 mg in the US in early January 2026. The approval is based on results from the OASIS clinical trials and the SELECT trial.",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "1a165f4b8c91918f",
+      "url": "https://www.acc.org/latest-in-cardiology/clinical-trials/2024/04/05/03/29/step-hfpef-dm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        21
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Total randomized participants: 616; Change in KCCQ-CSS: 13.7 vs. 6.4 (p < 0.001); weight loss in this trial was lower compared with STEP-HFpEF (10.7% vs. 6.4%); The STEP-HFpEF DM trial showed that among obese patients with HFpEF and type 2 DM, once weekly subcutaneous semaglutide was superior to placebo in improving body weight and patient-oriented QoL outcomes at 52 weeks.",
+      "key_excerpt_position": 21
+    },
+    {
+      "reference_id": "39daeecf51a65676",
+      "url": "https://diabetes.acponline.org/archives/2025/09/12/7.htm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        25
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The 40-meter improvement in the maximum walking distance with semaglutide was numerically modest and comparable to cilostazol, the only approved and recommended pharmacologic agent for claudication, but it was less than the gains achieved through supervised exercise therapy. ... Generalizability of these promising results is limited by the inclusion of only patients with mild intermittent claudication symptoms",
+      "key_excerpt_position": 25
+    },
+    {
+      "reference_id": "a2c13a5f20e8c4b0",
+      "url": "https://www.nasdaq.com/articles/novo-nordisk-emas-chmp-backs-ozempic-label-update",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        26
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "48ba0dc1934afd12",
+      "url": "https://www.biospace.com/novo-nordisk-s-semaglutide-cuts-death-risk-in-diabetics-with-ckd-in-phase-iii-trial",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        28
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In October 2023, Novo announced that it would stop FLOW ahead of schedule in line with an independent data monitoring committee's recommendation to end the study early, noting that FLOW \"met certain pre-specified criteria for stopping the trial early for efficacy.\"",
+      "key_excerpt_position": 28
+    },
+    {
+      "reference_id": "bc80da6ccbe4db0e",
+      "url": "https://www.ozempic.com/content/dam/diabetes-patient/ozempic/pdfs/Ozempic_CKD_sNDA_Press_Release_January_28_2025.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        31
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Plainsboro, N.J., January 28, 2025 – Novo Nordisk today announced that the U.S. Food and Drug Administration (FDA) has approved Ozempic® to reduce the risk of kidney disease worsening, kidney failure (end-stage kidney disease), and death due to cardiovascular disease in adults with type 2 diabetes and chronic kidney disease (CKD).",
+      "key_excerpt_position": 31
+    },
+    {
+      "reference_id": "31cc9789a5604e3c",
+      "url": "https://www.hcplive.com/view/remodel-mechanistic-insights-into-semaglutide-in-ckd-with-petter-bjornstad-md",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        35
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "At the World Congress of Nephrology (WCN) 2026 Meeting in Yokohama, Japan, Petter Bjornstad, MD [...] presented an overview of REMODEL [...] Using functional MRI, the study demonstrated reduced renal vascular resistance [...] biopsy data, which revealed gene expression patterns consistent with healthier endothelial cell function [...] reductions in fat surrounding and within the kidney [...] improvements in vascular health may underpin the systemic benefits observed with these therapies.",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "0ba23796bfb71736",
+      "url": "https://www.ema.europa.eu/en/documents/smop-initial/chmp-summary-positive-opinion-kayshild_en.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        39
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "On 29 January 2026, the Committee for Medicinal Products for Human Use (CHMP) adopted a positive opinion",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "6d2403b43c909477",
+      "url": "https://www.ema.europa.eu/es/medicines/human/EPAR/kayshild",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        40
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Kayshild has been given conditional authorisation for use in the EU. This means that it has been authorised on the basis of less comprehensive data than are normally required because it fulfils an unmet medical need. [...] Kayshild received a conditional marketing authorisation valid throughout the EU on 26 March 2026.",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "7a245448e88a30b9",
+      "url": "https://www.healio.com/news/gastroenterology/20230331/no-difference-between-semaglutide-placebo-in-fibrosis-improvement-in-patients-with-nash",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In a double-blind, placebo-controlled phase 2 trial published in The Lancet Gastroenterology & Hepatology, Loomba and colleagues enrolled 71 patients (69% women; mean age, 59.5 years) with biopsy-confirmed NASH-related cirrhosis",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "351fa1882171dffc",
+      "url": "https://health.ucsd.edu/news/press-releases/2026-07-16-glp-1-shows-promise-for-patients-with-advanced-fatty-liver-disease/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        43
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Phase II trial followed about 700 adults with biopsy-confirmed MASH and moderate to advanced liver scarring, including participants who had already developed early cirrhosis. [...] GLP-1 on its own showed a statistically significant improvement in liver scarring without worsening underlying liver inflammation [...] The researchers emphasize that larger clinical trials focused specifically on patients with cirrhosis are needed to confirm these results.",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "94201c1532ff761f",
+      "url": "https://www.biospace.com/press-releases/novo-nordisk-a-s-evoke-phase-3-trials-did-not-demonstrate-a-statistically-significant-reduction-in-alzheimers-disease-progression",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        46
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Novo Nordisk today announced the top-line results from the 2-year primary analysis of evoke and evoke+ phase 3 trials in early-stage symptomatic Alzheimer's disease. The two trials were randomised, double-blinded, enrolled a total of 3808 adults and evaluated the efficacy and safety of oral semaglutide compared to placebo on top of standard of care. The evoke and evoke+ trials did not confirm superiority of semaglutide versus placebo in the reduction of progression of Alzheimer's disease, as measured by the change in Clinical Dementia Rating – Sum of Boxes (CDR-SB) score compared to baseline. In the evoke trials with patients aged 55-85, suffering from mild cognitive impairment or mild dementia due to Alzheimer's disease... once-daily oral semaglutide 14 mg versus placebo... with confirmed amyloid positivity. In the evoke and evoke+ trials, the change in CDR-SB for semaglutide compared to placebo was measured from baseline to week 104.",
+      "key_excerpt_position": 46
+    },
+    {
+      "reference_id": "cd24963dbdb0af70",
+      "url": "https://www.news-medical.net/news/20260322/Oral-semaglutide-fails-to-slow-early-Alzheimere28099s-decline-in-two-phase-3-trials.aspx",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        49
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Semaglutide produced some biomarker changes, but these did not translate into measurable patient benefit. [...] Differences between this trial and earlier studies may reflect variations in patient populations, treatment duration, or study design, including the distinction between prevention and treatment of symptomatic disease.",
+      "key_excerpt_position": 49
+    },
+    {
+      "reference_id": "b981e0d9bdde8dd3",
+      "url": "https://doaj.org/article/2987d7d3f4c144f7aff6183d6f034505",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        50
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "7ea778ac91b68b29",
+      "url": "https://today.usc.edu/popular-weight-loss-diabetes-drug-shows-promise-in-reducing-cravings-for-alcohol/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        53
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "By the second month of treatment, those in the semaglutide group had reduced the quantify of alcohol consumed on drinking days by an average of nearly 30%, compared to an average reduction of about 2% in the placebo group.",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "4e26e51e3a4e6313",
+      "url": "https://diabetes.acponline.org/archives/2024/08/09/8.htm",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        56
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "eb1123be6db3afd6",
+      "url": "https://www.news-medical.net/news/20240925/Study-links-semaglutide-to-reduced-opioid-overdose-risk-in-patients-with-OUD-and-diabetes.aspx",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        57
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The research team - led by biomedical informatics professor Rong Xu - analyzed six years of electronic records of nearly 33,000 patients with OUD who also had T2D. [...] They found patients prescribed semaglutide had a significantly lower risk for opioid overdose, compared to those who had taken any of eight other anti-diabetic medications [...] the study's limitations restrict the researchers from making firm causal conclusions, Xu said.",
+      "key_excerpt_position": 57
+    },
+    {
+      "reference_id": "1c4fd2e1be93baf6",
+      "url": "https://source.washu.edu/2025/01/study-identifies-benefits-risks-linked-to-popular-weight-loss-drugs",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        59
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "GLP-1RA drugs were associated with significant benefits to neurological and behavioral health, with reduced risks of seizures and addiction to substances such as alcohol, cannabis, stimulants and opioids.",
+      "key_excerpt_position": 59
+    },
+    {
+      "reference_id": "3c1bf36999a25eed",
+      "url": "https://www.ema.europa.eu/es/news/meeting-highlights-pharmacovigilance-risk-assessment-committee-prac-8-11-april-2024",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        60
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The PRAC has concluded that the available evidence does not support a causal association between the Glucagon-Like Peptide-1 receptor agonists (GLP-1) – dulaglutide, exenatide, liraglutide, lixisenatide and semaglutide – and suicidal and self-injurious thoughts and actions.",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "1672a42e60fb7bed",
+      "url": "https://www.pharmacytimes.com/view/fda-finds-no-increased-suicide-risk-with-glp-1-medications-requests-removal-of-warning-labels",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        61
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In an updated Drug Safety Communication issued on January 13, 2026, the results did not demonstrate an increased risk of suicidal behavior or ideation, along with other psychiatric adverse events (eg, anxiety, depression, irritability, psychosis), among individuals treated with GLP-1s. [...] A total of 107,910 patients were involved [...] including 91 placebo-controlled GLP-1 medication trials. [...] A total of 2,243,138 users were included [...] the FDA is requesting that application holders remove information regarding the risk of SI/B from the labeling of GLP-1 RA medications [...] semaglutide (Wegovy; Novo Nordisk), tirzepatide (Zepbound; Eli Lilly), and liraglutide (Saxenda; Novo Nordisk)",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "9c365255c4a90f3c",
+      "url": "https://www.pharmacytimes.com/view/semaglutide-does-not-increase-depression-or-suicidal-ideation-risk-in-adults-with-overweight-obesity",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        62
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The study used pooled data from the randomized, double-blind, placebo-controlled, multicenter phase 3a STEP 1, 2, and 3 trials and phase 3b STEP 5 trial. [...] researchers evaluated the psychiatric safety of subcutaneous semaglutide compared with placebo in a post hoc analysis among individuals without known major psychopathology. [...] individuals treated with semaglutide were less likely to worsen in depression severity (odds ratio: .63; P < .001)",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "0032441c9df7368f",
+      "url": "https://michaeljfox.org/news/results-parkinsons-trial-diabetes-drug-lixisenatide-published",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        63
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Phase 2 clinical trials like this one test the safety of a treatment",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "c26dc04731eaa28b",
+      "url": "https://www.parkinsons.org.uk/node/1020556",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        64
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "exenatide had no benefits over the placebo and didn't slow the progression of Parkinson's. [...] these disappointing phase 3 results are from the largest and longest trial of this type of drug for Parkinson's",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "e4a02359ffd04f23",
+      "url": "https://view.asiae.co.kr/en/article/2026060911182496843",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        69
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "at the American Diabetes Association (ADA) 2026 Annual Scientific Sessions held in New Orleans from June 5 to 8 (local time), Novo Nordisk simultaneously released six post-hoc analyses examining additional effects of semaglutide. [...] This finding comes from the 'SELECT' clinical trial [...] the group receiving 2.4 mg of semaglutide had a 52% lower risk of developing new sleep apnea compared to the placebo group. The number of new cases was 30 in the semaglutide group and 65 in the placebo group. [...] Among 1,190 SELECT participants who self-reported asthma, the risk of asthma-related adverse events decreased by 42%.",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "5e53ea98e0e188d4",
+      "url": "https://clinicaltrials.gov/study/NCT07281196",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        70
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Semaglutide Effects on Sleep Apnea in Patients With Type 2 Diabetes/Obesity and Comorbid Obstructive Sleep Apnea",
+      "key_excerpt_position": 70
+    },
+    {
+      "reference_id": "bdb4e3f2bff4ae8b",
+      "url": "https://www.healio.com/news/endocrinology/20240705/glp1s-tied-to-lower-risk-for-10-types-of-cancer-compared-with-insulin-in-type-2-diabetes",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        71
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "People with type 2 diabetes who use a GLP-1 receptor agonist have a lower risk for 10 types of obesity-associated cancer compared with those who use insulin",
+      "key_excerpt_position": 71
+    },
+    {
+      "reference_id": "5e24303b44285404",
+      "url": "https://clinician.nejm.org/nejm-jw.NA57373",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        72
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "All glucagon-like peptide-1 (GLP-1) receptor agonists available in the U.S. carry a boxed warning about a possible association with thyroid cancer",
+      "key_excerpt_position": 72
+    },
+    {
+      "reference_id": "558b503bdcc9356d",
+      "url": "https://www.pharmacytimes.com/view/fda-adds-delayed-gastric-emptying-as-adverse-event-on-semaglutide-label",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        78
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The FDA has added a new label change for semaglutide (Ozempic; Novo Nordisk) that includes a new section referring to delayed gastric emptying.",
+      "key_excerpt_position": 78
+    },
+    {
+      "reference_id": "ff97c13a54af2e37",
+      "url": "https://www.periopleader.com/briefs/glp-1-labels-carry-pulmonary-aspiration-warning/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        80
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The US Food and Drug Administration (FDA) has updated the labels of all treatments containing GLP-1 receptor agonists with a warning about warning about pulmonary aspiration during general anesthesia or deep sedation. [...] the new language points out rare reports of \"residual gastric contents despite reported adherence to preoperative fasting recommendations\" and warns patients to tell healthcare providers about planned procedures. However, the labels do not offer recommendations for reducing the risk.",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "50959c060a1474c5",
+      "url": "https://www.aao.org/newsroom/news-releases/detail/study-weight-loss-drug-doesnt-worsen-eye-disease",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        85
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Previous studies have found a link between a rapid improvement in glucose control and the risk of worsening diabetic retinopathy. While the increased risk is temporary and often manageable with current treatment protocols, this paradox warrants increased attention from ophthalmologists. [...] It appears that most people taking semaglutide do not develop diabetic retinopathy or experience a worsening of existing diabetic retinopathy. The study will be presented this week at AAO 2023, the 127th annual meeting of the American Academy of Ophthalmology.",
+      "key_excerpt_position": 85
+    },
+    {
+      "reference_id": "68d2587feb41ac2e",
+      "url": "https://clinicaltrials.gov/study/NCT03811561",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        86
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Research Study to Look at How Semaglutide Compared to Placebo Affects Diabetic Eye Disease in People With Type 2 Diabetes (FOCUS)",
+      "key_excerpt_position": 86
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-9",
+      "position": 9,
+      "claim_excerpt": "Waist reduction statistically accounted for roughly one-third of the benefit, though the authors cautioned that waist size may be a risk marker rather than a causal pathway.",
+      "cited_markers": "[5]",
+      "corroborating_markers": "[4] [6] [51]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-48",
+      "position": 48,
+      "claim_excerpt": "Spinal-fluid markers of tau and inflammation fell by roughly 8% to 9%, while two blood markers of nerve injury rose slightly",
+      "cited_markers": "[30]",
+      "corroborating_markers": "[12] [36] [51] [1] [7] [20] [5]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-63",
+      "position": 63,
+      "claim_excerpt": "For Parkinson's disease, no semaglutide trial results were found. Within the GLP-1 class, a phase 2 trial of lixisenatide in 156 patients showed less worsening of motor symptoms over a year",
+      "cited_markers": "[43]",
+      "corroborating_markers": "[44] [28] [41] [12] [1] [40] [39] [31] [30] [9] [42] [5] [48]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-86",
+      "position": 86,
+      "claim_excerpt": "The dedicated long-term FOCUS trial is expected to finish around February 2027.",
+      "cited_markers": "[57]",
+      "corroborating_markers": "[56] [17] [26] [13] [36] [22] [23] [43] [9] [8] [51] [29] [44]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semaglutina_saude_c319e4a72f61_20261115T042452Z-93",
+      "position": 93,
+      "claim_excerpt": "and the failure of EVOKE shows how observational signals can mislead.",
+      "cited_markers": "[30] [28]",
+      "corroborating_markers": "[31] [29] [40] [51] [21] [57]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 721381,
+  "cost_tracked": false,
+  "processing_time_seconds": 253671.752085
+}

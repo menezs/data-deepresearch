@@ -1,0 +1,1270 @@
+{
+  "run_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+  "answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+  "tool_name": "Gemini",
+  "answer_path": "answers/Gemini/EmConsolidacao/pix_brasil.docx",
+  "generated_at": "2026-11-04T05:57:39.846516Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".docx",
+    "size_bytes": 21137,
+    "page_count": null,
+    "pdf_title": "Word Document",
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": "2026-11-01 18:44:45+00:00",
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 258,
+    "citation_markers_distinct": 37,
+    "references_listed": 40,
+    "references_never_cited": 4,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 111,
+  "pct_supported": 55.85585585585585,
+  "pct_unsupported": 42.34234234234234,
+  "pct_contradicted": 1.8018018018018018,
+  "count_supported": 62,
+  "count_unsupported": 47,
+  "count_contradicted": 2,
+  "count_skipped": 0,
+  "count_audited": 111,
+  "pct_supported_audited": 55.85585585585585,
+  "pct_unsupported_audited": 42.34234234234234,
+  "pct_contradicted_audited": 1.8018018018018018,
+  "count_partially_supported": 37,
+  "skipped_reason_counts": {},
+  "verification_ran": true,
+  "count_unsupported_confirmed": 15,
+  "count_reclassified_by_verification": 16,
+  "verification_stage_counts": {
+    "context_expansion": 15,
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 9,
+  "uncredited_reference_count": 8,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "1bb81415aef649b7",
+      "citation_markers": [
+        "[15]"
+      ],
+      "raw_url": "https://www.elibrary.imf.org/view/journals/002/2023/289/article-A004-en.xml",
+      "normalized_url": "https://elibrary.imf.org/view/journals/002/2023/289/article-A004-en.xml",
+      "work_key": "https://elibrary.imf.org/view/journals/002/2023/289/article-A004-en.xml",
+      "title": "International Monetary Fund (IMF). Pix: Brazil's Instant Payment System and Financial Inclusion. Disponível em:",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 202,
+      "fetched_at": "2026-11-04T03:42:27.863942Z",
+      "error_message": "barreira de acesso (anti_bot): JavaScript is disabled In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "pix_brasil_0fa70f936311_20261101T184422Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "skipped_chunks": [],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "44433d554edda5b4",
+      "url": "https://www.jota.info/executivo/bc-apresenta-relatorio-do-pix-e-elenca-funcionalidades-em-desenvolvimento",
+      "times_cited": 20,
+      "supported_count": 12,
+      "unsupported_count": 8,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        85,
+        87,
+        107
+      ],
+      "absent_positions": [
+        80,
+        82,
+        83,
+        84,
+        86,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        109
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Banco Central trabalha no PIX por aproximação offline e em melhorias de segurança, entre outros temas.",
+      "key_excerpt_position": 85
+    },
+    {
+      "reference_id": "891db28797a5c29e",
+      "url": "https://finsidersbrasil.com.br/pagamentos/pix/com-med-2-0-bc-quer-diminuir-falsos-positivos-e-rastrear-laranjas/",
+      "times_cited": 17,
+      "supported_count": 13,
+      "unsupported_count": 3,
+      "contradicted_count": 1,
+      "supporting_citations": 2,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [
+        69,
+        92
+      ],
+      "partial_positions": [
+        64,
+        67,
+        68,
+        90,
+        101,
+        102,
+        105
+      ],
+      "absent_positions": [
+        60,
+        66,
+        72,
+        91,
+        93,
+        94,
+        106
+      ],
+      "contradicts_positions": [
+        74
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o BC desenvolveu o MED 2.0 para conseguir rastrear o caminho do dinheiro para além da primeira conta que recebe os recursos originalmente",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "102d3ed3ffd0ee94",
+      "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+      "times_cited": 16,
+      "supported_count": 12,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 9,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        80,
+        82,
+        85,
+        86,
+        88,
+        92,
+        94,
+        95,
+        96
+      ],
+      "partial_positions": [
+        83,
+        87,
+        90,
+        91,
+        93,
+        107
+      ],
+      "absent_positions": [
+        84
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A agenda evolutiva do Pix constitui o conjunto estruturado de iniciativas voltadas à ampliação das funcionalidades, ao aprimoramento dos mecanismos de segurança, à modernização da infraestrutura tecnológica e ao desenvolvimento de novos produtos. [...] O futuro do Pix está ancorado na consolidação de uma Infraestrutura Pública Digital que sirva como base para o desenvolvimento de diversidade de modelos de negócio. Ele é um meio de pagamento multipropósito, com potencial de universalidade, capaz de atender a transferências e a pagamentos de diferentes naturezas, valores e contextos. [...] reforça seu papel como elemento integrador entre pagamentos e outros serviços financeiros, ampliando seu potencial de geração de eficiência e de inovação para o SFN.",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "36f0b0bcb96f259d",
+      "url": "https://www.bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix",
+      "times_cited": 16,
+      "supported_count": 6,
+      "unsupported_count": 10,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        10,
+        99
+      ],
+      "partial_positions": [
+        8,
+        9,
+        22,
+        39,
+        100
+      ],
+      "absent_positions": [
+        2,
+        11,
+        12,
+        15,
+        18,
+        41,
+        47,
+        48,
+        110
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The two key ingredients in the success of Pix are, first, the mandatory participation of large banks to kick-start network effects for users, and second, the central bank's dual role as infrastructure provider and rule setter.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "280390958cc72d8c",
+      "url": "https://valid.com/futuroid/b2b-med-2-0-e-regras-antifraude-do-pix",
+      "times_cited": 16,
+      "supported_count": 8,
+      "unsupported_count": 7,
+      "contradicted_count": 1,
+      "supporting_citations": 5,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [
+        60,
+        65,
+        67,
+        69,
+        106
+      ],
+      "partial_positions": [
+        59,
+        72,
+        74,
+        78,
+        102,
+        105,
+        108
+      ],
+      "absent_positions": [
+        0,
+        1,
+        70,
+        79
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o Bacen ataca diretamente o modelo de negócios do crime organizado fundamentado na abertura de \"contas-laranja\" e \"mulas financeiras\" para pulverização de capitais. [...] instituições financeiras que operam esteiras de abertura de contas frágeis tornam-se o destino preferencial das contas de passagem utilizadas pelos criminosos. [...] o combate à conta-laranja começa no momento zero do onboarding.",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "8652afca8ca4c27f",
+      "url": "https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Apresentacao_GabrielGalipolo_FebrabanTech_24.8.2026.pdf",
+      "times_cited": 14,
+      "supported_count": 6,
+      "unsupported_count": 8,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        32,
+        35,
+        36
+      ],
+      "partial_positions": [
+        23,
+        57,
+        58,
+        78,
+        79
+      ],
+      "absent_positions": [
+        45,
+        46,
+        56,
+        63,
+        103,
+        108
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "R$ 35 trilhões ... movimentados pela plataforma ao longo de 2025 ... 80 bilhões ... de transações realizadas por Pix em 2025",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "c5ad9fb21b831f3e",
+      "url": "https://www.matera.com/br/blog/med-mecanismo-especial-de-devolucao/",
+      "times_cited": 13,
+      "supported_count": 11,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ],
+      "partial_positions": [
+        64,
+        67,
+        102,
+        105
+      ],
+      "absent_positions": [
+        59,
+        65,
+        66
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "trouxeram um processo mais robusto para rastrear movimentações suspeitas e aumentar as chances de recuperação dos valores desviados. Na prática, o foco da atualização está em acelerar o bloqueio de recursos e permitir que o rastreamento acompanhe o caminho do dinheiro",
+      "key_excerpt_position": 68
+    },
+    {
+      "reference_id": "e1d223cef2b8e3ba",
+      "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2023.pdf",
+      "times_cited": 13,
+      "supported_count": 7,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        8,
+        14,
+        16,
+        88,
+        99
+      ],
+      "partial_positions": [
+        13,
+        15,
+        17,
+        80,
+        81,
+        89
+      ],
+      "absent_positions": [
+        27
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 3 de novembro de 2020, começou a operação restrita, quando as instituições participantes do Pix disponibilizaram a uma parcela reduzida de seus clientes a opção de fazer um Pix [...] Finalmente, em 16 de novembro de 2020, o Pix entrou em operação plena",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "2b43bb5b3362e121",
+      "url": "https://www.bcb.gov.br/detalhenoticia/744/noticia",
+      "times_cited": 10,
+      "supported_count": 3,
+      "unsupported_count": 6,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        7,
+        17,
+        21,
+        22,
+        24,
+        25,
+        34,
+        42,
+        43,
+        100
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "94aa2675c9ef33f5",
+      "url": "https://www.gov.br/fazenda/pt-br/composicao/orgaos/orgaos-colegiados/crsfn/acesso-a-informacao/noticias/2026/pix-consolida-lideranca-nos-pagamentos-digitais-e-projeta-novas-evolucoes-ate-2030",
+      "times_cited": 10,
+      "supported_count": 7,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        22,
+        110
+      ],
+      "partial_positions": [
+        8,
+        10,
+        31,
+        39,
+        100
+      ],
+      "absent_positions": [
+        16,
+        53,
+        54
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O relatório evidencia o crescimento contínuo do sistema. Em 2025, o Pix registrou quase 80 bilhões de transações e movimentou mais de R$35 trilhões. Ao final do período analisado, 148 milhões de pessoas físicas e 12,8 milhões de empresas... O número de chaves cadastradas ultrapassou 920 milhões... sempre com foco na eficiência, na competição e na inclusão financeira... a solução se consolidou como uma das principais infraestruturas digitais do país e referência internacional em inovação em meios de pagamento.",
+      "key_excerpt_position": 22
+    },
+    {
+      "reference_id": "c26d48500cf15585",
+      "url": "https://movimentoeconomico.com.br/economia/2026/08/11/chaves-pix-chegam-a-920-milhoes-e-sistema-movimenta-r-35-tri-em-2025/",
+      "times_cited": 10,
+      "supported_count": 7,
+      "unsupported_count": 2,
+      "contradicted_count": 1,
+      "supporting_citations": 6,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        32,
+        38,
+        42,
+        49,
+        50,
+        51
+      ],
+      "partial_positions": [
+        31,
+        34,
+        37
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [
+        43
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o sistema de pagamentos instantâneos registrou quase **80 bilhões** de transações, aumento de **25,7%** sobre **2024**. O volume financeiro movimentado superou **R$ 35 trilhões**",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "fed5255994b21deb",
+      "url": "https://www.bcb.gov.br/noticiablogbc/40/noticia",
+      "times_cited": 9,
+      "supported_count": 4,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        40
+      ],
+      "partial_positions": [
+        5,
+        38,
+        41
+      ],
+      "absent_positions": [
+        2,
+        3,
+        4,
+        25,
+        39
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Monique de Abreu Azevedo, Breno Santana Lobo, Alex Nery Caetité e Daniel Palaro Canhete são servidores do Banco Central do Brasil e atuam no Departamento de Competição e de Estrutura do Mercado Financeiro (Decem).",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "914e30fd725db3d8",
+      "url": "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/pix-ultrapassa-1-bilhao-de-chaves-cadastradas-no-brasil",
+      "times_cited": 8,
+      "supported_count": 5,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        14,
+        26,
+        28,
+        29,
+        30
+      ],
+      "partial_positions": [
+        11,
+        27
+      ],
+      "absent_positions": [
+        13
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O número de chaves Pix cadastradas no Brasil ultrapassou a marca de 1 bilhão em setembro, segundo dados do Banco Central (BC). Ao todo, o sistema contabilizava 1,008 bilhão de registros no dia 30, ante 998 milhões em agosto.",
+      "key_excerpt_position": 26
+    },
+    {
+      "reference_id": "7128506f308b2311",
+      "url": "https://exame.com/invest/minhas-financas/numero-de-jovens-com-acesso-a-credito-dobra-no-brasil-em-oito-anos/",
+      "times_cited": 7,
+      "supported_count": 3,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        55
+      ],
+      "partial_positions": [
+        57,
+        58
+      ],
+      "absent_positions": [
+        53,
+        54,
+        103,
+        104
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O número de pessoas entre 15 e 29 anos com alguma operação ativa ou limite de crédito disponível passou de 13,7 milhões em 2016 para 27,6 milhões em 2024, crescimento de 101%. [...] Nos últimos oito anos, tanto o número de jovens utilizando cartão quanto o de usuários de empréstimo pessoal mais que dobrou [...] O crédito chega a mais jovens e, principalmente, a uma parcela de menor renda que antes tinha menos acesso ao sistema financeiro.",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "2d4da85080980183",
+      "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RCF/relatorio_de_cidadania_financeira_2025.pdf",
+      "times_cited": 7,
+      "supported_count": 4,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        35,
+        56,
+        104
+      ],
+      "partial_positions": [
+        2,
+        9,
+        58
+      ],
+      "absent_positions": [
+        103
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "cuja adoção, até o final de 2023, já alcançava mais de 70% da população de baixa renda. Este boxe analisa a evolução da inclusão financeira da população de baixa renda por meio do Pix",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "de244fb8786509bf",
+      "url": "https://www.tupi.fm/economia/vitima-sofre-golpe-do-pix-banco-recebedor-demora-48-horas-para-bloquear-conta-de-laranja-e-justica-condena-instituicao-a-pagar-todo-o-desfalque/",
+      "times_cited": 7,
+      "supported_count": 6,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        61,
+        66,
+        75,
+        76,
+        77
+      ],
+      "partial_positions": [
+        108
+      ],
+      "absent_positions": [
+        73
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O **Mecanismo Especial de Devolução (MED)** foi criado pelas **Resoluções BCB nº 103/2021 e nº 147/2021 do Banco Central do Brasil** para padronizar o estorno célere de transações Pix com suspeita de fraude.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "9aa230f43da3aac9",
+      "url": "https://www.bcb.gov.br/conteudo/home-ptbr/TextosApresentacoes/Central%20Bank%20of%20Brazil%20-%20The%20Pix%20Case%20-%20Lessons%20for%20Enhancing%20Cross%20Border.pdf",
+      "times_cited": 6,
+      "supported_count": 1,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        48,
+        95,
+        109
+      ],
+      "absent_positions": [
+        45,
+        46,
+        98
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Payments in a few seconds, with immediate availability of funds to the final beneficiary",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "15456336d4015692",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/pix-seguranca",
+      "times_cited": 6,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        59,
+        60,
+        61,
+        62,
+        74,
+        101
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "807b433694e43139",
+      "url": "https://www.facebook.com/Febraban/videos/atualmente-86-da-popula%C3%A7%C3%A3o-adulta-brasileira-usa-o-pix-segundo-o-banco-central-d/1388563870084565/",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        23
+      ],
+      "absent_positions": [
+        96,
+        97,
+        98,
+        109
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Atualmente, 86% da população adulta brasileira usa o Pix, segundo o Banco Central do Brasil.",
+      "key_excerpt_position": 23
+    },
+    {
+      "reference_id": "2d7359ed04e65fe1",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/estatisticaspix",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        23,
+        31,
+        33,
+        34,
+        81
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "2b2e1b2f514ffcd2",
+      "url": "https://www.bcb.gov.br/estatisticas/spbadendos",
+      "times_cited": 5,
+      "supported_count": 0,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        11,
+        12,
+        21,
+        24,
+        97
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1bb81415aef649b7",
+      "url": "https://www.elibrary.imf.org/view/journals/002/2023/289/article-A004-en.xml",
+      "times_cited": 5,
+      "supported_count": 2,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0,
+        7,
+        10,
+        18,
+        53
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "52db2b0ad9b7f4f4",
+      "url": "https://www.infinitepay.io/blog/fim-do-doc-15-janeiro",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        20
+      ],
+      "partial_positions": [
+        3,
+        19
+      ],
+      "absent_positions": [
+        21
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a Febraban (Federação Brasileira de Bancos) soltou um comunicado dizendo que, a partir de 15 de janeiro de 2024, o DOC (Documento de Ordem de Crédito) e a TEC (Transferência Especial de Crédito) serão descontinuados no Brasil. ... 29/02/2024 – Data limite para o processamento dos agendamentos enviados pelos clientes pelas instituições financeiras. Também é o prazo final para o fechamento pelos bancos dos sistemas de recebimento e processamento do DOC/TEC. ... as transações por DOC no primeiro semestre de 2023 representaram apenas 0,05% (18,3 milhões) do total das 37 bilhões de operações feitas no ano. ... O Pix é mais barato do que o DOC e a TEC.",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "4224c1608d85417a",
+      "url": "https://repositorio.animaeducacao.com.br/bitstreams/f2ef5c01-a7c9-413d-8edf-e684deb2af3a/download",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        0,
+        1,
+        5,
+        6
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o impacto do PIX no SFN é a democratização do mundo de pagamentos e a redução das barreiras de entrada criadas por grandes instituições.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "07036727c02829f1",
+      "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/Guia_MED.pdf",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        62,
+        63
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        61
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Mecanismo Especial de Devolução (MED), conforme disposto na Seção II do Capítulo XI do Regulamento do Pix, é o conjunto de regras que permite que o PSP de um usuário identificado como fraudulento possa efetuar uma devolução nas situações descritas acima. Ou seja, o MED é o conjunto de regras que permite que o participante do Pix debite recursos da conta de seu cliente sem que o cliente precise autorizar a devolução a cada transação.",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "32ca05a01ce1a535",
+      "url": "https://qitech.blog/doc-e-ted-diferencas/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        20
+      ],
+      "partial_positions": [
+        3,
+        19
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Essas transações diminuíram significativamente nos últimos anos, representando um total de apenas 3.7% de operações realizadas em 2022. ... a descontinuação dessa operação, considera principalmente a experiência do usuário e o custo benefício do serviço. ... as instituições financeiras terão até 15 de janeiro de 2024 para oferecerem os serviços de emissão e agendamento da DOC. ... O dia 29 de fevereiro é o último para o envio de DOCs agendados até o dia 15 de janeiro. Após essa data, as instituições bancárias não estarão mais processando essas transações, encerrando todo sistema de agendamento e recebimento de DOC e TEC.",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "870c7a7f101141ac",
+      "url": "https://dadosabertos.bcb.gov.br/dataset/pix",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        13,
+        14
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a76161b46fccaaab",
+      "url": "https://theshift.info/hot/relatorio-gestao-pix-2025-banco-central/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        8,
+        9
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Com apenas cinco anos de existência, o Pix tornou-se \"Infraestrutura Pública Digital essencial para o bom funcionamento da economia\", como descreve o Banco Central (BC)",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "5b9587f6571c8843",
+      "url": "https://africanenda.org/travel-notes-converging-forces-for-inclusion-lessons-from-pix-brazil",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        99
+      ],
+      "partial_positions": [
+        110
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pix is an amazing case of a country believing in DPI's potential to transform its development trajectory and deliver inclusive outcomes for consumers, businesses, and the government",
+      "key_excerpt_position": 99
+    },
+    {
+      "reference_id": "1b7dbecd8a9fc022",
+      "url": "https://ideas.repec.org/a/spr/eurase/v15y2025i2d10.1007_s40822-024-00300-z.html",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        49,
+        52
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "84481cdde3c9216f",
+      "url": "https://blog.reclameaqui.com.br/febraban-anuncia-o-fim-das-transferencias-por-doc/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        20
+      ],
+      "partial_positions": [
+        19
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a Federação Brasileira de Bancos (Febraban) anunciou que os bancos associados à instituição deixarão de oferecer operações bancárias por DOC ... a descontinuação dessa operação, considera principalmente a experiência do usuário e o custo benefício do serviço. Isso porque o usuário tem alternativas mais rápidas e sem custo, como, por exemplo, o PIX. ... Os bancos possuem até 29 de fevereiro para extinguir dos seus sistemas operações por DOC e TEC",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "ce9fc1e14e2aa61a",
+      "url": "https://creci-pb.gov.br/fim-do-ted-e-doc-banco-central-divulga-taxa-para-o-pix-r-001-a-cada-10-transacoes/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        4,
+        17
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Além disso as operações são “caras” e o cliente dos bancos chega a pagar até R$ 19 por transação.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "f121b77ba479c953",
+      "url": "https://www.zoop.com.br/blog/negocios/arranjo-de-pagamento",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        44
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        47
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Conforme apontado na pesquisa da Zoop em parceria com a QualiBest, os brasileiros optam por esse meio de pagamento porque é:\n\n- mais prático (76%);\n- dispensa levar cartão e/ou dinheiro (54%);",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "dcae64847a6ea347",
+      "url": "https://finsidersbrasil.com.br/pagamentos/pix/um-ano-depois-pix-automatico-ainda-nao-pegou-e-ha-um-motivo/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        82
+      ],
+      "partial_positions": [
+        84
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "tem o melhor potencial",
+      "key_excerpt_position": 82
+    },
+    {
+      "reference_id": "553e242e43bc58c3",
+      "url": "https://www12.senado.leg.br/verifica/materias-especiais/2026/pix-fui-vitima-de-golpe-como-recuperar-meu-dinheiro",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        107
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d3178d59f37e5e78",
+      "url": "https://www.youtube.com/watch?v=nfowUjwwX5U",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        20
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "8b8018edbe7ab0df",
+      "url": "https://borgenproject.org/financial-inclusion/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0111336a4016eae5",
+      "url": "https://www.youtube.com/watch?v=sbBqMCzbN8U",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d5ab172911c0bdfd",
+      "url": "https://aaltodoc.aalto.fi/bitstreams/852afc8d-f6a5-4c38-a826-127fab9805e6/download",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d53564f795a9a968",
+      "url": "https://www.facebook.com/jornaljangadeiro/videos/confira-os-detalhesa-atualiza%C3%A3o-do-mecanismo-especial-de-devolu%C3%A7%C3%A3o-do-pix-entro/877247651842447/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-3",
+      "position": 3,
+      "claim_excerpt": "A arquitetura dos instrumentos tradicionais de transferência eletrônica do varejo bancário brasileiro, consubstanciada na Transferência Eletrônica Disponível (TED) e no Documento de Ordem de Crédito…",
+      "cited_markers": "[5] [30] [34]",
+      "corroborating_markers": "[33] [36] [32] [20] [13] [6]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-11",
+      "position": 11,
+      "claim_excerpt": "No centro dessa infraestrutura opera o Sistema de Pagamentos Instantâneos (SPI), que atua como a infraestrutura centralizada encarregada de processar e liquidar, em tempo real e em moeda bancária cen…",
+      "cited_markers": "[3] [6] [17]",
+      "corroborating_markers": "[13] [36] [9] [38] [28] [33] [37] [18]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-13",
+      "position": 13,
+      "claim_excerpt": "Para simplificar a experiência do usuário e eliminar os gargalos operacionais da digitação exaustiva de dados bancários, o Banco Central desenvolveu o Diretório de Identificadores de Contas Transacio…",
+      "cited_markers": "[3] [7] [36]",
+      "corroborating_markers": "[9] [33] [34] [28] [23] [13]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-18",
+      "position": 18,
+      "claim_excerpt": "Esse modelo de incentivos econômicos perfeitamente alinhados garantiu a capilaridade universal da plataforma em todo o território nacional.",
+      "cited_markers": "[15] [17]",
+      "corroborating_markers": "",
+      "contradicting_markers": "[39] [13] [18] [38] [36] [20] [16]"
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-21",
+      "position": 21,
+      "claim_excerpt": "Embora a TED continue operacional para liquidações corporativas de grande porte e agendas específicas do mercado financeiro, sua relevância no varejo popular foi praticamente suplantada pelo imediati…",
+      "cited_markers": "[1] [6] [30]",
+      "corroborating_markers": "[36] [33] [13] [32] [34] [5] [9]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-37",
+      "position": 37,
+      "claim_excerpt": "A efetividade desse uso cotidiano é comprovada pelo valor mediano das transações realizadas por pessoas físicas, que se estabilizou em R$ 36 no ano de 2025.",
+      "cited_markers": "[35]",
+      "corroborating_markers": "",
+      "contradicting_markers": "[12] [9] [36] [13]"
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-48",
+      "position": 48,
+      "claim_excerpt": "Adicionalmente, a liquidação em tempo real garantiu a injeção imediata de caixa nos estabelecimentos, aprimorando a gestão do capital de giro de milhões de microempresas.",
+      "cited_markers": "[17] [19]",
+      "corroborating_markers": "[20] [13] [9] [36] [37] [3] [5]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-53",
+      "position": 53,
+      "claim_excerpt": "Além de atuar como meio de pagamento, a trilha transacional aberta pelo Pix serviu de ponte para o acesso ampliado a produtos bancários mais complexos, sobretudo o crédito formal.",
+      "cited_markers": "[8] [10] [15]",
+      "corroborating_markers": "[13] [37] [9] [38] [36] [5]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-59",
+      "position": 59,
+      "claim_excerpt": "A velocidade de liquidação e o volume transacionado no Pix atraíram a atuação atrevida de redes criminosas especializadas em fraudes cibernéticas, engenharia social, sequestros relâmpago e aplicação…",
+      "cited_markers": "[22] [23] [29]",
+      "corroborating_markers": "[12] [38] [9] [28] [36] [10] [13] [5]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-101",
+      "position": 101,
+      "claim_excerpt": "A massificação da plataforma brought também a necessidade de aperfeiçoamentos constantes na segurança cibernética e no combate às fraudes.",
+      "cited_markers": "[22] [24]",
+      "corroborating_markers": "[13] [36] [29] [9] [37] [38]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_0fa70f936311_20261101T184422Z-109",
+      "position": 109,
+      "claim_excerpt": "Por fim, recomenda-se avançar nas tratativas regulatórias e operacionais para a interconexão transfronteiriça do Pix com arranjos internacionais, reduzindo os custos de remessas e posicionando o Bras…",
+      "cited_markers": "[2] [11] [19]",
+      "corroborating_markers": "[36] [9] [18] [10] [20] [37] [13] [17] [38]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 3177543,
+  "cost_tracked": false,
+  "processing_time_seconds": 213197.648513
+}

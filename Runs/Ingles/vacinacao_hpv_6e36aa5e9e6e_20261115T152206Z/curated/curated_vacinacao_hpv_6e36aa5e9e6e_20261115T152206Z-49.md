@@ -1,0 +1,332 @@
+[referencia=e6a6a275d70c2c51 score=0.485]
+|16-through 26-year-oldgirls and women|1099|853|322.0|1|
+|**Anti-HPV 45**<br>|||||
+|16-through 26-year-old HM|1103|909|235.6|1.27(1.14,1.41)|
+|16-through 26-year-oldgirls and women|1099|871|185.7|1|
+|**Anti-HPV 52**|||||
+|16-through 26-year-old HM|1103|907|386.8|1.15(1.05,1.26)|
+|16-through 26-year-oldgirls and women|1099|849|335.2|1|
+|**Anti-HPV 58**|||||
+|16-through 26-year-old HM|1103|897|509.8|1.25(1.14,1.36)|
+|16-through 26-year-oldgirls and women|1099|839|409.3|1|
+
+
+
+*The PPI population consisted of individuals who received all three vaccinations within pre-defined day ranges, did not have major deviations from the study protocol, met predefined criteria for the interval between the Month 6 and Month 7 visit, and were seronegative to the relevant HPV type(s) (types 6, 11, 16, 18, 31, 33, 45, 52, and 58) prior to dose 1. The data are from Study 7 (NCT01651949). †Number of individuals randomized to the respective vaccination group who received at least one injection ‡Number of individuals contributing to the analysis §mMU=milli-Merck Units ¶Demonstration of non-inferiority required that the lower bound of the 95% CI of the GMT ratio be greater than 0.67 cLIA=competitive Luminex Immunoassay CI=Confidence Interval GMT=Geometric Mean Titer
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.474]
+|16-through 26-year-oldgirls and women|570|457|354.5|1|
+|**Anti-HPV 45**|||||
+|27- through 45-year-old women|640|515|145.6|0.68(0.60,0.76)|
+|16- through 26-year-oldgirls and women|570|470|214.9|1|
+|**Anti-HPV 52**|||||
+|27- through 45-year-old women|640|496|244.7|0.71(0.64,0.78)|
+|16-through 26-year-oldgirls and women|570|456|346.5|1|
+|**Anti-HPV 58**|||||
+|27- through 45-year-old women|640|478|296.4|0.69(0.63,0.76)|
+|16- through 26-year-oldgirls and women|570|451|428.0|1|
+
+
+
+*The PPI population consisted of individuals who received all 3 vaccinations within pre-defined day ranges, did not have major deviations from the study protocol, met predefined criteria for the interval between the Month 6 and Month 7 visit, and were seronegative to the relevant HPV type(s) (types 16, 18, 31, 33, 45, 52, and 58) prior to dose 1. The data are from Study 9 (NCT03158220). †Number of individuals randomized to the respective vaccination group who received at least 1 injection ‡Number of individuals contributing to the analysis §mMU=milli-Merck Units ¶Immunobridging required that the lower bound of the 95% CI of the GMT ratio be greater than 0.50 #N.D=Not Determined. GMT ratios were not calculated because immunobridging comparison was not specified in the study protocol for HPV types 6 and 11. cLIA=Competitive Luminex Immunoassay CI=Confidence Interval GMT=Geometric Mean Titers
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.355]
+|**HPV 31-, 33-, 45-, 52-, 58-related Persistent Infection ≥12**<br>**Months**<sup>**¶**</sup>|5939|15|5953|375|96.1<br>(93.7,97.9)|
+|**HPV 31-, 33-, 45-, 52-, 58-related ASC-US HR-HPV Positive**<br>**or Worse Pap**<sup>**#**</sup> **Abnormality**|5881|35|5882|462|92.6<br>(89.7,94.8)|
+|**HPV 31-, 33-, 45-, 52-, 58-related Biopsy**|6016|7|6017|222|96.9<br>(93.6,98.6)|
+|**HPV 31-, 33-, 45-, 52-, 58-related Definitive Therapy**<sup>**Þ**</sup>|6012|4|6014|32|87.5<br>(65.7,96.0)|
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.228]
+|**Disease Endoint**|**GA**<br>**N**|**RDASIL 9**<br><sup>**†**</sup>**=7099**|**G**<br>|**ARDASIL**<br>**N**<sup>**†**</sup>**=7105**|**GARDASIL 9**<br>**Efficacy**|
+|---|---|---|---|---|---|
+|**p**||**Nb f**||**Nb f**|**%**|
+||**n**<sup>**‡**</sup>|**umer o**<br>**cases**|**n**<sup>**‡**</sup>|**umer o**<br>**cases**|**(95% CI)**|
+|**HPV 31-, 33-, 45-, 52-, 58-related CIN 2/3, AIS, Cervical**<br>**Cancer, VIN 2/3, VaIN 2/3, Vulvar Cancer, and Vaginal**<br>**Cancer**|6016|1|6017|30|96.7<br>(80.9, 99.8)|
+|**HPV 31-, 33-, 45-, 52-, 58-related CIN 1**|5948|1|5943|69|98.6<br>(92.4,99.9)|
+|**HPV 31-, 33-, 45-, 52-, 58-related CIN 2/3 or AIS**|5948|1|5943|27|96.3<br>(79.5,99.8)|
+|**HPV 31-, 33-, 45-, 52-, 58-related Vulvar or Vaginal Disease**|6009|1|6012|16|93.8<br>(61.5,99.7)|
+|**HPV 31-, 33-, 45-, 52-, 58-related Persistent Infection ≥6**<br>**Months**<sup>**§**</sup>|5939|26|5953|642|96.2<br>(94.4,97.5)|
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.222]
+24 
+
+|16- to 26-year-old women(0,2,6)<sup>†</sup>|314|261|491.1<br>1|
+|---|---|---|---|
+
+
+
+*The PPI population consisted of individuals who received all assigned vaccinations within pre-defined day ranges, did not have major deviations from the study protocol, met predefined criteria for the interval between the last vaccination dose and blood collection for immunogenicity assessment, and were seronegative to the relevant HPV type(s) (types 6, 11, 16, 18, 31, 33, 45, 52, and 58) prior to dose 1. 
+
+> †2-dose regimen (0, 6): vaccination at Day 1 and Month 6; 2-dose regimen (0, 12): vaccination at Day 1 and Month 12; 3-dose regimen (0, 2, 6): vaccination at Day 1, Month 2, and Month 6. The data are from Study 8 (NCT01984697). ‡mMU=milli-Merck Units §Demonstration of non-inferiority required that the lower bound of the 95% CI of the GMT ratio be greater than 0.67 ¶Exploratory analysis; criterion for non-inferiority was not pre-specified N = Number of individuals randomized to the respective vaccination group who received at least 1 injection n = Number of individuals contributing to the analysis CI=Confidence Interval cLIA=competitive Luminex Immunoassay GMT=Geometric Mean Titer
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.181]
+16 
+
+**Table 7: Analysis of Efficacy of GARDASIL 9 against HPV Types 31, 33, 45, 52, and 58 in the PPE* Population of 16through 26-Year-old Girls and Women (Study 1)**
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.171]
+# **14.3 Efficacy – HPV Types 31, 33, 45, 52 and 58 in Girls and Women 16 through 26 Years of Age** 
+
+_Studies Supporting the Efficacy of GARDASIL 9 against HPV Types 31, 33, 45, 52, and 58_ 
+
+The efficacy of GARDASIL 9 in 16- through 26-year-old girls and women was assessed in an active comparator-controlled, double-blind, randomized clinical trial (Study 1) that included a total of 14,204 women (GARDASIL 9 = 7,099; GARDASIL = 7,105) who were enrolled and vaccinated without prescreening for the presence of HPV infection. Subjects were followed up with a median duration of 40 months (range 0 to 64 months) after the last vaccination. 
+
+The primary efficacy evaluation was conducted in the PPE population based on a composite clinical endpoint of HPV 31-, 33-, 45-, 52-, and 58-related cervical cancer, vulvar cancer, vaginal cancer, CIN 2/3 or AIS, VIN 2/3, and VaIN 2/3. Efficacy was further evaluated with the clinical endpoints of HPV 31-, 33-, 45-, 52-, and 58-related CIN 1, vulvar and vaginal disease of any grade, and persistent infection. In addition, the study also evaluated the impact of GARDASIL 9 on the rates of HPV 31-, 33-, 45-, 52-, and 58-related abnormal Papanicolaou (Pap) tests, cervical and external genital biopsy, and definitive therapy [including loop electrosurgical excision procedure (LEEP) and conization]. Efficacy for all endpoints was measured starting after the Month 7 visit. 
+
+GARDASIL 9 prevented HPV 31-, 33-, 45-, 52-, and 58-related persistent infection and disease and also reduced the incidence of HPV 31-, 33-, 45-, 52-, and 58-related Pap test abnormalities, cervical and external genital biopsy, and definitive therapy (Table 7). 
+
+16
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.155]
+## **13 NONCLINICAL TOXICOLOGY** 
+
+- 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility 
+
+- 14.8 Studies with Menactra and Adacel 
+
+## **14 CLINICAL STUDIES** 
+
+   - **15 REFERENCES** 
+
+- 14.1 Efficacy and Effectiveness Data for GARDASIL 
+
+   - **16 HOW SUPPLIED/STORAGE AND HANDLING** 
+
+- 14.2 Clinical Trials for GARDASIL 9 
+
+   - **17 PATIENT COUNSELING INFORMATION** 
+
+- 
+
+- 14.3 Efficacy HPV Types 31, 33, 45, 52 and 58 in Girls and Women 16 through 26 Years of Age 
+
+- *Sections or subsections omitted from the full prescribing information are not listed. 
+
+# **FULL PRESCRIBING INFORMATION** 
+
+# **1 INDICATIONS AND USAGE** 
+
+# **1.1 Girls and Women** 
+
+GARDASIL<sup>®</sup> 9 is a vaccine indicated in girls and women 9 through 45 years of age for the prevention of the following diseases: 
+
+- Cervical, vulvar, vaginal, anal, oropharyngeal and other head and neck cancers caused by Human Papillomavirus (HPV) types 16, 18, 31, 33, 45, 52, and 58 
+
+- Genital warts (condyloma acuminata) caused by HPV types 6 and 11 
+
+And the following precancerous or dysplastic lesions caused by HPV types 6, 11, 16, 18, 31, 33, 45, 52, and 58: 
+
+- Cervical intraepithelial neoplasia (CIN) grade 2/3 and cervical adenocarcinoma _in situ_ (AIS) 
+
+- Cervical intraepithelial neoplasia (CIN) grade 1 
+
+- Vulvar intraepithelial neoplasia (VIN) grade 2 and grade 3 
+
+- Vaginal intraepithelial neoplasia (VaIN) grade 2 and grade 3 
+
+- Anal intraepithelial neoplasia (AIN) grades 1, 2, and 3
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.145]
+|9- to 14-year-oldgirls(0,6)<sup>†</sup>|301|273|1030.0|2.96(2.50,3.50)<sup>§</sup>|
+|9- to 14-year-old boys(0,6)<sup>†</sup>|301|271|1040.0|2.99(2.55,3.50)<sup>§</sup>|
+|9- to 14-year-oldgirls and boys(0,12)<sup>†</sup>|300|269|2197.5|6.31(5.36,7.43)<sup>§</sup>|
+|9- to 14-year-oldgirls(0,2,6)<sup>†</sup>|300|275|796.4|2.29 (1.95, 2.68)<sup>¶</sup>|
+|16- to 26-year-old women(0, 2, 6)<sup>†</sup>|314|279|348.1|1|
+|**Anti-HPV 45**|||||
+|9- to 14-year-oldgirls(0,6)<sup>†</sup>|301|274|357.6|1.67(1.38,2.03)<sup>§</sup>|
+|9- to 14-year-old boys(0,6)<sup>†</sup>|301|273|352.3|1.65(1.37,1.99)<sup>§</sup>|
+|9- to 14-year-oldgirls and boys(0, 12)<sup>†</sup>|300|268|417.7|1.96(1.61,2.37)<sup>§</sup>|
+|9- to 14-year-oldgirls(0,2,6)<sup>†</sup>|300|275|661.7|3.10(2.54, 3.77)<sup>¶</sup>|
+|16- to 26-year-old women(0,2,6)<sup>†</sup>|314|280|213.6|1|
+|**Anti-HPV 52**|||||
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.143]
+|**Population**|**N**<sup>**†**</sup>|**n**<sup>**‡**</sup>|**GMT**<br>**mMU**<sup>**§**</sup>**/mL**|**GMT Ratio relative to**<br>**16-through 26-year-**<br>**old girls and women**<br>|
+|---|---|---|---|---|
+|||||**(95% CI)**<sup>**¶**</sup>|
+|**Anti-HPV 6**|||||
+|27- through 45-year-old women|640|448|638.4|N.D<sup>#</sup><br>|
+|16-through 26-year-oldgirls andwomen|570|421|787.8|N.D<sup>#</sup>|
+|**Anti-HPV 11**|||||
+|27- through 45-year-old women|640|448|453.5|N.D<sup>#</sup>|
+|16-through 26-year-oldgirls and women|570|421|598.7|N.D<sup>#</sup>|
+|**Anti-HPV 16**|||||
+|27- through 45-year-old women|640|448|2,147.5|0.70(0.63,0.77)|
+|16- through 26-year-oldgirls and women|570|436|3,075.8|1|
+|**Anti-HPV 18**|||||
+|27- through 45-year-old women|640|471|532.1|0.71(0.64,0.80)|
+|16-through 26-year-oldgirls and women|570|421|744.5|1|
+|**Anti-HPV 31**<br>|||||
+|27- through 45-year-old women|640|488|395.7|0.66(0.60,0.74)|
+|16-through 26-year-oldgirls and women|570|447|596.1|1|
+|**Anti-HPV 33**|||||
+|27- through 45-year-old women|640|493|259.0|0.73(0.67,0.80)|
+|16-through 26-year-oldgirls and women|570|457|354.5|1|
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.112]
+In girls, no cases of HPV 6-, 11-, 16-, 18-, 31-, 33-, 45-, 52-, and 58-related CIN 2/3, AIS, VIN, VaIN, external genital warts, cervical cancer, vulvar cancer or vaginal cancer were observed over a total of 4,576.1 person-years at risk. One case of CIN1 that tested positive for HPV 16, 39 and 59 by PCR was observed. In boys, no cases of HPV 6-, 11-, 16-, 18-, 31-, 33-, 45-, 52-, and 58-related PIN, external genital warts, penile cancer, perineal cancer or perianal cancer were observed over a total of 1,278.6 person-years at risk. 
+
+17 
+
+Incidence rates of vaccine HPV types-related persistent infections of at least 6 months duration in girls and boys observed during the study were 52.4 (95% CI: 33.6, 78.0) and 54.6 (95% CI: 21.9, 112.4) cases per 10,000 person-years, respectively, and within the range of incidence rates reported in vaccinated cohorts of similar age based on results from previous efficacy studies of GARDASIL 9, (which were 36.6 and 21.5 per 10,000 person years for HPV 6-, 11-, 16- and 18-related and HPV 31-, 33-, 45-, 52-, and 58related persistent infections, respectively, in females in Study 1) and GARDASIL (which were 30 and 59 per 10,000 person-years, for HPV 6-, 11-, 16- and 18-related persistent infections in GARDASIL studies in females and males, respectively).
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.111]
+|**Population (Regimen)**|**N**|**n**|**GMT**<br>**mMU**<sup>‡</sup>**/mL**|**GMT Ratio relative to 3-**<br>**dose regimen in 16-**<br>**through 26-year-old girls**<br>|
+|---|---|---|---|---|
+|||||**and women**<br>**(95% CI)**|
+|**Anti-HPV 6**|||||
+|9- to 14-year-oldgirls(0,6)<sup>†</sup><br>|301|258|1657.9|2.15(1.83,2.53)<sup>§</sup><br>|
+|9- to 14-year-old boys(0,6)<sup>†</sup>|301|263|1557.4|2.02(1.73,2.36)<sup>§</sup>|
+|9- to 14-year-oldgirls and boys(0,12)<sup>†</sup>|300|257|2678.8|3.47(2.93,4.11)<sup>§</sup>|
+|9- to 14-year-oldgirls(0,2,6)<sup>†</sup>|300|254|1496.1|1.94(1.65,2.29)<sup>¶</sup>|
+|16- to 26-year-old women(0,2,6)<sup>†</sup>|314|238|770.9|1|
+|**Anti-HPV 11**<br>|||||
+|9- to 14-year-oldgirls(0,6)<sup>†</sup>|301|258|1388.9|2.39(2.03,2.82)<sup>§</sup>|
+|9- to 14-year-old boys(0,6)<sup>†</sup>|301|264|1423.9|2.45(2.09,2.88)<sup>§</sup>|
+|9- to 14-year-oldgirls and boys(0,12)<sup>†</sup>|300|257|2941.8|5.07(4.32,5.94)<sup>§</sup>|
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.105]
+|9- to 14-year-old boys(0,6)<sup>†</sup>|301|272|1860.9|2.44(2.04,2.92)<sup>§</sup>|
+|9- to 14-year-oldgirls and boys(0,12)<sup>†</sup><br>|300<br>|266<br>|2810.4<br>|3.69(3.06,4.45)<sup>§</sup><br>|
+|9- to 14-year-oldgirls(0,2,6)<sup>†</sup>|300|270|2049.3|2.69(2.24,3.24)<sup>¶</sup>|
+|16- to 26-year-old women(0,2,6)<sup>†</sup>|314|267|761.5|1|
+|**Anti-HPV 31**|||||
+|9- to 14-year-oldgirls(0,6)<sup>†</sup>|301|272|1436.3|2.51(2.10,3.00)<sup>§</sup>|
+|9- to 14-year-old boys(0,6)<sup>†</sup>|301|271|1498.2|2.62(2.20,3.12)<sup>§</sup>|
+|9- to 14-year-oldgirls and boys(0,12)<sup>†</sup>|300|268|2117.5|3.70(3.08,4.45)<sup>§</sup>|
+|9- to 14-year-oldgirls(0,2,6)<sup>†</sup>|300|271|1748.3|3.06(2.54,3.67)<sup>¶</sup>|
+|16- to 26-year-old women(0,2,6)<sup>†</sup>|314|264|572.1|1|
+|**Anti-HPV 33**|||||
+|9- to 14-year-oldgirls(0,6)<sup>†</sup>|301|273|1030.0|2.96(2.50,3.50)<sup>§</sup>|
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.082]
+|**Population**|**N**<sup>**†**</sup>|**n**<sup>**‡**</sup>|**GMT**<br>**mMU**<sup>**§**</sup>**/mL**|**GMT Ratio relative to**<br>**16-through 26-year-**<br>**old girls and women**<br>|
+|---|---|---|---|---|
+|||||**(95% CI)**<sup>**¶**</sup>|
+|**Anti-HPV 6**<br>|||||
+|16-through 26-year-old HM|1103|847|782.0|1.11(1.02,1.21)|
+|16-through 26-year-oldgirls and women|1099|708|703.9|1|
+|**Anti-HPV 11**|||||
+|16-through 26-year-old HM|1103|851|616.7|1.09(1.00,1.19)|
+|16-through 26-year-oldgirls and women|1099|712|564.9|1|
+|**Anti-HPV 16**|||||
+|16-through 26-year-old HM|1103|899|3346.0|1.20(1.10,1.30)|
+|16-through 26-year-oldgirls and women|1099|781|2788.3|1|
+|**Anti-HPV 18**|||||
+|16-through 26-year-old HM|1103|906|808.2|1.19(1.08,1.31)|
+|16-through 26-year-oldgirls and women|1099|831|679.8|1|
+|**Anti-HPV 31**<br>|||||
+|16-through 26-year-old HM|1103|908|708.5|1.24(1.13,1.37)|
+|16-through 26-year-oldgirls and women|1099|826|570.1|1|
+|**Anti-HPV 33**|||||
+|16-through 26-year-old HM<br>|1103<br>|901<br>|384.8<br>|1.19(1.10,1.30)<br>|
+|16-through 26-year-oldgirls and women|1099|853|322.0|1|
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.070]
+|**Population**|**GAR**<br><sup>**†**</sup>|**DASIL 9**<br>|**GA**<br><sup>**†**</sup>|**RDASIL**<br>|**GA**<br>**G**<br>|**RDASIL 9/**<br>**ARDASIL**|
+|---|---|---|---|---|---|---|
+||**N**<br>**(n**<sup>**‡**</sup>**)**|**GMT**<br>**mMU**<sup>**§/**</sup>**mL**|**N**<br>**(n**<sup>**‡**</sup>**)**|**GMT**<br>**mMU**<sup>**§/**</sup>**mL**|**GMT**<br>**Ratio**|**(95% CI)**<sup>**¶**</sup>|
+|**Anti-HPV 6**<br>|||||||
+|t|||||||
+|- roug -year-o<br>girls|(273)|1679.4|(261)|1565.9|1.07|(0.93, 1.23)|
+|16-through 26-year-old<br>girls and women|6792<br>(3993)|893.1|6795<br>(3975)|875.2|1.02|(0.99, 1.06)|
+|**Anti-HPV 11**|||||||
+|9-through 15-year-old<br>girls|300<br>(273)|1315.6|300<br>(261)|1417.3|0.93|(0.80, 1.08)|
+|16-through 26-year-old<br>irls and women|6792<br>(3995)|666.3|6795<br>(3982)|830.0|0.80|(0.77, 0.83)|
+|g <br>**Anti-HPV 16**|||||||
+|9thh 15ld|300||300||||
+|-roug-year-o<br>girls|(276)|6739.5|(270)|6887.4|0.97|(0.85, 1.11)|
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.063]
+# **11 DESCRIPTION** 
+
+GARDASIL 9, Human Papillomavirus 9-valent Vaccine, Recombinant, is a non-infectious recombinant 9-valent vaccine prepared from the purified virus-like particles (VLPs) of the major capsid (L1) protein of HPV Types 6, 11, 16, 18, 31, 33, 45, 52, and 58. The L1 proteins are produced by separate fermentations using recombinant _Saccharomyces cerevisiae_ and self-assembled into VLPs. The fermentation process involves growth of _S. cerevisiae_ on chemically-defined fermentation media which include vitamins, amino acids, mineral salts, and carbohydrates. The VLPs are released from the yeast cells by cell disruption and purified by a series of chemical and physical methods. The purified VLPs are adsorbed on preformed aluminum-containing adjuvant (Amorphous Aluminum Hydroxyphosphate Sulfate or AAHS). The 9-valent HPV VLP vaccine is a sterile liquid suspension that is prepared by combining the adsorbed VLPs of each - HPV type and additional amounts of the aluminum containing adjuvant and the final purification buffer. 
+
+GARDASIL 9 is a sterile suspension for intramuscular administration. Each 0.5-mL dose contains approximately 30 mcg of HPV Type 6 L1 protein, 40 mcg of HPV Type 11 L1 protein, 60 mcg of HPV Type 16 L1 protein, 40 mcg of HPV Type 18 L1 protein, 20 mcg of HPV Type 31 L1 protein, 20 mcg of HPV Type 33 L1 protein, 20 mcg of HPV Type 45 L1 protein, 20 mcg of HPV Type 52 L1 protein, and 20 mcg of HPV Type 58 L1 protein. 
+
+Each 0.5-mL dose of the vaccine also contains approximately 500 mcg of aluminum (provided as AAHS), 9.56 mg of sodium chloride, 0.78 mg of L-histidine, 50 mcg of polysorbate 80, 35 mcg of sodium borate, <7 mcg yeast protein, and water for injection. The product does not contain a preservative or antibiotics.
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.062]
+# **14.2 Clinical Trials for GARDASIL 9** 
+
+Efficacy and/or immunogenicity of the 3-dose regimen of GARDASIL 9 were assessed in seven clinical trials. Study 1 evaluated the efficacy of GARDASIL 9 to prevent HPV-related cervical, vulvar, and vaginal disease using GARDASIL as a comparator. 
+
+The analysis of efficacy for GARDASIL 9 was evaluated in the per-protocol efficacy (PPE) population of 16- through 26-year-old girls and women, who received all three vaccinations within one year of enrollment, did not have major deviations from the study protocol, and were naïve to the relevant HPV type(s) by serology and PCR of cervicovaginal specimens prior to dose one and who remained PCR negative for the relevant HPV type(s) through one month post-dose 3 (Month 7). Overall, approximately 52% of subjects were negative to all vaccine HPV types by both PCR and serology at Day 1. 
+
+The primary analysis of efficacy against HPV Types 31, 33, 45, 52, and 58 is based on a combined endpoint of Cervical Intraepithelial Neoplasia (CIN) 2, CIN 3, Adenocarcinoma _in situ_ (AIS), invasive cervical carcinoma, Vulvar Intraepithelial Neoplasia (VIN) 2/3, Vaginal Intraepithelial Neoplasia (VaIN) 2/3, vulvar cancer, or vaginal cancer. Other endpoints evaluated include cervical, vulvar and vaginal disease of any grade, persistent infection, cytological abnormalities and invasive procedures. For all endpoints, the efficacy against the HPV Types 31, 33, 45, 52 and 58 in GARDASIL 9 was evaluated compared with GARDASIL. Efficacy of GARDASIL 9 against anal lesions caused by HPV Types 31, 33, 45, 52, and 58 was not assessed due to low incidence. Effectiveness of GARDASIL 9 against anal lesions was inferred from the efficacy of GARDASIL against anal lesions caused by HPV types 6, 11, 16 and 18 in men and antibody responses elicited by GARDASIL 9 against the HPV types covered by the vaccine.
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.058]
+Study 1 evaluated immunogenicity of GARDASIL 9 and efficacy to prevent infection and disease caused by HPV types 6, 11, 16, 18, 31, 33, 45, 52, and 58 in 16- through 26-year-old girls and women. Study 2 evaluated immunogenicity of GARDASIL 9 in girls and boys 9 through 15 years of age and women 16 through 26 years of age. Study 3 evaluated immunogenicity of GARDASIL 9 compared with GARDASIL in girls 9 through 15 years of age. Study 4 evaluated administration of GARDASIL 9 to girls and women 12 through 26 years of age previously vaccinated with GARDASIL. Study 5 evaluated GARDASIL 9 concomitantly administered with Menactra and Adacel in girls and boys 11 through 15 years 
+
+15 
+
+of age. Together, these five clinical trials evaluated 12,233 individuals who received GARDASIL 9 (8,048 girls and women 16 through 26 years of age at enrollment with a mean age of 21.8 years; 2,927 girls 9 through 15 years of age at enrollment with a mean age of 11.9 years; and 1,258 boys 9 through 15 years of age at enrollment with a mean age of 11.9 years. Study 7 evaluated immunogenicity of GARDASIL 9 in boys and men, including 1,106 self-identified as heterosexual men (HM) and 313 self-identified as men having sex with men (MSM), 16 through 26 years of age at enrollment (mean ages 20.8 years and 22.2 years, respectively) and 1,101 girls and women 16 through 26 years of age at enrollment (mean age 21.3 years). Study 9 evaluated immunogenicity of GARDASIL 9 in 640 women 27 through 45 years of age and 570 girls and women 16 through 26 years of age (mean ages 35.8 years and 21.6 years, respectively).
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.057]
+|9-through 15-year-old boys|641|547|912.1|3.35(2.90, 3.87)|
+|16-through 26-year-old girls<br>|463|368|272.2|1|
+|and women|||||
+|**Anti-HPV 52**|||||
+|9-through 15-year-oldgirls|630|517|962.2|2.21(1.96,2.49)|
+|9-through 15-year-old boys|641|545|1055.5|2.52(2.22,2.84)|
+|16-through 26-year-old girls<br>|463|337|419.6|1|
+|and women|||||
+|**Anti-HPV 58**|||||
+|9-through 15-year-oldgirls|630|516|1288.0|2.18(1.94,2.46)|
+|9-through 15-year-old boys|641|544|1593.3|2.70(2.40,3.03)|
+|16-through 26-year-old girls<br>and women|463|332|590.5|1|
+
+
+
+* - The PPI population consisted of individuals who received all three vaccinations within pre defined day ranges, did not have major deviations from the study protocol, met predefined criteria for the interval between the Month 6 and Month 7 visit, were naïve (PCR negative [among 16- through 26-year old girls and women] and seronegative) to the relevant HPV type(s) prior to dose 1 and among 16- through 26-year-old girls and women remained PCR negative to the relevant HPV types through one month post-dose 3 (Month 7). The data are from Study 2 (NCT00943722). †N=Number of individuals randomized to the respective vaccination group who received at least one injection ‡n=Number of individuals contributing to the analysis §mMU=milli-Merck Units ¶Demonstration of non-inferiority required that the lower bound of the 95% CI of the GMT ratio be greater than 0.67 cLIA=competitive Luminex Immunoassay CI=Confidence Interval GMT=Geometric Mean Titer 
+
+_Study Supporting the Effectiveness of GARDASIL 9 against Vaccine HPV Types in 16- through 26-YearOld Boys and Men_
+
+---
+
+[referencia=e6a6a275d70c2c51 score=0.052]
+# _Immune Response to GARDASIL 9 across All Clinical Trials_ 
+
+Across all clinical trials, at least 99.2% of individuals included in the analyses for each of the nine vaccine HPV types became seropositive by Month 7. Anti-HPV GMTs at Month 7 among 9- through 15year-old girls and boys and 16- through 26-year-old boys and men were comparable to anti-HPV responses among 16- through 26-year-old girls and women in the combined database of immunogenicity studies for GARDASIL 9. 
+
+# _Persistence of Immune Response to GARDASIL 9_ 
+
+In an extension study of individuals in Study 2, among girls and boys 9 through 15 years of age at enrollment (range of 494 to 525 subjects with evaluable data across HPV types) and followed for 10 years post dose 3, anti-HPV 6, 11, 16, 18, 31, 33, 45, 52 and 58 GMTs as measured by cLIA were decreased compared with corresponding values at one-month post-dose 3. The proportion of seropositive subjects ranged from 99.6% to 100% at one month post-dose 3 and from 81.3% to 97.7% at 10 years post-dose 3, depending on HPV type. 
+
+22

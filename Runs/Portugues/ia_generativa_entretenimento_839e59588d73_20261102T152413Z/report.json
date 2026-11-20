@@ -1,0 +1,1487 @@
+{
+  "run_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+  "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Claude/Emergente/ia_generativa_entretenimento.md",
+  "generated_at": "2026-11-04T03:31:05.800318Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 32107,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 68,
+    "citation_markers_distinct": 53,
+    "references_listed": 53,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 68,
+  "pct_supported": 69.11764705882352,
+  "pct_unsupported": 8.823529411764707,
+  "pct_contradicted": 0.0,
+  "count_supported": 47,
+  "count_unsupported": 6,
+  "count_contradicted": 0,
+  "count_skipped": 15,
+  "count_audited": 53,
+  "pct_supported_audited": 88.67924528301887,
+  "pct_unsupported_audited": 11.320754716981133,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 4,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 14,
+    "ref_sem_conteudo": 1
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 1,
+  "count_reclassified_by_verification": 0,
+  "verification_stage_counts": {},
+  "mis_cited_reference_count": 2,
+  "uncredited_reference_count": 1,
+  "dead_references": [
+    {
+      "id": "ec3751446ec09932",
+      "citation_markers": [
+        "[13]"
+      ],
+      "raw_url": "https://www.ddg.fr/actualite/lehrman-and-sage-v-lovo-inc-a-landmark-us-decision-on-voice-cloning-and-ai",
+      "normalized_url": "https://ddg.fr/actualite/lehrman-and-sage-v-lovo-inc-a-landmark-us-decision-on-voice-cloning-and-ai",
+      "work_key": "https://ddg.fr/actualite/lehrman-and-sage-v-lovo-inc-a-landmark-us-decision-on-voice-cloning-and-ai",
+      "title": "DDG – \"Lehrman and Sage v. Lovo, Inc.: A Landmark US Decision on Voice Cloning and AI\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-11-04T03:30:11.392751Z",
+      "error_message": "Referencia nao encontrada (404): https://www.ddg.fr/actualite/lehrman-and-sage-v-lovo-inc-a-landmark-us-decision-on-voice-cloning-and-ai",
+      "barrier_kind": null,
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "cf4feb10962eb445",
+      "citation_markers": [
+        "[2]"
+      ],
+      "raw_url": "https://www.sagaftra.org/sag-aftra-members-approve-2026-tvtheatrical-contracts-tentative-agreement",
+      "normalized_url": "https://sagaftra.org/sag-aftra-members-approve-2026-tvtheatrical-contracts-tentative-agreement",
+      "work_key": "https://sagaftra.org/sag-aftra-members-approve-2026-tvtheatrical-contracts-tentative-agreement",
+      "title": "SAG-AFTRA – \"SAG-AFTRA Members Approve 2026 TV/Theatrical Contracts Tentative Agreement\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:30:15.896146Z",
+      "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930028-GRU 1793763013 862423481 Varnish cache server",
+      "barrier_kind": "http_error",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "0ad3078ef2adc633",
+      "citation_markers": [
+        "[4]"
+      ],
+      "raw_url": "https://www.sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts",
+      "normalized_url": "https://sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts",
+      "work_key": "https://sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts",
+      "title": "SAG-AFTRA – \"2026 TV/Theatrical Contracts\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:30:15.899231Z",
+      "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930059-GRU 1793763013 2210511094 Varnish cache server",
+      "barrier_kind": "http_error",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "9d0ca35723cdd785",
+      "citation_markers": [
+        "[18]"
+      ],
+      "raw_url": "https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+      "normalized_url": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+      "work_key": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+      "title": "SAG-AFTRA – \"Artificial Intelligence\" (A.I. Policy Timeline).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:30:16.070398Z",
+      "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930083-GRU 1793763013 2493503078 Varnish cache server",
+      "barrier_kind": "http_error",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "409f4f93bfa35581",
+      "citation_markers": [
+        "[22]"
+      ],
+      "raw_url": "https://www.lexblog.com/?p=2768510",
+      "normalized_url": "https://lexblog.com?p=2768510",
+      "work_key": "https://lexblog.com?p=2768510",
+      "title": "LexBlog – ELVIS Act (Tennessee).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:30:15.935753Z",
+      "error_message": "barreira de acesso (anti_bot): Checking your browser before accessing this site. This process is automatic. You will arrive shortly. Verification succe",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "f25206dddb6ca996",
+      "citation_markers": [
+        "[23]"
+      ],
+      "raw_url": "https://www.globalpolicywatch.com/2024/09/california-passes-digital-replica-legislation-as-congress-considers-federal-approach/",
+      "normalized_url": "https://globalpolicywatch.com/2024/09/california-passes-digital-replica-legislation-as-congress-considers-federal-approach",
+      "work_key": "https://globalpolicywatch.com/2024/09/california-passes-digital-replica-legislation-as-congress-considers-federal-approach",
+      "title": "Covington / Global Policy Watch – \"California Passes Digital Replica Legislation as Congress Considers Federal Approach\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:30:19.581222Z",
+      "error_message": "barreira de acesso (anti_bot): Checking your browser before accessing this site. This process is automatic. You will arrive shortly. Verification succe",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "5742a9651bf6ca88",
+      "citation_markers": [
+        "[27]"
+      ],
+      "raw_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+      "normalized_url": "https://congress.gov/bill/119th-congress/senate-bill/4591",
+      "work_key": "https://congress.gov/bill/119th-congress/senate-bill/4591",
+      "title": "Congress.gov – \"S.4591 – NO FAKES Act of 2026\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:30:19.047150Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "87b390438278affb",
+      "citation_markers": [
+        "[29]"
+      ],
+      "raw_url": "https://thehill.com/opinion/congress-blog/technology/6124241-congress-no-fakes-act-vote/",
+      "normalized_url": "https://thehill.com/opinion/congress-blog/technology/6124241-congress-no-fakes-act-vote",
+      "work_key": "https://thehill.com/opinion/congress-blog/technology/6124241-congress-no-fakes-act-vote",
+      "title": "The Hill – \"The NO FAKES Act is a no-brainer: Your identity belongs to you\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:30:19.864395Z",
+      "error_message": "barreira de acesso (anti_bot): Your browser appears to have Javascript disabled. For instructions on how to enable Javascript please click here . If yo",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "89127e7e5f38bd2c",
+      "citation_markers": [
+        "[39]"
+      ],
+      "raw_url": "https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+      "normalized_url": "https://musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+      "work_key": "https://musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+      "title": "Music Business Worldwide – \"Universal Music settles Udio lawsuit, strikes deal for licensed AI music platform\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:30:22.696119Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "cac5f3ab2ca8fb73",
+      "citation_markers": [
+        "[40]"
+      ],
+      "raw_url": "https://www.barchart.com/story/news/35789376/universal-music-and-ai-song-generator-udio-settle-lawsuit-and-partner-on-new-ai-music-platform",
+      "normalized_url": "https://barchart.com/story/news/35789376/universal-music-and-ai-song-generator-udio-settle-lawsuit-and-partner-on-new-ai-music-platform",
+      "work_key": "https://barchart.com/story/news/35789376/universal-music-and-ai-song-generator-udio-settle-lawsuit-and-partner-on-new-ai-music-platform",
+      "title": "AP / Barchart – \"Universal Music and AI song generator Udio settle lawsuit and partner on new AI music platform\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 202,
+      "fetched_at": "2026-11-04T03:30:24.749242Z",
+      "error_message": "barreira de acesso (anti_bot): JavaScript is disabled In order to continue, we need to verify that you're not a robot. This requires JavaScript. Enable",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "b8c1b1befacee0ee",
+      "citation_markers": [
+        "[41]"
+      ],
+      "raw_url": "https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator/",
+      "normalized_url": "https://musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator",
+      "work_key": "https://musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator",
+      "title": "Music Business Worldwide – \"Warner Music Group strikes 'landmark' deal with Suno; settles copyright lawsuit\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:30:23.376836Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-2",
+      "reason": "Referencia(s) citada(s) ['cf4feb10962eb445'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-4",
+      "reason": "Referencia(s) citada(s) ['0ad3078ef2adc633'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-18",
+      "reason": "Referencia(s) citada(s) ['ec3751446ec09932'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-25",
+      "reason": "Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-26",
+      "reason": "Referencia(s) citada(s) ['9d0ca35723cdd785'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-30",
+      "reason": "Referencia(s) citada(s) ['0ad3078ef2adc633'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-31",
+      "reason": "Referencia(s) citada(s) ['409f4f93bfa35581'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-32",
+      "reason": "Referencia(s) citada(s) ['f25206dddb6ca996'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-36",
+      "reason": "Referencia(s) citada(s) ['5742a9651bf6ca88'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-39",
+      "reason": "Referencia(s) citada(s) ['5742a9651bf6ca88'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-40",
+      "reason": "Referencia(s) citada(s) ['87b390438278affb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-41",
+      "reason": "Referencia(s) citada(s) ['87b390438278affb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-52",
+      "reason": "Referencia(s) citada(s) ['89127e7e5f38bd2c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-53",
+      "reason": "Referencia(s) citada(s) ['cac5f3ab2ca8fb73'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-54",
+      "reason": "Referencia(s) citada(s) ['b8c1b1befacee0ee'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "522d4966fe9897ae",
+      "url": "https://www.screendaily.com/news/sag-aftra-speaks-out-over-ai-actress-tilly-norwood-creativity-should-remain-human-centred/5209482.article",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        11,
+        12,
+        13,
+        16
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Van der Velden has just launched AI talent studio Xicoia to create, manage and monetise hyperreal digital stars and responded over the weekend to the growing backlash when she said Norwood was ”not a replacement for a human being, but a creative work – a piece of art\". ... Van der Velden told delegates she would soon announce the traditional agency that has come on board to represent the Norwood entity.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "e3d2daeea116173b",
+      "url": "https://fortune.com/2026/03/28/actors-union-sag-aftra-contract-bargaining-tilly-tax-ai-film-characters-hollywood-studios/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        7
+      ],
+      "partial_positions": [
+        0
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "“Collective bargaining has been the fastest and most effective way for the regulation of AI technology,” SAG-AFTRA Executive Director Duncan Crabtree-Ireland said Thursday at an AFL-CIO workers’ summit in Washington.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "0ad3078ef2adc633",
+      "url": "https://www.sagaftra.org/contracts-industry-resources/contracts/2026-tvtheatrical-contracts",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        4,
+        30
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "568114fc709ab5ef",
+      "url": "https://variety.com/2026/film/news/sag-aftra-ai-tilly-norwood-tax-digital-performers-1236644931/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        6
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In the future, studios that use synthetic actors in place of humans might have to pay a royalty into a union fund.",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "9f6c52de7251a2eb",
+      "url": "https://chatgptiseatingtheworld.com/2025/07/10/judge-oetken-allows-new-york-law-misappropriation-claim-by-voice-actors-v-lovo-ai-co-and-limited-copryight-claim-based-on-sages-sound-recordings/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        20,
+        21
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The motion is denied as to Sage's copyright claims based on the use of her original voice recording, and as to Plaintiffs' contract claims, New York Civil Rights Law claims, and New York General Business Law claims.",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "7eb9815314ef584f",
+      "url": "https://www.news4jax.com/entertainment/2025/07/09/video-game-performers-vote-on-contract-that-could-end-nearly-three-year-long-battle-over-ai/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        24
+      ],
+      "partial_positions": [
+        23
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The time spent creating a digital replica will be compensated as work time, according to the agreement. The agreement also requires the employer to provide the performer with a usage report that details how the replica was used and calculates the expected compensation.",
+      "key_excerpt_position": 24
+    },
+    {
+      "reference_id": "9d0ca35723cdd785",
+      "url": "https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        25,
+        26
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "5742a9651bf6ca88",
+      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/4591",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        36,
+        39
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "c010e49bcedf28c0",
+      "url": "https://www.hklaw.com/en/insights/publications/2026/06/senate-judiciary-committee-advances-legislation-to-protect-name",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        37,
+        38
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Individuals and companies can be held liable if they produce or distribute an unauthorized digital replica of someone's voice or visual likeness. Online platforms can also be held liable if they host unauthorized digital replicas and have knowledge that the replica was not authorized by the person depicted. ... The NO FAKES Act excludes certain uses of digital replicas that are protected by the First Amendment such as news reporting, parody, criticism and similar forms of speech.",
+      "key_excerpt_position": 37
+    },
+    {
+      "reference_id": "87b390438278affb",
+      "url": "https://thehill.com/opinion/congress-blog/technology/6124241-congress-no-fakes-act-vote/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        40,
+        41
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "2a1c4a725076499a",
+      "url": "https://www.nbcnews.com/tech/tech-news/openai-sora-2-guardrails-sag-aftra-bryan-cranston-rcna238715",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        43,
+        45
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Cranston subsequently raised the issue with SAG-AFTRA, the union representing more than 150,000 film and TV performers, which has resulted in a collaborative effort with OpenAI and several talent agencies to \"ensure voice and likeness protections in Sora 2,\" the companies said in a joint statement posted to X on Monday. The statement said OpenAI has strengthened its original guardrails to ensure this type of content no longer slips through.",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "49550c2d2b854e28",
+      "url": "https://www.cria.digital/blog/marco-legal-da-ia-pl-2338",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        64,
+        65
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O PL 2338/2023 foi aprovado pelo Senado em 10 de dezembro de 2024, seguiu para a Câmara dos Deputados em março de 2025 e, até outubro de 2026, continua em comissão especial, sem votação final.",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "cf4feb10962eb445",
+      "url": "https://www.sagaftra.org/sag-aftra-members-approve-2026-tvtheatrical-contracts-tentative-agreement",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        2
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "12611fa6e66e027a",
+      "url": "https://senalnews.com/en/content/sag-aftra-members-approve-2026-tv-theatrical-contracts-tentative-agreement/amp",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        3
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The agreement is effective on July 1, 2026, and expires June 30, 2030.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "beb1a3db7a0c2ed2",
+      "url": "https://variety.com/2026/film/news/sag-aftra-amptp-contract-retirement-funds-1236735826/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        8
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Instead, the union got the studios to agree not to use synthetics unless they bring “significant additional value” to the production. The union also got a new arbitration provision to enforce the synthetic AI terms of the contract.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "aa566bde705c91e5",
+      "url": "https://www.thewrap.com/industry-news/tech/sag-aftra-ai-protections-in-new-contract-synthetic/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        9
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "And if an agreement between the producers and SAG-AFTRA isn't reached, the union \"may arbitrate seeking damages in an amount that will not necessarily be limited to the compensation that would have been paid to a natural performer for rendering the performance for which the Synthetic was used,\" according to the 18-page summary of the agreement.",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "6ee99bc55bf24436",
+      "url": "https://www.cartoonbrew.com/artist-rights/sag-aftra-tv-animation-deal-vote-267544.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        10
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The previous animation contract, ratified in 2024, established the union's first AI protections specifically for voice actors.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "c13060c681fb7125",
+      "url": "https://au.variety.com/2026/film/news/ai-actor-tilly-norwood-movie-debut-misaligned-38324/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        14
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "\"Misaligned\" is currently in early development, with key collaborators currently being attached.",
+      "key_excerpt_position": 14
+    },
+    {
+      "reference_id": "82f31dd5c014eaac",
+      "url": "https://news.northeastern.edu/?p=307768",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        15
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the release date hasn't been shared yet. Particle6 publicist Michelle Waldron said production is expected to take about a year.",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "cd1d5f398097a475",
+      "url": "https://techcrunch.com/2024/05/20/scarlett-johansson-says-that-openai-approached-her-to-use-her-voice",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        17
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Sky is now being paused after OpenAI used it when demoing its new GPT-4o model last week. [...] Sky's voice is not an imitation of Scarlett Johansson but belongs to a different professional actress using her own natural speaking voice",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "ec3751446ec09932",
+      "url": "https://www.ddg.fr/actualite/lehrman-and-sage-v-lovo-inc-a-landmark-us-decision-on-voice-cloning-and-ai",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        18
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a3eabce2b7ec34a4",
+      "url": "https://www.silicon.co.uk/e-regulation/legal/actor-ai-lawsuit-621581/amp",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        19
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ed9430816842a3cf",
+      "url": "https://www.law360.com/bankruptcy-authority/cases/66463465c58d261f4e979e33/articles",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        22
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Artificial intelligence-enabled voice generating software company Lovo Inc. has filed for Chapter 7 protection in New York in the midst of an ongoing putative class action brought by voice actors alleging their voices were used by the company without permission.",
+      "key_excerpt_position": 22
+    },
+    {
+      "reference_id": "403f729f1715c90b",
+      "url": "https://ids.org.br/noticia/dubladores-brasileiros-criam-movimento-dublagem-viva-para-pedir-a-regulamentacao-do-uso-da-ia/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        27
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "em novembro de 2023, um grupo de dubladores brasileiros aderiu a um movimento global para exigir a regulação da IA em produções audiovisuais. A adesão nacional ao movimento teve ampla divulgação no início desse ano. Assim, a campanha nacional intitulada \"Dublagem viva\" busca proteger a atuação desses profissionais no mercado frente à nova tecnologia.",
+      "key_excerpt_position": 27
+    },
+    {
+      "reference_id": "4f6a457bc2eaef1c",
+      "url": "https://www.mundoconectado.com.br/inteligencia-artificial/dubladores-campanha-regulamentacao-inteligencia-artificial/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        28
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A IA não deve ser usada para reproduzir vozes de atores em outros idiomas para Língua Portuguesa Brasileira a finalidade de substituir os dubladores.",
+      "key_excerpt_position": 28
+    },
+    {
+      "reference_id": "4998c7ef0457172a",
+      "url": "https://www.maisgoias.com.br/entretenimento/dubladores-brasileiros-temem-substituicao-por-inteligencia-artificial/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        29
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A United Voice Artists, grupo global de associações de dublagem, lidera uma petição com mais de 50 mil assinaturas, no intuito de impedir a substituição de humanos por robôs no audiovisual.",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "409f4f93bfa35581",
+      "url": "https://www.lexblog.com/?p=2768510",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        31
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f25206dddb6ca996",
+      "url": "https://www.globalpolicywatch.com/2024/09/california-passes-digital-replica-legislation-as-congress-considers-federal-approach/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        32
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "8a72c0f94ad8d1e3",
+      "url": "https://www.hollywoodreporter.com/business/business-news/gavin-newsom-signs-ai-bills-supported-sag-aftra-1236004935/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        33
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "AB 1836, meanwhile, requires entertainment employers to gain the consent of a deceased performer's estate before using a digital replica of that person.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "28da35919f2869a1",
+      "url": "https://wiki.private.law/en/publicity-rights-ai.md",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        34
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In December 2025 two further statutes were added, both signed on 11 December: S.8420-A on disclosure of a synthetic performer in advertising (an amendment to § 396-b of the General Business Law, chapter 617) took effect after 180 days, on 9 June 2026, and S.8391 on the digital replica of a deceased performer (an amendment to § 50-f, chapter 616; the Assembly companion is A.8882) took effect immediately.",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "7b9f63d19d68e7ac",
+      "url": "https://www.manatt.com/insights/newsletters/client-alert/congress-reintroduces-the-no-fakes-act-what-s-new-in-the-2026-bill",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        35
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The most significant change to the bill is a counter-notification process modeled off the Digital Millennium Copyright Act (DMCA) that allows users to contest removal of digital replicas.",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "7edfd91715fe9b0a",
+      "url": "https://salazar.house.gov/media/press-releases/rep-salazars-no-fakes-act-advances-out-senate-judiciary-committee-unanimous",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Earlier this month, more than 16,000 SAG-AFTRA members signed an open letter urging Congress to pass the NO FAKES Act",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "d8f37b2169550724",
+      "url": "https://www.thewrap.com/bryan-cranston-open-ai-sora-2-guardrails/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        44
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "SAG-AFTRA says OpenAI apologized for the generations and committed to working with the union, CAA, UTA and the Association of Talent Agencies to strengthen their guardrails to uphold the opt-in policy.",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "fe5ff512d79ee4f4",
+      "url": "https://kvia.com/news/business-technology/cnn-business-consumer/2025/12/11/disney-is-investing-1-billion-in-openai-and-licensing-its-characters-for-sora/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        46
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "although the agreement does not include any talent likenesses or voices.",
+      "key_excerpt_position": 46
+    },
+    {
+      "reference_id": "ba5709e2ba744894",
+      "url": "https://engadget.com/ai/openai-is-shutting-down-its-sora-video-generation-app-211023358.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        47
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "OpenAI is shutting down its Sora video generation app. [...] We've decided to discontinue Sora in the consumer app and API. [...] — Sora (@soraofficialapp) March 24, 2026 [...] Disney is exiting the deal it signed with the AI lab at the end of last year, and won't, as a result, invest $1 billion into it.",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "5f680000194fa376",
+      "url": "https://www.exchange4media.com/digital-news/openai-shuts-down-sora-ends-disney-deal-153241.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        48
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The investment, however, had not been completed, and no capital was transferred before the shutdown.",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "5055d11adfa5dd46",
+      "url": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        49
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A judge previously ruled that the studios would indeed have to provide information about their generative AI usage — but only when it led to “consumer-facing” videos and images.",
+      "key_excerpt_position": 49
+    },
+    {
+      "reference_id": "49b40a6da7448479",
+      "url": "https://variety.com/2026/film/news/midjourney-studios-ai-copyright-discovery-1236800902/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        50
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Midjourney's lawyers filed a motion this week urging Judge John Kronstadt to overturn that decision, arguing that the studios should have to divulge more much about how AI is used behind the scenes. ... The company has also sought the studios' board meeting presentations about AI.",
+      "key_excerpt_position": 50
+    },
+    {
+      "reference_id": "33cc628f70bdd87f",
+      "url": "https://www.courtlistener.com/docket/70513159/disney-enterprises-inc-v-midjourney-inc/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        51
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The last day to file all motions is November 23, 2026. The Court grants the parties request to participate in a settlement conference with a private neutral.",
+      "key_excerpt_position": 51
+    },
+    {
+      "reference_id": "89127e7e5f38bd2c",
+      "url": "https://www.musicbusinessworldwide.com/universal-music-settles-udio-lawsuit-strikes-deal-for-licensed-ai-music-platform",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        52
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "cac5f3ab2ca8fb73",
+      "url": "https://www.barchart.com/story/news/35789376/universal-music-and-ai-song-generator-udio-settle-lawsuit-and-partner-on-new-ai-music-platform",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        53
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "b8c1b1befacee0ee",
+      "url": "https://www.musicbusinessworldwide.com/warner-music-group-settles-with-suno-strikes-first-of-its-kind-deal-with-ai-song-generator/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        54
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "9e8e4e9c96c5369f",
+      "url": "https://completemusicupdate.com/universal-has-settled-its-lawsuit-with-udio-and-signed-ai-deals-with-udio-and-stability/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "can record labels and music publishers unilaterally opt all their artists and songwriters, and their recordings and songs, into those deals? Or do they need specific music creator consent? ... the majors have so far resisted calls to secure explicit consent when licensing the general training of AI models.",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "64afe7f0ee7c06e5",
+      "url": "https://www.taylorwessing.com/de/insights-and-events/insights/2025/11/gema-v-openai",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        56
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In the court's view, memorization within the models and the subsequent reproduction of lyrics via the chatbot each infringed exclusive rights of exploitation. None of the relevant exceptions applied—in particular the TDM exception in § 44b UrhG / Art. 4 DSM Directive. [...] However, memorizing the song lyrics at issue exceeds such evaluation and is therefore not merely text and data mining.",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "93bc30bbd06e38db",
+      "url": "https://www.penningtonslaw.com/news-publications/latest-news/2026/ai-art-and-global-approaches-to-copyright-law",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        57
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In November 2025, the High Court delivered judgment in *Getty Images v Stability AI*, finding in favour of Getty on trademark infringement but dismissing its secondary copyright infringement claim.",
+      "key_excerpt_position": 57
+    },
+    {
+      "reference_id": "156add2dff276ad1",
+      "url": "https://www.mayerbrown.com/pt/insights/publications/2026/03/supreme-court-denies-review-in-ai-authorship-case",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        58
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the Supreme Court of the United States declined to grant review in *Thaler v. Perlmutter* (Case No. 25-449). In denying certiorari, the Court leaves standing, and unaddressed by the Supreme Court, the 2025 DC Circuit opinion, which affirmed the US Copyright Office (\"USCO\") requirement of human authorship in order to be eligible for copyright protection.",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "2f6661b70427872a",
+      "url": "https://www.bakerdonelson.com/supreme-court-denies-certiorari-in-thaler-v-perlmutter-ai-cannot-be-an-author-under-the-copyright-act",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        59
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Because Dr. Thaler disclaimed any human creative input, the court did not address how much human involvement is sufficient to support a copyright claim for AI-assisted works.",
+      "key_excerpt_position": 59
+    },
+    {
+      "reference_id": "788dc734f7b1e2c3",
+      "url": "https://www.mccannfitzgerald.com/knowledge/data-privacy-and-cyber-risk/ai-transparency-european-commissions-guidelines-on-article-50-part-2-deployer-obligations",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        60
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The European Commission recently announced that about 190 organisations signed the Code ahead of the entry into application of the Article 50 legal obligations. ... Non-compliance with the transparency obligations under Article 50 may attract administrative fines of up to €15 million or, for undertakings, up to 3% of total worldwide annual turnover, whichever is higher.",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "50d36851e4e943e0",
+      "url": "https://www.mishcon.com/news/ai-act-transparency-obligations-code-of-practice-and-draft-guidelines",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        61
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "On 10 June 2026, the European Commission published the final version of its Code of Practice on Transparency of AI-Generated Content.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "68e82c0013b8401a",
+      "url": "https://verfassungsblog.de/copyrighting-voice-and-image/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        62
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Traditionally, voice and image have been protected as personality rights that are not transferable, primarily defensive in nature, and only partially commercial. Denmark’s new legislation marks a significant departure from this tradition by reconceptualising voice and image as intellectual property rights, making them potentially transferable and commercially exploitable.",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "021c4c3efaf9b564",
+      "url": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/01/EPRS_ATA(2026)782611.html",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        63
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "several Member States underlined that concerns linked to the production and dissemination of deepfakes extend beyond the remit of copyright law",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "7ec9ed46eb649eaf",
+      "url": "https://documentacao.senior.com.br/exigenciaslegais/noticias/federal/2025/2025-03-20-camara-comeca-a-discutir-projeto-que-regulamenta-a-inteligencia-artificial-no-brasil/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        66
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Nos demais casos, o titular de direitos autorais poderá proibir o uso dos conteúdos protegidos.",
+      "key_excerpt_position": 66
+    },
+    {
+      "reference_id": "5a53ab664988e734",
+      "url": "https://monitor.lcfconsulting.com.br/proposicoes/pl-2338-2023/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        67
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "votação adiada para depois das eleições de outubro/2026",
+      "key_excerpt_position": 67
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-29",
+      "position": 29,
+      "claim_excerpt": "A iniciativa se conecta à United Voice Artists, rede internacional de associações de dublagem, que reuniu mais de 50 mil assinaturas em petição contra a substituição de humanos por máquinas no audiov…",
+      "cited_markers": "[21]",
+      "corroborating_markers": "[19] [20] [9] [24] [30] [31] [5] [7] [44] [49] [3] [16] [32] [50]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-63",
+      "position": 63,
+      "claim_excerpt": "As fontes divergem sobre a data exata de vigência ao longo de 2026, e vários Estados-membros observaram que os problemas dos deepfakes vão além do que o direito autoral consegue resolver.",
+      "cited_markers": "[50]",
+      "corroborating_markers": "[49] [28] [31] [48] [25] [47]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 220730,
+  "cost_tracked": false,
+  "processing_time_seconds": 130012.686541
+}

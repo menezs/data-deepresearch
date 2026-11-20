@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-0",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 0,
+    "text": "A arquitetura Transformer, apresentada por Vaswani et al. em 2017, substituiu a recorrência e as convoluções como mecanismo central de modelagem de sequências por operações de atenção, permitindo que todos os tokens de uma sequência fossem processados em paralelo durante o treinamento e que relações entre posições distantes fossem representadas por caminhos computacionais curtos.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-1",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 1,
+    "text": "Essa mudança atacou dois problemas importantes dos modelos sequenciais anteriores: a dificuldade de paralelizar RNNs, cuja computação avança passo a passo, e a dificuldade de transmitir informação por longas distâncias sem atravessar muitos estados recorrentes ou muitas camadas convolucionais.",
+    "cited_markers": [
+      "[1]",
+      "[3]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "9cee40b637f69874",
+      "99bf4c74cf248c24"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-2",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 2,
+    "text": "na qual cada posição transforma sua representação em uma *query* \\(Q\\), uma *key* \\(K\\) e um *value* \\(V\\); produtos escalares medem compatibilidades entre queries e keys, o softmax converte os escores em pesos e a soma ponderada dos values produz uma nova representação contextual.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-3",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 3,
+    "text": "O fator \\(1/\\sqrt{d_k}\\) impede que a variância dos produtos escalares cresça proporcionalmente à dimensão das chaves, o que tenderia a levar o softmax a regiões de saturação e gradientes menores.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-4",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 4,
+    "text": "A atenção *multi-head* executa várias dessas operações em subespaços projetados diferentes e concatena seus resultados, permitindo que diferentes cabeças representem simultaneamente tipos distintos de relação entre tokens.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-5",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 5,
+    "text": "Essa mesma primitiva deu origem a três grandes famílias arquiteturais: modelos *encoder-only*, como BERT, que usam atenção bidirecional e são naturalmente adequados à representação e compreensão de texto; modelos *decoder-only*, como a família GPT, que usam uma máscara causal e modelam \\(p(x_t\\mid x_{<t})\\); e modelos *encoder-decoder*, como T5, que combinam um codificador bidirecional com um decodificador autoregressivo ligado ao encoder por *cross-attention*.",
+    "cited_markers": [
+      "[5]",
+      "[6]",
+      "[7]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "32f3c7d144f036a0",
+      "a3e86ad05f37e40d",
+      "2cab3ea10b8b7ae2",
+      "887da5f02141c29f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-6",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 6,
+    "text": "O grande custo dessa flexibilidade é que a atenção densa entre \\(n\\) tokens calcula essencialmente uma matriz \\(n\\times n\\), dando custo computacional \\(O(n^2d)\\) por camada e, em uma implementação ingênua que materialize os pesos de atenção, memória intermediária quadrática em \\(n\\).",
+    "cited_markers": [
+      "[1]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-7",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 7,
+    "text": "As principais linhas de pesquisa em eficiência atacam partes diferentes desse problema: Longformer restringe conectividade com janelas locais e posições globais; Reformer usa hashing sensível à localidade; Performer aproxima o softmax por *random features*; FlashAttention mantém a atenção densa matematicamente exata, mas reorganiza o algoritmo para reduzir tráfego entre níveis de memória; e abordagens como Ring Attention e Native Sparse Attention reorganizam respectivamente a distribuição da atenção entre dispositivos e a própria esparsidade do padrão computado.",
+    "cited_markers": [
+      "[10]",
+      "[11]",
+      "[12]",
+      "[13]",
+      "[15]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701",
+      "abee5142f9553110",
+      "2f4185a6336708d8",
+      "db62100d4f40075e",
+      "958844d4171dd73c",
+      "74cf7186aa6d419e"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-8",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 8,
+    "text": "LLMs modernos acrescentam à arquitetura um regime de treinamento em larga escala: pré-treinamento em grandes corpora, seguido por formas de especialização ou pós-treinamento, como *supervised fine-tuning* e, em sistemas alinhados por preferências humanas, RLHF.",
+    "cited_markers": [
+      "[6]",
+      "[7]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d",
+      "2cab3ea10b8b7ae2",
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-9",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 9,
+    "text": "Para tornar esse treinamento viável, técnicas como precisão mista, paralelismo tensorial, paralelismo em pipeline e particionamento de estados com ZeRO distribuem computação e memória entre muitos aceleradores.",
+    "cited_markers": [
+      "[19]",
+      "[20]",
+      "[21]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "1718c427cff7b5e5",
+      "1480e50475d6c98e",
+      "09b3a2927fbd8693",
+      "c00b8dae0f8e596c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-10",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 10,
+    "text": "Por fim, aumentar parâmetros ou contexto não transforma um Transformer em um sistema de conhecimento infalível: modelos ainda podem produzir afirmações falsas, reproduzir vieses dos dados, utilizar de modo irregular informações espalhadas por contextos longos e ser vulneráveis a ataques como *prompt injection*.",
+    "cited_markers": [
+      "[23]",
+      "[24]",
+      "[25]",
+      "[26]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "fe2a3307a3dae3e5",
+      "6f93afc00a76b64a",
+      "29a0882390ee7063",
+      "1f3eaa75f7a21064",
+      "6ee83218472b4aa1"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-11",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 11,
+    "text": "Por isso, a fronteira atual combina janelas maiores, atenção eficiente e mecanismos externos, especialmente *retrieval-augmented generation* (RAG), que complementam a memória paramétrica do modelo com documentos recuperados em tempo de execução.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "02ad74cdb0c9081f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-12",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 12,
+    "text": "Antes do Transformer, a formulação dominante para tradução neural e outras tarefas de sequência era o modelo *sequence-to-sequence*: um encoder recorrente lia a entrada e a condensava em uma representação de dimensão fixa, e outro RNN ou LSTM produzia a saída token a token.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "9cee40b637f69874"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-13",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 13,
+    "text": "Essa arquitetura era conceitualmente elegante, mas a representação única entre encoder e decoder constituía um gargalo particularmente problemático para sequências longas.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "c23bf2a3bc33cb7a"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-14",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 14,
+    "text": "Bahdanau, Cho e Bengio atacaram esse problema permitindo que o decoder consultasse diferentes estados do encoder em cada passo, atribuindo pesos diferenciáveis às posições de origem; essa ideia de alinhamento suave foi uma das raízes diretas da atenção moderna.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "c23bf2a3bc33cb7a"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-15",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 15,
+    "text": "Em vez de obrigar todo o conteúdo da entrada a atravessar um único vetor, o decoder passou a formar dinamicamente um vetor de contexto a partir das partes mais relevantes da sequência.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "c23bf2a3bc33cb7a"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-16",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 16,
+    "text": "A recorrência, entretanto, mantinha uma limitação estrutural: para calcular o estado \\(h_t\\), é necessário ter o estado anterior \\(h_{t-1}\\), de modo que os passos temporais não podem ser todos avaliados simultaneamente durante o treinamento.",
+    "cited_markers": [
+      "[1]",
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "9cee40b637f69874"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-17",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 17,
+    "text": "Relações entre posições muito afastadas também percorrem uma cadeia de muitos estados, criando um caminho computacional proporcional à distância entre os tokens.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-18",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 18,
+    "text": "LSTMs e mecanismos de gating amenizaram problemas de propagação de informação, mas não removeram essa dependência sequencial fundamental.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "9cee40b637f69874"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-19",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 19,
+    "text": "Redes convolucionais constituíram uma alternativa importante: o ConvS2S de Gehring et al. mostrou que convoluções permitem computar simultaneamente as representações de diferentes posições e, portanto, explorar melhor o paralelismo disponível em GPUs.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "99bf4c74cf248c24"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-20",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 20,
+    "text": "Ainda assim, uma convolução de largura limitada vê apenas uma vizinhança local; para conectar posições muito distantes, é necessário empilhar camadas ou aumentar o campo receptivo.",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "99bf4c74cf248c24"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-21",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 21,
+    "text": "O Transformer fez uma escolha mais radical: remover tanto recorrência quanto convolução do mecanismo principal de comunicação entre posições e deixar que cada token atendesse diretamente aos demais.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-22",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 22,
+    "text": "Na comparação teórica apresentada no artigo original, uma camada de self-attention densa tem complexidade \\(O(n^2d)\\), exige \\(O(1)\\) operações sequenciais e cria caminhos de comprimento máximo \\(O(1)\\) entre quaisquer duas posições; uma camada recorrente custa \\(O(nd^2)\\), exige \\(O(n)\\) passos sequenciais e tem caminho máximo \\(O(n)\\).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-23",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 23,
+    "text": "Essa troca é decisiva: o Transformer sacrifica eficiência assintótica em sequências extremamente longas para obter paralelização e conectividade global muito favoráveis nas dimensões de sequência para as quais foi originalmente concebido.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-24",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 24,
+    "text": "Esse é um ponto importante para compreender os LLMs: o sucesso do Transformer não veio simplesmente de “memorizar melhor”, mas de fornecer uma operação altamente paralelizável, diferenciável e capaz de combinar informação globalmente, justamente um padrão de computação que escala bem em aceleradores matriciais.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-25",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 25,
+    "text": "O Transformer de 2017 é uma arquitetura encoder-decoder.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-26",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 26,
+    "text": "O modelo base empregava seis blocos de encoder e seis de decoder, dimensão de representação \\(d_\\text{model}=512\\) e oito cabeças de atenção.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-27",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 27,
+    "text": "Cada bloco do encoder continha uma subcamada de multi-head self-attention e uma rede feed-forward aplicada independentemente a cada posição, com conexões residuais e Layer Normalization ao redor das subcamadas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-28",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 28,
+    "text": "A feed-forward original tinha duas transformações lineares separadas por ReLU e dimensão interna \\(d_\\text{ff}=2048\\).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-29",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 29,
+    "text": "O decoder acrescentava uma terceira subcamada: atenção entre o decoder e a saída do encoder, hoje normalmente chamada *cross-attention*.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-30",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 30,
+    "text": "Sua self-attention era mascarada para impedir que a representação da posição \\(t\\) tivesse acesso a posições futuras, preservando a fatoração autoregressiva necessária à geração.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-31",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 31,
+    "text": "O diagrama canônico dessas duas pilhas aparece na Figura 1 do artigo original de Vaswani et al., referenciado em",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-32",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 32,
+    "text": "Matematicamente, considere uma matriz de representações \\(X\\in\\mathbb{R}^{n\\times d_\\text{model}}\\), uma linha por token.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-33",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 33,
+    "text": "Cada linha \\(q_i\\) de \\(Q\\) representa aquilo que a posição \\(i\\) “procura”; cada \\(k_j\\) funciona como uma chave contra a qual essa consulta é comparada; e cada \\(v_j\\) contém a informação que será agregada se a posição \\(j\\) receber peso elevado.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-34",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 34,
+    "text": "Essa terminologia é interpretativa, mas a operação efetiva é simplesmente álgebra linear aprendida de ponta a ponta.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-35",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 35,
+    "text": "Reunindo todos os pares, obtém-se \\(S=QK^\\top\\), uma matriz \\(n\\times n\\).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-36",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 36,
+    "text": "\\[\n\\boxed{\n\\operatorname{Attention}(Q,K,V)=\n\\operatorname{softmax}\n\\left(\\frac{QK^\\top}{\\sqrt{d_k}}\\right)V\n}.\n\\]",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-37",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 37,
+    "text": "O divisor \\(\\sqrt{d_k}\\) tem uma justificativa estatística simples.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-38",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 38,
+    "text": "Se os componentes de \\(q\\) e \\(k\\) forem aproximadamente independentes, com média zero e variância unitária, o produto escalar é a soma de \\(d_k\\) produtos e tem variância proporcional a \\(d_k\\).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-39",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 39,
+    "text": "Dividi-lo por \\(\\sqrt{d_k}\\) estabiliza a escala típica dos logits, evitando que dimensões grandes empurrem excessivamente o softmax para distribuições quase saturadas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-40",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 40,
+    "text": "No Transformer-base, \\(h=8\\) e cada cabeça tinha \\(d_k=d_v=64\\), de modo que o custo agregado permanecia aproximadamente comparável ao de uma única atenção com a dimensão integral.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-41",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 41,
+    "text": "O objetivo não é impor previamente que uma cabeça seja “sintática” ou “semântica”; as diferentes projeções apenas fornecem subespaços paralelos nos quais o treinamento pode aprender relações distintas.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-42",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 42,
+    "text": "Como a atenção pura não conhece a ordem dos elementos, o Transformer original soma aos embeddings uma codificação posicional senoidal.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-43",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 43,
+    "text": "\\[\nPE_{(pos,2i+1)}=\n\\cos\\left(\\frac{pos}{10000^{2i/d_\\text{model}}}\\right).\n\\]",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-44",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 44,
+    "text": "Esses sinais fornecem ao modelo informação de posição sem recorrer a um relógio recorrente.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-45",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 45,
+    "text": "A versão original também testou embeddings posicionais aprendidos e encontrou desempenho semelhante em seu experimento de tradução, optando pelas senoides em parte pela possibilidade de extrapolar para comprimentos não observados.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-46",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 46,
+    "text": "Em pseudocódigo conceitual, uma cabeça pode ser resumida por `Q = X @ Wq; K = X @ Wk; V = X @ Wv; scores = Q @ K.T / sqrt(dk); scores += mask; A = softmax(scores); Y = A @ V`.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-47",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 47,
+    "text": "Para self-attention, \\(Q,K,V\\) derivam da mesma sequência; para cross-attention, as queries vêm do decoder e keys/values vêm do encoder; na atenção causal, a máscara substitui logits correspondentes ao futuro por valores efetivamente equivalentes a \\(-\\infty\\) antes do softmax.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-48",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 48,
+    "text": "As diferenças entre encoder-only, decoder-only e encoder-decoder resultam principalmente de quais posições podem atender a quais outras e de qual objetivo de treinamento é utilizado.",
+    "cited_markers": [
+      "[1]",
+      "[5]",
+      "[7]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "32f3c7d144f036a0",
+      "2cab3ea10b8b7ae2",
+      "887da5f02141c29f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-49",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 49,
+    "text": "BERT é o exemplo clássico de um Transformer encoder-only: seus blocos permitem que cada posição use contexto de ambos os lados e o pré-treinamento emprega um objetivo de *masked language modeling*, no qual tokens ocultados precisam ser inferidos usando o restante do contexto.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "32f3c7d144f036a0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-50",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 50,
+    "text": "Essa bidirecionalidade torna a representação especialmente útil como entrada para classificadores, sistemas de extração e outras tarefas de compreensão, e o artigo de BERT mostrou que uma camada de saída relativamente pequena podia ser adicionada durante o fine-tuning para diversas tarefas.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "32f3c7d144f036a0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-51",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 51,
+    "text": "isto é, maximizar a probabilidade do próximo token dadas apenas as posições anteriores.",
+    "cited_markers": [
+      "[6]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d",
+      "2cab3ea10b8b7ae2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-52",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 52,
+    "text": "A máscara causal é crucial porque impede que o modelo “veja a resposta” durante o treinamento.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-53",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 53,
+    "text": "Essa formulação também coincide naturalmente com a geração: dado um prefixo, calcula-se uma distribuição para o token seguinte, escolhe-se ou amostra-se um token e repete-se o processo.",
+    "cited_markers": [
+      "[6]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d",
+      "2cab3ea10b8b7ae2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-54",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 54,
+    "text": "O GPT original articulou explicitamente a combinação de pré-treinamento generativo não supervisionado em texto com ajuste supervisionado posterior.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-55",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 55,
+    "text": "GPT-3 ampliou substancialmente essa estratégia, chegando a 175 bilhões de parâmetros e demonstrando capacidades *zero-shot*, *one-shot* e *few-shot* por condicionamento no prompt, sem atualizar os pesos para cada tarefa em tempo de inferência.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "2cab3ea10b8b7ae2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-56",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 56,
+    "text": "T5 representa a terceira família: um Transformer encoder-decoder no qual diversas tarefas são formuladas uniformemente como transformação de texto em texto.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "887da5f02141c29f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-57",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 57,
+    "text": "O encoder pode construir uma representação bidirecional da entrada, enquanto o decoder produz a saída causalmente e consulta o encoder por cross-attention.",
+    "cited_markers": [
+      "[1]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "887da5f02141c29f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-58",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 58,
+    "text": "Essa separação é útil conceitualmente em problemas em que existe uma entrada claramente distinta de uma saída, como tradução e sumarização.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "887da5f02141c29f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-59",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 59,
+    "text": "O pré-treinamento produz um modelo geral, mas não necessariamente um assistente que segue instruções humanas.",
+    "cited_markers": [
+      "[6]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d",
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-60",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 60,
+    "text": "O trabalho InstructGPT sistematizou uma etapa de pós-treinamento em três movimentos: primeiro, *supervised fine-tuning* sobre demonstrações escritas por humanos; depois, coleta de comparações humanas entre respostas para treinar um modelo de recompensa; por fim, otimização da política linguística segundo essa recompensa, usando PPO no experimento descrito.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-61",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 61,
+    "text": "Os avaliadores do estudo chegaram a preferir um modelo InstructGPT de 1,3 bilhão de parâmetros ao GPT-3 de 175 bilhões em sua distribuição de prompts, ilustração de que alinhamento e qualidade comportamental não são simples funções do número de parâmetros.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-62",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 62,
+    "text": "RLHF, contudo, não substitui pré-treinamento nem cria um verificador lógico de verdade; ele modifica o comportamento do modelo com base no sinal fornecido por preferências e pelo modelo de recompensa.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-63",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 63,
+    "text": "O próprio trabalho reporta que erros e limitações permanecem após o alinhamento.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-64",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 64,
+    "text": "A maior fraqueza algorítmica da self-attention densa aparece diretamente em \\(QK^\\top\\): para \\(n\\) tokens há \\(n^2\\) pares query-key.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-65",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 65,
+    "text": "Com dimensão \\(d\\), a ordem de trabalho é \\(O(n^2d)\\); em implementações convencionais que armazenam explicitamente scores ou probabilidades, também surge um tensor intermediário de tamanho \\(O(n^2)\\) por cabeça ou lote.",
+    "cited_markers": [
+      "[1]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-66",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 66,
+    "text": "Dobrar a sequência, portanto, pode aproximadamente quadruplicar a parte quadrática da atenção, mesmo sem aumentar os parâmetros do modelo.",
+    "cited_markers": [
+      "[1]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-67",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 67,
+    "text": "Longformer troca atenção global completa por uma janela deslizante local complementada por posições com atenção global, obtendo custo que cresce linearmente com o comprimento quando a largura da janela é mantida fixa.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "2f4185a6336708d8"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-68",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 68,
+    "text": "Essa estratégia é adequada a documentos longos porque muitos vínculos importantes são locais, enquanto alguns tokens escolhidos podem funcionar como canais globais.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "2f4185a6336708d8"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-69",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 69,
+    "text": "Reformer substitui a busca exaustiva por pares por atenção baseada em *locality-sensitive hashing*, agrupando queries e keys provavelmente semelhantes e reduzindo, na formulação do artigo, a complexidade da atenção de \\(O(L^2)\\) para aproximadamente \\(O(L\\log L)\\).",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "db62100d4f40075e"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-70",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 70,
+    "text": "O trabalho também emprega camadas residuais reversíveis para evitar manter todas as ativações intermediárias durante o backpropagation.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "db62100d4f40075e"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-71",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 71,
+    "text": "Performer toma outra rota: aproxima a matriz de atenção softmax por meio do mecanismo FAVOR+, baseado em *random features*, de modo a reorganizar o cálculo sem materializar todos os pares de tokens.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "abee5142f9553110"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-72",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 72,
+    "text": "O método reivindica complexidade linear em tempo e espaço em relação ao comprimento da sequência, mediante uma aproximação controlada da atenção softmax.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "abee5142f9553110"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-73",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 73,
+    "text": "FlashAttention resolve um problema diferente e, por isso, é incorreto descrevê-lo simplesmente como “atenção linear”.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-74",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 74,
+    "text": "O algoritmo continua calculando atenção densa exata e, portanto, não remove o número quadrático de interações matemáticas; a inovação é fazer *tiling* e recomputação de maneira consciente da hierarquia de memória, reduzindo leituras e escritas caras entre a memória de alta largura de banda da GPU e a SRAM local.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-75",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 75,
+    "text": "Assim, ele evita materializar grandes matrizes intermediárias e pode produzir grandes ganhos práticos de memória e velocidade sem alterar a função de atenção calculada.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-76",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 76,
+    "text": "A distinção é central: Performer, Longformer e Reformer modificam ou aproximam a estrutura da atenção; FlashAttention otimiza a execução da atenção densa.",
+    "cited_markers": [
+      "[10]",
+      "[11]",
+      "[12]",
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701",
+      "abee5142f9553110",
+      "2f4185a6336708d8",
+      "db62100d4f40075e"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-77",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 77,
+    "text": "*Chunking* ou processamento em blocos é outra família de técnicas: divide-se a sequência em blocos que podem ser processados ou comunicados separadamente, reduzindo o pico de memória e tornando possível distribuir contextos muito extensos.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "958844d4171dd73c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-78",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 78,
+    "text": "Ring Attention combina atenção em blocos com uma topologia em anel na qual cada dispositivo mantém parte dos estados e recebe blocos de keys e values de vizinhos, procurando sobrepor comunicação e computação.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "958844d4171dd73c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-79",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 79,
+    "text": "O contexto suportável pode então crescer com o número de dispositivos, embora o método não transforme as interações densas em uma operação matematicamente linear.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "958844d4171dd73c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-80",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 80,
+    "text": "Native Sparse Attention, publicada em 2025, ilustra uma linha mais recente de atenção esparsa projetada explicitamente em conjunto com características do hardware.",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "74cf7186aa6d419e"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-81",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 81,
+    "text": "NSA combina compressão hierárquica de tokens, seleção fina de posições e atenção local, e seus autores relatam acelerações em sequências de 64 mil tokens tanto no treinamento quanto na inferência em comparação com full attention.",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "74cf7186aa6d419e"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-82",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 82,
+    "text": "A eficiência do algoritmo de atenção, contudo, é apenas uma parte da engenharia de LLMs. *Mixed-precision training* usa formatos numéricos menores para grande parte da aritmética, mantendo operações ou estados sensíveis em maior precisão e empregando técnicas como *loss scaling* para evitar perda de gradientes pequenos; o trabalho clássico de Micikevicius et al. demonstrou treinamento FP16 com cópias mestres FP32 e redução substancial de uso de memória.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "1718c427cff7b5e5"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-83",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 83,
+    "text": "Frameworks atuais, como PyTorch, expõem suporte explícito a *automatic mixed precision* por meio de `torch.amp`.",
+    "cited_markers": [
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "baefbf7b29b7555f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-84",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 84,
+    "text": "Quando um único acelerador não comporta o modelo, o paralelismo tensorial distribui partes das grandes multiplicações matriciais de uma mesma camada por diferentes dispositivos; Megatron-LM demonstrou essa estratégia em Transformers de múltiplos bilhões de parâmetros.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "09b3a2927fbd8693"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-85",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 85,
+    "text": "O paralelismo em pipeline, exemplificado por GPipe, distribui conjuntos de camadas sequenciais entre aceleradores e divide lotes em microbatches para manter vários estágios ocupados simultaneamente.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "c00b8dae0f8e596c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-86",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 86,
+    "text": "ZeRO ataca a redundância do paralelismo de dados: em vez de cada worker manter cópias completas de todos os estados necessários ao treinamento, os dados são particionados entre workers.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "1480e50475d6c98e"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-87",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 87,
+    "text": "A progressão conhecida como ZeRO-1, ZeRO-2 e ZeRO-3 particiona sucessivamente estados do otimizador, gradientes e parâmetros, permitindo que a memória agregada do cluster seja usada para modelos muito maiores.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "1480e50475d6c98e"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-88",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 88,
+    "text": "Na prática, treinamento de LLMs de grande escala combina várias dimensões — dados, tensores, pipeline e sharding — em vez de existir uma única técnica universal de paralelização.",
+    "cited_markers": [
+      "[20]",
+      "[21]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "1480e50475d6c98e",
+      "09b3a2927fbd8693",
+      "c00b8dae0f8e596c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-89",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 89,
+    "text": "Um modelo autoregressivo é treinado para atribuir probabilidade ao próximo token condicionado ao contexto, não para executar por definição uma consulta a uma base de fatos verificada.",
+    "cited_markers": [
+      "[6]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d",
+      "2cab3ea10b8b7ae2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-90",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 90,
+    "text": "Por isso, texto linguisticamente plausível pode conter entidades inventadas, relações incorretas ou justificativas sem fundamento; relatórios de modelos de grande escala continuam identificando alucinações como uma limitação mesmo após pós-treinamento.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "29a0882390ee7063"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-91",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 91,
+    "text": "TruthfulQA mostrou de forma particularmente clara que aumentar escala não garante verdade factual: no conjunto de 817 perguntas construído para provocar concepções equivocadas comuns, os modelos avaliados no estudo permaneceram muito abaixo do desempenho humano em veracidade, e os maiores modelos testados não foram sistematicamente os mais verdadeiros.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "fe2a3307a3dae3e5"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-92",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 92,
+    "text": "Esse resultado não significa que modelos maiores sejam sempre menos corretos; significa que a otimização da probabilidade linguística e a otimização da verdade são objetivos distintos.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "fe2a3307a3dae3e5"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-93",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 93,
+    "text": "LLMs aprendem regularidades de grandes corpora produzidos socialmente, que contêm estereótipos, assimetrias de representação, linguagem ofensiva e outros padrões indesejáveis.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "6f93afc00a76b64a"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-94",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 94,
+    "text": "Bender et al. chamaram atenção para riscos associados à escala indiscriminada de corpora e modelos, incluindo reprodução de vieses, dificuldades de documentação e custos sociais e ambientais.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "6f93afc00a76b64a"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-95",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 95,
+    "text": "Técnicas de alinhamento podem reduzir determinadas classes de comportamento, mas não demonstram eliminação geral de vieses ou riscos.",
+    "cited_markers": [
+      "[9]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0",
+      "6f93afc00a76b64a"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-96",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 96,
+    "text": "O número máximo de tokens aceitos e a capacidade de usar corretamente todos esses tokens não são a mesma coisa.",
+    "cited_markers": [
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "6ee83218472b4aa1"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-97",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 97,
+    "text": "Em *Lost in the Middle*, Liu et al. observaram que modelos de longo contexto podiam apresentar desempenho muito melhor quando a informação relevante aparecia no início ou no fim do prompt e pior quando ela estava no meio, tanto em question answering multidocumento quanto em recuperação de pares chave-valor.",
+    "cited_markers": [
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "6ee83218472b4aa1"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-98",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 98,
+    "text": "Assim, anunciar uma janela maior é uma propriedade de capacidade de entrada, não uma prova de recuperação uniforme ou raciocínio perfeito sobre todo o conteúdo.",
+    "cited_markers": [
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "6ee83218472b4aa1"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-99",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 99,
+    "text": "A OWASP caracteriza *prompt injection* como a manipulação da entrada de um LLM para alterar seu comportamento esperado, potencialmente contornando instruções, expondo dados ou desencadeando ações indevidas quando o modelo possui acesso a ferramentas.",
+    "cited_markers": [
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "1f3eaa75f7a21064"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-100",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 100,
+    "text": "O problema torna-se especialmente relevante para agentes e aplicações RAG, porque textos recuperados de fontes externas podem conter instruções adversariais juntamente com conteúdo legítimo.",
+    "cited_markers": [
+      "[14]",
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "02ad74cdb0c9081f",
+      "1f3eaa75f7a21064"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-101",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 101,
+    "text": "YaRN propôs adaptar embeddings posicionais rotacionais para estender a janela de modelos existentes com menos treinamento adicional, reportando extensões de contexto de até 128 mil tokens em seus experimentos.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "021ecc8cb34e2fbb"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-102",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 102,
+    "text": "LongNet introduziu *dilated attention*, com o objetivo de manter crescimento aproximadamente linear de computação e caminhos logarítmicos de dependência, e apresentou experimentos de escala superior a um bilhão de tokens; esse resultado deve ser entendido como demonstração experimental de arquitetura, não como evidência de que LLMs convencionais usem um bilhão de tokens com fidelidade uniforme.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "dfc666458a07fb9c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-103",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 103,
+    "text": "Infini-attention combina atenção local mascarada com uma memória compressiva de longo prazo, buscando manter requisitos de memória limitados mesmo quando o histórico cresce.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "21b8c0494c3c6e8c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-104",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 104,
+    "text": "Os autores reportaram experimentos incluindo recuperação em sequências de até um milhão de tokens e sumarização de livros muito extensos.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "21b8c0494c3c6e8c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-105",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 105,
+    "text": "Como toda memória comprimida, a proposta muda a questão de “armazenar todos os pares de tokens” para “decidir que informação resumida deve persistir”, isto é, resolve um gargalo introduzindo outro problema de representação.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "21b8c0494c3c6e8c"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-106",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 106,
+    "text": "RAG oferece uma solução conceitualmente diferente: em vez de tentar colocar todo o conhecimento nos parâmetros ou toda a evidência no contexto permanente, um componente de recuperação procura documentos relevantes em uma memória não paramétrica e os fornece ao gerador quando necessários.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "02ad74cdb0c9081f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-107",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 107,
+    "text": "No trabalho original, Lewis et al. combinaram um retriever neural sobre uma base de Wikipedia com um modelo seq2seq e obtiveram ganhos em tarefas intensivas em conhecimento.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "02ad74cdb0c9081f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-108",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 108,
+    "text": "A vantagem arquitetural é separar parcialmente “saber produzir linguagem” de “encontrar evidência”, permitindo atualizar o acervo recuperável sem necessariamente retreinar todos os parâmetros.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "02ad74cdb0c9081f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-109",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 109,
+    "text": "RAG, porém, não elimina erro factual: se o retriever selecionar documentos irrelevantes, se as fontes forem incorretas ou se o gerador ignorar a evidência, a saída ainda pode falhar.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "02ad74cdb0c9081f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-110",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 110,
+    "text": "FlashAttention reduz o custo de movimentação de memória sem aproximar a atenção; Performer aproxima a operação; Longformer e NSA tornam as conexões esparsas; Ring Attention distribui blocos; YaRN altera a capacidade de extrapolação posicional; Infini-attention comprime história; e RAG desloca uma parte da memória para um sistema externo.",
+    "cited_markers": [
+      "[10]",
+      "[11]",
+      "[12]",
+      "[14]",
+      "[15]",
+      "[17]",
+      "[18]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701",
+      "abee5142f9553110",
+      "2f4185a6336708d8",
+      "02ad74cdb0c9081f",
+      "958844d4171dd73c",
+      "21b8c0494c3c6e8c",
+      "021ecc8cb34e2fbb",
+      "74cf7186aa6d419e"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-111",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 111,
+    "text": "Essas soluções são complementares porque “contexto longo” envolve ao menos quatro problemas diferentes: custo aritmético, memória dos aceleradores, codificação de posição e capacidade efetiva de localizar e utilizar informação relevante.",
+    "cited_markers": [
+      "[10]",
+      "[18]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701",
+      "021ecc8cb34e2fbb",
+      "6ee83218472b4aa1"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-112",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 112,
+    "text": "Em perspectiva, o Transformer tornou-se a base dos LLMs não porque tenha eliminado todos os gargalos da modelagem sequencial, mas porque converteu o problema em grandes operações matriciais paralelizáveis, combinou acesso flexível ao contexto com aprendizado end-to-end e criou uma interface arquitetural na qual melhorias algorítmicas, de hardware e de treinamento podem ser acumuladas.",
+    "cited_markers": [
+      "[1]",
+      "[10]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "5727fed78bddc701",
+      "1480e50475d6c98e",
+      "09b3a2927fbd8693"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-113",
+    "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+    "position": 113,
+    "text": "O desafio contemporâneo é preservar essas vantagens à medida que contexto, parâmetros, dados e autonomia dos sistemas aumentam, sem tratar escala como substituta de eficiência, factualidade ou segurança.",
+    "cited_markers": [
+      "[9]",
+      "[23]",
+      "[26]",
+      "[27]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0",
+      "fe2a3307a3dae3e5",
+      "1f3eaa75f7a21064",
+      "74cf7186aa6d419e",
+      "6ee83218472b4aa1"
+    ]
+  }
+]

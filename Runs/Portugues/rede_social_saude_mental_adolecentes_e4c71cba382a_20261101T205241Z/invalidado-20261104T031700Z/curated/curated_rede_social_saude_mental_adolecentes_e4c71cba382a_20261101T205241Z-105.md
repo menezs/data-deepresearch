@@ -1,0 +1,43 @@
+[referencia=810bcadc983e6b50 score=0.089]
+## Brain rot?
+
+
+Among the new words added to the Oxford Dictionary in 2024 were ‘doomscrolling’ and ‘brain-rot’. Both are symbols of the omnipresence of unhealthy social media usage driven by artificial intelligence algorithms. The 2023 GEM Report showed that *some* technology can support *some* learning in *some* contexts, but not when it is overused or inappropriately used. Having a smartphone in class can disrupt learning. One study which looked at pre-primary through to higher education in 14 countries found that it distracted students from learning. Even just having a mobile phone nearby with notifications coming through is enough to result in students losing their attention from the task at hand.  Another study found that it can take students up to 20 minutes to refocus on what they were learning once distracted.  Removing smartphones from schools in Belgium, Spain and the United Kingdom was found to improve learning outcomes, according to a study cited in the report, especially for students that were not performing as well as their peers. 
+
+In addition to the impact on learning, there are also privacy concerns when specific applications collect user data unnecessary for these applications to work. As of 2023, only 16% of countries explicitly guaranteed data privacy in education by law, however. One analysis found that 89% of 163 education technology products recommended during the pandemic could survey children. Further, 39 of 42 governments providing online education during the pandemic fostered uses that risked or infringed on children’s rights.
+
+The 2024 Gender version of our report, Technology on her terms, also laid out the way that technology in practice often exacerbates negative gender norms or stereotypes. Social media use in particular impacts girls’ well-being and self-esteem. The ease with which cyberbullying can be magnified through the use of online devices in the school environment is a cause of concern, as is the biased design of artificial intelligence algorithms.
+
+The GEM Report calls for decisions about technology in education to prioritize the needs of the learner, making sure that any uses of technology are appropriate, equitable, scalable and sustainable.
+
+Students need to learn the risks and opportunities that come with technology and not be shielded from them entirely. But countries need to give better guidance on what technology is allowed in school and what is not, and on its responsible use. Only technology that has a clear role in supporting learning should be allowed in school.
+
+---
+
+[referencia=810bcadc983e6b50 score=0.005]
+**The** **2023 Global Education Monitoring Report** **argued for technology to be used in class only when it supports learning outcomes. This message includes the use of smartphones.**  
+
+By the end of 2023, 60 education systems (or 30%) had bans on smartphone use in schools in their laws or policies. By the end of 2024, an update that the GEM Report has prepared for the International Day of Education finds that 19 more education systems were banning the use of smartphones in school, bringing the total to 79 (or 40%). These regulations are described in the GEM Report’s Profiles Enhancing Education Reviews (**PEER**) website, which monitors the laws and policies on technology in education around the world. 
+
+**Percentage of education systems with laws and policies banning smartphone use in school, by SDG region, end of 2024** 
+
+*Source: GEM Report PEER profiles,* *www.education-profiles.org* 
+
+
+In some cases, some bans have become more stringent in the last year. In China, the city of Zhengzhou further restricted the use of phones in primary and secondary schools, demanding that parents provide written consent that a phone was really needed for pedagogical reasons. In France, a ‘digital break‘ was suggested in lower secondary schools as an add-on to the already existing phone ban at other education levels. At the opposite end, Saudi Arabia reversed its ban due to the opposition by disability groups for medical purposes.
+
+This mapping did not include all sub-national jurisdictions in federal countries, although four were assessed in detail. For example, In Australia, two of the nine territories (New South Wales and South Australia) have introduced bans, while in Spain, all but 3 of the 17 autonomous communities (Basque Country, La Rioja, Navarre) have introduced bans. in the United States, 20 out of its 50 states have regulations now in place, from the Phone-Free School Act in California to the phone ban for K-12 classrooms in Florida, the ban on students using portable wireless device in Indiana and another ban in Ohio.
+
+---
+
+[referencia=810bcadc983e6b50 score=0.002]
+In some of these new regulations in the United States, however, one approach is to issue guidelines, but leave it to schools to define the precise policies on usage in class. In Indiana, for example, school boards have to draft and publicly post specific policies for their schools saying whether students can access their phones during lunch and what consequences the students may face for using prohibited devices. In addition, sometimes there are exceptions, such as for learners who require learning accommodations in the Louisiana ban, and for anyone with a health condition that requires monitoring in Ohio.
+
+**State education systems with laws and policies banning smartphone use in school in the United States, end of 2024** 
+
+We saw children as young as nine years old requesting smartphones, and it was evident that these children were not emotionally ready to navigate the complexities of these devices and the digital world.
+
+---
+
+[referencia=810bcadc983e6b50 score=0.002]
+The digital revolution holds immeasurable potential but, just as warnings have been voiced for how it should be regulated in society, similar attention must be paid to the way it is used in education.

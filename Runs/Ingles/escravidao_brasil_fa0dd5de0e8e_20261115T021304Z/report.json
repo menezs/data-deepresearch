@@ -1,0 +1,959 @@
+{
+  "run_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+  "answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Ingles/Claude/Consolidado/escravidao_brasil.md",
+  "generated_at": "2026-11-15T02:40:21.971210Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 26966,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 133,
+    "citation_markers_distinct": 34,
+    "references_listed": 34,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 104,
+  "pct_supported": 83.65384615384616,
+  "pct_unsupported": 14.423076923076922,
+  "pct_contradicted": 0.9615384615384616,
+  "count_supported": 87,
+  "count_unsupported": 15,
+  "count_contradicted": 1,
+  "count_skipped": 1,
+  "count_audited": 103,
+  "pct_supported_audited": 84.46601941747572,
+  "pct_unsupported_audited": 14.563106796116504,
+  "pct_contradicted_audited": 0.9708737864077669,
+  "count_partially_supported": 31,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 1
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 0,
+  "count_reclassified_by_verification": 7,
+  "verification_stage_counts": {
+    "context_expansion": 6,
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 3,
+  "uncredited_reference_count": 0,
+  "dead_references": [
+    {
+      "id": "919d68b52a3d8f2b",
+      "citation_markers": [
+        "[31]"
+      ],
+      "raw_url": "https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime",
+      "normalized_url": "https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime",
+      "work_key": "https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime",
+      "title": "31. Ambulatin (Substack), \"When capoeira was a crime\".",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-11-15T02:14:39.678301Z",
+      "error_message": "Referencia nao encontrada (404): https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime",
+      "barrier_kind": null,
+      "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "inaccessible_references": [],
+  "blocked_references": [],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z-90",
+      "reason": "Referencia(s) citada(s) ['919d68b52a3d8f2b'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "b6a77a65a43cef02",
+      "url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+      "times_cited": 12,
+      "supported_count": 10,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 8,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        22,
+        23,
+        24,
+        25,
+        30,
+        31,
+        32,
+        33
+      ],
+      "partial_positions": [
+        3,
+        26,
+        29,
+        98
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o país, que havia aprovado uma lei em 1807 abolindo o tráfico em suas colônias, passou a arrancar de outras nações acordos de proibição desse tipo de comércio e a fiscalizar os mares. A partir de 1834, quando pôs fim à escravidão em suas possessões, pressionou para que o resto do mundo fizesse a mesma coisa.",
+      "key_excerpt_position": 22
+    },
+    {
+      "reference_id": "78bdc00c6dc3352f",
+      "url": "https://www.congressoemfoco.com.br/noticia/118759/congresso-viveu-65-anos-de-recuos-e-leis-graduais-ate-a-lei-aurea",
+      "times_cited": 9,
+      "supported_count": 9,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        41,
+        43,
+        46,
+        64,
+        99
+      ],
+      "partial_positions": [
+        44,
+        82,
+        98
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Não previu transição, indenização aos proprietários nem política de integração para os libertos.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "f00b5854d4684018",
+      "url": "https://vermelho.org.br/2016/05/13/a-abolicao-uma-revolucao-pela-metade/",
+      "times_cited": 9,
+      "supported_count": 8,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        54,
+        59,
+        66,
+        69
+      ],
+      "partial_positions": [
+        4,
+        58,
+        60,
+        71
+      ],
+      "absent_positions": [
+        73
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Joaquim Nabuco, o mais destacado líder essa corrente dizia que era preciso trazer a abolição das ruas para o Parlamento.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "c9ecf3e661478b7d",
+      "url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/cem-anos-da-morte-da-princesa-isabel-a-regente-que-reinou-alem-do-machismo",
+      "times_cited": 8,
+      "supported_count": 7,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        42,
+        63,
+        67,
+        74
+      ],
+      "partial_positions": [
+        4,
+        5,
+        60,
+        72
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Apenas dois dias após ter sancionado a Lei do Ventre Livre — que fixou a data de 28 de setembro de 1871 como o marco a partir do qual as mulheres escravizadas dariam à luz crianças livres —, a princesa imperial, grávida, fez sua primeira fala à Assembleia Geral",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "ccfa7b1e3cfd7147",
+      "url": "https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos",
+      "times_cited": 7,
+      "supported_count": 6,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      "partial_positions": [
+        3,
+        98
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O projeto número 48 foi apresentado à Câmara dos Deputados em 15 de julho de 1884 pelo deputado Rodolfo Dantas, do Partido Liberal. A proposta dispunha sobre a emancipação dos escravos por idade igual ou superior a 60 anos [...] O principal ponto de discórdia, porém, não estava no teor do Projeto Dantas, mas naquilo que ele não previu: a indenização aos proprietários dos escravos alforriados. [...] No mesmo dia, o presidente da Câmara, Moreira Barros, demitiu-se da Presidência da Casa por não concordar com o projeto. A crise cresceu e, em setembro, a Câmara foi dissolvida pelo imperador por incompatibilidade com o gabinete de ministros.",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "74709e434e5374b6",
+      "url": "https://en.wikipedia.org/wiki/Abolitionism_in_Brazil",
+      "times_cited": 7,
+      "supported_count": 4,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        53
+      ],
+      "partial_positions": [
+        3,
+        45,
+        55,
+        57,
+        58,
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In 1880, important politicians, such as Joaquim Nabuco and José do Patrocínio, created, in Rio de Janeiro, the Brazilian Society Against Slavery [...] With the amalgamation of 13 associations, the Brazilian Abolitionist Confederation was founded on August 13, 1883",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "22ecc9a88862477f",
+      "url": "https://library.brown.edu/create/fivecenturiesofchange/?p=78",
+      "times_cited": 6,
+      "supported_count": 4,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        6,
+        62,
+        83
+      ],
+      "partial_positions": [
+        88,
+        100
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [
+        86
+      ],
+      "not_audited_positions": [],
+      "key_excerpt": "the Province of São Paulo used state funds to support the society's efforts to recruit European immigrants to Brazil to work as agricultural laborers. By 1895, the state government had fully taken over the responsibilities of the Society, subsidizing passage to São Paulo, constructing an immigrant reception center in the capital, and paying the administrative costs for immigrant job placement.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "3bc339d423969206",
+      "url": "https://warwick.ac.uk/fac/arts/history/students/modules/hi3s9/programme/abolition/graden_abolition_of_slave_trade_historia_unisinos.pdf",
+      "times_cited": 6,
+      "supported_count": 5,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        21,
+        23,
+        34
+      ],
+      "partial_positions": [
+        26,
+        28,
+        29
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Memory of the revolt combined with various manifestations of slave resistance in its wake played a role in shaping imperial politics and decisions from 1848 to 1851. It is a key variable that forced a halt to the trans-Atlantic slave trade to Brazil at mid-century.",
+      "key_excerpt_position": 21
+    },
+    {
+      "reference_id": "6e3e03f69cd8d1a2",
+      "url": "https://en.wikipedia.org/wiki/Lei_%C3%81urea",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        39
+      ],
+      "partial_positions": [
+        2,
+        10,
+        52,
+        82
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pedro II was also influenced by the American Civil War, writing in 1864 that the future of slavery in Brazil must be questioned in fear of internal conflict. ... The Paraguayan War (1864-1870) was a significant factor in changing pro-slavery sentiment among Brazilian military members. Officers, having fought alongslide enlisted slaves, became increasingly skeptical of the institution of slavery",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "e739cd1e0b5e5fb0",
+      "url": "https://rioonwatch.org/?p=21879",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        9,
+        12
+      ],
+      "partial_positions": [
+        2,
+        11,
+        28
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In the study, 35,000 voyages were catalogued [...] According to the research, close to 4.8 million slaves arrived in coastal Brazil. [...] Maurício Goulart, who published 'African Enslavement in Brazil' in 1949. In his work, he confirmed that Brazil received 3.6 million slaves. [...] \"The research figures could be even bigger. We are preparing an update for the upcoming years,\" says the historian and coordinator of the study, David Eltis.",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "7cae18c31cf69814",
+      "url": "https://repositorio.ipea.gov.br/bitstream/11058/14231/1/_A_economia_da_escravidao_nas_fazendas_%20de_cafe.pdf",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        15,
+        16,
+        38
+      ],
+      "partial_positions": [
+        73,
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Zona Oeste do Vale do Medio Paraíba representa a região onde existiram as primeiras fazendas de café nas décadas de 20 e 30 [...] A totalidade do processo abolicionista foi realizada durante a fase ascendente do ciclo do café na economia brasileira. Na segunda metade do século XIX, o cultivo do café já se tornara a atividade econômica mais importante do país [...] Dessa área efetivamente plantada com café, em 1884, a área do Rio possuía 700 mil ha (80,5%) e a de Santos 132 mil ha (19,5%).",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "bf0927ab1980dfdb",
+      "url": "https://www.gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/minisites/memoriaescravidao/copy_of_pdfs/04-roteiro-de-atividades-pedagogicas-as-indenizacoes.pdf",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        75,
+        76
+      ],
+      "partial_positions": [
+        5,
+        79
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O documento aborda o apoio repentino dos ex-senhores de escravizados à causa republicana (movimento conhecido como os \"republicanos de 14 de maio\") e a exigência de indenizações financeiras por parte dessa elite agrária em contraposição à Monarquia abolicionista. [...] O motivo foi ridicularizar e criticar abertamente a hipocrisia e o oportunismo econômico dos proprietários de terras, que fingiam aderir aos ideais republicanos apenas para defender seus interesses financeiros feridos. [...] A crítica focaliza o oportunismo dessa classe social, que passou a apoiar o novo regime não por idealismo político, mas por ressentimento contra o Estado imperial, que aboliu a escravidão sem lhes conceder nenhuma indenização financeira. [...] BARBOSA, Rui. A queima dos arquivos. Apresentação de Francisco de Assis Barbosa. Fundação Casa de Rui Barbosa.",
+      "key_excerpt_position": 75
+    },
+    {
+      "reference_id": "9d0b6683c24c345f",
+      "url": "https://en.wikipedia.org/wiki/Burning_of_slavery_records_in_Brazil",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        81
+      ],
+      "partial_positions": [
+        27,
+        103
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [
+        80
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It is believed that Barbosa issued the document with the intention that former slave owners would not be able to seek compensation after the abolition of slavery by the Golden Law on 13 May 1888. On the other hand, it is also believed that the burning of records prevented former slaves from having access to the dates of their purchases, which, in theory, could be used to demand compensation for having been illegally enslaved... Historians of Brazil have so often repeated the myth that the documents on slavery were destroyed in the fervor of abolition that they have sometimes led themselves to believe it. While it is true that much documentation is now lost, there remain a wide variety of sources that simply have not been adequately exploited.",
+      "key_excerpt_position": 81
+    },
+    {
+      "reference_id": "a28c1b9965cf552c",
+      "url": "https://mais.opovo.com.br/reportagens-especiais/dragoes-do-ceara/2021/08/28/140-anos-da-greve-contra-a-escravidao-a-jangada-perdida-do-dragao-do-mar.html",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        56
+      ],
+      "partial_positions": [
+        55,
+        57,
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 1881, duas greves de jangadeiros cearenses impulsionaram o movimento pela libertação de escravizados no Brasil. Em janeiro, a revolta puxada por brancos abastados da Sociedade Cearense Libertadora (SCL) e protagonizada, na praia, pelos alforriados José Luís Napoleão, Tia Simoa. Em 30 de agosto de 1881, na data que completa 140 anos nesta segunda-feira, o segundo e mais famoso movimento foi liderado por Francisco José do Nascimento",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "b207789033ad6612",
+      "url": "https://www.britannica.com/place/Brazil/The-collapse-of-the-empire",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        77,
+        78,
+        79,
+        84
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Many historians have ascribed the fall of the monarchy to a restive military, a brooding landed aristocracy, and a resentful clergy. Indeed, those three powerful groups were increasingly critical of the emperor.",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "a190f10445b652b4",
+      "url": "https://www.jb.com.br/pais/noticias/2012/04/26/amp/por-unanimidade-stf-declara-constitucional-cotas-para-negros-nas-universidades.html",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        7
+      ],
+      "partial_positions": [
+        95,
+        102
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A hora trabalhada de uma pessoa branca vale 67,7% mais que a de trabalhadores pretos e pardos.",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "e82fd61caeac9b1b",
+      "url": "https://en.wikipedia.org/wiki/Slavery_in_Brazil",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        17,
+        18
+      ],
+      "partial_positions": [
+        10
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In 1872, the population of Brazil was 10 million, and 15% were slaves. As a result of widespread manumission (easier in Brazil than in North America[50]), by this time approximately three quarters of the blacks and mulattoes in Brazil were free.[51]",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "098166ab43bc3abe",
+      "url": "https://www.redalyc.org/pdf/770/77002404.pdf",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        36,
+        37
+      ],
+      "partial_positions": [
+        35
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O tráfico interprovincial, somente no auge, entre 1873 e 1881, transportou 90 mil negros para o sudeste, através dos portos de Santos e, principalmente, do Rio de Janeiro.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "0ce7490469f2e658",
+      "url": "https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-3/slavery-and-aboliton/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        40,
+        61
+      ],
+      "partial_positions": [
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Since their enlistment in the Army, many slaves had proven their worth on the battlefield, a realization that caused officers to be increasingly skeptical of the institution of slavery and unwilling to fulfill the Army's responsibility to recover runaway slaves.",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "bfef16fbfb6faa86",
+      "url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        70
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Princeza Imperial Regente, em nome de Sua Majestade o Imperador, o Senhor D. Pedro II, Faz saber a todos os subditos do Imperio que a Assembléa Geral Decretou e Ella Sanccionou a Lei seguinte: Art. 1º É declarada extincta desde a data d'esta Lei, a escravidão no Brazil. Art. 2º Revogam-se as disposições em contrário.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "269c825e35717d8a",
+      "url": "https://agenciagov.ebc.com.br/noticias/202312/censo-2022-mostra-que-45-da-populacao-brasileira-e-pardos-e-43-5-branca",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        92
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 2022, cerca de 92,1 milhões de pessoas se declararam pardas, o equivalente a 45,3% da população do país. Desde 1991, esse contingente não superava a população branca, que chegou a 88,2 milhões (ou 43,5% da população do país). Outras 20,6 milhões se declaram pretas (10,2%)",
+      "key_excerpt_position": 92
+    },
+    {
+      "reference_id": "8b9e2d3868cc3f6d",
+      "url": "https://www.cut.org.br/noticias/hora-trabalhada-de-pessoa-branca-vale-67-7-mais-que-a-de-negros-ff0e/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        93
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 2022, cerca de 92,1 milhões de pessoas se declararam pardas, o equivalente a 45,3% da população do país. Desde 1991, esse contingente não superava a população branca, que chegou a 88,2 milhões (ou 43,5% da população do país). Outras 20,6 milhões se declaram pretas (10,2%)",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "3ca703b5535b0200",
+      "url": "https://legacy.slavevoyages.org/assessment/estimates",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        8
+      ],
+      "partial_positions": [
+        11
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Trans-Atlantic Slave Trade - Estimates ... Full extent of coverage by estimates is 1501 - 1866. ... Totals ... 12,521,337",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "ec165ed562f0ca68",
+      "url": "https://www.britannica.com/place/Brazil/Agriculture-and-prospecting",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        13,
+        14
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The sugar industry, confined primarily to the Northeast, was the principal source of Brazilian wealth from the 16th to the 18th century [...] Sugar production called for major investments in land, labor (i.e., enslaved people), and machinery",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "8860def82e166d56",
+      "url": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/male-rebellion",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        20
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [
+        19
+      ],
+      "not_audited_positions": [],
+      "key_excerpt": "During the entire revolt, over seventy Africans lost their lives. ... Floggings ranged from fifty to twelve hundred lashes. ... deportation to the African coast. ... National lawmakers responded to the Malês' revolt by passing an exceptional death penalty law that mandated death without ordinary recourse to appeal for any slave who killed or seriously injured his master, the overseer, or a member of either's family.",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "ba32c15d17dd3a49",
+      "url": "https://www.congressoemfoco.com.br/noticia/118766/quem-tentou-barrar-a-abolicao-da-escravatura-no-parlamento",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        44,
+        68
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Visconde de Itaboraí, também contrário ao Ventre Livre, advertiu que a liberdade dos filhos de mulheres escravizadas poderia estimular ressentimento nas senzalas e enfraquecer a autoridade dos senhores. Nos Anais do Senado, disse que a medida poderia produzir: \"agitação\", \"insubordinação\", \"destruição\" e \"desorganisação do trabalho\".",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "43fb7a7c9e24da6d",
+      "url": "https://www.em.com.br/app/noticia/politica/2013/05/11/interna_politica,386059/abolicao-da-escravatura-completa-125-anos-e-em-reconta-a-historia.shtml",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        65
+      ],
+      "absent_positions": [
+        72
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "cerca de 5 mil manifestantes que acompanharam a votação do projeto de lei que extingue a escravidão no país",
+      "key_excerpt_position": 65
+    },
+    {
+      "reference_id": "fe2a1fd7aee2a702",
+      "url": "https://revistas.usp.br/revhistoria/article/download/131955/128100/251977",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        87,
+        91
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a imigração européia trouxe ao \"desalojar\" o elemento negro como força de trabalho em São Paulo ao contrário dó que ocorreu por exemplo no Rio de Janeiro e Salvador, cidade-portos que abosorveram a força de trabalho escravo ou \"livre\" em inúmeras atividades. A cidade de São Paulo no final do século XIX e começo do XX passou absorver os imigrantes que passaram a ocupar todo tipo de trabalho assalariado existente ou mesmo a função de empresários.",
+      "key_excerpt_position": 87
+    },
+    {
+      "reference_id": "d3e69ff8f9cd56cc",
+      "url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/na-primeira-eleicao-presidencial-ha-120-anos-brasil-teve-eleitor-de-menos-e-candidato-demais",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        89
+      ],
+      "partial_positions": [
+        100
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O direito era negado a mulheres, analfabetos, mendigos, soldados rasos e religiosos sujeitos a voto de obediência. O eleitor devia ter ao menos 21 anos. Eram restrições brutais. As mulheres respondiam por metade da população. Os negros, recém-beneficiados pela Lei Áurea, eram quase todos iletrados. Numa população de 14,3 milhões de brasileiros, só 800 mil estavam habilitados a votar (5,6%).",
+      "key_excerpt_position": 89
+    },
+    {
+      "reference_id": "c4e40571ab41ef68",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/12/22/dia-da-consciencia-negra-se-torna-feriado-nacional",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        97
+      ],
+      "partial_positions": [
+        102
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "É o que determina a Lei 14.759, sancionada no dia anterior pelo presidente Luiz Inácio Lula da Silva. A data remete ao dia da morte de Zumbi, o líder do Quilombo dos Palmares",
+      "key_excerpt_position": 97
+    },
+    {
+      "reference_id": "cc9ae7b72cbad5d9",
+      "url": "https://en.wikipedia.org/wiki/Italo_Brazilian",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        85
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the boom of Italian immigration in Brazil happened between 1880 and 1900, when almost one million Italians arrived.",
+      "key_excerpt_position": 85
+    },
+    {
+      "reference_id": "919d68b52a3d8f2b",
+      "url": "https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        90
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "80130f680ba4d91a",
+      "url": "https://www.brasildefato.com.br/2026/05/26/homicidios-de-pessoas-negras-representam-77-do-total-de-assassinatos-no-brasil-aponta-atlas-da-violencia/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        94
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o Brasil registrou 32.820 homicídios de pessoas negras em 2024, o que corresponde a 77% do total de homicídios registrados naquele ano.",
+      "key_excerpt_position": 94
+    },
+    {
+      "reference_id": "08d43fbe4eddabdc",
+      "url": "https://www12.senado.leg.br/noticias/materias/2023/11/14/sancionada-ampliacao-da-lei-de-cotas",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        96
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Lei de Cotas (Lei 12.711, de 2012) reserva no mínimo 50% das vagas em universidades e institutos federais para estudantes que cursaram todo o ensino médio em escolas públicas. [...] Quilombolas passam a ser beneficiários pelo sistema. E a distribuição das vagas será feita de acordo com dados do Instituto Brasileiro de Geografia e Estatística (IBGE), considerando a proporção de indígenas, negros, pardos, quilombolas e pessoas com deficiência em cada unidade da federação. [...] O programa de cotas deverá ser avaliado a cada dez anos [...] O presidente Luiz Inácio Lula da Silva sancionou na segunda-feira (13) a Lei 14.723, de 2023, que reformula e amplia o sistema de cotas no ensino federal.",
+      "key_excerpt_position": 96
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z-35",
+      "position": 35,
+      "claim_excerpt": "An interprovincial trade moved enslaved people from the declining sugar Northeast and from the South to the coffee Southeast, and Robert Slenes estimates this forced migration at about 200,000 people…",
+      "cited_markers": "[22]",
+      "corroborating_markers": "[18] [16]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z-65",
+      "position": 65,
+      "claim_excerpt": "The Chamber approved it on 10 May by 83 votes to 9 as about 5,000 demonstrators gathered outside.",
+      "cited_markers": "[26]",
+      "corroborating_markers": "[3] [2] [8] [24] [9] [7] [20] [6]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z-95",
+      "position": 95,
+      "claim_excerpt": "In April 2012 the Supreme Federal Court unanimously upheld racial quotas at the University of Brasília, and Justice Luiz Fux wrote that the racial oppression of the slave era had left scars on school…",
+      "cited_markers": "[14]",
+      "corroborating_markers": "[16] [3] [20] [7] [11] [23]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1425539,
+  "cost_tracked": false,
+  "processing_time_seconds": 1637.716649
+}

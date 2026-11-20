@@ -1,0 +1,1800 @@
+[
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-0",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 0,
+    "text": "Segundo dados da pesquisa TIC Kids Online Brasil, conduzida pelo Centro Regional de Estudos para o Desenvolvimento da Sociedade da Informação (Cetic.br) sob os auspícios do Comitê Gestor da Internet no Brasil (CGI.br), cerca de 93% da população entre 9 e 17 anos é usuária ativa de internet no país, o que representa aproximadamente 24,5 a 25 milhões de crianças e adolescentes conectados.",
+    "cited_markers": [
+      "[3]",
+      "[5]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "463c3baf69530eff",
+      "d792272a4c67466d",
+      "6d7a7f6dc8d5c1a0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-1",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 1,
+    "text": "O levantamento estatístico indica que 83% dos jovens brasileiros de 9 a 17 anos que utilizam a internet possuem contas registradas em redes sociais.",
+    "cited_markers": [
+      "[1]",
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267",
+      "463c3baf69530eff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-2",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 2,
+    "text": "Quando essa proporção é analisada sob a ótica da faixa etária, observa-se que a adesão atinge 99% entre os adolescentes de 15 a 17 anos",
+    "cited_markers": [
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "463c3baf69530eff",
+      "d792272a4c67466d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-3",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 3,
+    "text": "situando-se em 58% na faixa de 13 a 14 anos",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "463c3baf69530eff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-4",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 4,
+    "text": "e alcançando a expressiva marca de 60% entre crianças de 9 e 10 anos.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-5",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 5,
+    "text": "A presença massiva de crianças com idade inferior a 13 anos em redes virtuais evidencia uma falha estrutural nos mecanismos de verificação de idade e governança das plataformas digitais, as quais estabelecem, em seus termos de uso, a idade mínima de 13 anos para a abertura de contas.",
+    "cited_markers": [
+      "[1]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267",
+      "a4b8c9d18ab41298"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-6",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 6,
+    "text": "No Brasil, 98% dos usuários de 9 a 17 anos acessam a internet por meio de telefones celulares",
+    "cited_markers": [
+      "[1]",
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267",
+      "463c3baf69530eff",
+      "d792272a4c67466d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-7",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 7,
+    "text": "e a posse do dispositivo próprio é reportada por 81% dos jovens dessa faixa etária.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "d792272a4c67466d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-8",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 8,
+    "text": "Enquanto o uso de computadores alcança 76% a 97% das crianças e adolescentes pertencentes às classes A e B, essa taxa despenca para 40% na classe C e para apenas 20% nas classes D e E.",
+    "cited_markers": [
+      "[3]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "463c3baf69530eff",
+      "d792272a4c67466d",
+      "a7262bc00a5e1391"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-9",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 9,
+    "text": "Para aproximadamente um terço dos jovens pertencentes às classes populares, o telefone celular pré-pago representa o único dispositivo de conectividade disponível no domicílio.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "d792272a4c67466d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-10",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 10,
+    "text": "Entre as crianças de 9 a 12 anos, as plataformas centradas no compartilhamento de vídeos representam a principal porta de entrada no universo online, sendo o YouTube o serviço mais utilizado por essa faixa etária (45%).",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "463c3baf69530eff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-11",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 11,
+    "text": "À medida que ingressam na adolescência inicial e média (13 a 14 anos), ocorre uma transição em direção a plataformas baseadas em imagens e vídeos curtos, destacando-se a preferência pelo Instagram (58%) e pelo TikTok.",
+    "cited_markers": [
+      "[3]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "463c3baf69530eff",
+      "88a21512fd0a814f"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-12",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 12,
+    "text": "Na adolescência tardia (15 a 17 anos), os aplicativos de comunicação instantânea direta assumem a centralidade das rotinas digitais, sendo o WhatsApp utilizado por 78% desse contingente populacional.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "463c3baf69530eff"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-13",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 13,
+    "text": "Nos Estados Unidos, o relatório do U.S. Surgeon General aponta que até 95% dos jovens com idades entre 13 e 17 anos utilizam redes sociais, dos quais cerca de dois terços afirmam usar essas plataformas diariamente e mais de um terço relata um uso quase constante.",
+    "cited_markers": [
+      "[8]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "ff463288c6133abe"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-14",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 14,
+    "text": "A ubiquidade da conectividade móvel estabelece um cenário no qual a arquitetura das mídias interativas passa a competir diretamente por tempo, atenção e recursos cognitivos dos jovens, sobrepondo-se a necessidades biológicas e psicossociais fundamentais para a saúde mental, tais como a arquitetura do sono, a atividade física regular, a convivência familiar presencial e a consolidação do aprendizado escolar.",
+    "cited_markers": [
+      "[1]",
+      "[8]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267",
+      "a4b8c9d18ab41298",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-15",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 15,
+    "text": "A adolescência é um período crítico de plasticidade cerebral, caracterizado por reorganizações estruturais e funcionais profundas no sistema nervoso central.",
+    "cited_markers": [
+      "[8]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-16",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 16,
+    "text": "Durante esse estágio do desenvolvimento, ocorre uma maturação assíncrona entre o sistema límbico e o córtex pré-frontal.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-17",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 17,
+    "text": "O sistema límbico — e particularmente o estriado ventral e a amígdala —, responsável pelo processamento de emoções, pela busca de novidades, pela sensibilidade às recompensas e pelo direcionamento da atenção para status e validação social, atinge um pico de reatividade do neurodesenvolvimento.",
+    "cited_markers": [
+      "[8]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-18",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 18,
+    "text": "Em contrapartida, o córtex pré-frontal, encarregado do controle executivo, da regulação de impulsos, do planejamento de longo prazo e da avaliação de riscos, passa por um processo mais lento de mielinização e poda sináptica que só se completa na idade adulta jovem.",
+    "cited_markers": [
+      "[8]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-19",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 19,
+    "text": "Essa assimetria neurobiológica torna o adolescente biologicamente hiper-responsivo à aprovação dos pares e extraordinariamente sensível aos estímulos de recompensa imediata e intermitente.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-20",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 20,
+    "text": "As plataformas de redes sociais foram conscientemente projetadas para explorar esse perfil neurobiológico por meio do emprego sistemático de recursos de design persuasivo e esquemas de reforço de razão variável.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-21",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 21,
+    "text": "Funcionalidades como a rolagem infinita de conteúdos (infinite scroll), a reprodução automática de vídeos (autoplay), as notificações push enviadas em tempo real, os contadores de engajamento social (curtidas, comentários e compartilhamentos) e os algoritmos de recomendação altamente personalizados acionam descargas sucessivas e imprevisíveis de dopamina nas vias mesolímbicas dos jovens.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-22",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 22,
+    "text": "O recebimento de uma notificação ou o ganho imprevisto de validação social em uma publicação atua como um reforço positivo intermitente, mecanismo idêntico ao observado no funcionamento de jogos de azar e no desenvolvimento de comportamentos aditivos.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-23",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 23,
+    "text": "Quando o adolescente navega por um feed sem saber qual conteúdo será exibido a seguir, o cérebro antecipa a recompensa mantendo o indivíduo em um estado prolongado de alerta neurológico e hipervigilância.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-24",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 24,
+    "text": "Esse ciclo dificulta a desativação da atenção, prejudica o autocontrole e fomenta o uso compulsivo ou incontrolável da tecnologia.",
+    "cited_markers": [
+      "[8]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-25",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 25,
+    "text": "O modelo de negócios dominante das empresas de tecnologia baseia-se no faturamento por publicidade direcionada, cuja rentabilidade é maximizada pela retenção contínua do usuário e pelo aumento do tempo de permanência na tela.",
+    "cited_markers": [
+      "[8]",
+      "[11]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "b3e2421f174d5ebb",
+      "95d77a900cfafb72"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-26",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 26,
+    "text": "Para atingir esses índices de retenção, os algoritmos priorizam conteúdos que gerem forte comoção emocional, controvérsia, indignação ou comparação social, uma vez que tais estímulos possuem maior capacidade de capturar a atenção pré-frontal e ativar o circuito límbico do adolescente.",
+    "cited_markers": [
+      "[8]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-27",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 27,
+    "text": "Dados compilados pelo U.S. Surgeon General indicam que cerca de três em cada quatro adolescentes acreditam que as empresas de tecnologia manipulam intencionalmente os usuários para que permaneçam mais tempo conectados aos seus dispositivos.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-28",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 28,
+    "text": "Adicionalmente, mais da metade dos adolescentes relata que seria difícil interromper o uso das redes sociais, evidenciando uma dependência psicológica impulsionada pelo medo de desconexão social (Fear of Missing Out - FoMO) e pela pressão interpessoal por hiperconectividade permanente.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-29",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 29,
+    "text": "A contínua exposição a ambientes virtuais otimizados para maximizar o tempo de tela submete o cérebro adolescente a uma sobrecarga sensorial e emocional, cujos desdobramentos clínicos se manifestam na elevação de transtornos afetivos, na redução da tolerância à frustração e no comprometimento da capacidade atencional sustentada.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-30",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 30,
+    "text": "A acumulação de evidências epidemiológicas, estudos longitudinais e ensaios clínicos controlados aponta para uma associação direta e consistente entre o tempo de uso intensivo de redes sociais e o aumento no risco de desenvolvimento de sintomas depressivos, ansiedade generalizada e sofrimento psíquico na adolescência.",
+    "cited_markers": [
+      "[8]",
+      "[9]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "ff463288c6133abe",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-31",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 31,
+    "text": "Sínteses científicas apresentadas pelo U.S. Public Health Service demonstram uma relação dose-resposta clara: adolescentes que passam mais de 3 horas diárias navegando em plataformas de mídias sociais enfrentam o dobro do risco de receber diagnósticos ou manifestar sintomas clínicos de transtornos de saúde mental, incluindo depressão e ansiedade.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "ff463288c6133abe"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-32",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 32,
+    "text": "Uma vez que a média diária de permanência dos jovens nessas redes ultrapassa 3,5 horas, infere-se que uma parcela substancial da população adolescente está exposta a um nível de uso associado a elevado risco psiquiátrico.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "ff463288c6133abe"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-33",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 33,
+    "text": "Investigações controladas nas quais jovens foram instruídos a limitar o uso de redes sociais a 30 minutos diários ao longo de três semanas demonstraram reduções estatisticamente significativas na severidade dos sintomas depressivos, bem como atenuação dos sentimentos de solidão e isolamento em comparação com os grupos de controle que mantiveram o consumo habitual.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-34",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 34,
+    "text": "A hipótese do deslocamento oferece uma explicação funcional para esse fenômeno, demonstrando que o prejuízo psíquico resulta não apenas da exposição a conteúdos nocivos, mas também da substituição de atividades protetoras da saúde mental — como conversas presenciais, práticas esportivas, momentos de lazer sem telas e estudo focado — pela navegação passiva e fragmentada em telas.",
+    "cited_markers": [
+      "[8]",
+      "[11]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "b3e2421f174d5ebb",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-35",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 35,
+    "text": "Um dos mediadores mais críticos na relação entre o uso de mídias digitais e o adoececimento psíquico na adolescência é a disrupção da arquitetura do sono.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[11]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb",
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-36",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 36,
+    "text": "Uma revisão sistemática que analisou 42 estudos empíricos sobre o uso problemático de redes sociais identificou uma associação consistente e quantificável entre o tempo de tela noturno e a incidência de má qualidade do sono, latência prolongada para o início do adormecimento, menor duração total do descanso e episódios de insônia crônica em jovens.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-37",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 37,
+    "text": "A emissão de luz azul de comprimento de onda curto pelas telas dos smartphones inibe a secreção fisiológica da melatonina pela glândula pineal, desincronizando o ritmo circadiano e atrasando a fase do sono.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-38",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 38,
+    "text": "Simultaneamente, a exaltação cognitiva e o estado de alerta emocional provocados pela checagem de mensagens, visualização de notificações ou participação em interações sociais virtuais imediatamente antes de deitar impedem o relaxamento neurofisiológico necessário para a transição para os estágios profundos do sono.",
+    "cited_markers": [
+      "[10]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-39",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 39,
+    "text": "A privação crônica do sono em adolescentes está diretamente correlacionada a alterações no desenvolvimento neuroestrutural, prejuízos na consolidação da memória, labilidade emocional, exacerbação de ideações suicidas e elevação do risco para o surgimento de transtornos do déficit de atenção e hiperatividade (TDAH).",
+    "cited_markers": [
+      "[10]",
+      "[11]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb",
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-40",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 40,
+    "text": "A exposição contínua a representações estilizadas, editadas e digitalmente alteradas de corpos e estilos de vida constitui um dos fatores de estresse ambiental mais deletérios presentes nas redes sociais, afetando de forma acentuada as adolescentes do sexo feminino.",
+    "cited_markers": [
+      "[9]",
+      "[11]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "ff463288c6133abe",
+      "b3e2421f174d5ebb",
+      "8fe67396eb8ff683"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-41",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 41,
+    "text": "Levantamentos conduzidos por autoridades sanitárias revelam que 46% dos adolescentes de 13 a 17 anos afirmam que o uso de redes sociais faz com que se sintam piores em relação à própria imagem corporal.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "ff463288c6133abe"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-42",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 42,
+    "text": "Estudo longitudinal focado em adolescentes de 14 anos de idade (amostra de 10.904 participantes) evidenciou que o uso mais intenso de mídias sociais predisse pior qualidade de sono, maior exposição a assédio online, menor autoimagem, baixa autoestima e escores significativamente mais elevados para sintomas depressivos, com uma associação consideravelmente mais forte entre as meninas do que entre os meninos.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-43",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 43,
+    "text": "Esse fenômeno é explicado pela teoria da comparação social ascendente.",
+    "cited_markers": [
+      "[10]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-44",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 44,
+    "text": "Nas plataformas de mídias visuais, os adolescentes são expostos a um fluxo ininterrupto de imagens ideais que passam por processos de filtragem, maquiagem digital e edição de simetria.",
+    "cited_markers": [
+      "[10]",
+      "[16]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "1ff9266852a7b72d",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-45",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 45,
+    "text": "Ao comparar sua aparência real e imperfeita com padrões estéticos inalcançáveis, o jovem desenvolve sentimentos de insatisfação corporal, internalização do ideal de magreza ou muscularidade e Dismorfia Corporal.",
+    "cited_markers": [
+      "[10]",
+      "[16]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "1ff9266852a7b72d",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-46",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 46,
+    "text": "Relatórios divulgados pela UNESCO indicam que estudos internos das próprias empresas de tecnologia revelaram que 32% das meninas adolescentes relataram que o uso do Instagram intensificou sentimentos negativos sobre os próprios corpos.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "8fe67396eb8ff683"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-47",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 47,
+    "text": "Investigações citadas pelo relatório da UNESCO revelaram que algoritmos como os do TikTok direcionam conteúdos focados em dietas restritivas, perda de peso e alteração corporal a cada 39 segundos para perfis de adolescentes que demonstram interesse inicial pelo tema, além de sugerirem vídeos relacionados a transtornos alimentares e condutas autolesivas a cada oito minutos.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "8fe67396eb8ff683"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-48",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 48,
+    "text": "Esse direcionamento algorítmico atua como um catalisador para a instalação e o agravamento de patologias graves, como anorexia nervosa, bulimia e episódios de automutilação.",
+    "cited_markers": [
+      "[14]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "1fc8808cf263de99",
+      "8fe67396eb8ff683"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-49",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 49,
+    "text": "No Brasil, os dados da pesquisa TIC Kids Online indicam que, entre os usuários de 11 a 17 anos, 24% tentaram reduzir o tempo gasto na internet, mas não obtiveram sucesso.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-50",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 50,
+    "text": "Na mesma faixa etária, 22% relataram que o uso excessivo da rede resultou em menor tempo dedicado à convivência familiar, às amizades presenciais ou à realização de tarefas escolares.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-51",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 51,
+    "text": "A American Psychological Association categoriza esses quadros sob o conceito de uso problemático das mídias sociais, estabelecendo critérios operacionais que incluem a alocação de esforço excessivo para garantir acesso contínuo às redes, a presença de impulsos ou fissuras irresistíveis (cravings) para navegar, a mentira ou a dissimulação para ocultar a quantidade de tempo de tela e o prejuízo direto em relacionamentos interpessoais significativos ou no desempenho educacional.",
+    "cited_markers": [
+      "[16]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "1ff9266852a7b72d",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-52",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 52,
+    "text": "O contato com indivíduos desconhecidos no ambiente digital é reportado por 30% dos usuários brasileiros de 9 a 17 anos",
+    "cited_markers": [
+      "[1]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267",
+      "88a21512fd0a814f"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-53",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 53,
+    "text": "ocorrendo prioritariamente por meio de redes sociais (15%) e aplicativos de mensagens instantâneas (14%).",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "88a21512fd0a814f"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-54",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 54,
+    "text": "Essa dinâmica abre margem para abordagens predatórias, aliciamento sexual (grooming), extorsão financeira por meio de ameaça de divulgação de imagens íntimas (sextorção) e exploração sexual comercial.",
+    "cited_markers": [
+      "[11]",
+      "[14]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "b3e2421f174d5ebb",
+      "1fc8808cf263de99",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-55",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 55,
+    "text": "A ocorrência de situações ofensivas na internet afeta 29% das crianças e adolescentes no Brasil.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-56",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 56,
+    "text": "No entanto, existe uma barreira de comunicação entre as vítimas e suas redes de apoio: entre os jovens de 11 a 17 anos que sofreram ofensas online, apenas 31% contaram o ocorrido aos pais ou responsáveis, 29% relataram a amigos da mesma idade e 13% optaram pelo silêncio completo, não revelando a agressão a ninguém.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "f1f9bff10762b267"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-57",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 57,
+    "text": "A APA ressalta que o cyberbullying e a violência virtual podem acarretar prejuízos psicológicos mais severos do que o bullying presencial, devido à permanência indeterminada do conteúdo difamatório na rede, à escala de público alcançada e à impossibilidade de o jovem encontrar refúgio em seu ambiente doméstico.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-58",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 58,
+    "text": "Levantamentos nacionais indicam que 53% dos usuários de 11 a 17 anos foram expostos a vídeos de pessoas promovendo jogos de apostas virtuais e casas de bets, proporção que alcança 63% entre os adolescentes de 15 a 17 anos.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "17f0d31786b6070f"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-59",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 59,
+    "text": "Adicionalmente, 55% dos jovens reportam ter visto publicidade em redes sociais",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "17f0d31786b6070f"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-60",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 60,
+    "text": "e 84% presenciaram conteúdos comercialmente patrocinados sem a devida identificação publicitária, tais como vídeos de abertura de produtos (unboxing, 66%) ou influenciadores digitais demonstrando marcas enviadas como cortesia (61%).",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "6d7a7f6dc8d5c1a0"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-61",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 61,
+    "text": "O fenômeno da adultização infantil configura-se quando crianças passam a reproduzir comportamentos, padrões estéticos, vestuários, danças e linguagens com conotação sexual ou temática estritamente adulta de forma precoce.",
+    "cited_markers": [
+      "[25]",
+      "[26]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "38e4b662e5da01c3",
+      "43202571e6b6382f",
+      "cf3ec49d57de3c08"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-62",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 62,
+    "text": "O ecossistema de redes sociais atua como um acelerador da adultização ao hipervalorizar a erotização infantil em busca de métricas de engajamento, expondo menores a comentários inapropriados, assédio e perda das etapas fundamentais do desenvolvimento psíquico protegido.",
+    "cited_markers": [
+      "[26]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "43202571e6b6382f",
+      "cf3ec49d57de3c08"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-63",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 63,
+    "text": "Apesar da magnitude dos riscos documentados pela literatura médica e epidemiológica, a análise do impacto das redes sociais na saúde mental de adolescentes exige uma perspectiva nuançada que reconheça o potencial dessas ferramentas como vetores de suporte social, expressão identitária e inclusão comunitária.",
+    "cited_markers": [
+      "[10]",
+      "[17]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-64",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 64,
+    "text": "As evidências empíricas indicam que as mídias digitais não exercem um efeito homogêneo ou determinista sobre todos os indivíduos, atuando como amplificadores das vulnerabilidades ou dos recursos de proteção previamente existentes no contexto interpessoal e socioemocional de cada jovem.",
+    "cited_markers": [
+      "[10]",
+      "[17]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-65",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 65,
+    "text": "Quando utilizadas de forma moderada, guiada por intenções claras de comunicação e acompanhada por mediação parental adequada, as redes sociais fornecem canais valiosos para a manutenção da coesão interpessoal e o fortalecimento do capital social.",
+    "cited_markers": [
+      "[10]",
+      "[17]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-66",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 66,
+    "text": "Em pesquisas populacionais, 74% dos adolescentes relatam que as plataformas digitais contribuem para que se sintam mais conectados com a vida de seus amigos e pares.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-67",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 67,
+    "text": "O ambiente virtual permite a manutenção de laços afetivos com familiares e amigos distantes, supera barreiras de timidez para adolescentes com ansiedade social e facilita a cooperação acadêmica e cultural.",
+    "cited_markers": [
+      "[10]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-68",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 68,
+    "text": "Para adolescentes pertencentes a grupos vulneráveis, minoritários ou socialmente marginalizados, as redes sociais frequentemente desempenham um papel protetor determinante para a preservação da saúde mental.",
+    "cited_markers": [
+      "[10]",
+      "[17]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-69",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 69,
+    "text": "Jovens pertencentes à comunidade LGBTQIA+, adolescentes negros, indivíduos com deficiências físicas ou neurodivergências e jovens que enfrentam doenças crônicas ou raras encontram nos grupos virtuais espaços de acolhimento, afirmação de identidade e validação emocional que muitas vezes não estão disponíveis em seu ambiente escolar ou familiar imediato.",
+    "cited_markers": [
+      "[10]",
+      "[17]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-70",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 70,
+    "text": "A interação com pares que compartilham vivências análogas atua como um fator atenuante contra o estresse minoritário, a solidão e a estigmatização social.",
+    "cited_markers": [
+      "[10]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-71",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 71,
+    "text": "Adicionalmente, as redes sociais têm se consolidado como canais informativos para a busca por ajuda psicológica e a promoção da alfabetização em saúde mental.",
+    "cited_markers": [
+      "[10]",
+      "[17]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-72",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 72,
+    "text": "A circulação de conteúdos educativos produzidos por profissionais da saúde, instituições acadêmicas e ativistas qualificados contribui para a desmistificação dos transtornos psiquiátricos, encoraja os jovens a identificarem sinais de sofrimento psicológico e reduz as barreiras atitudinais para a procura por atendimento terapêutico e médico especializado.",
+    "cited_markers": [
+      "[10]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-73",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 73,
+    "text": "Dessa forma, os consensos emitidos por organizações de psicologia e pediatria enfatizam que o objetivo das políticas públicas e da orientação clínica não deve ser o banimento irrestrito da tecnologia, mas sim a eliminação dos designs persuasivos nocivos, o combate à violência online e o fortalecimento das habilidades socioemocionais e digitais dos jovens, permitindo que usufruam das oportunidades de conexão sem comprometer seu bem-estar psíquico.",
+    "cited_markers": [
+      "[8]",
+      "[15]",
+      "[16]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "872da6d7d12d54c4",
+      "1ff9266852a7b72d",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-74",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 74,
+    "text": "No cenário nacional, a Sociedade Brasileira de Pediatria (SBP), por meio de seu Grupo de Trabalho em Saúde na Era Digital, estabeleceu diretrizes técnicas através do Manual de Orientação \"#MenosTelas #MaisSaúde\".",
+    "cited_markers": [
+      "[12]",
+      "[13]",
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "2ff7caa537e910ae",
+      "8578e2517a6ce2ab",
+      "1fc8808cf263de99"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-75",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 75,
+    "text": "O documento fundamenta-se na necessidade de impor limites quantitativos e qualitativos ao tempo de tela interativa, adequando o acesso às fases do desenvolvimento neuropsicomotor:",
+    "cited_markers": [
+      "[6]",
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "a7262bc00a5e1391",
+      "1fc8808cf263de99"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-76",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 76,
+    "text": "Para crianças menores de 2 anos de idade, a recomendação é de vedação absoluta do acesso a qualquer tipo de tela, incluindo smartphones, tablets, computadores e televisores.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "a7262bc00a5e1391"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-77",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 77,
+    "text": "Para crianças entre 2 e 5 anos, o tempo de exposição deve ser rigorosamente limitado a, no máximo, 1 hora diária, exigindo-se sempre a presença e a mediação presencial de um adulto responsável.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "a7262bc00a5e1391"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-78",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 78,
+    "text": "Para crianças na faixa etária de 6 a 10 anos, o tempo de tela deve ser restrito ao limite de 1 a 2 horas por dia, sendo vedado o acesso a jogos ou conteúdos que apresentem cenas de violência, erotização ou linguagem inadequada.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "a7262bc00a5e1391"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-79",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 79,
+    "text": "Para adolescentes entre 11 e 18 anos, estabelece-se o limite de 2 a 3 horas diárias para o uso de telas e redes sociais, proibindo-se a permanência com dispositivos nos quartos durante a noite e o uso de telas durante as refeições familiares.",
+    "cited_markers": [
+      "[14]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "1fc8808cf263de99",
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-80",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 80,
+    "text": "A SBP adverte para os prejuízos pediatricamente comprovados do uso desmedido de telas, que incluem dependência digital, transtornos do sono, sedentarismo, sobrepeso e obesidade, síndrome visual do computador, miopia de acomodação, transtornos posturais, atrasos no desenvolvimento da linguagem em crianças pequenas e elevação da agressividade e de sintomas depressivos em adolescentes.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "1fc8808cf263de99"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-81",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 81,
+    "text": "Os médicos pediatras recomendam que os pais estabeleçam \"horas e zonas livres de tecnologia\" na rotina doméstica, promovendo ativamente o resgate de brincadeiras presenciais, esportes ao ar livre e conversas familiares sem a interferência de notificações digitais.",
+    "cited_markers": [
+      "[14]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "1fc8808cf263de99",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-82",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 82,
+    "text": "Em 2023, o painel de especialistas da American Psychological Association publicou o Health Advisory on Social Media Use in Adolescence, no qual formalizou dez recomendações estratégicas fundamentadas na ciência psicológica:",
+    "cited_markers": [
+      "[15]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "872da6d7d12d54c4",
+      "bf2971ae49a6c42f"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-83",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 83,
+    "text": "As funcionalidades, os níveis de privacidade e as permissões de acesso às redes sociais devem ser configurados de acordo com a capacidade cognitiva e a maturidade do desenvolvimento de cada jovem, evitando expor crianças a recursos concebidos para adultos.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-84",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 84,
+    "text": "A entrada dos adolescentes nas redes sociais deve ser precedida por treinamento formal em alfabetização de mídias digitais, visando desenvolver competências para reconhecer estruturas de desinformação, manipular visualmente imagens, identificar preconceitos estruturais e compreender estratégias de retenção algorítmica.",
+    "cited_markers": [
+      "[16]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "1ff9266852a7b72d",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-85",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 85,
+    "text": "Deve-se exercer o monitoramento ativo e o acompanhamento contínuo da vida digital dos adolescentes mais jovens (de 10 a 14 anos), combinando a supervisão parental com conversas abertas e graduando a autonomia à medida que a maturidade é demonstrada.",
+    "cited_markers": [
+      "[17]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "4eb0d9592ee9d095",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-86",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 86,
+    "text": "As plataformas e os cuidadores devem minimizar ativamente a exposição dos adolescentes a conteúdos focados em padrões irrealistas de beleza, comparação corporal e procedimentos estéticos.",
+    "cited_markers": [
+      "[16]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "1ff9266852a7b72d",
+      "bf2971ae49a6c42f"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-87",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 87,
+    "text": "Implementação de mecanismos ágeis de denúncia e remoção para proteger os jovens contra o assédio, o cyberbullying e a exposição a discursos de ódio ou preconceito direcionados a grupos minoritários.",
+    "cited_markers": [
+      "[16]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "1ff9266852a7b72d",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-88",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 88,
+    "text": "Acompanhamento sistemático para a identificação precoce de sinais de uso problemático das redes sociais, como a incapacidade de interromper o uso, a mentira sobre o tempo de tela e a negligência do sono ou dos estudos.",
+    "cited_markers": [
+      "[16]",
+      "[18]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "1ff9266852a7b72d",
+      "bf2971ae49a6c42f",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-89",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 89,
+    "text": "Garantia prioritária de que o uso das mídias interativas não restrinja nem interfira na rotina biológica de sono (no mínimo 8 horas diárias) e na prática regular de atividades físicas e exercícios.",
+    "cited_markers": [
+      "[16]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "1ff9266852a7b72d",
+      "bf2971ae49a6c42f"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-90",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 90,
+    "text": "Por sua vez, o parecer emitido pelo U.S. Surgeon General consolidou o entendimento de que não há evidências suficientes para afirmar que as mídias sociais sejam plenamente seguras para crianças e adolescentes.",
+    "cited_markers": [
+      "[8]",
+      "[9]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "ff463288c6133abe",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-91",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 91,
+    "text": "O documento enfatiza a necessidade de uma mudança de postura regulatória, deslocando a responsabilidade de proteção do âmbito individual das famílias para a esfera pública e corporativa.",
+    "cited_markers": [
+      "[8]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-92",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 92,
+    "text": "Exige-se que as empresas tecnológicas adotem padrões de segurança por padrão (safety-by-design), definam as configurações de privacidade no nível máximo para menores, proíbam recursos de engenharia comportamental predatória e franqueiem o acesso a dados de impacto para cientistas e pesquisadores independentes.",
+    "cited_markers": [
+      "[8]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-93",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 93,
+    "text": "A resposta legislativa do Estado brasileiro aos desafios impostos pela hiperconectividade juvenil culminou na aprovação do Projeto de Lei nº 2628/2022, amplamente denominado como o \"ECA Digital\", sancionado e transformado na Lei Ordinária nº 15.211/2025.",
+    "cited_markers": [
+      "[23]",
+      "[24]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "cc2fdeba1ab96094",
+      "b3a75f2cf8dbbafd",
+      "38e4b662e5da01c3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-94",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 94,
+    "text": "A legislação atualiza o arcabouço normativo de proteção integral da infância e da juventude — consagrado no Artigo 227 da Constituição Federal e no Estatuto da Criança e do Adolescente —, estendendo de forma vinculante as garantias fundamentais aos ambientes virtuais, aplicações de internet e serviços digitais.",
+    "cited_markers": [
+      "[22]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72",
+      "38e4b662e5da01c3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-95",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 95,
+    "text": "A Lei nº 15.211/2025 estabelece obrigações legais, diretrizes operacionais e responsabilidades objetivas para os provedores de redes sociais, jogos eletrônicos e produtos de tecnologia da informação acessíveis a menores de idade:",
+    "cited_markers": [
+      "[22]",
+      "[24]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72",
+      "b3a75f2cf8dbbafd",
+      "38e4b662e5da01c3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-96",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 96,
+    "text": "Proibição peremptória de criação de contas e cadastro de usuários por crianças menores de 12 anos em aplicações de redes sociais, impondo às empresas o dever de implementar mecanismos eficazes de verificação etária e informar claramente a inadequação dos serviços a essa faixa de idade.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-97",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 97,
+    "text": "Vedação absoluta do emprego de técnicas de perfilamento comportamental de crianças e adolescentes para fins de direcionamento de publicidade comercial e comunicação mercadológica.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-98",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 98,
+    "text": "A norma proíbe a utilização de análise emocional, inteligência artificial, realidade aumentada, realidade virtual e realidade estendida voltadas ao enquadramento publicitário do público infantojuvenil.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-99",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 99,
+    "text": "Proibição de estratégias publicitárias abusivas que utilizem linguagem infantil, excesso de cores, personagens visuais fascinantes ou que induzam implicitamente no adolescente sentimentos de inferioridade social, física ou psicológica caso não consuma determinado bem ou serviço.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-100",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 100,
+    "text": "Dever de adoção de medidas proativas e sistemas eficazes por parte das plataformas para prevenir, mitigar e remover rapidamente conteúdos e links que configurem exploração sexual infantil, apologia ao suicídio, incentivo à automutilação, violência, discursos de ódio e práticas de adultização precoce de crianças.",
+    "cited_markers": [
+      "[22]",
+      "[25]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72",
+      "38e4b662e5da01c3",
+      "cf3ec49d57de3c08"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-101",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 101,
+    "text": "Obrigatoriedade de fornecimento de ferramentas intuitivas e acessíveis de controle parental, permitindo que pais ou responsáveis monitorem o tempo de uso e restrinjam interações com desconhecidos.",
+    "cited_markers": [
+      "[22]",
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72",
+      "43202571e6b6382f"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-102",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 102,
+    "text": "Estabelecimento de severas sanções administrativas e financeiras para o descumprimento das normas, prevendo multas cujos montantes são revertidos ao Fundo de Defesa de Direitos Difusos para aplicação obrigatória em políticas públicas de proteção digital e saúde mental infantojuvenil.",
+    "cited_markers": [
+      "[22]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72",
+      "38e4b662e5da01c3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-103",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 103,
+    "text": "O Relatório de Monitoramento Global da Educação da UNESCO (GEM Report) documenta que 114 sistemas educacionais no mundo — o equivalente a aproximadamente 58% dos países — adotaram proibições ou restrições regulatórias ao uso de smartphones em estabelecimentos de ensino.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "8fe67396eb8ff683"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-104",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 104,
+    "text": "O embasamento científico para a restrição dos celulares no contexto escolar ampara-se no acúmulo de dados sobre a fragmentação da atenção, o prejuízo no desempenho em exames padronizados e a proliferação de dinâmicas de cyberbullying durante a jornada escolar.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "8fe67396eb8ff683",
+      "810bcadc983e6b50"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-105",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 105,
+    "text": "A UNESCO ressalta que a simples presença do smartphone na sala de aula, mesmo quando mantido em modo silencioso, opera como uma fonte contínua de distração cognitiva que afeta a capacidade de retenção de memória de curto prazo e compromete o raciocínio complexo.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "810bcadc983e6b50"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-106",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 106,
+    "text": "Investigações empíricas conduzidas na Bélgica, Espanha e Reino Unido demonstraram que a remoção dos celulares das escolas resultou em ganhos mensuráveis no rendimento acadêmico dos estudantes, beneficiando de forma mais acentuada os alunos com histórico de menor desempenho escolar ou em situação de vulnerabilidade social.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "810bcadc983e6b50"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-107",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 107,
+    "text": "No Brasil, o debate legislativo resultou na promulgação da Lei Federal nº 15.100/2025, que regulamentou e restringiu o uso de telefones celulares e outros dispositivos eletrônicos portáteis nas escolas públicas e privadas de educação básica em todo o território nacional.",
+    "cited_markers": [
+      "[28]",
+      "[29]",
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "3895e31f12bc91ca",
+      "a6aab68757918214",
+      "5cf1a569e63466b8"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-108",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 108,
+    "text": "A legislação proíbe a utilização dos aparelhos tanto no decorrer das aulas quanto nos períodos de intervalo, recreio e atividades extracurriculares.",
+    "cited_markers": [
+      "[29]",
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "a6aab68757918214",
+      "5cf1a569e63466b8"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-109",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 109,
+    "text": "O uso de telas é franqueado exclusivamente para finalidades pedagógicas planejadas e orientadas pelos docentes, ou como recurso de acessibilidade e suporte à saúde para estudantes com deficiência ou condições médicas específicas.",
+    "cited_markers": [
+      "[28]",
+      "[29]",
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "3895e31f12bc91ca",
+      "a6aab68757918214",
+      "5cf1a569e63466b8"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-110",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 110,
+    "text": "A implementação da norma visa restabelecer o foco no processo de ensino-aprendizagem, favorecer a convivência interpessoal direta durante os intervalos e mitigar os episódios de ansiedade social e violência virtual no espaço escolar.",
+    "cited_markers": [
+      "[20]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "8fe67396eb8ff683",
+      "a6aab68757918214"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-111",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 111,
+    "text": "O estado da arte da literatura neurocientífica, epidemiológica e regulatória demonstra que o impacto das redes sociais na saúde mental de adolescentes configura um desafio de saúde pública multifatorial e estrutural.",
+    "cited_markers": [
+      "[8]",
+      "[9]",
+      "[11]",
+      "[14]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "ff463288c6133abe",
+      "b3e2421f174d5ebb",
+      "1fc8808cf263de99",
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-112",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 112,
+    "text": "A susceptibilidade neurobiológica característica da adolescência — marcada pelo descompasso entre a hiper-reatividade do sistema límbico e a imaturidade funcional do córtex pré-frontal — torna o público jovem vulnerável às estratégias de engenharia comportamental e às arquiteturas algorítmicas projetadas para a retenção ilimitada da atenção.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "e42f78a684e8a7d5",
+      "b3e2421f174d5ebb"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-113",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 113,
+    "text": "A exposição crônica ao uso desmedido de mídias interativas correlaciona-se ao comprometimento da qualidade do sono, ao surgimento e agravamento de sintomatologias depressivas e ansiosas, à distorção da imagem corporal e ao risco aumentado de vitimização por cyberbullying, predação online e exploração comercial.",
+    "cited_markers": [
+      "[8]",
+      "[9]",
+      "[11]",
+      "[14]",
+      "[16]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "ff463288c6133abe",
+      "b3e2421f174d5ebb",
+      "1fc8808cf263de99",
+      "1ff9266852a7b72d",
+      "8fe67396eb8ff683"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-114",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 114,
+    "text": "Não obstante a gravidade dos riscos mapeados, a tecnologia digital representa um componente permanente da vida contemporânea que, quando balizada por princípios de segurança e moderação, pode oferecer canais valiosos de suporte social, expressão identitária e inclusão para minorias marginalizadas.",
+    "cited_markers": [
+      "[10]",
+      "[17]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "e42f78a684e8a7d5",
+      "4eb0d9592ee9d095",
+      "24fab7d03912a4d2"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-115",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 115,
+    "text": "Por conseguinte, as estratégias de mitigação de danos devem afastar-se da abordagem baseada na proibição individualista ou na culpabilização das famílias, adotando um modelo de responsabilidade pactuada e compartilhada entre o Estado, as corporações tecnológicas, o sistema educacional, os profissionais de saúde e a sociedade civil.",
+    "cited_markers": [
+      "[8]",
+      "[11]",
+      "[22]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "b3e2421f174d5ebb",
+      "95d77a900cfafb72",
+      "38e4b662e5da01c3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-116",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 116,
+    "text": "Às empresas de tecnologia e plataformas digitais, exige-se a incorporação imediata do princípio da segurança e privacidade por padrão (safety and privacy-by-design), desativando recursos de engajamento coercitivo (rolagem infinita, notificações invasivas e reprodução automática), eliminando o perfilamento comportamental de menores para fins publicitários e garantindo a verificação efetiva da idade mínima de acesso.",
+    "cited_markers": [
+      "[8]",
+      "[11]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "b3e2421f174d5ebb",
+      "95d77a900cfafb72"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-117",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 117,
+    "text": "As companhias devem aprimorar os algoritmos de moderação para suprimir proativamente conteúdos de erotização infantil, dismorfia estética, transtornos alimentares, apostas virtuais e incentivo à automutilação.",
+    "cited_markers": [
+      "[14]",
+      "[20]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "1fc8808cf263de99",
+      "8fe67396eb8ff683",
+      "95d77a900cfafb72"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-118",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 118,
+    "text": "Ao Poder Público e órgãos reguladores, cabe fiscalizar o cumprimento das disposições da Lei nº 15.211/2025 (ECA Digital) e da Lei nº 15.100/2025 (restrição de celulares nas escolas), aplicando as sanções administrativas e financeiras previstas aos infratores.",
+    "cited_markers": [
+      "[22]",
+      "[25]",
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "95d77a900cfafb72",
+      "38e4b662e5da01c3",
+      "5cf1a569e63466b8"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-119",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 119,
+    "text": "Deve-se financiar pesquisas científicas independentes sobre o impacto das mídias digitais e destinar os recursos do Fundo de Defesa de Direitos Difusos para a criação de redes públicas de suporte psicossocial aos jovens afetados pelo sofrimento digital.",
+    "cited_markers": [
+      "[11]",
+      "[22]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "b3e2421f174d5ebb",
+      "95d77a900cfafb72",
+      "38e4b662e5da01c3"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-120",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 120,
+    "text": "Às instituições de ensino, recomenda-se a consolidação de ambientes escolares livres de smartphones, fomentando o engajamento em atividades esportivas, artísticas e sociais presenciais.",
+    "cited_markers": [
+      "[20]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "8fe67396eb8ff683",
+      "a6aab68757918214"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-121",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 121,
+    "text": "É fundamental implementar programas contínuos de alfabetização de mídias e educação digital no currículo da educação básica, capacitando os estudantes para o pensamento crítico frente aos conteúdos virtuais e para a gestão responsável do tempo de tela.",
+    "cited_markers": [
+      "[16]",
+      "[19]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "1ff9266852a7b72d",
+      "24fab7d03912a4d2",
+      "810bcadc983e6b50"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-122",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 122,
+    "text": "Aos profissionais de saúde e pediatras, orienta-se a inclusão sistemática da anamnese do comportamento digital nas consultas de rotina, avaliando os horários de sono, o tempo de tela diário e a presença de sinais de uso problemático ou Sofrimento Psíquico.",
+    "cited_markers": [
+      "[14]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "1fc8808cf263de99",
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-123",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 123,
+    "text": "Deve-se orientar as famílias quanto às recomendações da SBP e da APA, prescrevendo a higiene do sono e a desconexão preventiva.",
+    "cited_markers": [
+      "[14]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "1fc8808cf263de99",
+      "1ff9266852a7b72d"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-124",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 124,
+    "text": "Às famílias e cuidadores, sugere-se a formulação de um Plano Familiar de Uso de Mídias, pactuando limites temporais claros e estabelecendo áreas da casa (como quartos e mesa de refeições) e horários (especialmente o período noturno) totalmente isentos de dispositivos eletrônicos.",
+    "cited_markers": [
+      "[8]",
+      "[14]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "a4b8c9d18ab41298",
+      "1fc8808cf263de99",
+      "4eb0d9592ee9d095"
+    ]
+  },
+  {
+    "id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-125",
+    "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+    "position": 125,
+    "text": "Recomenda-se manter o diálogo aberto sobre as experiências virtuais dos filhos, supervisionar a vida digital na adolescência inicial de forma empática e incentivar ativamente o lazer presencial e a convivência comunitária.",
+    "cited_markers": [
+      "[14]",
+      "[16]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "1fc8808cf263de99",
+      "1ff9266852a7b72d",
+      "4eb0d9592ee9d095"
+    ]
+  }
+]

@@ -1,0 +1,154 @@
+2026-11-15 09:15:17,448 INFO     __main__: Iniciando run semaglutina_saude_763e312081bf_20261115T131517Z para answers/Ingles/ChatGPT/Emergente/semaglutina_saude.md (ferramenta=ChatGPT)
+2026-11-15 09:15:24,406 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-15 09:15:24,406 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-15 09:15:26,780 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 17091.95it/s]
+2026-11-15 09:15:38,573 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-15 09:15:38,579 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-15 09:15:38,586 INFO     auditframework.pipeline: Extraidas 19 referencias de answers/Ingles/ChatGPT/Emergente/semaglutina_saude.md (0 descartadas como artefato do exportador)
+2026-11-15 09:15:38,596 INFO     auditframework.pipeline: Resposta dividida em 108 trechos citados
+2026-11-15 09:15:38,598 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-15 09:15:38,599 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-15 09:15:38,600 INFO     auditframework.ingestion.service: Ingestao: 19 referencias, 0 ja baixadas, 0 ja bloqueadas, 19 pendentes
+2026-11-15 09:16:54,154 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.nejm.org/doi/10.1056/NEJMoa2501006: Falha ao baixar a copia do Wayback de https://www.nejm.org/doi/10.1056/NEJMoa2501006: Rate limit persistente em http://web.archive.org/web/20260409184735id_/https://www.nejm.org/doi/10.1056/NEJMoa2501006
+2026-11-15 09:16:54,157 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.nejm.org/doi/10.1056/NEJMoa2501006
+2026-11-15 09:16:56,095 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.nejm.org/doi/full/10.1056/NEJMoa2307563: Falha ao baixar a copia do Wayback de https://www.nejm.org/doi/full/10.1056/NEJMoa2307563: Rate limit persistente em http://web.archive.org/web/20251112195017id_/https://www.nejm.org/doi/full/10.1056/NEJMoa2307563
+2026-11-15 09:16:56,098 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.nejm.org/doi/full/10.1056/NEJMoa2307563
+2026-11-15 09:16:58,125 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.nejm.org/doi/full/10.1056/NEJMoa1607141: Falha ao baixar a copia do Wayback de https://www.nejm.org/doi/full/10.1056/NEJMoa1607141: Rate limit persistente em http://web.archive.org/web/20260507212658id_/https://www.nejm.org/doi/full/10.1056/NEJMoa1607141
+2026-11-15 09:16:58,129 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.nejm.org/doi/full/10.1056/NEJMoa1607141
+2026-11-15 09:17:03,242 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.nejm.org/doi/full/10.1056/NEJMoa2306963: Falha ao baixar a copia do Wayback de https://www.nejm.org/doi/full/10.1056/NEJMoa2306963: Rate limit persistente em http://web.archive.org/web/20250803230446id_/https://www.nejm.org/doi/full/10.1056/NEJMoa2306963
+2026-11-15 09:17:03,244 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.nejm.org/doi/full/10.1056/NEJMoa2306963
+2026-11-15 09:17:13,051 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.ahajournals.org/doi/10.1161/CIR.0000000000001453: Sem copia no Wayback: https://www.ahajournals.org/doi/10.1161/CIR.0000000000001453
+2026-11-15 09:17:13,053 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.ahajournals.org/doi/10.1161/CIR.0000000000001453
+2026-11-15 09:17:40,678 INFO     auditframework.ingestion.fetcher: Referencia https://diabetesjournals.org/care/article/47/8/1350/156833/Effect-of-Semaglutide-on-Regression-and recuperada do Wayback (copia de 20260915120528)
+2026-11-15 09:18:03,330 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.nejm.org/doi/10.1056/NEJMoa2403347: Falha ao baixar a copia do Wayback de https://www.nejm.org/doi/10.1056/NEJMoa2403347: Rate limit persistente em http://web.archive.org/web/20260413202410id_/https://www.nejm.org/doi/10.1056/NEJMoa2403347
+2026-11-15 09:18:03,332 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.nejm.org/doi/10.1056/NEJMoa2403347
+2026-11-15 09:18:09,366 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.nejm.org/doi/10.1056/NEJMoa2413258: Falha ao baixar a copia do Wayback de https://www.nejm.org/doi/10.1056/NEJMoa2413258: Rate limit persistente em http://web.archive.org/web/20250721001634id_/https://www.nejm.org/doi/10.1056/NEJMoa2413258
+2026-11-15 09:18:09,368 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.nejm.org/doi/10.1056/NEJMoa2413258
+2026-11-15 09:18:09,372 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 19/19 [02:30<00:00,  7.94s/ref]
+2026-11-15 09:18:09,373 INFO     auditframework.pipeline: Ingestao concluida: 12 documentos disponiveis
+2026-11-15 09:18:09,375 INFO     auditframework.terminal: ✓ ingestion concluído em 150.8s
+2026-11-15 09:18:09,375 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-15 09:18:10,019 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 12/12 [00:00<00:00, 18.70doc/s]
+2026-11-15 09:18:10,019 INFO     auditframework.indexing.service: Gerando embeddings para 363 chunks de 12 documentos
+2026-11-15 09:18:26,556 INFO     auditframework.terminal: Batches: 100%|██████████| 23/23 [00:16<00:00,  1.39it/s]
+2026-11-15 09:18:26,591 INFO     auditframework.pipeline: Indice construido a partir de 12 documentos
+2026-11-15 09:18:26,592 INFO     auditframework.terminal: ✓ indexing concluído em 17.2s
+2026-11-15 09:18:26,593 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-15 09:18:26,597 INFO     auditframework.pipeline: Julgamento: 108 chunks, 0 ja julgados, 0 ja pulados, 108 pendentes
+2026-11-15 09:18:27,498 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-15 09:18:28,097 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/108 [00:00<?, ?chunk/s]
+2026-11-15 09:18:28,199 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-15 09:18:28,301 INFO     auditframework.terminal: Loading weights:  28%|██▊       | 110/393 [00:00<00:00, 1088.11it/s]
+2026-11-15 09:18:28,391 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 1342.92it/s]
+2026-11-15 09:18:47,395 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-3 nao sera auditado: Referencia(s) citada(s) ['ad53665ae02ab08b', '4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:50,416 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-8 nao sera auditado: Referencia(s) citada(s) ['ad53665ae02ab08b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:50,417 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-9 nao sera auditado: Referencia(s) citada(s) ['ad53665ae02ab08b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:50,419 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-10 nao sera auditado: Referencia(s) citada(s) ['ad53665ae02ab08b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:52,844 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-12 nao sera auditado: Referencia(s) citada(s) ['a9abb45de2912673', '758a12e3e172f5f1'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:52,846 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-13 nao sera auditado: Referencia(s) citada(s) ['a9abb45de2912673'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:52,847 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-14 nao sera auditado: Referencia(s) citada(s) ['758a12e3e172f5f1'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:52,849 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-15 nao sera auditado: Referencia(s) citada(s) ['ad53665ae02ab08b', 'a9abb45de2912673', '758a12e3e172f5f1'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:55,163 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-17 nao sera auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:55,165 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-18 nao sera auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:57,603 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-20 nao sera auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:57,605 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-21 nao sera auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:57,606 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-22 nao sera auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:57,607 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-23 nao sera auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:57,609 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-24 nao sera auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:57,610 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-25 nao sera auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:57,611 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-26 nao sera auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:18:57,613 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-27 nao sera auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:19:13,163 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-35 nao sera auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:19:32,413 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-47 nao sera auditado: Referencia(s) citada(s) ['1b9fc317d4cfbd00'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:19:32,415 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-48 nao sera auditado: Referencia(s) citada(s) ['1b9fc317d4cfbd00'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:19:32,417 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-49 nao sera auditado: Referencia(s) citada(s) ['1b9fc317d4cfbd00'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:19:43,219 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-59 nao sera auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:20:25,107 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-102 nao sera auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:20:26,765 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-104 nao sera auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:20:26,767 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-105 nao sera auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:20:26,768 WARNING  auditframework.indexing.retriever: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-106 nao sera auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:20:27,957 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 108/108 [02:01<00:00,  1.12s/chunk]
+2026-11-15 09:21:46,413 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-3 nao auditado: Referencia(s) citada(s) ['ad53665ae02ab08b', '4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:22:42,646 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-8 nao auditado: Referencia(s) citada(s) ['ad53665ae02ab08b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:22:42,647 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-9 nao auditado: Referencia(s) citada(s) ['ad53665ae02ab08b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:22:42,648 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-10 nao auditado: Referencia(s) citada(s) ['ad53665ae02ab08b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:42,765 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-12 nao auditado: Referencia(s) citada(s) ['a9abb45de2912673', '758a12e3e172f5f1'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:42,767 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-13 nao auditado: Referencia(s) citada(s) ['a9abb45de2912673'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:42,768 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-14 nao auditado: Referencia(s) citada(s) ['758a12e3e172f5f1'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:42,769 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-15 nao auditado: Referencia(s) citada(s) ['ad53665ae02ab08b', 'a9abb45de2912673', '758a12e3e172f5f1'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:45,372 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-17 nao auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:45,374 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-18 nao auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:50,424 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-20 nao auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:50,426 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-21 nao auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:50,427 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-22 nao auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:50,428 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-23 nao auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:50,429 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-24 nao auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:50,430 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-25 nao auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:50,431 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-26 nao auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:23:50,432 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-27 nao auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:25:06,118 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-35 nao auditado: Referencia(s) citada(s) ['4191e06d1a0d1528'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:27:15,735 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-47 nao auditado: Referencia(s) citada(s) ['1b9fc317d4cfbd00'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:27:15,737 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-48 nao auditado: Referencia(s) citada(s) ['1b9fc317d4cfbd00'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:27:15,738 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-49 nao auditado: Referencia(s) citada(s) ['1b9fc317d4cfbd00'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:30:14,080 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-59 nao auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:40:18,543 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-102 nao auditado: Referencia(s) citada(s) ['0d2acc0c31dcc29e'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:40:21,648 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-104 nao auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:40:21,650 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-105 nao auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:40:21,651 WARNING  auditframework.pipeline: Chunk semaglutina_saude_763e312081bf_20261115T131517Z-106 nao auditado: Referencia(s) citada(s) ['1c3374f534c1ffe4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 09:41:01,924 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 108/108 [20:33<00:00, 11.43s/chunk]
+2026-11-15 09:41:01,928 INFO     auditframework.terminal: ✓ judging concluído em 1355.3s
+2026-11-15 09:41:01,939 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-15 09:41:01,947 INFO     auditframework.pipeline: Relatorio gerado em data/runs/semaglutina_saude_763e312081bf_20261115T131517Z/report.md
+2026-11-15 09:41:01,948 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-15 09:41:01,949 INFO     __main__: Run semaglutina_saude_763e312081bf_20261115T131517Z concluida
+2026-11-15 09:41:01,949 INFO     auditframework.terminal: Relatorio gerado em data/runs/semaglutina_saude_763e312081bf_20261115T131517Z/report.md
+2026-11-17 20:10:04,988 INFO     auditframework.terminal: audit refetch semaglutina_saude_763e312081bf_20261115T131517Z
+2026-11-17 20:10:04,993 INFO     auditframework.ingestion.service: Ingestao: 19 referencias, 12 ja baixadas, 0 ja bloqueadas, 7 pendentes
+2026-11-17 20:10:26,127 INFO     auditframework.ingestion.fetcher: Referencia https://www.nejm.org/doi/full/10.1056/NEJMoa2306963 recuperada do Wayback (copia de 20250803230446)
+2026-11-17 20:10:29,301 INFO     auditframework.ingestion.fetcher: Referencia https://www.nejm.org/doi/full/10.1056/NEJMoa2307563 recuperada do Wayback (copia de 20251112195017)
+2026-11-17 20:10:31,096 INFO     auditframework.ingestion.fetcher: Referencia https://www.nejm.org/doi/full/10.1056/NEJMoa1607141 recuperada do Wayback (copia de 20260507212658)
+2026-11-17 20:10:39,738 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.nejm.org/doi/10.1056/NEJMoa2403347: Wayback indisponivel para https://www.nejm.org/doi/10.1056/NEJMoa2403347: HTTPSConnectionPool(host='archive.org', port=443): Read timed out. (read timeout=10)
+2026-11-17 20:10:39,739 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.nejm.org/doi/10.1056/NEJMoa2403347
+2026-11-17 20:10:39,925 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.ahajournals.org/doi/10.1161/CIR.0000000000001453: Sem copia no Wayback: https://www.ahajournals.org/doi/10.1161/CIR.0000000000001453
+2026-11-17 20:10:39,927 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.ahajournals.org/doi/10.1161/CIR.0000000000001453
+2026-11-17 20:10:45,565 INFO     auditframework.ingestion.fetcher: Referencia https://www.nejm.org/doi/10.1056/NEJMoa2413258 recuperada do Wayback (copia de 20250721001634)
+2026-11-17 20:10:47,750 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.nejm.org/doi/10.1056/NEJMoa2501006: Wayback indisponivel para https://www.nejm.org/doi/10.1056/NEJMoa2501006: HTTPSConnectionPool(host='archive.org', port=443): Read timed out. (read timeout=30)
+2026-11-17 20:10:47,752 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.nejm.org/doi/10.1056/NEJMoa2501006
+2026-11-17 20:10:47,754 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 7/7 [00:42<00:00,  6.11s/ref]
+2026-11-17 20:10:47,761 INFO     auditframework.terminal: semaglutina_saude_763e312081bf_20261115T131517Z: 7 fonte(s) sem conteudo, 4 recuperada(s)
+2026-11-17 20:10:47,761 INFO     auditframework.terminal:   https://www.nejm.org/doi/full/10.1056/NEJMoa2307563 — downloaded
+2026-11-17 20:10:47,761 INFO     auditframework.terminal:   https://www.nejm.org/doi/full/10.1056/NEJMoa1607141 — downloaded
+2026-11-17 20:10:47,761 INFO     auditframework.terminal:   https://www.nejm.org/doi/full/10.1056/NEJMoa2306963 — downloaded
+2026-11-17 20:10:47,761 INFO     auditframework.terminal:   https://www.nejm.org/doi/10.1056/NEJMoa2413258 — downloaded
+2026-11-17 20:10:47,867 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para data/runs/semaglutina_saude_763e312081bf_20261115T131517Z/invalidado-20261118T001047Z
+2026-11-17 20:10:47,867 INFO     auditframework.terminal: 25 trecho(s) citado(s) para julgar de novo (os demais mantem o veredito)
+2026-11-17 20:10:47,868 INFO     auditframework.terminal: Rode: audit resume semaglutina_saude_763e312081bf_20261115T131517Z
+2026-11-17 20:10:48,424 INFO     __main__: Retomando run semaglutina_saude_763e312081bf_20261115T131517Z
+2026-11-17 20:10:56,486 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 20:10:56,486 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 20:10:59,014 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 12138.24it/s]
+2026-11-17 20:11:11,553 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-17 20:11:11,562 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-17 20:11:11,563 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-17 20:11:11,564 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-17 20:11:12,428 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 16/16 [00:00<00:00, 18.58doc/s]
+2026-11-17 20:11:12,428 INFO     auditframework.indexing.service: Gerando embeddings para 498 chunks de 16 documentos
+2026-11-17 20:11:33,265 INFO     auditframework.terminal: Batches: 100%|██████████| 32/32 [00:20<00:00,  1.54it/s]
+2026-11-17 20:11:33,308 INFO     auditframework.pipeline: Indice construido a partir de 16 documentos
+2026-11-17 20:11:33,310 INFO     auditframework.terminal: ✓ indexing concluído em 22.5s
+2026-11-17 20:11:33,310 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-17 20:11:33,317 INFO     auditframework.pipeline: Julgamento: 108 chunks, 72 ja julgados, 11 ja pulados, 25 pendentes
+2026-11-17 20:11:34,285 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-17 20:11:34,893 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/25 [00:00<?, ?chunk/s]
+2026-11-17 20:11:34,998 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-17 20:11:35,099 INFO     auditframework.terminal: Loading weights:  28%|██▊       | 111/393 [00:00<00:00, 1107.46it/s]
+2026-11-17 20:11:35,200 INFO     auditframework.terminal: Loading weights:  56%|█████▋    | 222/393 [00:00<00:00, 1103.30it/s]
+2026-11-17 20:11:35,239 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 1151.94it/s]
+2026-11-17 20:12:28,404 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 25/25 [00:55<00:00,  2.20s/chunk]
+2026-11-17 20:20:01,731 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 25/25 [07:33<00:00, 18.13s/chunk]
+2026-11-17 20:20:01,733 INFO     auditframework.terminal: ✓ judging concluído em 520.0s
+2026-11-17 20:20:01,736 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 20:20:01,744 INFO     auditframework.pipeline: Relatorio gerado em data/runs/semaglutina_saude_763e312081bf_20261115T131517Z/report.md
+2026-11-17 20:20:01,746 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 20:20:01,746 INFO     __main__: Run semaglutina_saude_763e312081bf_20261115T131517Z concluida
+2026-11-17 20:20:01,747 INFO     auditframework.terminal: Relatorio gerado em data/runs/semaglutina_saude_763e312081bf_20261115T131517Z/report.md

@@ -1,0 +1,971 @@
+[
+  {
+    "id": "3e093d46e20ee196",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.psypost.org/large-scale-trial-finds-four-day-workweek-improves-employee-well-being-and-physical-health/",
+    "normalized_url": "https://psypost.org/large-scale-trial-finds-four-day-workweek-improves-employee-well-being-and-physical-health",
+    "work_key": "https://psypost.org/large-scale-trial-finds-four-day-workweek-improves-employee-well-being-and-physical-health",
+    "title": "1. Large-scale trial finds four-day workweek improves employee well-being and physical health (PsyPost).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:16.630899Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cdd1c3dabf06c3d4",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://techtarget.com/searchhrsoftware/news/252525395/Four-day-workweek-productivity-claims-gather-criticism",
+    "normalized_url": "https://techtarget.com/searchhrsoftware/news/252525395/Four-day-workweek-productivity-claims-gather-criticism",
+    "work_key": "https://techtarget.com/searchhrsoftware/news/252525395/Four-day-workweek-productivity-claims-gather-criticism",
+    "title": "2. 4-day workweek productivity claims gather criticism (TechTarget).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:17.574139Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "26343f774db43b51",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.uni-muenster.de/news/view.php?cmdid=14338",
+    "normalized_url": "https://uni-muenster.de/news/view.php?cmdid=14338",
+    "work_key": "https://uni-muenster.de/news/view.php?cmdid=14338",
+    "title": "3. University of Münster news release on the German four-day week pilot results (18 October 2024).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:17.820463Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "92570945619c1152",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://movimentoeconomico.com.br/trabalho/2026/10/16/congresso-promulga-emenda-do-fim-da-6x1-e-escala-5x2-comeca-em-60-dias/",
+    "normalized_url": "https://movimentoeconomico.com.br/trabalho/2026/10/16/congresso-promulga-emenda-do-fim-da-6x1-e-escala-5x2-comeca-em-60-dias",
+    "work_key": "https://movimentoeconomico.com.br/trabalho/2026/10/16/congresso-promulga-emenda-do-fim-da-6x1-e-escala-5x2-comeca-em-60-dias",
+    "title": "4. Congresso promulga emenda do fim da 6x1 e escala 5x2 começa em 60 dias (Movimento Econômico).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:17.136698Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6b900e84d8c34900",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://fortune.com/europe/2024/07/08/asda-scrapping-physically-exhausting-4-day-workweek-why-it-can-fail/",
+    "normalized_url": "https://fortune.com/europe/2024/07/08/asda-scrapping-physically-exhausting-4-day-workweek-why-it-can-fail",
+    "work_key": "https://fortune.com/europe/2024/07/08/asda-scrapping-physically-exhausting-4-day-workweek-why-it-can-fail",
+    "title": "5. Asda scraps physically exhausting 4-day workweek, revealing critical factor in its failure (Fortune).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:17.359071Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f91a291d16b4158f",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.henley.ac.uk/news/2024/results-from-portugals-government-backed-4-day-week-trial-released",
+    "normalized_url": "https://henley.ac.uk/news/2024/results-from-portugals-government-backed-4-day-week-trial-released",
+    "work_key": "https://henley.ac.uk/news/2024/results-from-portugals-government-backed-4-day-week-trial-released",
+    "title": "6. Results from Portugal's government-backed 4-day week trial released (Henley Business School).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:19.835779Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c813cf334e115929",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://4dayweek.com/germany-2024-pilot-results",
+    "normalized_url": "https://4dayweek.com/germany-2024-pilot-results",
+    "work_key": "https://4dayweek.com/germany-2024-pilot-results",
+    "title": "7. Germany 4 Day Week Trial Results (4 Day Week Global).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:19.085818Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "eb72bb11cf30b5de",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://abc7news.com/iceland-work-week-shorter-cuccess/10871439/",
+    "normalized_url": "https://abc7news.com/iceland-work-week-shorter-cuccess/10871439",
+    "work_key": "https://abc7news.com/iceland-work-week-shorter-cuccess/10871439",
+    "title": "8. Iceland: Shorter working week trials an 'overwhelming success' (ABC7 News).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:19.104243Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4273e01388f8af9d",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://history.com/articles/five-day-work-week-labor-movement",
+    "normalized_url": "https://history.com/articles/five-day-work-week-labor-movement",
+    "work_key": "https://history.com/articles/five-day-work-week-labor-movement",
+    "title": "9. Why We Work 5 Days a Week (HISTORY).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:21.158063Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "fa1e2427802bfd55",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.help.senate.gov/dem/newsroom/press/news-sanders-introduces-legislation-to-enact-a-32-hour-workweek-with-no-loss-in-pay",
+    "normalized_url": "https://help.senate.gov/dem/newsroom/press/news-sanders-introduces-legislation-to-enact-a-32-hour-workweek-with-no-loss-in-pay",
+    "work_key": "https://help.senate.gov/dem/newsroom/press/news-sanders-introduces-legislation-to-enact-a-32-hour-workweek-with-no-loss-in-pay",
+    "title": "10. Sanders introduces legislation to enact a 32-hour workweek with no loss in pay (Senate HELP Committee).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:55:54.546078Z",
+    "error_message": null,
+    "barrier_kind": "http_error",
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "50bbc1dff5e82a54",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.lrt.lt/en/news-in-english/19/2681358/lithuania-debates-four-day-workweek-as-prime-minister-backs-shorter-schedules",
+    "normalized_url": "https://lrt.lt/en/news-in-english/19/2681358/lithuania-debates-four-day-workweek-as-prime-minister-backs-shorter-schedules",
+    "work_key": "https://lrt.lt/en/news-in-english/19/2681358/lithuania-debates-four-day-workweek-as-prime-minister-backs-shorter-schedules",
+    "title": "11. Lithuania debates four-day workweek as prime minister backs shorter schedules (LRT).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:20.349606Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a489d206794c04bf",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.4dayweek.co.uk/pilot-results",
+    "normalized_url": "https://4dayweek.co.uk/pilot-results",
+    "work_key": "https://4dayweek.co.uk/pilot-results",
+    "title": "12. Pilot Results (4 Day Week UK).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:20.427728Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3537c7ffcc43e1a7",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://4dayweek.com/press-releases",
+    "normalized_url": "https://4dayweek.com/press-releases",
+    "work_key": "https://4dayweek.com/press-releases",
+    "title": "13. Press Releases (4 Day Week Global).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:23.484398Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d7f366fb941d6e19",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://autonomy.work/2024/02/21/make-it-stick/",
+    "normalized_url": "https://autonomy.work/2024/02/21/make-it-stick",
+    "work_key": "https://autonomy.work/2024/02/21/make-it-stick",
+    "title": "14. Making It Stick: The UK Four-Day Week Pilot One Year On (Autonomy).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:32.347545Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7412db1664d26834",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.shrm.org/topics-tools/news/report-us-ireland-four-day-workweek-pilot-huge-success",
+    "normalized_url": "https://shrm.org/topics-tools/news/report-us-ireland-four-day-workweek-pilot-huge-success",
+    "work_key": "https://shrm.org/topics-tools/news/report-us-ireland-four-day-workweek-pilot-huge-success",
+    "title": "15. Report: U.S., Ireland Four-Day Workweek Pilot a 'Huge Success' (SHRM).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:23.026715Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "eb33601bac7e2037",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.4dayweek.com/sa-2023-pilot-results",
+    "normalized_url": "https://4dayweek.com/sa-2023-pilot-results",
+    "work_key": "https://4dayweek.com/sa-2023-pilot-results",
+    "title": "16. South Africa 4 Day Week Trial Results (4 Day Week Global).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:24.035978Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f8152180594f15a7",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://leftfootforward.org/2025/08/latest-four-day-working-week-trial-delivers-100-success-rate/",
+    "normalized_url": "https://leftfootforward.org/2025/08/latest-four-day-working-week-trial-delivers-100-success-rate",
+    "work_key": "https://leftfootforward.org/2025/08/latest-four-day-working-week-trial-delivers-100-success-rate",
+    "title": "17. Latest four-day working week trial delivers 100% success rate (Left Foot Forward).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:24.461307Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "00ec832467509384",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.cnbc.com/2019/11/04/microsoft-japan-4-day-work-week-experiment-sees-productivity-jump-40percent.html",
+    "normalized_url": "https://cnbc.com/2019/11/04/microsoft-japan-4-day-work-week-experiment-sees-productivity-jump-40percent.html",
+    "work_key": "https://cnbc.com/2019/11/04/microsoft-japan-4-day-work-week-experiment-sees-productivity-jump-40percent.html",
+    "title": "18. Microsoft Japan tested a four-day work week and found productivity jumped by 40% (CNBC).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:26.704569Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ded8a4e1b46c08a2",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.euronews.com/next/2023/10/31/workers-in-valencias-4-day-week-trial-report-less-stress-and-more-socialising",
+    "normalized_url": "https://euronews.com/next/2023/10/31/workers-in-valencias-4-day-week-trial-report-less-stress-and-more-socialising",
+    "work_key": "https://euronews.com/next/2023/10/31/workers-in-valencias-4-day-week-trial-report-less-stress-and-more-socialising",
+    "title": "19. Workers in Valencia's 4-day week trial report less stress and more socialising (Euronews).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:25.231617Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1f4fe9b60ec9d56f",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://shrm.org/topics-tools/news/employee-relations/4-day-workweek-continues-to-gain-interest",
+    "normalized_url": "https://shrm.org/topics-tools/news/employee-relations/4-day-workweek-continues-to-gain-interest",
+    "work_key": "https://shrm.org/topics-tools/news/employee-relations/4-day-workweek-continues-to-gain-interest",
+    "title": "20. Four-Day Workweek Continues to Gain Interest (SHRM).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:27.068347Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4b06e875b6015c2f",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.theregister.com/2025/07/22/4_day_week_study/",
+    "normalized_url": "https://theregister.com/2025/07/22/4_day_week_study",
+    "work_key": "https://theregister.com/2025/07/22/4_day_week_study",
+    "title": "21. Science confirms what we all suspected: Four-day weeks rule (The Register).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:28.700803Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "86ef938f9638cdcb",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.the74million.org/article/students-in-4-day-a-week-schools-can-suffer-covid-level-learning-losses/",
+    "normalized_url": "https://the74million.org/article/students-in-4-day-a-week-schools-can-suffer-covid-level-learning-losses",
+    "work_key": "https://the74million.org/article/students-in-4-day-a-week-schools-can-suffer-covid-level-learning-losses",
+    "title": "22. Students in 4-Day-a-Week Schools Can Suffer COVID-Level Learning Losses (The 74).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:28.093844Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6d4b4ec6b0a53c4e",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://journalistsresource.org/education/four-day-school-week-research/",
+    "normalized_url": "https://journalistsresource.org/education/four-day-school-week-research",
+    "work_key": "https://journalistsresource.org/education/four-day-school-week-research",
+    "title": "23. Four-day school week: Research shows the impact varies by school location and student grade level (Journalist's Resource).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:28.565237Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7bdd21484a52ae44",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://en.alda.is/2021/07/04/going-public-icelands-journey-to-a-shorter-working-week/",
+    "normalized_url": "https://en.alda.is/2021/07/04/going-public-icelands-journey-to-a-shorter-working-week",
+    "work_key": "https://en.alda.is/2021/07/04/going-public-icelands-journey-to-a-shorter-working-week",
+    "title": "24. Going Public: Iceland's Journey to a Shorter Working Week (Alda).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:29.974614Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c55f6195f32d3c5b",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://brusselstimes.com/804328/four-get-about-it-few-belgians-opt-for-shorter-work-week",
+    "normalized_url": "https://brusselstimes.com/804328/four-get-about-it-few-belgians-opt-for-shorter-work-week",
+    "work_key": "https://brusselstimes.com/804328/four-get-about-it-few-belgians-opt-for-shorter-work-week",
+    "title": "25. Four-get about it: Few Belgians opt for shorter work week (Brussels Times).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:34.515724Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f609db3cd7ae9be7",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://gulfnews.com/living-in-uae/ask-us/will-dubai-bring-back-its-four-day-summer-work-week-in-2026-1.500567705",
+    "normalized_url": "https://gulfnews.com/living-in-uae/ask-us/will-dubai-bring-back-its-four-day-summer-work-week-in-2026-1.500567705",
+    "work_key": "https://gulfnews.com/living-in-uae/ask-us/will-dubai-bring-back-its-four-day-summer-work-week-in-2026-1.500567705",
+    "title": "26. Will Dubai bring back its four-day summer work week in 2026? (Gulf News).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:30.581118Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "27c59f5530d6acf7",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://gulfnews.com/uae/government/sharjahs-new-four-day-work-week-improved-government-performance-reduced-accidents-by-40-study-finds-1.89814620",
+    "normalized_url": "https://gulfnews.com/uae/government/sharjahs-new-four-day-work-week-improved-government-performance-reduced-accidents-by-40-study-finds-1.89814620",
+    "work_key": "https://gulfnews.com/uae/government/sharjahs-new-four-day-work-week-improved-government-performance-reduced-accidents-by-40-study-finds-1.89814620",
+    "title": "27. Sharjah's new four-day work week improved government performance, reduced accidents by 40%, study finds (Gulf News).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:31.473431Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "675cbba9fcba83f8",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.tokyoweekender.com/japan-life/news-and-opinion/four-day-workweek-for-tokyo-government-workers/",
+    "normalized_url": "https://tokyoweekender.com/japan-life/news-and-opinion/four-day-workweek-for-tokyo-government-workers",
+    "work_key": "https://tokyoweekender.com/japan-life/news-and-opinion/four-day-workweek-for-tokyo-government-workers",
+    "title": "28. Four-Day Workweek for Tokyo Government Workers (Tokyo Weekender).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T02:55:50.098346Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "34d8e5e43d492746",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.koreatimes.co.kr/southkorea/politics/20250919/govt-seeks-passage-of-45-day-workweek-bill-this-year-despite-industry-pushback",
+    "normalized_url": "https://koreatimes.co.kr/southkorea/politics/20250919/govt-seeks-passage-of-45-day-workweek-bill-this-year-despite-industry-pushback",
+    "work_key": "https://koreatimes.co.kr/southkorea/politics/20250919/govt-seeks-passage-of-45-day-workweek-bill-this-year-despite-industry-pushback",
+    "title": "29. Gov't seeks passage of 4.5-day workweek bill this year despite industry pushback (Korea Times).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:33.616514Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "678b5c68fdccb60e",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.semafor.com/article/01/19/2026/south-korean-banks-shorten-workweek",
+    "normalized_url": "https://semafor.com/article/01/19/2026/south-korean-banks-shorten-workweek",
+    "work_key": "https://semafor.com/article/01/19/2026/south-korean-banks-shorten-workweek",
+    "title": "30. South Korean banks shorten workweek (Semafor).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:35.035094Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6bfe1a36b43d5452",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.seoulz.com/korea-4-5-day-workweek-2026/",
+    "normalized_url": "https://seoulz.com/korea-4-5-day-workweek-2026",
+    "work_key": "https://seoulz.com/korea-4-5-day-workweek-2026",
+    "title": "31. Korea 4.5-day workweek 2026 (Seoulz).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:36.795397Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d8e7794da4496ea3",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://advisory.ecija.com/en/reduccion-jornada-laboral-consulta-publica/",
+    "normalized_url": "https://advisory.ecija.com/en/reduccion-jornada-laboral-consulta-publica",
+    "work_key": "https://advisory.ecija.com/en/reduccion-jornada-laboral-consulta-publica",
+    "title": "32. Working day in Spain: from parliamentary failure to public consultation (ECIJA).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:37.103531Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c3d02088ce5c9657",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://remoteworkeurope.eu/news/2026/spain-working-hours-bill-stalled",
+    "normalized_url": "https://remoteworkeurope.eu/news/2026/spain-working-hours-bill-stalled",
+    "work_key": "https://remoteworkeurope.eu/news/2026/spain-working-hours-bill-stalled",
+    "title": "33. Spain Country Update: working hours bill stalled (Remote Work Europe).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:37.576200Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "002a942fc26c502a",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.que.es/2026/07/17/nuevo-registro-horario-julio-2026/",
+    "normalized_url": "https://que.es/2026/07/17/nuevo-registro-horario-julio-2026",
+    "work_key": "https://que.es/2026/07/17/nuevo-registro-horario-julio-2026",
+    "title": "34. Nuevo registro horario de julio de 2026: Trabajo adapta la normativa tras las exigencias del Consejo de Estado (Qué!).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:37.669397Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e22064d334896432",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.wtoc.com/2026/09/14/bill-introduced-reduce-workweek-32-hours/",
+    "normalized_url": "https://wtoc.com/2026/09/14/bill-introduced-reduce-workweek-32-hours",
+    "work_key": "https://wtoc.com/2026/09/14/bill-introduced-reduce-workweek-32-hours",
+    "title": "35. Bill introduced to reduce workweek to 32 hours (WTOC).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:38.908455Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "aa03f018c3bd2223",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://www.foxla.com/news/california-bill-mandating-4-day-work-week-stalled",
+    "normalized_url": "https://foxla.com/news/california-bill-mandating-4-day-work-week-stalled",
+    "work_key": "https://foxla.com/news/california-bill-mandating-4-day-work-week-stalled",
+    "title": "36. California bill mandating 4-day work week stalled (FOX 11 LA).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:39.920040Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0e91bd09abc99aef",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://www.fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek",
+    "normalized_url": "https://fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek",
+    "work_key": "https://fastcompany.com/90842153/will-maryland-be-the-first-state-to-adopt-a-four-day-workweek",
+    "title": "37. Will Maryland be the first state to adopt a four-day workweek? (Fast Company).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-18T02:56:48.673552Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8a8a0ec854f6a12f",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://civilserviceworld.com/news/article/ministers-drop-hostilities-against-fourdayweek-council",
+    "normalized_url": "https://civilserviceworld.com/news/article/ministers-drop-hostilities-against-fourdayweek-council",
+    "work_key": "https://civilserviceworld.com/news/article/ministers-drop-hostilities-against-fourdayweek-council",
+    "title": "38. Ministers drop hostilities against four-day week council (Civil Service World).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:47.064801Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0397cbaf5c24d4c3",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://cambridge.gov.uk/news/2025/07/17/south-cambridgeshire-district-council-votes-to-permanently-adopt-four-day-week",
+    "normalized_url": "https://cambridge.gov.uk/news/2025/07/17/south-cambridgeshire-district-council-votes-to-permanently-adopt-four-day-week",
+    "work_key": "https://cambridge.gov.uk/news/2025/07/17/south-cambridgeshire-district-council-votes-to-permanently-adopt-four-day-week",
+    "title": "39. South Cambridgeshire District Council votes to permanently adopt four-day week (Cambridge City Council).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:48.110728Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2c2eb6e31d8bc99a",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://autonomy.work/2025/08/27/introducing-a-shorter-working-week-in-scotlands-public-sector/",
+    "normalized_url": "https://autonomy.work/2025/08/27/introducing-a-shorter-working-week-in-scotlands-public-sector",
+    "work_key": "https://autonomy.work/2025/08/27/introducing-a-shorter-working-week-in-scotlands-public-sector",
+    "title": "40. Introducing a shorter working week in Scotland's public sector (Autonomy).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:42:59.664911Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "396ea4aa3d403312",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www.civilserviceworld.com/news/article/scottish-government-four-day-week-pilot-assessment-productivity-wellbeing-benefits",
+    "normalized_url": "https://civilserviceworld.com/news/article/scottish-government-four-day-week-pilot-assessment-productivity-wellbeing-benefits",
+    "work_key": "https://civilserviceworld.com/news/article/scottish-government-four-day-week-pilot-assessment-productivity-wellbeing-benefits",
+    "title": "41. Scottish Government: Minister rules out four-day week despite pilot finding productivity and wellbeing benefits (Civil Service World).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:04.153104Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "da16514960310c9e",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://kadry.infor.pl/kodeks-pracy/czas-pracy/7369974,resort-pracy-90-pracodawcow-i-ponad-5-tys-pracownikow-z-branzy-odziezowej-z-wodociagow-oraz-filharmonii-wezmie-udzial-w-pilotazu-skroconego-czasu-pracy-srednie-dofinansowanie-dla-jednego-podmiotu-wyniesie-05-mln-zl.html",
+    "normalized_url": "https://kadry.infor.pl/kodeks-pracy/czas-pracy/7369974,resort-pracy-90-pracodawcow-i-ponad-5-tys-pracownikow-z-branzy-odziezowej-z-wodociagow-oraz-filharmonii-wezmie-udzial-w-pilotazu-skroconego-czasu-pracy-srednie-dofinansowanie-dla-jednego-podmiotu-wyniesie-05-mln-zl.html",
+    "work_key": "https://kadry.infor.pl/kodeks-pracy/czas-pracy/7369974,resort-pracy-90-pracodawcow-i-ponad-5-tys-pracownikow-z-branzy-odziezowej-z-wodociagow-oraz-filharmonii-wezmie-udzial-w-pilotazu-skroconego-czasu-pracy-srednie-dofinansowanie-dla-jednego-podmiotu-wyniesie-05-mln-zl.html",
+    "title": "42. Resort pracy: 90 pracodawców i ponad 5 tys. pracowników weźmie udział w pilotażu skróconego czasu pracy (Infor Kadry).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:06.600334Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "89aa4502e45ff362",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://wydarzenia.interia.pl/kraj/news-pracuja-mniej-za-te-same-pieniadze-pierwsze-wnioski-testu-da,nId,23474291",
+    "normalized_url": "https://wydarzenia.interia.pl/kraj/news-pracuja-mniej-za-te-same-pieniadze-pierwsze-wnioski-testu-da,nId,23474291",
+    "work_key": "https://wydarzenia.interia.pl/kraj/news-pracuja-mniej-za-te-same-pieniadze-pierwsze-wnioski-testu-da,nId,23474291",
+    "title": "43. Pracują mniej za te same pieniądze. Pierwsze wnioski testu dają jednak do myślenia (Interia).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:08.266692Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bcf197f04acee061",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://movimentoeconomico.com.br/trabalho/2026/10/14/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho/",
+    "normalized_url": "https://movimentoeconomico.com.br/trabalho/2026/10/14/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
+    "work_key": "https://movimentoeconomico.com.br/trabalho/2026/10/14/senado-aprova-fim-da-escala-6x1-e-reducao-da-jornada-de-trabalho",
+    "title": "44. Senado aprova fim da escala 6x1 e redução da jornada de trabalho (Movimento Econômico).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:09.446972Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d00f5b72c9c2defa",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/germany-prepares-shift-to-weekly-working-time-limits",
+    "normalized_url": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/germany-prepares-shift-to-weekly-working-time-limits",
+    "work_key": "https://knowledge.dlapiper.com/dlapiperknowledge/globalemploymentlatestdevelopments/2026/germany-prepares-shift-to-weekly-working-time-limits",
+    "title": "45. Germany prepares shift to weekly working time limits (update) (DLA Piper).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:10.960736Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "257109bb88925e42",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://tech.co/?p=360477",
+    "normalized_url": "https://tech.co?p=360477",
+    "work_key": "https://tech.co?p=360477",
+    "title": "46. Study: Four-Day Workweek Momentum Rises Year on Year (Tech.co).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": null,
+    "fetched_at": "2026-11-18T02:55:41.035876Z",
+    "error_message": "Referencia nao encontrada (404): https://tech.co/?p=360477",
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b2fe1cf7943914f4",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://thenewstack.io/kpmgs-ceo-poll-labor-markets-4-day-workweeks-and-genai/",
+    "normalized_url": "https://thenewstack.io/kpmgs-ceo-poll-labor-markets-4-day-workweeks-and-genai",
+    "work_key": "https://thenewstack.io/kpmgs-ceo-poll-labor-markets-4-day-workweeks-and-genai",
+    "title": "47. KPMG's CEO Poll: Labor Markets, 4-Day Workweeks, and GenAI (The New Stack).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:19.512447Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "71a763088e4cef9a",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://emexmag.com/four-day-work-week-who-has-stuck-with-it-and-who-reverted/",
+    "normalized_url": "https://emexmag.com/four-day-work-week-who-has-stuck-with-it-and-who-reverted",
+    "work_key": "https://emexmag.com/four-day-work-week-who-has-stuck-with-it-and-who-reverted",
+    "title": "48. The Four-Day Work Week: Who Has Stuck With It and Who Reverted (Employee Experience Magazine).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:24.734273Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8b16ce1a71ada7be",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://www.cnbc.com/2022/01/05/the-4-day-workweek-becomes-permanent-for-tech-company-bolt.html",
+    "normalized_url": "https://cnbc.com/2022/01/05/the-4-day-workweek-becomes-permanent-for-tech-company-bolt.html",
+    "work_key": "https://cnbc.com/2022/01/05/the-4-day-workweek-becomes-permanent-for-tech-company-bolt.html",
+    "title": "49. After overwhelming success with a 4-day workweek pilot, tech company Bolt makes it permanent (CNBC).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:25.961356Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "becccd30f3227856",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://fortune.com/europe/2023/12/07/lamborghini-four-day-workweek-italy-germany-volkswagen-unions-uaw/",
+    "normalized_url": "https://fortune.com/europe/2023/12/07/lamborghini-four-day-workweek-italy-germany-volkswagen-unions-uaw",
+    "work_key": "https://fortune.com/europe/2023/12/07/lamborghini-four-day-workweek-italy-germany-volkswagen-unions-uaw",
+    "title": "50. 'Work less and work better…' Lamborghini makes history (Fortune).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:26.704788Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "dc655f012f10a737",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://www.gbnews.com/money/stealth-tax-on-jobs-flexible-working-report",
+    "normalized_url": "https://gbnews.com/money/stealth-tax-on-jobs-flexible-working-report",
+    "work_key": "https://gbnews.com/money/stealth-tax-on-jobs-flexible-working-report",
+    "title": "51. 'Stealth tax on jobs and wages' (GB News).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T03:43:27.314943Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d029e3aa4d63_20261115T034149Z",
+    "tool_name": "Claude"
+  }
+]

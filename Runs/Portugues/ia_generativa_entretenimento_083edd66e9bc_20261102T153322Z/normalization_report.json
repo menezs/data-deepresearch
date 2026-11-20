@@ -1,0 +1,26 @@
+{
+  "tool_tokens_removed": 0,
+  "stray_private_chars_removed": 0,
+  "grouped_markers_expanded": 0,
+  "superscripts_converted": 0,
+  "exponents_preserved": 0,
+  "reference_lists": [
+    {
+      "heading": "## Referências",
+      "entries": 27,
+      "role": "secondary",
+      "evidence_score": 0.03438946111359904
+    },
+    {
+      "heading": "#### Referências citadas",
+      "entries": 32,
+      "role": "primary",
+      "evidence_score": 0.11094690749863163
+    }
+  ],
+  "primary_list_choice": "evidence",
+  "dropped_list_lines": 0,
+  "body_markers": 20,
+  "body_markers_without_entry": [],
+  "warnings": []
+}

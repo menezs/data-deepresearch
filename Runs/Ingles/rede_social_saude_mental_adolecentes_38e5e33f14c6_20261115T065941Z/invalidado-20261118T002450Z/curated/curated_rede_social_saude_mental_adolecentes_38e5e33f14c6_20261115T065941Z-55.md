@@ -1,0 +1,148 @@
+[referencia=b1a6f756dd43551a score=0.998]
+The cross-lagged paths, reflecting how deviations from an individual’s expected level on one variable are associated with subsequent deviations on the other, revealed no association between depressive symptoms at baseline and social media use in year 1 (β, 0.00; 95% CI, –0.01 to 0.02; *P* = .46) or between social media use at baseline and depressive symptoms in year 1 (β, 0.03; 95% CI, –0.02 to 0.09; *P* = .19). However, significant cross-lagged associations emerged in subsequent waves. Specifically, from year 1 to year 2, social media use higher than the person-level mean in year 1 was associated with greater depressive symptoms in year 2 (β, 0.07; 95% CI, 0.01-0.12; *P* = .01; medium effect size). This pattern continued from year 2 to year 3, in which social media use higher than the person-level mean in year 2 was positively associated with greater depressive symptoms in year 3 (β, 0.09; 95% CI, 0.04-0.14; *P* < .001; medium effect size). There were no cross-lagged associations between depressive symptoms and later social media use at either interval (eg, year 1 depressive symptoms and year 2 social media use: β, 0.00 [95% CI, –0.007 to 0.01]; *P* = .65; year 2 depressive symptoms and year 3 social media use: (β, 0.00 [95% CI, –0.003 to 0.02]; *P* = .18).
+
+---
+
+[referencia=b1a6f756dd43551a score=0.996]
+            
+To address this gap, we leveraged data from the Adolescent Brain Cognitive Development (ABCD) Study, an ongoing national prospective cohort study that tracks participants over multiple time points.<sup>18</sup><sup>,19</sup> This design enabled us to explore individual trajectories and within-person variability in the association between social media use and depressive symptoms. The design also accounted for autoregressive effects and allowed us to explore the stability of social media use and depressive symptoms over time. We hypothesized that social media use and depressive symptoms in early adolescence would exhibit bidirectional within-person associations over time.
+
+            
+                             
+
+                        
+            
+                        
+            
+In this cohort study, we conducted analyses of data from baseline to year-3 follow-up of the ABCD Study (5.1 release). The ABCD Study is the largest longitudinal study of adolescent health, brain, and cognitive development in the US. It recruited children aged 9 to 10 years from 21 sites from October 2016 October 2018 (baseline). Participants were assessed across 4 waves (baseline, year 1, year 2, and year 3), with year-3 follow-up through 2022. Specifically, the repeated assessments allowed for a clearer examination of potential directionality—whether changes in social media use preceded shifts in depressive symptoms or vice versa (Figure 1). Sample sizes varied across waves and measures due to attrition and missing data. Analyses retained all available data at each wave. The ABCD Study sample, recruitment, protocol, and measures were reported previously<sup>20</sup>  and are further described in the eMethods in Supplement 1. Centralized institutional review board approval for the ABCD Study was received from the University of California, San Diego; written assent was obtained from the study participants, and written consent was obtained from their parents or guardians. The current study was a secondary analysis of deidentified ABCD Study and thus did not require additional approval or assent and consent. The current study followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) reporting guideline for cohort studies.
+
+---
+
+[referencia=b1a6f756dd43551a score=0.993]
+            
+                        
+                            
+                                Strengths and Limitations
+                            
+
+                         
+            
+The strengths and limitations of this study should be noted. Our study adds to knowledge in the field of adolescent health and communication science by examining longitudinal associations between social media use and depressive symptoms over 4 years, whereas most previous studies were cross-sectional. In addition, strengths include the analysis of a large, demographically diverse, contemporary sample of children and adolescents in the US. Limitations include the observational design of the study, leading to susceptibility to residual and unmeasured confounders despite adjustment for potential confounders, as well as reporting, recall, and social desirability bias.<sup>42</sup>
+
+            
+                        
+            
+In this cohort study of participants enrolled in the ABCD Study at age 9 or 10 years, higher person-level social media use in years 1 and 2 was associated with greater depressive symptoms in years 2 and 3. These findings suggest that more time spent on social media during early adolescence may contribute to increased depressive symptoms over time. Future studies could examine whether social media use is linked to heightened depressive symptoms by examining short-term shifts in cognitive (eg, negative self-talk, social comparison, or rumination) and excitative (eg, physiological arousal or stress) states, both of which are outlined as mediators in the DSMM.<sup>11</sup> Given that these states may fluctuate over days, weeks, or seasons, more intensive within-person designs (eg, daily diaries, ecological momentary assessment, and passive mobile sensing via smartphone) may offer a more precise understanding of these processes compared with annual assessments. Future research should also continue to examine the prospective relationships between social media and mental health outcomes as the ABCD Study cohort ages to middle and late adolescence as well as aim to examine the mechanisms underlying these associations.
+
+---
+
+[referencia=b1a6f756dd43551a score=0.992]
+Social media use among adolescents has risen sharply in recent years, raising concerns about its impact on mental health.<sup>1</sup> In 2021, 42% of adolescents reported persistent feelings of sadness or hopelessness, an increase of 50% from 2011.<sup>2</sup> Although correlations between social media use and depressive symptoms have been previously identified, the directionality of this relationship remains unclear.<sup>3</sup><sup>-9</sup> In 2023, the US Surgeon General issued the Advisory on Social Media and Youth Mental Health,<sup>10</sup> calling for longitudinal research, as most prior studies have been cross-sectional and were therefore unable to determine temporality, directionality, or within-person changes.<sup>3</sup><sup>-9</sup> Disentangling whether social media use contributes to or is a reflection of preexisting distress is critical for guiding evidence-based interventions and policy decisions.
+
+            
+Building on these concerns, the Differential Susceptibility to Media Effects Model (DSMM)<sup>11</sup> provides a guiding framework for understanding the relationship between social media use and adolescent mental health. The DSMM posits that media effects are not uniform but depend on dispositional, developmental, and sociocultural factors, which in adolescence may include heightened cognitive and emotional reactivity.<sup>12</sup><sup>,13</sup> These sensitivities make adolescence a critical period of vulnerability during which social media exposure may have lasting implications for mental health.<sup>14</sup> Social media use may also play a bidirectional role; it can influence future mood states while also being shaped by preexisting depressive symptoms, potentially creating reinforcing cycles of use and distress.<sup>15</sup> By applying the DSMM to examine within-person changes over time,<sup>16</sup> this study aimed to identify whether there are bidirectional associations between social media use and depressive symptoms in early adolescence. Of note, the few existing longitudinal studies on social media and mental health in adolescents have reported mixed findings,<sup>17</sup> and bidirectional relationships remain understudied.
+
+---
+
+[referencia=b1a6f756dd43551a score=0.987]
+            
+                        
+            
+In this cohort study of children and adolescents aged 9 to 12 years in the US, we found that there was a longitudinal association between increases in social media use and subsequent depressive symptoms at the within-person level. These findings provide initial evidence of temporal ordering and could suggest that social media use is a potential contributing factor to adolescent depressive symptoms rather than merely a correlate or consequence of such symptoms. Our findings are consistent with prior studies that have found associations between social media use and depression.<sup>33</sup><sup>-35</sup> In addition, a meta-analysis of 21 cross-sectional and 5 longitudinal studies found that there was a linear dose-response association between social media use and depression, further suggesting that social media use may be a risk factor for depression.<sup>36</sup>
+
+            
+Only a limited number of studies have assessed bidirectional longitudinal associations between social media use and depression in adolescents, with mixed findings.<sup>37</sup><sup>-39</sup> One Australian study of individuals aged 10 to 17 years used the RI-CLPM to analyze data from 2013 to 2015 and found no significant cross-lagged associations between social media use and depression.<sup>38</sup> A Dutch study of data from 2016 to 2018 (mean [SD] participant age of 13.1 [0.8] years) using the RI-CLPM found a unidirectional association between problematic social media use and decreased mental health a year later but not vice versa.<sup>39</sup> However, that study found no longitudinal associations between social media use intensity (eg, frequency of viewing, messaging) and mental health in either direction.<sup>39</sup> In contrast, our study found that more time spent on social media, conceptually close to the Dutch study’s measure of intensity, was associated with later depressive symptoms. Potential reasons for the differing findings could include variations in the periods (adolescent social media use has increased significantly in the past 15 years), age ranges (the analytic cohort in our study was limited to individuals aged 9 to 12 years), and country (US, Australia, and the Netherlands).
+
+---
+
+[referencia=b1a6f756dd43551a score=0.986]
+            
+Next, we evaluated the constrained RI-CLPM, which incorporates latent random intercepts to capture trait-like differences and imposes equality constraints on the cross-lagged paths across time. The constrained model provided markedly improved fit indices (CFI, 0.966; TLI, 0.957; RMSEA, 0.036 [90% CI, 0.034-0.038]; SRMR, 0.027). Compared with the traditional CLPM, the constrained RI-CLPM showed improved model fit (change in CFI, –0.049; change in RMSEA, 0.096). In addition, we estimated the unconstrained RI-CLPM, which allowed the cross-lagged parameters to vary freely across time. This model showed further improvement in fit (CFI, 0.977; TLI, 0.968; RMSEA, 0.031 [90% CI, 0.029-0.033]; SRMR, 0.022). Compared with the constrained RI-CLPM, the unconstrained version improved model fit modestly (change in CFI, 0.011; change in RMSEA, −0.005). On the basis of these comparisons and given the theoretical merit of allowing time-specific associations,<sup>14</sup>  we retained the unconstrained RI-CLPM as our final model (eTable 1 in Supplement 1). In the unconstrained RI-CLPM, social media use and depressive symptoms were modeled across the 4 waves (baseline, year 1, year 2, and year 3), controlling for between-person variance and the covariates listed in the Methods.
+
+            
+                        
+                            
+                                Between-Person Association
+                            
+
+                         
+            
+eTable 2 in Supplement 1 displays the standardized estimates for fixed covariates of both social media use and depressive symptoms within the final model. There were no between-person associations between depressive symptoms and social media use, as evidenced by the covariance between the latent random intercepts (β, −0.01; 95% CI, −0.04 to 0.02; *P* = .46). This suggests that adolescents with consistently high (or low) social media use were not necessarily the same adolescents with consistently high (or low) depressive symptoms after accounting for demographic and familial factors and within-person estimates.
+
+            
+                        
+                            
+                                Within-Person Associations
+
+---
+
+[referencia=b1a6f756dd43551a score=0.984]
+            
+                        
+                            
+                                Within-Person Associations
+                            
+
+                         
+            
+The time-varying within-person variables were modeled by estimating both autoregressive and cross-lagged paths among the residuals of the observed indicators (Figure 2 and eTable 3 in Supplement 1). Autoregressive effect sizes were significant for both constructs. Social media use exhibited strong temporal continuity, with an autoregressive coefficient (β) of 0.21 (95% CI, 0.16-0.25; *P* < .001) from baseline to year 1, 0.24 (95% CI, 0.20-0.27; *P* < .001) from year 1 to year 2, and 0.35 (95% CI, 0.32-0.38; *P* < .001) from year 2 to year 3. Depressive symptoms also showed stability, with autoregressive coefficients of 0.17 (95% CI, 0.14-0.20; *P* < .001) from baseline to year 1, 0.18 (95% CI, 0.14-0.21; *P* < .001) from year 1 to year 2, and 0.27 (95% CI, 0.24-0.31; *P* < .001) from year 2 to year 3. Within-wave residual covariance was modeled to assess contemporaneous associations. At year 3, the standardized residual covariance between social media use and depressive symptoms was 0.07 (95% CI, 0.03-0.10; *P* < .001), meaning that individuals reporting social media use higher than the person-level mean at that wave also tended to have depressive symptoms higher than the person-level mean.
+
+---
+
+[referencia=b1a6f756dd43551a score=0.984]
+            
+All models were estimated using maximum likelihood with robust SEs (MLR) in the lavaan package<sup>29</sup>  in R, version 4.4.2 (R Project for Statistical Computing). MLR accounts for nonnormality and provides robust SEs and a scaled test statistic. Full information maximum likelihood was used to handle missing data on the outcome measures (the eMethods in Supplement 1 provide more detail on missing data). We evaluated model fit using the comparative fit index (CFI), Tucker-Lewis index (TLI), root mean square error of approximation (RMSEA), and standardized root mean square residual (SRMR). We relied on fit criteria indicating good to excellent model fit<sup>30</sup> (eg, CFI ≥0.95, TLI ≥0.95, RMSEA ≤0.06, and SRMR ≤0.08). In accordance with the benchmarks of Orth et al,<sup>31</sup> cross-lagged effect sizes were interpreted as small (β = 0.03), medium (β = 0.07), and large (β = 0.12). Two-sided *P* < .05 was considered significant. Analyses were performed from January 2024 to March 2025.
+
+            
+                        
+            
+Sociodemographic characteristics of the analytic sample after excluding participants with missing baseline data for age or sex assigned at birth (N = 11 876) are presented in Table 1. A total of 5680 participants (47.8%) were female, 6196 (52.2%) were male, and the mean (SD) age at baseline was 9.9 (0.6) years. In all, 709 participants (6.0%) were Asian; 2392 (20.1%), Black; 2027 (17.0%), Hispanic or Latino; 410 (3.4%), Native American; 6166 (51.9%), White; and 171 (1.4%), other race and ethnicity. Table 2 shows descriptive statistics and 0-order correlations for the untransformed social media use variables and the CBCL depression raw scores across waves; descriptive indices (mean, SD, and range) suggested an overall increase in mean daily social media use from baseline to year 3 and a modest increase in mean depressive symptom scores.
+
+---
+
+[referencia=b1a6f756dd43551a score=0.984]
+To examine the reciprocal associations among social media use and depressive symptoms over time and to concurrently partition stable, between-person differences from within-person fluctuations, we estimated 3 alternative longitudinal structural equation models. Model comparisons were conducted in a sequential manner and based on standard global fit indices.<sup>30</sup> Following Chen’s<sup>32</sup> recommended cutoff criteria for fit indices (eg, CFI ≥0.95, RMSEA ≤0.06, change in CFI ≤0.01, and change in RMSEA ≤0.015), we evaluated whether each model demonstrated good fit and whether differences in fit between nested models were meaningful. First, we estimated the traditional CLPM, which does not partition stable between-person variance and yielded a poor fit (CFI, 0.917; TLI, 0.807; RMSEA, 0.132 [90% CI, 0.127-0.137]; SRMR, 0.065).
+
+---
+
+[referencia=b1a6f756dd43551a score=0.982]
+                
+            
+            
+                        
+            
+                        
+            
+Social media use was defined for this analysis as time spent on social media daily and was assessed using the ABCD Youth Screen Time Survey administered each year.<sup>21</sup> Adolescents responded to questions about the number of hours and minutes per weekday and weekend day they spent engaging with social media. The total time spent on social media was calculated as the weighted sum: [(weekday mean × 5) + (weekend mean × 2)]/7. Weighted mean social media use was reported as a continuous variable, representing the mean daily time spent (in hours).
+
+            
+                        
+            
+Depressive symptoms were assessed using the validated Child Behavior Checklist (CBCL) depressive problems score (from the *Diagnostic and Statistical Manual of Mental Disorders*–oriented scales) each year as reported by the caregiver.<sup>22</sup> The raw score (as opposed to the *t* score) was chosen to capture the full distribution of symptom severity in a community-based sample and to avoid the potential loss of within-person variability over time that may occur when standardizing scores according to age- and gender-based norms. Each raw score reflects the sum of items within the depression-related subscale, with higher values indicating more severe symptoms.
+
+            
+                        
+            
+Several covariates were included to account for demographic and contextual factors that may be associated with social media use or depressive symptoms, including sex (female, male), race and ethnicity (ascertained by parent or caregiver report; categories were Asian, Black, Hispanic or Latino, Native American, White, or other [no defined groups, although write-ins were allowed]), household income (<$25 000, $25 000-$49 999, $50 000-$74 999, $75 000-$99 999, $100 000-$199 999, and ≥$200 000), and highest parental educational level (high school or less vs college or more). The number of adverse childhood experiences,<sup>23</sup>  the parental monitoring scale,<sup>24</sup>  family conflict (conflict subscale of the Family Environment Scale<sup>25</sup> ), and the study site were also included as covariates (the eMethods in Supplement 1 give further details). All covariates were chosen based on prior literature suggesting their relevance to mental health and digital media behaviors.<sup>26</sup>
+
+---
+
+[referencia=b1a6f756dd43551a score=0.962]
+            
+These findings can be interpreted within the context of the DSMM,<sup>11</sup> which posits that some adolescents may be more susceptible to negative media effects due to dispositional (eg, personality, self-esteem), developmental (eg, age), and social-contextual factors (eg, family conflict). Differential susceptibilities may also explain why some social media may be beneficial for certain individuals while detrimental to others. In later waves of our study (particularly year 3), adolescents who reported social media use higher than the person-level mean also showed depressive symptoms higher than the person-level mean in the same wave. The contemporaneous associations suggest that immediate factors (eg, negative peer social interactions, family conflict) may coincide with or amplify concurrent distress.
+
+            
+The present study’s findings have implications for clinical practice and health policy. When interpreting our findings within the context of the DSMM,<sup>11</sup> interventions targeted at addressing developmental and social-contextual factors that may be associated with the negative effects of social media among adolescents could be considered. In particular, given that age is a likely developmental factor associated with these negative outcomes, early detection of and intervention for social media use are important. Furthermore, although our findings suggest that there is a unidirectional association between social media use and depression, with increases in social media use associated with depressive symptoms through subsequent years, prior research on adolescents, especially those with depressive symptoms, has shown that they can shift from maladaptive to more positive patterns of social media use when they become aware of its impact on their mood.<sup>40</sup> Specifically, qualitative interviews with treatment-seeking adolescents with depression revealed that over time, many adjusted their social media behaviors, reducing stress-related posting, avoiding triggering content, and using social media more intentionally to connect with supportive peers.<sup>41</sup> Interventions that promote mindful, purpose-driven social media use, such as encouraging adolescents to prioritize social connection,<sup>41</sup> may help mitigate negative outcomes and support better mental health.
+
+            
+Clinicians should consider inquiring about social media use among children and adolescents, particularly those younger than the recommended age limits (the minimum age requirement for most social media platforms is 13 years), and providing anticipatory guidance as needed. Professional organizations, such as the American Academy of Pediatrics, could refine guidelines on social media use and emphasize the importance of family media plans and intentional social media use.
+
+            
+                        
+                            
+                                Strengths and Limitations
+
+---
+
+[referencia=b1a6f756dd43551a score=0.913]
+To examine the reciprocal associations between social media use and depressive symptoms over 4 time points, we fit several longitudinal structural equation models.<sup>27</sup> We first estimated a traditional cross-lagged panel model (CLPM) and then compared it with random-intercept CLPMs (RI-CLPMs). The RI-CLPM is an extension of the traditional CLPM that explicitly separates stable between-person differences from within-person fluctuations over time.<sup>28</sup> By introducing latent random intercepts, the RI-CLPM ensures that each individual’s trait-like baseline is accounted for, allowing the cross-lagged paths to focus on how temporary (state-like) deviations in one variable are associated with subsequent deviations in another. This approach is particularly valuable when examining processes that may be confounded by persistent individual differences because it isolates the time-varying relationships within persons.<sup>16</sup> In doing so, the RI-CLPM clarifies whether an association is driven by people who have generally high scores on both constructs and by within-person changes that unfold across measurement occasions. It also enables the estimation of autoregressive and cross-lagged parameters that reflect carryover and spillover effects independent of any overall rank-order stability between participants.

@@ -1,0 +1,319 @@
+[referencia=f3e20b836daf5042 score=0.995]
+### IV-C Sound Recording Rights and Imitation (114(b))
+
+Copyright in sound recordings (17 U.S.C. §102(a)(7)) [2] protects a specific fixed performance. Section 114(b) [4] sharply limits that protection: it does not extend to "any sounds… where such sounds are merely imitated." This permits independent re-recordings even if very similar. Courts have applied this principle to cover songs and parodies: as long as the AI does not actually sample or copy the original recording’s waveform, mere stylistic imitation is allowed.
+
+In Richardson v. Kharbouch (N.D. Ill. 2024), a music producer accused a rapper of creating an "infringing sound-alike" beat. The court granted summary judgment for the defendant, noting that without physical duplication of Richardson’s specific recording, the sound-alike did not infringe the recording copyright. The 7th Circuit affirmed, emphasizing that the copyright in a recording is concerned with the fixed "embodiment" of sounds, not the abstract idea of an artist’s style or phrasing [13].
+
+Likewise, in Lehrman v. Lovo, Inc. (S.D.N.Y. 2025), voice actors alleged that Lovo’s AI cloned their voices. The court held that Section 114(b) bars infringement claims absent sampling of their actual recordings [12]. Although Lovo may have trained on snippets and certainly produced outputs resembling the actors’ voices, the court found no actionable copying of specific protected audio. Instead, the output was new generation guided by voice models. Thus, federal sound recording claims failed.
+
+---
+
+[referencia=1443f83fa4a07216 score=0.982]
+A recent decision from the U.S. District Court for the Southern District of New York sheds light on how existing intellectual property laws apply (or do not apply) to AI-generated voice clones.
+
+In *Lehrman v. Lovo, Inc.*, No. 23-cv-08269, 2025 WL 1902547 (S.D.N.Y. July 10, 2025), two professional voice actors sued Lovo, an AI text-to-speech company, for creating and using AI-generated clones of their voices. The plaintiffs alleged that Lovo had solicited original recordings of the voices under false pretenses, promising to use original recordings of their voice for non-commercial, internal research. One of the plaintiffs later discovered that Lovo had created a synthetic version of his voice while listening to an episode of a podcast narrated, in part, by his own digitally replicated voice. Plaintiffs alleged that Lovo had been marketing pseudonymous clones of their voices to paid subscribers, claiming that Lovo’s software “reproduce[s]” actors’ voices in a way that is “practically indistinguishable from the ‘real’ voice” and could “clone to perfection” the voices of specific speakers.
+
+Plaintiffs filed suit against Lovo, asserting the following claims: (1) false association and false advertising claims under the Lanham Act for use of the voice clones; (2) copyright infringement claims under the Copyright Act for use of both the voice recordings and the voice clones; and, (3) claims under New York state laws, including right of publicity and consumer protection laws, along with common law contract, fraud, conversion, unjust enrichment and unfair competition claims. Lovo moved to dismiss all claims.
+
+---
+
+[referencia=8437f7527c4dc055 score=0.981]
+*District court denies in part and grants in part AI startup’s motion to dismiss claims by voice actors involving creation and use of AI-generated voice clones, allowing breach of contract and right of publicity claims to proceed but dismissing federal trademark claims and most copyright claims.* 
+
+Plaintiffs Paul Lehrman and Linnea Sage, both professional voice actors, brought a putative class action against Lovo Inc., an artificial intelligence (AI) voice-over software company, alleging that Lovo unlawfully used their voices to create and sell AI-generated voice clones. 
+
+
+In 2019 and 2020, Lehrman and Sage were hired through online platform Fiverr by individuals later revealed to be Lovo employees. They were told their recordings would be used solely for internal and academic research. Instead, Lovo used the recordings to train its AI voice generator, “Genny,” and created voice clones marketed under the names “Kyle Snow” and “Sally Coleman.” These clones were sold to Lovo’s customers for commercial use, including in podcasts and advertisements. 
+
+
+Plaintiffs filed suit asserting federal copyright and trademark claims, statutory state law consumer protection and right of publicity claims, and state common law claims for breach of contract, among others, based on allegations that these voice clones were virtually indistinguishable from their real voices and were used without proper authorization or compensation. 
+
+
+Lovo moved to dismiss the complaint. The court denied in part and granted in part Lovo’s motion to dismiss, allowing state law claims of breach of contract, New York’s consumer protection law and New York’s right of publicity statute to proceed, while dismissing federal trademark claims and most of the federal copyright claims as well as the state common law claims other than breach of contract.
+
+---
+
+[referencia=8437f7527c4dc055 score=0.965]
+### Lanham Act Claims
+
+Plaintiffs brought two claims under the Lanham Act: false association (Section 43(a)(1)(A)) and false advertising (Section 43(a)(1)(B)). The court dismissed both. 
+
+
+As to false association, the key question involved whether a voice is a “mark” entitled to protection. The court held it was not. While courts have recognized that one’s likeness or persona—including voice—can function as a trademark, the court distinguished between using a voice as the product itself versus using a voice as a brand to identify the source or origin of the product. Here, plaintiffs’ voices were used as the product itself—i.e., the content in the sound recordings—and were not used to identify the source of the sound recordings. The court emphasized that trademark law is not intended to protect the product itself and that allowing those claims would improperly extend trademark protection into the realm of copyright and publicity rights.
+
+
+The court likewise dismissed the false advertising claim. Plaintiffs first argued that Lovo falsely marketed their voices under the names Kyle Snow and Sally Coleman. However, the court recognized that Lovo was not selling the actual voices but rather was truthfully marketing these voices as clones of real actors’ voices. Plaintiffs additionally argued that Lovo falsely claimed to have full commercial rights to their voices, but the court found that these statements did not concern the “nature, characteristics, or qualities” of a product as required under the Lanham Act. Instead, they were misrepresentations about licensing status, which are not actionable under the statute.
+
+---
+
+[referencia=1443f83fa4a07216 score=0.933]
+### Takeaway
+
+The *Lehrman* case highlights the novel questions that lie at the intersection of AI technology, intellectual property and publicity rights. The court’s detailed decision illustrates the current limits of federal IP protections for voice — and underscores the growing importance of state-level publicity rights and unfair competition laws in addressing emerging risks posed by AI voice clones.
+
+As AI-generated content becomes more ubiquitous, companies seeking to leverage technologies to create digital voices should carefully evaluate the legal landscape in their respective states. While federal trademark and copyright protections may not apply to AI voice clones, state rights of publicity and consumer protection laws could pose significant risks. Meanwhile, celebrities, content creators and other individuals with recognizable voices should note that protections for their voice will vary based on what state they live in.
+
+For more on how Fredrikson is tackling issues such as AI voice clones, read our related post Protecting Voice in the Age of AI or check out our Artificial Intelligence page*.*
+
+---
+
+[referencia=1443f83fa4a07216 score=0.932]
+### Copyright Claims: No Protection for Imitated Voices Alone
+
+The plaintiffs also brought claims under the Copyright Act, alleging that Lovo’s use of AI-generated voice clones infringed their rights in the original recordings. The court rejected these claims, holding that copyright protection does not extend to voice *per se* or to mere imitation of vocal characteristics.
+
+Under 17 U.S.C. § 114(b), copyright protection in a sound recording does not extend to “independent fixation of other sounds” that simulate or mimic the original. In other words, a voice clone that merely mimics the sound of a recording, even if trained using the original, does not constitute a copy under the Copyright Act unless it duplicates actual recorded material.
+
+Here, the plaintiffs alleged that Lovo used the original recordings to train the AI model, which then produced new, synthetic outputs that mimicked their voices. Because the outputs were not direct reproductions, the court found no actionable copying under the Copyright Act. The court also emphasized that even advanced AI-generated mimicry does not change the legal standard; absent substantial similarity to protected expression fixed in the original work, there is no infringement.
+
+However, one copyright claim did survive: the court found that the plaintiffs adequately pleaded infringement based on Lovo’s alleged use of an original recording in its promotional materials beyond the scope of the original license. That claim will proceed.
+
+### State Law Claims: A Path Forward?
+
+Though federal claims were largely dismissed, the court allowed several state law claims to continue. Notably, the court declined to dismiss the plaintiffs’ right of publicity claims under New York Civil Rights Law §§ 50 and 51. It held that the recently added “digital replica” provision to New York’s Civil Rights Law could plausibly apply to AI-generated voice clones, even in the absence of visual likeness.
+
+Additionally, the court upheld the plaintiffs’ breach of contract and consumer protection claims under New York law, while dismissing fraud and other common law torts as either inadequately pleaded or preempted.
+
+---
+
+[referencia=1443f83fa4a07216 score=0.893]
+### Trademark Claims: Voice Alone May Not Be a Source Identifier
+
+The plaintiffs brought false association and false advertising claims under Section 43(a) of the Lanham Act, alleging that the use of AI-cloned voices created consumer confusion and improperly suggested endorsement or affiliation. While the court acknowledged that voices are not *categorically* excluded from trademark protection, it emphasized that trademark law only protects features that function as *source identifiers* — that is, elements that indicate the origin of goods or services.
+
+The court distinguished this case from classic celebrity endorsement scenarios, where a celebrity’s name, likeness, or persona may serve both as the product and as the brand. In contrast, the plaintiffs were professional voice actors who provided voice services to clients. Because their voices were tools of their trade, rather than branding assets directly associated with a specific commercial source, the court found they lacked the required “secondary meaning” to be protectable under the Lanham Act.
+
+The court also noted that expanding trademark protection to cover any use of a voice that originates from a known individual — without showing that the voice is *primarily* associated in the marketplace with a particular source — would impermissibly broaden the Lanham Act’s scope and risk turning it into a general right of persona.
+
+The court similarly dismissed the false advertising claim, finding the plaintiffs failed to allege a concrete misrepresentation or a plausible theory of competitive injury.
+
+---
+
+[referencia=f3e20b836daf5042 score=0.859]
+- • 
+Lyrics and Composition Rights: If a user inputs copyrighted lyrics (or even large portions) into a GenAI system and generates a new song, the output likely infringes the musical composition. Lyrics are literary works protected as part of the composition (17 U.S.C. §102(a)(2)) [2], so copying them without permission or license violates the composer’s exclusive reproduction and derivative-work rights [3]. Even if the AI creates a new melody, unauthorized lyric reproduction is prima facie infringement absent fair use [5].
+- • 
+Voice Cloning vs. Sound Recordings: AI-generated "sound-alike" vocals typically do not infringe sound recordings unless actual fixed samples were copied. Section 114(b) [4] explicitly permits independent re-recordings or imitations of a vocal style. The recent decision in Richardson v. Kharbouch (7th Cir. 2025) held that sounding like French Montana without sampling his track was not infringement [13]. Likewise, Lehrman v. Lovo (S.D.N.Y. 2025) found no federal infringement when an AI cloned professional voices for training text-to-speech [12].
+- • 
+Publicity and State Law: Because federal copyright often fails to cover AI voice cloning, injured performers must rely on state rights of publicity or unfair competition [16, 17]. For example, Tennessee’s 2024 "ELVIS Act" and similar statutes recognize control over one’s voice and image when used without consent [20]. These state-law claims are independent of copyright [22].
+- • 
+Commercial Publication: Uploading AI-generated songs to streaming services or social media (with ads or subscriptions) creates direct evidence of exploitation. Owners of copyrighted works (lyrics, composition) can claim statutory damages (up to $150k/work) and profits under §504 [8] if registration is timely, plus injunctions [9]. Monetization increases remedies.
+- • 
+Case Law Trends: Recent cases illustrate this split: In Concord Music Group v. Anthropic, publishers sued over Claude outputting their lyrics [10]; Kadrey v. Meta addressed fair use in training [11]; Lehrman v. Lovo involved AI voice clones [12]; UMG v. Uncharted Labs challenges AI music streaming/ingestion [14]. Most outcomes favor copyright owners on lyric copying claims, and favor defendants on sound-alike voice claims [13, 15].
+
+---
+
+[referencia=f3e20b836daf5042 score=0.840]
+## II Introduction
+
+Modern generative AI music tools (e.g., Google’s Gemini Music, Meta’s MusicGen, MusicLM, Suno, Udio, Stability AI’s audio models, etc.) break song production into discrete technical modules [21]. A user might provide a text prompt containing the lyrics to a known song and stylistic instructions (e.g., "in the style of [famous artist]") and the AI system will process the prompt through multiple layers. First, natural language processing (NLP) encodes the lyric text and style instructions (often via a BERT-like transformer) into an internal embedding. Concurrently, AI modules generate melody and harmony (often using music-trained transformers or diffusion networks). Finally, a neural vocoder synthesizes the audio waveform, injecting a target vocalist’s characteristics via speaker embeddings or voice-conversion algorithms (e.g., VALL-E, RVC, or other zero-shot voice cloning tech). The result can be a fully produced song with instrumental tracks and a vocal track that sounds eerily like a well-known singer [19].
+
+From the user’s perspective, the process is nearly frictionless: the user supplies lyrics (potentially copyrighted), chooses vocal timbre ("like [artist]"), perhaps adds percussion or genre tags, and outputs a song. If the user then uploads that song to platforms (YouTube, Spotify, TikTok, etc.) and monetizes it, multiple legal issues arise at different stages: Was copyrighted material used during model training? Did the user’s prompt or the output copy protected expression? Is the synthesized singer’s voice a protected persona or just a non-copyrightable sound imitation? This paper examines these issues under U.S. law.
+
+We focus on 17 U.S.C. §106’s exclusive rights (reproduction, derivative works, distribution) for musical compositions and sound recordings [3]. We also consider §114(b) [4], which narrows sound recording rights, and note that voice-likeness claims often fall to state publicity laws (as in Tennessee’s ELVIS Act [20]). Our analysis is both legal (case law, statutes) and technical (identifying how AI components map to rights). We illustrate with recent litigation and propose remedies and policy reforms.
+
+---
+
+[referencia=f3e20b836daf5042 score=0.833]
+## Tables and Figures
+
+The following tables summarize key cases and the mapping of technical components to legal issues. Figures include charts for timeline and outcome distributions.
+
+| Case | Year | Stage | Claims | Outcome | 
+|---|---|---|---|---|
+| Concord Music Group v. Anthropic | 2024 | Output (Lyrics) | Composition infringement | Dismissed; litigation ongoing | 
+| Kadrey v. Meta Platforms | 2025 | Training | Copyright (books/training) | Fair use found for Meta | 
+| Lehrman v. Lovo, Inc. | 2025 | Output (Voice Clone) | Sound recording + publicity | Federal claims dismissed; publicity claims allowed | 
+| Richardson v. Kharbouch | 2025 | Output (Rap Beat) | Sound recording infringement | No infringement (7th Cir.) | 
+| UMG v. Uncharted Labs | 2026 | Training | DMCA §1201 / stream ripping | Pending | 
+| Phillips v. SkyPortal | 2022 | Output (Voice) | Sound recording / copyright | No infringement | 
+| Midler v. Ford Motor Co. | 1988 | Commercial Ad | Right of publicity | Liability found | 
+| Waits v. Frito-Lay | 1992 | Commercial Ad | Right of publicity | Damages awarded |
+
+---
+
+[referencia=f3e20b836daf5042 score=0.819]
+# Generative AI and Copyright Infringement: A Legal-Technical Analysis of AI Music Generation Systems Under 17 U.S.C. Title 17
+
+###### Abstract
+
+Generative artificial intelligence (GenAI) has enabled users to synthesize music with text prompts, combining copyrighted lyrics, AI-composed melodies, and synthetic vocals that imitate real artists. This paper examines the legal and technical dimensions of AI-based music creation (e.g., Google Gemini’s music tools) under U.S. copyright law. We analyze whether a user who inputs one artist’s protected lyrics into a GenAI system, directs it to use another artist’s voice or style, publishes the resulting song, and monetizes it violates 17 U.S.C. §106’s exclusive rights [3]. The analysis integrates Title 17 doctrine (rights of reproduction, derivative works, distribution), 17 U.S.C. §114’s narrow sound recording protection [4], and the new voice-cloning laws emerging at the state level [20]. We argue that unauthorized lyric copying poses a high risk of infringement of the musical composition, whereas mere AI-generated voice imitation typically falls outside federal sound-recording protection and instead implicates state publicity rights [12, 13]. Recent cases and legislation (Concord v. Anthropic [10]; Kadrey v. Meta [11]; Lehrman v. Lovo [12]; Tennessee’s "ELVIS Act" [20]; UMG v. Uncharted Labs [14]; etc.) illustrate this split. We map AI technical components (prompt encoding, latent diffusion, neural vocoders, speaker embeddings) to legal risks, and identify a regulatory gap: federal law robustly protects lyrics and melody, but currently provides limited remedies for synthesized vocal likeness [22, 23]. The paper concludes with policy suggestions for clearer rules on AI music creation.
+
+###### Index Terms:
+
+Generative AI, copyright infringement, music generation, AI voice cloning, Title 17, lyrics, sound recording, derivative works, right of publicity
+
+---
+
+[referencia=f3e20b836daf5042 score=0.803]
+## VI Case Studies
+
+### VI-A Lyrics Reproduction (Concord Music, Others)
+
+If a user copies full lyrics into a prompt, the result is a derivative work of the composition. In the Concord Music Group v. Anthropic lawsuits, music publishers claimed Anthropic’s Claude LLM had output their copyrighted lyrics and sheet music from prompts or training [10]. The Northern District of California granted a motion to dismiss on procedural grounds in March 2025, but the court’s ruling suggests that outright lyric copying would not escape traditional infringement analysis. The publishers argue that well-established principles (substantial similarity, market harm to publishing) apply even though AI is new [25]. This implies high risk for users doing unauthorized lyric prompts.
+
+Similarly, independent artists have raised alarms on social media and in articles about "AI covers" that mimic popular songs’ lyrics and style without permission. Even if the AI melody is original, copying the entire lyric set usually fails any fair-use defense when done for profit (because it substitutes for the original song’s market). The key remedy here is the composition owner’s, not the performer’s [25].
+
+### VI-B Voice Cloning (Lehrman, Richardson)
+
+Consider an AI-generated song with a synthesized vocal "sound-alike" (e.g., Billie Eilish’s voice singing Taylor Swift’s lyrics). From the record label’s perspective, there is no copy of any Taylor Swift sound recording, so 17 U.S.C. §114 does not protect it [4]. In Richardson v. Kharbouch, the 7th Circuit ruled that similarity in timbre and cadence, without taking actual copyrighted samples, is non-infringing [13]. This remains true even if listeners mistake the imitation for the real thing.
+
+However, the celebrity vocalist (or her estate) might pursue state law claims. The Lehrman v. Lovo court noted that unauthorized synthetic use of a voice can violate New York’s right-of-publicity statutes (NY Civ. Rights §§50–51) or analogous state laws [12]. This bifurcation means a single AI song can spawn a federal copyright suit (by the songwriter via the composition copyright) and a separate state suit (by the singer for misappropriating her voice identity) [22]. Because state laws vary widely, the legal risk map is fragmented: a New Yorker may have publicity protection, whereas another state may not recognize voice cloning as a publicity violation [26].
+
+---
+
+[referencia=f3e20b836daf5042 score=0.777]
+- [1] 17 U.S.C. §101 (2024).
+- [2] 17 U.S.C. §102 (2024).
+- [3] 17 U.S.C. §106 (2024).
+- [4] 17 U.S.C. §114 (2024).
+- [5] 17 U.S.C. §107 (2024).
+- [6] 17 U.S.C. §1201 (2024).
+- [7] 17 U.S.C. §501 (2024).
+- [8] 17 U.S.C. §504 (2024).
+- [9] 17 U.S.C. §505 (2024).
+- [10] Concord Music Group, Inc. v. Anthropic PBC, No. 5:24-cv-03811 (N.D. Cal. 2025).
+- [11] Kadrey v. Meta Platforms, Inc., 788 F. Supp. 3d 1026 (N.D. Cal. 2025).
+- [12] Lehrman v. Lovo, Inc., 790 F. Supp. 3d 348 (S.D.N.Y. 2025).
+- [13] Richardson v. Kharbouch, No. 24-1119, 2025 WL 193099 (7th Cir. Jan. 16, 2025).
+- [14] UMG Recordings, Inc. v. Uncharted Labs, Inc., No. 1:24-cv-04777 (S.D.N.Y. 2026).
+- [15] Phillips v. SkyPortal, LLC, 32 F.4th 1056 (9th Cir. 2022).
+- [16] Midler v. Ford Motor Co., 849 F.2d 460 (9th Cir. 1988).
+- [17] Waits v. Frito-Lay, Inc., 978 F.2d 1093 (9th Cir. 1992).
+- [18] Paul V. Allen, Control of Voice Identity in the Era of Generative AI, 2024 UCLA Entertainment L. Rev. 123 (2024).
+- [19] M. Tan, “The Sound of Deepfakes: Are Voice Clones Copyright Infringement?,” Stanford Tech. L. Rev. (forthcoming 2025).
+
+---
+
+[referencia=8437f7527c4dc055 score=0.720]
+### Copyright Infringement
+
+The court then addressed four types of copyright claims, with mixed results.
+
+
+The court allowed Sage’s claim relating to Lovo’s use of her actual voice recording in investor presentations and in videos on Lovo’s YouTube channel. The court found that this use exceeded the scope of the license in Fiverr’s Terms of Service and constituted direct infringement. 
+
+
+On plaintiffs’ claims based on Lovo’s use of their voice to train its AI model Genny, the court found that plaintiffs failed to explain how Lovo’s AI training process infringed their copyrights. Noting that with more detail, those claims might be viable, the court dismissed the claims but granted plaintiffs leave to amend. 
+
+
+As to plaintiffs’ copyright claim based on the output of the AI model—i.e., the voice clones—the court held that copyright law does not protect against imitation or simulation of a voice, only against direct copying of a fixed recording. Since the AI-generated voices were completely new recordings that mimicked—but did not reproduce—the originals, they fell outside the scope of copyright protection, and the court dismissed them. 
+
+
+Last, the court dismissed the contributory copyright infringement claims, finding that plaintiffs failed to allege that any third party reproduced the original sound recordings that plaintiffs owned.
+
+### New York Civil Rights Law (Sections 50 and 51)
+
+The court upheld plaintiffs’ claims under New York’s right of publicity statute, Civil Rights Law (Sections 50 and 51), which prohibits the unauthorized commercial use of a person’s name, portrait, picture or voice. Lovo’s main argument on its motion to dismiss was that Section 50’s recent amendment protecting digital replicas of deceased persons meant that living persons were excluded from the statute’s scope. The court disagreed, however, recognizing that living persons had already been covered under the law before the amendment took effect. The court also noted that the statute’s purpose is to protect one’s identity—whether the person is deceased or living—and that a voice clone is a recognizable representation of a person’s identity.
+
+
+The court then found that plaintiffs adequately alleged that the voice clones were recognizable as plaintiffs’; that the voice clones were used in New York by Lovo’s customers; and that the voice clones were used for commercial purposes—for example, to “increase the appeal of [Lovo’s] software, acquire subscribers, and retain subscribers it already had.”
+
+---
+
+[referencia=8437f7527c4dc055 score=0.528]
+### New York General Business Law (Sections 349 and 350)
+
+The court also allowed plaintiffs’ statutory consumer protection claims under New York General Business Law (Sections 349 and 350). The court found that Lovo’s actions amounted to a materially misleading practice directed at the public at large that harmed both consumers and plaintiffs as competitors. 
+
+
+Regarding harm to consumers, the court concluded that Lovo’s customers “received a product that was worth less than Lovo promised,” acknowledging plaintiff’s allegation that Lovo misled its customers by claiming to offer full commercial rights to the voice clones without legal restrictions, despite the fact that such use violated New York’s right of publicity statute. 
+
+
+Regarding harm to plaintiffs, the court found that they plausibly alleged diverted customers and lost sales, and it noted that plaintiffs did not need to be Lovo’s customers themselves to have standing to bring these claims.
+
+### Common Law Claims
+
+Finally, the court dismissed plaintiffs’ claims for fraud, unjust enrichment, conversion and unfair competition. The fraud claim was dismissed as duplicative of the contract claims, since Lovo’s promise to limit the use of the voice recordings “directly relate[s] to a specific provision in the contract.” The unjust enrichment and conversion claims were preempted by New York’s right of publicity statute. Finally, the unfair competition claim was dismissed for the same reasons the Lanham Act false association claim was dismissed. 
+
+
+Summary prepared by David Grossman and Alex Loh
+
+- 
+                            Co-Chair, Litigation
+- 
+                            Associate
+
+---
+
+[referencia=f3e20b836daf5042 score=0.347]
+One concrete step is to apply existing tools more aggressively: platforms could scan uploads for known lyrics (text fingerprinting) and for voiceprints (audio fingerprinting against sound recording databases) and flag potential infringement. Licensing regimes could be created for AI models (analogous to mechanical licenses for covers) whereby using a particular artist’s voice or lyrics would require a fee [25, 21].
+
+## VIII Policy Recommendations
+
+To harmonize protection of lyrics and vocal identity in the AI era, we suggest:
+
+- •
+- •
+- • 
+Content Identification: Encourage the development of AI-detection tools and content-ID systems for music that flag copyrighted inputs or outputs [19].
+- • 
+Transparency Labels: Mandate that AI-generated music include metadata disclosing AI involvement, aiding rights holders in enforcement and informing consumers [21].
+- •
+- •
+
+## IX Conclusion
+
+As GenAI music tools like Google Gemini become mainstream, both creators and consumers must navigate a complex legal landscape. Our analysis finds that entering copyrighted lyrics into an AI prompt, then publishing and monetizing the AI-produced song, likely infringes the song’s composition rights under Title 17 [3, 10, 25]. By contrast, synthesizing a singer’s voice without copying their recording tends not to trigger federal copyright claims, shifting the dispute to state publicity law [12, 13, 16, 17]. This split means lyric owners (composers/publishers) have stronger remedies than performers when their vocal likeness is AI-cloned [22].
+
+The contrast underscores a regulatory gap: the law covers words and notes, but treats the "sound of a voice" as unprotected sound [19, 23]. Unless addressed by courts or legislatures, AI music generation will continue to exploit this asymmetry. In the meantime, users should err on the side of caution: assume that copying lyrics or melodies without permission is infringement, and that generating a famous voice without authorization, while not a copyright crime, may still be illegal under other laws or contracts [20, 26]. Platforms and policymakers should update practices and laws to ensure creators’ rights are balanced with innovation in this new AI-driven age.
+
+---
+
+[referencia=f3e20b836daf5042 score=0.326]
+## III Literature Review
+
+Early AI image and text cases have analogues in music. The literature distinguishes three layers: (1) Training-layer copying, where large datasets of copyrighted music (songs, lyrics, recordings) may be ingested into models; (2) Output-layer reproduction, where AI outputs may inadvertently or deliberately recreate protected works; and (3) Commercial dissemination, where outputs reach the market and may cause market harm [27, 28].
+
+In music specifically, scholarly attention is nascent. Some authors highlight that musical compositions (melody, harmony, lyrics) are separate copyrights from sound recordings, complicating analysis [29]. AI outputs can blend these elements. The U.S. Copyright Office has noted that music AI raises novel questions about authorship and infringement [2].
+
+Several law review and industry pieces have surfaced post-2022. For example, a Brooklyn Law School review discusses composers’ concerns about AI using sheet music and lyrics [11]. Another analysis notes that while AI art might not itself be copyrightable absent human authorship, the process still "materially affects" markets for original works [30]. On voice cloning, scholars note the "publicity gap": federal copyright (even with new owners like performing rights societies) hasn’t addressed the value in a performer’s unique voice, leading to calls for expanded rights [22, 23].
+
+Prominent cases and industry actions have driven recent commentary. The RIAA publicly denounced unlicensed AI "cover" platforms like Suno and Udio, and UMG recently sued them for allegedly stream-ripping copyrighted recordings as training data [5, 14]. Law firms and news outlets have reported on publisher suits against AI companies for lyric output (Concord v. Anthropic [10], and a companion suit by Universal Music Group). Articles also discuss individual lawsuits: e.g., NPR’s former host David Greene sued Google (2024) for using his voice in the NotebookLM AI tool, and various voice actors have sued startups like Lovo for creating synthetic clones of their voices [12]. (See Section IV.C.)
+
+Academic treatments include proposals to adapt Copyright Act factors to AI training data (fair use’s fourth factor of market effect looms large [11]). Others suggest legislative solutions: California and Tennessee have enacted laws protecting biometric data including voice (e.g. Tennessee S.B. 1921, the "ELVIS Act" effective July 2024, explicitly targeting AI voice cloning [7, 20]).
+
+---
+
+[referencia=f3e20b836daf5042 score=0.237]
+## VII Discussion
+
+The emerging AI music ecosystem shows a structural enforcement asymmetry. Traditional copyright doctrines align well with human-authored music: they protect lyrics and melody explicitly [2, 3]. AI complicates things by mechanizing composition. Yet output that literally reuses lyrics triggers the same legal analysis as any cover song done without permission [25]. Early cases suggest copyright owners will press these conventional claims vigorously [10, 11].
+
+By contrast, AI-blurred sound recordings and performances escape Title 17 for now. Synthetic vocals are "new" sounds that mimic old ones. Section 114(b) [4] expressly allows imitation of the sound of another voice, as long as no actual audio bits were copied. While owners can (and have) argued that voice is something they should own, courts to date (like in Phillips v. SkyPortal and Lehrman v. Lovo) have refused to stretch 17 U.S.C. §114 that far [15, 12]. This creates a perverse incentive: a user may think "as long as I don’t sample, I’m safe," even if the output clearly trades on an artist’s persona [19].
+
+The upshot is a legal gap. If XYZ’s AI sings a Frank Sinatra lyric convincingly, Sinatra’s heirs may have no federal remedy (since Sinatra’s estate likely owns the composition, not a particular recording). They could attempt a publicity suit (as Tony Bennett’s estate did against LMFAO for a nightclub ad that caricatured Bennett’s voice) [16, 17], but such claims are costly and uncertain [22]. Meanwhile, Swift’s publisher can sue for lyrics, giving one set of rights steam, and Sinatra’s estate another, but these are separate tracks.
+
+From a policy standpoint, this imbalance is worrying. It signals that AI creators can exploit performer identity via synthetic clones with less legal risk than copying a lyric or melody [23]. Laws like Tennessee’s ELVIS Act [20] (now joined by similar legislation in California and Washington) partially address this by creating sui generis rights. But a patchwork of state laws is imperfect [26]. There have been proposals for a federal ‘Singing Voice Protection Act’ or expanding sound recording rights to include persona-based protections [18]. Another proposal is mandatory labeling of AI-generated music so consumers and artists know when a voice is synthetic (enabling transparency and opt-in arrangements) [19].
+
+---
+
+[referencia=f3e20b836daf5042 score=0.137]
+## IV Legal Analysis under Title 17
+
+We analyze the hypothetical workflow under Title 17:
+
+### IV-A Musical Composition Rights (Lyrics)
+
+Lyrics are protected as literary work within the musical composition (17 U.S.C. §102(a)(2)) [2]. The composer/lyricist holds the exclusive reproduction and derivative-work rights (§106) [3]. If a user copies copyrighted lyrics into a GenAI prompt and the output song includes those lyrics (even with a new melody or style), this likely constitutes infringement of the composition. Even if the melody is original, the lyrics themselves are reproduced verbatim or in recognizably adapted form, which is a derivative use. Courts apply the "ordinary observer" test to lyrical similarity, and token-for-token copying easily meets "substantial similarity" [25]. For example, in Concord Music Group v. Anthropic (N.D. Cal., 2025), publishers allege exactly this scenario: Claude’s output reportedly matched protected lyrics to which publishers hold rights [10]. While that case is in early stages, the publishers’ framing relies on standard copyright doctrine.
+
+### IV-B Derivative Works and Adaptation
+
+Even if the AI output melody is new, combining it with copied lyrics creates an unauthorized derivative work under 17 U.S.C. §101’s definition [1]. The composition owner’s right to prepare derivatives would be violated. The key inquiry is whether the AI output "recasts, transforms, or adapts" the original composition. Here it clearly does by adding instrumental arrangement and vocal performance, but without authorization. The fact that the user, not the AI company, provided the lyrics is legally immaterial: the user’s instruction itself instigated the copying, making the user a direct infringer (analogous to directing a sampler or a cover band). Thus liability extends to the user and potentially the platform hosting the output, as well as possibly secondary liability for the AI provider under contributory or inducement theories if they encourage infringement [25].
+
+---
+
+[referencia=f3e20b836daf5042 score=0.087]
+- [19] M. Tan, “The Sound of Deepfakes: Are Voice Clones Copyright Infringement?,” Stanford Tech. L. Rev. (forthcoming 2025).
+- [20] Tennessee House Bill 2663 (2024), Ensuring Likeness, Image and Voice Security Act (Tenn. Code Ann. §47-25-101 et seq.).
+- [21] J. Smith, “Generative AI in the Music Industry,” Brooklyn J. Corp. L. (2025).
+- [22] J. Rothman, “The Right of Publicity and AI Voices,” Columbia J. of L. & Arts (2023).
+- [23] S. McJohn, “Performers’ Rights in the Age of AI,” Fordham L. Rev. (2024).
+- [24] M. Kadrey, Fair Use in AI Training: Lessons from Books (June 2025).
+- [25] A. Goldwater, “Songwriters vs. AI: Licensing and Liability,” Argosy L. J. 45 (2024).
+- [26] T. Johnson, “AI Voice Cloning Laws in 2026,” SoundPlate (Jan. 2026).
+- [27] P. Samuelson, “AI Training and Copyright Fair Use,” Berkeley Tech. L.J. (2024).
+- [28] J. Litman, “Digital Copyright and Generative AI,” Mich. L. Rev. (2025).
+- [29] J. Ginsburg, “Music Copyright in the Age of AI,” Colum. J.L. & Arts (2024).
+- [30] “Computer Arts and Copyrightability,” Harv. L. Rev. (2024).

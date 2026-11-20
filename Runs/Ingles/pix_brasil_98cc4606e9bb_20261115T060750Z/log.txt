@@ -1,0 +1,119 @@
+2026-11-15 02:07:50,731 INFO     __main__: Iniciando run pix_brasil_98cc4606e9bb_20261115T060750Z para
+                                 answers/Ingles/ChatGPT/EmConsolidacao/pix_brasil.md (ferramenta=ChatGPT)
+2026-11-15 02:07:58,471 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-15 02:07:58,471 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-15 02:08:00,851 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 13726.49it/s]
+2026-11-15 02:08:10,754 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-15 02:08:10,764 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-15 02:08:10,771 INFO     auditframework.pipeline: Extraidas 25 referencias de
+                                 answers/Ingles/ChatGPT/EmConsolidacao/pix_brasil.md (0 descartadas como artefato do
+                                 exportador)
+2026-11-15 02:08:10,780 INFO     auditframework.pipeline: Resposta dividida em 106 trechos citados
+2026-11-15 02:08:10,782 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-15 02:08:10,783 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-15 02:08:10,784 INFO     auditframework.ingestion.service: Ingestao: 25 referencias, 0 ja baixadas, 0 ja
+                                 bloqueadas, 25 pendentes
+2026-11-15 02:10:30,698 WARNING  auditframework.ingestion.service: Referencia https://www.nber.org/papers/w34280 nao
+                                 concluiu o download em 90s — marcada inacessivel
+2026-11-15 02:10:30,703 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 25/25 [02:19<00:00,
+                                 5.60s/ref]
+2026-11-15 02:11:36,035 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.nber.org/papers/w34280: Falha ao baixar a copia do Wayback de
+                                 https://www.nber.org/papers/w34280: Rate limit persistente em
+                                 http://web.archive.org/web/20260517022238id_/https://www.nber.org/papers/w34280
+2026-11-15 02:11:36,037 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.nber.org/papers/w34280 (Falha ao conectar em
+                                 https://www.nber.org/papers/w34280: Failed to perform, curl: (28) Operation timed out
+                                 after 25002 milliseconds with 0 bytes received. See
+                                 https://curl.se/libcurl/c/libcurl-errors.html first for more details.)
+2026-11-15 02:11:36,040 INFO     auditframework.pipeline: Ingestao concluida: 24 documentos disponiveis
+2026-11-15 02:11:36,041 INFO     auditframework.terminal: ✓ ingestion concluído em 205.3s
+2026-11-15 02:11:36,042 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-15 02:11:37,376 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 24/24
+                                 [00:01<00:00, 18.02doc/s]
+2026-11-15 02:11:37,376 INFO     auditframework.indexing.service: Gerando embeddings para 669 chunks de 24 documentos
+2026-11-15 02:12:02,885 INFO     auditframework.terminal: Batches: 100%|██████████| 42/42 [00:25<00:00,  1.65it/s]
+2026-11-15 02:12:02,954 INFO     auditframework.pipeline: Indice construido a partir de 24 documentos
+2026-11-15 02:12:02,956 INFO     auditframework.terminal: ✓ indexing concluído em 26.9s
+2026-11-15 02:12:02,957 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-15 02:12:02,964 INFO     auditframework.pipeline: Julgamento: 106 chunks, 0 ja julgados, 0 ja pulados, 106
+                                 pendentes
+2026-11-15 02:12:03,842 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-15 02:12:04,416 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/106 [00:00<?,
+                                 ?chunk/s]
+2026-11-15 02:12:04,518 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-15 02:12:04,571 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 2560.38it/s]
+2026-11-15 02:14:47,920 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 106/106 [02:44<00:00,
+                                 1.56s/chunk]
+2026-11-15 02:59:37,462 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 106/106 [44:49<00:00,
+                                 25.37s/chunk]
+2026-11-15 02:59:37,466 INFO     auditframework.terminal: ✓ judging concluído em 2854.5s
+2026-11-15 02:59:37,474 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-15 02:59:37,482 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/pix_brasil_98cc4606e9bb_20261115T060750Z/report.md
+2026-11-15 02:59:37,483 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-15 02:59:37,484 INFO     __main__: Run pix_brasil_98cc4606e9bb_20261115T060750Z concluida
+2026-11-15 02:59:37,484 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/pix_brasil_98cc4606e9bb_20261115T060750Z/report.md
+2026-11-17 23:06:55,166 INFO     auditframework.terminal: audit refetch pix_brasil_98cc4606e9bb_20261115T060750Z
+2026-11-17 23:06:55,169 INFO     auditframework.ingestion.service: Ingestao: 25 referencias, 24 ja baixadas, 0 ja
+                                 bloqueadas, 1 pendentes
+2026-11-17 23:06:56,382 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 1/1 [00:01<00:00,
+                                 1.20s/ref]
+2026-11-17 23:06:56,386 INFO     auditframework.terminal: pix_brasil_98cc4606e9bb_20261115T060750Z: 1 fonte(s) sem
+                                 conteudo, 1 recuperada(s)
+2026-11-17 23:06:56,386 INFO     auditframework.terminal:   https://www.nber.org/papers/w34280 — downloaded
+2026-11-17 23:06:56,540 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para
+                                 data/runs/pix_brasil_98cc4606e9bb_20261115T060750Z/invalidado-20261118T030656Z
+2026-11-17 23:06:56,540 INFO     auditframework.terminal: 2 trecho(s) citado(s) para julgar de novo (os demais mantem o
+                                 veredito)
+2026-11-17 23:06:56,540 INFO     auditframework.terminal: Rode: audit resume pix_brasil_98cc4606e9bb_20261115T060750Z
+2026-11-17 23:06:57,112 INFO     __main__: Retomando run pix_brasil_98cc4606e9bb_20261115T060750Z
+2026-11-17 23:07:04,240 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 23:07:04,240 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 23:07:06,422 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 11169.42it/s]
+2026-11-17 23:07:16,858 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-17 23:07:16,866 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-17 23:07:16,866 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-17 23:07:16,868 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-17 23:07:18,340 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 25/25
+                                 [00:01<00:00, 17.01doc/s]
+2026-11-17 23:07:18,340 INFO     auditframework.indexing.service: Gerando embeddings para 670 chunks de 25 documentos
+2026-11-17 23:07:44,837 INFO     auditframework.terminal: Batches: 100%|██████████| 42/42 [00:26<00:00,  1.59it/s]
+2026-11-17 23:07:44,897 INFO     auditframework.pipeline: Indice construido a partir de 25 documentos
+2026-11-17 23:07:44,899 INFO     auditframework.terminal: ✓ indexing concluído em 28.0s
+2026-11-17 23:07:44,900 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-17 23:07:44,909 INFO     auditframework.pipeline: Julgamento: 106 chunks, 104 ja julgados, 0 ja pulados, 2
+                                 pendentes
+2026-11-17 23:07:45,863 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-17 23:07:46,460 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/2 [00:00<?, ?chunk/s]
+2026-11-17 23:07:46,564 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-17 23:07:46,639 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 2230.51it/s]
+2026-11-17 23:08:30,942 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 2/2 [00:46<00:00,
+                                 23.02s/chunk]
+2026-11-17 23:08:40,716 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 2/2 [00:09<00:00,
+                                 4.88s/chunk]
+2026-11-17 23:08:40,717 INFO     auditframework.terminal: ✓ judging concluído em 57.5s
+2026-11-17 23:08:40,722 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 23:08:40,733 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/pix_brasil_98cc4606e9bb_20261115T060750Z/report.md
+2026-11-17 23:08:40,735 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 23:08:40,735 INFO     __main__: Run pix_brasil_98cc4606e9bb_20261115T060750Z concluida
+2026-11-17 23:08:40,736 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/pix_brasil_98cc4606e9bb_20261115T060750Z/report.md

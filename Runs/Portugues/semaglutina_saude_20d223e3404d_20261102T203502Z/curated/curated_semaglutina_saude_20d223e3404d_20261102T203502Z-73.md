@@ -1,0 +1,19 @@
+[referencia=8377203d068fae33 score=0.585]
+**Bottom line:**  GLP-1 receptor agonists used for weight loss are associated with a higher risk of gastrointestinal adverse events—particularly pancreatitis, bowel obstruction, and gastroparesis—compared to bupropion-naltrexone, and although these events are relatively rare, they should still be considered in the risk-benefit assessment for patients without a history of diabetes who are considering GLP-1 agonists for weight management.
+
+**Citation:** Sodhi M, Rezaeianzadeh R, et al. Risk of gastrointestinal adverse events associated with glucagon-like peptide-1 receptor agonists for weight loss. *JAMA*. 2023;330(18):1795-7.
+
+*Dr. Carroll is a hospitalist in the division of hospital medicine at NYU Langone Tisch Hospital and an assistant professor of medicine at the NYU Grossman School of Medicine, both in New York.*
+
+---
+
+[referencia=8377203d068fae33 score=0.130]
+**Clinical question:** What is the risk of gastrointestinal adverse events associated with glucagon-like peptide-1 (GLP-1) receptor agonists used for weight loss compared to bupropion-naltrexone?
+
+**Background:** GLP-1 receptor agonists, initially approved for diabetes management, are increasingly used off-label for weight loss. Previous studies have indicated a higher risk of gastrointestinal issues—such as gastroparesis, pancreatitis, biliary disease, and bowel obstruction—in diabetic patients. However, the risk in non-diabetic patients using these medications for weight loss is less understood. This study aims to investigate the incidence of gastrointestinal adverse events associated with GLP-1 agonists (semaglutide and liraglutide) in a clinical setting.
+
+**Study design:** Observational cohort study
+
+**Setting:** Analysis of a large-scale health claims database (PharMetrics Plus for Academics database—IQVIA), encompassing data from 16 million patients between 2006 and 2020
+
+**Synopsis:** The study analyzed a cohort of 5,411 patients, including 613 users of semaglutide, 4,144 users of liraglutide, and 654 users of bupropion-naltrexone. Patients were included if they had a diagnosis of obesity without a history of diabetes. Researchers tracked the first occurrence of gastrointestinal adverse events (identified by ICD-9 or ICD-10 codes). GLP-1 agonist users exhibited significantly higher risks of pancreatitis (adjusted HR, 9.1; 95% CI, 1.3 to 66), bowel obstruction (HR, 4.2; 95% CI, 1.0 to 17.4), and gastroparesis (HR, 3.7; 95% CI, 1.2 to 11.9) compared to bupropion-naltrexone users. However, the risk for biliary disease was not significantly increased (HR, 1.5; 95% CI, 0.9 to 2.5).

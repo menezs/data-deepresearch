@@ -1,0 +1,1344 @@
+{
+  "run_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+  "answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+  "tool_name": "Claude",
+  "answer_path": "answers/Claude/Consolidado/escravidao_brasil.md",
+  "generated_at": "2026-10-24T23:15:00.290921Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 29492,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 87,
+    "citation_markers_distinct": 51,
+    "references_listed": 51,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 87,
+  "pct_supported": 86.20689655172413,
+  "pct_unsupported": 2.2988505747126435,
+  "pct_contradicted": 0.0,
+  "count_supported": 75,
+  "count_unsupported": 2,
+  "count_contradicted": 0,
+  "count_skipped": 10,
+  "count_audited": 77,
+  "pct_supported_audited": 97.40259740259741,
+  "pct_unsupported_audited": 2.5974025974025974,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 6,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 5,
+    "ref_bloqueada": 5
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 0,
+  "count_reclassified_by_verification": 0,
+  "verification_stage_counts": {},
+  "mis_cited_reference_count": 1,
+  "uncredited_reference_count": 0,
+  "dead_references": [
+    {
+      "id": "1a345b938b0f0ec7",
+      "citation_markers": [
+        "[36]"
+      ],
+      "raw_url": "https://companhiadasletras.com.br/sala_professor/pdfs/CadernoAtividades_BrasilUmaBiografia_cap12.pdf",
+      "normalized_url": "https://companhiadasletras.com.br/sala_professor/pdfs/CadernoAtividades_BrasilUmaBiografia_cap12.pdf",
+      "work_key": "https://companhiadasletras.com.br/sala_professor/pdfs/CadernoAtividades_BrasilUmaBiografia_cap12.pdf",
+      "title": "Companhia das Letras – Caderno de Atividades, *Brasil: uma biografia*, cap. 12 (\"Ela vai cair: o fim da monarquia no Brasil\").",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-10-24T23:07:57.971859Z",
+      "error_message": "Referencia nao encontrada (404): https://companhiadasletras.com.br/sala_professor/pdfs/CadernoAtividades_BrasilUmaBiografia_cap12.pdf",
+      "barrier_kind": null,
+      "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "inaccessible_references": [
+    {
+      "id": "b6a77a65a43cef02",
+      "citation_markers": [
+        "[5]"
+      ],
+      "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+      "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+      "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+      "title": "Agência Senado (Arquivo S) – Marinha britânica forçou Brasil a acabar com tráfico negreiro.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-10-24T23:09:23.334165Z",
+      "error_message": "Falha ao conectar em https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro: Failed to perform, curl: (28) Connection timed out after 10001 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+      "barrier_kind": null,
+      "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "d1212187d7aecebd",
+      "citation_markers": [
+        "[8]"
+      ],
+      "raw_url": "https://periodicos.sbu.unicamp.br/ojs/index.php/resgate/article/download/8659126/25743/89334",
+      "normalized_url": "https://periodicos.sbu.unicamp.br/ojs/index.php/resgate/article/download/8659126/25743/89334",
+      "work_key": "https://periodicos.sbu.unicamp.br/ojs/index.php/resgate/article/download/8659126/25743/89334",
+      "title": "Resgate: Revista Interdisciplinar de Cultura (Unicamp) – artigo sobre africanos livres e a lei de 1831.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-10-24T23:09:25.899977Z",
+      "error_message": "HTTP 500 em https://periodicos.sbu.unicamp.br/ojs/index.php/resgate/article/download/8659126/25743/89334",
+      "barrier_kind": null,
+      "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "20be8c1b93e2c520",
+      "citation_markers": [
+        "[18]"
+      ],
+      "raw_url": "https://www.conjur.com.br/?p=352983",
+      "normalized_url": "https://conjur.com.br?p=352983",
+      "work_key": "https://conjur.com.br?p=352983",
+      "title": "Consultor Jurídico – Luiz Gama: um legado de luta por democracia, liberdade e igualdade.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-10-24T23:07:52.361920Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "3e1e4bbf7edfb8b9",
+      "citation_markers": [
+        "[42]"
+      ],
+      "raw_url": "https://www.conjur.com.br/2015-set-13/embargos-culturais-rui-barbosa-polemica-queima-arquivos-escravidao",
+      "normalized_url": "https://conjur.com.br/2015-set-13/embargos-culturais-rui-barbosa-polemica-queima-arquivos-escravidao",
+      "work_key": "https://conjur.com.br/2015-set-13/embargos-culturais-rui-barbosa-polemica-queima-arquivos-escravidao",
+      "title": "Consultor Jurídico – Embargos Culturais: Rui Barbosa e a polêmica queima dos arquivos da escravidão.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-10-24T23:08:05.665114Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+      "tool_name": "Claude"
+    },
+    {
+      "id": "f92beb5dc1efe601",
+      "citation_markers": [
+        "[49]"
+      ],
+      "raw_url": "https://doaj.org/article/0e1d0967ed73404387fb60208ca04c55",
+      "normalized_url": "https://doaj.org/article/0e1d0967ed73404387fb60208ca04c55",
+      "work_key": "https://doaj.org/article/0e1d0967ed73404387fb60208ca04c55",
+      "title": "Entretextos (via DOAJ) – Racialização, imigração e as transformações dos espaços urbanos em São Paulo.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-10-24T23:08:35.876413Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_3d6417564a65_20261024T230717Z",
+      "tool_name": "Claude"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-6",
+      "reason": "Referencia(s) citada(s) ['b6a77a65a43cef02'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-8",
+      "reason": "Referencia(s) citada(s) ['b6a77a65a43cef02'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-9",
+      "reason": "Referencia(s) citada(s) ['d1212187d7aecebd'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-29",
+      "reason": "Referencia(s) citada(s) ['20be8c1b93e2c520'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-30",
+      "reason": "Referencia(s) citada(s) ['20be8c1b93e2c520'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-60",
+      "reason": "Referencia(s) citada(s) ['1a345b938b0f0ec7'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-61",
+      "reason": "Referencia(s) citada(s) ['1a345b938b0f0ec7'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-69",
+      "reason": "Referencia(s) citada(s) ['3e1e4bbf7edfb8b9'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-70",
+      "reason": "Referencia(s) citada(s) ['3e1e4bbf7edfb8b9'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-80",
+      "reason": "Referencia(s) citada(s) ['f92beb5dc1efe601'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "424b02824f31c8b5",
+      "url": "https://congressoemfoco.com.br/noticia/14616/lei-aurea-a-historia-do-seu-nascimento",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 1888, o sistema escravista estava apodrecendo e se desintegrando de forma evidente desde o ano anterior.",
+      "key_excerpt_position": 49
+    },
+    {
+      "reference_id": "7779355497c3d434",
+      "url": "https://fpabramo.org.br/timeline/lei-aurea/",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        2,
+        73
+      ],
+      "partial_positions": [
+        86
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Lei nº 3.353 de 13 de maio de 1888 decretou o fim da escravidão no Brasil. Após 388 anos de tráfico e escravidão foi proibido o trabalho forçado, compulsório, desumanização e maus tratos de negros e negras no Brasil. Estima-se, atualmente, que 5 milhões de homens e mulheres foram trazidos forçadamente para o território brasileiro para serem vendidos como escravos ao longo desses quatro séculos de exploração.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "f6d33456385f33ae",
+      "url": "https://www.preparaenem.com/historia-do-brasil/lei-eusebio-de-queiros.htm",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        10,
+        11,
+        12,
+        14
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "essa lei dava autorização para que a marinha britânica monitorasse o Oceano Atlântico à procura de navios negreiros. [...] O Bill Aberdeen foi aprovado na Inglaterra em 9 de agosto de 1845 e gerou protestos no Brasil.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "9d848d43ca1b7e2b",
+      "url": "https://www.preparaenem.com/historia-do-brasil/o-lento-processo-abolicao-escravidao-no-brasil.htm",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        13,
+        15,
+        16
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Lei Eusébio de Queirós, diferentemente da Lei Feijó, foi efetivamente aplicada e, em praticamente três anos, esse mercado já estava extinto no Brasil.",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "e4f1a9834fdde4ce",
+      "url": "https://almapreta.com.br/sessao/cotidiano/leis-do-ventre-livre-e-dos-sexagenarios-promessas-de-liberdade-que-prolongaram-a-escravidao/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        21,
+        25,
+        84
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Após essa idade, o senhor de escravizados tinha duas opções: entregar a criança ao Estado e receber uma indenização de 600 mil contos de réis ou utilizar os serviços do menor até que ele completasse 21 anos.",
+      "key_excerpt_position": 21
+    },
+    {
+      "reference_id": "e6bf7c14773be270",
+      "url": "https://www.preparaenem.com/amp/historia-do-brasil/movimento-abolicionista-elite-ou-popular.htm",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        34,
+        35,
+        83
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Ou na Confederação Abolicionista, fundada por José do Patrocínio e outros militantes em 1883.",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "9d04e831cb4e6083",
+      "url": "https://www.preparaenem.com/historia-do-brasil/caifazes-luta-pela-abolicao-no-imperio.htm",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        41,
+        42,
+        43
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Antônio Bento formou o grupo dos caifazes em 1882, quando da morte do advogado negro e abolicionista Luiz Gama. Antes disso, Antônio Bento havia sido delegado promotor e juiz [...] Na capital, atuou como jornalista, sendo redator do jornal A Redempção.",
+      "key_excerpt_position": 41
+    },
+    {
+      "reference_id": "b6da0980c550972f",
+      "url": "https://historiaeeconomia.pt/index.php/he/article/download/337/242",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        75,
+        76,
+        78
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "São Paulo recebeu mais de dois milhões de imigrantes europeus, e quase metade tiveram suas passagens subsidiadas pelo governo do Estado no processo intencional de substituição sistemática e marginalização dos trabalhadores afro-brasileiros, no campo e nas cidades.",
+      "key_excerpt_position": 75
+    },
+    {
+      "reference_id": "03c943159bf80b2b",
+      "url": "https://vestibulares.estrategia.com/portal/historia/herancas-da-escravidao-na-primeira-republica/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        68,
+        81,
+        82
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Rui Barbosa, então ministro da Fazenda do governo Deodoro da Fonseca, mandaria queimar documentos da escravidão, a fim de impedir que fazendeiros buscassem indenização diante das “mercadorias” perdidas no Segundo Reinado.",
+      "key_excerpt_position": 68
+    },
+    {
+      "reference_id": "59bd6cba4a72d9df",
+      "url": "https://almapreta.com.br/?p=13245",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        7
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Desse total, 4,8 milhões de pessoas sobreviveram à travessia. Ou seja, cerca de 500 mil vidas humanas foram perdidas em quase 10 mil viagens através do Atlântico. O Brasil foi a nação que mais recebeu africanos escravizados nas Américas – em torno de 45%, segundo as estatísticas mais recentes.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "3cc02f2f0f24778c",
+      "url": "https://www.poder360.com.br/brasil/censo-de-1872-registrou-15-milhao-de-escravos-no-brasil/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        3
+      ],
+      "partial_positions": [
+        57
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Censo de 1872 encontrou no país quase 10 milhões de pessoas (mais precisamente, 9.930.478). Hoje, como comparação, só a cidade de São Paulo tem 12,4 milhões de habitantes e o Brasil inteiro, 215 milhões. Pela contagem feita no Segundo Reinado, havia no território nacional 1,5 milhão de escravizados (15% dos habitantes), entre africanos e brasileiros. Esse foi o único recenseamento realizado na vigência da escravidão.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "cccd4e838aa68dcc",
+      "url": "https://ojs.ifch.unicamp.br/index.php/rhs/article/download/315/271/20740",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        5
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a população brasileira somava 9.930.478 habitantes, divididos, quanto à condição social, em 8.419.672 livres (84,78%) e 1.510.806 escravos (15,21%).",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "b6a77a65a43cef02",
+      "url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        6,
+        8
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "01c48d8ee2bf7bb9",
+      "url": "https://www.historiadomundo.com.br/idade-moderna/lei-dos-sexagenarios.htm",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        26,
+        28
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Lei dos Sexagenários foi considerada uma lei muito conservadora e que retirou as proposições que promoviam as mudanças mais radicais propostas por Dantas.",
+      "key_excerpt_position": 26
+    },
+    {
+      "reference_id": "cd8464e323ea0e82",
+      "url": "https://www.preparaenem.com/historia-do-brasil/lei-dos-sexagenarios.htm",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        24,
+        27
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "determinou a libertação dos escravos com mais de 60 anos. Entretanto, a lei também regulou diversos aspectos relativos à alforria de cativos, bem como determinou uma nova matrícula e novas regulamentações para o fundo de emancipação",
+      "key_excerpt_position": 24
+    },
+    {
+      "reference_id": "20be8c1b93e2c520",
+      "url": "https://www.conjur.com.br/?p=352983",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        29,
+        30
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "afce93367961e50b",
+      "url": "https://mais.opovo.com.br/jornal/cidades/2023/03/25/data-magna-do-ceara-marca-pioneirismo-do-estado-em-abolir-a-escravidao.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        36,
+        37
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Um dos principais nomes do movimento abolicionista cearense é o do jangadeiro Francisco José do Nascimento, também conhecido como **Dragão do Mar** ou Chico da Matilde. Em 1881, antes mesmo do decreto de abolição no País, o líder, junto a outros jangadeiros, se recusou a transportar escravos que saíam o Porto de Fortaleza e seriam vendidos a outras províncias.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "3412da1ca2685b93",
+      "url": "https://vermelho.org.br/2014/08/03/joao-quartim-de-moraes-fala-sobre-a-esquerda-militar-no-brasil/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        46,
+        48
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "intensificava-se a caça aos fugitivos; como, porém, embora numerosos, os esbirros empregados neste sórdido trabalho de busca e captura mostravam-se incapazes de deter a onda de evasões, os senhores de escravos passaram a pressionar o governo para que, como diriam hoje, mobilizasse o Exército em defesa da ordem social, isto é, na caçada aos foragidos.",
+      "key_excerpt_position": 46
+    },
+    {
+      "reference_id": "b99cd6430e7cf35c",
+      "url": "https://www.infoescola.com/historia-do-brasil/lei-aurea/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        55,
+        59
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O número de escravizados na data não é tão expressivo tendo em vista um grande contingente de libertos já existentes no país.",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "4f39204cc739af28",
+      "url": "https://www.historiadomundo.com.br/idade-moderna/lei-aurea.htm",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        56,
+        58
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "existiam cerca de 720 mil escravos no Brasil quando a Lei Áurea foi assinada em 13 de maio de 1888",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "1a345b938b0f0ec7",
+      "url": "https://companhiadasletras.com.br/sala_professor/pdfs/CadernoAtividades_BrasilUmaBiografia_cap12.pdf",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        60,
+        61
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1ae12c948af1e9f5",
+      "url": "https://www.jornalopcao.com.br/colunas-e-blogs/periscopio/luta-de-jose-do-patrocinio-pela-abolicao-da-escravidao-no-brasil-573744/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        64,
+        66
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Patrocínio criou a Guarda Negra da Redentora, formada por negros e ex-escravos, que defendia a monarquia e combatia o movimento republicano. Essa guarda exaltava a Princesa Isabel devido à sua assinatura na Lei Áurea.",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "3e1e4bbf7edfb8b9",
+      "url": "https://www.conjur.com.br/2015-set-13/embargos-culturais-rui-barbosa-polemica-queima-arquivos-escravidao",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        69,
+        70
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d1212187d7aecebd",
+      "url": "https://periodicos.sbu.unicamp.br/ojs/index.php/resgate/article/download/8659126/25743/89334",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        9
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0f196cde18747213",
+      "url": "https://projetoagathaedu.com.br/questoes-vestibular/resolucao-historia/imperio/lei-de-terras.php",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        17
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Já no artigo 1°, a Lei n° 601/1850 determinava: “ficam proibidas as aquisições de terras devolutas por outro título que não seja o de compra”.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "9518fb2444467d01",
+      "url": "https://www.eco.unicamp.br/images/arquivos/artigos/447/10-PLINIO6.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        18
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Os grandes fazendeiros perceberam que era indispensável vedar aos futuros libertos e aos imigrantes que fossem trazidos para substituí-los a livre ocupação das terras vazias, pois, se assim não fosse, ficariam sem mão-de-obra para tocar suas lavouras.",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "a510795eb18f9758",
+      "url": "https://www.historiadomundo.com.br/idade-moderna/lei-do-ventre-livre.htm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        19
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "estabelecia que os filhos de escravas nascidos após a lei entrar em vigor seriam considerados livres. [...] A proposta do Visconde do Rio Branco se tornou a Lei do Ventre Livre",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "dc1262d44fc6b8d7",
+      "url": "https://www.preparaenem.com/historia-do-brasil/leis-abolicionistas-no-imperio.htm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        20
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "além de ser, sobretudo, uma resposta à crescente onda de rebeliões e fugas de escravos no Brasil",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "7049fd0188575619",
+      "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548855456_fc442dbc3e312c198a5a1acac6eb5a11.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        22
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Dos 400 mil ou mais ingênuos registrados até 1885, apenas 118 haviam sidos confiados ao governo.",
+      "key_excerpt_position": 22
+    },
+    {
+      "reference_id": "8fdbab35f45fa9df",
+      "url": "https://www.preparaenem.com/historia-do-brasil/lei-do-ventre-livre.htm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        23
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Lei do Ventre Livre contribuiu para enfraquecer momentaneamente o movimento abolicionista, embora tenha sido explorada por ele na luta.",
+      "key_excerpt_position": 23
+    },
+    {
+      "reference_id": "e644f70509ff5738",
+      "url": "https://jcconcursos.com.br/noticia/area-juridica/luiz-gama-heroi-do-povo-brasileiro-5458",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        31
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "tomou a opção definitiva de atuar como rábula até o fim da vida, em 1882. [...] No final da vida, Luiz Gama foi o grande inspirador do Movimento dos Caifazes [...] A opção abolicionista de Luiz Gama foi bem diversa da via estritamente parlamentar, seguida por Joaquim Nabuco.",
+      "key_excerpt_position": 31
+    },
+    {
+      "reference_id": "e4ad4d88dad9a0ec",
+      "url": "https://jus.com.br/artigos/97597/direito-e-arte",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        32
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Seu reconhecimento ocorreu somente com a promulgação a Lei nº 13.629 de 2018, a qual o declara como patrono da abolição da escravidão do Brasil",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "777b4f514410e734",
+      "url": "https://www.brasilparalelo.com.br/noticias/conheca-a-historia-de-quatro-brasileiros-que-lutaram-contra-a-escravidao",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        33
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Para além da abolição, André Rebouças elaborou um projeto educacional para capacitar os libertos e garantir que conseguissem trabalho.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "1677bdb894f54b08",
+      "url": "https://www.opovo.com.br/noticias/ceara/2020/03/24/data-magna-do-ceara--primeira-provincia-a-libertar-escravizados-manteve-exploracao-mesmo-apos-abolicao--aponta-historiadoras.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        38
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A crítica da professora diz respeito ao processo de abolição no Estado que, segundo ela, foi majoritariamente encabeçado pela elite branca cearense. [...] Mesmo após assinatura da liberdade em 25 de março de 1884, muitos escravizados voltaram a trabalhar para seus antigos senhores, muitos sem remuneração. Segundo Sílvia Maria, professora de história, eles faziam isso por necessidade, já que a política do movimento abolicionista não pensou no pós-abolição",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "effc34e4d4fa4c1a",
+      "url": "https://portalamazonia.com/cultura/ruas-manaus-batizadas-com-datas/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        39
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "foi no dia 10 de julho de 1884, dois meses depois da abolição da escravidão em Manaus, que o Presidente Theodoreto Carlos de Faria Souto (1841-1893) abolia a escravidão na Província do Amazonas.",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "54898eaa240efdae",
+      "url": "https://portalamazonia.com/historias-da-amazonia/a-maconaria-e-a-libertacao-dos-escravos-no-amazonas/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        40
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Amazonas possuía em relação às outras províncias, pequena quantidade de escravos. Fácil, portanto, a propaganda abolicionista.",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "fdd27519269724b6",
+      "url": "https://periodicos.ufpel.edu.br/index.php/CLIO/article/view/16061/10724",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        44
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Concorda também Conrad que as fugas em massa nos anos de 1887-1888 contribuíram decisivamente para a abolição da escravidão [...] Durante a década de 1880 houve a ascensão de um movimento abolicionista supralegal [...] que promoveram fugas em massa através das redes ferroviárias.",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "1ab5de85194e7cf8",
+      "url": "https://projetoagathaedu.com.br/blog/historia-do-brasil/imperio/questao-escravista.php",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        45
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Fugas coletivas reduziam a capacidade de repressão individual dos senhores e transformavam a liberdade em fato antes mesmo da mudança legal.",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "cdd91bd773131f0a",
+      "url": "https://seer.ufrgs.br/index.php/revistaihgrgs/article/download/106925/58221/439482",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        47
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Clube Militar registrou sua primeira grande vitória sob a presi- dência do Marechal Deodoro ao enviar petição à Princesa Izabel em 26 de outubro de 1887, (3) pedindo para liberar o Exército do encargo de prender escravos fugidos",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "bc185892268002d5",
+      "url": "https://www.todamateria.com.br/lei-aurea/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        54
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Art. 1°: É declarada extincta desde a data desta lei a escravidão no Brasil.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "617856f43ca8a96e",
+      "url": "https://www.todamateria.com.br/exercicio-sobre-a-proclamacao-da-republica-15-de-novembro/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        62
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Apesar da proximidade do novo governo com os grandes fazendeiros, não houve indenização oficial aos ex-proprietários de escravos.",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "bff3273108aa17db",
+      "url": "https://anpuh.org.br/uploads/anais-simposios/pdf/2019-01/1548772007_1e0263eca733383e79934480401fc831.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        63
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "especialmente aqueles que ele denominava \"republicanos de 14 de maio\", numa alusão à mudança de atitude de alguns proprietários em relação à monarquia. Patrocínio acusava este grupo de tentar preservar seus privilégios, abandonando os ideais republicanos, e respaldar os projetos que concediam uma indenização aos antigos senhores por causa do término do cativeiro.",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "da1d3005e771af9d",
+      "url": "https://www.maxwell.vrac.puc-rio.br/6401/6401_4.PDF",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        65
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "dos acontecimentos que envolveram a conferência de Silva Jardim na Sociedade Francesa de Ginástica no dia 30 de dezembro de 1888",
+      "key_excerpt_position": 65
+    },
+    {
+      "reference_id": "b3f2b2520709d296",
+      "url": "https://www.migalhas.com.br/quentes/100434/pretensao-de-incinerar-processos-arquivados-ja-foi-enfrentada-pelo-stj",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        67
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Finalmente, em 13 de maio de 1891, na gestão de Tristão Alencar Araripe, sucessor de Rui Barbosa na pasta da Fazenda, todos os documentos foram incinerados.",
+      "key_excerpt_position": 67
+    },
+    {
+      "reference_id": "db9768497bb732c5",
+      "url": "https://www2.ufjf.br/arquivocentral/?p=10421",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        72
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "o episódio toma o significado de uma tentativa de esquecimento do passado escravista e a tentativa de um recomeço na história brasileira a partir do presente no qual se encontrava o Brasil logo após a proclamação da república.",
+      "key_excerpt_position": 72
+    },
+    {
+      "reference_id": "9b9add530dee5df3",
+      "url": "https://www.gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/publicacoes/pdfs/rui-barbosa-e-a-queima-dos-arquivos-ocr.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        71
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Rui Barbosa e a queima dos arquivos\n\nFUNDAÇÃO CASA DE RUI BARBOSA\n\n1988",
+      "key_excerpt_position": 71
+    },
+    {
+      "reference_id": "44f05b2a186ecb6f",
+      "url": "https://ojs.uel.br/revistas/uel/index.php/mediacoes/article/download/9096/7647/33416",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        77
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "No Estado de São Paulo, essa situação era particulannente complexa devido à intensa imigração européia que rapidamente tornou-se mão-de-obra preferencial.",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "4497143f53a8ceac",
+      "url": "https://anais-siiepe.ufpel.edu.br/2022/CH_06026.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        79
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Código Penal de 1890 comportou o mecanismo de perseguição às camadas populares, em sua grande maioria pretos e pardos libertos.",
+      "key_excerpt_position": 79
+    },
+    {
+      "reference_id": "f92beb5dc1efe601",
+      "url": "https://doaj.org/article/0e1d0967ed73404387fb60208ca04c55",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        80
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "4acdd75924664ebd",
+      "url": "https://trt15.jus.br/noticia/2022/abolicao-o-protagonismo-dos-escravizados-em-uma-luta-que-ainda-nao-terminou",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        85
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "pesquisas apontam que são negros 82% das pessoas atualmente resgatadas de trabalho análogo à escravidão",
+      "key_excerpt_position": 85
+    },
+    {
+      "reference_id": "c07a1fe28be72fa2",
+      "url": "https://static.even3.com/anais/1369885.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        74
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "beneficiou elites agrárias e imigrantes europeus que foram subsidiados pelo Estado",
+      "key_excerpt_position": 74
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "escravidao_brasil_3d6417564a65_20261024T230717Z-86",
+      "position": 86,
+      "claim_excerpt": "A lei extinguiu o cativeiro, mas os libertos continuaram marginalizados e expostos ao racismo e à violência.",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[47] [45] [46] [4] [30] [17] [35] [26] [12] [13] [24]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 370555,
+  "cost_tracked": false,
+  "processing_time_seconds": 462.843094
+}

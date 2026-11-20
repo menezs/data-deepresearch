@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-46",
+  "passages": [
+    {
+      "reference_chunk_id": "8645935594141623-0",
+      "reference_id": "8645935594141623",
+      "score": 0.9897144436836243,
+      "text": "02 Jan 2023\n\n      \n    The World Health Organization updated its recommendations for the *human papillomavirus* (HPV) vaccine in a position paper published in December 2022. The document states that a single dose of the vaccine can provide comparable efficacy and protection as a two-dose regimen which could result in greater access to the vaccine globally."
+    }
+  ],
+  "assembled_context": "[referencia=8645935594141623 score=0.990]\n02 Jan 2023\n\n      \n    The World Health Organization updated its recommendations for the *human papillomavirus* (HPV) vaccine in a position paper published in December 2022. The document states that a single dose of the vaccine can provide comparable efficacy and protection as a two-dose regimen which could result in greater access to the vaccine globally.",
+  "skip_reason": null
+}

@@ -1,0 +1,42 @@
+[referencia=4f813777af2f12ae score=0.286]
+Across BMI categories, investigators found an increase in prediabetes prevalence and blood pressure. Inflammatory burden also substantially increased from 36.4% in the 1827 patients in the lowest BMI category to 72% among the 1268 patients in the highest category. Mean duration of exposure was 33.3 months (SD 14.4) for semaglutide and 35.1 months (13) for placebo, with permanent premature discontinuation occurring in 2351 of 8803 patients and 2078 of 8801 patients assigned to semaglutide and placebo, respectively.<sup>1</sup>
+
+Semaglutide also substantially reduced MACE incidence across all baseline weight and waist circumference categories. Analyses for linear trends showed lower baseline measurements were associated with lower incidence, with an average of 4% reduction in risk per 5 kg lower bodyweight (HR, 0.96; 95% CI, 0.94-0.99; *P* = .001) and per 5 cm smaller waist circumference (HR, 0.96; 95% CI, 0.93-0.99; *P* = .004). Investigators estimated 33% of the observed benefit on MACE was mediated through waist circumference reduction (HR, 0.86; 95% CI, 0.77-0.97 after adjustment for time-varying changes in waist circumference).<sup>1</sup>
+
+“This supports the reconceptualization of GLP-1 RAs as potential cardiovascular disease-modifying agents, with implications for clinical practice and health-care policy,” Deanfield and colleagues wrote.<sup>1</sup>
+
+###### References
+
+1. ###### Deanfield J, Michael Lincoff A, Kahn S, et al. Semaglutide and cardiovascular outcomes by baseline and changes in adiposity measurements: a prespecified analysis of the SELECT trial.*The Lancet* . 2025;1-12 https://doi.org/10.1016/S0140-6736(25)01375-3
+2. ###### Sattar N, Presslie C, Rutter MK, McGuire DK. Cardiovascular and Kidney Risks in Individuals With Type 2 Diabetes: Contemporary Understanding With Greater Emphasis on Excess Adiposity. Diabetes Care. 2024;47(4):531-543.doi:10.2337/dci23-0041
+
+---
+
+[referencia=4f813777af2f12ae score=0.117]
+### Key Takeaways
+
+- Semaglutide's cardioprotective effects may be independent of weight loss, offering benefits beyond adiposity reduction in ASCVD patients.
+- The SELECT trial showed semaglutide reduced MACE incidence across different weight and waist circumference categories.
+
+GLP-1 RAs may offer benefits beyond adiposity reduction in patients with atherosclerotic cardiovascular disease.
+
+Semaglutide’s cardioprotective effects may be independent of baseline adiposity and weight loss based on data from the recent SELECT trial of patients with <sup>1</sup>
+
+Although <sup>2</sup>
+
+“These analyses aim to assist practitioners with patient selection, provide clinically relevant adiposity characteristics for treatment response, advance understanding of mechanisms for benefit, and inform healthcare policy decisions,” John Deanfield, CBE, professor of cardiology at University College London and director of the National Institute for Cardiovascular Outcomes Research, and colleagues wrote. “Such insights are crucial, as they could help reconceptualize GLP-1 RAs from primarily weight-loss medications to disease-modifying treatments with broader therapeutic applications.”<sup>1</sup>
+
+The SELECT trial was a randomized, double-blind, multicenter, placebo-controlled, event-driven phase 3 trial, evaluating whether once-weekly subcutaneous semaglutide 2.4 mg was superior to placebo in reducing the risk of major adverse cardiovascular events (MACE) in patients with established cardiovascular disease and overweight or obesity, but without diabetes. The trial included 804 sites across 41 countries.<sup>1</sup>
+
+Patients were eligible for the study if they were aged ≥45 years, had a body mass index (BMI) of 27 kg/m2 or above, and had established ASCVD, which was defined as ≥1 among previous myocardial infarction, <sup>1</sup>
+
+Deanfield and colleagues randomly assigned a total of 17,604 patients in a 1:1 ratio to either semaglutide or placebo. Patients were then followed up for MACE, adverse events, and other events for an average of 39.8 months (standard deviation [SD] 9.4). In total, 17,061 patients (96.9%) completed the trial, either by attending the follow-up visit or dying.<sup>1</sup>
+
+---
+
+[referencia=4f813777af2f12ae score=0.000]
+# SELECT: Semaglutide Indicates Possible Cardiovascular Disease-Modifying Effect
+
+*Ryan Livingston*
+
+*Tim Smith*

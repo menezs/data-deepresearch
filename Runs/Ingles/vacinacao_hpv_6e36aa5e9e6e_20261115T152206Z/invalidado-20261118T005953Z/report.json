@@ -1,0 +1,2468 @@
+{
+  "run_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+  "answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+  "tool_name": "Gemini",
+  "answer_path": "answers/Ingles/Gemini/Consolidado/vacinacao_hpv.docx",
+  "generated_at": "2026-11-15T16:42:59.390993Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".docx",
+    "size_bytes": 3206631,
+    "page_count": null,
+    "pdf_title": "Word Document",
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": "2026-11-15 15:22:28+00:00",
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 250,
+    "citation_markers_distinct": 86,
+    "references_listed": 83,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 124,
+  "pct_supported": 36.29032258064516,
+  "pct_unsupported": 53.2258064516129,
+  "pct_contradicted": 2.4193548387096775,
+  "count_supported": 45,
+  "count_unsupported": 66,
+  "count_contradicted": 3,
+  "count_skipped": 10,
+  "count_audited": 114,
+  "pct_supported_audited": 39.473684210526315,
+  "pct_unsupported_audited": 57.89473684210527,
+  "pct_contradicted_audited": 2.631578947368421,
+  "count_partially_supported": 27,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 9,
+    "ref_sem_conteudo": 1
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 19,
+  "count_reclassified_by_verification": 8,
+  "verification_stage_counts": {
+    "context_expansion": 7,
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 26,
+  "uncredited_reference_count": 23,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "d3dbed7fb3207f9e",
+      "citation_markers": [
+        "[52]"
+      ],
+      "raw_url": "https://www.researchgate.net/publication/272074165_Efficacy_of_Human_Papillomavirus_16_and_18_HPV-1618_AS04-Adjuvanted_Vaccine_against_Cervical_Infection_and_Precancer_in_Young_Women_Final_Event-Driven_Analysis_of_the_Randomized_Double-Blind_PATRICIA_",
+      "normalized_url": "https://researchgate.net/publication/272074165_Efficacy_of_Human_Papillomavirus_16_and_18_HPV-1618_AS04-Adjuvanted_Vaccine_against_Cervical_Infection_and_Precancer_in_Young_Women_Final_Event-Driven_Analysis_of_the_Randomized_Double-Blind_PATRICIA_",
+      "work_key": "https://researchgate.net/publication/272074165_Efficacy_of_Human_Papillomavirus_16_and_18_HPV-1618_AS04-Adjuvanted_Vaccine_against_Cervical_Infection_and_Precancer_in_Young_Women_Final_Event-Driven_Analysis_of_the_Randomized_Double-Blind_PATRICIA_",
+      "title": "[Efficacy of HPV-16/18 AS04-adjuvanted vaccine against cervical infection and precancer (PATRICIA) final analysis]. ResearchGate.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-15T15:27:16.514376Z",
+      "error_message": "Rate limit persistente em https://www.researchgate.net/publication/272074165_Efficacy_of_Human_Papillomavirus_16_and_18_HPV-1618_AS04-Adjuvanted_Vaccine_against_Cervical_Infection_and_Precancer_in_Young_Women_Final_Event-Driven_Analysis_of_the_Randomized_Double-Blind_PATRICIA_",
+      "barrier_kind": null,
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "12558ad347bab6ff",
+      "citation_markers": [
+        "[70]"
+      ],
+      "raw_url": "https://www.researchgate.net/publication/392528381_Global_HPV_vaccination_programs_and_coverage_rates_a_systematic_review",
+      "normalized_url": "https://researchgate.net/publication/392528381_Global_HPV_vaccination_programs_and_coverage_rates_a_systematic_review",
+      "work_key": "https://researchgate.net/publication/392528381_Global_HPV_vaccination_programs_and_coverage_rates_a_systematic_review",
+      "title": "Global HPV vaccination programs and coverage rates: a systematic review. EClinicalMedicine (via ResearchGate).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-15T15:27:49.873659Z",
+      "error_message": "Rate limit persistente em https://www.researchgate.net/publication/392528381_Global_HPV_vaccination_programs_and_coverage_rates_a_systematic_review",
+      "barrier_kind": null,
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "64531dce608f7c67",
+      "citation_markers": [
+        "[5]"
+      ],
+      "raw_url": "https://www.mdpi.com/2076-393x/10/2/256",
+      "normalized_url": "https://mdpi.com/2076-393x/10/2/256",
+      "work_key": "https://mdpi.com/2076-393x/10/2/256",
+      "title": "[Review of available HPV vaccines and long-term efficacy]. MDPI Vaccines (2022; 10(2):256).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T15:23:40.994733Z",
+      "error_message": "barreira de acesso (http_error): Reference #18.33290c17.1794756151.93bb05ea https://errors.edgesuite.net/18.33290c17.1794756151.93bb05ea",
+      "barrier_kind": "http_error",
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "c0f0ca7ae6e759d7",
+      "citation_markers": [
+        "[21]"
+      ],
+      "raw_url": "https://mediatum.ub.tum.de/doc/1782277/1782277.pdf",
+      "normalized_url": "https://mediatum.ub.tum.de/doc/1782277/1782277.pdf",
+      "work_key": "https://mediatum.ub.tum.de/doc/1782277/1782277.pdf",
+      "title": "[Global cervical cancer burden and GLOBOCAN 2022 estimates]. Technical University of Munich Document Repository (mediatum 1782277).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T15:22:58.092000Z",
+      "error_message": "barreira de acesso (anti_bot): # **Making sure you're not a bot!** ## [image] [image] Loading... You are seeing this because the administrator of this ",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "7eeb41f553c06993",
+      "citation_markers": [
+        "[25]"
+      ],
+      "raw_url": "https://www.mdpi.com/1718-7729/32/3/122",
+      "normalized_url": "https://mdpi.com/1718-7729/32/3/122",
+      "work_key": "https://mdpi.com/1718-7729/32/3/122",
+      "title": "[HPV-related cancers: pathogenesis and epidemiology]. MDPI (2025; 32(3):122).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T15:24:06.533897Z",
+      "error_message": "barreira de acesso (http_error): Reference #18.33290c17.1794756177.93be0120 https://errors.edgesuite.net/18.33290c17.1794756177.93be0120",
+      "barrier_kind": "http_error",
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "b773f0f0dbeaae7b",
+      "citation_markers": [
+        "[31]"
+      ],
+      "raw_url": "https://www.mdpi.com/1422-0067/26/11/5205",
+      "normalized_url": "https://mdpi.com/1422-0067/26/11/5205",
+      "work_key": "https://mdpi.com/1422-0067/26/11/5205",
+      "title": "[Prognostic biomarkers and natural progression or regression of cervical intraepithelial neoplasia]. MDPI (2025; 26(11):5205).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T15:24:12.915422Z",
+      "error_message": "barreira de acesso (http_error): Reference #18.33290c17.1794756183.93beacc9 https://errors.edgesuite.net/18.33290c17.1794756183.93beacc9",
+      "barrier_kind": "http_error",
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "0af152bd1a699338",
+      "citation_markers": [
+        "[53]"
+      ],
+      "raw_url": "https://academic.oup.com/jid/article/199/7/926/853088",
+      "normalized_url": "https://academic.oup.com/jid/article/199/7/926/853088",
+      "work_key": "https://academic.oup.com/jid/article/199/7/926/853088",
+      "title": "[Cross-protective efficacy of HPV-16/18 AS04-adjuvanted vaccine against nonvaccine oncogenic HPV types (PATRICIA)]. The Journal of Infectious Diseases (2009; 199(7):926).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T15:25:25.259898Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "d9bcec3e5874a27b",
+      "citation_markers": [
+        "[54]"
+      ],
+      "raw_url": "https://www.semanticscholar.org/paper/The-effects-of-the-national-HPV-vaccination-in-UK%2C-Falcaro-Casta%C3%B1%C3%B3n/00820c7e6c82bbedf3d7fabd15ac754f70f974c9",
+      "normalized_url": "https://semanticscholar.org/paper/The-effects-of-the-national-HPV-vaccination-in-UK,-Falcaro-Castañón/00820c7e6c82bbedf3d7fabd15ac754f70f974c9",
+      "work_key": "https://semanticscholar.org/paper/The-effects-of-the-national-HPV-vaccination-in-UK,-Falcaro-Castañón/00820c7e6c82bbedf3d7fabd15ac754f70f974c9",
+      "title": "[Summary of register-based HPV vaccination effectiveness studies in England, Sweden, Scotland, and Australia]. Semantic Scholar.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T15:24:29.246567Z",
+      "error_message": "barreira de acesso (anti_bot): Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your ac",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "441adfc88edaeb39",
+      "citation_markers": [
+        "[57]"
+      ],
+      "raw_url": "https://www.mdpi.com/2076-393x/8/3/391",
+      "normalized_url": "https://mdpi.com/2076-393x/8/3/391",
+      "work_key": "https://mdpi.com/2076-393x/8/3/391",
+      "title": "[Global impact and future prospects of HPV vaccines]. MDPI Vaccines (2020; 8(3):391).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T15:25:49.910825Z",
+      "error_message": "barreira de acesso (http_error): Reference #18.33290c17.1794756280.93c999a6 https://errors.edgesuite.net/18.33290c17.1794756280.93c999a6",
+      "barrier_kind": "http_error",
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "582c9bf5107880f8",
+      "citation_markers": [
+        "[79]"
+      ],
+      "raw_url": "https://www.mdpi.com/2076-393x/14/6/507",
+      "normalized_url": "https://mdpi.com/2076-393x/14/6/507",
+      "work_key": "https://mdpi.com/2076-393x/14/6/507",
+      "title": "[Review of therapeutic HPV vaccines and PRGN-2009]. MDPI Vaccines (2026; 14(6):507).",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T15:26:02.920349Z",
+      "error_message": "barreira de acesso (http_error): Reference #18.33290c17.1794756357.93d23d24 https://errors.edgesuite.net/18.33290c17.1794756357.93d23d24",
+      "barrier_kind": "http_error",
+      "source_answer_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-22",
+      "reason": "Referencia(s) citada(s) ['7eeb41f553c06993', 'b773f0f0dbeaae7b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-26",
+      "reason": "Referencia(s) citada(s) ['b773f0f0dbeaae7b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-28",
+      "reason": "Referencia(s) citada(s) ['b773f0f0dbeaae7b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-32",
+      "reason": "Referencia(s) citada(s) ['7eeb41f553c06993'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-35",
+      "reason": "Referencia(s) citada(s) ['7eeb41f553c06993'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-36",
+      "reason": "Referencia(s) citada(s) ['7eeb41f553c06993', '63af487c8c32d81c'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-41",
+      "reason": "Referencia(s) citada(s) ['63af487c8c32d81c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-66",
+      "reason": "Referencia(s) citada(s) ['64531dce608f7c67'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-122",
+      "reason": "Referencia(s) citada(s) ['b773f0f0dbeaae7b'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-123",
+      "reason": "Referencia(s) citada(s) ['582c9bf5107880f8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "a6a024cf09130271",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer",
+      "times_cited": 21,
+      "supported_count": 12,
+      "unsupported_count": 9,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 12,
+      "status": "downloaded",
+      "supports_positions": [
+        11,
+        14,
+        15,
+        17,
+        27,
+        104,
+        114
+      ],
+      "partial_positions": [
+        0,
+        6,
+        7,
+        9,
+        10,
+        23,
+        29,
+        37,
+        69,
+        95,
+        103,
+        105
+      ],
+      "absent_positions": [
+        1,
+        3
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The highest rates of cervical cancer incidence and mortality are in low- and middle-income countries. This reflects major inequities driven by lack of access to national HPV vaccination, cervical screening and treatment services and social and economic determinants.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "d96e30d04596333b",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11892266/",
+      "times_cited": 12,
+      "supported_count": 7,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 8,
+      "status": "downloaded",
+      "supports_positions": [
+        42,
+        46,
+        50,
+        54
+      ],
+      "partial_positions": [
+        38,
+        43,
+        47,
+        48,
+        52,
+        53,
+        55,
+        77
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "All marketed L1-based vaccines (listed in Table 1) are produced using recombinant DNA technology in various hosts, allowing the L1 proteins to self-assemble into empty shells or VLPs.",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "e32d2e566adbe6fb",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+      "times_cited": 11,
+      "supported_count": 7,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [
+        20,
+        21,
+        43
+      ],
+      "partial_positions": [
+        0,
+        8,
+        10,
+        16,
+        19,
+        45,
+        113
+      ],
+      "absent_positions": [
+        44
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Almost all sexually active people will be infected at some point in their lives, usually without symptoms.",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "7eeb41f553c06993",
+      "url": "https://www.mdpi.com/1718-7729/32/3/122",
+      "times_cited": 10,
+      "supported_count": 2,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        10,
+        22,
+        24,
+        25,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "caf399badc724d7e",
+      "url": "https://dceg.cancer.gov/research/cancer-types/cervix/escuddo",
+      "times_cited": 8,
+      "supported_count": 4,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        80,
+        84
+      ],
+      "partial_positions": [
+        4,
+        44,
+        76,
+        78,
+        91,
+        94
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "These observations raised the possibility that a single dose of HPV vaccine may offer sufficient durable protection and set the basis for ESCUDDO (efficacy trial), and two additional clinical trials conducted by NCI and ACIB-FUNIN—PRIMAVERA (immunobridging trial, Clinical trials identifier: NCT03728881) and PRISMA (efficacy trial, Clinical trials identifier: NCT05237947).",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "71163b79b7c7859a",
+      "url": "https://vaxintegrity.cidrap.umn.edu/new-evidence-review-affirms-strong-safety-and-effectiveness-hpv-vaccines",
+      "times_cited": 7,
+      "supported_count": 3,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        90,
+        97,
+        101
+      ],
+      "partial_positions": [
+        6,
+        75,
+        79
+      ],
+      "absent_positions": [
+        100
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Data on long-term protection from a single dose, effectiveness in males, and protection against non-cervical cancers remain limited and warrant further study.",
+      "key_excerpt_position": 90
+    },
+    {
+      "reference_id": "6a4f8db41c8c98fb",
+      "url": "https://rhsupplies.org/news-stories/pressroom/gardasil-prequalified-by-who-246/",
+      "times_cited": 7,
+      "supported_count": 1,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        42,
+        48,
+        49,
+        51,
+        63,
+        64,
+        65
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "db411a1bc376e99b",
+      "url": "https://sto-online.org/wp-content/uploads/2025/12/Noninferiority-of-One-HPV-Vaccine-Dose-to-Two-Doses.-NEJMoa2506765.pdf",
+      "times_cited": 6,
+      "supported_count": 4,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        84,
+        87,
+        88
+      ],
+      "partial_positions": [
+        1,
+        4,
+        99
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The double-blind, randomized, controlled ESCUDDO trial evaluated the noninferiority of one dose of a bivalent or nonavalent HPV vaccine to the respective two-dose regimens in the prevention of cervicovaginal HPV16 or HPV18 infection over a period of 5 years. ... Funded by the National Cancer Institute and others; ESCUDDO ClinicalTrials.gov number, NCT03180034. ... This article was published on December 3, 2025, at NEJM.org.",
+      "key_excerpt_position": 84
+    },
+    {
+      "reference_id": "63af487c8c32d81c",
+      "url": "https://www.researchgate.net/publication/392065828_Human_papillomavirus_infection_and_screening_strategies",
+      "times_cited": 6,
+      "supported_count": 0,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        36,
+        37,
+        39,
+        40,
+        41,
+        113
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "c823bd3cdf916319",
+      "url": "https://www.vaccinestoday.eu/stories/hpv-vaccine-cervical-cancer-deaths-plummet-among-young-women-in-england/",
+      "times_cited": 5,
+      "supported_count": 0,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        2,
+        70,
+        72,
+        74
+      ],
+      "absent_positions": [
+        112
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "health authorities have reported **no deaths** from the disease among women aged 20 to 24 – the first time this has been achieved over a five year period.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "66c3f768e3c170d1",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12039116/",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        20,
+        21,
+        24,
+        25
+      ],
+      "partial_positions": [
+        31
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Eighty percent of women who engage in sexual activity will, at some point in their lives, contract HPV",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "b773f0f0dbeaae7b",
+      "url": "https://www.mdpi.com/1422-0067/26/11/5205",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        21,
+        22,
+        26,
+        28,
+        122
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "512ff5286e172b98",
+      "url": "https://www.fda.gov/media/139433/download",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        67
+      ],
+      "partial_positions": [
+        61,
+        68
+      ],
+      "absent_positions": [
+        62
+      ],
+      "contradicts_positions": [
+        102
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "HPV 31-, 33-, 45-, 52-, 58-related CIN 2/3, AIS, Cervical Cancer, VIN 2/3, VaIN 2/3, Vulvar Cancer, and Vaginal Cancer ... 97.4 (85.0, 99.9)",
+      "key_excerpt_position": 67
+    },
+    {
+      "reference_id": "3332172826f27dcb",
+      "url": "https://media.path.org/documents/HPV_Cnsrt_GeneralSummary_2025_R1_web.pdf?_gl=1h49zkc_gcl_auODE4NDY2NzI2LjE3NDYwMjI1MTI._gaMTM0MTAzNTg4MC4xNzA2NjM4NTAw_ga_YBSE7ZKDQM*czE3NDg0NDQ0NjkkbzE1JGcxJHQxNzQ4NDQ0NzQ4JGo2MCRsMCRoMA",
+      "times_cited": 5,
+      "supported_count": 0,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        76,
+        92
+      ],
+      "absent_positions": [
+        77,
+        93,
+        110
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "As of February 2025, nearly 70 countries have adopted a single-dose HPV vaccination schedule.",
+      "key_excerpt_position": 76
+    },
+    {
+      "reference_id": "8f33cf64ba979a7a",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12568012/",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        106
+      ],
+      "partial_positions": [
+        109,
+        112
+      ],
+      "absent_positions": [
+        110
+      ],
+      "contradicts_positions": [
+        107
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Global HPV vaccination coverage (56.9%) in 2024 remains far below the WHO target of 90% coverage for girls aged 9 to 14 years.",
+      "key_excerpt_position": 106
+    },
+    {
+      "reference_id": "626cc2a2b1099890",
+      "url": "https://www.ijpsjournal.com/article/targeting-hpv-oncogenes-e6-e7-for-cervical-cancer-therapy-advances-in-molecular-and-natural-strategies",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        0,
+        33,
+        38
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [
+        30
+      ],
+      "not_audited_positions": [],
+      "key_excerpt": "High-risk Human Papillomavirus (HPV), specifically types HPV-16 and HPV-18, is the necessary cause of nearly all cervical cancers. | Preventive vaccines are primarily administered to individuals to prevent HPV infection and its associated diseases. | Unlike most other solid tumors, this particular dependency offers a highly specific therapeutic window.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "84f714500cdb7ddc",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41276264/",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        101
+      ],
+      "partial_positions": [
+        2,
+        75,
+        100
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Cochrane Database Syst Rev. 2025 Nov 24;11(11):CD015363. [...] HPV vaccination was not associated with an increased risk of postural orthostatic tachycardia syndrome, chronic fatigue syndrome/myalgic encephalomyelitis, paralysis, complex regional pain syndrome, premature ovarian failure, infertility or sexual activity (all moderate-certainty evidence). [...] There is evidence that HPV vaccination does not increase the risk of the most common adverse events reported on social media.",
+      "key_excerpt_position": 101
+    },
+    {
+      "reference_id": "4568c66451fd3bab",
+      "url": "https://extranet.who.int/prequal/vaccines/p/cervavac",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        5,
+        56
+      ],
+      "absent_positions": [
+        48,
+        55
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Vaccine type\n\n              Human Papillomavirus (Quadrivalent)",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "43b90bcfb173fad6",
+      "url": "https://www.who.int/news/item/04-10-2024-who-adds-an-hpv-vaccine-for-single-dose-use",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        54
+      ],
+      "partial_positions": [
+        5,
+        53,
+        111
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "making it the fifth product available on the global market … Walrinvax® is prequalified with a two-dose schedule. Further data will be needed to assess if this vaccine can be recommended for single-dose schedule in the future.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "081e98231d99110a",
+      "url": "https://www.cdc.gov/hpv/hcp/vaccination-considerations/index.html",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        6,
+        45,
+        94,
+        95
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Three doses are recommended for immunocompromised persons (including those with HIV infection) aged 9 through 26 years.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "4be3b3b5ee105579",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12290362/",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        11,
+        13,
+        18
+      ],
+      "partial_positions": [
+        12
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This disease mainly affects women in low- and lower-middle-income countries (LMICs), where 90% of cases occur. [...] Inequalities in access to immunization, screening, and treatment facilities [...] are all linked to regional variations in the burden of cervical cancer. [...] In LMICs, cervical carcinoma persistently represents a significant public health concern owing to the inadequate accessibility of preventive measures, screening protocols, and therapeutic interventions.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "7e681f1e50f598b7",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13335833/",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        114,
+        115
+      ],
+      "partial_positions": [
+        16,
+        46
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Primary HPV DNA testing preferred; if HPV testing is not available, cytology or VIA may be used as alternatives ... 30 years (general population) ... Every 5–10 years (HPV DNA) ... Women living with HIV: HPV DNA in a screening/triage/treatment approach starting at 25, repeat every 3–5 years ... the WHO identified self-sampling for HPV testing as a successful method that improves participation rates among groups who fail to obtain proper screening",
+      "key_excerpt_position": 114
+    },
+    {
+      "reference_id": "b2d8bf37e2e4f0eb",
+      "url": "https://www.riscc-h2020.eu/documents/143/HPV_SCREENING_Mod6_Vaccinated_population.pdf",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        69,
+        70,
+        71,
+        73
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "All studies estimated vaccine effectiveness through registry linkage except England, that evaluated the impact of the vaccine comparing vaccinated versus unvaccinated cohorts. [...] The studies above emphasize the crucial role of linking vaccination records with screening or cancer registries. [...] The first evidence of the efficacy of both the bivalent and quadrivalent HPV vaccines in women vaccinated at age 16-17 was reported in Finland in 2018. During the 8-years follow up of two vaccination trials",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "bbf1c0f5e4a5f08e",
+      "url": "https://www.cdc.gov/acip/downloads/slides-2025-04-15-16/03-Barnabas-HPV-508.pdf",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        80
+      ],
+      "partial_positions": [
+        79
+      ],
+      "absent_positions": [
+        78,
+        83
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We conducted a rigorous randomized trial (the KEN SHE Study) and found that the single dose HPV vaccination is highly efficacious, with 98% vaccine efficacy for HPV 16/18.",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "64531dce608f7c67",
+      "url": "https://www.mdpi.com/2076-393x/10/2/256",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        1,
+        66,
+        68
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f4a3d78ffd526476",
+      "url": "https://ourworldindata.org/hpv-vaccination-world-can-eliminate-cervical-cancer",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        2,
+        71,
+        73
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "HPV vaccines are highly effective, which has been demonstrated in large-scale randomized controlled trials. Research shows that, if given early, vaccination reduces the risk of serious cervical cell changes by 99% for the HPV types most likely to cause cervical cancer.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "91df3800b976d776",
+      "url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/human-papillomavirus-vaccines-(HPV)",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        3,
+        91,
+        92
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In October 2026, SAGE reviewed further evidence on dose optimization and has strengthened its recommendation for single dose schedule use and extended use to a wider age group, up to 30 year of age.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "d3bffc49fe5e9bfc",
+      "url": "https://pharmacally.com/serum-institute-cervavac-who-prequalification/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        5,
+        55,
+        56
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "WHO’s official listing records the prequalification as effective September 25, 2026.",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "53c06da3d0454f75",
+      "url": "https://www.cambridge.org/core/journals/epidemiology-and-infection/article/prophylactic-hpv-vaccination-past-present-and-future/661BBE441D98B2DE8685A10B1E124542",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        58
+      ],
+      "partial_positions": [
+        59,
+        60
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "in the according-to-protocol (AP) analysis [...] demonstrated near perfect efficacy (>90%) in [...] women naive to those same HPV genotypes. [...] In the whole cohort of enrolled women, the intention-to-treat (ITT) analysis, the efficacy was significantly lower. [...] The difference between AP and ITT results is primarily because 4vHPV [...] and 2vHPV [...] do not treat pre-existing HPV infections and related conditions. [...] Thus efficacy approximately equals population effectiveness in HPV-naive populations whereas efficacy is greater than population effectiveness in sexually active women",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "56356420a12ce27d",
+      "url": "https://extranet.who.int/prequal/sites/default/files/vwa_vaccine/pq_326_HPV9_1dose_Merck_PI-102022.pdf",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        67
+      ],
+      "partial_positions": [
+        58,
+        98
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the pivotal clinical study (Protocol 001) evaluated the efficacy of Gardasil 9 using qHPV vaccine as a comparator. ... The efficacy of Gardasil 9 in 16- through 26-year-old women was assessed in an active comparator-controlled, double-blind, randomized clinical study (Protocol 001) that included a total of 14,204 women (Gardasil 9 = 7,099; qHPV vaccine = 7,105). ... Immune responses, measured by GMT, for Gardasil 9 were noninferior to immune responses for Gardasil ... In clinical studies 99.6% to 100% who received Gardasil 9 became seropositive for antibodies against all 9 vaccine types by Month 7 across all groups tested.",
+      "key_excerpt_position": 67
+    },
+    {
+      "reference_id": "8d99f0564f2b1e08",
+      "url": "https://view-hub.org/topics/single-dose-hpv",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        75,
+        100,
+        101
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6c7d1ce50eae152a",
+      "url": "https://clinicaltrials.gov/study/NCT05237947",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        86,
+        99
+      ],
+      "contradicts_positions": [
+        85
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This study examines whether a single dose of HPV vaccine can reduce the frequency with which women between ages 18-30 become infected with HPV. ... Participants are randomized to 1 of 3 arms.",
+      "key_excerpt_position": 85
+    },
+    {
+      "reference_id": "12558ad347bab6ff",
+      "url": "https://www.researchgate.net/publication/392528381_Global_HPV_vaccination_programs_and_coverage_rates_a_systematic_review",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        103,
+        104,
+        105
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "582c9bf5107880f8",
+      "url": "https://www.mdpi.com/2076-393x/14/6/507",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        118,
+        120,
+        123
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6d6bb718c8d385ac",
+      "url": "https://researchportal.ukhsa.gov.uk/en/publications/the-effects-of-the-national-hpv-vaccination-programme-in-england-/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        2,
+        71
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The estimated relative reduction in cervical cancer rates by age at vaccine offer were 34% (95% CI 25-41) for age 16-18 years (school year 12-13), 62% (52-71) for age 14-16 years (school year 10-11), and 87% (72-94) for age 12-13 years (school year 8), compared with the reference unvaccinated cohort.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "c7ee216c6715280a",
+      "url": "https://www.esmo.org/oncology-news/one-dose-of-either-a-bivalent-or-nonavalent-hpv-vaccine-provides-protection-against-hpv16-or-hpv18-infection-and-is-not-inferior-to-two-doses",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        4,
+        44
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "After 5 years of follow-up of a double-blind, randomised, controlled ESCUDDO study, a single dose of either a bivalent or nonavalent human papillomavirus (HPV) vaccine provided similar protection to that of two doses",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "3405ec6b98f4b295",
+      "url": "https://www.iasusa.org/wp-content/uploads/2026/08/34-4-dunlevy-johnson.pdf",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        6,
+        95
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "HPV vaccination prior to exposure to the virus can prevent more than 90% of HPV-related cancers.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "b64169ebc4f19e2c",
+      "url": "https://www.gavi.org/our-work/vaccine-portfolio/human-papillomavirus",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        12,
+        111
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Cervical cancer is the fourth most common cancer in women globally, causing more than 209,000 deaths in 2022 in lower-income countries.",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "2a33fd80a091ccd3",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12731993/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        23,
+        116
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "HPV DNA is detected in nearly all cervical cancer samples (99,7%), compared to the significantly lower detection rates in controls",
+      "key_excerpt_position": 23
+    },
+    {
+      "reference_id": "e1d1c5a6f8f69897",
+      "url": "https://www.cdc.gov/std/treatment-guidelines/hpv-cancer.htm",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        29,
+        37
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Smoking contributes to the progression of CIN, with both active and passive smoking associated with squamous cell carcinoma of the cervix in women with HPV 16 or 18 infection",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "621706239f1ed4d5",
+      "url": "https://extranet.who.int/prequal/vaccines/prequalified-vaccines",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        50,
+        98
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "fd2c37fd8ab3e6b2",
+      "url": "https://www.xiameninnovax.com/news/who-prequalification/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        57
+      ],
+      "absent_positions": [
+        54
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the prequalification (PQ) application for Cecolin 9, the HPV 9-valent vaccine, was formally submitted to the World Health Organization (WHO)",
+      "key_excerpt_position": 57
+    },
+    {
+      "reference_id": "cda9c809cae1b26e",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38365419/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        81
+      ],
+      "absent_positions": [
+        82
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the Kenya single-dose HPV-vaccine efficacy (KEN SHE) trial, showed greater than 97% efficacy against persistent HPV16 and HPV18 infection at 36 months among women in Kenya",
+      "key_excerpt_position": 81
+    },
+    {
+      "reference_id": "36b078036ce6ce39",
+      "url": "https://view-hub.org/sites/default/files/2025-11/VIEW-hub%20Report_November%202025.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        106
+      ],
+      "absent_positions": [
+        109
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pakistan launched an HPV vaccine campaign targeting girls aged 9–14 years in September 2025. This is the first phase of the campaign, and the goal is to vaccinate at least 90% of 13 million eligible girls during the campaign.",
+      "key_excerpt_position": 106
+    },
+    {
+      "reference_id": "629c4902a88680f1",
+      "url": "https://www.who.int/publications/i/item/9789240030824",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        108,
+        112
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "96be4960894e9f12",
+      "url": "https://www.hpvworld.com/articles/impact-of-hpv-vaccination-on-cervical-cancer-screening-requirements/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        113,
+        114
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ea0115e5675f96b1",
+      "url": "https://www.ajmc.com/view/first-ever-therapeutic-hpv-vaccine-promising-against-cervical-cancer",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        118,
+        119
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "4027ed46ff95f40b",
+      "url": "https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2026.1897025/full",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        120,
+        121
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "However, they do not eradicate established infections or preexisting lesions.",
+      "key_excerpt_position": 120
+    },
+    {
+      "reference_id": "88371c40ccaee813",
+      "url": "https://www.cancer.gov/about-nci/advisory-boards/ncab/meetings/2026/castle-september-presentation.pdf",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        1
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "60 mg HPV16; 40 mg HPV18; 30 mg HPV6; 40 mg HPV11; 20 mg HPV31; 20 mg HPV33; 20 mg HPV45; 20 mg HPV52; 20 mg HPV58",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "647d5d9299ab4ee5",
+      "url": "https://www.gavi.org/vaccineswork/new-study-validates-previous-conclusions-supporting-single-dose-hpv-vaccination",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        6
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "c0f0ca7ae6e759d7",
+      "url": "https://mediatum.ub.tum.de/doc/1782277/1782277.pdf",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        7
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ec43c5b65704d84f",
+      "url": "https://www.who.int/health-topics/cervical-cancer",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        8
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Cervical cancer is the fourth most common cancer in women. In 2022, an estimated 660 000 women were diagnosed with cervical cancer worldwide and about 350 000 women died from the disease.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "f860fe56c528b346",
+      "url": "https://ourworldindata.org/grapher/rate-of-new-cervical-cancer-cases-gco",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        8
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "8bf39bbf28f9f29f",
+      "url": "https://gco.iarc.who.int/today/en/fact-sheets-cancers/23/cervix-uteri",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        9
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "11402602c6638e3d",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21395359/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        19
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "8e5cf133b4246da3",
+      "url": "https://www.scielo.br/j/rbgo/a/GF8SgJqfwPrSMVtdHrjNXxk/?lang=en",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        31
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "For this to occur there should be an overexpression of the E6 and E7 genes from the genome of an integrated HPV.",
+      "key_excerpt_position": 31
+    },
+    {
+      "reference_id": "f6e3890dc139e699",
+      "url": "https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2019.03116/full",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        34
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It is responsible for the zinc-dependent dimerization and for mediating E7 interaction with cellular proteins responsible for cell cycle regulation and apoptosis (p21 and pRb; Ohlenschlager et al., 2006).",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "9f7d3422467da12b",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3950231/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        34
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the inactivation of Rb is caused by the HPV E7 protein, which may then lead to increased expression of p16 through a negative feedback mechanism",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "c45f1c0d7a4127c5",
+      "url": "https://www.who.int/publications/i/item/9789240089167",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        39
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1d1a7f4718eb8b64",
+      "url": "https://ec.europa.eu/health/documents/community-register/2016/20160729135469/anx_135469_en.pdf",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        40
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "2a73f5a93ab8186d",
+      "url": "https://www.researchgate.net/publication/50373593_AS04-Adjuvanted_Human_Papillomavirus_HPV_Types_16_and_18_Vaccine_Cervarix_R_A_Review_of_its_Use_in_the_Prevention_of_Premalignant_Cervical_Lesions_and_Cervical_Cancer_Causally_Related_to_Certain_Oncog",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        47
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "e6a6a275d70c2c51",
+      "url": "https://www.merck.com/product/usa/pi_circulars/g/gardasil_9/gardasil_9_pi.pdf",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        49
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "b0649e81ed46d1b8",
+      "url": "https://www.path.org/our-impact/media-center/new-hpv-vaccine-innovax-receives-who-prequalification/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        52
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Countries facing barriers to national introduction or expanding their HPV vaccine program to the full cohort due to price or supply constraints will now have another option for affordable, sustainable access.",
+      "key_excerpt_position": 52
+    },
+    {
+      "reference_id": "66fcf7b1a6810db5",
+      "url": "https://www.hpvworld.com/articulos/new-hpv-vaccines-current-landscape-and-future-directions/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        53
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "three bivalent vaccines (Cervarix® by GlaxoSmithKline, Cecolin® by Xiamen Innovax and Walrinvax® by Yuxi Zerun Biotechnology) targeting HPV 16 and 18",
+      "key_excerpt_position": 53
+    },
+    {
+      "reference_id": "bd0dd3210bc36d79",
+      "url": "https://www.researchgate.net/publication/279795502_Quadrivalent_vaccine_against_human_papillomavirus_to_prevent_high-grade_cervical_lesions_The_FUTURE_II_Study_Group_N_Engl_J_Med_2007_356_1915_1927_101056NEJMoa061741_17494925",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        57
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d3dbed7fb3207f9e",
+      "url": "https://www.researchgate.net/publication/272074165_Efficacy_of_Human_Papillomavirus_16_and_18_HPV-1618_AS04-Adjuvanted_Vaccine_against_Cervical_Infection_and_Precancer_in_Young_Women_Final_Event-Driven_Analysis_of_the_Randomized_Double-Blind_PATRICIA_",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        61
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0af152bd1a699338",
+      "url": "https://academic.oup.com/jid/article/199/7/926/853088",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        64
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d9bcec3e5874a27b",
+      "url": "https://www.semanticscholar.org/paper/The-effects-of-the-national-HPV-vaccination-in-UK%2C-Falcaro-Casta%C3%B1%C3%B3n/00820c7e6c82bbedf3d7fabd15ac754f70f974c9",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        65
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "4b7f5d31e888531b",
+      "url": "https://publichealthscotland.scot/news/2025/november/new-study-shows-long-term-effectiveness-of-hpv-vaccine/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        70
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "441adfc88edaeb39",
+      "url": "https://www.mdpi.com/2076-393x/8/3/391",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        73
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "70f9198b6b5a1e51",
+      "url": "https://es.cochrane.org/sites/es.cochrane.org/files/uploads/Embargos/2025/embargoed_24nov2025_effects-of-human-papillomavirus--hpv--vaccinationprogrammes-on-community-rates-of-hpv-related-diseaseand-harms-from-vaccination.pdf",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        74
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the pooled impact of HPV vaccination on rates of anogenital warts indicated a reduction of 47% in the medium term (RR 0.53, 95% CI 0.37 to 0.77; 4 studies, 6,430,295 females and 313 males; I2 = 98%) and 53% in the long term (RR 0.47, 95% CI 0.36 to 0.61",
+      "key_excerpt_position": 74
+    },
+    {
+      "reference_id": "5a9a8e9bc49cf04b",
+      "url": "https://www.drozdogan.com/en/is-one-dose-of-hpv-vaccine-enough-what-does-the-escuddo-study-published-in-nejm-tell-us/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        83
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "4f9a29d4cca767f3",
+      "url": "https://www.who.int/news/item/20-12-2022-WHO-updates-recommendations-on-HPV-vaccination-schedule",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        89
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0234ec783f00d51d",
+      "url": "https://www.cima.care/insights/hpv-vaccination-transforms-global-cancer-prevention/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        92
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In December 2022, the World Health Organization published a landmark position paper updating HPV vaccine dosing recommendations to include a single-dose schedule as an alternative option for girls and boys aged 9-20 years.",
+      "key_excerpt_position": 92
+    },
+    {
+      "reference_id": "5cdc9949a909c2f2",
+      "url": "https://journals.plos.org/globalpublichealth/article?id=10.1371/journal.pgph.0004688",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        93
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "73456c7ed7abb3d0",
+      "url": "https://www.mednet.ca/en/report/future-i-and-future-ii-vaccination-against-human.html",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        96
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "7f34d4a50db171ce",
+      "url": "https://www.who.int/publications/i/item/9789240014107",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        98
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d45e96efd40f9691",
+      "url": "https://www.gavi.org/news/media-room/global-leaders-unite-accelerate-cervical-cancer-elimination-efforts",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        108
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f9485dd1bf26d5de",
+      "url": "https://www.medconsultasia.com/vaccine/new-hpv-vaccines-in-clinical-trials/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        116
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1ab36db44a3bc968",
+      "url": "https://cdn.who.int/media/docs/default-source/immunization/pdvac/pdvac-2024/day-1/therapeutic-hpv-vaccines.pdf?sfvrsn=f9490092_1",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        117
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "27bc64f07cffe8da",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13103388/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        121
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "VGX-3100 ... has been tested in cervical, vulvar, anal, and peri-anal intraepithelial neoplasia grade 2/3 (CIN2/3, VIN2/3, AIN2/3, and PAIN2/3, respectively)",
+      "key_excerpt_position": 121
+    },
+    {
+      "reference_id": "1d454fcce254a3a7",
+      "url": "https://ecancer.org/en/news/25925-a-therapeutic-hpv-vaccine-could-eliminate-precancerous-cervical-lesions",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        121
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Vvax001 vaccine is a modified version of the Semliki Forest virus that cannot replicate and produces the oncogenic E6 and E7 proteins that are expressed exclusively by HPV16-infected cells.",
+      "key_excerpt_position": 121
+    },
+    {
+      "reference_id": "6dd5e2f9d3b0d0f7",
+      "url": "https://www.ddw-online.com/therapeutic-hpv-vaccine-could-eliminate-precancerous-cervical-lesions-33407-202501/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        121
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Vvax001 vaccine is a modified version of the Semliki Forest virus that cannot replicate",
+      "key_excerpt_position": 121
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-5",
+      "position": 5,
+      "claim_excerpt": "Second, the WHO prequalification of lower-cost recombinant vaccines manufactured in China and India—most recently the September 25, 2026 prequalification of India's quadrivalent CERVAVAC—has substant…",
+      "cited_markers": "[14] [15] [16]",
+      "corroborating_markers": "[46] [38] [47] [8] [58] [39] [71] [77] [45] [3] [72]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-7",
+      "position": 7,
+      "claim_excerpt": "Cervical cancer persists as one of the leading causes of preventable cancer morbidity and mortality worldwide, although headline global estimates vary slightly across reporting cycles and data releas…",
+      "cited_markers": "[1] [21]",
+      "corroborating_markers": "[28] [26] [71] [67] [32] [8] [69]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-19",
+      "position": 19,
+      "claim_excerpt": "Human papillomaviruses constitute a family of more than 200 known non-enveloped, double-stranded circular DNA viruses transmitted primarily through sexual or skin-to-skin genital contact.",
+      "cited_markers": "[2] [29]",
+      "corroborating_markers": "[30] [3] [38] [35] [28] [81] [8] [26] [58] [80] [32] [36]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-31",
+      "position": 31,
+      "claim_excerpt": "While early productive infections maintain viral DNA episomally, progression to malignancy frequently involves integration of the viral genome into host chromosomes—documented in 80% of HPV 16-positi…",
+      "cited_markers": "[30] [34]",
+      "corroborating_markers": "",
+      "contradicting_markers": "[80] [35] [3] [28] [38] [81]"
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-44",
+      "position": 44,
+      "claim_excerpt": "Intramuscular immunization induces vigorous humoral immunity, generating neutralizing antibody titers far exceeding those elicited by natural infection and conferring durable protection against new v…",
+      "cited_markers": "[2] [12] [13]",
+      "corroborating_markers": "[49] [38] [80] [55] [81] [50] [68] [18]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-53",
+      "position": 53,
+      "claim_excerpt": "Xiamen Innovax Biotech's bivalent Cecolin, licensed in China in December 2019 using an Escherichia coli expression platform (40 µg HPV 16 and 20 µg HPV 18 VLPs with 208 µg aluminum hydroxide), achiev…",
+      "cited_markers": "[15] [38] [46]",
+      "corroborating_markers": "[45] [39] [58] [4] [16] [11] [51]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-61",
+      "position": 61,
+      "claim_excerpt": "Across the combined FUTURE I and II programs, per-protocol efficacy reached 99.0% against genital warts, 100% against HPV 6/11/16/18-related vulvar (VIN2/3) and vaginal (VaIN2/3) precancers, and 96.0…",
+      "cited_markers": "[51] [52]",
+      "corroborating_markers": "[43] [68] [58] [50] [40]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-75",
+      "position": 75,
+      "claim_excerpt": "Synthesizing this observational and trial literature, two comprehensive Cochrane systematic reviews published in November 2025 (encompassing 153 studies) concluded with moderate certainty that HPV va…",
+      "cited_markers": "[9] [19] [59]",
+      "corroborating_markers": "[58] [7] [55] [13]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-77",
+      "position": 77,
+      "claim_excerpt": "Originally introduced on three-dose schedules (at 0, 1–2, and 6 months) and streamlined to two doses spaced 6 to 12 months apart for preadolescents under age 15 based on non-inferior immunogenicity,…",
+      "cited_markers": "[38] [60]",
+      "corroborating_markers": "[17] [6] [43] [19] [59] [49] [63] [46] [11] [55] [13] [58] [67] [51]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-79",
+      "position": 79,
+      "claim_excerpt": "Although single-dose regimens generate lower peak and plateau antibody titers than two- or three-dose schedules, the repetitive antigenic geometry of L1 VLPs appears sufficient to sustain protective…",
+      "cited_markers": "[19] [61]",
+      "corroborating_markers": "[49] [38] [20] [60] [66] [6] [50] [40] [43]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-81",
+      "position": 81,
+      "claim_excerpt": "In Kenya, the randomized, double-blind, delayed-crossover KEN SHE trial enrolled 2,275 sexually active women aged 15 to 20 years and demonstrated 98% single-dose efficacy against persistent HPV 16/18…",
+      "cited_markers": "[62]",
+      "corroborating_markers": "[60] [66] [61] [4] [40] [13] [6] [58]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-82",
+      "position": 82,
+      "claim_excerpt": "Blinded crossover extension through 54 months confirmed sustained, non-waning vaccine efficacy of 99.2% (95% CI: 96.1%–99.9%) against HPV 16/18 and 98.9% (95% CI: 94.9%–99.8%) against the seven carci…",
+      "cited_markers": "[62]",
+      "corroborating_markers": "[61] [51] [40] [6]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-83",
+      "position": 83,
+      "claim_excerpt": "To bridge those clinical findings down to preadolescents, the randomized DoRIS trial in Tanzania demonstrated that single-dose antibody responses at 24 months in girls aged 9 to 14 were non-inferior…",
+      "cited_markers": "[61] [63]",
+      "corroborating_markers": "[62] [60] [51] [50] [66] [43] [40] [13]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-86",
+      "position": 86,
+      "claim_excerpt": "Both vaccines satisfied non-inferiority (p < 0.001), with reported one-dose minus two-dose infection rate differences of −0.13 per 100 participants (95% CI: −0.45 to 0.15) for the bivalent vaccine an…",
+      "cited_markers": "[64]",
+      "corroborating_markers": "[6] [63] [13] [43]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-89",
+      "position": 89,
+      "claim_excerpt": "Meanwhile, the ongoing PRISMA ESCUDDO trial is assessing single-dose protection against cervical, anal, and oral persistent infections in women aged 18 to 30.",
+      "cited_markers": "[65]",
+      "corroborating_markers": "[64] [13] [51] [63] [20] [19] [40] [6] [60] [12]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-92",
+      "position": 92,
+      "claim_excerpt": "Following its December 2022 off-label guidance endorsing one or two doses for females aged 9 to 20 and two doses six months apart for women 21 and older, WHO SAGE reviewed the maturing evidence in Oc…",
+      "cited_markers": "[11] [60] [66]",
+      "corroborating_markers": "[65] [59] [38] [49] [71] [67] [13] [46] [63] [6] [62]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-93",
+      "position": 93,
+      "claim_excerpt": "Early high-income adopters of single-dose policies include the United Kingdom (since September 2023), Australia, Canada, Ireland, and Spain.",
+      "cited_markers": "[60] [67]",
+      "corroborating_markers": "[59] [71] [20] [66] [4] [26] [55]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-96",
+      "position": 96,
+      "claim_excerpt": "Implementation research in Eswatini, Malawi, and Uganda indicates that delivering differentiated multidose schedules to girls living with HIV is frequently hindered by inconsistent clinician awarenes…",
+      "cited_markers": "[68]",
+      "corroborating_markers": "[67] [26]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-98",
+      "position": 98,
+      "claim_excerpt": "Randomized trials consistently demonstrate that local injection-site pain and mild reactogenicity occur slightly more often in vaccine recipients—and more frequently with nine-valent than quadrivalen…",
+      "cited_markers": "[44] [50] [69]",
+      "corroborating_markers": "[43] [51] [40] [17] [58]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-99",
+      "position": 99,
+      "claim_excerpt": "In ESCUDDO, Grade 3 or higher adverse event rates were comparable across one-dose and two-dose arms and across bivalent and nonavalent vaccines, with no safety signals identified.",
+      "cited_markers": "[6] [64]",
+      "corroborating_markers": "[63] [13] [58] [43] [12] [49]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-100",
+      "position": 100,
+      "claim_excerpt": "Public hesitancy has periodically centered on social-media-amplified claims linking HPV vaccination to infertility, neurological disorders, or adverse pregnancy outcomes.",
+      "cited_markers": "[9] [19] [59]",
+      "corroborating_markers": "[58] [66] [40] [17] [49] [55]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-105",
+      "position": 105,
+      "claim_excerpt": "Mathematical modeling for LMICs projects that meeting these 2030 benchmarks will reduce median cervical cancer incidence by 42% by 2045 and 97% by 2120, averting more than 74 million new cases over a…",
+      "cited_markers": "[1] [70]",
+      "corroborating_markers": "[69] [28] [26] [77] [71] [73]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-110",
+      "position": 110,
+      "claim_excerpt": "When measured across all age-eligible girls worldwide—accounting for populous nations lacking free routine adolescent programs such as China, where uptake relies heavily on private self-payment and p…",
+      "cited_markers": "[60] [71]",
+      "corroborating_markers": "",
+      "contradicting_markers": "[66] [77] [28] [72] [26]"
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-112",
+      "position": 112,
+      "claim_excerpt": "Bridging the remaining gap requires sustained financing, school- and community-based outreach to out-of-school girls, improved male uptake in gender-neutral programs, and proactive communication to c…",
+      "cited_markers": "[10] [71] [74]",
+      "corroborating_markers": "[28] [66] [27] [26] [67] [77] [55] [18] [58] [73]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-116",
+      "position": 116,
+      "claim_excerpt": "Adjunctive biomarkers such as E6/E7 mRNA assays offer improved specificity over HPV DNA detection for CIN2+ in some screening cohorts, though performance varies by clinical setting, with one Brazilia…",
+      "cited_markers": "[32] [76]",
+      "corroborating_markers": "[34] [28] [30]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-117",
+      "position": 117,
+      "claim_excerpt": "Crucially, as highly vaccinated birth cohorts enter adulthood with sharply diminished risks of HPV 16 and 18 disease, modeling indicates that screening intervals can safely be lengthened to reduce co…",
+      "cited_markers": "[77]",
+      "corroborating_markers": "[51] [61] [55] [58] [9] [29] [19] [49]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-118",
+      "position": 118,
+      "claim_excerpt": "Simultaneously, next-generation prophylactic and therapeutic vaccine pipelines aim to close residual gaps.",
+      "cited_markers": "[78] [79]",
+      "corroborating_markers": "[77] [38] [81] [80] [3] [76] [35]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "vacinacao_hpv_6e36aa5e9e6e_20261115T152206Z-119",
+      "position": 119,
+      "claim_excerpt": "Experimental 11-valent, 14-valent, and 15-valent prophylactic formulations are advancing through clinical trials to broaden genotype coverage beyond nine types.",
+      "cited_markers": "[78]",
+      "corroborating_markers": "[76] [46] [81] [49] [32] [38] [36] [3] [35] [58] [30]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 4087652,
+  "cost_tracked": false,
+  "processing_time_seconds": 4853.10469
+}

@@ -1,0 +1,117 @@
+[referencia=44ecdf8f7c07c5ac score=0.772]
+## 2. SAG-AFTRA AI Consent Requirements: They Bind Non-Union Productions Too
+
+The 2023 SAG-AFTRA strike ended with a landmark agreement that included extensive AI provisions. These rules, summarized in the 2023 Tentative Successor Agreement, cover three categories of AI use involving performers:
+
+### Digital Replicas of Performers
+
+If you create or use a digital replica of a performer's voice or likeness—whether through employment-based replication (the performer participated in creating the replica) or independent replication (creating the impression that the digital replica *is* the performer)—you need **explicit, signed, and initialed consent** from the performer. The agreement requires that compensation terms be set forth in detail. Consent continues after the performer's death unless explicitly agreed otherwise. If a deceased performer's estate cannot be located, the union itself may grant consent.
+
+### Synthetic Performers
+
+The agreement defines "Synthetic Performers" as AI-generated creations that appear to be real people but are not recognizable as any specific individual and are not based on an employment arrangement with a real performer. If you use a Synthetic Performer in place of a human actor who would otherwise have been engaged, you must give the union notice and bargain in good faith over appropriate consideration. However, if you create a Synthetic Performer using a specific natural performer's principal facial features (eyes, nose, ears, or mouth), you need that performer's consent and must negotiate compensation.
+
+### Digital Alteration of Performers
+
+Altering a performer's voice or likeness using AI requires consent unless the alteration is "as performed/scripted." Explicit signed consent is required, and claims are subject to arbitration with remedies limited to monetary damages.
+
+### Why Non-Union Productions Should Care
+
+Even if your production is not signatory to SAG-AFTRA, these provisions matter for two reasons. First, many state laws—including California's AB 2602, discussed below—now codify similar consent requirements for all productions, not just union ones. Second, if your film is distributed through a studio or streamer that is a SAG-AFTRA signatory, the distributor will require compliance with these AI provisions before acquiring your film. Non-compliance can kill your distribution deal after you've already completed production.
+
+---
+
+[referencia=44ecdf8f7c07c5ac score=0.717]
+## 4. Digital Replica Rights: NO FAKES Act, Tennessee ELVIS Act, and California AB 2602
+
+Using AI to recreate an actor's likeness—whether living or deceased—exposes your production to right-of-publicity claims under a growing patchwork of federal and state laws.
+
+### The NO FAKES Act (Federal)
+
+On April 9, 2025, a bipartisan group of senators and representatives reintroduced the NO FAKES Act (Nurture Originals, Foster Art, and Keep Entertainment Safe Act). The bill would create a federal property right in an individual's voice and visual likeness, holding individuals or companies liable if they distribute an unauthorized digital replica. It would also hold platforms liable for hosting unauthorized replicas if they have knowledge of the lack of authorization. The bill includes First Amendment carve-outs for biopics, docudramas, parody, and satire—and critically, it would **preempt future state laws** regulating digital replicas.
+
+The NO FAKES Act is endorsed by SAG-AFTRA, the Motion Picture Association, Disney, OpenAI, and dozens of other industry organizations. While it has not yet passed, its broad bipartisan and industry support makes eventual enactment likely. For filmmakers, the key implication is that creating digital replicas without consent is on track to become a clear federal cause of action—regardless of which state you're in.
+
+### Tennessee ELVIS Act
+
+Tennessee became the first state to address AI's impact on likeness rights when Governor Bill Lee announced the Ensuring Likeness Voice and Image Security (ELVIS) Act in January 2024. The ELVIS Act updates Tennessee's Protection of Personal Rights law to specifically include "voice" in the protections against unauthorized use of someone's likeness. It targets generative AI cloning models that enable human impersonation and unauthorized fake works in the image and voice of others. If your production shoots in Tennessee or features Tennessee-based performers, this law applies.
+
+---
+
+[referencia=44ecdf8f7c07c5ac score=0.330]
+### California AB 2602 and AB 1836
+
+California enacted two landmark bills on September 17, 2024. AB 2602 requires that contracts involving the use of AI-generated digital replicas of a performer's voice or likeness must specifically describe the intended use, and the performer must be professionally represented (by an attorney or union representative) in negotiating the contract. This means handshake deals and boilerplate releases are insufficient if AI replication is involved.
+
+AB 1836 prohibits the commercial use of digital replicas of deceased performers in films, TV shows, video games, audiobooks, and sound recordings without first obtaining consent from the performer's estate. This closes a significant gap in California's post-mortem right of publicity, which previously did not clearly cover AI-generated replicas of deceased performers.
+
+For filmmakers, these state laws mean that even if your production isn't union-signatory and the NO FAKES Act hasn't passed yet, you can still face liability for unauthorized digital replicas under state law. If you're shooting in California or featuring California-based performers, AB 2602's representation requirement applies. If you're recreating a deceased performer's likeness using AI, AB 1836 and the Tennessee ELVIS Act both require estate consent.
+
+---
+
+[referencia=44ecdf8f7c07c5ac score=0.312]
+## Actionable Next Steps
+
+If you're an independent filmmaker using AI-generated content in your production, here's what you should do now:
+
+1. **Audit your AI usage.** Document every instance where AI was used to generate footage, VFX, voiceover, or backgrounds. For each instance, record the tool used, the prompts or inputs provided, and the extent of human creative modification. This documentation will be essential for copyright registration, festival submissions, and any future legal challenges.
+2. **Register strategically.** File your copyright registration with the Copyright Office, disclosing all AI-generated content and limiting your claim to human-authored elements. Do not claim copyright in purely AI-generated material—the Thaler decision and the Part 2 Report make clear this will not hold up. If your film contains significant AI-generated material, consider working with counsel to structure the registration to maximize protection for your human-authored contributions.
+3. **Get written consent for all digital replicas.** If you're using AI to create or alter a performer's voice or likeness—even if the performer is cooperating—obtain explicit, signed, and initialed consent that describes the intended use of the digital replica. If the performer is in California, ensure they have professional representation during negotiations per AB 2602. If the performer is deceased, obtain consent from the estate per AB 1836 and applicable state law.
+4. **Prepare your festival disclosure statement.** Draft a clear, honest AI disclosure statement that lists the tools used and describes your human creative contributions. Include this in your director's statement and festival submission materials. Do not wait for festivals to ask—lead with transparency.
+5. **Track the NO FAKES Act.** If it passes, it will create a uniform federal standard for digital replicas and preempt state laws. Until then, comply with the strictest applicable state law—typically California or Tennessee—depending on where your performers are based and where you're shooting.
+6. **Talk to an entertainment attorney before distribution.** E&O insurers, sales agents, and distributors are all scrutinizing AI content in indie films. A legal review of your AI usage, consent documentation, and copyright registration before you sign a distribution deal can prevent a deal-killing compliance failure.
+
+---
+
+[referencia=44ecdf8f7c07c5ac score=0.161]
+# AI-Generated Content in Independent Film: A 2026 Legal Compliance Guide
+
+Independent filmmakers using AI for VFX, voiceover, and digital doubles face four converging legal regimes in 2026: copyright registration rules, SAG-AFTRA consent mandates, festival AI disclosure requirements, and digital replica laws under the NO FAKES Act and state likeness statutes.
+
+Independent filmmakers are using generative AI for everything from b-roll and background plates to VFX, voiceover, and digital doubles of actors. The tools are powerful and getting cheaper by the month. But four separate legal frameworks—copyright registration, union consent rules, festival disclosure mandates, and right-of-publicity laws—are converging in 2026 to create a compliance landscape that most indie productions haven't mapped yet. If you're using AI-generated content in your film and you don't understand these rules, you're exposing your production to copyright refusals, festival disqualification, union grievances, and likeness-rights lawsuits.
+
+We work with creators across music, visual art, writing, and game development on exactly these questions—and we've seen how the legal landscape shifts faster than most filmmakers can track. This guide breaks down the four compliance areas that matter most for independent film productions using AI in 2026.
+
+---
+
+[referencia=44ecdf8f7c07c5ac score=0.082]
+AI tools are transforming what independent filmmakers can create on a limited budget. But the legal infrastructure around AI-generated content is maturing rapidly in 2026—from the Supreme Court's settled human-authorship requirement to state-level digital replica statutes and festival disclosure mandates. The filmmakers who will thrive are the ones who build compliance into their production process from day one, not the ones who scramble to fix legal gaps after the film is finished.
+
+Using AI in your film? Get clear on copyright, consent, and compliance before you submit to festivals or sign a distribution deal.
+
+---
+
+[referencia=44ecdf8f7c07c5ac score=0.018]
+## 1. Copyright Registration: What's Protectable When AI Generates Your Footage
+
+The U.S. Copyright Office released Part 2 of its Artificial Intelligence Report on January 29, 2025, addressing the copyrightability of outputs created using generative AI. The core conclusion: AI-generated outputs *can* be protected by copyright, but **only where a human author has determined sufficient expressive elements**. This means a human-authored work perceptible in the AI output, or creative arrangements or modifications made by a human, can be registered. But merely providing prompts to an AI system is not enough. The Office found that "prompts essentially function as instructions that convey unprotectable ideas."
+
+Crucially, the Report also confirmed that **using AI to assist in the creative process does not bar copyrightability**. If you use AI to generate a background plate but then significantly composite, color-grade, and edit it into a larger human-directed sequence, the human-authored elements of that sequence remain protectable. The AI-generated portion itself is not—but your creative arrangement and modification of it may be.
+
+### Thaler v. Perlmutter: The Supreme Court Closes the Door
+
+On March 2, 2026, the Supreme Court declined to review Thaler v. Perlmutter (Case No. 25-449), leaving intact the D.C. Circuit's 2025 opinion affirming that copyright requires human authorship. The case involved a visual artwork created entirely by an AI system, with no human prompting or editing. Dr. Stephen Thaler listed his AI system as the sole author. The Copyright Office refused registration, the D.C. Circuit affirmed the refusal, and the Supreme Court's denial of certiorari means the human-authorship requirement is now settled law at the federal appellate level.
+
+For filmmakers, the practical takeaway is this: **if AI generates footage, backgrounds, or VFX with minimal human creative control, that material is not copyrightable**. You cannot prevent others from copying it. But if you exercise sufficient creative direction—selecting, arranging, modifying, and integrating AI outputs into a larger human-authored work—you can protect the human-authored elements.
+
+---
+
+[referencia=44ecdf8f7c07c5ac score=0.008]
+### How to Register an AI-Assisted Film
+
+When registering your film with the Copyright Office, you must disclose any AI-generated content included in the work. The Office's March 2023 registration guidance (which it has announced it will supplement) requires applicants to identify AI-generated material and limit the registration claim to human-authored elements. For a film that uses AI for certain VFX shots but is otherwise human-directed, you would register the film as a whole but exclude the purely AI-generated portions from the claim.
+
+This matters for distribution deals. E&O insurance providers and sales agents are increasingly scrutinizing copyright registrations for AI content. A registration that fails to disclose AI-generated material can be challenged as inaccurate, potentially invalidating the registration and killing your distribution deal. For a deeper dive into how AI-generated content intersects with copyright ownership in other creative fields, see our guide on AI-generated game assets and what studios actually own.
+
+---
+
+[referencia=44ecdf8f7c07c5ac score=0.007]
+## 3. Film Festival AI Disclosure Mandates
+
+Major film festivals have updated their submission rules for 2026 to address AI-generated content. While requirements vary by festival, the trend is clear: **if you used AI in your film, you need to disclose it**.
+
+According to industry reporting on 2026 festival requirements, SXSW requires AI disclosure as part of its submission process, with a competitive AI category established in 2025. Tribeca Film Festival accepts AI-assisted films but requires disclosure of AI usage. Sundance is evaluating AI content on a case-by-case basis, with no explicit ban but an evolving policy that may formalize disclosure requirements. Cannes Short Film has no explicit AI ban but applies jury discretion.
+
+The practical risk of non-disclosure is severe. Festival programmers and industry observers consistently advise that if AI usage is discovered after selection without prior disclosure, it can damage the filmmaker's reputation and lead to disqualification. Transparency is now the expected baseline—festival programmers want to see a director's statement that explains how and why AI was used as a creative choice, not something hidden in the credits.
+
+Our coverage of AI voice clones and the NO FAKES Act explores how disclosure obligations are becoming standard across creative industries, not just film.

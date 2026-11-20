@@ -1,0 +1,302 @@
+[referencia=ad53665ae02ab08b score=0.982]
+<sup>16</sup>In this trial, semaglutide was associated with changes in multiple biomarkers of cardiovascular risk, including blood pressure, waist circumference, glycemic control, nephropathy, and levels of lipids and C-reactive protein. For perspective, the observed decrease of 3.3 mm Hg in systolic blood pressure in this trial is greater than the decrease of 2 mm Hg predicted by a meta-analysis to yield a 7% reduction in vascular mortality,<sup>35</sup>and the 37.8-percentage-point decrease in the high-sensitivity C-reactive protein level with semaglutide in this trial is similar to that reported with statins.<sup>36</sup>These changes in cardiovascular biomarkers are notable for having been achieved on a background of high rates of use of statins, antihypertensive agents, and other evidence-based medications for atherosclerotic disease. Although our understanding of the mechanisms of cardiovascular protection with semaglutide remains speculative, the consistent effects on cardiometabolic risk factors support the hypothesis that clinical benefit is achieved through multiple interrelated pathways.
+An important limitation of this trial is that we included only patients with preexisting cardiovascular disease. The effects of semaglutide on primary prevention of cardiovascular events in persons with overweight or obesity but without previous atherosclerotic disease were not studied. Moreover, the diversity of the patient group does not duplicate a globally representative population, particularly because only 27.7% and 3.8% of the enrolled patients were women or Black persons, respectively. With regard to the latter group, however, 12.5% of the patients enrolled in the United States identified as Black.
+
+Recommendations for the treatment of type 2 diabetes have long targeted cardiovascular risk reduction,
+
+---
+
+[referencia=ad53665ae02ab08b score=0.975]
+## Discussion
+
+GLP-1 receptor agonists are recognized to have cardioprotective effects in patients with type 2 diabetes. We conducted this trial to determine whether semaglutide, a potent long-acting medication in this class,
+
+<sup>25</sup>would diminish excess cardiovascular risk associated with overweight or obesity in patients with no history of diabetes. Among 17,604 patients with a BMI of 27 or greater and preexisting cardiovascular disease but without diabetes, treatment with once-weekly subcutaneous semaglutide at a dose of 2.4 mg for a mean duration of 33 months reduced the risk of a composite of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke by 20% (hazard ratio, 0.80; 95% CI, 0.72 to 0.90). The effects of semaglutide occurred early after the initiation of treatment and were directionally similar across cardiovascular end points and among prespecified patient subgroups. Semaglutide was associated with decreases in body weight and waist circumference, findings consistent with the known metabolic effects of this class of medications.
+The incidence of serious adverse events was lower among patients assigned to receive semaglutide than among those assigned to receive placebo. A higher percentage of patients discontinued semaglutide than placebo because of adverse events, a difference that appeared to be due to the greater incidence of gastrointestinal symptoms with semaglutide. Nausea, vomiting, and diarrhea are not uncommon during treatment with GLP-1 receptor agonists, particularly at initiation and dose escalation.
+
+<sup>26</sup>The incidence of gallbladder-related disorders was higher with semaglutide than with placebo, an association that has also been reported previously.<sup>27</sup>Nonetheless, serious adverse events related to gastrointestinal disease, acute kidney failure, pancreatitis, cancers, or psychiatric disorders were not more frequent with semaglutide than with placebo.
+Mechanisms of cardiovascular risk reduction with semaglutide may include those related to physiological benefits from the reduction of excess abnormal body fat and actions of semaglutide other than weight loss. Weight loss across a spectrum of elevated BMIs produces not only improvements in glucose levels and the traditional cardiovascular intermediate risk factors
+
+---
+
+[referencia=ad53665ae02ab08b score=0.907]
+<sup>10</sup>Although these agents affect a broad range of metabolic pathways associated with glucose metabolism, energy homeostasis, and inflammation that might be hypothesized to also improve cardiovascular outcomes among people who do not have diabetes,<sup>16,17</sup>it is unknown whether GLP-1 receptor agonists can reduce the cardiovascular risk associated with overweight and obesity. Semaglutide, a long-acting analogue of GLP-1, administered at a dose of 2.4 mg subcutaneously once weekly for 104 weeks, was found to reduce body weight by a mean of 15.2% among patients with overweight or obesity who did not have diabetes.<sup>18</sup>In the Semaglutide Effects on Cardiovascular Outcomes in People with Overweight or Obesity (SELECT) trial, we tested the hypothesis that the addition of semaglutide to standard care would be superior to placebo in reducing the risk of major adverse cardiovascular events among patients with overweight or obesity and preexisting cardiovascular disease who did not have diabetes.
+
+---
+
+[referencia=ad53665ae02ab08b score=0.897]
+Recommendations for the treatment of type 2 diabetes have long targeted cardiovascular risk reduction,
+
+<sup>37</sup>and current guidelines recommend the use of GLP-1 receptor agonists in patients with diabetes who need cardiovascular risk reduction, weight management, or both.<sup>38,39</sup>Major adverse cardiovascular events were reduced by approximately 14% in a meta-analysis of GLP-1 receptor agonists (hazard ratio, 0.86; 95% CI, 0.80 to 0.93) among patients with type 2 diabetes and preexisting cardiovascular disease or cardiovascular risk factors,<sup>10</sup>with similar benefits observed in these patient groups in trials of subcutaneous or oral semaglutide (hazard ratios of 0.74 and 0.79, respectively).<sup>40,41</sup>The estimated global prevalence of diabetes is approximately 30% among patients with chronic coronary syndromes, and thus most people with cardiovascular disease do not have diabetes.<sup>42</sup>The magnitude of the effect of semaglutide in the current trial was similar to that among patients with diabetes in previous studies (within the constraints of between-trial comparisons), which suggests that treatment with semaglutide could be applied more broadly for secondary prevention of cardiovascular events in the expanding population of patients with overweight and obesity and atherosclerotic vascular disease. Moreover, because two thirds of the patients in this trial had dysglycemia (glycated hemoglobin levels of 5.7 to 6.4%), our findings support a more attentive therapeutic approach to prediabetes,<sup>43</sup>not only because of the association between prediabetes and cardiovascular risk but also because of the opportunity to improve cardiovascular outcomes through appropriate weight management.
+In this randomized, placebo-controlled trial involving patients with preexisting cardiovascular disease and overweight or obesity but without diabetes, weekly subcutaneous semaglutide at a dose of 2.4 mg was superior to placebo in reducing the incidence of a composite of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke at a mean follow-up of 39.8 months.
+
+---
+
+[referencia=a9abb45de2912673 score=0.891]
+To date, two antihyperglycemic agents have been shown to reduce the rate of cardiovascular events in patients with type 2 diabetes at high cardiovascular risk.
+
+<sup>2,3</sup>In this trial, the risk reduction of the primary outcome was driven by a significant decrease in the rate of nonfatal stroke and a nonsignificant decrease in the rate of nonfatal myocardial infarction, with no difference in cardiovascular death. The beneficial effect of semaglutide on cardiovascular outcomes may relate to modification of the progression of atherosclerosis.
+This trial was powered as a noninferiority study to exclude a preapproval safety margin of 1.8 set by the Food and Drug Administration. It was not powered to show superiority, so such testing was not prespecified. However, the treatment effect of semaglutide and the accrual of more events than estimated resulted in a significantly lower risk of the primary outcome among patients in the semaglutide group. Patients were followed for a relatively short duration (2.1 years) and were at high cardiovascular risk. The generalizability of these findings to other populations and a longer duration of treatment is unknown. It is also unknown to what extent the greater glycated hemoglobin reductions in the semaglutide group contributed to the results.
+
+In conclusion, among patients with type 2 diabetes at high cardiovascular risk, the rate of first occurrence of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke was significantly lower in those receiving semaglutide than in those receiving placebo, which confirmed noninferiority.
+
+---
+
+[referencia=ad53665ae02ab08b score=0.890]
+## Abstract
+
+### Background
+
+Semaglutide, a glucagon-like peptide-1 receptor agonist, has been shown to reduce the risk of adverse cardiovascular events in patients with diabetes. Whether semaglutide can reduce cardiovascular risk associated with overweight and obesity in the absence of diabetes is unknown.
+
+### Methods
+
+In a multicenter, double-blind, randomized, placebo-controlled, event-driven superiority trial, we enrolled patients 45 years of age or older who had preexisting cardiovascular disease and a body-mass index (the weight in kilograms divided by the square of the height in meters) of 27 or greater but no history of diabetes. Patients were randomly assigned in a 1:1 ratio to receive once-weekly subcutaneous semaglutide at a dose of 2.4 mg or placebo. The primary cardiovascular end point was a composite of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke in a time-to-first-event analysis. Safety was also assessed.
+
+### Results
+
+A total of 17,604 patients were enrolled; 8803 were assigned to receive semaglutide and 8801 to receive placebo. The mean (±SD) duration of exposure to semaglutide or placebo was 34.2±13.7 months, and the mean duration of follow-up was 39.8±9.4 months. A primary cardiovascular end-point event occurred in 569 of the 8803 patients (6.5%) in the semaglutide group and in 701 of the 8801 patients (8.0%) in the placebo group (hazard ratio, 0.80; 95% confidence interval, 0.72 to 0.90; P<0.001). Adverse events leading to permanent discontinuation of the trial product occurred in 1461 patients (16.6%) in the semaglutide group and 718 patients (8.2%) in the placebo group (P<0.001).
+
+---
+
+[referencia=a9abb45de2912673 score=0.863]
+### Cardiovascular Outcomes
+
+The composite primary outcome occurred in 108 of 1648 patients (6.6%) in the semaglutide group and 146 of 1649 (8.9%) in the placebo group (hazard ratio, 0.74; 95% confidence interval [CI], 0.58 to 0.95; P<0.001 for noninferiority; P=0.02 for superiority) (Figure 1A). Sensitivity analyses supported the findings from the primary analysis (Fig. S2 in the Supplementary Appendix). Nonfatal myocardial infarction occurred in 47 patients (2.9%) in the semaglutide group and 64 (3.9%) in the placebo group, a difference that was not significant (hazard ratio, 0.74; 95% CI, 0.51 to 1.08; P=0.12) (Figure 1B). Nonfatal stroke occurred in 27 patients (1.6%) in the semaglutide group and 44 (2.7%) in the placebo group (hazard ratio, 0.61; 95% CI, 0.38 to 0.99; P=0.04) (Figure 1C). The risk of cardiovascular death was similar in the two groups, with deaths reported in 44 patients (2.7%) in the semaglutide group and 46 (2.8%) in the placebo group (hazard ratio, 0.98; 95% CI, 0.65 to 1.48; P=0.92) (Figure 1D).
+
+Figure 1
+
+No significant treatment interactions were identified for any subgroups (Fig. S3 in the Supplementary Appendix). Similar risk reductions for the primary outcome and its components were observed for both doses of semaglutide (Fig. S4 in the Supplementary Appendix). Cardiovascular outcomes are provided in Table 2, and in Table S9 in the Supplementary Appendix. Throughout the trial, a greater proportion of patients in the placebo group than in the semaglutide group received additional cardiovascular medications, including antihypertensive agents, diuretics, and lipid-lowering medications (Table S8B in the Supplementary Appendix).
+
+Table 2
+
+---
+
+[referencia=ad53665ae02ab08b score=0.855]
+### Conclusions
+
+In patients with preexisting cardiovascular disease and overweight or obesity but without diabetes, weekly subcutaneous semaglutide at a dose of 2.4 mg was superior to placebo in reducing the incidence of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke at a mean follow-up of 39.8 months. (Funded by Novo Nordisk; SELECT ClinicalTrials.gov number, NCT03574597.)
+
+More than half the world population is projected to have overweight or obesity by the year 2035.
+
+<sup>1</sup>High body-mass index (BMI) is estimated to have accounted for 4 million deaths globally in 2015, more than two thirds of which were caused by cardiovascular diseases.<sup>2</sup>Overweight and obesity are independently associated with an increased risk of cardiovascular events, even after the influence of metabolic cardiovascular risk factors linked to excess weight has been accounted for.<sup>3-6</sup>Although reducing the risk of cardiovascular disease by treating dyslipidemia,<sup>7</sup>hypertension,<sup>8</sup>and diabetes<sup>9,10</sup>is standard evidence-based practice, the concept of treating obesity to reduce the risk of cardiovascular complications has been hampered by the lack of evidence from trials indicating that lifestyle or pharmacologic interventions for overweight or obesity improve cardiovascular outcomes.<sup>11-15</sup>
+Agonists of the glucagon-like peptide-1 (GLP-1) receptor are used in the management of type 2 diabetes and overweight or obesity and have been shown to reduce the risk of major adverse cardiovascular events in patients with type 2 diabetes who are at high cardiovascular risk.
+
+---
+
+[referencia=a9abb45de2912673 score=0.847]
+<sup>9,10</sup>The applicability of such an association to our finding is unclear, and a direct effect of semaglutide cannot be ruled out.
+Semaglutide was associated with significant and sustained reductions in glycated hemoglobin levels, as compared with placebo, with similar rates of hypoglycemia. During the trial, more patients in the placebo group than in the semaglutide group intensified their antihyperglycemic treatment. However, the between-group difference in glycated hemoglobin levels remained after 2 years. Clinically meaningful and sustained weight loss and a reduction in systolic blood pressure occurred in the semaglutide group versus the placebo group over 2 years. The reductions in glycated hemoglobin, body weight, and systolic blood pressure may all have contributed to the observed reduction in cardiovascular risk with semaglutide.
+
+With the exception of complications of retinopathy, semaglutide had a safety profile similar to that of other GLP-1–receptor agonists. The rate of malignant neoplasms was similar in the pooled semaglutide group and the pooled placebo group, although the highest rate was observed with the semaglutide dose of 1.0 mg. The rate of pancreatic cancer — an event of interest for this drug class — was lower with semaglutide, and no medullary thyroid carcinomas were reported in this trial. Pancreatitis occurred in low yet similar numbers of patients in the two pooled groups.
+
+To date, two antihyperglycemic agents have been shown to reduce the rate of cardiovascular events in patients with type 2 diabetes at high cardiovascular risk.
+
+---
+
+[referencia=a9abb45de2912673 score=0.835]
+## Discussion
+
+In this cardiovascular outcomes trial, we confirmed our primary hypothesis that semaglutide would be noninferior to placebo. Semaglutide-treated patients had a significant 26% lower risk of the primary composite outcome of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke than did those receiving placebo. This lower risk was principally driven by a significant (39%) decrease in the rate of nonfatal stroke and a nonsignificant (26%) decrease in nonfatal myocardial infarction, with no significant difference in the rate of cardiovascular death. Similar risk reductions were observed with both doses of semaglutide. The number of patients who would need to be treated to prevent one event of the primary outcome over a period of 24 months was 45 on the basis of Kaplan–Meier estimates.
+
+<sup>8</sup>Most study patients were receiving cardiovascular risk management at baseline, as shown by a high proportion of patients receiving antihypertensive, lipid-lowering, and anti-platelet medications. The risk reduction for the primary outcome was seen despite an increase in pulse rate, a class effect for GLP-1–receptor agonists.
+Semaglutide-treated patients had a lower risk of new or worsening nephropathy, according to differences in macroalbuminuria, but a higher risk of diabetic retinopathy complications than did those receiving placebo. Although the overall number of retinopathy events was low, there was an unexpected higher rate of retinopathy complications (vitreous hemorrhage, blindness, or the need for treatment with an intravitreal agent or photocoagulation) in the semaglutide group. An association between rapid glucose lowering and worsening of retinopathy has been reported in patients with type 1 diabetes.
+
+---
+
+[referencia=ad53665ae02ab08b score=0.827]
+<sup>28</sup>but also reductions in ectopic adipose tissue depots that may contribute to atherosclerosis and myocardial dysfunction.<sup>29</sup>Perivascular and epicardial adipose tissue impose direct adverse effects on the vascular endothelium and myocardium.<sup>30</sup>In addition, reductions in excess abnormal body fat ameliorate the systemic proinflammatory and prothrombotic milieu associated with obesity.<sup>31</sup>
+Semaglutide improved cardiovascular outcomes in this trial, whereas lifestyle and pharmacologic interventions for overweight or obesity tested in previous trials have uniformly failed to do so.
+
+<sup>11,14</sup>The reductions in body weight achieved with other nonsurgical approaches have been substantially lower than the mean 9.4% decrease observed with semaglutide in this trial, and a post hoc analysis of data from a previous trial has suggested that cardiovascular risk might be decreased among patients who lose at least 10% of their body weight.<sup>32</sup>Similarly, bariatric surgery, in which reductions in body weight of more than 20% can be achieved, has been associated with fewer cardiovascular events than usual care.<sup>33,34</sup>However, the data are consistent with the between-group difference in the incidence of cardiovascular disease emerging early in this trial, which suggests that more rapid treatment-induced physiological changes beyond the magnitude of body-weight loss may have mediated at least part of the cardiovascular benefit.
+Medications in the GLP-1 receptor agonist class have been shown in animals with or without diabetes to reduce inflammation, improve endothelial and left ventricular function, promote plaque stability, and decrease platelet aggregation.
+
+---
+
+[referencia=ad53665ae02ab08b score=0.821]
+### Statistical Analysis
+
+This event-driven trial was designed to provide 90% power to detect a relative risk reduction of 17% for a primary end-point event in the semaglutide group as compared with the placebo group (hazard ratio, 0.83) at an overall one-sided significance level of 0.025. This design required that a minimum of 1225 primary end-point events be accrued. Assuming an event rate for the primary end point of 2.2% per year in the placebo group, a trial duration of 59 months, and a withdrawal or loss-to-follow-up rate of 1% per year in both groups, we estimated that 17,500 patients would need to be enrolled. One interim analysis for superiority with respect to the primary end point was prespecified to occur when two thirds of the total planned number of primary end-point events had accrued (additional details are provided in the Supplementary Appendix).
+
+Efficacy analyses were based on the intention-to-treat principle and included all unique patients who underwent randomization irrespective of adherence to semaglutide or placebo or changes to background medications. Data from patients who withdrew from the trial, died from causes not included in the end point, or were lost to follow-up were censored at the time of withdrawal, death, or last contact with the investigator. Cause-specific hazard ratios and 95% confidence intervals were generated with the use of a Cox proportional hazards model with randomization assignment (semaglutide or placebo) as a fixed factor. One-sided P values were obtained from a score test. For the primary end point, the hazard ratio, 95% confidence interval, and P value were adjusted for the group sequential design with the use of likelihood-ratio ordering.
+
+<sup>20</sup>
+If primary end-point events occurred in a smaller percentage of patients treated with semaglutide than with placebo, confirmatory secondary end points were to be evaluated in the following hierarchical order: death from cardiovascular causes, the heart failure composite end point, and death from any cause. A gatekeeping testing strategy was used, with statistical significance at each step required in order to test the next hypothesis, with the use of a separate alpha-spending function as described by Glimm and colleagues
+
+---
+
+[referencia=ad53665ae02ab08b score=0.800]
+### Randomization, Patient Characteristics, and Follow-up
+
+From October 2018 through March 2021, a total of 17,604 patients underwent randomization; 8803 were assigned to receive semaglutide and 8801 to receive placebo. The baseline demographic and clinical characteristics of the patients are summarized in Table 1 and Table S1 in the Supplementary Appendix, and the representativeness of patients enrolled in the trial is shown in Table S2; detailed characteristics of the pooled patient population (before the randomization assignments were revealed) have been reported previously.
+
+<sup>23</sup>The mean (±SD) age of the patients was 61.6±8.9 years, and 12,732 patients (72.3%) were male. The mean BMI was 33.3±5.0, and 12,580 patients (71.5%) met the BMI criterion for obesity (≥30). The mean glycated hemoglobin level was 5.8±0.3%, and 11,696 patients (66.4%) met the glycated hemoglobin criterion for prediabetes (defined as a mean level of 5.7 to 6.4%). More than three quarters of the patients had had a previous myocardial infarction, and nearly one quarter had chronic heart failure. The use of guideline-based medical therapies for cardiovascular disease appeared to be well balanced between the groups. Most of the patients were receiving lipid-lowering medications (90.1%) and platelet-aggregation inhibitors (86.2%), 70.2% of the patients were taking beta-blockers, 45.0% were taking angiotensin-converting–enzyme inhibitors, and 29.5% were taking angiotensin-receptor blockers.
+Table 1
+
+---
+
+[referencia=ad53665ae02ab08b score=0.618]
+*JAMA Cardiol*2021;6:148-158.
+10.
+
+Sattar N, Lee MMY, Kristensen SL, et al. Cardiovascular, mortality, and kidney outcomes with GLP-1 receptor agonists in patients with type 2 diabetes: a systematic review and meta-analysis of randomised trials. 
+
+*Lancet Diabetes Endocrinol*2021;9:653-662.
+11.
+
+Ma C, Avenell A, Bolland M, et al. Effects of weight loss interventions for adults who are obese on mortality, cardiovascular disease, and cancer: systematic review and meta-analysis. 
+
+*BMJ*2017;359:j4849-j4849.
+12.
+
+Bohula EA, Wiviott SD, McGuire DK, et al. Cardiovascular safety of lorcaserin in overweight or obese patients. 
+
+*N Engl J Med*2018;379:1107-1117.
+13.
+
+James WPT, Caterson ID, Coutinho W, et al. Effect of sibutramine on cardiovascular outcomes in overweight and obese subjects. 
+
+*N Engl J Med*2010;363:905-917.
+14.
+
+The Look AHEAD Research Group. Cardiovascular effects of intensive lifestyle intervention in type 2 diabetes. 
+
+*N Engl J Med*2013;369:145-154.
+15.
+
+Nissen SE, Wolski KE, Prcela L, et al. Effect of naltrexone-bupropion on major adverse cardiovascular events in overweight and obese patients with cardiovascular risk factors: a randomized clinical trial. 
+
+*JAMA*2016;315:990-1004.
+16.
+
+Drucker DJ. The cardiovascular biology of glucagon-like peptide-1. 
+
+*Cell Metab*2016;24:15-30.
+17.
+
+Drucker DJ, Nauck MA. The incretin system: glucagon-like peptide-1 receptor agonists and dipeptidyl peptidase-4 inhibitors in type 2 diabetes. 
+
+*Lancet*2006;368:1696-1705.
+18.
+
+Garvey WT, Batterham RL, Bhatta M, et al. Two-year effects of semaglutide in adults with overweight or obesity: the STEP 5 trial. 
+
+*Nat Med*2022;28:2083-2091.
+19.
+
+---
+
+[referencia=a9abb45de2912673 score=0.599]
+### Results
+
+At baseline, 2735 of the patients (83.0%) had established cardiovascular disease, chronic kidney disease, or both. The primary outcome occurred in 108 of 1648 patients (6.6%) in the semaglutide group and in 146 of 1649 patients (8.9%) in the placebo group (hazard ratio, 0.74; 95% confidence interval [CI], 0.58 to 0.95; P<0.001 for noninferiority). Nonfatal myocardial infarction occurred in 2.9% of the patients receiving semaglutide and in 3.9% of those receiving placebo (hazard ratio, 0.74; 95% CI, 0.51 to 1.08; P=0.12); nonfatal stroke occurred in 1.6% and 2.7%, respectively (hazard ratio, 0.61; 95% CI, 0.38 to 0.99; P=0.04). Rates of death from cardiovascular causes were similar in the two groups. Rates of new or worsening nephropathy were lower in the semaglutide group, but rates of retinopathy complications (vitreous hemorrhage, blindness, or conditions requiring treatment with an intravitreal agent or photocoagulation) were significantly higher (hazard ratio, 1.76; 95% CI, 1.11 to 2.78; P=0.02). Fewer serious adverse events occurred in the semaglutide group, although more patients discontinued treatment because of adverse events, mainly gastrointestinal.
+
+---
+
+[referencia=ad53665ae02ab08b score=0.570]
+### Efficacy End Points
+
+A primary cardiovascular end-point event (death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke) occurred in 569 of the 8803 patients (6.5%) in the semaglutide group and 701 of the 8801 patients (8.0%) in the placebo group (hazard ratio, 0.80; 95% confidence interval [CI], 0.72 to 0.90; P<0.001 [nominal significance level for superiority after adjustment for the interim analysis, 0.046]) (Figure 1A and Table 2). Death from cardiovascular causes, the first confirmatory secondary end point, occurred in 223 patients (2.5%) in the semaglutide group and in 262 patients (3.0%) in the placebo group (hazard ratio, 0.85; 95% CI, 0.71 to 1.01; P=0.07 [nominal significance level for superiority, 0.023]) (Figure 1B). Because the between-group difference with respect to death from cardiovascular causes did not meet the required P value for hierarchical testing, superiority testing was not performed for the remaining confirmatory secondary end points (Figure 1C and 1D). The hazard ratio for the heart failure composite end point was 0.82 (95% CI, 0.71 to 0.96), and the hazard ratio for death from any cause was 0.81 (95% CI, 0.71 to 0.93). Directionally consistent effects were observed for all time-to-first-event supportive secondary end points (Fig. S4). The effects of semaglutide on the primary end point appeared to be similar across all prespecified subgroups (Fig. S5).
+
+Figure 1
+
+Table 2
+
+---
+
+[referencia=a9abb45de2912673 score=0.537]
+### Conclusions
+
+In patients with type 2 diabetes who were at high cardiovascular risk, the rate of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke was significantly lower among patients receiving semaglutide than among those receiving placebo, an outcome that confirmed the noninferiority of semaglutide. (Funded by Novo Nordisk; SUSTAIN-6 ClinicalTrials.gov number, NCT01720446.)
+
+Cardiovascular disease is the leading cause of death and complications in patients with type 2 diabetes.
+
+<sup>1</sup>Recently, trials evaluating a sodium–glucose cotransporter 2 inhibitor (empagliflozin) and a glucagon-like peptide 1 (GLP-1) analogue (liraglutide) have shown improved cardiovascular outcomes in patients with type 2 diabetes who were at high risk for cardiovascular events.<sup>2,3</sup>
+Semaglutide, a GLP-1 analogue with an extended half-life of approximately 1 week (which permits once-weekly subcutaneous administration),
+
+<sup>4</sup>is currently in development but not yet approved for the treatment of type 2 diabetes. Regulatory guidance specifies the need to establish the cardiovascular safety of new therapies for type 2 diabetes in order to rule out excess cardiovascular risk.<sup>5</sup>The preapproval Trial to Evaluate Cardiovascular and Other Long-term Outcomes with Semaglutide in Subjects with Type 2 Diabetes (SUSTAIN-6) was designed to assess the noninferiority of semaglutide as compared with placebo in terms of cardiovascular safety in patients with type 2 diabetes.
+
+---
+
+[referencia=ad53665ae02ab08b score=0.492]
+*Nat Med*2022;28:2083-2091.
+19.
+
+Ryan DH, Lingvay I, Colhoun HM, et al. Semaglutide effects on cardiovascular outcomes in people with overweight or obesity (SELECT) rationale and design. 
+
+*Am Heart J*2020;229:61-69.
+20.
+
+Wassmer G, Brannath W. 
+
+*Group sequential and confirmatory adaptive designs in clinical trials*. Cham, Switzerland: Springer, 2016.
+21.
+
+Glimm E, Maurer W, Bretz F. Hierarchical testing of multiple endpoints in group-sequential trials. 
+
+*Stat Med*2010;29:219-228.
+22.
+
+Devlin NJ, Shah KK, Feng Y, Mulhern B, van Hout B. Valuing health-related quality of life: an EQ-5D-5L value set for England. 
+
+*Health Econ*2018;27:7-22.
+23.
+
+Lingvay I, Brown-Frandsen K, Colhoun HM, et al. Semaglutide for cardiovascular event reduction in people with overweight or obesity: SELECT study baseline characteristics. 
+
+*Obesity (Silver Spring)*2023;31:111-122.
+24.
+
+Andersen PK, Borgun O, Gill RD, Keiding N. 
+
+*Statistical models based on counting processes*. New York: Springer, 1993.
+25.
+
+Trujillo JM, Nuffer W, Smith BA. GLP-1 receptor agonists: an updated review of head-to-head clinical studies. 
+
+*Ther Adv Endocrinol Metab*2021;12:2042018821997320-2042018821997320.
+26.
+
+Gorgojo-Martínez JJ, Mezquita-Raya P, Carretero-Gómez J, et al. Clinical recommendations to manage gastrointestinal adverse events in patients treated with Glp-1 receptor agonists: a multidisciplinary expert consensus. 
+
+*J Clin Med*2022;12:145-145.
+27.
+
+He L, Wang J, Ping F, et al. Association of glucagon-like peptide-1 receptor agonist use with risk of gallbladder and biliary diseases: a systematic review and meta-analysis of randomized clinical trials. 
+
+*JAMA Intern Med*2022;182:513-519.
+28.
+
+---
+
+[referencia=ad53665ae02ab08b score=0.469]
+| End Point | Semaglutide (N=8803) | Placebo (N=8801) | Hazard Ratio (95% CI) | P Value | 
+|---|---|---|---|---|
+|  | number of patients (percent) |  |  |  | 
+| Primary cardiovascular composite end point† | 569 (6.5) | 701 (8.0) | 0.80 (0.72 to 0.90) | <0.001 | 
+| Confirmatory secondary end points‡ |  |  |  |  | 
+| Death from cardiovascular causes | 223 (2.5) | 262 (3.0) | 0.85 (0.71 to 1.01) | 0.07 | 
+| Heart failure composite end point§ | 300 (3.4) | 361 (4.1) | 0.82 (0.71 to 0.96) | NA | 
+| Death from any cause | 375 (4.3) | 458 (5.2) | 0.81 (0.71 to 0.93) | NA | 
+| Supportive secondary end points¶ |  |  |  |  | 
+| Cardiovascular expanded composite end point‖ | 873 (9.9) | 1074 (12.2) | 0.80 (0.73 to 0.87) | NA | 
+| Cardiovascular composite end point with death from any cause** | 710 (8.1) | 877 (10.0) | 0.80 (0.72 to 0.88) | NA | 
+| Nonfatal myocardial infarction | 234 (2.7) | 322 (3.7) | 0.72 (0.61 to 0.85) | NA | 
+| Nonfatal stroke | 154 (1.7) | 165 (1.9) | 0.93 (0.74 to 1.15) | NA | 
+| Hospitalization or urgent medical visit for heart failure | 97 (1.1) | 122 (1.4) | 0.79 (0.60 to 1.03) | NA |
+
+---
+
+[referencia=a9abb45de2912673 score=0.440]
+### Patients
+
+Patients with type 2 diabetes and a glycated hemoglobin level of 7% or more were eligible if they had not been treated with an antihyperglycemic drug or had been treated with no more than two oral antihyperglycemic agents, with or without basal or premixed insulin. Key inclusion criteria were an age of 50 years or more with established cardiovascular disease (previous cardiovascular, cerebrovascular, or peripheral vascular disease), chronic heart failure (New York Heart Association class II or III), or chronic kidney disease of stage 3 or higher or an age of 60 years or more with at least one cardiovascular risk factor (as defined in Table S1 in the Supplementary Appendix, available at NEJM.org).
+
+Key exclusion criteria included treatment with a dipeptidyl-peptidase 4 inhibitor within 30 days before screening or with a GLP-1–receptor agonist or insulin other than basal or premixed within 90 days before screening; a history of an acute coronary or cerebrovascular event within 90 days before randomization; planned revascularization of a coronary, carotid, or peripheral artery; or long-term dialysis. (A complete list of exclusion criteria is provided in Table S2 in the Supplementary Appendix.)
+
+### Procedures
+
+The randomization of patients was stratified according to cardiovascular disease status (established cardiovascular or chronic kidney disease or cardiovascular risk factors only), insulin treatment (none, basal insulin only, or premixed insulin), and estimated glomerular filtration rate (≤30 ml or >30 ml per minute per 1.73 m
+
+<sup>2</sup>of body-surface area) at screening. A fixed dose-escalation procedure was used, with a starting dose of 0.25 mg for 4 weeks that escalated to 0.5 mg for 4 weeks until the maintenance dose (0.5 mg or 1.0 mg) was reached. No change in the maintenance dose of either semaglutide or placebo was permitted during the treatment period.
+Patients were scheduled for quarterly site visits during the trial. All investigators were encouraged to treat all the patients according to local guidelines to achieve the most effective glycemic control (Table S3 in the Supplementary Appendix), and additional noninvestigational antihyperglycemic medication (nonincretin-based therapy) could be added or adjusted.

@@ -1,0 +1,242 @@
+[referencia=1bc321171c0407c4 score=0.994]
+|**(Chuon**<br>**g et al.,**<br>**2023)**|The purpose of<br>this study is to<br>examine the<br>effects of<br>semaglutide, a<br>long-acting<br>GLP-1 analogue,<br>on alcohol<br>drinking<br>behavior and<br>central GABA<br>neurotransmissio<br>n in rodents|Experimental study|5|These results<br>collectively<br>suggest that<br>semaglutide<br>could be a<br>promising<br>candidate for<br>reducing<br>alcohol<br>consumption<br>and<br>addressing<br>AUD, with<br>additional<br>benefits for<br>reducing the<br>intake of<br>other caloric<br>and palatable<br>solutions.|Reduction<br>in Alcohol<br>Intake:<br>Semaglutid<br>e, a long-<br>acting<br>GLP-1<br>analogue,<br>dose-<br>dependentl<br>y reduced<br>binge-like<br>alcohol<br>drinking in<br>both male<br>and female<br>mice and<br>rats. It also<br>reduced<br>dependence<br>-induced<br>alcohol<br>drinking in<br>rats.|Effect on<br>Other<br>Solutions:<br>Semaglutid<br>e reduced<br>the intake<br>of other<br>caloric and<br>noncaloric<br>solutions,<br>indicating<br>that its<br>effects are<br>not specific<br>to alcohol<br>but extend<br>to other<br>consumable<br>solutions.|GABA<br>Neurotransmiss<br>ion:<br>Semaglutide<br>increased the<br>frequency of<br>spontaneous<br>inhibitory<br>postsynaptic<br>currents<br>(sIPSCs) in the<br>central<br>amygdala<br>(CeA) and<br>infralimbic<br>cortex (ILC)<br>neurons from<br>alcohol-naive<br>rats, suggesting<br>enhanced<br>GABA release.<br>However, it<br>had no overall<br>effect on<br>GABA<br>transmission in<br>alcohol-<br>dependent rats.|
+
+---
+
+[referencia=1bc321171c0407c4 score=0.919]
+|**(Thoms**<br>**en et**<br>**al.,**<br>**2019)**|The purpose of<br>this study is to<br>investigate the<br>effects of<br>glucagon-like<br>peptide-1 (GLP-<br>1) receptor<br>agonists,<br>specifically<br>exenatide and<br>liraglutide, on<br>alcohol<br>consumption in<br>alcohol-<br>preferring vervet<br>monkeys|original<br>investigation/precli<br>nical study|5|Overall, the<br>study<br>demonstrates<br>for the first<br>time that<br>GLP-1<br>receptor<br>agonists can<br>reduce<br>voluntary<br>alcohol<br>drinking in<br>non-human<br>primates,<br>providing a<br>basis for<br>further<br>clinical trials<br>in humans|Reduction<br>in Alcohol<br>Consumpti<br>on: Both<br>GLP-1<br>receptor<br>agonists,<br>liraglutide<br>and<br>exenatide,<br>significantl<br>y reduced<br>alcohol<br>consumptio<br>n in<br>alcohol-<br>preferring<br>vervet<br>monkeys.<br>Liraglutide<br>showed a<br>more<br>robust<br>effect<br>compared<br>to<br>exenatide.|No<br>Adverse<br>Effects:<br>The<br>treatments<br>did not<br>cause any<br>signs of<br>emesis<br>(vomiting)<br>or other<br>adverse<br>effects.<br>There was<br>no impact<br>on water<br>intake,<br>indicating<br>that the<br>reduction<br>in alcohol<br>consumptio<br>n was<br>specific to<br>alcohol and<br>not due to a<br>general<br>reduction<br>in fluid<br>intake. P|Sustained<br>Effect: The<br>reduction in<br>alcohol intake<br>was sustained<br>during the<br>treatment<br>period without<br>signs of<br>tolerance<br>developing<br>over time|
+
+---
+
+[referencia=1bc321171c0407c4 score=0.910]
+## **References** 
+
+Angarita, G. A., Matuskey, D., Pittman, B., Costeines, J. L., Potenza, M. N., Jastreboff, A. M., Schmidt, H. D., & Malison, R. T. (2021). Testing the effects of the GLP-1 receptor 
+
+agonist exenatide on cocaine self-administration and subjective responses in humans with cocaine use disorder. _Drug and Alcohol Dependence,_ 221, 108614. 
+
+<u>https://doi.org/10.1016/j.drugalcdep.2021.108614</u> 
+
+American Addiction Centers. (n.d.). _Evidence-based therapy & treatment_ . American Addiction - Centers. Retrieved April 22, 2025, from https://americanaddictioncenters.org/therapy <u>treatment/evidence-based</u> 
+
+Bruns, V. N., Tressler, E. H., Vendruscolo, L. F., Leggio, L., & Farokhnia, M. (2024). IUPHAR review: Glucagon-like peptide-1 (GLP-1) and substance use disorders: An emerging pharmacotherapeutic target. _Pharmacological Research_ , 107312. <u>https://doi.org/10.1016/j.phrs.2024.107312</u> 
+
+Centers for Disease Control and Prevention. (2025). _CDC reports nearly 24% decline in U.S._ - _drug overdose deaths_ [Press release]. https://www.cdc.gov/media/releases/2025/2025 <u>cdc-reports-decline-in-us-drug-overdose-deaths.html</u> 
+
+Chuong, V., Farokhnia, M., Khom, S., Pince, C. L., Elvig, S. K., Vlkolinsky, R., Marchette, R. C. N., Koob, G. F., Roberto, M., Vendruscolo, L. F., & Leggio, L. (2023). The glucagonlike peptide-1 (GLP-1) analogue semaglutide reduces alcohol drinking and modulates central GABA neurotransmission. _JCI Insight_ , 8(12), e170671. 
+
+<u>https://doi.org/10.1172/jci.insight.170671</u>
+
+---
+
+[referencia=1bc321171c0407c4 score=0.891]
+## **Alcohol Use Disorder** 
+
+Alcohol use disorder (AUD) and the use of GLP-1s are more extensively researched than any of the other SUDs. In animal studies, semaglutide and exenatide have shown varying effects on alcohol consumption, with some studies indicating reduced drinking and hospitalization risks. In a study by Chuong et al. (2023), semaglutide reduced binge-like alcohol drinking and reduced dependence-induced alcohol drinking in rats, and exendin-4, the natural version of synthetic 
+
+GLP-1 THERAPY AND SUD                                                                                                      8 
+
+exenatide and an analogue of GLP-1, significantly reduced alcohol consumption in rats, especially in high alcohol drinkers. In another study using rats, Dixon et al. (2020) studied the effects of exendin-4, on the ventral tegmental area of the brain which is part of the reward signal pathway. They found that exendin-4 resulted in “significantly reduced alcohol selfadministration, particularly in high alcohol drinkers” (Dixon et al., 2020). Finally, a study done by Thomsen et al. (2019), exenatide and liraglutide significantly reduced alcohol consumption in monkeys, with liraglutide showing the most significant effect. These preclinical results support the potential for GLP-1 receptor agonists in treating AUD in humans. 
+
+In human studies, exenatide did not reduce heavy drinking days in the general AUD population, however, in a study by Klausen et al. (2022), exenatide significantly reduced alcohol intake and heavy drinking days in specific comorbidities, like diabetes and heart disease, which highlights the potential for personalized treatments using GLP-1 agonists. In another study, semaglutide and liraglutide were associated with reduced alcohol consumption and alcoholrelated hospitalizations, with semaglutide having the most substantial effect in reducing AUDrelated hospitalizations compared to other AUD medications (Lahteenvuo et al., 2025). Finally, in another study reviewing thousands of electronic health records of adults with AUD using semaglutide for various FDA-approved conditions, like diabetes and obesity, it was discovered that semaglutide lowered the risk of developing and recurring AUD in real-world populations. 
+
+This strongly suggests that it may be a potential preventative and therapeutic treatment of AUD (Wang et al., 2024a).
+
+---
+
+[referencia=1bc321171c0407c4 score=0.841]
+|**(Lähtee**<br>**nvuo et**<br>**al.,**<br>**2025)**|To test whether<br>the risk of<br>hospitalization<br>due to alcohol<br>use disorder<br>(AUD) is<br>decreased during<br>the useofGLP-<br>1agonists<br>compared with<br>periods of non<br>use for the same<br>individual.|observational<br>cohort study|3|findings<br>suggest that<br>semaglutide<br>and<br>liraglutide<br>may be<br>effective in<br>reducing<br>alcohol<br>consumption<br>and<br>preventing<br>alcohol-<br>related<br>hospitalizati<br>ons,<br>highlighting<br>the need for<br>clinical trials<br>to confirm<br>these results.|Semaglutid<br>e had the<br>lowest risk<br>of AUD<br>hospitalizat<br>ion<br>(adjusted<br>hazard ratio<br>[aHR],<br>0.64),<br>followed<br>by<br>liraglutide<br>(aHR,<br>0.72).|Similarly,<br>the use of<br>semaglutid<br>e and<br>liraglutide<br>was<br>associated<br>with a<br>reduced<br>risk of<br>hospitalizat<br>ion due to<br>any<br>substance<br>use<br>disorder<br>(SUD).|Both<br>semaglutide<br>(aHR, 0.78)<br>and liraglutide<br>(aHR, 0.79)<br>were associated<br>with a<br>decreased risk<br>of somatic<br>hospitalizations<br>.|Comparison<br>with AUD<br>Medications:<br>The risk<br>reduction<br>associated<br>with<br>semaglutide<br>and<br>liraglutide<br>was greater<br>than that<br>observed with<br>officially<br>approved<br>AUD<br>medications,<br>which had a<br>modestly<br>decreased risk<br>(aHR, 0.98).|
+
+---
+
+[referencia=1bc321171c0407c4 score=0.834]
+|---|---|---|---|---|---|---|---|---|
+|**(Yamm**<br>**ine et**<br>**al.,**<br>**2018)**|examine whether<br>the glp-1 drug,<br>exenatide,<br>reduces<br>smoking,<br>craving, and<br>withdrawal<br>symptoms, as<br>well as cue<br>induced craving<br>for cigarettes.|RCT|1B|The major<br>findings<br>would be<br>available<br>after the<br>completion<br>of the study<br>and<br>subsequent<br>analysis of<br>the data<br>collected.|<br>Exenatide<br>is<br>hypothesize<br>d to<br>increase the<br>number of<br>participants<br>who<br>achieve<br>complete<br>smoking<br>abstinence<br>compared<br>to those<br>receiving<br>standard|Exenatide<br>is expected<br>to reduce<br>postquit<br>craving and<br>withdrawal<br>symptoms<br>in<br>participants<br>.|Lower Cue-<br>Induced<br>Craving:<br>Exenatide-<br>treated<br>participants are<br>anticipated to<br>display lower<br>craving for<br>cigarettes<br>following<br>virtual reality<br>(VR) exposure<br>to smoking<br>cues|4. No Impact<br>on Motor<br>Coordination<br>and BALs:<br>Semaglutide<br>did not affect<br>motor<br>coordination<br>or blood<br>alcohol levels<br>(BALs) in<br>mice,<br>indicating<br>that it does<br>not interact<br>withalcohol|
+
+
+
+
+
+GLP-1 THERAPY AND SUD                                                                                                      28
+
+---
+
+[referencia=1bc321171c0407c4 score=0.832]
+## **Abstract** 
+
+**Background** : Treatment options for SUDs fail to address the neurobiological underpinnings of addiction. Recent studies suggest that GLP-1s, including semaglutide, liraglutide, and exenatide, offer therapeutic benefits by reducing cravings, improving treatment adherence, and decreasing relapse rates across a range of SUDs, including alcohol, cannabis, cocaine, nicotine, and opioid use disorders. 
+
+**Purpose:** The purpose of this article is to explore studies that highlight the potential benefits of GLP-1 receptor agonists in reducing substance cravings, improving treatment adherence, and decreasing relapse rates for patients with various SUDs. 
+
+**Methods:** A comprehensive review of recent studies examining the effects of GLP-1 receptor agonists, including semaglutide, liraglutide, and exenatide, was conducted. These studies evaluate the impact of GLP-1s on craving reduction, treatment adherence, and relapse rates in patients with SUDs, focusing on various SUDs. 
+
+**Results:** The findings suggest that GLP-1 receptor agonists are effective in reducing cravings and substance consumption, particularly for alcohol and opioids, and potentially nicotine and cannabis. The evidence supports the role of GLP-1s in influencing neurobiological pathways related to reward processing, mood, and cognition, leading to improvements in addiction treatment outcomes. **Implications for Practice:** GLP-1s should be considered in collaboration with addiction specialists and mental health professionals. FNPs can educate patients about the benefits of these medications, support treatment adherence, and advocate for improved access to them. Continued research and patient-centered care will be crucial for integrating GLP-1 receptor agonists into clinical practice to manage SUDs. 
+
+GLP-1 THERAPY AND SUD                                                                                                      3
+
+---
+
+[referencia=1bc321171c0407c4 score=0.740]
+|**(Wang**<br>**et al.,**<br>**2024a)**|The purpose of<br>this study is to<br>assess the<br>association of<br>semaglutide with<br>the incidence<br>and recurrence<br>of alcohol use<br>disorder (AUD)<br>in real-world<br>populations|retrospective<br>cohort study|3|semaglutide<br>may have<br>potential<br>benefits in<br>reducing the<br>incidence<br>and<br>recurrence of<br>AUD in real-<br>world<br>populations,<br>providing a<br>basis for<br>further<br>investigation<br>through<br>clinical trials|Reduced<br>Risk of<br>Incident<br>AUD:<br>Semaglutid<br>e is<br>associated<br>with a<br>significantl<br>y lower risk<br>of<br>developing<br>alcohol use<br>disorder<br>(AUD) for<br>the first<br>time<br>compared<br>to other<br>anti-obesity<br>medication<br>s.<br>Specifically<br>, there was<br>a 50%-56%<br>lower risk<br>of incident<br>AUD in<br>patients<br>with<br>obesity and<br>no prior<br>history of<br>AUD.|Reduced<br>Risk of<br>Recurrent<br>AUD:<br>Semaglutid<br>e is also<br>associated<br>with a<br>significantl<br>y lower risk<br>of recurrent<br>AUD in<br>patients<br>with a prior<br>history of<br>AUD.  The<br>risk<br>reduction<br>was<br>consistent<br>across<br>different<br>demographi<br>cs,<br>including<br>gender, age<br>group, and<br>race.|Consistency<br>Across<br>Populations:<br>The findings<br>were consistent<br>in both patients<br>with obesity<br>and those with<br>type 2 diabetes<br>(T2DM).  In<br>the study<br>population with<br>T2DM, similar<br>reductions in<br>the risk of both<br>incident and<br>recurrent AUD<br>were observed.|
+
+---
+
+[referencia=1bc321171c0407c4 score=0.687]
+|No Impact on<br>Motor<br>Coordination<br>and BALs:<br>Semaglutide<br>did not affect<br>motor<br>coordination<br>or blood<br>alcohol levels<br>(BALs) in<br>mice,<br>indicating<br>that it does<br>not interact<br>with alcohol<br>pharmacokine<br>tics or induce<br>additional<br>sedative<br>effects.|Potential for<br>Clinical<br>Testing: The<br>findings<br>support the<br>potential for<br>clinical<br>testing of<br>semaglutide<br>as a novel<br>pharmacother<br>apy for<br>alcohol use<br>disorder<br>(AUD)|
+|---|---|---|---|---|---|---|---|---|---|
+
+
+
+GLP-1 THERAPY AND SUD                                                                                                      19
+
+---
+
+[referencia=1bc321171c0407c4 score=0.682]
+|**(Wang**<br>**et al.,**<br>**2024b)**|The purpose of<br>this study is to<br>evaluate the<br>associations of<br>semaglutide, a<br>glucagon-like<br>peptide-1<br>receptor agonist<br>(GLP-1RA),<br>with both the<br>incidence and<br>recurrence of<br>cannabis use<br>disorder (CUD)<br>in real-world<br>populations|retrospective<br>cohort study|3|suggest that<br>semaglutide<br>may have<br>potential<br>benefits in<br>reducing<br>both the<br>incidence<br>and<br>recurrence of<br>CUD in real-<br>world<br>populations,<br>although<br>further<br>preclinical<br>studies and<br>randomized<br>clinical trials<br>are needed<br>to<br>understand<br>the<br>underlying<br>mechanisms<br>and to<br>support its<br>clinical use<br>for CUD|Reduced<br>Risk of<br>Incident<br>CUD: In<br>patients<br>with<br>obesity<br>who had no<br>prior<br>history of<br>CUD,<br>semaglutid<br>e was<br>associated<br>with a<br>significantl<br>y lower risk<br>of<br>developing<br>CUD<br>compared<br>to non-<br>GLP-1RA<br>anti-obesity<br>medication<br>s (HR:<br>0.56, 95%<br>CI: 0.42–<br>0.75). In<br>patients<br>with type 2<br>diabetes<br>(T2D) who<br>had no<br>prior<br>history of<br>CUD,<br>semaglutid<br>e was also<br>associated|
+
+---
+
+[referencia=1bc321171c0407c4 score=0.664]
+|**(Dixon**<br>**et al.,**<br>**2020)**|The study<br>investigates the<br>potential of<br>GLP-1 as a<br>treatment for<br>alcohol use<br>disorders by<br>exploring its<br>neural<br>mechanisms and<br>sites of action.|preclinical<br>experimental study|5|results<br>indicate that<br>GLP-1<br>receptor<br>signaling in<br>the VTA can<br>reduce<br>alcohol<br>consumption<br>behaviors,<br>highlighting<br>its potential<br>as a target<br>for treating<br>alcohol use<br>disorders|Intra-VTA<br>injections<br>of the GLP-<br>1 analogue<br>Exendin-4<br>(Ex4)<br>significantl<br>y reduced<br>alcohol<br>self-<br>administrati<br>on in male<br>Long-<br>Evans rats,<br>particularly<br>in high<br>alcohol<br>drinkers|No Effect<br>on<br>Reacquisiti<br>on or<br>Motivation:<br>Ex4 did not<br>reduce the<br>reacquisitio<br>n of alcohol<br>self-<br>administrati<br>on after<br>extinction<br>nor the<br>motivation<br>to obtain<br>alcohol<br>under a<br>progressive<br>ratio (PR)<br>schedule of<br>reinforcem<br>ent|The lower dose<br>of Ex4 (0.01<br>µg) used in the<br>study did not<br>affect food<br>intake or<br>locomotor<br>activity,<br>suggesting that<br>the reduction in<br>alcohol self-<br>administration<br>was specific to<br>alcohol and not<br>due to general<br>reductions in<br>caloric intake<br>or motor<br>deficits|support the<br>ventral<br>tegmental<br>area (VTA) as<br>a key site of<br>action for<br>GLP-1<br>receptor<br>signaling in<br>reducing<br>alcohol self-<br>administratio<br>n|
+
+---
+
+[referencia=1bc321171c0407c4 score=0.645]
+|Reduced<br>Risk of<br>Recurrent<br>CUD: In<br>patients<br>with<br>obesity<br>who had a<br>prior<br>history of<br>CUD,<br>semaglutid<br>e was<br>associated<br>with a<br>significantl<br>y lower risk<br>of recurrent<br>CUD<br>diagnosis<br>compared<br>to non-<br>GLP-1RA<br>anti-obesity<br>medication<br>s (HR:<br>0.62, 95%<br>CI: 0.46–<br>0.84). In<br>patients<br>with T2D<br>who had a<br>prior<br>history of<br>CUD,<br>semaglutid<br>e was<br>associated<br>with a<br>lower, but|Consistency<br>Across<br>Subgroups: The<br>reductions in<br>risk were<br>consistent<br>across various<br>subgroups<br>stratified by<br>gender, age<br>group, race,<br>and the<br>presence or<br>absence of T2D|
+|---|---|---|---|---|---|---|---|
+
+
+
+GLP-1 THERAPY AND SUD                                                                                                      26 
+
+|with a|not|
+|---|---|
+|significantl|statistically|
+|y lower risk<br>of|significant,<br>risk of|
+|developing|recurrent|
+|CUD|CUD|
+|compared|diagnosis|
+|to non-|compared|
+|GLP-1RA|to non-|
+|anti-|GLP-1RA|
+|diabetes|anti-|
+|medication|diabetes|
+|s (HR:|medication|
+|0.40, 95%|s (HR:|
+|CI: 0.29–|0.66, 95%|
+|0.56)|CI: 0.42–<br>1.03).|
+
+
+
+GLP-1 THERAPY AND SUD                                                                                                      27
+
+---
+
+[referencia=1bc321171c0407c4 score=0.619]
+|Potential for<br>Treating<br>AUD: These<br>findings<br>support the<br>potential<br>usefulness of<br>GLP-1<br>receptor<br>agonists in<br>the treatment<br>of alcohol use<br>disorder,<br>suggesting<br>that these<br>medications<br>could be<br>effective in<br>reducing<br>alcohol<br>consumption<br>in humans.|
+|---|---|---|---|---|---|---|---|---|
+
+
+
+GLP-1 THERAPY AND SUD                                                                                                      24
+
+---
+
+[referencia=1bc321171c0407c4 score=0.604]
+The primary keywords and search criteria used in PubMed included combinations of terms such as "SUD," "GLP-1 receptor agonists," "liraglutide," "semaglutide," “exenatide,” AND "cravings," as well as specific substances and disorders like "cannabis use disorder," "smoking cessation," "opioid use disorder," "alcohol use disorder," AND "cocaine use disorder." These keywords were selected to capture studies focusing on GLP-1 peptide interventions and their outcomes in addiction treatments. A PubMed search was done using keywords "SUD," AND "Glucagon-Like Peptide-1 Receptor Agonists," OR "Glucagon-Like Peptide 1". The effects of GLP-1 peptides on cravings and relapses were researched using broader terms, "GLP-1 agonists," OR "liraglutide," OR "semaglutide," OR “exenatide,” AND "substance use disorder," OR "opioid use disorder," OR "alcohol use disorder," OR "cocaine use disorder," AND "cravings," OR "desire to use." 
+
+The inclusion criteria for this review were adult participants aged 18-65 diagnosed with a substance use disorder (SUD), including nicotine addiction, cannabis use disorder, opioid use disorder, alcohol use disorder, or cocaine use disorder. Studies investigating the use of GLP-1 receptor agonists like liraglutide and semaglutide as the primary treatment were also included. Research focused on the impact of GLP-1 peptides on cravings, treatment adherence, relapse 
+
+GLP-1 THERAPY AND SUD                                                                                                      7 
+
+rates, RCTs, clinical trials, and observational studies focusing on treatment outcomes. Also included were studies conducted on animals. 
+
+Exclusion criteria included obesity-related research, studies that did not directly address GLP-1 peptides or those that used interventions not related to substance use treatment, such as diabetes-related research, studies conducted outside the specified age range of 18-65 years, or those that focused on pediatric populations, non-peer-reviewed literature such as conference abstracts or opinion pieces, and studies that did not measure relevant outcomes such as cravings, treatment adherence, or relapse rates. The rationale for these search criteria was to ensure only studies directly relevant to GLP-1 peptides in SUD treatment.
+
+---
+
+[referencia=1bc321171c0407c4 score=0.565]
+|Replication of<br>Findings: The<br>study<br>replicated its<br>findings in a<br>separate<br>cohort of<br>598,803<br>patients with<br>T2DM,<br>further<br>supporting<br>the potential<br>benefits of<br>semaglutide<br>in reducing<br>the risk of<br>AUD.|Call for<br>Further<br>Research:<br>The study<br>highlights the<br>need for<br>further<br>randomized<br>clinical trials<br>to confirm<br>the<br>therapeutic<br>benefits of<br>semaglutide<br>for AUD, as<br>the current<br>findings are<br>based on<br>observational<br>data|
+|---|---|---|---|---|---|---|---|---|---|
+
+
+
+GLP-1 THERAPY AND SUD                                                                                                      25
+
+---
+
+[referencia=1bc321171c0407c4 score=0.557]
+Klausen, M. K., Jensen, M. E., Møller, M., Le Dous, N., Jensen, A.-M. Ø., Zeeman, V. A., 
+
+Johannsen, C.-F., Lee, A., Thomsen, G. K., Macoveanu, J., Fisher, P. M., Gillum, M. P., Jørgensen, N. R., Bergmann, M. L., Enghusen Poulsen, H., Becker, U., Holst, J. J., Benveniste, H., Volkow, N. D., … Fink-Jensen, A. (2022). Exenatide once weekly for alcohol use disorder investigated in a randomized, placebo-controlled clinical trial. _JCI Insight,_ 7(19), e159863. https://doi.org/10.1172/jci.insight.159863 
+
+Lähteenvuo, M., Tiihonen, J., Solismaa, A., Tanskanen, A., Mittendorfer-Rutz, E., & Taipale, H. (2025). Repurposing Semaglutide and Liraglutide for alcohol use disorder. _JAMA_ 
+
+_Psychiatry_ , 82(1), 94. https://doi.org/10.1001/jamapsychiatry.2024.3599 
+
+Montoya, I. D., & Volkow, N. D. (2024). IUPHAR Review: New strategies for medications to treat substance use disorders. _Pharmacological Research_ , 200, 107078–107078. <u>https://doi.org/10.1016/j.phrs.2024.107078</u> 
+
+GLP-1 THERAPY AND SUD                                                                                                      15 
+
+Thomsen, M., Holst, J. J., Molander, A., Linnet, K., Ptito, M., & Fink-Jensen, A. (2019). Effects of glucagon-like peptide 1 analogs on alcohol intake in alcohol-preferring vervet monkeys. _Psychopharmacology_ , 236(2), 603–611. https://doi.org/10.1007/s00213-018- <u>5089-z</u>
+
+---
+
+[referencia=1bc321171c0407c4 score=0.488]
+## **Search Methods** 
+
+To explore the use of GLP-1 receptor agonists in reducing cravings, improving treatment adherence, and decreasing relapse rates among adults with SUDs, a literature search was 
+
+conducted across two major databases: CINAHL and PubMed, aiming to find relevant studies evaluating the impact of GLP-1 peptides, like liraglutide and semaglutide, on individuals with various types of SUDs. These SUDs include alcohol use disorder, cannabis use disorder, cocaine use disorder, nicotine addiction, and opioid use disorder. 
+
+GLP-1 THERAPY AND SUD                                                                                                      6 
+
+In CINAHL, research was performed focusing specifically on the intersection of GLP-1 receptor agonists and substance use disorders. The search criteria included "Glucagon-Like Peptide-1 Receptor Agonists," AND "substance use disorder," "Glucagon-Like Peptide-1 Receptor Agonists," AND "alcohol abuse," "Glucagon-Like Peptide-1 Receptor Agonists," AND "AUD." These search terms were selected to focus on studies investigating the relationship between GLP-1 receptor agonists and various substance use disorders, with an emphasis on clinical trials and randomized controlled trials (RCTs) related to addiction treatment.
+
+---
+
+[referencia=1bc321171c0407c4 score=0.478]
+|**(Wang**<br>**et al.,**<br>**2024c)**|to investigate is<br>semaglutide<br>could protect<br>against<br>overdoses in pts<br>with OUD|Cohort study|3|semaglutide<br>may offer<br>therapeutic<br>benefits<br>beyond<br>glycemic<br>control in<br>patients with<br>T2D and<br>OUD,<br>potentially<br>reducing the<br>risk of<br>opioid<br>overdose.<br>However,<br>the study's<br>observationa<br>l nature<br>means that<br>causality<br>cannot be<br>definitively<br>established.|semaglutid<br>e was<br>associated<br>with a<br>significantl<br>y lower risk<br>of opioid<br>overdose<br>during a<br>one-year<br>follow-up<br>compared<br>to other<br>antidiabetic<br>medication<br>s. Hazard<br>ratios<br>ranged<br>from 0.32<br>(95% CI,<br>0.12-0.89)<br>to 0.58<br>(95% CI,<br>0.38-0.87).||||
+|---|---|---|---|---|---|---|---|---|
+
+---
+
+[referencia=1bc321171c0407c4 score=0.472]
+|---|---|---|---|---|---|---|---|---|
+|**(Freet**<br>**et al.,**<br>**2024)**|evaluate the<br>safety and<br>efficacy of the<br>GLP-1 receptor<br>agonist,<br>liraglutide, in<br>reducing craving<br>for opioids in<br>individuals with<br>opioid use<br>disorder (OUD)<br>who are in<br>residential<br>treatment.|RCT|1B|outlines the<br>methodology<br>and aims of<br>the study,<br>which is<br>designed to<br>evaluate the<br>safety and<br>efficacy of<br>the GLP-1<br>receptor<br>agonist,<br>liraglutide,<br>in reducing<br>craving for<br>opioids in<br>individuals|primary<br>outcomes<br>to be<br>measured<br>include<br>cue-elicited<br>drug<br>craving and<br>ambient<br>drug<br>craving|secondary<br>outcomes<br>focus on<br>the safety<br>of<br>liraglutide<br>administrati<br>on|The study is<br>intended to lay<br>the groundwork<br>for further<br>evaluation in a<br>larger,<br>outpatient<br>OUD<br>population.||
+
+
+
+
+
+GLP-1 THERAPY AND SUD                                                                                                      20
+
+---
+
+[referencia=50d835814c4454dd score=0.429]
+Cannabis is the most frequently used illicit drug in the United States with more 
+than 45 million users of whom one-third suffer from a cannabis use disorder 
+(CUD). Despite its high prevalence, there are currently no FDA-approved 
+medications for CUD. Patients treated with semaglutide, a glucagon-like 
+peptide-1 receptor agonist (GLP-1RA) approved for treating type 2 diabetes (T2D) 
+and for weight management have reported reduced desire to drink and smoke. 
+Preclinical studies have shown that semaglutide decreased nicotine and alcohol 
+consumption. Preclinical and preliminary clinical evidence of semaglutide's 
+potential beneficial effects on various substance use disorders led us to 
+evaluate if it pertained to CUD. In this retrospective cohort study of 
+electronic health records (EHRs) from the TriNetX Analytics Network, a global 
+federated health research network of approximately 105.3 million patients from 
+61 large healthcare organizations in the US, we aimed to assess the associations 
+of semaglutide with both incident and recurrent CUD diagnosis compared to 
+non-GLP-1RA anti-obesity or anti-diabetes medications. Hazard ratio (HR) and 95% 
+confidence intervals (CI) of incident and recurrent CUD were calculated for 
+12-month follow-up by comparing propensity-score matched patient cohorts. The 
+study population included 85,223 patients with obesity who were prescribed 
+semaglutide or non-GLP-1RA anti-obesity medications, with the findings 
+replicated in 596,045 patients with T2D. In patients with obesity (mean age 51.3 
+years, 65.6% women), semaglutide compared with non-GLP-1RA anti-obesity 
+medications was associated with lower risk for incident CUD in patients with no 
+prior history CUD (HR: 0.56, 95% CI: 0.42-0.75), and recurrent CUD diagnosis in 
+patients with a prior history CUD (HR: 0.62, 95% CI: 0.46-0.84). Consistent 
+reductions were seen for patients stratified by gender, age group, race and in 
+patients with and without T2D. Similar findings were replicated in the study

@@ -1,0 +1,19 @@
+[referencia=39daeecf51a65676 score=0.990]
+# In symptomatic peripheral artery disease with T2D, semaglutide increased maximum walking distance at 1 y
+
+The improvement in maximum walking distance seen with semaglutide was comparable to that found with the only approved pharmacologic agent for claudication, but less than what can be achieved through supervised exercise therapy, an ACP Journal Commentary said.
+
+A manufacturer trial called STRIDE found that patients with peripheral artery disease (PAD) and type 2 diabetes who were randomized to subcutaneous semaglutide, 1 mg per week, for a year had a significant improvement in their maximum walking distance compared to those given placebo. The trial included 792 patients from 112 outpatient clinical trial sites in 20 countries in North America, Asia, and Europe.
+
+The study was published by *The Lancet* on May 3. The following commentary by Matthew Ades, MDCM, and Sonia S. Anand, MD,
+                     PhD, was published in the ACP Journal Club section of *Annals of Internal Medicine* on Sept. 2. 
+                  
+
+STRIDE found that semaglutide improved maximum walking distance and PAD-specific quality of life at 52 weeks vs. placebo, with benefits persisting 5 weeks after discontinuation. Most patients were male and White, 27% were current smokers, median hemoglobin A1c was 7.0% to 7.2%, and 43% had coronary artery disease. Generalizability of these promising results is limited by the inclusion of only patients with mild intermittent claudication symptoms and underrepresentation of women and racialized populations. However, the benefits of semaglutide were observed in addition to excellent medical therapy at baseline (≥80% of patients received a statin and most also received antithrombotic agents, angiotensin-converting enzyme inhibitors, and/or angiotensin-receptor blockers).
+
+The 40-meter improvement in the maximum walking distance with semaglutide was numerically modest and comparable to cilostazol, the only approved and recommended pharmacologic agent for claudication, but it was less than the gains achieved through supervised exercise therapy. Supported by the results of secondary outcomes, the improvements in function and quality of life appear clinically meaningful.
+
+---
+
+[referencia=39daeecf51a65676 score=0.023]
+In the real world, adherence to guideline-directed therapies, including statins, antithrombotic agents, smoking cessation, and supervised exercise therapy, remains suboptimal, especially in vulnerable populations. Semaglutide's high cost is a barrier to widespread use, especially in patients who are most affected by PAD—those from racial or ethnic minority groups and who have lower incomes. Therefore, it may best serve as an adjunct for patients with symptomatic PAD and T2D who are optimized on standard therapy, especially given its known benefit for cardiovascular events and mortality.

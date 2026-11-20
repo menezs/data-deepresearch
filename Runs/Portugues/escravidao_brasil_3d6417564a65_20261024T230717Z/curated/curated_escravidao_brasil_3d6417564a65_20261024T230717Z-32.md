@@ -1,0 +1,103 @@
+[referencia=e4ad4d88dad9a0ec score=0.998]
+Em 1850, Luiz Gama tentou ingressar no curso de direito do Largo São Francisco, hoje da Faculdade de Direito da Universidade de São Paulo - USP. Entretanto, por ser negro e pobre, não foi admitido, mas não foi impedido de assistir aulas e frequentar a biblioteca. Seu reconhecimento ocorreu somente com a promulgação a Lei nº 13.629 de 2018, a qual o declara como patrono da abolição da escravidão do Brasil, bem como a Lei nº 13.628, que o inscreveu no Livro dos Heróis da Pátria. E em 2021, o Conselho Universitário da USP7 concedeu a ele, o título de doutor *honoris causa.*
+
+De certo, um verdadeiro abolicionista, pois buscava a todo custo, libertar os negros dos grilhões da escravidão. Contudo, ao viver até 24 de agosto de 1882, não conseguiu comemorar a abolição da escravidão, que ocorreu em 13 de maio de 1888, ou seja, menos de 6 anos. Deixou um imensurável legado para os operadores do direito, bem como para a sociedade brasileira. Mas também, não teve a infelicidade de ver a liberdade que tanto lutou, ser criminalizar os negros recém-libertados, como a lei que proibia a capoeiragem, a vadiagem, a mendicância e o curandeirismo na Constituição Federal de 1890.
+
+Chegou trabalhar como praça 8, na polícia de São Paulo entre 1848 e 1854 como copista. Todavia foi expulso após ato de insubordinação. Tornou-se funcionário público em 1856, ficando até 1868.9
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.021]
+Este ilustre brasileiro, Luiz Gama, ex-escravo, baiano, poeta, jornalista e agora advogado reconhecido pela OAB, teve influência em sua vida e obra, pois foi engajada no movimento abolicionista, especialmente em São Paulo, que contou com o apoio de várias classes de trabalhadores, enfrentando a fúria dos cafeicultores e a inercia do governo, mas gerou outra vitória com a aprovação da Lei do Ventre Livre, fato que causou uma ruptura entre governo e elite do país. Na avaliação dos donos de escravos, a medida era uma afronta ao direito de propriedade sobre os cativos. A questão da escravidão era tão latente que em 1875, foi lançado o livro: A Escrava Isaura (Bernardo de Guimarães), obra que conta a história de Isaura, uma bela escrava branca assediada pelo vilão Leôncio, que virou telenovela em 1976.
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.014]
+Ocorreram, também, o surgimento de diversos movimentos artísticos. Na literatura podemos destacar: o Parnasianismo, o Romantismo, Realismo e o Simbolismo. Na pintura destacam-se o Impressionismo, Realismo e o Romantismo. Na área da filosofia surgiram correntes filosóficas como: Marxismo, Utilitarismo e Positivismo. Na área da ciência ocorreram várias descobertas, tais como a invenção da anestesia em 1846. Também houve aquelas descobertas que revolucionaram a vida prática, como a invenção da geladeira, em 1875 por Carl von Linde, a locomotiva elétrica, em 1879 por Werner von Siemens; o automóvel em 1886, por Karl Benz; entre outros.
+
+Enquanto no Brasil buscava-se encontrar mais maneiras de manter os escravos, na Alemanha em 1848, era publicado o Manifesto do Partido Comunista de Karl Marx e Friedrich Engels, que apontava a história das lutas de classe de opressores e oprimidos, podendo haver vitória somente na união dos trabalhadores, na luta entre homem livre x escravo, patrícios x plebeus, barão x servo, magnata x aprendiz.
+
+No país nenhuma grande revolução, mas houve uma luta bélica que foi mais a proeminente, que iniciou com o aprisionamento de uma embarcação brasileira que navegava pelo rio Paraguai, seguida da fácil invasão de paraguaios ao Mato Grosso (atual Mato Grosso do Sul), ocorrida em 26 de dezembro de 1864, que avançou a guerra até 1870, vencida pela Tríplice Aliança, formada por Argentina, Brasil e Uruguai. E posteriormente, por pressão da Europa, a princesa Isabel assinava a Lei Áurea, em 1888, que aboliu a escravidão. Um ano depois, houve a Proclamação da República (1889).
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.008]
+**Luiz Gonzaga Pinto da Gama** (1830-1882), ou simplesmente Luiz Gama, foi uma importante personalidade negra brasileira. Deixou de ser escravo, passando a ser poeta e jornalista. Fez crítica social e política da sociedade brasileira e, 133 anos após a sua morte, passou de rábula (advogado sem formação), para profissional doutor *honoris causa.*
+
+Luiz Gama nasceu em 21 de junho de 1830, em Salvador, Bahia. Nasceu livre, sendo filho de uma africana liberta e um nobre português. Sua mãe, Luíza Mahin, possivelmente foi envolvida com a Revolta dos Malês1 e com a Sabinada2, motivo pelo qual foi para o estado do Rio de Janeiro, deixando o filho aos cuidados do pai.
+
+Ao completar 10 anos de idade, o genitor o vendeu ilegalmente como escravo para pagar dívidas de jogo. Não há registro do nome do pai, pois Gama, fez questão de não registrá- -lo3, julgando-o merecedor do esquecimento.
+
+Sua jornada começou em Salvador, partindo de navio para o Rio de Janeiro, de lá, virou escravo e foi trazido para São Paulo, desembarcando no porto de Santos, seguindo uma jornada a pé até Campinas, um percurso de aproximadamente 180 km. A pé!
+
+Por onde passou, ganhou destaque, mas mesmo ganhando a atenção dos fazendeiros, era rejeitado ao dizer que era baiano. Estranhamente, já é nítido o grau de racismo enfrentado país naquela época, sabendo que, a primeira capital do Brasil foi justamente Salvador (1549 1763), por 214 (duzentos e quatorze) anos, depois o Rio de Janeiro (1763 a 1960), Curitiba (no regime militar foi a capital da república entre os dias 24 e 27 de março de 1969) e Brasília (capital do Brasil desde 21 de abril de 1960).
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.005]
+Segundo um vídeo da Agência Nacional do Cinema, foi expressado um pouco de sua vida, conforme transcrição:
+
+Quem me via assim pelas ruas de Salvador, não desconfiava de nada, afinal quituteiras na cidade sempre foram muitas. Mas não se deixa enganar por esta roupa de quituteira. Eu participei de uma das mais importantes revoltas de escravos da Bahia e uma das mais significativas do Brasil. O ofício de quituteira servia bem aos meus propósitos revolucionários. Como quem não quer nada ia de casa em casa articulando ações com meus companheiros. Foi assim que começou um dos grandes levantes da história brasileira: a Revolta dos Malês. A gente tinha dois objetivos: libertar os escravos e defender o nosso direito de praticar o islamismo, afinal éramos muçulmanos por isso ficamos conhecidos por Malês que vem de Imalê muçulmano em Iorubá. Nós, os muçulmanos, sabíamos ler e escrever em árabe. Entre um quitute e outro passava bilhete aos meus companheiros para organizar a revolta. Tudo foi marcado para o fim do Ramadã em 1.835, mas houve traição e 22 fomos cercados pela polícia. Cerca de 70 companheiros morreram. No entanto, o desejo de viver sem senhor na terra ou no céu continuou mais forte do que nunca. Desejo que passei ao meu filho Luiz Gama que se tornou um grande jornalista e abolicionista em São Paulo. Sou nega nina, sou nagô, sou gege, sou pagã e libertária.10
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.002]
+Com isso, enquanto escravo e em cativeiro, aprendeu a ler e escrever. Em 1848, já era alfabetizado e chegou a ensinar os filhos de seus senhores. Advogou em causa própria aos 17 anos, obtendo sua primeira grande vitória, pois há relatos que conseguiu produzir e provar que sua escravização foi de modo ilegal. Estudou e enveredou no ramo do direito, se mostrando autodidata. Em suas palavras, fugiu do cativeiro, após conseguir obter ardilosa e secretamente as provas inconcussas4. Alguns autores afirmam que para tal feito, se apoiou na Lei de 7 de novembro de 1831, que extinguiu o tráfico negreiro. Contudo, esta foi a primeira de várias outras conquistas em tribunais defendendo escravos, além de denunciar violações das leis e erros cometidos por juízes e advogados, algo surpreendente para a época. Deste modo, conseguiu por meio da compra e defesa em tribunais, libertar mais de 5005 escravos ao longo de sua vida. Importante destacar que, a figura do advogado provisionado existiu até a década de 1960, quando o exercício da advocacia passou a ser prerrogativa exclusiva dos bacharéis em direito.
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.001]
+### BIBLIOGRAFIA
+
+1 A Revolta dos Malês, foi uma das inúmeras rebeliões promovidas por escravos durante o Período Regencial (interregno entre a abdicação de D. Pedro I e o chamado Golpe da Maioridade, quando seu filho D. Pedro II teve a maioridade proclamada 1831 a 1840). O motim ocorreu na cidade de Salvador BA, entre os dias 24 e 25 de janeiro de 1835 (no fim do mês sagrado do Ramadã), há exatos 180 anos.
+
+2 A Sabinada, foi uma revolta feita por militares, integrantes da classe média (profissionais liberais, comerciantes, etc) e rica da Bahia. A revolta se estendeu entre os anos de 1837 e 1838. Ganhou este nome, pois seu líder foi o jornalista e médico Francisco Sabino Álvares da Rocha Vieira. 3 BENEDITO, Mouzar. Luiz Gama: o libertador de escravos e sua mãe libertária, Luíza Mahin. São Paulo: Expressão Popular, 2006, pag.16.
+
+4 SEGURADO, Milton Duarte. Direito no Brasil. São Paulo: Editora Impreta, 1923.
+
+5 IBIDEM.
+
+6 IBIDEM.
+
+7 CRUZ, Adriana. Abolicionista Luiz Gama recebe título de Doutor Honoris Causa da US. Jornal da USP. 2021. Disponível em <https://jornal.usp.br/institucional/abolicionista-luiz-gama-recebe-titulo-de-doutor-honoris-causa-postumo-da-usp/>. Acesso em 27 abr. 2022.
+
+8 Praças são os cargos mais baixos da Polícia Militar, Para cada oficial da PM isto é, um policial em posto de chefia, como tenente ou coronel, há doze praças denominação que abarca de soldados a subtenentes.
+
+9 IBIDEM, p. 76.
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.001]
+O século XIX (1801-1900), foi marcado por grandes revoltas no país, não só de negros, como a que aconteceu no Grão-Pará, de 1835 a 1840, em razão da grave crise social e econômica vivida na região. Seus líderes, tinham origem indígena, negra e da camada mais pobre. Foram vencidos pelas tropas do imperador. Em 1834, as disputas na província de Mato Grosso do Sul, que culminou em um violento confronto que ganhou o nome de Rusga.
+
+No estado do Rio Grande do Norte em 1836, predominava o homem branco, quando foram aprovados os Estatutos para as Primeiras Letras da Província11. Ao tratar das matrículas, determinava:
+
+Os Professores não admitirão em suas aulas alunos, que não sejam livres: as Professoras porém podem receber escravas; para o fim tão somente de lhes ensinar as prendas domésticas, não as compreendendo, todavia, na matrícula, de que trata o artigo 16, sob pena de perda do ordenado correspondente a um mês.
+
+
+O mundo também travava suas próprias lutas, pois ocorreram uma onda de revoluções na Europa, como a Revolução Francesa de 1848, às vezes conhecida como a Revolução de Fevereiro. Nos Estados Unidos, acontecia a Guerra Civil Americana, também conhecida como Guerra de Secessão, ocorrida de 1861 a 1865, entre a União e os Confederados. Em 1864, ocorreu o assassinato do presidente americano Abraham Lincoln.
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.000]
+9 IBIDEM, p. 76.
+
+10 LUIZA Mahin. Rio de Janeiro: Ancine, Lapilar Produções, 2010. 1 videocassete (2 min e 2 seg). (Heróis de todo mundo).
+
+11 A legislação educacional da província do Rio Grande do Norte está disponível em Bastos, Stamatto, Araújo e Gurgel (2004).
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.000]
+Sua obra intitulada, *Primeiras Trovas Burlescas*, foi publicada em 1859 a qual fazia críticas e denunciava as questões raciais do ponto de vista negro. Com 30 anos de idade, iniciou carreira como jornalista, sendo respeitado e considerado um dos grandes jornalistas de São Paulo na época. Ele trabalhou em vários jornais, como Diabo Coxo, primeiro jornal ilustrado de São Paulo fundado por ele (Luiz Gama) e Angelo Agostini. Também trabalhou no Polichinello, Correio Paulista, Cabrião, Radical Paulistano, além de publicar artigos e atuar também como tipógrafo.
+
+Segundo um vídeo da Agência Nacional do Cinema, foi expressado um pouco de sua vida, conforme transcrição:
+
+---
+
+[referencia=e4ad4d88dad9a0ec score=0.000]
+E os primeiros operadores do direito, foram trazidos pelos portugueses. Segundo Milton Duarte Segurado (1923)6 os primeiros advogados do Brasil, eram estrangeiros, vindos da Universidade de Coimbra, de Portugal. Depois que houve a transferência da corte portuguesa ao Brasil, pela recusa de Portugal obedecer Napoleão. Com isso, o regente d. João, até então em Portugal, se estabeleceu no país entre 1808 e 1821, sendo necessário, civilizar a colônia com atividades que suprissem a corte. Deste modo, foram construídos portos, bancos, escolas, etc., no intuito de formar uma elite independente de Portugal e França. A independência veio depois, em 1822.
+
+A primeira Universidade de Direito no Brasil foi criada na província de Pernambuco, em Olinda, em 1827, mas o primeiro curso jurídico no Brasil iniciou-se em São Paulo em 1º de março de 1828, tendo como sede, uma construção do século XVII, o Convento de São Francisco, ficando conhecida como a Faculdade de Direito do Largo de São Francisco. Em Olinda no Mosteiro de São Bento, só começou a funcionar em 15 de maio de 1828.
+
+Assim, entendemos que dada a escassez de advogados, era comum a existência da atuação dos chamados rábulas. A atuação deste defensor provisionado, vigorou até a década de 1960, quando o exercício do direito, passou a competir somente aos bacharéis em direito.

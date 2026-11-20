@@ -1,0 +1,39 @@
+[referencia=a658647de977af74 score=0.920]
+# Europe Writes the Rules and the World Pays the Price
+
+The European Union (EU) says its digital rules promote privacy, safety, and trust. But for many countries outside Europe, these rules feel more like a drawbridge: comply or be shut out.
+
+European policymakers often celebrate the “Brussels Effect”—the EU’s export of its regulations through market power—as a quiet form of global leadership. But while cloaked in the language of human rights and democratic governance, the reality is much more sinister. For much of the Global South, the unintended consequences of the Brussels Effect stifle domestic innovation and entrench structural inequalities in the global digital economy.
+
+The EU’s digital rulebook is a regulatory gravity that’s pulling others down. The General Data Protection Regulation (GDPR) now shapes laws in 18 non-EU countries, not because it is the global gold standard for privacy, but because failure to conform invites exclusion from the EU’s large market.
+
+In theory, firms could build separate systems for Europe and the rest of the world, but in practice, it would be too inefficient to run parallel systems. The result is that businesses unable to fully align with EU norms are effectively shut out.
+
+And many countries depend heavily on the EU for trade, especially in digital services. The EU accounts for 40 percent of South Africa’s e-commerce activity. It is India’s largest trading partner, with digital services making up nearly a third of a €60 billion services trade in 2023. Through data cables and cloud partnerships, Europe is extending its infrastructure across Latin America and the Caribbean. Regulatory alignment of EU rules within non-EU contexts becomes an unspoken prerequisite for participation.
+
+This alignment has a price, particularly when adopting rules made without emerging economies in mind. EU-style rules can confuse, disrupt, or constrain local innovation ecosystems, leaving domestic firms worse off.
+
+In Kenya, lawmakers imported GDPR-style provisions wholesale, placing a significant burden on local innovators. Kenya’s data protection regulation requires businesses of all sizes to register a data controller or processor and pay renewal fees every two years. For many firms—especially small and micro-enterprises that form the backbone of Kenya’s economy—this represents their first encounter with a formal data protection regime. Most lack the financial, human, and technical capacity to meet the demands of an imported compliance model.
+
+---
+
+[referencia=a658647de977af74 score=0.580]
+Brazil followed a similar path, incorporating many GDPR provisions into its domestic data protection law. While these rules have helped spur innovation in privacy-enhancing technologies, it has mostly been firms in the United States, Canada, and Europe that have captured this market, benefiting from their greater access to expertise and funding. Addressing such imbalances requires more than regulatory alignment—it calls for local content policies tailored to the specific needs and dynamics of national innovation ecosystems.
+
+Even within Europe, the cost of its regulatory ambition is beginning to show. The Digital Services Act (DSA) and Digital Markets Act (DMA), intended to create safer, fairer online markets, have prompted complaints of legal uncertainty and innovation chill. These frameworks, designed in a low-growth region with few global tech giants, raise serious doubts as to Europe’s suitability as a blueprint for the rest of the world.
+
+The Brussels Effect has created a structural imbalance: countries that had no say in shaping the rules are left to bear their cost. For example, some AI companies are delaying or avoiding EU rollouts entirely, citing compliance headaches. While the EU may be willing to accept lower productivity growth as a result, other countries are increasingly resisting in favour of balanced, pre-existing measures. India and South Africa have signalled that they will not mimic the EU’s sweeping AI Act, instead adapting existing rules or developing context-specific frameworks.
+
+Rather than blindly replicating European frameworks, countries should prioritise flexible, interoperable models that balance rights with local development needs. APEC’s Cross-Border Privacy Enforcement Arrangement, for example, facilitates cooperation without demanding one-size-fits-all alignment. It protects data and supports innovation, with room for national context and priorities to take precedence. The same approach should be taken with AI.
+
+For too long, the EU has compelled the Global South to default to its directives, its values, and its priorities. Countries should resist pressure to conform to rules that weren’t built for them and instead build regional, dynamic frameworks tailored to their own innovation goals.
+
+Image credit for social media preivew: Alexandre Lallemand/Unsplash
+
+## Related
+
+February 4, 2026
+
+## The Sane Insanity of Digital Sovereignty
+
+January 26, 2026

@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-29",
+  "passages": [
+    {
+      "reference_chunk_id": "4998c7ef0457172a-0",
+      "reference_id": "4998c7ef0457172a",
+      "score": 0.9969062209129333,
+      "text": "# Dubladores brasileiros temem substituição por inteligência artificial\n\n## Movimento \"Dublagem Viva\" reúne inúmeros artistas brasileiros\n\nIr direto pra matéria\nAmeaçados pela substituição da inteligência artificial, dubladores brasileiros criaram recentemente o movimento “Dublagem Viva”, que visa promover a regulação do uso da tecnologia voltado para jogos, filmes, séries e produções audiovisuais. Além dos profissionais do Brasil, dubladores de todo o planeta estão na mesma situação.\n\nEm 2023, atores de Hollyhood se mobilizaram em uma greve de quatro meses e um dos motivos principais da paralização foi o avanço da inteligência artificial. A United Voice Artists, grupo global de associações de dublagem, lidera uma petição com mais de 50 mil assinaturas, no intuito de impedir a substituição de humanos por robôs no audiovisual.\n\nO movimento “Dublagem Viva” luta pela determinação de regras para o equilíbrio tecnológico, de modo que os empregos dos dubladores sejam garantidos. Segundo o grupo, a função dos profissionais é dar autenticidade às produções audiovisuais dubladas, além de aplicarem personalidade e contexto cultural regional."
+    }
+  ],
+  "assembled_context": "[referencia=4998c7ef0457172a score=0.997]\n# Dubladores brasileiros temem substituição por inteligência artificial\n\n## Movimento \"Dublagem Viva\" reúne inúmeros artistas brasileiros\n\nIr direto pra matéria\nAmeaçados pela substituição da inteligência artificial, dubladores brasileiros criaram recentemente o movimento “Dublagem Viva”, que visa promover a regulação do uso da tecnologia voltado para jogos, filmes, séries e produções audiovisuais. Além dos profissionais do Brasil, dubladores de todo o planeta estão na mesma situação.\n\nEm 2023, atores de Hollyhood se mobilizaram em uma greve de quatro meses e um dos motivos principais da paralização foi o avanço da inteligência artificial. A United Voice Artists, grupo global de associações de dublagem, lidera uma petição com mais de 50 mil assinaturas, no intuito de impedir a substituição de humanos por robôs no audiovisual.\n\nO movimento “Dublagem Viva” luta pela determinação de regras para o equilíbrio tecnológico, de modo que os empregos dos dubladores sejam garantidos. Segundo o grupo, a função dos profissionais é dar autenticidade às produções audiovisuais dubladas, além de aplicarem personalidade e contexto cultural regional.",
+  "skip_reason": null
+}

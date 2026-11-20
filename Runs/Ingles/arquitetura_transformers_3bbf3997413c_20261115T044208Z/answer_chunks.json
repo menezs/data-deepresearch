@@ -1,0 +1,1298 @@
+[
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-0",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 0,
+    "text": "The Transformer is the neural-network architecture that made modern large language models technically practical by replacing recurrent sequence processing with layers built primarily around attention, feed-forward transformations, residual connections, and normalization.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-1",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 1,
+    "text": "Introduced by Vaswani and colleagues in *Attention Is All You Need* in 2017, the original Transformer was developed for neural machine translation and used an encoder-decoder design in which both sides were composed of stacked self-attention and feed-forward blocks.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-2",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 2,
+    "text": "Its key departure from recurrent neural networks was that relationships among tokens could be computed in parallel rather than requiring a hidden state to propagate sequentially from one position to the next.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-3",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 3,
+    "text": "This parallelism made the architecture particularly compatible with matrix-multiplication hardware and substantially accelerated training relative to recurrent approaches of the period.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-4",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 4,
+    "text": "The original Transformer was not itself a “large language model” in the contemporary sense, but its components became the substrate from which the dominant families of pretrained language models developed.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-5",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 5,
+    "text": "GPT demonstrated that a Transformer decoder could first be generatively pretrained on unlabeled text and then adapted to downstream tasks, establishing an influential pretraining-and-transfer paradigm.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-6",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 6,
+    "text": "BERT subsequently showed the complementary strength of a bidirectional Transformer encoder trained with masked-language-model objectives, while T5 explored encoder-decoder pretraining under a unified text-to-text framework.",
+    "cited_markers": [
+      "[3]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "32f3c7d144f036a0",
+      "dd0416935c1f8d1f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-7",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 7,
+    "text": "GPT-3 then demonstrated that scaling an autoregressive Transformer to 175 billion parameters substantially strengthened zero-shot and few-shot behavior without task-specific gradient updates at inference time.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "2cab3ea10b8b7ae2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-8",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 8,
+    "text": "The modern importance of the Transformer therefore comes from more than the attention mechanism alone.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-9",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 9,
+    "text": "Its broader contribution is a modular computational pattern in which token representations are repeatedly contextualized through attention, independently transformed by position-wise multilayer networks, and propagated through many residual layers.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-10",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 10,
+    "text": "Large-scale language modeling then adds subword tokenization, massive unsupervised or self-supervised corpora, next-token or denoising objectives, optimized distributed training, and post-training methods such as supervised instruction tuning and preference optimization.",
+    "cited_markers": [
+      "[2]",
+      "[4]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d",
+      "dd0416935c1f8d1f",
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-11",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 11,
+    "text": "Attention can be understood as content-addressable retrieval inside the network.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-12",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 12,
+    "text": "Each token representation is projected into three vectors: a **query** \\(q\\), describing what that token is seeking; a **key** \\(k\\), describing what another token offers for matching; and a **value** \\(v\\), containing information that can be retrieved if the key is relevant.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-13",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 13,
+    "text": "For a collection of tokens, the corresponding vectors are stacked into matrices \\(Q\\), \\(K\\), and \\(V\\).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-14",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 14,
+    "text": "where \\(d_k\\) is the dimensionality of each key and query vector.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-15",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 15,
+    "text": "The matrix \\(QK^\\top\\) contains pairwise similarity scores between queries and keys, so each row represents how strongly one token attends to every eligible token.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-16",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 16,
+    "text": "Softmax converts these scores into nonnegative weights that sum to one across the attended positions, and multiplication by \\(V\\) produces a weighted mixture of their value vectors.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-17",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 17,
+    "text": "The factor \\(1/\\sqrt{d_k}\\) is crucial rather than cosmetic.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-18",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 18,
+    "text": "As key dimensionality grows, unscaled dot products tend to increase in magnitude, which can push softmax into strongly saturated regions with small gradients; scaling counteracts this effect.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-19",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 19,
+    "text": "Dot-product attention is also computationally attractive because its central operations can be expressed as dense matrix multiplications, which are highly optimized on accelerators.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-20",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 20,
+    "text": "A single attention computation, however, compresses all relationships into one similarity geometry, so the Transformer uses **multi-head attention**.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-21",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 21,
+    "text": "These learned projections allow different heads to construct different query-key matching spaces and value representations.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-22",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 22,
+    "text": "Intuitively, one head might become useful for nearby syntactic dependencies while another encodes longer-range or semantic associations, although individual heads should not automatically be interpreted as clean symbolic rules because attention patterns are learned distributed representations rather than guaranteed human-readable modules.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-23",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 23,
+    "text": "In self-attention, \\(Q\\), \\(K\\), and \\(V\\) originate from the same sequence representation, which allows every position to contextualize itself using other positions.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-24",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 24,
+    "text": "In encoder-decoder cross-attention, the decoder supplies queries while encoder states supply keys and values, allowing the decoder to retrieve information from the source sequence.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-25",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 25,
+    "text": "Because unrestricted self-attention compares every token with every other token, conventional attention has time and memory requirements that grow quadratically with sequence length, making long contexts expensive.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-26",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 26,
+    "text": "Each Transformer block also contains a position-wise feed-forward network that independently transforms every token after attention has mixed information across positions.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-27",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 27,
+    "text": "Residual connections and normalization surround these transformations, helping information and gradients propagate through deep stacks.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-28",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 28,
+    "text": "Thus attention provides token-to-token communication, whereas the feed-forward component supplies substantial nonlinear feature transformation at each position.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-29",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 29,
+    "text": "Pure self-attention is not inherently sensitive to sequence order, because rearranging tokens and applying the same rearrangement to queries, keys, and values produces correspondingly rearranged outputs unless positional information is introduced.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-30",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 30,
+    "text": "The original Transformer therefore added positional encodings to token embeddings before the first layer.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-31",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 31,
+    "text": "so different dimensions oscillate at different wavelengths and encode the token's position.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-32",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 32,
+    "text": "They also experimented with learned positional embeddings and reported similar results in their translation setting.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-33",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 33,
+    "text": "Later architectures developed alternatives that inject relative position information more directly into attention.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "83213326f5835ccc"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-34",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 34,
+    "text": "Rotary Position Embedding, or RoPE, represents token position by applying position-dependent rotations to query and key vectors, making their dot products naturally depend on relative displacement between positions.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "83213326f5835ccc"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-35",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 35,
+    "text": "RoPE became particularly influential in decoder-only LLMs; the original LLaMA models, for example, used rotary positional embeddings together with other architectural refinements.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "3972039dbf3f7ee7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-36",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 36,
+    "text": "Masking determines which positions attention is allowed to inspect.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-37",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 37,
+    "text": "The original encoder uses unrestricted self-attention over its input sequence, whereas the decoder applies a causal, or look-ahead, mask that prevents position \\(t\\) from seeing positions later than \\(t\\).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-38",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 38,
+    "text": "where prohibited elements of \\(M\\) are assigned \\(-\\infty\\) before softmax, giving future positions zero attention probability.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-39",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 39,
+    "text": "This causal constraint is what makes a decoder-only Transformer a valid autoregressive model: the probability of a token is conditioned only on tokens already available.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-40",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 40,
+    "text": "Before any of this computation occurs, raw text must be converted into discrete token identifiers.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a2690ed31e8cc7e9"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-41",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 41,
+    "text": "Modern language models commonly use subword tokenization rather than maintaining one vocabulary entry for every possible word.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a2690ed31e8cc7e9"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-42",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 42,
+    "text": "Sennrich, Haddow, and Birch adapted byte-pair encoding to neural NLP, showing that words could be represented as sequences drawn from a fixed vocabulary of variable-length character fragments and thereby reducing the out-of-vocabulary problem.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a2690ed31e8cc7e9"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-43",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 43,
+    "text": "SentencePiece later provided language-independent BPE and unigram tokenization that can train directly on raw text without requiring prior whitespace tokenization, an important property for multilingual systems and languages in which word boundaries are not conventionally marked by spaces.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "50d4fd98520a4e3b"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-44",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 44,
+    "text": "A learned embedding matrix maps each token identifier to a continuous vector of dimension \\(d_{\\text{model}}\\), after which positional information is incorporated and the resulting vectors enter the Transformer stack.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-45",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 45,
+    "text": "At the output of an autoregressive language model, the final hidden state is mapped to logits over the vocabulary and normalized into a next-token probability distribution.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-46",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 46,
+    "text": "Tokenization therefore defines the basic discrete units over which language modeling operates, while embeddings provide the continuous representational space in which attention and feed-forward layers perform computation.",
+    "cited_markers": [
+      "[1]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "a2690ed31e8cc7e9"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-47",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 47,
+    "text": "The Transformer supports three major architectural configurations that correspond to different ways of exposing context during pretraining.",
+    "cited_markers": [
+      "[1]",
+      "[3]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "32f3c7d144f036a0",
+      "dd0416935c1f8d1f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-48",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 48,
+    "text": "Encoder-only systems such as BERT process the whole visible input bidirectionally, which makes them particularly natural as representation models for classification, extraction, and sequence understanding.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "32f3c7d144f036a0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-49",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 49,
+    "text": "BERT was pretrained primarily by masking some input tokens and training the model to recover them using both left and right context.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "32f3c7d144f036a0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-50",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 50,
+    "text": "This differs fundamentally from causal language modeling because a masked token can incorporate evidence from words on both sides.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "32f3c7d144f036a0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-51",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 51,
+    "text": "so training consists of predicting each next token given its preceding context.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-52",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 52,
+    "text": "GPT used this strategy for generative pretraining, and the same broad paradigm became the dominant foundation for general-purpose generative LLMs.",
+    "cited_markers": [
+      "[2]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d",
+      "2cab3ea10b8b7ae2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-53",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 53,
+    "text": "GPT-3 showed that sufficiently large autoregressive models could condition directly on instructions and examples placed in their context, producing substantial zero-shot, one-shot, and few-shot task performance without updating model parameters during evaluation.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "2cab3ea10b8b7ae2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-54",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 54,
+    "text": "Encoder-decoder architectures retain both halves of the original Transformer.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-55",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 55,
+    "text": "T5 treated essentially every NLP task as text-to-text transformation and systematically compared architectures, objectives, datasets, and transfer methods within one framework.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "dd0416935c1f8d1f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-56",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 56,
+    "text": "Its pretraining framework used corruption-and-reconstruction objectives in which portions of text are replaced and the decoder learns to generate the missing material, combining bidirectional source understanding with autoregressive output generation.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "dd0416935c1f8d1f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-57",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 57,
+    "text": "Pretraining is powerful because the prediction target can be generated from raw text rather than requiring human labels for every example.",
+    "cited_markers": [
+      "[2]",
+      "[3]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d",
+      "32f3c7d144f036a0",
+      "dd0416935c1f8d1f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-58",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 58,
+    "text": "Nonetheless, a pretrained model is not automatically optimized to behave as an interactive assistant.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-59",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 59,
+    "text": "InstructGPT demonstrated a widely influential post-training pipeline in which a pretrained language model first receives supervised fine-tuning on human-written demonstrations and is subsequently optimized using human preference rankings through reinforcement learning from human feedback.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-60",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 60,
+    "text": "The study found that human evaluators preferred outputs from its 1.3-billion-parameter InstructGPT model to those from the much larger 175-billion-parameter base GPT-3 on the evaluation distribution, illustrating that behavioral alignment and raw pretraining scale are distinct dimensions.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-61",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 61,
+    "text": "The emergence of LLMs cannot be explained by Transformer architecture alone; large-scale optimization and data are equally central.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "85f66a6419d173a7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-62",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 62,
+    "text": "Kaplan and colleagues found empirical power-law relationships between language-model cross-entropy loss and model size, dataset size, and training compute over broad experimental ranges.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "85f66a6419d173a7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-63",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 63,
+    "text": "Their results helped formalize the observation that predictable improvements can often be obtained by allocating more parameters, data, and computation.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "85f66a6419d173a7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-64",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 64,
+    "text": "The precise allocation of compute between parameter count and training tokens later proved important.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "46fd66187ec3e6ae"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-65",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 65,
+    "text": "The Chinchilla study trained more than 400 language models ranging from 70 million to more than 16 billion parameters and concluded that, under its experimental assumptions, compute-optimal scaling called for increasing model size and the number of training tokens together rather than concentrating additional compute mainly on parameters.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "46fd66187ec3e6ae"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-66",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 66,
+    "text": "Its 70-billion-parameter Chinchilla model used the same stated training compute as the 280-billion-parameter Gopher model but substantially more data, and it outperformed several larger models across the authors' evaluation suite.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "46fd66187ec3e6ae"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-67",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 67,
+    "text": "The result helped shift the field's emphasis from parameter count alone toward the joint scaling of parameters and training data.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "46fd66187ec3e6ae"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-68",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 68,
+    "text": "Inference in an autoregressive Transformer has a different performance profile from training.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "5e9c4b0d7e28a9c7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-69",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 69,
+    "text": "During training, all positions of a known sequence can be evaluated largely in parallel under a causal mask, whereas generation must normally proceed token by token because the next step depends on the token selected at the previous step.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "5e9c4b0d7e28a9c7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-70",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 70,
+    "text": "Implementations therefore cache the previously computed key and value tensors rather than recomputing them from scratch for every generated token, but repeatedly accessing this KV cache can make decoding heavily constrained by memory bandwidth.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "5e9c4b0d7e28a9c7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-71",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 71,
+    "text": "Multi-query attention addresses this bottleneck by retaining multiple query heads while sharing a single key and value head, sharply reducing KV-cache size and bandwidth requirements.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "5e9c4b0d7e28a9c7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-72",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 72,
+    "text": "Grouped-query attention generalizes that design by dividing query heads into groups that share key-value heads, providing an intermediate point between conventional multi-head attention and multi-query attention.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "a114e852aac1b2cb"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-73",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 73,
+    "text": "Ainslie and colleagues reported that GQA could approach multi-head-attention quality while obtaining inference characteristics close to MQA in their experiments.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "a114e852aac1b2cb"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-74",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 74,
+    "text": "FlashAttention attacks a different inefficiency.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-75",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 75,
+    "text": "Rather than approximating attention mathematically, it computes exact attention with a tiled, IO-aware algorithm designed to minimize transfers between slower high-bandwidth GPU memory and faster on-chip memory.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-76",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 76,
+    "text": "Its authors demonstrated substantial training speedups and showed that hardware-memory traffic can matter as much as nominal arithmetic operation counts when designing efficient Transformer kernels.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-77",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 77,
+    "text": "FlashAttention does not eliminate the underlying quadratic arithmetic structure of dense attention, but it greatly reduces practical memory overhead and intermediate materialization.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-78",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 78,
+    "text": "Speculative decoding improves autoregressive generation by using a faster approximation model to propose several tokens, after which the larger target model verifies them in parallel according to a correction procedure that preserves the target sampling distribution.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "fd3d857f4120158d"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-79",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 79,
+    "text": "The original study reported two- to three-fold acceleration on T5-XXL compared with its baseline implementation while maintaining identical output distributions.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "fd3d857f4120158d"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-80",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 80,
+    "text": "This approach addresses the serial nature of decoding without changing the underlying trained target model.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "fd3d857f4120158d"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-81",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 81,
+    "text": "Another path to efficiency is conditional computation.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "546b28dbd4726cdc"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-82",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 82,
+    "text": "Mixture-of-experts architectures route different tokens to different subsets of feed-forward parameters, allowing total parameter count to grow much faster than the number of parameters activated for any individual token.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "546b28dbd4726cdc"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-83",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 83,
+    "text": "Switch Transformer simplified expert routing to make sparse models easier to train and demonstrated models reaching trillion-parameter scale while keeping per-token computation far below that of an equivalently sized dense network.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "546b28dbd4726cdc"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-84",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 84,
+    "text": "The tradeoff is that expert routing introduces communication, load-balancing, memory, and training-stability challenges.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "546b28dbd4726cdc"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-85",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 85,
+    "text": "The architecture used in contemporary LLMs is therefore better understood as an evolving family than as a frozen replication of the 2017 Transformer.",
+    "cited_markers": [
+      "[1]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "3972039dbf3f7ee7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-86",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 86,
+    "text": "Encoder-only BERT, encoder-decoder T5, and decoder-only GPT represent three major branches built from the same core idea but optimized for different information-flow patterns and objectives.",
+    "cited_markers": [
+      "[2]",
+      "[3]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "a3e86ad05f37e40d",
+      "32f3c7d144f036a0",
+      "dd0416935c1f8d1f"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-87",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 87,
+    "text": "Modern decoder models have further incorporated alternatives to the original positional scheme, normalization choices, feed-forward activations, and attention organizations; LLaMA, for example, combined RoPE with RMSNorm and SwiGLU-style feed-forward networks as part of a design focused on strong performance from publicly available training data.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "3972039dbf3f7ee7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-88",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 88,
+    "text": "One persistent limitation is computational scaling with context length.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-89",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 89,
+    "text": "Dense self-attention forms token-pair interactions whose number grows quadratically with sequence length, so increasing context windows can substantially raise computation and memory requirements even when implementation techniques such as FlashAttention reduce the constant factors.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-90",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 90,
+    "text": "KV caching reduces redundant computation during autoregressive decoding but creates its own memory footprint, which is one reason MQA and GQA have become important inference optimizations.",
+    "cited_markers": [
+      "[14]",
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "5e9c4b0d7e28a9c7",
+      "a114e852aac1b2cb"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-91",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 91,
+    "text": "A second limitation is that the language-modeling objective is fundamentally predictive rather than truth-verifying.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "6a4bad7787419973"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-92",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 92,
+    "text": "TruthfulQA demonstrated that models can reproduce popular misconceptions present in human-generated text, and its authors argued that increasing scale alone does not guarantee improved truthfulness.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "6a4bad7787419973"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-93",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 93,
+    "text": "More generally, pretrained models learn statistical regularities from their data rather than accessing an intrinsic database of validated propositions, so fluent generation and factual reliability must be treated as separate properties.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "6a4bad7787419973"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-94",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 94,
+    "text": "Post-training methods can improve helpfulness and reduce some classes of undesirable behavior, but InstructGPT still exhibited mistakes despite measurable improvements in human preference and truthfulness-oriented evaluations.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "1098fc60be7ca2b0"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-95",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 95,
+    "text": "Training data create additional limitations.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "5d21dc0cbc3014c2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-96",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 96,
+    "text": "Bender and colleagues emphasized that web-scale corpora can carry social biases, harmful associations, documentation deficiencies, and representation imbalances, while the financial and environmental costs of ever-larger models create broader questions about how scaling decisions are made.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "5d21dc0cbc3014c2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-97",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 97,
+    "text": "GPT-3's authors likewise documented limitations associated with training on large web-derived corpora and discussed societal impacts alongside capability improvements.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "2cab3ea10b8b7ae2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-98",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 98,
+    "text": "These issues arise from the interaction of architecture, objective, dataset composition, scale, and deployment rather than from attention alone.",
+    "cited_markers": [
+      "[5]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "2cab3ea10b8b7ae2",
+      "5d21dc0cbc3014c2"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-99",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 99,
+    "text": "The Transformer's lasting significance is consequently not that attention solved language understanding in a single algorithmic step, but that it supplied an unusually scalable substrate for representation learning.",
+    "cited_markers": [
+      "[1]",
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "85f66a6419d173a7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-100",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 100,
+    "text": "Scaled dot-product attention provides flexible token-to-token information routing; multi-head attention supplies multiple learned interaction spaces; positional representations recover sequence structure; causal masking turns the architecture into an autoregressive generator; subword tokenization makes large open vocabularies tractable; and large-scale self-supervised pretraining converts abundant text into a learning signal.",
+    "cited_markers": [
+      "[1]",
+      "[10]",
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691",
+      "a2690ed31e8cc7e9",
+      "85f66a6419d173a7"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-101",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 101,
+    "text": "Scaling laws, compute-optimal training, sparse experts, efficient attention kernels, KV-cache optimizations, and speculative decoding then transformed that basic architecture into systems that can be trained and served at vastly larger scales.",
+    "cited_markers": [
+      "[7]",
+      "[13]",
+      "[15]",
+      "[16]",
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "5727fed78bddc701",
+      "46fd66187ec3e6ae",
+      "a114e852aac1b2cb",
+      "fd3d857f4120158d",
+      "546b28dbd4726cdc"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-102",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 102,
+    "text": "The central conceptual insight remains remarkably simple: each token repeatedly asks which other available tokens are useful, retrieves a learned mixture of their information, transforms that representation, and passes it to the next layer.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "a7468c6851652691"
+    ]
+  },
+  {
+    "id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z-103",
+    "answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "position": 103,
+    "text": "What turned this mechanism into the foundation of LLMs was the discovery that the process remains effective when repeated across many layers, trained over enormous token corpora, scaled to billions of parameters, and combined with objectives and post-training methods that turn generic sequence prediction into broadly useful language behavior.",
+    "cited_markers": [
+      "[5]",
+      "[6]",
+      "[12]",
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "2cab3ea10b8b7ae2",
+      "1098fc60be7ca2b0",
+      "85f66a6419d173a7",
+      "46fd66187ec3e6ae"
+    ]
+  }
+]

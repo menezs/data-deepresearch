@@ -1,0 +1,460 @@
+{
+  "run_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+  "answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/ChatGPT/EmConsolidacao/pix_brasil.md",
+  "generated_at": "2026-11-01T18:15:42.014816Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 31011,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 117,
+    "citation_markers_distinct": 11,
+    "references_listed": 11,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 82,
+  "pct_supported": 70.73170731707317,
+  "pct_unsupported": 29.268292682926827,
+  "pct_contradicted": 0.0,
+  "count_supported": 58,
+  "count_unsupported": 24,
+  "count_contradicted": 0,
+  "count_skipped": 0,
+  "count_audited": 82,
+  "pct_supported_audited": 70.73170731707317,
+  "pct_unsupported_audited": 29.268292682926827,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 26,
+  "skipped_reason_counts": {},
+  "verification_ran": true,
+  "count_unsupported_confirmed": 4,
+  "count_reclassified_by_verification": 6,
+  "verification_stage_counts": {
+    "context_expansion": 6
+  },
+  "mis_cited_reference_count": 4,
+  "uncredited_reference_count": 1,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [],
+  "skipped_chunks": [],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "102d3ed3ffd0ee94",
+      "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+      "times_cited": 42,
+      "supported_count": 34,
+      "unsupported_count": 8,
+      "contradicted_count": 0,
+      "supporting_citations": 26,
+      "partial_citations": 11,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        2,
+        6,
+        7,
+        8,
+        9,
+        15,
+        21,
+        25,
+        26,
+        27,
+        28,
+        30,
+        31,
+        34,
+        36,
+        53,
+        54,
+        55,
+        57,
+        58,
+        59,
+        60,
+        64,
+        76,
+        77
+      ],
+      "partial_positions": [
+        0,
+        4,
+        13,
+        14,
+        29,
+        56,
+        68,
+        71,
+        72,
+        78,
+        79
+      ],
+      "absent_positions": [
+        35,
+        69,
+        73,
+        74
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [
+        22
+      ],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 2025, o número de transações aumentou 25,7% comparado com o ano anterior, chegando a quase 80 bilhões de transações, enquanto o volume financeiro das transações teve crescimento de 33,8% no mesmo período, ultrapassando R$35 trilhões.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "ce4ef0b8fb18629f",
+      "url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+      "times_cited": 18,
+      "supported_count": 14,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 9,
+      "partial_citations": 9,
+      "status": "downloaded",
+      "supports_positions": [
+        3,
+        5,
+        32,
+        33,
+        37,
+        38,
+        67,
+        73,
+        77
+      ],
+      "partial_positions": [
+        4,
+        12,
+        13,
+        29,
+        39,
+        68,
+        71,
+        72,
+        81
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O BC define inclusão financeira como um estado em que todos os adultos têm acesso efetivo aos seguintes serviços financeiros providos por instituições formais: crédito, poupança (entendida em termos amplos, incluindo contas transacionais), pagamentos, seguros, previdência e investimentos",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "3840eab9f5e75580",
+      "url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+      "times_cited": 14,
+      "supported_count": 6,
+      "unsupported_count": 8,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 8,
+      "status": "downloaded",
+      "supports_positions": [
+        11,
+        13,
+        48
+      ],
+      "partial_positions": [
+        12,
+        44,
+        45,
+        46,
+        47,
+        75,
+        80,
+        81
+      ],
+      "absent_positions": [
+        4,
+        43,
+        49
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The results indicate that Pix expansion is associated with deposit growth and credit expansion in municipalities with lower initial levels of digital infrastructure, with particular increases in savings deposits and rural credit.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "35f5c93c45673f6f",
+      "url": "https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP600.pdf",
+      "times_cited": 12,
+      "supported_count": 8,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 8,
+      "status": "downloaded",
+      "supports_positions": [
+        10,
+        40,
+        41,
+        42
+      ],
+      "partial_positions": [
+        4,
+        12,
+        43,
+        50,
+        51,
+        75,
+        80,
+        81
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Matheus C. Sampaio† Jose Renato H. Ornelas‡ [...] we employ an instrument and individual-level banking data in Brazil [...] this study employs an Instrumental Variables approach using floods as an instrument [...] Também constatamos que, após uma enchente, o número de contas bancárias ativamente utilizadas cresce em 4% [...] Nossos resultados mostram que o Pix complementa outros métodos de pagamento",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "f42eb0724c750e7c",
+      "url": "https://www.bcb.gov.br/content/publicacoes/Documents/reb/boxesreb2018/boxe_19_pix.pdf",
+      "times_cited": 7,
+      "supported_count": 5,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        16
+      ],
+      "partial_positions": [
+        0,
+        14,
+        19,
+        20,
+        50,
+        52
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "no final de dezembro de 2020, 735 participantes haviam aderido ao Pix de forma bem sucedida, representando uma multiplicidade de agentes, como, por exemplo, bancos tradicionais, bancos entrantes (conhecidos como “bancos digitais”), cooperativas, financeiras e fintechs (instituições de pagamento, inclusive aquelas que não precisam de autorização do BCB para operar, e sociedades de crédito direto)",
+      "key_excerpt_position": 16
+    },
+    {
+      "reference_id": "36f0b0bcb96f259d",
+      "url": "https://www.bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix",
+      "times_cited": 6,
+      "supported_count": 2,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        23,
+        24
+      ],
+      "partial_positions": [
+        69,
+        70
+      ],
+      "absent_positions": [
+        20,
+        43
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The two key ingredients in the success of Pix are, first, the mandatory participation of large banks to kick-start network effects for users, and second, the central bank's dual role as infrastructure provider and rule setter.",
+      "key_excerpt_position": 23
+    },
+    {
+      "reference_id": "07b6c5b87f609090",
+      "url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/API-DICT.html",
+      "times_cited": 6,
+      "supported_count": 5,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        18
+      ],
+      "partial_positions": [
+        0,
+        19,
+        60,
+        61,
+        63
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Diretório de Identificadores de Contas Transacionais - DICT - é o serviço do arranjo Pix que permite buscar detalhes de contas transacionais com chaves de endereçamento mais convenientes para quem faz um pagamento. Entre os tipos de chave atualmente disponíveis estão CPF, CNPJ, telefone, e-mail e EVP. As informações retornadas pelo DICT permitem ao pagador confirmar a identidade do recebedor, proporcionando uma experiência mais fácil e segura.",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "da56a4c05044176f",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44032-no-brasil-88-9-da-populacao-de-10-anos-ou-mais-tinha-celular-em-2024",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        65
+      ],
+      "partial_positions": [
+        66
+      ],
+      "absent_positions": [
+        68,
+        71
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 2024, 167,5 milhões de pessoas de 10 anos ou mais de idade tinham telefone móvel celular para uso pessoal no país. Isto correspondia a 88,9% da população dessa faixa etária.",
+      "key_excerpt_position": 65
+    },
+    {
+      "reference_id": "b76146e5bb085608",
+      "url": "https://www.bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        0,
+        16,
+        17,
+        19
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "852af1b7d0540b5e",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        62
+      ],
+      "partial_positions": [
+        61
+      ],
+      "absent_positions": [
+        79
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Art. 1º Esta Lei dispõe sobre o tratamento de dados pessoais, inclusive nos meios digitais, por pessoa natural ou por pessoa jurídica de direito público ou privado, com o objetivo de proteger os direitos fundamentais de liberdade e de privacidade e o livre desenvolvimento da personalidade da pessoa natural.",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "f822e2ad3f1f6d72",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44031-internet-chega-a-74-9-milhoes-de-domicilios-do-pais-em-2024",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        65
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Internet era utilizada em 93,6% dos domicílios particulares permanentes (74,9 milhões) do país em 2024",
+      "key_excerpt_position": 65
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "pix_brasil_e07e5c482a6d_20261101T173208Z-12",
+      "position": 12,
+      "claim_excerpt": "Essas pesquisas são consistentes com um efeito de aprofundamento financeiro, mas não autorizam atribuir ao Pix, isoladamente, todo o crescimento observado em bancarização, crédito ou depósitos, porqu…",
+      "cited_markers": "[2] [3] [5]",
+      "corroborating_markers": "[1]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_e07e5c482a6d_20261101T173208Z-17",
+      "position": 17,
+      "claim_excerpt": "No centro está o SPI, infraestrutura única e centralizada para a liquidação de pagamentos instantâneos entre instituições distintas.",
+      "cited_markers": "[10]",
+      "corroborating_markers": "[2] [1] [5] [9] [3] [6] [4]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_e07e5c482a6d_20261101T173208Z-39",
+      "position": 39,
+      "claim_excerpt": "Esses números coincidem temporalmente com a expansão do Pix, mas, isoladamente, não constituem uma estimativa causal de seu efeito.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[5] [1] [4]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "pix_brasil_e07e5c482a6d_20261101T173208Z-63",
+      "position": 63,
+      "claim_excerpt": "O uso de chave aleatória é, nesse contexto, uma opção importante para quem prefere não divulgar CPF, telefone ou e-mail ao pagador, embora não torne a operação anônima perante as instituições respons…",
+      "cited_markers": "[9]",
+      "corroborating_markers": "",
+      "contradicting_markers": "[1] [4] [2] [11] [5]"
+    },
+    {
+      "answer_chunk_id": "pix_brasil_e07e5c482a6d_20261101T173208Z-66",
+      "position": 66,
+      "claim_excerpt": "Ainda assim, a posse de celular entre pessoas de 60 anos ou mais era de 78,1% em 2024, e a falta de habilidade era apontada como principal motivo por parcela expressiva dos idosos que não possuíam ap…",
+      "cited_markers": "[8]",
+      "corroborating_markers": "[1] [2] [7] [4]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 2494479,
+  "cost_tracked": false,
+  "processing_time_seconds": 2613.062713
+}

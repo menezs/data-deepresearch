@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z-9",
+  "passages": [
+    {
+      "reference_chunk_id": "170b2b46ef7cea0c-0",
+      "reference_id": "170b2b46ef7cea0c",
+      "score": 0.0024391228798776865,
+      "text": "Deutsch\nEnglish\nEspañol\nItaliano\nRegister courses and congresses\nEducational newsletter\nJob newsletter\nOur Partners\nGI marketing\nSitemap\nImprint/Contact\nNavigation\nHome\nEducation Database\nFind Jobs\nScientific articles\nNews\nAbout US\nBLOG\n0\nDisplay wish list\nThis News is not available anymore\nHere to our current news"
+    }
+  ],
+  "assembled_context": "[referencia=170b2b46ef7cea0c score=0.002]\nDeutsch\nEnglish\nEspañol\nItaliano\nRegister courses and congresses\nEducational newsletter\nJob newsletter\nOur Partners\nGI marketing\nSitemap\nImprint/Contact\nNavigation\nHome\nEducation Database\nFind Jobs\nScientific articles\nNews\nAbout US\nBLOG\n0\nDisplay wish list\nThis News is not available anymore\nHere to our current news",
+  "skip_reason": null
+}

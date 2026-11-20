@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "regulacao_ia_1916d2c857a4_20261102T195932Z-32",
+  "passages": [
+    {
+      "reference_chunk_id": "ea5aedd5ed68db2a-0",
+      "reference_id": "ea5aedd5ed68db2a",
+      "score": 0.9172577261924744,
+      "text": "# Marco da Inteligência Artificial é aprovado em Plenário e vai à Câmara\n\n11/12/2024, 08h46\n\n                             O Plenário do Senado aprovou na terça-feira (10) o projeto que regulamenta a inteligência artificial (IA) no país. O texto aprovado é um **substitutivo** do senador Eduardo Gomes (PL-TO) que tem como base o **PL 2.338/2023**, projeto de lei apresentado pelo senador Rodrigo Pacheco, presidente da Casa. O objetivo é oferecer uma regulação diferenciada, considerando o impacto do sistema na vida humana e direitos fundamentais. O projeto segue para a Câmara.\n\n                            \n                            \n                                **Regulamentação do uso da inteligência artificial vai à Câmara**\n                            \n                        \n\n                            \n                            \n                                **Senado aprova regulamentação da inteligência artificial; texto vai à Câmara**"
+    }
+  ],
+  "assembled_context": "[referencia=ea5aedd5ed68db2a score=0.917]\n# Marco da Inteligência Artificial é aprovado em Plenário e vai à Câmara\n\n11/12/2024, 08h46\n\n                             O Plenário do Senado aprovou na terça-feira (10) o projeto que regulamenta a inteligência artificial (IA) no país. O texto aprovado é um **substitutivo** do senador Eduardo Gomes (PL-TO) que tem como base o **PL 2.338/2023**, projeto de lei apresentado pelo senador Rodrigo Pacheco, presidente da Casa. O objetivo é oferecer uma regulação diferenciada, considerando o impacto do sistema na vida humana e direitos fundamentais. O projeto segue para a Câmara.\n\n                            \n                            \n                                **Regulamentação do uso da inteligência artificial vai à Câmara**\n                            \n                        \n\n                            \n                            \n                                **Senado aprova regulamentação da inteligência artificial; texto vai à Câmara**",
+  "skip_reason": null
+}

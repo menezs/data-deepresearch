@@ -1,0 +1,362 @@
+[referencia=7cae18c31cf69814 score=0.927]
+PNPE 16/84 
+
+9 
+
+principalmente a partir da contínua expansão da região oeste de Sao Paulo, nos anos de 1890. 
+
+- - . . 2 A area total da região cafeeira tinha 980 mil km , representan­ do cerca de 11,8Z da superfície total do país. Somente uma pe­ quena parte dessa região,, entretanto, era dedicada ã cultura cafeeira. Para demarcar seús limites, vamos adotar a caracterizaçac de Van Delden LaSrne, um holandês especializado em ques­ tões cafeeiras , que visitou o Brasil no período de setembro de 1 883 a abr"il de 1884, realizando uma extensa e excelente pes­ quisa sobre diversas aspectos de nossa cultura cafeeira2. 
+
+Segundo LaHrne, durante este período, a área geográfica culti­ vada com café — seguindo-se para essa agregaçao os limites de . - . - . . . 2 . municípios e províncias —totalizava 380 mil km e podia ser dividida.em duas zonas ou áreas de influencia, respectivamente, dos portos do Rio de Janeiro e Santos. Na área do Rio predominava o clima marítimo e a área de produ­ ção cafeeira situava-se numa altitude média de 200 a 550 m acima do nível- do mar, com. 155 2 mil km de - extensão, contendo toda a província do Ric de Janeiro e parte do Espírito Santo (70 mil km.),2 os municípios. - . do nordeste de - Sao Paulo (30 mil 2km•) e os municípios do leste de Minas Gerais (Zona da Mata), limitados a leste pelo Rio Paraíba e a oeste pela Serra da Mantiqueira (55 mil km ). A area do Rio incluía, portanto, todos os municí­ pios pertencentes geograficamente ao Vale do Rio Paraíba.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.926]
+Utilizando os dados apresentados na tabela 3, a tabela 4, mos­ tra as taxas de crescimento da populaçao escrava entre 1872/73 e 1881 e entre 1881 e 1886. Observamos que a populaçao escra­ va de municípios não-pro dutores de café decresceu durante todo o período; mas a populaçao escrava da Zona Oeste do Vale do Médio Paraíba cresceu ate 1878, declinando posteriormente; en­ quanto isso, a populaçao escrava da Zona Leste do Vale do Pa­ raíba cresceu até meados de 1881, também decrescendo posterior­ mente. Em termos relativos, a participaçao da populaçao escra­ va dos maiores municípios produtores de café na populaçao es­ crava total da Província cresceu continuamente, de 49,4^ em 18 72/73 para 62., 5 em 1886. ’ VER TABELA 4 Ate o momento, observamos que a populaçao escrava, em termos relativos, concentrou-se tanto na região do café quanto, in­ ternamente, nos municípios produtores de café, durante todo o período compreendido entre 1871 e 1888. ' 
+
+Em termos absolutos, entretanto, notamos que o número de escra­ vos em municipios produtores de café - que é uma unidade menos agregada, e portanto, mais representativa da escravidão em fa­ zendas de cafe - elevava—sé até os anos de 1881-83, apresentan­ do, posteriormente, um declínio. 
+
+Para uma descrição dos Municípios produtores de cafe das províncias do Rio de Janeiro, veja Alberto L. LAMEGO, 0 homem e a serra, Rio de Janeiro, Divisão Cultural do IBGE, 1963. 
+
+PNPE 16/84 
+
+67 
+
+Tabela 4 - Taxas de crescimento da popu1açao escrava nos municípios produtores de café de Sao Paulo e Rio de J an e i r o CTaxas Percentuais)
+
+---
+
+[referencia=7cae18c31cf69814 score=0.897]
+2 LAERNE, C.F. Van Delden.. Brazil and Java; report on coffee culture in America, Asia and África. London, W.M. Alden,- 1885. Oficial do Ministério do Interior em Batãvia(Java), foi encarregado pelo governo holandês com uma missão especial no Brasil: a de colher informações uteis para o desenvolvi­ mento do cultivo e comércio do café nas províncias holandesas na Ãsia. 
+
+10 
+
+PNPE 16/84 
+
+Na área de Santos predominava o clima continental, pois situa­ va—se mais distante do litoral e numa altitude media maior, de . 2 600 a 1.000m acima do nível do mar. Com 225 mil km de exten­ são, abrangia as regiões Centro, Noroeste e Oeste de Sao Paulo (200 mil km ) e os municípios do Sudeste de Minas Gerais (25 2 mil km ) 3 . 
+
+Mas, se a área geográfica de cultivo do cafe totalizava 380 mil 2 - - km , a área efetivamente plantada com cafe era, evidentemente, apenas uma fração disso. Laérne estimou-a como apresentando 832 mil ha, o que é equivalente a 2<2% desse total. Dessa área efe­ tivamente plantada com café, em 1884, a área do Rio possuía 700 mil ha (80,5%) e a de Santos 132 mil ha (19,5%). A extensão de terras plantadas com café estava crescendo no período de 1871-1888. Calculou-se que em 1874 cerca de 607.300 ha eram utilizados para o cultivo de café1? Pode-se portanto es­ timar, fazendo-se uso da informação de Laérne para 1884, de 832 mil ha, que nessa década o aumento da área plantada com ca­ fe foi de cerca de 37%. '
+
+---
+
+[referencia=7cae18c31cf69814 score=0.831]
+# 1.2 0 capital café 
+
+‘Como a quantidade de pés de café guardava uma relaçao bastante aproximada com a areã plantada - o espaço medio entre as árvo­ res era de aproximadamente 12 por 14 palmos na área do Rio, dando um pouco mais de 1.200 árvores/ha, e de 14 por 14 na área de Santos, ou pouco mais de mil árvores/ha - seu número também crescia no período5. Calculou—se que em 1874 o numero de pes de 
+
+3 LAERNE. Brazil and Java, p. 261-3. 
+
+** C.G. Warnford LOCK. Coffee: its culture and commerce in all countries. London, E.F.N. Spon, 1888, p. 172. 5 LAERNE. Brazil and Java, p. 367. 
+
+PNPE 16/84 
+
+11 
+
+café existenteíno Brasil era de cerca de 530 milhões6. Em 1884 LaSrne fez a seguinte estimativa, demonstrando que o total de pes de cafe nesse ano foi de 922 milhões, o que indica um au­ mento de 87^ em pouco mais de uma década: 
+
+Tabela 1 - Número de pés de café na região cafeeira, 1884 
+
+(Em milhares) 
+
+|Ãrea|Produzindo<br>frutos|S em atingir a<br>idade de ■<br>produzir frutos|Total|
+|---|---|---|---|
+|Ri o|756.757|93.509|850.265|
+|Santos|100.845|40.434|141.279|
+|Total|857.602|133.943|991.545|
+|Fonte:|LaBrne, C.F. Van <br>|Delden. Brazil and Jav<br>|a: report<br>on<br>|
+||coffee culture|in Am e r i c an, A s í a and Á|frica London,|
+||W.H. Alden, 188|5. p. 367.|'|
+
+---
+
+[referencia=7cae18c31cf69814 score=0.824]
+A evolução da populaçao escrava nos maiores municípios produto­ res de café de Sao Paulo, a-o agruparmos os municípios de acordo com a Ãrea do Rio (Vale do Paraíba no Norte do Estado) e. a Area de Santos (Centro e Oeste), apresenta um crescimento diferencial durante este período. 
+
+Apesar do pretenso caráter capitalista e moderno dos fazendei - ros do Oeste Paulista e da pretensa implicação desta atitude na demanda de escravos, a populaçao escrava na região Oeste (bíogiana e Paulista) crescia num rít.imo maior durante o período de tendência ascendente e diminuía num rítmo menor no período de tendencia descendente, conforme se pode observar na Tabela 4a em comparaçao com as outras regiões da Província: 
+
+3 LA1ÍRNE, Brazil and Java, p. 118-9. 
+
+PNPE 16/84 
+
+63 
+
+Tabela 2 - População escrava dos principais municípios produtores de café das regiões do Vale do Paraíba, Centro e Oeste (Mogia na e Paulista-) da província de São Paulo, anos selecionadas
+
+---
+
+[referencia=7cae18c31cf69814 score=0.811]
+Utilizando as estimativas de LAÊRNE do produto medio de escra­ vos e pressupondo nao ocorrer nenhuma mudança no produto medio durante as duas- décadas, estas exportações requeriram, em 1 89 2 , a seguinte força de trabalho nas fazendas de cafe: na Ãrea do Rio, 167.409 escravos e na Ãrea de Santos, 127.823, perfazendo um total de 295.232 escravos. 0 volume de exportações em 1902 exigiria uma força de trabalho de 230.408 escravos nas fazendas de café na Ãrea do Rio e de 319.958 nas fazendas de cafêna Ãrea .de Santos, totalizando 550.366 escravos. 
+
+Comparando-se estas estimativas com as projeçoes da populaçao escrava no Brasil em 1892 e 1902 Ctabela 10)pode-se chegar âs seguintes conclusões: com a populaçao projetada de escravos de 21 a 60 anos, para o Brasil em 1892, totalizando 835.467 escra­ vos, seria bastante provável, com' um volume de migrações inter­ nas relativamente pequeno, concentrar 35^ deste total em fazen­ das de café e produzir tal colheita. Como Laérne comentou em 18 84 : 
+
+"So long as the Emancipation Act of 1871 continues in force, there is nnt reason to expect... for the first 6 or 7 years at least - any important diminution of the Brazilian coffee crop. As to how long the slave system will continue to furnish sufficient hands for coffee 
+
+112 WILEMAN, J. P. Brazilian Year Book. Rio de Janeiro, The Ofrices of Brazilian Year Book, 1908-1909, p.' 19. 
+
+PNPE 16/84 
+
+92 
+
+planting - tbat is _a_ question, wh.ich it is difficult at present to answer with. any degree of cer tain ty 11 3 " .
+
+---
+
+[referencia=7cae18c31cf69814 score=0.738]
+12 - Para uma analise quantitativa, principalmente dos aspectos demográficos e econômicos, veja a dissertação de Slenes Robert W., The demography and economics of Brazilian slavery: 1850­ 1888 (Ph.D. Dissertation. Stanford University, 1975). 
+
+PNPE 16/84 
+
+7 
+
+prio método científico de conhecimento. Dada a permanência do caráter polêmico dos diversos temas do debate sobre a escravi­ dão, acreditamos, no entanto, que a discussão e a pesquisa empí rica na ãrea têm ajudado a esclarecer muitos desses tópicos, mas ao mesmo tempo têm ampliado e conduzido o debate para ou­ tros temas. Foi com esse objetivo que realizamos o trabalho . em pauta. . 
+
+A maior parte da pesquisa em fontes primárias concen­ trou-se na província do Rio de Janeiro. Uma vez que esta provín cia foi a região de produção de café mais importante no País du rante este período, não haverá nenhuma perda essencial quanto ã interpretação analítica dos problemas levantados. Além disso, essa província tem recebido relativamente uma menor atenção por parte dos estudos realizados do que a província de São Paulo. Portanto, nossa pesquisa empírica pode contribuir para um aumen to do conhecimento sobre esta região. 
+
+8 
+
+PNPE 16/84 
+
+{.CAPÍTULO í 
+
+A ECONOMIA DO CAFÉ
+
+---
+
+[referencia=7cae18c31cf69814 score=0.716]
+67 
+
+Tabela 4 - Taxas de crescimento da popu1açao escrava nos municípios produtores de café de Sao Paulo e Rio de J an e i r o CTaxas Percentuais) 
+
+|Ca)' Província de Sao Paulo|1836/74|1836/83|1874/83|1883/86|
+|---|---|---|---|---|
+|Ãrea do Rio: Norte CVale|||||
+|do Paraíba)|+2,02|+ 1,32|-1,74|-16,A 3|
+|Ãrea de Santos: Centro|+2,29|+1,88|+0,21|-16,17|
+|Oes te|+8,06|+ 7,05|+3,26|-10,93|
+|• •<br>Cb) Província do Rio de|•||||
+|Jane iro|1872|,1873/18|81|1881/1386|
+|Municípios produtores|||||
+|de cafe do Vale do|||||
+|Medio Paraíba :||+ 0,76||-11,12|
+|Zona Leste||+ 3,78||- 9,87|
+|Zona Oeste||-1,04||-12,06|
+|||•||*|
+|Outros municípios||-3,01|■|-16,51|
+|Total da Província||-1,03||-13,24|
+
+
+
+Fonte: Tabelas 2 e 3,"Anexo 2. 
+
+PNPE 16/84 
+
+68 
+
+Este fato pode ser observado indiretamente, por meio da evolução das exportações de café durante o período de 1882-95, em que hou­ ve uma estagnaçao relativa, em contraposição a uma tendencia as­ cendente para todo o século6 conforme jã observamos anteriormen­ te .
+
+---
+
+[referencia=7cae18c31cf69814 score=0.686]
+Influindo tanto na demanda quanto na oferta, de escravos - como sugerem respectivamente a evolução dos preços e o estabelecimen­ to de tarifas de importação- das províncias produtoras de café - a pressão abolicionista conseguiu reduzir e, pos teriormente, paralizar e inverter o crescimento da populaçao escrava, nos mu­ nicípios produtores de café. _ 
+
+Embora nao tenh.amos dados sobre a evolução do número agregado de escravos diretamente empregados em fazendas de café, os da­ dos sobre a populaçao escrava em municípios produtores de cafe indicam que tal evolução era estável ou decrescente na década de 80. - 
+
+A produção de cafe, com um estoque decrescente de escravos, con­ seguiu entretanto continuar a crescer nesse per-íodo, embora ele se caracterizasse por uma relativa estagnação, como vimos ante­ riormente. Isto foi possível devido: (1) a entrada em produção das arvores plantadas no período anterior; (.2) um aumento da produtividade causado por avanços tecnológicos nas atividades de processamento do cafe nas fazendas; (3) mudanças regionais para solos novos e melhores para a produçoes, principalmente na ãrea de Santos; C4) aumente na especialização do cultivo de ca­ fé, causado por um declínio da auto-suficiência das fazendas de café e por melhorias do transporte, que liberou parte da mao-deobra aí utilizada para o trabalho no campo; (.5) no que concerne ao cultivo do café propriamente dito, um relativo abandono do plantio de novos pés (.que Laérne atribui ã expectativa da abo- 
+
+82 
+
+PNPE 16/84
+
+---
+
+[referencia=7cae18c31cf69814 score=0.661]
+## 1.1 Ãrea de produção 
+
+A quase totalidade da produção comercial de café na segunda metade do século XIX, de modo geral, concentrava-se nas províncias loca­ lizadas no sudeste do Brasil, muito embora o seu cultivo fosse possível, por razoes de clima e de solo, em outras partes do país. Denominemos, portanto, de região cafeeira o conjunto for­ mado pelas províncias produtoras de cafe do Rio de Janeiro, Sao Paulo, Minas Gerais e Espírito Santo1. Podemos incluir ainda, o Município Neutro, onde situava-se a cidade e o porto do Rio de Janeiro. De um ponto de vista geográfico e economico, este Município representava a metrópole regional, funcionando como pólo financeiro e comercial dessa região. Entretanto esta fun­ ção, estava gradualmente se dividindo e deslocando para o polo formado pela cidade de Sao Paulo, o porto e a cidade de Santos, 
+
+1 0 trabalho mais completo sobre os diversos aspectos do cultivo de café du­ rante este período é o de Affonso d'Escragnolle TAUNAY, História do Café no Brasil. Rio de Janeiro,’ Departamento Nacional do Café, 1939-1943. 15 vols. Veja também Roberto C. SIMONSEN, Aspectos da historia economica do café, em Anais do Terceiro Congresso de História Nacional, ed. Instituto Histórico e Geográfico Brasileiro, Rio de Janeiro, Imprensa Nacional, 1941, IV, p. 211­ 304; Departamento Nacional de Cafe, ed. 0 cafe no segundo centenário de sua introdução no Brasil. Rio de Janeiro, Departamento Nacional do Café, 1934, 2 vols., Heitor Ferreira LIMA, Evolução da produção cafeeira no Brasil. Bo— letim Geográfico do Conselho Nacional de Geografia, 12 (123): 384-408, nov. / dez. 1954. 
+
+PNPE 16/84 
+
+9 
+
+principalmente a partir da contínua expansão da região oeste de Sao Paulo, nos anos de 1890.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.638]
+A tabela 3 ' deste anexo, classifica os municípios produtores de ca fã da Província do Rio de Janeiro em dois grupos. A Zona Oes­ te do Vale do Medio Paraíba representa a região onde existiram as primeiras fazendas de café nas décadas de 20 e 30, e duran­ te as décadas de 70 e 80 podia ser chamada de "velha" região produtora de café da província5. 
+
+- ** A populaçao escrava de Sao Paulo montava a 107.329 em 1886. Veja CAMARGO, Crescimento da populaçao no Estado de Sao Paulo e seus aspectos econõmicos, vol. 1,‘ p. 56. . 
+
+- 5 Veja CAMARGO, Crescimento da populaçao no Estado de Sao Paulo e seus as­ pectos econômicos, 3 vols; Sérgio MILLIET, Roteiro do café. In: Roteiro do café e outros ensaios, Sao Paulo, Coleção Departamento de Cultura, 1939, p. 7-70. . 
+
+- G Stanley STEIN escreveu uma excelente monografia sobre um dos municípios desta ãrea, Vassouras: Veja STEIN, Vassouras. 
+
+66 
+
+PNPE 16/84 
+
+_A_ Região Leste do Vale do Medio Paraíba apresentou seu melhor desempenho durante as décadas de 6Q a 80. Expandia-se ao Norte em direção a Província do Espírito Santo, e a Oeste em direção a Minas Gerais7.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.622]
+A "velha" região do café — zona Oeste do Vale do Médio Paraíba -, com exceção da proporção de escravos do sexo masculino, apresen­ tava índices de escravos da roça e escravos com idade entre 21 e 60 anos menores que os da "nova" região, porém mais elevados que os do agregado dos outros municípios da Província, 
+
+Reunindo-se todas as evidências apresentadas sobre o comporta - mento da população escrava, observamos que, na década de 70, o processo de concentração - e concentração seletiva - estava o~ correndo na região do cafe. 
+
+2 .4 0 declínio da mao-de-obra escrava 
+
+Na década de 80, entretanto, embora continuasse a concentração seletiva em termos relativos, o numero de escravos, em termos absolutos, começou a declinar. Este fato nao foi causado por nenhuma inadequaçao do estoque de escravos do pais durante o pe­ ríodo. Q número de escravos ein fazendas de café em 1884 consis­ tia em apenas 1/5 do número total de escravos no país21. 
+
+> 21LA1!RNE, op. cit., p. 368. 
+
+PNPE 16/84 
+
+81 
+
+Uma vez que o número de es.crayos em fazendas de cafe dependia do estoque total, de escravos do país e de uma função de excesso de demanda de escravos nas fazendas de cafe, torna-se evidente que as considerações sobre demanda desempenham um papel impor­ tante. Portanto, a pressão abso 1icionista foi fundamental na determinação da evolução da populaçao escrava nas fazendas de cafe .
+
+---
+
+[referencia=7cae18c31cf69814 score=0.554]
+# 2.2 As leis e os impos tos 
+
+Uma possibilidade para explicar o declínio da populaçao escrava em municípios produtores de. cafe na década de 80 encontra-se nas leis provinciais de 1881 e 1882, que praticamente impossibilita­ vam o tráfico de escravos entre as Províncias do Norte e do Sul. Em 1881 e 1882, as províncias produtoras de cafe estabeleceram uma tarifa de importação - fixada em l:500$000 CRio de Janeiro), 2:0Q0$00Q (Sao Paulo) e 2:00Q$000 (Ninas Gerais) - sobre a impor­ tação de escravos oriundos de outras províncias. 
+
+Este montante era equivalente, ou mesmo superior na época, ao preço de um escravo adulto da roça. Alem disto, o comércio de es­ cravos dentro das províncias estava restrito devido a novas ta­ xas sobre a compra, venda e transporte de escravos. . 
+
+Ironicamente, o sucesso da concentração de escravos na região do cafe - que tornou-se mais evidente na década de 70 (apos a Lei do Ventre Livre) - levou os fazendeiros de cafe a temerem que a 
+
+6 As exportações de café sao um bom substituto para a produção de café. Consi­ derando as exportações entre 1882 e 1695, a taxa de crescimento foi peouena, o 0,68% ao ano (log E = 8,57672 | 0,0680 tjr*" = 0,025), quando comparada a outros subperíodos (Veja capítulo 1), Ja que existe um intervalo de quatro ou cinco anos entre o plantio de café e a colheita de seus frutos, a estagnaçao relativa entre 1882 e 1895 pode ter sido originada de uma estagnaçao relativa no plantio de novos pes de cafe nos anos anteriores. 
+
+PNPE 16/84 
+
+69
+
+---
+
+[referencia=7cae18c31cf69814 score=0.526]
+É interessante examinar essa tabela em duas décadas do período. De 1870 a 1880, antes das tarifas de importação sobre transfe - réncias interprovinciais de escravos e antes da pressão abolicio nista, os resultados confirmam a evidência apresentada na tabe­ la 3: tendencia de concentração de escravos na parte Leste do Vale do Paraíba. 
+
+10 A tarifa de importação provincial nao estã incluída aqui, ja que, de a- cordo com os documentos oficiais, nao existe um único caso de pagamento da taxa. Portanto, oficialmente, houve um término completo do comercio interprovincial de escravos, embora os Relatórios reclamassem muitas ve­ zes que escravos do Município Neutro estavam sendo transferidos em gran­ de quantidade, para a Província do Rio de Janeiro, através da artimanha de os fazendeiros terem um domicílio legal na cidade do Rio de Janeiro , lã comprando escravos, e transferindo-os para a Província. Veja Relató­ rios da Directoria de Fazenda da Província do Rio de Janeiro, publica­ ções anuais, 1871 a 1889. 
+
+72 
+
+PNPE 16/84 
+
+
+
+73 
+
+**PNPE 16/84** 
+
+De 187Q a 1880, o numero de escravos transacionados no Leste do Vale do Paraíba aumentou a uma taxa de crescimento de 5,9% ao 11 - - ano , no Oeste do Vale do Paraíba de 2,4% ao ano1*, no agrega­ do de municípios produtores de cafe de 3,9% ao ano13, em outros municípios de 2,7% ao anolu e na província, como um todo, de 3,5% ao ano 15. 
+
+Apos 1880, o número de transações apresentou um declínio subs­ tancial, nao desaparecendo, no entanto. Mesmo eiu 1888, houve 466 escravos transacionados na província do Rio de Janeiro.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.518]
+PNPE 16/84 
+
+61 
+
+Assim, estes quatro Censos constituem a melhor fonte de inform-aço es sobre a populaçao escrava, no Brasil do século XIX. 
+
+Podemos observar na tabela 1, deste anexo, que o número de escravos do Brasil elevou-se de 1823 a 1872, a uma taxa média geométrica de crescimento de 0,54% ao ano, declinando, porém, de 1872/73 a 1886/87 a uma taxa de C-5,44%) ao ano. 
+
+A população da região produtora de cafe apresenta a mesma evo­ lução da população total de escravos do Brasil, mas, com uma importante diferença: apresenta uma taxa de crescimento mais alta Cl»44%) ao ano, durante a tendência ascendente. 
+
+Se considerarmos o agregado de outras regiões., entretanto,.sur­ gira um quadro diferente. A população escrava diminui era am­ bos os períodos. De 1823 a 1872 decresce a uma taxa negativa de C~0s29%) ao ano, e de 1872 /73 a 1886 /87 ã taxa de C“7,28%) ao ano . 
+
+Portanto, a população escrava, em termos relativos, concentra­ va-se na região produtora de café, passando de 38,4% do total da população escrava brasileira, em 1823, para 59,0%, em 1872. Em 1886/87, ãs vesperas da aboliçao final, concentrava 66,7% do número total de escravos do Brasil. 
+
+Embora os dados agregados possam indicar os efeitos das migra­ ções do restante do Brasil para à região produtora de cafe, nao apontam as importantes migrações internas na região produtora de cafe .
+
+---
+
+[referencia=7cae18c31cf69814 score=0.516]
+|b A interpolação linear para <br>esta incluída no total.|Mogi-Guaçu|(880) , entre 1854|e 18 S 3 ,|
+|Fontes: Para os anos de 1836, 1854, <br>escrava foram obtidos em Ca<br>população no Estado de São <br>Paulo , USP. 1952. ví Ti par<br>and Java: report on cofee c<br>London, W. H. Alden, 1885. p|1874 e 188<br>margo, José<br>Paulo e seu<br>a 1885. La<br>ulture in <br>. 118-9. 1|6 os dados sobre a <br> Francisco. Cresci<br>s aspectos economi<br>drne , C.F'. Van Deld<br>America, Asia and A<br>'|populaçãc<br>mento da<br>cos. 5Tõ<br>en. Brazil<br>fricã.|
+
+
+
+64 
+
+PNPE 16/84 
+
+CO 
+
+
+
+
+
+PNPE 16/84 
+
+65 
+
+Em cons eq llénc i a , a participaçao de escravos da região Oeste, na populaçao escrava agregada de municípios produtores de cafe em Sao Paulo, aumentou de 4,QZ em 1836 a 27,3 em 1874 e 36,7 em 1886. Em relaçao ao numero total de escravos da Província de Sao Paulo, a participaçao do Oeste de Sao Paulo elevou—se de 14,1Z em 1874 para 21,5' em 18861*. 
+
+Portanto, o deslocamento da populaçao escrava nesta província coincide com os deslocamentos regionais da produção de cafe durante este período e com a demanda derivada de mao-de-obra escrava5.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.477]
+PNPE 16/84 
+
+3 
+
+do efetivamenté terminou p tráfico negreiro), detendo um total estimado de 3.647 milhões de.africanos, o que representou cerca de 38% do total de escravos importados para as Américas._ . 7 
+
+A totalidade do processo abolicionista foi realizada durante a fase ascendente do ciclo do café na economia brasilei. ra. Na segunda metade do século XIX, o cultivo do café já se tornara a atividade econômica mais importante do país,com a par ticipação brasileira na produção mundial de café aumentando de 18% na década de 1820 para 56% na década de 1880. As exporta­ ções de café aumentaram de 2.485 milhões de sacas de 60 kg. em 1850 para 4.515 milhões de sacas em 1888, com uma taxa anual de crescimento de 2,09%. 
+
+A demanda do café crescia com estabilidade, sobretudo nos Estados Unidos, com os preços (valor médio por saca de 60 kg. em libras esterlinas ouro) também crescendo no período, a uma taxa anual de 1,10%; do mesmo modo, as áreas de cultivo do café no País expandiam-se continuamente. Entretanto, a produ­ ção de café no Brasil continuou a aumentar - contrastando nova­ mente com quase todas as experiências abolicionistas em outros * 8 países-, e, salvo uma pequena desorganização em 1888,cresceu em termos globais, mesmo nos anos após a abolição final, a uma ta­ xa maior do que a do período escravocrata. 
+
+Como último item de grande importância para nossa dis cussão, temos as fazendas de café que, durante o período do ca^Cur.tin, Philip D. The Atlantic slave trade~ a census. Madison, University of Winsconsin Press, 1963^ p^ 39~ 
+
+g Veja, como exemplo, RIVIERE W. Emanuel. ■Labour shortage in the British West Indies after emancipation, Journal of Caribbean History, _4:_ 1-30 , May 19 72. ' ..............
+
+---
+
+[referencia=7cae18c31cf69814 score=0.452]
+2 Veja Herbert KLEIN, The internai slave trade in Nineteenth Century Brazil: a study of slave importations into Rio de Janeiro in 1852. Hispanic Ameri­ can Historical Review, _2_ (.4): 567-85. Douglas H. GRAHAM e Sérgio Buarque de HOLANDA FILHO, Migration, Regional and Urban growth and development in Brazil: a.selective analysis of the historical record 1872-1970, vol; 1 ' Sao Paulo, Instituto de Pesquisas Econômicas da Universidade de Sao Paulo, 1974; LAÊRNE, Brazil and Java, p. 118-9. 
+
+62 
+
+PNPE 16/84 
+
+Um bom indicador, entretanto, pode ser obtido pela análise dos dados ao nível dos municípios. As tabelas 2 e 3 seguintes, a- presentam a evolução da populaçao escrava nas províncias do Rio de Janeiro e Sao Paulo, agrupando-as de acordo com os mu­ nicípios produtores de café. 
+
+VER TABELAS 2 e 3 
+
+A tabela 2 inclui 21 dos 30 municípios produtores de cafe mais importantes em Sao Paulo, no início da década de 803 . Pode-se no­ tar que a populaçao escrava dos municípios produtores de cafe cresceu rapidamente em termos agregados, entre 1836 e 1854, a uma taxa média geométrica de 4,3% ao ano, e continuou a cres­ cer, a uma taxa menor, porem positiva, no período de 1854-74 (.1,8% ao ano) e no período de 1874—83 (0 , 4% ao ano) . No perío­ do total de 1836 a 1883, a populaçao escrava, em termos agre­ gados, aumentou a 2,4% ao ano. De 1883 a 1886, contudo, esta populaçao diminuiu rapidamente, a uma taxa de (-14,4%) ao ano.
+
+---
+
+[referencia=7cae18c31cf69814 score=0.440]
+**PNPE 16/84** 
+
+**171** 
+
+Para a região de cultivo do café, no século XIX, não diferia muito o tipo de estimativa. STEIN, escrevendo so­ bre a província produtora de café do Rio de Janeiro, em mea­ dos do século XIX, comentou que: _tJiabaZhauam_ em dema^Za e _não_ 4e eópeA.ava que _duJtaAA_ em _Znde^ZnZdamente_ e que _pJtovaA deAteA ^atoA e^am vZaZvzZa_ em quuZque.t _AZtuação. Nc ã- pZce da. pJtoApe.JtZda.de. de VaAAOuJtaA um ^azendeZJto eaptou toda a. AZtuação quando eAeJteoeu,_ em 7 5 52, _que eAtã amptamente demon^ tJtado que a vZda ãtZZ mêdZa de um eAcJtaoo empJtegado no euZtZvo de ea^é ê de 15 anoA."21*._ 
+
+FERNANDES citou uma estimativa mais baixa para este período, segundo a qual um escravo podia oferecer, em média, a penas 10 anos de trabalho25. 
+
+SIMONSEN apresentou uma estimativa ainda mais bai­ xa - vida útil média de sete anos pára escravos em fazendasde café, entre 1800 e 185026. 
+
+Talvez uma estimativa melhor tenha sido feita por um correspondente - jornalista do Ceilão, em 1882, obviamente interessado, como representante de um país (colônia britâni­ ca) competidor do Brasil no mercado mundial do café27 - numa avaliação precisa de todas as questões relativas ã produçãode café e a força de trabalho empregada nesse cultivo. De acordo com suas observações:
+
+---
+
+[referencia=7cae18c31cf69814 score=0.437]
+0 Jornal do Commercio da cidade do Rio de Janeiro publicava di­ ariamente anúncios de compra e venda de escravos. Cobria prin­ cipalmente o mercado de escravos do Município Neutro, incluin­ do a cidade do Rio de Janeiro - porto, centro comercial e de serviços para a ãrea do Rio - e sua área agrícola de influên­ cia, que se estendia das chácaras situadas nas cercanias da ci­ dade até as fazendas de café do Vale do Paraíba. Grande parte desses anúncios apresentava o preço pretendido na transaçao o­ ferecida, assim como o sexo, a profissão, a qualificaçao e a idade explicita ou implícita em outras indicações. Obtivemos u[r:a serie de preços para todos os anos, de 1850 a 1888. Para a maior parte, entre 1855 e 1879, utilizamos o critério ■ amos­ trai de escolher os números diários da primeira semana de cada mes. Para os anos de 1880, consultamos todos os números de cada mes, pois nessa época os anúncios de compra e venda estavam di­ minuindo progressivamente, c que não acontecia com os de alu­ guel. 
+
+Os inventários dos fazendeiros de café sao uma fonte muito rica de informaçoes'para diversos aspectos da economia cafeeira, ín- 
+
+PNPE 16/84 
+
+95 
+
+clusive para os preços de escravos de fazendas de café. Na pes­ quisa que fizemos no Arquivo Nacional do Rio de Janeiro, obti­ vemos, para diversos anos e p.ara diversos municípios da Provín­ cia dq Rio de Janeiro, dados sobre a avaliaçao individual de escravos, em 34 fazendas produtoras de café, com a seguinte distribuição:

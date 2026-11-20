@@ -1,0 +1,1332 @@
+[
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-0",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 0,
+    "text": "The European Union’s Artificial Intelligence Act, enacted as Regulation (EU) 2024/1689 and substantially amended by Regulation (EU) 2026/1744—the Digital Omnibus on AI—is binding Union law advancing through staggered enforcement milestones toward full application in August 2028.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "afac34cee75e4364",
+      "f5755b84f11ea8ed",
+      "d6f3d9329f4cb9f7",
+      "3fbe2fb0c64fd741"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-1",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 1,
+    "text": "Conversely, Brazil’s proposed AI Legal Framework, Bill No. 2338/2023 (PL 2338/2023), passed the Federal Senate in December 2024 but remains stalled in a Special Committee of the Chamber of Deputies as of October 2026, leaving domestic oversight anchored in data protection, consumer, and judicial rules while enactment slips toward 2027 or beyond.",
+    "cited_markers": [
+      "[5]",
+      "[6]",
+      "[7]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "2ddcc05b33f7db1a",
+      "216c4e922227150d",
+      "5482b6e239921f67",
+      "d41ee4caa2d475f3"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-2",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 2,
+    "text": "Although both frameworks adopt risk tiers, prohibit egregious uses, require impact scrutiny, and authorize regulatory sandboxes, Brussels regulates AI primarily as an internal-market product-safety regime, whereas Brasília embeds market supervision inside an explicit statutory catalog of fundamental rights.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[9]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "5482b6e239921f67",
+      "d41ee4caa2d475f3",
+      "c1b7863f54f6fc80",
+      "3f7ad752abcfd7cb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-3",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 3,
+    "text": "In Europe, the July 2026 Digital Omnibus postponed core high-risk obligations by 12 to 16 months after standardization bodies missed technical deadlines and national enforcement rollouts lagged, yet it simultaneously introduced two new prohibited practices effective December 2, 2026, and fortified the European Commission’s AI Office with competition-style enforcement powers.",
+    "cited_markers": [
+      "[3]",
+      "[4]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "3fbe2fb0c64fd741",
+      "19d10dfd8de2b7ef"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-4",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 4,
+    "text": "Meanwhile, the Commission’s 2025 withdrawal of its proposed AI Liability Directive shifted private injury claims onto the revised strict-liability Product Liability Directive (EU) 2024/2853 starting December 9, 2026, leaving non-material harms such as algorithmic discrimination and pure economic loss to fragmented national tort regimes.",
+    "cited_markers": [
+      "[12]",
+      "[13]",
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "fadf8075ef713458",
+      "350068680163a251",
+      "14db0d72086aa539"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-5",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 5,
+    "text": "In Brazil, PL 2338/2023 faces intense congressional conflict over mandatory copyright remuneration for training data, weakened labor provisions, civil liability ambiguity, and the institutional capacity of a multi-agency system coordinated by the National Data Protection Authority (ANPD), with legal analysts at Barbieri Advogados warning that operational enforcement could lag until 2030 or later.",
+    "cited_markers": [
+      "[7]",
+      "[15]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "5482b6e239921f67",
+      "f262e34165fe5b99",
+      "e78e724fea229bf8"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-6",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 6,
+    "text": "Enacted under Articles 16 and 114 of the Treaty on the Functioning of the European Union from a 2021 Commission proposal, Regulation (EU) 2024/1689 was signed on June 13, 2024, published in the Official Journal on July 12, 2024, and entered into force on August 1, 2024.",
+    "cited_markers": [
+      "[2]",
+      "[4]",
+      "[17]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "f5755b84f11ea8ed",
+      "3fbe2fb0c64fd741",
+      "456db82591b23966",
+      "64b4c84a1acfe340"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-7",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 7,
+    "text": "Under Article 113’s phased schedule, the AI-system definition, Article 4 AI literacy duties, and the original eight Article 5 prohibitions entered application on February 2, 2025.",
+    "cited_markers": [
+      "[4]",
+      "[11]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "3fbe2fb0c64fd741",
+      "19d10dfd8de2b7ef",
+      "64b4c84a1acfe340"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-8",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 8,
+    "text": "On August 2, 2025, Chapter V general-purpose AI (GPAI) model obligations, Chapter VII governance provisions establishing the AI Office and national authorities, Chapter III Section 4 rules for notifying authorities and notified bodies, Article 78 confidentiality rules, and Chapter XII penalties excluding Article 101 GPAI fines took effect.",
+    "cited_markers": [
+      "[2]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "f5755b84f11ea8ed",
+      "3fbe2fb0c64fd741"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-9",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 9,
+    "text": "Subsequent implementation collided with acute technical and institutional bottlenecks.",
+    "cited_markers": [
+      "[3]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "3fbe2fb0c64fd741"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-10",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 10,
+    "text": "Mandated in May 2023 through Joint Technical Committee 21, the European Committee for Standardisation (CEN) and the European Committee for Electrotechnical Standardisation (CENELEC) missed an April 2025 deadline and an extended August 2025 deadline for harmonized high-risk standards.",
+    "cited_markers": [
+      "[4]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "3fbe2fb0c64fd741",
+      "34305df930191b74"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-11",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 11,
+    "text": "By October 2026, only one harmonized standard—Commission Implementing Decision (EU) 2026/2274 covering Article 17 quality management systems—had appeared in the Official Journal, leaving standards for risk management, data governance, and record-keeping unfinished.",
+    "cited_markers": [
+      "[4]",
+      "[19]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "3fbe2fb0c64fd741",
+      "34305df930191b74",
+      "39bd6a98649524af"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-12",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 12,
+    "text": "National supervision lagged concurrently: by October 2026, Germany had designated the Bundesnetzagentur by statute, while France’s designation remained confined to a pending bill.",
+    "cited_markers": [
+      "[3]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "39bd6a98649524af"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-13",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 13,
+    "text": "To prevent disproportionate compliance costs amid incomplete standards and governance gaps, Parliament and Council adopted Regulation (EU) 2026/1744—the Digital Omnibus on AI—signed on July 8, 2026, published on July 24, 2026, and entering into force on July 27, 2026.",
+    "cited_markers": [
+      "[3]",
+      "[4]",
+      "[21]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "3fbe2fb0c64fd741",
+      "542bf11ae732483e",
+      "bb739b40591c80bb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-14",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 14,
+    "text": "Leaving the August 2, 2026, general application date intact for Article 50 transparency duties, national Article 4 enforcement, and fines for GPAI models placed on the market after August 2, 2025, the Omnibus postponed stand-alone Article 6(2) and Annex III high-risk duties by 16 months, from August 2, 2026, to December 2, 2027.",
+    "cited_markers": [
+      "[3]",
+      "[11]",
+      "[20]",
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "19d10dfd8de2b7ef",
+      "39bd6a98649524af",
+      "6be52f7ecfc7f3dd"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-15",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 15,
+    "text": "It likewise deferred Article 6(1) and Annex I obligations for high-risk AI embedded as safety components in regulated products by 12 months, from August 2, 2027, to August 2, 2028, preserving an eight-month lag behind Annex III so sectoral legislation—including civil aviation under Regulation (EU) 2018/1139 and machinery under Regulation (EU) 2023/1230—can integrate AI conformity workflows.",
+    "cited_markers": [
+      "[3]",
+      "[11]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "19d10dfd8de2b7ef",
+      "542bf11ae732483e"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-16",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 16,
+    "text": "Member States also gained an extra year, until August 2, 2027, to operate at least one national AI regulatory sandbox.",
+    "cited_markers": [
+      "[3]",
+      "[4]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "3fbe2fb0c64fd741",
+      "39bd6a98649524af"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-17",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 17,
+    "text": "Crucially, the Omnibus was no across-the-board delay, preserving the August 2, 2027, transition deadline for legacy GPAI models placed on the market before August 2, 2025, and imposing binding December 2, 2026, obligations.",
+    "cited_markers": [
+      "[11]",
+      "[18]",
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "19d10dfd8de2b7ef",
+      "64b4c84a1acfe340",
+      "6be52f7ecfc7f3dd"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-18",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 18,
+    "text": "On that date, two new Article 5 prohibitions against non-consensual intimate imagery and child sexual abuse material take force alongside the expiration of the Article 50(2) marking grace period for generative systems marketed prior to August 2, 2026.",
+    "cited_markers": [
+      "[3]",
+      "[11]",
+      "[18]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "19d10dfd8de2b7ef",
+      "64b4c84a1acfe340",
+      "bb739b40591c80bb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-19",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 19,
+    "text": "Longer-term milestones include Commission evaluations in August 2028 and August 2029, with transitional deadlines for legacy public-sector systems and large-scale European IT infrastructures running into August and December 2030.",
+    "cited_markers": [
+      "[2]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "f5755b84f11ea8ed",
+      "b772a4f32e5ca4a1"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-20",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 20,
+    "text": "Following principle-oriented bills PL 5051/2019 and PL 21/2020, the Brazilian AI Strategy, and a Senate Commission of Jurists, then-Senate President Rodrigo Pacheco introduced PL 2338/2023 on May 3, 2023.",
+    "cited_markers": [
+      "[5]",
+      "[8]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "2ddcc05b33f7db1a",
+      "d41ee4caa2d475f3",
+      "527b9d08414c1fc3"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-21",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 21,
+    "text": "Examined by the Senate’s Internal Temporary Committee on Artificial Intelligence under rapporteur Senator Eduardo Gomes, the bill was substantially rewritten before passing the Senate plenary on December 10, 2024.",
+    "cited_markers": [
+      "[5]",
+      "[26]",
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "2ddcc05b33f7db1a",
+      "9df43fab5711e8c7",
+      "3873e3a8c7219f04"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-22",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 22,
+    "text": "Transmitted to the Chamber of Deputies on March 17, 2025, the measure was dispatched on April 29, 2025, to a Special Committee chaired by Deputy Luisa Canziani, with Deputy Aguinaldo Ribeiro as rapporteur.",
+    "cited_markers": [
+      "[5]",
+      "[28]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "2ddcc05b33f7db1a",
+      "5f3e072377bda147",
+      "f42e227d72ef89a8"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-23",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 23,
+    "text": "As of October 2026, the Special Committee still awaited Ribeiro’s opinion, while the file accumulated 37 appended proposals covering deepfakes, watermarking, healthcare AI, and autonomous-system liability.",
+    "cited_markers": [
+      "[6]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "5f3e072377bda147"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-24",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 24,
+    "text": "To cure a potential constitutional defect regarding legislative initiative (vício de iniciativa) in establishing federal regulatory institutions, the Executive Branch submitted PL 6237/2025, appended to PL 2338/2023 in March 2026.",
+    "cited_markers": [
+      "[8]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "d41ee4caa2d475f3",
+      "5f3e072377bda147"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-25",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 25,
+    "text": "In August 2026, Ribeiro announced that voting would slip past Brazil’s October elections toward year-end 2026 or 2027.",
+    "cited_markers": [
+      "[7]",
+      "[30]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "5482b6e239921f67",
+      "143eec3fe663bf75",
+      "9f98de9a8698dd27"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-26",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 26,
+    "text": "Any substantive Chamber change returns the bill to the Senate before presidential sanction or veto, after which Article 80 of the Senate text sets staggered vacatio legis periods: immediate effect for governance structures and small-business promotion incentives, 180 days for excessive-risk bans, generative AI, and copyright, and 730 days for high-risk obligations, algorithmic impact assessments, and fines.",
+    "cited_markers": [
+      "[6]",
+      "[26]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "9df43fab5711e8c7",
+      "f42e227d72ef89a8"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-27",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 27,
+    "text": "At the level of legal philosophy, Regulation (EU) 2024/1689 operates primarily as an internal-market product-safety instrument designed to harmonize AI commercialization and prevent Member State fragmentation.",
+    "cited_markers": [
+      "[1]",
+      "[7]",
+      "[32]"
+    ],
+    "cited_reference_ids": [
+      "afac34cee75e4364",
+      "5482b6e239921f67",
+      "de59464960c5721c"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-28",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 28,
+    "text": "Its operative architecture concentrates on ex-ante duties imposed across supply-chain operators rather than subjective individual rights; individual entitlements center on Article 85, enabling complaints to market surveillance authorities, and Article 86, providing a right to clear explanations of decisions informed by high-risk systems, both deferred until December 2, 2027.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[33]"
+    ],
+    "cited_reference_ids": [
+      "5482b6e239921f67",
+      "d41ee4caa2d475f3",
+      "4f137356e628fde5"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-29",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 29,
+    "text": "PL 2338/2023, conversely, grounds national governance in the \"centrality of the human person,\" combining risk regulation with an explicit statutory rights catalog.",
+    "cited_markers": [
+      "[7]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "5482b6e239921f67",
+      "c1b7863f54f6fc80"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-30",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 30,
+    "text": "Chapter II of the Senate-approved text grants affected individuals prior disclosure of automated interactions and emotion or biometric recognition, clear explanation of automated decisions with simplified procedures scaled to system complexity and firm size, the right to contest decisions and obtain review by a human being alongside preventive human supervision, and protection against direct, indirect, unlawful, or abusive algorithmic discrimination.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[9]",
+      "[10]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "5482b6e239921f67",
+      "d41ee4caa2d475f3",
+      "c1b7863f54f6fc80",
+      "3f7ad752abcfd7cb",
+      "c102ab75f03f6682"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-31",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 31,
+    "text": "This human-review mandate remedies a gap in Brazil’s General Data Protection Law (LGPD, Law No. 13.709/2018), whose Article 20 grants automated-decision review without requiring, following a 2019 amendment, that a natural person perform it.",
+    "cited_markers": [
+      "[6]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "d41ee4caa2d475f3"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-32",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 32,
+    "text": "The EU AI Act covers providers, deployers, importers, distributors, product manufacturers, and authorized representatives whenever AI systems or GPAI models enter the EU market or their outputs are used in the Union, while exempting purely personal non-professional use, exclusive military or national security activities, scientific research, and qualifying open-source systems outside prohibited, high-risk, and transparency categories.",
+    "cited_markers": [
+      "[1]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "afac34cee75e4364",
+      "34cffa1973e2e0e6"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-33",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 33,
+    "text": "Under Article 25, a deployer, importer, or distributor becomes a high-risk provider if it affixes its trademark, performs a substantial modification, or repurposes a general system into a high-risk function such as recruitment screening.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "34cffa1973e2e0e6"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-34",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 34,
+    "text": "PL 2338/2023 mirrors this triad of developers, distributors, and deployers, reclassifies deployers executing substantial modifications or purpose changes under Article 18, and exempts purely personal non-economic use, exclusive national defense, pre-market research and testing, passive storage and transport infrastructure, and online content moderation.",
+    "cited_markers": [
+      "[6]",
+      "[9]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "c1b7863f54f6fc80",
+      "3f7ad752abcfd7cb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-35",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 35,
+    "text": "Article 5 of the EU AI Act originally outlawed eight practices from February 2025: subliminal or purposefully manipulative techniques, exploitation of vulnerabilities linked to age, disability, or socioeconomic status, social scoring, criminal risk prediction based solely on profiling or personality traits, untargeted facial scraping, workplace and educational emotion recognition, biometric categorization inferring sensitive attributes, and real-time remote biometric identification by law enforcement in publicly accessible spaces subject to narrow exceptions.",
+    "cited_markers": [
+      "[20]",
+      "[24]",
+      "[32]"
+    ],
+    "cited_reference_ids": [
+      "39bd6a98649524af",
+      "b772a4f32e5ca4a1",
+      "de59464960c5721c"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-36",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 36,
+    "text": "Effective December 2, 2026, the Digital Omnibus added ninth and tenth bans—Article 5(1)(ba) targeting systems designed or foreseeably usable without adequate safeguards for non-consensual intimate content such as \"nudifier apps,\" and Article 5(1)(bb) targeting AI generation or manipulation of child sexual abuse material—differentiating provider safeguard duties from deployer usage bans.",
+    "cited_markers": [
+      "[3]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "19d10dfd8de2b7ef"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-37",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 37,
+    "text": "Article 13 of PL 2338/2023 similarly bans \"excessive-risk\" practices, spanning subliminal manipulation, vulnerability exploitation, social scoring for public policy access, workplace and educational emotion recognition, indiscriminate facial scraping, predictive criminal profiling, and autonomous weapons, while imposing contested limits on public-space biometric identification.",
+    "cited_markers": [
+      "[10]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "3f7ad752abcfd7cb",
+      "f4653d4aac1967c8"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-38",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 38,
+    "text": "The EU AI Act designates high-risk AI through Annex I products and safety components requiring third-party conformity assessment under Union harmonization laws, and eight Annex III areas: biometrics, critical infrastructure, education, employment, essential private and public services including credit scoring and insurance, law enforcement, migration and border control, and justice and democratic processes.",
+    "cited_markers": [
+      "[4]",
+      "[32]",
+      "[37]"
+    ],
+    "cited_reference_ids": [
+      "3fbe2fb0c64fd741",
+      "de59464960c5721c",
+      "9370de917fd64473"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-39",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 39,
+    "text": "To curb over-capture, the 2026 Omnibus added Articles 6(1a)–(1c), excluding AI used solely for user assistance, convenience, optimization, automation, or quality control from Annex I \"safety component\" status unless failure endangers health and safety, and excluding products needing third-party assessment solely for non-safety risks like electromagnetic or radio-spectrum interference.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "19d10dfd8de2b7ef"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-40",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 40,
+    "text": "High-risk EU providers must establish risk management, data governance, Annex IV technical documentation, logging, human oversight interfaces, cybersecurity, and Article 17 quality management, with simplified regimes extended to small and medium-sized enterprises and small mid-caps.",
+    "cited_markers": [
+      "[22]",
+      "[33]",
+      "[37]"
+    ],
+    "cited_reference_ids": [
+      "bb739b40591c80bb",
+      "4f137356e628fde5",
+      "9370de917fd64473"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-41",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 41,
+    "text": "Minimal-risk tools such as spam filters face no substantive mandates beyond Article 4 AI literacy, which the Omnibus softened from an outcome duty (\"shall ensure\") to an effort duty (\"shall take measures to support\").",
+    "cited_markers": [
+      "[11]",
+      "[32]"
+    ],
+    "cited_reference_ids": [
+      "19d10dfd8de2b7ef",
+      "de59464960c5721c"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-42",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 42,
+    "text": "Brazil’s Article 14 designates parallel high-risk domains—critical infrastructure, employment, essential services access, medical diagnostics, education, justice, autonomous vehicles, public security, and border control—yet departs in two consequential ways.",
+    "cited_markers": [
+      "[6]",
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "d41ee4caa2d475f3"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-43",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 43,
+    "text": "First, the Senate text omitted explicit mention of credit scoring from Article 14, leaving its classification contingent on interpretation as an essential service or future regulation.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-44",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 44,
+    "text": "Second, Article 16(II) empowers sectoral authorities to customize high-risk lists for their industries, risking cross-sector inconsistency absent from the EU’s centrally amended Annex III.",
+    "cited_markers": [
+      "[4]",
+      "[6]",
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "3fbe2fb0c64fd741",
+      "216c4e922227150d",
+      "5a205dde20b977ad"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-45",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 45,
+    "text": "More dramatically, Article 12 of PL 2338/2023 requires all AI systems—including low-risk and generative systems—to undergo a documented preliminary risk assessment before market placement or use, a universal pre-market filter criticized by business groups and legal commentators as unduly burdensome.",
+    "cited_markers": [
+      "[8]",
+      "[10]",
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "d41ee4caa2d475f3",
+      "3f7ad752abcfd7cb",
+      "5a205dde20b977ad"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-46",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 46,
+    "text": "Under Article 3(63) of the EU AI Act and July 2025 Commission guidelines, a model generally qualifies as a GPAI model if trained above 10²³ floating-point operations (FLOPs) with language, audio, image, or video generation capabilities, while models exceeding 10²⁵ FLOPs or designated under Annex XIII criteria are presumed to pose \"systemic risk.\"",
+    "cited_markers": [
+      "[39]",
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "ecdfbfe4ba734a73",
+      "563de861a97a7bbb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-47",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 47,
+    "text": "Since August 2, 2025, GPAI providers have faced Article 53 duties to maintain Annex XI regulatory documentation, supply Annex XII documentation to downstream integrators, enforce an EU copyright policy, and publish a training-data summary, with qualifying free and open-source models exempt from documentation duties under points (a) and (b) unless presenting systemic risk.",
+    "cited_markers": [
+      "[24]",
+      "[41]"
+    ],
+    "cited_reference_ids": [
+      "b772a4f32e5ca4a1",
+      "d37b81208201e6b1"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-48",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 48,
+    "text": "Systemic-risk providers face enhanced Article 55 obligations covering adversarial evaluations, risk mitigation across chemical, biological, radiological, nuclear, cyber-offense, loss-of-control, and harmful-manipulation threats, two-to-fifteen-day serious-incident reporting, and physical and cyber infrastructure security.",
+    "cited_markers": [
+      "[23]",
+      "[40]",
+      "[42]"
+    ],
+    "cited_reference_ids": [
+      "6be52f7ecfc7f3dd",
+      "563de861a97a7bbb",
+      "c4c9e352fe613372"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-49",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 49,
+    "text": "Because the Commission had not requested formal GPAI harmonized standards as of October 2026—and only harmonized standards confer a legal presumption of conformity—Brussels operationalized Articles 53 and 55 via the voluntary GPAI Code of Practice published on July 10, 2025.",
+    "cited_markers": [
+      "[4]",
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "3fbe2fb0c64fd741",
+      "563de861a97a7bbb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-50",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 50,
+    "text": "Drafted with nearly 1,000 stakeholders, the Code spans Transparency, Copyright, and Safety and Security chapters and has been signed by Amazon, Anthropic, Google, IBM, Microsoft, OpenAI, Aleph Alpha, and Mistral AI.",
+    "cited_markers": [
+      "[40]",
+      "[43]"
+    ],
+    "cited_reference_ids": [
+      "563de861a97a7bbb",
+      "d5c1e904603038ee"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-51",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 51,
+    "text": "Yet adoption remains incomplete: xAI signed only the Safety and Security chapter, requiring alternative compliance proof for transparency and copyright, while Meta and major Chinese developers including Alibaba, Baidu, and DeepSeek declined to sign as of early 2026, exposing non-signatories to heightened AI Office inquiries and lifecycle evaluation demands.",
+    "cited_markers": [
+      "[40]",
+      "[43]",
+      "[44]"
+    ],
+    "cited_reference_ids": [
+      "563de861a97a7bbb",
+      "d5c1e904603038ee",
+      "055df1c84b23e5d8"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-52",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 52,
+    "text": "Complementing GPAI governance, Article 50 transparency rules for chatbots, deepfakes, and machine-readable synthetic watermarking took effect on August 2, 2026—backed by a Transparency Code finalized in June 2026 with roughly 190 organizational signatories by late July and Commission guidelines published in July 2026—with pre-existing generative systems facing a December 2, 2026, marking deadline.",
+    "cited_markers": [
+      "[3]",
+      "[18]",
+      "[45]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "64b4c84a1acfe340",
+      "a9e3e225dba7fdd7"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-53",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 53,
+    "text": "Furthermore, the Omnibus inserted Article 4a permitting conditional processing of special categories of personal data to detect and correct bias when anonymized or synthetic datasets prove inadequate.",
+    "cited_markers": [
+      "[22]",
+      "[41]"
+    ],
+    "cited_reference_ids": [
+      "bb739b40591c80bb",
+      "d37b81208201e6b1"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-54",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 54,
+    "text": "PL 2338/2023 likewise subjects generative AI to Article 12 preliminary assessments, synthetic-content labeling, and heightened documentation for systemic-risk models, reinforcing Brazilian electoral curbs on political deepfakes.",
+    "cited_markers": [
+      "[8]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "d41ee4caa2d475f3",
+      "3f7ad752abcfd7cb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-55",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 55,
+    "text": "Regarding algorithmic impact evaluation, EU Article 27 obligates public bodies and certain essential-service deployers of high-risk AI to conduct a Fundamental Rights Impact Assessment (FRIA), which the Omnibus allowed organizations to incorporate into or cross-reference against a GDPR Article 35 Data Protection Impact Assessment.",
+    "cited_markers": [
+      "[22]",
+      "[35]",
+      "[46]"
+    ],
+    "cited_reference_ids": [
+      "bb739b40591c80bb",
+      "34cffa1973e2e0e6",
+      "5ff2858d262c2715"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-56",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 56,
+    "text": "Brazil’s Algorithmic Impact Assessment (Articles 22–28) covers high-risk systems, may be unified with the LGPD’s Data Protection Impact Report, and requires execution by an independent multidisciplinary team.",
+    "cited_markers": [
+      "[6]",
+      "[27]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "3873e3a8c7219f04",
+      "c102ab75f03f6682"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-57",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 57,
+    "text": "Crucially, PL 2338/2023 mandates public disclosure of AIA conclusions, subject to trade secrecy, and compels public-sector entities adopting high-risk AI to hold prior public consultations and hearings.",
+    "cited_markers": [
+      "[6]",
+      "[27]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "3873e3a8c7219f04",
+      "c102ab75f03f6682"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-58",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 58,
+    "text": "Article 53(1)(c) of the EU AI Act relies on the 2019 Digital Single Market (DSM) Directive (Directive (EU) 2019/790), whose Article 4 text-and-data-mining exception permits commercial web scraping of lawfully accessible works unless rightsholders execute machine-readable opt-outs.",
+    "cited_markers": [
+      "[41]",
+      "[47]",
+      "[48]"
+    ],
+    "cited_reference_ids": [
+      "d37b81208201e6b1",
+      "b06e19cf2223a1af",
+      "5e3d405f79cf687f"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-59",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 59,
+    "text": "While the GPAI Code commits signatories to respect protocols like robots.txt, avoid persistent piracy sites, and mitigate infringing outputs—and legal scholars debate whether Article 53(1)(c)–(d) obligations support private tort actions in national courts alongside public enforcement—the EU AI Act establishes no statutory licensing or remuneration scheme.",
+    "cited_markers": [
+      "[23]",
+      "[48]",
+      "[49]"
+    ],
+    "cited_reference_ids": [
+      "6be52f7ecfc7f3dd",
+      "5e3d405f79cf687f",
+      "e97caf9386d54548"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-60",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 60,
+    "text": "By contrast, the Senate-approved PL 2338/2023 requires generative AI developers to disclose specific protected works used in training, empowers rightsholders to prohibit training uses while preserving freedom to conclude individual licenses, and mandates remuneration via free negotiation—extending to foreign-domiciled rightsholders under reciprocity and equivalence—alongside Civil Code consent rules for personal image and voice.",
+    "cited_markers": [
+      "[10]",
+      "[15]",
+      "[26]",
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "3f7ad752abcfd7cb",
+      "f262e34165fe5b99",
+      "9df43fab5711e8c7",
+      "5a205dde20b977ad"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-61",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 61,
+    "text": "Unremunerated automated text and data mining is restricted to legitimate, non-commercial research, journalism, education, and anti-infringement enforcement.",
+    "cited_markers": [
+      "[26]",
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "9df43fab5711e8c7",
+      "5a205dde20b977ad"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-62",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 62,
+    "text": "Industry association Brasscom and legal scholar Juliano Maranhão contend that work-level disclosure, consent management, and mandatory licensing payments impose prohibitive costs that will degrade domestic models and drive AI development offshore.",
+    "cited_markers": [
+      "[15]",
+      "[50]"
+    ],
+    "cited_reference_ids": [
+      "f262e34165fe5b99",
+      "15729f57d1308085"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-63",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 63,
+    "text": "Conversely, music collection body ECAD, UBC, Pro-Música Brasil, journalists’ federation FENAJ, and allied cultural organizations pressed rapporteur Aguinaldo Ribeiro in September 2025 and subsequent interventions to preserve the Senate’s copyright chapter.",
+    "cited_markers": [
+      "[51]",
+      "[52]"
+    ],
+    "cited_reference_ids": [
+      "4f5c1764b6f2f5c0",
+      "183ff0f8382201e8"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-64",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 64,
+    "text": "Originally, the EU AI Act split supervision between the Commission’s AI Office for GPAI models and national market surveillance authorities for AI systems.",
+    "cited_markers": [
+      "[4]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "3fbe2fb0c64fd741",
+      "b772a4f32e5ca4a1"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-65",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 65,
+    "text": "Responding to uneven Member State implementation, legal analyses of the 2026 Digital Omnibus report a major expansion of the AI Office: it gains exclusive supervisory competence over AI systems built on GPAI models by the same undertaking (subject to carve-outs for Annex I products, critical infrastructure, the judiciary, and certain law-enforcement, border, and financial systems), assumes biometric market-surveillance competence over Very Large Online Platforms and Search Engines under the Digital Services Act, and acquires competition-style powers to conduct on-site inspections, accept commitments, and impose periodic penalty payments up to 5% of average daily turnover.",
+    "cited_markers": [
+      "[3]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "d6f3d9329f4cb9f7",
+      "39bd6a98649524af"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-66",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 66,
+    "text": "Because primary EUR-Lex excerpts of Regulation (EU) 2026/1744 in the available record capture recitals and amending citations rather than full operative articles, compliance mapping of these expanded powers relies on official metadata alongside those legal briefings.",
+    "cited_markers": [
+      "[2]",
+      "[3]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "f5755b84f11ea8ed",
+      "d6f3d9329f4cb9f7",
+      "39bd6a98649524af",
+      "542bf11ae732483e"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-67",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 67,
+    "text": "PL 2338/2023 establishes the National System for Regulation and Governance of Artificial Intelligence (SIA), placing the ANPD in the central coordinating role alongside sectoral regulators, advisory councils, and civil-society representatives.",
+    "cited_markers": [
+      "[10]",
+      "[29]",
+      "[36]",
+      "[38]",
+      "[53]"
+    ],
+    "cited_reference_ids": [
+      "3f7ad752abcfd7cb",
+      "f42e227d72ef89a8",
+      "f4653d4aac1967c8",
+      "5a205dde20b977ad",
+      "dbd1f51f397238cb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-68",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 68,
+    "text": "Although the ANPD launched a regulatory sandbox consultation in October 2023 and actively enforces LGPD constraints over AI data processing, lawyers at Barbieri Advogados flag an acute structural vulnerability.",
+    "cited_markers": [
+      "[7]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "5482b6e239921f67",
+      "527b9d08414c1fc3"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-69",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 69,
+    "text": "Given the ANPD’s modest staffing and multi-year delay in issuing LGPD fining rules after 2018, tasking it with orchestrating autonomous sectoral agencies authorized to customize high-risk lists creates substantial risks of regulatory friction and prolonged enforcement delays.",
+    "cited_markers": [
+      "[6]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "5482b6e239921f67"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-70",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 70,
+    "text": "In February 2025, the Commission moved to withdraw its September 2022 AI Liability Directive proposal—formalized in the Official Journal on October 6, 2025—to avoid overlapping with updated product-safety liability law.",
+    "cited_markers": [
+      "[12]",
+      "[13]",
+      "[14]",
+      "[54]"
+    ],
+    "cited_reference_ids": [
+      "fadf8075ef713458",
+      "350068680163a251",
+      "14db0d72086aa539",
+      "b65b1e13f5a0d00e"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-71",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 71,
+    "text": "From December 9, 2026, EU AI injury claims therefore center on the revised Product Liability Directive (EU) 2024/2853 alongside GDPR Article 82 and domestic tort law.",
+    "cited_markers": [
+      "[12]",
+      "[13]",
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "fadf8075ef713458",
+      "350068680163a251",
+      "14db0d72086aa539"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-72",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 72,
+    "text": "Directive 2024/2853 classifies standalone software, SaaS applications, and AI systems (excluding non-commercial open-source code) as products subject to strict liability to natural persons for death, physical or medically recognized psychological harm, non-professional property loss, and non-professional data corruption.",
+    "cited_markers": [
+      "[14]",
+      "[55]",
+      "[56]"
+    ],
+    "cited_reference_ids": [
+      "14db0d72086aa539",
+      "24f8c5d549996ecf",
+      "de1cc2036b490bf1"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-73",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 73,
+    "text": "Liability is non-waivable, covers post-release machine learning and missing security updates, and equips claimants with court-ordered evidence disclosure and rebuttable presumptions of defect or causation.",
+    "cited_markers": [
+      "[14]",
+      "[54]",
+      "[55]",
+      "[56]"
+    ],
+    "cited_reference_ids": [
+      "14db0d72086aa539",
+      "b65b1e13f5a0d00e",
+      "24f8c5d549996ecf",
+      "de1cc2036b490bf1"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-74",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 74,
+    "text": "Nevertheless, legal scholarship stresses that B2B pure economic loss, privacy infringements, and discrimination fall outside Directive 2024/2853, leaving claimants in mediated domains such as clinical healthcare reliant on national fault doctrines where AI Act compliance neither confers immunity nor establishes automatic negligence.",
+    "cited_markers": [
+      "[13]",
+      "[57]"
+    ],
+    "cited_reference_ids": [
+      "350068680163a251",
+      "97a33fd2efbde2df"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-75",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 75,
+    "text": "While the 2023 jurists’ draft proposed strict liability for high-risk and excessive-risk AI and presumed fault for other systems—with civil-society coalition Coalizão Direitos na Rede (CDR) urging mandatory burden-of-proof reversal for disadvantaged claimants—industry pushback reshaped the December 2024 substitute.",
+    "cited_markers": [
+      "[8]",
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "d41ee4caa2d475f3",
+      "f4653d4aac1967c8"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-76",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 76,
+    "text": "The Senate text largely routes AI damages through the strict supplier liability of the Consumer Protection Code in consumer disputes and general Civil Code principles in non-consumer cases, instructing courts to consider system autonomy and risk—a compromise still contested in the Chamber.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[28]",
+      "[53]"
+    ],
+    "cited_reference_ids": [
+      "5482b6e239921f67",
+      "d41ee4caa2d475f3",
+      "5f3e072377bda147",
+      "dbd1f51f397238cb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-77",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 77,
+    "text": "Article 99 of the EU AI Act authorizes fines up to €35 million or 7% of global annual turnover for Article 5 prohibitions—now including non-consensual intimate imagery and CSAM—and up to €15 million or 3% of global turnover for high-risk, operator, GPAI, and Article 50 breaches, subject to SME and small mid-cap proportionality caps.",
+    "cited_markers": [
+      "[20]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "39bd6a98649524af",
+      "bb739b40591c80bb"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-78",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 78,
+    "text": "Article 50 of PL 2338/2023 mirrors the LGPD ceiling, capping fines at R$ 50 million per violation or 2% of Brazilian corporate-group gross revenue, alongside warnings, public disclosure, and partial or total operational suspensions.",
+    "cited_markers": [
+      "[6]",
+      "[7]",
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "5482b6e239921f67",
+      "f42e227d72ef89a8"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-79",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 79,
+    "text": "Comparative legal scholarship cautions against viewing PL 2338/2023 as a passive copy of Brussels’s template.",
+    "cited_markers": [
+      "[58]",
+      "[59]"
+    ],
+    "cited_reference_ids": [
+      "ea99c0fa5f76ed45",
+      "b107feae273cf905"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-80",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 80,
+    "text": "Invoking Anu Bradford’s \"Brussels Effect\" alongside legal-transfer theory and the anthropological metaphor of \"Trobriand Cricket\"—wherein an imported rulebook is reshaped by local norms and power struggles—Brazilian researchers demonstrate that PL 2338/2023 absorbed Europe’s risk taxonomy while grafting onto it domestic constitutional rights, universal preliminary assessments, sectoral risk curation, and distinct copyright rules.",
+    "cited_markers": [
+      "[6]",
+      "[10]",
+      "[38]",
+      "[58]",
+      "[59]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "3f7ad752abcfd7cb",
+      "5a205dde20b977ad",
+      "ea99c0fa5f76ed45",
+      "b107feae273cf905"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-81",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 81,
+    "text": "Yet this hybrid architecture remains politically fragile, illustrated by Senate dilution of labor protections after industry lobbying and by CDR’s June 2026 alert opposing efforts to strip explicit risk classifications from the bill.",
+    "cited_markers": [
+      "[7]",
+      "[16]",
+      "[60]"
+    ],
+    "cited_reference_ids": [
+      "5482b6e239921f67",
+      "e78e724fea229bf8",
+      "682e0dbcc130f674"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-82",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 82,
+    "text": "Given the EU AI Act’s output-based extraterritoriality, Brazilian firms serving European customers or supplying embedded components are already bound by active Article 5 bans, Article 4 literacy duties, GPAI obligations, and Article 50 transparency rules, facing two additional prohibitions and legacy generative marking on December 2, 2026, followed one week later by strict software liability under Directive (EU) 2024/2853.",
+    "cited_markers": [
+      "[1]",
+      "[8]",
+      "[11]",
+      "[29]",
+      "[37]",
+      "[55]"
+    ],
+    "cited_reference_ids": [
+      "afac34cee75e4364",
+      "d41ee4caa2d475f3",
+      "19d10dfd8de2b7ef",
+      "f42e227d72ef89a8",
+      "9370de917fd64473",
+      "24f8c5d549996ecf"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-83",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 83,
+    "text": "Inside Brazil, the ANPD and courts already enforce automated-decision transparency, biometric safeguards, and consumer remedies under the LGPD, the Consumer Protection Code, and judicial governance rules such as CNJ Resolution 332/2020.",
+    "cited_markers": [
+      "[6]",
+      "[8]",
+      "[61]"
+    ],
+    "cited_reference_ids": [
+      "216c4e922227150d",
+      "d41ee4caa2d475f3",
+      "3dc2383ae89a2ea2"
+    ]
+  },
+  {
+    "id": "regulacao_ia_50ed2d44b720_20261117T023910Z-84",
+    "answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "position": 84,
+    "text": "Organizations that maintain unified AI asset inventories, map systems concurrently against EU and Brazilian risk tiers, integrate data protection impact assessments with FRIA and AIA workflows, preserve disclosure-ready provenance logs, and structure governance around ISO/IEC 42001—recognizing that private certification complements rather than replaces EU harmonized-standard conformity—will build durable compliance across both regulatory regimes.",
+    "cited_markers": [
+      "[14]",
+      "[22]",
+      "[29]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "14db0d72086aa539",
+      "bb739b40591c80bb",
+      "f42e227d72ef89a8",
+      "34cffa1973e2e0e6"
+    ]
+  }
+]

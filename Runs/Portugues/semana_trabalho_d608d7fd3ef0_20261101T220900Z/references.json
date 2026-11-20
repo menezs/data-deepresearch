@@ -1,0 +1,914 @@
+[
+  {
+    "id": "394814d1fd1db3ec",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.opovo.com.br/noticias/economia/2023/05/12/amp/brasil-tera-teste-de-semana-de-trabalho-com-quatro-dias-entenda.html",
+    "normalized_url": "https://opovo.com.br/noticias/economia/2023/05/12/amp/brasil-tera-teste-de-semana-de-trabalho-com-quatro-dias-entenda.html",
+    "work_key": "https://opovo.com.br/noticias/economia/2023/05/12/amp/brasil-tera-teste-de-semana-de-trabalho-com-quatro-dias-entenda.html",
+    "title": "Brasil terá teste de semana de trabalho com quatro dias; entenda (O Povo) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:19.987489Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "020a9a44f9e68d3d",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.fox29.com/news/microsoft-japan-tested-out-a-4-day-work-week-and-it-boosted-productivity-by-40-percent",
+    "normalized_url": "https://fox29.com/news/microsoft-japan-tested-out-a-4-day-work-week-and-it-boosted-productivity-by-40-percent",
+    "work_key": "https://fox29.com/news/microsoft-japan-tested-out-a-4-day-work-week-and-it-boosted-productivity-by-40-percent",
+    "title": "Microsoft Japan tested out a 4-day work week, and it boosted productivity by 40 percent (FOX 29) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:21.171672Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cc77751b4498e634",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://contadores.cnt.br/projetos/42/noticias/artigos/2024/10/07/semana-de-quatro-dias-no-brasil-pode-se-tornar-realidade.html",
+    "normalized_url": "https://contadores.cnt.br/projetos/42/noticias/artigos/2024/10/07/semana-de-quatro-dias-no-brasil-pode-se-tornar-realidade.html",
+    "work_key": "https://contadores.cnt.br/projetos/42/noticias/artigos/2024/10/07/semana-de-quatro-dias-no-brasil-pode-se-tornar-realidade.html",
+    "title": "Semana de quatro dias no Brasil pode se tornar realidade? (Contadores.cnt.br) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:19.984841Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "197c4a5e8288073b",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://abc13.com/iceland-work-week-shorter-cuccess/10871439/",
+    "normalized_url": "https://abc13.com/iceland-work-week-shorter-cuccess/10871439",
+    "work_key": "https://abc13.com/iceland-work-week-shorter-cuccess/10871439",
+    "title": "Iceland: Shorter working week trials an 'overwhelming success' (ABC13/CNN) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:20.757955Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e37da2f00b10b237",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.wxyz.com/news/national/icelandic-trials-studying-shorter-workweeks-hailed-as-overwhelming-successes",
+    "normalized_url": "https://wxyz.com/news/national/icelandic-trials-studying-shorter-workweeks-hailed-as-overwhelming-successes",
+    "work_key": "https://wxyz.com/news/national/icelandic-trials-studying-shorter-workweeks-hailed-as-overwhelming-successes",
+    "title": "Icelandic trials studying shorter workweeks hailed as overwhelming successes (WXYZ) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:20.834623Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "318de4c26beb9353",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://6abc.com/workweek-four-day-japan-companies-microsoft/5671025/",
+    "normalized_url": "https://6abc.com/workweek-four-day-japan-companies-microsoft/5671025",
+    "work_key": "https://6abc.com/workweek-four-day-japan-companies-microsoft/5671025",
+    "title": "Microsoft tried a 4-day workweek in Japan and productivity jumped 40-percent (6abc/CNN) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:21.322755Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "23f9f4fb66dd4fe2",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://poulantzas.gr/en/yliko/four-day-workweek-results-of-the-pilot-trial-in-the-united-kingdom/",
+    "normalized_url": "https://poulantzas.gr/en/yliko/four-day-workweek-results-of-the-pilot-trial-in-the-united-kingdom",
+    "work_key": "https://poulantzas.gr/en/yliko/four-day-workweek-results-of-the-pilot-trial-in-the-united-kingdom",
+    "title": "Four-Day Workweek: Results of the Pilot Trial in the United Kingdom (Nikos Poulantzas Institute) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:23.123699Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a84f78ac33005ea3",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.research-live.com/article/news/uk-fourday-week-trial-results-in-reduced-staff-burnout/id/5109272",
+    "normalized_url": "https://research-live.com/article/news/uk-fourday-week-trial-results-in-reduced-staff-burnout/id/5109272",
+    "work_key": "https://research-live.com/article/news/uk-fourday-week-trial-results-in-reduced-staff-burnout/id/5109272",
+    "title": "UK four-day week trial results in reduced staff burnout (Research Live) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:22.276811Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "38eedbe1b6bffee3",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.britishpoles.uk/?p=28451",
+    "normalized_url": "https://britishpoles.uk?p=28451",
+    "work_key": "https://britishpoles.uk?p=28451",
+    "title": "Four-day workweek trial yields overwhelming success in UK (British Poles) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:26.150540Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6bea16a9756cfb78",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://san.com/cc/4-day-workweek-success-89-of-uk-companies-in-trial-continuing-policy/",
+    "normalized_url": "https://san.com/cc/4-day-workweek-success-89-of-uk-companies-in-trial-continuing-policy",
+    "work_key": "https://san.com/cc/4-day-workweek-success-89-of-uk-companies-in-trial-continuing-policy",
+    "title": "4-day workweek success: 89% of UK companies in trial continuing policy (Straight Arrow News) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:22.416920Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9ebd0658923abeca",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.scimex.org/newsfeed/a-four-day-workweek-makes-workers-happier-and-more-confident-at-their-jobs",
+    "normalized_url": "https://scimex.org/newsfeed/a-four-day-workweek-makes-workers-happier-and-more-confident-at-their-jobs",
+    "work_key": "https://scimex.org/newsfeed/a-four-day-workweek-makes-workers-happier-and-more-confident-at-their-jobs",
+    "title": "A four-day workweek makes workers happier and more confident at their jobs (Scimex / Springer Nature) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:26.160088Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "de2be0d743d242f1",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.phillyvoice.com/four-day-work-week-wellbeing-performance-benefits/",
+    "normalized_url": "https://phillyvoice.com/four-day-work-week-wellbeing-performance-benefits",
+    "work_key": "https://phillyvoice.com/four-day-work-week-wellbeing-performance-benefits",
+    "title": "Four-day work week reduces burnout and improves performance, study shows (PhillyVoice) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:23.327450Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "54f1194db5373a94",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.spektrum.de/news/reduzierte-vollzeitarbeit-funktioniert/2281141",
+    "normalized_url": "https://spektrum.de/news/reduzierte-vollzeitarbeit-funktioniert/2281141",
+    "work_key": "https://spektrum.de/news/reduzierte-vollzeitarbeit-funktioniert/2281141",
+    "title": "Arbeitswelt: Menschen mit Viertagewoche fühlen sich glücklicher und produktiver (Spektrum.de) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:23.908941Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8c563c61117205c1",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.peoplematters.in/article/employee-relations/germanys-4-day-week-trial-offers-interesting-results-43132",
+    "normalized_url": "https://peoplematters.in/article/employee-relations/germanys-4-day-week-trial-offers-interesting-results-43132",
+    "work_key": "https://peoplematters.in/article/employee-relations/germanys-4-day-week-trial-offers-interesting-results-43132",
+    "title": "Findings from Germany's bold 4-day workweek experiment (People Matters) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:25.890863Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "932c5218bd3d474b",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://idw-online.de/de/news841503",
+    "normalized_url": "https://idw-online.de/de/news841503",
+    "work_key": "https://idw-online.de/de/news841503",
+    "title": "Economist presents study results on the four-day pilot project (idw – Universität Münster) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:24.847481Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "715e8bd9441f24fb",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.thelocal.de/20241106/what-are-the-results-of-germanys-four-day-work-week-trial",
+    "normalized_url": "https://thelocal.de/20241106/what-are-the-results-of-germanys-four-day-work-week-trial",
+    "work_key": "https://thelocal.de/20241106/what-are-the-results-of-germanys-four-day-work-week-trial",
+    "title": "What are the results of Germany's four day work week trial? (The Local Germany) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:26.511109Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f89fbb944287be18",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+    "normalized_url": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+    "work_key": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+    "title": "95% das empresas avaliam positivamente experiência da Semana de Quatro Dias (Governo de Portugal) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:26.786225Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "34192d30d68044b3",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://rr.pt/noticia/economia/2023/12/12/semana-de-quatro-dias-reduz-em-137-em-media-de-horas-de-trabalho-semanais/358908/",
+    "normalized_url": "https://rr.pt/noticia/economia/2023/12/12/semana-de-quatro-dias-reduz-em-137-em-media-de-horas-de-trabalho-semanais/358908",
+    "work_key": "https://rr.pt/noticia/economia/2023/12/12/semana-de-quatro-dias-reduz-em-137-em-media-de-horas-de-trabalho-semanais/358908",
+    "title": "Semana de quatro dias reduz em 13,7% em média de horas de trabalho semanais (Renascença) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:28.026825Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e0cebd1797cfac60",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.rtp.pt/noticias/economia/mais-de-80-das-empresas-que-testaram-semana-de-4-dias-decidiram-manter-modelo_n1581253",
+    "normalized_url": "https://rtp.pt/noticias/economia/mais-de-80-das-empresas-que-testaram-semana-de-4-dias-decidiram-manter-modelo_n1581253",
+    "work_key": "https://rtp.pt/noticias/economia/mais-de-80-das-empresas-que-testaram-semana-de-4-dias-decidiram-manter-modelo_n1581253",
+    "title": "Mais de 80% das empresas que testaram semana de 4 dias decidiram manter modelo (RTP) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:27.195441Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1e3fc4af68fca353",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://vermelho.org.br/?p=695282",
+    "normalized_url": "https://vermelho.org.br?p=695282",
+    "work_key": "https://vermelho.org.br?p=695282",
+    "title": "Empresas portuguesas avaliam adotar semana de quatro dias (Vermelho) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:29.211387Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b2139a2621921ffc",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-piloto-de-semana-de-trabalho-de-4-dias",
+    "normalized_url": "https://insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-piloto-de-semana-de-trabalho-de-4-dias",
+    "work_key": "https://insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-piloto-de-semana-de-trabalho-de-4-dias",
+    "title": "Brasil inicia projeto-piloto de semana de trabalho de 4 dias (Insper) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:41:03.529351Z",
+    "error_message": "barreira de acesso (http_error): # Access Denied You don't have permission to access \"http://www.insper.edu.br/pt/noticias/2023/9/brasil-inicia-projeto-p",
+    "barrier_kind": "http_error",
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f68a42543276430a",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.infomoney.com.br/?p=2549905",
+    "normalized_url": "https://infomoney.com.br?p=2549905",
+    "work_key": "https://infomoney.com.br?p=2549905",
+    "title": "Piloto da semana de 4 dias no Brasil (InfoMoney) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:28.442577Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4847115e1f0584b4",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.meioemensagem.com.br/comunicacao/4-day-week-brazil",
+    "normalized_url": "https://meioemensagem.com.br/comunicacao/4-day-week-brazil",
+    "work_key": "https://meioemensagem.com.br/comunicacao/4-day-week-brazil",
+    "title": "Após piloto, 84% das lideranças aprovam semana de quatro dias (Meio & Mensagem) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:28.912757Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0bb637f2bca76c5d",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://napratica.org.br/noticias/como-funciona-a-semana-de-4-dias-no-brasil-e-quais-empresas-ja-adotaram-o-modelo",
+    "normalized_url": "https://napratica.org.br/noticias/como-funciona-a-semana-de-4-dias-no-brasil-e-quais-empresas-ja-adotaram-o-modelo",
+    "work_key": "https://napratica.org.br/noticias/como-funciona-a-semana-de-4-dias-no-brasil-e-quais-empresas-ja-adotaram-o-modelo",
+    "title": "Como funciona a semana de 4 dias no Brasil e quais empresas já adotaram o modelo (Na Prática) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:29.727656Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0e031506e5f9b1b5",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.cartacapital.com.br/?p=444064",
+    "normalized_url": "https://cartacapital.com.br?p=444064",
+    "work_key": "https://cartacapital.com.br?p=444064",
+    "title": "Empresas decidem manter semana de quatro dias de trabalho após testes, aponta relatório (CartaCapital) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:29.891193Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2338945f55b32361",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.portaltela.com/noticias/economia/2025/08/22/experimento-da-semana-de-quatro-dias-no-brasil-resultados-e-licoes-aprendidas/",
+    "normalized_url": "https://portaltela.com/noticias/economia/2025/08/22/experimento-da-semana-de-quatro-dias-no-brasil-resultados-e-licoes-aprendidas",
+    "work_key": "https://portaltela.com/noticias/economia/2025/08/22/experimento-da-semana-de-quatro-dias-no-brasil-resultados-e-licoes-aprendidas",
+    "title": "Experimento da semana de quatro dias no Brasil: resultados e lições aprendidas (Portal Tela) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:31.308839Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e63d1c8487bddf65",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://observador.pt/2022/02/15/belgica-aprova-semana-de-trabalho-de-quatro-dias-para-tornar-economia-mais-inovadora-sustentavel-e-digital/",
+    "normalized_url": "https://observador.pt/2022/02/15/belgica-aprova-semana-de-trabalho-de-quatro-dias-para-tornar-economia-mais-inovadora-sustentavel-e-digital",
+    "work_key": "https://observador.pt/2022/02/15/belgica-aprova-semana-de-trabalho-de-quatro-dias-para-tornar-economia-mais-inovadora-sustentavel-e-digital",
+    "title": "Bélgica aprova semana de trabalho de quatro dias para tornar economia mais inovadora, sustentável e digital (Observador) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:31.248066Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cb0e722618529209",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.bloomberglinea.com.br/2022/02/19/belgas-podem-trabalhar-4-dias-por-semana-sem-perda-de-salario/",
+    "normalized_url": "https://bloomberglinea.com.br/2022/02/19/belgas-podem-trabalhar-4-dias-por-semana-sem-perda-de-salario",
+    "work_key": "https://bloomberglinea.com.br/2022/02/19/belgas-podem-trabalhar-4-dias-por-semana-sem-perda-de-salario",
+    "title": "Belgas podem trabalhar 4 dias por semana sem perda de salário (Bloomberg Línea Brasil) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:30.996720Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c7cb97d77384918b",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://dc.fortune.com/article/tokyo-is-turning-to-a-4-day-workweek-in-a-desperate-attempt-to-help-japan-shed-its-unwanted-title-of-worlds-oldest-population",
+    "normalized_url": "https://dc.fortune.com/article/tokyo-is-turning-to-a-4-day-workweek-in-a-desperate-attempt-to-help-japan-shed-its-unwanted-title-of-worlds-oldest-population",
+    "work_key": "https://dc.fortune.com/article/tokyo-is-turning-to-a-4-day-workweek-in-a-desperate-attempt-to-help-japan-shed-its-unwanted-title-of-worlds-oldest-population",
+    "title": "Tokyo is turning to a 4-day workweek in a desperate attempt to help Japan shed its unwanted title of world's oldest population (Fortune) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:32.703343Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "91ccabebbbcfe7a8",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://hrmasia.com/tokyo-proposes-four-day-workweek-to-boost-birth-rate/",
+    "normalized_url": "https://hrmasia.com/tokyo-proposes-four-day-workweek-to-boost-birth-rate",
+    "work_key": "https://hrmasia.com/tokyo-proposes-four-day-workweek-to-boost-birth-rate",
+    "title": "Tokyo proposes four-day workweek to boost birth rate (HRM Asia) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:32.873802Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f6f58c3617885401",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.cartacapital.com.br/?p=543449",
+    "normalized_url": "https://cartacapital.com.br?p=543449",
+    "work_key": "https://cartacapital.com.br?p=543449",
+    "title": "Congresso rejeita projeto-chave do governo espanhol para reduzir a jornada de trabalho (CartaCapital) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:33.209796Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "63e4b81abc9b6ab5",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.cnnbrasil.com.br/internacional/governo-espanhol-enfrenta-divisao-sobre-reducao-da-jornada-semanal-de-trabalho/",
+    "normalized_url": "https://cnnbrasil.com.br/internacional/governo-espanhol-enfrenta-divisao-sobre-reducao-da-jornada-semanal-de-trabalho",
+    "work_key": "https://cnnbrasil.com.br/internacional/governo-espanhol-enfrenta-divisao-sobre-reducao-da-jornada-semanal-de-trabalho",
+    "title": "Governo espanhol enfrenta divisão sobre redução da jornada semanal de trabalho (CNN Brasil/Reuters) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:31.739405Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "be754527b6103806",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://diariodepernambuco.com.br/dpmais/oficial-governo-bateu-o-martelo-e-jornada-de-trabalho-de-13-horas-foi-confirmada-neste-pais/",
+    "normalized_url": "https://diariodepernambuco.com.br/dpmais/oficial-governo-bateu-o-martelo-e-jornada-de-trabalho-de-13-horas-foi-confirmada-neste-pais",
+    "work_key": "https://diariodepernambuco.com.br/dpmais/oficial-governo-bateu-o-martelo-e-jornada-de-trabalho-de-13-horas-foi-confirmada-neste-pais",
+    "title": "Governo bateu o martelo e jornada de trabalho de 13 horas foi confirmada neste país (Diario de Pernambuco) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:41:06.146191Z",
+    "error_message": "barreira de acesso (http_error): AccessDenied Access Denied This XML file does not appear to have any style information associated with it. The document ",
+    "barrier_kind": "http_error",
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "4bfc963b9c710d7c",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://en.apa.az/europe/greece-adopts-law-extending-working-hours-despite-protests-480903",
+    "normalized_url": "https://en.apa.az/europe/greece-adopts-law-extending-working-hours-despite-protests-480903",
+    "work_key": "https://en.apa.az/europe/greece-adopts-law-extending-working-hours-despite-protests-480903",
+    "title": "Greece adopts law extending working hours despite protests (APA) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:34.034984Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "de61fc78ef7823b1",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.migalhas.com.br/quentes/425383/erika-hilton-protocola-pec-para-acabar-com-a-escala-6x1",
+    "normalized_url": "https://migalhas.com.br/quentes/425383/erika-hilton-protocola-pec-para-acabar-com-a-escala-6x1",
+    "work_key": "https://migalhas.com.br/quentes/425383/erika-hilton-protocola-pec-para-acabar-com-a-escala-6x1",
+    "title": "Erika Hilton protocola PEC para acabar com a escala 6x1 (Migalhas) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:33.142408Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "834a6cf6b786f49d",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://jornalopcao.com.br/ultimas-noticias/proposta-de-erika-hilton-sobre-fim-da-jornada-6x1-repercute-e-ganha-apoio-popular-655522/",
+    "normalized_url": "https://jornalopcao.com.br/ultimas-noticias/proposta-de-erika-hilton-sobre-fim-da-jornada-6x1-repercute-e-ganha-apoio-popular-655522",
+    "work_key": "https://jornalopcao.com.br/ultimas-noticias/proposta-de-erika-hilton-sobre-fim-da-jornada-6x1-repercute-e-ganha-apoio-popular-655522",
+    "title": "Proposta de Erika Hilton sobre fim da jornada 6×1 repercute e ganha apoio popular (Jornal Opção) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:36.212498Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d6f1adf6f7917323",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://www.brasildefato.com.br/2026/05/28/camara-aprova-fim-da-escala-6x1-e-reducao-da-jornada-para-40-horas/",
+    "normalized_url": "https://brasildefato.com.br/2026/05/28/camara-aprova-fim-da-escala-6x1-e-reducao-da-jornada-para-40-horas",
+    "work_key": "https://brasildefato.com.br/2026/05/28/camara-aprova-fim-da-escala-6x1-e-reducao-da-jornada-para-40-horas",
+    "title": "Câmara aprova fim da escala 6×1 e redução da jornada para 40 horas (Brasil de Fato) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:33.471035Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "554aa4b684c84c2c",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1",
+    "work_key": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-09/ccj-do-senado-aprova-pec-que-acaba-com-jornada-6x1",
+    "title": "CCJ do Senado aprova PEC que acaba com jornada 6x1 (Agência Brasil) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:34.894760Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f93803f5a2f56b17",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2026/10/06/pec-que-acaba-com-escala-6x1-comeca-a-tramitar-no-plenario",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2026/10/06/pec-que-acaba-com-escala-6x1-comeca-a-tramitar-no-plenario",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2026/10/06/pec-que-acaba-com-escala-6x1-comeca-a-tramitar-no-plenario",
+    "title": "PEC que acaba com escala 6x1 começa a tramitar no Plenário (Agência Senado) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:41:35.606893Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "aaff0eb2059833c5",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://revistaforum.com.br/politica/escala-6x1-alcolumbre-votacao-pec/",
+    "normalized_url": "https://revistaforum.com.br/politica/escala-6x1-alcolumbre-votacao-pec",
+    "work_key": "https://revistaforum.com.br/politica/escala-6x1-alcolumbre-votacao-pec",
+    "title": "Fim da escala 6x1: Alcolumbre pauta votação da PEC (Revista Fórum) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:36.969717Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "769cf3ebca3ff648",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www.cnnbrasil.com.br/politica/senado-inicia-discussao-da-pec-do-fim-da-6x1-com-baixa-presenca-da-oposicao/",
+    "normalized_url": "https://cnnbrasil.com.br/politica/senado-inicia-discussao-da-pec-do-fim-da-6x1-com-baixa-presenca-da-oposicao",
+    "work_key": "https://cnnbrasil.com.br/politica/senado-inicia-discussao-da-pec-do-fim-da-6x1-com-baixa-presenca-da-oposicao",
+    "title": "Senado inicia discussão da PEC do fim da 6x1 com baixa presença da oposição (CNN Brasil) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:36.440839Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "de48be3624ddef10",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://www.capradio.org/187667",
+    "normalized_url": "https://capradio.org/187667",
+    "work_key": "https://capradio.org/187667",
+    "title": "Four-day work week (CapRadio) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:41:03.851365Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cdd1c3dabf06c3d4",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://techtarget.com/searchhrsoftware/news/252525395/Four-day-workweek-productivity-claims-gather-criticism",
+    "normalized_url": "https://techtarget.com/searchhrsoftware/news/252525395/Four-day-workweek-productivity-claims-gather-criticism",
+    "work_key": "https://techtarget.com/searchhrsoftware/news/252525395/Four-day-workweek-productivity-claims-gather-criticism",
+    "title": "4-day workweek productivity claims gather criticism (TechTarget) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:40.463451Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "529e3174276e770a",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://uts.edu.au/news/2023/03/challenging-hype-4-day-work-week",
+    "normalized_url": "https://uts.edu.au/news/2023/03/challenging-hype-4-day-work-week",
+    "work_key": "https://uts.edu.au/news/2023/03/challenging-hype-4-day-work-week",
+    "title": "Challenging the hype of a 4-day work week (University of Technology Sydney) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:40.842564Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "dd655d3515df0635",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://www.constangy.com/employment-labor-insider/u-k-study-on-four-day-workweek-merits-scrutiny",
+    "normalized_url": "https://constangy.com/employment-labor-insider/u-k-study-on-four-day-workweek-merits-scrutiny",
+    "work_key": "https://constangy.com/employment-labor-insider/u-k-study-on-four-day-workweek-merits-scrutiny",
+    "title": "U.K. study on four-day workweek merits scrutiny (Constangy – Employment & Labor Insider) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:41.925316Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d3cb4bbc6e5d4e20",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://media.springernature.com/original/springer-static/esm/art%3A10.1038%2Fs41562-025-02259-6/MediaObjects/41562_2025_2259_MOESM2_ESM.pdf",
+    "normalized_url": "https://media.springernature.com/original/springer-static/esm/art:10.1038/s41562-025-02259-6/MediaObjects/41562_2025_2259_MOESM2_ESM.pdf",
+    "work_key": "https://media.springernature.com/original/springer-static/esm/art:10.1038/s41562-025-02259-6/MediaObjects/41562_2025_2259_MOESM2_ESM.pdf",
+    "title": "Peer Review File – Work time reduction via a four-day workweek finds improvements in workers' well-being (Nature Human Behaviour / Springer Nature) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:47.091341Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6a5d4be4a82f9698",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://jornalcontabil.com.br/noticia/semana-de-4-dias-de-trabalho-brasil-tera-nova-rodada-de-testes/",
+    "normalized_url": "https://jornalcontabil.com.br/noticia/semana-de-4-dias-de-trabalho-brasil-tera-nova-rodada-de-testes",
+    "work_key": "https://jornalcontabil.com.br/noticia/semana-de-4-dias-de-trabalho-brasil-tera-nova-rodada-de-testes",
+    "title": "Semana de 4 dias de trabalho: Brasil terá nova rodada de testes (Jornal Contábil) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:43.135555Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2d50917472585227",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://ihu.unisinos.br/646046-a-pec-que-pode-mudar-a-cena-brasileira-artigo-de-maria-julia-pereira-eduardo-rezende-pereira-e-mateus-oliveira-dos-santos",
+    "normalized_url": "https://ihu.unisinos.br/646046-a-pec-que-pode-mudar-a-cena-brasileira-artigo-de-maria-julia-pereira-eduardo-rezende-pereira-e-mateus-oliveira-dos-santos",
+    "work_key": "https://ihu.unisinos.br/646046-a-pec-que-pode-mudar-a-cena-brasileira-artigo-de-maria-julia-pereira-eduardo-rezende-pereira-e-mateus-oliveira-dos-santos",
+    "title": "A PEC que pode mudar a cena brasileira (IHU Unisinos) –",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T22:09:43.794919Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_d608d7fd3ef0_20261101T220900Z",
+    "tool_name": "Claude"
+  }
+]

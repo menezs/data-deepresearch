@@ -1,0 +1,16 @@
+[referencia=675cbba9fcba83f8 score=0.971]
+On Wednesday, Governor Yuriko Koike announced that the Tokyo Metropolitan Government would be introducing a system to provide employees with the opportunity of a four-day workweek. According to the Tokyo Metropolitan Government’s General Affairs Bureau, workers are currently allowed to take one weekday off during a four-week period. Under the new system, which will begin in April 2025, they can have one weekday off per week, making a three-day weekend possible.
+
+**List of Contents:**
+
+## Empowering Women
+
+Additionally, a “child care partial leave” system will be introduced that allows workers with kids up to the third grade of elementary school to reduce their working time by up to two hours per day.
+
+“We’ll keep reviewing our work styles flexibly so that nobody has to give up their careers due to life events such as childbirth and child care,” said Koike at the opening of the fourth regular session of the Tokyo Metropolitan Assembly on December 3. She added, “Empowering women, a goal that has lagged far behind the rest of the world, has been a long-standing issue in our country.”
+
+Several other local governments have introduced similar measures to improve working conditions, including Chiba and Ibaraki prefectures. In May, Kuji city in Iwate Prefecture began a four-day workweek trial. Miyagi Prefecture, meanwhile, plans to extend its four-day workweek option to all prefectural employees by fiscal 2026.
+
+## Four-Day Workweek: Slow To Catch On in Japan
+
+While Japan does not officially have a four-day workweek, a 2021 government report encouraged companies to consider offering employees an extra day off during the week. The recommendation was part of a broader initiative to tackle labor shortages and declining birthrates, while also improving the well-being of workers. The concept, however, has been slow to catch on. According to a report by the Ministry of Health, Labor and Welfare, only around 8% of companies in Japan allow employees to take three or more days off per week.

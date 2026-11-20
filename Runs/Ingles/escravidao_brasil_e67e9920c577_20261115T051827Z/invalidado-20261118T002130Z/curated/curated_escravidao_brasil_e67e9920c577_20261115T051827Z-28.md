@@ -1,0 +1,91 @@
+[referencia=e653c152cee0777c score=0.927]
+Nunca antes tinha se visto tamanha quantidade de pessoas em um cortejo fúnebre na cidade de São Paulo. As ruas foram enfeitadas como nas mais importantes datas festivas do ano e o comércio cerrou as portas em sinal de luto. Brancos, negros, pobres e ricos, anônimos e figuras ilustres, muitos foram aqueles que acompanharam o féretro de Luiz Gama. Entre paradas e discursos, o povo conduziu o corpo do herói abolicionista por mais de três horas, de sua casa, onde esteve sendo velado, até o Cemitério da Consolação. Sobre o seu caixão, juraram todos manter viva a luta em favor da abolição da escravidão e pelo fim da monarquia.
+
+
+Luiz Gama legou à causa antiescravagista o Centro Abolicionista, com forte participação de seu amigo Antônio Bento, que tinha como presidente Alcides Lima. Alguns dias antes de sua morte, foi publicado o primeiro jornal do Centro, o Ça Ira, em 19 de agosto de 1882. No jornal, um artigo de Raul Pompéia tinha como subtítulo a frase de Gama: Perante o Direito, é justificável o crime de homicídio perpetrado pelo escravo na pessoa do senhor.
+
+
+Sob a inspiração e influência de Luiz Gama, seu amigo, o advogado e maçom Antonio Bento de Souza e Castro organizou os Caifazes, movimento radical de libertação de escravos, que organizava fugas coletivas de escravos das fazendas e os encaminhava para o quilombo do Jabaquara, nas cercanias da cidade de Santos.
+
+
+Luiz Gama, poeta, jornalista e advogado, defensor dos oprimidos, pobre por opção, é o patrono da cadeira nº 15 da Academia Paulista de Letras.
+
+
+
+
+Recife, 14 de janeiro de 2011.
+
+---
+
+[referencia=e653c152cee0777c score=0.002]
+## Fontes consultadas
+
+BENEDITO, Mouzar. Luiz Gama: o libertador de escravos e sua mãe libertária, Luíza Mahin. São Paulo: Expressão Popular, 2006.
+
+
+COMPARATO, Fábio Konder. Luiz Gama, advogado emérito. Revista do Instituto dos Advogados do Brasil. Disponível em: <http://www.iabnacional.org.br/rubrique.php3?id_rubrique=72>. Acesso em: 19 jan. 2011.
+
+
+FERREIRA, Ligia Fonseca. Luiz Gama: um abolicionista leitor de Renan. Estudos Avançados, São Paulo, v. 21, n. 60, ago. 2007. Disponível em <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-40142007000200021&lng=pt&nrm=iso>. Acesso em: 27 set. 2010.
+
+
+LUIZ Gama [foto neste texto]. Disponível em: <http://caderno2mais.atarde.com.br/?p=1872>. Acesso em: 21 fev. 2011.
+
+## Como citar este texto
+
+GUIMARÃES, Carlos Augusto Sant’Anna; LIMA, Raphael Souza. Luiz Gama. *In*: PESQUISA Escolar. Recife: Fundação Joaquim Nabuco, 2011. Disponível em:https://pesquisaescolar.fundaj.gov.br/pt-br/artigo/luiz-gama/. Acesso em: dia mês ano. (Ex.: 6 ago. 2020.)
+
+---
+
+[referencia=e653c152cee0777c score=0.001]
+O prestígio de Gama, amealhado por conta das suas sucessivas vitórias nos tribunais na libertação de cativos, muitos escravizados ilegalmente, ultrapassou as fronteiras de São Paulo atraindo escravos de outras províncias. Nesse período, ele ganhou o epíteto “O terror dos fazendeiros”. Junto ao título de libertador vieram as ameaças de morte por parte daqueles que se sentiam incomodados com a ação de Gama. Foram essas ameaças que o levaram a escrever a carta- herança a seu filho em 1870.
+
+
+Na esfera política, a luta de Gama caracterizou-se pela defesa de uma república brasileira, os “Estados Unidos do Brasil”. Fez parte da Convenção de Itú em que fora criado o Partido Republicano Paulista (PRP). Consciente de que naquele espaço dominado por fazendeiros e senhores de escravos suas ideias abolicionistas não encontrariam apoio, passou a denunciá-los e condená-los de todas as formas. Apesar das decepções com o PRP, Gama continuou fiel às ideias republicanas.
+
+
+Com o passar dos anos, o vigor mental do revolucionário abolicionista permanecia irretocável, todavia o seu corpo não mais respondia com tanta vontade. Em 1882, o diabetes já dificultava sua locomoção. Na manhã de 24 de agosto daquele mesmo ano, Gama perdeu a fala e, mesmo diante dos esforços de mais de vinte médicos, faleceu naquela mesma tarde, aos 52 anos de idade.
+
+---
+
+[referencia=e653c152cee0777c score=0.000]
+*Teu pai, Luiz Gama. (trechos da Carta de Luiz Gama ao filho Benedito Graccho, 1870).*
+
+
+Em 23 de setembro de 1870, 12 anos antes de sua morte, em São Paulo, Luiz Gama legava como herança para o seu único filho, Benedito Graco Pinto da Gama, conselhos e exemplos de vida de um homem que fez de sua existência na terra uma luta constante e incansável pela abolição da escravidão e pelo fim da monarquia no Brasil. No século XIX, ser negro não era necessariamente sinônimo de ser escravo. Havia africanos livres que vieram para terras brasileiras por conta do comércio transatlântico e aqui viviam, alguns aqui nasciam e permaneciam livres e outros tantos que conseguiram comprar a própria liberdade e até mesmo provar na Justiça que eram livres. Luiz Gama, paradoxalmente, viveu essas duas realidades.
+
+---
+
+[referencia=e653c152cee0777c score=0.000]
+Aos dezoito anos de idade, Luiz Gama aprendeu a ler e escrever com a ajuda do jovem Antônio Rodrigues do Prado Júnior, que se hospedava na casa de seu senhor. Nessa idade, Gama conseguiu “secretamente”, segundo ele, as provas de sua liberdade. Foge da casa do seu dono e ingressa na Marinha de Guerra, na qual serviu por 6 anos, alcançando a patente de cabo-de-esquadra. Após ato de insubordinação a um oficial, nas suas palavras, insolente, Gama ficou 39 dias preso, sendo expulso em seguida daquela força. Em 1856, torna-se amanuense da Secretaria de Polícia da Província de São Paulo. Gama frequentou, por algum tempo, como ouvinte, a Faculdade de Direito de São Paulo, onde sofreu preconceito e repulsa de professores e estudantes, à época todos brancos e quase sempre de origem aristocrática. Sem diploma de bacharel em Direito, torna-se um rábula e liberta, pela via judicial, mais de 500 escravos do cativeiro. Um feito sem igual na história mundial da advocacia Quando não conseguia libertar um escravo nos tribunais, comprava a alforria com dinheiro arrecadado por ele mesmo através de esmolas, às vezes com a ajuda dos irmãos da Maçonaria ou dos membros do Círculo Operário Italiano.
+
+
+Poeta, Luiz Gama lança, em 1859, o livro Primeiras Trovas Burlescas, conjunto de poemas líricos e de crítica social e política. A partir da década de 1860, passou a contribuir ativamente em vários jornais da imprensa paulista, entre eles o Diabo coxo (1864-1865) e Cabrião (1866-1865), primeiros periódicos ilustrados de São Paulo, os quais ele ajudou a fundar. Durante sua vida, sempre utilizou da imprensa em prol da causa abolicionista e republicana.
+
+---
+
+[referencia=e653c152cee0777c score=0.000]
+Na condição de escravo, Gama fora contrabandeado para o Rio de Janeiro onde foi vendido ao negociante, contrabandista e alferes, Antônio Pereira Cardoso e levado para ser revendido em São Paulo. O fato de ser baiano fazia de Gama um escravo indesejado onde quer que fosse colocado à venda. A história de revoltas de escravos na Bahia dava aos negros vindos de lá o título de revoltosos e insubordinados. Foi assim que, não conseguindo vender a criança e outro escravo também baiano a nenhum fazendeiro no estado de São Paulo, restou a Antônio Cardoso levá-los para a sua própria fazenda. O jovem Luiz aprendeu a trabalhar como copeiro e sapateiro, a lavar e consertar roupas.
+
+---
+
+[referencia=e653c152cee0777c score=0.000]
+Luiz Gonzaga Pinto da Gama nasceu em Salvador, Bahia, em 21 de julho de 1830, filho de uma negra livre, Luíza Mahin, e de um fidalgo branco de origem portuguesa (cujo nome jamais citou). Gama veio ao mundo na condição de negro livre. Sua mãe, segundo ele mesmo conta, participou da Revolta dos Malês, em 1835, a maior rebelião de escravos do Brasil, e da Sabinada, em 1837, que proclamou a República Bahiense, era uma verdadeira revolucionária. Devido à participação nessas revoltas, Luiza teve que fugir para o Rio de Janeiro, deixando Gama aos cuidados do pai e sem qualquer informação posterior sobre ela. Por um ano, Luiz Gama viveu sob os cuidados do pai, que o vendeu quando contava dez anos de idade, na condição de escravo, segundo consta, para pagar dívidas de jogo. Foi assim que, da noite para o dia, um ser humano livre e dono de si, tornou-se uma “peça”, um escravo. Daí iniciou a trajetória de superação que faria de Luiz Gama um exemplo para negros e brancos na sua luta obstinada pelo fim da escravidão.
+
+---
+
+[referencia=e653c152cee0777c score=0.000]
+# Luiz Gama
+
+Última atualização: 28/06/2022
+
+*Meu filho, Luiz Gama. Dize a tua mãe que a ela cabe o rigoroso dever de conservar-se honesta e honrada; que não se atemorize da extrema pobreza que lego-lhe, porque a miséria é o mais brilhante apanágio da virtude.
+Tu evitas a amizade e as relações dos grandes homens; porque eles são como o oceano que aproxima-se das costas para corroer os penedos.
+Sê republicano, como o foi o Homem-Cristo. Faze-te artista; crê, porém, que o estudo é o melhor entretenimento, e o livro o melhor amigo.
+Faze-te apóstolo do ensino, desde já. Combate com ardor o trono, a indigência e a ignorância. Trabalha por ti e com esforço inquebrantável para que este país em que nascemos, sem rei e sem escravos, se chame Estados Unidos do Brasil.
+Sê cristão e filósofo; crê unicamente na autoridade da razão, e não te alies jamais a seita alguma religiosa. Deus revela-se tão somente na razão do homem, não existe em Igreja alguma do mundo.
+Há dois livros cuja leitura recomendo-te: a Bíblia Sagrada e a Vida de Jesus por Ernesto Renan.
+Trabalha e sê perseverante.
+Lembra-te que escrevi estas linhas em momento supremo, sob a ameaça de assassinato. Tem compaixão de teus inimigos, como eu compadeço-me da sorte dos meus.*
+
+*Teu pai, Luiz Gama. (trechos da Carta de Luiz Gama ao filho Benedito Graccho, 1870).*

@@ -1,0 +1,1086 @@
+{
+  "run_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+  "answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/ChatGPT/Consolidado/escravidao_brasil.md",
+  "generated_at": "2026-11-04T02:41:45.740357Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 41575,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 229,
+    "citation_markers_distinct": 29,
+    "references_listed": 29,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 151,
+  "pct_supported": 51.65562913907284,
+  "pct_unsupported": 38.41059602649007,
+  "pct_contradicted": 0.0,
+  "count_supported": 78,
+  "count_unsupported": 58,
+  "count_contradicted": 0,
+  "count_skipped": 15,
+  "count_audited": 136,
+  "pct_supported_audited": 57.35294117647059,
+  "pct_unsupported_audited": 42.64705882352941,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 40,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 13,
+    "ref_bloqueada": 2
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 26,
+  "count_reclassified_by_verification": 13,
+  "verification_stage_counts": {
+    "context_expansion": 11,
+    "full_doc_scan": 2
+  },
+  "mis_cited_reference_count": 3,
+  "uncredited_reference_count": 3,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "f70a486cae35c55e",
+      "citation_markers": [
+        "[25]"
+      ],
+      "raw_url": "https://books.google.com/books?q=Sidney+Chalhoub+Vis%C3%B5es+da+liberdade",
+      "normalized_url": "https://books.google.com/books?q=Sidney+Chalhoub+Vis%C3%B5es+da+liberdade",
+      "work_key": "https://books.google.com/books?q=Sidney+Chalhoub+Vis%C3%B5es+da+liberdade",
+      "title": "**CHALHOUB, Sidney. Visões da liberdade: uma história das últimas décadas da escravidão na Corte.** Consulta bibliográfica no Google Books.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-04T02:38:32.329923Z",
+      "error_message": "Rate limit persistente em https://books.google.com/books?q=Sidney+Chalhoub+Vis%C3%B5es+da+liberdade",
+      "barrier_kind": null,
+      "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "4a896d0f9c2cf752",
+      "citation_markers": [
+        "[26]"
+      ],
+      "raw_url": "https://books.google.com/books?q=Hebe+Mattos+Das+cores+do+sil%C3%AAncio",
+      "normalized_url": "https://books.google.com/books?q=Hebe+Mattos+Das+cores+do+sil%C3%AAncio",
+      "work_key": "https://books.google.com/books?q=Hebe+Mattos+Das+cores+do+sil%C3%AAncio",
+      "title": "**MATTOS, Hebe. Das cores do silêncio: os significados da liberdade no Sudeste escravista — Brasil, século XIX.** Consulta bibliográfica no Google Books.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-04T02:39:06.934967Z",
+      "error_message": "Rate limit persistente em https://books.google.com/books?q=Hebe+Mattos+Das+cores+do+sil%C3%AAncio",
+      "barrier_kind": null,
+      "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "154a9a85ad6e3ef9",
+      "citation_markers": [
+        "[8]"
+      ],
+      "raw_url": "https://www2.senado.leg.br/bdsf/handle/id/1063",
+      "normalized_url": "https://www2.senado.leg.br/bdsf/handle/id/1063",
+      "work_key": "https://www2.senado.leg.br/bdsf/handle/id/1063",
+      "title": "**BETHELL, Leslie. A abolição do comércio brasileiro de escravos: a Grã-Bretanha, o Brasil e a questão do comércio de escravos, 1807–1869.** Biblioteca Digital do Senado Federal.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T02:37:21.594299Z",
+      "error_message": "barreira de acesso (anti_bot): Verificando sua conexão Estamos confirmando que este acesso é legítimo antes de liberar o conteúdo. Isso leva apenas alg",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "54fa02b8faeef94a",
+      "citation_markers": [
+        "[20]"
+      ],
+      "raw_url": "https://www2.senado.leg.br/bdsf/item/id/243294",
+      "normalized_url": "https://www2.senado.leg.br/bdsf/item/id/243294",
+      "work_key": "https://www2.senado.leg.br/bdsf/item/id/243294",
+      "title": "**Brasil, Congresso Nacional. A abolição no Parlamento: 65 anos de luta, 1823–1888.** Biblioteca Digital do Senado Federal.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T02:37:21.534148Z",
+      "error_message": "barreira de acesso (anti_bot): Verificando sua conexão Estamos confirmando que este acesso é legítimo antes de liberar o conteúdo. Isso leva apenas alg",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "696cde84ce565eeb",
+      "citation_markers": [
+        "[23]"
+      ],
+      "raw_url": "https://www.loc.gov/item/hlas-bi2017003171/",
+      "normalized_url": "https://loc.gov/item/hlas-bi2017003171",
+      "work_key": "https://loc.gov/item/hlas-bi2017003171",
+      "title": "**ALONSO, Angela. Flores, votos e balas: o movimento abolicionista brasileiro (1868–88). Registro bibliográfico, Library of Congress.**",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T02:36:15.682949Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "escravidao_brasil_137a0018af53_20261024T221651Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-21",
+      "reason": "Referencia(s) citada(s) ['154a9a85ad6e3ef9'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-22",
+      "reason": "Referencia(s) citada(s) ['154a9a85ad6e3ef9'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-50",
+      "reason": "Referencia(s) citada(s) ['f70a486cae35c55e', '4a896d0f9c2cf752'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-51",
+      "reason": "Referencia(s) citada(s) ['f70a486cae35c55e', '4a896d0f9c2cf752'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-75",
+      "reason": "Referencia(s) citada(s) ['54fa02b8faeef94a'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-91",
+      "reason": "Referencia(s) citada(s) ['f70a486cae35c55e', '4a896d0f9c2cf752'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-92",
+      "reason": "Referencia(s) citada(s) ['f70a486cae35c55e', '4a896d0f9c2cf752'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-97",
+      "reason": "Referencia(s) citada(s) ['f70a486cae35c55e', '4a896d0f9c2cf752'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-98",
+      "reason": "Referencia(s) citada(s) ['f70a486cae35c55e', '4a896d0f9c2cf752'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-101",
+      "reason": "Referencia(s) citada(s) ['f70a486cae35c55e', '4a896d0f9c2cf752'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-106",
+      "reason": "Referencia(s) citada(s) ['f70a486cae35c55e', '4a896d0f9c2cf752'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-139",
+      "reason": "Referencia(s) citada(s) ['696cde84ce565eeb'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-140",
+      "reason": "Referencia(s) citada(s) ['f70a486cae35c55e'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-141",
+      "reason": "Referencia(s) citada(s) ['4a896d0f9c2cf752'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-143",
+      "reason": "Referencia(s) citada(s) ['154a9a85ad6e3ef9'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "980d0b7e507ad49b",
+      "url": "https://www.scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg/?lang=pt",
+      "times_cited": 66,
+      "supported_count": 48,
+      "unsupported_count": 18,
+      "contradicted_count": 0,
+      "supporting_citations": 41,
+      "partial_citations": 16,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        1,
+        9,
+        10,
+        11,
+        36,
+        45,
+        46,
+        48,
+        52,
+        54,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        72,
+        73,
+        74,
+        85,
+        86,
+        88,
+        89,
+        113,
+        114,
+        115,
+        116,
+        119,
+        122,
+        123,
+        124,
+        134,
+        150
+      ],
+      "partial_positions": [
+        14,
+        15,
+        37,
+        38,
+        53,
+        55,
+        56,
+        70,
+        71,
+        76,
+        84,
+        117,
+        118,
+        125,
+        137,
+        149
+      ],
+      "absent_positions": [
+        6,
+        8,
+        39,
+        41,
+        87,
+        99,
+        100,
+        120,
+        133
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A abolição da escravidão no Brasil foi fenômeno complexo. A bibliografia especializada já registrou a relevância da lógica econômica, das instituições políticas e da resistência dos escravos para sua compreensão.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "bfef16fbfb6faa86",
+      "url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+      "times_cited": 25,
+      "supported_count": 15,
+      "unsupported_count": 10,
+      "contradicted_count": 0,
+      "supporting_citations": 10,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        12,
+        13,
+        49,
+        78,
+        79,
+        80,
+        82,
+        83,
+        90,
+        94
+      ],
+      "partial_positions": [
+        0,
+        77,
+        84,
+        85,
+        121
+      ],
+      "absent_positions": [
+        41,
+        81,
+        93,
+        95,
+        118,
+        122,
+        132,
+        133,
+        135,
+        149
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Art. 1º É declarada extincta desde a data d'esta Lei, a escravidão no Brazil. Art. 2º Revogam-se as disposições em contrário.",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "f70a486cae35c55e",
+      "url": "https://books.google.com/books?q=Sidney+Chalhoub+Vis%C3%B5es+da+liberdade",
+      "times_cited": 15,
+      "supported_count": 1,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        15,
+        50,
+        51,
+        52,
+        53,
+        91,
+        92,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        106,
+        140
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "4a896d0f9c2cf752",
+      "url": "https://books.google.com/books?q=Hebe+Mattos+Das+cores+do+sil%C3%AAncio",
+      "times_cited": 14,
+      "supported_count": 0,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        15,
+        28,
+        29,
+        50,
+        51,
+        91,
+        92,
+        97,
+        98,
+        101,
+        103,
+        104,
+        106,
+        141
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "2f98f5e0b6ca32e8",
+      "url": "https://www.scielo.br/j/alm/a/YXWgYBgsydBMjtMfWY3bdTK/?lang=pt",
+      "times_cited": 13,
+      "supported_count": 2,
+      "unsupported_count": 11,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        36
+      ],
+      "partial_positions": [
+        6,
+        7,
+        8,
+        26,
+        38
+      ],
+      "absent_positions": [
+        39,
+        40,
+        96,
+        102,
+        103,
+        104,
+        105
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Uma explicação que dê conta da totalidade da libertação de alguns territórios, assim como de todo o processo abolicionista, precisa trabalhar com as intersecções entre política e economia.",
+      "key_excerpt_position": 36
+    },
+    {
+      "reference_id": "1e3f4dff6caedc3a",
+      "url": "https://www.ibge.gov.br/estatisticas/sociais/populacao/25844-desigualdades-sociais-por-cor-ou-raca.html",
+      "times_cited": 11,
+      "supported_count": 2,
+      "unsupported_count": 9,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        16
+      ],
+      "partial_positions": [
+        132
+      ],
+      "absent_positions": [
+        107,
+        108,
+        109,
+        111,
+        120,
+        121,
+        122,
+        135,
+        136
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a por cor ou raça se revela como uma importante dimensão de exame em razão dos aspectos estruturais que condicionam a sua reprodução permanente ... evidenciam as severas desvantagens das pessoas pretas e pardas no que tange às dimensões necessárias para a reprodução e/ou a melhoria de suas condições de vida ... mercado de trabalho, distribuição de rendimento e condições de moradia, e educação ... Proporção de pessoas ocupadas em cargos gerenciais por cor ou raça ... Proporção de pessoas residindo em domicílios sem acesso serviços de saneamento",
+      "key_excerpt_position": 16
+    },
+    {
+      "reference_id": "74fb9ecfd96562cf",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l0601-1850.htm",
+      "times_cited": 8,
+      "supported_count": 2,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        27,
+        43
+      ],
+      "partial_positions": [
+        3,
+        28,
+        95
+      ],
+      "absent_positions": [
+        14,
+        29,
+        121
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "LEI Nº 601, DE 18 DE SETEMBRO DE 1850. Dispõe sobre as terras devolutas do Império. Art. 1º Ficam prohibidas as acquisições de terras devolutas por outro titulo que não seja o de compra. Exceptuam-se as terras situadas nos limites do Imperio com paizes estrangeiros em uma zona de 10 leguas, as quaes poderão ser concedidas gratuitamente.",
+      "key_excerpt_position": 27
+    },
+    {
+      "reference_id": "154a9a85ad6e3ef9",
+      "url": "https://www2.senado.leg.br/bdsf/handle/id/1063",
+      "times_cited": 8,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        2,
+        7,
+        21,
+        22,
+        23,
+        25,
+        26,
+        143
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "60693642693a51d8",
+      "url": "https://www.ipea.gov.br/portal/retrato/indicadores/renda-pobreza-e-desigualdade/apresentacao",
+      "times_cited": 7,
+      "supported_count": 1,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        110
+      ],
+      "partial_positions": [
+        17,
+        132
+      ],
+      "absent_positions": [
+        107,
+        108,
+        111,
+        136
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 2022, a renda das pessoas brancas era em média 87% maior que a renda das pessoas negras.",
+      "key_excerpt_position": 110
+    },
+    {
+      "reference_id": "e1f2c0428ae1cb87",
+      "url": "https://inclua.ipea.gov.br/igualdade-racial/",
+      "times_cited": 7,
+      "supported_count": 0,
+      "unsupported_count": 7,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        112,
+        129
+      ],
+      "absent_positions": [
+        111,
+        126,
+        131,
+        135,
+        136
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "As desigualdades raciais são reproduzidas na execução de políticas públicas",
+      "key_excerpt_position": 112
+    },
+    {
+      "reference_id": "250547ae7fb77700",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lim/LIM581.htm",
+      "times_cited": 6,
+      "supported_count": 1,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [
+        2,
+        24,
+        25
+      ],
+      "absent_positions": [
+        23,
+        41
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "LEI Nº 581, DE 4 DE SETEMBRO DE 1850. Estabelece medidas para a repressão do trafico de africanos neste Imperio. Eusebio de Queiroz Coitinho Mattoso Camara.",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "cb37d8cf4d30101c",
+      "url": "https://www.gov.br/mec/pt-br/lei-de-cotas",
+      "times_cited": 6,
+      "supported_count": 1,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        18,
+        126,
+        128
+      ],
+      "absent_positions": [
+        129,
+        131,
+        136
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Lei de Cotas, sancionada em 2012, é fruto da luta dos movimentos negros e de outros movimentos sociais pelo acesso ao ensino superior.",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "54fa02b8faeef94a",
+      "url": "https://www2.senado.leg.br/bdsf/item/id/243294",
+      "times_cited": 6,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        74,
+        75,
+        76,
+        77,
+        145,
+        149
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "534e1140ea980a2b",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lim/lim2040.htm",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        30,
+        31,
+        44
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        41
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Declara de condição livre os filhos de mulher escrava que nascerem desde a data desta lei... Art. 1º Os filhos de mulher escrava que nascerem no Imperio desde a data desta lei, serão considerados de condição livres. § 1º Os ditos filhos menores ficarão em poder o sob a autoridade dos senhores de suas mãis... até a idade de oito annos completos... ou de utilizar-se dos serviços do menor até a idade de 21 annos completos.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "85e33425d6c48bac",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/lim/LIM3270.htm",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        34,
+        47
+      ],
+      "partial_positions": [
+        33
+      ],
+      "absent_positions": [
+        41
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "São libertos os escravos de 60 annos de idade, completos antes e depois da data em que entrar em execução esta Lei; ficando, porém, obrigados, a titulo de indemnização pela sua alforria, a prestar serviços a seus ex-senhores pelo espaço de tres annos.",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "69d0527a478e423f",
+      "url": "https://fpabramo.org.br/livro/cenas-da-abolicao-escravos-e-senhores-no-parlamento-e-na-justica/",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        142
+      ],
+      "partial_positions": [
+        53,
+        55,
+        56
+      ],
+      "absent_positions": [
+        150
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Cenas da abolição retoma uma das questões centrais da história do Brasil, a abolição da escravatura, abordando o tema a partir dos debates parlamentares e das ações judiciais movidas por escravos contra seus senhores.",
+      "key_excerpt_position": 142
+    },
+    {
+      "reference_id": "668018611021dd96",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2003/l10.639.htm",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        127
+      ],
+      "partial_positions": [
+        18,
+        126,
+        131
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "LEI Nº 10.639, DE 9 DE JANEIRO DE 2003. [...] Art. 26-A. Nos estabelecimentos de ensino fundamental e médio, oficiais e particulares, torna-se obrigatório o ensino sobre História e Cultura Afro-Brasileira.",
+      "key_excerpt_position": 127
+    },
+    {
+      "reference_id": "3b2b5c21d8aa3fa9",
+      "url": "https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-4835-1-dezembro-1871-552265-publicacaooriginal-69374-pe.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        32
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Approva o Regulamento para a matricula especial dos escravos e dos filhos livres de mulher escrava... Art. 8º O Governo mandará proceder á matricula especial de todos os escravos existentes do Imperio... § 4º Serão tambem matriculados em livro distincto os filhos da mulher escrava, que por esta lei ficam livres.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "540f262aac1fa9f2",
+      "url": "https://www.slavevoyages.org/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        20,
+        144
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This database contains information on more than 37,000 maritime voyages trafficking enslaved people within the Americas between 1550 and 1887. [...] This database compiles information about more than 36,000 voyages that forcibly transported enslaved Africans across the Atlantic between 1514 and 1866. Search and analyze the database for information on the broad origins of enslaved people, the tortuous Middle Passage, and the destinations of Africans in the Americas.",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "1eb2f7848cad3a91",
+      "url": "https://abpnrevista.org.br/site/article/view/852",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        5,
+        35
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O contexto marcado pela colonialidade, pelo gradualismo e pelo próprio diploma legal, reproduziram condições de precariedade para a população negra.",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "00cb5a28f12765ad",
+      "url": "https://atom.senado.leg.br/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        145
+      ],
+      "absent_positions": [
+        149
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O **Arquivo Digital** é uma plataforma pela qual o Senado Federal disponibiliza uma parte do seu acervo histórico.",
+      "key_excerpt_position": 145
+    },
+    {
+      "reference_id": "c86fe6d5187bd205",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        130,
+        131
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "2c7a230b3b49eacb",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14723.htm",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        18,
+        128
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Altera a Lei nº 12.711, de 29 de agosto de 2012, para dispor sobre o programa especial para o acesso às instituições federais de educação superior e de ensino técnico de nível médio de estudantes pretos, pardos, indígenas e quilombolas e de pessoas com deficiência",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "39b73456473321b0",
+      "url": "https://brasil.un.org/pt-br/320175-onu-lança-página-em-português-sobre-escravidão-e-comércio-transatlântico-de-pessoas",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        19
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Segundo a UNESCO, cerca de 12,5 milhões de africanos e africanas foram deportados à força por meio do comércio transatlântico de pessoas escravizadas entre os séculos 16 e 19. Desse total, estima-se que aproximadamente 5 milhões tenham sido levados para o Brasil, tornando o país o principal destino desse sistema de exploração humana nas Américas.",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "9332e35ffbc9438b",
+      "url": "https://www.gov.br/museus/pt-br/museus-ibram/museu-da-abolicao",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        148
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Museu da Abolição foi inaugurado em 13 de maio de 1983. Sua primeira exposição foi \"O Processo Abolicionista Através dos Textos Oficiais\", composta, em grande parte, por acervos pertencentes a outras instituições culturais",
+      "key_excerpt_position": 148
+    },
+    {
+      "reference_id": "69d7823cca8714f5",
+      "url": "https://www.cambridge.org/core/books/last-abolition/9B7356DED946BE481BE3CBE0C19D7FF6",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        138
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Available for the first time in an English language edition, with a new introduction",
+      "key_excerpt_position": 138
+    },
+    {
+      "reference_id": "696cde84ce565eeb",
+      "url": "https://www.loc.gov/item/hlas-bi2017003171/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        139
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "035efbedc0021ad1",
+      "url": "https://memoria.bn.gov.br/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        146
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "5bd6f7cff737c015",
+      "url": "https://sian.an.gov.br/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        147
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-25",
+      "position": 25,
+      "claim_excerpt": "O fim efetivo das grandes entradas africanas não aboliu, entretanto, a instituição escravista: proprietários continuaram podendo comprar, vender e transferir pessoas dentro do território imperial.",
+      "cited_markers": "[1] [8]",
+      "corroborating_markers": "[7] [12] [9] [10]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-33",
+      "position": 33,
+      "claim_excerpt": "A Lei nº 3.270, de 28 de setembro de 1885, conhecida como Lei dos Sexagenários ou Saraiva-Cotegipe, representou outro compromisso gradualista.",
+      "cited_markers": "[4]",
+      "corroborating_markers": "[13] [7] [12] [2] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-56",
+      "position": 56,
+      "claim_excerpt": "A historiografia do pós-1970 transformou justamente esse tipo de evidência — processos, cartas, pedidos de alforria, registros policiais e ações de liberdade — em instrumento para reconstruir a agênc…",
+      "cited_markers": "[7] [11]",
+      "corroborating_markers": "[12]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 2788073,
+  "cost_tracked": false,
+  "processing_time_seconds": 879894.680336
+}

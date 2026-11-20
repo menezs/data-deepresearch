@@ -1,0 +1,1958 @@
+{
+  "run_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+  "answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+  "tool_name": "Gemini",
+  "answer_path": "answers/Ingles/Gemini/EmConsolidacao/rede_social_saude_mental_adolecentes.docx",
+  "generated_at": "2026-11-15T18:12:11.991427Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".docx",
+    "size_bytes": 3138466,
+    "page_count": null,
+    "pdf_title": "Word Document",
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": "2026-11-15 17:33:41+00:00",
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 202,
+    "citation_markers_distinct": 65,
+    "references_listed": 65,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 96,
+  "pct_supported": 51.041666666666664,
+  "pct_unsupported": 30.208333333333332,
+  "pct_contradicted": 1.0416666666666665,
+  "count_supported": 49,
+  "count_unsupported": 29,
+  "count_contradicted": 1,
+  "count_skipped": 17,
+  "count_audited": 79,
+  "pct_supported_audited": 62.0253164556962,
+  "pct_unsupported_audited": 36.708860759493675,
+  "pct_contradicted_audited": 1.2658227848101267,
+  "count_partially_supported": 26,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 12,
+    "ref_bloqueada": 5
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 5,
+  "count_reclassified_by_verification": 4,
+  "verification_stage_counts": {
+    "context_expansion": 3,
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 3,
+  "uncredited_reference_count": 5,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "3379b7b5769ba550",
+      "citation_markers": [
+        "[6]"
+      ],
+      "raw_url": "https://www.samhsa.gov/data/sites/default/files/NSDUH-2025-Annual-Release/2025-nsduh-nnr-highlights.pdf",
+      "normalized_url": "https://samhsa.gov/data/sites/default/files/NSDUH-2025-Annual-Release/2025-nsduh-nnr-highlights.pdf",
+      "work_key": "https://samhsa.gov/data/sites/default/files/NSDUH-2025-Annual-Release/2025-nsduh-nnr-highlights.pdf",
+      "title": "Substance Abuse and Mental Health Services Administration (SAMHSA), \"2025 NSDUH Annual Release Highlights\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-15T17:39:13.808912Z",
+      "error_message": "HTTP 403 em https://www.samhsa.gov/data/sites/default/files/NSDUH-2025-Annual-Release/2025-nsduh-nnr-highlights.pdf (PDF, sem fallback via playwright)",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "34fae9aa3a330a39",
+      "citation_markers": [
+        "[9]"
+      ],
+      "raw_url": "https://www.understandingsociety.ac.uk/wp-content/uploads/2024/11/Andrew-Przybylski.pdf",
+      "normalized_url": "https://understandingsociety.ac.uk/wp-content/uploads/2024/11/Andrew-Przybylski.pdf",
+      "work_key": "https://understandingsociety.ac.uk/wp-content/uploads/2024/11/Andrew-Przybylski.pdf",
+      "title": "Przybylski AK, \"Windows of Developmental Sensitivity to Social Media (Presentation)\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-15T17:39:50.070612Z",
+      "error_message": "HTTP 403 em https://www.understandingsociety.ac.uk/wp-content/uploads/2024/11/Andrew-Przybylski.pdf (PDF, sem fallback via playwright)",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "7eaa16374490d55a",
+      "citation_markers": [
+        "[30]"
+      ],
+      "raw_url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt56770/2024-nsduh-psr6-adol-mde-suicide.pdf",
+      "normalized_url": "https://samhsa.gov/data/sites/default/files/reports/rpt56770/2024-nsduh-psr6-adol-mde-suicide.pdf",
+      "work_key": "https://samhsa.gov/data/sites/default/files/reports/rpt56770/2024-nsduh-psr6-adol-mde-suicide.pdf",
+      "title": "SAMHSA, \"2022–2024 NSDUH: Major Depressive Episode or Serious Thoughts of Suicide in the Past Year among Adolescents\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-15T17:39:56.910023Z",
+      "error_message": "HTTP 403 em https://www.samhsa.gov/data/sites/default/files/reports/rpt56770/2024-nsduh-psr6-adol-mde-suicide.pdf (PDF, sem fallback via playwright)",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "6bbe42512f5ee1dd",
+      "citation_markers": [
+        "[31]"
+      ],
+      "raw_url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt57038/2025-nsduh-women-health-short-report/2025-nsduh-women-health-short-report.pdf",
+      "normalized_url": "https://samhsa.gov/data/sites/default/files/reports/rpt57038/2025-nsduh-women-health-short-report/2025-nsduh-women-health-short-report.pdf",
+      "work_key": "https://samhsa.gov/data/sites/default/files/reports/rpt57038/2025-nsduh-women-health-short-report/2025-nsduh-women-health-short-report.pdf",
+      "title": "SAMHSA, \"NSDUH Short Report: Substance Use Disorder and Major Depressive Episode among Females (2022–2024)\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-15T17:40:33.819925Z",
+      "error_message": "HTTP 403 em https://www.samhsa.gov/data/sites/default/files/reports/rpt57038/2025-nsduh-women-health-short-report/2025-nsduh-women-health-short-report.pdf (PDF, sem fallback via playwright)",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "0c75dc4b5247fe29",
+      "citation_markers": [
+        "[43]"
+      ],
+      "raw_url": "https://research.rug.nl/files/1569652992/Problematic_social_media_use_mental_health_.pdf",
+      "normalized_url": "https://research.rug.nl/files/1569652992/Problematic_social_media_use_mental_health_.pdf",
+      "work_key": "https://research.rug.nl/files/1569652992/Problematic_social_media_use_mental_health_.pdf",
+      "title": "University of Groningen / Archives of Public Health, \"Problematic Social Media Use, Mental Health, and Substance Use in Czech Adolescents: The Comparative Role of Extracurricular Activities — Findings from the 2022 HBSC Study\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-15T17:40:39.160268Z",
+      "error_message": "HTTP 403 em https://research.rug.nl/files/1569652992/Problematic_social_media_use_mental_health_.pdf (PDF, sem fallback via playwright)",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "6e169458ad24e7ad",
+      "citation_markers": [
+        "[7]"
+      ],
+      "raw_url": "https://www.samhsa.gov/blog/release-2025-nsduh-using-data-to-drive-great-american-recovery",
+      "normalized_url": "https://samhsa.gov/blog/release-2025-nsduh-using-data-to-drive-great-american-recovery",
+      "work_key": "https://samhsa.gov/blog/release-2025-nsduh-using-data-to-drive-great-american-recovery",
+      "title": "SAMHSA, \"Release of the 2025 NSDUH: Using Data to Drive the Great American Recovery\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T17:35:09.764486Z",
+      "error_message": "barreira de acesso (http_error): 403 Forbidden",
+      "barrier_kind": "http_error",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "10231868d6b5f7e8",
+      "citation_markers": [
+        "[24]"
+      ],
+      "raw_url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt56484/NSDUHDetailedTabs2024/NSDUHDetailedTabs2024/2024-nsduh-detailed-tables-sect7pe.htm?s=12%20to%2017&",
+      "normalized_url": "https://samhsa.gov/data/sites/default/files/reports/rpt56484/NSDUHDetailedTabs2024/NSDUHDetailedTabs2024/2024-nsduh-detailed-tables-sect7pe.htm?s=12+to+17",
+      "work_key": "https://samhsa.gov/data/sites/default/files/reports/rpt56484/NSDUHDetailedTabs2024/NSDUHDetailedTabs2024/2024-nsduh-detailed-tables-sect7pe.htm?s=12+to+17",
+      "title": "SAMHSA, \"2024 NSDUH Detailed Tables, Section 7 (Adolescent Major Depressive Episode Criteria)\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T17:36:33.303196Z",
+      "error_message": "barreira de acesso (http_error): 403 Forbidden",
+      "barrier_kind": "http_error",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "2216e8fc2252a581",
+      "citation_markers": [
+        "[33]"
+      ],
+      "raw_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-of-children-and-young-people-in-england/2023-wave-4-follow-up",
+      "normalized_url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-of-children-and-young-people-in-england/2023-wave-4-follow-up",
+      "work_key": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-of-children-and-young-people-in-england/2023-wave-4-follow-up",
+      "title": "NHS Digital, \"Mental Health of Children and Young People in England, 2023 – Wave 4 Follow Up\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T17:36:20.884395Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "0ef150bd993df3ea",
+      "citation_markers": [
+        "[34]"
+      ],
+      "raw_url": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24/suicidal-thoughts-suicide-attempts-and-self-harm",
+      "normalized_url": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24/suicidal-thoughts-suicide-attempts-and-self-harm",
+      "work_key": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24/suicidal-thoughts-suicide-attempts-and-self-harm",
+      "title": "NHS England, \"Adult Psychiatric Morbidity Survey: Survey of Mental Health and Wellbeing, England, 2023/4 — Suicidal Thoughts, Suicide Attempts and Self-Harm\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T17:36:47.714090Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "086835cb336b5e61",
+      "citation_markers": [
+        "[46]"
+      ],
+      "raw_url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307784",
+      "normalized_url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307784",
+      "work_key": "DOI:10.2105/ajph.2024.307784",
+      "title": "American Journal of Public Health (AJPH), \"Commentary on the National Academies Report 'Social Media and Adolescent Health'\" (2024) —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T17:36:44.482744Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "50aba8ae096e91cd",
+      "citation_markers": [
+        "[47]"
+      ],
+      "raw_url": "https://www.semanticscholar.org/paper/Social-media-use-and-its-impact-on-adolescent-An-of-Valkenburg-Meier/4db5117d5fefc571d0e2fabeddc55f9858935ed8",
+      "normalized_url": "https://semanticscholar.org/paper/Social-media-use-and-its-impact-on-adolescent-An-of-Valkenburg-Meier/4db5117d5fefc571d0e2fabeddc55f9858935ed8",
+      "work_key": "https://semanticscholar.org/paper/Social-media-use-and-its-impact-on-adolescent-An-of-Valkenburg-Meier/4db5117d5fefc571d0e2fabeddc55f9858935ed8",
+      "title": "Valkenburg PM, Meier A, & Beyens I, \"Social Media Use and Its Impact on Adolescent Mental Health: An Umbrella Review of the Evidence\" (Semantic Scholar, 2022) —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T17:36:56.457072Z",
+      "error_message": "barreira de acesso (anti_bot): Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your ac",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "ade97e7d24d392a8",
+      "citation_markers": [
+        "[51]"
+      ],
+      "raw_url": "https://www.semanticscholar.org/paper/The-association-between-adolescent-well-being-and-Orben-Przybylski/75e0601958dea426eeff0111ce879a4019dfbe83",
+      "normalized_url": "https://semanticscholar.org/paper/The-association-between-adolescent-well-being-and-Orben-Przybylski/75e0601958dea426eeff0111ce879a4019dfbe83",
+      "work_key": "https://semanticscholar.org/paper/The-association-between-adolescent-well-being-and-Orben-Przybylski/75e0601958dea426eeff0111ce879a4019dfbe83",
+      "title": "Orben A & Przybylski AK, \"The Association Between Adolescent Well-Being and Digital Technology Use\" (Nature Human Behaviour / Semantic Scholar, 2019) —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T17:38:00.187027Z",
+      "error_message": "barreira de acesso (anti_bot): Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your ac",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "df9dfd489e5b54e4",
+      "citation_markers": [
+        "[59]"
+      ],
+      "raw_url": "https://www.bmj.com/content/390/bmj.r1729",
+      "normalized_url": "https://bmj.com/content/390/bmj.r1729",
+      "work_key": "https://bmj.com/content/390/bmj.r1729",
+      "title": "The BMJ, \"Smartphone Bans in Schools: Where Is the Evidence?\" —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T17:38:15.901145Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "0a28b7cec49fdb69",
+      "citation_markers": [
+        "[65]"
+      ],
+      "raw_url": "https://academic.oup.com/pnasnexus/article/3/2/pgae037/7614669",
+      "normalized_url": "https://academic.oup.com/pnasnexus/article/3/2/pgae037/7614669",
+      "work_key": "https://academic.oup.com/pnasnexus/article/3/2/pgae037/7614669",
+      "title": "Galea S et al., \"Social Media and Adolescent Mental Health: A Consensus Report of the National Academies of Sciences, Engineering, and Medicine\" (PNAS Nexus / Oxford Academic, 2024) —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T17:38:36.810874Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-18",
+      "reason": "Referencia(s) citada(s) ['3379b7b5769ba550'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-23",
+      "reason": "Referencia(s) citada(s) ['7eaa16374490d55a', '6bbe42512f5ee1dd'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-24",
+      "reason": "Referencia(s) citada(s) ['6bbe42512f5ee1dd'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-31",
+      "reason": "Referencia(s) citada(s) ['2216e8fc2252a581', '0ef150bd993df3ea'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-44",
+      "reason": "Referencia(s) citada(s) ['0c75dc4b5247fe29'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-49",
+      "reason": "Referencia(s) citada(s) ['086835cb336b5e61'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-50",
+      "reason": "Referencia(s) citada(s) ['34fae9aa3a330a39', '50aba8ae096e91cd'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-52",
+      "reason": "Referencia(s) citada(s) ['34fae9aa3a330a39', '0c2bbeffda1d99c4', 'ade97e7d24d392a8'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-53",
+      "reason": "Referencia(s) citada(s) ['90597fcfba491d26', '34fae9aa3a330a39'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-54",
+      "reason": "Referencia(s) citada(s) ['90597fcfba491d26', '34fae9aa3a330a39'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-55",
+      "reason": "Referencia(s) citada(s) ['90597fcfba491d26', '34fae9aa3a330a39'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-56",
+      "reason": "Referencia(s) citada(s) ['90597fcfba491d26', '34fae9aa3a330a39'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-64",
+      "reason": "Referencia(s) citada(s) ['d8737c1efba52fe9'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-65",
+      "reason": "Referencia(s) citada(s) ['d8737c1efba52fe9'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-66",
+      "reason": "Referencia(s) citada(s) ['d8737c1efba52fe9'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-67",
+      "reason": "Referencia(s) citada(s) ['d8737c1efba52fe9'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-88",
+      "reason": "Referencia(s) citada(s) ['df9dfd489e5b54e4'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "0b5748b13c98da37",
+      "url": "https://www.researchgate.net/publication/378522291_Social_media_and_adolescent_mental_health_A_consensus_report_of_the_National_Academies_of_Sciences_Engineering_and_Medicine",
+      "times_cited": 10,
+      "supported_count": 3,
+      "unsupported_count": 7,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0,
+        5,
+        6,
+        47,
+        48,
+        76,
+        80,
+        81,
+        94,
+        95
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "99c8dac1a17d65cb",
+      "url": "https://www.cdc.gov/yrbs/youth-health-in-focus/mental-health.html",
+      "times_cited": 10,
+      "supported_count": 8,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        9,
+        10,
+        11,
+        12,
+        21,
+        22,
+        25
+      ],
+      "partial_positions": [
+        2,
+        8
+      ],
+      "absent_positions": [
+        1
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Persistent Feelings of Sadness or Hopelessness: 30%, 31%, 37%, 42%, 40%, 33%. ... A callout notes that in 2025, 33% of high school students experienced persistent feelings of sadness or hopelessness during the past 12 months.",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "f79f42918e3ba0d6",
+      "url": "https://dr.lib.iastate.edu/server/api/core/bitstreams/352457cb-75c1-4499-a5bf-5608c1ef86e5/content",
+      "times_cited": 9,
+      "supported_count": 3,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        47
+      ],
+      "partial_positions": [
+        46,
+        48,
+        94,
+        95
+      ],
+      "absent_positions": [
+        1,
+        6,
+        7
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "social media use is not monolithic. The affordances of different social media platforms allow for a broad range of behaviors that can have dramatically different psychological and health implications; considerable heterogeneity emerging in the literature suggests that the relation between social media and health may differ among individuals",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "069752bfe9ea3fbf",
+      "url": "https://www.ntia.gov/report/2024/kids-online-health-and-safety/online-health-and-safety-for-children-and-youth/identifying-risks-benefits-to-kids-health-safety-privacy-from-their-use-of-online-platforms/health",
+      "times_cited": 8,
+      "supported_count": 4,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        73,
+        77
+      ],
+      "partial_positions": [
+        4,
+        5,
+        68,
+        74,
+        76,
+        78
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The use of social media and other online platforms can influence key developmental processes that occur throughout childhood, especially during adolescence. These include: Identity Development and Exploration... Self-Disclosure... Social Status and Feedback. Attaining social status and acceptance among peers are central features of adolescent development. In the online world, there are quantifiable ways of assessing status and belonging—for example, the number and identity of “likes”",
+      "key_excerpt_position": 73
+    },
+    {
+      "reference_id": "90597fcfba491d26",
+      "url": "https://www.researchgate.net/publication/359509628_Windows_of_developmental_sensitivity_to_social_media",
+      "times_cited": 7,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0,
+        3,
+        46,
+        53,
+        54,
+        55,
+        56
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "34fae9aa3a330a39",
+      "url": "https://www.understandingsociety.ac.uk/wp-content/uploads/2024/11/Andrew-Przybylski.pdf",
+      "times_cited": 7,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        3,
+        50,
+        52,
+        53,
+        54,
+        55,
+        56
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "d6d2162db55e358a",
+      "url": "https://www.aeaweb.org/content/file?id=17257",
+      "times_cited": 7,
+      "supported_count": 5,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        58,
+        60,
+        61
+      ],
+      "partial_positions": [
+        4,
+        59,
+        62
+      ],
+      "absent_positions": [
+        57
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Our index of poor mental health, which aggregates all the relevant mental health variables in the NCHA survey, increased by 0.085 standard deviation units as a result of the introduction of Facebook.",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "65a02c3647b3d7ce",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9857400/",
+      "times_cited": 6,
+      "supported_count": 5,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        68,
+        70,
+        71,
+        72
+      ],
+      "partial_positions": [
+        69
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "social media behaviors in early adolescence may be associated with changes in adolescents' neural development; Social media provides a constant and unpredictable stream of social inputs to adolescents during a critical developmental period when the brain becomes especially sensitive to social rewards and punishments",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "c46aa7ecd1b2c90d",
+      "url": "https://www.hbsc.org/new-who-hbsc-report-sheds-light-on-adolescent-digital-behaviours-across-europe-central-asia-and-canada/",
+      "times_cited": 6,
+      "supported_count": 2,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        39,
+        94,
+        95
+      ],
+      "absent_positions": [
+        3,
+        5,
+        42
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This study reveals both the promise and the pitfalls of digital engagement for our young people. [...] they should rule social media, and not have social media ruling them.",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "d8737c1efba52fe9",
+      "url": "https://www.researchgate.net/publication/391460889_Social_media_use_in_adolescents_with_and_without_mental_health_conditions",
+      "times_cited": 6,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        3,
+        4,
+        64,
+        65,
+        66,
+        67
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6fa5388a14e67e71",
+      "url": "https://afsp.org/story/2025-youth-risk-behavior-survey-analysis-where-does-us-teen-mental-health-stand",
+      "times_cited": 6,
+      "supported_count": 6,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        10,
+        11,
+        13,
+        14,
+        27,
+        82
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The American Foundation for Suicide Prevention (AFSP), the largest private funder of suicide prevention research, recognizes these improvements as encouraging but cautions that distress rates remain high: 33% of high school students report experiencing persistent feelings of sadness or hopelessness... **Persistent sadness or hopelessness:** Declined from 40% to 33%, the largest two-year decrease since 1999... From 2015 to 2025, the percentage of students reporting a suicide attempt requiring medical treatment declined from 3% to 1%, while persistent feelings of sadness or hopelessness rose from 30% to 33%.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "3379b7b5769ba550",
+      "url": "https://www.samhsa.gov/data/sites/default/files/NSDUH-2025-Annual-Release/2025-nsduh-nnr-highlights.pdf",
+      "times_cited": 5,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        1,
+        2,
+        15,
+        17,
+        18
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "08341817f70288fd",
+      "url": "https://www.researchgate.net/publication/377975417_Problematic_social_media_use_in_childhood_and_adolescence",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        4,
+        68,
+        69,
+        75,
+        76
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "22b54b4489f13994",
+      "url": "https://www.scribd.com/document/774403211/237-256",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        5,
+        51,
+        75,
+        77,
+        81
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "86003f769d87a887",
+      "url": "https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        89,
+        90
+      ],
+      "partial_positions": [
+        6,
+        76,
+        92
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we've been monitoring how platforms have responded to the Social Media Minimum Age legislation. We're assessing what they've done - and where they're falling short.",
+      "key_excerpt_position": 89
+    },
+    {
+      "reference_id": "eec94f1603c62095",
+      "url": "https://www.pewresearch.org/internet/2025/12/09/teens-social-media-and-ai-chatbots-2025/",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        37
+      ],
+      "partial_positions": [
+        34,
+        35,
+        36,
+        38
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The share of teens who say they are on TikTok almost constantly ticked up slightly to 21% this year, from 16% in 2022. [...] Teen boys are more likely than girls to visit YouTube this often (20% vs. 13%). [...] Slightly larger shares of teen girls than boys report being on TikTok and Instagram almost constantly. [...] 35% of Black teens say they're on YouTube almost constantly, compared with 23% among Hispanic teens. Both groups are much more likely than White teens (8%) to say this. [...] Teens living in households that earn less than $75,000 annually are more likely than those in households earning $75,000 or more to say they use the internet almost constantly.",
+      "key_excerpt_position": 37
+    },
+    {
+      "reference_id": "8c2b5fb1cd291d4d",
+      "url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        2,
+        34,
+        35,
+        36
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "large shares of teens have or have access to a smartphone (95%)",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "3aa7b16cd9c85c16",
+      "url": "https://research.birmingham.ac.uk/en/publications/school-phone-policies-and-their-association-with-mental-wellbeing/",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        85
+      ],
+      "partial_positions": [
+        6,
+        83,
+        86
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "There is no evidence that restrictive school policies are associated with overall phone and social media use or better mental wellbeing in adolescents. The findings do not provide evidence to support the use of school policies that prohibit phone use during the school day in their current form",
+      "key_excerpt_position": 85
+    },
+    {
+      "reference_id": "8dd8714c822f43f5",
+      "url": "https://www.pewresearch.org/topic/internet-technology/user-demographics/age-generations-tech/teens-tech/",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        38,
+        84
+      ],
+      "absent_positions": [
+        35,
+        36
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "12% say they’ve gotten emotional support from these tools",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "cead78c76cf4f9ca",
+      "url": "https://www.who.int/europe/news/item/25-09-2024-teens--screens-and-mental-health",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        39,
+        40,
+        42
+      ],
+      "partial_positions": [
+        41
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Adolescents who are heavy but non-problematic users reported stronger peer support and social connections. [...] Previous research has found that problematic social media users also reported lower mental and social well-being and higher levels of substance use compared to non-problematic users and non-users. [...] The report defines problematic social media use as a pattern of behaviour characterized by addiction-like symptoms.",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "440f1e4818c7e9c0",
+      "url": "https://www.infrastructure.gov.au/media-communications/internet/online-safety/social-media-minimum-age",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        76,
+        90,
+        91
+      ],
+      "absent_positions": [
+        74
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "endless-feeds (infinite scroll)",
+      "key_excerpt_position": 76
+    },
+    {
+      "reference_id": "df9dfd489e5b54e4",
+      "url": "https://www.bmj.com/content/390/bmj.r1729",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        83,
+        85,
+        86,
+        88
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6e169458ad24e7ad",
+      "url": "https://www.samhsa.gov/blog/release-2025-nsduh-using-data-to-drive-great-american-recovery",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        2,
+        17,
+        20
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ceb6f503242233c9",
+      "url": "https://www.researchgate.net/publication/389352830_Smartphone_use_and_mental_health_going_beyond_school_restriction_policies",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        6,
+        87,
+        95
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "01fed4c22ff42a21",
+      "url": "https://www.oecd.org/en/publications/child-adolescent-and-youth-mental-health-in-the-21st-century_1092c3cb-en/full-report/trends-and-patterns-in-the-mental-health-status-of-children-adolescents-and-young-people_696bf3a0.html",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        29,
+        30
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        7
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "some time series data suggest that the declining trend in youth mental health started prior to pandemic. Figure 1.5. shows trends in relative level of mental distress amongst young people over time in six OECD countries. [...] In all countries except Korea, there is a clear increasing trend observable from around 2015-2017",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "898fe38fd9b6d1fa",
+      "url": "https://www.prnewswire.com/news-releases/where-does-us-teen-mental-health-stand-improvements-reported-but-disparities-persist-302934163.html",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        14,
+        27,
+        28
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the decrease in the student sample by nearly half (47%) from 20,103 students in 2023 to 10,710 in 2025 raises the question of whether these findings fully reflect the experiences of all U.S. high school students. In 2025, the question about transgender identity was eliminated from the survey despite evidence that transgender youth experience disproportionately greater suicide risk associated with stigma, discrimination, and other adverse experiences.",
+      "key_excerpt_position": 14
+    },
+    {
+      "reference_id": "e51f6efab63954de",
+      "url": "https://www.youngminds.org.uk/about-us/media-centre/mental-health-statistics/",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        33,
+        81
+      ],
+      "absent_positions": [
+        79
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In 2023/24, there were 78,577 young people waiting over a year for mental health treatment from the NHS",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "1952489c1fc1ec59",
+      "url": "https://www.cdc.gov/yrbs/results/2023-yrbs-results.html",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        45,
+        81
+      ],
+      "absent_positions": [
+        80
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The YRBS also included questions about experiencing racism in school, unfair discipline at school, and how often students used social media.",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "9523f5a007db4f58",
+      "url": "https://en.wikipedia.org/wiki/Online_Safety_Amendment_(Social_Media_Minimum_Age)_Act_2024",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        90
+      ],
+      "partial_positions": [
+        91,
+        92
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It was the first such legislation to be passed in the world. Facebook, Instagram, Reddit, Snapchat, TikTok, Twitter, Threads, Twitch, Kick, and YouTube were age‑restricted on 10 December 2025",
+      "key_excerpt_position": 90
+    },
+    {
+      "reference_id": "64d7053dcdf8e6bd",
+      "url": "https://www.kff.org/mental-health/state-indicator/adolescents-with-a-major-depressive-episode-in-the-past-year/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        15,
+        16
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "2023-2024",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "7eaa16374490d55a",
+      "url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt56770/2024-nsduh-psr6-adol-mde-suicide.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        21,
+        23
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6bbe42512f5ee1dd",
+      "url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt57038/2025-nsduh-women-health-short-report/2025-nsduh-women-health-short-report.pdf",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        23,
+        24
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "0ef150bd993df3ea",
+      "url": "https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/survey-of-mental-health-and-wellbeing-england-2023-24/suicidal-thoughts-suicide-attempts-and-self-harm",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        31,
+        33
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "fdd8d8cd10384611",
+      "url": "https://data-browser.hbsc.org/measure/problematic-social-media-use/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        40,
+        41
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "403e56b5c027d54f",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7919645/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        43
+      ],
+      "partial_positions": [
+        79
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "All | 57.1 (54.8–59.3) | 33.5 (31.6–35.5) | 9.4 (8.3–10.8) | 100 (3077) ... Feeling low | 26.1 (23.6–28.8) | 49.2 (45.5–52.9) | 53.5 (47.2–59.6) ... Morning tiredness | 25.3 (23.0–27.7) | 38.0(34.7–41.4) | 55.9 (49.3–61.8) ... Low | 46.1 (41.8–50.4) | 37.3 (33.6–41.1) | 16.7 (13.8–19.9) | 100 (644) ... High | 68.7 (64.9–72.3) | 25.5 (22.0–29.4) | 5.8 (4.1–8.0) | 100 (681)",
+      "key_excerpt_position": 43
+    },
+    {
+      "reference_id": "086835cb336b5e61",
+      "url": "https://ajph.aphapublications.org/doi/10.2105/AJPH.2024.307784",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        49,
+        95
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "50aba8ae096e91cd",
+      "url": "https://www.semanticscholar.org/paper/Social-media-use-and-its-impact-on-adolescent-An-of-Valkenburg-Meier/4db5117d5fefc571d0e2fabeddc55f9858935ed8",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        50,
+        51
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a5b6b02b292c0471",
+      "url": "https://web.stanford.edu/~gentzkow/research/facebook.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        57,
+        62
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We can also compare our SWB effects to what we would have estimated using the kind of correlational approach taken by many previous non-experimental studies.",
+      "key_excerpt_position": 57
+    },
+    {
+      "reference_id": "bc1eb98b4cefe7d6",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11880199/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        63
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        57
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This meta-analysis included a total of 38 effect sizes. [...] Stieger and Lewetz reported that 59% of participants visited social media at least once during the seven-day abstinence period, while Przybylski et al. noted a compliance rate of 49.50% across their three experiments. [...] the results of these social media abstinence studies are inconsistent",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "e5bb0a44b43145d4",
+      "url": "https://alexeymakarin.github.io/assets/Braghieri_Levy_Makarin_CEPR_eBook_2023.pdf",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        58
+      ],
+      "partial_positions": [
+        59
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In a recent paper (Braghieri et al. 2022), we provide the most comprehensive causal evidence to date on the effects of social media on mental health by leveraging a unique natural experiment: the staggered roll-out of Facebook across US college campuses.",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "7dee14625c74ac18",
+      "url": "https://www.researchgate.net/publication/366840818_Association_of_Habitual_Checking_Behaviors_on_Social_Media_With_Longitudinal_Functional_Brain_Development",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        70,
+        71
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "b1e91acc706b3693",
+      "url": "https://www.nationalelfservice.net/treatment/digital-health/smartphone-bans-schools-not-associated-better-mental-wellbeing/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        87
+      ],
+      "partial_positions": [
+        86
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "across all participants, greater smartphone and social media use was significantly associated with several negative outcomes including: Reduced mental wellbeing, Increases in anxiety, depression and problematic social media use, Increases in disruptive classroom behaviour, Poorer attainment in English and Maths, Decreased physical activity, Reduced sleep efficiency and sleep duration.",
+      "key_excerpt_position": 87
+    },
+    {
+      "reference_id": "a23d5c736466518c",
+      "url": "https://www.hindustantimes.com/world-news/teen-who-admitted-planning-terror-attack-in-sydney-says-he-used-ai-for-his-plans-report-101794293455598.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        89,
+        92
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A director of a mental health service voiced concerns, stating that \"73% of young people across Australia who accessed mental health support did so through social media\".",
+      "key_excerpt_position": 92
+    },
+    {
+      "reference_id": "3998ab9a493e8629",
+      "url": "https://www.cdc.gov/mmwr/volumes/73/su/su7304a9.htm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        8
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a cross-sectional, school-based survey conducted biennially since 1991. Each survey year, CDC collects data from a nationally representative sample of public and private school students in grades 9–12",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "10231868d6b5f7e8",
+      "url": "https://www.samhsa.gov/data/sites/default/files/reports/rpt56484/NSDUHDetailedTabs2024/NSDUHDetailedTabs2024/2024-nsduh-detailed-tables-sect7pe.htm?s=12%20to%2017&",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        16
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "9785433570474744",
+      "url": "https://www.nimh.nih.gov/health/statistics/major-depression",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [
+        17
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "An estimated 5.0 million adolescents aged 12 to 17 in the United States had at least one major depressive episode. This number represented 20.1% of the U.S. population aged 12 to 17. [...] In 2021, an estimated 3.7 million adolescents aged 12 to 17 in the United States had at least one major depressive episode with severe impairment in the past year. This number represented 14.7% of the U.S. population aged 12 to 17.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "52010855cf277424",
+      "url": "https://www.naco.org/news/samhsa-releases-new-2024-data-rates-mental-illness-and-substance-use-disorder-us",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        17
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "15.4 percent of adolescents aged 12 to 17 (about 3.8 million individuals) reported experiencing a major depressive episode (MDE). This is a slight decrease from 2023 where 18.1 percent of adolescents (around 4.5 million individuals) reported a MDE.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "4fa3defee3312e9d",
+      "url": "https://www.cdc.gov/nchs/products/databriefs/db471.htm",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        19
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Suicide rates for people aged 10–24 increased from 2007 through 2021 (from 6.8 deaths per 100,000 to 11.0)",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "f702d57f38192bed",
+      "url": "https://jedfoundation.org/new-cdc-data-show-youth-suicide-rates-are-declining-but-our-work-is-far-from-over/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        19
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Newly released data from the Centers for Disease Control and Prevention (CDC) offers a measure of hope: Although suicide rates were largely stable the past several years, rates among young people ages 10 to 24 declined in 2024 compared to the peak rates observed in 2021, during the height of the COVID-19 pandemic. At JED, we closely analyzed national suicide mortality data from 2021 to 2024 by sex and across age groups, race, and ethnicity. We found significant declines among young people ages 10 to 14, 15 to 19, and 20 to 24 — and overall across ages 10 to 24.",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "6c5a09365782797d",
+      "url": "https://www.samhsa.gov/blog/release-2024-nsduh-leveraging-latest-substance-use-mental-health-data-make-america-healthy-again",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        20
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Among the 3.8 million adolescents aged 12 to 17 in 2024 that had a past year major depressive episode, 60.6% (2.3 million) reported receiving mental health treatment in the past year",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "b405df8c4df78f59",
+      "url": "https://mhstats.org/blog/youth-mental-health-statistics",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        26
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In 2023, 53% of females and 65% of LGBTQ+ students reported persistent sadness, and LGBTQ+ students attempted suicide at more than three times the rate of heterosexual students (CDC, 2024). | LGBTQ+ | 65% | | Heterosexual | 31% | | LGBTQ+ | 20% | | Heterosexual | 6% |",
+      "key_excerpt_position": 26
+    },
+    {
+      "reference_id": "2216e8fc2252a581",
+      "url": "https://digital.nhs.uk/data-and-information/publications/statistical/mental-health-of-children-and-young-people-in-england/2023-wave-4-follow-up",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        31
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ddc608aca4f7ae47",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13314999/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        32
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In total there were 498 deaths likely due to suicide, during the 4 year period. Risk of death by suicide was 14.31 (13.08–15.63) per 1,000,000 CYP per year, with little evidence that risk (p = 0.863) or method (p = 0.199) changed over the period.",
+      "key_excerpt_position": 32
+    },
+    {
+      "reference_id": "c2890122e5c7ef6f",
+      "url": "https://iris.who.int/server/api/core/bitstreams/30bc5231-b9de-45fa-9e25-eb329c23689f/content",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        40
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Problematic users: Six or more symptoms of problematic use, regardless of contact frequency.",
+      "key_excerpt_position": 40
+    },
+    {
+      "reference_id": "0c75dc4b5247fe29",
+      "url": "https://research.rug.nl/files/1569652992/Problematic_social_media_use_mental_health_.pdf",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        44
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6c6e76438328e3b0",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11559676/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        45
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In 2023, for the first time, CDC's nationally representative Youth Risk Behavior Survey included an item assessing U.S. high school students' frequency of social media use. ... Overall, 77.0% of students reported frequent social media use ... Frequent social media use was associated with a higher prevalence of bullying victimization at school and electronically, persistent feelings of sadness or hopelessness, and some suicide risk among students (considering attempting suicide and having made a suicide plan) ... No significant differences in reports of attempted suicide by frequency of social media use were observed",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "d1d545cb0a36f0c5",
+      "url": "https://www.scirp.org/reference/referencespapers?referenceid=4372970",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        51
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "c7f2fd8d50312124",
+      "url": "https://publications.jrc.ec.europa.eu/repository/handle/JRC135339",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        51
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This umbrella review analyses the risks and opportunities for adolescents' mental health and well-being associated with Social Media use",
+      "key_excerpt_position": 51
+    },
+    {
+      "reference_id": "0c2bbeffda1d99c4",
+      "url": "https://www.researchgate.net/publication/358218905_Specification_curve_analysis_shows_that_social_media_use_is_linked_to_poor_mental_health_especially_among_girls",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "error",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        52
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ade97e7d24d392a8",
+      "url": "https://www.semanticscholar.org/paper/The-association-between-adolescent-well-being-and-Orben-Przybylski/75e0601958dea426eeff0111ce879a4019dfbe83",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        52
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "7ec5605972db036c",
+      "url": "https://mitsloan.mit.edu/press/academic-study-reveals-new-evidence-facebooks-negative-impact-mental-health-college-students",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        59
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a rise of 7% in the number of students who had suffered, at least once during the preceding year, from depression so severe that it was difficult for them to function; a rise of 20% in those who reported anxiety disorders; an increase in the percentage of students expected to experience moderate to severe depression - from 25% to 27%; a rise in the percentage of students who had experienced impairment to their academic performance due to depression or anxiety - from 13% to 16%.",
+      "key_excerpt_position": 59
+    },
+    {
+      "reference_id": "79a184f419eb152f",
+      "url": "https://www.cdc.gov/yrbs/youth-health-in-focus/index.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        78
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Fewer students got at least 8 hours of sleep on an average school night.",
+      "key_excerpt_position": 78
+    },
+    {
+      "reference_id": "dafc52e8a9d0c974",
+      "url": "https://www.hindustantimes.com/world-news/google-warns-australia-new-internet-safety-bill-could-cut-off-under-18s-from-gmail-meta-tiktok-snap-raise-alarm-101794204999792.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        93
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A proposed Australian internet law could force Google to block under-18s from using its Gmail service, an Australia-based company policy head said on Monday, underscoring an industry warning that the draft regulation risks overreach.",
+      "key_excerpt_position": 93
+    },
+    {
+      "reference_id": "956a71ef9ca3c7c0",
+      "url": "https://teen.gwnews.com/articles/aussies-opt-out",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        94
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Beginning in 2027, California and New York will have laws limiting algorithm-driven feeds for teenagers.",
+      "key_excerpt_position": 94
+    },
+    {
+      "reference_id": "0a28b7cec49fdb69",
+      "url": "https://academic.oup.com/pnasnexus/article/3/2/pgae037/7614669",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        95
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-3",
+      "position": 3,
+      "claim_excerpt": "Second, aggregate measures of daily screen duration consistently yield small average associations with well-being, obscuring sharper harms concentrated within compulsive use patterns, sex-specific de…",
+      "cited_markers": "[4] [9] [10] [11]",
+      "corroborating_markers": "[45] [42] [14] [53] [60] [1] [20]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-15",
+      "position": 15,
+      "claim_excerpt": "Nevertheless, independent clinical surveillance corroborates a post-2021 retreat from pandemic highs.",
+      "cited_markers": "[6] [23]",
+      "corroborating_markers": "[19] [35] [28] [29] [25] [21] [27]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_ecb3895829f2_20261115T173312Z-46",
+      "position": 46,
+      "claim_excerpt": "Disentangling whether social media causes adolescent psychopathology or reflects preexisting vulnerability sits at the center of contemporary behavioral science.",
+      "cited_markers": "[1] [4]",
+      "corroborating_markers": "[54] [42] [45] [12] [14] [3]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1544769,
+  "cost_tracked": false,
+  "processing_time_seconds": 2339.251087
+}

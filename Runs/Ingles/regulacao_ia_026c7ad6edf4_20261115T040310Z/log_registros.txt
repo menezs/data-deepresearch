@@ -1,0 +1,114 @@
+2026-11-15 00:03:10,619 INFO     __main__: Iniciando run regulacao_ia_026c7ad6edf4_20261115T040310Z para answers/Ingles/Claude/Emergente/regulacao_ia.md (ferramenta=Claude)
+2026-11-15 00:03:16,817 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-15 00:03:16,817 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-15 00:03:19,164 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 13159.37it/s]
+2026-11-15 00:03:27,368 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-15 00:03:27,374 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-15 00:03:27,382 INFO     auditframework.pipeline: Extraidas 39 referencias de answers/Ingles/Claude/Emergente/regulacao_ia.md (0 descartadas como artefato do exportador)
+2026-11-15 00:03:27,390 INFO     auditframework.pipeline: Resposta dividida em 98 trechos citados
+2026-11-15 00:03:27,392 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-15 00:03:27,392 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-15 00:03:27,395 INFO     auditframework.ingestion.service: Ingestao: 39 referencias, 0 ja baixadas, 0 ja bloqueadas, 39 pendentes
+2026-11-15 00:03:33,778 WARNING  trafilatura.core: discarding data: None
+2026-11-15 00:03:38,095 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf: Sem copia no Wayback: https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf
+2026-11-15 00:03:38,097 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf
+2026-11-15 00:03:40,228 WARNING  trafilatura.core: discarding data: None
+2026-11-15 00:03:43,290 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://eur-lex.europa.eu/eli/reg/2024/1689/2024-07-12/swe/pdf: Sem copia no Wayback: https://eur-lex.europa.eu/eli/reg/2024/1689/2024-07-12/swe/pdf
+2026-11-15 00:03:43,292 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://eur-lex.europa.eu/eli/reg/2024/1689/2024-07-12/swe/pdf
+2026-11-15 00:04:32,114 INFO     auditframework.ingestion.fetcher: Referencia https://www.cmtradelaw.com/2026/06/ustr-finds-certain-brazilian-practices-in-six-issue-areas-actionable-under-section-301-proposes-25-tariffs-on-brazilian-goods-and-invites-comments/ recuperada do Wayback (copia de 20260712121852)
+2026-11-15 00:04:37,814 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://www.consilium.europa.eu/en/policies/artificial-intelligence/timeline-artificial-intelligence/: Falha ao baixar a copia do Wayback de https://www.consilium.europa.eu/en/policies/artificial-intelligence/timeline-artificial-intelligence/: Rate limit persistente em http://web.archive.org/web/20251031093613id_/https://www.consilium.europa.eu/en/policies/artificial-intelligence/timeline-artificial-intelligence/
+2026-11-15 00:04:37,817 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em https://www.consilium.europa.eu/en/policies/artificial-intelligence/timeline-artificial-intelligence/
+2026-11-15 00:04:37,828 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 39/39 [01:10<00:00,  1.81s/ref]
+2026-11-15 00:04:37,830 INFO     auditframework.pipeline: Ingestao concluida: 36 documentos disponiveis
+2026-11-15 00:04:37,832 INFO     auditframework.terminal: ✓ ingestion concluído em 70.4s
+2026-11-15 00:04:37,832 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-15 00:04:39,117 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 36/36 [00:01<00:00, 28.09doc/s]
+2026-11-15 00:04:39,117 INFO     auditframework.indexing.service: Gerando embeddings para 670 chunks de 36 documentos
+2026-11-15 00:05:02,489 INFO     auditframework.terminal: Batches: 100%|██████████| 42/42 [00:23<00:00,  1.80it/s]
+2026-11-15 00:05:02,555 INFO     auditframework.pipeline: Indice construido a partir de 36 documentos
+2026-11-15 00:05:02,557 INFO     auditframework.terminal: ✓ indexing concluído em 24.7s
+2026-11-15 00:05:02,558 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-15 00:05:02,566 INFO     auditframework.pipeline: Julgamento: 98 chunks, 0 ja julgados, 0 ja pulados, 98 pendentes
+2026-11-15 00:05:02,567 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-0 nao sera auditado: Referencia(s) citada(s) ['3ddfb3d5c962b6de', '929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:03,476 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-15 00:05:04,057 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/98 [00:00<?, ?chunk/s]
+2026-11-15 00:05:04,163 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-15 00:05:04,275 INFO     auditframework.terminal: Loading weights:  33%|███▎      | 130/393 [00:00<00:00, 1299.90it/s]
+2026-11-15 00:05:04,371 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 1273.91it/s]
+2026-11-15 00:05:43,483 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-5 nao sera auditado: Referencia(s) citada(s) ['3ddfb3d5c962b6de'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:43,948 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-8 nao sera auditado: Referencia(s) citada(s) ['3ddfb3d5c962b6de', '02ce1ed0145f4f7d'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:43,950 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-9 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f', '3ddfb3d5c962b6de'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:43,951 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-10 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:44,323 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-12 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:46,654 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-14 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:46,655 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-15 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:47,021 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-17 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:47,022 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-18 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:47,024 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-19 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:47,025 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-20 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:48,923 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-26 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:53,334 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-43 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:05:53,892 WARNING  auditframework.indexing.retriever: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-47 nao sera auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:06:24,728 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 98/98 [01:22<00:00,  1.19chunk/s]
+2026-11-15 00:06:24,733 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-0 nao auditado: Referencia(s) citada(s) ['3ddfb3d5c962b6de', '929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:07:48,078 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-5 nao auditado: Referencia(s) citada(s) ['3ddfb3d5c962b6de'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:02,975 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-8 nao auditado: Referencia(s) citada(s) ['3ddfb3d5c962b6de', '02ce1ed0145f4f7d'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:02,977 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-9 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f', '3ddfb3d5c962b6de'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:02,978 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-10 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:05,755 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-12 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:09,823 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-14 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:09,824 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-15 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:12,234 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-17 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:12,236 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-18 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:12,237 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-19 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:08:12,238 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-20 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:09:03,858 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-26 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:12:26,904 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-43 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:12:52,297 WARNING  auditframework.pipeline: Chunk regulacao_ia_026c7ad6edf4_20261115T040310Z-47 nao auditado: Referencia(s) citada(s) ['929c7f3f8857377f'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-15 00:24:47,845 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 98/98 [18:23<00:00, 11.26s/chunk]
+2026-11-15 00:24:47,847 INFO     auditframework.terminal: ✓ judging concluído em 1185.3s
+2026-11-15 00:24:47,855 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-15 00:24:47,863 INFO     auditframework.pipeline: Relatorio gerado em data/runs/regulacao_ia_026c7ad6edf4_20261115T040310Z/report.md
+2026-11-15 00:24:47,864 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-15 00:24:47,864 INFO     __main__: Run regulacao_ia_026c7ad6edf4_20261115T040310Z concluida
+2026-11-15 00:24:47,865 INFO     auditframework.terminal: Relatorio gerado em data/runs/regulacao_ia_026c7ad6edf4_20261115T040310Z/report.md
+2026-11-17 22:17:03,379 INFO     auditframework.terminal: audit refetch regulacao_ia_026c7ad6edf4_20261115T040310Z
+2026-11-17 22:17:03,390 INFO     auditframework.ingestion.service: Ingestao: 39 referencias, 36 ja baixadas, 0 ja bloqueadas, 3 pendentes
+2026-11-17 22:17:27,077 INFO     auditframework.ingestion.fetcher: Referencia https://www.consilium.europa.eu/en/policies/artificial-intelligence/timeline-artificial-intelligence/ recuperada do Wayback (copia de 20251031093613)
+2026-11-17 22:18:21,925 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 3/3 [01:18<00:00, 26.16s/ref]
+2026-11-17 22:18:21,941 INFO     auditframework.terminal: regulacao_ia_026c7ad6edf4_20261115T040310Z: 3 fonte(s) sem conteudo, 3 recuperada(s)
+2026-11-17 22:18:21,941 INFO     auditframework.terminal:   https://www.consilium.europa.eu/en/policies/artificial-intelligence/timeline-artificial-intelligence/ — downloaded
+2026-11-17 22:18:21,941 INFO     auditframework.terminal:   https://eur-lex.europa.eu/eli/reg/2024/1689/2026-07-27/eng/pdf — downloaded
+2026-11-17 22:18:21,941 INFO     auditframework.terminal:   https://eur-lex.europa.eu/eli/reg/2024/1689/2024-07-12/swe/pdf — downloaded
+2026-11-17 22:18:22,109 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para data/runs/regulacao_ia_026c7ad6edf4_20261115T040310Z/invalidado-20261118T021821Z
+2026-11-17 22:18:22,109 INFO     auditframework.terminal: 21 trecho(s) citado(s) para julgar de novo (os demais mantem o veredito)
+2026-11-17 22:18:22,109 INFO     auditframework.terminal: Rode: audit resume regulacao_ia_026c7ad6edf4_20261115T040310Z
+2026-11-17 22:18:23,496 INFO     __main__: Retomando run regulacao_ia_026c7ad6edf4_20261115T040310Z
+2026-11-17 22:18:37,799 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 22:18:37,798 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 22:18:40,540 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 9552.22it/s]
+2026-11-17 22:19:11,098 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-17 22:19:11,154 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-17 22:19:11,154 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-17 22:19:11,157 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-17 22:19:14,843 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 39/39 [00:03<00:00, 10.63doc/s]
+2026-11-17 22:19:14,844 INFO     auditframework.indexing.service: Gerando embeddings para 1312 chunks de 39 documentos
+2026-11-17 22:20:13,330 INFO     auditframework.terminal: Batches: 100%|██████████| 82/82 [00:58<00:00,  1.40it/s]
+2026-11-17 22:20:13,592 INFO     auditframework.pipeline: Indice construido a partir de 39 documentos
+2026-11-17 22:20:13,606 INFO     auditframework.terminal: ✓ indexing concluído em 64.0s
+2026-11-17 22:20:13,608 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-17 22:20:13,651 INFO     auditframework.pipeline: Julgamento: 98 chunks, 77 ja julgados, 0 ja pulados, 21 pendentes
+2026-11-17 22:20:14,758 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-17 22:20:15,583 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/21 [00:00<?, ?chunk/s]
+2026-11-17 22:20:15,686 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-17 22:20:15,785 INFO     auditframework.terminal: Loading weights:  30%|███       | 119/393 [00:00<00:00, 1187.05it/s]
+2026-11-17 22:20:15,886 INFO     auditframework.terminal: Loading weights:  63%|██████▎   | 246/393 [00:00<00:00, 1232.49it/s]
+2026-11-17 22:20:15,894 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 1265.66it/s]
+2026-11-17 22:21:50,635 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 21/21 [01:36<00:00,  4.62s/chunk]
+2026-11-17 22:26:52,508 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 21/21 [05:01<00:00, 14.37s/chunk]
+2026-11-17 22:26:52,521 INFO     auditframework.terminal: ✓ judging concluído em 408.7s
+2026-11-17 22:26:52,532 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 22:26:52,550 INFO     auditframework.pipeline: Relatorio gerado em data/runs/regulacao_ia_026c7ad6edf4_20261115T040310Z/report.md
+2026-11-17 22:26:52,556 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 22:26:52,557 INFO     __main__: Run regulacao_ia_026c7ad6edf4_20261115T040310Z concluida
+2026-11-17 22:26:52,558 INFO     auditframework.terminal: Relatorio gerado em data/runs/regulacao_ia_026c7ad6edf4_20261115T040310Z/report.md

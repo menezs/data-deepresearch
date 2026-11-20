@@ -1,0 +1,233 @@
+[referencia=2f98f5e0b6ca32e8 score=0.272]
+Mas nem só de flores é feito o livro. Sua outra ideia central, que diz respeito à importância do abolicionismo para o fim da escravidão, é mais discutível que a anterior. Segundo Angela Alonso, o resultado obtido em 1888 não "foi nem obra dos escravos, nem de princesa" (p. 17) e - poderíamos acrescentar, de acordo com outras passagens do livro - nem fruto de condições econômico-demográficas, mas resultou diretamente da atuação de André Rebouças, Joaquim Nabuco, Luís Gama, José do Patrocínio e companhia. Com essa abordagem, a autora se afasta da interpretação que vincula o fim da escravidão às ações da família real, da explicação mais estruturalista da Escola de São Paulo (especialmente da obra de Emília Viotti da Costa) e de parte da corrente historiográfica que focou suas análises na agência escrava; e, assim, afina-se às concepções de Seymour Drescher e outros autores sobre o abolicionismo anglo-saxão como motor da história da emancipação dos cativos. O postulado, no entanto, acaba funcionando como uma faca de dois gumes: de um lado, reintroduz o movimento abolicionista como uma das variáveis centrais para a compreensão do processo que levou ao fim do cativeiro no país, cobrindo uma importante lacuna deixada pelas produções das últimas quatro décadas; de outro, joga de escanteio a participação dos escravos e as transformações econômicas e demográficas ocorridas nas últimas décadas do Império, ambas pouco incorporadas ao livro.
+
+---
+
+[referencia=980d0b7e507ad49b score=0.222]
+## TRÊS MITOS
+
+A abolição da escravidão no Brasil foi fenômeno complexo. A bibliografia especializada já registrou a relevância da lógica econômica, das instituições políticas e da resistência dos escravos para sua compreensão. Meu objetivo foi salientar a massiva e contínua pressão do movimento abolicionista sobre as instituições políticas imperiais, ao longo de duas décadas, e seu caráter decisivo para o desfecho do processo político que levou à abolição no Brasil, em 1888. Deixada à própria sorte, a escravidão acabaria no país algum dia, mas na segunda metade dos anos 1880 ainda havia propostas de prolongá-la até 1930. O movimento abolicionista teve o mérito de, no mínimo, encurtar o prazo.
+
+A história do movimento não coube inteira aqui. Ressaltei a estrutura analítica que empreguei na análise, ao custo de dar visão desencarnada do processo, sem detalhar personagens e situações. Preferi ressaltar dois mecanismos que definiram as linhas mestras do movimento. De um lado, a apropriação nacional da experiência estrangeira: os ativistas se valeram do repertório de confronto produzido por movimentos abolicionistas anteriores e o adaptaram às condições brasileiras. De outro lado, o jogo de forças: os abolicionistas definiram estratégias conforme posições dos governos e de seus antagonistas na sociedade. O processo político obedeceu a uma dinâmica relacional, desenrolou-se conforme ações e reações de movimento, contramovimento e Estado.
+
+Esta interpretação do abolicionismo como movimento social permite, creio, questionar três mitos.
+
+---
+
+[referencia=2f98f5e0b6ca32e8 score=0.213]
+Algo semelhante acontece com as transformações econômicas e demográficas, igualmente relativizadas em função do emprego da abordagem relacional. Ao afirmar que "os fatores decisivos para que [a escravidão] acabasse quando acabou foram políticos" (p. 336) - seguindo indicação de Robert Slenes em artigo clássico<sup>3</sup> -, Angela Alonso desconsidera evidências de ordem econômica e demográfica às quais ela mesma faz referência ao longo do livro. Isso ocorre, por exemplo, quando a autora analisa a ampliação do movimento abolicionista na década de 1880, que contou com um público "desvinculado da escravidão" por conta do "tráfico interprovincial [que] aglomerava escravos nas regiões de agricultura de exportação e nas famílias de posse" (p. 145); e quando explica a tática abolicionista de libertação dos cativos de determinadas províncias e cidades do país (especialmente p. 194, 213, 266). Ao contrário do que a autora defende, esses exemplos podem servir para refletir sobre o peso que as dimensões econômica e demográfica exerceram para o desfecho do processo abolicionista. Teriam sido essas variáveis tão relevantes quanto as ações dos sujeitos históricos? Ou ainda, como afirma a autora, a ação política teria sido preponderante sobre as outras duas?
+
+---
+
+[referencia=980d0b7e507ad49b score=0.140]
+Foi na campanha contra o tráfico de escravos, mostra Tilly (2005: 308), que os ingleses inventaram o "movimento social", essa   *maneira* extraparlamentar de fazer política, à qual recorrem grupos sem acesso ou capacidade de impactar a política institucional. Forma de ação que se caracterizaria por campanha de pressão sobre autoridades, sob forma de manifestações públicas; uso de mesmo repertório de confronto, isto é, de formas semelhantes de organização, expressão e ação; e envolve grande número de pessoas, cujo compromisso perdura ante adversidades (sobretudo repressão)<sup>8</sup>.
+
+A partir dessa concepção, levantei, em 35 jornais de nove províncias, 1.446 eventos de protesto abolicionista no Brasil entre 1868 e 1888. Aí se inclui uma variedade de estratégias de mobilização, sobretudo a organização de 293 associações exclusivas e de 600 manifestações públicas, como também iniciativas institucionais, ações diretas, simbólicas, de difusão e confrontação, que se distribuíram por 236 cidades do país, em todas as províncias do Império<sup>9</sup>, ao longo de duas décadas (1868-1888).
+
+
+A mobilização brasileira pela abolição da escravidão foi, pois, grande, estruturada e duradoura. Nesse sentido, mais similar ao padrão anglo-americano do que a literatura internacional reconhece<sup>11</sup>. À maneira desses precedentes, os brasileiros construíram uma rede coordenada e nacional de ativistas e associações e se valeram de uma pletora de estratégias de mobilização, inclusive propaganda de massas, recrutando grande número de adeptos. Essa mobilização de feições nacionais permite caracterizar o abolicionismo como nosso primeiro - e grande - movimento social.
+
+---
+
+[referencia=980d0b7e507ad49b score=0.086]
+*O Arauto de Minas*(1/1884-12/1884),
+
+*O Baependyano*(1/1880-12/1885),
+
+*O Lábaro do Futuro*(1/1882-12/1882); Paraíba -
+
+*Diário da Parahyba*(1/1884-12/1885);
+
+*Gazeta da Parahyba*(1/1888-12/1888); Rio Grande do Norte -
+
+*Gazeta do Natal*(1/1888-12/1888)
+
+*;*Rio de Janeiro -
+
+*O Abolicionista*(11/1880-12/1881),
+
+*Gazeta da Tarde*(1/1883-12/1886),
+
+*Cidade do Rio*(10/1887-5/1888);
+
+*São Paulo: A Redempção*(1/1887-5/1888). Vali-me ainda de resumos de atividades de Associação Central Emancipadora (seis boletins), Confederação Abolicionista (dois boletins, 1884) e Sociedade Brasileira Contra a Escravidão (um boletim, 1880), localizados na Oliveira Lima Library, Boletim da Sociedade Libertadora Norte Rio-Grandense (1/1888-4/1888); e
+
+*Almanach Adm Historico Estatistico e Mercantil da Província do Amazonas*(1/1884-12/1884), da Biblioteca Nacional, e eventos registrados nos diários de André Rebouças, depositados no IHGB, no Rio de Janeiro, e nos diários publicados de Joaquim Nabuco. Para as demais onze províncias, a pesquisa ainda está em andamento, o que torna provisórios os dados apresentados neste artigo.
+
+## **[11]**
+
+        
+        ## **[12]**
+
+        
+        ## **[13]**
+
+        
+        *brokerage*) e adaptação para que a difusão se processe (Tilly, 2005: 223-4).
+
+---
+
+[referencia=2f98f5e0b6ca32e8 score=0.085]
+No Império do Brasil, o reforço da escravidão materializou-se com a ascensão do grupo conhecido como Regresso, núcleo histórico do futuro partido Conservador, que empreendeu uma verdadeira política da escravidão, estabelecendo alianças com proprietários e políticos das principais regiões de agricultura exportadora e atuando de forma conjunta no Parlamento e nos espaços públicos do Rio de Janeiro em aberta defesa do tráfico negreiro e do cativeiro.<sup>7</sup> Paulino Soares de Sousa, o filho, personagem que no livro de Angela Alonso sintetiza o "escravismo de circunstância", foi o grande herdeiro da geração que havia ascendido nos escalões da macropolítica imperial defendendo a escravidão. Seu escravismo, portanto, não tinha nada de circunstancial. Representou, ao contrário, o ponto de chegada de uma vertente do liberalismo que buscou fazer frente ao projeto catapultado pela Grã-Bretanha de gerenciar a exploração social do trabalho por meio da liberdade individual. Paulino e seus seguidores protegiam com unhas e dentes o cativeiro como parte de um projeto civilizacional cuja estrutura residia na mais longa escravização possível de africanos e de seus descendentes. Tanto ele como a geração que o antecedeu costumavam projetar o fim da escravidão para um ponto futuro, desde que esse futuro fosse suficientemente longe da política do presente. Seu escravismo de linha do horizonte - vê-se o fim dele, mas ele nunca é alcançado - não era circunstancial. Encarnava a lógica da ideologia escravista imperial. Entender isso é, no fim das contas, compreender a temporalidade da escravidão brasileira no século XIX, elemento fundamental para avaliar de forma plena o abolicionismo que surgiu nos anos 1860.
+
+---
+
+[referencia=980d0b7e507ad49b score=0.072]
+O caso brasileiro precisa ser entendido como parte dessa sequência. Por meio de viagens, visitas de forasteiros, livros, jornais, sabia-se aqui da experiência estrangeira pregressa e acompanhavam-se os processos ainda em carne viva em duas grandes economias de *plantation*  do continente, Cuba e Estados Unidos. Em 1862, a Espanha aboliu o tráfico negreiro em território cubano e norte-americanos e ingleses selaram acordo para suprimi-lo definitivamente nas Américas (African Slave Trade Treaty Act). Os Estados Unidos aboliram a escravidão em 1865, pela via sangrenta - como, no começo do século, em São Domingos (Haiti) - da guerra civil. A Espanha prontamente respondeu, iniciando a abolição em suas colônias. Proibiria, de fato, o cativeiro em Porto Rico em 1873, embora o garantisse em terras cubanas até 1886.
+
+Assim, a partir da segunda metade dos anos 1860, o cenário internacional deixou o Brasil na situação incômoda de candidato a última nação escravista do mundo civilizado. Esse contexto ofereceu modelos de como lidar com a escravidão. Estado e escravistas tiveram de modular discursos e ações em prol da preservação da instituição para não destoar do resto do Ocidente. E a escala global da abolição abriu a possibilidade de circulação de experiências entre abolicionistas de diferentes países. O nascente movimento brasileiro buscou aí exemplos.
+
+---
+
+[referencia=980d0b7e507ad49b score=0.069]
+O segundo processo foi de crise política doméstica, em parte decorrente da dificuldade de lidar com a escravidão e que, em 1868, levou parte do Partido Liberal a protestar contra o governo Conservador no espaço público e reclamar reformas modernizadoras, aí incluída a abolição gradual da escravidão. O fato de esses políticos fazerem política fora das instituições, em conferências e jornais, funcionou como efeito demonstração de uso do espaço público para vocalizar temas que o sistema político barrava.
+
+O terceiro elemento estruturante dessa conjuntura foi uma reforma modernizadora, levada a cabo pelo Partido Conservador, então na chefia do Executivo, como resposta à crise. A reforma expandiu o acesso ao ensino superior e as possibilidades de criação de jornais, ampliando os participantes e espaços de debate público no Brasil. Também aprovou a Lei do Ventre Livre, em 1871, que libertou os escravos por nascer e dilacerou a unidade dos Conservadores. Dividida, a elite política se enfraqueceu em sua capacidade de resistir a mudanças.
+
+Assim, entre 1868 e 1871, se configuraram condições para o surgimento de um primeiro ciclo de mobilização antiescravista no espaço público, carreado por membros dissidentes da elite imperial e seus apadrinhados. Surgiram 26 associações antiescravistas16, caso da Sociedade Libertadora Sete de Setembro, de Abílio Cesár Borges, que encetaram ações institucionais, lobby, ações judiciais de liberdade, publicações e manifestações no espaço público. Ao mesmo tempo, iniciou-se reação política escravista no espaço público e nas instituições políticas.
+
+---
+
+[referencia=980d0b7e507ad49b score=0.068]
+Na mesma hora, Nabuco (*O País*, 19/4/1887) falou em nome da facção pernambucana: "[...] entra-se aqui em nova fase. [...]. Os abolicionistas desta província [Pernambuco] são todos francamente acoitadores de escravos, e [...] o açoitamento de escravos, hoje, [...], é o único meio de fazer executar o que a lei aboliu". *A Redempção*  (14/7/1887), veículo dos abolicionistas paulistas, foi incisivo: sendo impossível chegar à Abolição "por uma estrada coberta de flores, havemos de impor a solução infelizmente por uma estrada coberta de sangue, pela revolução".
+
+A disposição à resistência armada e a estratégia de fugas orientadas tornaram impraticável a continuidade da escravidão sem recurso à força. Tempo de balas, pois os donos de escravos pagaram para ver, com milícias privadas.
+
+Ante a possibilidade de guerra civil, setores da elite social e instituições até então desengajados do conflito intervieram em favor da abolição imediata, tentando conter o conflito. Foi a última fase do processo, momento de *certificação*20 de setores da elite imperial ao abolicionismo*,*  que começou em fins de 1887 e se desdobrou até maio de 1888. Decisivo foi o alinhamento do exército com os abolicionistas, em outubro de 1887, que inviabilizou a repressão estatal. Em seguida, segmentos da elite social, o Judiciário, a Igreja e o Partido Liberal declararam apoio ao fim da escravidão no curto prazo. Por fim, em fevereiro de 1888, a Coroa e uma ala do Partido Conservador, até aí bastião do escravismo, se declararam pró-abolição no curto prazo.
+
+---
+
+[referencia=2f98f5e0b6ca32e8 score=0.068]
+## <sup>**5**</sup>
+
+        
+        **5**
+
+*The Economic History Review,*New Series, Vol. 22, No. 1 (Apr., 1969), pp. 88-116; MARRISON, Andrew (ed.).
+
+*Free Trade and its Reception, 1815-1960*. London; New York: Routledge, 1998; ZEBERIO, Blanca. Un mundo rural en cambio. In: BONAUDO, Marta (dir.).
+
+*Nueva História Argentina, tomo 4: Liberalismo, Estado y orden burgués (1852-1880)*. Buenos Aires: Editorial Sudamericana, 1999, p. 293-362; SLENES, Robert W. Op. cit.; e SCHEFFER, Rafael da Cunha.
+
+*Comércio de escravos do Sul para o Sudeste, 1850-1888: economias microrregionais, redes de negociantes e experiência cativa*. Tese (Doutorado em História). Instituto de Filosofia, Letras e Ciências Humanas, Universidade de Campinas, Campinas, 2012.
+
+---
+
+[referencia=980d0b7e507ad49b score=0.067]
+## TRANSNACIONALISMO E REPERTÓRIO
+
+Já se atentou muito para o caráter mundial da escravidão, mas se trata o movimento abolicionista brasileiro como circunscrito ao Estado-nação, sem explorar sua interlocução com movimentos similares no exterior.
+
+E, no entanto, as abolições no Ocidente compuseram um grande ciclo de mobilização, começando pela Inglaterra no século XVIII e estendendo-se até a segunda metade do XIX. Mudanças estruturais compeliram ao abandono do escravismo em favor do trabalho livre, compatível com as formas capitalistas de produção que se disseminavam e com a expansão de mercados consumidores, mas cada país o fez no seu ritmo e ao seu modo. O fim da escravidão aconteceu em 1851 em Nova Granada (Colômbia); em 1852, no Havaí; em 1853, na Argentina; em 1854, no Peru e na Venezuela; em 1855, na Moldávia. Em 1860 e 1861, sistemas de servidão foram abolidos na Índia e na Rússia, respectivamente; em 1862 acabou a escravidão na Guiana Holandesa e, no ano seguinte, nas demais colônias bávaras. Apenas em 1869, Portugal a extinguiu em suas colônias africanas, e durou até 1873 o tráfico em Zanzibar e Madagascar. A instituição sobreviveu ainda em Gana (1878), na Bulgária (1879) e no Império Otomano (1882) (Drescher, 2009: 372 ss.).
+
+---
+
+[referencia=2f98f5e0b6ca32e8 score=0.067]
+Sem as condições materiais criadas pela economia global, os abolicionistas teriam encontrado uma realidade muito diversa para livrar a província do Ceará, a cidade de Porto Alegre e outros municípios gaúchos da existência de escravos na década de 1880. Foi graças às crescentes desigualdades regionais do Brasil induzidas pela dinâmica econômica global que a militância deles se tornou viável e apareceu, como Alonso destaca, a figura dos presidentes de província favoráveis à causa, elemento importante para sacramentar a abolição nos territórios mencionados. Como se vê, é discutível afirmar, nesse caso, que a política foi um fator mais decisivo que os demais. Uma explicação que dê conta da totalidade da libertação de alguns territórios, assim como de todo o processo abolicionista, precisa trabalhar com as intersecções entre política e economia. Ainda que esse não tenha sido o propósito da autora, dado seu foco no movimento abolicionista, é forçoso dizer que ela poderia ter dialogado mais com a bibliografia que descreve os processos econômicos globais e seus impactos no Império do Brasil para situar melhor as possibilidades de atuação dos agentes históricos que estudou.
+
+---
+
+[referencia=2f98f5e0b6ca32e8 score=0.067]
+Ainda assim, o ponto mais questionável de *Flores, votos e balas* reside na categoria "escravismo de circunstância", que Angela Alonso cunhou tendo por base uma leitura muito particular dos discursos emitidos pelos escravistas brasileiros. Para a autora, o termo descreve a atuação de Paulino Soares de Sousa e seu grupo a partir de 1871, quando teriam sido "compelidos pela conjuntura a justificar a situação escravista, sem defender a instituição em si" (p. 59). Tal afirmação, pode-se dizer, resulta de uma determinada compreensão da temporalidade da escravidão oitocentista brasileira. Como deixa evidente no primeiro capítulo, a autora, inspirada na obra de Seymour Drescher, entende a sequência de abolições ao redor do mundo como uma unidade histórica. Ainda que as enquadre em dois grandes ciclos - o primeiro, grosso modo, de 1791 a 1850, e o segundo da década de 1850 a 1888 -, essas abolições são descritas como pertencentes a um mesmo processo histórico de aproximadamente cem anos (p. 27-32). Essa perspectiva joga para um ponto cego diversos fenômenos históricos. Daí, provavelmente, o silêncio de Alonso sobre o período que vai de meados da década de 1830 à década de 1860, quando houve um reforço da escravidão tanto no Brasil, como em Cuba e nos Estados Unidos. Naquele lapso de tempo o cativeiro passou por uma nova configuração, atrelando-se de forma única à economia mundial e de forma diversa aos regimes representativos do século XIX.<sup>6</sup>
+
+---
+
+[referencia=2f98f5e0b6ca32e8 score=0.066]
+Vejamos como isso ocorre ao longo da obra, começando pelo problema da participação dos escravos. Como se sabe, um dos grandes avanços da história social consistiu em mostrar como a atuação dos cativos na década de 1880 teve impacto direto para a derrocada do sistema escravista brasileiro. Isso, no entanto, pouco aparece no livro de Angela Alonso, provavelmente porque a trinca de variáveis com as quais a autora trabalha (movimento, Estado e contramovimento) não leva em conta, por exemplo, a atuação dos cativos, agentes que não podem ser classificados nem como abolicionistas (movimento) e muito menos como escravistas (contramovimento). Assim, durante a fase das *balas*, as fugas em massa que atingiram principalmente as regiões cafeicultoras são vistas na maior parte do tempo como reflexo da militância antiescravista. Mesmo que a autora tenha feito questão de ressaltar que "o combate à escravidão não foi obra exclusiva dos abolicionistas" e que "havia ações autônomas dos escravos" (p. 305), essas dimensões não são efetivamente integradas à narrativa do livro.<sup>2</sup>
+
+---
+
+[referencia=980d0b7e507ad49b score=0.059]
+## INTERPRETAÇÕES DA ABOLIÇÃO
+
+As "diversas histórias" de que fala Nabuco vieram depois. Até mais ou menos os anos 1950, as abordagens seguiram tributárias do diapasão do memorialismo. Nabuco permaneceu a referência, seja por sua saliência no parlamento, seja pela riqueza de seu arquivo pessoal. Mas, a partir dos anos 1960, outros enfoques campearam, e, *grosso modo*, se aglutinaram em famílias acadêmicas, mais ou menos sucessivas<sup>3</sup>.
+
+Uma, marxista, reagiu à proeminência de atores, como Nabuco, ressaltando estruturas e processos socioeconômicos na explicação da abolição. Essa linha propôs uma leitura da escravidão como parte do sistema capitalista e instituição responsável pela singularização das nações pós-coloniais. A abolição é explicada a partir da dinâmica peculiar do capitalismo brasileiro e de sua expansão, que exigiria um mercado de trabalho livre. A contradição estrutural capitalismo-escravidão selaria a necessidade da abolição, que se imporia aos agentes. Essa perspectiva, popular nos anos 1960 e 1970, gerou um clássico, *Da senzala à colônia*, de Emilia Viotti (1966). Nela, o processo político tem pouca relevância explicativa e o movimento abolicionista nem comparece como objeto específico de investigação.
+
+---
+
+[referencia=2f98f5e0b6ca32e8 score=0.058]
+## <sup>**1**</sup>
+
+        
+        **1**
+
+*O movimento abolicionista como movimento social*. Novos Estudos Cebrap, São Paulo, n. 100, nov. 2014,
+
+## <sup>**2**</sup>
+
+        
+        **2**
+
+*Crime e escravidão: trabalho, luta e resistência nas lavouras paulistas (1830-1888)*. 2ª edição. São Paulo: EDUSP, 2014; AZEVEDO, Elciene.
+
+*O direito dos escravos: lutas jurídicas e abolicionismo na província de São Paulo.*São Paulo: Unicamp, 2010; MENDONÇA, Joseli Maria Nunes de.
+
+*Entre a mão e os anéis: a Lei dos Sexagenários e os caminhos da abolição no Brasil.*2ª edição. Campinas: Editora da Unicamp, 2008; e XAVIER, Regina Célia Lima.
+
+*A conquista da liberdade: libertos em Campinas na segunda metade do século XIX.*São Paulo: Centro de Memória/Editora da Unicamp, 1997.
+
+## <sup>**3**</sup>
+
+        
+        **3**
+
+*Brasil: história econômica e demográfica.*São Paulo: Instituto de Pesquisas Econômicas, 1986, pp. 103-55.
+
+---
+
+[referencia=2f98f5e0b6ca32e8 score=0.056]
+## <sup>**4**</sup>
+
+        
+        **4**
+
+*História Geral da Civilização Brasileira. O Brasil Monárquico, vol. 6: Declínio e Queda do Império,*pp. 103-66; BECKERT, Sven.
+
+*Empire of Cotton: A Global History*. New York: Alfred A. Knopf, 2014; e SLENES, Robert W. The Brazilian internal slave trade, 1850-1888: regional economies, slave experience, and the politics of a peculiar market. In: JOHNSON, Walter (ed.).
+
+*The chattel principle: internal slave trades in the Americas.*New Haven: Yale University Press, 2004, pp. 325-370. A título de curiosidade, vale lembrar que a biografia de João Capistrano de Abreu esteve estreitamente vinculada ao movimento descrito no parágrafo. O historiador era oriundo de família cearense que plantou algodão nos anos 1860, no contexto da Guerra Civil norte-americana, e vendeu seus escravos no decênio seguinte, quando a competição internacional se acirrou. Foi, inclusive, com o dinheiro da venda de um deles que Capistrano conseguiu pagar a passagem para o Rio de Janeiro e tentar a sorte na capital imperial. Sobre o tema, cf.. REIS, José Carlos. Capistrano de Abreu (1907). O surgimento de um
+
+*povo novo*: o povo brasileiro.
+
+*Revista de História*, São Paulo, 138 (1998), 63-82.
+
+---
+
+[referencia=980d0b7e507ad49b score=0.053]
+A dinâmica movimento/Estado/contramovimento estruturou o processo político da abolição e o dividiu em fases ou momentos decisivos.
+
+O primeiro foi de *gênese* da mobilização no espaço público, entre 1868 e 1871. Segundo McAdam, Tarrow e Tilly (2001), movimentos sociais surgem a partir de mudanças de oportunidades e ameaças políticas, isto é, alterações na balança de poder entre as autoridades - grupos ocupando cargos no Estado - e desafiantes - que se encontram fora das instituições políticas. Tipicamente são situações nas quais há cisão da coalizão política no comando do Estado, o que gera elites dissidentes, potenciais aliados para movimentos de contestação. A fratura interna reduz a capacidade estatal de reprimir protestos, propiciando aos desafiantes a possibilidade de exprimir publicamente seus pleitos, com chances mais baixas de repressão. A emergência de um movimento pela abolição no Brasil ocorreu bem antes do que diz Nabuco, a partir de 1868, quando três processos abriram oportunidades para a emergência do protesto antiescravista.
+
+Um diz respeito ao ambiente internacional. O fim da guerra civil norte-americana e o andamento da abolição nas colônias espanholas pôs a abolição na agenda brasileira a fórceps. A elite imperial, que empurrava a questão com pachorra desde o fim do tráfico negreiro, viu-se coagida a discutir medidas limitadoras do escravismo, para fazer face à nova cena internacional. O assunto produziu um racha intraelite entre uma ala modernizadora e outra resistente a qualquer mudança.
+
+---
+
+[referencia=980d0b7e507ad49b score=0.052]
+- _____. "Escravidão e razão nacional". Dados - Revista de Ciências Sociais, 31, 1988.
+- _____. Teatro de sombras: a política imperial. Rio de Janeiro: Vértice/ IUPERJ, 1988a.
+- _____. D. Pedro II: ser ou não ser. São Paulo: Companhia das Letras. 2007.
+- Carvalho, José Murilo e Bethel, Leslie (orgs). Joaquim Nabuco e os abolicionistas britânicos [correspondência 1880-1905]. Rio de Janeiro: Topbooks, 2008.
+- Castilho, Celso T. Abolitionism matters: the politics of antislavery in Pernambuco, Brazil. 1869-1888. PhD dissertation, University of California, Berkeley, 2008.
+- Chalhoub, Sidney. Visões da liberdade. Uma história das últimas décadas da escravidão na Corte. São Paulo: Companhia das Letras, 1990.
+- Conrad, Robert. The destruction of the Brazilian slavery. 1850-1888. University of California Press, 1972.
+- _____. Os últimos anos da escravatura no Brasil. Rio de Janeiro: Civilização Brasileira, 1975.
+- Davis, David. Slavery and human progress. Nova York: Oxford University Press, 1984.
+- Diani, Mario. "Networks and social movements: a research programme". In: Diani, Mario e McAdam, Doug (eds.). Social movements and networks. Relational approaches to collective action. Oxford Univ. Press, 2003.
+- Drescher, Seymour. Abolition. A history of slavery and antislavery. Cambridge University Press, 2009.
+- _____. Two variants of anti-slavery: religious organization and social mobilização in Britain and France, 1780-1870. In: Bolt, Christine; Drescher, Seymour. Anti-Slavery, Religion,and Reform: essays in memory of Roger Anstey. Folkestone, Engle: W. Dawson, 1980.
+- Duque Estrada, Osório. A Abolição; esboço histórico, 1831-1888. Rio de Janeiro: Leite Ribeiro & Murillo, 1918.
+
+---
+
+[referencia=980d0b7e507ad49b score=0.049]
+Essa narrativa tem óbvios inconvenientes. Um deles é marcar o início da mobilização no momento em que esse ativista-narrador começou o *seu* ativismo. Fica-se refém de seu ponto de vista e de sua seleção de eventos e atores. Por exemplo, embora mencione André Rebouças, em campanha antiescravidão desde o fim dos anos 1860, Nabuco nega-lhe primazia<sup>2</sup>. O segundo problema é o sobrepeso aos monarquistas como agentes da Abolição e a diminuição relativa da relevância de republicanos, como Luiz Gama. Terceiro, a iniciativa de acabar com a escravidão parece nascer apenas do interior das instituições políticas, com a mobilização social antiescravista no espaço público como fato caudatário. Pecado triplo, de anacronismo, expurgo e parcialidade.
+
+Nessa narrativa, esmaecem-se conjunturas políticas, somem fatores estruturais e certos atores se heroicizam, ao passo que outros penam esquecimento. O relevo à Coroa confere à Abolição uma coerência que processos políticos nunca têm, pois resultam de confronto entre grupos e forças sociais e não da habilidade, projeto ou empenho de um ator particular.
+
+Verdade seja dita, o próprio Nabuco (1900: 245-246) reconheceu a seletividade de sua reconstrução do abolicionismo:
+
+        Quem fará dentre os contemporâneos essa história com imparcialidade, justeza e penetração, sem deixar entrar nela a paixão política, o preço sectário, a fascinação ou sujeição pessoal? Ninguém, decerto, o que quer dizer que haverá no futuro diversas histórias.
+
+
+A despeito do aviso, sua versão virou guia para muitas interpretações posteriores (por exemplo, Oliveira Vianna, 1925).

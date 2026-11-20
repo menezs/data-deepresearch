@@ -1,0 +1,363 @@
+[
+  {
+    "id": "20f8e4b048b0484f",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/218316s002lbl.pdf",
+    "normalized_url": "https://accessdata.fda.gov/drugsatfda_docs/label/2026/218316s002lbl.pdf",
+    "work_key": "https://accessdata.fda.gov/drugsatfda_docs/label/2026/218316s002lbl.pdf",
+    "title": "1. **WEGOVY (semaglutide) Prescribing Information, 2026. U.S. Food and Drug Administration.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:15:53.990501Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ad53665ae02ab08b",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2307563",
+    "normalized_url": "https://nejm.org/doi/full/10.1056/NEJMoa2307563",
+    "work_key": "DOI:10.1056/nejmoa2307563",
+    "title": "2. **Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes.** *New England Journal of Medicine.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:10:29.406044Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a9abb45de2912673",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa1607141",
+    "normalized_url": "https://nejm.org/doi/full/10.1056/NEJMoa1607141",
+    "work_key": "DOI:10.1056/nejmoa1607141",
+    "title": "3. **Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.** *New England Journal of Medicine.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:10:31.148276Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "758a12e3e172f5f1",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.nejm.org/doi/10.1056/NEJMoa2501006",
+    "normalized_url": "https://nejm.org/doi/10.1056/NEJMoa2501006",
+    "work_key": "DOI:10.1056/nejmoa2501006",
+    "title": "4. **Oral Semaglutide and Cardiovascular Outcomes in High-Risk Type 2 Diabetes.** *New England Journal of Medicine.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:10:47.752845Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0d2acc0c31dcc29e",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.nejm.org/doi/full/10.1056/NEJMoa2306963",
+    "normalized_url": "https://nejm.org/doi/full/10.1056/NEJMoa2306963",
+    "work_key": "DOI:10.1056/nejmoa2306963",
+    "title": "5. **Semaglutide in Patients with Heart Failure with Preserved Ejection Fraction and Obesity.** *New England Journal of Medicine.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:10:26.253712Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "4191e06d1a0d1528",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.nejm.org/doi/10.1056/NEJMoa2403347",
+    "normalized_url": "https://nejm.org/doi/10.1056/NEJMoa2403347",
+    "work_key": "DOI:10.1056/nejmoa2403347",
+    "title": "6. **Effects of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes.** *New England Journal of Medicine.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:10:39.740692Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3f4a5d5a4922d3ed",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.nature.com/articles/s41591-024-03015-5",
+    "normalized_url": "https://nature.com/articles/s41591-024-03015-5",
+    "work_key": "DOI:10.1038/s41591-024-03015-5",
+    "title": "7. **Long-term Kidney Outcomes of Semaglutide in Obesity and Cardiovascular Disease in the SELECT Trial.** *Nature Medicine.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:16:58.138796Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6e79a02824eb9ee6",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://diabetesjournals.org/care/article/47/8/1350/156833/Effect-of-Semaglutide-on-Regression-and",
+    "normalized_url": "https://diabetesjournals.org/care/article/47/8/1350/156833/Effect-of-Semaglutide-on-Regression-and",
+    "work_key": "https://diabetesjournals.org/care/article/47/8/1350/156833/Effect-of-Semaglutide-on-Regression-and",
+    "title": "8. **Effect of Semaglutide on Regression and Progression of Glycemia in People With Overweight or Obesity but Without Diabetes in the SELECT Trial.** *Diabetes Care.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:40.831902Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1b9fc317d4cfbd00",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.nejm.org/doi/10.1056/NEJMoa2413258",
+    "normalized_url": "https://nejm.org/doi/10.1056/NEJMoa2413258",
+    "work_key": "DOI:10.1056/nejmoa2413258",
+    "title": "9. **Phase 3 Trial of Semaglutide in Metabolic Dysfunction–Associated Steatohepatitis.** *New England Journal of Medicine.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:10:45.600550Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "4edb8443a18e7743",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash",
+    "normalized_url": "https://fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash",
+    "work_key": "https://fda.gov/drugs/news-events-human-drugs/fda-approves-treatment-serious-liver-disease-known-mash",
+    "title": "10. **FDA Approves Treatment for Serious Liver Disease Known as ‘MASH’.** U.S. Food and Drug Administration.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:03.623044Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2ab293d8fc356fe5",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/42610271/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/42610271",
+    "work_key": "PMID:42610271",
+    "title": "11. **Effect of Semaglutide on the Inflammatory Biomarker High-Sensitivity CRP in Patients With Established Cardiovascular Disease and Overweight or Obesity in SELECT: A Prespecified Secondary Analysis.** *Circulation.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:04.402070Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "91c77f152b720726",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/42837024/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/42837024",
+    "work_key": "PMID:42837024",
+    "title": "12. **GLP-1 Receptor Agonists for Obstructive Sleep Apnea: A Meta-analysis of Randomized Controlled Trials.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:04.903534Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "18bb914a88f3d7b3",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-medication-obstructive-sleep-apnea",
+    "normalized_url": "https://fda.gov/news-events/press-announcements/fda-approves-first-medication-obstructive-sleep-apnea",
+    "work_key": "https://fda.gov/news-events/press-announcements/fda-approves-first-medication-obstructive-sleep-apnea",
+    "title": "13. **FDA Approves First Medication for Obstructive Sleep Apnea.** U.S. Food and Drug Administration.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:05.243273Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0f8282f1ddbbfb52",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/41865758/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/41865758",
+    "work_key": "PMID:41865758",
+    "title": "14. **Efficacy and Safety of Oral Semaglutide 14 mg in Early-Stage Symptomatic Alzheimer's Disease (evoke and evoke+): Two Phase 3 Randomised, Placebo-Controlled Trials.** *The Lancet.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:06.055017Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "052bb6eede208bf3",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/39937469/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/39937469",
+    "work_key": "PMID:39937469",
+    "title": "15. **Once-Weekly Semaglutide in Adults With Alcohol Use Disorder: A Randomized Clinical Trial.** *JAMA Psychiatry.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:06.752770Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b880a3b4a26d0afd",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/42070571/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/42070571",
+    "work_key": "PMID:42070571",
+    "title": "16. **Once-Weekly Semaglutide versus Placebo in Patients with Alcohol Use Disorder and Comorbid Obesity: A Randomised, Double-Blind, Placebo-Controlled Trial.** *The Lancet.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:07.206169Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9452584191e1d182",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
+    "normalized_url": "https://fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
+    "work_key": "https://fda.gov/drugs/drug-safety-communications/fda-requires-safety-labeling-changes-glucagon-peptide-1-receptor-agonists-glp-1-ras-due-potential",
+    "title": "17. **FDA Requires Safety Labeling Changes for GLP-1 Receptor Agonists Due to Potential Increased Risk of Rare but Serious Eye Condition.** U.S. Food and Drug Administration.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:07.546938Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1c3374f534c1ffe4",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001453",
+    "normalized_url": "https://ahajournals.org/doi/10.1161/CIR.0000000000001453",
+    "work_key": "DOI:10.1161/cir.0000000000001453",
+    "title": "18. **2026 AHA/ACC/ADA/ASN Guideline for the Prevention, Detection, Evaluation, and Management of Cardiovascular-Kidney-Metabolic Syndrome.** *Circulation.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:10:39.928576Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9044ae16602da532",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2026/209637s038lbl.pdf",
+    "normalized_url": "https://accessdata.fda.gov/drugsatfda_docs/label/2026/209637s038lbl.pdf",
+    "work_key": "https://accessdata.fda.gov/drugsatfda_docs/label/2026/209637s038lbl.pdf",
+    "title": "19. **OZEMPIC (semaglutide) Prescribing Information, 2026. U.S. Food and Drug Administration.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T13:17:25.659711Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semaglutina_saude_763e312081bf_20261115T131517Z",
+    "tool_name": "ChatGPT"
+  }
+]

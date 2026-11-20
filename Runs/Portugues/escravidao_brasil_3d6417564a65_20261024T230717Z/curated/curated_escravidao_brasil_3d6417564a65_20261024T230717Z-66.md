@@ -1,0 +1,16 @@
+[referencia=1ae12c948af1e9f5 score=0.999]
+# Luta de José do Patrocínio pela abolição da escravidão no Brasil
+
+29 janeiro 2024 às 18h00
+
+#### COMPARTILHAR
+
+Na edição seguinte ao Dia da Abolição da Escravidão no Brasil, em 13 de maio de 1888, quando a Princesa Isabel assinou a Lei Áurea, o jornal “Gazeta de Notícias” não se esqueceu do seu ilustre colaborador que escreveu tantos artigos defendendo a causa tão festejada naquele dia.
+
+José do Patrocínio, homem negro, foi jornalista e participou do movimento abolicionista integrando a Associação Central Emancipadora, instituição que reunia jornalistas e oradores que lutavam pelo fim da escravidão.
+
+Patrocínio criou a Guarda Negra da Redentora, formada por negros e ex-escravos, que defendia a monarquia e combatia o movimento republicano. Essa guarda exaltava a Princesa Isabel devido à sua assinatura na Lei Áurea.
+
+Logo após a Proclamação da República, José do Patrocínio se opôs ao governo do marechal Floriano Peixoto e, em 1892, apoiou a Revolta da Armada. Ele foi preso e deportado para o Amazonas.
+
+Retornando ao Rio de Janeiro, Patrocínio dedicou -se ao estudo sobre aviação. Em uma homenagem à Santos Dumont, ele passou mal enquanto fazia seu discurso. José do Patrocínio morreu vítima de tuberculose em 29 de janeiro de 1905. Ele só tinha 51 anos.

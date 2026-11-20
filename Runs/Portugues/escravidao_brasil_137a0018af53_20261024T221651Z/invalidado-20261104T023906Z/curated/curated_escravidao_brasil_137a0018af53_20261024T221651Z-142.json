@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-142",
+  "passages": [
+    {
+      "reference_chunk_id": "69d0527a478e423f-0",
+      "reference_id": "69d0527a478e423f",
+      "score": 0.9831090569496155,
+      "text": "*Cenas da abolição* retoma uma das questões centrais da história do Brasil, a abolição da escravatura, abordando o tema a partir dos debates parlamentares e das ações judiciais movidas por escravos contra seus senhores.\n\nPara Joseli Nunes Mendonça, o Parlamento, ao legislar sobre a escravidão, redefinia os contornos assumidos pelos conflitos entre senhores e escravos. Este, uma vez que as leis lhes outorgavam direitos – inclusive de se tornarem livre -, moveram-se ativamente para tornar esses direitos uma realidade.\n\nA coleção *História do povo brasileiro* busca oferecer uma visão abrangente e alternativa da história brasileira, combinando rigor historiográfico com linguagem acessível e publicando obras de autores de reconhecida competência nos temas selecionados para cada volume."
+    }
+  ],
+  "assembled_context": "[referencia=69d0527a478e423f score=0.983]\n*Cenas da abolição* retoma uma das questões centrais da história do Brasil, a abolição da escravatura, abordando o tema a partir dos debates parlamentares e das ações judiciais movidas por escravos contra seus senhores.\n\nPara Joseli Nunes Mendonça, o Parlamento, ao legislar sobre a escravidão, redefinia os contornos assumidos pelos conflitos entre senhores e escravos. Este, uma vez que as leis lhes outorgavam direitos – inclusive de se tornarem livre -, moveram-se ativamente para tornar esses direitos uma realidade.\n\nA coleção *História do povo brasileiro* busca oferecer uma visão abrangente e alternativa da história brasileira, combinando rigor historiográfico com linguagem acessível e publicando obras de autores de reconhecida competência nos temas selecionados para cada volume.",
+  "skip_reason": null
+}

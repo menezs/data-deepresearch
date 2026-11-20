@@ -1,0 +1,47 @@
+[referencia=4847115e1f0584b4 score=0.999]
+### **Resultados** 
+
+Entre os líderes que participaram do projeto, 84,6% acreditam que a semana de quatro dias trouxe benefícios para suas empresas. Eles destacaram melhorias notáveis em áreas como produtividade, bem-estar dos funcionários e engajamento. 15,4% dos líderes permaneceram neutros.
+
+Na amostragem geral dos participantes, 48,2% perceberam aumento no ritmo de trabalho, enquanto 46,6% notaram estabilidade. O nível de engajamento cresceu para 60,3% e produtividade aumentou para 71,5%. Em contrapartida, 65,6% disseram que a pressão no trabalho se manteve igual e 20,1% sentiram aumento.
+
+Quando o assunto é o bem-estar dos funcionários, uma comparação entre o início do piloto (dezembro de 2023) e o fim (julho de 2024) indicou 72,8% de redução de exaustão frequento por causa do trabalho e 30,5% de redução da ansiedade semanal. Além disso, 40,4% relataram que precisariam de um reajuste salarial de mais 50% para considerar retornar ao formato de cinco dias de trabalho.
+
+Com o fim do piloto, 46,2% das empresas participantes decidiram manter a redução horária exatamente como foi implementada; 38,5% vão estender o período de testes para avaliar os impactos a longo prazo; 7,7% planejam expandir a experiência para novas equipes; e outros 7,7% consideram ajustes no formato.
+
+---
+
+[referencia=4847115e1f0584b4 score=0.154]
+# Após piloto, 84% das lideranças aprovam semana de quatro dias
+
+Projeto da 4 Day Week Brazil foi realizado de dezembro de 2023 a junho deste ano com 19 empresas brasileiras e 252 colaboradores
+
+Em setembro do ano passado, teve início no Brasil um projeto para analisar a possibilidade de reduzir a jornada semanal de trabalho para quatro dias úteis. O piloto foi idealizado pela instituição global 4 Day Week, que já promoveu o mesmo processo em países como Reino Unido, Irlanda e Estados Unidos, e realizado pela parceira local 4 Day Week Brazil em parceria com a Fundação Getúlio Vargas.
+
+Agora, quase um ano depois, foram divulgados os resultados preliminares do estudo. Antes do início efetivo dos testes, em janeiro deste ano, as empresas participantes passaram por um processo de preparação com sessões de conteúdo durante quatro meses.
+
+O piloto seguiu até junho deste ano, quando foi realizada a pesquisa final para coleta de resultados. No total, 19 empresas empresas finalizaram os seis meses de implementação da semana de quatro dias, com um total de 252 colaboradores envolvidos
+
+---
+
+[referencia=4847115e1f0584b4 score=0.009]
+### **Análise dos participantes** 
+
+“O primeiro aprendizado foi de que não há uma fórmula mágica”, explica Renata Rivetti, fundadora do Reconnect Happiness at Work e parceira nacional do 4 Day Week Global. Nesse sentido, cada empresa ajustou o programa a sua cultura e necessidades. Entre os desafios, ela cita a necessidade de desmitificar a redução de jornada e mostrar que o foco do projeto é o ganho de produtividade e eficiência.
+
+“O que há de mais desafiador é essa mentalidade que valoriza e premia o workaholic”, aponta a executiva. Na MOL Impacto, uma das empresas participantes, o modelo considerado mais adequado foi o rodízio semanal de folgas, em que parte da equipe folga na segunda e outra na sexta.
+
+Entre as medidas adotadas, estão um mapeamento detalhado das responsabilidades e definição de quem substitui quem durante as ausências. Também foi preciso adaptar as rotinas incorporando práticas de foco e reorganizando as horas diárias, o que ainda não é feito em todas as áreas.
+
+“A necessidade de trabalhar de forma assíncrona e confiar na representação de colegas ausentes levou a uma melhoria na eficiência e foco”, aponta a CEO e cofundadora da Mol Impacto, Roberta Faria. Ela acrescenta: “Esses foram os ganhos no corporativo, mas acho que o principal ganho é a sensação de satisfação pessoal dos colaboradores”.
+
+Na Alimentare, a decisão foi que todos os profissionais participantes folguem às sextas-feiras. Caroline Soldi, coordenadora de planejamento estratégico da companhia, conta que os principais desafios foram relacionados ao redesenho de horários para garantir hiperfoco e evitar distrações.
+
+“Sem o redesenho de ambiente de trabalho, horários, tecnologia e comunicação, a semana de quatro dias não funciona. Pois não se trata de apenas apertar cinco dias em quatro sem qualquer tipo de adaptação”, descreve Soldi.
+
+---
+
+[referencia=4847115e1f0584b4 score=0.000]
+A agência Be.Comunica participou do projeto com foco, sobretudo, na atração e retenção de talentos após um ano de muito trabalho e alta rotatividade de colaboradores. Para se adequar, foi feita uma readequação da equipe para que as pessoas pudessem trabalhar em duplas que se alternam em folgas na sexta e segunda.
+
+Para Rodrigo Villaboim, sócio diretor da Be.Comunica, a experiência auxiliou na criatividade. “A partir do momento em que a pessoa consegue ficar em casa um dia a mais, ela volta muito mais oxigenada, engajada e produtiva. A entrega acaba sendo mais benéfica para o cliente e todos os parceiros com os quais trabalhamos”, afirma.

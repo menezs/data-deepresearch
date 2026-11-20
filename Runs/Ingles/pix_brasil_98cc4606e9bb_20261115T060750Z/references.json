@@ -1,0 +1,477 @@
+[
+  {
+    "id": "102d3ed3ffd0ee94",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "normalized_url": "https://bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "work_key": "https://bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "title": "1. Banco Central do Brasil, **Relatório de Gestão do Pix 2023–2025: Consolidação e avanços regulatórios**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:30.415701Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "7b00af1395157128",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.bis.org/publ/bisbull52.pdf",
+    "normalized_url": "https://bis.org/publ/bisbull52.pdf",
+    "work_key": "https://bis.org/publ/bisbull52.pdf",
+    "title": "2. Bank for International Settlements, **Central banks, the monetary system and public payment infrastructures: lessons from Brazil’s Pix**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:22.419488Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "d2c8fd50e499bd81",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/pix",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/pix",
+    "title": "3. Banco Central do Brasil, **Pix — trajetória, funcionamento e evolução**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:18.499541Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2d4da85080980183",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RCF/relatorio_de_cidadania_financeira_2025.pdf",
+    "normalized_url": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RCF/relatorio_de_cidadania_financeira_2025.pdf",
+    "work_key": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RCF/relatorio_de_cidadania_financeira_2025.pdf",
+    "title": "4. Banco Central do Brasil, **Relatório de Cidadania Financeira 2025**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:09:00.688044Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1a4407452cc29300",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://digitalfinance.worldbank.org/country/brazil",
+    "normalized_url": "https://digitalfinance.worldbank.org/country/brazil",
+    "work_key": "https://digitalfinance.worldbank.org/country/brazil",
+    "title": "5. World Bank, **Brazil — Global Snapshot of Digital Financial Services and Digital Connectivity**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:19.488533Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "62bf28a30e575342",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.worldbank.org/en/publication/globalfindex/report",
+    "normalized_url": "https://worldbank.org/en/publication/globalfindex/report",
+    "work_key": "https://worldbank.org/en/publication/globalfindex/report",
+    "title": "6. World Bank, **The Global Findex Database 2025**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:19.769866Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "d232e56b64bd8437",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://eesp.fgv.br/node/5501",
+    "normalized_url": "https://eesp.fgv.br/node/5501",
+    "work_key": "https://eesp.fgv.br/node/5501",
+    "title": "7. Fundação Getulio Vargas, **Impacto da adoção do PIX nos meios de pagamento**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:20.487065Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5d1d657519f0e933",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+    "normalized_url": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+    "work_key": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+    "title": "8. Princeton University, **Instant Payments, Financial Inclusion, and Access to Credit: Evidence from the Adoption of Pix in Brazil**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:20.899899Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b22522e263dc9187",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/gtpagamentos",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/gtpagamentos",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/gtpagamentos",
+    "title": "9. Banco Central do Brasil, **Grupo de trabalho — Pagamentos Instantâneos**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:27.819485Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "95cd47665c8dc7af",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=32927&tipo=Comunicado",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=32927&tipo=Comunicado",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=32927&tipo=Comunicado",
+    "title": "10. Banco Central do Brasil, **Comunicado nº 32.927, de 21 de dezembro de 2018**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:28.459499Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "4c73ce48f226d6cc",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=1&tipo=Resolu%C3%A7%C3%A3o%20BCB",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=1&tipo=Resolu%C3%A7%C3%A3o+BCB",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=1&tipo=Resolu%C3%A7%C3%A3o+BCB",
+    "title": "11. Banco Central do Brasil, **Resolução BCB nº 1, de 12 de agosto de 2020**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:35.069633Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b76146e5bb085608",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
+    "title": "12. Banco Central do Brasil, **Sistema de Pagamentos Instantâneos (SPI)**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:36.192782Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9a7b5aa8a4f0f5ea",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/participantespix",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/participantespix",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/participantespix",
+    "title": "13. Banco Central do Brasil, **Área das instituições participantes no Pix**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:37.371186Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c0bf8cd0d19fb935",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=19&tipo=RESOLU%C3%87%C3%83O%20BCB",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=19&tipo=RESOLU%C3%87%C3%83O+BCB",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/exibenormativo?numero=19&tipo=RESOLU%C3%87%C3%83O+BCB",
+    "title": "14. Banco Central do Brasil, **Resolução BCB nº 19, de 1º de outubro de 2020**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:42.141983Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3f3b9762709e00ec",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/meubc/faqs/p/quanto-o-cidadao-paga-para-usar-o-pix",
+    "normalized_url": "https://bcb.gov.br/meubc/faqs/p/quanto-o-cidadao-paga-para-usar-o-pix",
+    "work_key": "https://bcb.gov.br/meubc/faqs/p/quanto-o-cidadao-paga-para-usar-o-pix",
+    "title": "15. Banco Central do Brasil, **FAQs — Quanto o cidadão paga para usar o Pix?**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:43.153733Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9c1763091f40bb98",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/estabilidadefinanceira/relatorios_SPI/relatorio_anual_spi_2025.pdf",
+    "normalized_url": "https://bcb.gov.br/content/estabilidadefinanceira/relatorios_SPI/relatorio_anual_spi_2025.pdf",
+    "work_key": "https://bcb.gov.br/content/estabilidadefinanceira/relatorios_SPI/relatorio_anual_spi_2025.pdf",
+    "title": "16. Banco Central do Brasil, **Sistema de Pagamentos Instantâneos — Relatório Anual do SPI 2025**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:46.728892Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6de680ad84c198c3",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.bis.org/publications/qr-202403/fast-payments-design-and-adoption",
+    "normalized_url": "https://bis.org/publications/qr-202403/fast-payments-design-and-adoption",
+    "work_key": "https://bis.org/publications/qr-202403/fast-payments-design-and-adoption",
+    "title": "17. Bank for International Settlements, **Fast payments: design and adoption**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:43.525038Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f024b3e66b9e0177",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.elibrary.imf.org/view/journals/001/2026/007/article-A001-en.xml",
+    "normalized_url": "https://elibrary.imf.org/view/journals/001/2026/007/article-A001-en.xml",
+    "work_key": "https://elibrary.imf.org/view/journals/001/2026/007/article-A001-en.xml",
+    "title": "18. International Monetary Fund, **Fintech Competition and Banks’ Shrinking Margins in Brazil**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:45.745906Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a23b6e831cd1a911",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.nber.org/papers/w34280",
+    "normalized_url": "https://nber.org/papers/w34280",
+    "work_key": "https://nber.org/papers/w34280",
+    "title": "19. National Bureau of Economic Research, **Drivers of Digital Payment Adoption: Lessons from Brazil, Costa Rica, and Mexico**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T03:06:56.381106Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e1f89a222970ba24",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47410-internet-chega-a-95-de-domicilios-do-pais-em-2025",
+    "normalized_url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47410-internet-chega-a-95-de-domicilios-do-pais-em-2025",
+    "work_key": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47410-internet-chega-a-95-de-domicilios-do-pais-em-2025",
+    "title": "20. Instituto Brasileiro de Geografia e Estatística, **Internet chega a 95% de domicílios do país em 2025**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:46.449399Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1bb81415aef649b7",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.elibrary.imf.org/view/journals/002/2023/289/article-A004-en.xml",
+    "normalized_url": "https://elibrary.imf.org/view/journals/002/2023/289/article-A004-en.xml",
+    "work_key": "https://elibrary.imf.org/view/journals/002/2023/289/article-A004-en.xml",
+    "title": "21. International Monetary Fund, **Pix: Brazil’s Successful Instant Payment System**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:48.340958Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3840eab9f5e75580",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "normalized_url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "work_key": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "title": "22. Inter-American Development Bank, **Digital Transformation and Financial Inclusion: The Case of Instant Payments in Brazil**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:51.277594Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3721294f7af1afd3",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025",
+    "normalized_url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025",
+    "work_key": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025",
+    "title": "23. Instituto Brasileiro de Geografia e Estatística, **Proporção de usuários da internet no país ultrapassou 90% da população de 10 anos ou mais, em 2025**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:48.960354Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3ddd1dcda25d03e5",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://educa.ibge.gov.br/jovens/materias-especiais/21581-informacoes-atualizadas-sobre-tecnologias-da-informacao-e-comunicacao.html",
+    "normalized_url": "https://educa.ibge.gov.br/jovens/materias-especiais/21581-informacoes-atualizadas-sobre-tecnologias-da-informacao-e-comunicacao.html",
+    "work_key": "https://educa.ibge.gov.br/jovens/materias-especiais/21581-informacoes-atualizadas-sobre-tecnologias-da-informacao-e-comunicacao.html",
+    "title": "24. Instituto Brasileiro de Geografia e Estatística, **Informações atualizadas sobre tecnologias da informação e comunicação**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:49.339784Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a24049a4d5807b8b",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.bis.org/publications/paper-153-fast-payments-and-financial-inclusion-latin-america-and-caribbean",
+    "normalized_url": "https://bis.org/publications/paper-153-fast-payments-and-financial-inclusion-latin-america-and-caribbean",
+    "work_key": "https://bis.org/publications/paper-153-fast-payments-and-financial-inclusion-latin-america-and-caribbean",
+    "title": "25. Bank for International Settlements, **Fast payments and financial inclusion in Latin America and the Caribbean**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T06:08:50.666245Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_98cc4606e9bb_20261115T060750Z",
+    "tool_name": "ChatGPT"
+  }
+]

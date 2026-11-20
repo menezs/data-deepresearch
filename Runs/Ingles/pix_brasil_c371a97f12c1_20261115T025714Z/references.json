@@ -1,0 +1,762 @@
+[
+  {
+    "id": "35f5c93c45673f6f",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP600.pdf",
+    "normalized_url": "https://bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP600.pdf",
+    "work_key": "https://bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP600.pdf",
+    "title": "1. Sampaio & Ornelas, \"Payment Technology Complementarities and their Consequences in the Banking Sector: Evidence from Brazil's Pix,\" BCB Working Paper Series No. 600 (Sept 2024).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:30.616365Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a953ff16b2baa823",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://legismap.com.br/conteudos/artigos-e-noticias/bc-divulga-relatorio-de-gestao-do-pix-2023-2025-e-apresenta-agenda-de-evolucao-para-os-proximos-anos",
+    "normalized_url": "https://legismap.com.br/conteudos/artigos-e-noticias/bc-divulga-relatorio-de-gestao-do-pix-2023-2025-e-apresenta-agenda-de-evolucao-para-os-proximos-anos",
+    "work_key": "https://legismap.com.br/conteudos/artigos-e-noticias/bc-divulga-relatorio-de-gestao-do-pix-2023-2025-e-apresenta-agenda-de-evolucao-para-os-proximos-anos",
+    "title": "2. Legismap, \"BC divulga Relatório de Gestão do Pix 2023–2025 e apresenta agenda de evolução para os próximos anos\" (Aug 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:57:37.884812Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5b7dc28761c8fd72",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-bc-em-07-04-2026",
+    "normalized_url": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-bc-em-07-04-2026",
+    "work_key": "https://legismap.com.br/conteudos/artigos-e-noticias/noticias-bc-em-07-04-2026",
+    "title": "3. Legismap, \"Notícias BC em 07/04/2026\" (BCB retail payment statistics, 2H 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:57:37.881733Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "38a2b70a7736f991",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.infomoney.com.br/?p=1952024",
+    "normalized_url": "https://infomoney.com.br?p=1952024",
+    "work_key": "https://infomoney.com.br?p=1952024",
+    "title": "4. InfoMoney, \"46% da população adulta do Brasil nunca fez um Pix, aponta relatório do BC\" (6 Oct 2022).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:57:37.898325Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ca515750bf81c83b",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://economics.princeton.edu/wp-content/uploads/2025/03/instant_payments-_Sergey_Sarkisyan.pdf",
+    "normalized_url": "https://economics.princeton.edu/wp-content/uploads/2025/03/instant_payments-_Sergey_Sarkisyan.pdf",
+    "work_key": "https://economics.princeton.edu/wp-content/uploads/2025/03/instant_payments-_Sergey_Sarkisyan.pdf",
+    "title": "5. Sergey Sarkisyan, \"Instant Payment Systems and Competition for Deposits\" (slides, 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:42.651849Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3e97484ccd9f04b1",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.sipa.columbia.edu/sites/default/files/2026-02/liangetal%20%282%29.pdf",
+    "normalized_url": "https://sipa.columbia.edu/sites/default/files/2026-02/liangetal (2).pdf",
+    "work_key": "https://sipa.columbia.edu/sites/default/files/2026-02/liangetal (2).pdf",
+    "title": "6. Liang, Sampaio & Sarkisyan, \"Digital Payments and Monetary Policy Transmission\" (Feb 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:10.047501Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3646952cd08b16a5",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://arxiv.org/pdf/2608.13871",
+    "normalized_url": "https://arxiv.org/pdf/2608.13871",
+    "work_key": "ARXIV:2608.13871",
+    "title": "7. Burga, Cespedes, Parra & Ricca, \"Financial Technologies, Labor Markets, and Wage Inequality: Evidence from Instant Payment Systems,\" arXiv:2608.13871 (Aug 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:39.819837Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "aa88d85dfb053cd4",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://brasil61.com/n/anuario-de-seguranca-publica-brasil-registrou-mais-de-2-2-milhoes-de-casos-de-estelionato-em-2025-bras2616801",
+    "normalized_url": "https://brasil61.com/n/anuario-de-seguranca-publica-brasil-registrou-mais-de-2-2-milhoes-de-casos-de-estelionato-em-2025-bras2616801",
+    "work_key": "https://brasil61.com/n/anuario-de-seguranca-publica-brasil-registrou-mais-de-2-2-milhoes-de-casos-de-estelionato-em-2025-bras2616801",
+    "title": "8. Brasil 61, \"Anuário de Segurança Pública: Brasil registrou mais de 2,2 milhões de casos de estelionato em 2025\" (28 Jul 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:10.588197Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "84e20f22127a2ea5",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://cetic.br/media/analises/tic_domicilios_2025_principais_resultados.pdf",
+    "normalized_url": "https://cetic.br/media/analises/tic_domicilios_2025_principais_resultados.pdf",
+    "work_key": "https://cetic.br/media/analises/tic_domicilios_2025_principais_resultados.pdf",
+    "title": "9. Cetic.br, \"TIC Domicílios 2025 – Principais resultados\" (Dec 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:35.441711Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b782d264127ee303",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.opovo.com.br/noticias/economia/2025/12/04/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado.html",
+    "normalized_url": "https://opovo.com.br/noticias/economia/2025/12/04/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado.html",
+    "work_key": "https://opovo.com.br/noticias/economia/2025/12/04/apos-adiamentos-banco-central-desiste-de-regular-pix-parcelado.html",
+    "title": "10. O Povo / Agência Brasil, \"Após adiamentos, Banco Central desiste de regular Pix Parcelado\" (4 Dec 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:31.120006Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d5af779d9704441c",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.piie.com/blogs/realtime-economics/2026/latest-us-squeeze-brazil-jeopardizes-its-financial-autonomy",
+    "normalized_url": "https://piie.com/blogs/realtime-economics/2026/latest-us-squeeze-brazil-jeopardizes-its-financial-autonomy",
+    "work_key": "https://piie.com/blogs/realtime-economics/2026/latest-us-squeeze-brazil-jeopardizes-its-financial-autonomy",
+    "title": "11. Monica de Bolle, \"The latest US squeeze on Brazil jeopardizes its financial autonomy,\" PIIE RealTime Economics (9 Jun 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:33.598081Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "98456dda9a9115d9",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.cgap.org/blog/comparing-indias-upi-and-brazils-new-instant-payment-system-pix",
+    "normalized_url": "https://cgap.org/blog/comparing-indias-upi-and-brazils-new-instant-payment-system-pix",
+    "work_key": "https://cgap.org/blog/comparing-indias-upi-and-brazils-new-instant-payment-system-pix",
+    "title": "12. William Cook, \"Comparing India's UPI and Brazil's New Instant Payment System, PIX,\" CGAP (2 Feb 2021).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:34.170422Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6781184a2fd1a3e2",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.bis.org/publ/bisbull52.htm",
+    "normalized_url": "https://bis.org/publ/bisbull52.htm",
+    "work_key": "https://bis.org/publ/bisbull52.htm",
+    "title": "13. Duarte, Frost, Gambacorta, Koo Wilkens & Shin, \"Central banks, the monetary system and public payment infrastructures: lessons from Brazil's Pix,\" BIS Bulletin No. 52 (23 Mar 2022).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:36.573086Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d304c2236cfcbdde",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.bis.org/review/r250703g.htm",
+    "normalized_url": "https://bis.org/review/r250703g.htm",
+    "work_key": "https://bis.org/review/r250703g.htm",
+    "title": "14. Renato Dias de Brito Gomes, \"Emerging technologies, lessons from Pix and Drex, and future perspectives,\" BIS Central bankers' speeches (May 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:36.919205Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c9bc2fa751408186",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://portaldeprefeitura.com.br/brasil/pix-por-aproximacao-nova-modalidade-e-lancada-nesta-sexta-28/590177/",
+    "normalized_url": "https://portaldeprefeitura.com.br/brasil/pix-por-aproximacao-nova-modalidade-e-lancada-nesta-sexta-28/590177",
+    "work_key": "https://portaldeprefeitura.com.br/brasil/pix-por-aproximacao-nova-modalidade-e-lancada-nesta-sexta-28/590177",
+    "title": "15. Portal de Prefeitura, \"Pix por aproximação: nova modalidade é lançada nesta sexta (28)\" (28 Feb 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:37.542508Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d79d9878209dc519",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://eaesp.fgv.br/sites/default/files/arq-publicacao/2026-08/5-anos-do-pix-10-perguntas-para-entender-como-ele-se-espalhou-pelo-brasil-1.pdf",
+    "normalized_url": "https://eaesp.fgv.br/sites/default/files/arq-publicacao/2026-08/5-anos-do-pix-10-perguntas-para-entender-como-ele-se-espalhou-pelo-brasil-1.pdf",
+    "work_key": "https://eaesp.fgv.br/sites/default/files/arq-publicacao/2026-08/5-anos-do-pix-10-perguntas-para-entender-como-ele-se-espalhou-pelo-brasil-1.pdf",
+    "title": "16. Trevisan, Gonzalez, Diniz & Cernev, \"5 Anos do Pix: 10 perguntas para entender como ele se espalhou pelo Brasil,\" FGV EAESP Cemif (Nov 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:44.384529Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b9cf048a318e6ea2",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+    "normalized_url": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+    "work_key": "https://metropoles.com/brasil/pix-bate-recorde-em-2025-e-movimenta-r-354-trilhoes",
+    "title": "17. Metrópoles, \"Pix bate recorde em 2025 e movimenta R$ 35,4 trilhões\" (7 Feb 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:38.247715Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "719bbfb995f6940f",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://mercadoeconsumo.com.br/09/10/2026/meios-de-pagamento/pix-ultrapassa-1-bilhao-de-chaves-cadastradas-no-brasil/",
+    "normalized_url": "https://mercadoeconsumo.com.br/09/10/2026/meios-de-pagamento/pix-ultrapassa-1-bilhao-de-chaves-cadastradas-no-brasil",
+    "work_key": "https://mercadoeconsumo.com.br/09/10/2026/meios-de-pagamento/pix-ultrapassa-1-bilhao-de-chaves-cadastradas-no-brasil",
+    "title": "18. Mercado&Consumo, \"Pix ultrapassa 1 bilhão de chaves cadastradas no Brasil\" (9 Oct 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:39.565971Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7b6fab40049d082c",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://economicnewsbrasil.com.br/2026/11/09/recorde-do-pix-movimentacao-consumo/",
+    "normalized_url": "https://economicnewsbrasil.com.br/2026/11/09/recorde-do-pix-movimentacao-consumo",
+    "work_key": "https://economicnewsbrasil.com.br/2026/11/09/recorde-do-pix-movimentacao-consumo",
+    "title": "19. Economic News Brasil, \"Pix movimenta R$ 180,5 bilhões em um dia, mas recorde não significa mais consumo\" (9 Nov 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:39.936959Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "347d3ebe6b50ca6f",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://finsidersbrasil.com.br/pagamentos/fintechs-ja-dominam-metade-das-transacoes-feitas-no-pix-diz-bc/",
+    "normalized_url": "https://finsidersbrasil.com.br/pagamentos/fintechs-ja-dominam-metade-das-transacoes-feitas-no-pix-diz-bc",
+    "work_key": "https://finsidersbrasil.com.br/pagamentos/fintechs-ja-dominam-metade-das-transacoes-feitas-no-pix-diz-bc",
+    "title": "20. Finsiders Brasil, \"Fintechs já dominam metade das transações feitas no Pix, diz BC\" (10 Aug 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:40.289762Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6da30963d1c5cd6e",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.infomoney.com.br/?p=1824394",
+    "normalized_url": "https://infomoney.com.br?p=1824394",
+    "work_key": "https://infomoney.com.br?p=1824394",
+    "title": "21. InfoMoney/Reuters, \"Pix é mais barato que pagamentos por cartões, dizem economistas do BC\" (23 Mar 2022).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:40.585172Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e1bd68833fb67bf9",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.contabeis.com.br/noticias/48957/pix-foi-ferramenta-de-1a-transferencia-bancaria-de-cerca-de-40-milhoes-de-pessoas/",
+    "normalized_url": "https://contabeis.com.br/noticias/48957/pix-foi-ferramenta-de-1a-transferencia-bancaria-de-cerca-de-40-milhoes-de-pessoas",
+    "work_key": "https://contabeis.com.br/noticias/48957/pix-foi-ferramenta-de-1a-transferencia-bancaria-de-cerca-de-40-milhoes-de-pessoas",
+    "title": "22. Contábeis, \"Pix foi ferramenta de 1ª transferência bancária de cerca de 40 milhões de pessoas\" (7 Oct 2021).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:40.850864Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a25800d4d7023e3a",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+    "normalized_url": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+    "work_key": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/serie_cidadania/serie_cidadania_financeira_7_Global_Findex.pdf",
+    "title": "23. Banco Central do Brasil, \"Série Cidadania Financeira nº 7 – Global Findex\" (Jan 2023).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:59.993525Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ce4ef0b8fb18629f",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "normalized_url": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "work_key": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "title": "24. Banco Central do Brasil, \"Relatório de Cidadania Financeira 2025\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:23.943217Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "796fbe82226ab347",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.infomoney.com.br/minhas-financas/pix-e-usado-por-71-dos-brasileiros-taxa-de-aprovacao-chega-a-99-entre-jovens-indica-pesquisa-da-febraban/",
+    "normalized_url": "https://infomoney.com.br/minhas-financas/pix-e-usado-por-71-dos-brasileiros-taxa-de-aprovacao-chega-a-99-entre-jovens-indica-pesquisa-da-febraban",
+    "work_key": "https://infomoney.com.br/minhas-financas/pix-e-usado-por-71-dos-brasileiros-taxa-de-aprovacao-chega-a-99-entre-jovens-indica-pesquisa-da-febraban",
+    "title": "25. InfoMoney, \"Pix é usado por 71% dos brasileiros; taxa de aprovação chega a 99% entre jovens, indica pesquisa da Febraban\" (28 Dec 2021).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:43.938488Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2c4c3ee30ffdb4a6",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://poverty-action.org/what-brazils-micro-and-small-businesses-reveal-about-future-digital-finance",
+    "normalized_url": "https://poverty-action.org/what-brazils-micro-and-small-businesses-reveal-about-future-digital-finance",
+    "work_key": "https://poverty-action.org/what-brazils-micro-and-small-businesses-reveal-about-future-digital-finance",
+    "title": "26. Innovations for Poverty Action, \"What Brazil's Micro and Small Businesses Reveal About the Future of Digital Finance\" (13 May 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:44.539638Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "30e6c5302f0447af",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP619.pdf",
+    "normalized_url": "https://bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP619.pdf",
+    "work_key": "https://bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP619.pdf",
+    "title": "27. Gonzalez, Ma & Zeng, \"The Effect of Instant Payments on the Banking System,\" BCB Working Paper Series No. 619 (Mar 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:03.092442Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "5d1d657519f0e933",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+    "normalized_url": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+    "work_key": "https://theses-dissertations.princeton.edu/entities/publication/45bb0572-3206-480a-951d-4591fd48c50f",
+    "title": "28. Felipe Baumgarten de Bolle, \"Instant Payments, Financial Inclusion, and Access to Credit: Evidence from the Adoption of Pix in Brazil,\" Princeton senior thesis (Apr 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:45.289593Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "972d39a793c53c03",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.povertyactionlab.org/initiative-project/impact-instant-payment-systems-financial-and-labor-market-outcomes-evidence-pix",
+    "normalized_url": "https://povertyactionlab.org/initiative-project/impact-instant-payment-systems-financial-and-labor-market-outcomes-evidence-pix",
+    "work_key": "https://povertyactionlab.org/initiative-project/impact-instant-payment-systems-financial-and-labor-market-outcomes-evidence-pix",
+    "title": "29. J-PAL, \"Impact of Instant Payment Systems on Financial and Labor Market Outcomes: Evidence from Pix\" (project page).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:58:46.508032Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9fc68658daa122c5",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/radio/1/noticia/2025/08/18/mais-de-24-milhoes-de-pessoas-foram-vitimas-de-golpes-pelo-pix",
+    "normalized_url": "https://www12.senado.leg.br/radio/1/noticia/2025/08/18/mais-de-24-milhoes-de-pessoas-foram-vitimas-de-golpes-pelo-pix",
+    "work_key": "https://www12.senado.leg.br/radio/1/noticia/2025/08/18/mais-de-24-milhoes-de-pessoas-foram-vitimas-de-golpes-pelo-pix",
+    "title": "30. Rádio Senado, \"Mais de 24 milhões de pessoas foram vítimas de golpes pelo PIX\" (18 Aug 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:23.136468Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f15fb45f74de157d",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://olhardigital.com.br/2024/11/01/pro/novas-regras-do-pix-ja-estao-valendo-saiba-o-que-muda/",
+    "normalized_url": "https://olhardigital.com.br/2024/11/01/pro/novas-regras-do-pix-ja-estao-valendo-saiba-o-que-muda",
+    "work_key": "https://olhardigital.com.br/2024/11/01/pro/novas-regras-do-pix-ja-estao-valendo-saiba-o-que-muda",
+    "title": "31. Olhar Digital, \"Novas regras do Pix já estão valendo; saiba o que muda\" (1 Nov 2024).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:00.401217Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "eee36e2f5c7c5d7a",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/pix-novas-regras-vao-facilitar-devolucao-de-valores-em-casos-de-golpe",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/pix-novas-regras-vao-facilitar-devolucao-de-valores-em-casos-de-golpe",
+    "work_key": "https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/pix-novas-regras-vao-facilitar-devolucao-de-valores-em-casos-de-golpe",
+    "title": "32. Agência Brasil, \"Pix: novas regras vão facilitar devolução de valores em casos de golpe\" (28 Aug 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:00.941653Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "170dedd0600a429f",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.infomoney.com.br/minhas-financas/med-2-0-passa-a-ser-obrigatorio-em-todas-as-plataformas-que-oferecem-pix/",
+    "normalized_url": "https://infomoney.com.br/minhas-financas/med-2-0-passa-a-ser-obrigatorio-em-todas-as-plataformas-que-oferecem-pix",
+    "work_key": "https://infomoney.com.br/minhas-financas/med-2-0-passa-a-ser-obrigatorio-em-todas-as-plataformas-que-oferecem-pix",
+    "title": "33. InfoMoney, \"MED 2.0 passa a ser obrigatório em todas as plataformas que oferecem Pix\" (2 Feb 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:01.380275Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2ba12bc33b3fc8d9",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://forbes.com.br/forbes-money/2026/02/med-2-0-do-bc-entra-em-vigor-e-permite-bloqueio-de-pix-fraudulento-entenda-regras/",
+    "normalized_url": "https://forbes.com.br/forbes-money/2026/02/med-2-0-do-bc-entra-em-vigor-e-permite-bloqueio-de-pix-fraudulento-entenda-regras",
+    "work_key": "https://forbes.com.br/forbes-money/2026/02/med-2-0-do-bc-entra-em-vigor-e-permite-bloqueio-de-pix-fraudulento-entenda-regras",
+    "title": "34. Forbes Brasil, \"MED 2.0 do BC entra em vigor e permite bloqueio de Pix fraudulento\" (2 Feb 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:02.227584Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1d3b956f3693de74",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://finsidersbrasil.com.br/pagamentos/bc-comunica-terceiro-vazamento-de-chaves-pix-no-ano-incidente-atingiu-financeira-da-pernambucanas/",
+    "normalized_url": "https://finsidersbrasil.com.br/pagamentos/bc-comunica-terceiro-vazamento-de-chaves-pix-no-ano-incidente-atingiu-financeira-da-pernambucanas",
+    "work_key": "https://finsidersbrasil.com.br/pagamentos/bc-comunica-terceiro-vazamento-de-chaves-pix-no-ano-incidente-atingiu-financeira-da-pernambucanas",
+    "title": "35. Finsiders Brasil, \"BC comunica terceiro vazamento de chaves Pix no ano; incidente atingiu financeira da Pernambucanas\" (20 Mar 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:02.605655Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9393b05055f4d2be",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://www.suno.com.br/noticias/?p=612244",
+    "normalized_url": "https://suno.com.br/noticias?p=612244",
+    "work_key": "https://suno.com.br/noticias?p=612244",
+    "title": "36. Suno, \"Ataque hacker: linha do tempo e investigação\" (3 Jul 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:03.752730Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2f9c77c95a0e17df",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://diariodonordeste.verdesmares.com.br/negocios/bc-cria-teto-de-r-15-mil-para-pix-apos-ataques-do-crime-organizado-veja-outras-mudancas-1.3687918",
+    "normalized_url": "https://diariodonordeste.verdesmares.com.br/negocios/bc-cria-teto-de-r-15-mil-para-pix-apos-ataques-do-crime-organizado-veja-outras-mudancas-1.3687918",
+    "work_key": "https://diariodonordeste.verdesmares.com.br/negocios/bc-cria-teto-de-r-15-mil-para-pix-apos-ataques-do-crime-organizado-veja-outras-mudancas-1.3687918",
+    "title": "37. Diário do Nordeste, \"BC cria teto de R$ 15 mil para Pix após ataques do crime organizado; veja outras mudanças\" (5 Sep 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:03.567977Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "39a7694b5e3ab753",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://www.contabeis.com.br/noticias/69122/pix-retoma-crescimento-apos-polemica-de-fiscalizacao/",
+    "normalized_url": "https://contabeis.com.br/noticias/69122/pix-retoma-crescimento-apos-polemica-de-fiscalizacao",
+    "work_key": "https://contabeis.com.br/noticias/69122/pix-retoma-crescimento-apos-polemica-de-fiscalizacao",
+    "title": "38. Portal Contábeis, \"Pix retoma crescimento após polêmica de fiscalização\" (30 Jan 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:04.020156Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f9b95a4325f0f212",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.opovo.com.br/noticias/economia/2025/01/15/amp/apos-onda-de-criticas-e-desinformacao-receita-recua-de-fiscalizacao-do-pix.html",
+    "normalized_url": "https://opovo.com.br/noticias/economia/2025/01/15/amp/apos-onda-de-criticas-e-desinformacao-receita-recua-de-fiscalizacao-do-pix.html",
+    "work_key": "https://opovo.com.br/noticias/economia/2025/01/15/amp/apos-onda-de-criticas-e-desinformacao-receita-recua-de-fiscalizacao-do-pix.html",
+    "title": "39. O Povo, \"Após onda de críticas e desinformação, Receita recua de fiscalização do Pix\" (15 Jan 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:04.200614Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1c1492830eca1836",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://thenextweb.com/news/brazil-us-pix-trade-clash",
+    "normalized_url": "https://thenextweb.com/news/brazil-us-pix-trade-clash",
+    "work_key": "https://thenextweb.com/news/brazil-us-pix-trade-clash",
+    "title": "40. The Next Web, \"Brazil–US Pix trade clash\" (21 Jul 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:59:04.432924Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_c371a97f12c1_20261115T025714Z",
+    "tool_name": "Claude"
+  }
+]

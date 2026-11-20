@@ -1,0 +1,226 @@
+[referencia=7da683ad38c27126 score=0.986]
+## Abstract
+
+### Background
+
+The relationship between social media use (SMU) and adolescent mental health continues to garner considerable attention, yet findings remain inconsistent and contradictory. This umbrella review aims to synthesize recent evidence on this topic and explore whether inconsistencies may be due to inadequate statistical power.
+
+### Methods
+
+A systematic literature review of peer‐reviewed reviews and meta‐analyses published between 2021 and 2025 was conducted across PubMed, PsycINFO, Web of Science, and Scopus. Eligible reviews and meta‐analyses focused on SMU and mental health among adolescents, defined as individuals aged 10–24 years. Study‐level power analyses were conducted using reported effect sizes from eligible meta‐analyses.
+
+### Results
+
+Seventy‐two reviews met the inclusion criteria, including 20 meta‐analyses, 25 systematic reviews, 16 narrative reviews, and 11 scoping reviews. Across reviews, general SMU showed weak and inconsistent associations with both well‐being and ill‐being, while problematic SMU was consistently linked to ill‐being. Seventeen meta‐analyses provided 1070 effect estimates from 452 empirical studies for power analyses. Studies examining ill‐being and problematic SMU demonstrated consistent negative associations and high statistical power, with all meta‐analyses reaching a median study‐level power above 99%. In contrast, only 4 out of the 15 meta‐analyses using general SMU reached a median study‐level power above 80%. Across well‐being outcomes, only 4 meta‐analyses reached median study‐level power above 80%.
+
+### Conclusion
+
+Mixed findings in the literature may stem from limited statistical power rather than an absence of real effects, especially in studies of general SMU and well‐being. Conceptual precision and adequately powered research are essential for advancing the field.
+
+**Keywords:** Social media use, adolescents, mental health, umbrella review, statistical power
+
+---
+
+[referencia=7da683ad38c27126 score=0.985]
+### Statistical power analyses
+
+The analyses of the statistical power provide a new potential explanation for the repeating inconsistent results observed in the literature. Following the methodology outlined by Quintana (2023), a fireplot was constructed, Figure 3, which illustrates the median power of various studies within a meta‐analysis to detect hypothetical effect size for the relationship between SMU and mental health. Fisher's *z* is used to represent the different levels of assumed effect sizes, showing whether the median study had sufficient power to observe these effects. The ‘observed’ column in each panel reflects the actual median power of the individual studies in the meta‐analysis to capture the meta‐analytical effect size identified for each relationship.
+
+The key trend in the fireplot indicates a more robust and consistent link between specific SMU and indicators of ill‐being, such as depression, anxiety, and stress. In contrast, general SMU shows weaker and less consistent associations with both ill‐being and well‐being.
+
+The upper‐right quadrant of the fireplot showcases findings on specific SMU and ill‐being. Notably, all meta‐analyses on problematic SMU and ill‐being show very high median power (>99%) across their included empirical studies. The high median power, showcased as dark red cells in the observed column, indicates that the reported meta‐analytical effects are robust and unlikely to be driven by chance or underpowered studies. Further, the median studies across these meta‐analyses maintained high power (>80%) across a range of smaller hypothetical effect sizes.
+
+The upper‐left quadrant focuses on general SMU and its link to ill‐being. Here, the power to detect smaller effect sizes is generally lower (orange shades), indicating that many studies in the respective meta‐analyses might not have been able to capture smaller true effect sizes if they existed. Of the 15 meta‐analyses in this category, 10 had a median statistical power below 80% to detect the reported meta‐analytic effect size, and 8 had a median power below 50%. A median power below 50% implies that, on average, studies had less than a coin flip's chance of detecting the true effect, even when it was present. This suggests that the weaker or more inconsistent findings reported in studies on general SMU may not stem from a genuine absence of effects, but rather from inadequate power to detect them.
+
+---
+
+[referencia=7da683ad38c27126 score=0.975]
+The lower panels of the fireplot reflect the associations between SMU and well‐being outcomes. Across meta‐analyses on both general and specific SMU, only four had a study‐level median power above 80% to detect the estimated meta‐analytic effect size. The lack of power is reflected by the lighter shades in the ‘observed’ column. This indicates that most underlying studies were underpowered to reliably detect the overall meta‐analytical effects. However, it is important to notice that fewer meta‐analyses investigating well‐being have been conducted, with only two meta‐analyses exploring general SMU and well‐being. This further suggests that general SMU may have a more subtle influence on well‐being that is difficult to detect without a large sample size, better study design, or more precise measures. For a full overview of the results of the power analyses, see Appendix S6.
+
+---
+
+[referencia=7da683ad38c27126 score=0.289]
+## Discussion
+
+This umbrella review synthesizes findings from 72 recent reviews and meta‐analyses published between 2021 and 2025, focusing on the relationship between SMU and adolescent mental health. The results reaffirm previous conclusions; while general SMU exhibit weak and inconsistent associations with both well‐being and ill‐being, specific SMU is more consistently linked to higher levels of ill‐being. By calculating the statistical power of included meta‐analyses and their individual empirical studies, a new dimension has been introduced to explore why the findings for SMU and mental health remain inconsistent despite the vast amount of research.
+
+### Power analysis and its implications
+
+This umbrella review aimed to systematically examine the most recent reviews and meta‐analyses on SMU and adolescent mental health, and to assess the robustness of their conclusions by analyzing the statistical power of the included meta‐analyses and underlying empirical studies. The power analyses revealed that many studies, particularly those examining general SMU, lack adequate power to detect small but potentially meaningful effects. This suggests that the weak and inconsistent associations observed between general SMU and both ill‐being and well‐being may not reflect an actual absence of impact but rather the inability of these studies to capture subtle effects. Given the small true effect sizes expected in this field due to the complexity of both SMU and mental health, studies need to be adequately powered to avoid missing these subtle impacts. As a result, conclusions regarding general SMU may require additional larger and better‐powered studies to increase confidence in the observed effects. It is worth noting that the lack of high‐powered studies on SMU and well‐being might be due to a limited focus on exploring the positive effects of social media (Marciano et al., 2024).
+
+Studies focusing on specific SMU do more consistently demonstrate sufficient power to detect small effect sizes, leading to more robust and reliable findings. For example, problematic SMU, characterized by compulsive behavior and its interference with basic daily functioning, has been shown to have a stronger and more consistent relationship with negative mental health outcomes such as depression, anxiety, and stress. This highlights the importance of differentiating between types of SMU and suggests that research efforts should focus on more precisely defined forms of use, such as problematic behaviors, which are more likely to yield clear and actionable results.
+
+---
+
+[referencia=7da683ad38c27126 score=0.281]
+### Power analyses
+
+To evaluate the statistical robustness of findings in the included meta‐analyses, study‐level power analyses were conducted. Statistical power is defined as the probability that a given study could detect a true effect based on its observed effect size and standard error. This analysis aimed to assess whether the empirical studies included in the meta‐analyses were adequately powered to detect small‐to‐moderate effects commonly observed in the field.
+
+The statistical power analyses were conducted using the ‘metameta’ R package, following the procedures outlined in Quintana (2023). For each meta‐analysis included in this umbrella review, individual study‐level Fisher's *z* or Pearsons *r* and corresponding 95% confidence intervals were manually extracted from forest plots, tables or appendixes. Effect sizes reported as Pearson's *r* were transformed into Fisher's *z* using the Fisher *z*‐transformation (Fisher, 1915) to stabilize variance and allow for consistent and reliable comparisons across studies. This standardization enabled a unified approach to estimating statistical power. The extraction and transformation were done independently by the author and a trained student assistant. For each individual study, statistical power was computed across a range of hypothetical effect sizes (e.g., *z* = 0.10, 0.20, 0.30), as well as for the meta‐analytical effect size observed in the corresponding meta‐analysis. The approach enabled an assessment of whether studies were adequately powered to detect both theorized and empirically observed effects.
+
+To visualize the results, fireplots were generated to display the median statistical power across all studies included in the individual meta‐analyses. The fireplots provide a comparative overview of how well‐powered studies are to detect various levels of effect size and include a column indicating the median power to detect the actual observed meta‐analytical effect size. All analyses were performed in R (R Core Team, 2023), using ‘meta’ (Balduzzi, Rücker, & Schwarzer, 2019) and ‘metameta’ (Quintana, 2023) for computations and visualizations.
+
+---
+
+[referencia=7da683ad38c27126 score=0.276]
+### Revisiting inconclusive findings
+
+The persistence of inconclusive results, even with the addition of 28 new reviews, underscores methodological challenges that may hinder the understanding of SMU's impact on adolescent mental health. Besides statistical power in the individual studies and subsequent meta‐analyses, another possible reason for these inconclusive findings is the inherent complexity of both SMU and mental health. SMU is a multifaceted behavior that can include many actions, for example, mindlessly scrolling, chatting with friends, or actively creating content, each potentially having different psychological impacts. Similarly, mental health encompasses a wide range of outcomes, from clinical diagnoses to momentary feelings. Consequently, the connection between SMU and mental health is highly dependent on the specific type of use and the specific type of mental health assessed. Several meta‐analyses include moderator analyses to explore under what conditions and for whom effects occur. Age and gender are the most tested moderators, but findings are largely nonsignificant. Content type remains underexplored, likely due to lack of reliable data access and high individual variability in how content is experienced. Future research should prioritize more nuanced moderators beyond broad demographics to clarify when and for whom SMU is linked to mental health.
+
+Another factor contributing to these inconclusive findings is the methodological diversity across studies. Different studies use varying definitions and measurement tools, making it difficult to compare results directly or to synthesize them into a coherent narrative. The broad categorization of SMU often fails to capture the nuances of how different forms of use impact mental health. For instance, problematic SMU has a clearer and more consistent relationship with ill‐being than general use. However, when studies conflate these different types of usage together, the specific effects of problematic use may be diluted, leading to the appearance of weak or inconsistent findings. Avoiding the mixture of different aspects, both within SMU (e.g., general time spent on SM and problematic SMU) and mental health (e.g., depression and life satisfaction), is key for ensuring that research findings are more precise and accurately conveyed.
+
+---
+
+[referencia=7da683ad38c27126 score=0.170]
+## Conclusion
+
+The present umbrella review provides a comprehensive synthesis of the most recent reviews on the relationship between SMU and adolescent mental health. Despite an expanded evidence base and updated methodologies, the overarching conclusions remain consistent with earlier umbrella reviews: SMU shows weak and inconsistent associations with both well‐being and ill‐being, while problematic SMU is robustly linked to higher levels of ill‐being. This umbrella review proposes two potential explanations for the mixed findings: (a) a lack of distinction between general and specific forms of SMU, and between well‐being and ill‐being; and (b) limited statistical power in studies on SMU and adolescent mental health.
+
+The introduction of the power analyses reveals that many studies, particularly those examining general SMU, lack sufficient power to detect small but meaningful effects. This offers a more nuanced understanding of how underpowered studies may contribute to the inconsistent findings observed across the field. Given the complex and multifaceted nature of both SMU and mental health, it is crucial to refine methodological approaches and ensure precise conceptualizations and operationalizations of these constructs. Future research should distinguish clearly between ill‐being and well‐being outcomes, and between general and specific forms of SMU, with an emphasis on the latter due to its more consistent link to adverse mental health outcomes. In addition, greater attention should be given to improving study designs to ensure that future studies are sufficiently powered to detect the small effect sizes typically reported in this field. By addressing these gaps, future research can strengthen the evidence base and advance the field beyond the current limitations.
+
+## Conflict of interest statement
+
+The authors have declared that they have no competing or potential conflicts of interest.
+
+## Funding information
+
+This research received no specific grant from any funding agency, commercial or not‐for‐profit sectors.
+
+## Trial registration
+
+This review was preregistered at AsPredicted, #153232, 30/11/2023 (https://aspredicted.org/LZ6_4BF).
+
+## Ethical considerations
+
+This study does not include primary data collection or involve human participants. The analysis is based solely on a synthesis of previously published reviews and meta‐analyses, all of which were conducted by other researchers and are publicly available in the scientific literature. Therefore, informed consent or assent from participants is not applicable. Similarly, ethical approval from a Research Ethics Committee (REC), Institutional Review Board (IRB), or equivalent body was not required, as this study did not involve direct interaction with participants or the use of identifiable personal data.
+
+---
+
+[referencia=7da683ad38c27126 score=0.121]
+#### Table 2.
+
+|  | General SMU | Specific SMU | 
+|---|---|---|
+| Ill‐being | *Mixed to weak evidence* of increase in ill‐being. Some reviews report associations with depression and anxiety, while others find no clear link. | *Strong evidence* of increased ill‐being and problematic SMU. Meta‐analyses and reviews consistently show strong links to depression, anxiety, and stress. | 
+| Well‐being | *No evidence* of a negative or positive impact on well‐being. Reviews report no overall relation with life satisfaction or subjective well‐being. Some positive effects are reported in subpopulations, for example, LGBTQ+ youth. | *Weak evidence* of increased well‐being when use is active, supportive, or socially engaging. Reviews report benefits from self‐disclosure, online social support, and active engagement. | 
+
+Since meta‐analyses represent the strongest form of quantitative synthesis (Quintana, 2023), a separate visual summary focuses only on the included meta‐analyses. This helps clarify where the evidence is most consistent across different SMU types and mental health outcomes. Figure 2 summarizes the reported meta‐analytic evidence with a 95% confidence interval, reporting the type of SMU they investigated, the number of studies included, and the specific mental health outcome studied. The meta‐analyses are sorted into whether they investigate well‐being or ill‐being outcomes and what type of SMU, general or specific, they investigate. The figure illustrates how SMU both improves well‐being while also increasing ill‐being. It also highlights the repeating significant relation between problematic SMU and higher levels of ill‐being. The white diamond squares illustrate the summary findings of the different categories.
+
+---
+
+[referencia=7da683ad38c27126 score=0.106]
+## Key Practitioner Message.
+
+### What is currently known?
+
+- Social media use (SMU) has been linked to adolescent mental health, but findings remain inconsistent across studies
+- Variability in the measures of SMU and mental health outcomes is a key challenge in interpreting the evidence
+
+### What has been shown?
+
+- A power analysis of 1070 effect estimates across 17 meta‐analyses reveals that inconsistencies in findings may result from insufficient statistical power rather than an absence of effects
+- Problematic SMU is robustly linked to ill‐being outcomes, while studies on general SMU and well‐being outcomes often lack the statistical power to detect small effects
+
+### What is the significance of this for clinical practice?
+
+- Practitioners should focus on specific and problematic SMU behaviors when assessing adolescent mental health risks, as these have the strongest evidence base
+- Generalized assumptions about SMU's impact on well‐being may be misleading if study power and the specific outcomes measured are not taken into account
+
+---
+
+[referencia=7da683ad38c27126 score=0.101]
+## Results
+
+The initial literature search in December 2023 yielded 717 unique records after deduplication. Titles and abstracts were screened independently by the author and a trained research assistant, resulting in 57 articles selected for full‐text screening. After resolving 19 conflicts through discussion, 44 reviews were included. An updated search on April 22, 2025, identified 430 additional unique records, from which 39 articles were retrieved for full‐text review. Following the resolution of 23 conflicts, 28 additional reviews met the inclusion criteria. Screening of reference lists did not yield further eligible reviews. In total, 72 reviews were included in the umbrella review. A detailed overview of the selection process is presented in the PRISMA flow diagram (Figure 1).
+
+The systematic literature search resulted in 72 included reviews. Of these reviews, there were 20 meta‐analyses, 25 systematic reviews that reported a systematic search strategy and a synthesis of the included studies in tables, 16 narrative reviews, and 11 scoping reviews. 34 of the reviews were published in medical or psychiatric journals, 22 in psychology journals, and 16 in social sciences journals.
+
+Of the 20 meta‐analyses, 13 found significant, yet small evidence for SMU being correlated with higher levels of ill‐being, expressed as depressive symptoms, anxiety, and stress. To explore whether the similar conclusions reached by the meta‐analyses were grounded in the fact they reviewed the same empirical studies, all included empirical studies for each reviewed meta‐analysis were manually extracted and coded for duplicates. The 20 meta‐analyses reported in total 1070 empirical effect estimates from 452 unique empirical studies. A common issue in umbrella reviews that include meta‐analyses is overlap, that is, that more weight is given to empirical studies included in more than one meta‐analysis. Based on the formula provided by Pieper, Antoine, Mathes, Neugebauer, and Eikermann (2014), the overlap can be characterized as ‘moderate’ with a corrected covered area (CCA) of 7.2%. Some overlap is expected as some meta‐analyses use the same definition of SMU, mental health, and cover the same time periods. This results in older empirical studies being included across reviews more often.
+
+---
+
+[referencia=7da683ad38c27126 score=0.092]
+### Umbrella review findings and comparison to earlier findings
+
+The overall findings of the reviews suggest that SMU has a weak but significant association with both increased levels of ill‐being and well‐being. Earlier explanations suggest that these inconsistencies may stem from the diverse definitions and operationalizations of both SMU and mental health across the reviews (Meier & Reinecke, 2021; Valkenburg et al., 2022). These patterns are also present in the most recent reviews, for example, some meta‐analyses collapsed multiple mental health outcomes together (Ferguson et al., 2022; Huang, 2021; Marciano et al., 2022), and some even reversed ill‐being outcomes, for example, depression, and combined them with well‐being outcomes, for example, life satisfaction (Chu et al., 2023; Wong et al., 2024). The blending of different constructs may contribute to the inconclusive interpretations and inconsistent findings. Furthermore, SMU was also broadly and differently defined in the reviewed reviews. Some reviews operationalized social media in general terms, using broad indicators such as time spent or frequency of use, which grouped together different types of engagement. Other reviews operationalized SMU specifically, for example, problematic SMU or number of friends online, to avoid any conflation between distinct user engagement styles. The distinction between broad or specific terms for SMU is important, as for example, problematic SMU reflects a maladaptive pattern of use that is not necessarily connected to the time spent on SM (Tomczyk & Selmanagic Lizde, 2023). In addition, SMU is often generalized across different platforms, which makes it difficult to disentangle potential specific platform effects.
+
+When putting the findings of this umbrella review into the context of earlier umbrella reviews (Appel et al., 2020; Arias‐de la Torre et al., 2020; Meier & Reinecke, 2021; Orben, 2020; Sala et al., 2024; Valkenburg et al., 2022), the same conclusions reappear: the relationship between SMU and adolescent mental health is generally small and complex. The addition of 28 new reviews to this umbrella review highlights ongoing challenges in the field, as findings remain inconclusive despite an expanding evidence base, updated methodologies, and increased focus on potential positive impacts (Marciano et al., 2024). See Table 3 for comparison of the main findings in the earlier umbrella reviews.
+
+---
+
+[referencia=7da683ad38c27126 score=0.084]
+69. Popat, A. , & Tarrant, C. (2023). Exploring adolescents' perspectives on social media and mental health and well‐being – A qualitative literature review. Clinical Child Psychology and Psychiatry, 28, 323–337. [DOI] [PMC free article] [PubMed] [Google Scholar]
+70. Prasad, S. , Ait Souabni, S. , Anugwom, G. , Aneni, K. , Anand, A. , Urhi, A. , … & Oladunjoye, F. (2023). Anxiety and depression amongst youth as adverse effects of using social media: A review. Annals of Medicine and Surgery, 85, 3974–3981. [DOI] [PMC free article] [PubMed] [Google Scholar]
+71. Primack, B.A. , Perryman, K.L. , Crofford, R.A. , & Escobar‐Viera, C.G. (2022). Social media as it interfaces with psychosocial development and mental illness in transitional‐age youth. Child and Adolescent Psychiatric Clinics of North America, 31, 11–30. [DOI] [PubMed] [Google Scholar]
+72. Quintana, D.S. (2023). A guide for calculating study‐level statistical power for meta‐analyses. Advances in Methods and Practices in Psychological Science, 6, 25152459221147260. [Google Scholar]
+73. R Core Team . (2023). R: A language and environment for statistical computing. Vienna: R Foundation for Statistical Computing. Available from: https://www.R‐project.org/ [Google Scholar]
+74. Ramadhan, R.N. , Rampengan, D.D. , Yumnanisha, D.A. , Setiono, S., BV. , Tjandra, K.C. , Ariyanto, M.V. , … & Empitu, M.A. (2024). Impacts of digital social media detox for mental health: A systematic review and meta‐analysis. Narra Journal, 4, e786. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+---
+
+[referencia=7da683ad38c27126 score=0.065]
+### Limitations
+
+The search terms aimed to be comprehensive; however, due to the size and interdisciplinary nature of the field, it is possible that some relevant reviews were omitted from the search results. For conceptual clarity, self‐harm, suicidality, and other externalizing problems were not included in this review. Future research would benefit from specifically exploring the symptoms to general and specific SMU. The reviewer was limited to reviews published in English, meaning that some reviews on specific countries or cultures were not included in this review. There is also a possibility of publication bias in the included meta‐analyses and reviews, as primary studies reporting statistically significant results are more likely to be published and thus included in reviews and meta‐analyses. This bias may lead to an overestimation of effect sizes in the meta‐analyses, particularly if nonsignificant or null findings remain unpublished or are underrepresented. 18 of the included meta‐analyses assessed publication bias using statistical tests or graphical methods, as recommended in AMSTAR 2 (Shea et al., 2017), with 4 reporting an indication of publication bias. Consequently, some relevant studies might not have been included in reviews or meta‐analyses.
+
+---
+
+[referencia=7da683ad38c27126 score=0.057]
+Umbrella reviews provide a framework to systematically compare multiple reviews and meta‐analyses to assess the consistency of evidence. To evaluate the statistical power, study‐level power analyses are conducted using effect sizes and standard errors extracted from eligible meta‐analyses. This allows the assessment of whether the included primary studies are sufficiently powered to detect small‐to‐moderate associations. By integrating power analyses, this umbrella review seeks to offer a more comprehensive understanding of the reliability of current findings. The umbrella approach further situates the most recent reviews within the broader literature by assessing whether the same overall inconsistencies identified in previous umbrella reviews (Appel, Marker, & Gnambs, 2020; Arias‐de la Torre et al., 2020; Meier & Reinecke, 2021; Orben, 2020; Valkenburg et al., 2022) persist in the most current literature.
+
+Given this context, the present umbrella review seeks to systematically review the most current reviews and meta‐analyses on SMU and adolescent mental health, while also evaluating the robustness of their conclusions by examining the statistical power of the included meta‐analyses and their underlying empirical studies.
+
+---
+
+[referencia=7da683ad38c27126 score=0.052]
+Despite these promising applications, the broader empirical literature on the effects of SMU on adolescent mental health is marked by inconsistent results. Some studies find a positive link between social media and mental health, while others find a negative link (Valkenburg, 2021). Previous umbrella reviews have generally concluded that the associations between SMU and mental health outcomes are small and complex. For example, Meier and Reinecke (2021) and Valkenburg, Meier, and Beyens (2022) found weak but inconsistent links between SMU and both well‐being and ill‐being, highlighting the multifaceted nature of this relationship. These reviews call for more nuanced research to clarify the underlying dynamics. However, even with the growing number of empirical studies and subsequent reviews and meta‐analyses, the persistent inconsistency in findings indicates that the current approach of evaluating and synthesizing research might not be sufficient to capture the true impact of SMU on adolescent mental health.
+
+Meta‐analyses are considered the goal standard for synthesizing empirical research findings (Quintana, 2023), as they combine results from multiple studies and can compensate for low statistical power in individual studies. Studies with low power are more likely to produce false negatives and more likely to report exaggerated effect sizes when significant (Gelman & Carlin, 2014). Since meta‐analyses build upon multiple empirical studies, their conclusions are only as robust as the quality of the studies they include. Methodological or conceptual flaws in primary studies can bias meta‐analytic results, and meta‐analyses with few included studies may struggle to detect meaningful and reliable effects. For this reason, it is important to evaluate not only the aggregated meta‐analytical effect sizes but also the statistical power of individual studies included. Calculating the power for the observed effect sizes helps determine whether the included studies are capable of detecting meaningful effects reliably, or whether their findings are potentially compromised by inadequate sample sizes or designs (Quintana, 2023).
+
+---
+
+[referencia=7da683ad38c27126 score=0.042]
+33. Fisher, R.A. (1915). Frequency distribution of the values of the correlation coefficient in samples from an indefinitely large population. Biometrika, 10, 507–521. [Google Scholar]
+34. Fumagalli, E. , Shrum, L.J. , & Lowrey, T.M. (2024). The effects of social media consumption on adolescent psychological well‐being. Journal of the Association for Consumer Research, 9, 119–130. [Google Scholar]
+35. Gelman, A. , & Carlin, J. (2014). Beyond power calculations: Assessing type S (sign) and type M (magnitude) errors. Perspectives on Psychological Science: A Journal of the Association for Psychological Science, 9, 641–651. [DOI] [PubMed] [Google Scholar]
+36. Ghai, S. , Fassi, L. , Awadh, F. , & Orben, A. (2023). Lack of sample diversity in research on adolescent depression and social media use: A scoping review and meta‐analysis. Clinical Psychological Science, 11, 759–772. [DOI] [PMC free article] [PubMed] [Google Scholar]
+37. Ghai, S. , Magis‐Weinberg, L. , Stoilova, M. , Livingstone, S. , & Orben, A. (2022). Social media and adolescent well‐being in the Global South. Current Opinion in Psychology, 46, 101318. [DOI] [PubMed] [Google Scholar]
+38. Ghali, S. , Afifi, S. , Suryadevara, V. , Habab, Y. , Hutcheson, A. , Panjiyar, B.K. , … & Nath, T.S. (2023). A systematic review of the association of Internet gaming disorder and excessive social media use with psychiatric comorbidities in children and adolescents: Is it a curse or a blessing? Cureus, 15, e43835. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+---
+
+[referencia=7da683ad38c27126 score=0.042]
+### Moderator effects
+
+Several of the narrative, scoping, and systematic reviews highlighted the potential effect of moderators on the relation between SMU and mental health. Across the 20 included meta‐analyses, the most frequently investigated moderators were age, gender, country/ethnicity, and SM platform. The majority of the meta‐analyses investigating gender, age, and SM platform effects do not find significant moderator effects, see Table 1. Most of the meta‐analyses that investigate country, region, or ethnicity effects do find significant effects, however, with no clear directional patterns.
+
+#### Table 1.
+
+| Moderator | Number of studies investigating moderator effects | Number of studies finding significant effects | Number of studies finding nonsignificant effects | 
+|---|---|---|---|
+| Age | 17 | 4 | 13 | 
+| Gender | 15 | 3 | 12 | 
+| Country/Region/Ethnicity | 9 | 7 | 2 | 
+| SM platform | 6 | 1 | 5 | 
+
+For a full overview of the main results of all reviews and meta‐analyses including moderator effects and direction, see Appendix S5.
+
+---
+
+[referencia=7da683ad38c27126 score=0.036]
+Reviews were required to focus on Social Media Use (SMU) as the primary exposure. For this umbrella review, SMU is defined as both active (e.g., posting) and passive (e.g., browsing), private (one‐to‐one) and public (one‐to‐many) usage of social media platforms like Instagram, Snapchat, Facebook, and TikTok (Valkenburg et al., 2022; Verduyn, Ybarra, Résibois, Jonides, & Kross, 2017). Reviews or meta‐analyses focusing on the broader concept of ‘screen time’ were excluded to prevent the blending of SMU with activities like television viewing or general mobile phone use (Girela‐Serrano et al., 2022). Reviews had to focus on mental health as the primary outcome. The term ‘mental health’ was chosen to ensure capturing the most relevant studies within the field. In line with the existing literature (Valkenburg et al., 2022), this umbrella review defines mental health as encompassing indicators of well‐being, such as happiness, positive affect, and life satisfaction. It also included two categories of ill‐being: clinical ill‐being, that is, psychopathology (e.g., depression, anxiety disorders) and nonclinical ill‐being (e.g., depressive and anxiety symptoms, distress, negative affect). Reviews specifically on other indicators and precursors of mental health, such as self‐esteem, self‐harm, suicidality, loneliness, school absence, sleep quality, or externalizing problems were not included in this umbrella review. This exclusion was a methodological and conceptual choice aimed at preserving analytical focus. The included outcomes reflect core affective dimensions of mental health that are clinically relevant in their own right and often serve as early indicators of more severe psychological problems, rather than secondary or indirect effects. Throughout the paper, ‘mental health’ will refer to the collectively defined indicators of both well‐being and ill‐being.
+
+---
+
+[referencia=7da683ad38c27126 score=0.031]
+### Mapping SMU and mental health effects
+
+The review of the meta‐analyses and reviews reveals a complex picture of the relationship between SMU and mental health, with some studies reporting positive outcomes, others negative, and some showing no or mixed effects. The reviewed evidence indicates that different forms of SMU, as well as various mental health effects, do not follow a uniform pattern, making it clear that a more structured approach is needed to categorize these findings. A simple 2 × 2 framework provides a way to broadly and systematically organize the evidence. The first dimension distinguishes between general SMU, which refers to overall use patterns without specifying particular behaviors, and specific SMU, which involves distinct engagement types such as self‐disclosure, online social network size, or problematic use. The second dimension separates outcomes into well‐being, which captures positive effects like life satisfaction and happiness, and ill‐being, encompassing negative impacts such as depression, anxiety, and stress.
+
+The 2 × 2 framework serves as a tool to organize and identify where stronger patterns emerge. As shown in Table 2, the link between problematic SMU and ill‐being appears as the most consistent evidence across reviews. In contrast, the evidence related to general SMU and well‐being and ill‐being is more mixed. By organizing the findings across these four categories, the framework highlights that inconsistencies in the literature may arise from variations in how SMU and mental health are defined and measured.
+
+---
+
+[referencia=7da683ad38c27126 score=0.029]
+### Systematic, narrative and meta‐analytic evidence

@@ -1,0 +1,1048 @@
+{
+  "run_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+  "answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/Ingles/ChatGPT/EmConsolidacao/semana_trabalho.md",
+  "generated_at": "2026-11-15T08:19:41.723140Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 34181,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 166,
+    "citation_markers_distinct": 27,
+    "references_listed": 30,
+    "references_never_cited": 3,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 108,
+  "pct_supported": 40.74074074074074,
+  "pct_unsupported": 50.92592592592593,
+  "pct_contradicted": 0.0,
+  "count_supported": 44,
+  "count_unsupported": 55,
+  "count_contradicted": 0,
+  "count_skipped": 9,
+  "count_audited": 99,
+  "pct_supported_audited": 44.44444444444444,
+  "pct_unsupported_audited": 55.55555555555556,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 24,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 4,
+    "ref_bloqueada": 5
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 24,
+  "count_reclassified_by_verification": 6,
+  "verification_stage_counts": {
+    "context_expansion": 5,
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 4,
+  "uncredited_reference_count": 2,
+  "dead_references": [
+    {
+      "id": "937f9584a4ed59d8",
+      "citation_markers": [
+        "[11]"
+      ],
+      "raw_url": "https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke",
+      "normalized_url": "https://who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke",
+      "work_key": "https://who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke",
+      "title": "11. World Health Organization and International Labour Organization, *Long Working Hours Increasing Deaths from Heart Disease and Stroke*.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-11-15T07:29:21.196903Z",
+      "error_message": "Referencia nao encontrada (404): https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke",
+      "barrier_kind": null,
+      "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "5b10e21ed11dbf41",
+      "citation_markers": [
+        "[24]"
+      ],
+      "raw_url": "https://u.ae/en/information-and-services/jobs/working-in-uae-government-sector/working-hours-in-the-public-sector",
+      "normalized_url": "https://u.ae/en/information-and-services/jobs/working-in-uae-government-sector/working-hours-in-the-public-sector",
+      "work_key": "https://u.ae/en/information-and-services/jobs/working-in-uae-government-sector/working-hours-in-the-public-sector",
+      "title": "24. United Arab Emirates Government, *Working Hours in the Public Sector*.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "dead",
+      "http_status": null,
+      "fetched_at": "2026-11-15T07:30:43.678072Z",
+      "error_message": "Referencia nao encontrada (404): https://u.ae/en/information-and-services/jobs/working-in-uae-government-sector/working-hours-in-the-public-sector",
+      "barrier_kind": null,
+      "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "inaccessible_references": [
+    {
+      "id": "a9dcdb8b5c239d1c",
+      "citation_markers": [
+        "[4]"
+      ],
+      "raw_url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000:51:0::::51:P51_CONTENT_REPOSITORY_ID:3288167",
+      "normalized_url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000%3A51%3A0%3A%3A%3A%3A51%3AP51_CONTENT_REPOSITORY_ID%3A3288167",
+      "work_key": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000%3A51%3A0%3A%3A%3A%3A51%3AP51_CONTENT_REPOSITORY_ID%3A3288167",
+      "title": "4. International Labour Organization, *Forty-Hour Week Convention, 1935 (No. 47)*.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-15T07:31:36.654702Z",
+      "error_message": "HTTP 400 em https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000:51:0::::51:P51_CONTENT_REPOSITORY_ID:3288167",
+      "barrier_kind": null,
+      "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "00eb419515bef066",
+      "citation_markers": [
+        "[14]"
+      ],
+      "raw_url": "https://journals.sagepub.com/doi/10.1177/0961463X261449357",
+      "normalized_url": "https://journals.sagepub.com/doi/10.1177/0961463X261449357",
+      "work_key": "DOI:10.1177/0961463x261449357",
+      "title": "14. *Between Temporal Liberation and Temporal Recolonisation: Experiences of Time Under a Four-Day Workweek*, Time & Society, 2026.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T07:29:29.203813Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "f5b6e42d671f6396",
+      "citation_markers": [
+        "[15]"
+      ],
+      "raw_url": "https://www.sciencedirect.com/science/article/pii/S0967070X17304778",
+      "normalized_url": "https://sciencedirect.com/science/article/pii/S0967070X17304778",
+      "work_key": "https://sciencedirect.com/science/article/pii/S0967070X17304778",
+      "title": "15. *The Impact of Working Time on Fuel Consumption and CO2 Emissions of Public Fleets: Evidence from a Policy Experiment*, Transport Policy.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T07:29:31.179197Z",
+      "error_message": "barreira de acesso (http_error): # There was a problem providing the content you requested Please contact our support team for more information and provi",
+      "barrier_kind": "http_error",
+      "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+      "tool_name": "ChatGPT"
+    },
+    {
+      "id": "949d2e8d8f6914a0",
+      "citation_markers": [
+        "[29]"
+      ],
+      "raw_url": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/Shorter-hours-wanted-a-systematic-review/995365188502676",
+      "normalized_url": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/Shorter-hours-wanted-a-systematic-review/995365188502676",
+      "work_key": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/Shorter-hours-wanted-a-systematic-review/995365188502676",
+      "title": "29. Miklos Antal et al., *Shorter Hours Wanted? A Systematic Review of Working-Time Preferences and Outcomes*, International Labour Review, 2024.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-15T07:31:02.982274Z",
+      "error_message": "barreira de acesso (interstitial): As described in our Corporate Privacy Notice and Cookie Policy, we use cookies (including pixels or other similar techno",
+      "barrier_kind": "interstitial",
+      "source_answer_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-12",
+      "reason": "Referencia(s) citada(s) ['a9dcdb8b5c239d1c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-13",
+      "reason": "Referencia(s) citada(s) ['a9dcdb8b5c239d1c'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-27",
+      "reason": "Referencia(s) citada(s) ['5b10e21ed11dbf41'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-52",
+      "reason": "Referencia(s) citada(s) ['937f9584a4ed59d8'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-56",
+      "reason": "Referencia(s) citada(s) ['00eb419515bef066'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-57",
+      "reason": "Referencia(s) citada(s) ['00eb419515bef066'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-70",
+      "reason": "Referencia(s) citada(s) ['f5b6e42d671f6396'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-98",
+      "reason": "Referencia(s) citada(s) ['00eb419515bef066', '949d2e8d8f6914a0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-99",
+      "reason": "Referencia(s) citada(s) ['949d2e8d8f6914a0'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "ac2a74817c0702be",
+      "url": "https://www.oecd.org/en/publications/oecd-employment-outlook-2022_1bb305a6-en/full-report/component-9.html",
+      "times_cited": 24,
+      "supported_count": 10,
+      "unsupported_count": 14,
+      "contradicted_count": 0,
+      "supporting_citations": 8,
+      "partial_citations": 10,
+      "status": "downloaded",
+      "supports_positions": [
+        29,
+        30,
+        31,
+        42,
+        51,
+        66,
+        67,
+        68
+      ],
+      "partial_positions": [
+        43,
+        44,
+        63,
+        64,
+        65,
+        88,
+        91,
+        93,
+        105,
+        107
+      ],
+      "absent_positions": [
+        34,
+        95,
+        96,
+        97,
+        104,
+        106
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "reforms had no significant effects on employment, on workers' compensation nor on hourly productivity (Figure 5.7). Although insignificant, the evidence displayed on employment reduction suggests that effects varied a lot across industries, reflecting perhaps different degrees of monopsonistic labour market situations; so overall, the absence of significant effect for employment is likely to be the average of heterogeneous positive and negative effects.",
+      "key_excerpt_position": 29
+    },
+    {
+      "reference_id": "e80f3cdc11336721",
+      "url": "https://www.wiwi.uni-muenster.de/tow/sites/tow/files/downloads/4DW_FollowUp_Report_Englisch.pdf",
+      "times_cited": 21,
+      "supported_count": 8,
+      "unsupported_count": 13,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        6,
+        23,
+        40,
+        41,
+        101,
+        103,
+        104
+      ],
+      "partial_positions": [
+        17,
+        87,
+        94,
+        96,
+        107
+      ],
+      "absent_positions": [
+        38,
+        39,
+        58,
+        59,
+        60,
+        62,
+        88,
+        90,
+        92
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "While the original trial was widely associated with a fixed day off per week, some organizations started to adopt more flexible arrangements even within the trial period. This trend has continued and become more pronounced since. Many organizations have moved towards flexible weekly reductions, monthly hour targets, or rotationbased systems that no longer correspond to a classic four-day format. [...] this report no longer speaks primarily of a \"four-day-week,\" but of \"work time reduction\". [...] WTR is therefore the more accurate and analytically appropriate umbrella term",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "51ae2b54e60da70b",
+      "url": "https://www.nature.com/articles/s41562-025-02259-6",
+      "times_cited": 20,
+      "supported_count": 8,
+      "unsupported_count": 12,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 9,
+      "status": "downloaded",
+      "supports_positions": [
+        10,
+        46,
+        47,
+        48
+      ],
+      "partial_positions": [
+        3,
+        11,
+        45,
+        49,
+        93,
+        101,
+        102,
+        105,
+        107
+      ],
+      "absent_positions": [
+        1,
+        50,
+        88,
+        89,
+        92,
+        94,
+        97
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Both company-level and individual-level reductions in hours are correlated with well-being gains, with larger individual-level (but not company-level) reductions associated with greater improvements in well-being.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "f91a291d16b4158f",
+      "url": "https://www.henley.ac.uk/news/2024/results-from-portugals-government-backed-4-day-week-trial-released",
+      "times_cited": 14,
+      "supported_count": 10,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        5,
+        22,
+        35,
+        36,
+        37,
+        54,
+        55
+      ],
+      "partial_positions": [
+        4,
+        17,
+        53,
+        102
+      ],
+      "absent_positions": [
+        87,
+        90,
+        104
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The final results of a government-funded 4-day week pilot programme in Portugal were published this week, with 95% of companies rating the experience positively. [...] Over the course of the trial, more than 1,000 workers in these companies reduced their work time by 13.7%. [...] In 51% of companies, workers had one day off per week, while 49% of companies opted for a nine-day fortnight.",
+      "key_excerpt_position": 5
+    },
+    {
+      "reference_id": "47a8ff7f2bee5252",
+      "url": "https://digit-research.org/projects/the-four-day-week-and-reducing-working-time/",
+      "times_cited": 13,
+      "supported_count": 4,
+      "unsupported_count": 9,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [
+        21
+      ],
+      "partial_positions": [
+        3,
+        4,
+        17,
+        32,
+        33,
+        102,
+        105
+      ],
+      "absent_positions": [
+        29,
+        62,
+        87,
+        91,
+        94
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The trial, which was conducted in the UK from June to December 2022, involved 61 companies and approximately 2,900 employees. The four-day week is a form of employment whereby employees work for four days a week as opposed to the traditional five (or a similar, 'meaningful' reduction in hours), whilst maintaining their regular 'full-time' pay and benefits.",
+      "key_excerpt_position": 21
+    },
+    {
+      "reference_id": "5b986783a5620607",
+      "url": "https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40protrav/%40travail/documents/publication/wcms_864222.pdf",
+      "times_cited": 9,
+      "supported_count": 5,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        19,
+        20
+      ],
+      "partial_positions": [
+        18,
+        60,
+        85,
+        86,
+        101,
+        103
+      ],
+      "absent_positions": [
+        58
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Between 2015 and 2019, Iceland implemented two large-scale pilots of reduced working weeks of 35–36 hours, which at their peak covered more than 1 per cent of the working population. The reductions did not affect salaries. [...] Over the five-year period, the number of participants increased to 2,500 employees in a range of workplaces, including playschools, care homes and social services centres. [...] The pilot began with 440 staff members and eventually encompassed 2,500 employees, equivalent to 1.3 per cent of the Icelandic workforce.",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "dd468fcd5c200c36",
+      "url": "https://link.springer.com/article/10.1007/s00420-025-02153-8",
+      "times_cited": 8,
+      "supported_count": 4,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        7,
+        8,
+        9
+      ],
+      "partial_positions": [
+        1,
+        11,
+        97
+      ],
+      "absent_positions": [
+        2,
+        106
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Importantly, studies investigating the consequences of extended daily work hours often do not control for weekly work hours",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "f5b6e42d671f6396",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0967070X17304778",
+      "times_cited": 5,
+      "supported_count": 0,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        69,
+        70,
+        72,
+        73,
+        100
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a9513b62a2746da9",
+      "url": "https://academic.oup.com/sf/article-abstract/96/4/1851/4951469",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        71
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        69,
+        72,
+        73,
+        100
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Our findings suggest that over the 2007–2013 period, state-level carbon emissions and average working hours have a strong, positive relationship, which holds across a variety of model estimation techniques and net of various political, economic, and demographic drivers of emissions.",
+      "key_excerpt_position": 71
+    },
+    {
+      "reference_id": "c6833758f970559d",
+      "url": "https://employment.belgium.be/en/node/3860",
+      "times_cited": 5,
+      "supported_count": 2,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        26
+      ],
+      "partial_positions": [
+        85,
+        86
+      ],
+      "absent_positions": [
+        25,
+        28
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Artikel 20bis/1 van de Arbeidswet van 16 maart 1971 biedt de mogelijkheid aan de werknemer om de normale voltijdse wekelijkse arbeidsduur te presteren op vier dagen per week in plaats van vijf dagen per week, door de dagelijkse arbeidsduurgrens onder bepaalde voorwaarden te verhogen. De dagelijkse arbeidsduurgrens kan in toepassing van deze maatregel op 9,5 uren worden gebracht of, wanneer de effectieve wekelijkse arbeidsduur 38 uren te boven gaat met een maximum van 40 uren, op een aantal uren gelijk aan de effectieve wekelijkse arbeidsduur gedeeld door vier.",
+      "key_excerpt_position": 26
+    },
+    {
+      "reference_id": "5b10e21ed11dbf41",
+      "url": "https://u.ae/en/information-and-services/jobs/working-in-uae-government-sector/working-hours-in-the-public-sector",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        25,
+        27,
+        28,
+        85,
+        86
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "217b0356a83cb8a1",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40075240/",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        61
+      ],
+      "partial_positions": [
+        59
+      ],
+      "absent_positions": [
+        58,
+        106
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Conducted at two hospitals in the United States, this 4-month pilot study... Thirty-eight healthcare leaders voluntarily transitioned to a 4-day workweek... Burnout decreased from 61% to 4%... No changes in patient safety, satisfaction, or hospital-acquired conditions were observed.",
+      "key_excerpt_position": 61
+    },
+    {
+      "reference_id": "00eb419515bef066",
+      "url": "https://journals.sagepub.com/doi/10.1177/0961463X261449357",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        53,
+        56,
+        57,
+        98
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "6ce23257da18ee03",
+      "url": "https://www.govinfo.gov/app/details/BILLS-119hr10323ih",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        80
+      ],
+      "partial_positions": [
+        81
+      ],
+      "absent_positions": [
+        63,
+        82
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Mr. Takano (for himself, Ms. Jayapal, Ms. Norton, Ms. Tlaib, Ms. Omar, Mr. Correa, and Mrs. Ramirez) introduced the following bill; which was referred to the Committee on Education and Workforce",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "7f8fd1b161cb1788",
+      "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/industria/paginas/2023/170323-empresas-programa-piloto-jornada-4-dias.aspx",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        17,
+        24,
+        85
+      ],
+      "absent_positions": [
+        86
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Esta convocatoria, pionera en España",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "5723f87b98d0ac09",
+      "url": "https://www.govinfo.gov/app/details/BILLS-119s5384is",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        80
+      ],
+      "partial_positions": [
+        81
+      ],
+      "absent_positions": [
+        82
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Mr. Sanders introduced the following bill; which was read twice and referred to the Committee on Health, Education, Labor, and Pensions",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "347745f0f102e0d3",
+      "url": "https://www.dir.ca.gov/dlse/FAQ_OvertimeExceptions.htm",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        77,
+        78
+      ],
+      "absent_positions": [
+        79
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Special Overtime Rules Under the IWC Wage Orders",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "a4bec0a469edacce",
+      "url": "https://www.ilo.org/publications/working-time-and-work-life-balance-around-world",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        0,
+        16
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a9dcdb8b5c239d1c",
+      "url": "https://normlex.ilo.org/dyn/nrmlx_en/f?p=1000:51:0::::51:P51_CONTENT_REPOSITORY_ID:3288167",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        12,
+        13
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "bc3051c0807abbf1",
+      "url": "https://www.dol.gov/agencies/whd/overtime/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        75
+      ],
+      "absent_positions": [
+        74
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Unless exempt, employees covered by the Act must receive overtime pay for hours worked over 40 in a workweek at a rate not less than time and one-half their regular rates of pay.",
+      "key_excerpt_position": 75
+    },
+    {
+      "reference_id": "639b6e1fbbadca23",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32003L0088",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        84
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        83
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "1. This Directive lays down minimum safety and health requirements for the organisation of working time.\n2. This Directive applies to:\n(a) minimum periods of daily rest, weekly rest and annual leave, to breaks and maximum weekly working time; and\n(b) certain aspects of night work, shift work and patterns of work.\n\nArticle 3\n\nDaily rest\n\nMember States shall take the measures necessary to ensure that every worker is entitled to a minimum daily rest period of 11 consecutive hours per 24-hour period.\n\nArticle 5\n\nWeekly rest period\n\nMember States shall take the measures necessary to ensure that, per each seven-day period, every worker is entitled to a minimum uninterrupted rest period of 24 hours plus the 11 hours' daily rest referred to in Article 3.",
+      "key_excerpt_position": 84
+    },
+    {
+      "reference_id": "949d2e8d8f6914a0",
+      "url": "https://researchrepository.ilo.org/esploro/outputs/journalArticle/Shorter-hours-wanted-a-systematic-review/995365188502676",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        98,
+        99
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "4b053a29a4af6fb5",
+      "url": "https://www.dol.gov/general/aboutdol/history/dolchp03",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        15
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the Fair Labor Standards Act (FLSA) became law in 1938. Administered by the Department of Labor, the Act set a minimum wage of 25 cents per hour and a maximum workweek of 40 hours (to be phased in by 1940) for most workers in manufacturing. The 40-hour week has not changed in 50 years",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "4c25248bb6fa32e0",
+      "url": "https://www.bls.gov/opub/mlr/2016/article/the-life-of-american-workers-in-1915.htm",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        14
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "It wasn't until 1926 that Henry Ford reduced the workweek in his factories from 48 to 40 hours.",
+      "key_excerpt_position": 14
+    },
+    {
+      "reference_id": "937f9584a4ed59d8",
+      "url": "https://www.who.int/news/item/17-05-2021-long-working-hours-increasing-deaths-from-heart-disease-and-stroke",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "dead",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        52
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "3afd88062474d931",
+      "url": "https://www.irs.gov/affordable-care-act/employers/identifying-full-time-employees",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        76
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "For purposes of the employer shared responsibility provisions, a full-time employee is, for a calendar month, an employee employed on average at least 30 hours of service per week, or 130 hours of service per month.",
+      "key_excerpt_position": 76
+    },
+    {
+      "reference_id": "36c3ccb698fbcc0a",
+      "url": "https://www.eurofound.europa.eu/en/publications/all/comparative-analysis-of-the-reduction-in-working-time-and-the-four-day-work-week-in-the-eu",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        28
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "3507306c7e394c9f",
+      "url": "https://www.planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a5f12e1f2c8db4d6",
+      "url": "https://www.wiwi.uni-muenster.de/tow/en/4-day-week-germany-wide-pilot-study",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "df675a5bc03a4a60",
+      "url": "https://www.who.int/news-room/questions-and-answers/item/global-regional-and-national-burdens-of-ischemic-heart-disease-and-stroke-attributable-to-exposure-to-long-working-hours-for-194-countries-2000-2016",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-43",
+      "position": 43,
+      "claim_excerpt": "A more plausible mechanism is that fewer hours can raise **hourly** productivity by reducing fatigue, eliminating low-value activity, improving prioritization, and inducing process innovation, while…",
+      "cited_markers": "[10]",
+      "corroborating_markers": "[7] [8]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-50",
+      "position": 50,
+      "claim_excerpt": "Selection therefore remains an important constraint on generalization.",
+      "cited_markers": "[6]",
+      "corroborating_markers": "[12] [10] [8]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-53",
+      "position": 53,
+      "claim_excerpt": "Equity effects are promising but not automatically progressive.",
+      "cited_markers": "[7] [14]",
+      "corroborating_markers": "[10]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_63fa6d2f8cd4_20261115T072846Z-77",
+      "position": 77,
+      "claim_excerpt": "State rules can materially affect implementation.",
+      "cited_markers": "[20]",
+      "corroborating_markers": "[10] [8]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 3800902,
+  "cost_tracked": false,
+  "processing_time_seconds": 3055.212527
+}

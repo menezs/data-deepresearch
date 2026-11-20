@@ -1,0 +1,818 @@
+[
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-0",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 0,
+    "text": "Dela saíram as primeiras garantias contratuais de que os estúdios precisariam de consentimento informado e de remuneração justa para usar réplicas digitais de intérpretes.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "e3d2daeea116173b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-1",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 1,
+    "text": "O próprio diretor executivo do SAG-AFTRA, Duncan Crabtree-Ireland, passou a defender que a negociação coletiva tem sido a forma mais rápida e eficaz de regular a tecnologia.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "e3d2daeea116173b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-2",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 2,
+    "text": "O conselho nacional do sindicato aprovou o acordo em 11 de maio, e os membros o ratificaram em 4 de junho de 2026.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "cf4feb10962eb445"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-3",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 3,
+    "text": "O contrato vigora de 1º de julho de 2026 a 30 de junho de 2030.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "12611fa6e66e027a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-4",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 4,
+    "text": "Os produtores não podem usar sintéticos sem antes negociar com o SAG-AFTRA, devem cumprir um cronograma rígido de notificação e negociação, e o sindicato pode recorrer à arbitragem para buscar indenização em caso de violação.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "0ad3078ef2adc633"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-5",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 5,
+    "text": "A ideia era cobrar uma contribuição a um fundo sindical sempre que um estúdio usasse um ator sintético no lugar de um humano.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "568114fc709ab5ef"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-6",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 6,
+    "text": "Acordos com gravadoras também já previam royalties para performances inteiramente sintéticas.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "568114fc709ab5ef"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-7",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 7,
+    "text": "O objetivo declarado era tornar o uso de sintéticos tão caro quanto contratar atores reais.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "e3d2daeea116173b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-8",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 8,
+    "text": "Em troca, obteve o compromisso de que os estúdios não usarão sintéticos a menos que tragam \"valor adicional significativo\" à produção, além de uma nova cláusula de arbitragem para fazer valer essas regras.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "beb1a3db7a0c2ed2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-9",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 9,
+    "text": "Pelo resumo oficial do acordo, porém, se não houver entendimento, o sindicato pode pleitear em arbitragem uma indenização que não fica necessariamente limitada ao que teria sido pago a um intérprete humano.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "aa566bde705c91e5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-10",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 10,
+    "text": "O contrato anterior, de 2024, havia estabelecido as primeiras proteções contra IA voltadas especificamente a atores de voz.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "6ee99bc55bf24436"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-11",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 11,
+    "text": "A empresária havia acabado de lançar o estúdio Xicoia, voltado a criar, gerenciar e monetizar \"estrelas digitais hiper-realistas\", e anunciou que uma agência tradicional passaria a representar Norwood.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "522d4966fe9897ae"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-12",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 12,
+    "text": "Também lembrou às produtoras signatárias que o contrato vigente já exigia notificação e negociação sempre que um performer sintético fosse usado.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "522d4966fe9897ae"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-13",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 13,
+    "text": "Van der Velden respondeu que Norwood não substitui um ser humano e deve ser vista como uma obra criativa.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "522d4966fe9897ae"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-14",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 14,
+    "text": "O projeto está em fase inicial de desenvolvimento.",
+    "cited_markers": [
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "c13060c681fb7125"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-15",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 15,
+    "text": "Não há data de lançamento, e a assessoria da produtora estima cerca de um ano de produção.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "82f31dd5c014eaac"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-16",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 16,
+    "text": "O contrato do SAG-AFTRA vincula produtoras signatárias, e o próprio aviso do sindicato foi dirigido a elas.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "522d4966fe9897ae"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-17",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 17,
+    "text": "A OpenAI suspendeu a voz, mas sustentou que ela pertencia a outra atriz profissional, usando a própria voz natural.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "cd1d5f398097a475"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-18",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 18,
+    "text": "Receberam US$ 1.200 e US$ 400, respectivamente.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "ec3751446ec09932"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-19",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 19,
+    "text": "Mais tarde descobriram que a empresa vendia versões clonadas de suas vozes com os nomes \"Kyle Snow\" e \"Sally Coleman\".",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "a3eabce2b7ec34a4"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-20",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 20,
+    "text": "Manteve, porém, as alegações contratuais, as de práticas comerciais enganosas e as fundadas na lei de direitos civis de Nova York, além de uma alegação de copyright ligada às gravações originais de Sage.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "9f6c52de7251a2eb"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-21",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 21,
+    "text": "A conclusão do juiz foi que a apropriação indevida de uma voz encontra remédio mais adequado nas normas estaduais de proteção à personalidade do que no copyright ou no direito de marcas.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "9f6c52de7251a2eb"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-22",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 22,
+    "text": "Posteriormente, a Lovo pediu falência sob o Capítulo 7 com a ação coletiva ainda em curso.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "ed9430816842a3cf"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-23",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 23,
+    "text": "O novo contrato foi ratificado com 95% dos votos em julho de 2025.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "7eb9815314ef584f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-24",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 24,
+    "text": "O tempo gasto para criar a réplica é remunerado como trabalho, e o empregador deve fornecer relatórios de uso com o cálculo da compensação devida.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "7eb9815314ef584f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-25",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 25,
+    "text": "O acordo também permite que o intérprete suspenda o consentimento para geração de novo material durante uma greve.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "9d0ca35723cdd785"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-26",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 26,
+    "text": "Mesmo depois do acordo, o sindicato registrou uma queixa trabalhista contra uma empresa que usou IA para reproduzir a voz de Darth Vader sem notificar o sindicato nem negociar termos.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "9d0ca35723cdd785"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-27",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 27,
+    "text": "Em novembro de 2023, profissionais brasileiros aderiram a um movimento global e lançaram a campanha \"Dublagem Viva\" para pedir a regulação da IA em produções audiovisuais.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "403f729f1715c90b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-28",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 28,
+    "text": "Pede que ela não seja usada para reproduzir em português brasileiro as vozes de atores estrangeiros com o objetivo de substituir dubladores.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "4f6a457bc2eaef1c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-29",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 29,
+    "text": "A iniciativa se conecta à United Voice Artists, rede internacional de associações de dublagem, que reuniu mais de 50 mil assinaturas em petição contra a substituição de humanos por máquinas no audiovisual.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "4998c7ef0457172a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-30",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 30,
+    "text": "Nos Estados Unidos, o contrato de 2026 do SAG-AFTRA incluiu regras específicas de consentimento para dublagem e uso em outros idiomas, o que mostra que a substituição de vozes entre idiomas é uma preocupação comum aos dois mercados.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "0ad3078ef2adc633"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-31",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 31,
+    "text": "O estado do Tennessee foi pioneiro: o ELVIS Act, aprovado por unanimidade e em vigor desde 1º de julho de 2024, incluiu a voz entre os atributos pessoais protegidos.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "409f4f93bfa35581"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-32",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 32,
+    "text": "A lei vai além das demais ao responsabilizar também as ferramentas e softwares cuja finalidade principal seja produzir réplicas não autorizadas.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "f25206dddb6ca996"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-33",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 33,
+    "text": "A AB 1836 exige o consentimento do espólio para criar réplicas digitais de artistas falecidos.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "8a72c0f94ad8d1e3"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-34",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 34,
+    "text": "Nova York seguiu o mesmo caminho em dezembro de 2025, com uma lei que obriga a informar o uso de performers sintéticos em publicidade, em vigor desde 9 de junho de 2026, e outra sobre réplicas de pessoas falecidas.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "28da35919f2869a1"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-35",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 35,
+    "text": "A principal novidade é um procedimento de contranotificação inspirado no DMCA, que permite aos usuários contestar a remoção de conteúdos apontados como réplicas não autorizadas.",
+    "cited_markers": [
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "7b9f63d19d68e7ac"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-36",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 36,
+    "text": "O projeto cria um direito federal de propriedade intelectual sobre a voz e a imagem de cada indivíduo.",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "5742a9651bf6ca88"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-37",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 37,
+    "text": "Ele responsabiliza pessoas e empresas que produzam ou distribuam réplicas não autorizadas e exclui usos protegidos pela liberdade de expressão, como jornalismo, paródia e crítica.",
+    "cited_markers": [
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "c010e49bcedf28c0"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-38",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 38,
+    "text": "A Comissão de Justiça do Senado aprovou o texto por unanimidade em junho de 2026",
+    "cited_markers": [
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "c010e49bcedf28c0"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-39",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 39,
+    "text": "e ele foi incluído no calendário do plenário em 24 de junho.",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "5742a9651bf6ca88"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-40",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 40,
+    "text": "No início de outubro, o projeto ainda aguardava votação em plenário, que a liderança do Congresso não havia agendado.",
+    "cited_markers": [
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "87b390438278affb"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-41",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 41,
+    "text": "O argumento de fundo vem do Copyright Office, que em 2024 identificou lacunas nas proteções existentes e recomendou uma lei federal contra a distribuição de réplicas digitais não autorizadas.",
+    "cited_markers": [
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "87b390438278affb"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-42",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 42,
+    "text": "Mais de 16 mil membros do SAG-AFTRA assinaram uma carta aberta pedindo a aprovação.",
+    "cited_markers": [
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "7edfd91715fe9b0a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-43",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 43,
+    "text": "Cranston levou o caso ao SAG-AFTRA, e a OpenAI afirmou ter reforçado suas salvaguardas.",
+    "cited_markers": [
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "2a1c4a725076499a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-44",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 44,
+    "text": "A empresa pediu desculpas e se comprometeu, com o sindicato e as agências CAA, UTA e a Association of Talent Agents, a fortalecer a política de \"opt-in\", pela qual a voz e a imagem de uma pessoa só podem ser usadas com sua adesão expressa.",
+    "cited_markers": [
+      "[32]"
+    ],
+    "cited_reference_ids": [
+      "d8f37b2169550724"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-45",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 45,
+    "text": "Na mesma declaração conjunta, a OpenAI reiterou apoio ao NO FAKES Act.",
+    "cited_markers": [
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "2a1c4a725076499a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-46",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 46,
+    "text": "O acordo não incluía a imagem nem a voz dos atores que interpretam esses personagens.",
+    "cited_markers": [
+      "[33]"
+    ],
+    "cited_reference_ids": [
+      "fe5ff512d79ee4f4"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-47",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 47,
+    "text": "Em 24 de março de 2026, porém, a OpenAI anunciou o encerramento do aplicativo e da API do Sora, e a Disney saiu do acordo.",
+    "cited_markers": [
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "ba5709e2ba744894"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-48",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 48,
+    "text": "O investimento não havia sido concluído, e nenhum capital chegou a ser transferido.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "5f680000194fa376"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-49",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 49,
+    "text": "Uma juíza auxiliar limitou essa exigência a aplicações voltadas ao consumidor.",
+    "cited_markers": [
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "5055d11adfa5dd46"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-50",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 50,
+    "text": "A empresa recorreu ao juiz John Kronstadt pedindo acesso mais amplo, inclusive a apresentações internas dos conselhos dos estúdios sobre IA.",
+    "cited_markers": [
+      "[37]"
+    ],
+    "cited_reference_ids": [
+      "49b40a6da7448479"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-51",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 51,
+    "text": "O prazo final para moções no caso é 23 de novembro de 2026, e houve encaminhamento a mediação privada.",
+    "cited_markers": [
+      "[38]"
+    ],
+    "cited_reference_ids": [
+      "33cc628f70bdd87f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-52",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 52,
+    "text": "A Universal Music fez um acordo indenizatório com a Udio em outubro de 2025, junto com licenças para gravações e composições destinadas a uma plataforma de criação musical com IA.",
+    "cited_markers": [
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "89127e7e5f38bd2c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-53",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 53,
+    "text": "Uma consequência imediata foi que a Udio deixou de permitir o download das músicas geradas, o que provocou reação negativa de usuários pagantes.",
+    "cited_markers": [
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "cac5f3ab2ca8fb73"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-54",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 54,
+    "text": "A Warner Music fechou acordos com a Udio e também com a Suno, com quem firmou uma parceria para uma futura plataforma licenciada.",
+    "cited_markers": [
+      "[41]"
+    ],
+    "cited_reference_ids": [
+      "b8c1b1befacee0ee"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-55",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 55,
+    "text": "Esses acordos deixam em aberto se as gravadoras podem incluir todo o seu catálogo, e os artistas que o compõem, sem consentimento individual.",
+    "cited_markers": [
+      "[42]"
+    ],
+    "cited_reference_ids": [
+      "9e8e4e9c96c5369f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-56",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 56,
+    "text": "O tribunal entendeu que tanto a memorização das letras nos parâmetros dos modelos quanto sua reprodução nas respostas do chatbot violam direitos exclusivos, e que essa memorização vai além da mineração de textos e dados permitida pela lei.",
+    "cited_markers": [
+      "[43]"
+    ],
+    "cited_reference_ids": [
+      "64afe7f0ee7c06e5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-57",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 57,
+    "text": "No Reino Unido, a decisão de novembro de 2025 em *Getty Images v. Stability AI* seguiu outra direção: a Getty venceu na alegação de marca, mas a de violação secundária de direitos autorais foi rejeitada.",
+    "cited_markers": [
+      "[44]"
+    ],
+    "cited_reference_ids": [
+      "93bc30bbd06e38db"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-58",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 58,
+    "text": "Com isso, ficou mantida a decisão de 2025 que confirmou a exigência de autoria humana para o registro de direitos autorais, num caso sobre uma imagem criada inteiramente por IA.",
+    "cited_markers": [
+      "[45]"
+    ],
+    "cited_reference_ids": [
+      "156add2dff276ad1"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-59",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 59,
+    "text": "Como Thaler negava qualquer contribuição humana, os tribunais não definiram quanto envolvimento humano basta para proteger obras feitas com auxílio de IA.",
+    "cited_markers": [
+      "[46]"
+    ],
+    "cited_reference_ids": [
+      "2f6661b70427872a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-60",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 60,
+    "text": "Cerca de 190 organizações aderiram ao código de prática voluntário, e as multas por descumprimento podem chegar a 15 milhões de euros ou 3% do faturamento mundial.",
+    "cited_markers": [
+      "[47]"
+    ],
+    "cited_reference_ids": [
+      "788dc734f7b1e2c3"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-61",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 61,
+    "text": "A versão final do código foi publicada pela Comissão Europeia em 10 de junho de 2026.",
+    "cited_markers": [
+      "[48]"
+    ],
+    "cited_reference_ids": [
+      "50d36851e4e943e0"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-62",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 62,
+    "text": "Diferentemente dos direitos de personalidade tradicionais, esse direito pode ser transferido e explorado comercialmente.",
+    "cited_markers": [
+      "[49]"
+    ],
+    "cited_reference_ids": [
+      "68e82c0013b8401a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-63",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 63,
+    "text": "As fontes divergem sobre a data exata de vigência ao longo de 2026, e vários Estados-membros observaram que os problemas dos deepfakes vão além do que o direito autoral consegue resolver.",
+    "cited_markers": [
+      "[50]"
+    ],
+    "cited_reference_ids": [
+      "021c4c3efaf9b564"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-64",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 64,
+    "text": "Em outubro de 2026, ainda tramita em comissão especial, sem votação final.",
+    "cited_markers": [
+      "[51]"
+    ],
+    "cited_reference_ids": [
+      "49550c2d2b854e28"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-65",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 65,
+    "text": "O texto do Senado prevê que os titulares de direitos autorais sejam remunerados quando suas obras forem usadas na mineração, no treinamento e no desenvolvimento de sistemas de IA comercializados.",
+    "cited_markers": [
+      "[51]"
+    ],
+    "cited_reference_ids": [
+      "49550c2d2b854e28"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-66",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 66,
+    "text": "Fora dessas hipóteses, o titular pode proibir o uso.",
+    "cited_markers": [
+      "[52]"
+    ],
+    "cited_reference_ids": [
+      "7ec9ed46eb649eaf"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z-67",
+    "answer_id": "ia_generativa_entretenimento_839e59588d73_20261102T152413Z",
+    "position": 67,
+    "text": "O relator anunciou em agosto que a votação na comissão só ocorrerá depois das eleições de outubro de 2026.",
+    "cited_markers": [
+      "[53]"
+    ],
+    "cited_reference_ids": [
+      "5a53ab664988e734"
+    ]
+  }
+]

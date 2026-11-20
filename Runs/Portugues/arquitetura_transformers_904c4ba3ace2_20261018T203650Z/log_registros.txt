@@ -1,0 +1,37 @@
+2026-10-18 16:36:50,515 INFO     auditframework.cli: Iniciando run arquitetura_transformers_904c4ba3ace2_20261018T203650Z para answers/Claude/Consolidado/arquitetura_transformers.md (ferramenta=Claude)
+2026-10-18 16:36:55,876 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-10-18 16:36:55,876 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-10-18 16:36:57,550 INFO     auditframework.terminal: Loading weights: 100%|███████████████████████████████████████████████████████| 391/391 [00:00<00:00, 9543.83it/s]
+2026-10-18 16:37:03,952 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-10-18 16:37:03,959 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-10-18 16:37:03,966 INFO     auditframework.pipeline: Extraidas 16 referencias de answers/Claude/Consolidado/arquitetura_transformers.md (0 descartadas como artefato do exportador)
+2026-10-18 16:37:03,975 INFO     auditframework.pipeline: Resposta dividida em 92 afirmacoes citadas
+2026-10-18 16:37:03,977 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-10-18 16:37:03,978 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-10-18 16:37:03,979 INFO     auditframework.ingestion.service: Ingestao: 16 referencias, 0 ja baixadas, 0 ja bloqueadas, 16 pendentes
+2026-10-18 16:38:44,570 INFO     auditframework.terminal: Baixando referências: 100%|█████████████████████████████████████████████████████| 16/16 [01:40<00:00,  6.29s/ref]
+2026-10-18 16:38:44,572 INFO     auditframework.pipeline: Ingestao concluida: 16 documentos disponiveis
+2026-10-18 16:38:44,573 INFO     auditframework.terminal: ✓ ingestion concluído em 95.8s
+2026-10-18 16:38:44,574 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-10-18 16:38:46,482 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|███████████████████████████████████████████| 16/16 [00:01<00:00,  8.40doc/s]
+2026-10-18 16:38:46,482 INFO     auditframework.indexing.service: Gerando embeddings para 1033 chunks de 16 documentos
+2026-10-18 16:39:37,007 INFO     auditframework.terminal: Batches: 100%|███████████████████████████████████████████████████████████████████| 65/65 [00:50<00:00,  1.29it/s]
+2026-10-18 16:39:37,153 INFO     auditframework.pipeline: Indice construido a partir de 16 documentos
+2026-10-18 16:39:37,157 INFO     auditframework.terminal: ✓ indexing concluído em 51.2s
+2026-10-18 16:39:37,158 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-10-18 16:39:37,172 INFO     auditframework.pipeline: Julgamento: 92 chunks, 0 ja julgados, 0 ja pulados, 92 pendentes
+2026-10-18 16:39:37,961 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-10-18 16:39:38,454 INFO     auditframework.terminal: Recuperando contexto:   0%|                                                            | 0/92 [00:00<?, ?chunk/s]
+2026-10-18 16:39:38,562 INFO     auditframework.terminal: Loading weights:   0%|                                                                   | 0/393 [00:00<?, ?it/s]
+2026-10-18 16:39:38,692 INFO     auditframework.terminal: Loading weights:  27%|██████████████▋                                        | 105/393 [00:00<00:00, 1016.20it/s]
+2026-10-18 16:39:38,790 INFO     auditframework.terminal: Loading weights:  53%|█████████████████████████████▍                          | 207/393 [00:00<00:00, 892.30it/s]
+2026-10-18 16:39:38,900 INFO     auditframework.terminal: Loading weights:  76%|██████████████████████████████████████████▍             | 298/393 [00:00<00:00, 884.77it/s]
+2026-10-18 16:39:38,901 INFO     auditframework.terminal: Loading weights: 100%|████████████████████████████████████████████████████████| 393/393 [00:00<00:00, 887.33it/s]
+2026-10-18 16:42:51,910 INFO     auditframework.terminal: Recuperando contexto: 100%|███████████████████████████████████████████████████| 92/92 [03:14<00:00,  2.12s/chunk]
+2026-10-18 16:48:01,889 INFO     auditframework.terminal: Julgando chunks: 100%|████████████████████████████████████████████████████████| 92/92 [05:09<00:00,  3.37s/chunk]
+2026-10-18 16:48:01,894 INFO     auditframework.terminal: ✓ judging concluído em 481.9s
+2026-10-18 16:48:01,903 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-10-18 16:48:01,910 INFO     auditframework.pipeline: Relatorio gerado em data/runs/arquitetura_transformers_904c4ba3ace2_20261018T203650Z/report.md
+2026-10-18 16:48:01,912 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-10-18 16:48:01,912 INFO     auditframework.cli: Run arquitetura_transformers_904c4ba3ace2_20261018T203650Z concluida
+2026-10-18 16:48:01,913 INFO     auditframework.terminal: Relatorio gerado em data/runs/arquitetura_transformers_904c4ba3ace2_20261018T203650Z/report.md

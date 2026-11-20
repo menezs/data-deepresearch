@@ -1,0 +1,20 @@
+{
+  "tool_tokens_removed": 27,
+  "stray_private_chars_removed": 0,
+  "grouped_markers_expanded": 0,
+  "superscripts_converted": 0,
+  "exponents_preserved": 0,
+  "reference_lists": [
+    {
+      "heading": "## References",
+      "entries": 19,
+      "role": "primary",
+      "evidence_score": null
+    }
+  ],
+  "primary_list_choice": "single",
+  "dropped_list_lines": 0,
+  "body_markers": 19,
+  "body_markers_without_entry": [],
+  "warnings": []
+}

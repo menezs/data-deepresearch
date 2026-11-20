@@ -1,0 +1,176 @@
+[referencia=530eecfb25f2691c score=0.549]
+## Abstract
+
+This article analyses how the persecution of idleness was a crucial element in Abolition’s labor control measures and investigates how that persecution was driven by racism, attributing natural idleness to black people. Generally addressed for the post-abolition period, the intention here is to show that it is an earlier process. The article also innovates by discussing how relations among legislation, labor and race, in the Abolition context, were not limited to Brazil and, in a Global Labor History perspective, reflects on the connections and comparisons with the case of the Portuguese Empire in its formulations about Africa over the same period.
+
+**Keywords:**
+
+Racism; Labor; Idleness; Global Labor History
+
+Ao comentar a fala do trono proferida pela Princesa Isabel, em 3 de maio de 1888, que tratava da necessidade da extinção do elemento servil, ao mesmo tempo em que trazia a importância de aperfeiçoar a “nossa legislação repressiva da ociosidade”, a folha diária *Gazeta da Tarde* indicava que parecia que o governo estava imbuído da “falsa ideia de que o liberto torna-se inimigo do trabalho e da ordem pública”<sup>2</sup>. Além de comentar que a experiência provava o contrário, indagava o jornal: “Quer o governo libertar os negros para metê-los na cadeia? Armar uma polícia rural, violenta e despótica ao serviço dos ex-senhores maus que não sabem se acomodar às novas condições de trabalho?” (Semana parlamentar, 1888, p. 1)<sup>3</sup>. 
+
+As questões levantadas pela *Gazeta da Tarde* apontam os eixos do presente artigo, que pretende analisar como a perseguição à ociosidade foi um elemento-chave nas políticas de controle sobre o trabalho no contexto da abolição, bem como investigar como essa perseguição estava pautada pelo racismo ao atribuir aos negros uma ociosidade natural. Geralmente abordado para o período do pós-abolição<sup>4</sup>, busca-se mostrar que esse é um processo anterior.
+
+---
+
+[referencia=530eecfb25f2691c score=0.513]
+No início de 1872, ao comentar os acontecimentos do ano anterior, o *Jornal do Commercio* afirmava que a Lei do Ventre Livre havia encetado um “escabroso e arriscado problema social” e demandava leis que pudessem ter real efeito. Uma primeira, no sentido de “obrigar e de sujeitar ao trabalho, à ocupação laboriosa em todos os municípios do interior os inúmeros proletários, ociosos e vadios”, que formam “uma multidão de trabalhadores que se perdem na ociosidade da preguiça”. A outra medida seria voltada ao sistema de regulação dos contratos, que obrigasse ao trabalho os alforriados, os quais, em grande parte “corrompidos pelos vícios e pelas torpezas da escravidão esmolam e furtam em vez de trabalhar para viver, e danificam a sociedade que cooperou para a sua regeneração” (Brasil, 1872, p. 2). A coerção à vadiagem prevista na lei de 1871 parecia ainda não ser suficiente para obrigar os libertos - degenerados, na opinião da folha diária - a trabalhar<sup>7</sup>.
+
+A ideia de uma transição paulatina e suave entre escravidão e liberdade tinha inspiração no que a Comissão responsável pela elaboração da lei de 1871 considerava como sendo as experiências positivas de abolição gradual “na Inglaterra, na Suécia, na Dinamarca, nas repúblicas de língua espanhola, em Portugal” (Diários da Câmara dos Deputados, Seção de 30 de junho de 1871).
+
+---
+
+[referencia=530eecfb25f2691c score=0.226]
+Mesmo existindo enquanto dispositivo legal, a perseguição à vadiagem é reeditada na lei de 1871, só que, nesse momento, especificamente para os libertos pela lei, como visto anteriormente. Sendo assim, é possível afirmar que é construído na letra da lei um sentido racializado de quem era o vadio, isto é, homens e mulheres de pele negra egressos do cativeiro. Por mais que a formulação sobre vadiagem no Código Criminal de 1830 e na Lei do Ventre do Livre se assemelhassem, no sentido de colocarem o trabalho como uma obrigação, a última, que incidia exclusivamente sobre os libertos, reforçava ainda mais as formas de controle, pois a esse trabalhador não bastaria somente apresentar uma ocupação, mas ele deveria mostrar-se empregado por alguém. Enfatizava-se, portanto, a necessidade de que os trabalhadores negros libertos fossem submetidos a um patrão.
+
+No que diz respeito ao processo de construção do liberto enquanto potencial vadio, é possível identificar que a Comissão responsável pela elaboração do projeto da Lei do Ventre Livre argumentou que a abolição imediata “corresponderia praticamente à erupção de um vulcão destruidor”. A justificativa é que seriam lançadas à liberdade massas que não foram nela educadas, e eram “incapazes de exercer as graves funções do cidadão”. O escravo prematuramente libertado,
+
+        faltando-lhe religião, zomba da consciência; faltando-lhe disciplina, zomba dos homens; faltando-lhe ensino, desconhece as vantagens da civilização; faltando-lhe a coação ou incentivo, torna-se vagabundo; faltando-lhe o trabalho, rouba; faltando-lhe o receio; faltando-lhe a moralidade, arroja-se a todos os delitos (Diários da Câmara dos Deputados, Seção de 30 de junho de 1871).
+
+---
+
+[referencia=530eecfb25f2691c score=0.111]
+Em 1878, quando cessaria esse período de transição, o governo português expediu um novo regulamento para os contratos de trabalho, reeditando, em grande medida, o regulamento anterior<sup>12</sup>. A justificativa presente no próprio documento era de que “o estado dos indígenas não os habilita ainda a promoverem, por si próprios, a manutenção dos seus direitos de cidadãos livres, e que, por tal razão, uma proteção especial da autoridade se lhes torna essencial” (Regulamento para os contratos de serviçais..., 1878). 
+
+É importante ressaltar a utilização do termo indígena pelo regulamento como referência aos africanos negros. Se literalmente significava “os nascidos no país”, naquele contexto, segundo Isabel Castro Henrique, o termo adquiria “uma funcionalidade pejorativa que desqualifica e serve para designar aquele que por essa razão está condenado ao trabalho obrigatório” (Henriques, 2004, p. 294). A mesma autora afirmou que essa construção se deu por uma operação de reelaboração da representação do africano, cujo objetivo era colocar “em evidência o caráter congênito da selvageria”. Segundo ela, “a própria selvageria da imagem serve para justificar a imposição de uma ferocíssima disciplina do trabalho” (Henriques, 2004, pp. 287-288). Os regulamentos de 1875 e 1878 respondiam, assim, à demanda da classe patronal pela necessidade de maior regulação dos contratos e, ao mesmo tempo, de controle sobre a vadiagem.
+
+---
+
+[referencia=530eecfb25f2691c score=0.107]
+As representações sobre os negros libertos que circulavam entre o Brasil e o Império Português não se restringiam unicamente a esses espaços. No processo de abolição inglês que data do início da década de 1830, mencionado pela Comissão responsável pela elaboração da lei de 1871 no Brasil, debateu-se também a ideia de que o caráter dos libertos, intelectualmente inferiores, e a falta de incentivos para trabalhar fariam com que a repentina e completa emancipação os levasse à indolência bárbara. Segundo Thomas Holt, o objetivo do governo era, portanto, encontrar um sistema que pudesse retirar as comunidades das Índias Ocidentais do barbarismo. O projeto vencedor foi o que implementava um período de aprendizagem após a abolição da escravidão. Nele, os ex-escravos deveriam trabalhar parte da semana para seus antigos senhores como devolução das provisões de comida, vestimenta, habitação e cuidados médicos, e, na outra parte do tempo, deveriam trabalhar por salário, para os mesmos antigos senhores ou outros proprietários (Holt, 1992, p. 48).
+
+Holt apontou que os formuladores do sistema de aprendizagem “viam os escravos como crianças a serem reeducadas como trabalhadores assalariados e ressocializados como cidadãos” (Holt, 1992, p. 56). Magistrados especiais ficariam responsáveis pelo papel de reforçar a disciplina do trabalho, antes atribuído aos senhores, sendo que as punições iam de multa por meio de trabalho extra, encarceramento e açoitamento. Para o autor, os escravos das Índias Ocidentais
+
+---
+
+[referencia=530eecfb25f2691c score=0.102]
+A associação entre a ociosidade e os negros se relacionava, nos discursos do contexto abolicionista, à adoção do trabalho coercitivo como um caminho a ser adotado. Zamparoni, ao comentar sobre Moçambique, apontou que:
+
+        a fé pretensamente natural e universal de que o trabalho e a acumulação de seus frutos eram a base de toda a vida individual e social, faziam crer que aos *civilizadores* era imposta a tarefa de *arrancar o indígena* deste *estado natural de indolência* e *ociosidade* e submetê-lo a uma disciplina do trabalho, alterando a sua conduta diante do mesmo (Zamparoni, 2012, pp. 34-35). 
+
+
+Nesse sentido, tanto no Brasil quanto no Império Português, baseados em exemplos internacionais, foi criada a ideia de que a compulsoriedade do trabalho dos libertos seria atingida, por um lado, por uma maior regulação dos contratos de trabalho, e, por outro, pelo recrudescimento da repressão a da vadiagem.
+
+---
+
+[referencia=530eecfb25f2691c score=0.094]
+Além de colocar que o liberto não estava preparado para a liberdade repentina, chegando a categorizá-la como um “presente de grego”, a Comissão apontava que haveria a desorganização do trabalho, impactando diretamente a classe agrícola.
+
+A necessidade de uma emancipação gradual tendo como justificativa a ociosidade inerente aos negros também circulava pelas páginas das folhas diárias da Corte do Império. Em uma publicação a pedido, do *Diário do Rio de Janeiro* de 16 de abril de 1871, assinada por “O lavrador”, afirmava-se que “a liberdade plena, sem sujeição alguma, tem sido perniciosa”, pois “o escravo não predisposto para uma rápida emancipação, entrega-se à ociosidade e aos vícios” (O elemento servil XI, 1871, p. 2). Já no *Jornal do Commercio* do dia 2 de julho de 1871, em uma seção semanal voltada a criticar o projeto de libertação do ventre, indicava-se que uma projeção do alto número de libertos que passaria a existir em 20 anos limitava as possibilidades de criá-los, “de educá-los, de os policiar, de os obrigar ao trabalho”. O vasto contingente imaginado iria “desenvolver em larga escala a ociosidade, a vagabundagem, o banditismo” (Emancipação: resumo da semana, 1871, p. 5).
+
+---
+
+[referencia=530eecfb25f2691c score=0.074]
+Já a representação dos lavradores de Baependi apontava que a comunidade social não poderia e não deveria “permitir que uma parte de seus membros continue em estado de barbárie, e menos ainda que outra parte que, sem possuir fortuna ou rendimentos próprios, come, bebe e veste, isto é, consome gêneros produzidos pelo trabalho, viva na ociosidade”. Apelava também para que, “a par das leis repressivas da ociosidade, se promulgue logo uma boa lei de locação de serviços, que garanta a execução dos contratos dos fazendeiros com os operários”, pois na atual situação as desvantagens estavam do lado dos fazendeiros (Congresso Agrícola do Rio..., 1988, p. 58).
+
+Existia também, segundo Eisenberg, os que culpavam os próprios fazendeiros, com a justificativa de “que os grandes proprietários abrigavam homens livres improdutivos, nas suas propriedades, para fins eleitorais” (Eisenberg, 1989, p. 145). Por fim, estava o grupo que acreditava faltarem estímulos positivos que incentivassem a saída da ociosidade.
+
+---
+
+[referencia=530eecfb25f2691c score=0.052]
+As tentativas de solucionar a questão do controle sobre os trabalhadores libertos, no entanto, não foram suficientes, e, em 1888, alguns dias antes da assinatura da lei que libertava todos os escravizados e as escravizadas, a princesa Isabel ressaltava a importância do fim da escravidão, mas também de aperfeiçoar a “nossa legislação repressiva da ociosidade”. Ainda naquele ano, logo após a referida lei, se iniciou uma nova discussão sobre a repressão à vadiagem, como expôs Sidney Chalhoub (1983).
+
+---
+
+[referencia=530eecfb25f2691c score=0.045]
+        seriam livres, mas somente após serem ressocializados para aceitar a disciplina interna que assegurasse a sobrevivência da ordem social existente. Eles seriam livres para barganhar no mercado, mas não livres para ignorá-lo. Eles seriam livres para perseguirem seus interesses próprios, mas não livres para rejeitar o condicionamento cultural que definia quais eram os próprios interesses (Holt, 1992, p. 53).
+
+
+Verifica-se, portanto, que tanto no Brasil quanto no Império Português, no contexto da abolição, circulavam ideias semelhantes sobre o controle dos egressos do cativeiro, em diálogo com outras experiências, como a do Império Britânico, mencionada anteriormente. Nesse sentido reforçava-se a imagem de que a tendência “natural” dos negros à ociosidade justificaria uma transição gradual à liberdade. Embora a associação entre o negro e a indolência seja uma marca do processo de diferenciação racial no contexto da abolição nesses espaços, existiam explicações diferentes, que ora apontavam para características biológicas, ora para aspectos exteriores, como o clima e a fertilidade do solo. Além disso, apesar de predominante, não era um discurso uníssono, e havia contestações à própria ideia de uma indolência atávica aos negros, como a formulada por Sá da Bandeira, apesar de o mesmo ainda considerá-los numa escala inferior da civilização.
+
+É importante frisar-se ainda que, ao contrário do apontado tanto por parte da historiografia brasileira quanto da portuguesa<sup>10</sup>, essas não são construções de sentidos que podem ser entendidas unicamente dentro das fronteiras nacionais, mas que se formaram justamente pelo intenso diálogo que transpassava esses limites e eram forjadas, inclusive, com referência a várias experiências internacionais abolicionistas.
+
+---
+
+[referencia=530eecfb25f2691c score=0.037]
+A perseguição à vadiagem não era algo novo em nenhum dos espaços mencionados ao longo do texto - Brasil e Império Português, mais especificamente -, mas, no processo de abolição, ganhou outros contornos. Nesse contexto, a definição de quem era vadio ou vadia, no caso do Brasil e do Império Português, foi permeada pelos marcadores raciais, sendo atribuída aos negros e às negras uma natural ociosidade e a rejeição ao trabalho. Dessa forma, classe e raça se intersecionam, no sentido de que, dentro de uma prática que já criminalizava as classes subalternas, foi criada uma nova diferenciação, que desvelava um aumento na repressão e no controle justamente sobre os homens e as mulheres de pele negra. As representações de gênero também impactaram, embora com menos força, na documentação aqui compulsada, as formulações do que significava ser vadio ou vadia.
+
+A reelaboração da representação do trabalhador negro liberto foi o grande manancial que serviu para justificar o papel civilizador dos brancos, ao imputar o trabalho como um dever compulsório a essa parcela da população e, relacionado a isso, para embasar o recrudescimento da ação repressiva aos temidos vadios e vadias. O negro e a negra atavicamente indolentes não estavam preparados, de acordo com essa representação, para uma liberdade repentina, e a coerção ao trabalho era o único meio de educá-los.
+
+---
+
+[referencia=530eecfb25f2691c score=0.034]
+Já Alessandro Stanziani mostrou que, no Império Britânico e no Império Francês - na Índia, no Oceano Índico e na África -, a abolição oficial da escravidão “foi seguida por regras extremamente coercitivas a respeito de vadios, emitidas em nome da ordem pública e crescimento econômico como um antídoto para a pobreza”. A política anti-vadiagem nesses espaços foi um exemplo, para o autor, de que, mesmo após o fim da escravidão, a linha divisória entre a liberdade e a falta dela não era clara no mundo do trabalho, que “continuou a ser um mundo de exploração desigual e às vezes de extrema violência” (Stanziani, 2018).
+
+O Brasil estava, portanto, inserido em um contexto global de abolição da escravidão, que colocava a perseguição à vadiagem no palco principal. Sendo assim, na legislação abolicionista brasileira, assim como na de vários outros lugares, a punição à vadiagem garantiria, segundo a classe senhorial da época, a possibilidade de manter os trabalhadores egressos do cativeiro, impedindo que eles abandonassem as localidades em que trabalhavam, bem como imputando a obrigatoriedade de que eles trabalhassem para algum patrão.
+
+---
+
+[referencia=530eecfb25f2691c score=0.031]
+Outra novidade consiste em debater como as relações entre legislação, trabalho e raça no contexto da abolição não estiveram circunscritas unicamente ao Brasil. Segundo Alain Youssef, a abolição da escravidão foi tratada na historiografia brasileira até recentemente unicamente dentro do escopo nacional (Youssef, 2019, p. 2). Esse é um ponto comum também à historiografia sobre a abolição no Império Português. A partir de uma perspectiva da História Global do Trabalho, pretende-se justamente refletir sobre as conexões e comparações entre o caso brasileiro e o do Império Português, nas formulações sobre a África, ao longo do mesmo período.
+
+A acepção de História Global do Trabalho aqui utilizada está conectada às formulações de Marcel van der Linden no que diz respeito, por exemplo, ao questionamento do nacionalismo metodológico, focando assim nas conexões transnacionais ou transcontinentais, o que significa “colocar todos os processos históricos em um contexto maior, não importando quão geograficamente ‘pequenos’ sejam esses processos” (Linden, 2013). Atualmente existem muitas visões diferentes sobre o que é a História Global do Trabalho, assim como há um intenso debate sobre as suas possibilidades (Winn, 2012). O presente projeto se aproxima das perspectivas que pensam no global “por meio de uma ênfase no espaço e nas conexões que se estendem além das fronteiras culturais”, em vez de pensar no global como o mundo inteiro (De Vito, 2019). Nesse sentido, analisar como o racismo presente na legislação abolicionista circulou pelos espaços aqui abordados, e esteve diretamente relacionado ao controle sobre a força de trabalho, é uma possibilidade de fazer a História Global do Trabalho.
+
+---
+
+[referencia=530eecfb25f2691c score=0.029]
+- HOLT, Thomas C. The Problem of Freedom: Race, Labor, and Politics in Jamaica and Britain, 1832-1938. Baltimore: Johns Hopkins University Press, 1992.
+- KOWARICK, Lúcio. Trabalho e Vadiagem: a origem do trabalho livre no Brasil. Rio de Janeiro: Paz e Terra, 1994.
+- LAMOUNIER, Maria Lucia. Formas da transição da escravidão ao trabalho livre: a Lei de Locação de Serviços de 1879. Dissertação (Mestrado em História) -Instituto de Filosofia e Ciências Humanas, Universidade de Campinas. Campinas, 1986.
+- 
+LEI DE 11 DE OUTUBRO DE 1837. Disponível em: Disponível em: http://legis.senado.leg.br/norma/541072/publicacao/15632760  Acesso em: 8 abr. 2021.
+» http://legis.senado.leg.br/norma/541072/publicacao/15632760
+- 
+LEI DE 28 DE SETEMBRO DE 1871. Disponível em: Disponível em: http://www.planalto.gov.br/ccivil_03/leis/lim/lim2040.htm  Acesso em: 10 mar. 2021. 
+» http://www.planalto.gov.br/ccivil_03/leis/lim/lim2040.htm
+-
+
+---
+
+[referencia=530eecfb25f2691c score=0.029]
+        providências policiais para reprimir a vadiagem, a fim de que a indolência natural dos pretos os não leve a abandonar todos os trabalhos e a entregar as colônias à crise proveniente da falta de braços, expondo ao mesmo tempo ao perigo de um numeroso bando de vadios, sem educação, nem cultura e fáceis de cair em todos os vícios (Pires, 1874, p. 15).
+
+
+Felix Meyer, em opúsculo também publicado em 1874, apontou que o estado selvagem em que ainda se conservavam “os povos indígenas de Angola, oferece a prova mais evidente”, para ele, do fato de que o “negro neste seu país natal jamais soube sujeitar-se voluntariamente a um trabalho regular”. O atraso “intelectual e moral” que essa população apresentaria não poderia, no entanto, ser atribuído a “uma inferioridade inata e própria da raça”, como exposto pelo ministro Mendes Leal, baseado nas ideias de Geoffroy Saint-Hilaire. Para Meyer, a
+
+        influência enervante do clima e a fertilidade espontânea do solo, que lhes facultam o satisfazer as suas poucas necessidades sem precisarem de sujeitar-se a um trabalho regular são as causas permanentes, que permitiram desde os tempos primordiais, e permitem ainda hoje ao negro de Angola de entregar-se ao ócio, que para ele é a condição do seu bem-estar (Meyer, 1874, pp. 8-9).
+
+
+O mesmo autor cita experiências nos Estados Unidos e nas Antilhas Britânicas para exemplificar casos em que os negros fora da África, assim como no próprio continente, não se sujeitavam ao trabalho. A plena e imediata emancipação dos negros, segundo Meyer, “aniquilaria completamente as importantes colônias agrícolas fundadas pelos europeus”, e por isso era necessário constranger e obrigar os negros a trabalhar (Meyer, 1874, p. 15).
+
+---
+
+[referencia=530eecfb25f2691c score=0.029]
+Além disso, o presente artigo se aproxima da História Global do Trabalho proposta por Linden ao explorar diferentes relações de trabalho, isto é, ao recusar uma abordagem tradicional que confunda a história do trabalho com a história do trabalho assalariado (Linden, 2013). Se a historiografia do trabalho produzida no Brasil tem avançado na investigação de formas de trabalho coercitivo no século XIX<sup>5</sup>, ainda são muito precários os esforços recentes de análise dos efeitos do racismo na história dos mundos de trabalho do país (Popinigis; Terra, 2019).
+
+A primeira parte do artigo dedica-se a averiguar como, no contexto da abolição, se consolidou uma imagem de diferenciação racial que relacionava os negros a uma ociosidade atávica e, ao mesmo tempo, apontava para a necessidade de criação de medidas que reprimissem a vadiagem e regulassem os contratos de trabalho. A segunda parte explora justamente as tentativas, no Brasil e no Império Português, que foram concomitantes e relacionadas, de se responder a essas demandas através de leis e regulamentos. A partir dessa abordagem, objetiva-se contribuir para a análise do racismo no processo de transformação das relações de trabalho no Brasil e na África portuguesa, e para um olhar mais atento sobre a construção de formas coercitivas de trabalho nos espaços aqui abordados.
+
+---
+
+[referencia=530eecfb25f2691c score=0.023]
+## OCIOSIDADE E TRABALHO FORÇADO
+
+Aprovada no Brasil em 28 de setembro de 1871, a legislação conhecida como “Lei do Ventre Livre” tinha como ponto principal libertar os filhos e as filhas das mulheres escravas que nascessem a partir da data da lei. Contudo, condicionava que essas crianças ficariam em poder, e sob a autoridade, dos senhores de suas mães até a idade de oito anos. Após esse período, o senhor poderia receber uma indenização, ou “utilizar-se dos serviços do menor até a idade de 21 anos completos” (Lei de 28 de setembro de 1871).
+
+A lei possui muitos outros pontos, tendo alguns historiadores ressaltado a importância da garantia do direito dos escravizados de formar um pecúlio, e de obter a alforria caso tivessem os meios para indenizar o seu valor (Chalhoub, 1990). O que ainda não foi muito explorado é seu aspecto coercitivo em relação à vadiagem, exposto, por exemplo, na determinação de que os escravos libertados em virtude da lei ficariam “durante cinco anos sob a inspeção do Governo”, e seriam “obrigados a contratar seus serviços sob pena de serem constrangidos, se viverem vadios, a trabalhar nos estabelecimentos públicos” (Lei de 28 de setembro de 1871)<sup>6</sup>. O constrangimento do trabalho, no entanto, cessaria se o liberto apresentasse um contrato de serviço.
+
+Vigorava, na época da lei de 1871, o Código Criminal datado de 1830, que, no seu artigo 295, estipulava como vadia a pessoa que não tivesse uma ocupação honesta, “e útil, de que possa subsistir, depois de advertido pelo Juiz de Paz, não tendo renda suficiente”. A pena era a prisão com trabalho por oito a vinte e quatro dias (Brasil, 1830).
+
+---
+
+[referencia=530eecfb25f2691c score=0.020]
+Uma outra lei de locação de serviços aprovada em 1837, e que dizia respeito exclusivamente aos estrangeiros, tornou ainda mais rígida a coerção aos trabalhadores que desejassem sair dos contratos. Nesse caso, se não pagassem seriam imediatamente presos e condenados “a trabalhar nas obras públicas por todo o tempo que for necessário, até satisfazer com o produto líquido de seus jornais tudo quanto dever ao locatário” (Lei de 11 de outubro de 1837). O que essas legislações indicam, segundo Télio Cravo et al., é a construção de um aparato que “restringia a mobilidade e demarcava as engrenagens coercitivas” em relação aos trabalhadores livres no Brasil. As referidas leis procuravam “canonizar as relações de dependência do trabalhador; impossibilitá-lo de se ausentar ou se evadir do trabalho; e, se necessário, condená-lo à prisão” (Cravo; Rodrigues; Godoy, 2020).
+
+No contexto da primeira metade do século XIX, as leis que diziam respeito aos contratos de trabalho eram as mais voltadas diretamente para o controle da mobilidade da população livre. Apesar da existência da perseguição à vadiagem na legislação criminal brasileira, como comentado anteriormente, a preocupação da polícia nesse período, pelo menos no caso da Corte, estava mais direcionada à questão da mendicância, que no próprio Código Criminal estava aproximada à vadiagem (Holloway, 2008).
+
+---
+
+[referencia=530eecfb25f2691c score=0.020]
+- CHALHOUB, Sidney. Vadios e barões no ocaso do Império: o debate sobre a repressão da ociosidade na Câmara dos Deputados em 1888. Estudos Ibero-Americanos, v. 9, n. 1-2, pp. 53-67, 1983.
+- CHALHOUB, Sidney. Visões da liberdade: uma história das últimas décadas da escravidão na corte. São Paulo. Companhia das Letras, 1990.
+- CÓDIGO PENAL APROVADO por Decreto de 10 de dezembro de 1852. Lisboa: Imprensa Nacional, 1855.
+- CONGRESSO AGRÍCOLA DO RIO de Janeiro, 1878. Anais. Rio de Janeiro: Fundação Casa de Rui Barbosa, 1988.
+- CRAVO, Télio Anísio; RODRIGUES, Pedro Conterno; GODOY, Marcelo Magalhães. Imigração internacional e contratos de trabalho no Império do Brasil: colonos europeus na construção de estradas na década de 1830. Almanack, v. 25, pp. 1-34, 2020.
+- DANTAS, Monica Duarte; COSTA, Vivian Chieregati. O “pomposo nome de liberdade do cidadão”: tentativas de arregimentação e coerção da mão-de-obra livre no Império do Brasil. Estudos Avançados, v. 30, n. 87, pp. 29-48, 2016.
+-
+
+---
+
+[referencia=530eecfb25f2691c score=0.017]
+## Resumo
+
+O presente artigo pretende analisar como a perseguição à ociosidade foi um elemento-chave nas políticas de controle sobre o trabalho no contexto da abolição, bem como investigar como essa perseguição estava pautada pelo racismo ao atribuir aos negros uma ociosidade natural. Geralmente abordado para o período do pós-abolição, busca-se mostrar que esse é um processo anterior. Além disso, outra novidade consiste em se debater como as relações entre legislação, trabalho e raça no contexto da abolição não estiveram circunscritas unicamente ao Brasil, e, a partir de uma perspectiva da História Global do Trabalho, pretende-se refletir sobre as conexões e as comparações com o caso do Império Português, nas formulações sobre a África, ao longo do mesmo período.
+
+**Palavras-chave:**
+
+Racismo; trabalho; ociosidade; História Global do Trabalho

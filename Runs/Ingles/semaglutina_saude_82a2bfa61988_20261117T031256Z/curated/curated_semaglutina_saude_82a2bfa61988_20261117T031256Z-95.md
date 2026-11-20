@@ -1,0 +1,59 @@
+[referencia=da958b89c97e4ea3 score=0.299]
+WHO is alerting health-care professionals and regulatory authorities to the risk of non-arteritic anterior ischemic optic neuropathy (NAION) associated with the use of semaglutide medicines—Ozempic®, Rybelsus®, and Wegovy®. The European Medicines Agency (EMA) has recommended updating the product information for these medicines to include NAION as a side effect, with a frequency classified as very rare.
+
+Semaglutide, a glucagon-like peptide-1 receptor agonist (GLP-1RA), is the active ingredient in medications used to treat type 2 diabetes and obesity. NAION is a leading cause of vision loss in adults and the second most common optic neuropathy after glaucoma. It typically presents as sudden, painless, monocular vision loss accompanied by optic disc edema. The vision loss is generally irreversible, and there is currently no effective treatment available. [1]
+
+The EMA’s Pharmacovigilance Risk Assessment Committee (PRAC) reviewed all available data on NAION with semaglutide, including data from non-clinical studies, clinical trials, post-marketing surveillance and the medical literature. PRAC concluded that NAION is a very rare side effect of semaglutide, potentially affecting up to 1 in 10,000 users.
+
+Accordingly, EMA has recommended that the product information for semaglutide medicines be updated to reflect this risk. If patients experience a sudden loss of vision or rapidly worsening eyesight during treatment with semaglutide, they should contact their doctor without delay. If NAION is confirmed, treatment with semaglutide should be stopped. [2]
+
+At its May 2025 meeting, the WHO Advisory Committee on Safety of Medicinal Products (ACSoMP) also evaluated the evidence and concluded that the Risk Management Plan for semaglutide should be revised to include NAION as a potential risk, including any required additional pharmacovigilance activities.
+
+WHO is issuing this safety alert due to the widespread global use of semaglutide and the serious nature of NAION. Furthermore, WHO has received individual case safety reports (ICSRs) of NAION following semaglutide administration from multiple countries through VigiBase, the global database of reported adverse events of medicinal products.
+
+**References**
+
+---
+
+[referencia=da958b89c97e4ea3 score=0.049]
+**References**
+
+[1] Simonsen E, Lund LC, Ernst MT, et al. Use of semaglutide and risk of non-arteritic anterior ischemic optic neuropathy: A Danish–Norwegian cohort study. Diabetes Obes Metab. 2025;1‐10. doi:10.1111/dom.16316 (https://dom-pubs.onlinelibrary.wiley.com/doi/full/10.1111/dom.16316. Accessed 17 June 2025).
+
+[2] EMA. PRAC concludes eye condition NAION is a very rare side effect of semaglutide medicines Ozempic, Rybelsus and Wegovy. 6 June 2025 (https://www.ema.europa.eu/en/news/prac-concludes-eye-condition-naion-very-rare-side-effect-semaglutide-medicines-ozempic-rybelsus-wegovy. Accessed 17 June 2025).
+
+---
+
+[referencia=7743f97bc668e222 score=0.013]
+The FDA is requiring an update to the Warnings and Precautions section of the label, not a boxed warning. It tells clinicians to have patients report sudden vision changes right away, refer suspected cases to an ophthalmologist and “consider” stopping the drug if NAION develops, unless the benefits clearly outweigh the risk.
+
+The warning is class-wide, but the evidence behind it is mixed and the absolute risk is small. The FDA’s real-world study of adults with type 2 diabetes found no statistically significant risk increase compared with sodium-glucose cotransporter-2 (SGLT-2) inhibitors, but a 43% higher risk than with dipeptidyl peptidase-4 (DPP-4) inhibitors.
+
+## What the trial data show
+
+An analysis of 126 trials involving 134,253 GLP-1 users and comparison patients found 15 probable NAION events, 10 of them in GLP-1 users. That works out to 6.4 cases per 100,000 person-years among GLP-1 users versus 3.8 among comparison patients, an observed difference of 2.6 cases per 100,000 person-years. The FDA also cites a general-population rate of 2.3 to 10.2 cases per 100,000 adults over 50 per year, but that figure comes from a different population and isn’t directly comparable to the trial rates.
+
+The FDA said its review of animal data found no mechanism, and that adverse event reports were hard to interpret because NAION risk factors, including diabetes and hypertension, are common among GLP-1 users.
+
+According to the FDA, methodologically rigorous observational studies “consistently” showed increased risk in new GLP-1 users with type 2 diabetes compared with patients starting DPP-4 or SGLT-2 inhibitors.
+
+---
+
+[referencia=7743f97bc668e222 score=0.001]
+## Outside studies are split
+
+Two Scandinavian studies involving type 2 diabetes patients on semaglutide (Ozempic, Wegovy) concluded that the drug was associated with increased risk of NAION. A study of U.S. health records in the TriNetX network that grouped users of semaglutide and tirzepatide (Mounjaro, Zepbound) together found 76% higher NAION risk than with other diabetes drugs. During follow-up of up to two years, researchers recorded 35 cases among 79,699 patients taking semaglutide or tirzepatide versus 19 among 79,699 comparison patients. The hazard ratio was 1.76, with a 95% confidence interval of 1.01–3.07.
+
+A Cleveland Clinic study of about 220,000 GLP-1 users with type 2 diabetes, including about 120,000 on semaglutide, found no statistically significant increase in NAION risk.
+
+The American Optometric Association has recommended a baseline eye exam to check optic nerve health for new GLP-1 users since 2025.
+
+Companies can still contest the labeling language before the FDA finalizes it. Eli Lilly told USA Today in a statement that it is “carefully evaluating the update and will respond to the FDA promptly.” Novo Nordisk spokesperson Liz Skrbkova told the paper the company does not believe the data “establish a cause-and-effect relationship.” The company has listed NAION as a very rare side effect in EU leaflets since a 2025 European Medicines Agency review.
+
+## Lawsuits allege vision loss
+
+As of Oct. 1, 247 cases were pending in the federal NAION multidistrict litigation. The suits against Novo Nordisk and Eli Lilly allege failure to warn of NAION.
+
+In November 2025, Denmark’s patient compensation body, funded by the state and insurers, awarded four claimants a combined 800,000 Danish kroner (about $124,000). The patients said they developed NAION after taking Wegovy or Ozempic.
+
+Filed Under: Ophthalmology

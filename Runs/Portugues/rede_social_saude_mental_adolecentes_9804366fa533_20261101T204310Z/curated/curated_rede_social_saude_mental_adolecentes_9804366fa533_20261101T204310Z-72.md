@@ -1,0 +1,60 @@
+[referencia=e722e594ea80d366 score=0.159]
+**Conclusions** Experimental design-based evidence supports the causal case for an effect of SMU on mental health, with constraints producing improvements across multiple outcomes and no evidence of harm. Population-level inferences suggest that even individually modest effects may translate into meaningful public health benefits given the high prevalence of SMU exposure. These findings suggest that reducing SMU may represent a low-intensity, low-cost, scalable strategy to support mental health and improve well-being.
+
+### Competing Interest Statement
+
+JH reports receiving royalties from books and honoraria for speaking engagements. His nonprofit activities are supported by philanthropic funding, including Bancel Philanthropies, the Walton Family Foundation, the Bezos Courage and Civility Award, and other charitable donors. He has served as an expert witness on social media and adolescent mental health (pro bono). GSG reports serving as a compensated expert witness for law firms on social media and adolescent mental health. RZ reports receiving honoraria for speaking engagements. All other authors declare no conflict of interests.
+
+### Clinical Protocols
+
+https://www.crd.york.ac.uk/PROSPERO/view/CRD42025637996
+
+### Author Declarations
+
+I confirm all relevant ethical guidelines have been followed, and any necessary IRB and/or ethics committee approvals have been obtained.
+
+Yes
+
+The details of the IRB/oversight body that provided approval or exemption for the research described are given below:
+
+The study used publicly available data from original studies to calculate summary statistics.
+
+I confirm that all necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived, and that any patient/participant/sample identifiers included were not known to anyone (e.g., hospital staff, patients or participants themselves) outside the research group so cannot be used to identify individuals.
+
+Yes
+
+I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).
+
+Yes
+
+I have followed all appropriate research reporting guidelines, such as any relevant EQUATOR Network research reporting checklist(s) and other pertinent material, if applicable.
+
+Yes
+
+## Footnotes
+
+- Registration
+- PROSPERO: CRD42025637996
+
+---
+
+[referencia=e722e594ea80d366 score=0.004]
+## Abstract
+
+**Background** Observational studies have consistently reported associations between social media use (SMU) and poorer mental health outcomes; however, such designs cannot establish causality. This study synthesised evidence from randomized experiments to estimate the effects of restricting SMU on mental health outcomes.
+
+**Methods** A systematic search was conducted across MEDLINE, Embase, PsycINFO, and Cochrane CENTRAL to identify experimental trials evaluating interventions that constrained SMU for at least 24 hours and included an unconstrained control condition. Multilevel random-effects meta-analyses were used to synthesise effect estimates. Prespecified meta-regressions explored study-level moderators, and population-level impact fractions were estimated relative to global SMU prevalence.
+
+**Results** From 7,784 screened records, 37 reports representing 35 distinct studies were included (pooled N = 7,160). Most interventions lasted one to three weeks and targeted college-aged youth. Pooled estimates favoured SMU constraints across outcomes, with magnitude and precision varying by domain. Confidence intervals were entirely above zero, consistent with a beneficial response for depressive symptoms (g = 0.22; 95% CI, 0.12 to 0.32), perceived stress (g = 0.15; 95% CI, 0.01 to 0.29), anxiety symptoms (g = 0.19; 95% CI, 0.05 to 0.34), fear of missing out/nomophobia (g = 0.14; 95% CI, 0.04 to 0.24), and well-being (g = 0.36; 95% CI, 0.10 to 0.63). Heterogeneity was substantial for several outcomes (I<sup>2</sup> > 75%). In bivariate meta-regressions, higher baseline SMU was associated with larger effects for anxiety symptoms (β = 0.13; 95% CI, 0.03 to 0.22), and longer interventions were associated with larger effects for depressive symptoms (β = 0.16; 95% CI, 0.02 to 0.30). Inferences revealed that a short-term reduction in SMU globally could plausibly mitigate 17.5% and 15.4% of depressive and anxiety symptom cases, respectively.
+
+---
+
+[referencia=e722e594ea80d366 score=0.000]
+## Footnotes
+
+- Registration
+- PROSPERO: CRD42025637996
+
+## Data Availability
+
+All analyses conducted in this study are fully reproducible. The study-level data will be made publicly available on the Open Science Framework (OSF) shortly following the publication of this pre-print version and will be accessible at https://osf.io/r37mu. Concurrently, the complete analytic codebase used the meta-analysis, and the interactive web application will be released in a single GitHub repository https://github.com/MarcusVVLopes/smu_meta_repo. The live application, deployed at https://marcuslopes.shinyapps.io/smu_meta/, allows for real-time visualization of study-level and pooled estimates under alternative sensitivity analysis criteria to enhance transparency and facilitate knowledge translation.

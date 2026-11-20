@@ -1,0 +1,1161 @@
+[
+  {
+    "id": "afac34cee75e4364",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02024R1689-20260727",
+    "normalized_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML?uri=CELEX%3A02024R1689-20260727",
+    "work_key": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML?uri=CELEX%3A02024R1689-20260727",
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 (Consolidated Version, 27 July 2026) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:35.856965Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f5755b84f11ea8ed",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/legal-content/pt/ALL/?uri=CELEX%3A32024R1689",
+    "normalized_url": "https://eur-lex.europa.eu/legal-content/pt/ALL?uri=CELEX%3A32024R1689",
+    "work_key": "https://eur-lex.europa.eu/legal-content/pt/ALL?uri=CELEX%3A32024R1689",
+    "title": "Regulamento (UE) 2024/1689 — EUR-Lex Document Metadata and Implementation Dates —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:36.070146Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d6f3d9329f4cb9f7",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.ey.com/en_gr/technical/tax/tax-alerts/regulation-eu-2026-1744-digital-omnibus-on-ai",
+    "normalized_url": "https://ey.com/en_gr/technical/tax/tax-alerts/regulation-eu-2026-1744-digital-omnibus-on-ai",
+    "work_key": "https://ey.com/en_gr/technical/tax/tax-alerts/regulation-eu-2026-1744-digital-omnibus-on-ai",
+    "title": "EY — Regulation (EU) 2026/1744: Digital Omnibus on AI —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:35.407907Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3fbe2fb0c64fd741",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/10/EPRS_ATA(2025)772906.html",
+    "normalized_url": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/10/EPRS_ATA(2025)772906.html",
+    "work_key": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/10/EPRS_ATA(2025)772906.html",
+    "title": "European Parliamentary Research Service (EPRS) — AI Act – Implementation Timeline —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:36.339399Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2ddcc05b33f7db1a",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "normalized_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "work_key": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "title": "Senado Federal — Projeto de Lei n° 2338, de 2023 (Marco Legal da Inteligência Artificial) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:13.514200Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "216c4e922227150d",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.globalsuitesolutions.com/pt/marco-legal-da-inteligencia-artificial-brasil/",
+    "normalized_url": "https://globalsuitesolutions.com/pt/marco-legal-da-inteligencia-artificial-brasil",
+    "work_key": "https://globalsuitesolutions.com/pt/marco-legal-da-inteligencia-artificial-brasil",
+    "title": "GlobalSuite Solutions — Marco Legal da Inteligência Artificial no Brasil (PL 2.338/2023) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:38.401505Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5482b6e239921f67",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.barbieriadvogados.com/brazil-ai-act/",
+    "normalized_url": "https://barbieriadvogados.com/brazil-ai-act",
+    "work_key": "https://barbieriadvogados.com/brazil-ai-act",
+    "title": "Barbieri Advogados — Brazil's Proposed AI Regulation (PL 2.338/2023) vs. the EU AI Act —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:36.430665Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d41ee4caa2d475f3",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.barbieriadvogados.com/regulamentacao-inteligencia-artificial-brasil/",
+    "normalized_url": "https://barbieriadvogados.com/regulamentacao-inteligencia-artificial-brasil",
+    "work_key": "https://barbieriadvogados.com/regulamentacao-inteligencia-artificial-brasil",
+    "title": "Barbieri Advogados — O que propõe o marco legal da inteligência artificial (PL 2.338/2023)? —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:36.601494Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c1b7863f54f6fc80",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2868197",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2868197",
+    "work_key": "https://camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2868197",
+    "title": "Câmara dos Deputados — Inteiro Teor do PL n. 2338/2023 (Texto Remetido pelo Senado Federal) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:43.467187Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3f7ad752abcfd7cb",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://strong.com.br/blog/marco-legal-inteligencia-artificial-pl-2338/",
+    "normalized_url": "https://strong.com.br/blog/marco-legal-inteligencia-artificial-pl-2338",
+    "work_key": "https://strong.com.br/blog/marco-legal-inteligencia-artificial-pl-2338",
+    "title": "Strong Business School — Marco legal da inteligência artificial: o que prevê o PL 2338 e em que fase está —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:37.175315Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "19d10dfd8de2b7ef",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.euaiact.com/digital-omnibus-ai",
+    "normalized_url": "https://euaiact.com/digital-omnibus-ai",
+    "work_key": "https://euaiact.com/digital-omnibus-ai",
+    "title": "EU AI Act Resource — Digital Omnibus on AI (Regulation (EU) 2026/1744) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:37.994665Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fadf8075ef713458",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://iagovernance.com/en/blog/ai-liability-act-withdrawn/",
+    "normalized_url": "https://iagovernance.com/en/blog/ai-liability-act-withdrawn",
+    "work_key": "https://iagovernance.com/en/blog/ai-liability-act-withdrawn",
+    "title": "IAGovernance — AI Liability Directive Withdrawn: What Still Protects You —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:39.092954Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "350068680163a251",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://vraneseviclaw.com/en/the-ai-liability-directive-is-gone-what-governs-ai-related-harm-in-the-eu-now/",
+    "normalized_url": "https://vraneseviclaw.com/en/the-ai-liability-directive-is-gone-what-governs-ai-related-harm-in-the-eu-now",
+    "work_key": "https://vraneseviclaw.com/en/the-ai-liability-directive-is-gone-what-governs-ai-related-harm-in-the-eu-now",
+    "title": "Vranesevic Grbic Law — The AI Liability Directive Is Gone: What Governs AI-Related Harm in the EU Now —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:40.397185Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "14db0d72086aa539",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://nhimg.org/ai-liability-and-product-liability-guide",
+    "normalized_url": "https://nhimg.org/ai-liability-and-product-liability-guide",
+    "work_key": "https://nhimg.org/ai-liability-and-product-liability-guide",
+    "title": "NHIMG — AI Liability and Product Liability Guide —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:39.611121Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f262e34165fe5b99",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.jota.info/opiniao-e-analise/artigos/direitos-autorais-no-pl-de-inteligencia-artificial-em-tempo-para-evitar-um-desastre",
+    "normalized_url": "https://jota.info/opiniao-e-analise/artigos/direitos-autorais-no-pl-de-inteligencia-artificial-em-tempo-para-evitar-um-desastre",
+    "work_key": "https://jota.info/opiniao-e-analise/artigos/direitos-autorais-no-pl-de-inteligencia-artificial-em-tempo-para-evitar-um-desastre",
+    "title": "JOTA (Juliano Maranhão) — Direitos autorais no PL de Inteligência Artificial: em tempo para evitar um desastre —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:40.061022Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e78e724fea229bf8",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://apublica.org/nota/ia-pl-2338-protege-direitos-autorais-mas-nao-os-trabalhistas/",
+    "normalized_url": "https://apublica.org/nota/ia-pl-2338-protege-direitos-autorais-mas-nao-os-trabalhistas",
+    "work_key": "https://apublica.org/nota/ia-pl-2338-protege-direitos-autorais-mas-nao-os-trabalhistas",
+    "title": "Agência Pública — IA: Texto de PL aprovado em comissão protege direitos autorais, mas não os trabalhistas —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:41.983597Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "456db82591b23966",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/legal-content/EN-FR/TXT/?uri=CELEX%3A32024R1689",
+    "normalized_url": "https://eur-lex.europa.eu/legal-content/EN-FR/TXT?uri=CELEX%3A32024R1689",
+    "work_key": "https://eur-lex.europa.eu/legal-content/EN-FR/TXT?uri=CELEX%3A32024R1689",
+    "title": "Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 (Official Journal of the European Union, 12 July 2024) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:42.657525Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "64b4c84a1acfe340",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.euaiact.com/implementation-timeline",
+    "normalized_url": "https://euaiact.com/implementation-timeline",
+    "work_key": "https://euaiact.com/implementation-timeline",
+    "title": "EU AI Act Resource — The EU AI Act Implementation Timeline —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:42.401800Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "34305df930191b74",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/ai-act-standardisation",
+    "title": "European Commission Digital Strategy — AI Act Standardisation —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:43.366680Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "39bd6a98649524af",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.actuia.com/en/news/ai-act-obligations-in-force-and-delays-under-omnibus-2026-1744/",
+    "normalized_url": "https://actuia.com/en/news/ai-act-obligations-in-force-and-delays-under-omnibus-2026-1744",
+    "work_key": "https://actuia.com/en/news/ai-act-obligations-in-force-and-delays-under-omnibus-2026-1744",
+    "title": "ActuIA — AI Act: Obligations in Force and Delays under Omnibus 2026/1744 —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:44.433671Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "542bf11ae732483e",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=OJ:L_202601744",
+    "normalized_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF?uri=OJ%3AL_202601744",
+    "work_key": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF?uri=OJ%3AL_202601744",
+    "title": "Regulation (EU) 2026/1744 of the European Parliament and of the Council of 8 July 2026 (Digital Omnibus on AI) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:54.008938Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bb739b40591c80bb",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.globalsuitesolutions.com/digital-omnibus-ai-regulation-2026-1744/",
+    "normalized_url": "https://globalsuitesolutions.com/digital-omnibus-ai-regulation-2026-1744",
+    "work_key": "https://globalsuitesolutions.com/digital-omnibus-ai-regulation-2026-1744",
+    "title": "GlobalSuite Solutions — Digital Omnibus on AI: What Changes in the AI Act and the New Timeline —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:45.695646Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6be52f7ecfc7f3dd",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.jonesday.com/en/insights/2025/08/eu-ai-act-european-commission-publishes-generalpurpose-ai-code-of-practice",
+    "normalized_url": "https://jonesday.com/en/insights/2025/08/eu-ai-act-european-commission-publishes-generalpurpose-ai-code-of-practice",
+    "work_key": "https://jonesday.com/en/insights/2025/08/eu-ai-act-european-commission-publishes-generalpurpose-ai-code-of-practice",
+    "title": "Jones Day — EU AI Act: European Commission Publishes General-Purpose AI Code of Practice —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:45.730002Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b772a4f32e5ca4a1",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-eu-ai-act-implementation-timeline-understanding-the-next-deadline-for-compliance/",
+    "normalized_url": "https://kennedyslaw.com/en/thought-leadership/article/2026/the-eu-ai-act-implementation-timeline-understanding-the-next-deadline-for-compliance",
+    "work_key": "https://kennedyslaw.com/en/thought-leadership/article/2026/the-eu-ai-act-implementation-timeline-understanding-the-next-deadline-for-compliance",
+    "title": "Kennedys Law — The EU AI Act Implementation Timeline: Understanding the Next Deadline for Compliance —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:47.947151Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "527b9d08414c1fc3",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.gov.br/anpd/pt-br/acesso-a-informacao/participacao-social/outras-acoes/documentos/consulta-a-sociedade-sandbox-regulatorio-de-ia.pdf/@@display-file/file",
+    "normalized_url": "https://gov.br/anpd/pt-br/acesso-a-informacao/participacao-social/outras-acoes/documentos/consulta-a-sociedade-sandbox-regulatorio-de-ia.pdf/@@display-file/file",
+    "work_key": "https://gov.br/anpd/pt-br/acesso-a-informacao/participacao-social/outras-acoes/documentos/consulta-a-sociedade-sandbox-regulatorio-de-ia.pdf/@@display-file/file",
+    "title": "Autoridade Nacional de Proteção de Dados (ANPD) — Consulta à Sociedade: Sandbox Regulatório de IA e Proteção de Dados no Brasil —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:58.517274Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9df43fab5711e8c7",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.migalhas.com.br/depeso/422014/ia-e-direitos-autorais-o-que-diz-o-pl-2-338-23-aprovado-pelo-senado",
+    "normalized_url": "https://migalhas.com.br/depeso/422014/ia-e-direitos-autorais-o-que-diz-o-pl-2-338-23-aprovado-pelo-senado",
+    "work_key": "https://migalhas.com.br/depeso/422014/ia-e-direitos-autorais-o-que-diz-o-pl-2-338-23-aprovado-pelo-senado",
+    "title": "Migalhas (Priscila Akemi Beltrame & Luísa Roman) — Inteligência artificial e direitos autorais: O que diz o PL 2.338/23 aprovado pelo Senado? —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:48.244561Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3873e3a8c7219f04",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.jota.info/opiniao-e-analise/colunas/ia-regulacao-democracia/avaliacao-de-impacto-algoritmico-no-pl-2338-23",
+    "normalized_url": "https://jota.info/opiniao-e-analise/colunas/ia-regulacao-democracia/avaliacao-de-impacto-algoritmico-no-pl-2338-23",
+    "work_key": "https://jota.info/opiniao-e-analise/colunas/ia-regulacao-democracia/avaliacao-de-impacto-algoritmico-no-pl-2338-23",
+    "title": "JOTA (Caitlin Mulholland & Isabella Z. Frajhof) — Avaliação de impacto algorítmico no PL 2338/23 —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:49.012173Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5f3e072377bda147",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "normalized_url": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "work_key": "https://camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2487262",
+    "title": "Câmara dos Deputados — Ficha de Tramitação do PL 2338/2023 —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:50.165523Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f42e227d72ef89a8",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://certificacaoiso.com.br/pl-2338-ai-act/",
+    "normalized_url": "https://certificacaoiso.com.br/pl-2338-ai-act",
+    "work_key": "https://certificacaoiso.com.br/pl-2338-ai-act",
+    "title": "Certificação ISO — PL 2338/2023, AI Act e ISO 42001 —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:50.512744Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "143eec3fe663bf75",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano/",
+    "normalized_url": "https://mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano",
+    "work_key": "https://mobiletime.com.br/noticias/24/08/2026/marco-ia-voto-fim-do-ano",
+    "title": "Mobile Time — Votação do Marco Regulatório de IA deve ficar para o final do ano, informa Aguinaldo Ribeiro —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:50.812866Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9f98de9a8698dd27",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://impactlabglobal.com/policy-radar/instrument/brazil-ai-bill",
+    "normalized_url": "https://impactlabglobal.com/policy-radar/instrument/brazil-ai-bill",
+    "work_key": "https://impactlabglobal.com/policy-radar/instrument/brazil-ai-bill",
+    "title": "ImpactLab — Brazil PL 2338: BR AI Regulation —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:52.496083Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "de59464960c5721c",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://cms.law/en/nld/publication/eu-ai-act-questions-and-answers",
+    "normalized_url": "https://cms.law/en/nld/publication/eu-ai-act-questions-and-answers",
+    "work_key": "https://cms.law/en/nld/publication/eu-ai-act-questions-and-answers",
+    "title": "CMS Law — EU AI Act: Questions and Answers —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:58.560377Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4f137356e628fde5",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.legalithm.com/en/ai-act-guide",
+    "normalized_url": "https://legalithm.com/en/ai-act-guide",
+    "work_key": "https://legalithm.com/en/ai-act-guide",
+    "title": "Legalithm — EU AI Act Guide —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:39:57.115093Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c102ab75f03f6682",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+    "normalized_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+    "work_key": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9347622",
+    "title": "Senado Federal — Avulso Inicial do Projeto de Lei n° 2338, de 2023 —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:40.813039Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "34cffa1973e2e0e6",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://enactia.com/eu-ai-act-compliance/",
+    "normalized_url": "https://enactia.com/eu-ai-act-compliance",
+    "work_key": "https://enactia.com/eu-ai-act-compliance",
+    "title": "Enactia — EU AI Act Compliance Guide —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:01.931028Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f4653d4aac1967c8",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://direitosnarede.org.br/2024/06/18/projeto-de-lei-n-2338-2023/",
+    "normalized_url": "https://direitosnarede.org.br/2024/06/18/projeto-de-lei-n-2338-2023",
+    "work_key": "https://direitosnarede.org.br/2024/06/18/projeto-de-lei-n-2338-2023",
+    "title": "Coalizão Direitos na Rede (CDR) — Projeto de Lei n. 2338/2023: Por uma regulação de Inteligência Artificial que defenda direitos —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:00.809418Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9370de917fd64473",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://www.regulation-ai.eu/en/ai-act/",
+    "normalized_url": "https://regulation-ai.eu/en/ai-act",
+    "work_key": "https://regulation-ai.eu/en/ai-act",
+    "title": "Regulation AI — EU AI Act: Complete Compliance Guide (2025–2028) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:02.370955Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5a205dde20b977ad",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://pt.wikipedia.org/wiki/Projeto_de_Lei_2338/2023",
+    "normalized_url": "https://pt.wikipedia.org/wiki/Projeto_de_Lei_2338/2023",
+    "work_key": "https://pt.wikipedia.org/wiki/Projeto_de_Lei_2338/2023",
+    "title": "Wikipédia — Projeto de Lei 2338/2023 —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:41:01.939393Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ecdfbfe4ba734a73",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.quinnemanuel.com/media/avvj5y50/eu-ai-act-obligations-on-general-purpose-ai-model-providers.pdf",
+    "normalized_url": "https://quinnemanuel.com/media/avvj5y50/eu-ai-act-obligations-on-general-purpose-ai-model-providers.pdf",
+    "work_key": "https://quinnemanuel.com/media/avvj5y50/eu-ai-act-obligations-on-general-purpose-ai-model-providers.pdf",
+    "title": "Quinn Emanuel — EU AI Act: Obligations on General-Purpose AI Model Providers —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:05.286933Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "563de861a97a7bbb",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+    "normalized_url": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+    "work_key": "https://en.wikipedia.org/wiki/General-Purpose_AI_Code_of_Practice",
+    "title": "Wikipedia — General-Purpose AI Code of Practice —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:41:05.437509Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d37b81208201e6b1",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53",
+    "normalized_url": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53",
+    "work_key": "https://ai-act-service-desk.ec.europa.eu/en/ai-act/article-53",
+    "title": "European Commission AI Act Service Desk — Article 53: Obligations for Providers of General-Purpose AI Models —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:14.625768Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c4c9e352fe613372",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://cset.georgetown.edu/article/eu-ai-code-safety/",
+    "normalized_url": "https://cset.georgetown.edu/article/eu-ai-code-safety",
+    "work_key": "https://cset.georgetown.edu/article/eu-ai-code-safety",
+    "title": "Center for Security and Emerging Technology (CSET) — AI Safety under the EU AI Code of Practice: A New Global Standard? —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:15.033073Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d5c1e904603038ee",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai",
+    "title": "European Commission Digital Strategy — The General-Purpose AI Code of Practice —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:15.687551Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "055df1c84b23e5d8",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/faqs/signing-general-purpose-ai-code-practice",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/faqs/signing-general-purpose-ai-code-practice",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/faqs/signing-general-purpose-ai-code-practice",
+    "title": "European Commission — Signing the General-Purpose AI Code of Practice: Questions & Answers —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:16.294314Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a9e3e225dba7fdd7",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/code-practice-ai-generated-content",
+    "title": "European Commission Digital Strategy — Code of Practice on Transparency of AI-generated Content —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:16.955423Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5ff2858d262c2715",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://www.europarl.europa.eu/RegData/etudes/STUD/2025/778575/ECTI_STU(2025)778575_EN.pdf",
+    "normalized_url": "https://europarl.europa.eu/RegData/etudes/STUD/2025/778575/ECTI_STU(2025)778575_EN.pdf",
+    "work_key": "https://europarl.europa.eu/RegData/etudes/STUD/2025/778575/ECTI_STU(2025)778575_EN.pdf",
+    "title": "European Parliament — Study on AI Act and GDPR Data Protection Interface (2025) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:37.590624Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b06e19cf2223a1af",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://iapp.org/news/a/the-eu-ai-act-and-copyrights-compliance",
+    "normalized_url": "https://iapp.org/news/a/the-eu-ai-act-and-copyrights-compliance",
+    "work_key": "https://iapp.org/news/a/the-eu-ai-act-and-copyrights-compliance",
+    "title": "IAPP — The EU AI Act and Copyright Compliance —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:38.510176Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5e3d405f79cf687f",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://code-of-practice.ai/",
+    "normalized_url": "https://code-of-practice.ai",
+    "work_key": "https://code-of-practice.ai",
+    "title": "General-Purpose AI Code of Practice — Official Portal (Commitments and Measures) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:38.995754Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e97caf9386d54548",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://legalblogs.wolterskluwer.com/copyright-blog/the-ai-act-provisions-relating-to-copyright-possibility-of-private-enforcement-germany-as-an-example-part-1/",
+    "normalized_url": "https://legalblogs.wolterskluwer.com/copyright-blog/the-ai-act-provisions-relating-to-copyright-possibility-of-private-enforcement-germany-as-an-example-part-1",
+    "work_key": "https://legalblogs.wolterskluwer.com/copyright-blog/the-ai-act-provisions-relating-to-copyright-possibility-of-private-enforcement-germany-as-an-example-part-1",
+    "title": "Kluwer Copyright Blog — The AI Act Provisions Relating to Copyright: Possibility of Private Enforcement? Germany as an Example (Part 1) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:40.157476Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "15729f57d1308085",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://brasscom.org.br/por-regras-equilibradas-de-direitos-autorais-e-pela-competitividade-do-brasil-no-cenario-global-de-inteligencia-artificial/",
+    "normalized_url": "https://brasscom.org.br/por-regras-equilibradas-de-direitos-autorais-e-pela-competitividade-do-brasil-no-cenario-global-de-inteligencia-artificial",
+    "work_key": "https://brasscom.org.br/por-regras-equilibradas-de-direitos-autorais-e-pela-competitividade-do-brasil-no-cenario-global-de-inteligencia-artificial",
+    "title": "Brasscom — Por regras equilibradas de direitos autorais e pela competitividade do Brasil no cenário global de inteligência artificial —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:40.651152Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4f5c1764b6f2f5c0",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://www4.ecad.org.br/noticias/ecad-associacoes-da-gestao-coletiva-da-musica-e-entidades-da-cultura-entregam-carta-a-camara-pedindo-protecao-de-direitos-autorais-no-pl-da-inteligencia-artificial/",
+    "normalized_url": "https://www4.ecad.org.br/noticias/ecad-associacoes-da-gestao-coletiva-da-musica-e-entidades-da-cultura-entregam-carta-a-camara-pedindo-protecao-de-direitos-autorais-no-pl-da-inteligencia-artificial",
+    "work_key": "https://www4.ecad.org.br/noticias/ecad-associacoes-da-gestao-coletiva-da-musica-e-entidades-da-cultura-entregam-carta-a-camara-pedindo-protecao-de-direitos-autorais-no-pl-da-inteligencia-artificial",
+    "title": "ECAD — Ecad, associações da gestão coletiva da música e entidades da cultura entregam carta à Câmara pedindo proteção de direitos autorais no PL da Inteligência Artificial —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:42.417528Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "183ff0f8382201e8",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://fenaj.org.br/setor-criativo-reage-a-possivel-retirada-de-direitos-autorais-do-pl-da-inteligencia-artificial/",
+    "normalized_url": "https://fenaj.org.br/setor-criativo-reage-a-possivel-retirada-de-direitos-autorais-do-pl-da-inteligencia-artificial",
+    "work_key": "https://fenaj.org.br/setor-criativo-reage-a-possivel-retirada-de-direitos-autorais-do-pl-da-inteligencia-artificial",
+    "title": "FENAJ — Setor criativo reage à possível retirada de direitos autorais do PL da Inteligência Artificial —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:44.538001Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "dbd1f51f397238cb",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://ia.wiki.br/direito-e-regulacao/pl-2338-2023",
+    "normalized_url": "https://ia.wiki.br/direito-e-regulacao/pl-2338-2023",
+    "work_key": "https://ia.wiki.br/direito-e-regulacao/pl-2338-2023",
+    "title": "IA Wiki — PL 2338/2023: Marco Legal da Inteligência Artificial —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:42.751281Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b65b1e13f5a0d00e",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://witniumchain.com/news/ai-liability-directive-withdrawn-product-liability-directive",
+    "normalized_url": "https://witniumchain.com/news/ai-liability-directive-withdrawn-product-liability-directive",
+    "work_key": "https://witniumchain.com/news/ai-liability-directive-withdrawn-product-liability-directive",
+    "title": "Witnium Chain — AI Liability Directive Withdrawn: Product Liability Directive Overview —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:47.947212Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "24f8c5d549996ecf",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://euverify.com/resource/eu-product-liability-ai-software/",
+    "normalized_url": "https://euverify.com/resource/eu-product-liability-ai-software",
+    "work_key": "https://euverify.com/resource/eu-product-liability-ai-software",
+    "title": "EUVerify — EU Product Liability Directive: What It Means for AI and Software —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:44.797498Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "de1cc2036b490bf1",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://ajee-journal.com/the-new-eu-product-liability-directive-doctrinal-analysis",
+    "normalized_url": "https://ajee-journal.com/the-new-eu-product-liability-directive-doctrinal-analysis",
+    "work_key": "https://ajee-journal.com/the-new-eu-product-liability-directive-doctrinal-analysis",
+    "title": "Access to Justice in Eastern Europe (AJEE) — The New EU Product Liability Directive: Doctrinal Analysis —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T03:09:41.780517Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "97a33fd2efbde2df",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://www.cambridge.org/core/journals/european-journal-of-risk-regulation/article/after-the-ai-liability-directive-civil-liability-for-healthcare-ai-and-the-limits-of-eu-risk-regulation/13737AF83003FAFAFE0F03F8DFF179F0",
+    "normalized_url": "https://cambridge.org/core/journals/european-journal-of-risk-regulation/article/after-the-ai-liability-directive-civil-liability-for-healthcare-ai-and-the-limits-of-eu-risk-regulation/13737AF83003FAFAFE0F03F8DFF179F0",
+    "work_key": "https://cambridge.org/core/journals/european-journal-of-risk-regulation/article/after-the-ai-liability-directive-civil-liability-for-healthcare-ai-and-the-limits-of-eu-risk-regulation/13737AF83003FAFAFE0F03F8DFF179F0",
+    "title": "European Journal of Risk Regulation (Cambridge Core) — After the AI Liability Directive: Civil Liability for Healthcare AI and the Limits of EU Risk Regulation —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:48.804508Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ea99c0fa5f76ed45",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://revistaconsinter.com/index.php/ojs/article/view/900",
+    "normalized_url": "https://revistaconsinter.com/index.php/ojs/article/view/900",
+    "work_key": "https://revistaconsinter.com/index.php/ojs/article/view/900",
+    "title": "Revista Internacional Consinter de Direito — Entre o “Efeito Bruxelas” e o “Críquete de Trobriand”: Transferências Normativas Brasil–União Europeia na Regulação de IA e Direitos Autorais —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:51.399406Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b107feae273cf905",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://www.scirp.net/journal/paperinformation?paperid=141689",
+    "normalized_url": "https://scirp.net/journal/paperinformation?paperid=141689",
+    "work_key": "https://scirp.net/journal/paperinformation?paperid=141689",
+    "title": "Beijing Law Review (Alexandre Pacheco da Silva & Rebeca Maldaun Cabral) — Beyond Copy-Paste: The Brussels Effect and the Evolution of Digital Law in Brazil —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:53.983856Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "682e0dbcc130f674",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://direitosnarede.org.br/inteligencia-artificial/",
+    "normalized_url": "https://direitosnarede.org.br/inteligencia-artificial",
+    "work_key": "https://direitosnarede.org.br/inteligencia-artificial",
+    "title": "Coalizão Direitos na Rede (CDR) — Inteligência Artificial: Notas Públicas e Posicionamentos sobre o PL 2338/2023 —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:58.101222Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3dc2383ae89a2ea2",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://cadernosjuridicos.fadi.br/cadernosjuridicos/article/view/126",
+    "normalized_url": "https://cadernosjuridicos.fadi.br/cadernosjuridicos/article/view/126",
+    "work_key": "https://cadernosjuridicos.fadi.br/cadernosjuridicos/article/view/126",
+    "title": "Cadernos Jurídicos da Faculdade de Direito de Sorocaba — AI Act europeu e PL 2.883/23: a regulamentação da inteligência artificial através de classificações de riscos —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T02:40:59.181643Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "regulacao_ia_50ed2d44b720_20261117T023910Z",
+    "tool_name": "Gemini"
+  }
+]

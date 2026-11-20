@@ -1,0 +1,1541 @@
+[
+  {
+    "id": "dfc598a1f4fe7a4a",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/40691306/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/40691306",
+    "work_key": "PMID:40691306",
+    "title": "Work time reduction via a 4-day workweek finds improvements in workers' well-being —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:17.448496Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d4ddca1ad6c6b0d5",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf",
+    "normalized_url": "https://help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf",
+    "work_key": "https://help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf",
+    "title": "Statement by Juliet Schor, Professor of Sociology, Boston College, before the Senate Committee on Health, Education, Labor, and Pensions —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:33:04.782753Z",
+    "error_message": "barreira de acesso (http_error): # Access Denied You don't have permission to access \"http://www.help.senate.gov/$(SERVE_403)/download/dr-schor-help-test",
+    "barrier_kind": "http_error",
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "14b3bafa0d61d8b3",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.takeroon.com/blog/4-day-work-week-evidence",
+    "normalized_url": "https://takeroon.com/blog/4-day-work-week-evidence",
+    "work_key": "https://takeroon.com/blog/4-day-work-week-evidence",
+    "title": "4 Day Work Week: What the Trials Actually Measured —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:18.300648Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "55623dd21e512883",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.thepeoplespace.com/insights/ideas/4-day-week-works-only-if-you-change-work",
+    "normalized_url": "https://thepeoplespace.com/insights/ideas/4-day-week-works-only-if-you-change-work",
+    "work_key": "https://thepeoplespace.com/insights/ideas/4-day-week-works-only-if-you-change-work",
+    "title": "The 4-day week works – but only if you change the work —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:19.056182Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "dfa3216c48bf4651",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/392873157_The_consequences_of_a_compressed_workweek_a_systematic_literature_review",
+    "normalized_url": "https://researchgate.net/publication/392873157_The_consequences_of_a_compressed_workweek_a_systematic_literature_review",
+    "work_key": "https://researchgate.net/publication/392873157_The_consequences_of_a_compressed_workweek_a_systematic_literature_review",
+    "title": "The consequences of a compressed workweek: a systematic literature review —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:33:36.899180Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3065e4295457d415",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.theguardian.com/world/2017/jan/04/sweden-sees-benefits-six-hour-working-day-trial-care-workers",
+    "normalized_url": "https://theguardian.com/world/2017/jan/04/sweden-sees-benefits-six-hour-working-day-trial-care-workers",
+    "work_key": "https://theguardian.com/world/2017/jan/04/sweden-sees-benefits-six-hour-working-day-trial-care-workers",
+    "title": "Sweden sees benefits of six-hour working day in trial for care workers —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:19.124109Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "30a2eb48ea87b753",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.smithschool.ox.ac.uk/news/day-save-planet-heres-what-four-day-week-could-mean-uk-carbon-emissions",
+    "normalized_url": "https://smithschool.ox.ac.uk/news/day-save-planet-heres-what-four-day-week-could-mean-uk-carbon-emissions",
+    "work_key": "https://smithschool.ox.ac.uk/news/day-save-planet-heres-what-four-day-week-could-mean-uk-carbon-emissions",
+    "title": "A day to save the planet? Here's what a four-day week could mean for UK carbon emissions —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:20.368613Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1a61920b8161852d",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://4dayweek.io/country/germany",
+    "normalized_url": "https://4dayweek.io/country/germany",
+    "work_key": "https://4dayweek.io/country/germany",
+    "title": "4 Day Work Week in Germany —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:20.207608Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "33d4f348a28d1893",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.digital-chiefs.de/en/70-continue-20-drop-out-the-honest-balance-sheet-of-the-four-day-week/",
+    "normalized_url": "https://digital-chiefs.de/en/70-continue-20-drop-out-the-honest-balance-sheet-of-the-four-day-week",
+    "work_key": "https://digital-chiefs.de/en/70-continue-20-drop-out-the-honest-balance-sheet-of-the-four-day-week",
+    "title": "70% Continue, 20% Drop Out: The Honest Balance Sheet of the Four-Day Week —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:22.355573Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fe9fb713a8b3b023",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.theguardian.com/business/2026/mar/16/four-day-work-working-week-what-happened",
+    "normalized_url": "https://theguardian.com/business/2026/mar/16/four-day-work-working-week-what-happened",
+    "work_key": "https://theguardian.com/business/2026/mar/16/four-day-work-working-week-what-happened",
+    "title": "'Cruel hoax' or 'work-life balance nirvana': whatever happened to the four-day work week? —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:21.032518Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "171adf58306f07a5",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.usecarly.com/blog/four-day-work-week-statistics/",
+    "normalized_url": "https://usecarly.com/blog/four-day-work-week-statistics",
+    "work_key": "https://usecarly.com/blog/four-day-work-week-statistics",
+    "title": "Four-Day Work Week Statistics —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:21.841587Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3763eccf6fb9a382",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://4dayweek.io/country/spain",
+    "normalized_url": "https://4dayweek.io/country/spain",
+    "work_key": "https://4dayweek.io/country/spain",
+    "title": "4 Day Work Week in Spain —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:22.557128Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "92f171d67c24cc2d",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc",
+    "normalized_url": "https://krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc",
+    "work_key": "https://krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc",
+    "title": "New bill introduced in Congress would reduce workweek to 32 hours —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:32:51.966952Z",
+    "error_message": "barreira de acesso (http_error): # Access Denied You don't have permission to access \"http://www.krem.com/article/news/nation-world/32-hour-workweek-bill",
+    "barrier_kind": "http_error",
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e3ab7017b3a53c65",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.humanresourcesonline.net/tokyo-to-introduce-a-four-day-workweek-and-flexible-working-hours-for-government-staff-from-april-2025",
+    "normalized_url": "https://humanresourcesonline.net/tokyo-to-introduce-a-four-day-workweek-and-flexible-working-hours-for-government-staff-from-april-2025",
+    "work_key": "https://humanresourcesonline.net/tokyo-to-introduce-a-four-day-workweek-and-flexible-working-hours-for-government-staff-from-april-2025",
+    "title": "Tokyo to introduce a four-day workweek and flexible working hours for government staff from April 2025 —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:23.584251Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d06ce4c35342bc05",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://4dayweek.io/country/south-korea",
+    "normalized_url": "https://4dayweek.io/country/south-korea",
+    "work_key": "https://4dayweek.io/country/south-korea",
+    "title": "4 Day Work Week in South Korea —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:24.152432Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "197e713438b8301c",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-promulga-emendas-sobre-fim-da-escala-6x1-e-agentes-de-saude",
+    "normalized_url": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-promulga-emendas-sobre-fim-da-escala-6x1-e-agentes-de-saude",
+    "work_key": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-promulga-emendas-sobre-fim-da-escala-6x1-e-agentes-de-saude",
+    "title": "Congresso promulga emendas sobre fim da escala 6x1 e agentes de saúde —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:00.802965Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0870e33ae3dc6a8f",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://aciara.com.br/fim-da-escala-6x1-veja-jornada-em-outros-paises/",
+    "normalized_url": "https://aciara.com.br/fim-da-escala-6x1-veja-jornada-em-outros-paises",
+    "work_key": "https://aciara.com.br/fim-da-escala-6x1-veja-jornada-em-outros-paises",
+    "title": "Fim da escala 6×1: veja jornada em outros países —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:27.939222Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "feb6f7af0662b7c9",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://openpaper.dev/examples/four-day-work-week-outcomes",
+    "normalized_url": "https://openpaper.dev/examples/four-day-work-week-outcomes",
+    "work_key": "https://openpaper.dev/examples/four-day-work-week-outcomes",
+    "title": "Four-Day Work Week Outcomes —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:29.216434Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fd821c7d735ba1b0",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.unisc.edu.au/about/unisc-news/news-archive/2025/november/why-the-four-day-workweek-is-more-than-just-a-fad-boosting-wellbeing-productivity-and-the-future-of-work",
+    "normalized_url": "https://unisc.edu.au/about/unisc-news/news-archive/2025/november/why-the-four-day-workweek-is-more-than-just-a-fad-boosting-wellbeing-productivity-and-the-future-of-work",
+    "work_key": "https://unisc.edu.au/about/unisc-news/news-archive/2025/november/why-the-four-day-workweek-is-more-than-just-a-fad-boosting-wellbeing-productivity-and-the-future-of-work",
+    "title": "Why the four-day workweek is more than just a fad: boosting wellbeing, productivity and the future of work —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:30.982276Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a38ffa89f273703c",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf",
+    "normalized_url": "https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf",
+    "work_key": "https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf",
+    "title": "Going Public: Iceland's journey to a shorter working week —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:58:55.266308Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "97f243bbb51e2631",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://4dayweek.io/country/iceland",
+    "normalized_url": "https://4dayweek.io/country/iceland",
+    "work_key": "https://4dayweek.io/country/iceland",
+    "title": "4 Day Work Week in Iceland —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:31.710088Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7f7f295dacd859c0",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://4dayweek.io/country/belgium",
+    "normalized_url": "https://4dayweek.io/country/belgium",
+    "work_key": "https://4dayweek.io/country/belgium",
+    "title": "4 Day Work Week in Belgium —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:32.452166Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "79b6c33df54a8c16",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://4dayweek.io/country/japan",
+    "normalized_url": "https://4dayweek.io/country/japan",
+    "work_key": "https://4dayweek.io/country/japan",
+    "title": "4 Day Work Week in Japan —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:32.973414Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7e67ba1a3a8e752f",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.bc.edu/bc-web/sites/bc-magazine/fall-2022-issue/linden-lane/a-four-day-work-week-.html",
+    "normalized_url": "https://bc.edu/bc-web/sites/bc-magazine/fall-2022-issue/linden-lane/a-four-day-work-week-.html",
+    "work_key": "https://bc.edu/bc-web/sites/bc-magazine/fall-2022-issue/linden-lane/a-four-day-work-week-.html",
+    "title": "A Four-Day Work Week? Boston College Professor Juliet Schor on why more and more companies are making the shift —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:33.508853Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "eccec2ddee33ccde",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://resources.rework.com/libraries/history-of-productivity/history-of-the-8-hour-workday",
+    "normalized_url": "https://resources.rework.com/libraries/history-of-productivity/history-of-the-8-hour-workday",
+    "work_key": "https://resources.rework.com/libraries/history-of-productivity/history-of-the-8-hour-workday",
+    "title": "History of the 8-Hour Workday —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:35.077459Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f34073e8ed6355c6",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.tupi.fm/mundo/em-1926-henry-ford-reduziu-a-semana-de-trabalho-de-suas-fabricas-para-5-dias-e-40-horas-sem-cortar-salarios-e-a-decisao-mudou-a-industria-americana/",
+    "normalized_url": "https://tupi.fm/mundo/em-1926-henry-ford-reduziu-a-semana-de-trabalho-de-suas-fabricas-para-5-dias-e-40-horas-sem-cortar-salarios-e-a-decisao-mudou-a-industria-americana",
+    "work_key": "https://tupi.fm/mundo/em-1926-henry-ford-reduziu-a-semana-de-trabalho-de-suas-fabricas-para-5-dias-e-40-horas-sem-cortar-salarios-e-a-decisao-mudou-a-industria-americana",
+    "title": "Em 1926, Henry Ford reduziu a semana de trabalho de suas fábricas para 5 dias e 40 horas sem cortar salários, e a decisão mudou a indústria americana —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:34.794402Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1cf0f7c5ecbb4364",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/ha-100-anos-ford-instituia-jornada-de-40-horas-nos-estados-unidos",
+    "normalized_url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/ha-100-anos-ford-instituia-jornada-de-40-horas-nos-estados-unidos",
+    "work_key": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/ha-100-anos-ford-instituia-jornada-de-40-horas-nos-estados-unidos",
+    "title": "Há 100 anos, Ford instituía jornada de 40 horas nos Estados Unidos —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:36.696528Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7115849d7bbe39ca",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://teachingamericanhistory.org/document/henry-fords-five-day-week/",
+    "normalized_url": "https://teachingamericanhistory.org/document/henry-fords-five-day-week",
+    "work_key": "https://teachingamericanhistory.org/document/henry-fords-five-day-week",
+    "title": "Henry Ford's Five-Day Week —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:32:36.427985Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "05937eaf33ce1275",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.cambridge.org/core/journals/business-history-review/article/kelloggs-sixhour-day-a-capitalist-vision-of-liberation-through-managed-work-reduction/9AFB41950B8B5C4A050F69A3CA3A975C",
+    "normalized_url": "https://cambridge.org/core/journals/business-history-review/article/kelloggs-sixhour-day-a-capitalist-vision-of-liberation-through-managed-work-reduction/9AFB41950B8B5C4A050F69A3CA3A975C",
+    "work_key": "https://cambridge.org/core/journals/business-history-review/article/kelloggs-sixhour-day-a-capitalist-vision-of-liberation-through-managed-work-reduction/9AFB41950B8B5C4A050F69A3CA3A975C",
+    "title": "Kellogg's Six-Hour Day: A Capitalist Vision of Liberation through Managed Work Reduction —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:45.468054Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "afcb504758ce2540",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.informationweek.com/it-leadership/six-hour-shifts-satisfied-kellogg-s-appetite-for-productivity",
+    "normalized_url": "https://informationweek.com/it-leadership/six-hour-shifts-satisfied-kellogg-s-appetite-for-productivity",
+    "work_key": "https://informationweek.com/it-leadership/six-hour-shifts-satisfied-kellogg-s-appetite-for-productivity",
+    "title": "Six-Hour Shifts Satisfied Kellogg's Appetite For Productivity —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:54:47.463395Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "17c3f556ec5ec165",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q",
+    "normalized_url": "https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q",
+    "work_key": "https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q",
+    "title": "The Productivity of Working Hours —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:32:50.774582Z",
+    "error_message": "barreira de acesso (anti_bot): Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your ac",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "87829b0515d5b7be",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.econstor.eu/bitstream/10419/145237/1/dp10103.pdf",
+    "normalized_url": "https://econstor.eu/bitstream/10419/145237/1/dp10103.pdf",
+    "work_key": "https://econstor.eu/bitstream/10419/145237/1/dp10103.pdf",
+    "title": "Recovery from Work and the Productivity of Working Hours —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:34:07.696146Z",
+    "error_message": "barreira de acesso (anti_bot): # **Making sure you're not a bot!** [image] [image] Loading... You are seeing this because EconStor has set up <a href=\"",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c02d748c868471d2",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.scribd.com/document/977314082/Diminishing-Returns-at-Work-The-Consequences-of-Long-Working-Hours-ISBN-9780190876166-0190876166-PDF-ebook-with-Full-Chapters",
+    "normalized_url": "https://scribd.com/document/977314082/Diminishing-Returns-at-Work-The-Consequences-of-Long-Working-Hours-ISBN-9780190876166-0190876166-PDF-ebook-with-Full-Chapters",
+    "work_key": "https://scribd.com/document/977314082/Diminishing-Returns-at-Work-The-Consequences-of-Long-Working-Hours-ISBN-9780190876166-0190876166-PDF-ebook-with-Full-Chapters",
+    "title": "Diminishing Returns at Work: The Consequences of Long Working Hours —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:02.107614Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "543b597c52ff929c",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://kommerstad.org/journal/article/download/943/696",
+    "normalized_url": "https://kommerstad.org/journal/article/download/943/696",
+    "work_key": "https://kommerstad.org/journal/article/download/943/696",
+    "title": "Four-Day Work Week Experiments and Their Impact on Employee Mental Health and Organizational Performance in Educational Institutions in India —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:10.364603Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5021f5e5fd8482e9",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693da184212d4f030b2a8032/1765646724493/US+Ireland+Results+2023.pdf",
+    "normalized_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693da184212d4f030b2a8032/1765646724493/US+Ireland+Results+2023.pdf",
+    "work_key": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693da184212d4f030b2a8032/1765646724493/US+Ireland+Results+2023.pdf",
+    "title": "The Four Day Week: Assessing Global Trials of Reduced Work Time with No Reduction in Pay —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:19.806863Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f20af6843d7ceb1d",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://www.scribd.com/document/785140050/4-week-day-in-Germany",
+    "normalized_url": "https://scribd.com/document/785140050/4-week-day-in-Germany",
+    "work_key": "https://scribd.com/document/785140050/4-week-day-in-Germany",
+    "title": "The 4-Day-Week in Germany (Pilot Study Report) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:11.585708Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "73dc5b881e6ca14d",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "https://greenamerica.org/evolution-work/can-4-day-work-week-heal-people-and-planet",
+    "normalized_url": "https://greenamerica.org/evolution-work/can-4-day-work-week-heal-people-and-planet",
+    "work_key": "https://greenamerica.org/evolution-work/can-4-day-work-week-heal-people-and-planet",
+    "title": "Can the 4-Day Work Week Heal People and the Planet? —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:12.794957Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a3bce72c1dae3391",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://ideas.repec.org/a/nat/nathum/v9y2025i10d10.1038_s41562-025-02259-6.html",
+    "normalized_url": "https://ideas.repec.org/a/nat/nathum/v9y2025i10d10.1038_s41562-025-02259-6.html",
+    "work_key": "https://ideas.repec.org/a/nat/nathum/v9y2025i10d10.1038_s41562-025-02259-6.html",
+    "title": "Work time reduction via a 4-day workweek finds improvements in workers' well-being —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:13.572116Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1235a696e9128f7a",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://www.theguardian.com/money/2019/feb/19/four-day-week-trial-study-finds-lower-stress-but-no-cut-in-output",
+    "normalized_url": "https://theguardian.com/money/2019/feb/19/four-day-week-trial-study-finds-lower-stress-but-no-cut-in-output",
+    "work_key": "https://theguardian.com/money/2019/feb/19/four-day-week-trial-study-finds-lower-stress-but-no-cut-in-output",
+    "title": "Four-day week: trial finds lower stress and increased productivity —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:14.829671Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "68cc97e0d49527d5",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://www.weforum.org/stories/jobs-and-the-future-of-work/four-day-work-life-balance-trial",
+    "normalized_url": "https://weforum.org/stories/jobs-and-the-future-of-work/four-day-work-life-balance-trial",
+    "work_key": "https://weforum.org/stories/jobs-and-the-future-of-work/four-day-work-life-balance-trial",
+    "title": "New study shows 4-day working week to be a success —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:17.294844Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9492da29c5478457",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://buffer.com/resources/4-day-workweek-2021/",
+    "normalized_url": "https://buffer.com/resources/4-day-workweek-2021",
+    "work_key": "https://buffer.com/resources/4-day-workweek-2021",
+    "title": "4-Day Work Weeks: Results From 2020 and Our Plan for 2021 —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:18.808774Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "16bbc5405d2877f9",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://workfour.org/case-studies/blog-post-title-four-5l997",
+    "normalized_url": "https://workfour.org/case-studies/blog-post-title-four-5l997",
+    "work_key": "https://workfour.org/case-studies/blog-post-title-four-5l997",
+    "title": "Kickstarter Four-Day Week Case Study —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:20.150310Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1563e338eadf86d1",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf",
+    "normalized_url": "https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf",
+    "work_key": "https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf",
+    "title": "Going Public: Iceland's Journey to a Shorter Working Week — A Lasting Impact? —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:33:22.589005Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2dd815a2b3a3d5bd",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://4dayweek.io/country/united-kingdom",
+    "normalized_url": "https://4dayweek.io/country/united-kingdom",
+    "work_key": "https://4dayweek.io/country/united-kingdom",
+    "title": "4 Day Work Week in United Kingdom —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:20.779948Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c796c7398cc05801",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://www.europeanbusinessreview.eu/page.asp?pid=6985",
+    "normalized_url": "https://europeanbusinessreview.eu/page.asp?pid=6985",
+    "work_key": "https://europeanbusinessreview.eu/page.asp?pid=6985",
+    "title": "Four-day work week trial in Spain leads to healthier workers, less pollution —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:21.983316Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "962f344953962212",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://www.theemploymentlawsolicitors.co.uk/news/blog/four-day-working-week-3/",
+    "normalized_url": "https://theemploymentlawsolicitors.co.uk/news/blog/four-day-working-week-3",
+    "work_key": "https://theemploymentlawsolicitors.co.uk/news/blog/four-day-working-week-3",
+    "title": "Results Of Four Day Working Week Trial —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:23.656883Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b7648243c2b8fb5e",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://4dayweek.io/country/australia",
+    "normalized_url": "https://4dayweek.io/country/australia",
+    "work_key": "https://4dayweek.io/country/australia",
+    "title": "4 Day Work Week in Australia —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:24.262218Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9f72fbff704a0d0c",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://medium.com/@andy.a.g/141-organizations-tried-a-four-day-week-burnout-fell-most-for-people-who-cut-8-hours-or-more-c01b5586d76f",
+    "normalized_url": "https://medium.com/@andy.a.g/141-organizations-tried-a-four-day-week-burnout-fell-most-for-people-who-cut-8-hours-or-more-c01b5586d76f",
+    "work_key": "https://medium.com/@andy.a.g/141-organizations-tried-a-four-day-week-burnout-fell-most-for-people-who-cut-8-hours-or-more-c01b5586d76f",
+    "title": "141 Organizations Tried a Four-Day Week. Burnout Fell Most for People Who Cut 8 Hours or More —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:26.028667Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2185286b9fcefee0",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report",
+    "normalized_url": "https://researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report",
+    "work_key": "https://researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report",
+    "title": "Four-Day Week: Results from Portuguese Trial - Final Report —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-18T01:35:35.432910Z",
+    "error_message": "download excedeu 90s",
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6d57404d88418e33",
+    "citation_markers": [
+      "[50]"
+    ],
+    "raw_url": "https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453/",
+    "normalized_url": "https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453",
+    "work_key": "https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453",
+    "title": "Four-Day Week Trial in Portugal: Results and Analysis —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:33:42.389554Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ead9fd3b4c80cdae",
+    "citation_markers": [
+      "[51]"
+    ],
+    "raw_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693e8a0d0669596b183b27fa/1765706253519/Brazil+4+Day+Week+Pilot+2024.pdf",
+    "normalized_url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693e8a0d0669596b183b27fa/1765706253519/Brazil+4+Day+Week+Pilot+2024.pdf",
+    "work_key": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693e8a0d0669596b183b27fa/1765706253519/Brazil+4+Day+Week+Pilot+2024.pdf",
+    "title": "Brazil 4 Day Week Pilot 2024: Final Report —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:56.939583Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "47cfdbcd36dd500c",
+    "citation_markers": [
+      "[52]"
+    ],
+    "raw_url": "https://www.scambs.gov.uk/four-day-working-week",
+    "normalized_url": "https://scambs.gov.uk/four-day-working-week",
+    "work_key": "https://scambs.gov.uk/four-day-working-week",
+    "title": "Four-day working week - South Cambs District Council —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:55:58.721208Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "15bb6936fdb7a577",
+    "citation_markers": [
+      "[53]"
+    ],
+    "raw_url": "https://www.localgov.co.uk/Four-day-week-trial-success-says-council/62636",
+    "normalized_url": "https://localgov.co.uk/Four-day-week-trial-success-says-council/62636",
+    "work_key": "https://localgov.co.uk/Four-day-week-trial-success-says-council/62636",
+    "title": "Four-day week trial a success, says council —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:00.184573Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5a101aa860319850",
+    "citation_markers": [
+      "[54]"
+    ],
+    "raw_url": "https://www.theguardian.com/society/2025/oct/29/councils-clampdown-four-day-working-weeks-south-cambridgeshire",
+    "normalized_url": "https://theguardian.com/society/2025/oct/29/councils-clampdown-four-day-working-weeks-south-cambridgeshire",
+    "work_key": "https://theguardian.com/society/2025/oct/29/councils-clampdown-four-day-working-weeks-south-cambridgeshire",
+    "title": "Councils in England face clampdown on four-day working weeks —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:01.137489Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bd3f8cd8626cafec",
+    "citation_markers": [
+      "[55]"
+    ],
+    "raw_url": "https://www.gov.scot/policies/public-sector-pay/four-day-working-week/",
+    "normalized_url": "https://gov.scot/policies/public-sector-pay/four-day-working-week",
+    "work_key": "https://gov.scot/policies/public-sector-pay/four-day-working-week",
+    "title": "Four-day working week (Scottish Government) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:02.470813Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a722e3bca75d9fcd",
+    "citation_markers": [
+      "[56]"
+    ],
+    "raw_url": "https://autonomy.work/portfolio/sww-scotland-public-sector/",
+    "normalized_url": "https://autonomy.work/portfolio/sww-scotland-public-sector",
+    "work_key": "https://autonomy.work/portfolio/sww-scotland-public-sector",
+    "title": "Scottish Public Sector Four-Day Working Week Pilot Evaluation —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:14.653596Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "93cd7a3e0f9502b6",
+    "citation_markers": [
+      "[57]"
+    ],
+    "raw_url": "https://www.theguardian.com/business/2025/aug/27/scottish-government-trial-of-four-day-week-improves-productivity-and-staff-wellbeing",
+    "normalized_url": "https://theguardian.com/business/2025/aug/27/scottish-government-trial-of-four-day-week-improves-productivity-and-staff-wellbeing",
+    "work_key": "https://theguardian.com/business/2025/aug/27/scottish-government-trial-of-four-day-week-improves-productivity-and-staff-wellbeing",
+    "title": "Scottish government trial of four-day week improves productivity and staff wellbeing —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:15.068826Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f81c59a6b691029d",
+    "citation_markers": [
+      "[58]"
+    ],
+    "raw_url": "https://www.theguardian.com/uk-news/2019/apr/12/wellcome-trust-drops-plans-to-trial-four-day-working-week",
+    "normalized_url": "https://theguardian.com/uk-news/2019/apr/12/wellcome-trust-drops-plans-to-trial-four-day-working-week",
+    "work_key": "https://theguardian.com/uk-news/2019/apr/12/wellcome-trust-drops-plans-to-trial-four-day-working-week",
+    "title": "Wellcome Trust drops plans to trial four-day working week —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:15.289397Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3f22ba08607238e0",
+    "citation_markers": [
+      "[59]"
+    ],
+    "raw_url": "https://www.unilever.com/news/news-search/2022/fourday-work-week-trial-to-start-in-australia/",
+    "normalized_url": "https://unilever.com/news/news-search/2022/fourday-work-week-trial-to-start-in-australia",
+    "work_key": "https://unilever.com/news/news-search/2022/fourday-work-week-trial-to-start-in-australia",
+    "title": "Four-day work week trial to start in Australia —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:16.183485Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "68cfdd929b110411",
+    "citation_markers": [
+      "[60]"
+    ],
+    "raw_url": "https://www.uts.edu.au/news/2022/11/uts-research-reveals-success-unilever-four-day-work-week",
+    "normalized_url": "https://uts.edu.au/news/2022/11/uts-research-reveals-success-unilever-four-day-work-week",
+    "work_key": "https://uts.edu.au/news/2022/11/uts-research-reveals-success-unilever-four-day-work-week",
+    "title": "UTS research reveals success of Unilever four-day work week —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:16.567324Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "955b04103fbc7a26",
+    "citation_markers": [
+      "[61]"
+    ],
+    "raw_url": "https://www.theguardian.com/australia-news/2022/nov/02/australian-workers-at-global-company-to-trial-four-day-week-after-success-of-new-zealand-pilot",
+    "normalized_url": "https://theguardian.com/australia-news/2022/nov/02/australian-workers-at-global-company-to-trial-four-day-week-after-success-of-new-zealand-pilot",
+    "work_key": "https://theguardian.com/australia-news/2022/nov/02/australian-workers-at-global-company-to-trial-four-day-week-after-success-of-new-zealand-pilot",
+    "title": "Australian workers at global company to trial four-day week after success of New Zealand pilot —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:17.050547Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3cd6d038d5e345cf",
+    "citation_markers": [
+      "[62]"
+    ],
+    "raw_url": "https://bainultra.com/blogs/news/sweden-experiments-with-six-hour-workday-finds-people-enjoy-having-lives",
+    "normalized_url": "https://bainultra.com/blogs/news/sweden-experiments-with-six-hour-workday-finds-people-enjoy-having-lives",
+    "work_key": "https://bainultra.com/blogs/news/sweden-experiments-with-six-hour-workday-finds-people-enjoy-having-lives",
+    "title": "Sweden experiments with six-hour workday, finds people enjoy having lives —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:17.158478Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "59e27dcbe340175a",
+    "citation_markers": [
+      "[63]"
+    ],
+    "raw_url": "https://www.ncbi.nlm.nih.gov/books/NBK75539/",
+    "normalized_url": "https://ncbi.nlm.nih.gov/books/NBK75539",
+    "work_key": "https://ncbi.nlm.nih.gov/books/NBK75539",
+    "title": "\"A hard day's night?\" The effects of Compressed Working Week interventions on the health and work-life balance of shift workers: a systematic review —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:57:28.471013Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2745e2ea24432cda",
+    "citation_markers": [
+      "[64]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9979633/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9979633",
+    "work_key": "PMC:PMC9979633",
+    "title": "Four-Day School Week Impacts Study (PubMed Central PMC9979633) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:18.366742Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "44d0a4d34f5d396a",
+    "citation_markers": [
+      "[65]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School",
+    "normalized_url": "https://researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School",
+    "work_key": "https://researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School",
+    "title": "Effects of 4-Day School Weeks on Older Adolescents: Examining Impacts of the Schedule on Academic Achievement, Attendance, and Behavior in High School —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:35:51.365866Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "31f252aa03662a31",
+    "citation_markers": [
+      "[66]"
+    ],
+    "raw_url": "https://www.acerta.be/en/inspiration/four-day-working-week-eight-out-of-ten-smes-not-behind-the-idea",
+    "normalized_url": "https://acerta.be/en/inspiration/four-day-working-week-eight-out-of-ten-smes-not-behind-the-idea",
+    "work_key": "https://acerta.be/en/inspiration/four-day-working-week-eight-out-of-ten-smes-not-behind-the-idea",
+    "title": "Four-day working week: Eight out of ten SMEs not behind the idea —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:57:10.084053Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b09e254080b6602e",
+    "citation_markers": [
+      "[67]"
+    ],
+    "raw_url": "https://4dayweek.io/country/france",
+    "normalized_url": "https://4dayweek.io/country/france",
+    "work_key": "https://4dayweek.io/country/france",
+    "title": "4 Day Work Week in France (2026): Trials & Culture —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:35.623349Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cd9dae1c14cd26e8",
+    "citation_markers": [
+      "[68]"
+    ],
+    "raw_url": "https://www.4dayjob.com/blog/countries-with-4-day-work-week",
+    "normalized_url": "https://4dayjob.com/blog/countries-with-4-day-work-week",
+    "work_key": "https://4dayjob.com/blog/countries-with-4-day-work-week",
+    "title": "Global 4-Day Work Week Overview —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:36.581173Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4ecd37a1d736b364",
+    "citation_markers": [
+      "[69]"
+    ],
+    "raw_url": "https://4dayweek.io/region/valencia",
+    "normalized_url": "https://4dayweek.io/region/valencia",
+    "work_key": "https://4dayweek.io/region/valencia",
+    "title": "Valencia 4 Day Work Week —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:37.295057Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "282f7d5b132ba233",
+    "citation_markers": [
+      "[70]"
+    ],
+    "raw_url": "https://www.healthplanspain.com/blog/health-news/2062-valencian-pilot-scheme-shows-4-day-work-week-improved-workers-health.html",
+    "normalized_url": "https://healthplanspain.com/blog/health-news/2062-valencian-pilot-scheme-shows-4-day-work-week-improved-workers-health.html",
+    "work_key": "https://healthplanspain.com/blog/health-news/2062-valencian-pilot-scheme-shows-4-day-work-week-improved-workers-health.html",
+    "title": "Valencian Pilot Scheme Shows 4-Day Work Week Improved Workers Health —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:48.283313Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a57bc52b41a937c1",
+    "citation_markers": [
+      "[71]"
+    ],
+    "raw_url": "https://www.safetyandhealthmagazine.com/bernie-sanders-and-mark-takano-renew-push-for-a-32-hour-workweek/",
+    "normalized_url": "https://safetyandhealthmagazine.com/bernie-sanders-and-mark-takano-renew-push-for-a-32-hour-workweek",
+    "work_key": "https://safetyandhealthmagazine.com/bernie-sanders-and-mark-takano-renew-push-for-a-32-hour-workweek",
+    "title": "Bernie Sanders and Mark Takano renew push for a 32-hour workweek —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:49.787492Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3898c5ea162f2558",
+    "citation_markers": [
+      "[72]"
+    ],
+    "raw_url": "https://www.rockymountainemployersblog.com/blog/2026/10/1/a-new-bill-in-congress-proposes-a-shift-to-a-thirty-two-hour-workweek-without-reducing-salaries",
+    "normalized_url": "https://rockymountainemployersblog.com/blog/2026/10/1/a-new-bill-in-congress-proposes-a-shift-to-a-thirty-two-hour-workweek-without-reducing-salaries",
+    "work_key": "https://rockymountainemployersblog.com/blog/2026/10/1/a-new-bill-in-congress-proposes-a-shift-to-a-thirty-two-hour-workweek-without-reducing-salaries",
+    "title": "A New Bill in Congress Proposes a Shift to a Thirty-Two-Hour Workweek Without Reducing Salaries —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:51.218986Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "eac8e55ce9eb3828",
+    "citation_markers": [
+      "[73]"
+    ],
+    "raw_url": "https://www.pbs.org/newshour/politics/what-to-know-about-bernie-sanderss-bill-for-the-u-s-to-adopt-a-32-hour-workweek",
+    "normalized_url": "https://pbs.org/newshour/politics/what-to-know-about-bernie-sanderss-bill-for-the-u-s-to-adopt-a-32-hour-workweek",
+    "work_key": "https://pbs.org/newshour/politics/what-to-know-about-bernie-sanderss-bill-for-the-u-s-to-adopt-a-32-hour-workweek",
+    "title": "What to know about Bernie Sanders' bill for the U.S. to adopt a 32-hour workweek —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:54.044981Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1a9c50b1d69335b9",
+    "citation_markers": [
+      "[74]"
+    ],
+    "raw_url": "https://workfour.org/policy-developments",
+    "normalized_url": "https://workfour.org/policy-developments",
+    "work_key": "https://workfour.org/policy-developments",
+    "title": "Policy Developments (WorkFour) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:55.801994Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "4a2cceffc2620097",
+    "citation_markers": [
+      "[75]"
+    ],
+    "raw_url": "https://www.govdocs.com/maryland-4-day-workweek-bill/",
+    "normalized_url": "https://govdocs.com/maryland-4-day-workweek-bill",
+    "work_key": "https://govdocs.com/maryland-4-day-workweek-bill",
+    "title": "Maryland 4-Day Workweek Bill —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:56.326031Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ef24b89919f0e6dd",
+    "citation_markers": [
+      "[76]"
+    ],
+    "raw_url": "https://worldatwork.org/publications/workspan-daily/pennsylvania-law-would-incentivize-four-day-workweek",
+    "normalized_url": "https://worldatwork.org/publications/workspan-daily/pennsylvania-law-would-incentivize-four-day-workweek",
+    "work_key": "https://worldatwork.org/publications/workspan-daily/pennsylvania-law-would-incentivize-four-day-workweek",
+    "title": "Pennsylvania Law Would Incentivize Four-Day Workweek —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:57.783357Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5bf6ac5bdcbfc0df",
+    "citation_markers": [
+      "[77]"
+    ],
+    "raw_url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/10/senado-aprova-fim-da-escala-6x1-pauta-prioritaria-do-governo-federal",
+    "normalized_url": "https://gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/10/senado-aprova-fim-da-escala-6x1-pauta-prioritaria-do-governo-federal",
+    "work_key": "https://gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/10/senado-aprova-fim-da-escala-6x1-pauta-prioritaria-do-governo-federal",
+    "title": "Senado aprova fim da escala 6x1, pauta prioritária do Governo Federal —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:58.428682Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "7fa34b931358d0dc",
+    "citation_markers": [
+      "[78]"
+    ],
+    "raw_url": "https://www.4dayweek.com/news-posts/environmental-benefits-2hxgl",
+    "normalized_url": "https://4dayweek.com/news-posts/environmental-benefits-2hxgl",
+    "work_key": "https://4dayweek.com/news-posts/environmental-benefits-2hxgl",
+    "title": "The 4 day work week is good for the climate and the environment —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:56:59.845704Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "79ff591f7c1d05e2",
+    "citation_markers": [
+      "[79]"
+    ],
+    "raw_url": "https://4dayweek.io/pro/environment",
+    "normalized_url": "https://4dayweek.io/pro/environment",
+    "work_key": "https://4dayweek.io/pro/environment",
+    "title": "The Climate Benefits of a 4-Day Work Week (32hrs) —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:57:00.413954Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "cf79f3e1be83f361",
+    "citation_markers": [
+      "[80]"
+    ],
+    "raw_url": "https://www.welcometothejungle.com/en/articles/how-the-4-day-workweek-can-help-to-reduce-carbon-emissions",
+    "normalized_url": "https://welcometothejungle.com/en/articles/how-the-4-day-workweek-can-help-to-reduce-carbon-emissions",
+    "work_key": "https://welcometothejungle.com/en/articles/how-the-4-day-workweek-can-help-to-reduce-carbon-emissions",
+    "title": "How the 4-day workweek can help to reduce carbon emissions —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-17T01:57:02.910917Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6dae90115a599ef4",
+    "citation_markers": [
+      "[81]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/375365733_The_social_economic_and_environmental_impacts_of_a_4-day_workweek_in_an_organization",
+    "normalized_url": "https://researchgate.net/publication/375365733_The_social_economic_and_environmental_impacts_of_a_4-day_workweek_in_an_organization",
+    "work_key": "https://researchgate.net/publication/375365733_The_social_economic_and_environmental_impacts_of_a_4-day_workweek_in_an_organization",
+    "title": "The social, economic and environmental impacts of a 4-day workweek in an organization —",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T01:34:15.052971Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+    "tool_name": "Gemini"
+  }
+]

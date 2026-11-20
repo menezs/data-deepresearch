@@ -1,0 +1,43 @@
+{
+  "answer_chunk_id": "rede_social_saude_mental_adolecentes_189377124731_20261101T195216Z-68",
+  "passages": [
+    {
+      "reference_chunk_id": "d03ca701d3040539-2",
+      "reference_id": "d03ca701d3040539",
+      "score": 0.4167858958244324,
+      "text": "| G18 - CRIANÇAS E ADOLESCENTES, POR CONTEÚDOS COM OS QUAIS TIVERAM CONTATO NA INTERNET NOS ÚLTIMOS 12 MESES – AUTO-DANO E CONTEÚDOS SENSÍVEIS   Total de usuários de Internet de 11 a 17 anos |  |  |  |  |  |  |  |  |  | \n|---|---|---|---|---|---|---|---|---|---|\n| Percentual (%) |  | Formas de machucar a si mesmo | Formas de cometer suicídio | Formas para ficar muito magro(a) | Experiências ou uso de drogas | Cenas de violência ou com muito sangue | Nenhuma dessas | Não sabe | Não respondeu | \n|---|---|---|---|---|---|---|---|---|---|\n| TOTAL |  | 10 | 6 | 20 | 7 | 14 | 48 | 15 | 6 | \n| ÁREA | Urbana | 10 | 6 | 20 | 7 | 15 | 50 | 14 | 5 | \n|  | Rural | 13 | 8 | 17 | 6 | 10 | 38 | 19 | 12 | \n| REGIÃO | Sudeste | 10 | 6 | 22 | 10 | 18 | 49 | 16 | 4 | \n|  | Nordeste | 10 | 7 | 19 | 5 | 15 | 44 | 12 | 12 | \n|  | Sul | 11 | 7 | 22 | 8 | 7 | 55 | 9 | 5 | \n|  | Norte | 11 | 10 | 17 | 5 | 17 | 39 | 20 | 6 | \n|  | Centro-Oeste | 8 | 4 | 12 | 1 | 7 | 55 | 21 | 1 | \n| SEXO DA CRIANÇA OU DO ADOLESCENTE | Masculino | 12 | 5 | 20 | 7 | 17 | 46 | 15 | 6 |"
+    },
+    {
+      "reference_chunk_id": "d03ca701d3040539-1",
+      "reference_id": "d03ca701d3040539",
+      "score": 0.05752070993185043,
+      "text": "### G18 - CRIANÇAS E ADOLESCENTES, POR CONTEÚDOS COM OS QUAIS TIVERAM CONTATO NA INTERNET NOS ÚLTIMOS 12 MESES – AUTO-DANO E CONTEÚDOS SENSÍVEIS"
+    },
+    {
+      "reference_chunk_id": "d03ca701d3040539-5",
+      "reference_id": "d03ca701d3040539",
+      "score": 0.05272771418094635,
+      "text": "|  | Não | 10 | 6 | 11 | 1 | 10 | 51 | 9 | 12 | \n\nG18 - CRIANÇAS E ADOLESCENTES, POR CONTEÚDOS COM OS QUAIS TIVERAM CONTATO NA INTERNET NOS ÚLTIMOS 12 MESES – AUTO-DANO E CONTEÚDOS SENSÍVEIS\n\nTotal de usuários de Internet de 11 a 17 anos\n\n- Fonte: Núcleo de Informação e Coordenação do Ponto BR. (2024). Pesquisa sobre o uso da Internet por crianças e adolescentes no Brasil: TIC Kids Online Brasil 2024 [Tabelas]."
+    },
+    {
+      "reference_chunk_id": "d03ca701d3040539-4",
+      "reference_id": "d03ca701d3040539",
+      "score": 0.0022336565889418125,
+      "text": "|  | Mais de 3 SM | 11 | 6 | 22 | 14 | 18 | 50 | 9 | 9 | \n|  | Não tem renda | 8 | 24 | 39 | 0 | 5 | 19 | 35 | 0 | \n|  | Não sabe | 8 | 3 | 15 | 6 | 7 | 64 | 11 | 1 | \n|  | Não respondeu | 56 | 1 | 2 | 4 | 5 | 33 | 4 | 1 | \n| CLASSE SOCIAL | AB | 5 | 3 | 24 | 4 | 23 | 58 | 7 | 7 | \n|  | C | 12 | 8 | 21 | 10 | 14 | 51 | 11 | 5 | \n|  | DE | 9 | 6 | 17 | 5 | 12 | 40 | 23 | 8 | \n| COR OU RAÇA | Branca | 7 | 4 | 23 | 5 | 17 | 48 | 18 | 4 | \n|  | Preta | 14 | 4 | 13 | 6 | 14 | 52 | 12 | 4 | \n|  | Parda | 11 | 8 | 19 | 9 | 13 | 48 | 14 | 8 | \n|  | Amarela | 8 | 4 | 26 | 1 | 10 | 36 | 13 | 6 | \n|  | Indígena | 9 | 5 | 45 | 0 | 40 | 31 | 5 | 4 | \n|  | Não respondeu | 15 | 10 | 22 | 4 | 24 | 48 | 10 | 5 | \n| DOMICÍLIO COM ACESSO À INTERNET | Sim | 10 | 6 | 20 | 7 | 15 | 48 | 15 | 6 | \n|  | Não | 10 | 6 | 11 | 1 | 10 | 51 | 9 | 12 |"
+    },
+    {
+      "reference_chunk_id": "d03ca701d3040539-3",
+      "reference_id": "d03ca701d3040539",
+      "score": 0.0018530780216678977,
+      "text": "| SEXO DA CRIANÇA OU DO ADOLESCENTE | Masculino | 12 | 5 | 20 | 7 | 17 | 46 | 15 | 6 | \n|  | Feminino | 9 | 8 | 20 | 7 | 12 | 50 | 15 | 6 | \n| ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS | Até Fundamental I | 11 | 4 | 19 | 3 | 7 | 42 | 26 | 6 | \n|  | Fundamental II | 15 | 7 | 21 | 8 | 16 | 42 | 14 | 5 | \n|  | Médio ou mais | 8 | 7 | 20 | 8 | 18 | 53 | 10 | 7 | \n| FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE | De 9 a 10 anos | - | - | - | - | - | - | - | - | \n|  | De 11 a 12 anos | 9 | 7 | 11 | 5 | 7 | 58 | 14 | 8 | \n|  | De 13 a 14 anos | 8 | 4 | 27 | 7 | 23 | 45 | 13 | 5 | \n|  | De 15 a 17 anos | 12 | 7 | 21 | 8 | 14 | 44 | 17 | 6 | \n| RENDA FAMILIAR | Até 1 SM | 11 | 7 | 19 | 7 | 12 | 43 | 21 | 8 | \n|  | Mais de 1 SM até 2 SM | 9 | 6 | 21 | 7 | 14 | 51 | 13 | 4 | \n|  | Mais de 2 SM até 3 SM | 5 | 7 | 22 | 4 | 22 | 54 | 9 | 6 | \n|  | Mais de 3 SM | 11 | 6 | 22 | 14 | 18 | 50 | 9 | 9 |"
+    },
+    {
+      "reference_chunk_id": "d03ca701d3040539-0",
+      "reference_id": "d03ca701d3040539",
+      "score": 0.00017866388952825218,
+      "text": "## TIC Kids Online Brasil 2024\n\n#### Crianças e adolescentes"
+    }
+  ],
+  "assembled_context": "[referencia=d03ca701d3040539 score=0.417]\n| G18 - CRIANÇAS E ADOLESCENTES, POR CONTEÚDOS COM OS QUAIS TIVERAM CONTATO NA INTERNET NOS ÚLTIMOS 12 MESES – AUTO-DANO E CONTEÚDOS SENSÍVEIS   Total de usuários de Internet de 11 a 17 anos |  |  |  |  |  |  |  |  |  | \n|---|---|---|---|---|---|---|---|---|---|\n| Percentual (%) |  | Formas de machucar a si mesmo | Formas de cometer suicídio | Formas para ficar muito magro(a) | Experiências ou uso de drogas | Cenas de violência ou com muito sangue | Nenhuma dessas | Não sabe | Não respondeu | \n|---|---|---|---|---|---|---|---|---|---|\n| TOTAL |  | 10 | 6 | 20 | 7 | 14 | 48 | 15 | 6 | \n| ÁREA | Urbana | 10 | 6 | 20 | 7 | 15 | 50 | 14 | 5 | \n|  | Rural | 13 | 8 | 17 | 6 | 10 | 38 | 19 | 12 | \n| REGIÃO | Sudeste | 10 | 6 | 22 | 10 | 18 | 49 | 16 | 4 | \n|  | Nordeste | 10 | 7 | 19 | 5 | 15 | 44 | 12 | 12 | \n|  | Sul | 11 | 7 | 22 | 8 | 7 | 55 | 9 | 5 | \n|  | Norte | 11 | 10 | 17 | 5 | 17 | 39 | 20 | 6 | \n|  | Centro-Oeste | 8 | 4 | 12 | 1 | 7 | 55 | 21 | 1 | \n| SEXO DA CRIANÇA OU DO ADOLESCENTE | Masculino | 12 | 5 | 20 | 7 | 17 | 46 | 15 | 6 |\n\n---\n\n[referencia=d03ca701d3040539 score=0.058]\n### G18 - CRIANÇAS E ADOLESCENTES, POR CONTEÚDOS COM OS QUAIS TIVERAM CONTATO NA INTERNET NOS ÚLTIMOS 12 MESES – AUTO-DANO E CONTEÚDOS SENSÍVEIS\n\n---\n\n[referencia=d03ca701d3040539 score=0.053]\n|  | Não | 10 | 6 | 11 | 1 | 10 | 51 | 9 | 12 | \n\nG18 - CRIANÇAS E ADOLESCENTES, POR CONTEÚDOS COM OS QUAIS TIVERAM CONTATO NA INTERNET NOS ÚLTIMOS 12 MESES – AUTO-DANO E CONTEÚDOS SENSÍVEIS\n\nTotal de usuários de Internet de 11 a 17 anos\n\n- Fonte: Núcleo de Informação e Coordenação do Ponto BR. (2024). Pesquisa sobre o uso da Internet por crianças e adolescentes no Brasil: TIC Kids Online Brasil 2024 [Tabelas].\n\n---\n\n[referencia=d03ca701d3040539 score=0.002]\n|  | Mais de 3 SM | 11 | 6 | 22 | 14 | 18 | 50 | 9 | 9 | \n|  | Não tem renda | 8 | 24 | 39 | 0 | 5 | 19 | 35 | 0 | \n|  | Não sabe | 8 | 3 | 15 | 6 | 7 | 64 | 11 | 1 | \n|  | Não respondeu | 56 | 1 | 2 | 4 | 5 | 33 | 4 | 1 | \n| CLASSE SOCIAL | AB | 5 | 3 | 24 | 4 | 23 | 58 | 7 | 7 | \n|  | C | 12 | 8 | 21 | 10 | 14 | 51 | 11 | 5 | \n|  | DE | 9 | 6 | 17 | 5 | 12 | 40 | 23 | 8 | \n| COR OU RAÇA | Branca | 7 | 4 | 23 | 5 | 17 | 48 | 18 | 4 | \n|  | Preta | 14 | 4 | 13 | 6 | 14 | 52 | 12 | 4 | \n|  | Parda | 11 | 8 | 19 | 9 | 13 | 48 | 14 | 8 | \n|  | Amarela | 8 | 4 | 26 | 1 | 10 | 36 | 13 | 6 | \n|  | Indígena | 9 | 5 | 45 | 0 | 40 | 31 | 5 | 4 | \n|  | Não respondeu | 15 | 10 | 22 | 4 | 24 | 48 | 10 | 5 | \n| DOMICÍLIO COM ACESSO À INTERNET | Sim | 10 | 6 | 20 | 7 | 15 | 48 | 15 | 6 | \n|  | Não | 10 | 6 | 11 | 1 | 10 | 51 | 9 | 12 |\n\n---\n\n[referencia=d03ca701d3040539 score=0.002]\n| SEXO DA CRIANÇA OU DO ADOLESCENTE | Masculino | 12 | 5 | 20 | 7 | 17 | 46 | 15 | 6 | \n|  | Feminino | 9 | 8 | 20 | 7 | 12 | 50 | 15 | 6 | \n| ESCOLARIDADE DOS PAIS OU RESPONSÁVEIS | Até Fundamental I | 11 | 4 | 19 | 3 | 7 | 42 | 26 | 6 | \n|  | Fundamental II | 15 | 7 | 21 | 8 | 16 | 42 | 14 | 5 | \n|  | Médio ou mais | 8 | 7 | 20 | 8 | 18 | 53 | 10 | 7 | \n| FAIXA ETÁRIA DA CRIANÇA OU DO ADOLESCENTE | De 9 a 10 anos | - | - | - | - | - | - | - | - | \n|  | De 11 a 12 anos | 9 | 7 | 11 | 5 | 7 | 58 | 14 | 8 | \n|  | De 13 a 14 anos | 8 | 4 | 27 | 7 | 23 | 45 | 13 | 5 | \n|  | De 15 a 17 anos | 12 | 7 | 21 | 8 | 14 | 44 | 17 | 6 | \n| RENDA FAMILIAR | Até 1 SM | 11 | 7 | 19 | 7 | 12 | 43 | 21 | 8 | \n|  | Mais de 1 SM até 2 SM | 9 | 6 | 21 | 7 | 14 | 51 | 13 | 4 | \n|  | Mais de 2 SM até 3 SM | 5 | 7 | 22 | 4 | 22 | 54 | 9 | 6 | \n|  | Mais de 3 SM | 11 | 6 | 22 | 14 | 18 | 50 | 9 | 9 |\n\n---\n\n[referencia=d03ca701d3040539 score=0.000]\n## TIC Kids Online Brasil 2024\n\n#### Crianças e adolescentes",
+  "skip_reason": null
+}

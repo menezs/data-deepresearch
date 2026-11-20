@@ -1,0 +1,211 @@
+[
+  {
+    "id": "102d3ed3ffd0ee94",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "normalized_url": "https://bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "work_key": "https://bcb.gov.br/content/estabilidadefinanceira/pix/relatorio_de_gestao_pix/relatorio_gestao_pix_2026.pdf",
+    "title": "Banco Central do Brasil. **Relatório de Gestão do Pix 2023–2025**. Brasília: BCB, 2026. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:33:02.179085Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ce4ef0b8fb18629f",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "normalized_url": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "work_key": "https://bcb.gov.br/content/cidadaniafinanceira/documentos_cidadania/RIF/relatorio_de_cidadania_financeira_2025.pdf",
+    "title": "Banco Central do Brasil. **Relatório de Cidadania Financeira 2025**. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:33:46.848271Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3840eab9f5e75580",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "normalized_url": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "work_key": "https://publications.iadb.org/en/digital-transformation-and-financial-inclusion-case-instant-payments-brazil",
+    "title": "De-Losso, Rodrigo; Cavalcante, Carlos Nathaniel Rocha. **Digital Transformation and Financial Inclusion: The Case of Instant Payments in Brazil**. Inter-American Development Bank, 2026. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:32:39.301865Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f42eb0724c750e7c",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/publicacoes/Documents/reb/boxesreb2018/boxe_19_pix.pdf",
+    "normalized_url": "https://bcb.gov.br/content/publicacoes/Documents/reb/boxesreb2018/boxe_19_pix.pdf",
+    "work_key": "https://bcb.gov.br/content/publicacoes/Documents/reb/boxesreb2018/boxe_19_pix.pdf",
+    "title": "Banco Central do Brasil. **Pix: o novo meio de pagamento brasileiro**. Relatório de Economia Bancária. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:32:39.489409Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "35f5c93c45673f6f",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP600.pdf",
+    "normalized_url": "https://bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP600.pdf",
+    "work_key": "https://bcb.gov.br/content/publicacoes/WorkingPaperSeries/WP600.pdf",
+    "title": "Sampaio, Matheus C.; Ornelas, José Renato Haas. **Payment Technology Complementarities and their Consequences in the Banking Sector: Evidence from Brazil’s Pix**. Working Papers Series nº 600, Banco Central do Brasil, 2024. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:33:25.806616Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "36f0b0bcb96f259d",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix",
+    "normalized_url": "https://bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix",
+    "work_key": "https://bis.org/publications/bulletin-52-central-banks-monetary-system-and-public-payment-infrastructures-lessons-brazils-pix",
+    "title": "Duarte, Angelo; Frost, Jon; Gambacorta, Leonardo; Koo Wilkens, Priscilla; Shin, Hyun Song. **Central banks, the monetary system and public payment infrastructures: lessons from Brazil’s Pix**. BIS Bulletin nº 52, Bank for International Settlements, 2022. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:32:42.295561Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "f822e2ad3f1f6d72",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44031-internet-chega-a-74-9-milhoes-de-domicilios-do-pais-em-2024",
+    "normalized_url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44031-internet-chega-a-74-9-milhoes-de-domicilios-do-pais-em-2024",
+    "work_key": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44031-internet-chega-a-74-9-milhoes-de-domicilios-do-pais-em-2024",
+    "title": "Instituto Brasileiro de Geografia e Estatística. **Internet chega a 74,9 milhões de domicílios do país em 2024**. PNAD Contínua TIC 2024, IBGE, 2025. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:32:43.130802Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "da56a4c05044176f",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44032-no-brasil-88-9-da-populacao-de-10-anos-ou-mais-tinha-celular-em-2024",
+    "normalized_url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44032-no-brasil-88-9-da-populacao-de-10-anos-ou-mais-tinha-celular-em-2024",
+    "work_key": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44032-no-brasil-88-9-da-populacao-de-10-anos-ou-mais-tinha-celular-em-2024",
+    "title": "Instituto Brasileiro de Geografia e Estatística. **No Brasil, 88,9% da população de 10 anos ou mais tinha celular em 2024**. PNAD Contínua TIC 2024, IBGE, 2025. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:32:44.214469Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "07b6c5b87f609090",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/content/estabilidadefinanceira/pix/API-DICT.html",
+    "normalized_url": "https://bcb.gov.br/content/estabilidadefinanceira/pix/API-DICT.html",
+    "work_key": "https://bcb.gov.br/content/estabilidadefinanceira/pix/API-DICT.html",
+    "title": "Banco Central do Brasil. **DICT API — Diretório de Identificadores de Contas Transacionais**. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:32:53.910088Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b76146e5bb085608",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
+    "normalized_url": "https://bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
+    "work_key": "https://bcb.gov.br/estabilidadefinanceira/sistemapagamentosinstantaneos",
+    "title": "Banco Central do Brasil. **Sistema de Pagamentos Instantâneos (SPI)**. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:33:03.964171Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "852af1b7d0540b5e",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm",
+    "title": "Brasil. **Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados Pessoais (LGPD)**. Presidência da República. URL completa:",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T17:33:04.085959Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "pix_brasil_e07e5c482a6d_20261101T173208Z",
+    "tool_name": "ChatGPT"
+  }
+]

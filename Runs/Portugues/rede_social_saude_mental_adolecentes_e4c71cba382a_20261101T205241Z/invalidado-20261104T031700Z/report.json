@@ -1,0 +1,1078 @@
+{
+  "run_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+  "answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+  "tool_name": "Gemini",
+  "answer_path": "answers/Gemini/EmConsolidacao/rede_social_saude_mental_adolecentes.docx",
+  "generated_at": "2026-11-01T21:47:10.035645Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".docx",
+    "size_bytes": 3027057,
+    "page_count": null,
+    "pdf_title": "Word Document",
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": "2026-11-01 20:53:01+00:00",
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 269,
+    "citation_markers_distinct": 30,
+    "references_listed": 30,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 126,
+  "pct_supported": 57.14285714285714,
+  "pct_unsupported": 36.507936507936506,
+  "pct_contradicted": 2.380952380952381,
+  "count_supported": 72,
+  "count_unsupported": 46,
+  "count_contradicted": 3,
+  "count_skipped": 5,
+  "count_audited": 121,
+  "pct_supported_audited": 59.50413223140496,
+  "pct_unsupported_audited": 38.01652892561984,
+  "pct_contradicted_audited": 2.479338842975207,
+  "count_partially_supported": 45,
+  "skipped_reason_counts": {
+    "ref_sem_conteudo": 5
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 4,
+  "count_reclassified_by_verification": 10,
+  "verification_stage_counts": {
+    "full_doc_scan": 2,
+    "context_expansion": 8
+  },
+  "mis_cited_reference_count": 3,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "872da6d7d12d54c4",
+      "citation_markers": [
+        "[15]"
+      ],
+      "raw_url": "https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701/",
+      "normalized_url": "https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701",
+      "work_key": "https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701",
+      "title": "Pediatric Pandemic Network / APA. Health Advisory on Social Media Use in Adolescence. Disponível em:",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-01T20:54:08.654866Z",
+      "error_message": "HTTP 405 em https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701/",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "95d77a900cfafb72",
+      "citation_markers": [
+        "[22]"
+      ],
+      "raw_url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9205524&disposition=inline",
+      "normalized_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9205524",
+      "work_key": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=9205524",
+      "title": "Senado Federal do Brasil. Projeto de Lei nº 2628, de 2022 (ECA Digital). Disponível em:",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-01T20:54:29.984641Z",
+      "error_message": "Falha ao conectar em https://legis.senado.leg.br/sdleg-getter/documento?dm=9205524&disposition=inline: Failed to perform, curl: (28) Connection timed out after 10022 milliseconds. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "43202571e6b6382f",
+      "citation_markers": [
+        "[26]"
+      ],
+      "raw_url": "https://www.fadc.org.br/noticias/adultizacao-pl-2628",
+      "normalized_url": "https://fadc.org.br/noticias/adultizacao-pl-2628",
+      "work_key": "https://fadc.org.br/noticias/adultizacao-pl-2628",
+      "title": "Fundação Abrinq. Adultização infantil e segurança digital: o que o PL 2628/2022 pode mudar nas redes sociais. Disponível em:",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-01T20:54:32.356227Z",
+      "error_message": "HTTP 503 em https://www.fadc.org.br/noticias/adultizacao-pl-2628",
+      "barrier_kind": null,
+      "source_answer_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "blocked_references": [],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-96",
+      "reason": "Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-97",
+      "reason": "Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-98",
+      "reason": "Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-99",
+      "reason": "Referencia(s) citada(s) ['95d77a900cfafb72'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-101",
+      "reason": "Referencia(s) citada(s) ['95d77a900cfafb72', '43202571e6b6382f'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is))."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "a4b8c9d18ab41298",
+      "url": "https://socialmediamdl.com/surgeon-general-social-media-report/",
+      "times_cited": 31,
+      "supported_count": 16,
+      "unsupported_count": 15,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 17,
+      "status": "downloaded",
+      "supports_positions": [
+        13,
+        27,
+        28,
+        90,
+        91,
+        124
+      ],
+      "partial_positions": [
+        5,
+        14,
+        15,
+        17,
+        19,
+        20,
+        22,
+        24,
+        25,
+        26,
+        29,
+        34,
+        73,
+        92,
+        112,
+        115,
+        116
+      ],
+      "absent_positions": [
+        16,
+        18,
+        21,
+        23,
+        30,
+        35,
+        111,
+        113
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Advisory reports that up to 95% of youth ages 13 to 17 use a social media platform, while more than one-third describe their use as \"almost constant.\"",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "e42f78a684e8a7d5",
+      "url": "https://www.hopkinsmedicine.org/health/expert-qa/social-media-and-mental-health-in-children-and-teens",
+      "times_cited": 29,
+      "supported_count": 10,
+      "unsupported_count": 19,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 16,
+      "status": "downloaded",
+      "supports_positions": [
+        63,
+        66,
+        71
+      ],
+      "partial_positions": [
+        19,
+        20,
+        21,
+        22,
+        23,
+        29,
+        37,
+        38,
+        43,
+        65,
+        67,
+        68,
+        69,
+        70,
+        72,
+        114
+      ],
+      "absent_positions": [
+        15,
+        16,
+        17,
+        18,
+        35,
+        39,
+        44,
+        45,
+        64,
+        112
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "many children and teens may find a community that is more accepting of who they are than their immediate family or school environment. In that sense, social media can provide connection with peers who share interests, identities and abilities. [...] Affirming sexual identity. Providing social support.",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "b3e2421f174d5ebb",
+      "url": "https://www.hhs.gov/sites/default/files/sg-youth-mental-health-social-media-advisory.pdf",
+      "times_cited": 28,
+      "supported_count": 12,
+      "unsupported_count": 16,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 21,
+      "status": "downloaded",
+      "supports_positions": [
+        42,
+        54,
+        90,
+        91,
+        115
+      ],
+      "partial_positions": [
+        19,
+        20,
+        21,
+        22,
+        24,
+        25,
+        26,
+        29,
+        30,
+        33,
+        34,
+        35,
+        36,
+        39,
+        40,
+        92,
+        111,
+        112,
+        113,
+        116,
+        119
+      ],
+      "absent_positions": [
+        16,
+        23
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "For example, a study conducted among 14-year-olds (n = 10,904) found that greater social media use predicted poor sleep, online harassment, poor body image, low self-esteem, and higher depressive symptom scores with a larger association for girls than boys.",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "1ff9266852a7b72d",
+      "url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use.pdf",
+      "times_cited": 22,
+      "supported_count": 12,
+      "unsupported_count": 10,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 15,
+      "status": "downloaded",
+      "supports_positions": [
+        51,
+        83,
+        87,
+        88,
+        89
+      ],
+      "partial_positions": [
+        35,
+        38,
+        39,
+        44,
+        45,
+        57,
+        73,
+        84,
+        86,
+        111,
+        113,
+        121,
+        122,
+        123,
+        125
+      ],
+      "absent_positions": [
+        43,
+        79
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Indicators of problematic social media use include a) a tendency to use social media even when adolescents want to stop, or realize it is interfering with necessary tasks; b) spending excessive effort to ensure continuous access to social media; c) strong cravings to use social media, or disruptions in other activities from missing social media use too much; d) repeatedly spending more time on social media than intended; e) lying or deceptive behavior to retain access to social media use; f) loss or disruption of significant relationships or educational opportunities because of media use.",
+      "key_excerpt_position": 51
+    },
+    {
+      "reference_id": "4eb0d9592ee9d095",
+      "url": "https://www.mayoclinic.org/healthy-lifestyle/tween-and-teen-health/in-depth/teens-and-social-media-use/art-20474437",
+      "times_cited": 19,
+      "supported_count": 13,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 11,
+      "status": "downloaded",
+      "supports_positions": [
+        63,
+        71
+      ],
+      "partial_positions": [
+        34,
+        44,
+        45,
+        64,
+        65,
+        67,
+        68,
+        69,
+        70,
+        85,
+        114
+      ],
+      "absent_positions": [
+        14,
+        54,
+        72,
+        81,
+        124,
+        125
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Friendships help teens feel supported and play a role in forming their identities. [...] Social media lets teens create online identities, chat with others and build social networks. These networks can provide teens with support from other people who have hobbies or experiences in common. [...] Belong to groups that often get marginalized, such as racial minorities, the LGBTQ community and those who are differently abled.",
+      "key_excerpt_position": 63
+    },
+    {
+      "reference_id": "95d77a900cfafb72",
+      "url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=9205524&disposition=inline",
+      "times_cited": 15,
+      "supported_count": 4,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        25,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1fc8808cf263de99",
+      "url": "https://www.sbp.com.br/sbp-atualiza-recomendacoes-sobre-saude-de-criancas-e-adolescentes-na-era-digital/",
+      "times_cited": 14,
+      "supported_count": 12,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        74,
+        75,
+        79,
+        80,
+        81,
+        124
+      ],
+      "partial_positions": [
+        48,
+        113,
+        123,
+        125
+      ],
+      "absent_positions": [
+        54,
+        111,
+        117,
+        122
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Sociedade Brasileira de Pediatria (SBP) divulgou [...] o Manual de Orientação #MenosTelas #MaisSaúde [...] O documento, elaborado pelo Grupo de Trabalho sobre Saúde na Era Digital da SBP, complementa e atualiza as recomendações lançadas pela entidade em 2016 sobre o tema.",
+      "key_excerpt_position": 74
+    },
+    {
+      "reference_id": "24fab7d03912a4d2",
+      "url": "https://www.wcwonline.org/2023/health-advisory-on-social-media-use-in-adolescence",
+      "times_cited": 14,
+      "supported_count": 11,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 9,
+      "status": "downloaded",
+      "supports_positions": [
+        51,
+        63,
+        64,
+        85,
+        87
+      ],
+      "partial_positions": [
+        65,
+        68,
+        69,
+        71,
+        73,
+        84,
+        88,
+        114,
+        121
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Indicators of problematic social media use include\n- a tendency to use social media even when adolescents want to stop, or realize it is interfering with necessary tasks\n- spending excessive effort to ensure continuous access to social media\n- strong cravings to use social media, or disruptions in other activities from missing social media use too much\n- repeatedly spending more time on social media than intended\n- lying or deceptive behavior to retain access to social media use\n- loss or disruption of significant relationships or educational opportunities because of media use",
+      "key_excerpt_position": 51
+    },
+    {
+      "reference_id": "f1f9bff10762b267",
+      "url": "https://g1.globo.com/tecnologia/noticia/2024/10/23/83percent-das-criancas-e-adolescentes-que-usam-internet-no-brasil-tem-contas-em-redes-sociais-diz-pesquisa.ghtml",
+      "times_cited": 10,
+      "supported_count": 10,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 8,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        6,
+        14,
+        49,
+        50,
+        52,
+        55,
+        56
+      ],
+      "partial_positions": [
+        5
+      ],
+      "absent_positions": [
+        1
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Considerando as crianças de 9 a 10 anos que estão na internet, 60% têm conta em pelo menos uma rede social",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "8fe67396eb8ff683",
+      "url": "https://www.unesco.org/gem-report/en/articles/how-many-countries-have-phone-bans-school",
+      "times_cited": 10,
+      "supported_count": 5,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        46,
+        103
+      ],
+      "partial_positions": [
+        40,
+        47,
+        48,
+        104,
+        110,
+        120
+      ],
+      "absent_positions": [
+        113,
+        117
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Facebook's own research revealed that 32% of teenage girls felt worse about their bodies after using Instagram.",
+      "key_excerpt_position": 46
+    },
+    {
+      "reference_id": "463c3baf69530eff",
+      "url": "https://www.gov.br/secom/pt-br/assuntos/uso-de-telas-por-criancas-e-adolescentes/guia/recursos-extras/pesquisas-e-outros-numeros",
+      "times_cited": 9,
+      "supported_count": 7,
+      "unsupported_count": 0,
+      "contradicted_count": 2,
+      "supporting_citations": 7,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        1,
+        2,
+        3,
+        6,
+        10,
+        12
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        8,
+        11
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "93% da população de 9 a 17 anos é usuária de internet no país, o que representa atualmente certa de 25 milhões de crianças e adolescentes",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "ff463288c6133abe",
+      "url": "https://www.hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html",
+      "times_cited": 9,
+      "supported_count": 8,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        13,
+        32,
+        41,
+        90
+      ],
+      "partial_positions": [
+        30,
+        31,
+        40,
+        111
+      ],
+      "absent_positions": [
+        113
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Up to 95% of young people aged 13-17 report using a social media platform. Nearly two thirds of teenagers report using social media every day and one third report using social media \"almost constantly.\"",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "38e4b662e5da01c3",
+      "url": "https://www.projuris.com.br/blog/pl-2628-eca-digital/",
+      "times_cited": 9,
+      "supported_count": 5,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        94
+      ],
+      "partial_positions": [
+        61,
+        93,
+        95,
+        100,
+        102,
+        115
+      ],
+      "absent_positions": [
+        118,
+        119
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Estatuto da Criança e do Adolescente (ECA), instituído em 1990, consolidou no Brasil uma política de proteção integral à infância e juventude.",
+      "key_excerpt_position": 94
+    },
+    {
+      "reference_id": "d792272a4c67466d",
+      "url": "https://cetic.br/media/docs/publicacoes/2/20250512154015/tic_kids_online_2024_resumo_executivo.pdf",
+      "times_cited": 6,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 1,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        2,
+        6,
+        7
+      ],
+      "partial_positions": [
+        9
+      ],
+      "absent_positions": [
+        0,
+        8
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Cerca de 83% dos usuários de CONTATOS Internet de 9 a 17 anos possuíam perfil próprio em pelo menos uma das plataformas digitais investigadas, sendo 60% para a faixa etária de 9 a 10 anos, 70% entre os de 11 a 12 anos, e 93% para 13 a 14 anos. Entre os mais velhos (com idade de 15 a 17 anos), quase a totalidade (99%) possuía perfil em ao menos uma plataforma digital.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "a7262bc00a5e1391",
+      "url": "https://cetic.br/media/docs/publicacoes/2/20250210193221/estatisticas_tic_criancas.pdf",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        75,
+        76,
+        77,
+        78
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [
+        8
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Nas classes DE, as proporções de crianças de 3 a 5 anos e de 6 a 8 anos que usaram computador em 2024 foram de apenas 7% e 15%, respectivamente. Na classe C, essas proporções alcançaram 20% e 30%, enquanto nas classes AB foram 50% em ambas as faixas etárias.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "a6aab68757918214",
+      "url": "https://fundacaolemann.org.br/noticias/proibicao-de-celulares-nas-escolas-levanta-debate-sobre-educacao/",
+      "times_cited": 5,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 1,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        107,
+        108
+      ],
+      "partial_positions": [
+        110,
+        120
+      ],
+      "absent_positions": [
+        109
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "No dia 13 de janeiro foi sancionada a Lei 15.100/2025, que proíbe o uso de aparelhos eletrônicos portáteis pessoais em escolas públicas e privadas de todo o país.",
+      "key_excerpt_position": 107
+    },
+    {
+      "reference_id": "bf2971ae49a6c42f",
+      "url": "https://www.apa.org/news/press/releases/2023/05/adolescent-social-media-use-recommendations",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        82,
+        89
+      ],
+      "partial_positions": [
+        86,
+        88
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The result is the American Psychological Association Health Advisory on Social Media Use in Adolescence, which contains 10 recommendations. [...] These recommendations are based on psychological science and research from related disciplines at the time of the report's writing (April 2023).",
+      "key_excerpt_position": 82
+    },
+    {
+      "reference_id": "810bcadc983e6b50",
+      "url": "https://www.unesco.org/en/articles/smartphones-school-only-when-they-clearly-support-learning",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        104,
+        105,
+        106
+      ],
+      "absent_positions": [
+        121
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Even just having a mobile phone nearby with notifications coming through is enough to result in students losing their attention from the task at hand. Another study found that it can take students up to 20 minutes to refocus on what they were learning once distracted. Removing smartphones from schools in Belgium, Spain and the United Kingdom was found to improve learning outcomes, according to a study cited in the report, especially for students that were not performing as well as their peers. The ease with which cyberbullying can be magnified through the use of online devices in the school environment is a cause of concern",
+      "key_excerpt_position": 104
+    },
+    {
+      "reference_id": "5cf1a569e63466b8",
+      "url": "https://www.gov.br/mec/pt-br/acesso-a-informacao/perguntas-frequentes/uso-de-celulares-nas-escolas",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        107,
+        108
+      ],
+      "absent_positions": [
+        118
+      ],
+      "contradicts_positions": [
+        109
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Lei 15.100/2025 não busca proibir, mas regulamentar o uso de celulares nas escolas para proteger a saúde mental, física e psíquica dos estudantes.",
+      "key_excerpt_position": 107
+    },
+    {
+      "reference_id": "88a21512fd0a814f",
+      "url": "https://www.cgi.br/noticia/releases/tic-kids-online-investiga-pela-primeira-vez-frequencia-do-uso-de-plataformas-digitais-por-criancas-e-adolescentes/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        52,
+        53
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [
+        11
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Considerando o contato com desconhecidos, 30% dos usuários de Internet de 9 a 17 anos relataram que tiveram contato com alguém na Internet que não conheciam pessoalmente.",
+      "key_excerpt_position": 52
+    },
+    {
+      "reference_id": "43202571e6b6382f",
+      "url": "https://www.fadc.org.br/noticias/adultizacao-pl-2628",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        61,
+        62,
+        101
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "cf3ec49d57de3c08",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2025-08/camara-aprova-projeto-contra-adultizacao-de-criancas-nas-redes-sociais",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        62,
+        100
+      ],
+      "absent_positions": [
+        61
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "É o chamado PL contra a \"adultização\" de crianças.",
+      "key_excerpt_position": 62
+    },
+    {
+      "reference_id": "17f0d31786b6070f",
+      "url": "https://nic.br/noticia/releases/tic-kids-online-brasil-65-das-criancas-e-dos-adolescentes-usam-ia-generativa-para-estudar-criar-conteudo-e-lidar-com-emocoes/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        58,
+        59
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Pela primeira vez a pesquisa investigou a exposição de crianças e adolescentes a vídeos de pessoas divulgando jogos de apostas. Entre os usuários de 11 a 17 anos, 53% reportaram contato com esse tipo de conteúdo online. A exposição foi maior entre os adolescentes de 15 a 17 anos (63%).",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "6d7a7f6dc8d5c1a0",
+      "url": "https://cetic.br/media/docs/publicacoes/2/pt-br/20260317181039/tic_kids_online_2025_livro_eletronico.pdf.pdf",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        60
+      ],
+      "partial_positions": [
+        0
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O contato com vídeos, fotos ou textos na Internet em que produtos e/ou marcas foram divulgados, sem que tenham sido necessariamente identificados como propaganda, foi reportado por 84% dos usuários de 11 a 17 anos. Entre os formatos de conteúdo, os mais vistos por essa população foram aqueles com pessoas abrindo embalagens de algum produto (66%), ensinando como usar algum produto (65%) ou mostrando produtos que alguma marca deu para elas (61%).",
+      "key_excerpt_position": 60
+    },
+    {
+      "reference_id": "872da6d7d12d54c4",
+      "url": "https://resources.pedspandemicnetwork.org/library/3701/health-advisory-on-social-media-use-in-adolescence-3701/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        73,
+        82
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "b3a75f2cf8dbbafd",
+      "url": "https://www.congressonacional.leg.br/web/atividade/materias/-/materia/170017",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        93,
+        95
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Norma Gerada: Lei nº 15.211 de 17/09/2025",
+      "key_excerpt_position": 93
+    },
+    {
+      "reference_id": "3895e31f12bc91ca",
+      "url": "https://www.opiniaoce.com.br/brasil/2026/06/29/mec-divulga-pesquisa-sobre-restricao-do-uso-de-celulares-nas-escolas/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        107
+      ],
+      "partial_positions": [
+        109
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A Lei 15.100/2025, sancionada em janeiro do ano passado pelo presidente Luiz Inácio Lula da Silva, nasce a partir de um projeto de lei de autoria do deputado federal Alceu Moreira (MDB-RS). A iniciativa gerou amplo debate e foi aprovada pelo Senado Federal nas vésperas do recesso parlamentar de 2024.",
+      "key_excerpt_position": 107
+    },
+    {
+      "reference_id": "2ff7caa537e910ae",
+      "url": "https://institutodimicuida.org.br/books/saude-na-era-digital-sociedade-brasileira-de-pediatria-gestao-2022-2024/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        74
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Manual de Orientação – Menos Telas Mais Saúde – Publicação da Sociedade Brasileira de Pediatria (SBP), atualizada em agosto de 2024",
+      "key_excerpt_position": 74
+    },
+    {
+      "reference_id": "8578e2517a6ce2ab",
+      "url": "https://portaldeboaspraticas.iff.fiocruz.br/biblioteca/menos-telas-mais-saude-atualizacao-2024/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        74
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Sociedade Brasileira de Pediatria (SBP). Grupo de Trabalho. Saúde na Era Digital (gestão 2022-2024). Manual de Orientação. #MENOS TELAS #MAIS SAÚDE – Atualização 2024.",
+      "key_excerpt_position": 74
+    },
+    {
+      "reference_id": "cc2fdeba1ab96094",
+      "url": "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2477340",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        93
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Transformado na Lei Ordinária 15211/2025",
+      "key_excerpt_position": 93
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-15",
+      "position": 15,
+      "claim_excerpt": "A adolescência é um período crítico de plasticidade cerebral, caracterizado por reorganizações estruturais e funcionais profundas no sistema nervoso central.",
+      "cited_markers": "[8] [10]",
+      "corroborating_markers": "[11] [7] [16] [19]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-77",
+      "position": 77,
+      "claim_excerpt": "Para crianças entre 2 e 5 anos, o tempo de exposição deve ser rigorosamente limitado a, no máximo, 1 hora diária, exigindo-se sempre a presença e a mediação presencial de um adulto responsável.",
+      "cited_markers": "[6]",
+      "corroborating_markers": "[14] [16] [7] [30] [5] [19]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "rede_social_saude_mental_adolecentes_e4c71cba382a_20261101T205241Z-121",
+      "position": 121,
+      "claim_excerpt": "É fundamental implementar programas contínuos de alfabetização de mídias e educação digital no currículo da educação básica, capacitando os estudantes para o pensamento crítico frente aos conteúdos v…",
+      "cited_markers": "[16] [19] [21]",
+      "corroborating_markers": "[7] [30] [3] [6] [14]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 2609813,
+  "cost_tracked": false,
+  "processing_time_seconds": 3268.720651
+}

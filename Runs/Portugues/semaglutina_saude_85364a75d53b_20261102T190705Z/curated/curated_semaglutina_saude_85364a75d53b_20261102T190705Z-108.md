@@ -1,0 +1,229 @@
+[referencia=886943a83bdae4d6 score=0.010]
+    
+
+      
+        
+          **Results:**
+        
+      
+      Data from 37 RCTs and 19 real-world studies having 16,839 patients in placebo-control group, 16,550 patients in active-control group and 13,330 patients in real-world studies were analysed. Compared to placebo, occurrence of pancreatic cancer [OR 0.25 (95%CI: 0.03-2.24); P = 0.21], thyroid cancer [OR 2.04 (95%CI: 0.33-12.61); P = 0.44; I<sup>2</sup> = 0%] and all neoplasms (benign, malignant and otherwise unspecified) [OR 0.95 (95%CI:0.62-1.45); P = 0.82; I<sup>2</sup> = 0%] was similar in the semaglutide group. Compared to active controls, occurrence of pancreatic cancer [OR 0.40 (95%CI:0.09-1.87); P = 0.26; I<sup>2</sup> = 0%], thyroid cancer [OR 1.19 (95%CI:0.15-9.66); P = 0.87; I<sup>2</sup> = 0%] and all neoplasms (benign, malignant and otherwise unspecified) [OR 0.91 (95% CI: 0.44-1.89); P = 0.79; I<sup>2</sup> = 0%] were similar in the semaglutide group. Real-world data analysis revealed single case each of pancreatic cancer and B-cell lymphoma.
+    
+
+      
+        
+          **Conclusion:**
+        
+      
+      Semaglutide use in RCTs and real-world studies was not associated with an increased risk of any types of cancer, and this conclusion is supported by a high grade of evidence.
+    
+
+      
+        
+          **Keywords:**
+        
+      
+      Cancer; Pancreatic cancer; Semaglutide; Systematic review; Thyroid cancer.
+    
+
+Copyright © 2023 Research Trust of DiabetesIndia (DiabetesIndia) and National Diabetes Obesity and Cholesterol Foundation (N-DOC). Published by Elsevier Ltd. All rights reserved.
+
+---
+
+[referencia=9d03b921a48ae815 score=0.004]
+In the LEAN (liraglutide safety and efficacy in patients with non-alcoholic steatohepatitis) trial, liraglutide treatment (48 weeks) in NASH patients protected against further worsening of liver fibrosis (43). The beneficial effect on liver fibrosis was suggested to be mediated through decreased lipotoxicity beyond BW or blood glucose-lowering effects (44). In the present study in LDLr<sup>−/−</sup> mice, liver fat content as well as genes related to liver fibrosis and inflammation were significantly decreased by semaglutide. Of particular translational relevance to human treatment, semaglutide partially prevented the WD-induced expression of TIMP-1 and the S100 calcium-binding proteins A8 and A9 (S100A8 and S100A9) at all dose levels. Serum TIMP-1 levels have been used to detect fibrosis (45), whereas S100A8/-A9 are biomarkers for cirrhosis in chronic hepatitis C infection and various other diseases (46). Similar to findings in the vascular bed, we did not identify GLP-1R expression in the liver (data not shown), concordant with previous reports 38, 39, 47. Interestingly, for both aorta and liver, a local GLP-1R-independent effect to reduce inflammation was seen, highlighting the possibility that this is mediated by GLP-1RAs in other locations.
+
+---
+
+[referencia=0f8282f1ddbbfb52 score=0.004]
+    
+
+      
+        
+          **Findings:**
+        
+      
+      Between May 18, 2021, and Sept 8, 2023, 9981 participants were screened, of whom 3808 were randomly assigned; 1855 in evoke (semaglutide, n=928; placebo, n=927) and 1953 in evoke+ (semaglutide, n=976; placebo, n=977). Mean age was 72·2 years (SD 7·1), and mean CDR-SB score was 3·7 (SD 1·6) at baseline. In evoke+, 54 (2·8%) participants had small vessel pathology. In evoke and evoke+, mean changes in CDR-SB score from baseline to week 104 were 2·3 (SE 0·1) and 2·2 (0·1) with semaglutide, compared with 2·3 (0·1) and 2·1 (0·1) with placebo (estimated difference -0·08 [95% CI -0·35 to 0·20], p=0·57 in evoke and 0·10 [-0·17 to 0·38], p=0·46 in evoke+). Treatment-emergent adverse events were reported in 1729 (91·2%) of 1896 participants receiving semaglutide versus 1613 (84·8%) of 1902 receiving placebo. There were five fatalities considered treatment-related by the investigators (one in the semaglutide group and four in the placebo group).
+    
+
+      
+        
+          **Interpretation:**
+        
+      
+      Oral semaglutide was not efficacious in slowing clinical progression in participants with early Alzheimer's disease. Safety and tolerability of semaglutide in early Alzheimer's disease is consistent with studies in other indications.
+    
+
+      
+        
+          **Funding:**
+        
+      
+      Novo Nordisk.
+    
+
+Copyright © 2026 The Author(s). Published by Elsevier Ltd. This is an Open Access article under the CC BY 4.0 license. Published by Elsevier Ltd.. All rights reserved.
+
+---
+
+[referencia=886943a83bdae4d6 score=0.003]
+## Abstract
+
+---
+
+[referencia=0f8282f1ddbbfb52 score=0.003]
+## Abstract
+
+---
+
+[referencia=886943a83bdae4d6 score=0.002]
+# Semaglutide and cancer: A systematic review and meta-analysis
+
+- 
+          
+  
+    
+      PMID:
+    
+  
+  
+    **37531876**
+- DOI: 10.1016/j.dsx.2023.102834
+
+---
+
+[referencia=9d03b921a48ae815 score=0.002]
+- 34.van der Leeuw J., Beulens J.W., van Dieren S. Novel biomarkers to improve the prediction of cardiovascular event risk in type 2 diabetes mellitus. J Am Heart Assoc. 2016 May 31;5(6) doi: 10.1161/JAHA.115.003048. https://doi.org/10.1161/JAHA.115.003048 pii: e003048. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 35.Forst T., Michelson G., Ratter F. Addition of liraglutide in patients with Type 2 diabetes well controlled on metformin monotherapy improves several markers of vascular function. Diabet Med. 2012;29:1115–1118. doi: 10.1111/j.1464-5491.2012.03589.x. [DOI] [PubMed] [Google Scholar]
+- 36.Ussher J.R., Drucker D.J. Cardiovascular actions of incretin-based therapies. Circ Res. 2014;114:1788–1803. doi: 10.1161/CIRCRESAHA.114.301958. [DOI] [PubMed] [Google Scholar]
+- 37.Wei R., Ma S., Wang C. Exenatide exerts direct protective effects on endothelial cells through the AMPK/Akt/eNOS pathway in a GLP-1 receptor-dependent manner. Am J Physiol Endocrinol Metab. 2016;310:E947–E957. doi: 10.1152/ajpendo.00400.2015. [DOI] [PubMed] [Google Scholar]
+- 38.Pyke C., Heller R.S., Kirk R.K. GLP-1 receptor localization in monkey and human tissue: novel distribution revealed with extensively validated monoclonal antibody. Endocrinology. 2014;155:1280–1290. doi: 10.1210/en.2013-1934. [DOI] [PubMed] [Google Scholar]
+
+---
+
+[referencia=9d03b921a48ae815 score=0.002]
+#### Table 1.
+
+|  | LDLr <sup>−/−</sup> |  |  |  |  | ApoE <sup>−/−</sup> |  |  |  |  | 
+|---|---|---|---|---|---|---|---|---|---|---|
+|  | Vehicle, WD (n = 20) | Semaglutide, 4 μg/kg (n = 21) | Semaglutide, 12 μg/kg (n = 23) | Semaglutide, 60 μg/kg (n = 21) | Vehicle, Chow (n = 9) | Vehicle, WD (n = 16) | Semaglutide, 4 μg/kg (n = 18) | Semaglutide, 12 μg/kg (n = 18) | Semaglutide, 60 μg/kg (n = 18) | Vehicle, Chow (n = 8) | 
+| T-chol (mM) | 27.4 ± 2.8 | 23.3 ± 2.1 | 23.9 ± 2.1 | 19.9 ± 1.5 | 5.9 ± 0.3 <sup>∗∗∗∗</sup> | 25.1 ± 0.9 | 26.6 ± 1.3 | 30.9 ± 1.6 | 33.0 ± 1.3 <sup>∗∗</sup> | 8.5 ± 0.4 <sup>∗∗∗∗</sup> | 
+| TG (mM) | 6.8 ± 0.8 | 6.8 ± 0.6 | 7.1 ± 0.7 | 4.4 ± 0.4 <sup>∗</sup> | 1.4 ± 0.1 <sup>∗∗∗∗</sup> | 1.5 ± 0.1 | 1.2 ± 0.1 | 1.3 ± 0.1 | 1.2 ± 0.1 | 1.4 ± 0.2 <sup>∗∗∗∗</sup> |
+
+---
+
+[referencia=9d03b921a48ae815 score=0.001]
+The structural properties of GLP-1RAs may drive some of the differences in their clinical effect to reduce major adverse cardiac events. Exenatide, a short-acting GLP-1-RA has shown beneficial effects on systemic inflammation in clinical studies, both acutely and by chronic treatment 8, 36, but whether those effects translate into CV RR remains to be demonstrated in a CV outcome trial. Lixisenatide, another short-acting GLP-1RA, did not provide evidence of CV RR in the ELIXA (The Evaluation of Lixisenatide in Acute Coronary Syndrome) trial (4). Differences in patient populations and trial duration could explain the differences in outcome, but the duration of action by these different GLP-1RAs might also be relevant for the CV RR (48). It is well documented that the actions of GLP-1RAs have a strict pharmacokinetic-to-pharmacodynamic relationship (49). Interestingly and in contrast to the clinical setting, lixisenatide given as an infusion to rodents affected the plaque progression and stability (50). In the EXCSEL (Exenatide Study of Cardiovascular Event Lowering) trial, the once weekly exenatide (Bydureon) did not show CV RR (5). However, there was a statistically significant difference on all-cause mortality, and all endpoints trended in the same direction as in the LEADER trial. It may be speculated that the lack of significant CV effect in the EXSCEL trial could be due to the high rate of treatment discontinuation and the patients' low adherence (5). Dulaglutide, another long-acting GLP-1RA, is currently undergoing a cardiovascular outcome trial (REWIND [Researching Cardiovascular Events With a Weekly Incretin in Diabetes]) (51). Whether CV protection is a class effect for all long-acting GLP-1RAs will thus be further clarified when the REWIND trial is reported.
+
+---
+
+[referencia=886943a83bdae4d6 score=0.001]
+# Semaglutide and cancer: A systematic review and meta-analysis
+
+---
+
+[referencia=9d03b921a48ae815 score=0.001]
+Recently, a proteomics-based comparison of carotid specimens from symptomatic and asymptomatic patients identified a molecular signature with increased inflammatory markers in the symptomatic patient group, including MMP-9, OPN, and cathepsin D, thus suggesting that inflammatory markers in vascular tissue may be a more specific measurement of plaque instability (27). OPN is an important proinflammatory cytokine which also plays a role in immune cell recruitment (28), and elevated circulating OPN levels have been associated with increased CV disease risk in type 2 diabetes patients (29). In the present studies, semaglutide decreased plasma OPN levels following LPS challenge, and OPN expression was decreased in aortic tissue with semaglutide treatment. Gene expression analysis of the aorta further demonstrated that semaglutide partially prevented WD-induced changes for transcripts associated with pathways relevant to the pathogenesis of atherosclerosis (Figure 4C). In LDLr<sup>−/−</sup> mice, the group-wise comparison suggests that all doses of semaglutide were equally effective in preventing the WD-induced changes in gene expression. In ApoE<sup>−/−</sup> mice, smaller effect sizes were observed both for the WD and the semaglutide treatment, which could be explained by differences in the metabolic phenotype between the 2 mouse models, where LDLr<sup>−/−</sup>
+
+---
+
+[referencia=9d03b921a48ae815 score=0.001]
+- 39.Korner M., Stockli M., Waser B., Reubi J.C. GLP-1 receptor expression in human tumors and human normal tissues: potential for in vivo targeting. J Nucl Med. 2007;48:736–743. doi: 10.2967/jnumed.106.038679. [DOI] [PubMed] [Google Scholar]
+- 40.Bang-Berthelsen C.H., Holm T.L., Pyke C. GLP-1 induces barrier protective expression in brunner's glands and regulates colonic inflammation. Inflamm Bowel Dis. 2016;22:2078–2097. doi: 10.1097/MIB.0000000000000847. [DOI] [PubMed] [Google Scholar]
+- 41.Cani P.D., Delzenne N.M. Interplay between obesity and associated metabolic disorders: new insights into the gut microbiota. Curr Opin Pharmacol. 2009;9:737–743. doi: 10.1016/j.coph.2009.06.016. [DOI] [PubMed] [Google Scholar]
+- 42.Yusta B., Baggio L.L., Koehler J. GLP-1R agonists modulate enteric immune responses through the intestinal intraepithelial lymphocyte GLP-1R. Diabetes. 2015;64:2537–2549. doi: 10.2337/db14-1577. [DOI] [PubMed] [Google Scholar]
+- 43.Armstrong M.J., Gaunt P., Aithal G.P. Liraglutide safety and efficacy in patients with non-alcoholic steatohepatitis (LEAN): a multicentre, double-blind, randomised, placebo-controlled phase 2 study. Lancet. 2016;387:679–690. doi: 10.1016/S0140-6736(15)00803-X. [DOI] [PubMed] [Google Scholar]
+- 44.Armstrong M.J., Hull D., Guo K. Glucagon-like peptide 1 decreases lipotoxicity in non-alcoholic steatohepatitis. J Hepatol. 2016;64:399–408. doi: 10.1016/j.jhep.2015.08.038. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+---
+
+[referencia=9d03b921a48ae815 score=0.001]
+## Discussion
+
+The CV risk reduction (RR) observed using the GLP-1RAs liraglutide and semaglutide in the LEADER and SUSTAIN-6 trials is proposed to be mediated through antiatherosclerotic mechanisms 6, 7, 9. GLP-1RAs are potent regulators of BW, hyperglycemia, and to some extent dyslipidemia (10). In the studies presented here, semaglutide exerted antiatherosclerotic efficacy at doses that did not lower BW significantly (Figures 1 and 2), indicating that the antiatherosclerotic effects cannot be attributed solely to prevention of gain in BW. These observations were further supported by the weight-matched comparator study in ApoE<sup>−/−</sup> mice, where only liraglutide decreased the plaque lesion development (Figure 3), and in an acute inflammation study in lean mice, where semaglutide reduced circulating levels of TNF-α, IFN-γ, and OPN in response to an LPS challenge (Figure 4). In line with our findings, continuous infusion of native GLP-1 at weight-neutral doses in ApoE<sup>−/−</sup> mice lowered the amount of atherosclerotic lesions accompanied with reduced macrophage infiltration in the vasculature (24). Similar observations of atherosclerosis and reduced systemic inflammation using exendin-4 were reported by Wang et al. (25) and Yanay et al. (26).
+
+---
+
+[referencia=9d03b921a48ae815 score=0.001]
+- 13.von Scholten B.J., Persson F., Rosenlund S. Effects of liraglutide on cardiovascular risk biomarkers in patients with type 2 diabetes and albuminuria: a sub-analysis of a randomized, placebo-controlled, double-blind, crossover trial. Diabetes Obes Metab. 2017;19:901–905. doi: 10.1111/dom.12884. [DOI] [PubMed] [Google Scholar]
+- 14.Hogan A.E., Gaoatswe G., Lynch L. Glucagon-like peptide 1 analogue therapy directly modulates innate immune-mediated inflammation in individuals with type 2 diabetes mellitus. Diabetologia. 2014;57:781–784. doi: 10.1007/s00125-013-3145-0. [DOI] [PubMed] [Google Scholar]
+- 15.Gaspari T., Liu H., Welungoda I. A GLP-1 receptor agonist liraglutide inhibits endothelial cell dysfunction and vascular adhesion molecule expression in an ApoE−/− mouse model. Diab Vasc Dis Res. 2011;8:117–124. doi: 10.1177/1479164111404257. [DOI] [PubMed] [Google Scholar]
+- 16.Gaspari T., Welungoda I., Widdop R.E., Simpson R.W., Dear A.E. The GLP-1 receptor agonist liraglutide inhibits progression of vascular disease via effects on atherogenesis, plaque stability and endothelial function in an ApoE(−/−) mouse model. Diab Vasc Dis Res. 2013;10:353–360. doi: 10.1177/1479164113481817. [DOI] [PubMed] [Google Scholar]
+- 17.Tashiro Y., Sato K., Watanabe T. A glucagon-like peptide-1 analog liraglutide suppresses macrophage foam cell formation and atherosclerosis. Peptides. 2014;54:19–26. doi: 10.1016/j.peptides.2013.12.015. [DOI] [PubMed] [Google Scholar]
+
+---
+
+[referencia=9d03b921a48ae815 score=0.001]
+- 18.Noyan-Ashraf M.H., Momen M.A., Ban K. GLP-1R agonist liraglutide activates cytoprotective pathways and improves outcomes after experimental myocardial infarction in mice. Diabetes. 2009;58:975–983. doi: 10.2337/db08-1193. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 19.Noyan-Ashraf M.H., Shikatani E.A., Schuiki I. A glucagon-like peptide-1 analog reverses the molecular pathology and cardiac dysfunction of a mouse model of obesity. Circulation. 2013;127:74–85. doi: 10.1161/CIRCULATIONAHA.112.091215. [DOI] [PubMed] [Google Scholar]
+- 20.Stary H.C., Chandler A.B., Dinsmore R.E. A definition of advanced types of atherosclerotic lesions and a histological classification of atherosclerosis. A report from the committee on vascular lesions of the council on arteriosclerosis, American Heart Association. Arterioscler Thromb Vasc Biol. 1995;15:1512–1531. doi: 10.1161/01.atv.15.9.1512. [DOI] [PubMed] [Google Scholar]
+- 21.Blaslov K., Bulum T., Zibar K., Duvnjak L. Incretin based therapies: a novel treatment approach for non-alcoholic fatty liver disease. World J Gastroenterol. 2014;20:7356–7365. doi: 10.3748/wjg.v20.i23.7356. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 22.Lim S., Oh T.J., Koh K.K. Mechanistic link between nonalcoholic fatty liver disease and cardiometabolic disorders. Int J Cardiol. 2015;201:408–414. doi: 10.1016/j.ijcard.2015.08.107. [DOI] [PubMed] [Google Scholar]
+
+---
+
+[referencia=886943a83bdae4d6 score=0.001]
+## Conflict of interest statement
+
+Declaration of competing interest The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
+
+## Publication types
+
+## MeSH terms
+
+## Substances
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+- ### Medical
+
+---
+
+[referencia=9d03b921a48ae815 score=0.001]
+- 45.Abdelaziz R., Elbasel M., Esmat S., Essam K., Abdelaaty S. Tissue Inhibitors of metalloproteinase-1 and 2 and obesity related non-alcoholic fatty liver disease: is there a relationship? Digestion. 2015;92:130–137. doi: 10.1159/000439083. [DOI] [PubMed] [Google Scholar]
+- 46.Wang Y., Zhang Z., Zhang L. S100A8 promotes migration and infiltration of inflammatory cells in acute anterior uveitis. Sci Rep. 2016;6:36140. doi: 10.1038/srep36140. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 47.Panjwani N., Mulvihill E.E., Longuet C. GLP-1 Receptor activation indirectly reduces hepatic lipid accumulation but does not attenuate development of atherosclerosis in diabetic male ApoE(−/−) mice. Endocrinology. 2013;154:127–139. doi: 10.1210/en.2012-1937. [DOI] [PubMed] [Google Scholar]
+- 48.Ying Y.L., Chen Y.C., Jandeleit-Dahm K., Peter K. GLP-1 receptor agonists: an example of the challenge for animal models to predict plaque instability/rupture and cardiovascular outcomes. Atherosclerosis. 2017;265:250–252. doi: 10.1016/j.atherosclerosis.2017.08.006. [DOI] [PubMed] [Google Scholar]
+- 49.Meier J.J., Rosenstock J., Hincelin-Mery A. Contrasting effects of lixisenatide and liraglutide on postprandial glycemic control, gastric emptying, and safety parameters in patients with type 2 diabetes on optimized insulin glargine with or without metformin: a randomized, open-label trial. Diabetes Care. 2015;38:1263–1273. doi: 10.2337/dc14-1984. [DOI] [PubMed] [Google Scholar]
+
+---
+
+[referencia=9d03b921a48ae815 score=0.001]
+### Perspectives.
+
+**COMPETENCY IN MEDICAL KNOWLEDGE:** Six GLP-1RAs are currently approved as diabetes treatments. One GLP-1RA, liraglutide, is approved for treatment of obesity, and 2 GLP-1RAs, liraglutide and semaglutide, have been shown to reduce CV risk in diabetes. The cardiovascular findings were reported in the LEADER and SUSTAIN-6 studies, where the effects were consistent across the individual major adverse cardiac events endpoints and were hypothesized to be consistent with an underlying effect on atherosclerosis. We investigated this hypothesis in rodent models of atherosclerosis and found that liraglutide and semaglutide reduced markers of inflammation in aortic plaque tissue.
+
+**TRANSLATIONAL OUTLOOK:** Future clinical studies should explore whether treatment with GLP-1RAs affects inflammation in atherosclerotic plaques.
+
+## Acknowledgments
+
+The authors thank Lene Takla, Nikolaj Hansen, Mathilde Bonde, Louise Justesen, Malene Pedersen, Caroline Kvist, and Steen Kryger (Novo Nordisk A/S, Global Research, Denmark) for expert technical assistance with conducting the animal studies, and Christina Rye Underwood for assistance with protein assays.
+
+## Footnotes
+
+All authors are or have been shareholders and/or employees of Novo Nordisk. Novo Nordisk markets liraglutide for the treatment of diabetes and obesity, and semaglutide for the treatment of diabetes.
+
+All authors attest they are in compliance with human studies committees and animal welfare regulations of the authors’ institutions and Food and Drug Administration guidelines, including patient consent where appropriate. For more information, visit the *JACC: Basic to Translational Science*author instructions page.
+
+## Appendix
+
+---
+
+[referencia=9d03b921a48ae815 score=0.001]
+Recently, 4 cardiovascular outcome trials with GLP-1RAs have been reported 4, 5, 6, 7. The LEADER (Liraglutide Effect and Action in Diabetes: Evaluation of Cardiovascular Outcome Results) (6) and SUSTAIN-6 (Trial to Evaluate Cardiovascular and Other Long-term Outcomes With Semaglutide in Subjects With Type 2 Diabetes) (7) trials, using liraglutide and semaglutide, respectively, demonstrated a significant reduction in major adverse cardiac events in high-risk cardiovascular (CV) disease patients with diabetes. These reductions in major adverse cardiac events with liraglutide and semaglutide have been described as antiatherosclerotic effects potentially driven by anti-inflammatory mechanisms 6, 7, 8, 9, 10. Reduced inflammation is well documented in humans treated with liraglutide 11, 12, 13, associated with lower circulating levels of tumor necrosis factor (TNF)-α, interleukin (IL)-1β, IL-6, and cluster of differentiation 163 (CD163) (14). Specifically, the well-validated inflammation marker high-sensitivity C-reactive protein (hsCRP) was reduced by approximately 35% from a baseline of approximately 3.5 mg/dl in a large randomized clinical study with liraglutide (12). In pre-clinical studies, liraglutide attenuated development of atherosclerosis and improved plaque stability in proatherogenic apolipoprotein E-deficient (ApoE<sup>−/−</sup>) mice 15, 16. Liraglutide has also been shown to directly suppress foam cell formation through a reduced uptake of oxidized low-density lipoprotein (LDL), potentially caused by a downregulation of the scavenger receptor CD36 (17). Furthermore in a model of myocardial infarction, liraglutide reduced infarction size (18) associated with reduced TNF-α in cardiac tissue (19).
+
+---
+
+[referencia=0f8282f1ddbbfb52 score=0.001]
+# Efficacy and safety of oral semaglutide 14 mg (flexible dose) in early-stage symptomatic Alzheimer's disease (evoke and evoke+): two phase 3, randomised, placebo-controlled trials
+
+- 
+          
+  
+    
+      PMID:
+    
+  
+  
+    **41865758**
+- DOI: 10.1016/S0140-6736(26)00459-9

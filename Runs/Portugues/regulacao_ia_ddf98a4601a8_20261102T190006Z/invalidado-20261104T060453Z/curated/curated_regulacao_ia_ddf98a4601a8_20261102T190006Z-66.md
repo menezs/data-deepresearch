@@ -1,0 +1,502 @@
+[referencia=f7d309a1d1b98e5f score=0.009]
+- RQS 887/2024
+
+- 10/12/2024
+- SF-SEADI - Secretaria de Atas e Diários
+- Ação:
+- (Sessão Deliberativa Ordinária, realizada em 10/12/2024)
+ Encaminhadas à publicação as Emendas nºs 200 a 244-PLEN.
+ As Emendas nºs 202 a 215 foram retiradas pelo autor.
+ Proferido pelo Senador Eduardo Gomes o Parecer nº 207, de 2024-PLEN/SF, concluindo pela rejeição das Emendas nºs 200, 201 e 216 a 244, de Plenário.
+ Foram retirados todos os destaques.
+ Discussão encerrada.
+ Aprovada a Emenda nº 199 (Substitutivo), com adequação redacional de Plenário no art. 44 do Substitutivo, nos termos dos pareceres.
+ Ficam prejudicados os projetos e as demais emendas, com o voto contrário dos Senadores Cleitinho, Eduardo Girão, Hamilton Mourão e Magno Malta.
+ Encaminhado à publicação na forma regimental o Parecer nº 208, de 2024-PLEN/SF, da Comissão Diretora, oferecendo a redação para o turno suplementar.
+ Encerrada a discussão em turno suplementar, sem emendas, o Substitutivo é dado como definitivamente adotado, sem votação.
+ O Projeto de Lei nº 2.338, de 2023, aprovado na forma do Substitutivo, vai à Câmara dos Deputados.
+ Os Projetos de Lei nºs 5.051 e 5.691, de 2019; 21, de 2020; 872, de 2021; 3.592, de 2023; 210 e 266, de 2024, prejudicados, vão ao Arquivo.
+(Encaminhados à publicação os Requerimentos nsº 875, 877, 881 e 887, de 2024)
+- P.S 208/2024 - PLEN
+- P.S 207/2024 - PLEN
+- Parecer de redação
+
+- 19/12/2024
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.005]
+- Ação:
+- Apensação da proposição PL 974/2026 à proposição PL 6036/2025.
+- Inteiro Teor 3102830
+
+- 17/06/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 5433/2025 à proposição PL 3782/2025.
+- Inteiro Teor 3107056
+
+- 01/09/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apense-se a este o PL 3060/2026
+- Inteiro Teor 3157537
+
+- 02/09/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 1542/2026 à proposição PL 904/2026.
+- Inteiro Teor 3154148
+
+- 26/10/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 3615/2026 à proposição PL 6708/2025.
+- Inteiro Teor 3173854
+
+- 27/10/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 3382/2026 à proposição PL 904/2026.
+- Inteiro Teor 3171225
+
+- 27/10/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 3560/2026 à proposição PL 728/2026.
+- Inteiro Teor 3173183
+
+Fase prevista
+
+  ## Sanção (Presidência da República)
+
+ **Situação:** Previsto
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.005]
+- Ação:
+- Aprovado o requerimento nº 2/2025,da Sra. Adriana Ventura que requer a realização de audiência pública para debater os desafios enfrentados por empresas na adequação às obrigações técnicas e jurídicas previstas no Projeto de Lei nº 2338/2023, com a participação dos seguintes convidados: 
+ a) Representante da Confederação Nacional da Indústria (CNI);
+ b) Representante do Conselho Digital;
+ c) Representante da Associação Brasileira das Empresas de Software (ABES);
+ d) Professora Walquíria Favero (FGV Direito SP) – especialista em regulação digital; e
+e) Representante do IBRAC (Instituto Brasileiro de Estudos de Concorrência, Consumo e Comércio Internacional).
+
+- 27/05/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 3/2025,da Sra. Adriana Ventura que requer a realização de audiência pública para discutir a utilização de modelos de sandbox regulatório como instrumento para o desenvolvimento seguro e experimental de soluções em inteligência artificial, no contexto do Projeto de Lei nº 2338/2023, com a participação dos seguintes convidados: 
+ a) Representante da Agência Nacional de Telecomunicações (Anatel) ;
+ b) Representante da Agência Nacional de Energia Elétrica (ANEEL);
+ c) Representante do Ministério da Ciência, Tecnologia e Inovação (MCTI);
+ d) Representante da Associação Brasileira de Startups (ABStartups); e
+e) Manuel Cabugueira - Representante da Autoridade Nacional de Comunicações Portuguesa - ANACOM.
+
+- 27/05/2025
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.003]
+- Ação:
+- Na 24ª Reunião, realizada nesta data, a Comissão aprova o relatório, que passa a constituir Parecer da CTIA, favorável ao projeto, na forma da Emenda nº 199-CCT (Substitutivo), com acolhimento das Emendas nº 4, 8, 11, 13, 14, 17, 18, 19, 35, 38, 44, 47, 50, 67, 74, 75, 80, 86, 96, 99, 104, 108, 125, 157, 183, 190 e 191; acolhimento parcial das Emendas nº 1, 3, 5, 7, 10, 15, 16, 22, 27, 34, 42, 43, 45, 46, 49, 52, 53, 59, 62, 63, 65, 66, 76, 78, 79, 84, 87, 93, 94, 97, 105, 106, 107, 109, 110, 114, 118, 120, 126, 127, 134, 146, 149, 151, 153, 156, 158, 159, 160, 162, 165, 167, 172, 183, 185, 187, 192 e 194; e rejeição das demais, bem como pela declaração de prejudicialidade do PL nº 21, de 2020; PL nº 5.051, de 2019; PL nº 5.691, de 2019; PL nº 872, de 2021; PL nº 3.592, de 2023; PL nº 210, de 2024; e PL nº 266, de 2024.
+ A Comissão aprova a apresentação dos Requerimentos n° 13 e 14/2024-CTIA, de urgência da matéria no Plenário do Senado Federal.
+A matéria será encaminhada à Secretaria-Geral da Mesa.
+- P.S 1/2024 - CTIA
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.003]
+- P.S 208/2024 - PLEN
+- P.S 207/2024 - PLEN
+- Parecer de redação
+
+- 19/12/2024
+- SF-SEXPE - Secretaria de Expediente
+- Ação:
+- Anexado o texto revisado.
+- Minuta
+
+- 17/03/2025
+- SF-SEXPE - Secretaria de Expediente
+- Ação:
+- Remetido Ofício SF nº 235, de 17/03/25, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafo do projeto para revisão, nos termos do art. 65 da Constituição Federal.
+- OFSF 235/2025
+- Autógrafo - PL 2338/2023
+
+17/mar
+
+ 2025
+
+ Em tramitação
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.003]
+- Inteiro Teor 3000191
+
+- 15/09/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Apresentação do REQ n. 151/2025 (Requerimento de Audiência Pública), pela Deputada Any Ortiz (CIDADANIA/RS -Fdr PSDB-CIDADANIA), que "Requer a realização de seminário no Município de Porto Alegres/RS para debater sobre a Inteligência Artificial (PL 2338/2023).
+ ? Representante da Associação Brasileira das Empresas de Software - ABES;
+ ? Dra. Marta Leal – Vice-Presidente do Instituto Nacional de Proteção de Dados - INPD; e
+? A Sra. Mônica Leal - Secretaria Municipal de Transparência e Controladoria/Porto Alegre".
+- Inteiro Teor 3000194
+
+- 16/09/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 149/2025,do Sr. David Soares que requer a inclusão da Associação LATINA-AMERICANA DE INTERNET (ALAI) para a audiência pública sobre “ AI NO SERVIÇO PÚBLICO E EM INFRAESTRUTURAS CRÍTICAS”.
+
+- 16/09/2025
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.003]
+- Ação:
+- Aprovado o requerimento nº 108/2025,do Sr. Helio Lopes que requer a realização de audiência pública para debater a atuação das empresas Big Tech no contexto da regulamentação da Inteligência Artificial, com a participação de representantes das seguintes empresas: 
+ respectivas plataformas de inteligência artificial:
+ 1. OpenAI – ChatGPT;
+ 2. Microsoft Brasil – Copilot
+ 3. Google Brasil – Gemini
+ 4. Meta Brasil – Meta AI
+5. X (antigo Twitter) – Grok
+
+- 08/07/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 109/2025,do Sr. David Soares que requer a inclusão de representante da Associação Brasileira de Internet (ABRANET) para Audiência Pública da Comissão Especial sobre a Inteligência Artificial (PL 2338/2023)
+
+- 08/07/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 110/2025,do Sr. Vinicius Carvalho que requer, em aditamento ao requerimento REQ 104/2025 – CESP (PL 2338/2023), a inclusão de convidados em audiência pública:
+ 1. Roberto Correa de Mello – Diretor Executivo da ABRAMUS - Associação Brasileira de Música e Artes; e
+2. Ronald Bezerra de Menezes Neto – Representante Institucional da ABDA – Associação Brasileira de Direito Autoral.
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.002]
+- 27/05/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 16/2025,do Sr. Gustavo Gayer que requer a realização de audiência pública na Comissão Especial, com o objetivo de debater o tema: “A Visão do Setor Privado sobre a Regulação da Inteligência Artificial no Brasil”, com a participação dos seguintes convidados: 
+ 1. Representante da Confederação da Indústria (CNI);
+ 2. Representante da Confederação das Associações das Empresas Brasileiras De Tecnologia Da Informação (ASSESPRO);
+ 3. Representante da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC);
+ 4. Representante da Confederação da Agricultura e Pecuária do Brasil (CNA);
+ 5. Representante do setor de startups (ex: ABStartups);
+ 6. Representante da Microsoft Brasil, Google Brasil ou IBM Brasil; e
+7. Representante da Brasscom – Associação das Empresas de Tecnologia da Informação e Comunicação e de Tecnologias Digitais.
+
+- 27/05/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 17/2025,do Sr. Gustavo Gayer que requer a realização de audiência pública na Comissão Especial, com o objetivo de debater o tema: “Direitos Autorais e Inteligência Artificial: Desafios para o Marco Legal Brasileiro”, com a participação dos seguintes convidados:
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.002]
+- Inteiro Teor 2983688
+
+- 26/08/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 141/2025,da Sra. Adriana Ventura que requer a realização de seminário externo para discutir impactos da regulação da inteligência artificial sobre o setor agropecuário brasileiro, com ênfase nas oportunidades para inovação tecnológica e nos riscos de entraves regulatórios para a produção nacional - a se realizar na ALESP
+
+- 26/08/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 142/2025,da Sra. Adriana Ventura que requer a realização de seminário externo para discutir os impactos da regulação da inteligência artificial sobre o setor de saúde, com enfoque nos riscos regulatórios e nas oportunidades para inovação médica no Brasil - a se realizar na ALESP.
+
+- 26/08/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.002]
+- 10/06/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 74/2025,do Sr. Vitor Lippi que 
+Requer a inclusão de representante da Associação Brasileira da Indústria de Tecnologia para Saúde (ABIMED) como debatedor na audiência pública para discutir os impactos da regulação da inteligência artificial sobre o setor de saúde, com enfoque nos riscos regulatórios e nas oportunidades para inovação médica no Brasil, no contexto do Projeto de Lei nº 2338/2023 conforme REQ 4/2025 já aprovado nesta Comissão.
+
+- 10/06/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 75/2025,da Sra. Bia Kicis que requer a realização de audiência pública para debater a regulação da Inteligência Artificial na perspectiva da Inovação e Desenvolvimento Técnico, com a participação dos seguintes convidados:
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.002]
+- 17/03/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Recebido o Ofício nº 235/ 2025 do Senado Federal que submete à revisão da Câmara dos Deputados, nos termos do art. 65 da Constituição Federal, o Projeto de Lei n° 2.338, de 2023, de autoria do Senador Rodrigo Pacheco, constante do autógrafo em anexo, que "Dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana".
+- Inteiro Teor 2868285
+
+- 17/03/2025
+- PLEN - Plenário
+- Ação:
+- Apresentação do PL n. 2338/2023 (Projeto de Lei), pelo Senado Federal, que "Dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana".
+- Inteiro Teor 2868197
+
+- 25/03/2025
+- PLEN - Plenário
+- Ação:
+- Apresentação do REQ n. 1085/2025 (Requerimento de Apensação), pelo Deputado Luiz Carlos Hauly (PODE/PR), que "Requer nos termos regimentais, a tramitação conjunta das proposições que dispõe sobre a regulamentação do uso da inteligência artificial, quais sejam os Projetos de Lei nºs 759/2023, 5303/2023, 2775/2024 e PL 2338/2023".
+- Inteiro Teor 2872106
+
+- 04/04/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.002]
+- Ação:
+- Aprovado o requerimento nº 143/2025,da Sra. Adriana Ventura que requer a realização de seminário externo para discutir os impactos da regulação da inteligência artificial sobre o setor educacional, com foco nos riscos e benefícios da personalização do ensino e nas implicações para a formulação de políticas públicas - a se realizar na ALESP
+
+- 26/08/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 144/2025,do Sr. Vitor Lippi que requer a inclusão de representante da Unimed do Brasil (Confederação Nacional das Cooperativas Médicas) como debatedor na audiência pública prevista no REQ 4/2025, já aprovado por esta Comissão, para discutir os impactos da regulação da inteligência artificial sobre o setor de saúde, com enfoque nos riscos regulatórios e nas oportunidades para inovação médica no Brasil.
+
+- 02/09/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Apresentação do REQ n. 145/2025 (Requerimento de Audiência Pública), pela Deputada Adriana Ventura (NOVO/SP), que "Requer a inclusão de representante da AB2L - Associação Brasileira de Lawtechs e Legaltechs - entre os convidados das audiências públicas para discutir os impactos da regulação da inteligência artificial
+".
+- Inteiro Teor 2990368
+
+- 02/09/2025
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.002]
+- Inteiro Teor 2936176
+
+- 18/06/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Apresentação do REQ n. 108/2025 (Requerimento de Audiência Pública), pelo Deputado Helio Lopes (PL/RJ), que "Requer a realização de audiência pública para debater a atuação das empresas Big Tech no contexto da regulamentação da Inteligência Artificial, com a participação de representantes das seguintes empresas: 
+ respectivas plataformas de inteligência artificial:
+ 1. OpenAI – ChatGPT;
+ 2. Microsoft Brasil – Copilot
+ 3. Google Brasil – Gemini
+ 4. Meta Brasil – Meta AI
+5. X (antigo Twitter) – Grok".
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.001]
+- Ação:
+- Aprovado o requerimento nº 157/2025,da Sra. Luisa Canziani que requer a realização de evento externo, em conjunto com a Frente Parlamentar da Agropecuária, para discutir o uso de sistemas de inteligência artificial no agronegócio.
+
+- 02/10/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 158/2025,da Sra. Luisa Canziani que requer a realização de audiência pública conjunta entre a Comissão de Educação e a Comissão Especial sobre Inteligência Artificial (PL nº 2.338/2023).
+
+- 02/10/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 159/2025,da Sra. Adriana Ventura que requer a realização de Seminário Local da Comissão Especial sobre Inteligência Artificial na cidade de São Paulo, em 24 de outubro de 2025, com o objetivo de discutir a regulamentação da IA e os impactos do PL 2338/2023, ouvindo representantes do setor de comércio e serviços.
+
+- 02/10/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.001]
+- Ação:
+- Aprovado o requerimento nº 114/2025,do Sr. Aureo Ribeiro que requer a inclusão de representante do Fórum de Proteção de Dados Pessoais dos Municípios na Audiência Pública destinada a debater o uso de inteligência artificial no serviço público e em infraestruturas críticas.
+
+- 08/07/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 115/2025,do Sr. Julio Lopes que requer a realização de visita técnica à sede da empresa Scala Data Centers, em Barueri/SP.
+
+- 08/07/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 116/2025,da Sra. Luizianne Lins que requer a realização de Audiência Pública para discutir os impactos da Inteligência Artificial na Segurança Pública, com os seguintes convidados:
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.001]
+- 10/06/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 70/2025,do Sr. Julio Lopes que requer a inclusão dos seguintes convidados na Audiência Pública que abordará o tema "Ecossistema e Competitividade Nacional": 1)Mateus Costa-Ribeiro, Fundador da Startup Talisman IA; 2)Representante da Associação Brasileira de Startups (Abstartups); 3) Felipe Matos, especialista em empreendedorismo e inovação; 4) Dan Ioschpe, representante da Mobilização Empresarial pela Inovação (MEI); e 5) Representante da Associação Brasileira de Fundição (ABIFA).
+
+- 10/06/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+- Ação:
+- Aprovado o requerimento nº 71/2025,do Sr. Julio Lopes que requer a inclusão do seguinte convidado na Audiência Pública da Comissão Especial sobre "Proteção dos diretos fundamentais e novas tecnologias": Alisson Alexsandro Possa, doutorando em Direito e Pesquisador no Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa (IDP).
+
+- 10/06/2025
+- PL233823 - Comissão Especial destinada a proferir parecer ao Projeto de Lei nº 2338, de 2023, do Senado Federal, que "dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana"
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.001]
+- EMENDA 52 - PL 2338/2023
+- EMENDA 53 - PL 2338/2023
+- EMENDA 55 - PL 2338/2023
+- EMENDA 50 - PL 2338/2023
+- EMENDA 54 - PL 2338/2023
+- EMENDA 48 - PL 2338/2023
+- EMENDA 56 - PL 2338/2023
+- EMENDA 57 - PL 2338/2023
+- EMENDA 58 - PL 2338/2023
+- EMENDA 49 - PL 2338/2023
+- EMENDA 51 - PL 2338/2023
+- EMENDA 47 - PL 2338/2023
+
+- 18/06/2024
+- SF-COCETI - Coordenação de Comissões Especiais, Temporárias e Parlamentares de Inquérito
+- Ação:
+- Recebido, do Senador Eduardo Gomes, novo relatório pela aprovação do PL nº 2.338, de 2023; pela aprovação das Emendas nº 4, 8, 11, 13, 15, 16, 17, 18, 19, 35, 38, 44, 47, 49, 50 e 52, pela aprovação parcial das Emendas nº 1, 3, 5, 7, 10, 22, 27, 34, 42, 43, 45, 46 e 53; e pela rejeição das demais, na forma da emenda substitutiva apresentada; e pela declaração de prejudicialidade do PL nº 21, de 2020; PL nº 5.051, de 2019; PL nº 5.691, de 2019; PL nº 872, de 2021; PL nº 3.592, de 2023; PL nº 145, de 2024; PL nº 146, de 2024; PL nº 210, de 2024; e PL nº 266, de 2024.
+- Relatório Legislativo
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.001]
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apense-se a este(a) o(a) PL-3783/2025.
+- Inteiro Teor 2984666
+
+- 22/09/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apense-se a este(a) o(a) PL-3967/2025.
+- Inteiro Teor 2988362
+
+- 22/09/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apense-se a este(a) o(a) PL-4358/2025.
+- Inteiro Teor 2992592
+
+- 22/09/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL-2968/2025 à proposição PL-2338/2023.
+
+- 22/09/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL-2983/2025 à proposição PL-2338/2023.
+
+- 22/09/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL-3009/2025 à proposição PL-2338/2023.
+
+- 22/09/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL-3782/2025 à proposição PL-2338/2023.
+
+- 22/09/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL-3783/2025 à proposição PL-2338/2023.
+
+- 22/09/2025
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL-3967/2025 à proposição PL-2338/2023.
+
+- 22/09/2025
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.001]
+- Apensação do PL 6479/2025 a esta proposição.
+
+- 14/05/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 1443/2026 à proposição PL 6336/2025.
+- Inteiro Teor 3113052
+
+- 20/05/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apresentação do REQ n. 2999/2026 (Requerimento de Apensação), pelo Deputado Capitão Alberto Neto (PL/AM), que "Requer o apensamento dos Projetos de Lei 6707/2025, 6706/2025, 7134/2025, 1523/2026, 1542/2026 e 904/2026 ao Projeto de Lei nº 2338/2023".
+- Inteiro Teor 3133058
+
+- 25/05/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 1528/2026 à proposição PL 6326/2025.
+- Inteiro Teor 3115928
+
+- 25/05/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 1523/2026 à proposição PL 4358/2025.
+- Inteiro Teor 3116543
+
+- 17/06/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 904/2026 à proposição PL 4358/2025.
+- Inteiro Teor 3102419
+
+- 17/06/2026
+- MESA - Mesa Diretora da Câmara dos Deputados
+- Ação:
+- Apensação da proposição PL 974/2026 à proposição PL 6036/2025.
+- Inteiro Teor 3102830
+
+- 17/06/2026
+
+---
+
+[referencia=f7d309a1d1b98e5f score=0.001]
+- EMENDA 212 PLEN - PL 2338/2023
+- EMENDA 213 PLEN - PL 2338/2023
+- EMENDA 214 PLEN - PL 2338/2023
+- EMENDA 215 PLEN - PL 2338/2023
+
+- 05/12/2024
+- SF-SLSF - Secretaria Legislativa do Senado Federal
+- Ação:
+- Recebidas as Emendas nºs 216 a 218, do Senador Humberto Costa.
+- EMENDA 216 PLEN - PL 2338/2023
+- EMENDA 217 PLEN - PL 2338/2023
+- EMENDA 218 PLEN - PL 2338/2023
+
+- 05/12/2024
+- SF-SLSF - Secretaria Legislativa do Senado Federal
+- Ação:
+- Recebidas as Emendas nºs 219 a 223, do Senador Mecias de Jesus.
+- EMENDA 219 PLEN - PL 2338/2023
+- EMENDA 220 PLEN - PL 2338/2023
+- EMENDA 221 PLEN - PL 2338/2023
+- EMENDA 222 PLEN - PL 2338/2023
+- EMENDA 223 PLEN - PL 2338/2023
+
+- 05/12/2024
+- SF-SEADI - Secretaria de Atas e Diários
+- Ação:
+- (Sessão Deliberativa Extraordinária – realizada em 05/12/2024) 
+ Encaminhados à publicação e aprovados os REQ nºs 13 e 14/2024-CTIA, de urgência para a matéria.
+Apreciação adiada.
+
+- 05/12/2024
+- SF-SLSF - Secretaria Legislativa do Senado Federal
+- Ação:
+- Recebida a Emenda nº 224, do Senador Esperidião Amin.
+- EMENDA 224 PLEN - PL 2338/2023
+
+- 05/12/2024
+- SF-SLSF - Secretaria Legislativa do Senado Federal
+- Ação:

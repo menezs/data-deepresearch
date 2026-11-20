@@ -1,0 +1,667 @@
+[
+  {
+    "id": "767b21cf3c089818",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.psychiatrictimes.com/view/us-surgeon-general-issues-advisory-on-impact-of-social-media-on-youth-mental-health",
+    "normalized_url": "https://psychiatrictimes.com/view/us-surgeon-general-issues-advisory-on-impact-of-social-media-on-youth-mental-health",
+    "work_key": "https://psychiatrictimes.com/view/us-surgeon-general-issues-advisory-on-impact-of-social-media-on-youth-mental-health",
+    "title": "Psychiatric Times — US Surgeon General Issues Advisory on Impact of Social Media on Youth Mental Health.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:33.946963Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "929536a32356c912",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.gdnonline.com/Details/1242509/Social-media-could-harm-youth-mental-health,-US-Surgeon-General-warns",
+    "normalized_url": "https://gdnonline.com/Details/1242509/Social-media-could-harm-youth-mental-health,-US-Surgeon-General-warns",
+    "work_key": "https://gdnonline.com/Details/1242509/Social-media-could-harm-youth-mental-health,-US-Surgeon-General-warns",
+    "title": "GDN Online (Reuters) — Social media could harm youth mental health, US Surgeon General warns.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:35.450540Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f332a0d7a9fc61b3",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.newswise.com/articles/apa-panel-issues-recommendations-for-adolescent-social-media-use",
+    "normalized_url": "https://newswise.com/articles/apa-panel-issues-recommendations-for-adolescent-social-media-use",
+    "work_key": "https://newswise.com/articles/apa-panel-issues-recommendations-for-adolescent-social-media-use",
+    "title": "Newswise — APA panel issues recommendations for adolescent social media use.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:32.920637Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "72217aa26ffcef33",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.hmpgloballearningnetwork.com/site/pcn/news/apa-recommends-smart-sane-social-media-use-adolescents",
+    "normalized_url": "https://hmpgloballearningnetwork.com/site/pcn/news/apa-recommends-smart-sane-social-media-use-adolescents",
+    "work_key": "https://hmpgloballearningnetwork.com/site/pcn/news/apa-recommends-smart-sane-social-media-use-adolescents",
+    "title": "HMP Global Learning Network — APA Recommends Smart, Sensible Social Media Use for Adolescents.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:34.042150Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a01a9ef18e2cd9a8",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://metatoc.com/papers/118222-review-social-media-use-and-adolescent-mental-health-an-umbrella-review-and-power-analysis",
+    "normalized_url": "https://metatoc.com/papers/118222-review-social-media-use-and-adolescent-mental-health-an-umbrella-review-and-power-analysis",
+    "work_key": "https://metatoc.com/papers/118222-review-social-media-use-and-adolescent-mental-health-an-umbrella-review-and-power-analysis",
+    "title": "Child and Adolescent Mental Health (via MetaTOC) — Social media use and adolescent mental health: an umbrella review and power analysis.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:03:55.155090Z",
+    "error_message": "download excedeu 90s",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "506342bfa40ade3e",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.klingensteincenter.org/klingbrief/under-protecting-qm",
+    "normalized_url": "https://klingensteincenter.org/klingbrief/under-protecting-qm",
+    "work_key": "https://klingensteincenter.org/klingbrief/under-protecting-qm",
+    "title": "Klingenstein Center — Under Protecting? (sobre a resenha de Candice Odgers na Nature).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:34.511332Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "32bc34c48dfdcb06",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://platformer.news/anxious-generation-jonathan-haidt-debate-critique/",
+    "normalized_url": "https://platformer.news/anxious-generation-jonathan-haidt-debate-critique",
+    "work_key": "https://platformer.news/anxious-generation-jonathan-haidt-debate-critique",
+    "title": "Platformer — Inside the debate over The Anxious Generation.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:35.305423Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1c7e3624aa1a23fc",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.simplypsychology.org/news/time-spent-on-social-media-adolescent-mental-health-problems-a-meta-analysis",
+    "normalized_url": "https://simplypsychology.org/news/time-spent-on-social-media-adolescent-mental-health-problems-a-meta-analysis",
+    "work_key": "https://simplypsychology.org/news/time-spent-on-social-media-adolescent-mental-health-problems-a-meta-analysis",
+    "title": "Simply Psychology — Time Spent on Social Media & Adolescent Mental Health Problems: A Meta-Analysis.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:34.891553Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d82164ccbe8086ac",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12421657",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12421657",
+    "work_key": "PMC:PMC12421657",
+    "title": "PubMed Central (SSM – Mental Health, 2025) — artigo sobre experimentos de redução de redes sociais e o debate sobre a meta-análise de Ferguson.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:02:19.421934Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ad78583de4d7edab",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://scholar.usuhs.edu/en/publications/social-media-reduction-or-abstinence-interventions-are-providing-/",
+    "normalized_url": "https://scholar.usuhs.edu/en/publications/social-media-reduction-or-abstinence-interventions-are-providing-",
+    "work_key": "https://scholar.usuhs.edu/en/publications/social-media-reduction-or-abstinence-interventions-are-providing-",
+    "title": "Uniformed Services University — Social Media Reduction or Abstinence Interventions Are Providing Mental Health Benefits: Reanalysis of a Published Meta-Analysis.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:36.609545Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e722e594ea80d366",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.medrxiv.org/content/10.64898/2026.06.01.26354614v1",
+    "normalized_url": "https://medrxiv.org/content/10.64898/2026.06.01.26354614v1",
+    "work_key": "DOI:10.64898/2026.06.01.26354614v1",
+    "title": "medRxiv — Effect of Social Media Constraints on Mental Health: A Systematic Review and Meta-Analysis of Experiments (Lopes et al., 2026, preprint).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:35.891339Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6d8853d0237dd4a0",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.theregister.com/2026/03/19/social_media_bad_for_kids/",
+    "normalized_url": "https://theregister.com/2026/03/19/social_media_bad_for_kids",
+    "work_key": "https://theregister.com/2026/03/19/social_media_bad_for_kids",
+    "title": "The Register — Time to end the 'uncontrolled experiment' of social media on kids, scientists say.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:37.175851Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "01d6617d3d3496b7",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.ox.ac.uk/news/2022-03-28-negative-impact-social-media-affects-girls-and-boys-different-ages-study",
+    "normalized_url": "https://ox.ac.uk/news/2022-03-28-negative-impact-social-media-affects-girls-and-boys-different-ages-study",
+    "work_key": "https://ox.ac.uk/news/2022-03-28-negative-impact-social-media-affects-girls-and-boys-different-ages-study",
+    "title": "University of Oxford — Negative impact of social media affects girls and boys at different ages: study.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:37.800782Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b7c2f6f663009003",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.epocrates.com/online/article/addictive-screen-use-tied-to-suicide-risk-mental-health-issues-in-early",
+    "normalized_url": "https://epocrates.com/online/article/addictive-screen-use-tied-to-suicide-risk-mental-health-issues-in-early",
+    "work_key": "https://epocrates.com/online/article/addictive-screen-use-tied-to-suicide-risk-mental-health-issues-in-early",
+    "title": "Epocrates — Addictive screen use tied to suicide risk, mental health issues in early adolescents.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:02:23.209042Z",
+    "error_message": "barreira de acesso (requires_js_login_region): # Access limited to the U.S. At this time, epocrates is not available outside the U.S. Because we cannot guarantee that ",
+    "barrier_kind": "requires_js_login_region",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f7e3da75ba689246",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://medicaldialogues.in/mdtv/psychiatry/videos/addictive-screen-use-may-be-linked-to-poor-mental-health-in-preteens-study-finds-150383",
+    "normalized_url": "https://medicaldialogues.in/mdtv/psychiatry/videos/addictive-screen-use-may-be-linked-to-poor-mental-health-in-preteens-study-finds-150383",
+    "work_key": "https://medicaldialogues.in/mdtv/psychiatry/videos/addictive-screen-use-may-be-linked-to-poor-mental-health-in-preteens-study-finds-150383",
+    "title": "Medical Dialogues — Addictive Screen Use May Be Linked to Poor Mental Health in Preteens: Study Finds.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:39.144159Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e7b9deebac794928",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.hbsc.org/?p=274696",
+    "normalized_url": "https://hbsc.org?p=274696",
+    "work_key": "https://hbsc.org?p=274696",
+    "title": "HBSC — New WHO/HBSC report sheds light on adolescent digital behaviours across Europe, Central Asia and Canada.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:44.350254Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "170b2b46ef7cea0c",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://goinginternational.eu/en/news/2207",
+    "normalized_url": "https://goinginternational.eu/en/news/2207",
+    "work_key": "https://goinginternational.eu/en/news/2207",
+    "title": "Going International — Teens, screens and mental health (relatório da OMS Europa).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:42.366096Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "fb4454dd80d88980",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.ox.ac.uk/news/2026-03-19-world-happiness-report-2026-shows-complex-global-picture-social-media-and-happiness",
+    "normalized_url": "https://ox.ac.uk/news/2026-03-19-world-happiness-report-2026-shows-complex-global-picture-social-media-and-happiness",
+    "work_key": "https://ox.ac.uk/news/2026-03-19-world-happiness-report-2026-shows-complex-global-picture-social-media-and-happiness",
+    "title": "University of Oxford — World Happiness Report 2026 shows a complex global picture of social media and happiness.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:44.026492Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "73c6372f4aed3d36",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.bostonglobe.com/2026/03/19/world/what-world-happiness-report-reveals-about-social-media-worlds-happiest-country/",
+    "normalized_url": "https://bostonglobe.com/2026/03/19/world/what-world-happiness-report-reveals-about-social-media-worlds-happiest-country",
+    "work_key": "https://bostonglobe.com/2026/03/19/world/what-world-happiness-report-reveals-about-social-media-worlds-happiest-country",
+    "title": "Boston Globe (AP) — What the World Happiness Report reveals about social media and the world's happiest country.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:46.191466Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7b648def418afcc8",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://observatorioglobal.udlap.mx/?p=5980",
+    "normalized_url": "https://observatorioglobal.udlap.mx?p=5980",
+    "work_key": "https://observatorioglobal.udlap.mx?p=5980",
+    "title": "Observatorio Global UDLAP — World Happiness Report 2026: Happiness and Social Media.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:45.468646Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e94f5a1b98d6b83f",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.chconline.org/resourcelibrary/teens-social-media-and-mental-health-downloadable/",
+    "normalized_url": "https://chconline.org/resourcelibrary/teens-social-media-and-mental-health-downloadable",
+    "work_key": "https://chconline.org/resourcelibrary/teens-social-media-and-mental-health-downloadable",
+    "title": "CHC Online — Teens, Social Media and Mental Health (resumo do relatório Pew Research Center 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:02:21.675698Z",
+    "error_message": "barreira de acesso (anti_bot): This website is using a security service to protect itself from online attacks. The action you just performed triggered ",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "85b2144f5e1f46af",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://telehealth.org/news/assessing-social-media-harm-in-teens/",
+    "normalized_url": "https://telehealth.org/news/assessing-social-media-harm-in-teens",
+    "work_key": "https://telehealth.org/news/assessing-social-media-harm-in-teens",
+    "title": "Telehealth.org — Assessing Social Media Harm in Teens.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:02:30.261701Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "2ed91019e5cd7c9c",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.cetic.br/media/docs/publicacoes/2/pt-br/20260317181001/tic_kids_online_2025_resumo_executivo.pdf.pdf",
+    "normalized_url": "https://cetic.br/media/docs/publicacoes/2/pt-br/20260317181001/tic_kids_online_2025_resumo_executivo.pdf.pdf",
+    "work_key": "https://cetic.br/media/docs/publicacoes/2/pt-br/20260317181001/tic_kids_online_2025_resumo_executivo.pdf.pdf",
+    "title": "Cetic.br/NIC.br — Pesquisa TIC Kids Online Brasil 2025: Resumo Executivo.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:49.745342Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "75a0261d913bdb49",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.demarest.com.br/?p=166412",
+    "normalized_url": "https://demarest.com.br?p=166412",
+    "work_key": "https://demarest.com.br?p=166412",
+    "title": "Demarest Advogados — Estatuto Digital da Criança e do Adolescente: Lei nº 15.211/2025.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:48.713699Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6f4ba49516e41643",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.conjur.com.br/?p=867020",
+    "normalized_url": "https://conjur.com.br?p=867020",
+    "work_key": "https://conjur.com.br?p=867020",
+    "title": "Consultor Jurídico — ECA Digital é marco da proteção online de crianças e adolescentes.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:50.731520Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8f2a8d0e2e107cd4",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://confidata.com.br/blog/eca-digital-o-que-muda-empresas",
+    "normalized_url": "https://confidata.com.br/blog/eca-digital-o-que-muda-empresas",
+    "work_key": "https://confidata.com.br/blog/eca-digital-o-que-muda-empresas",
+    "title": "Confidata — ECA Digital: o que muda para empresas e o que fazer agora.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:50.131384Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "351e92a5d56870c1",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://atarde.com.br/brasil/escolas-registram-maior-participacao-dos-alunos-em-1-ano-de-veto-ao-celular-1393684",
+    "normalized_url": "https://atarde.com.br/brasil/escolas-registram-maior-participacao-dos-alunos-em-1-ano-de-veto-ao-celular-1393684",
+    "work_key": "https://atarde.com.br/brasil/escolas-registram-maior-participacao-dos-alunos-em-1-ano-de-veto-ao-celular-1393684",
+    "title": "A Tarde — Escolas registram maior participação dos alunos em 1 ano de veto ao celular.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:50.609847Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "868a817b00c9c52d",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://euronews.com/next/2026/01/15/australia-under-16-social-media-ban-how-is-it-going-one-month-since-law-took-effect",
+    "normalized_url": "https://euronews.com/next/2026/01/15/australia-under-16-social-media-ban-how-is-it-going-one-month-since-law-took-effect",
+    "work_key": "https://euronews.com/next/2026/01/15/australia-under-16-social-media-ban-how-is-it-going-one-month-since-law-took-effect",
+    "title": "Euronews — Australia under-16 social media ban: How is it going one month since law took effect?",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:51.956571Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "384fbb0ee9e997d4",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://www.aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means",
+    "normalized_url": "https://aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means",
+    "work_key": "https://aljazeera.com/news/2026/8/3/australias-under-16-social-media-ban-failing-study-shows-what-it-means",
+    "title": "Al Jazeera — Australia's under-16 social media ban failing, study shows: What it means.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:51.379700Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ae14b8fd77c76408",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.radiox.co.uk/news/uk-world/most-australian-teens-still-on-social-media-d/",
+    "normalized_url": "https://radiox.co.uk/news/uk-world/most-australian-teens-still-on-social-media-d",
+    "work_key": "https://radiox.co.uk/news/uk-world/most-australian-teens-still-on-social-media-d",
+    "title": "Radio X (Sky News) — Most Australian teens still on social media despite landmark ban.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:02:22.831003Z",
+    "error_message": "Referencia nao encontrada (404): https://www.radiox.co.uk/news/uk-world/most-australian-teens-still-on-social-media-d/",
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "620e5542d2af9483",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://abc30.com/amp/post/los-angeles-social-media-addiction-trial-jury-finds-instagram-youtube-liable-landmark-court-case/18771272/",
+    "normalized_url": "https://abc30.com/amp/post/los-angeles-social-media-addiction-trial-jury-finds-instagram-youtube-liable-landmark-court-case/18771272",
+    "work_key": "https://abc30.com/amp/post/los-angeles-social-media-addiction-trial-jury-finds-instagram-youtube-liable-landmark-court-case/18771272",
+    "title": "ABC30 — Jury awards $6 million in damages in landmark social media addiction trial in Los Angeles.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:52.768553Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9eec7d4ee46da440",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.seegerweiss.com/news/jury-finds-meta-and-youtube-liable-in-landmark-california-social-media-addiction-trial/",
+    "normalized_url": "https://seegerweiss.com/news/jury-finds-meta-and-youtube-liable-in-landmark-california-social-media-addiction-trial",
+    "work_key": "https://seegerweiss.com/news/jury-finds-meta-and-youtube-liable-in-landmark-california-social-media-addiction-trial",
+    "title": "Seeger Weiss — Jury Finds Meta and YouTube Liable in Landmark California Social Media Addiction Trial.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:02:26.724178Z",
+    "error_message": null,
+    "barrier_kind": "http_error",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "aa9f824adc4e7460",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www.washingtonexaminer.com/?p=4503360",
+    "normalized_url": "https://washingtonexaminer.com?p=4503360",
+    "work_key": "https://washingtonexaminer.com?p=4503360",
+    "title": "Washington Examiner — Jury finds Meta and YouTube liable in landmark social media addiction case.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:02:26.500360Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c5b98511cc55b35c",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.milbank.org/quarterly/articles/us-state-policies-regarding-social-media-do-policies-match-the-evidence/",
+    "normalized_url": "https://milbank.org/quarterly/articles/us-state-policies-regarding-social-media-do-policies-match-the-evidence",
+    "work_key": "https://milbank.org/quarterly/articles/us-state-policies-regarding-social-media-do-policies-match-the-evidence",
+    "title": "Milbank Quarterly — US State Policies Regarding Social Media: Do Policies Match the Evidence?",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:55.656725Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "1b1dbb5aade8daa1",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC13406646/",
+    "normalized_url": "https://ncbi.nlm.nih.gov/pmc/articles/PMC13406646",
+    "work_key": "PMC:PMC13406646",
+    "title": "Children (MDPI), via PubMed Central — Navigating the Algorithm: A Narrative Review of Social Media's Impact on Mental Health in Clinical and Non-Clinical Adolescent Populations.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-01T20:43:56.807610Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_9804366fa533_20261101T204310Z",
+    "tool_name": "Claude"
+  }
+]

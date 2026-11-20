@@ -1,0 +1,151 @@
+# Vaccination Against HPV and Cervical Cancer
+
+## Biological basis and causal role of HPV
+
+Human papillomaviruses (HPVs) are small double-stranded DNA viruses with tropism for squamous epithelia, and a subset of sexually transmitted mucosal HPV genotypes has a well-established causal role in cervical carcinogenesis.[1] Most genital HPV infections are transient and are controlled by the immune system, but persistent infection with a carcinogenic HPV type is the necessary causal precursor of virtually all cervical cancers.[2] The International Agency for Research on Cancer (IARC) has classified 12 HPV types as carcinogenic to humans in relation to cervical cancer, with HPV16 and HPV18 accounting for the largest share of disease.[3] Current WHO estimates attribute approximately 76%–77% of cervical cancers to HPV16 and HPV18 together.[4]
+
+The causal pathway is biologically coherent as well as epidemiologically established: persistent high-risk HPV infection can evolve from productive infection toward transforming infection, while the viral E6 and E7 oncoproteins disrupt cellular growth-regulatory, cell-cycle, apoptotic, and genome-maintenance pathways.[5] Cervical precancer generally develops years after persistent infection, and progression from infection to invasive cancer commonly occurs over approximately 15–20 years, although progression can be substantially faster in people with severe immune impairment such as untreated HIV infection.[2] Most HPV infections therefore do not become cancer, making persistence of oncogenic HPV rather than simple exposure the critical biological event.[5]
+
+HPV vaccination is prophylactic rather than therapeutic: licensed vaccines generate neutralizing antibodies against viral capsid antigens and prevent establishment of new infections, but they do not eradicate an already established HPV infection or treat cervical intraepithelial neoplasia or cancer.[6] The vaccines use noninfectious virus-like particles composed of HPV structural proteins and contain no viral DNA capable of producing HPV infection.[6] This distinction explains why vaccination has its greatest population effect when given before sexual exposure, while still potentially protecting previously sexually active people against vaccine HPV types they have not yet acquired.[6]
+
+Cervical cancer remains a major global health problem despite being unusually amenable to primary prevention, screening, and treatment of precancer.[2] WHO estimated approximately 604,000 new cervical cancer cases and roughly 280,000 deaths worldwide in 2024, with the highest incidence and mortality concentrated in low- and middle-income countries.[2] IARC similarly emphasizes that roughly 90% of cervical-cancer incidence and mortality occur in low- and middle-income settings, reflecting profound differences in access to vaccination, screening, diagnosis, and treatment.[7] Women living with HIV have approximately six times the cervical-cancer risk of women without HIV, and WHO estimates that about 5% of cervical cancers worldwide are attributable to HIV.[2]
+
+In the United States, SEER estimated 13,490 new cervical-cancer cases and 4,200 deaths for 2026.[8] Cervical cancer is only one part of the domestic HPV-associated cancer burden: CDC data for 2018–2022 identified about 49,908 HPV-associated cancers annually, of which an estimated 39,300 were actually attributable to HPV and approximately 36,400 could have been prevented by the HPV types covered by the nine-valent vaccine.[9] HPV also causes substantial fractions of anal, vaginal, vulvar, penile, and oropharyngeal cancers, which is one reason vaccination is recommended irrespective of sex in the United States.[9]
+
+## Vaccines, efficacy, and cancer prevention
+
+HPV vaccine development has progressed from bivalent vaccines directed principally at HPV16 and HPV18, through quadrivalent vaccines adding HPV6 and HPV11, to nonavalent vaccines that additionally cover HPV31, 33, 45, 52, and 58.[4] As of 2026 WHO reported nine licensed HPV vaccines globally—three bivalent, one trivalent, three quadrivalent, and two nonavalent products—with five WHO-prequalified products available to international programs.[4] All currently licensed HPV vaccines target HPV16 and HPV18, while the nonavalent vaccines expand theoretical cervical-cancer coverage to more than 90% by including five additional oncogenic types.[4] In the United States, Gardasil 9 is the HPV vaccine in current use and targets HPV6, 11, 16, 18, 31, 33, 45, 52, and 58.[6]
+
+Randomized trials originally established very high efficacy against persistent vaccine-type infection and high-grade cervical precancer in HPV-naive recipients, but invasive cervical cancer develops too slowly and too rarely in young trial populations for cancer itself to have been a practical licensing endpoint.[10] The crucial subsequent question was therefore whether prevention of infection and precancer translated into fewer invasive cancers in national programs.[11] It has.
+
+A Swedish nationwide cohort of 1,672,983 girls and women aged 10–30 years found 19 invasive cervical cancers among quadrivalent-vaccine recipients and 538 among unvaccinated women during follow-up through 2017.[11] After multivariable adjustment, vaccination was associated with a 63% lower cervical-cancer incidence overall, while vaccination before age 17 was associated with an adjusted incidence-rate ratio of 0.12, corresponding to an 88% relative reduction.[11] Because this was an observational registry study rather than a randomized cancer-endpoint trial, residual confounding cannot be eliminated, but the strong age gradient is biologically consistent with greater efficacy before HPV exposure.[11]
+
+England provides complementary population evidence from a different vaccine program.[12] In 13.7 million person-years of follow-up, women offered bivalent HPV vaccination at ages 12–13 had an estimated 87% reduction in cervical-cancer incidence and a 97% reduction in grade 3 cervical intraepithelial neoplasia compared with an unvaccinated reference cohort; reductions were smaller when vaccine was offered at older ages.[12] By June 2019, investigators estimated that vaccination had prevented 448 cervical cancers and 17,235 CIN3 cases in England.[12] Later analyses found that the benefits extended across socioeconomic deprivation groups, although underlying cervical-cancer inequalities were not thereby erased.[13]
+
+Scottish linked registry data provide another striking real-world result: among women vaccinated with the bivalent vaccine at age 12 or 13, investigators observed no invasive cervical-cancer cases during the study period, irrespective of the recorded number of doses.[14] Women vaccinated later, at ages 14–22, also had lower incidence when they had received three doses, while cancer incidence remained substantially higher in socioeconomically deprived populations overall.[14] Earlier Scottish screening data had already shown an 89% reduction in CIN3 or worse among routinely vaccinated birth cohorts and evidence of herd protection in unvaccinated women.[15]
+
+Protection also appears durable.[16] Follow-up of quadrivalent-vaccine trial participants in four Nordic countries found no HPV16/18-related high-grade cervical dysplasia in the per-protocol effectiveness population over more than 24,000 person-years, with protection demonstrated for at least 12 years and no evidence of waning through approximately 14 years of observation.[16] An 11-year follow-up of the randomized Costa Rica Vaccine Trial likewise demonstrated sustained efficacy of the bivalent vaccine against HPV16/18-associated cervical precancer.[17] These data do not prove lifelong protection, but they have not established a need for routine booster doses after a correctly completed series.[16]
+
+## Safety and benefit–risk assessment
+
+HPV vaccines have one of the largest post-licensure safety evidence bases of any adolescent vaccine, including passive surveillance, active surveillance, linkage studies, national registries, and large observational cohorts.[18] CDC states that evidence from more than 160 studies supports a favorable safety profile, and more than 135 million HPV-vaccine doses have been distributed in the United States.[18] The most common adverse effects are transient injection-site pain, redness or swelling, headache, fatigue, nausea, fever, dizziness, and syncope.[18] Syncope is particularly relevant in adolescents after injections generally, which is why CDC recommends vaccination while seated or lying down followed by approximately 15 minutes of observation.[18]
+
+Anaphylaxis can occur after HPV vaccination, as it can after other vaccines, but it is rare; CDC cites an approximate reported rate of three episodes per million vaccine doses for vaccination generally in this context.[19] A history of a severe allergic reaction to a previous HPV-vaccine dose or a relevant vaccine component is a contraindication to further administration.[18]
+
+Claims that HPV vaccination causes chronic autoimmune, neurologic, thromboembolic, autonomic, or fertility disorders have been examined repeatedly without evidence supporting a causal association at a population level.[18] A register-based Danish-Swedish cohort including nearly one million girls and about 700,000 quadrivalent-vaccine doses found no evidence supporting associations with autoimmune, neurologic, or venous thromboembolic adverse events after prespecified signal evaluation.[20] WHO's Global Advisory Committee on Vaccine Safety reported again in 2026 that review of large, high-quality studies had identified no new HPV-vaccine safety concerns while emphasizing the continued importance of adverse-event surveillance as new products and programs expand.[21]
+
+HPV vaccination is not routinely recommended during pregnancy as a precaution, and remaining doses are deferred until pregnancy has ended, but inadvertent administration during pregnancy is not considered an indication for intervention or pregnancy termination.[22] Pregnancy testing before vaccination is not required under CDC guidance.[22] Breastfeeding is not considered a contraindication under WHO guidance.[23]
+
+## Schedules and eligibility: WHO versus CDC
+
+WHO and CDC recommendations differ because they are designed for different policy environments and should not be treated as interchangeable schedules.[24] WHO's global policy prioritizes cervical-cancer elimination, programmatic feasibility, vaccine supply, and maximization of population coverage, whereas CDC guidance governs routine clinical vaccination in the United States.[24]
+
+Under WHO's 2022 position paper, girls aged 9–14 could receive either one or two doses, girls and women aged 15–20 could receive one or two doses, and women older than 21 were recommended to receive two doses approximately six months apart.[25] WHO identified girls aged 9–14 as the primary vaccination target because vaccination before HPV exposure produces the greatest preventive benefit.[25] WHO also recommended that immunocompromised people, including people living with HIV, receive at least two doses and, where feasible, three doses.[25]
+
+An important policy development occurred at the October 5–8, 2026 meeting of WHO's Strategic Advisory Group of Experts on Immunization.[26] After reviewing new dose-optimization evidence, SAGE strengthened its preference for a single-dose schedule for girls aged 9–14 and concluded that single-dose vaccination could be used through age 30, while an updated formal WHO position paper is expected in 2027.[26] Consequently, the October 2026 SAGE advice represents newer expert guidance than the still-published December 2022 WHO position paper, and national programs may require time to revise schedules and regulatory or procurement arrangements.[26]
+
+CDC guidance in force in the United States remains different.[27] Routine HPV vaccination is recommended at age 11–12, vaccination may begin at age 9, and catch-up vaccination is recommended for everyone who is not adequately vaccinated through age 26.[27] For people starting before their 15th birthday, CDC recommends two doses separated by 6–12 months, with a minimum interval of five months; if two doses are given less than five months apart, a third dose is required.[27] People beginning at age 15 or later receive a three-dose series at 0, 1–2, and 6 months.[27] Immunocompromised people, including those with HIV, should receive three doses even if they begin between ages 9 and 14.[27]
+
+For adults aged 27–45, CDC does not recommend universal catch-up vaccination; instead, vaccination may be offered through shared clinical decision-making to selected people who were not adequately vaccinated previously.[27] The expected average benefit is smaller in this age range because previous HPV exposure becomes increasingly common, although a person may remain susceptible to vaccine types not previously acquired.[27] A new sexual partner at any age creates an opportunity for new HPV acquisition, whereas people in long-term mutually monogamous relationships are less likely to acquire a new HPV infection.[27]
+
+## Screening after vaccination and the case for combined prevention
+
+Vaccination does not eliminate the need for cervical screening because no currently licensed vaccine protects against every carcinogenic HPV type and because many adults were vaccinated after exposure, incompletely vaccinated, or never vaccinated.[6] NCI therefore advises vaccinated people with a cervix to continue screening according to applicable cervical-screening recommendations.[6] Vaccination and high-quality screening are complementary interventions: vaccination prevents most vaccine-type infections before they arise, whereas screening detects persistent high-risk HPV infection or precancer that can be treated before invasion.[2]
+
+The final 2018 U.S. Preventive Services Task Force recommendation, which remained the posted final USPSTF recommendation while an update was in progress, explicitly applies regardless of HPV-vaccination status.[28] It recommends cytology every three years from ages 21–29 and, from ages 30–65, either cytology every three years, primary high-risk HPV testing every five years, or cotesting every five years for average-risk individuals with a cervix.[28] These intervals do not apply straightforwardly to people with prior high-grade cervical precancer, cervical cancer, significant immunocompromise, or certain other high-risk conditions, who require individualized surveillance.[28]
+
+WHO uses a global public-health framework rather than the U.S. screening schedule.[2] WHO recommends high-performance cervical screening beginning at age 30 for the general population and at age 25 for women living with HIV, with shorter intervals for those living with HIV.[2] Its elimination strategy calls for at least two high-performance screens by ages 35 and 45 and emphasizes that vaccinated women still require screening.[2]
+
+The long-term success of vaccination could eventually justify less intensive screening in cohorts vaccinated before sexual exposure, but changing screening intervals requires evidence about residual lifetime risk, vaccine durability, vaccine-type replacement or cross-protection, screening-test performance, and the actual vaccination history of populations.[6] Until guidelines formally change, reducing screening solely because an individual was vaccinated would run ahead of current U.S. and WHO recommendations.[6]
+
+## Equity, elimination, hesitancy, and emerging evidence
+
+WHO defines cervical-cancer elimination as an age-standardized incidence of no more than four cases per 100,000 women-years and established the 90–70–90 targets for 2030: 90% of girls fully vaccinated against HPV by age 15, 70% of women screened with a high-performance test by ages 35 and 45, and 90% of women with precancer or invasive cancer receiving appropriate treatment.[29] Comparative modeling suggests that achieving these targets in low- and lower-middle-income countries could avert tens of millions of cervical-cancer cases and deaths over the coming century, although modeled outcomes depend on assumptions about coverage, efficacy, demography, screening, treatment, and future incidence.[29]
+
+The vaccination component remains far from its global target.[30] WHO and UNICEF estimated that only 33% of girls in the relevant global program target received a first HPV-vaccine dose in 2025 and 31% received the final scheduled dose, despite vaccine introduction in 162 countries by the end of that year.[30] Approximately 43.6 million girls eligible for HPV vaccination in 2025 remained unvaccinated, including girls in countries without national HPV programs and girls missed by programs that had already introduced the vaccine.[31] These gaps are particularly consequential because the countries with the weakest vaccination, screening, and treatment infrastructure often carry the greatest cervical-cancer burden.[2]
+
+U.S. coverage is higher but remains incomplete and geographically unequal.[32] In the 2025 National Immunization Survey–Teen, 77.7% of adolescents aged 13–17 had received at least one HPV-vaccine dose and 63.4% were up to date, with no increase for the fourth consecutive year.[32] Coverage with at least one HPV dose was 12 percentage points lower among adolescents in mostly rural areas than among those in mostly urban areas, and HPV coverage continued to lag behind Tdap and meningococcal vaccination.[32] These patterns suggest that implementation problems—including access, missed opportunities, local policy differences, and vaccine confidence—matter alongside biomedical efficacy.[32]
+
+Provider communication is one modifiable factor.[33] In a cluster-randomized trial involving 30 North Carolina primary-care clinics, training clinicians to use a brief presumptive “announcement” style of HPV-vaccine recommendation increased initiation among 11- and 12-year-olds by 5.4 percentage points relative to control clinics over six months, whereas training in open-ended conversational recommendations did not significantly improve initiation.[33] CDC consequently promotes recommending HPV vaccination on the same day and in the same routine manner as other adolescent vaccines while directly answering parental questions about cancer prevention and safety.[34] Starting routinely at age 9 may also create additional vaccination opportunities: a national observational analysis found that adolescents initiating at ages 9–10 were substantially more likely than those initiating at 11–12 to have completed the series by ages 13 and 15, although the nonrandomized design cannot prove that earlier initiation itself caused the difference.[35]
+
+The most consequential emerging scientific issue is whether one dose can provide sufficiently durable protection for broad use.[36] In the randomized KEN SHE trial involving 2,275 Kenyan women aged 15–20, one dose of either bivalent or nonavalent vaccine produced 97.5%–98.8% efficacy against persistent HPV16/18 infection through three years; one-dose nonavalent vaccine had 95.5% efficacy against persistent infection with its seven oncogenic vaccine types collectively.[36] A prospective Indian cohort followed for roughly a decade found approximately 95% effectiveness of a single quadrivalent dose against persistent HPV16/18 infection, similar to the observed protection in two- and three-dose recipients.[37] These findings, alongside immunobridging data in younger adolescents, underpin WHO's move toward single-dose schedules.[26]
+
+Important uncertainties nevertheless remain.[36] The randomized single-dose evidence directly measures persistent infection rather than lifetime cervical-cancer incidence, follow-up remains much shorter than the several decades over which cancer risk unfolds, and evidence is thinner in immunocompromised populations.[36] Observational single-dose cohorts can provide longer follow-up but may contain differences between dose groups that randomization does not protect against, as illustrated by the Indian study's conversion from a randomized dosing trial into a prospective cohort after vaccination was suspended.[37] These limitations explain why WHO supports dose optimization for population programs while CDC, as of November 2026, still uses two- and three-dose schedules in the United States.[26]
+
+Taken together, the evidence now goes well beyond surrogate endpoints: HPV vaccination prevents persistent oncogenic infection, sharply reduces high-grade cervical precancer, and is associated with very large reductions in invasive cervical cancer when administered before exposure.[11] Its safety profile is supported by extensive randomized, registry, and post-marketing evidence, while the major unresolved public-health problem is achieving timely and equitable coverage rather than establishing whether vaccination works.[18] Cervical-cancer elimination is therefore technically plausible, but it requires vaccination to operate together with high-performance screening and reliable treatment, particularly in populations currently least able to access all three.[29]
+
+## References
+
+1. IARC. *The human papillomavirus family and its role in carcinogenesis.* https://www.iarc.who.int/reference/the-human-papillomavirus-family-and-its-role-in-carcinogenesis/
+
+2. World Health Organization. *Cervical cancer.* https://www.who.int/news-room/fact-sheets/detail/cervical-cancer
+
+3. IARC. *Are 20 human papillomavirus types causing cervical cancer?* https://www.iarc.who.int/reference/are-20-human-papillomavirus-types-causing-cervical-cancer/
+
+4. World Health Organization. *Human papillomavirus vaccines (HPV): Immunization, Vaccines and Biologicals.* https://www.who.int/teams/immunization-vaccines-and-biologicals/diseases/human-papillomavirus-vaccines-%28HPV%29
+
+5. IARC. *Carcinogenic human papillomavirus infection.* https://www.iarc.who.int/reference/carcinogenic-human-papillomavirus-infection
+
+6. National Cancer Institute. *Human Papillomavirus (HPV) Vaccine.* https://www.cancer.gov/about-cancer/causes-prevention/risk/infectious-agents/hpv-vaccine-fact-sheet
+
+7. IARC. *Cervical cancer.* https://www.iarc.who.int/cancer-type/cervical-cancer
+
+8. National Cancer Institute, SEER. *Cervical Cancer — Cancer Stat Facts.* https://seer.cancer.gov/statfacts/html/cervix.html
+
+9. Centers for Disease Control and Prevention. *Cancers Associated with Human Papillomavirus.* https://www.cdc.gov/united-states-cancer-statistics/publications/hpv-associated-cancers.html
+
+10. Ault KA et al. *Effect of prophylactic human papillomavirus L1 virus-like-particle vaccine on risk of cervical intraepithelial neoplasia grade 2, grade 3, and adenocarcinoma in situ: a combined analysis of four randomised clinical trials.* https://www.iarc.who.int/reference/effect-of-prophylactic-human-papillomavirus-l1-virus-like-particle-vaccine-on-risk-of-cervical-intraepithelial-neoplasia-grade-2-grade-3-and-adenocarcinoma-in-situ-a-combined-analysis-of-four-rando/
+
+11. Lei J et al. *HPV Vaccination and the Risk of Invasive Cervical Cancer.* New England Journal of Medicine. https://www.nejm.org/doi/full/10.1056/NEJMoa1917338
+
+12. Falcaro M et al. *The effects of the national HPV vaccination programme in England, UK, on cervical cancer and grade 3 cervical intraepithelial neoplasia incidence: a register-based observational study.* The Lancet. https://pubmed.ncbi.nlm.nih.gov/34741816/
+
+13. Falcaro M et al. *Effect of the HPV vaccination programme on incidence of cervical cancer and grade 3 cervical intraepithelial neoplasia by socioeconomic deprivation in England: population based observational study.* BMJ. https://pubmed.ncbi.nlm.nih.gov/38749552/
+
+14. Palmer TJ et al. *Invasive cervical cancer incidence following bivalent human papillomavirus vaccination: a population-based observational study of age at immunization, dose, and deprivation.* Journal of the National Cancer Institute. https://academic.oup.com/jnci/article/116/6/857/7577291
+
+15. Palmer T et al. *Prevalence of cervical disease at age 20 after immunisation with bivalent HPV vaccine at age 12–13 in Scotland: retrospective population study.* BMJ. https://www.bmj.com/content/365/bmj.l1161
+
+16. Kjaer SK et al. *Final analysis of a 14-year long-term follow-up study of the effectiveness and immunogenicity of the quadrivalent human papillomavirus vaccine in women from four Nordic countries.* https://pmc.ncbi.nlm.nih.gov/articles/PMC7329692/
+
+17. Kreimer AR et al. *Efficacy of the bivalent HPV vaccine against HPV-16/18-associated precancer: long-term follow-up results from the Costa Rica HPV Vaccine Trial.* The Lancet Oncology. https://pmc.ncbi.nlm.nih.gov/articles/PMC8724969/
+
+18. Centers for Disease Control and Prevention. *Human Papillomavirus (HPV) Vaccine Safety.* https://www.cdc.gov/vaccine-safety/vaccines/hpv.html
+
+19. Centers for Disease Control and Prevention. *HPV Vaccine Safety and Effectiveness Data.* https://www.cdc.gov/hpv/hcp/vaccination-considerations/safety-and-effectiveness-data.html
+
+20. Arnheim-Dahlström L et al. *Autoimmune, neurological, and venous thromboembolic adverse events after immunisation of adolescent girls with quadrivalent human papillomavirus vaccine in Denmark and Sweden: cohort study.* BMJ. https://www.bmj.com/content/347/bmj.f5906
+
+21. World Health Organization. *Weekly Epidemiological Record: Human papillomavirus vaccine – safety update.* https://www.who.int/publications/journals/weekly-epidemiological-record/wer101-34
+
+22. Centers for Disease Control and Prevention. *Adult Immunization Schedule Notes: Human papillomavirus vaccination.* https://www.cdc.gov/vaccines/hcp/imz-schedules/adult-notes.html
+
+23. World Health Organization. *WHO recommendations for routine immunization: Human Papillomavirus (HPV).* https://cdn.who.int/media/docs/default-source/immunization/immunization_schedules/immunization-summary-table-2.pdf
+
+24. Centers for Disease Control and Prevention. *HPV Vaccine Recommendations.* https://www.cdc.gov/hpv/hcp/vaccination-considerations/index.html
+
+25. World Health Organization. *Human papillomavirus vaccines: WHO position paper, December 2022.* https://www.who.int/publications-detail-redirect/who-wer9750-645-672
+
+26. World Health Organization. *Message by the Director of the Department of Immunization, Vaccines and Biologicals at WHO — October 2026.* https://www.who.int/americansamoa/news/detail-global/29-10-2026-message-by-the-director-of-the-department-of-immunization--vaccines-and-biologicals-at-who---october-2026
+
+27. Centers for Disease Control and Prevention. *Child Immunization Schedule Notes: Human papillomavirus vaccination.* https://www.cdc.gov/vaccines/hcp/imz-schedules/child-adolescent-notes.html
+
+28. U.S. Preventive Services Task Force. *Cervical Cancer: Screening.* https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/cervical-cancer-screening
+
+29. World Health Organization. *Global strategy to accelerate the elimination of cervical cancer as a public health problem.* https://www.who.int/Publications/i/item/9789240014107
+
+30. World Health Organization. *Immunization coverage.* https://www.who.int/news-room/fact-sheets/detail/immunization-coverage
+
+31. World Health Organization. *WUENIC 2025: HPV immunization coverage progress and challenges.* https://cdn.who.int/media/docs/default-source/immunization/wuenic/wuenic-progress-and-challenges.pdf
+
+32. Pingali C et al. *Vaccination Coverage Among Adolescents Aged 13–17 Years — National Immunization Survey-Teen, United States, 2025.* MMWR. https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a1.htm
+
+33. Brewer NT et al. *Announcements Versus Conversations to Improve HPV Vaccination Coverage: A Randomized Trial.* Pediatrics. https://publications.aap.org/pediatrics/article/139/1/e20161764/51685/Announcements-Versus-Conversations-to-Improve-HPV
+
+34. Centers for Disease Control and Prevention. *Talking with Parents about HPV Vaccination.* https://www.cdc.gov/hpv/hcp/vaccination-considerations/talking-with-parents.html
+
+35. Bednarczyk RA et al. *Early Initiation of HPV Vaccination and Series Completion in Early and Mid-Adolescence.* Pediatrics. https://publications.aap.org/pediatrics/article/151/3/e2022058794/190722/Early-Initiation-of-HPV-Vaccination-and-Series
+
+36. Barnabas RV et al. *Durability of single-dose HPV vaccination in young Kenyan women: randomized controlled trial 3-year results.* Nature Medicine. https://www.nature.com/articles/s41591-023-02658-0
+
+37. Basu P et al. *Vaccine efficacy against persistent human papillomavirus (HPV) 16/18 infection at 10 years after one, two, and three doses of quadrivalent HPV vaccine in girls in India: a multicentre, prospective, cohort study.* The Lancet Oncology. https://pubmed.ncbi.nlm.nih.gov/34634254/

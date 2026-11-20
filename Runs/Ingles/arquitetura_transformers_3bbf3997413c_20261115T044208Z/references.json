@@ -1,0 +1,363 @@
+[
+  {
+    "id": "a7468c6851652691",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1706.03762",
+    "normalized_url": "https://arxiv.org/abs/1706.03762",
+    "work_key": "ARXIV:1706.03762",
+    "title": "1. Ashish Vaswani et al., **“Attention Is All You Need.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:42:43.191198Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a3e86ad05f37e40d",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+    "normalized_url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+    "work_key": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+    "title": "2. Alec Radford et al., **“Improving Language Understanding by Generative Pre-Training.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:42:40.394281Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "32f3c7d144f036a0",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1810.04805",
+    "normalized_url": "https://arxiv.org/abs/1810.04805",
+    "work_key": "ARXIV:1810.04805",
+    "title": "3. Jacob Devlin et al., **“BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:42:45.482081Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "dd0416935c1f8d1f",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.jmlr.org/papers/v21/20-074.html",
+    "normalized_url": "https://jmlr.org/papers/v21/20-074.html",
+    "work_key": "https://jmlr.org/papers/v21/20-074.html",
+    "title": "4. Colin Raffel et al., **“Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:42:30.617144Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2cab3ea10b8b7ae2",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2005.14165",
+    "normalized_url": "https://arxiv.org/abs/2005.14165",
+    "work_key": "ARXIV:2005.14165",
+    "title": "5. Tom B. Brown et al., **“Language Models are Few-Shot Learners.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:39.811575Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1098fc60be7ca2b0",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2203.02155",
+    "normalized_url": "https://arxiv.org/abs/2203.02155",
+    "work_key": "ARXIV:2203.02155",
+    "title": "6. Long Ouyang et al., **“Training Language Models to Follow Instructions with Human Feedback.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:33.405527Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5727fed78bddc701",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2205.14135",
+    "normalized_url": "https://arxiv.org/abs/2205.14135",
+    "work_key": "ARXIV:2205.14135",
+    "title": "7. Tri Dao et al., **“FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:13.982888Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "83213326f5835ccc",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2104.09864",
+    "normalized_url": "https://arxiv.org/abs/2104.09864",
+    "work_key": "ARXIV:2104.09864",
+    "title": "8. Jianlin Su et al., **“RoFormer: Enhanced Transformer with Rotary Position Embedding.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:42:56.591370Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3972039dbf3f7ee7",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2302.13971",
+    "normalized_url": "https://arxiv.org/abs/2302.13971",
+    "work_key": "ARXIV:2302.13971",
+    "title": "9. Hugo Touvron et al., **“LLaMA: Open and Efficient Foundation Language Models.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:20.793140Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a2690ed31e8cc7e9",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1508.07909",
+    "normalized_url": "https://arxiv.org/abs/1508.07909",
+    "work_key": "ARXIV:1508.07909",
+    "title": "10. Rico Sennrich, Barry Haddow, and Alexandra Birch, **“Neural Machine Translation of Rare Words with Subword Units.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:24.522783Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "50d4fd98520a4e3b",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://aclanthology.org/D18-2012/",
+    "normalized_url": "https://aclanthology.org/D18-2012",
+    "work_key": "https://aclanthology.org/D18-2012",
+    "title": "11. Taku Kudo and John Richardson, **“SentencePiece: A Simple and Language Independent Subword Tokenizer and Detokenizer for Neural Text Processing.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:21.727417Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "85f66a6419d173a7",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2001.08361",
+    "normalized_url": "https://arxiv.org/abs/2001.08361",
+    "work_key": "ARXIV:2001.08361",
+    "title": "12. Jared Kaplan et al., **“Scaling Laws for Neural Language Models.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:47.789678Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "46fd66187ec3e6ae",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2203.15556",
+    "normalized_url": "https://arxiv.org/abs/2203.15556",
+    "work_key": "ARXIV:2203.15556",
+    "title": "13. Jordan Hoffmann et al., **“Training Compute-Optimal Large Language Models.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:53.023387Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5e9c4b0d7e28a9c7",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1911.02150",
+    "normalized_url": "https://arxiv.org/abs/1911.02150",
+    "work_key": "ARXIV:1911.02150",
+    "title": "14. Noam Shazeer, **“Fast Transformer Decoding: One Write-Head is All You Need.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:41.467276Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a114e852aac1b2cb",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2305.13245",
+    "normalized_url": "https://arxiv.org/abs/2305.13245",
+    "work_key": "ARXIV:2305.13245",
+    "title": "15. Joshua Ainslie et al., **“GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:45.428194Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "fd3d857f4120158d",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://proceedings.mlr.press/v202/leviathan23a.html",
+    "normalized_url": "https://proceedings.mlr.press/v202/leviathan23a.html",
+    "work_key": "https://proceedings.mlr.press/v202/leviathan23a.html",
+    "title": "16. Yaniv Leviathan, Matan Kalman, and Yossi Matias, **“Fast Inference from Transformers via Speculative Decoding.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:41.830474Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "546b28dbd4726cdc",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.jmlr.org/papers/v23/21-0998.html",
+    "normalized_url": "https://jmlr.org/papers/v23/21-0998.html",
+    "work_key": "https://jmlr.org/papers/v23/21-0998.html",
+    "title": "17. William Fedus, Barret Zoph, and Noam Shazeer, **“Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:42.303904Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6a4bad7787419973",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://aclanthology.org/2022.acl-long.229/",
+    "normalized_url": "https://aclanthology.org/2022.acl-long.229",
+    "work_key": "https://aclanthology.org/2022.acl-long.229",
+    "title": "18. Stephanie Lin, Jacob Hilton, and Owain Evans, **“TruthfulQA: Measuring How Models Mimic Human Falsehoods.”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T04:43:43.366763Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "5d21dc0cbc3014c2",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://doi.org/10.1145/3442188.3445922",
+    "normalized_url": "https://doi.org/10.1145/3442188.3445922",
+    "work_key": "DOI:10.1145/3442188.3445922",
+    "title": "19. Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, and Shmargaret Shmitchell, **“On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?”**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T03:03:08.624819Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "arquitetura_transformers_3bbf3997413c_20261115T044208Z",
+    "tool_name": "ChatGPT"
+  }
+]

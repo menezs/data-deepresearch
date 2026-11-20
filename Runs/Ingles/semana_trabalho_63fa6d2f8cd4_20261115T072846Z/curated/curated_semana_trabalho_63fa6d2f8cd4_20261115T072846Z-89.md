@@ -1,0 +1,195 @@
+[referencia=51ae2b54e60da70b score=0.282]
+## Abstract
+
+Time spent on the job is a fundamental aspect of working conditions that influences many facets of individuals’ lives. Here we study how an organization-wide 4-day workweek intervention—with no reduction in pay—affects workers’ well-being. Organizations undergo pre-trial work reorganization to improve efficiency and collaboration, followed by a 6-month trial. Analysis of pre- and post-trial data from 2,896 employees across 141 organizations in Australia, Canada, Ireland, New Zealand, the UK and the USA shows improvements in burnout, job satisfaction, mental health and physical health—a pattern not observed in 12 control companies. Both company-level and individual-level reductions in hours are correlated with well-being gains, with larger individual-level (but not company-level) reductions associated with greater improvements in well-being. Three key factors mediate the relationship: improved self-reported work ability, reduced sleep problems and decreased fatigue. The results indicate that income-preserving 4-day workweeks are an effective organizational intervention for enhancing workers’ well-being.
+
+This is a preview of subscription content, access via your institution
+
+## Access options
+
+Access Nature and 54 other Nature Portfolio journals
+
+Get Nature+, our best-value online-access subscription
+
+Subscribe to this journal
+
+Receive 12 digital issues and online access to articles
+
+Buy this article
+
+- Purchase on SpringerLink
+- Instant access to the full article PDF.
+
+USD 39.95
+
+Prices may be subject to local taxes which are calculated during checkout
+
+### Similar content being viewed by others
+
+## Data availability
+
+The data that support the findings of this study are currently not publicly available due to privacy considerations. Many of the participating organisations are identifiable through public announcements about their 4-day workweek trials, which increases the risk of identification. Researchers interested in working with these datasets should contact the corresponding authors directly (W.F. and J.B.S.). As outlined in the data management plans of the grant proposals that supported this research, we will make the data publicly available by 2027, after carefully reviewing and managing the data to determine which variables can be shared, and the data will be held in the Inter-university Consortium for Political and Social Research (ICPSR).
+
+## Code availability
+
+Analysis scripts are available via OSF at https://osf.io/kqwhz.
+
+---
+
+[referencia=51ae2b54e60da70b score=0.122]
+45. Moen, P. & Chu, Y. Time work in the office and shop: workers’ strategic adaptations to the 4-day week. *Work Occup.***51** , 607–633 (2024).
+46. Persson, O., Larsson, J. & Nässén, J. Working less by choice: what are the benefits and hardships?. *Sustain. Sci. Pract. Policy***18** , 81–96 (2022).
+47. Schiller, H. et al. The impact of reduced worktime on sleep and perceived stress—a group randomized intervention study using diary data. *Scand. J. Work Environ. Health***43** , 109–116 (2017).
+48. Schiller, H. et al. Total workload and recovery in relation to worktime reduction: a randomised controlled intervention study with time-use data. *Occup. Environ. Med.***75** , 218–226 (2018).
+49. Mullens, F. & Laurijssen, I. An organizational working time reduction and its impact on three domains of mental well-being of employees: a panel study. *BMC Public Health***24** , 1727–1740 (2024).
+50. Voglino, G. et al. How the reduction of working hours could influence health outcomes: a systematic review of published studies. *BMJ Open***12** , e051131 (2022).
+51. Cho, S.-S., Ju, Y., Paek, D., Kim, H. & Jung-Choi, K. The combined effect of long working hours and low job control on self-rated health. *J. Occup. Environ. Med.***60** , 475–480 (2017).
+52. Kato, R., Haruyama, Y., Endo, M., Tsutsumi, A. & Muto, T. Heavy overtime work and depressive disorder among male workers. *Occup. Med.***64** , 622–628 (2014).**8** .
+53. Kristensen, T. S., Borritz, M., Villadsen, E. & Christensen, K. B. The Copenhagen Burnout Inventory: a new tool for the assessment of burnout. *Work Stress***19** , 192–207 (2005).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.052]
+37. Sharif, M. A., Mogilner, C. & Hershfield, H. E. Having too little or too much time is linked to lower subjective well-being. *J. Pers. Soc. Psychol.***121** , 933–947 (2021).
+38. Fox, K. E. et al. Organisational- and group-level workplace interventions and their effect on multiple domains of worker well-being: a systematic review. *Work Stress***36** , 30–59 (2022).
+39. Kelly, E. et al. Getting there from here: research on the effects of work-family initiatives on work-family conflict and business outcomes. *Acad. Manag. Ann.***2** , 305–349 (2008).
+40. Kelly, E. L. et al. Changing work and work–family conflict: evidence from the work, family, and health network. *Am. Sociol. Rev.***79** , 485–516 (2014).
+41. Moen, P. et al. Does a flexibility/support organizational initiative improve high-tech employees’ well-being? Evidence from the work, family, and health network. *Am. Sociol. Rev.***81** , 134–164 (2016).
+42. Barck-Holst, P., Nilsonne, Å., Åkerstedt, T. & Hellgren, C. Reduced working hours and stress in the Swedish social services: a longitudinal study. *Int. Soc. Work***60** , 897–913 (2017).
+43. Haraldsson, G. D. & Kellam, J. *Going Public; Icelands Journey to a Shorter Working Week* (Autonomy, 2021); https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf
+44. Kamerāde, D., Wang, S., Burchell, B., Balderson, S. U. & Coutts, A. A shorter working week for everyone: how much paid work is needed for mental health and well-being? *Soc. Sci. Med.***241** , 112353 (2019).
+45. Moen, P. & Chu, Y. Time work in the office and shop: workers’ strategic adaptations to the 4-day week. *Work Occup.***51** , 607–633 (2024).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.045]
+28. Hulshof, C. T. et al. The effect of occupational exposure to ergonomic risk factors on osteoarthritis of hip or knee and selected other musculoskeletal diseases: a systematic review and meta-analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury. *Environ. Int.***150** , 106349 (2021).
+29. Kleiner, S., Schunck, R. & Schömann, K. Different contexts, different effects? Work time and mental health in the United States and Germany. *J. Health Soc. Behav.***56** , 98–113 (2015).
+30. Watanabe, K., Imamura, K. & Kawakami, N. Working hours and the onset of depressive disorder: a systematic review and meta-analysis. *Occup. Environ. Med.***73** , 877–884 (2016).
+31. Virtanen, M. et al. Long working hours and depressive symptoms: systematic review and meta-analysis of published studies and unpublished individual participant data. *Scand. J. Work Environ. Health***44** , 239–250 (2018).
+32. Fan, W. et al. Constrained choices? Linking employees’ and spouses’ work time to health behaviors. *Soc. Sci. Med.***126** , 99–109 (2015).
+33. Nomaguchi, K. M. & Bianchi, S. M. Exercise time: gender differences in the effects of marriage, parenthood, and employment. *J. Marriage Fam.***66** , 413–430 (2004).
+34. Berniell, I. & Bietenbeck, J. The effect of working hours on health. *Econ. Hum. Biol.***39** , 100901 (2020).
+35. Lepinteur, A. The shorter workweek and worker wellbeing: evidence from Portugal and France. *Labour Econ.***58** , 204–220 (2019).
+36. Hamermesh, D. S., Kawaguchi, D. & Lee, J. Does labor legislation benefit workers? Well-being after an hours reduction. *J. Jpn Int. Econ.***44** , 1–12 (2017).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.017]
+## About this article
+
+### Cite this article
+
+Fan, W., Schor, J.B., Kelly, O. *et al.* Work time reduction via a 4-day workweek finds improvements in workers’ well-being.
+                    *Nat Hum Behav* **9**, 2153–2168 (2025). https://doi.org/10.1038/s41562-025-02259-6
+
+- Received:
+- Accepted:
+- Published:
+- Version of record:
+- Issue date:
+- DOI: https://doi.org/10.1038/s41562-025-02259-6
+
+---
+
+[referencia=51ae2b54e60da70b score=0.015]
+19. Marmot, M. Social determinants of health inequalities. *Lancet***365** , 1099–1104 (2005).
+20. Schieman, S., Glavin, P. & Milkie, M. A. When work interferes with life: work–nonwork interference and the influence of work-related demands and resources. *Am. Sociol. Rev.***74** , 966–988 (2009).
+21. Siegrist, J. Adverse health effects of high-effort/low-reward conditions. *J. Occup. Health Psychol.***1** , 27–41 (1996).
+22. Sonnentag, S. & Zijlstra, F. Job characteristics and off-job activities as predictors of need for recovery, well-being, and fatigue. *J. Appl. Psychol.***91** , 330–350 (2006).**2** .
+23. Bakker, A. B. & Demerouti, E. The job demands–resources model: state of the art. *J. Manag. Psychol.***22** , 309–328 (2007).
+24. Bakker, A. B. & Demerouti, E. Job demands–resources theory: taking stock and looking forward. *J. Occup. Health Psychol.***22** , 273–285 (2017).
+25. Kivimäki, M. & Kawachi, I. Work stress as a risk factor for cardiovascular disease. *Curr. Cardiol. Rep.***17** , 630–639 (2015).
+26. Pega, F. et al. Global, regional, and national burdens of ischemic heart disease and stroke attributable to exposure to long working hours for 194 countries, 2000–2016: a systematic analysis from the WHO/ILO Joint Estimates of the Work-related Burden of Disease and Injury. *Environ. Int.***154** , 106595 (2021).
+27. Ervasti, J. et al. Long working hours and risk of 50 health conditions and mortality outcomes: a multicohort study in four European countries. *Lancet Reg. Health Eur.***11** , 100212 (2021).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.010]
+10. Benach, J. et al. Precarious employment: understanding an emerging social determinant of health. *Annu. Rev. Public Health***35** , 229–253 (2014).
+11. Berkman, L. F., Kawachi, I. & Theorell, T. in *Social Epidemiology* (eds. Berkman, L. F., Kawachi, I. & Glymour, M. M.) 153–181 (Oxford Univ. Press, 2014); https://doi.org/10.1093/med/9780195377903.003.0005
+12. Folkard, S. & Lombardi, D. A. Modeling the impact of the components of long work hours on injuries and “accidents”. *Am. J. Ind. Med.***49** , 953–963 (2006).
+13. Giurge, L. M., Whillans, A. V. & West, C. Why time poverty matters for individuals, organisations and nations. *Nat. Hum. Behav.***4** , 993–1003 (2020).
+14. Kalleberg, A. L. *Precarious Lives: Job Insecurity and Well-Being in Rich Democracies* (Polity Press, 2018).
+15. Karasek, R. A. Job Demands, job decision latitude, and mental strain: implications for job redesign. *Adm. Sci. Q.***24** , 285–308 (1979).
+16. Kelly, E. L. & Moen, P. *Overload: How Good Jobs Went Bad and What We Can Do about It* (Princeton Univ. Press, 2021); https://doi.org/10.1515/9780691230801
+17. Link, B. G. & Phelan, J. Social conditions as fundamental causes of disease. *J. Health Soc. Behav* . https://doi.org/10.2307/2626958 (1995).
+18. Marmot, M. G. et al. Health inequalities among British civil servants: the Whitehall II study. *Lancet***337** , 1387–1393 (1991).
+19. Marmot, M. Social determinants of health inequalities. *Lancet***365** , 1099–1104 (2005).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.006]
+54. Idler, E. L. & Benyamini, Y. Self-rated health and mortality: a review of twenty-seven community studies. *J. Health Soc. Behav.***38** , 21–37 (1997).
+55. Pituch, K. A. & Stapleton, L. M. Distinguishing between cross- and cluster-level mediation processes in the cluster randomized trial. *Sociol. Methods Res.***41** , 630–670 (2012).
+56. Rudolph, C. W., Katz, I. M., Lavigne, K. N. & Zacher, H. Job crafting: a meta-analysis of relationships with individual differences, job characteristics, and work outcomes. *J. Vocat. Behav.***102** , 112–138 (2017).
+57. Demerouti, E. & Peeters, M. C. W. Transmission of reduction‐oriented crafting among colleagues: a diary study on the moderating role of working conditions. *J. Occup. Organ. Psychol.***91** , 209–234 (2018).
+58. Demerouti, E., Soyer, L. M. A., Vakola, M. & Xanthopoulou, D. The effects of a job crafting intervention on the success of an organizational change effort in a blue‐collar work environment. *J. Occup. Organ. Psychol.***94** , 374–399 (2021).
+59. Johnson, J. V. & Hall, E. M. Job strain, work place social support, and cardiovascular disease: a cross-sectional study of a random sample of the Swedish working population. *Am. J. Public Health***78** , 1336–1342 (1988).
+60. Kelly, E., Moen, P. & Tranby, E. Changing workplaces to reduce work–family conflict. *Am. Sociol. Rev.***76** , 265–290 (2011).
+61. Baumeister, R. F. & Leary, M. R. The need to belong: desire for interpersonal attachments as a fundamental human motivation. *Psychol. Bull.***117** , 497–529 (1995).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.004]
+## Acknowledgements
+
+This research was supported by the US National Science Foundation (grant no. 2241840), the Russell Sage Foundation (grant no. 2205-38631) and Boston College Ignite Grant, all awarded to J.B.S. and W.F. The Irish trial was supported by Forsa trade union. The funders had no role in the study design, data collection and analysis, decision to publish or preparation of the manuscript. We thank T. Bezdenezhnykh, N. Bridson Hubbard, P. Moen, A. Campbell and Y. Chu, as well as our NGO partners C. Lockhart and A. Barnes, J. O’Connor, A. Soojung-Kim Pang, D. Whelehan, W. Stronge, K. Lewis and all the members of the 4 Day Week Global, Four Day Week Campaign UK and Autonomy teams.
+
+## Ethics declarations
+
+### Competing interests
+
+The authors declare no competing interests. We are independent researchers invited by 4DWG to collect and analyse data. We have no financial or legal connections or agreements with 4DWG. 4DWG has no influence over the design, results or outputs of our research.
+
+## Peer review
+
+### Peer review information
+
+*Nature Human Behaviour* thanks Anthony Lepinteur, Kaitlin Woolley and the other, anonymous, reviewer(s) for their contribution to the peer review of this work. Peer reviewer reports are available.
+
+## Additional information
+
+**Publisher’s note** Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+## Supplementary information
+
+### Supplementary Tables (download XLSX )
+
+Results from supplementary analyses.
+
+## Rights and permissions
+
+Springer Nature or its licensor (e.g. a society or other partner) holds exclusive rights to this article under a publishing agreement with the author(s) or other rightsholder(s); author self-archiving of the accepted manuscript version of this article is solely governed by the terms of such publishing agreement and applicable law.
+
+---
+
+[referencia=51ae2b54e60da70b score=0.002]
+1. *Amid Spiking Burnout, Workplace Flexibility Fuels Company Culture and Productivity Winter Snapshot* (Future Forum, 2023); https://futureforum.com/wp-content/uploads/2023/02/Future-Forum-Pulse-Report-Winter-2022-2023.pdf (2023).
+2. *State of the Global Workplace Report* (Gallup, 2023); https://www.gallup.com/workplace/349484/state-of-the-global-workplace.aspx
+3. *ManpowerGroup Talent Shortage Study* (Manpower Group, 2023); https://go.manpowergroup.com/talent-shortage
+4. Organization for Economic Co-operation and Development. *Other Labor Market Measures: Job Vacancies: Total: Unfilled Vacancies (Stock) for United States* (FRED, Federal Reserve Bank of St. Louis, 2023); https://fred.stlouisfed.org/series/LMJVTTUVUSM647S
+5. Penn, R. & Nezamis, E. *Job Openings and Quits Reach Record Highs in 2021, Layoffs and Discharges Fall to Record Lows* (US Bureau of Labor Statistics, 2022); https://www.bls.gov/opub/mlr/2022/article/job-openings-and-quits-reach-record-highs-in-2021.htm
+6. Barrero, J. M., Bloom, N. & Davis, S. J. The evolution of work from home. *J. Econ. Perspect.***37** , 23–49 (2023).
+7. Fan, W. & Moen, P. Working more, less or the same during COVID-19? A mixed method, intersectional analysis of remote workers. *Work Occup.***49** , 143–186 (2022).
+8. Fan, W. & Moen, P. Remote/hybrid work in flux: work-place/preference mismatch and adaptations. *Soc. Forces* https://doi.org/10.1093/sf/soaf035 (2025).
+9. Bakker, A. B., Demerouti, E. & Sanz-Vergel, A. Job demands–resources theory: ten years later. *Annu. Rev. Organ. Psychol. Organ. Behav.***10** , 25–53 (2023).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.002]
+62. Zhang, T., Ham, J. & Ren, X. Why exercise at work: development of the office exercise behavior determinants scale. *Int. J. Environ. Res. Public. Health***18** , 2736–2754 (2021).
+63. Hernan, M. A. & Robins, J. M. *Causal Inference: What If* (Taylor and Francis, 2023).
+64. Wooldridge, J. M. *Introductory Econometrics: A Modern Approach* (Cengage, 2025).
+65. Kohler, U., Karlson, K. B. & Holm, A. Comparing coefficients of nested nonlinear probability models. *Stata J.***11** , 420–438 (2011).
+66. Cohen, J. *Statistical Power Analysis for the Behavioral Sciences* (L. Erlbaum Associates, Hillsdale, 1988).
+67. Perlow, L. A. & Kelly, E. L. Toward a model of work redesign for better work and better life. *Work Occup.***41** , 111–134 (2014).
+68. Williams, J. *Unbending Gender: Why Family and Work Conflict and What to Do about It* . (Oxford Univ. Press, 2001).
+69. Gould, R., Ilmarinen, J., Järvisalo, J. & Koskinen, S. *Dimensions of Work Ability: Results of the Health 2000 Survey* (Finnish Centre for Pensions, The Social Insurance Institution, National Public Health Institute, Finnish Institute of Occuptional Health, Helsinki, Finland, 2008).
+70. Thomas, L. T. & Ganster, D. C. Impact of family-supportive work variables on work-family conflict and strain: a control perspective. *J. Appl. Psychol.***80** , 6–15 (1995).
+71. Chen, B. et al. Basic psychological need satisfaction, need frustration, and need strength across four cultures. *Motiv. Emot.***39** , 216–236 (2015).
+
+---
+
+[referencia=51ae2b54e60da70b score=0.001]
+## References

@@ -1,0 +1,232 @@
+[referencia=512ff5286e172b98 score=0.909]
+- <u>V503-002: A phase 3 lot consistency and immunogenicity non-inferiority study</u> comparing vaccine type antibody GMTs in 9 through 15-year-old boys and girls to those in the clinical efficacy reference populations (women ages 16 through 26 years) after 3 doses of 9vHPV. Non-inferiority, defined as GMT ratio (9-15 years:16-26 years) with LB of the 95%CI > 0.67 for each HPV-type, was demonstrated in the 9 through 15-year-old cohort. 
+
+- <u>V503-005: A phase 3 immunogenicity vaccine interaction study evaluating the</u> immune response to 3 doses of 9vHPV in 11 through 15-year-old boys and girls with and without concomitant administration of other vaccines recommended in this age group (MENACTRA and ADACEL) with the first dose of 9vHPV. Immune responses to any of the 3 vaccines were not affected by concomitant administration of MENACTRA and ADACEL. 
+
+- <u>V503-006: A phase 3 placebo-controlled study comparing vaccine type HPV</u> antibody GMTs and seroconversion rates, by type, in 12 through 26-year-old women who were previously vaccinated with qHPV versus those who were HPV vaccine naïve. Seroconversion rates were similar for all 9 vaccine HPV types in both cohorts, however antibody GMTs for novel vaccine HPV types (31/33/45/52/58) were lower in women who had previously received qHPV. 
+
+- <u>V503-007: A phase 3 immunogenicity comparison study of antibody GMTs to</u> 
+
+- vaccine HPV types in 11 through 15-year-old boys and girls who concomitantly received REPEVAX (recombinant Diphtheria, Tetanus, acellular Pertussis and Poliomyelitis vaccine used internationally) with the first dose of 9vHPV versus those who did not. Immune responses to either vaccine were not impacted by concomitant REPEVAX administration.
+
+---
+
+[referencia=512ff5286e172b98 score=0.875]
+- <u>V503-009: A phase 3, international (not under IND), qHPV-controlled, non-</u> inferiority immunogenicity study of 9 through 15-year-old girls, comparing HPV type 16/18 antibody GMT responses following 3 doses of HPV vaccine. Noninferiority was demonstrated if the LB of the 95%CI for GMT ratio (9vHPV: qHPV) was > 0.67 for HPV 16 and 18. Non-inferiority of antibody responses were demonstrated for both high-risk HPV types. 
+
+- <u>V503-010: A phase 3 non-inferiority immunogenicity study of two versus three</u> dose regimen of 9vHPV, comparing 9vHPV type (6/11/16/18/31/33/45/52/58) antibody GMTs in 9 through 14 year old boys and girls (receiving both 2 doses, at Day 0 and Month 6 or Day 0 and Month 12) versus 16 through 26 year old women (3 dose only) at 4 weeks after the final vaccine dose. Non-inferiority of HPV-type GMT ratios were met for all comparisons (two dose 9-14 girls Day 0 and Month 6: three dose 16-26 women; two dose 9-14 boys Day 0 and Month 6: three dose 16-26 women; two dose 9-14 boys and girls Day 0 and Month 12: three dose 16-26 women) if the LB of the 95%CI was > 0.67. There was also another comparator group of 9 through 14-year-old boys and girls that received the three-dose regimen. Non-inferiority was demonstrated for all 9 vaccine HPV types in all comparisons; the LB of the 95% CI was > 1.0 in all cases.
+
+---
+
+[referencia=512ff5286e172b98 score=0.790]
+Additional safety data regarding the use of 9vHPV in men 16 through 26 years of age was obtained as a part of study V503-003 (described above) and analyzed separately. The vaccine was found to be generally well tolerated in both study cohorts, with mild to moderate injection site reactions being the most commonly reported vaccine related adverse event (N=896, 64.2% men/ N=865, 80.5% women), followed by Nervous System Disorders (N=119, 8.5% men /N=161, 15.0% women), primarily headaches (N=102, 7.3% men / N=138, 12.8% women), general systemic events (fatigue, malaise, pyrexia) (N=71, 5.1% men/ N=78, 7.3% women) and Gastrointestinal Disorders (N=28, 2.0% men/ N=53, 4.9% women). 
+
+Study V503-004 was a post-marketing, open-label, phase 3, tolerability and immunogenicity study of the standard regimen of 9vHPV to demonstrate non-inferiority of antibody responses in women 27 through 45 years of age compared to the reference population (16 through 26 years). This study enrolled 1,210 women, 640 subjects ages 27 through 45 and 570 subjects ages 16 through 26. This study was recently completed, and the final study report was submitted as a separate efficacy supplement on 31 October 2019 (STN 125508 <mark>/</mark> (b) (4)), which was under review at this time of this submission. A preliminary review of the study synopsis indicates that antibody responses to the HPV types contained in 9vHPV were non-inferior in women 27 through 45 years of age compared to the reference population. The vaccine appears to be relatively well tolerated in mid-adult women, with similar rates of injection site and systemic reactions, the majority of which were mild-to moderate in severity, in both age 
+
+cohorts, 15 SAEs in 14 subjects (1.1%), none of which were considered vaccine related by the study investigators and no deaths during the study. 
+
+2.4.3 Post-Licensure Safety of 9vHPV
+
+---
+
+[referencia=512ff5286e172b98 score=0.790]
+|**Clinical**<br>**Benefit**|•<br>qHPV and 9vHPV have been previously demonstrated to be effective in preventing vaccine type cervical<br>persistent infection, HPV 6/11 related genital warts and HPV 16/18/31/33/45/52/58-related dysplasia (CIN,<br>VIN, VaIN, AIS) and cervical, vulvar and vaginal cancers in women 16 through 26 years of ageqHPV has<br>previously been demonstrated to be effective in preventing HPV 6/11/16/18 extra-genital and intra-anal<br>persistent infection, HPV 6/11 genital warts, AIN and cancer in men 16 through 26 years of age.<br>•<br>Immunogenicity studies support non-inferior immune responses to qHPV and 9vHPV in children 9 through 15<br>years of age, from which effectiveness in this population is inferred.<br>•<br>Efficacy in women 27 through 45 years of age was demonstrated against a primary composite endpoint<br>(persistent infection, genital warts and cervical dysplasia) in previous qHPV studies.<br>•<br>Long term effectiveness against high grade cervical dysplasia and genital cancers in women 27 through 45<br>years of age was also confirmed in previous qHPV studies.<br>•<br>Immunobridging  studies support the effectiveness of qHPV in men 27 through 45 years of age<br>•<br>Immunobridging studies support the effectiveness of 9vHPV in men 16 through 26 years of age.<br>•<br>Effectiveness of protection against AIN and anal cancer caused by HPV 16/18 in women and anal disease<br>caused by the additional 5 HPV types in 9vHPV in men and women were inferred on the basis of biological<br>plausibility of similar mechanisms of protection at multiple mucosal sites.<br>•<br>Efficacy and effectives studies performed outside of the qHPV and 9vHPV suggest decreased prevalence of<br>vaccine type oral HPV infection in vaccinatedpopulations.|
+
+---
+
+[referencia=512ff5286e172b98 score=0.722]
+- Extension studies V501-020-010 and V501-019-021 demonstrated long term (>10 years) immunogenicity and effectiveness of qHPV in decreasing the incidence of HPV 6/11/16/18-related external genital lesions in men and CIN, VIN, VaIN, warts and persistent infection in women due newly acquired HPV-types. 
+
+There was a single pivotal efficacy study conducted for licensure of GARDASIL 9 (“9vHPV”), Study V503-001, which demonstrated vaccine efficacy of the 9vHPV (in comparison to qHPV) of 96.7% (95% CI 80.9, 99.8) against CIN, VIN, VaIN, warts and persistent infection due to the 5 novel HPV types contained in 9vHPV (types 31, 33, 45, 52 and 58) in over 14,000 women ages 16 through 26 years. 
+
+Vaccine efficacy in boys and girls ages 9 through 15 years (both for qHPV and 9vHPV), men 16 through 26 years (9vHPV only) and men ages 27 through 45 years (qHPV only) was inferred from immunogenicity data that demonstrated non-inferior anti-vaccine type (6/11/16/18/31/33/45/52/58) HPV antibody responses in these populations. The Applicant also conducted immunogenicity studies to confirm non-inferior HPV-type 6/11/16/18 antibody responses in women 16 through 26 to after vaccination with 9vHPV compared with qHPV.
+
+---
+
+[referencia=512ff5286e172b98 score=0.682]
+|<br>**Study ID**|<br>**V503-001**|<br>**V503-002**|**V503-003**|**V503-009**|
+|---|---|---|---|---|
+|STN Number|125508/0|125508/0|125508/013447|125508/0 (not<br>under IND)|
+|NCT Number|NCT00543543|NCT00943722|NCT01651949|NCT01304498|
+|Study Phase|2b/3|3|3|3|
+|Study Design|Randomized,<br>double-blind,<br>qHPV-controlled<br>dose-ranging and<br>efficacy study|Randomized, open-<br>label lot<br>consistency and<br>immunogenicity<br>study|Open-label, non-<br>inferiority<br>immunogenicity<br>study|qHPV controlled,<br>non-inferiority<br>immunogenicity<br>study|
+|Study Centers|105 international<br>sites|70 international<br>sites|76 international<br>sites|24 European sites|
+|Participants<br>Enrolled<br>(r_eceived study_<br>_vaccine_)|14,840 (_8020)_|2999|2520|600|
+|Age Range<br>(years)|16 through 26|9 through 26|16 through 26|9 through 15|
+|Demographics|Females only|63.0% 9-15 year-<br>old girls; 21.5% 9-<br>15 year-old boys;<br>15.5% 16-26 year-<br>old women<br>(comparator group)|56% male<br>(N=1106 HM, 313<br>MSM); 44%<br>female (N=1101)|Females only|
+
+---
+
+[referencia=512ff5286e172b98 score=0.674]
+## 1.1.2 9vHPV Clinical Development Program Demographic Information 
+
+The key immunogenicity studies supporting licensure of 9vHPV (STN 125508/0) enrolled three different study populations. In these studies (V503-001, -002, -005, -007, and -009) there were 7,264 women ages 16 through 26 years (mean 22 years), 2,764 girls ages 9 through 15 years (mean 12 years) and 1,218 boys ages 9 through 15 years (mean 12 years). Overall, subjects were mostly White (N= 6,418, 57.0%) and of nonHispanic/Latino ethnicity (N= 7,588, 67.4%); 4.65% (N= 523) were Black, 15.4% (N= 1732) were Asian and 22.9% (N= 2573) identified as “Other” race. The ethnic and racial composition was similar among the study populations. 
+
+Study V503-003, a phase 3, open label, non-inferiority immunobridging study of 9vHPV, enrolled 1,000 healthy heterosexual men (HM) 16 through 26 years of age. This study also enrolled a sub-population of 300 men who have sex with men (MSM). In both study populations (HM and MSM), the majority of subjects were White (N= 701, 63.4% HM, N= 178, 56.9% MSM) and roughly one-third were of Hispanic/Latino ethnicity (N= 314, 28.4% HM, N= 98, 31.3% MSM). Most men in the study had never smoked cigarettes or other tobacco products (N= 815, 73.7% HM, N= 203, 64.9% MSM).
+
+---
+
+[referencia=512ff5286e172b98 score=0.673]
+## **<u>Table 3: Incidence of HPV 6/11/16/18 CIN (any grade) in Subjects With and Without</u> -** **<u>Evidence of Previous or Prevalent HPV Infection in Long Term Follow Up Study (V501-019-021)</u>** 
+
+|**HPV Status**|**# Cases**|**Total # Subjects**|**Incidence (per 1000-person years)**|
+|---|---|---|---|
+|PCR-/Serology –<br>(HNRT<sup>a</sup>)|2|2328|0.067|
+|<br>PCR-/Serology +|0|337|0.0|
+|<br>PCR +/Serology–|3|274|0.918|
+|<br>PCR +/Serology +|13|220|4.917|
+
+
+
+aHNRT= HPV-Naïve to the Relevant Type group; subjects had to have received at least 1 dose of qHPV, had any follow-up visit in the long-term follow-up study and were PCR negative and seronegative for the appropriate HPV type prior to vaccination 
+
+Adapted from Tables 11-8, 11-9, 14.2-17 and 14.2-18 in CSR for V501-015-021 in STN 125126/3335.0 
+
+As a secondary endpoint, the number of cases of CIN2+ due to non-vaccine HPV types was also assessed. There were 47 cases of non-vaccine type CIN2+, resulting in an incidence of 0.2 per 100 person-years. This is well below the incidence of any CIN2+, regardless of vaccine type, of 5.22 per 1000 person-years, which was observed in the unvaccinated population in the base study (V501-015) and other studies in the initial clinical development plan (V501-013), supporting that there is no type replacement phenomenon. 
+
+Immunobridging studies were performed to demonstrate efficacy of qHPV in girls ages 9 through 15 years due to infeasibility of conducting the invasive genital examinations required to conduct efficacy studies in children.
+
+---
+
+[referencia=512ff5286e172b98 score=0.575]
+In the 10-year long-term follow-up, extension study of V501-019 (V501-019-021), the incidence of CIN2+ due to HPV 16/18 in women 27 through 45 years of age decreased over time in subjects who received qHPV. Few cases were reported (2 cases out of 851 subjects from years 4-8 post vaccination and 1 case out of 551 subjects from year 6 to 10 of vaccination) from the group of women who were initially vaccinated (the early vaccination group or EVG), all from the FAS population. Only 2 cases of non-vaccine type CIN2+ were diagnosed in the catch-up vaccine group after 4 years postvaccination. These data suggest that if there is a vaccine-type replacement phenomenon, that it is short lived and that the limited efficacy demonstrated in the parent study in mid-adult women did not bear out over the decade following vaccination; however, this cannot be stated conclusively as CIN2+ incidence for a placebo-controlled group was not assessed. 
+
+A cross-study immunobridging analysis (V501-108) was conducted in men 27 through 45 years of age to infer effectiveness in this population, which demonstrated similar antiHPV 6/11/16/18 antibody GMTs in this age group compared to 16 through 26-year-old men in the primary efficacy study (V501-020). 
+
+Data from both the long-term follow-up study in women 27 through 45 years of age (V501-019-021) and the immunobridging study in men 27 through 45 years of age were submitted as part of an sBLA to support the expansion of indication for the nonavalent HPV vaccine GARDASIL 9 (9vHPV). This sBLA (STN 125508/493) and the expansion of indication to include the prevention of vaccine-type HPV related disease in 27 through 45-year-old men and women was approved in October 2018.
+
+---
+
+[referencia=512ff5286e172b98 score=0.537]
+Immunobridging studies were performed to demonstrate efficacy of qHPV in girls ages 9 through 15 years due to infeasibility of conducting the invasive genital examinations required to conduct efficacy studies in children. 
+
+**_Reviewer Comment: While the data from these studies continue to suggest that there is lack of effectiveness against CIN2 in women with prevalent vaccine type infection prior to vaccination, it is worth highlighting the overall decrease in incidence in CIN2+ in previously and concurrently HPV-infected women who received the HPV vaccine compared to the unvaccinated population. To address these concerns,  the current package inserts for GARDASIL/GARDASIL 9 contain language in the “Limitations of Use and Effectiveness” stating that qHPV/9vHPV have not been demonstrated to provide protection against disease from vaccine HPV types to which a person has previously been exposed through sexual activity and that these vaccines are not for treatment of external genital lesions, cervical, vulvar, vaginal and anal cancers._** 
+
+2.4.1.2 Clinical Data Supporting the Expansion of qHPV Indication to Include Prevention of External Genital Lesions and Anal Cancer in Men and Boys 9 through 26 years of age 
+
+The indication for vaccination was expanded to include males 9 through 26 years of age, initially for the prevention of external genital lesions due to HPV types 6 and 11, in September 2009 (STN 125126/1297). As with girls ages 9 through 15, data from immunogenicity studies were used to infer efficacy in boys ages 9 through 15 due to the infeasibility of anogenital exams in this population. 
+
+In Study V501-020, a randomized, double-blind, placebo-controlled trial of over 4,000 men ages 16 through 26, qHPV was demonstrated to be 90.6% (95% CI 70.1, 98.2) effective in preventing external genital lesions due to HPV 6/11/16/18 in the per-protocol population, as well as 85.5% (95% CI 77.0, 91.3) effective in preventing external genital persistent infection with HPV 6/11/16/18. A placebo controlled sub-study within V501-
+
+---
+
+[referencia=512ff5286e172b98 score=0.507]
+- <u>Study V503-003: A phase 3, open label, tolerability and immunogenicity non-</u> inferiority study of the standard three dose regimen of 9vHPV, enrolled ~2,200 healthy men (N=1,106) and women (N=1,101) 16 through 26 years of age. This study also enrolled a sub-population of 300 men who have sex with men (MSM) in the same age range. GMTs of antibodies to vaccine type HPV (6/11/16/18/31/33/45/52/58) at Month 7 (4 weeks after the third dose of 9vHPV) were compared between the male and female cohorts and non-inferiority criteria were met if a lower bound (LB) for the 95% CI of the GMT ratio (Male: Female) was above 0.67. Antibody GMTs for all vaccine HPV types were higher in men than women, with an LB of 95% CI for the GMT ratio > 1.0 in all cases, satisfying non-inferiority criteria.
+
+---
+
+[referencia=512ff5286e172b98 score=0.405]
+020, which included ~600 men who have sex with men (MSM), later demonstrated efficacy of qHPV against anal intraepithelial neoplasia (AIN) and anal cancer, with a vaccine efficacy of 77.5% (95% CI 39.6, 93.9), for any HPV 6/11/16/18-related AIN. Efficacy (VE= 94.9%, 95%CI 80.4, 99.4) was also demonstrated against intra-anal persistent infection due to HPV 6/11/16/18. Data from this study, in combination with immunogenicity data, were also used to infer similar protection against AIN and anal cancer in women 16 through 26 years of age through the principles of biological plausibility of a similar pathogenic process and immune response at all mucosal sites of infection. The addition of the indication for prevention of AIN and anal cancers due to HPV 6/11/16/18 in males and females 9 through 26 years of age was approved in February 2010 (125126/1895). Long term vaccine effectiveness in decreasing the incidence of AIN and anal cancer was also demonstrated in men 16 through 26 years of age in an extension study (V501-020-021) of this cohort (STN 125126/3320). Vaccine efficacy and effectiveness in this population has been demonstrated to persist for ≥ 10 years. 
+
+As was noted in the initial qHPV studies in women, vaccine efficacy against HPV 6/11related genital warts, as well as HPV 6/11/16/18- related AIN and anal cancer in MSM, was decreased or absent in men who were PCR or Serology + for vaccine HPV-types at baseline, including in the PPE population, further supporting that there the HPV vaccine does not have any therapeutic efficacy. No reverse case split was noted in this study population. 
+
+2.4.1.3 Clinical Data Supporting the Expansion of qHPV Indication to Include Women and Men 27 through 45 Years of Age
+
+---
+
+[referencia=512ff5286e172b98 score=0.291]
+## 4.6 Pharmacovigilance 
+
+The Applicant did not propose any changes to the pre-existing pharmacovigilance plan (PVP) as a result of this BLA efficacy supplement. The Applicant currently receives routine surveillance reports for adverse events following vaccination with GARDASIL 9 through their global safety database (the Merck Adverse Event Reporting and Review System). 
+
+Two post-marketing safety studies for 9vHPV are currently active and have been enrolling patients since December 2014: 
+
+- <u>V502-002-20: a 10-year extension study of V503-002 to evaluate the long-term</u> safety, immunogenicity and effectiveness of 9vHPV in boys and girls between 9 and 15 years of age at enrollment. Anticipated study completion date: September 30, 2022 
+
+- <u>V503-001-021-00: a 10-year extension study of V503-001 being conducted in a</u> subset of subjects in Denmark, Norway and Sweden to evaluate the long-term safety, immunogenicity and effectiveness of 9vHPV in women 9 through 26 years of age at enrollment; interim safety and effectiveness analyses will be conducted every 2 years until completion in December 2026. 
+
+Additionally, a pregnancy registry was established in January 2015 and will continue to prospectively collect GARDASIL9 exposure and birth outcome information until at least August 2020, at which time a 5-year summary report will be submitted to determine whether the registry can be discontinued at that time. The final report will be submitted 18 months after enrollment of the last patient. Following the approval of sBLA 125508/493 in October 2018 (expansion of indication to include men and women up to 45 years of age), this registry was extended for an additional period of time to capture potential safety events in mid-adult women who may be inadvertently exposed to GARDASIL 9 during pregnancy. As of 9 December 2019, 158 women have been enrolled in the pregnancy registry. 
+
+**_Reviewer Comment: Due to technical issues with the registry website, patients were unable to enroll between 1 October 2019 and 7 November 2019._**
+
+---
+
+[referencia=512ff5286e172b98 score=0.283]
+This trial also evaluated the immune response to 9vHPV compared to qHPV for the HPV-types contained in both vaccines (6/11/16/18) for non-inferiority. The antibody GMT ratio (9vHPV: qHPV), per HPV type, was considered non-inferior if the LB of the 95% CI was > 0.67 at Month 7. This non-inferiority criterion was satisfied for all four vaccine HPV types, with 9vHPV: qHPV antibody GMT ratios of 1.02 (95% CI 0.99, 1.06), 0.80 (0.77, 0.83), 0.99 (0.96, 1.03), 1.19 (1.14, 1.23) for HPV-types 6, 11, 16 and 18, respectively, in the Per Protocol Immunogenicity population. Similarly, there was no difference in rates of seroconversion by vaccine HPV-type between qHPV and 9vHPV cohorts. 
+
+Vaccine efficacy for protection against persistent infection of the cervix, vulva or vagina (both ≥ 6 months and ≥ 12 months) with HPV-types 31/33/45/52/58 was evaluated as a secondary endpoint. Success was demonstrated if the LB of the 95% CI for vaccine efficacy was > 25% for 6-month persistent infection and > 0% for 12-month persistent 
+
+infection. Success was met for all 5 new HPV types, with vaccine efficacy ranging between 95.0-98.8% (95% CI LB all ≥ 90.0%) for 6-month persistent infection and 95.9100% (95% CI LB all ≥ 85.4%) for 12-month persistent infection in the per protocol analysis. Vaccine efficacy and immunogenicity findings were demonstrated to be consistent in all study populations after subgroup analyses of age, race, ethnicity, geographic location and hormonal contraception use status.
+
+---
+
+[referencia=512ff5286e172b98 score=0.274]
+In addition to references to previous trials conducted during the GARDASIL and GARDASIL 9 clinical development programs, the Applicant cited lines of evidence from the scientific literature supporting vaccine effectiveness against oral HPV infection in vaccinated adolescents and young adults. Persistent oral infection (> 6 months) with oncogenic HPV types has already been scientifically established as an intermediate endpoint for prevention of HPV related cancers, including those of the head and neck.  A randomized, placebo-controlled clinical trial, conducted in mid-adult, HIV-infected men, found the efficacy of qHPV to be 88% (95% CI 2, 98) against persistent oral HPV infection as a secondary endpoint. However, this study was not specifically designed to evaluate qHPV efficacy against oral persistent infection and, in fact, the study failed to meet its primary endpoint of protection against anal persistent infection and AIN. Two small cross-sectional studies demonstrated decreased prevalence of oral infection with some HPV types after subjects had received at least two doses of vaccine. One large cross-sectional study, which analyzed data from the National Health and Nutrition Examination Surveys (NHANES) database coupled with oral HPV swab data, noted a significant decrease in prevalence of oral HPV infection in vaccinated individuals compared to those who had not received qHPV. This effect was especially notable in men, who typically have higher rates of oral HPV infection, as well as HPV-related head and neck cancer, compared to women. Finally, a population level analysis of NHANES data, which was conducted to assess the impact of herd immunity through mass HPV vaccination on oral HPV infection, demonstrated a decrease in prevalence over time of vaccine type oral HPV infection in men, despite low vaccine uptake, which was suggestive of a herd immunity effect from rising rates of HPV vaccination of girls and adolescent females over the past decade. 
+
+Overall, the demonstration of vaccine efficacy against the clinical endpoints of persistent infection, precancerous lesions, and cancers in the anogenital region are the most relevant to the proposed indication to prevent HPV-related oropharyngeal and other head and neck cancers. CBER agrees with the
+
+---
+
+[referencia=512ff5286e172b98 score=0.272]
+- **December 2014:** GARDASIL 9 was licensed for use in the following populations: `o` In girls and women 9 through 26 years of age with the indications of prevention of: 
+
+      - cervical, vulvar, vaginal and anal cancer caused by HPV types 16, 18, 31, 33, 45, 52, 58 
+
+      - genital warts caused by HPV types 6 and 11 
+
+      - precancerous lesions/dysplasia caused by HPV types 6, 11, 16, 18, 31, 33, 45, 52, 58 including CIN 1-3, cervical AIS, VIN 2-3, VaIN 2-3 and AIN 1-3 
+
+   - In boys 9 through 15 years of age with the indications of prevention of: 
+
+      - of anal cancer caused by HPV types 16, 18, 31, 33, 45, 52, 58 
+
+      - genital warts caused by HPV types 6 and 11 
+
+      - AIN 1-3 caused by HPV types 6, 11, 16, 18, 31, 33, 45, 52, 58 
+
+- **December 2015:** GARDASIL 9 indications were expanded to include the prevention of HPV 6/11/16/18/31/33/45/52/58-related anogenital lesions and HPV 16/18/31/33/45/52/58-related anal cancer in men 16 through 26 years of age (Section 2.4). 
+
+- **October 2016** : A two dose regimen of GARDASIL 9 was approved for use in boys and girls 9 through 14 years of age on the basis of non-inferiority immunogenicity data. 
+
+- **October 2018** : GARDASIL 9 indications were expanded to include women and men 27 through 45 years of age based on two studies submitted under STN 125508/493 (Section 2.4).
+
+---
+
+[referencia=512ff5286e172b98 score=0.268]
+|**Study ID**|**V501-020-108**|**V501-019 (V501-019-21)**|
+|---|---|---|
+|||Combined persistent infection, warts, VIN, VaIN,<br>CIN, vaginal,vulvar and cervical cancer due to<br>HPV types 6/11/16/18<br>Extension:<br>1) Comparative incidence of HPV 6/11/16/18<br>warts, CIN and 16/18 CIN2+ in early vaccine<br>group (at 6-10 years post vaccination) versus<br>catch up group (at 3-5 years post vaccination)<br>2) Antibodies kinetics and stratification by age|
+|Major Findings|1) All GMT slightly lower than<br>16-26-year-old men; HPV-type<br>specific GMT ratios (27-45 yo:<br>16-26 yo) between 0.74 and<br>0.91<br>2) 100% seroconversion for<br>HPV 6/11/16/18|VE for combined endpoint in base study was<br>88.7% (95% CI 78.0, 95.0)<br>There was 1 breakthrough case of CIN2 in the<br>early vaccination group and no breakthrough<br>cases of warts or CIN in the catch-up group.<br>Antibody GMTs were comparable between 24-34<br>vs 35-45-year-old women and antibodies<br>persisted for 10 years.|
+
+---
+
+[referencia=512ff5286e172b98 score=0.231]
+|Major Findings|1) VE= 96.7%<br>(95% CI 80.9,<br>99.8) for<br>combined<br>endpoint<br>2) Non-inferiority<br>of anti-HPV<br>6/11/16/18<br>antibodies in<br>9vHPV recipients<br>versus qHPV|Non-inferiority<br>demonstrated<br>between 9 through<br>15-year-olds (both<br>boys and girls) and<br>16 through 26-year-<br>olds for all 9<br>vaccine HPV types|Antibodies<br>against all 9<br>vaccine HPV<br>types were<br>noninferior in<br>males compared<br>to females|Non-inferiority was<br>demonstrated<br>between 9vHPV<br>and qHPV for<br>antibodies against<br>HPV 6/11/16/18|
+
+
+
+## 5.4 Consultations 
+
+No external consultations were sought for this sBLA. 
+
+## 5.4.1 Advisory Committee Meeting 
+
+No VRBPAC Meeting was held for this new indication.
+
+---
+
+[referencia=512ff5286e172b98 score=0.203]
+|**Study ID**|**V503-001**|**V503-002**|**V503-003**|**V503-009**|
+|---|---|---|---|---|
+|Comparator|qHPV (3 doses<br>on Day 1, Month<br>2 and Month 6)|HPV vaccine type<br>antibody GMTs in<br>16 through 26-year-<br>old women|HPV vaccine type<br>antibody GMTs in<br>16 through 26-<br>year-old women|qHPV (3 doses on<br>Day 1, Month 2 or<br>Month 6)|
+|Study Duration|42 months|12 months|7 months|7 months|
+|Primary<br>Endpoints|1) Combined<br>HPV<br>31/33/45/52/58-<br>related CIN2,<br>VIN2/3, VaIN2/3<br>or cancer<br>2) Antibody<br>GMTs for HPV<br>6/11/16/18|Antibody GMTs for<br>all 9 vaccine HPV<br>types|Non-inferiority of<br>vaccine HPV-type<br>antibody GMT<br>ratio between<br>males and<br>females (LB of<br>95% CI >0.67)|Antibody GMTs for<br>HPV types<br>6/11/16/18|
+
+---
+
+[referencia=512ff5286e172b98 score=0.195]
+|Vaginal/Vulvar Disease|71/ 7021|92/7021|22.6 (-6.0, 43.5)|
+
+
+
+Source: Adapted from Table 25 in Clinical Review by Sixun Yang, PhD, STN 125508/0 1FAS population consisted of individuals who received at least 1 vaccination and had at least 1 follow-up visit after Day 1 
+
+**_Reviewer Comment: V503-001 was not powered to evaluate efficacy in the FAS population. However, as was noted in studies of qHPV, vaccination with currently licensed HPV vaccines do not offer protection against infection or disease from HPV types with which an individual is already infected prior to complete development of an immune response. This further emphasizes the importance of vaccination prior to onset of sexual activity and the associated risk of HPV_** 
+
+**_transmission. However, despite a lack of efficacy in the short term (within 3 years of vaccination) in previously infected individuals, long term outcomes related to vaccine and non-vaccine type HPV-related disease, as were studied with qHPV in V501-019-021 for licensure of 9vHPV for the 27 through 45-year-old cohort, were not negatively impacted by receipt of an HPV vaccine. This is described in more detail in the Clinical Review for sBLA 125508/493. Therefore, while efficacy in previously infected individuals is questionable at best, this issue does not translate to a safety concern._** 
+
+Due to low incidence of AIN and anal cancers caused by the 5 newly included HPV types in 9vHPV and infeasibility of performing clinical endpoint studies, vaccine effectiveness against AIN and anal cancer due to HPV-types 31, 33, 45, 52 and 58 were inferred in both men and women on the basis of immunogenicity data for the 5 new HPV types and the biological plausibility of equivalent mechanisms of protection based on similar pathophysiology at all mucosal sites, as well as the preventative efficacy of qHPV against anal disease endpoints demonstrated in clinical trials (V501-020). 
+
+<u>Immunogenicity:</u> 
+
+Several additional studies evaluated the immunogenicity of 9vHPV in relevant populations:

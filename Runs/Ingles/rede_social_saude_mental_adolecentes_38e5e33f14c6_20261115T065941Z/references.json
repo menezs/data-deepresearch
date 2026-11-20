@@ -1,0 +1,420 @@
+[
+  {
+    "id": "8c2b5fb1cd291d4d",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024/",
+    "normalized_url": "https://pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024",
+    "work_key": "https://pewresearch.org/internet/2024/12/12/teens-social-media-and-technology-2024",
+    "title": "1. Pew Research Center. *Teens, Social Media and Technology 2024.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:02.285428Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a0dbc26369736fb4",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.who.int/europe/publications/i/item/9789289061322",
+    "normalized_url": "https://who.int/europe/publications/i/item/9789289061322",
+    "work_key": "https://who.int/europe/publications/i/item/9789289061322",
+    "title": "2. WHO Regional Office for Europe. *A focus on adolescent social media use and gaming in Europe, central Asia and Canada: Health Behaviour in School-aged Children international report from the 2021/2022 survey.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:02.385567Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a3d7222a0fcabc5b",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.cdc.gov/mmwr/volumes/73/su/su7304a3.htm",
+    "normalized_url": "https://cdc.gov/mmwr/volumes/73/su/su7304a3.htm",
+    "work_key": "https://cdc.gov/mmwr/volumes/73/su/su7304a3.htm",
+    "title": "3. Centers for Disease Control and Prevention. *Frequent Social Media Use and Experiences with Bullying Victimization, Persistent Feelings of Sadness or Hopelessness, and Suicide Risk Among High School Students — Youth Risk Behavior Survey, United States, 2023.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:03.089491Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "8ee885333dc42d1d",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.nationalacademies.org/read/27396/chapter/2",
+    "normalized_url": "https://nationalacademies.org/read/27396/chapter/2",
+    "work_key": "https://nationalacademies.org/read/27396/chapter/2",
+    "title": "4. National Academies of Sciences, Engineering, and Medicine. *Social Media and Adolescent Health.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:04.261231Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ec4231800e690108",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/41589024/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/41589024",
+    "work_key": "PMID:41589024",
+    "title": "5. Tølbøll KB. *Review: Social media use and adolescent mental health – an umbrella review and power analysis.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:03.152289Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "882acab979a368ea",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://onlinelibrary.wiley.com/doi/10.1111/bjc.70100",
+    "normalized_url": "https://onlinelibrary.wiley.com/doi/10.1111/bjc.70100",
+    "work_key": "DOI:10.1111/bjc.70100",
+    "title": "6. Peachey W, Piantella S, Cotton SM, Gleeson JFM. *Social media exposure and anxiety and depression in young people: A systematic review and meta-analysis of longitudinal and experimental studies.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:24:46.589141Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b1a6f756dd43551a",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834349/",
+    "normalized_url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834349",
+    "work_key": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834349",
+    "title": "7. JAMA Network Open. *Social Media Use and Depressive Symptoms During Early Adolescence.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:16.962187Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ae97664566a3a8c6",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13256062/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13256062",
+    "work_key": "PMC:PMC13256062",
+    "title": "8. *The Effects of Social Media on Adolescent Mental Health: Findings From a Population-Based Cohort Study in Australia.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:04.125743Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "fdb4125685717efe",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.nature.com/articles/s41467-022-29296-3",
+    "normalized_url": "https://nature.com/articles/s41467-022-29296-3",
+    "work_key": "DOI:10.1038/s41467-022-29296-3",
+    "title": "9. Orben A, Przybylski AK, Blakemore SJ, Kievit RA. *Windows of developmental sensitivity to social media.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:06.029537Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "341b39b8fa1eeba5",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2819781",
+    "normalized_url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2819781",
+    "work_key": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2819781",
+    "title": "10. Fassi L, Thomas K, Parry DA, Leyland-Craggs A, Ford TJ, Orben A. *Social Media Use and Internalizing Symptoms in Clinical and Community Adolescent Samples: A Systematic Review and Meta-Analysis.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:24:50.492726Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "43d7c483577498e0",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://doi.org/10.1016/j.jad.2024.08.193",
+    "normalized_url": "https://doi.org/10.1016/j.jad.2024.08.193",
+    "work_key": "DOI:10.1016/j.jad.2024.08.193",
+    "title": "11. Ahmed O, Walsh EI, Dawel A, et al. *Social media use, mental health and sleep: A systematic review with meta-analyses.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:24:39.780388Z",
+    "error_message": "barreira de acesso (http_error): # There was a problem providing the content you requested Please contact our support team for more information and provi",
+    "barrier_kind": "http_error",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "85bc873c0274ffdb",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/39721448/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/39721448",
+    "work_key": "PMID:39721448",
+    "title": "12. *The association between social comparison in social media, body image concerns and eating disorder symptoms: A systematic review and meta-analysis.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:12.853828Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "1789226aaefce7a3",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/39828926/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/39828926",
+    "work_key": "PMID:39828926",
+    "title": "13. *Cyberbullying Victimization and Mental Health Symptoms Among Children and Adolescents: A Meta-Analysis of Longitudinal Studies.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:13.544323Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "d8d77cdd1c2170a2",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/35390193/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/35390193",
+    "work_key": "PMID:35390193",
+    "title": "14. Zhou Z, et al. *Relationship between online social support and adolescents' mental health: A systematic review and meta-analysis.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:14.240427Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c53cba3870b21bf5",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9536523/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9536523",
+    "work_key": "PMC:PMC9536523",
+    "title": "15. *Social Media Use and Health and Well-being of Lesbian, Gay, Bisexual, Transgender, and Queer Youth: Systematic Review.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:15.265879Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "28ba90df7bd7f3d0",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+    "normalized_url": "https://apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+    "work_key": "https://apa.org/topics/social-media-internet/health-advisory-adolescent-social-media-use",
+    "title": "16. American Psychological Association. *Health advisory on social media use in adolescence.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:21.000875Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "3e5d941b100227ff",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health/",
+    "normalized_url": "https://pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health",
+    "work_key": "https://pewresearch.org/internet/2025/04/22/teens-social-media-and-mental-health",
+    "title": "17. Pew Research Center. *Teens, Social Media and Mental Health.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:17.238445Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "8f7df12bcddb7263",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13714660/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13714660",
+    "work_key": "PMC:PMC13714660",
+    "title": "18. Bonilla Aparicio E, et al. *School Phone Bans and Adolescent Mental Health in Iceland.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:18.400751Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "daad684d4b38a895",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11984610/",
+    "normalized_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11984610",
+    "work_key": "PMC:PMC11984610",
+    "title": "19. *School phone policies and their association with mental wellbeing, phone use, and social media use (SMART Schools): a cross-sectional observational study.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:19.579086Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "303178644d5155b8",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.70118",
+    "normalized_url": "https://acamh.onlinelibrary.wiley.com/doi/10.1111/camh.70118",
+    "work_key": "DOI:10.1111/camh.70118",
+    "title": "20. *Innovations in Practice: A pilot randomised trial on smartphone and social media abstinence – effects on sleep quality and psychological wellbeing in adolescents.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-18T00:24:32.556693Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ff463288c6133abe",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html",
+    "normalized_url": "https://hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html",
+    "work_key": "https://hhs.gov/surgeongeneral/reports-and-publications/youth-mental-health/social-media/index.html",
+    "title": "21. U.S. Department of Health and Human Services, Office of the Surgeon General. *Social Media and Youth Mental Health.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:22.593313Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9cb36a246eda4e82",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.unicef.org/documents/drawing-line-digital-spaces",
+    "normalized_url": "https://unicef.org/documents/drawing-line-digital-spaces",
+    "work_key": "https://unicef.org/documents/drawing-line-digital-spaces",
+    "title": "22. UNICEF. *Drawing a Line in Digital Spaces: Policy considerations for age restrictions on social media.*",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T07:00:24.065814Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "rede_social_saude_mental_adolecentes_38e5e33f14c6_20261115T065941Z",
+    "tool_name": "ChatGPT"
+  }
+]

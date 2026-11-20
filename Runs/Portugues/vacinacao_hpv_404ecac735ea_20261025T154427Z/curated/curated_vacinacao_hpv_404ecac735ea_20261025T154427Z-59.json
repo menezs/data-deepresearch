@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-59",
+  "passages": [
+    {
+      "reference_chunk_id": "0193aebda864f677-0",
+      "reference_id": "0193aebda864f677",
+      "score": 0.931805431842804,
+      "text": "# Testagem Molecular para Detecção de HPV e rastreamento do câncer do colo do útero\n\nRelatório de Recomendação nº 878 - Testagem Molecular para Detecção de HPV e rastreamento do câncer do colo do útero\n\nPara melhorar a sua experiência na plataforma e prover serviços personalizados, utilizamos cookies. **Ao aceitar, você terá acesso a todas as funcionalidades do site. Se clicar em \"Rejeitar Cookies\", os cookies que não forem estritamente necessários serão desativados.** Para escolher quais quer autorizar, clique em \"Gerenciar cookies\". Saiba mais em nossa Declaração de Cookies."
+    }
+  ],
+  "assembled_context": "[referencia=0193aebda864f677 score=0.932]\n# Testagem Molecular para Detecção de HPV e rastreamento do câncer do colo do útero\n\nRelatório de Recomendação nº 878 - Testagem Molecular para Detecção de HPV e rastreamento do câncer do colo do útero\n\nPara melhorar a sua experiência na plataforma e prover serviços personalizados, utilizamos cookies. **Ao aceitar, você terá acesso a todas as funcionalidades do site. Se clicar em \"Rejeitar Cookies\", os cookies que não forem estritamente necessários serão desativados.** Para escolher quais quer autorizar, clique em \"Gerenciar cookies\". Saiba mais em nossa Declaração de Cookies.",
+  "skip_reason": null
+}

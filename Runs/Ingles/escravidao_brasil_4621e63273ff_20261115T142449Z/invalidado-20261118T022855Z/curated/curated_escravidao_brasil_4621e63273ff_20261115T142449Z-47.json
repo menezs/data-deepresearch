@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "escravidao_brasil_4621e63273ff_20261115T142449Z-47",
+  "passages": [
+    {
+      "reference_chunk_id": "b091cebb1e3fbca3-0",
+      "reference_id": "b091cebb1e3fbca3",
+      "score": 0.0002628267975524068,
+      "text": "PORTAL DE REVISTAS DA USP\nSkip to main content\nSkip to main navigation menu\nSkip to site footer\nOpen Menu\nCurrent\nPrevious editions\nAnnouncements\nAbout\nAbout the Journal\nPrivacy Statement\nIndexadores\nEquipe Editorial\nPrevious Editorial Committees\nSubmissions\nEspecificações técnicas\nPasso a passo\nFormulário Ciência Aberta\nContact\nSearch\nRegister\nLogin\nMake a Submission\nMake a Submission\nLanguage\nEnglish\nespañol\nfrançais\nportuguês\nKeywords\nindexadores\nINDEXADORES\nredes sociais"
+    }
+  ],
+  "assembled_context": "[referencia=b091cebb1e3fbca3 score=0.000]\nPORTAL DE REVISTAS DA USP\nSkip to main content\nSkip to main navigation menu\nSkip to site footer\nOpen Menu\nCurrent\nPrevious editions\nAnnouncements\nAbout\nAbout the Journal\nPrivacy Statement\nIndexadores\nEquipe Editorial\nPrevious Editorial Committees\nSubmissions\nEspecificações técnicas\nPasso a passo\nFormulário Ciência Aberta\nContact\nSearch\nRegister\nLogin\nMake a Submission\nMake a Submission\nLanguage\nEnglish\nespañol\nfrançais\nportuguês\nKeywords\nindexadores\nINDEXADORES\nredes sociais",
+  "skip_reason": null
+}

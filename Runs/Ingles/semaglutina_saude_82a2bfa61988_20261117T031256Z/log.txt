@@ -1,0 +1,560 @@
+2026-11-16 23:12:56,134 INFO     __main__: Iniciando run semaglutina_saude_82a2bfa61988_20261117T031256Z para
+                                 answers/Ingles/Gemini/Emergente/semaglutina_saude.docx (ferramenta=Gemini)
+2026-11-16 23:13:04,602 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-16 23:13:04,602 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-16 23:13:07,175 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 11636.63it/s]
+2026-11-16 23:13:18,666 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-16 23:13:18,675 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-16 23:13:18,805 INFO     auditframework.pipeline: Extraidas 96 referencias de
+                                 answers/Ingles/Gemini/Emergente/semaglutina_saude.docx (0 descartadas como artefato do
+                                 exportador)
+2026-11-16 23:13:18,819 WARNING  auditframework.pipeline: Normalizacao: 2 de 96 marcadores citados no corpo sem entrada
+                                 na lista de referencias: [97], [98]
+2026-11-16 23:13:18,820 INFO     auditframework.pipeline: Resposta dividida em 107 trechos citados
+2026-11-16 23:13:18,853 INFO     auditframework.terminal: ✓ extraction concluído em 0.2s
+2026-11-16 23:13:18,853 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-16 23:13:18,859 INFO     auditframework.ingestion.service: Ingestao: 96 referencias, 0 ja baixadas, 0 ja
+                                 bloqueadas, 96 pendentes
+2026-11-16 23:13:21,619 INFO     auditframework.ingestion.fetcher: HTTP/2 falhou em
+                                 https://www.abom.org/wp-content/uploads/2025/06/Phase-3-Trial-of-Semaglutide-in-Metabolic-Dysfunctio.pdf;
+                                 tentando HTTP/1.1
+2026-11-16 23:13:25,739 WARNING  trafilatura.core: discarding data: None
+2026-11-16 23:13:31,926 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://academic.oup.com/eurheartj/advance-article/doi/10.1093/eurheartj/ehag524/8774585
+                                 recuperada do Wayback (copia de 20261001030149)
+2026-11-16 23:13:31,990 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.abom.org/wp-content/uploads/2025/06/Phase-3-Trial-of-Semaglutide-in-Metabolic-Dysfunctio.pdf
+                                 recuperada imitando o Safari
+2026-11-16 23:13:32,138 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program
+2026-11-16 23:13:32,141 WARNING  auditframework.ingestion.service: Falha ao converter:
+                                 https://www.researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program
+                                 (trafilatura nao conseguiu extrair conteudo principal do HTML)
+2026-11-16 23:13:35,788 WARNING  trafilatura.core: discarding data: None
+2026-11-16 23:13:40,454 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://psychiatryonline.org/ajp/doi/10.1176/appi.ajp.20260003: Sem copia no Wayback:
+                                 https://psychiatryonline.org/ajp/doi/10.1176/appi.ajp.20260003
+2026-11-16 23:13:40,456 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://psychiatryonline.org/ajp/doi/10.1176/appi.ajp.20260003
+2026-11-16 23:13:42,814 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice
+2026-11-16 23:13:42,831 WARNING  auditframework.ingestion.service: Falha ao converter:
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice
+                                 (trafilatura nao conseguiu extrair conteudo principal do HTML)
+2026-11-16 23:14:11,007 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.scielo.br/j/jbn/a/qhJZhkW8dzY5qzRQ9hhXbkR/?format=html&lang=en recuperada
+                                 do Wayback (copia de 20250216013946)
+2026-11-16 23:14:53,876 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://journals.bioscientifica.com/joe/article/263/1/e240046/5657/GLP-1-receptor-agonist-based-therapies-and
+                                 recuperada do Wayback (copia de 20260710084055)
+2026-11-16 23:14:59,824 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf:
+                                 Sem copia no Wayback:
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf
+2026-11-16 23:14:59,828 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf
+                                 (Falha ao conectar em
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf:
+                                 Failed to perform, curl: (28) Connection timed out after 10000 milliseconds. See
+                                 https://curl.se/libcurl/c/libcurl-errors.html first for more details.)
+2026-11-16 23:15:00,787 WARNING  trafilatura.core: discarding data: None
+2026-11-16 23:15:04,279 WARNING  trafilatura.core: discarding data: None
+2026-11-16 23:15:09,866 INFO     auditframework.ingestion.fetcher: Referencia https://www.mdpi.com/2813-0618/4/3/14
+                                 recuperada do Wayback (copia de 20250725075824)
+2026-11-16 23:15:12,003 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://ore.exeter.ac.uk/articles/journal_contribution/Effects_of_semaglutide_on_stroke_subtypes_in_type_2_diabetes_post_hoc_analysis_of_the_randomised_SUSTAIN_6_PIONEER_6/29787056/1/files/56823629.pdf:
+                                 Sem copia no Wayback:
+                                 https://ore.exeter.ac.uk/articles/journal_contribution/Effects_of_semaglutide_on_stroke_subtypes_in_type_2_diabetes_post_hoc_analysis_of_the_randomised_SUSTAIN_6_PIONEER_6/29787056/1/files/56823629.pdf
+2026-11-16 23:15:12,005 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://ore.exeter.ac.uk/articles/journal_contribution/Effects_of_semaglutide_on_stroke_subtypes_in_type_2_diabetes_post_hoc_analysis_of_the_randomised_SUSTAIN_6_PIONEER_6/29787056/1/files/56823629.pdf
+2026-11-16 23:15:57,545 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience
+2026-11-16 23:15:57,547 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience)
+2026-11-16 23:16:06,770 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.ncbi.nlm.nih.gov/books/NBK603723/ recuperada do Wayback (copia de
+                                 20261105135649)
+2026-11-16 23:16:06,778 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.ncbi.nlm.nih.gov/books/NBK603723/
+2026-11-16 23:16:09,667 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial
+2026-11-16 23:16:09,669 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial)
+2026-11-16 23:16:19,277 WARNING  trafilatura.core: discarding data: None
+2026-11-16 23:16:20,033 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis
+2026-11-16 23:16:20,035 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis)
+2026-11-16 23:16:25,466 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://firstwordpharma.com/story/6522602: Sem copia no Wayback:
+                                 https://firstwordpharma.com/story/6522602
+2026-11-16 23:16:25,468 WARNING  auditframework.ingestion.service: Barreira de acesso (requires_js_login_region) em
+                                 https://firstwordpharma.com/story/6522602
+2026-11-16 23:16:29,507 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial
+2026-11-16 23:16:29,509 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial)
+2026-11-16 23:16:33,732 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.drugdiscoverynews.com/glp-1-and-neurodegeneration-what-the-failed-alzheimer-s-trial-means-for-drug-discovery-17287
+                                 recuperada do Wayback (copia de 20260813153553)
+2026-11-16 23:16:50,153 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.springermedizin.de/cardiovascular-metabolic-and-safety-outcomes-with-semaglutide-by/50193014:
+                                 Sem copia no Wayback:
+                                 https://www.springermedizin.de/cardiovascular-metabolic-and-safety-outcomes-with-semaglutide-by/50193014
+2026-11-16 23:16:50,154 WARNING  auditframework.ingestion.service: Barreira de acesso (no_content) em
+                                 https://www.springermedizin.de/cardiovascular-metabolic-and-safety-outcomes-with-semaglutide-by/50193014
+2026-11-16 23:16:58,742 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/: Sem
+                                 copia no Wayback:
+                                 https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/
+2026-11-16 23:16:58,744 WARNING  auditframework.ingestion.service: Referencia morta:
+                                 https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/
+                                 (Referencia nao encontrada (404):
+                                 https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/)
+2026-11-16 23:17:16,189 WARNING  trafilatura.core: discarding data: None
+2026-11-16 23:17:19,080 WARNING  trafilatura.core: discarding data: None
+2026-11-16 23:17:25,251 INFO     auditframework.ingestion.fetcher: Referencia https://www.mdpi.com/2076-3271/13/4/265
+                                 recuperada do Wayback (copia de 20261025185606)
+2026-11-16 23:17:29,084 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population
+2026-11-16 23:17:29,086 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population)
+2026-11-16 23:17:33,067 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort
+2026-11-16 23:17:33,069 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort)
+2026-11-16 23:17:49,004 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study
+2026-11-16 23:17:49,007 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study)
+2026-11-16 23:17:49,012 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 96/96 [04:30<00:00,
+                                 2.81s/ref]
+2026-11-16 23:17:49,013 INFO     auditframework.ingestion.service: Retentando 8 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-16 23:19:17,288 WARNING  auditframework.ingestion.service: Referencia
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf
+                                 excedeu 90s na segunda tentativa — mantida inacessivel
+2026-11-16 23:19:23,818 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf:
+                                 Sem copia no Wayback:
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf
+2026-11-16 23:19:23,820 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf
+                                 (Falha ao conectar em
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf:
+                                 Failed to perform, curl: (28) Connection timed out after 30001 milliseconds. See
+                                 https://curl.se/libcurl/c/libcurl-errors.html first for more details.)
+2026-11-16 23:19:53,848 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience
+2026-11-16 23:19:53,851 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience)
+2026-11-16 23:20:26,650 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial
+2026-11-16 23:20:26,652 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial)
+2026-11-16 23:20:59,130 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis
+2026-11-16 23:20:59,132 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis)
+2026-11-16 23:21:37,403 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial
+2026-11-16 23:21:37,405 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial)
+2026-11-16 23:22:12,476 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population
+2026-11-16 23:22:12,478 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population)
+2026-11-16 23:22:44,861 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort
+2026-11-16 23:22:44,863 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort)
+2026-11-16 23:23:23,359 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study
+2026-11-16 23:23:23,361 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study)
+2026-11-16 23:23:23,363 INFO     auditframework.terminal: Retentando inacessíveis: 100%|██████████| 8/8 [05:34<00:00,
+                                 41.79s/ref]
+2026-11-16 23:23:23,367 INFO     auditframework.pipeline: Ingestao concluida: 80 documentos disponiveis
+2026-11-16 23:23:23,368 INFO     auditframework.terminal: ✓ ingestion concluído em 615.4s
+2026-11-16 23:23:23,369 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-16 23:23:27,336 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 80/80
+                                 [00:03<00:00, 20.21doc/s]
+2026-11-16 23:23:27,336 INFO     auditframework.indexing.service: Gerando embeddings para 1662 chunks de 80 documentos
+2026-11-16 23:24:35,514 INFO     auditframework.terminal: Batches: 100%|██████████| 104/104 [01:08<00:00,  1.53it/s]
+2026-11-16 23:24:35,686 INFO     auditframework.pipeline: Indice construido a partir de 80 documentos
+2026-11-16 23:24:35,689 INFO     auditframework.terminal: ✓ indexing concluído em 73.5s
+2026-11-16 23:24:35,689 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-16 23:24:35,713 INFO     auditframework.pipeline: Julgamento: 107 chunks, 0 ja julgados, 0 ja pulados, 107
+                                 pendentes
+2026-11-16 23:24:36,694 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-16 23:24:37,288 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/107 [00:00<?,
+                                 ?chunk/s]
+2026-11-16 23:24:37,393 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-16 23:24:37,499 INFO     auditframework.terminal: Loading weights:  30%|███       | 119/393 [00:00<00:00,
+                                 1145.52it/s]
+2026-11-16 23:24:37,599 INFO     auditframework.terminal: Loading weights:  60%|█████▉    | 234/393 [00:00<00:00,
+                                 1115.37it/s]
+2026-11-16 23:24:37,629 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 1158.46it/s]
+2026-11-16 23:25:13,993 WARNING  auditframework.indexing.retriever: Chunk
+                                 semaglutina_saude_82a2bfa61988_20261117T031256Z-11 nao sera auditado: Referencia(s)
+                                 citada(s) ['ecf50d756d9b4478', '2ae0a30788703213'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-16 23:25:57,850 WARNING  auditframework.indexing.retriever: Chunk
+                                 semaglutina_saude_82a2bfa61988_20261117T031256Z-53 nao sera auditado: Referencia(s)
+                                 citada(s) ['a7041a653c38b8f9'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-16 23:26:00,321 WARNING  auditframework.indexing.retriever: Chunk
+                                 semaglutina_saude_82a2bfa61988_20261117T031256Z-57 nao sera auditado: Referencia(s)
+                                 citada(s) ['47a5dae02d0d4d0e'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-16 23:26:30,947 WARNING  auditframework.indexing.retriever: Chunk
+                                 semaglutina_saude_82a2bfa61988_20261117T031256Z-81 nao sera auditado: Referencia(s)
+                                 citada(s) ['f2f1f20ec57e14f1'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-16 23:26:39,236 WARNING  auditframework.indexing.retriever: Chunk
+                                 semaglutina_saude_82a2bfa61988_20261117T031256Z-88 nao sera auditado: Referencia(s)
+                                 citada(s) ['ecd5db75c8c476b5'] bloqueada(s) por barreira de acesso (anti-bot, erro
+                                 HTTP, login) — sem conteudo para auditar.
+2026-11-16 23:26:39,832 WARNING  auditframework.indexing.retriever: Chunk
+                                 semaglutina_saude_82a2bfa61988_20261117T031256Z-90 nao sera auditado: Referencia(s)
+                                 citada(s) ['c11d87854dd15515'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-11-16 23:27:03,849 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 107/107 [02:28<00:00,
+                                 1.38s/chunk]
+2026-11-16 23:32:09,675 WARNING  auditframework.pipeline: Chunk semaglutina_saude_82a2bfa61988_20261117T031256Z-11 nao
+                                 auditado: Referencia(s) citada(s) ['ecf50d756d9b4478', '2ae0a30788703213'] nao
+                                 possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-16 23:45:11,820 WARNING  auditframework.pipeline: Chunk semaglutina_saude_82a2bfa61988_20261117T031256Z-53 nao
+                                 auditado: Referencia(s) citada(s) ['a7041a653c38b8f9'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-16 23:47:00,584 WARNING  auditframework.pipeline: Chunk semaglutina_saude_82a2bfa61988_20261117T031256Z-57 nao
+                                 auditado: Referencia(s) citada(s) ['47a5dae02d0d4d0e'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-16 23:56:41,966 WARNING  auditframework.pipeline: Chunk semaglutina_saude_82a2bfa61988_20261117T031256Z-81 nao
+                                 auditado: Referencia(s) citada(s) ['f2f1f20ec57e14f1'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-16 23:59:53,140 WARNING  auditframework.pipeline: Chunk semaglutina_saude_82a2bfa61988_20261117T031256Z-88 nao
+                                 auditado: Referencia(s) citada(s) ['ecd5db75c8c476b5'] bloqueada(s) por barreira de
+                                 acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.
+2026-11-17 00:00:08,498 WARNING  auditframework.pipeline: Chunk semaglutina_saude_82a2bfa61988_20261117T031256Z-90 nao
+                                 auditado: Referencia(s) citada(s) ['c11d87854dd15515'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-11-17 00:07:08,161 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 107/107 [40:04<00:00,
+                                 22.47s/chunk]
+2026-11-17 00:07:08,165 INFO     auditframework.terminal: ✓ judging concluído em 2600.1s
+2026-11-17 00:07:08,175 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 00:07:08,186 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/semaglutina_saude_82a2bfa61988_20261117T031256Z/report.md
+2026-11-17 00:07:08,188 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 00:07:08,188 INFO     __main__: Run semaglutina_saude_82a2bfa61988_20261117T031256Z concluida
+2026-11-17 00:07:08,189 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/semaglutina_saude_82a2bfa61988_20261117T031256Z/report.md
+2026-11-17 21:15:53,900 INFO     auditframework.terminal: audit refetch semaglutina_saude_82a2bfa61988_20261117T031256Z
+2026-11-17 21:15:53,922 INFO     auditframework.ingestion.service: Ingestao: 96 referencias, 80 ja baixadas, 0 ja
+                                 bloqueadas, 16 pendentes
+2026-11-17 21:16:15,022 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://psychiatryonline.org/ajp/doi/10.1176/appi.ajp.20260003: Sem copia no Wayback:
+                                 https://psychiatryonline.org/ajp/doi/10.1176/appi.ajp.20260003
+2026-11-17 21:16:15,025 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://psychiatryonline.org/ajp/doi/10.1176/appi.ajp.20260003
+2026-11-17 21:16:26,855 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://ore.exeter.ac.uk/articles/journal_contribution/Effects_of_semaglutide_on_stroke_subtypes_in_type_2_diabetes_post_hoc_analysis_of_the_randomised_SUSTAIN_6_PIONEER_6/29787056/1/files/56823629.pdf:
+                                 Sem copia no Wayback:
+                                 https://ore.exeter.ac.uk/articles/journal_contribution/Effects_of_semaglutide_on_stroke_subtypes_in_type_2_diabetes_post_hoc_analysis_of_the_randomised_SUSTAIN_6_PIONEER_6/29787056/1/files/56823629.pdf
+2026-11-17 21:16:26,858 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://ore.exeter.ac.uk/articles/journal_contribution/Effects_of_semaglutide_on_stroke_subtypes_in_type_2_diabetes_post_hoc_analysis_of_the_randomised_SUSTAIN_6_PIONEER_6/29787056/1/files/56823629.pdf
+2026-11-17 21:17:09,735 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice:
+                                 Wayback indisponivel para
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice:
+                                 HTTPSConnectionPool(host='archive.org', port=443): Read timed out. (read timeout=10)
+2026-11-17 21:17:09,737 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice)
+2026-11-17 21:17:22,064 WARNING  auditframework.ingestion.service: Referencia
+                                 https://www.researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program
+                                 nao concluiu o download em 90s — marcada inacessivel
+2026-11-17 21:17:22,690 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience
+2026-11-17 21:17:22,693 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience)
+2026-11-17 21:17:27,837 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program:
+                                 Wayback indisponivel para
+                                 https://www.researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program:
+                                 HTTPSConnectionPool(host='archive.org', port=443): Read timed out. (read timeout=30)
+2026-11-17 21:17:27,839 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/380552694_Semaglutide_and_NTproBNP_in_Obesity-Related_HFpEF_Insights_from_STEP-HFpEF_Program)
+2026-11-17 21:17:42,657 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial
+2026-11-17 21:17:42,660 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial)
+2026-11-17 21:18:08,207 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://firstwordpharma.com/story/6522602: Sem copia no Wayback:
+                                 https://firstwordpharma.com/story/6522602
+2026-11-17 21:18:08,210 WARNING  auditframework.ingestion.service: Barreira de acesso (requires_js_login_region) em
+                                 https://firstwordpharma.com/story/6522602
+2026-11-17 21:18:14,119 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www.ncbi.nlm.nih.gov/books/NBK603723/ recuperada do Wayback (copia de
+                                 20261105135649)
+2026-11-17 21:18:14,130 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.ncbi.nlm.nih.gov/books/NBK603723/
+2026-11-17 21:18:20,415 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis:
+                                 Wayback indisponivel para
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis:
+                                 HTTPSConnectionPool(host='archive.org', port=443): Read timed out. (read timeout=10)
+2026-11-17 21:18:20,417 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis)
+2026-11-17 21:18:34,246 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial
+2026-11-17 21:18:34,249 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial)
+2026-11-17 21:18:36,121 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.springermedizin.de/cardiovascular-metabolic-and-safety-outcomes-with-semaglutide-by/50193014:
+                                 Wayback indisponivel para
+                                 https://www.springermedizin.de/cardiovascular-metabolic-and-safety-outcomes-with-semaglutide-by/50193014:
+                                 HTTPSConnectionPool(host='archive.org', port=443): Read timed out. (read timeout=10)
+2026-11-17 21:18:36,123 WARNING  auditframework.ingestion.service: Barreira de acesso (no_content) em
+                                 https://www.springermedizin.de/cardiovascular-metabolic-and-safety-outcomes-with-semaglutide-by/50193014
+2026-11-17 21:18:47,815 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/: Sem
+                                 copia no Wayback:
+                                 https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/
+2026-11-17 21:18:47,817 WARNING  auditframework.ingestion.service: Referencia morta:
+                                 https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/
+                                 (Referencia nao encontrada (404):
+                                 https://news.ubc.ca/2023/10/diabetes-weight-loss-drug-leads-to-gastroparesis/)
+2026-11-17 21:19:20,608 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population
+2026-11-17 21:19:20,613 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population)
+2026-11-17 21:19:22,571 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort
+2026-11-17 21:19:22,575 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort)
+2026-11-17 21:19:43,849 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study
+2026-11-17 21:19:43,853 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study)
+2026-11-17 21:19:43,857 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 16/16 [03:49<00:00,
+                                 14.37s/ref]
+2026-11-17 21:19:43,858 INFO     auditframework.ingestion.service: Retentando 8 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-17 21:20:25,568 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice
+2026-11-17 21:20:25,573 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/410945506_Semaglutide_in_obesity-related_knee_osteoarthritis_Interpreting_STEP_9_and_implications_for_practice)
+2026-11-17 21:21:03,682 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience
+2026-11-17 21:21:03,686 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/373324017_Current_Understanding_of_Sodium_N-8-2-Hydroxylbenzoyl_Amino_Caprylate_SNAC_as_an_Absorption_Enhancer_The_Oral_Semaglutide_Experience)
+2026-11-17 21:21:53,147 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial
+2026-11-17 21:21:53,151 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/390303462_Oral_Semaglutide_and_Cardiovascular_Outcomes_in_Persons_With_Type_2_Diabetes_According_to_SGLT2i_Use_Prespecified_Analyses_of_the_SOUL_Randomized_Trial)
+2026-11-17 21:22:33,309 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis
+2026-11-17 21:22:33,313 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/399777614_Improvement_in_Walking_Distance_With_Semaglutide_in_Smokers_With_Peripheral_Artery_Disease_STRIDE_Trial_Subgroup_Analysis)
+2026-11-17 21:23:10,534 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial
+2026-11-17 21:23:10,537 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/380879566_Long-term_kidney_outcomes_of_semaglutide_in_obesity_and_cardiovascular_disease_in_the_SELECT_trial)
+2026-11-17 21:23:48,870 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population
+2026-11-17 21:23:48,876 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/380939572_Associations_of_semaglutide_with_incidence_and_recurrence_of_alcohol_use_disorder_in_real-world_population)
+2026-11-17 21:24:31,595 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort
+2026-11-17 21:24:31,598 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/377186234_Association_of_semaglutide_with_risk_of_suicidal_ideation_in_a_real-world_cohort)
+2026-11-17 21:25:11,683 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study:
+                                 Sem copia no Wayback:
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study
+2026-11-17 21:25:11,686 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study
+                                 (Rate limit persistente em
+                                 https://www.researchgate.net/publication/397297509_Semaglutide_and_diabetic_retinopathy_an_OHDSI_network_study)
+2026-11-17 21:25:11,689 INFO     auditframework.terminal: Retentando inacessíveis: 100%|██████████| 8/8 [05:27<00:00,
+                                 40.98s/ref]
+2026-11-17 21:25:11,705 INFO     auditframework.terminal: semaglutina_saude_82a2bfa61988_20261117T031256Z: 16 fonte(s)
+                                 sem conteudo, 1 recuperada(s)
+2026-11-17 21:25:11,705 INFO     auditframework.terminal:
+                                 https://novofrontier.ai/uploads/Users_old/Digital%20Scientific%20Partner/Non%20User%20Customer%20Journey/Articles%20Repositories/review%20of%20oral%20glp-1.pdf
+                                 — downloaded
+2026-11-17 21:25:12,023 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para
+                                 data/runs/semaglutina_saude_82a2bfa61988_20261117T031256Z/invalidado-20261118T012511Z
+2026-11-17 21:25:12,024 INFO     auditframework.terminal: 4 trecho(s) citado(s) para julgar de novo (os demais mantem o
+                                 veredito)
+2026-11-17 21:25:12,024 INFO     auditframework.terminal: Rode: audit resume
+                                 semaglutina_saude_82a2bfa61988_20261117T031256Z
+2026-11-17 21:25:13,191 INFO     __main__: Retomando run semaglutina_saude_82a2bfa61988_20261117T031256Z
+2026-11-17 21:25:26,024 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 21:25:26,024 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-17 21:25:28,609 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 7203.00it/s]
+2026-11-17 21:25:53,559 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-17 21:25:53,600 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-17 21:25:53,601 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-17 21:25:53,604 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-17 21:26:00,736 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 81/81
+                                 [00:07<00:00, 11.45doc/s]
+2026-11-17 21:26:00,737 INFO     auditframework.indexing.service: Gerando embeddings para 1698 chunks de 81 documentos
+2026-11-17 21:27:41,711 INFO     auditframework.terminal: Batches: 100%|██████████| 107/107 [01:40<00:00,  1.06it/s]
+2026-11-17 21:27:41,982 INFO     auditframework.pipeline: Indice construido a partir de 81 documentos
+2026-11-17 21:27:41,989 INFO     auditframework.terminal: ✓ indexing concluído em 110.5s
+2026-11-17 21:27:41,991 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-17 21:27:42,035 INFO     auditframework.pipeline: Julgamento: 107 chunks, 98 ja julgados, 5 ja pulados, 4
+                                 pendentes
+2026-11-17 21:27:43,068 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-17 21:27:43,762 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/4 [00:00<?, ?chunk/s]
+2026-11-17 21:27:43,867 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-17 21:27:43,974 INFO     auditframework.terminal: Loading weights:  34%|███▍      | 135/393 [00:00<00:00,
+                                 1344.20it/s]
+2026-11-17 21:27:44,066 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 1305.49it/s]
+2026-11-17 21:28:22,436 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 4/4 [00:40<00:00,
+                                 10.10s/chunk]
+2026-11-17 21:32:16,979 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 4/4 [03:54<00:00,
+                                 58.63s/chunk]
+2026-11-17 21:32:17,011 INFO     auditframework.terminal: ✓ judging concluído em 281.4s
+2026-11-17 21:32:17,033 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-17 21:32:17,069 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/semaglutina_saude_82a2bfa61988_20261117T031256Z/report.md
+2026-11-17 21:32:17,076 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-17 21:32:17,077 INFO     __main__: Run semaglutina_saude_82a2bfa61988_20261117T031256Z concluida
+2026-11-17 21:32:17,080 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/semaglutina_saude_82a2bfa61988_20261117T031256Z/report.md

@@ -1,0 +1,933 @@
+[
+  {
+    "id": "4a3b87d7d280794b",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://periodicos.ufs.br/pontadelanca/article/download/25036/18611",
+    "normalized_url": "https://periodicos.ufs.br/pontadelanca/article/download/25036/18611",
+    "work_key": "https://periodicos.ufs.br/pontadelanca/article/download/25036/18611",
+    "title": "luiz gama entre história e memória: trajetória, cidadania e disputas",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:35.182430Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "f033c75112ee7e07",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://pt.wikipedia.org/wiki/Lei_Eus%C3%A9bio_de_Queir%C3%B3s",
+    "normalized_url": "https://pt.wikipedia.org/wiki/Lei_Eusébio_de_Queirós",
+    "work_key": "https://pt.wikipedia.org/wiki/Lei_Eusébio_de_Queirós",
+    "title": "Lei Eusébio de Queirós – Wikipédia, a enciclopédia livre",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:27.589335Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "dae5a504dd427ef5",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://agenciadenoticias.uniceub.br/brasil/lei-eusebio-de-queiros-historiador-explica-por-que-pressao-contra-escravidao-nao-surtiu-efeito/",
+    "normalized_url": "https://agenciadenoticias.uniceub.br/brasil/lei-eusebio-de-queiros-historiador-explica-por-que-pressao-contra-escravidao-nao-surtiu-efeito",
+    "work_key": "https://agenciadenoticias.uniceub.br/brasil/lei-eusebio-de-queiros-historiador-explica-por-que-pressao-contra-escravidao-nao-surtiu-efeito",
+    "title": "Lei Eusébio de Queirós: historiador explica por que norma de 1850",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:27.718669Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "d37b4481d75b53a5",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://almapreta.com.br/sessao/cotidiano/nao-mudou-a-estrutura-lei-que-proibiu-o-trafico-de-africanos-escravizados-teve-efeito-controverso-no-brasil/",
+    "normalized_url": "https://almapreta.com.br/sessao/cotidiano/nao-mudou-a-estrutura-lei-que-proibiu-o-trafico-de-africanos-escravizados-teve-efeito-controverso-no-brasil",
+    "work_key": "https://almapreta.com.br/sessao/cotidiano/nao-mudou-a-estrutura-lei-que-proibiu-o-trafico-de-africanos-escravizados-teve-efeito-controverso-no-brasil",
+    "title": "'Não mudou a estrutura': lei que proibiu o tráfico de africanos",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:28.243377Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "0f511b73e9ecf457",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.novomilenio.inf.br/santos/h0222p.htm",
+    "normalized_url": "https://novomilenio.inf.br/santos/h0222p.htm",
+    "work_key": "https://novomilenio.inf.br/santos/h0222p.htm",
+    "title": "Os quilombos de Santos - Antonio Bento, abolicionista (17)",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:28.354030Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "b0e7117d93af959c",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.gazetasp.com.br/gazeta-mais/conheca-os-caifazes-grupo-que-libertou-escravizados-em-sp/",
+    "normalized_url": "https://gazetasp.com.br/gazeta-mais/conheca-os-caifazes-grupo-que-libertou-escravizados-em-sp",
+    "work_key": "https://gazetasp.com.br/gazeta-mais/conheca-os-caifazes-grupo-que-libertou-escravizados-em-sp",
+    "title": "Conheça os Caifazes, grupo que libertou escravizados em SP",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:28.508752Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "2308ac3cac8b2f78",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://repositorio.ufu.br/bitstream/123456789/31008/4/MovimentoAbolicionistaBrasileiro.pdf",
+    "normalized_url": "https://repositorio.ufu.br/bitstream/123456789/31008/4/MovimentoAbolicionistaBrasileiro.pdf",
+    "work_key": "https://repositorio.ufu.br/bitstream/123456789/31008/4/MovimentoAbolicionistaBrasileiro.pdf",
+    "title": "o movimento abolicionista brasileiro e o ativismo transnacional",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:41.692979Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "ad3c442c7b266e1f",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio",
+    "normalized_url": "https://gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio",
+    "work_key": "https://gov.br/arquivonacional/pt-br/sites_eventos/sites-tematicos-1/brasil-oitocentista/temas-oitocentistas/legislacao-abolicionista-no-imperio",
+    "title": "Legislação abolicionista no Império - Portal Gov.br",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:28.604415Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "74fb9ecfd96562cf",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/leis/l0601-1850.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/leis/l0601-1850.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/leis/l0601-1850.htm",
+    "title": "L0601-1850 - Planalto",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:28.918882Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "a510795eb18f9758",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.historiadomundo.com.br/idade-moderna/lei-do-ventre-livre.htm",
+    "normalized_url": "https://historiadomundo.com.br/idade-moderna/lei-do-ventre-livre.htm",
+    "work_key": "https://historiadomundo.com.br/idade-moderna/lei-do-ventre-livre.htm",
+    "title": "Lei do Ventre Livre: o que diz, resumo, quem assinou",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:29.005620Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "969ba16244bf9161",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/288-lei-euzebio-de-queiroz",
+    "normalized_url": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/288-lei-euzebio-de-queiroz",
+    "work_key": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/288-lei-euzebio-de-queiroz",
+    "title": "Lei Eusébio de Queirós - Arquivo Nacional",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:29.436126Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "3655a8c4e3725af8",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://pcdob.org.br/noticias/como-uma-acao-do-advogado-negro-luiz-gama-libertou-217-escravizados/",
+    "normalized_url": "https://pcdob.org.br/noticias/como-uma-acao-do-advogado-negro-luiz-gama-libertou-217-escravizados",
+    "work_key": "https://pcdob.org.br/noticias/como-uma-acao-do-advogado-negro-luiz-gama-libertou-217-escravizados",
+    "title": "Como uma ação do advogado negro Luiz Gama libertou 217",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:29.464443Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "ef4133f82a596853",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www2.senado.leg.br/bdsf/handle/id/174446",
+    "normalized_url": "https://www2.senado.leg.br/bdsf/handle/id/174446",
+    "work_key": "https://www2.senado.leg.br/bdsf/handle/id/174446",
+    "title": "Extincção do trafico de escravos no Brazil : ensaio historico",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:31:38.154270Z",
+    "error_message": "barreira de acesso (anti_bot): Verificando sua conexão Estamos confirmando que este acesso é legítimo antes de liberar o conteúdo. Isso leva apenas alg",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "250547ae7fb77700",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "http://www.planalto.gov.br/ccivil_03/leis/lim/LIM581.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/leis/lim/LIM581.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/leis/lim/LIM581.htm",
+    "title": "LIM581 - Planalto",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:29.793241Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "7319916a5150be11",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/noticias/audios/2020/09/lei-eusebio-de-queiroz-completa-170-anos",
+    "normalized_url": "https://www12.senado.leg.br/noticias/noticias/audios/2020/09/lei-eusebio-de-queiroz-completa-170-anos",
+    "work_key": "https://www12.senado.leg.br/noticias/noticias/audios/2020/09/lei-eusebio-de-queiroz-completa-170-anos",
+    "title": "Lei Eusébio de Queiroz completa 170 anos - Senado Federal",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:42.739994Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "3a42abd0a6fe1496",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.youtube.com/watch?v=JZE5kXm_Gfs",
+    "normalized_url": "https://youtube.com/watch?v=JZE5kXm_Gfs",
+    "work_key": "https://youtube.com/watch?v=JZE5kXm_Gfs",
+    "title": "Lei de terras de 1850: Objetivos e consequências - YouTube",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:44.260849Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "96e6174eb4c1003d",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://brasilescola.uol.com.br/historiab/lei-terras-1850.htm",
+    "normalized_url": "https://brasilescola.uol.com.br/historiab/lei-terras-1850.htm",
+    "work_key": "https://brasilescola.uol.com.br/historiab/lei-terras-1850.htm",
+    "title": "Lei de Terras de 1850 - Brasil Escola - UOL",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:42.186133Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "87d962e88dde6854",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://ojs.sites.ufsc.br/index.php/sceh/article/view/182/157",
+    "normalized_url": "https://ojs.sites.ufsc.br/index.php/sceh/article/view/182/157",
+    "work_key": "https://ojs.sites.ufsc.br/index.php/sceh/article/view/182/157",
+    "title": "Lei de Terras de 1850 47 Revista Santa Catarina em História",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:31:12.059621Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "668d521747b4f68d",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-170-anos-lei-de-terras-desprezou-camponeses-e-oficializou-apoio-do-brasil-aos-latifundios",
+    "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-170-anos-lei-de-terras-desprezou-camponeses-e-oficializou-apoio-do-brasil-aos-latifundios",
+    "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-170-anos-lei-de-terras-desprezou-camponeses-e-oficializou-apoio-do-brasil-aos-latifundios",
+    "title": "Há 170 anos, Lei de Terras oficializou opção do Brasil pelos",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:31:45.095343Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "e9f5b431193d62ed",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/279-lei-de-terras",
+    "normalized_url": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/279-lei-de-terras",
+    "work_key": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/279-lei-de-terras",
+    "title": "Lei de Terras - Arquivo Nacional",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:44.650692Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "27bf6c043bedd8a9",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://revistagalo.com.br/edi%C3%A7%C3%B5es/edi%C3%A7%C3%A3o-010/05-lei-de-terras/",
+    "normalized_url": "https://revistagalo.com.br/edições/edição-010/05-lei-de-terras",
+    "work_key": "https://revistagalo.com.br/edições/edição-010/05-lei-de-terras",
+    "title": "Lei de terras de 1850: uma abordagem decolonial - Revista Galo",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:45.732421Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "46011394e9d2be64",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://plenarinho.leg.br/index.php/2022/07/francisco-jose-nascimento-o-dragao-mar/",
+    "normalized_url": "https://plenarinho.leg.br/index.php/2022/07/francisco-jose-nascimento-o-dragao-mar",
+    "work_key": "https://plenarinho.leg.br/index.php/2022/07/francisco-jose-nascimento-o-dragao-mar",
+    "title": "Francisco José do Nascimento, o Dragão do Mar - Plenarinho",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T03:31:54.950786Z",
+    "error_message": "Falha de SSL em https://plenarinho.leg.br/index.php/2022/07/francisco-jose-nascimento-o-dragao-mar/, mesmo sem verificar o certificado: Failed to perform, curl: (35) Recv failure: Connection reset by peer. See https://curl.se/libcurl/c/libcurl-errors.html first for more details.",
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "9bcbdd7b3758d870",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://pt.wikipedia.org/wiki/Caifases",
+    "normalized_url": "https://pt.wikipedia.org/wiki/Caifases",
+    "work_key": "https://pt.wikipedia.org/wiki/Caifases",
+    "title": "Caifases – Wikipédia, a enciclopédia livre",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:48.623873Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "62be90304dbfbc60",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.scielo.br/j/rbh/a/t45Yx9zKgpGB8STCkPLxBNL/?format=pdf&lang=pt",
+    "normalized_url": "https://scielo.br/j/rbh/a/t45Yx9zKgpGB8STCkPLxBNL?format=pdf&lang=pt",
+    "work_key": "https://scielo.br/j/rbh/a/t45Yx9zKgpGB8STCkPLxBNL?format=pdf&lang=pt",
+    "title": "o abolicionismo radical de Nabuco em 1885-1886 1 - SciELO",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:52.866623Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "e4f1a9834fdde4ce",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://almapreta.com.br/sessao/cotidiano/leis-do-ventre-livre-e-dos-sexagenarios-promessas-de-liberdade-que-prolongaram-a-escravidao/",
+    "normalized_url": "https://almapreta.com.br/sessao/cotidiano/leis-do-ventre-livre-e-dos-sexagenarios-promessas-de-liberdade-que-prolongaram-a-escravidao",
+    "work_key": "https://almapreta.com.br/sessao/cotidiano/leis-do-ventre-livre-e-dos-sexagenarios-promessas-de-liberdade-que-prolongaram-a-escravidao",
+    "title": "Leis do Ventre Livre e dos Sexagenários: promessas de liberdade",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:52.804515Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "cd5fce5aa8bd18aa",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.todamateria.com.br/lei-do-ventre-livre-1871/",
+    "normalized_url": "https://todamateria.com.br/lei-do-ventre-livre-1871",
+    "work_key": "https://todamateria.com.br/lei-do-ventre-livre-1871",
+    "title": "Lei do Ventre Livre: a primeira lei abolicionista do Brasil",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:54.060628Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "ccfa7b1e3cfd7147",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos",
+    "title": "Lei dos Sexagenários completa 130 anos - Senado Federal",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:31:46.146225Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "904138ca26c0c0e5",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://brasilescola.uol.com.br/historiab/lei-dos-sexagenarios.htm",
+    "normalized_url": "https://brasilescola.uol.com.br/historiab/lei-dos-sexagenarios.htm",
+    "work_key": "https://brasilescola.uol.com.br/historiab/lei-dos-sexagenarios.htm",
+    "title": "Lei dos Sexagenários: quem fez, objetivo, contexto - Brasil Escola",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:54.536457Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "df5d897ba78856b9",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/280-lei-dos-sexagenarios",
+    "normalized_url": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/280-lei-dos-sexagenarios",
+    "work_key": "https://mapa.an.gov.br/index.php/assuntos/15-dicionario/65-dicionario-da-administracao-publica-brasileira-do-periodo-imperial/280-lei-dos-sexagenarios",
+    "title": "Lei dos Sexagenários - Arquivo Nacional",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:54.912628Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "980d0b7e507ad49b",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg/?lang=pt",
+    "normalized_url": "https://scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg?lang=pt",
+    "work_key": "https://scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg?lang=pt",
+    "title": "O abolicionismo como movimento social - SciELO",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:55.188633Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "134412c42033458c",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg/?format=pdf&lang=pt",
+    "normalized_url": "https://scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg?format=pdf&lang=pt",
+    "work_key": "https://scielo.br/j/nec/a/CrVbxyNKtm7vCZWxXgRz6qg?format=pdf&lang=pt",
+    "title": "O ABOLICIONISMO COMO MOVIMENTO SOCIAL1 - SciELO",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:59.378069Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "6221e9bf5cf57e26",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.scielo.br/j/ea/a/zJHRTBVXN8tqfnkJNhG5YPk/?lang=pt",
+    "normalized_url": "https://scielo.br/j/ea/a/zJHRTBVXN8tqfnkJNhG5YPk?lang=pt",
+    "work_key": "https://scielo.br/j/ea/a/zJHRTBVXN8tqfnkJNhG5YPk?lang=pt",
+    "title": "Luiz Gama: um abolicionista leitor de Renan - SciELO",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:16:59.651382Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "6dd9607fd7ddd81c",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://pt.wikipedia.org/wiki/Luiz_Gama",
+    "normalized_url": "https://pt.wikipedia.org/wiki/Luiz_Gama",
+    "work_key": "https://pt.wikipedia.org/wiki/Luiz_Gama",
+    "title": "Luiz Gama – Wikipédia, a enciclopédia livre",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:00.258036Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "84d15c336b0e1e89",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.scielosp.org/article/csc/2026.v31n5/e02592026/pt/",
+    "normalized_url": "https://scielosp.org/article/csc/2026.v31n5/e02592026/pt",
+    "work_key": "https://scielosp.org/article/csc/2026.v31n5/e02592026/pt",
+    "title": "Carta-testamento sobre a sociedade escravocrata do século XIX e",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:31:16.063593Z",
+    "error_message": "barreira de acesso (anti_bot): This website is using a security service to protect itself from online attacks. We are checking your browser to establis",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "0b64e1858578cfa8",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://www.scielo.br/j/ea/a/KbgXK6SYWhXTNT4Hv5hCsWG/?lang=pt&format=pdf",
+    "normalized_url": "https://scielo.br/j/ea/a/KbgXK6SYWhXTNT4Hv5hCsWG?format=pdf&lang=pt",
+    "work_key": "https://scielo.br/j/ea/a/KbgXK6SYWhXTNT4Hv5hCsWG?format=pdf&lang=pt",
+    "title": "Joaquim nabuco e os abolicionistas britânicos - SciELO",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:08.322525Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "33f7c8955ce27b22",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://pt.wikipedia.org/wiki/Sociedade_Brasileira_contra_a_Escravid%C3%A3o",
+    "normalized_url": "https://pt.wikipedia.org/wiki/Sociedade_Brasileira_contra_a_Escravidão",
+    "work_key": "https://pt.wikipedia.org/wiki/Sociedade_Brasileira_contra_a_Escravidão",
+    "title": "Sociedade Brasileira contra a Escravidão - Wikipédia",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:06.341942Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "851e643a93fc22e5",
+    "citation_markers": [
+      "[37]"
+    ],
+    "raw_url": "http://www.scielo.br/j/ea/a/KbgXK6SYWhXTNT4Hv5hCsWG/?lang=pt",
+    "normalized_url": "https://scielo.br/j/ea/a/KbgXK6SYWhXTNT4Hv5hCsWG?lang=pt",
+    "work_key": "https://scielo.br/j/ea/a/KbgXK6SYWhXTNT4Hv5hCsWG?lang=pt",
+    "title": "Joaquim Nabuco e os abolicionistas britânicos: correspondência",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:06.703869Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "4f005540ecc945ac",
+    "citation_markers": [
+      "[38]"
+    ],
+    "raw_url": "https://periodicos.ufjf.br/index.php/locus/article/download/20657/11070/82472",
+    "normalized_url": "https://periodicos.ufjf.br/index.php/locus/article/download/20657/11070/82472",
+    "work_key": "https://periodicos.ufjf.br/index.php/locus/article/download/20657/11070/82472",
+    "title": "Antonio Bento, homem rude do sertão: um abolicionista nos",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:11.298921Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "d4fe7286846be02c",
+    "citation_markers": [
+      "[39]"
+    ],
+    "raw_url": "https://araoalves.blogspot.com/2012/02/caifazes.html",
+    "normalized_url": "https://araoalves.blogspot.com/2012/02/caifazes.html",
+    "work_key": "https://araoalves.blogspot.com/2012/02/caifazes.html",
+    "title": "CAIFAZES - Blog do Professor Arão Alves",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:09.337250Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "4b5b182f4e29639f",
+    "citation_markers": [
+      "[40]"
+    ],
+    "raw_url": "https://saopaulopassado.wordpress.com/2015/03/24/os-caifazes-de-antonio-bento/",
+    "normalized_url": "https://saopaulopassado.wordpress.com/2015/03/24/os-caifazes-de-antonio-bento",
+    "work_key": "https://saopaulopassado.wordpress.com/2015/03/24/os-caifazes-de-antonio-bento",
+    "title": "Os Caifazes de Antônio Bento - São Paulo Passado - WordPress.com",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:09.969146Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "dd213104cfd96164",
+    "citation_markers": [
+      "[41]"
+    ],
+    "raw_url": "https://www1.folha.uol.com.br/fsp/1998/4/04/dinheiro/4.html",
+    "normalized_url": "https://www1.folha.uol.com.br/fsp/1998/4/04/dinheiro/4.html",
+    "work_key": "https://www1.folha.uol.com.br/fsp/1998/4/04/dinheiro/4.html",
+    "title": "Folha de S.Paulo - Cupins e caifazes - 4/4/1998",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:10.263794Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "384e4f50f2ceaefb",
+    "citation_markers": [
+      "[42]"
+    ],
+    "raw_url": "https://www.youtube.com/watch?v=LpDDxbiNbw0",
+    "normalized_url": "https://youtube.com/watch?v=LpDDxbiNbw0",
+    "work_key": "https://youtube.com/watch?v=LpDDxbiNbw0",
+    "title": "Abolitionism, the Caifazes, and the Quilombos - YouTube",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:16.386330Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "cde31beffc79a725",
+    "citation_markers": [
+      "[43]"
+    ],
+    "raw_url": "https://www.youtube.com/watch?v=WY_aBWfTV-Y",
+    "normalized_url": "https://youtube.com/watch?v=WY_aBWfTV-Y",
+    "work_key": "https://youtube.com/watch?v=WY_aBWfTV-Y",
+    "title": "Dragão do Mar foi figura importante na abolição da escravidão no",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:17.449787Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "dea7e020bcc68462",
+    "citation_markers": [
+      "[44]"
+    ],
+    "raw_url": "https://blogdoedisonsilva.com.br/2020/05/13/senado-esqueceram-do-ceara-ao-falarem-da-abolicao-da-escravatura-no-brasil/",
+    "normalized_url": "https://blogdoedisonsilva.com.br/2020/05/13/senado-esqueceram-do-ceara-ao-falarem-da-abolicao-da-escravatura-no-brasil",
+    "work_key": "https://blogdoedisonsilva.com.br/2020/05/13/senado-esqueceram-do-ceara-ao-falarem-da-abolicao-da-escravatura-no-brasil",
+    "title": "Senado: esqueceram do Ceará ao falar da Abolição da Escravatura",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:16.891216Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "1f7a96a857bed235",
+    "citation_markers": [
+      "[45]"
+    ],
+    "raw_url": "https://legis.senado.leg.br/sdleg-getter/documento?dm=2925895&disposition=inline",
+    "normalized_url": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=2925895",
+    "work_key": "https://legis.senado.leg.br/sdleg-getter/documento?disposition=inline&dm=2925895",
+    "title": "PROJETO DE LEI DO SENADO Nº , DE 2014",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:31:17.553917Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "0ca0d957bc45b8a5",
+    "citation_markers": [
+      "[46]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica",
+    "normalized_url": "https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica",
+    "work_key": "https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica",
+    "title": "A Proclamação da República - Senado Federal",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T03:31:54.472753Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "fa59db8852b897e5",
+    "citation_markers": [
+      "[47]"
+    ],
+    "raw_url": "https://brasilescola.uol.com.br/historiab/proclamacaodarepublica.htm",
+    "normalized_url": "https://brasilescola.uol.com.br/historiab/proclamacaodarepublica.htm",
+    "work_key": "https://brasilescola.uol.com.br/historiab/proclamacaodarepublica.htm",
+    "title": "Proclamação da República: resumo, causas, contexto - Brasil Escola",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:19.151056Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "2095a642ebf163bb",
+    "citation_markers": [
+      "[48]"
+    ],
+    "raw_url": "https://www.facebook.com/TVSenado/videos/proclama%C3%A7%C3%A3o-da-rep%C3%BAblica/753944411735824/",
+    "normalized_url": "https://facebook.com/TVSenado/videos/proclamação-da-república/753944411735824",
+    "work_key": "https://facebook.com/TVSenado/videos/proclamação-da-república/753944411735824",
+    "title": "Hoje é o dia da Proclamação da República. Você conhece a história",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:24.096257Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  },
+  {
+    "id": "f9abb9644690a2f3",
+    "citation_markers": [
+      "[49]"
+    ],
+    "raw_url": "https://www.sbp.com.br/fileadmin/user_upload/2016/10/2016.1.Proclamao-da-Republica-do-Brasil.pdf",
+    "normalized_url": "https://sbp.com.br/fileadmin/user_upload/2016/10/2016.1.Proclamao-da-Republica-do-Brasil.pdf",
+    "work_key": "https://sbp.com.br/fileadmin/user_upload/2016/10/2016.1.Proclamao-da-Republica-do-Brasil.pdf",
+    "title": "Proclamação da República do Brasil",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T23:17:25.878987Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_556b26a777e4_20261024T231607Z",
+    "tool_name": "Gamini"
+  }
+]

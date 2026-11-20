@@ -1,0 +1,101 @@
+[referencia=4b0693866d93670b score=0.268]
+A confirmatory secondary endpoint at Week 72 showed 32.7% of patients treated with semaglutide 2.4 mg achieved both resolution of steatohepatitis and improvement in liver fibrosis compared to 16.1% of patients on placebo (EDP, 16.5%; 95% CI, 10.2 to 22.8; P<0.001).<sup>1</sup>
+
+Furthermore, Novo Nordisk also announced that the US Food and Drug Administration has accepted the supplemental New Drug Application (sNDA) and granted Priority Review for Wegovy<sup>®</sup> (semaglutide) injection 2.4 mg to treat noncirrhotic MASH in adults with moderate to advanced liver scarring (fibrosis). Priority review designation means that FDA will review the application in six months, rather than the standard ten-month review period.
+
+"Novo Nordisk continues to explore semaglutide across metabolic and cardiovascular health including MASH, a condition with limited treatment options for patients and healthcare professionals," said Anna Windle, PhD, senior vice president of Clinical Development, Medical & Regulatory Affairs at Novo Nordisk. "We are encouraged by these published findings in the NEJM and what this could mean for patients. Based on these data, we look forward to working with regulatory authorities to bring this potential new treatment option to patients."
+
+Non-invasive tests (NITs) are valuable in supporting the screening of people at risk of developing MASH and may address early MASH detection. Implementing NITs may allow for fibrosis risk stratification earlier in the disease progression journey.<sup>4,5</sup> The expanded analysis of ESSENCE showed apparent improvements of pre-specified NITs, including vibration-controlled transient elastography (VCTE), the Enhanced Liver Fibrosis (ELF)™ test, and PRO-C3, in adults treated with semaglutide 2.4 mg compared to placebo. These were supportive secondary endpoints, not controlled for multiplicity.<sup>1</sup>
+
+---
+
+[referencia=4b0693866d93670b score=0.182]
+Safety endpoints in the ESSENCE trial included adverse events and laboratory assessments. By Week 72, 88% of participants received and maintained the full target dose of semaglutide 2.4 mg. No new safety signals emerged, and the safety profile was consistent with the vast body of evidence for semaglutide. The most common adverse events were gastrointestinal-related, including nausea (36.3% semaglutide; 13.2% placebo), diarrhea (26.9% semaglutide; 12.2% placebo), constipation (22.3% semaglutide; 8.4% placebo), and vomiting (18.6% semaglutide; 5.6% placebo). Adverse events leading to trial discontinuation were 2.6% for the semaglutide group and 3.3% for the placebo group.<sup>1</sup>
+
+Semaglutide 2.4 mg is not approved in the US for the treatment of MASH.
+
+**About ESSENCE**
+
+ESSENCE is a phase 3 trial evaluating the effect of once-weekly subcutaneous semaglutide 2.4 mg in adults with metabolic dysfunction-associated steatohepatitis with moderate to advanced liver fibrosis (stage 2 or 3). It is a two-part trial where an estimated 1,200 planned participants are randomized 2:1 to receive semaglutide 2.4 mg or placebo, on top of standard of care for 240 weeks. Lifestyle counseling and management of coexisting diseases were recommended in alignment with guidelines. In part 1, the objective was to demonstrate that treatment with semaglutide 2.4 mg improves liver histology compared with placebo at 72 weeks based on biopsy sampling from the first 800 randomized patients. In part 2, which is ongoing, the objective is to demonstrate that treatment with semaglutide 2.4 mg lowers the risk of liver-related clinical events compared to placebo in adults with MASH and moderate to advanced liver fibrosis at 240 weeks.<sup>1,6</sup>
+
+**About semaglutide 2.4 mg**
+
+---
+
+[referencia=4b0693866d93670b score=0.159]
+# ESSENCE Phase 3 Trial of Semaglutide Showed Significant Improvements at 72 Weeks in Adults with MASH, Published in NEJM
+
+Add Drugs.com as a trusted source on Google to see more of our health news and information in your Google Search results.
+
+1. Tap the button to open Google's source settings.
+2. Tick the box next to Drugs.com.
+3. You can change it anytime in your Google settings.
+
+Requires a signed-in Google account.
+
+PLAINSBORO, N.J., April 30, 2025 /PRNewswire/ -- Today, *The New England Journal of Medicine* (NEJM) published results from part 1 of the ongoing phase 3 ESSENCE trial which investigated the effects of once-weekly subcutaneous semaglutide 2.4 mg on liver histology compared to placebo at 72 weeks in adults with MASH and moderate to advanced liver fibrosis (stage 2 or 3). At Week 72, the first primary endpoint showed 62.9% of people treated with semaglutide 2.4 mg achieved resolution of steatohepatitis with no worsening of liver fibrosis compared to 34.3% on placebo with estimated difference in responder proportions (EDP) of 28.7% (95% CI, 21.1 to 36.2; P<0.001). For the second primary endpoint at Week 72, 36.8% of people treated with semaglutide 2.4 mg achieved improvement in liver fibrosis with no worsening of steatohepatitis compared to 22.4% on placebo (EDP, 14.4%; 95% CI, 7.5 to 21.3; P<0.001).<sup>1</sup>
+
+"ESSENCE part 1 demonstrates the effects of semaglutide 2.4 mg on the key histological elements, which may reduce disease progression to cirrhosis and end-stage liver disease," said Arun Sanyal, MD, lead author, principal investigator, and Director, Stravitz-Sanyal Institute for Liver Disease and Metabolic Health, Virginia Commonwealth University. "This is crucial, given the strong link between MASH and other cardiometabolic conditions."
+
+---
+
+[referencia=4b0693866d93670b score=0.070]
+**About semaglutide 2.4 mg**
+
+Semaglutide injection 2.4 mg is previously approved along with a reduced calorie diet and increased physical activity, for adults and children aged 12 years and older with obesity, or some adults with overweight who also have weight-related medical problems, to help them lose excess body weight and keep the weight off and to reduce the risk of major CV events such as death, heart attack, or stroke in adults with known heart disease and either obesity or overweight.<sup>7</sup>
+
+It is important to note that semaglutide injection 2.4 mg contains a Boxed Warning for possible thyroid tumors, including cancer and should not be used in those with a personal or family history of medullary thyroid carcinoma (MTC) or Multiple Endocrine Neoplasia syndrome type 2 (MEN 2).<sup>7</sup>
+
+Semaglutide is not approved for the treatment of adults with MASH. Safety and efficacy are not established, and there is no guarantee that semaglutide will become commercially available for this use under clinical investigation.
+
+**About Metabolic Dysfunction-Associated Steatohepatitis (MASH)**
+
+MASH is a chronic, progressive metabolic disease affecting the liver, which can be potentially life-threatening if not properly managed.<sup>8,9</sup> Among people who are living with overweight or obesity, approximately one in three also have MASH.<sup>10</sup> Excess fat can build up in the liver, which, over time, can lead to inflammation and severe scarring of the liver.<sup>11</sup> People living with MASH often experience few or no specific symptoms in the early stages of the disease, which often results in a delayed diagnosis.<sup>12</sup> Approximately, one in 20 people in the United States are living with MASH.<sup>2</sup> The disease progresses to cirrhosis in an estimated 20% of cases.<sup>13</sup> MASH is a leading cause of cirrhosis in adults in the US, and MASH-related cirrhosis is the second indication for liver transplants in the country.<sup>14</sup> 
+
+**About Novo Nordisk**
+
+---
+
+[referencia=4b0693866d93670b score=0.035]
+7. Wegovy<sup>®</sup> (semaglutide) injection [package insert]. Plainsboro, NJ: Novo Nordisk Inc.
+8. Ilan Y. Analogy between non-alcoholic steatohepatitis (NASH) and hypertension: a stepwise patient-tailored approach for NASH treatment. *Ann Gastroenterol* . 2018;
+31:296-304. doi:10.20524/aog.2018.0248
+9. Tesfay M, Goldkamp JW, Neuschwander-Tetri BA. NASH: the emerging most common form of chronic liver disease. *Mo Med.* 2018;115:225-229.
+10. Quek J, Chan KE, Wong ZY, et al*.* Global prevalence of non-alcoholic fatty liver disease and non-alcoholic steatohepatitis in the overweight and obese population: a systematic review and meta-analysis.*Lancet Gastroenterol Hepatol* . 2023;8:20-30. doi: 10.1016/S2468-1253(22)00317-X
+11. National Institute of Diabetes and Digestive and Kidney Diseases. Definition & facts of NAFLD & NASH. Accessed November 7, 2024. Available at: https://www.niddk.nih.gov/health-information/liver-disease/nafld-nash/definition-facts
+12. Allen AM, Charlton M, Cusi K, et al. Guideline-based management of metabolic dysfunction-associated steatotic liver disease in the primary care setting. *Postgrad Med.* 2024;136:229-245. doi:10.1080/00325481.2024.2325332
+13. Sheka AC, Adeyi O, Thompson J, et al. Nonalcoholic steatohepatitis: a review. *JAMA.* 2020;323:1619. doi:10.1001/jama.2020.5249
+14. Younossi ZM, Koenig AB, Abdelatif D, et al. Global epidemiology of nonalcoholic fatty liver disease-Meta-analytic assessment of prevalence, incidence, and outcomes. *Hepatology* . 2016;64(1):73-84. doi:10.1002/hep.28431
+
+SOURCE NOVO NORDISK INC.
+
+---
+
+[referencia=4b0693866d93670b score=0.015]
+1. Sanyal AJ, Newsome PN, Kliers I, et al. Phase 3 trial of semaglutide in metabolic dysfunction-associated steatohepatitis. *New Eng J Med.* 2025;392(17). doi:10.1056/NEJMoa2413258
+2. Younossi ZM, Mangla KK, Chandramouli AS, et al. Estimating the economic impact of comorbidities in patients with MASH and defining high-cost burden in patients with noncirrhotic MASH. *Hepatol Commun* . 2024;8:e0488. doi:10.1097/HC9.0000000 000000488
+3. Fichez J, Mouillot T, Vonghia L, et al. Non-invasive tests for fibrotic MASH for reducing screen failure in therapeutic trials. *JHEP Reports.* 2025;7(4);101351. doi:10.1016/j.jhepr.2025.10135
+4. Wattacheril JJ, Abdelmalek MF, Lim JK, et al. AGA clinical practice update on the role of noninvasive biomarkers in the evaluation and management of nonalcoholic fatty liver disease: expert review. *Gastroenterology* . 2023;165:1080-1088. doi:10.1053/j.ga stro.2023.06.013
+5. Rinella ME, Neuschwander-Tetri BA, Siddiqui MS, et al. AASLD practice guidance on the clinical assessment and management of nonalcoholic fatty liver disease. *Hepatology.* 2023;77:1797-1835. doi:10.1097/HEP.0000000000000323
+6. Newsome PN, Sanyal AJ, Engebretsen KA, et al*.* Semaglutide 2.4 mg in participants with metabolic dysfunction-associated steatohepatitis: baseline characteristics and design of the phase 3 ESSENCE trial.*Aliment Pharmacol Ther* . 2024;10:18331. doi:10.1111/apt.18331
+7. Wegovy<sup>®</sup> (semaglutide) injection [package insert]. Plainsboro, NJ: Novo Nordisk Inc.
+
+---
+
+[referencia=4b0693866d93670b score=0.000]
+## More news resources
+
+## Subscribe to our newsletter
+
+Whatever your topic of interest, subscribe to our newsletters to get the best of Drugs.com in your inbox.
+
+---
+
+[referencia=4b0693866d93670b score=0.000]
+**About Novo Nordisk** 
+
+Novo Nordisk is a leading global healthcare company that's been making innovative medicines to help people with diabetes lead longer, healthier lives for more than 100 years. This heritage has given us experience and capabilities that also enable us to drive change to help people defeat other serious chronic diseases such as obesity, rare blood, and endocrine disorders. We remain steadfast in our conviction that the formula for lasting success is to stay focused, think long-term, and do business in a financially, socially, and environmentally responsible way. With a US presence spanning 40 years, Novo Nordisk US is headquartered in New Jersey and employs over 10,000 people throughout the country across 12 manufacturing, R&D and corporate locations in eight states plus Washington DC. For more information, visit novonordisk-us.com, Facebook, Instagram, and X.
+
+Novo Nordisk is committed to the responsible use of our semaglutide-containing medicines which represent distinct products with different indications, dosages, prescribing information, titration schedules, and delivery forms. These products are not interchangeable and should not be used outside of their approved indications. Learn more at semaglutide.com.
+
+**References**

@@ -1,0 +1,171 @@
+[referencia=62be90304dbfbc60 score=0.821]
+O chamado às armas: o abolicionismo radical de Nabuco em 1885-1886 
+
+em essência, uma indicação do potencial para uma nova coalizão política urbana que seria crítica para o abolicionismo, embora, até onde se pode notar, ainda carecesse de representação notável dos trabalhadores pobres urbanos. Mais ainda, nas figuras de oradores, da imprensa e de parlamentares, a liderança desses protestos e do abolicionismo frequentemente era a mesma, notoriamente Nabuco e José do Patrocínio. Patrocínio foi crucial para a cobertura e a mobilização nas ruas, e isso, é claro, foi seu papel distinto do princípio ao fim do movimento abolicionista. O movimento começou, contudo, com Nabuco. Assim como na Revolta do Vintém, seu papel foi de orador inspirador. Foram os seus discursos que chamaram e estimularam uma atenção mais ampla, que deram início ao processo de mobilização com um comunicado na imprensa em 1879. Isso, em troca, levou à formação de organizações abolicionistas em 1880 entre civis (março, julho, setembro) e oficiais do Exército (junho), bem como à fundação da _Gazeta da Tarde_ (julho), a principal voz do movimento, logo dominada por Patrocínio.<sup>4</sup>
+
+---
+
+[referencia=62be90304dbfbc60 score=0.640]
+Entre 1881 e 1884, pode-se caracterizar o percurso do movimento como de radicalização inicial. O completo isolamento e derrota dos reformistas da Câmara até 1881 e a decisão de Nabuco de buscar o autoexílio em Londres levaram à dominação do movimento por Patrocínio e outros militantes urbanos, os quais aprofundaram seu comprometimento com o fim da escravidão e a organização de apoio mediante a formação de mais organizações abolicionistas, mobilizando os trabalhadores pobres urbanos, inspirando e aliando-se aos movimentos independentes no Ceará e em São Paulo. Em 1883, os organizadores do movimento (André Rebouças, Patrocínio, João Clapp e outros), respondendo a uma mudança reveladora nas atitudes da Câmara em relação ao abolicionismo, decidiram fundar a Confederação Abolicionista (1883), e alguns também iniciaram atividades ilegais projetadas para apoiar e abrigar escravos fugitivos. A publicação do livro _Abolicionismo_ , de Nabuco (novembro de 1883), a mais conhecida acusação da escravidão, forneceu ao movimento uma análise convincente da necessidade de abolição e de uma série de reformas a ela relacionadas. Até o início de 1884, Ceará e Amazonas realizaram a abolição provincial. Em 4 anos, a força do movimento tornara-se incontestável. Em constante correspondência com Rebouças, Nabuco anunciou seu retorno em fevereiro e chegou ao Rio em maio.<sup>5</sup> 
+
+293 
+
+Junho de 2013 
+
+Jeffrey D. Needell
+
+---
+
+[referencia=62be90304dbfbc60 score=0.535]
+O chamado às armas: o abolicionismo radical de Nabuco em 1885-1886 
+
+profundamente impopular do gabinete de aumentar a receita pública pela taxação do uso de bondes de um _vintém_ . As ilustrações nos periódicos mencionados anotavam, pelo que sabemos sobre os graus de pobreza, que os amotinados eram em sua maioria pessoas assalariadas de classe média. Os cálculos de Bergstresser (1973, p.19) indicam que a tarifa de ida e volta nos assentos baratos do bonde equivaliam a um terço do custo de manter um trabalhador alimentado por um dia. Mais provavelmente, os trabalhadores moravam a uma distância que podia ser percorrida a pé do trabalho, em cortiços ou em casas de cômodos. Para mais informações acerca da história urbana dos pobres entre 1872 e 1904, ver NEEDELL, Jeffrey D. The _Revolta Contra Vacina_ of 1904: The Revolt Against ‘Modernization’ in Belle-Époque Rio de Janeiro,” HAHR, v.67, n.2, p.249-262, May 1987. Sobre Patrocínio, ver NABUCO, Joaquim. _Minha formação_ . Rio de Janeiro: Garnier, 1900. p.243-44; MORAES, Evaristo de. _A campanha Abolicionista (1879-1888)_ . Rio de Janeiro: Leite Ribeiro Freitas Bastos; Spicer, 1924. cap. 3, _passim_ , cap. 13; ORICO, Osvaldo. _O tigre da Abolição_ . Rio de Janeiro: Civilização Brasileira; MEC, 1977.
+
+---
+
+[referencia=62be90304dbfbc60 score=0.464]
+Relações entre figuras parlamentares, a imprensa e as ruas não eram novas na história imperial, mas até 1880 elas adquiriram novas qualidades. Se no passado movimentos parlamentares haviam utilizado a mobilização popular para pressionar gabinetes, as cidades agora, em especial o Rio de Janeiro, tinham um potencial distinto. Já em 1860 os sucessos dos liberais nas áreas urbanas evidenciaram a relativa independência de uma crescente classe média urbana. Até 1880 houve uma gama de público urbano assalariado que estava alienado e disposto a agir conduzido pelas dificuldades de uma economia problemática e uma elite política aparentemente indiferente. Isso é indicado pelo efêmero porém revelador movimento da Revolta do Vintém, em 1880. É útil lembrar que esses protestos, envolvendo um novo imposto sobre passagens dos bondes, chamaram a atenção para oradores do partido republicano, ganharam apoio de deputados e senadores da fração reformista do partido liberal, politizaram oficiais militares e mobilizaram elementos na classe média. Foi, 
+
+292 
+
+Revista Brasileira de História, vol. 33, ~~n~~<sup><u>o</u></sup> 65 
+
+O chamado às armas: o abolicionismo radical de Nabuco em 1885-1886
+
+---
+
+[referencia=62be90304dbfbc60 score=0.400]
+4 Sobre a mobilização política das massas urbanas no passado, ver NEEDELL, Jeffrey D. _The Party of Order_ : The Conservatives, the State, and Slavery in the Brazilian Monarchy, 1831-1871. Stanford: Stanford Univ. Press, 2006. chs. 2, 3 _passim_ . Sobre as mudanças do terreno político urbano assinaladas pela eleição de 1860, ver ibidem, p.209-214 e NABUCO, Joaquim. _Um estadista do Império_ : Nabuco de Araujo: sua vida suas opiniões, sua época. 3v. Rio de Janeiro: Garnier, s.d. [1897-1899]). v.2, p.71-76. Sobre a Revolta do Vintém, ver _A Revista Illustrada_ , n.189, 205 (1880); _The Rio News_ , 5 Jan. 1880, n.2; BERGSTRESSER, Rebecca. The Movement for the Abolition of Slavery in Rio de Janeiro, Brazil, 1880-1889. Tese (Doutorado) – Stanford University. Stanford, 1973. p.18-22; cf. GRAHAM, Sandra Lauderdale. The Vintem [sic] Riot and Political Culture: Rio de Janeiro 1880. _Hispanic American Historical Review_ [doravante HAHR], v.60, n.3, p.431-449, Aug. 1980. Um _vintém_ era uma pequena unidade monetária. Os motins referiam-se à decisão 
+
+306 
+
+Revista Brasileira de História, vol. 33, ~~n~~<sup><u>o</u></sup> 65 
+
+O chamado às armas: o abolicionismo radical de Nabuco em 1885-1886
+
+---
+
+[referencia=62be90304dbfbc60 score=0.318]
+políticas para mobilizá-la com sucesso, conforme se verá. Em se tratando do mundo político público tradicional, apenas a imprensa permanecia aberta aos abolicionistas, e isso foi galvanizado pela _Gazeta da Tarde_ , por _O Paíz_ e _Cidade do Rio_ , com apoio significativo de _The Rio News_ e _A Revista Illustrada_ . Com o tempo, até mesmo o periódico subsidiado, o _Jornal do Commercio_ , traria informações de outros jornais cobrindo histórias abolicionistas. Conforme faziam desde 1880, os abolicionistas usaram a imprensa para mobilizar a opinião pública, orquestrar reuniões e protestos, e realizar outras formas de pressão no gabinete. A maioria dos líderes abolicionistas, fundadores e membros da Confederação Abolicionista, também incrementou os aspectos clandestinos, ilegais do movimento. As rotas clandestinas de fuga e as comunidades urbanas de fugitivos aumentaram dramaticamente. Mais importante, abolicionistas começaram a atacar a base socioeconômica da propriedade de escravos no interior. A ala paulista do movimento, sob a liderança carismática de Antonio Bento, estendeu atividades urbanas clandestinas de promoção de fugas e comitês de fugitivos até o próprio setor rural, começando um processo de mobilização de escravos para a fuga das plantações, oferecendo-lhes abrigo e encaminhando-os às crescentes comunidades de fugitivos na cidade de São Paulo e, especialmente, da cidade portuária de Santos. Na província do Rio de Janeiro, o abolicionista Carlos Lacerda estava fortemente envolvido na mobilização rural e na violência na região de Campos, a tradicional zona do açúcar. As atividades de Lacerda levaram a queima de cana, violência urbana e repressão local e oficial feroz, mas no caso de Antonio Bento o sucesso de seus agentes clandestinos, os _caifás_
+
+---
+
+[referencia=62be90304dbfbc60 score=0.243]
+Foi curioso que o próprio Nabuco parece ter interpretado mal o verdadeiro significado da reforma, que não aboliu as chicotadas, apenas a administração pelo Estado das chicotadas como uma punição. De maneira geral, entretanto, ele compreendia o assunto principal muito bem, de fato. A real vitória tem mais a ver com uma frase na mesma carta, em que ele afirmou: “Já que não é _lícito_ chicotear os escravos, eu não sei como os senhores poderiam reforçar seus _direitos_ neles”.<sup>23</sup> A vitória verdadeira teve relação com a legitimidade da escravidão. Na prática, a campanha da imprensa e a reforma foram partes de um movimento abolicionista de sucesso que, no curso de 1886 e 1887, efetivamente deslegitimou a escravidão nas cidades e no parlamento e a desestabilizou no setor rural. A reforma em si não foi tão significativa quanto a sua percepção política e social por toda a monarquia – observadores a consideravam como parte de um declínio fatal e rápido do controle moral e efetivo dos cativos por seus senhores. Ao final, a campanha abolicionista de pressão pública, iniciada por Nabuco e seus aliados em 1885 e 1886, ajudou a mobilizar um movimento nas ruas e nos campos que, por sua vez, finalmente alcançaria de volta a imprensa e o parlamento para forçar a renúncia de Cotegipe e a ascensão de João Alfredo, que deu um fim legal à escravidão.<sup>24</sup>
+
+---
+
+[referencia=62be90304dbfbc60 score=0.201]
+_caifás_ , deu início a um processo de desestabilização no setor econômico crítico das exportações de café.<sup>18</sup> 
+
+Na prática, as táticas dos abolicionistas na arena política pública das cidades buscavam constranger e enfraquecer o gabinete, forçar sua renúncia. Com o trabalho clandestino nas cidades e no campo, os abolicionistas buscaram desestabilizar o próprio regime de escravatura. Na maioria das vezes, a estratégia geral buscou forçar uma reforma na estrutura política, pressionando a coroa e o gabinete. O trabalho urbano foi projetado para obstruir a administração por meio de ataque, deslegitimação e desordem; o trabalho rural foi feito para forçar uma mudança de política, tornando a escravidão impossível mediante resistência e fuga. Havia, é claro, republicanos (alguns positivistas, outros não) que estavam interessados na abolição como parte de um 
+
+302 
+
+Revista Brasileira de História, vol. 33, ~~n~~<sup><u>o</u></sup> 65 
+
+O chamado às armas: o abolicionismo radical de Nabuco em 1885-1886 
+
+amplo programa para modernizar o Brasil, e pretendiam derrubar a própria monarquia como parte disso. Até líderes proeminentes dos abolicionistas, como Patrocínio e Rebouças, acreditavam que uma República seria a solução inevitável. Contudo, conforme o tempo mostraria, a maioria dos homens que começaram como abolicionistas colocavam essa causa acima de todas as outras; o destino do regime político era secundário – o ponto fulcral era o fim da escravidão, e a estratégia foi montada para realizar a reforma parlamentar, não a mudança de regime.<sup>19</sup>
+
+---
+
+[referencia=62be90304dbfbc60 score=0.149]
+## Contexto de 1885 
+
+O papel de Joaquim Nabuco no movimento abolicionista tem sido caracterizado de diferentes formas, no que diz respeito tanto a suas próprias visões políticas quanto a seu significado no processo que encerrou a escravidão no Brasil. Conforme o senso comum sugeriria, pesquisas preliminares nas evidências de fontes primárias sugerem que tanto as visões de Nabuco quanto seu significado mudaram dentro do contexto contingente do percurso histórico do movimento. Uma das conjunturas mais críticas demonstrativa disso é o ano transformacional de 1885, em que esta apresentação se concentra.<sup>2</sup> 
+
+Alguma coisa da natureza, história e contexto políticos do movimento até aquele momento deve necessariamente ser relembrada. Levando em conta as recentes tendências no sentido de comprovação do papel dos próprios cativos, é preciso enfatizar que esse foi um movimento político, envolvendo todas as classes, e que foi iniciado e encerrado dentro de um contexto parlamentar de administração de gabinete ministerial, debate na Câmara e legislação. O movimento popular, em que o papel crítico dos escravos deve ser compreendido, foi explicitamente direcionado para uma lei que colocaria um fim à escravidão, passada dentro de instituições formais de uma monarquia constitucional, e esse movimento começou apoiando discursos parlamentares que levantaram a necessidade de uma reforma abolicionista em 1879, os mais críticos dos quais eram de Nabuco.<sup>3</sup>
+
+---
+
+[referencia=62be90304dbfbc60 score=0.058]
+17 Sobre os pontos de vista de seus amigos acerca dos panfletos, ver, por exemplo, André [Rebouças] para Meu querido Nabuco, Petropolis, 2 mar. 1886, CPp16doc.306, AJN; J. Serra para Meu querido Nabuco, Friburgo, 21 mar. [1886], CPp16doc.313, ibidem. Sobre sua autopercepção em abril de 1886, ver Joaquim Nabuco [para dona Eufrásia Teixeira Leite], Rio, 18 abr. 1886, em NABUCO, 1949, v.1, p.146-148. Sobre a falta de possibilidades em Londres, ver Penedo para Nabuco, Londres, 5 maio 1886, CPp17doc.325, em AJN. Sobre o conselho acerca d’ _O Paíz_ , ver A. Carlos Ferra. da Sa. para Meu caro Nabuco, [Recife,] 11 maio 1886, CPp329doc6710, em ibidem. Antonio Carlos referiu-se a opiniões de outros, também. 
+
+18 Sobre os resultados das eleições de Câmara, ver SILVA, 1895, 1896, v.2, p.315 e MORAES, 1924, p.143, 296. Sobre a radicalização de Dantas e o aumento do significado do movimento, ver DUQUE-ESTRADA, 1918, p.189; MORAES, 1924, p.135. Sobre a repressão e radicalização do abolicionismo, ver DUQUE-ESTRADA, 1918, p.187, 193-201, _passim_ ; MORAES, 1924, p.148, 155-160. Sobre a desestabilização do setor rural e _quilombos paulistas_ , ver as citações na nota 13. Sobre a campanha de Carlos Lacerda em Campos, nas 
+
+310 
+
+Revista Brasileira de História, vol. 33, ~~n~~<sup><u>o</u></sup> 65
+
+---
+
+[referencia=62be90304dbfbc60 score=0.057]
+# O chamado às armas: o abolicionismo radical de Nabuco em 1885-1886<sup>1</sup> 
+
+_The Call to Arms: Nabuco’s Radicalized Abolitionism of 1885-1886_ 
+
+Jeffrey D. Needell* _Tradução: Flavia Uliana Lima_ 
+
+### Resumo 
+
+O papel de Nabuco no movimento abolicionista tem sido caracterizado de diferentes maneiras, em relação tanto às suas próprias visões políticas quanto ao seu significado no processo que levou ao fim da escravidão em 1888. Pesquisas sugerem que tanto as visões de Nabuco quanto o seu significado mudaram no contexto contingente da trajetória histórica do movimento. Uma das conjunturas mais críticas que demonstraram isso foi o ano transformador de 1885, em que o artigo se concentra. Conforme se demonstrará, a campanha abolicionista de pressão pública, iniciada por Nabuco e seus aliados naquele ano, mobilizaram um movimento nas ruas e nos campos que, por sua vez, remontariam à imprensa e ao parlamento para reverter a política da Coroa e forçar um fim legal à escravidão. 
+
+Palavras-chave: movimento abolicionista; Joaquim Nabuco; política parlamentar.
+
+---
+
+[referencia=62be90304dbfbc60 score=0.056]
+13 Os esforços ilegais mais significativos no setor rural foram aqueles associados com Antonio Bento; ver SILVA, 1895, 1896, v.2, p.311 para contexto e NABUCO, _Minha formação_ , 1900, p.227; CELSO, Afonso. _Oito anos de parlamento_ , 2.ed. Brasília: Senado, 1981 [1901]. p.91; DUQUE-ESTRADA, 1918, p.216; MORAES, 1924, p.261-276, 304-309; COSTA, Emilia Viotti da. _Da senzala à colônia_ . 2.ed. São Paulo: Ciências Humanas, 1982 [1966], p.425, 430; CONRAD, 1972, p.242-247; e MACHADO, Maria Helena. _O plano e o pânico_ : os movimentos sociais na década da Abolição. São Paulo: Edusp, 1994. cap. 4, _passim_ . A fonte básica é o livro de memórias de um dos seguidores de Antonio Bento; ver ANDRADA, António Manuel Bueno de. A Abolição em São Paulo. Reportagem de _O Estado de S. Paulo_ , 13 maio 1918, em Publicações: páginas esquecidas. _Revista do Arquivo Municipal_ , v.78, p.261-272, jun.-jul. 1941. Para a ciência de Nabuco acerca de trabalho clandestino, ver por exemplo Martinho Prado Junior para Amigo Nabuco, São Paulo, 25 mar. 1886, CPp328doc.6684, AJN; e Nabuco para Meu distincto Correligionario, Rio, 18 out. 1886, CAp5doc.91, ibidem.
+
+---
+
+[referencia=62be90304dbfbc60 score=0.055]
+### Abstract 
+
+Nabuco’s role in the Abolitionist movement has been characterized in different ways, both in regard to his own political views and in regard to his significance in the process that led to slavery’s end in 1888. Research suggests that both Nabuco’s views and his significance changed within the contingent context of the historical path of the movement. One of the most critical conjunctures demonstrating this is the transformational year of 1885, upon which this article focuses. As will be shown, the Abolitionist campaign of public pressure, initiated by Nabuco and his allies that year, mobilized a movement in the streets and in the fields which, in turn, would reach back through press and parliament to reverse crown policy and compel a legal end to slavery. 
+
+Keywords: Abolitionist movement; Joaquim Nabuco; parliamentary politics. 
+
+* Affiliate Professor of Latin American Studies. Department of History, University of Florida. P.O. Box 117320 Gainesville, FL 32611-7320 USA. jneedell@history.ufl.edu 
+
+_Revista Brasileira de História_ . São Paulo, v. 33, nº 65, p. 291-312 - 2013 
+
+Jeffrey D. Needell
+
+---
+
+[referencia=62be90304dbfbc60 score=0.042]
+Foi nesse contexto, da queda de Dantas em 1885, com o oportunismo reacionário de Saraiva e a repressão ferozmente reacionária de Cotegipe, que o movimento abolicionista radicalizou novamente. Desta vez, Nabuco permaneceu no Brasil e tornou-se um ator importante nessa radicalização. Em alguns momentos esse foi um processo francamente revolucionário, que se estendeu de meados de 1885 até o início de 1888, até o colapso da administração Cotegipe e a abolição da escravidão. Aqui, devemos destacar o papel de Nabuco e sua percepção desse papel em 1885 e 1886, quando efetivamente tomou sua forma definitiva, levando aos triunfos de 1887 e 1888.<sup>11</sup>
+
+---
+
+[referencia=62be90304dbfbc60 score=0.040]
+mente em NABUCO, Joaquim. _Campanha Abolicionista no Recife_ : 1884: discursos de Joaquim Nabuco. 2.ed. Recife: Fundaj/Massangana, 1988 [1885]. Sobre o apoio abolicionista para Dantas e vice-versa, bem como o significado das eleições de 1884 e 1885, ver, também, a correspondência: Joaquim Nabuco para Meu querido Barão [Penedo], Rio, 23 jul. 1884, em NABUCO, Joaquim. _Cartas a amigos_ , 2v. São Paulo: Instit. Progresso, 1949. v.1, 116f; o mesmo para o mesmo, Rio, 31 jul. 1884, 118; o mesmo para o mesmo, Rio, 1 set. [1884], 119; o mesmo para o mesmo, Recife, 14 out. 1884, 120; o mesmo para meu caro Rodolfo, Recife, 27 out. 1884, 121f; o mesmo para o mesmo, [Recife,] 2 nov. 1884, 122f; o mesmo para Meu ilustre e saudoso Amigo [barão de Penedo], Recife 28 out. 1884, 123f; o mesmo para o mesmo, Pernambuco, 19 dez. 1884, 125; o mesmo para o mesmo, [Recife,] 20 dez. 1884, 125f; o mesmo para o mesmo, Pernambuco, 7 jan. 1885, 127f; o mesmo para o mesmo, Rio, 29 jan. 1885, 128f; o mesmo para Meu caro Amigo [João Clapp], Petrópolis, [8 maio 1885, 135f; o mesmo para Meu caro Barão [de Penedo]
+
+---
+
+[referencia=62be90304dbfbc60 score=0.030]
+O chamado às armas: o abolicionismo radical de Nabuco em 1885-1886 
+
+_mentares [1879-1888]_ . São Paulo: Instit. Progresso, 1949. p.236-255. Sobre os incidentes em Campos, ver PATROCÍNIO, José do. _Gazeta da Tarde_ , artigo de 19 set. 1885. In: PATROCÍNIO, José do. _Campanha abolicionista_ : coletânea de artigos. Rio de Janeiro: Biblioteca Nacional, 1996. p.108-109. Sobre a fala revolucionária dos militantes, Duque-Estrada (1918, p.186) cita Ciro de Azevedo, em 1886 defendendo “Conspiração nas casas, revolução nas ruas”. Os panfletos radicais e celebrados de Nabuco incluíam, em ordem, _O erro do Imperador_ . Rio de Janeiro: Leuzinger, 1886; _O eclipse do abolicionismo_ : segundo opusculo. Rio de Janeiro: Leuzinger, 1886; e _Eleições liberaes e eleições conservadoras_ : terceiro opusculo. Rio de Janeiro: Leuzinger, 1886. Todos foram publicados no início de 1886, em rápida sucessão.
+
+---
+
+[referencia=62be90304dbfbc60 score=0.027]
+310 
+
+Revista Brasileira de História, vol. 33, ~~n~~<sup><u>o</u></sup> 65 
+
+O chamado às armas: o abolicionismo radical de Nabuco em 1885-1886 
+
+planícies açucareiras da província do Rio de Janeiro, ver ibidem, p.235-250 (note que as origens dessa organização abolicionista datam de 1884 e as primeiras ações radicais, de março de 1885). Para o quilombo citado do Rio, no Leblon, ver SILVA, Eduardo. _As camellias do Leblon e a abolição da escravatura_ : uma investigação de história cultural. São Paulo: Companhia das Letras, 2003.
+
+---
+
+[referencia=62be90304dbfbc60 score=0.025]
+O chamado às armas: o abolicionismo radical de Nabuco em 1885-1886 
+
+sua capacidade tanto para governar quanto para conter o abolicionismo era nula; estavam divididos demais como partido para qualquer das alternativas. De fato, após a aceitação da renúncia pelo imperador, ele buscou encontrar um líder liberal disposto a governar. Absolutamente ninguém pensou que ele pudesse ter sucesso onde Saraiva receava uma derrota. Por fim, o monarca foi obrigado a voltar-se para os conservadores.<sup>9</sup> 
+
+João Alfredo, o herdeiro do visconde do Rio Branco entre os reformistas no partido conservador, recusara-se a apoiar Dantas no movimento pela abolição quando pressionado pelo imperador para fazê-lo. Todavia, oferecera apoio conservador para uma reforma abolicionista. Ele fortalecera as alegações de seu partido a esse respeito persuadindo seu líder reconhecido, o barão de Cotegipe, a anunciar publicamente seu apoio a uma reforma abolicionista conservadora no final de 1884. Quando os liberais recusaram-se a governar, o imperador viu-se forçado a procurar Cotegipe (20 de agosto de 1885). O barão prometeu passar a reforma Saraiva no Senado, e o fez (28 de setembro de 1885). Ele então deu as costas para qualquer legislação abolicionista posterior no parlamento, pediu e recebeu a dissolução da Câmara dominada pelos liberais, dedicou-se à eleição de uma Câmara dominada por conservadores e direcionou sua polícia e agentes secretos contra o movimento, reprimindo-o na cidade e no campo.<sup>10</sup>
+
+---
+
+[referencia=62be90304dbfbc60 score=0.024]
+O significado do caso apenas faz sentido na política de 1886. Nabuco publicou o relato para condenar a escravidão e o gabinete que a defendia. Dantas publicou o artigo de Nabuco pelas mesmas razões. Dantas o usou, na realidade, como uma das muitas armas em um momento no qual estava mobilizando a opinião parlamentar contra a posição cínica do gabinete sobre a reforma abolicionista – este alegou ser reformista (porque levara adiante a reforma distorcida de 1885) enquanto reprimia o movimento abolicionista e qualquer reforma posterior. Essa foi a maior campanha dos abolicionistas na imprensa e nas ruas. A campanha parlamentar travada por Dantas foi tão bem-sucedida que ele chegou a recrutar base suficiente no Senado para bloquear o orçamento relativo à agricultura no gabinete, uma vitória sem precedentes, profundamente constrangedora para a administração. Cotegipe teve de romper a coalizão no Senado que Dantas montara, e teve de recompor a posição de seu gabinete no parlamento como um todo. Para tanto, exerceu toda a sutileza disciplinar pela qual seu partido (assim como ele próprio) era famoso. Também buscou retirar um pouco da base moral de sua oposição abolicionista apoiando a reforma da pena de açoites, tirando assim essa arma de seus inimigos. Para aqueles que apontaram a contradição entre sua proteção à escravatura e seu apoio a tal reforma, ele deixou claro que a reforma não tocava no direito dos escravistas de fazerem o que bem entendessem com os cativos em suas plantações; ela apenas reformou o que o Estado imperial poderia fazer. As manobras do gabinete funcionaram. Em outubro de 1886 a reforma foi aprovada, com o apoio do gabinete. Naquele mesmo mês, o gabinete teve um voto de confiança do parlamento como um todo.
+
+---
+
+[referencia=62be90304dbfbc60 score=0.023]
+5 Sobre a organização do movimento, ver MORAES, 1924, cap. 3; DUQUE-ESTRADA, Osorio. _A Abolição (esboço historico): 1831-1888_ . Rio de Janeiro: Leite Ribeiro & Maurillo, 1918. p.83-128; e o clássico relato erudito CONRAD, Robert. _The Destruction of Brazilian Slavery_ : 1850-1888. Berkeley: Univ. of California Press, 1972. chs. 9-13. O diário de André Rebouças nos fornece datas críticas da organização e da propaganda do movimento e o papel contínuo de Nabuco em ambos, mesmo quando no exterior; ver, por exemplo, REBOUÇAS, André. Datas entre abril e maio, diário 1883, DL464.2. Coleção André Rebouças, Instituto Histórico e Geográfico Brasileiro (observe-se que esses eram o mês que antecede e o mês corrente da abertura anual do parlamento); ver, especialmente, 4 maio, 5 maio, 9 maio, 10 maio, 12 maio, 14 maio, 16 maio, 6 jun. Sobre o retorno de Nabuco, ver NABUCO, Joaquim, 24 fev., 24 abr. 1884, em _Diários_ , 2v. Rio de Janeiro: Bem-Te-Vi, 2005, v.1, p.262. Sobre o abolicionismo de Nabuco, ver NEEDELL, 1991, p.163-165. Sobre o uso público dos abolicionistas acerca da chegada de Nabuco e da antecipação da propaganda do movimento posteriormente, ver André [Rebouças] para Meu Nabuco, Petropolis, 2 maio 1884, em CPp12doc.234, Arquivo Joaquim Nabuco [daqui por diante, AJN].

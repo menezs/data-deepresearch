@@ -1,0 +1,298 @@
+[referencia=5b986783a5620607 score=0.548]
+But Germany was far from being the only country to benefit from the use of short-time work/worksharing during this crisis. In their comparative analysis, Hijzen and Venn (2011) found that among the 34 countries in the OECD, 24 countries used short-time work or comparable instruments during the global financial crisis; in 22 of them, either these regulations were newly introduced or existing regulations were expanded and adapted to the challenges of the crisis. An important distinguishing criterion of these schemes was the extent of the permitted reduction of hours of work: 15 countries set a lower limit for the reduction, ranging from 10 to 40 per cent of contractual weekly hours of work, while in the other countries weekly hours of work could also be reduced to zero. Most countries also presupposed agreements by the social partners in the companies and/or a justification of the economic necessity for this scheme, so that the share of state subsidies and the labour costs remaining with the companies differed significantly among countries, as did the employees’ entitlement to earned income. This was also true for the maximum duration of benefits, which ranged from three months to two years or more; countries with short durations of short-time work were mostly more generous in the amount of shorttime compensation benefits. 
+
+More important in the context of working-time effects, however, was the actual use of work-sharing/ short-time work. Hijzen and Venn found that the highest shares of employees on short-time work in 2009 were observed in Belgium (just under 6 per cent), Türkiye (4 per cent) and Italy, Germany and Japan (about 3 per cent each). The manufacturing sector was the main focus of short-time work; in a comparison of these and other countries, about 9 per cent of employees were on short-time work in this sector in 2009. This was followed at a considerable distance by the construction sector, where the share was just under 3 per cent. However, countries differed greatly in terms of the reductions in hours of work associated with short-time work. Whereas in Spain, Finland and Norway this was about 90 per cent or more of full-time hours of work, the reduction in countries listed with high usage during the global financial crisis was significantly lower, at about 40 per cent in Belgium, approximately 30 per cent in Türkiye and just under 30 per cent in Japan and Germany. 
+
+117 
+
+5. Working time-related crisis response measures
+
+---
+
+[referencia=e80f3cdc11336721 score=0.370]
+# **Statement from the Initiators** 
+
+Over the past twelve months, the impression emerged that the debate around the four-day workweek in Germany had lost momentum with the federal elections. Discussions about work time reduction gave way to calls for longer hours and a more critical stance toward part-time arrangements. The question emerged: Had the chapter of “New Work” — to which the four-day week undoubtedly belongs — come to an end? 
+
+From our perspective as practice partners of the study, however, what we observed was not an ending but rather a shift: **from public hype to a more focused and serious examination.** Organizations today are less concerned with symbolic models and more focused on the fundamental question of how productivity, efficiency, and employer attractiveness can be designed in a way that remains viable under real economic conditions. 
+
+This is precisely where the findings of the update report resonate with our experience in organizational development: **Companies are no longer searching for an ideological 4-or-5-day solution, but for a sustainable mix of structure, flexibility, and performance orientation.** Working time is increasingly understood as a design variable rather than a dogma — especially in a moment in time where AI-based tools are beginning to redefine how work itself is organized and executed. What matters most is the ability to adapt models, sharpen processes, and actively involve employees in this transformation. 
+
+**Working time reduction is not a golden bullet; it is a change process.** And like any meaningful change process, it requires investment, leadership, and clarity. The report underlines that the real challenge lies less in the specific model and more in the adaptability of people and organizations. The broader questions it raises — about the relationship of work, life, and performance — have also guided our thinking beyond the study in our capacity as Consultants. 
+
+
+
+**Thus, the report offers an alternative perspective on the current economic policy debate in Germany.** It suggests that performance does not necessarily result from increasing working hours, but rather from smarter work organization, clearer prioritization, and adaptive structures. With or without a four-day week, the decisive factor is not the number of working days, but an organization’s ability to design work in a way that allows performance, health, and innovation to reinforce one another over the long term.
+
+---
+
+[referencia=5b986783a5620607 score=0.317]
+124 
+
+Working time and work-life balance around the world 
+
+
+
+EU countries, the proportion of respondents who reported working-hours reductions was particularly high in Italy, Spain, Poland and France, at more than 40 per cent of respondents. Germany ranked in the middle of the distribution, at 35 per cent, while the Netherlands, Sweden and Denmark had significantly lower shares of respondents with working-hours reductions, at about 20 per cent, which is likely due to the fact that they had the highest shares of total telework – including home-based and mobile telework – in the EU before the pandemic (Gschwind and Vargas 2019). This survey also reveals considerable differences by sector. According to the survey, the shares of respondents with reduced hours of work are highest in the commerce, hospitality and construction sectors, at more than 50 per cent, followed by the transport and industry sectors, at just under 50 per cent. At the bottom of the scale are the health and public administration sectors, at approximately 20 per cent (Figure 45). 
+
+> X **Figure 45. Decrease in hours of work by sector (EU, in %)** 
+
+
+
+<!-- Start of picture text -->
+Commerce and Hospitality 52%<br>Construction 52%<br>Transport 48%<br>Industry 47%<br>Other Services 36%<br>Education 36%<br>Financial Services 30%<br>Agriculture 24%<br>Health 23%<br>Public Administration 21%<br>EU 27 37%<br>0% 10% 20% 30% 40% 50% 60%<br><!-- End of picture text -->
+
+**Source:** Eurofound (2020b). 
+
+125 
+
+5. Working time-related crisis response measures 
+
+
+
+In addition to the comparative data presented, turning the gaze towards single countries can provide complementary or new insights into working-time reductions. In the first quarter of 2020, the decline in hours of work was very severe in Mexico (about -40 per cent), Türkiye (about -35 per cent) and Canada and the United States (more than -20 per cent)(ILO and OECD 2020).
+
+---
+
+[referencia=e80f3cdc11336721 score=0.229]
+In parallel, the legal right to part-time work and possible restrictions are also under discussion, prompted in part by initiatives from business-oriented circles within the Union parties, which seek to tie part-time work more closely to specific justifications (Süddeutsche Zeitung, 2026. This has sparked further political debate about the scope of employee rights (Deutscher Bundestag, 2026. 
+
+Against this backdrop, the German pilot study on the 4DW revealed a nuanced impact profile at both the organizational and employee levels. In terms of performance and productivity, key financial indicators remained broadly stable despite reduced working hours and less overtime. Employer attractiveness appeared to benefit from higher life satisfaction and improved retention. 
+
+Regarding health, employees reported improvements, supported by increased physical activity and longer sleep duration, though no clear reduction in absenteeism was observed. Leisure activities also gained more space, with participants reporting more time for family, recreation, and self-care (Backmann et al., 2024. Early international research on WTR similarly points to positive effects on employee well-being (Fan et al., 2025. 
+
+At the same time, the German trial also surfaced initial indications that the transition to reduced working hours is not a guaranteed success. It can entail costs, organizational challenges, and a risk of failure. Moreover, evidence on the long-term sustainability of work time reduction (WTR initiatives and their positive effects remains limited, a particularly pressing gap given that the social, political, and economic conditions outlined above place additional pressure on such initiatives. 
+
+4 
+
+WORK TIME REDUCTION IN GERMANY 
+
+Study Context 
+
+
+
+###### **The aim of this update report is therefore to track further developments in the participating organizations and assess their status roughly two years after the start of the trial.** 
+
+The focus is on the stability of the models introduced, possible adjustments, alternative forms of working time arrangements, as well as the reasons for and outcomes of transitions back to full-time schedules. 
+
+To this end, we first provide an update on key findings regarding the continued or adapted implementation of the 4DW, before highlighting the developments observable over time.
+
+---
+
+[referencia=5b986783a5620607 score=0.223]
+Countries or areas with lower overall rates of mismatch have some of the lowest rates of underemployment, including Germany, Sweden, Switzerland, Norway and Finland. These countries demonstrate that the highest levels of overemployment are not associated with the overall highest mismatch rates, suggesting that these countries or areas’ labour markets are relatively less plagued by subjective underemployment. Also, the strongest relative preferences for more money (versus time) are apparent in the lower-tomiddle-income and emerging economies, especially in South Africa, Mexico, Suriname, India and the Philippines, as well as in the former communist countries or areas, particularly Georgia, Lithuania, the Russian Federation, Croatia and Slovakia, and to some extent in Poland, Estonia and Hungary as well. However, subjective underemployment is also notably above average in France and to some extent in the United States. In contrast to the case with the objective measure, rates of overemployment are quite clearly lower in countries or areas in which underemployment is high, and vice versa. Unsurprisingly, a significant negative correlation coefficient of more than -0.70 exists, suggesting that there is considerable substitutability – where underemployment is high, overemployment is low; while where there is more overemployment, there is less underemployment. There is considerable consistency with prior findings using the objective measure – although the levels are different, some of the same countries or areas are found to produce worse or better matches between actual and preferred hours of work. The objective measure tends to capture more effectively the presence of overemployment, while the subjective measure captures more effectively the presence of underemployment. Therefore, the attempt to measure the perceived imbalance between work time and non-work time may be somewhat sensitive to the framing of the question, which may justify measuring that imbalance in different ways. 
+
+86 
+
+Working time and work-life balance around the world 
+
+
+
+> X **Table 7. Subjective mismatch ratios in all 37 ISSP survey countries or areas (based on question 11)**
+
+---
+
+[referencia=5b986783a5620607 score=0.201]
+However, there were notable differences between schemes. One important difference was the volume of allowances granted by the regulations. In the European countries, the _volume of allowances_ ranges from 50 per cent to 100 per cent of the previous remuneration. Allowances amounting to 100 per cent of previous remuneration are paid in the Netherlands and Denmark, and amounting to 50 per cent in Poland. In some cases, the regulations also provide for ranges of allowances based on the amount of the original salary. In Austria, allowances are graded from 80 per cent to 90 per cent – or the duration of the entitlement; in Germany, they range from 60 per cent to 87 per cent of the original salary, depending on the duration of short-time work/work-sharing and marital status of the employees; and in Czechia, they are based on the reasons for work-sharing (Müller and Schulten 2020). Some regulations also draw on the level of national minimum wages as a lower limit for the amount of allowances. At the same time, reference ceilings for maximum allowances are also set, either as an absolute value or as a maximum amount related to the minimum wage or the national average wage (Müller and Schulten 2020). 
+
+Another important distinction between the forms of job retention is that between _short-time work/worksharing_ , in which reduced hours of work – with or without social security contributions – are taken over by the state either partially or completely, and the _subsidization of wages via ad hoc wage subsidie_ s, regardless of the actual reduction in hours of work. In the anglophone countries Australia and New Zealand, as well as in Denmark, the second model was favoured. Here, government subsidies can be used by firms to keep non-standard workers employed or rehire workers who are unemployed. In the Netherlands, which has changed its traditional short-time work model to a wage subsidy scheme, government wage subsidies are provided in proportion to the decline in sales (up to a decline of 90 per cent), with workers kept on at 100 per cent of their earnings. In this model, within the limits of the wage subsidy companies are not forced to pay a share of the costs and are not required to provide proof of hours worked. At the same time, this increases the incentive to keep employees working as many hours as possible (OECD 2020).
+
+---
+
+[referencia=5b986783a5620607 score=0.169]
+###### X **Box 8. Icelandic reduced workweek pilot (continued)** 
+
+###### **Results** 
+
+###### _(1) Real working-time reduction_ 
+
+Opponents of the workweek reductions argued that that it would lead to increased overtime as employees would have to catch up outside normal working hours (Haraldsson and Kellam 2021). However, there was no evidence supporting this hypothesis in either pilot. Service provision remained at the same level, with the time reduction coming from “rethinking how tasks were completed: shortening meetings, cutting out unnecessary tasks, and shift arrangements” (Haraldsson and Kellam 2021). As a result, the workweek reduction was achieved through changes to working practises to ensure achieve efficiency of time use. 
+
+###### _(2) Productivity increase and service provision_ 
+
+The majority of data collected on the Icelandic trials suggests that service provision remained the same. The report (Haraldsson and Kellam 2021) contains detailed quantitative analysis of each department’s services and found a continuity of service quality as well. It can be extrapolated from these results that there was an increase in productivity given that the same service was provided with fewer hours of work.
+
+---
+
+[referencia=5b986783a5620607 score=0.143]
+###### X **Box 8. Icelandic reduced workweek pilot** 
+
+Between 2015 and 2019, Iceland implemented two large-scale pilots of reduced working weeks of 35–36 hours, which at their peak covered more than 1 per cent of the working population. The reductions did not affect salaries. The first pilot was conducted by the Reykjavík city authorities and a trade union confederation, the Federation of State and Municipal Employees (BSRB). The second pilot was conducted in 2017 by the Icelandic Government and BSRB. The pilots were conducted in the context of Iceland having some of the longest hours of work in the OECD (Haraldsson and Kellam 2021). Also, Iceland suffered from low productivity levels and proponents presented the reduction in hours of work as a solution to this problem. 
+
+###### **Trials** 
+
+###### _Reykjavík pilot (2014–2019)_ 
+
+Two committees were set up to manage the scheme and working-time reductions were tailored for each workplace based on specific duties and modes of operation. The pilot began with two groups of 66 workers. Over the five-year period, the number of participants increased to 2,500 employees in a range of workplaces, including playschools, care homes and social services centres. 
+
+###### _Icelandic Government pilot (2017–2021)_ 
+
+A working group was established in 2016 and all government departments were invited to join the pilot. A variety of departments took part, including a police department and the migration directorate. The pilot began with 440 staff members and eventually encompassed 2,500 employees, equivalent to 1.3 per cent of the Icelandic workforce. For both pilots, steering committees were used to help promote effective implementation of the workweek reductions and ensure dialogue between management and workers. After the conclusion of the pilots, collective agreements were signed that gave 86 per cent of the Icelandic workforce a reduced workweek or the right to shorten their hours (Haraldsson and Kellam 2021). 
+
+146 
+
+Working time and work-life balance around the world 
+
+
+
+###### X **Box 8. Icelandic reduced workweek pilot (continued)** 
+
+###### **Results**
+
+---
+
+[referencia=e80f3cdc11336721 score=0.137]
+**Ultimately, the results suggest that there is no single "right" model.** For some organizations, the advantages clearly outweigh the costs, while for others the balance tilts in the opposite direction. The key insight is that success depends less on adopting a specific format and more on finding a version of WTR that fits the organization's strategy, structure, and business reality and on being prepared to adapt that version as circumstances change. 
+
+15 
+
+Statement from the Initiators 
+
+WORK TIME REDUCTION IN GERMANY
+
+---
+
+[referencia=e80f3cdc11336721 score=0.131]
+# **1. Study Context & Introduction** 
+
+At the beginning of 2024, 45 organizations from various industries in Germany began piloting a four-day-week (4DW over a six-month period. Summary results were presented after the trial period in the report "The 4 Day-Week in Germany: First Results of Germany's Trial on Work Time Reduction," published in October 2024. The report examined performance and productivity, employer attractiveness, health, leisure activities, and social impacts (Backmann et al., 2024. 
+
+Overall, a clear tension has emerged: while some politicians and employer representatives call for extended hours and greater flexibility, trade unions and employee representatives emphasize the protective function of existing limits and advocate for relief rather than expansion. Precisely because the debate oscillates between these two poles, the question of what effects specific work time models actually have in practice is becoming increasingly important. 
+
+The relevance of these findings has since grown, as working hours remain a central topic of political debate in Germany. Particularly contentious is a proposal to make the Working Hours Act more flexible by shifting from a daily to a weekly maximum limit, planned for implementation in 2026. Proponents of the reform, including the Confederation of German Employers' Associations (BDA and the German Skilled Crafts Association (ZDH, argue that the current daily limit is outdated and ill-suited to modern, often project-driven and digitalized ways of working (Deutscher Bundestag, 2024. Hence, the shift does not necessarily mean longer hours, but rather a more flexible distribution of working time. Furthermore, the reform would bring German legislation in line with the EU Working Time Directive (2003/88/EC, which already operates on a weekly basis (Legal Tribune Online, 2025. On the other hand, Ver.di, the German Trade Union Confederation (DGB, and the Economic and Social Science Institute (WSI have warned against longer working days, less predictable schedules, and potential risks to health protection, with some announcing their opposition (Tagesschau, 2026.
+
+---
+
+[referencia=5b986783a5620607 score=0.128]
+Figure 31a highlights the significant variations in the incidence of part-time employment across the world and among country-income groups. In high-income countries or areas, part-time employment is the highest in the Netherlands: part-time work measured as the percentage of workers who work less than 35 hours a week makes up 52 per cent of employment in that country. Compared with other countries or areas in Europe and Central Asia, this is more than 10 percentage points higher than the share of parttime work in Sweden, Norway or Switzerland. While the incidence of part-time employment is generally higher in high-income countries or areas, Nigeria, Peru, Rwanda and the United Republic of Tanzania are outliers among developing and emerging countries or areas, with more than 40 per cent of their workers in part-time employment. By contrast, part-time employment has a low incidence in the Arab States and many formerly communist countries or areas. Part-time employment represents less than 5 per cent of total employment in the United Arab Emirates and Saudi Arabia and less than 10 per cent in Bulgaria and the Russian Federation. Overall, there is considerable variation in the incidence of part-time work in the sample of countries and areas shown in figure 31a. 
+
+- X **Figure 31a. Part-time employment as a percentage of total employment, selected countries or areas by country-income group, 2018–2019**
+
+---
+
+[referencia=e80f3cdc11336721 score=0.124]
+Two years after the start of the trial, the landscape is characterized by diversity rather than uniformity. While a clear majority of organizations have maintained a WTR, the specific models in use have diversified further. At the same time, the share of organizations who have returned to conventional schedules, underscore that WTR is not a straightforward undertaking. The extent to which organizations were able to sustain the model appears closely linked to their economic conditions, operational demands, and willingness to adapt the original format. These findings suggest that the longterm viability of WTR depends not only on initial enthusiasm, but also on an organization's capacity to absorb and respond to the practical challenges that emerge over time. 
+
+##### **Overview of movements of the organizations since 2024** 
+
+
+
+7 
+
+Organizational Perspective 
+
+WORK TIME REDUCTION IN GERMANY
+
+---
+
+[referencia=5b986783a5620607 score=0.093]
+Finally, the different levels of telework in the COVID-19 pandemic were also determined by the potential for telework that exists due to the “teleworkability” of different activities in the economic structure of a country (Sostero et al. 2020). This potential varies from country to country. At the lower end of the scale are many countries in Central Eastern Europe, such as Romania, Slovakia, Bulgaria or Hungary, with a potential of about 30 per cent of jobs or less. At the upper end of the scale, in Belgium, Denmark, the Netherlands and Sweden the potential of teleworkability spans more than 40 per cent of jobs – and in Luxembourg 55 per cent of jobs. France and Germany, the largest countries, rank slightly above the European average, with a potential of slightly less than 40 per cent. Telework has become an important feature of working-time reality in other regions of the world as well, albeit much less systematically explored than the European experiences. However, examples from non-European countries show that developments and practices are rather similar to the European findings. Analysing a good practice case from Brazil, one study shows how a software company has implemented telework as a reaction to the lockdown imposed by a local government (Lopes de Lucena Alves, Alves Amoirin and Cunha Bezerra 2020). Although it was an emergency measure and despite the lack of other models of telework in the region, the instrument proved to be successful, as the company was able to continue production, find new ways to communicate and develop new business strategies. However, further adaptations were necessary as employees complained about long hours of work and a lack of leadership and social interaction. Telework also became a new reality of work in Türkiye during the COVID-19 pandemic. The starting point was the lockdown – the suspension of education in schools and universities or entry and exit bans for metropolitan cities – implemented by the Government in March 2020, combined with new regulations for telework. Based on qualitative interviews, Turkmenoglu et al. (2020) made the ambivalent finding that workers on the one hand appreciate telework as a new opportunity, but at the same time complain about the extension of hours of work and problems in accessing work-related materials, whereas managers stressed the problem of losing control over their work teams (Eurofound and ILO 2017).
+
+---
+
+[referencia=5b986783a5620607 score=0.068]
+For regions and countries in which the 40-hour workweek already exists, experimentation with reduced full-time hours<sup>28</sup> may occur at the national level, such as in Iceland (see box 8) and more recently in Spain and the United Kingdom, as described below; at the sectoral level via innovative collective agreements, such as the one between the trade union IG Metall and the employers’ organization Gesamtmetall (IG Metall 2018); or at the enterprise level, such as in a recent experiment with a four-day workweek by one New Zealand company (Graham-McLay 2018). A reduction of hours of work may mean a shorter workday (such as a six-hour workday); a shorter workweek (such as a five-day or four-day workweek, depending on the existing national standard for normal hours of work); or a shorter working year achieved via additional days of paid annual leave, paid holidays and/or other types of paid leave, in line with the principles of the Workers with Family Responsibilities Recommendation, 1981 (No.165). 
+
+28 Unlike for part-time work, a reduction of full-time hours of work does not imply a reduction in pay. 
+
+145 
+
+6. Conclusions and implications for policy 
+
+
+
+Some prominent pilot tests of reduced workweeks were in progress at the time of preparation of this report. For example, Spain launched a three-year, €50 million pilot project that allows companies to test reduced hours with minimal risk. During the trial period, the costs of implementing a four-day workweek pilot may be covered at 100 per cent for the first year, 50 per cent for the second year and 33 per cent for the third year (Kassam 2021). Importantly, this pilot project is expected to ensure no loss of jobs or reduction in salary. 
+
+There is also an ambitious pilot experiment with a four-day workweek under way in the United Kingdom, involving more than 70 organizations and led by the non-profit group 4 Day Week Global, in collaboration with the think tank Autonomy and researchers from Cambridge Univeristy, Oxford University and Boston College. It has shown some promising results as of the halfway point, with 88 per cent of the respondents to a survey of participating organizations reporting that the four-day workweek worked well for their enterprise and 49 per cent reporting improved productivity, while 46 per cent reported achieving the same level of productivity in the reduced workweek (Lockhart 2022).
+
+---
+
+[referencia=5b986783a5620607 score=0.067]
+Against the background of a once-in-a century pandemic and the resulting global economic crisis, this chapter of the report explores the following questions. Which working-time-related measures were used to cope with the COVID-19 pandemic? What effects did they have in terms of job security, working-time autonomy or work–life balance? What country differences can be identified? And to what extent did lessons from the working-time experience of the global financial crisis play a role in managing the crisis? These questions are examined in sections 5.3 and 5.4 below, in which we trace the measures of workingtime reduction and the development of working-time flexibilization. Section 5.3 therefore deals with the spread of “classic” working time-related measures to safeguard employment, such as short-time work/ work-sharing and job-retention schemes, overtime reductions and plant closures (compulsory leave), as well as similar measures of working-time reduction, with and without financial compensation. Section 5.4 deals with the use of flexible working hours, including the abolition of existing statutory workingtime limits; the role of working-time accounts; the reinterpretation of life-course-related working-time 
+
+> 20 The use of the terminology with respect to “work sharing” or “short-time work” varies across countries. While in Europe the term “short-time work” is very common, in the United States, Canada and Japan the term “work sharing” is used. Regardless of the term used in a specific country, these measures are designed to maintain employment by reducing hours of work instead of resorting to layoffs. 
+
+> 21 Telework can be defined as using information and communications technologies (ICTs) to perform work from outside the employer’s premises. Although telework can be performed from almost any location, it is typically performed either from a worker’s home (“home-based telework”, “working from home” or “home office”) or on a mobile basis (“mobile telework”, “mobile work” or “ICT mobile work”). 
+
+111 
+
+5. Working time-related crisis response measures 
+
+
+
+measures such as elective working hours (Wahlarbeitszeiten); and telework as a combination of flexible working times and working spaces. Sections 5.3 and 5.4 are preceded by a short preface in section 5.2, which emphasizes the importance of working time as an instrument of economic crisis management and outlines the data situation concerning the development of working time during the COVID-19 crisis.
+
+---
+
+[referencia=5b986783a5620607 score=0.061]
+The introduction and development of this type of short-term working-time flexibility instruments has long been the focus of companies and employees alike. In industrial production areas, in addition to the classic form of overtime work, working-time accounts, which enabled companies to react quickly and easily to fluctuations in the order situation, became increasingly widespread. In the service sector, various forms of flextime work with so-called core working hours became established. Since the turn of the millennium, however, and increasingly in the last decade, there has been a growing interest in longterm or life-phase-related working-time flexibility, that is, measures that take into account the different time requirements and availabilities of employees over the life course. These measures may be occasionrelated (parental or care leaves, qualification phases) but may also take into account new life concepts and allow temporary time off or working-time reductions without explicit reasons (long-term workingtime accounts; sabbaticals; the new Brückenteilzeit in Germany, which grants temporary part-time work with a right to return to the previous hours of work; and more recent collective bargaining agreements that allow employees to choose between a collectively agreed pay increase and time off). The more measures a company has already established, the more options it has to react spontaneously in times of crisis and the smoother the transition is likely to be. In this context, studies on home-office working during the pandemic, for example, show that the transition is faster and smoother when employees (or establishments) have had experience before the crisis (Frodermann et al. 2020). 
+
+In sum, companies have at least potentially a wide range of instruments at their disposal that enables them to respond to changes in work volume demands by adjusting personnel and/ or hours of work. As the following analyses will show, almost all of these flexibility instruments were used in the current crisis in one country or another, sometimes in a modified form and sometimes in combination. 
+
+However, this scope is sharpened and limited by both the political framework of working-time policy and institutional regulations. This is particularly true with regard to the question of limiting personnel fluctuations through regulations on protection against dismissal, collective agreements or company negotiations with interest groups. In countries such as the United Kingdom or the United States, in which these are weakly developed, the possibility is opened up for companies to rely on “hire and fire” strategies, while in countries with strong regulations, such as Germany and Sweden, working-time flexibility is likely to play a far greater role. 
+
+112
+
+---
+
+[referencia=e80f3cdc11336721 score=0.060]
+# **References** 
+
+Backmann, J., Hoch, F., Hüby, J., Platz, M., Sinnemann. 2024. The 4-day-week in Germany: first results of Germany’s trial on work time reduction. Intraprenör, Berlin, Germany. 
+
+Campbell, T. T. 2024. The four-day work week: A chronological, systematic review of the academic literature. Management Review Quarterly, 743, 17911807. 
+
+Delaney, H., & Casey, C. 2022. The promise of a four-day week? A critical appraisal of a management-led initiative. Employee Relations: The International Journal, 441, 176190. 
+
+Deutscher Bundestag (2024. Expertenstreit über Flexibilisierung von Arbeitszeit. Available at: https:// www.bundestag.de/dokumente/textarchiv/2024/kw17-pa-arbeit-arbeitszeit-996224 Access 2026, 6. Februar). 
+
+Deutscher Bundestag. 2026, 3. Februar). Aktuelle Stunde: Beschäftigtenrechte. Available at: https:// www.bundestag.de/dokumente/textarchiv/2026/kw05-de-aktuelle-stunde-beschaeftigtenrechte-1139764 Access 2026, 4. Februar). 
+
+Fan, W., Schor, J. B., Kelly, O., & Gu, G. 2025. Work time reduction via a 4-day workweek finds improvements in workers’ well-being. Nature Human Behaviour, 910, 21532168. 
+
+Ivancevich, J. M., & Lyon, H. L. 1977. The shortened workweek: A field experiment. Journal of Applied Psychology, 621, 34.
+
+---
+
+[referencia=5b986783a5620607 score=0.045]
+###### X **Box 6. Relaxation of statutory working-time limits (maximum daily and/or weekly hours of work, rest periods, overtime)** 
+
+Not all sectors were equally affected by the slump in demand, as mentioned above. On the contrary, there was even a boom in labour demand in some individual sectors (such as the logistics, nursing<sup>23</sup> retail sectors). To address this and increase flexibility (while respecting the need for infection protection), existing regulations in some countries were supplemented by the relaxation of prevailing working-time standards. These standards differ in international comparison. The legal maximum working time in the EU, as in many other countries outside Europe, is 48 hours per week. There are also common rules for rest periods and vacations, which are laid down in Directive 2003/88/EC. Specific regulations also apply in individual Member States, but they remain within the framework of the Directive, which provides that each employee is entitled to a minimum rest period of 11 consecutive hours; a break must be granted after 6 hours; one day off (exactly 24 hours) must be granted for each seven-day period; the maximum hours of work per week of 48 hours, including overtime, cannot be exceeded; and the employee is entitled to a minimum paid annual leave of four weeks. 
+
+Several EU countries introduced temporary exceptions to this working-time regulation during the crisis. However, these exceptions did not apply to all sectors of the economy but were concentrated on sectors that were deemed critical for the continuity of economic and social life. In Germany, Austria and France, the new regulations allowed for an increase in hours of work per day from 10 to 12 hours and a reduction of the minimum rest period from 11 to 9 hours. Also, the ban of Sunday work was temporarily relaxed (Eurofound 2020a, pp. 18–19; Reich 2020). Moreover, extensions to existing overtime regulations were granted in several EU countries, for example in Finland, Greece, Portugal and Slovenia, which often meant that, on a temporary basis, the employer did not need the consent of the employee for overtime work (Eurofound 2020a, pp. 18–19). 
+
+In November 2021, due to a new peak of COVID-19 cases, the state of Saxony in Germany again allowed temporary exemptions from the Working Hours Act for the medical and nursing sector, the vaccinations sector and the crematoria sector (Germany 2021).
+
+---
+
+[referencia=5b986783a5620607 score=0.044]
+|Estonia|29.9|7.5|22.4|27.9|4.5|23.4|6.0|22.9|
+|Finland|31.7|8.3|23.4|30.2|6.4|23.8|7.3|23.6|
+|France|27.8|8.5|19.3|27.1|7.1|20.0|7.8|19.7|
+|Georgia|33.1|25.6|7.5|30.3|22.9|7.4|24.3|7.4|
+|Germany|27.3|5.7|21.6|28.0|9.1|18.9|7.4|20.3|
+|Hungary|14.2|3.4|10.8|13.2|2.0|11.2|2.7|11.0|
+|Iceland|35.5|3.2|32.3|32.8|4.1|28.7|3.6|30.5|
+
+
+
+76 
+
+Working time and work-life balance around the world 
+
+
+
+> X **Table 3. Objective mismatch rates based on national and ILO definitions of part-time/ full-time hours of work**<sup>**18**</sup> **in all 37 ISSP survey countries or areas (continued)**
+
+---
+
+[referencia=5b986783a5620607 score=0.033]
+For the portrayal of the current situation, we drew on official country statistics to gain an overview of what is happening in the labour market (layoffs, new hires) and the economy (developments in the volume of orders, working-time developments). We also drew on the compilations of international organizations such as Eurostat, Eurofound, ILO and the OECD. Furthermore, we analysed the results of surveys conducted – often on an ad hoc basis – to examine the impact of the COVID-19 crisis on income, work, addictive behaviour and on, as well as the impact at the company level on the order situation, innovations and personnel measures. However, most of the data obtained has the common feature that it remains primarily at a high aggregate level (IAW 2021). When establishments report that they have expanded hours of work, what does that mean specifically? Have the hours of work of employees been simply increased or have operating hours been expanded? How was this implemented? Was overtime used? Were hours of work saved on accounts or were employment contracts increased? What role, if any, did works councils, shop stewards or other forms of workers’ interest representation on establishment level play in this regard? And what effects did these measures have on safeguarding employment? Those questions remain unanswered. 
+
+The same applies to flexible work arrangements such as telework, specifically working from home. While it is well known that flexible work arrangements were used in many countries and across industries to maintain workflow while mitigating the spread of the virus, little is known about how telework was actually implemented. This is particularly the case for establishments that also allowed their teleworking employees to deviate their working time from standard working hours (for example, 8 a.m. to 5 p.m.) because, for example, there were children to be cared for at the same time. How often was this used? And if it was used, at what times was work done? 
+
+> 22 This lack of knowledge about which working-time flexibility instruments are regularly used in companies also applies to non-crisis periods. For example, the topic of “existing instruments of working-time flexibility” was still dealt with in detail in the European Company Survey 2004–2005, but in the subsequent survey in 2009 the topic was only represented by one question and was not dealt with at all in the two subsequent surveys in 2013 and 2019. 
+
+114 
+
+Working time and work-life balance around the world

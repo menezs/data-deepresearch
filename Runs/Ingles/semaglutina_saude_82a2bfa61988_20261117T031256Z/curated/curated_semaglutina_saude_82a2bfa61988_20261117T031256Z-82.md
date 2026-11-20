@@ -1,0 +1,181 @@
+[referencia=94b1481e7270addb score=0.933]
+# Semaglutide Linked to Suicidal Ideation, New Study Reveals
+
+*Chelsie Derman*
+
+A new study significantly demonstrated semaglutide, but not liraglutide, is associated with suicidal ideation.
+
+A recent study uncovered semaglutide may be linked to increased <sup>1</sup>
+
+“Until today, only a very recent cohort study using Market Scan data was sufficiently powerful to assess the risk of suicidality in real-life GLP-1 receptor agonist users,” wrote co-authors Francesco Salvo, MD, PhD and Jean-Luc Faillie, MD, PhD, in a commentary report.<sup>2</sup>
+
+Glucagon-like peptide-1 receptor agonists semaglutide and liraglutide were originally approved to treat type 2 diabetes but later got approved for chronic weight management due to their weight loss properties.<sup>1</sup> Now, these two drugs are commonly prescribed for the latter indication. Investigators wanted to see if semaglutide and liraglutide were linked to the disproportionately increased reporting of suicidality.
+
+Investigators, led by Georgios Schoretsanitis, MD, PhD, from The Zucker Hillside Hospital at Northwell Health in New York, conducted a disproportionality analysis through the case-control design using the World Health Organization (WHO) global database of suspected adverse drug reactions from November 2000 to August 30, 2023. The primary objective was to assess potential signals for suicidal and self-harm adverse drug reactions linked to semaglutide and liraglutide.
+
+The sample included clinical patients worldwide who experienced an adverse drug reaction that was suspected to be attributed to semaglutide or liraglutide. Participants had a mean age of 48 years and 55% were female.
+
+The main reason for a prescription was a possible off-label use (semaglutide: 31.8%; liraglutide: 33.9%), followed by weight loss (semaglutide: 26.2%; liraglutide: 24.7%), diabetes (semaglutide: 24.3%; liraglutide: 20.4%%), and 1 case for polycystic ovary syndrome for both semaglutide (0.9%) and liraglutide (0.6%).
+
+---
+
+[referencia=94b1481e7270addb score=0.912]
+In total, 107 participants on semaglutide had suicidal ideation or self-harm. Among these participants, the mean age was 48 years and 55% were female. A greater number of participants on liraglutide had suicidal ideation or self-harm (n = 162); the mean age of these participants was 47 years and 61% were female.
+
+Despite more patients on liraglutide numerically reported suicidal ideation or self-harm, significant disproportionality was only detected for semaglutide-associated suicidal ideation (Reporting odds ratio [ROR], 1.45; 95% confidence interval [CI], 1.18 – 1.77). Semaglutide-associated suicidal ideation remained significant in patients who took antidepressants (ROR, 4.45; 95% CI, 2.52 0 7.86) and benzodiazepines (ROR, 4.07; 95% CI, 1.69 – 9.82) when compared to dapagliflozin (ROR, 5.56; 95% CI, 3.23 – 9.60), metformin (ROR, 3.86; 95% CI, 2.91 – 5.12), and orlistat (ROR, 4.24; 95% CI, 2.69 – 6.69).
+
+“The number of reports showed a gradual increase over the years, which may indicate a widening therapeutic scope in obesity and accumulating clinical experience,” investigators wrote.
+
+Despite the significant findings, investigators highlighted several limitations, including barriers to reporting and missing information, the inability to infer causality, the lack of a denominator which prevents accurate incidence estimates of adverse drug reactions, biases, and limited confounder adjustment. Other limitations included missing treatment outcomes such as weight change and preexisting suicidal ideation.
+
+“In the meantime, the position of the US FDA recommending caution continues to be reasonable,” Salvo and Faillie wrote.<sup>2</sup> “Whatever the cause, depression or suicidality are rare but extremely severe events and need to be prevented and managed as much as possible.”
+
+They continued to write how until there is more promising data, GPL-1 receptor agonists, and appetite suppressants should be prescribed with caution in patients with a history of depression or suicidal attempts.
+
+---
+
+[referencia=94b1481e7270addb score=0.886]
+They continued to write how until there is more promising data, GPL-1 receptor agonists, and appetite suppressants should be prescribed with caution in patients with a history of depression or suicidal attempts.
+
+“…based on these findings, we believe that a precaution of use in patients with psychiatric disorders or psychological lability could be added in the semaglutide package insert,” Schoretsanitis and colleagues wrote.<sup>1</sup> “Remarkably, the FDA label of semaglutide for obesity warned to monitor for depression or suicidal thoughts.”
+
+**References**
+
+1. <sup>Schoretsanitis G, Weiler S, Barbui C, Raschi E, Gastaldon C. Disproportionality Analysis From World Health Organization Data on Semaglutide, Liraglutide, and Suicidality. *JAMA Netw Open.* 2024;7(8):e2423385. doi:10.1001/jamanetworkopen.2024.23385</sup>
+2. <sup>Salvo F, Faillie J. GLP-1 Receptor Agonists and Suicidality—Caution Is Needed. *JAMA Netw Open.* 2024;7(8):e2423335. doi:10.1001/jamanetworkopen.2024.23335</sup>
+
+---
+
+[referencia=5d7ebb1643a0c2c8 score=0.168]
+Author information:
+(1)Vascular and Metabolic Diseases Research Group, Endocrinology Department, Son 
+Llàtzer University Hospital, Health Research Institute of the Balearic Islands 
+(IdISBa), Palma de Mallorca, Spain; Interdisciplinary Group in 
+Neurodegeneration, Vascular and Metabolic Diseases, University of Balearic 
+Islands (UIB), Health Research Institute of the Balearic Islands (IdISBa), Palma 
+de Mallorca, Spain. Electronic address: jnicolauramis@gmail.com.
+(2)Interdisciplinary Group in Neurodegeneration, Vascular and Metabolic 
+Diseases, University of Balearic Islands (UIB), Health Research Institute of the 
+Balearic Islands (IdISBa), Palma de Mallorca, Spain; CIBER Fisiopatología de la 
+Obesidad y Nutrición (CIBERObn), Instituto de Salud Carlos III, 28029 Madrid, 
+Spain.
+(3)Dermatology Department, Son Llàtzer University Hospital, Palma de Mallorca, 
+Spain.
+(4)Vascular and Metabolic Diseases Research Group, Endocrinology Department, Son 
+Llàtzer University Hospital, Health Research Institute of the Balearic Islands 
+(IdISBa), Palma de Mallorca, Spain; Interdisciplinary Group in 
+Neurodegeneration, Vascular and Metabolic Diseases, University of Balearic 
+Islands (UIB), Health Research Institute of the Balearic Islands (IdISBa), Palma 
+de Mallorca, Spain.
+(5)Vascular and Metabolic Diseases Research Group, Endocrinology Department, Son 
+Llàtzer University Hospital, Health Research Institute of the Balearic Islands 
+(IdISBa), Palma de Mallorca, Spain.
+
+BACKGROUND: Hidradenitis suppurativa (HS) is a chronic inflammatory dermatosis 
+strongly associated with obesity and metabolic dysfunction. GLP-1 receptor 
+agonists (GLP-1 RAs), such as semaglutide, promote weight loss and exhibit 
+anti-inflammatory properties, but evidence regarding their effects in HS remains 
+limited.
+OBJECTIVE: To evaluate the effects of 6 months of semaglutide treatment at doses
+
+---
+
+[referencia=5d7ebb1643a0c2c8 score=0.057]
+1. Med Clin (Barc). 2026 May;166(5):107405. doi: 10.1016/j.medcli.2026.107405.
+Epub  2026 Mar 12.
+
+Semaglutide in patients with hidradenitis suppurativa and obesity.
+
+[Article in English, Spanish]
+
+Nicolau J(1), Sanchís P(2), Nadal A(3), Isabel Tamayo M(4), Sfondrini G(5), 
+Grimalt M(5), García P(5), Nadal C(3), Masmiquel L(5).
+
+---
+
+[referencia=5d7ebb1643a0c2c8 score=0.039]
+>1mg/week on anthropometric, dermatologic, metabolic, inflammatory, and 
+quality-of-life outcomes in patients with HS and obesity.
+METHODS: We conducted a prospective, open-label cohort study including 20 adults 
+with HS and obesity. Anthropometric, morphofunctional, dermatologic (Hurley 
+stage, DLQI, pain VAS), psychological (BDI), metabolic, and inflammatory 
+parameters were assessed at baseline and after 6 months.
+RESULTS: After 6 months, body weight (-21.4kg), BMI, waist circumference, blood 
+pressure, and preperitoneal and subcutaneous fat were significantly reduced (all 
+p<0.05). Dermatologic outcomes improved markedly: Hurley stage decreased in all 
+patients, DLQI improved (-8.8), pain VAS decreased (-4.1), and BDI improved 
+(-12.9; all p<0.001). Metabolic and inflammatory markers also improved. After 
+adjustment for weight change, improvements in DLQI, pain, depressive symptoms, 
+Hurley stage, vitamin D, CRP, and cortisol remained significant.
+CONCLUSIONS: Semaglutide treatment in patients with HS and obesity improved 
+weight, body composition, metabolic and inflammatory profiles, and dermatologic 
+and psychological status. Several clinical and inflammatory benefits persisted 
+after adjustment for weight loss.
+
+Copyright © 2026 Elsevier España, S.L.U. All rights reserved.
+
+DOI: 10.1016/j.medcli.2026.107405
+PMID: 41832804 [Indexed for MEDLINE]
+
+---
+
+[referencia=676e062603bdfbe5 score=0.003]
+### **PsA Evidence Remains Limited to a Single Small Study**
+
+Evidence for GLP-1RAs specifically in people with PsA was considerably more sparse.<sup>1</sup> Only 1 clinical study directly evaluated GLP-1RA use in the PsA population. That study enrolled 10 adults with obesity and PsA treated with liraglutide (3 mg/day). Participants demonstrated improvements in minimal disease activity scores, along with reductions in body mass index, waist circumference, glycemia, lipid levels, and C-reactive protein. Disease duration was not reported, and participants were not characterized as having early PsA.
+
+Two larger ongoing trials—TOGETHER-PsA (NCT06588296) and TOGETHER AMPLIFY-PsA (NCT06864026)—are evaluating ixekizumab with and without tirzepatide in people with active PsA who have overweight or obesity and are expected to generate more robust data on joint and metabolic outcomes.
+
+### **Study Limitations Temper Interpretation**
+
+The authors acknowledged important constraints. The review was narrative rather than systematic, precluding formal meta-analytic conclusions. Most included studies enrolled people with obesity or T2D specifically, limiting generalizability to the broader psoriasis and PsA population. Methodologically disentangling weight-loss-mediated effects from direct anti-inflammatory effects of GLP-1RAs also remained challenging. Notably, no published study has specifically targeted early PsA populations, a critical gap the review identified.
+
+The authors observed that "early-stage disease may represent an optimal treatment window for maximizing therapeutic effects," while stressing that the concept requires validation in prospective trials designed specifically for that population.
+
+---
+
+[referencia=676e062603bdfbe5 score=0.001]
+### **Liraglutide and Semaglutide Demonstrated Consistent Skin Improvements**
+
+Most clinical evidence the review identified centered on liraglutide and semaglutide in people with psoriasis and comorbid T2D or obesity. In a randomized controlled trial of 25 patients with psoriasis and T2D, those assigned to liraglutide (1.8 mg/day) experienced greater reductions in Psoriasis Area and Severity Index (PASI) scores than controls receiving conventional therapy, along with significant decreases in skin IL-17, IL-23, and TNF-α expression.
+
+Another open-label randomized trial of semaglutide (1 mg/week) in 31 people with psoriasis and T2D reported significant reductions in serum IL-6 and C-reactive protein alongside improvements in PASI scores, BMI, and LDL cholesterol. Across multiple studies, improvements in skin disease appeared at least partially independent of weight loss, pointing toward direct immunomodulatory activity.
+
+These conclusions about the evidence gaps in psoriatic disease are not isolated. A November 2025 scoping review published in *Inflammation Research* independently evaluated available data on GLP-1RAs across the full spectrum of psoriatic disease, covering both psoriasis and PsA.<sup>2</sup> That analysis similarly identified cardiometabolic comorbidities—including obesity, T2D, and cardiovascular disease—as central to the rationale for investigating these agents in psoriatic populations. While evidence supporting GLP-1RA use in psoriasis had grown meaningfully, data in PsA remained limited and largely observational. The independent review reached a parallel conclusion: GLP-1RAs showed potential for dual metabolic and anti-inflammatory benefit in psoriatic disease, but higher-quality prospective trials are needed before their role in clinical practice can be fully defined.
+
+---
+
+[referencia=676e062603bdfbe5 score=0.001]
+### **Researchers Call for Dedicated Early PsA Trials**
+
+The review underscored that future studies should prioritize well-characterized early PsA cohorts, incorporate metabolic phenotyping, and evaluate potential synergistic effects when GLP-1RAs are combined with established biologics. Long-term assessment of cardiovascular outcomes, musculoskeletal progression, and optimal timing of initiation were also identified as key unanswered questions.
+
+**References**
+
+1. Ciancio G, Maranini B, Sandri G, et al. Glucagon-like peptide-1 receptor agonists in psoriasis and psoriatic arthritis: emerging evidence and future research opportunities. *Front Immunol*. 2026;17:1744308. doi:10.3389/fimmu.2026.1744308
+
+2. Buonanno S, Gaggiano C, Terribili R, Cantarini L, Frediani B, Gentileschi S. The potential role of GLP-1 receptor agonists in the management of psoriatic disease: a scoping review. *Inflammation Research.* 2025;74(1):167. doi:10.1007/s00011-025-02140-2
+
+---
+
+[referencia=676e062603bdfbe5 score=0.000]
+# GLP-1 Drugs Tackle Both Skin Inflammation and Metabolism in Psoriasis
+
+*Skylar Jeremias*
+
+*Giuliana Grossi*
+
+### Key Takeaways
+
+- Metabolic comorbidities are mechanistically intertwined with psoriasis and PsA, with obesity reducing biologic responsiveness and insulin resistance potentially sustaining joint inflammation.
+- Liraglutide (1.8 mg/day) improved PASI in psoriasis with T2D and reduced lesional IL-17, IL-23, and TNF-α versus conventional therapy.
+
+GLP-1 medications in psoriasis show skin and inflammation gains beyond weight loss; early data in psoriatic arthritis lag as trials ramp up.
+
+For people living with <sup>1</sup> A narrative review *Frontiers in Immunology*
+
+### **Metabolic Comorbidities Drive the Rationale for GLP-1RA Research**
+
+Psoriasis affects an estimated 2% to 3% of the global population and is closely tied to metabolic syndrome, 
+
+Researchers from the University of Modena and Reggio Emilia and the University of Ferrara, Italy, sought to consolidate available clinical evidence on GLP-1RAs in psoriatic disease and examine the pathophysiological rationale for their use, with particular attention to early PsA as a potential window for intervention.

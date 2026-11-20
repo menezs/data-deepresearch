@@ -1,0 +1,336 @@
+[referencia=cc9ae7b72cbad5d9 score=0.978]
+The destitution faced by Italians and other immigrants in Brazil caused great commotion in the Italian press, which culminated in the Prinetti Decree in 1902. Many immigrants left Brazil after their experience on São Paulo's coffee farms. Between 1882 and 1914, 1.5 million immigrants of different nationalities came to São Paulo, and 695,000 left the state, or 45% of the total. The high numbers of Italians asking the Italian consulate a passage to leave Brazil was so significant that in 1907, most Italian funds for repatriation were used in Brazil. It is estimated that, between 1890 and 1904, 223,031 (14,869 annually) Italians left Brazil, mainly after failed experiences on coffee farms. Most of the Italians who left the country were unable to add the money they wanted. Most returned to Italy, but others remigrated to Argentina, Uruguay or to the United States.
+
+The output of immigrants concerned Brazilian landowners, who constantly complained about the lack of workers. Spanish immigrants began arriving in greater numbers, but soon, Spain also started to create barriers for further immigration of Spaniards to coffee farms in Brazil. The continuing problem of lack of labor in the farms was, then, temporarily resolved with the arrival of Japanese immigrants, from 1908.<sup>[32]</sup>
+
+Despite the high numbers of immigrants leaving the country, most Italians remained in Brazil. Most of the immigrants remained only one year working on coffee farms and then left the plantations. A few earned enough money to buy their own lands and became farmers themselves. However, most migrated to Brazilian cities. Many Italians worked in factories (in 1901, 81% of the São Paulo's factory workers were Italians). In Rio de Janeiro, many the factory workers were Italians. In São Paulo, those workers established themselves in the center of the city, living in cortiços (degraded multifamily row houses). The agglomerations of Italians in cities gave birth to typically Italian neighborhoods, such as Mooca, which is until today linked to its Italian past. Other Italians became traders, mostly itinerant traders, selling their products in different regions.
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.973]
+| São Paulo City |  |  | 
+|---|---|---|
+| Year | Italians | Percentage of the city <sup>[32]</sup> | 
+|---|---|---|
+| 1886 | 5,717 | 13% | 
+| 1893 | 45,457 | 35% | 
+| 1900 | 75,000 | 31% | 
+| 1910 | 130,000 | 33% | 
+| 1916 | 187,540 | 37% | 
+
+In 1901, 90% of industrial workers and 80% of construction workers in São Paulo were Italians.<sup>[41]</sup>
+
+| São Carlos |  |  | 
+|---|---|---|
+| Year | Italians | Percentage of the city | 
+|---|---|---|
+| 1886 | 1,050 | 6,5% <sup>[43]</sup> | 
+| 1920 | 8,235 | 15% <sup>[44]</sup> | 
+| 1934 | 4,185 | 8,1% <sup>[45]</sup> | 
+| 1940 | 2,467 | 5% <sup>[46]</sup> | 
+
+| Ribeirão Preto |  |  | 
+|---|---|---|
+| Year | Italians | Percentage of the city | 
+|---|---|---|
+| 1886 | 158 | 1,5% <sup>[43]</sup> | 
+| 1920 | 10,907 | 16% <sup>[47]</sup> | 
+| 1934 | 6,211 | 7,6% <sup>[48]</sup> | 
+| 1940 | 3,777 | 4,7% <sup>[49]</sup> | 
+
+São Carlos and Ribeirão Preto were two of the main coffee plantation centers. Both were respectively in the North-Central and Northeastern regions of São Paulo state, a zone known by its hot temperature and a fertile soil in which some of the richest coffee farms were and attracted most immigrants arriving in São Paulo, including Italians, between 1901 and 1940.<sup>[50]</sup>
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.964]
+#### Beginning of Italian settlement in Brazil
+
+[edit]
+The Brazilian government, with or following the Emperor's support, had created the first colonies of immigrants (*colônias de imigrantes*) in the early 19th century. The colonies were established in rural areas of the country, being settled by European families.
+
+The first groups of Italians arrived in 1875, but the boom of Italian immigration in Brazil happened between 1880 and 1900, when almost one million Italians arrived.
+
+Many Italians were naturalized Brazilian at the end of the 19th century, when the 'Great Naturalization' automatically granted citizenship to all the immigrants residing in Brazil prior to 15 November 1889 "unless they declared a desire to keep their original nationality within six months."<sup>[25]</sup>
+
+During the end of the 19th century, denouncement of bad conditions in Brazil aggravated by the crisis in coffee plantations in São Paulo, increased in the press. Reacting to the public clamor, the Italian emigration inspector Adolfo Rossi undertook an investigation into the conditions faced by Italian emigrants on the *fazendas*, travelling undercover, disguised as a peasant. Rossi's report painted a dramatic picture of the semi-slavery conditions based on the testimonies collected: women raped, men whipped, discipline that "makes the *fazenda* look like a colony of convicts under compulsory residence," disease, failure to pay wages or delays in payment, misery.<sup>[26]</sup>
+
+As a result, the government of Italy issued in 1902 the Prinetti Decree forbidding subsidized immigration and withdrawing the permission given to Brazil for the free importation of Italians to the farms and plantations in that country.<sup>[26]</sup><sup>[27]</sup> In consequence, the number of Italian immigrants in Brazil fell drastically in the beginning of the 20th century, but the wave of Italian immigration continued until 1920.<sup>[28]</sup>
+
+Over half of the Italian immigrants came from northern Italian regions of Veneto, Lombardy and Emilia-Romagna, and from the central Italian region of Tuscany. About 30% emigrated from Veneto.<sup>[22]</sup> On the other hand, in the 20th century, southern Italians predominated in Brazil, coming from the regions of Campania, Abruzzo, Molise, Basilicata and Sicily.
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.914]
+### Southeastern Brazil
+
+[edit]
+Imagine you travel eight thousand nautic miles, across the Mediterranean and the Atlantic and suddenly find yourself in Italy. That's São Paulo. It seems paradoxical, but it is a reality, because São Paulo is an Italian city.
+
+
+<sup>[39]</sup>
+
+Some of the immigrants settled in the colonies in Southern Brazil. However, most of them settled in Southeastern Brazil (mainly in the State of São Paulo). At first, the government was responsible for bringing the immigrants (in most cases, paying for their transportation by ship), but later, the farmers were responsible for making contracts with immigrants or specialized companies in recruiting Italian workers. Many posters were spread in Italy, with pictures of Brazil, selling the idea that everybody could become rich there by working with coffee, which was called by the Italian immigrants the *green gold*. Most coffee plantations were in the States of São Paulo and Minas Gerais, and in a smaller proportion also in the States of Espírito Santo and Rio de Janeiro.
+
+Rio de Janeiro was declining in the 19th century as a farming producer, and São Paulo had already taken the lead as a coffee producer/exporter in the early 20th century, as well as big producer of sugar and other important crops. Thus, migrants were naturally more attracted to the State of São Paulo and the southern states.
+
+Italians migrated to Brazil as families.<sup>[40]</sup> The *colono*, as a rural immigrant was called, had to sign a contract with the farmer to work in the coffee plantation for a minimum period of time. However, the situation was not easy. Many Brazilian farmers were used to command slaves and treated the immigrants as indentured servants.
+
+In Southern Brazil, the Italian immigrants were living in relatively well-developed colonies, but in Southeastern Brazil they were living in semislavery conditions in the coffee plantations. Many rebellions against Brazilian farmers occurred, and public denouncements caused great commotion in Italy, forcing the Italian government to issue the Prinetti Decree, which established barriers to immigration to Brazil.
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.896]
+| Italian population in Brazil <sup>[32]</sup> |  |  |  |  |  | 
+|---|---|---|---|---|---|
+| Year | Estimated Italian population (by Giorgio Mortara) | Year | Italian estimates | Year | Brazilian Census | 
+| 1880 | 50,000 | 1881* | 82,000 |  |  | 
+| 1890 | 230,000 | 1891* | 554,000 |  |  | 
+| 1900 | 540,000 | 1901** | 1,300,000 |  |  | 
+| 1902 | 600,000 | 1904** | 1,100,000 |  |  | 
+| 1930 | 435,000 | 1927* | 1,837,887 | 1920 | 558,405 | 
+| 1940 | 325,000 |  |  | 1940 | 325,283 | 
+
+.* Commissariato Generale dell'Emigrazione
+
+.** Consulates
+
+The 1920 census was the first one to show a more specific figure about the size of the Italian population in Brazil (558,405). However, since the 20th century, the arrival of new Italian immigrants to Brazil has been in steady decline. The previous censuses of 1890 and 1900 had limited information. In consequence, there are no official figures about the size of the Italian population in Brazil during the mass immigration period (1880–1900). There are estimates available, and the most reliable was done by Giorgio Mortara even though his figures may have underestimated the real size of the Italian population.<sup>[33]</sup> On the other hand, Angelo Trento believes that the Italian estimates are "certainly exaggerated"<sup>[33]</sup> and "lacking of any foundation"<sup>[33]</sup> since they found a figure of 1,837,887 Italians in Brazil for 1927. Another evaluation conducted by Bruno Zuculin found 997,887 Italians in Brazil in 1927. All of those figures include only people born in Italy, not their Brazilian-born descendants.<sup>[32]</sup>
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.870]
+## Main Italian settlements in Brazil
+
+[edit]
+### Areas of settlement
+
+[edit]
+Among all Italians who immigrated to Brazil, 70% went to the State of São Paulo. In consequence, São Paulo has more people with Italian ancestry than any region of Italy itself.<sup>[34]</sup> The rest went mostly to the states of Rio Grande do Sul and Minas Gerais.
+
+Internal migration made many second- and third-generation Italians move to other areas. In the early 20th century, many rural Italian workers from Rio Grande do Sul migrated to the west of Santa Catarina and then farther north to Paraná.
+
+More recently, third- and fourth-generation Italians have migrated to other areas and so people of Italian descent can be found in Brazilian regions in which the immigrants had never settled, such as in the Cerrado region of Central-West, in the Northeast and in the Amazon rainforest area, in the extreme North of Brazil.<sup>[36]</sup><sup>[37]</sup>
+
+| Farms owned by a foreigner (1920) |  |  |  | 
+|---|---|---|---|
+| Immigrants | Farms <sup>[38]</sup> |  |  | 
+| Italians | 35.984 |  |  | 
+| Portuguese | 9.552 |  |  | 
+| Germans | 6.887 |  |  | 
+| Spanish | 4.725 |  |  | 
+| Russians | 4.471 |  |  | 
+| Austrians | 4.292 |  |  | 
+| Japanese | 1.167 |  |  |
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.787]
+### Areas of origin
+
+[edit]
+Most of the Italian immigrants to Brazil came from Northern Italy; however, they were not distributed homogeneously among the extensive Brazilian regions. In the State of São Paulo, the Italian community was more diverse including a large number of people from the South and the Center of Italy.<sup>[60]</sup> Even today, 42% of the Italians in Brazil came from Northern Italy, 36% from Central Italy regions, and only 22% from Southern Italy. Brazil is the only American country with a large Italian community in which Southern Italian immigrants are a minority.<sup>[36]</sup>
+
+In the first decades, the vast majority of the immigrants came from the North. Since Southern Brazil received most of the early settlers, the vast majority of its immigrants came from the extreme North of Italy, mainly from Veneto and particularly from the provinces of Vicenza (32%), Belluno (30%) and Treviso (24%).<sup>[32]</sup> In Rio Grande do Sul, many came from Cremona, Mantua, from parts of Brescia, and also from Bergamo, in the region of Lombardy, close to Veneto. The regions of Trentino and of Friuli-Venezia Giulia also sent many immigrants to the South of Brazil. Of the immigrants in Rio Grande do Sul, 54% came from the Veneto, 33% from Lombardy, 7% from Trentino, 4.5% from Friuli-Venezia Giulia and only 1.5% from other parts of Italy.<sup>[61]</sup>
+
+From the early 20th century, the agrarian crisis started to affect Southern Italy as well, and many people immigrated to Brazil, mostly to the state of São Paulo, since it needed workers to embrace the coffee plantations. The Italian immigrants in São Paulo came from mostly Veneto, Calabria, Campania.<sup>[62]</sup> After the end of World War II, a small number of Istrian Italians and Dalmatian Italians emigrated to Brazil during the Istrian-Dalmatian exodus, leaving their homelands, which were lost to Italy and annexed to Yugoslavia after the Treaty of Peace with Italy, 1947.<sup>[63]</sup>
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.691]
+## Prosperity
+
+[edit]
+Historically, Italians have been divided into two groups in Brazil. Those in Southern Brazil lived in rural colonies in contact with mostly other people of Italian descent. However, those in Southeast Brazil, the most populated region of the country, integrated into Brazilian society quite quickly.
+
+After some years working in coffee plantations, some immigrants earned enough money to buy their own land and become farmers themselves. Others left the rural areas and moved to cities, mainly São Paulo, Campinas, São Carlos and Ribeirão Preto. A very few became very rich in the process and attracted more Italian immigrants. In the early 20th century, São Paulo became known as the *City of the Italians*,<sup>[53]</sup> because 31% of its inhabitants were of Italian nationality in 1900.<sup>[54]</sup> The city of São Paulo had the second-highest population of people with Italian ancestry in the world at this time, after only Rome.<sup>[34]</sup> In Campinas, street signs in Italian were common,<sup>[55]</sup> a large commercial and services sector owned by Italian Brazilians developed, and more than 60% of the population had Italian surnames.<sup>[56]</sup>
+
+Italian immigrants were very important to the development of many big cities in Brazil, such as São Paulo, Porto Alegre, Curitiba and Belo Horizonte. Bad conditions in rural areas made thousands of Italians move there. Most of them became laborers and participated actively in the industrialization of Brazil in the early 20th century. Others became investors, bankers and industrialists, such as Count Matarazzo, whose family became the richest industrialists in São Paulo by holding more than 200 industries and businesses. In Rio Grande do Sul, 42% of the industrial companies have Italians roots.<sup>[36]</sup>
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.616]
+# Italian Brazilians
+
+
+**Italian Brazilians** (Italian: *italo-brasiliani*, Portuguese: *ítalo-brasileiros*) are Brazilians of full or partial Italian descent,<sup>[6]</sup> whose ancestors were Italians who emigrated to Brazil during the Italian diaspora, or more recent Italian-born people who've settled in Brazil. Italian Brazilians are the largest number of people with full or partial Italian ancestry outside Italy, with São Paulo being the most populous city with Italian ancestry in the world.<sup>[7]</sup> Nowadays, it is possible to find millions of descendants of Italians, from the southeastern state of Minas Gerais to the southernmost state of Rio Grande do Sul, with the majority living in São Paulo state.<sup>[8]</sup> Small southern Brazilian towns, such as Nova Veneza, have as much as 95% of their population of Italian descent.<sup>[9]</sup>
+
+There are no official numbers of how many Brazilians have Italian ancestry, as the national census conducted by IBGE does not ask the ancestry of the Brazilian people. In 1940, the last census to ask ancestry, 1,260,931 Brazilians were said to be the child of an Italian father, and 1,069,862 said to be the child of an Italian mother. Italians were 285,000 and naturalized Brazilians 40,000. Therefore, Italians and their children were, at most, just over 3.8% of Brazil's population in 1940.<sup>[5]</sup>
+
+The Embassy of Italy in Brazil, in 2013, reported the number of 32 million descendants of Italian immigrants in Brazil (about 15% of the population),<sup>[2]</sup><sup>[10]</sup> half of them in the state of São Paulo,<sup>[3]</sup> while there were around 450,000 Italian citizens in Brazil.<sup>[1]</sup> Brazilian culture has significant connections to Italian culture in terms of language, customs, and traditions. Brazil is also a strongly Italophilic country as cuisine, fashion and lifestyle has been sharply influenced by Italian immigration.
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.493]
+A common presence on the streets of São Paulo were the Italian boys working as newspaper boys, as an Italian traveler observed: "In the crowd, we can see many Italian boys, shabby and barefoot, selling the newspapers from the city and from Rio de Janeiro, bothering the passersby with their offerings and their shouting of street roguish."<sup>[32]</sup>
+
+Despite the poverty and even semi-slavery conditions faced by many Italians in Brazil, most of the population achieved some personal success and changed their lower-class situation. Even though most of the first generation of immigrants still lived in poverty, their children, born in Brazil, often changed their social status as they diversified their field of work, leaving the poor conditions of their parents and often becoming part of the local elite.<sup>[32]</sup>
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.457]
+## Assimilation
+
+[edit]
+Except for some isolated cases of violence between Brazilians and Italians, especially between 1892 and 1896, integration in Brazil was quick and peaceful. For Italians in São Paulo, scholars suggest that assimilation occurred within two generations. Research suggests that even first-generation immigrants born in Italy soon became assimilated in the new country. Even in Southern Brazil, where most of the Italians were living in isolated rural communities, with little contact with Brazilians, which kept the Italian patriarchal family structure, and therefore the father chose the wife or husband for their children, giving preference to Italians, assimilation was also quick.<sup>[32]</sup>
+
+According to the 1940 census in Rio Grande do Sul, 393,934 people reported to speak German as their first language (11.86% of the state's population). In comparison, 295,995 reported to speak Italian, mostly dialects (8.91% of the state's population). Even though Italian immigration was larger and more recent than German immigration, the Italian group tended to be more easily assimilated due to the Latin cultural link. In the 1950 Census, the number of people in Rio Grande do Sul who reported to speak Italian dropped to 190,376.
+
+In São Paulo, where more Italians settled, in the 1940 census 28,910 Italian-born people reported to speak Italian at home (only 13.6% of the state's Italian population). In comparison, 49.1% of the immigrants of other nationalities reported to keep speaking their native languages at home (with the exception of Portuguese). Thus, the prohibition of speaking Italian, German, and Japanese during World War II was not so serious to the Italian community as it was to the other two groups.<sup>[32]</sup>
+
+A major measure of the government occurred in 1889, when Brazilian citizenship was granted to all immigrants, but the act had little influence on their identity or assimilation process. Both the Italian newspapers in Brazil and the Italian government were uncomfortable with the assimilation of Italians in the country, which occurred mostly after the Great Naturalization period. Italian institutions encouraged the entry of Italians in Brazilian politics, but the presence of immigrants was initially small. Italian dialects came to dominate the streets of São Paulo and in some Southern localities. Over time, languages based on Italian dialects tended to disappear, and their presence is now small.<sup>[32]</sup>
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.450]
+### Southern Brazil
+
+[edit]
+The main areas of Italian settlement in Brazil were the Southern and Southeastern Regions, namely the states of São Paulo, Rio Grande do Sul, Santa Catarina, Paraná, Espírito Santo and Minas Gerais.
+
+The first colonies to be populated by Italians were created in the highlands of Rio Grande do Sul (Serra Gaúcha). They were Garibaldi and Bento Gonçalves. The immigrants were predominantly from Veneto, in northern Italy. After five years, in 1880, the great numbers of Italian immigrants arriving caused the Brazilian government to create another Italian colony, Caxias do Sul. After initially settling in the government-promoted colonies, many Italian immigrants spread into other areas of Rio Grande do Sul, seeking better opportunities, and created many other Italian colonies on their own, mainly in highlands, because the lowlands were already populated by German immigrants and native *gaúchos*.
+
+Italians established many vineyards in the region. The wine produced in those areas of Italian colonization in southern Brazil is much appreciated within the country, but little is available for export. In 1875, the first Italian colonies were established in Santa Catarina, which lies immediately to the north of Rio Grande do Sul. The colonies gave rise to towns such as Criciúma, and later also spread further north, to Paraná.
+
+In the colonies of southern Brazil, Italian immigrants at first stuck to themselves, where they could speak their native Italian dialects and keep their culture and traditions. With time, however, they would become thoroughly integrated economically and culturally into the larger society. In any case, Italian immigration to southern Brazil was very important to the economic development and the culture of the region.
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.376]
+33. 1 2 3 Angelo Trento. *Do outro lado do Atlântico: um século de imigração italiana no Brasil* , p. 67, at Google Books
+34. 1 2 Pereira, Liésio. "A capital paulista tem sotaque italiano" (in Portuguese). radiobras.gov.br. Archived from the original on 28 July 2006. Retrieved 10 September 2008.
+35. ↑ "Archived copy" (PDF). Archived from the original (PDF) on 21 March 2012. Retrieved 30 June 2011.`{{cite web}}` :  CS1 maint: archived copy as title (link)
+36. 1 2 3 "Gli Italiani in Brasile" [The Italians in Brazil] (PDF) (in Italian). consultanazionaleemigrazione.it. October 2003. pp. 11, 19. Archived from the original (PDF) on 12 February 2012. Retrieved 3 October 2010.
+37. ↑ COLLI, Antonello. Italiani in Brasile, 36 milioni di oriundi. L'Italia nel'Mondo Website Archived 3 February 2009 at the Wayback Machine. Retrieved 10 September 2008.
+38. ↑ *Italianos no Brasil: "andiamo in 'Merica-"* , p. 252, at Google Books
+39. ↑ *Estados autoritários e totalitários e suas representações* , p. 179, at Google Books
+40. ↑ "IMIGRANTES ITALIANOS: Um portal de ajuda na pesquisa da origem dos ancestrais italianos". *imigrantesitalianos.com.br* .
+41. ↑ *Fazer a América: a imigração em massa para a América Latina* , p. 318, at Google Books
+42. ↑ *Artes plásticas na Semana de 22* , p. 76, at Google Books
+43. 1 2 Relatório Apresentado pela Comissão de Estatística ao Exmo. Presidente da Província de São Paulo, 1888, p. 24
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.368]
+54. ↑ "migrantes espanhois" (PDF). *images.paulocel29.multiply.multiplycontent.com* . Archived from the original on 14 July 2011.
+55. ↑ J.M.Fantinatti (2006). "Pró-Memória de Campinas-SP". *pro-memoria-de-campinas-sp.blogspot.com* .
+56. ↑ "Sobrenomes Italianos". *imigrantesitalianos.com.br* .
+57. ↑ IBGE - Instituto Brasileiro de Geografia e Estatística. "IBGE - Séries Estatísticas & Séries Históricas - atividade industrial - indústrias extrativa e de transformação - séries históricas e encerradas - inquéritos e Censos industriais - Estabelecimentos industriais nas datas dos Inquéritos Industriais e do Censo 1920 - 1907-1920". *ibge.gov.br* .
+58. ↑ Bresser-Pereira, Luiz Carlos. "Origens Étnicas e Sociais do Empresário Paulista" [Ethnic and Social Origins of Entrepreneurship in São Paulo] (PDF) (in Portuguese). Archived from the original (PDF) on 3 March 2016. Retrieved 12 August 2015.
+59. ↑ IBGE. "IBGE - Brasil: 500 anos de povoamento - território brasileiro e povoamento - italianos - regiões de origem". *ibge.gov.br* .
+60. ↑ Seyferth, Giralda. "Histórico da Imigração no Brasil: Italianos" [History of Immigration in Brazil: Italians] (in Portuguese). Dias Marques Advocacia. Archived from the original on 10 October 2004.
+61. 1 2 "Italianos: A maior parte veio do Vêneto" [Italians: A major portion came from Veneto] (in Portuguese). riogrande.com.br. Archived from the original on 7 June 2008. Retrieved 10 September 2008.
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.320]
+## Decline of Italian immigration
+
+[edit]
+In 1902, the Italian immigration to Brazil started to decline. From 1903 to 1920, only 306,652 Italians immigrated to Brazil, compared to 953,453 to Argentina and 3,581,322 to the United States. This was mainly due to the Prinetti Decree in Italy, banning subsidized immigration to Brazil. The Prinetti Decree was issued because of the commotion in the Italian press about the poverty faced by most Italians in Brazil.
+
+The end of slavery made most former slaves left the plantations and so there was a labour shortage on coffee plantations.<sup>[52]</sup> Moreover, "natural inequality of human beings", "hierarchy of races", Social Darwinism, Positivism and other theories were used to explain that the European workers were superior to the native workers. In consequence, passages were offered to Europeans (the so-called "subsidized immigration"), mostly to Italians, so that they could come to Brazil and work on the plantations.<sup>[32]</sup>
+
+Those immigrants were employed in enormous latifundia (large-scale farms), formerly employing slaves. In Brazil, there were no labour laws (the first concrete labour laws appeared only in the 1930s, under President Getúlio Vargas) and so workers had almost no legal protection. Contracts signed by the immigrants could easily be violated by the Brazilian landowners who were accustomed to dealing with African slaves.
+
+The remnants of slavery influenced how Brazilian landowners dealt with Italian workers: immigrants were often monitored, with extensive hours of work. In some cases, they were obliged to buy products that they needed from the landowner. Moreover, the coffee farms were located in rather isolated regions. If the immigrants became sick, they would take hours to reach the nearest hospital.
+
+The structure of labor used on farms included the labor of Italian women and children. Keeping their Italian culture was also made more difficult: the Catholic churches and Italian cultural centers were far from farms. The immigrants who did not accept the standards imposed by landowners were replaced by other immigrants. That forced them to accept the impositions of landowners, or they would have to leave their lands. Even though Italians were considered to be "superior" to blacks by Brazilian landowners, the situation faced by Italians in Brazil was so similar to that of the slaves that farmers called them *escravos brancos* (white slaves in Portuguese).<sup>[32]</sup>
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.319]
+| Rio de Janeiro City |  | 
+|---|---|
+| Year | Italians <sup>[32]</sup> | 
+|---|---|
+| 1895 | 20,000 | 
+| 1901 | 30,000 | 
+| 1910 | 35,000 | 
+| 1920 | 31,929 | 
+| 1940 | 22,768 | 
+
+### Other parts of Brazil
+
+[edit]
+In the State of Mato Grosso do Sul, Italian descendants are 5% of the population.<sup>[51]</sup>
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.288]
+### Others
+
+[edit]
+On the other hand, in 1998, the IBGE, within its preparation for the 2000 Census, experimentally introduced a question about "origem" (ancestry) in its "Pesquisa Mensal de Emprego" (Monthly Employment Survey) to test the viability of introducing that variable in the census<sup>[30]</sup> (the IBGE ended by deciding against the inclusion of questions about it in the Census). The research interviewed about 90,000 people in six metropolitan regions (São Paulo, Rio de Janeiro, Porto Alegre, Belo Horizonte, Salvador, and Recife).<sup>[30]</sup>
+
+| Arrival of Italian immigrants to Brazil by periods (source: IBGE) <sup>[31]</sup> |  |  |  |  |  |  |  |  |  | 
+|---|---|---|---|---|---|---|---|---|---|
+| 1884-1893 | 1894–1903 | 1904–1913 | 1914–1923 | 1924–1933 | 1934–1944 | 1945–1949 | 1950–1954 | 1955–1959 |  | 
+| 510,533 | 537,784 | 196,521 | 86,320 | 70,177 | 15,312 | N/A | 59,785 | 31,263 |  |
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.282]
+| Main group of Italians immigrants living in São Paulo State (1936) <sup>[65]</sup> |  |  |  | 
+|---|---|---|---|
+| Region | Population |  |  | 
+| Veneto | 228,142 |  |  | 
+| Campania | 91,960 |  |  | 
+| Calabria | 72,686 |  |  | 
+| Lombardy | 51,338 |  |  | 
+| Tuscany | 47,874 |  |  | 
+
+| Main groups of Italians in some neighborhoods in São Paulo |  |  |  | 
+|---|---|---|---|
+| Region | Neighborhood <sup>[32]</sup><sup>[66]</sup> |  |  | 
+| Calabria | Bixiga |  |  | 
+| Campania and Apulia | Brás |  |  | 
+| Veneto | Bom Retiro |  |  |
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.197]
+### History
+
+[edit]
+#### Italian crisis in late 19th century
+
+[edit]
+Italy did not become a unified national state until 1861. Before then, Italy was politically divided into several kingdoms, duchies, and other small states. The legacy of political fragmentation influenced deeply the character of the Italian migrant: "Before 1914, the typical Italian migrant was a man without a clear national identity but with strong attachments to his town or village or region of birth, to which half of all migrants returned."<sup>[20]</sup>
+
+In the 19th century, many Italians fled the political persecutions in Italy led by the Imperial Austrian government after the failure of Italian unification movements in 1848 and 1861. Although very small in numbers, the well-educated and revolutionary group of emigrants left a deep mark where they settled.<sup>[21]</sup> In Brazil, the most famous Italian was then Líbero Badaró (died 1830). However, the mass Italian immigration tide that would only be second to the Portuguese and German migrant movements in shaping modern Brazilian culture started only after the 1848-1871 Risorgimento.
+
+During the last quarter of the 19th century, the newly united Italy suffered an economic crisis. The more industrial northern half of Italy was plagued with high unemployment caused in part by the introduction of modern agricultural techniques, while southern Italy remained underdeveloped and almost untouched by agrarian modernization programs. Even in the North, industrialization was still in its initial stages and illiteracy remained common.<sup>[22]</sup> Thus, poverty and lack of jobs and income stimulated Northern (and Southern) Italians to emigrate. Most Italian immigrants were very poor rural workers (Italian: *braccianti*).<sup>[23]</sup>
+
+---
+
+[referencia=cc9ae7b72cbad5d9 score=0.174]
+| Italian immigration to Brazil (1870–1959) <sup>[64]</sup> |  |  |  | 
+|---|---|---|---|
+| Italian Region | Percentage |  |  | 
+| North | 53.7% |  |  | 
+| South | 32.0% |  |  | 
+| Centre | 14.5% |  |  | 
+
+| Regional origins of Italian immigrants to Brazil (1870–1959) |  |  |  | 
+|---|---|---|---|
+| Region | Percentage |  |  | 
+| Veneto | 26.6% |  |  | 
+| Campania | 12.1% |  |  | 
+| Calabria | 8.2% |  |  | 
+| Lombardy | 7.7% |  |  | 
+| Tuscany | 5.9% |  |  | 
+| Friuli-Venezia Giulia | 5.8% |  |  | 
+| Trentino-Alto Adige/Südtirol | 5.3% |  |  | 
+| Abruzzo | 5.0% |  |  | 
+| Emilia-Romagna | 4.3% |  |  | 
+| Basilicata | 3.8% |  |  | 
+| Sicily | 3.2% |  |  | 
+| Piedmont | 2.8% |  |  | 
+| Apulia | 2.5% |  |  | 
+| Marche | 1.8% |  |  | 
+| Molise | 1.8% |  |  | 
+| Lazio | 1.1% |  |  | 
+| Umbria | 0.8% |  |  | 
+| Liguria | 0.7% |  |  | 
+| Sardinia | 0.4% |  |  | 
+| Aosta Valley | 0.2% |  |  |

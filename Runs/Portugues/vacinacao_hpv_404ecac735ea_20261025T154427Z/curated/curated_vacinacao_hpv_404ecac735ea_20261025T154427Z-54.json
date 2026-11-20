@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "vacinacao_hpv_404ecac735ea_20261025T154427Z-54",
+  "passages": [
+    {
+      "reference_chunk_id": "e43918e53fff6d85-0",
+      "reference_id": "e43918e53fff6d85",
+      "score": 0.004610596224665642,
+      "text": "## Nota Técnica nº 32/2026-CGICI/DPNI/SVSA/MS\n\nProposta de inclusão de mulheres diagnosticadas com Neoplasia Intraepitelial Cervical de alto grau (NIC 2+ e Adenocarcinoma in situ – AIS), submetidas a procedimento excisional do colo do útero (LEEP/conização), como grupo prioritário para vacinação contra o papilomavírus humano (HPV) no âmbito do Programa Nacional de Imunizações (PNI)."
+    }
+  ],
+  "assembled_context": "[referencia=e43918e53fff6d85 score=0.005]\n## Nota Técnica nº 32/2026-CGICI/DPNI/SVSA/MS\n\nProposta de inclusão de mulheres diagnosticadas com Neoplasia Intraepitelial Cervical de alto grau (NIC 2+ e Adenocarcinoma in situ – AIS), submetidas a procedimento excisional do colo do útero (LEEP/conização), como grupo prioritário para vacinação contra o papilomavírus humano (HPV) no âmbito do Programa Nacional de Imunizações (PNI).",
+  "skip_reason": null
+}

@@ -1,0 +1,318 @@
+[referencia=46fd66187ec3e6ae score=0.828]
+### **3. Estimating the optimal parameter/training tokens allocation** 
+
+We present three different approaches to answer the question driving our research: _Given a fixed FLOPs budget, how should one trade-off model size and the number of training tokens?_ In all three cases we start by training a range of models varying both model size and the number of training tokens and use the resulting training curves to fit an empirical estimator of how they should scale. We assume a power-law relationship between compute and model size as done in Clark et al. (2022); Kaplan et al. (2020), though future work may want to include potential curvature in this relationship for large model sizes. The resulting predictions are similar for all three methods and suggest that — parameter count and number of training tokens should be increased equally with more compute<sup>3</sup> with proportions reported in Table 2. This is in clear contrast to previous work on this topic and warrants further investigation. 
+
+> 3 We compute FLOPs as described in Appendix F. 
+
+4 
+
+
+
+<!-- Start of picture text -->
+6.0 10B 1T 1.5T<br>5.5 5B 10 12<br>5.0<br>4.5 2.5B 100B 67B<br>4.0 1B 10 11<br>3.5 500M 10B<br>250M<br>3.0 10 10<br>1.0B<br>75M<br>2.5<br>100M 10 9<br>2.0<br>10 17 10 18 10 19 10 20 10 21 10 22 10 17 10 19 10 21 10 23 10 25 10 17 10 19 10 21 10 23 10 25<br>FLOPS FLOPs FLOPs<br>Tokens<br>Training loss Parameters<br><!-- End of picture text -->
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.631]
+### **1. Introduction** 
+
+Recently a series of _Large Language Models_ (LLMs) have been introduced (Brown et al., 2020; Lieber et al., 2021; Rae et al., 2021; Smith et al., 2022; Thoppilan et al., 2022), with the largest dense language models now having over 500 billion parameters. These large autoregressive transformers (Vaswani et al., 2017) have demonstrated impressive performance on many tasks using a variety of evaluation protocols such as zero-shot, few-shot, and fine-tuning. 
+
+The compute and energy cost for training large language models is substantial (Rae et al., 2021; Thoppilan et al., 2022) and rises with increasing model size. In practice, the allocated training compute budget is often known in advance: how many accelerators are available and for how long we want to use them. Since it is typically only feasible to train these large models once, accurately estimating the best model hyperparameters for a given compute budget is critical (Tay et al., 2021). 
+
+Kaplan et al. (2020) showed that there is a power law relationship between the number of parameters in an autoregressive language model (LM) and its performance. As a result, the field has been training larger and larger models, expecting performance improvements. One notable conclusion in Kaplan et al. (2020) is that large models should not be trained to their lowest possible loss to be compute optimal. Whilst we reach the same conclusion, we estimate that large models should be trained for many more training tokens than recommended by the authors. Specifically, given a 10× increase computational budget, they suggests that the size of the model should increase 5 _._ 5× while the number of training tokens should only increase 1.8×. Instead, we find that model size and the number of training tokens should be scaled in equal proportions. 
+
+Following Kaplan et al. (2020) and the training setup of GPT-3 (Brown et al., 2020), many of the recently trained large models have been trained for approximately 300 billion tokens (Table 1), in line with the approach of predominantly increasing model size when increasing compute. 
+
+_Corresponding authors: {jordanhoffmann|sborgeaud|amensch|sifre}@deepmind.com_ © 2023 DeepMind. All rights reserved
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.570]
+### **5. Discussion & Conclusion** 
+
+The trend so far in large language model training has been to increase the model size, often without increasing the number of training tokens. The largest dense transformer, MT-NLG 530B, is now over 3× larger than GPT-3’s 170 billion parameters from just two years ago. However, this model, as well as the majority of existing large models, have all been trained for a comparable number of tokens—around 300 billion. While the desire to train these mega-models has led to substantial engineering innovation, we hypothesize that the race to train larger and larger models is resulting in models that are substantially underperforming compared to what could be achieved with the same compute budget. 
+
+We propose three predictive approaches towards optimally setting model size and training duration, based on the outcome of over 400 training runs. All three approaches predict that _Gopher_ is substantially over-sized and estimate that for the same compute budget a smaller model trained on more data will perform better. We directly test this hypothesis by training _Chinchilla_ , a 70B parameter model, and show that it outperforms _Gopher_ and even larger models on nearly every measured evaluation task. 
+
+Whilst our method allows us to make predictions on how to scale large models when given additional compute, there are several limitations. Due to the cost of training large models, we only have two comparable training runs at large scale ( _Chinchilla_ and _Gopher_ ), and we do not have additional tests at intermediate scales. Furthermore, we assume that the efficient computational frontier can be described by a power-law relationship between the compute budget, model size, and number of training tokens. However, we observe some concavity in log<sup>�</sup> _𝑁𝑜𝑝𝑡_ � at high compute budgets (see Appendix E). This suggests that we may still be overestimating the optimal size of large models. Finally, the training runs for our analysis have all been trained on less than an epoch of data; future work may consider the multiple epoch regime. Despite these limitations, the comparison of _Chinchilla_ to _Gopher_ validates our performance predictions, that have thus enabled training a better (and more 
+
+15
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.544]
+#### **3.1. Approach 1: Fix model sizes and vary number of training tokens** 
+
+In our first approach we vary the number of training steps for a fixed family of models (ranging from 70M to over 10B parameters), training each model for 4 different number of training sequences. From these runs, we are able to directly extract an estimate of the minimum loss achieved for a given number of training FLOPs. Training details for this approach can be found in Appendix D. 
+
+For each parameter count _𝑁_ we train 4 different models, decaying the learning rate by a factor of 10× over a horizon (measured in number of training tokens) that ranges by a factor of 16×. Then, for each run, we smooth and then interpolate the training loss curve. From this, we obtain a continuous mapping from FLOP count to training loss for each run. Then, for each FLOP count, we determine which run achieves the lowest loss. Using these interpolants, we obtain a mapping from any FLOP count _𝐶_ , to the most efficient choice of model size _𝑁_ and number of training tokens _𝐷_ such that FLOPs( _𝑁, 𝐷_ ) = _𝐶_ .<sup>4</sup> At 1500 logarithmically spaced FLOP values, we find which model size achieves the lowest loss of all models along with the required number of training tokens. Finally, we fit power laws to estimate the optimal model size and number of training tokens for any given amount of compute (see the center and right panels of Figure 2), obtaining a relationship _𝑁𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑎_</sup> and _𝐷𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑏_</sup> . We find that _𝑎_ = 0 _._ 50 and _𝑏_ = 0 _._ 50—as summarized in Table 2. In Section D.4, we show a head-to-head comparison at 10<sup>21</sup> FLOPs, using the model size recommended by our analysis and by the analysis of Kaplan et al. (2020)—using the model size we predict has a clear advantage.
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.513]
+The functions _𝑁𝑜𝑝𝑡_ ( _𝐶_ ), and _𝐷𝑜𝑝𝑡_ ( _𝐶_ ) describe the optimal allocation of a computational budget _𝐶_ . We empirically estimate these functions based on the losses of over 400 models, ranging from under 70M to over 16B parameters, and trained on 5B to over 400B tokens – with each model configuration trained for several different training horizons. Our approach leads to considerably different results than that of Kaplan et al. (2020). We highlight our results in Figure 1 and how our approaches differ in Section 2. 
+
+Based on our estimated compute-optimal frontier, we predict that for the compute budget used to train _Gopher_ , an optimal model should be 4 times smaller, while being training on 4 times more tokens. We verify this by training a more _compute-optimal_ 70B model, called _Chinchilla_ , on 1.4 trillion tokens. Not only does _Chinchilla_ outperform its much larger counterpart, _Gopher_ , but its reduced model size reduces inference cost considerably and greatly facilitates downstream uses on smaller hardware. The energy cost of a large language model is amortized through its usage for inference an fine-tuning. The benefits of a more optimally trained smaller model, therefore, extend beyond the immediate benefits of its improved performance. 
+
+> 1For example, knowing the number of accelerators and a target training duration. 
+
+> 2For simplicity, we perform our analysis on the smoothed training loss which is an unbiased estimate of the test loss, as we are in the infinite data regime (the number of training tokens is less than the number of tokens in the entire corpus). 
+
+2 
+
+Table 1 | **Current LLMs** . We show five of the current largest dense transformer models, their size, and the number of training tokens. Other than LaMDA (Thoppilan et al., 2022), most models are trained for approximately 300 billion tokens. We introduce _Chinchilla_ , a substantially smaller model, trained for much longer than 300B tokens.
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.367]
+Table 3 | **Estimated optimal training FLOPs and training tokens for various model sizes.** For various model sizes, we show the projections from Approach 1 of how many FLOPs and training tokens would be needed to train compute-optimal models. The estimates for Approach 2 & 3 are similar (shown in Section D.3) 
+
+Parameters FLOPs FLOPs (in _Gopher_ unit) Tokens 400 Million 1.92e+19 1/29 _,_ 968 8.0 Billion 
+
+1 Billion 1.21e+20 1/4 _,_ 761 20.2 Billion 10 Billion 1.23e+22 1/46 205.1 Billion 67 Billion 5.76e+23 1 1.5 Trillion . 175 Billion 3.85e+24 6 _._ 7 3.7 Trillion 280 Billion 9.90e+24 17 _._ 2 5.9 Trillion 520 Billion 3.43e+25 59 _._ 5 11.0 Trillion 1 Trillion 1.27e+26 221 _._ 3 21.2 Trillion 10 Trillion 1.30e+28 22515 _._ 9 216.2 Trillion 
+
+large language models are considerably over-sized, given their respective compute budgets, as shown in Figure 1. For example, we find that a 175 billion parameter model should be trained with a compute budget of 4 _._ 41 × 10<sup>24</sup> FLOPs and on over 4.2 trillion tokens. A 280 billion _Gopher_ -like model is the optimal model to train given a compute budget of approximately 10<sup>25</sup> FLOPs and should be trained on 6.8 trillion tokens. Unless one has a compute budget of 10<sup>26</sup> FLOPs (over 250× the compute used to 
+
+train _Gopher_ ), a 1 trillion parameter model is unlikely to be the optimal model to train. Furthermore, the amount of training data that is projected to be needed is far beyond what is currently used to train large models, and underscores the importance of dataset collection in addition to engineering improvements that allow for model scale. While there is significant uncertainty extrapolating out
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.314]
+**Modelling the scaling behavior.** Understanding the scaling behaviour of language models and their transfer properties has been important in the development of recent large models (Hernandez et al., 2021; Kaplan et al., 2020). Kaplan et al. (2020) first showed a predictable relationship between model size and loss over many orders of magnitude. The authors investigate the question of choosing the optimal model size to train for a given compute budget. Similar to us, they address this question by training various models. Our work differs from Kaplan et al. (2020) in several important ways. First, the authors use a fixed number of training tokens and learning rate schedule for all models; this prevents them from modelling the impact of these hyperparameters on the loss. In contrast, we find that setting the learning rate schedule to approximately match the number of training tokens results in the best final loss regardless of model size—see Figure A1. For a fixed learning rate cosine schedule to 130B tokens, the intermediate loss estimates (for _𝐷_<sup>′</sup> _<<_ 130B) are therefore overestimates of the loss of a model trained with a schedule length matching _𝐷_<sup>′</sup> . Using these intermediate losses results in underestimating the effectiveness of training models on less data than 130B tokens, and eventually contributes to the conclusion that model size should increase faster than training data size as compute budget increases. In contrast, our analysis predicts that both quantities should scale at roughly the same rate. Secondly, we include models with up to 16B parameters, as we observe that there is slight curvature in the FLOP-loss frontier (see Appendix E)—in fact, the majority of the models used in our analysis have more than 500 million parameters, in contrast the majority of runs in Kaplan et al. (2020) are significantly smaller—many being less than 100M parameters. 
+
+Recently, Clark et al. (2022) specifically looked in to the scaling properties of Mixture of Expert 
+
+3 
+
+language models, showing that the scaling with number of experts diminishes as the model size increases—their approach models the loss as a function of two variables: the model size and the number of experts. However, the analysis is done with a fixed number of training tokens, as in Kaplan et al. (2020), potentially underestimating the improvements of branching.
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.308]
+> 7We set the cosine schedule length to match the number of tokens, which is optimal according to the analysis presented in Appendix B. 
+
+5 
+
+
+
+<!-- Start of picture text -->
+10T<br>3.2 1T<br>1.4T<br>3.0 1T<br>100B 63B<br>2.8 6e18<br>100B<br>1e19 10B<br>2.6 3e19<br>6e19 10B<br>2.4 1e20 1B<br>3e20<br>6e20 1B<br>2.2 1e21 100M<br>3e21<br>2.0 100M<br>100M 300M 1B 3B 6B 30B 10 17 10 19 10 21 10 23 10 25 10 17 10 19 10 21 10 23 10 25<br>Parameters FLOPs FLOPs<br>Tokens<br>Training Loss Parameters<br><!-- End of picture text -->
+
+Figure 3 | **IsoFLOP curves.** For various model sizes, we choose the number of training tokens such that the final FLOPs is a constant. The cosine cycle length is set to match the target FLOP count. We find a clear valley in loss, meaning that for a given FLOP budget there is an optimal model to train ( **left** ). Using the location of these valleys, we project optimal model size and number of tokens for larger models ( **center** and **right** ). In green, we show the estimated number of parameters and tokens for an _optimal_ model trained with the compute budget of _Gopher_ .
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.300]
+#### **3.2. Approach 2: IsoFLOP profiles** 
+
+In our second approach we vary the model size<sup>5</sup> for a fixed set of 9 different training FLOP counts<sup>6</sup> (ranging from 6 × 10<sup>18</sup> to 3 × 10<sup>21</sup> FLOPs), and consider the final training loss for each point<sup>7</sup> . in contrast with Approach 1 that considered points ( _𝑁, 𝐷, 𝐿_ ) along the entire training runs. This allows us to directly answer the question: For a given FLOP budget, what is the optimal parameter count? 
+
+> 4Note that all selected points are within the last 15% of training. This suggests that when training a model over _𝐷_ tokens, we should pick a cosine cycle length that decays 10× over approximately _𝐷_ tokens—see further details in Appendix B. 5In approach 2, model size varies up to 16B as opposed to approach 1 where we only used models up to 10B. 
+
+> 6The number of training tokens is determined by the model size and training FLOPs. 
+
+> 7We set the cosine schedule length to match the number of tokens, which is optimal according to the analysis presented in Appendix B. 
+
+5 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.292]
+## **Training Compute-Optimal Large Language Models** 
+
+**Jordan Hoffmann**<sup>_★_</sup> **, Sebastian Borgeaud**<sup>_★_</sup> **, Arthur Mensch**<sup>_★_</sup> **, Elena Buchatskaya, Trevor Cai, Eliza Rutherford, Diego de Las Casas, Lisa Anne Hendricks, Johannes Welbl, Aidan Clark, Tom Hennigan, Eric Noland, Katie Millican, George van den Driessche, Bogdan Damoc, Aurelia Guy, Simon Osindero, Karen Simonyan, Erich Elsen, Jack W. Rae, Oriol Vinyals and Laurent Sifre**<sup>_★_</sup> 
+
+> _★_ Equal contributions 
+
+**We investigate the optimal model size and number of tokens for training a transformer language model under a given compute budget. We find that current large language models are significantly undertrained, a consequence of the recent focus on scaling language models whilst keeping the amount of training data constant. By training over 400 language models ranging from 70 million to over 16 billion parameters on 5 to 500 billion tokens, we find that for compute-optimal training, the model size and the number of training tokens should be scaled equally: for every doubling of model size the number of training tokens should also be doubled. We test this hypothesis by training a predicted computeoptimal model,** **_Chinchilla_ , that uses the same compute budget as** **_Gopher_ but with 70B parameters and 4** × **more more data.** **_Chinchilla_ uniformly and significantly outperforms** **_Gopher_ (280B), GPT-3 (175B), Jurassic-1 (178B), and Megatron-Turing NLG (530B) on a large range of downstream evaluation tasks. This also means that** **_Chinchilla_ uses substantially less compute for fine-tuning and inference, greatly facilitating downstream usage. As a highlight,** **_Chinchilla_ reaches a state-of-the-art average accuracy of 67.5% on the MMLU benchmark, greater than a 7% improvement over** **_Gopher_ .**
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.275]
+As in Kaplan et al. (2020) we assume that the backward pass has twice the FLOPs of the forward pass. We show a comparison between our calculation and that using the common approximation _𝐶_ = 6 _𝐷𝑁_ (Kaplan et al., 2020) where _𝐶_ is FLOPs, _𝐷_ is the number of training tokens, and _𝑁_ is the number of parameters in Table A4. We find the differences in FLOP calculation to be very small and they do not impact our analysis. Compared to the results presented in Rae et al. (2021), we use a slightly more 
+
+|Parameters|num_layers|d_model|fw_size|num_heads|k/q size|FLOP Ratio (Ours/6_𝑁𝐷_)|
+|---|---|---|---|---|---|---|
+|73M|10|640|2560|10|64|1.03|
+|305M|20|1024|4096|16|64|1.10|
+|552M|24|1280|5120|10|128|1.08|
+|1.1B|26|1792|7168|14|128|1.04|
+|1.6B|28|2048|8192|16|128|1.03|
+|6.8B|40|3584|14336|28|128|0.99|
+
+
+
+Table A4 | **FLOP comparison.** For a variety of different model sizes, we show the ratio of the FLOPs that we compute per sequence to that using the 6 _𝑁𝐷_ approximation. 
+
+accurate calculation giving a slightly different value (6 _._ 3 × 10<sup>23</sup> compared to 5 _._ 76 × 10<sup>23</sup> ). 
+
+28
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.246]
+#### **D.3. Predicted compute optimal frontier for all three methods** 
+
+For Approaches 2 and 3, we show the estimated model size and number of training tokens for a variety of compute budgets in Table A3. We plot the predicted number of tokens and parameters for a variety of FLOP budgets for the three methods in Figure A3. 
+
+||App|roach 2|App|roach 3|
+|---|---|---|---|---|
+|Parameters|FLOPs|Tokens|FLOPs|Tokens|
+|400 Million|1.84e+19|7.7 Billion|2.21e+19|9.2 Billion|
+|1 Billion|1.20e+20|20.0 Billion|1.62e+20|27.1 Billion|
+|10 Billion|1.32e+22|219.5 Billion|2.46e+22|410.1 Billion|
+|67 Billion|6.88e+23|1.7 Trillion|1.71e+24|4.1 Trillion|
+|175 Billion|4.54e+24|4.3 Trillion|1.26e+24|12.0 Trillion|
+|280 Billion|1.18e+25|7.1 Trillion|3.52e+25|20.1 Trillion|
+|520 Billion|4.19e+25|13.4 Trillion|1.36e+26|43.5 Trillion|
+|1 Trillion|1.59e+26|26.5 Trillion|5.65e+26|94.1 Trillion|
+|10 Trillion|1.75e+28|292.0 Trillion|8.55e+28|1425.5 Trillion|
+
+
+
+Table A3 | **Estimated optimal training FLOPs and training tokens for various model sizes.** Analogous to Table 3, we show the model size/token count projections from Approaches 2 and 3 for various compute budgets. 
+
+. 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.199]
+#### **3.3. Approach 3: Fitting a parametric loss function** 
+
+Lastly, we model all final losses from experiments in Approach 1 & 2 as a parametric function of model parameter count and the number of seen tokens. Following a classical risk decomposition (see Section D.2), we propose the following functional form 
+
+
+
+The first term captures the loss for an ideal generative process on the data distribution, and should correspond to the entropy of natural text. The second term captures the fact that a perfectly trained transformer with _𝑁_ parameters underperforms the ideal generative process. The final term captures the fact that the transformer is not trained to convergence, as we only make a finite number of optimisation steps, on a sample of the dataset distribution. 
+
+**Model fitting.** To estimate ( _𝐴, 𝐵, 𝐸, 𝛼, 𝛽_ ), we minimize the Huber loss (Huber, 1964) between the predicted and observed log loss using the L-BFGS algorithm (Nocedal, 1980): 
+
+
+
+We account for possible local minima by selecting the best fit from a grid of initialisations. The Huber loss ( _𝛿_ = 10<sup>−3</sup> ) is robust to outliers, which we find important for good predictive performance over held-out data points. Section D.2 details the fitting procedure and the loss decomposition. 
+
+6 
+
+
+
+<!-- Start of picture text -->
+IsoLoss contours IsoFLOPs slices<br>100B 5.00<br>40B<br>Train. FLOPs<br>4.00<br>6e+18<br>10B<br>1e+19<br>3e+19<br>6e+19<br>3.00 1e+20<br>1B 3e+20<br>6e+20<br>1e+21<br>3e+21<br>Efficient frontier Gopher<br>100M<br>Empirical data 2.00<br>IsoFLOPs slice<br>10 18 10 19 10 20 10 21 10 22 10 23 Gopher 100M 1B 10B 40B<br>budget<br>Training FLOPs Model size<br>Loss<br>Model size<br><!-- End of picture text -->
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.186]
+Figure A2 | **C4 and GitHub IsoFLOP curves.** Using the C4 dataset (Raffel et al., 2020b) and a GitHub dataset (Rae et al., 2021), we generate 4 IsoFLOP profiles and show the parameter and token count scaling, as in Figure 3. Scaling coefficients are shown in Table A2. 
+
+23 
+
+|Approach|Coef. _𝑎_where _𝑁𝑜𝑝𝑡_∝_𝐶_<sup>_𝑎_</sup>|Coef. _𝑏_where _𝐷𝑜𝑝𝑡_∝_𝐶_<sup>_𝑏_</sup>|
+|---|---|---|
+|C4|0.50|0.50|
+|GitHub|0.53|0.47|
+|Kaplan et al.(2020)|0.73|0.27|
+
+
+
+Table A2 | **Estimated parameter and data scaling with increased training compute on two alternate datasets.** The listed values are the exponents, _𝑎_ and _𝑏_ , on the relationship _𝑁𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑎_</sup> and _𝐷𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑏_</sup> . Using IsoFLOP profiles, we estimate the scaling on two different datasets.
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.185]
+In Table 3 we show the estimated number of FLOPs and tokens that would ensure that a model of a given size lies on the compute-optimal frontier. Our findings suggests that the current generation of 
+
+7 
+
+Table 2 | **Estimated parameter and data scaling with increased training compute.** The listed values are the exponents, _𝑎_ and _𝑏_ , on the relationship _𝑁𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑎_</sup> and _𝐷𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑏_</sup> . Our analysis suggests a near equal scaling in parameters and data with increasing compute which is in clear contrast to previous work on the scaling of large models. The 10<sup>th</sup> and 90<sup>th</sup> percentiles are estimated via bootstrapping data (80% of the dataset is sampled 100 times) and are shown in parenthesis. 
+
+Approach Coeff. _𝑎_ where _𝑁𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑎_</sup> Coeff. _𝑏_ where _𝐷𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑏_</sup> 1. Minimum over training curves 0 _._ 50 (0 _._ 488 _,_ 0 _._ 502) 0 _._ 50 (0 _._ 501 _,_ 0 _._ 512) 2. IsoFLOP profiles 0 _._ 49 (0 _._ 462 _,_ 0 _._ 534) 0 _._ 51 (0 _._ 483 _,_ 0 _._ 529) 3. Parametric modelling of the loss 0 _._ 46 (0 _._ 454 _,_ 0 _._ 455) 0 _._ 54 (0 _._ 542 _,_ 0 _._ 543) Kaplan et al. (2020) 0.73 0.27
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.184]
+For each FLOP budget, we plot the final loss (after smoothing) against the parameter count in Figure 3 (left). In all cases, we ensure that we have trained a diverse enough set of model sizes to see a clear minimum in the loss. We fit a parabola to each IsoFLOPs curve to directly estimate at what model size the minimum loss is achieved (Figure 3 (left)). As with the previous approach, we then fit a power law between FLOPs and loss-optimal model size and number of training tokens, shown in Figure 3 (center, right). Again, we fit exponents of the form _𝑁𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑎_</sup> and _𝐷𝑜𝑝𝑡_ ∝ _𝐶_<sup>_𝑏_</sup> and we find that _𝑎_ = 0 _._ 49 and _𝑏_ = 0 _._ 51—as summarized in Table 2.
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.165]
+#### **3.4. Optimal model scaling** 
+
+We find that the three approaches, despite using different fitting methodologies and different trained models, yield comparable predictions for the optimal scaling in parameters and tokens with FLOPs (shown in Table 2). All three approaches suggest that as compute budget increases, model size and the amount of training data should be increased in approximately equal proportions. The first and second approaches yield very similar predictions for optimal model sizes, as shown in Figure 1 and Figure A3. The third approach predicts even smaller models being optimal at larger compute budgets. We note that the observed points ( _𝐿, 𝑁, 𝐷_ ) for low training FLOPs ( _𝐶_ ⩽ 1 _𝑒_ 21) have larger residuals 2 ∥ _𝐿_ − _𝐿_<sup>ˆ</sup> ( _𝑁, 𝐷_ )∥2<sup>thanpointswithhighercomputationalbudgets.Thefittedmodelplacesincreased</sup> weight on the points with more FLOPs—automatically considering the low-computational budget points as outliers due to the Huber loss. As a consequence of the empirically observed negative curvature in the frontier _𝐶_ → _𝑁𝑜𝑝𝑡_ (see Appendix E), this results in predicting a lower _𝑁𝑜𝑝𝑡_ than the two other approaches. 
+
+In Table 3 we show the estimated number of FLOPs and tokens that would ensure that a model of a given size lies on the compute-optimal frontier. Our findings suggests that the current generation of 
+
+7
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.159]
+_Corresponding authors: {jordanhoffmann|sborgeaud|amensch|sifre}@deepmind.com_ © 2023 DeepMind. All rights reserved 
+
+
+
+<!-- Start of picture text -->
+1T<br>Approach 1<br>100B<br>Approach 2<br>Approach 3<br>Kaplan et al (2020)<br>10B<br>Chinchilla (70B)<br>1.0B Gopher (280B)<br>GPT-3 (175B)<br>Megatron-Turing NLG (530B)<br>100M<br>10M<br>10 17 10 19 10 21 10 23 10 25<br>FLOPs<br>Parameters<br><!-- End of picture text -->
+
+Figure 1 | **Overlaid predictions.** We overlay the predictions from our three different approaches, along with projections from Kaplan et al. (2020). We find that all three methods predict that current large models should be substantially smaller and therefore trained much longer than is currently done. In Figure A3, we show the results with the predicted optimal tokens plotted against the optimal number of parameters for fixed FLOP budgets. **_Chinchilla_ outperforms** **_Gopher_ and the other large models (see Section 4.2).** 
+
+In this work, we revisit the question: _Given a fixed FLOPs budget,_<sup>1</sup> _how should one trade-off model size and the number of training tokens?_ To answer this question, we model the final pre-training loss<sup>2</sup> _𝐿_ ( _𝑁, 𝐷_ ) as a function of the number of model parameters _𝑁_ , and the number of training tokens, _𝐷_ . Since the computational budget _𝐶_ is a deterministic function FLOPs( _𝑁, 𝐷_ ) of the number of seen training tokens and model parameters, we are interested in minimizing _𝐿_ under the constraint FLOPs( _𝑁, 𝐷_ ) = _𝐶_ :
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.110]
+### **F. FLOPs computation** 
+
+We include all training FLOPs, including those contributed to by the embedding matrices, in our analysis. Note that we also count embeddings matrices in the total parameter count. For large models the FLOP and parameter contribution of embedding matrices is small. We use a factor of 2 to describe the multiply accumulate cost. For the forward pass, we consider contributions from: 
+
+- Embeddings 
+
+   - 2 × seq_len × vocab_size × d_model 
+
+- Attention (Single Layer) 
+
+   - **Key, query and value projections** : 2 × 3 × seq_len × d_model × (key_size × num_heads) 
+
+27 
+
+
+
+<!-- Start of picture text -->
+10000<br>6.0<br>5.5 5000<br>5.0<br>2500<br>4.5<br>4.0<br>1000<br>3.5<br>3.0 500<br>2.5 250<br>2.0<br>75<br>10 17 10 18 10 19 10 20 10 21 10 22<br>FLOPS<br>Training loss<br>Million Parameters<br><!-- End of picture text -->
+
+Figure A5 | **Training curve envelopes.** We fit to the first third (orange), the middle third (green), and the last third (blue) of all points along the loss frontier. We plot only a subset of the points. 
+
+   - **Key @ Query logits** : 2 × seq_len × seq_len × (key_size × num_heads) 
+
+   - **Softmax** : 3 × num_heads × seq_len × seq_len 
+
+   - **Softmax @ query reductions** : 2 × seq_len × seq_len × (key_size × num_heads) 
+
+   - **Final Linear** : 2 × seq_len × (key_size × num_heads) × d_model 
+
+- Dense Block (Single Layer) 
+
+   - 2 × seq_len × (d_model × ffw_size + d_model × ffw_size) 
+
+- Final Logits 
+
+   - 2 × seq_len × d_model × vocab_size 
+
+- **Total forward pass FLOPs:** embeddings+num_layers×(total_attention+dense_block) + logits
+
+---
+
+[referencia=46fd66187ec3e6ae score=0.088]
+### **4.** **_Chinchilla_** 
+
+Based on our analysis in Section 3, the optimal model size for the _Gopher_ compute budget is somewhere between 40 and 70 billion parameters. We test this hypothesis by training a model on the larger end of this range—70B parameters—for 1.4T tokens, due to both dataset and computational efficiency considerations. In this section we compare this model, which we call _Chinchilla_ , to _Gopher_ and other LLMs. Both _Chinchilla_ and _Gopher_ have been trained for the same number of FLOPs but differ in the size of the model and the number of training tokens. 
+
+While pre-training a large language model has a considerable compute cost, downstream finetuning and inference also make up substantial compute usage (Rae et al., 2021). Due to being 4× smaller than _Gopher_ , both the memory footprint and inference cost of _Chinchilla_ are also smaller.

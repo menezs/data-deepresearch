@@ -1,0 +1,90 @@
+[referencia=5a53ab664988e734 score=0.027]
+# PL 2338/2023: tramitação na Câmara
+
+Marco Legal da Inteligência Artificial
+
+Dispõe sobre o desenvolvimento, o fomento e o uso ético e responsável da inteligência artificial com base na centralidade da pessoa humana.
+
+**Situação atual na Câmara:** Aguardando Parecer do(a) Relator(a) na Comissão Especial (PL233823) · Ficha oficial ↗ · Linha do tempo da regulação de IA
+
+**O PL 2338/2023 já é lei?** Não. O projeto aprovado pelo Senado está em análise na Câmara dos Deputados e ainda não estabelece obrigações legais vigentes.
+
+Impact Score
+
+## O que mudou recentemente
+
+Últimas mudanças detectadas para esta proposição.
+
+### PL 2338/2023: Notificação de Apensação (registro incorporado)
+
+Em 2026-10-27, MESA: Apensação da proposição PL 3560/2026 à proposição PL 728/2026. Movimentação já constava na ficha oficial antes desta execução e foi incorporada ao dataset agora.
+
+### PL 2338/2023: Notificação de Apensação (registro incorporado)
+
+Em 2026-10-26, MESA: Apensação da proposição PL 3615/2026 à proposição PL 6708/2025. Movimentação já constava na ficha oficial antes desta execução e foi incorporada ao dataset agora.
+
+## Identificação e tramitação
+
+Dados confirmados em fonte oficial nesta execução. Campos não confirmados não são exibidos.
+
+---
+
+[referencia=5a53ab664988e734 score=0.008]
+## Identificação e tramitação
+
+Dados confirmados em fonte oficial nesta execução. Campos não confirmados não são exibidos.
+
+## Resumo objetivo
+
+O projeto propõe um marco regulatório geral da IA no Brasil com abordagem baseada em risco: classifica sistemas (risco excessivo — proibidos; alto risco; demais), define direitos dos afetados, deveres de transparência para desenvolvedores e aplicadores, regras de responsabilidade e sanções administrativas. O texto aprovado no Senado (substitutivo da CTIA) proíbe armas autônomas, sistemas de abuso sexual infantil e previsão de crimes por traços de personalidade; restringe identificação biométrica remota em espaços públicos a hipóteses específicas com autorização judicial; trata de direitos autorais no treinamento de modelos (direito de remuneração e de veto do titular) e prevê avaliação preliminar de risco obrigatória para IA generativa e de propósito geral.
+
+**Chance de impacto regulatório:**Alta: texto já aprovado pelo Senado em 10/12/2024 com substitutivo consolidado; regime de prioridade; 37 proposições apensadas; votação adiada para depois das eleições de outubro/2026
+
+Score atribuído na curadoria de referência (rúbrica pública na metodologia).
+
+## Impacto empresarial
+
+Pode exigir atenção aos processos: Crédito, prevenção a fraudes, decisões automatizadas e tratamento de dados. Governança de modelos, decisões de crédito, segurança e controles internos. Subscrição, precificação, sinistros e explicabilidade de decisões.
+
+**Setores potencialmente relacionados:** Fintech, Bancos, Seguros, Saúde, Data Center, Cloud, Tecnologia, Jurídico, Associação
+
+---
+
+[referencia=5a53ab664988e734 score=0.001]
+## Examinar dimensões e limites da análise
+
+- Tipo de impacto
+- Triagem temática; aplicabilidade depende do uso de IA e da versão do texto.
+- Prazo provável
+- Não confirmado. Depende de tramitação, texto final e regulamentação.
+- Obrigação potencial
+- A confirmar por revisão do texto aplicável; proposição não é obrigação vigente.
+- Risco operacional
+- Mapear dependência de IA, responsáveis e controles relacionados ao tema.
+- Impacto financeiro potencial
+- Não quantificado; depende da exposição e dos custos internos.
+- Compliance
+- Tema relacionado; requer avaliação interna.
+- Dados
+- Tema relacionado; requer avaliação interna.
+- Modelos de IA
+- Tema relacionado; requer avaliação interna.
+- Infraestrutura
+- Não classificado nesta triagem.
+- Status da interpretação
+- Análise preliminar por categorias; não validada para uma organização específica.
+
+Informar compliance e jurídico interno para triagem; acompanhar a fonte oficial.
+
+Inteligência regulatória e análise de impacto de caráter informativo. Não constitui parecer ou aconselhamento jurídico, nem garantia de conformidade ou de interpretação legal.
+
+Solicitar diagnóstico regulatório
+## Timeline de tramitação
+
+## Fontes
+
+- ▸ PL 2338/2023 — fonte oficial
+- ▸ Agência Câmara — Projeto regulamenta uso da IA no Brasil (15/05/2025)
+- ▸ gov.br — Senado aprova marco regulatório da IA (11/12/2024)
+
+Dados legislativos devem sempre ser conferidos nas fontes oficiais.

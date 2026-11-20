@@ -1,0 +1,2563 @@
+[
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-0",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 0,
+    "text": "A expansão acelera dos sistemas de inteligência artificial (IA) nas mais diversas instâncias da sociedade contemporânea reconfigurou a relação entre inovação tecnológica, proteção de direitos fundamentais e soberania estatal.",
+    "cited_markers": [
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "b070f2856552a22b"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-1",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 1,
+    "text": "A transição histórica de diretrizes éticas voluntárias e instrumentos não vinculantes (soft law) — editados por organismos internacionais como a Organização para a Cooperação e Desenvolvimento Econômico (OCDE) e a UNESCO — para marcos regulatórios vinculantes e coercitivos (hard law) reflete a conscientização global de que a opacidade, a autonomia decisória e a capacidade de escala dos sistemas algorítmicos impõem riscos sem precedentes à segurança física, à integridade democrática, ao trabalho e à equidade social.",
+    "cited_markers": [
+      "[28]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "b070f2856552a22b",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-2",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 2,
+    "text": "Nesse cenário de virada regulatória, a União Europeia assumiu o pioneirismo normativo global ao promulgar o Regulamento (UE) 2024/1689, amplamente conhecido como EU AI Act.",
+    "cited_markers": [
+      "[6]",
+      "[12]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "59afac7a9650252d",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-3",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 3,
+    "text": "Concebido como a primeira legislação horizontal abrangente sobre inteligência artificial no mundo, o texto europeu projeta os efeitos do chamado \"Efeito Bruxelas\", pelo qual padrões regulatórios adotados no mercado interno comunitário passam a pautar condutas operacionais, arquiteturas de tecnologia e opções legislativas em jurisdições de todo o planeta.",
+    "cited_markers": [
+      "[6]",
+      "[9]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "b2ce96fb6edc925d",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-4",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 4,
+    "text": "Paralelamente, no ambiente latino-americano, o Brasil desponta com uma das proposições regulatórias mais avançadas e robustas entre as economias emergentes: o Projeto de Lei nº 2.338/2023.",
+    "cited_markers": [
+      "[18]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "2ddcc05b33f7db1a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-5",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 5,
+    "text": "Fruto do trabalho de uma comissão de juristas instalada no Senado Federal e da consolidação de diversas iniciativas anteriores",
+    "cited_markers": [
+      "[16]",
+      "[19]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "c881d3853a0f27f3",
+      "f7d309a1d1b98e5f",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-6",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 6,
+    "text": "o PL 2338/2023 estabelece o Marco Legal da Inteligência Artificial no país.",
+    "cited_markers": [
+      "[18]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "2ddcc05b33f7db1a",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-7",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 7,
+    "text": "Embora absorva a estrutura de classificação de risco e diversas salvaguardas operacionais introduzidas pelo AI Act europeu, a proposta brasileira harmoniza tais elementos com o arcabouço normativo nacional pré-existente — como a Lei Geral de Proteção de Dados (LGPD), o Código de Defesa do Consumidor e o Código Civil —, incorporando um pilar central e dogmático focado na tutela subjetiva dos direitos das pessoas afetadas.",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[25]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "14d93332dc180e13",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-8",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 8,
+    "text": "A análise comparativa entre o EU AI Act e o PL 2338/2023 revela não apenas convergências na neutralização de riscos alinhadas ao desenvolvimento ético da tecnologia, mas também escolhas institucionais e dogmáticas distintas.",
+    "cited_markers": [
+      "[25]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "14d93332dc180e13",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-9",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 9,
+    "text": "Enquanto a União Europeia fundamentou sua regulação na segurança de produtos e na harmonização do mercado interno comunitário, a proposta brasileira deu forte relevância à responsabilidade civil, à inversão do ônus da prova e à criação de direitos fundamentais explícitos contra o arbítrio algorítmico.",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[29]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-10",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 10,
+    "text": "O Regulamento (UE) 2024/1689 do Parlamento Europeu e do Conselho foi formalmente publicado no Jornal Oficial da União Europeia em 12 de julho de 2024",
+    "cited_markers": [
+      "[2]",
+      "[3]",
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "fe6068de3d89f7d2",
+      "cf6364475f91d784"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-11",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 11,
+    "text": "e entrou em vigor em 1º de agosto de 2024.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "fe6068de3d89f7d2",
+      "b90b992d0c2eba47",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-12",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 12,
+    "text": "A norma possui âmbito de aplicação extraterritorial e subjetivo amplo, alcançando fornecedores (providers), implantadores (deployers), importadores e distribuidores de sistemas de IA, desde que tais sistemas sejam colocados no mercado, colocados em serviço ou utilizados no território da União Europeia, ou quando o resultado produzido pelo sistema seja utilizado no bloco comunitário.",
+    "cited_markers": [
+      "[2]",
+      "[6]",
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "8017bf63ce478c77",
+      "59afac7a9650252d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-13",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 13,
+    "text": "A espinha dorsal do AI Act estrutura-se sob uma abordagem baseada em risco (risk-based approach), categorizando as aplicações de inteligência artificial em níveis distintos, aos quais correspondem obrigações jurídicas progressivas e proporcionais ao potencial de dano.",
+    "cited_markers": [
+      "[6]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-14",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 14,
+    "text": "O objetivo é evitar sobrecarregar sistemas de baixo risco com exigências burocráticas excessivas, concentrando o fardo regulatório, as auditorias e os testes de conformidade sobre aplicações que possam impactar diretamente a saúde, a segurança, os direitos fundamentais e o estado de direito.",
+    "cited_markers": [
+      "[6]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-15",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 15,
+    "text": "A primeira categoria compreende os sistemas de risco inaceitável, cujas práticas são expressamente proibidas no território europeu sob o artigo 5º do Regulamento.",
+    "cited_markers": [
+      "[2]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-16",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 16,
+    "text": "Tais proibições entraram em aplicação genérica em 2 de fevereiro de 2025.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-17",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 17,
+    "text": "Entre as condutas banidas estão: a pontuação social (social scoring) conduzida por autoridades públicas ou agentes privados que resulte em tratamento prejudicial desproporcional",
+    "cited_markers": [
+      "[6]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-18",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 18,
+    "text": "o emprego de técnicas subliminares ou deliberadamente manipulativas destinadas a distorcer o comportamento humano e causar danos físicos ou psicológicos",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-19",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 19,
+    "text": "a exploração de vulnerabilidades de grupos específicos devido à idade, deficiência ou situação socioeconômica",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-20",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 20,
+    "text": "o reconhecimento de emoções nos locais de trabalho e em instituições de ensino, salvo por razões médicas ou de segurança",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-21",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 21,
+    "text": "e a identificação biométrica remota em tempo real em espaços acessíveis ao público para fins de aplicação da lei, com exceções estritas e exaustivas expressamente autorizadas judicialmente.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-22",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 22,
+    "text": "No âmbito das práticas proibidas, o quadro normativo europeu foi atualizado pelo Pacote Digital Omnibus para IA (Regulamento UE 2026/1744), publicado e entrado em vigor em julho de 2026, o qual incorporou as alíneas (ba) e (bb) ao artigo 5º(1).",
+    "cited_markers": [
+      "[2]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-23",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 23,
+    "text": "Essas novas disposições proíbem categoricamente sistemas de IA voltados à geração ou manipulação não consentida de imagens íntimas (deepfakes sexuais) e de material de abuso sexual infantil.",
+    "cited_markers": [
+      "[1]",
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-24",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 24,
+    "text": "As proibições específicas a essas duas modalidades passam a ser exigíveis em 2 de dezembro de 2026.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-25",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 25,
+    "text": "A segunda categoria abrange os sistemas de alto risco (high-risk AI systems), enumerados precipuamente no Anexo III e no Anexo I do Regulamento.",
+    "cited_markers": [
+      "[2]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-26",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 26,
+    "text": "Incluem-se nessa classificação os sistemas aplicados a infraestruturas críticas (tráfego, abastecimento de água e energia)",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-27",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 27,
+    "text": "educação e formação profissional (avaliação de estudantes e acesso a instituições)",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-28",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 28,
+    "text": "emprego e gestão de trabalhadores (triagem de currículos, promoções e cessação de contratos)",
+    "cited_markers": [
+      "[6]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-29",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 29,
+    "text": "acesso e fruição de serviços privados e públicos essenciais (concessão de crédito, avaliação de seguros de saúde e assistência social)",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-30",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 30,
+    "text": "aplicação da lei e administração da justiça",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-31",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 31,
+    "text": "e gestão de migração, asilo e controle de fronteiras.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-32",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 32,
+    "text": "Os fornecedores de sistemas de alto risco estão sujeitos a obrigações rigorosas e contínuas ao longo de todo o ciclo de vida do software.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-33",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 33,
+    "text": "Tais obrigações incluem: a implementação de um sistema contínuo de gestão de riscos",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-34",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 34,
+    "text": "a adoção de padrões elevados de governança de dados para treinamento, validação e teste, exigindo dados relevantes, representativos e livres de erros estruturais, além da mitigação proativa de vieses",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-35",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 35,
+    "text": "a elaboração e atualização de documentação técnica detalhada e o registro automático de eventos (logs) para garantir a rastreabilidade operatória",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-36",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 36,
+    "text": "a garantia de transparência instrucional para os utilizadores",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-37",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 37,
+    "text": "o projeto de arquiteturas que permitam a supervisão humana efetiva (human-in-the-loop ou human-on-the-loop)",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-38",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 38,
+    "text": "e o cumprimento de padrões elevados de precisão, robustez e cibersegurança.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-39",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 39,
+    "text": "A terceira categoria envolve os sistemas de risco limitado, que não atendem aos critérios de alto risco, mas apresentam riscos específicos de opacidade ou manipulação, como chatbots e geradores de mídia sintética.",
+    "cited_markers": [
+      "[2]",
+      "[6]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "8017bf63ce478c77",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-40",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 40,
+    "text": "Para esses sistemas, aplicam-se precipuamente deveres de transparência regidos pelo artigo 50 do Regulamento.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[5]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-41",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 41,
+    "text": "Os fornecedores e implantadores devem garantir que as pessoas naturais sejam claramente informadas de que estão interagindo com um sistema automatizado e assegurar que conteúdos sintéticos em áudio, imagem, vídeo ou texto carreguem marcações e identificadores legíveis por máquina que denunciem sua origem artificial.",
+    "cited_markers": [
+      "[2]",
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "fe6068de3d89f7d2",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-42",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 42,
+    "text": "A quarta e última categoria abrange os sistemas de risco mínimo ou nulo, que representam a maioria das aplicações em uso corrente (como filtros de spam ou sistemas de otimização industrial sem impacto direto em pessoas).",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-43",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 43,
+    "text": "Tais sistemas permanecem isentos de obrigações regulatórias diretas, sendo incentivada a adesão voluntária a códigos de conduta éticos.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-44",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 44,
+    "text": "Diante da evolução de modelos de linguagem de grande porte (LLMs) e modelos de fundação, o legislador europeu introduziu uma seção específica (Capítulo V) voltada aos modelos de IA de Propósito Geral (General-Purpose AI - GPAI).",
+    "cited_markers": [
+      "[2]",
+      "[6]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "8017bf63ce478c77",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-45",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 45,
+    "text": "Os fornecedores de modelos GPAI colocados no mercado comunitário devem manter documentação técnica atualizada, disponibilizar informações operacionais para terceiros integradores, cumprir a legislação europeia de direitos autorais e publicar resumos detalhados sobre os dados utilizados no treinamento dos modelos.",
+    "cited_markers": [
+      "[2]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-46",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 46,
+    "text": "Para os modelos GPAI identificados como portadores de risco sistêmico — caracterizados pelo alto volume de capacidade computacional empregado em seu treinamento (limiar medido em operações de ponto flutuante, superior a 10^25 FLOPS) ou por seu impacto desproporcional no mercado —, estabeleceu-se uma camada adicional de deveres.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-47",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 47,
+    "text": "Seus fornecedores devem realizar avaliações padronizadas de modelos, testes adversariais (red-teaming), relatar e mitigar riscos sistêmicos, implementar salvaguardas reforçadas de cibersegurança, mensurar a eficiência energética do treinamento e notificar imediatamente o Gabinete de IA europeu (AI Office) sobre incidentes graves de segurança.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-48",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 48,
+    "text": "A governança do AI Act organiza-se em dois níveis federativos interdependentes.",
+    "cited_markers": [
+      "[1]",
+      "[3]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "fe6068de3d89f7d2",
+      "b90b992d0c2eba47",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-49",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 49,
+    "text": "No âmbito da União Europeia, foi criado o Gabinete Europeu de Inteligência Artificial (AI Office), sediado na Comissão Europeia, encarregado da supervisão direta dos modelos GPAI e da harmonização das práticas regulatórias.",
+    "cited_markers": [
+      "[2]",
+      "[6]",
+      "[8]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "8017bf63ce478c77",
+      "cf6364475f91d784",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-50",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 50,
+    "text": "Estruturam-se ainda o Conselho Europeu de IA (AI Board), o Painel Científico de Peritos Independentes (Scientific Panel) e o Fórum Consultivo (Advisory Forum), garantindo suporte técnico, científico e participação da sociedade civil e da indústria.",
+    "cited_markers": [
+      "[1]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-51",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 51,
+    "text": "No nível nacional, cada Estado-Membro é obrigado a designar autoridades nacionais competentes para a fiscalização de mercado e a aplicação das sanções administrativas.",
+    "cited_markers": [
+      "[1]",
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "fe6068de3d89f7d2",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-52",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 52,
+    "text": "O regime sancionatório do AI Act é notavelmente severo.",
+    "cited_markers": [
+      "[1]",
+      "[3]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "fe6068de3d89f7d2",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-53",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 53,
+    "text": "Las multas administrativas por descumprimento das proibições de práticas inaceitáveis podem atingir até 35 milhões de euros ou 7% do faturamento global anual da empresa infratora no exercício financeiro anterior, aplicando-se o valor que for maior.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-54",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 54,
+    "text": "A violação de obrigações relativas a sistemas de alto risco ou a modelos GPAI pode acarretar multas de até 15 milhões de euros ou 3% do faturamento global.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-55",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 55,
+    "text": "A aplicabilidade do Regulamento ocorre de forma gradual e escalonada ao longo de vários anos para permitir a adaptação do mercado:",
+    "cited_markers": [
+      "[1]",
+      "[3]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "fe6068de3d89f7d2",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-56",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 56,
+    "text": "Em 1º de agosto de 2024, ocorreu a entrada em vigor formal do Regulamento.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "fe6068de3d89f7d2",
+      "b90b992d0c2eba47",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-57",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 57,
+    "text": "Em 2 de fevereiro de 2025, tornaram-se aplicáveis as disposições gerais, os conceitos jurídicos, os deveres de alfabetização em IA e a proibição das práticas de risco inaceitável constante do artigo 5º.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-58",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 58,
+    "text": "Em 2 de agosto de 2025, entram em aplicação as regras específicas para fornecedores de modelos GPAI, a designação das autoridades competentes nacionais, a definição do regime sancionatório pelos Estados-Membros e o funcionamento pleno da governança europeia (AI Office, AI Board, Painel Científico e Fórum Consultivo).",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[5]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "fe6068de3d89f7d2",
+      "b90b992d0c2eba47",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-59",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 59,
+    "text": "Em 27 de julho de 2026, entra em vigor o Regulamento UE 2026/1744 (Digital Omnibus sobre IA), reajustando os prazos de transição dos sistemas de alto risco para assegurar adequação técnica ao mercado.",
+    "cited_markers": [
+      "[2]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-60",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 60,
+    "text": "Em 2 de agosto de 2026, ocorre a aplicação geral da maioria das disposições do AI Act, incluindo as regras de transparência do artigo 50.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[5]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-61",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 61,
+    "text": "Em 2 de dezembro de 2026, passam a vigorar as novas proibições sobre deepfakes sexuais e abuso infantil",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-62",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 62,
+    "text": "e esgota-se o prazo de transição do artigo 50(2) para que sistemas geradores de conteúdo sintético já colocados no mercado antes de agosto de 2026 implementem a marcação legível por máquina.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "fe6068de3d89f7d2",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-63",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 63,
+    "text": "Em 2 de agosto de 2027, encerra-se a fase de transição para modelos GPAI antigos (colocados no mercado antes de agosto de 2025)",
+    "cited_markers": [
+      "[2]",
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "fe6068de3d89f7d2"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-64",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 64,
+    "text": "e torna-se obrigatória a operacionalização de pelo menos um ambiente de experimentação regulatória (regulatory sandbox) por Estado-Membro.",
+    "cited_markers": [
+      "[1]",
+      "[3]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "fe6068de3d89f7d2",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-65",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 65,
+    "text": "Em 2 de dezembro de 2027, tornam-se exigíveis as obrigações para sistemas de alto risco enquadrados no Anexo III conforme o cronograma atualizado.",
+    "cited_markers": [
+      "[2]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-66",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 66,
+    "text": "Em 2 de agosto de 2028, tornam-se aplicáveis as exigências para sistemas de alto risco integrados como componentes de segurança em produtos harmonizados regulados pelo Anexo I.",
+    "cited_markers": [
+      "[1]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "b90b992d0c2eba47"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-67",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 67,
+    "text": "Por fim, em 2 de agosto de 2030, esgota-se o prazo de adequação para sistemas de alto risco utilizados especificamente por autoridades públicas.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "fe6068de3d89f7d2"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-68",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 68,
+    "text": "No Brasil, o debate sobre a regulação da inteligência artificial ganhou tração estruturada a partir do Projeto de Lei nº 2.338/2023, de autoria do Presidente do Senado Federal, Senador Rodrigo Pacheco.",
+    "cited_markers": [
+      "[16]",
+      "[18]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "c881d3853a0f27f3",
+      "2ddcc05b33f7db1a",
+      "f7d309a1d1b98e5f"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-69",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 69,
+    "text": "O projeto teve como alicerce o anteprojeto elaborado pela Comissão de Juristas responsável por subsidiar a regulação da IA no Brasil (CJIA), instituída pelo Senado.",
+    "cited_markers": [
+      "[16]",
+      "[19]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "c881d3853a0f27f3",
+      "f7d309a1d1b98e5f",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-70",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 70,
+    "text": "A matéria foi distribuída à Comissão Temporária Interna sobre Inteligência Artificial no Brasil (CTIA), sob a relatoria do Senador Eduardo Gomes.",
+    "cited_markers": [
+      "[16]",
+      "[18]",
+      "[19]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "c881d3853a0f27f3",
+      "2ddcc05b33f7db1a",
+      "f7d309a1d1b98e5f"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-71",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 71,
+    "text": "Após intensas audiências públicas, contribuições setoriais e a apresentação de centenas de emendas",
+    "cited_markers": [
+      "[16]",
+      "[18]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "c881d3853a0f27f3",
+      "2ddcc05b33f7db1a",
+      "f7d309a1d1b98e5f"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-72",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 72,
+    "text": "a CTIA aprovou o parecer substitutivo formulado pelo relator.",
+    "cited_markers": [
+      "[16]",
+      "[20]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "c881d3853a0f27f3",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-73",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 73,
+    "text": "Em 10 de dezembro de 2024, o Plenário do Senado Federal aprovou a matéria na forma do substitutivo consolidado, declarando prejudicados os projetos de lei concorrentes ou apensados (dentre os quais o PL 21/2020, o PL 5.051/2019 e o PL 872/2021).",
+    "cited_markers": [
+      "[16]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "c881d3853a0f27f3",
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-74",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 74,
+    "text": "O texto aprovado foi autografado e remetido à Câmara dos Deputados para revisão constitucional e regimental em 17 de março de 2025, onde prossegue em tramitação.",
+    "cited_markers": [
+      "[18]",
+      "[19]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "2ddcc05b33f7db1a",
+      "f7d309a1d1b98e5f"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-75",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 75,
+    "text": "A premissa basilar do PL 2338/2023 funda-se na centralidade da pessoa humana, na não maleficência, na proporcionalidade e no fomento ao desenvolvimento tecnológico ético e soberano.",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-76",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 76,
+    "text": "Ao contrário de abordagens puramente mercadológicas, a proposição legislativa brasileira combina a prevenção de riscos sistemáticos com uma clara dogmática de proteção subjetiva e responsabilização civil pelos danos causados pela autonomia algorítmica.",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[29]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-77",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 77,
+    "text": "Um dos trechos mais inovadores do PL 2338/2023 reside no Capítulo II, que estabelece um rol explícito de direitos para todas as pessoas afetadas por sistemas de inteligência artificial.",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-78",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 78,
+    "text": "O direito à informação prévia e clara sobre a interação com sistemas automatizados de IA e sobre o caráter automatizado das decisões em processos que o afetem.",
+    "cited_markers": [
+      "[17]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-79",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 79,
+    "text": "O direito à privacidade, à proteção de dados pessoais e à inviolabilidade da intimidade.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-80",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 80,
+    "text": "O direito à não discriminação ilícita e à correção de vieses discriminatórios diretos, indiretos, ilegais ou abusivos, sobretudo aqueles decorrentes do tratamento de dados pessoais sensíveis ou de impactos desproporcionais sobre características pessoais.",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-81",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 81,
+    "text": "O direito ao uso de linguagem simples, transparente e acessível nas interações automatizadas, com salvaguardas especiais de linguagem e design quando os sistemas forem direcionados a crianças, adolescentes, idosos ou pessoas com deficiência.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-82",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 82,
+    "text": "Para as pessoas afetadas por decisões tomadas ou apoiadas por sistemas de IA classificados como de alto risco, a legislação brasileira prevê direitos reforçados:",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-83",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 83,
+    "text": "O direito à explicação substancial e inteligível sobre a decisão tomada pelo sistema, compreendendo os critérios, os dados e a lógica geral utilizada no processamento.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-84",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 84,
+    "text": "O direito à contestação das decisões automatizadas e à submissão de razões de contrariedade.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-85",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 85,
+    "text": "O direito à revisão humana das decisões automatizadas, levando em consideração o contexto de aplicação e a gravidade dos riscos associados.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-86",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 86,
+    "text": "Alinhando-se à sistemática europeia, o substitutivo aprovado do PL 2338/2023 adota uma estrutura pautada no grau de risco, dividida em três patamares funcionais:",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-87",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 87,
+    "text": "No patamar dos riscos excessivos (práticas vedadas), o artigo 14 proíbe a implementação e o uso de sistemas que empreguem técnicas subliminares destinadas a induzir comportamentos prejudiciais ou perigosos à saúde ou segurança",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-88",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 88,
+    "text": "sistemas de avaliação ou pontuação social (social scoring) executados pelo poder público ou entes privados para restringir direitos injustificadamente",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-89",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 89,
+    "text": "e sistemas de identificação biométrica remota em tempo real em espaços públicos.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-90",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 90,
+    "text": "A utilização de câmeras para identificação biométrica em tempo real é restringida a exceções penais e de segurança pública estritas: busca de vítimas de crimes ou pessoas desaparecidas; captura de fugitivos ou cumprimento de mandados de prisão; e investigação e repressão em flagrante delito de crimes punidos com pena privativa de liberdade.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-91",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 91,
+    "text": "No patamar dos riscos altos, o texto do PL 2338/2023 elenca uma vasta gama de aplicações",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-92",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 92,
+    "text": "gestão de infraestruturas críticas (como tráfego e redes essenciais)",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-93",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 93,
+    "text": "contratação, recrutamento, promoção, demissão e avaliação de desempenho em relações de trabalho",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-94",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 94,
+    "text": "avaliação de elegibilidade para serviços públicos e privados essenciais, seguridade social e assistência social",
+    "cited_markers": [
+      "[17]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-95",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 95,
+    "text": "aplicação da lei, investigação criminal e administração da justiça",
+    "cited_markers": [
+      "[17]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-96",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 96,
+    "text": "gestão de prioridades em serviços de emergência (bombeiros e atendimento médico)",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-97",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 97,
+    "text": "diagnósticos médicos e estudos analíticos de crimes.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-98",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 98,
+    "text": "Um traço distintivo fundamental da legislação brasileira é que essa lista de alto risco não é fechada, mas sim \"aberto-exemplificativa\".",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-99",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 99,
+    "text": "Isso permite que a autoridade competente possa atualizar e incluir novas categorias de uso no rol de alto risco mediante regulamentação administrativa futura, adaptando o direito às transformações tecnológicas imprevistas sem a necessidade de reforma legislativa formal.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-100",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 100,
+    "text": "No que tange aos procedimentos de governança e avaliação de riscos, a versão final do projeto instituiu uma importante dualidade procedimental:",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-101",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 101,
+    "text": "A Avaliação Preliminar tornou-se obrigatória exclusivamente para sistemas de IA generativa e de propósito geral.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-102",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 102,
+    "text": "Para os demais sistemas de IA, a avaliação preliminar é facultativa, figurando como medida de boa prática corporativa que confere benefícios regulatórios aos agentes, tais como prioridade em processos de avaliação de conformidade.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-103",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 103,
+    "text": "A Avaliação de Impacto Algorítmico (AIA) é o instrumento obrigatório para os sistemas de IA que, após a análise preliminar ou pelo enquadramento normativo, forem confirmados como de alto risco.",
+    "cited_markers": [
+      "[20]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-104",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 104,
+    "text": "A AIA deve ser elaborada pelos agentes de IA, descrevendo a mitigação de riscos conhecidos ou previsíveis, o controle de vieses cognitivos e sociais na coleta e estruturação de dados, e as medidas operacionais impostas para assegurar a supervisão humana.",
+    "cited_markers": [
+      "[17]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-105",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 105,
+    "text": "O projeto estabelece que a supervisão humana deve ser exercida por pessoas com capacidade técnica para intervir no sistema; contudo, quando a supervisão humana direta for comprovadamente impossível ou exigir esforço desproporcional, ela poderá ser dispensada mediante a implementação comprovada de medidas alternativas eficazes de mitigação de danos.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-106",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 106,
+    "text": "A disciplina da responsabilidade civil no PL 2338/2023 afasta-se de ambiguidades conceituais ao regular expressamente a reparação dos danos patrimoniais, morais, individuais ou difusos causados pelo funcionamento de sistemas de IA.",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[29]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-107",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 107,
+    "text": "O projeto distingue as obrigações e o grau de imputação aplicável aos fornecedores e aos operadores, estruturando um modelo focado na facilitação da tutela da vítima perante a assimetria informativa e a opacidade algorítmica (\"caixa-preta\").",
+    "cited_markers": [
+      "[20]",
+      "[29]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-108",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 108,
+    "text": "O texto consagra expressamente a inversão do ônus da prova em favor da vítima nas ações de reparação de danos quando a demonstração do nexo de causalidade entre a conduta do agente, o funcionamento do algoritmo e o dano sofrido for excessivamente onerosa ou tecnicamente inviável para o afetado.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-109",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 109,
+    "text": "Para se eximirem da obrigação de indenizar, os agentes de IA devem comprovar documental e pericialmente que não colocaram o sistema em circulação ou dele não tiraram proveito; ou que o dano resultou de culpa exclusiva da vítima, de fato exclusivo de terceiro, ou de caso fortuito externo inteiramente alheio ao desenvolvimento e à operação do sistema.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-110",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 110,
+    "text": "No tocante aos direitos autorais e à mineração de textos e dados (data mining), o projeto enfrentou intensos debates entre o setor tecnológico e a indústria cultural.",
+    "cited_markers": [
+      "[20]",
+      "[28]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "b070f2856552a22b"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-111",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 111,
+    "text": "Ficou estabelecida a obrigatoriedade de remuneração das obras protegidas por direitos autorais utilizadas na mineração e no treinamento de modelos comerciais de inteligência artificial.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-112",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 112,
+    "text": "Além disso, previu-se a rotulagem obrigatória e a identificação de conteúdos sintéticos (áudios, vídeos e imagens gerados por IA) em parceria com a sociedade civil e a iniciativa privada.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-113",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 113,
+    "text": "Disposições da versão inicial que poderiam dar margem à remoção indevida de conteúdos ou à limitação da liberdade de expressão foram suprimidas do relatório final pelo relator Senador Eduardo Gomes, garantindo a preservação dos direitos de manifestação e livre fluxo de ideias.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-114",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 114,
+    "text": "Para garantir a aplicação efetiva da lei, o PL 2338/2023 autoriza o Poder Executivo a instituir o Sistema Nacional de Regulação e Governança de Inteligência Artificial (SIA).",
+    "cited_markers": [
+      "[26]",
+      "[27]",
+      "[31]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "4b9a533e3264d328",
+      "871f6f1bc93b91f7",
+      "c20cbdad998e6a81",
+      "98bbdc3dea5965d4"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-115",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 115,
+    "text": "O modelo institucional adotado evita a criação de um novo órgão burocrático autônomo e aposta na coordenação descentralizada e integrada.",
+    "cited_markers": [
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "98bbdc3dea5965d4"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-116",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 116,
+    "text": "A Autoridade Nacional de Proteção de Dados (ANPD) foi designada como a autoridade competente central para coordenar o SIA.",
+    "cited_markers": [
+      "[20]",
+      "[26]",
+      "[27]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "4b9a533e3264d328",
+      "871f6f1bc93b91f7",
+      "98bbdc3dea5965d4"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-117",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 117,
+    "text": "Expedir normas infralegais regulamentares sobre procedimentos de Avaliação de Impacto Algorítmico e requisitos de certificação de sistemas.",
+    "cited_markers": [
+      "[20]",
+      "[26]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "4b9a533e3264d328",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-118",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 118,
+    "text": "Estabelecer diretrizes e padrões para a comunicação de incidentes graves de segurança algorítmica e determinar providências corretivas.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-119",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 119,
+    "text": "Aplicar sanções administrativas e multas pelo descumprimento do Marco Legal de IA.",
+    "cited_markers": [
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-120",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 120,
+    "text": "Credenciar entidades de autorregulação e associações de especialistas habilitadas a conceder selos e certificações de governança aos agentes do mercado.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-121",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 121,
+    "text": "Por outro lado, o modelo do SIA preserva e valoriza expressamente as competências das autoridades regulatórias setoriais já existentes.",
+    "cited_markers": [
+      "[34]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "98bbdc3dea5965d4",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-122",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 122,
+    "text": "Regulações específicas continuarão sob a alçada dos respectivos órgãos competentes no âmbito de suas atribuições — como a Agência Nacional de Vigilância Sanitária (ANVISA) na regulação de softwares médicos (SaMD), o Conselho Federal de Medicina (CFM) na ética profissional médica, o Banco Central do Brasil no sistema financeiro e a Agência Nacional de Telecomunicações (ANATEL).",
+    "cited_markers": [
+      "[34]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "98bbdc3dea5965d4",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-123",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 123,
+    "text": "A ANPD atuará como órgão central articulador para evitar sobreposições ou conflitos normativos entre as agências.",
+    "cited_markers": [
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "98bbdc3dea5965d4"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-124",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 124,
+    "text": "O PL 2338/2023 determina ainda que o poder público, em conjunto com o Ministério do Trabalho e as autoridades competentes, elabore diretrizes voltadas à mitigação dos impactos socioeconômicos da automação sobre o emprego, incentivando a requalificação de trabalhadores.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-125",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 125,
+    "text": "Do mesmo modo, estabelece diretrizes para fomentar a inovação nacional, concedendo incentivos à contratação pública de soluções baseadas em IA desenvolvidas por micro e pequenas empresas e startups nacionais, bem como a promoção da cultura local e da língua portuguesa.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-126",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 126,
+    "text": "A comparação minuciosa entre o EU AI Act e o PL 2338/2023 evidencia que o legislador brasileiro utilizou a estrutura europeia como principal referência técnica.",
+    "cited_markers": [
+      "[25]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "14d93332dc180e13",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-127",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 127,
+    "text": "Ambas as legislações abandonaram concepções regulatórias genéricas baseadas exclusivamente em intenções éticas não vinculantes e adotaram o modelo risk-tiered.",
+    "cited_markers": [
+      "[6]",
+      "[17]",
+      "[20]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-128",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 128,
+    "text": "Em ambos os ordenamentos, a intensidade das obrigações formais de governança, auditoria e fiscalização aumenta na proporção direta do risco representado pelo sistema.",
+    "cited_markers": [
+      "[6]",
+      "[17]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "c102ab75f03f6682",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-129",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 129,
+    "text": "Ademais, observa-se expressa convergência nas condutas consideradas intoleráveis em um Estado Democrático de Direito.",
+    "cited_markers": [
+      "[6]",
+      "[17]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "c102ab75f03f6682",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-130",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 130,
+    "text": "Tanto o Regulamento (UE) 2024/1689 quanto o PL 2338/2023 banem o social scoring coercitivo, a manipulação subliminar destinada a induzir danos e a identificação biométrica remota massiva e indiscriminada em tempo real em espaços públicos, restringindo esta última a cenários específicos e extraordinários de persecução penal ou resgate de vítimas.",
+    "cited_markers": [
+      "[6]",
+      "[17]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-131",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 131,
+    "text": "Ambas as legislações impõem também regras de transparência estritas para mídias sintéticas, exigindo a rotulagem legível por máquina em conteúdos gerados por IA generativa para combater a desinformação.",
+    "cited_markers": [
+      "[2]",
+      "[5]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-132",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 132,
+    "text": "Apesar das convergências, sobressaem divergências estruturais e dogmáticas significativas entre os dois modelos jurídicos.",
+    "cited_markers": [
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-133",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 133,
+    "text": "A primeira diferença reside no fundamento jurídico primordial de cada texto",
+    "cited_markers": [
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-134",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 134,
+    "text": "o AI Act europeu foi desenhado no âmbito do Artigo 114 do Tratado sobre o Funcionamento da União Europeia (TFUE) como uma legislação essencialmente voltada à harmonização do mercado interno comunitário e à segurança de produtos.",
+    "cited_markers": [
+      "[6]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-135",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 135,
+    "text": "Em contrapartida, o PL 2338/2023 foi concebido com uma abordagem precipuamente focada no direito público e civil brasileiro, colocando a tutela dos direitos fundamentais da pessoa afetada no topo da hierarquia axiológica do texto.",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-136",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 136,
+    "text": "A segunda divergência relevante diz respeito à flexibilidade da lista de sistemas de alto risco.",
+    "cited_markers": [
+      "[21]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "ff78e92cbf7a6a71",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-137",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 137,
+    "text": "No EU AI Act, a alteração do rol de alto risco constante do Anexo III depende precipuamente de atos delegados da Comissão Europeia vinculados a critérios rígidos expressos no texto legal.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-138",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 138,
+    "text": "No PL 2338/2023, a lista de alto risco foi qualificada expressamente como \"aberto-exemplificativa\".",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-139",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 139,
+    "text": "Essa opção confere maior plasticidade ao órgão regulador brasileiro (ANPD/SIA) para classificar novas aplicações emergentes como de alto risco mediante regulamentação administrativa célere, dispensando reformas legislativas do Congresso Nacional.",
+    "cited_markers": [
+      "[21]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "ff78e92cbf7a6a71",
+      "98bbdc3dea5965d4"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-140",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 140,
+    "text": "A terceira e mais expressiva divergência reside na disciplina da responsabilidade civil extracontratual.",
+    "cited_markers": [
+      "[29]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-141",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 141,
+    "text": "O EU AI Act europeu optou por não disciplinar detalhadamente as regras de reparação de danos em seu texto principal, remetendo a matéria a propostas legislativas paralelas em discussão no bloco, tais como a Diretiva de Responsabilidade por IA (AI Liability Directive) e a revisão da Diretiva de Responsabilidade por Produtos Defeituosos.",
+    "cited_markers": [
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-142",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 142,
+    "text": "Por outro lado, o PL 2338/2023 incorporou a responsabilidade civil diretamente no corpo do Marco Legal, prevendo um sistema simplificado de inversão do ônus da prova em favor das vítimas",
+    "cited_markers": [
+      "[20]",
+      "[21]",
+      "[29]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-143",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 143,
+    "text": "e fixando as excludentes legais de ilicitude operatória que o fornecedor ou operador precisa comprovar perante o Judiciário.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-144",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 144,
+    "text": "Na governança, observa-se também uma distinção institucional.",
+    "cited_markers": [
+      "[6]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "98bbdc3dea5965d4"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-145",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 145,
+    "text": "Enquanto a União Europeia criou uma autoridade supranacional especializada e dedicada exclusivamente à IA — o Gabinete Europeu de IA (AI Office) focado nos modelos de propósito geral",
+    "cited_markers": [
+      "[2]",
+      "[6]",
+      "[8]",
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "8017bf63ce478c77",
+      "cf6364475f91d784",
+      "b2ce96fb6edc925d"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-146",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 146,
+    "text": "o Brasil optou pela criação de uma rede regulatória coordenada (o SIA), alocando a liderança na Autoridade Nacional de Proteção de Dados (ANPD) em cooperação harmônica com as agências reguladoras setoriais.",
+    "cited_markers": [
+      "[20]",
+      "[26]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "4b9a533e3264d328",
+      "98bbdc3dea5965d4"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-147",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 147,
+    "text": "A rápida disseminação da arquitetura europeia no projeto de lei brasileiro demonstra a eficácia do \"Efeito Bruxelas\" na padronização global do mercado tecnológico.",
+    "cited_markers": [
+      "[6]",
+      "[9]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "b2ce96fb6edc925d",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-148",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 148,
+    "text": "Por outro lado, o modelo brasileiro demonstra soberania regulatória ao ajustar a norma à sua própria realidade socioeconômica e jurídica.",
+    "cited_markers": [
+      "[20]",
+      "[21]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-149",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 149,
+    "text": "Ao incorporar dispositivos que tratam especificamente do fomento à língua portuguesa e ao patrimônio cultural, de diretrizes para minorar o desemprego tecnológico estrutural e da criação de critérios diferenciados de conformidade para microempresas e startups nacionais, o Brasil busca evitar que a regulação rigorosa atue como uma barreira de entrada intransponível, impedindo a consolidação de um ecossistema nacional e soberano de inovação em IA.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-150",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 150,
+    "text": "A transição da regulação teórica para a aplicação prática impõe profundos desafios operacionais para empresas e órgãos públicos.",
+    "cited_markers": [
+      "[2]",
+      "[5]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-151",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 151,
+    "text": "A conformidade com os novos marcos legais exige o abandono definitivo da gestão reativa de TI em prol de uma governança corporativa de IA estruturada, multidisciplinar e contínua.",
+    "cited_markers": [
+      "[2]",
+      "[5]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-152",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 152,
+    "text": "No âmbito corporativo, as organizações devem implementar etapas de adequação operacional indispensáveis.",
+    "cited_markers": [
+      "[2]",
+      "[5]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-153",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 153,
+    "text": "O primeiro passo consiste no Mapeamento e Inventário de IA, em que as entidades devem realizar levantamentos abrangentes para identificar todos os sistemas de IA em uso ou em fase de desenvolvimento, mapeando fornecedores terceirizados, fluxos de dados e finalidades de negócio.",
+    "cited_markers": [
+      "[2]",
+      "[5]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-154",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 154,
+    "text": "Em seguida, realiza-se a Classificação de Risco e Avaliação Preliminar, avaliando a aderência de cada sistema aos níveis de risco estabelecidos pelo AI Act e pelo PL 2338/2023, identificando aplicações vedadas ou enquadradas como de alto risco.",
+    "cited_markers": [
+      "[2]",
+      "[6]",
+      "[17]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "8017bf63ce478c77",
+      "c102ab75f03f6682",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-155",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 155,
+    "text": "O terceiro pilar exige Governança de Dados e Mitigação de Vieses, auditando os dados utilizados para treinamento e validação de algoritmos, garantindo amostragens estatisticamente representativas para evitar resultados discriminatórios em processos seletivos, concessão de crédito ou diagnósticos de saúde.",
+    "cited_markers": [
+      "[6]",
+      "[17]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "c102ab75f03f6682",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-156",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 156,
+    "text": "O quarto pilar demanda a elaboração da Avaliação de Impacto Algorítmico (AIA) e Documentação Técnica, estruturando processos formais para sistemas de alto risco e mantendo registros detalhados de funcionamento e logs de auditabilidade.",
+    "cited_markers": [
+      "[6]",
+      "[17]",
+      "[20]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-157",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 157,
+    "text": "Por fim, exige-se a garantia de Transparência e Supervisão Humana, desenvolvendo interfaces de usuário que explicitem o caráter automatizado das interações e projetando mecanismos eficazes de intervenção e revisão humana (human oversight) sobre as decisões emitidas por algoritmos.",
+    "cited_markers": [
+      "[6]",
+      "[17]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "c102ab75f03f6682",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-158",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 158,
+    "text": "O ecossistema de saúde brasileiro oferece um exemplo ilustrativo da complexidade de aplicação prática e da sobreposição de camadas normativas pré-existentes.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-159",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 159,
+    "text": "A adoção de ferramentas de inteligência artificial em hospitais e clínicas exige conformidade simultânea com quatro pilares normativos distintos:",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-160",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 160,
+    "text": "A Lei Geral de Proteção de Dados (LGPD), fiscalizada pela ANPD, quanto às bases legais de tratamento de dados sensíveis de saúde e o direito à revisão de decisões automatizadas.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-161",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 161,
+    "text": "A Resolução RDC 657/2022 da ANVISA, que regulamenta o registro de softwares como dispositivos médicos (SaMD) quando o algoritmo influencia diagnósticos ou condutas clínicas.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-162",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 162,
+    "text": "As Resoluções nº 2.314/2022 e nº 2.454/2026 do Conselho Federal de Medicina (CFM), que estabelecem a ética médica profissional e a responsabilidade indelegável do médico na decisão clínica final assistida por IA.",
+    "cited_markers": [
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-163",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 163,
+    "text": "O Marco Legal de IA (PL 2338/2023), que exigirá a Avaliação de Impacto Algorítmico para sistemas médicos de alto risco.",
+    "cited_markers": [
+      "[20]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-164",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 164,
+    "text": "Do ponto de vista socioeconômico, a implementação gradual do EU AI Act e do PL 2338/2023 redefinirá o cenário concorrencial global.",
+    "cited_markers": [
+      "[1]",
+      "[6]",
+      "[20]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "8017bf63ce478c77",
+      "d50904ab9268760a"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-165",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 165,
+    "text": "Embora a imposição de requisitos rigorosos aumente os custos operacionais de compliance e exija maior suporte jurídico e técnico",
+    "cited_markers": [
+      "[2]",
+      "[5]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-166",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 166,
+    "text": "ela estabelece um ambiente de concorrência leal baseado na confiança, reduzindo os riscos de litígios de massa, incidentes graves de reputação e danos à segurança dos cidadãos.",
+    "cited_markers": [
+      "[6]",
+      "[20]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-167",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 167,
+    "text": "O EU AI Act europeu (Regulamento UE 2024/1689) estabeleceu o padrão de referência para a regulação global da IA.",
+    "cited_markers": [
+      "[6]",
+      "[9]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "b2ce96fb6edc925d",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-168",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 168,
+    "text": "Sua abordagem baseada em riscos e seu cronograma de implementação gradativa criaram um modelo previsível e coercitivo de governança para o mercado internacional.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "8017bf63ce478c77"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-169",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 169,
+    "text": "No Brasil, o Projeto de Lei nº 2.338/2023 — com sua aprovação no Senado Federal e o envio à Câmara dos Deputados — coloca o país no centro do debate regulatório contemporâneo.",
+    "cited_markers": [
+      "[16]",
+      "[18]",
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "c881d3853a0f27f3",
+      "2ddcc05b33f7db1a",
+      "f7d309a1d1b98e5f"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-170",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 170,
+    "text": "Ao adotar a classificação de risco europeia, mas adaptar o texto à realidade nacional com um rol explícito de direitos dos afetados",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "ff78e92cbf7a6a71"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-171",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 171,
+    "text": "regras explícitas de responsabilidade civil e a articulação institucional descentralizada pelo Sistema Nacional de Regulação e Governança de IA (SIA) sob coordenação da ANPD",
+    "cited_markers": [
+      "[20]",
+      "[26]",
+      "[27]",
+      "[34]"
+    ],
+    "cited_reference_ids": [
+      "d50904ab9268760a",
+      "4b9a533e3264d328",
+      "871f6f1bc93b91f7",
+      "98bbdc3dea5965d4"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-172",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 172,
+    "text": "a legislação brasileira busca equilibrar a proteção intransigente da dignidade humana e dos direitos fundamentais com o incentivo à inovação técnica e econômica.",
+    "cited_markers": [
+      "[17]",
+      "[20]",
+      "[31]"
+    ],
+    "cited_reference_ids": [
+      "c102ab75f03f6682",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-173",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 173,
+    "text": "À medida que o AI Act alcança suas fases de plena aplicabilidade na Europa e o PL 2338/2023 avança no Congresso Nacional brasileiro, o setor produtivo e a administração pública devem migrar da postura passiva para uma governança algorítmica ativa.",
+    "cited_markers": [
+      "[1]",
+      "[2]",
+      "[5]",
+      "[18]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "6b61a2ccb08c11cd",
+      "64b4c84a1acfe340",
+      "b90b992d0c2eba47",
+      "2ddcc05b33f7db1a",
+      "14d93332dc180e13"
+    ]
+  },
+  {
+    "id": "regulacao_ia_87ba15eb4df4_20261102T161649Z-174",
+    "answer_id": "regulacao_ia_87ba15eb4df4_20261102T161649Z",
+    "position": 174,
+    "text": "A conformidade ética e regulatória deixa de ser um mero custo burocrático e passa a figurar como elemento estratégico indispensável de reputação, segurança jurídica e viabilidade de mercado no cenário tecnológico globalizado.",
+    "cited_markers": [
+      "[6]",
+      "[20]",
+      "[31]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "8017bf63ce478c77",
+      "d50904ab9268760a",
+      "c20cbdad998e6a81",
+      "14d93332dc180e13"
+    ]
+  }
+]

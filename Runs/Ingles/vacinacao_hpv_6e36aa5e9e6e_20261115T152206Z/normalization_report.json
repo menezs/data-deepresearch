@@ -1,0 +1,32 @@
+{
+  "tool_tokens_removed": 0,
+  "stray_private_chars_removed": 0,
+  "grouped_markers_expanded": 0,
+  "superscripts_converted": 0,
+  "exponents_preserved": 0,
+  "reference_lists": [
+    {
+      "heading": "## References",
+      "entries": 83,
+      "role": "primary",
+      "evidence_score": 0.1158785329050035
+    },
+    {
+      "heading": "## References",
+      "entries": 74,
+      "role": "secondary",
+      "evidence_score": 0.07890358791535261
+    }
+  ],
+  "primary_list_choice": "evidence",
+  "dropped_list_lines": 214,
+  "body_markers": 86,
+  "body_markers_without_entry": [
+    "[84]",
+    "[85]",
+    "[86]"
+  ],
+  "warnings": [
+    "3 de 86 marcadores citados no corpo sem entrada na lista de referencias: [84], [85], [86]"
+  ]
+}

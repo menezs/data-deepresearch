@@ -1,0 +1,397 @@
+[referencia=5e0bd8b0b845477e score=0.935]
+    
+
+      
+        
+          **Results:**
+        
+      
+      At baseline, 2735 of the patients (83.0%) had established cardiovascular disease, chronic kidney disease, or both. The primary outcome occurred in 108 of 1648 patients (6.6%) in the semaglutide group and in 146 of 1649 patients (8.9%) in the placebo group (hazard ratio, 0.74; 95% confidence interval [CI], 0.58 to 0.95; P<0.001 for noninferiority). Nonfatal myocardial infarction occurred in 2.9% of the patients receiving semaglutide and in 3.9% of those receiving placebo (hazard ratio, 0.74; 95% CI, 0.51 to 1.08; P=0.12); nonfatal stroke occurred in 1.6% and 2.7%, respectively (hazard ratio, 0.61; 95% CI, 0.38 to 0.99; P=0.04). Rates of death from cardiovascular causes were similar in the two groups. Rates of new or worsening nephropathy were lower in the semaglutide group, but rates of retinopathy complications (vitreous hemorrhage, blindness, or conditions requiring treatment with an intravitreal agent or photocoagulation) were significantly higher (hazard ratio, 1.76; 95% CI, 1.11 to 2.78; P=0.02). Fewer serious adverse events occurred in the semaglutide group, although more patients discontinued treatment because of adverse events, mainly gastrointestinal.
+    
+
+      
+        
+          **Conclusions:**
+        
+      
+      In patients with type 2 diabetes who were at high cardiovascular risk, the rate of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke was significantly lower among patients receiving semaglutide than among those receiving placebo, an outcome that confirmed the noninferiority of semaglutide. (Funded by Novo Nordisk; SUSTAIN-6 ClinicalTrials.gov number, NCT01720446 .).
+    
+
+## Comment in
+
+-
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.645]
+## **5.2 Acute Pancreatitis** 
+
+Acute pancreatitis, including fatal and non-fatal hemorrhagic or necrotizing pancreatitis, has been observed in patients treated with GLP-1 receptor agonists, including semaglutide _[see Adverse Reactions (6.1)]._ 
+
+After initiation of OZEMPIC, observe patients carefully for signs and symptoms of pancreatitis (including persistent severe abdominal pain, sometimes radiating to the back and which may or may not be accompanied by vomiting). If pancreatitis is suspected, discontinue OZEMPIC and initiate appropriate management. 
+
+## **5.3 Diabetic Retinopathy Complications** 
+
+In a 2-year trial involving patients with type 2 diabetes and high cardiovascular risk, more events of diabetic retinopathy complications occurred in patients treated with OZEMPIC (3.0%) compared to placebo (1.8%). The absolute risk increase for diabetic retinopathy complications was larger among patients with a history of diabetic retinopathy at baseline (OZEMPIC 8.2%, placebo 5.2%) than among patients without a known history of diabetic retinopathy (OZEMPIC 0.7%, placebo 0.4%). 
+
+Rapid improvement in glucose control has been associated with a temporary worsening of diabetic retinopathy. The effect of long-term glycemic control with semaglutide on diabetic retinopathy complications has not been studied. Patients with a history of diabetic retinopathy should be monitored for progression of diabetic retinopathy.
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.482]
+**Figure 6. Kaplan-Meier: Time to First Occurrence of a MACE in the SUSTAIN 6 Trial** 
+
+
+
+<!-- Start of picture text -->
+10<br>Placebo<br>8<br>✓<br>✓<br>..J<br>..,,<br>_,.<br>6<br>,,<br>-'  ....<br>OZEMPIC<br>I<br>r<br>I<br>HR: 0.74<br>95% CI [0.58 - 0.95]<br>0  8  16  24  32  40  48  56  64  72  80  88  96  104109<br>Time from Randomization (Weeks)<br>Patients at risk<br>OZEMPIC 1648  1619  1601  1584  1568  1543  1524  1505<br>Placebo 1649  1616  1586  1567  1534  1508  1479  1460<br>Event (%)<br>with<br>Patients<br><!-- End of picture text -->
+
+The treatment effect for the primary composite endpoint and its components in the SUSTAIN 6 trial is shown in **Table 9** . 
+
+Reference ID: 5519421
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.456]
+Patients eligible to enter the trial were; 50 years of age or older and had established, stable, cardiovascular, cerebrovascular, peripheral artery disease, chronic kidney disease or NYHA class II and III heart failure or were 60 years of age or older and had other specified risk factors for cardiovascular disease. In total, 1,940 patients (58.8%) had established cardiovascular disease without chronic kidney disease, 353 (10.7%) had chronic kidney disease only, and 442 (13.4%) had both cardiovascular disease and kidney disease; 562 patients (17%) had cardiovascular risk factors without established cardiovascular disease or chronic kidney disease. In the trial 453 patients (13.7%) had peripheral artery disease. The mean age at baseline was 65 years, and 61% were men. The mean duration of diabetes was 13.9 years, and mean BMI was 33 kg/m<sup>2</sup> . Overall, 83% were White, 7% were Black or African American, and 8% were Asian; 16% identified as Hispanic or Latino ethnicity. Concomitant diseases of patients in this trial included, but were not limited to, heart failure (24%), hypertension (93%), history of ischemic stroke (12%) and history of a myocardial infarction (33%). In total, 98.0% of the patients completed the trial and the vital status was known at the end of the trial for 99.6%. 
+
+For the primary analysis, a Cox proportional hazards model was used to test for non-inferiority of OZEMPIC to placebo for time to first MACE using a risk margin of 1.3. The statistical analysis plan pre specified that the 0.5 mg and 1 mg doses would be combined. Type-1 error was controlled across multiple tests using a hierarchical testing strategy. 
+
+OZEMPIC significantly reduced the occurrence of MACE. The estimated hazard ratio for time to first MACE was 0.74 (95% CI: 0.58, 0.95). Refer to **Figure 6** and **Table 9** . 
+
+**Figure 6. Kaplan-Meier: Time to First Occurrence of a MACE in the SUSTAIN 6 Trial** 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.279]
+<!-- Start of picture text -->
+Co-administered Relative exposure Recommendation<br>medication Ratio and 90% CI<br>Metformin AUC0-12h  No dose adjustment<br>Cmax<br>S-warfarin AUC0-168h  No dose adjustment<br>Cmax<br>R-warfarin AUC0-168h  No dose adjustment<br>Cmax<br>Digoxin AUC0-120h  No dose adjustment<br>Cmax<br>Atorvastatin AUC0-72h  No dose adjustment<br>Cmax<br>Ethinylestradiol AUC0-24h  No dose adjustment<br>Cmax<br>Levonorgestrel AUC0-24h  No dose adjustment<br>Cmax<br>0.5 1 2<br><!-- End of picture text -->
+
+Relative exposure in terms of AUC and Cmax for each medication when given with semaglutide compared to without semaglutide. Metformin and oral contraceptive drug (ethinylestradiol/levonorgestrel) were assessed at steady state. Warfarin (S-warfarin/Rwarfarin), digoxin and atorvastatin were assessed after a single dose. Abbreviations: AUC: area under the curve. Cmax: maximum concentration. CI: confidence interval. 
+
+## **12.6 Immunogenicity** 
+
+The observed incidence of anti-drug antibodies is highly dependent on the sensitivity and specificity of the assay. Differences in assay methods preclude meaningful comparisons of the incidence of anti-drug antibodies (ADAs) in the studies described below with the incidence of ADAs in other studies, including those of semaglutide or of other semaglutide products. 
+
+Across the placebo- and active-controlled glycemic control trials, 32 out of 3,150 (1%) OZEMPIC-treated patients developed ADAs to the active ingredient in OZEMPIC (i.e., semaglutide). Of the 32 semaglutidetreated patients that developed semaglutide ADAs, 19 patients (0.6% of the overall population) developed 
+
+Reference ID: 5519421 
+
+antibodies cross-reacting with native GLP-1. The _in vitro_ neutralizing activity of the antibodies is uncertain at this time.
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.208]
+## <u>Pool of Placebo-Controlled Trials</u> 
+
+The data in **Table 1** are derived from 2 placebo-controlled trials (1 monotherapy trial and 1 trial in combination with basal insulin) in patients with type 2 diabetes _[see Clinical Studies (14)]_ . These data reflect exposure of 521 patients to OZEMPIC and a mean duration of exposure to OZEMPIC of 32.9 weeks. Across the treatment arms, the mean age of patients was 56 years, 3.4% were 75 years or older and 55% were male. In these trials 71% were White, 7% were Black or African American, and 19% were Asian; 21% identified as Hispanic or Latino ethnicity. At baseline, patients had type 2 diabetes for an average of 8.8 years and had a mean HbA1c of 8.2%. At baseline, 8.9% of the population reported retinopathy. Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73m<sup>2</sup> ) in 57.2%, mildly impaired (eGFR 60 to 90 mL/min/1.73m<sup>2</sup> ) in 35.9% and moderately impaired (eGFR 30 to 60 mL/min/1.73m<sup>2</sup> ) in 6.9% of patients.
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.196]
+## **14.2 Cardiovascular Outcomes Trial of OZEMPIC in Adults with Type 2 Diabetes Mellitus and Cardiovascular Disease** 
+
+SUSTAIN 6 (NCT01720446) was a multi-center, multi-national, placebo-controlled, double-blind cardiovascular outcomes trial. In this trial, 3,297 patients with inadequately controlled type 2 diabetes and atherosclerotic cardiovascular disease were randomized to OZEMPIC (0.5 mg or 1 mg) once weekly or placebo 
+
+Reference ID: 5519421 
+
+for a minimum observation time of 2 years. The trial compared the risk of Major Adverse Cardiovascular Event (MACE) between semaglutide and placebo when these were added to and used concomitantly with standard of care treatments for diabetes and cardiovascular disease. The primary endpoint, MACE, was the time to first occurrence of a three-part composite outcome which included cardiovascular death, non-fatal myocardial infarction and non-fatal stroke.
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.162]
+## <u>Pool of Placebo- and Active-Controlled Trials</u> 
+
+The occurrence of adverse reactions was also evaluated in a larger pool of patients with type 2 diabetes participating in 7 placebo- and active-controlled glycemic control trials _[see Clinical Studies (14)]_ including two trials in Japanese patients evaluating the use of OZEMPIC as monotherapy and add-on therapy to oral medications or insulin. In this pool, a total of 3150 patients with type 2 diabetes were treated with OZEMPIC for a mean duration of 44.9 weeks. Across the treatment arms, the mean age of patients was 57 years, 3.2% were 75 years or older and 57% were male. In these trials, 60% were White, 6% were Black or African American, and 31% were Asian; 16% identified as Hispanic or Latino ethnicity. At baseline, patients had type 2 diabetes for an average of 8.2 years and had a mean HbA1c of 8.2%.  At baseline, 7.8% of the population reported retinopathy. Baseline estimated renal function was normal (eGFR ≥90 mL/min/1.73m<sup>2</sup> ) in 63.1%, mildly impaired (eGFR 60 to 90 mL/min/1.73m<sup>2</sup> ) in 34.3%, and moderately impaired (eGFR 30 to 60 mL/min/1.73m<sup>2</sup> ) in 2.5% of the patients.
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.105]
+The treatment effect for the primary composite endpoint and its components in the SUSTAIN 6 trial is shown in **Table 9** . 
+
+Reference ID: 5519421 
+
+|**Table 9. Treatment Effect for MACE and its C**|**omponents, Media**<br>**Placebo**<br>**N=1649 (%)**|**n Study Observatio**<br>**OZEMPIC**<br>**N=1648 (%)**|<br> <br>**n Time of 2.1 Years**<br>**Hazard ratio vs**<br>**Placebo**<br>**(95% CI)**<sup>a</sup>|
+|---|---|---|---|
+|Composite of cardiovascular death, non-fatal<br>myocardial infarction, non-fatal<br>stroke (time to first occurrence)|146 (8.9)|108 (6.6)|0.74 (0.58, 0.95)|
+|Non-fatal Myocardial Infarction|64 (3.9)|47 (2.9)|0.74 (0.51, 1.08)|
+|Non-fatal Stroke|44 (2.7)|27 (1.6)|0.61 (0.38, 0.99)|
+|Cardiovascular Death|46 (2.8)|44 (2.7)|0.98 (0.65, 1.48)|
+|Fatal or Non-fatal Myocardial Infarction|67 (4.1)|54 (3.3)|0.81 (0.57, 1.16)|
+|Fatal or Non-fatal Stroke|46 (2.8)|30 (1.8)|0.65 (0.41, 1.03)|
+
+---
+
+[referencia=5e0bd8b0b845477e score=0.099]
+## Comment in
+
+- 
+  
+  Semaglutide reduced a composite of CV events at 2 years in patients with type 2 diabetes and high CV risk.Ann Intern Med. 2017 Jan 17;166(2):JC8. doi: 10.7326/ACPJC-2017-166-2-008. Ann Intern Med. 2017. PMID: 28114464 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.N Engl J Med. 2017 Mar 2;376(9):891. doi: 10.1056/NEJMc1615712. N Engl J Med. 2017. PMID: 28249136 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.N Engl J Med. 2017 Mar 2;376(9):890. doi: 10.1056/NEJMc1615712. N Engl J Med. 2017. PMID: 28252261 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.N Engl J Med. 2017 Mar 2;376(9):890-1. doi: 10.1056/NEJMc1615712. N Engl J Med. 2017. PMID: 28252263 No abstract available.
+- 
+  
+  Semaglutide is non-inferior to placebo for cardiovascular outcomes in patients with type 2 diabetes.Evid Based Med. 2017 Apr;22(2):57-58. doi: 10.1136/ebmed-2016-110652. Epub 2017 Mar 7. Evid Based Med. 2017. PMID: 28270434 No abstract available.
+- 
+  
+  Bei Diabetes ist auch der Herzschutz wichtig.MMW Fortschr Med. 2023 Feb;165(2):66. doi: 10.1007/s15006-023-2301-9. MMW Fortschr Med. 2023. PMID: 36703073 German. No abstract available.
+
+## Publication types
+
+## MeSH terms
+
+## Substances
+
+## Associated data
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+- ### Other Literature Sources
+- ### Medical
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.089]
+#### **--------------------------------CONTRAINDICATIONS--------------------------------** 
+
+- Personal or family history of MTC or in patients with MEN 2 (4). 
+
+- Serious hypersensitivity reaction to semaglutide or any of the excipients in OZEMPIC (4). 
+
+#### **--------------------------WARNINGS AND PRECAUTIONS-------------------------** 
+
+- <u>Acute Pancreatitis: Has been observed in patients treated with GLP-1 receptor</u> agonists, including semaglutide. Discontinue if pancreatitis is suspected. (5.2). 
+
+- <u>Diabetic Retinopathy Complications: Has been reported in a clinical trial.</u> Patients with a history of diabetic retinopathy should be monitored (5.3). 
+
+- <u>Never share an OZEMPIC pen between patients, even if the needle is changed</u> (5.4). 
+
+- <u>Hypoglycemia: Concomitant use with an insulin secretagogue or insulin may</u> increase the risk of hypoglycemia, including severe hypoglycemia. Reducing dose of insulin secretagogue or insulin may be necessary (5.5). 
+
+- <u>Acute Kidney Injury Due to Volume Depletion: Monitor renal function in</u> patients reporting adverse reactions that could lead to volume depletion (5.6). 
+
+- <u>Severe Gastrointestinal Adverse Reactions: Use has been associated with</u> gastrointestinal adverse reactions, sometimes severe. OZEMPIC is not recommended in patients with severe gastroparesis (5.7). 
+
+- <u>Hypersensitivity Reactions: Serious hypersensitivity reactions (e.g.,</u> anaphylaxis and angioedema) have been reported. Discontinue OZEMPIC if suspected and promptly seek medical advice (5.8). 
+
+- <u>Acute Gallbladder Disease: If cholelithiasis or cholecystitis are suspected,</u> gallbladder studies are indicated (5.9). 
+
+- <u>Pulmonary Aspiration During General Anesthesia or Deep Sedation:</u> Has been reported in patients receiving GLP-1 receptor agonists undergoing elective surgeries or procedures. Instruct patients to inform healthcare providers of any planned surgeries or procedures. (5.10).
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.073]
+## <u>Glucose dependent insulin and glucagon secretion</u> 
+
+Semaglutide lowers high blood glucose concentrations by stimulating insulin secretion and lowering glucagon secretion in a glucose-dependent manner. With semaglutide, the insulin secretion rate in patients with type 2 diabetes was similar to that of healthy subjects (see **Figure 2** ). 
+
+**Figure 2. Mean Insulin Secretion Rate Versus Glucose Concentration in Patients with Type 2 Diabetes during Graded Glucose Infusion before (Baseline) and after 12 Weeks of Treatment with Semaglutide or Placebo and in Untreated Healthy Subjects** 
+
+
+
+<!-- Start of picture text -->
+14<br>12<br>10<br>8<br>90  100  110  120  130  140  150  160  170  180  190 200 210<br>Plasma glucose (mg/dL)<br>OZEMPIC - baseline (n=37) -+- OZEMPIC 1 mg - end of treatment (n=36)<br>Placebo - baseline (n=38) Placebo - end of treatment (n=37)<br>Healthy subjects (n=12)<br>Insulin secretion rate (pmol/kg/min)<br><!-- End of picture text -->
+
+During induced hypoglycemia, semaglutide did not alter the counter regulatory responses of increased glucagon compared to placebo and did not impair the decrease of C-peptide in patients with type 2 diabetes. 
+
+## <u>Gastric emptying</u> 
+
+Semaglutide causes a delay of early postprandial gastric emptying, thereby reducing the rate at which glucose appears in the circulation postprandially. 
+
+## <u>Cardiac electrophysiology (QTc)</u> 
+
+The effect of semaglutide on cardiac repolarization was tested in a thorough QTc trial. Semaglutide does not prolong QTc intervals at doses up to 1.5 mg at steady-state. 
+
+## **12.3 Pharmacokinetics**
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.065]
+||**Placebo**<br>**N=1766 (%)**|**OZEMPIC**<br>**1 mg**<br>**N=1767**<br>**(%)**|**Hazard**<br>**ratio vs**<br>**placebo**<br>**(95% CI)**<sup>**1**</sup>|**p-value**<sup>**2**</sup>|
+|---|---|---|---|---|
+||**Number of Patients**<br>**(%)**||||
+|Composite Endpoint (≥ 50%<br>sustained eGFR decline, sustained<br>eGFR < 15 mL/min/1.73 m<sup>2</sup>,<br>chronic renal replacement therapy,<br>or renal or cardiovascular death<br>(time to first occurrence)<sup>3</sup>|410 (23.2)|331 (18.7)|0.76 (0.66,<br>0.88)|0.0003|
+|≥ 50% sustained eGFR decline<sup>3</sup>|213 (12.1)|165 (9.3)|0.73 (0.59,<br>0.89)||
+|<br>Sustained eGFR<br><15mL/min/1.73 m<sup>2 3</sup>|110 (6.2)|92 (5.2)|0.80 (0.61,<br>1.06)||
+|Chronic renal replacement<br>therapy|100 (5.7)|87 (4.9)|0.84 (0.63,<br>1.12)||
+|Renal death|5 (0.3)|5 (0.3)|0.97 (0.27,<br>3.49)||
+|Cardiovascular death|169 (9.6)|123 (7.0)|0.71 (0.56,<br>0.89)||
+|Composite of cardiovascular death,<br>non-fatal myocardial infarction,<br>non-fatal stroke (time to first<br>occurrence)|254 (14.4)|212 (12.0)|0.82 (0.68,<br>0.98)|0.0289|
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.062]
+## <u>Drug Interaction Studies</u> 
+
+_In vitro_ studies have shown very low potential for semaglutide to inhibit or induce CYP enzymes, and to inhibit drug transporters. 
+
+The delay of gastric emptying with semaglutide may influence the absorption of concomitantly administered oral medicinal products _[see Drug Interactions (7.2)]_ . The potential effect of semaglutide on the absorption of co-administered oral medications was studied in trials at semaglutide 1 mg steady-state exposure. 
+
+|No clinically re<br>medications; th<br>study, no appar<br>**Figure 4. Impa**|levant drug-dru<br>erefore, no dose<br>ent effect on the<br>**ct of Semaglut**|g interaction with semaglutide<br>adjustment is required when c<br>rate of gastric emptying was o<br>**ide on the Exposure of Co-ad**|(**Figure 4**) was observed based on the evaluated<br>o-administered with semaglutide. In a separate<br>bserved with semaglutide 2.4 mg.<br>**ministered Oral Medications**|
+|---|---|---|---|
+|**Co-administ**<br>**medication**|**ered**|**Relative exposure**<br>**Ratio and** **90% CI**|**Recommendation**|
+|Metformin|AUC0-12h<br>Cmax||No dose adjustment|
+|S-warfarin|AUC0-168h<br>Cmax||No dose adjustment|
+|R-warfarin|AUC0-168h<br>Cmax||No dose adjustment|
+|Digoxin|AUC0-120h<br>Cmax||No dose adjustment|
+|Atorvastatin|AUC0-72h<br>Cmax||No dose adjustment|
+|Ethinylestradiol|AUC0-24h<br>Cmax||No dose adjustment|
+|Levonorgestrel|AUC0-24h<br>Cmax<br>0.5|1|2<br>No dose adjustment|
+
+
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.061]
+#### **FULL PRESCRIBING INFORMATION: CONTENTS* WARNING: RISK OF THYROID C-CELL TUMORS** 
+
+- **WARNING: RISK OF THYROID C-CELL TUMORS** 8.7 Hepatic Impairment **10 OVERDOSAGE** 
+
+- **1 INDICATIONS AND USAGE 11 DESCRIPTION 2 DOSAGE AND ADMINISTRATION 12 CLINICAL PHARMACOLOGY** 2.1 Important Administration Instructions 12.1 Mechanism of Action 2.2 Recommended Dosage 12.2 Pharmacodynamics 
+
+- **3 DOSAGE FORMS AND STRENGTHS** 12.3 Pharmacokinetics 
+
+- 2.2 Recommended Dosage 12.2 Pharmacodynamics 
+
+- **3 DOSAGE FORMS AND STRENGTHS** 12.3 Pharmacokinetics **4 CONTRAINDICATIONS** 12.6 Immunogenicity **5 WARNINGS AND PRECAUTIONS 13 NONCLINICAL TOXICOLOGY** 5.1 Risk of Thyroid C-Cell Tumors 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility 5.2 Acute Pancreatitis **14 CLINICAL STUDIES** 5.3 Diabetic Retinopathy Complications 14.1 Glycemic Control Trials in Adults with Type 2 Diabetes Mellitus 5.4 Never Share an OZEMPIC Pen Between Patients 14.2 Cardiovascular Outcomes Trial of OZEMPIC in Adults with Type 2 5.5 Hypoglycemia with Concomitant Use of Insulin Secretagogues or Diabetes Mellitus and Cardiovascular Disease Insulin 14.3 Kidney outcomes trial of OZEMPIC in Adults with Type 2 Diabetes 
+
+- 5.6 Acute Kidney Injury Due to Volume Depletion Mellitus and Chronic Kidney Disease 5.7 Severe Gastrointestinal Adverse Reactions **16 HOW SUPPLIED/STORAGE AND HANDLING 17 PATIENT COUNSELING INFORMATION** 
+
+5.7 Severe Gastrointestinal Adverse Reactions 5.8 Hypersensitivity Reactions 5.9 Acute Gallbladder Disease 
+
+5.10 Pulmonary Aspiration During General Anesthesia or Deep *Sections or subsections omitted from the full prescribing information are not Sedation listed. **6 ADVERSE REACTIONS** 6.1 Clinical Trials Experience
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.060]
+## **13 NONCLINICAL TOXICOLOGY 13.1 Carcinogenesis, Mutagenesis, Impairment of Fertility** 
+
+In a 2-year carcinogenicity study in CD-1 mice, subcutaneous doses of 0.3, 1 and 3 mg/kg/day [2-, 11-, and 30fold the maximum recommended human dose (MRHD) of 2 mg/week, based on AUC] were administered to the males, and 0.1, 0.3 and 1 mg/kg/day (1-, 2-, and 7-fold MRHD) were administered to the females. A statistically significant increase in thyroid C-cell adenomas and a numerical increase in C-cell carcinomas were observed in males and females at clinically relevant exposures. 
+
+In a 2-year carcinogenicity study in Sprague Dawley rats, subcutaneous doses of 0.0025, 0.01, 0.025 and 0.1 mg/kg/day were administered (below quantification, 0.2-, 0.5-, and 3-fold the exposure at the MRHD). A statistically significant increase in thyroid C-cell adenomas was observed in males and females at all dose levels, and a statistically significant increase in thyroid C-cell carcinomas was observed in males at ≥0.01 mg/kg/day, at clinically relevant exposures. 
+
+Human relevance of thyroid C-cell tumors in rats is unknown and could not be determined by clinical studies or nonclinical studies _[see Boxed Warning, Warnings and Precautions (5.1)]_ . 
+
+Semaglutide was not mutagenic or clastogenic in a standard battery of genotoxicity tests (bacterial mutagenicity (Ames), human lymphocyte chromosome aberration, rat bone marrow micronucleus).
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.059]
+## <u>Specific Populations</u> 
+
+Based on a population pharmacokinetic analysis, age, sex, race, and ethnicity, and renal impairment do not have a clinically meaningful effect on the pharmacokinetics of semaglutide. The exposure of semaglutide decreases with an increase in body weight. However, semaglutide doses of 0.5 mg and 1 mg provide adequate systemic exposure over the body weight range of 40 to 198 kg evaluated in the clinical trials. The effects of intrinsic factors on the pharmacokinetics of semaglutide are shown in **Figure 3** . 
+
+**Figure 3. Impact of Intrinsic Factors on Semaglutide Exposure** 
+
+|**Intrinsic factor**|**Relative exp**<br>**Ratio an**|**osure (Cavg)**<br>**d** **90% CI**|
+|---|---|---|
+|Sex|Male||
+|Age|65-74 years<br>>74 years||
+|Race|Black or African American||
+||Asian||
+|Ethnicity|Hispanic or Latino||
+|Body weight|55 kg||
+||127 kg||
+||Mild||
+|Renal impairment|Moderate||
+||Severe|I-+--|
+
+
+
+Semaglutide exposure (Cavg) relative to reference subject profile: non-Hispanic/non-Latino, White, female below 65 years, body weight 85 kg, with normal renal function. Population PK model also included maintenance dose and injection site as covariates. Body weight test categories (55 and 127 kg) represent the 5% and 95% percentiles in the dataset. Abbreviations: Cavg: average semaglutide concentration. CI: Confidence interval. 
+
+_Patients with Renal impairment_ - Renal impairment does not impact the pharmacokinetics of semaglutide in a clinically relevant manner. This was shown in a study with a single dose of 0.5 mg semaglutide in patients with different degrees of renal impairment (mild, moderate, severe, or kidney failure) compared with subjects with 
+
+Reference ID: 5519421 
+
+normal renal function. This was also shown for subjects with both type 2 diabetes and renal impairment based on data from clinical studies ( **Figure 3** ).
+
+---
+
+[referencia=5e0bd8b0b845477e score=0.046]
+      **Background:**
+        
+      
+      Regulatory guidance specifies the need to establish cardiovascular safety of new diabetes therapies in patients with type 2 diabetes in order to rule out excess cardiovascular risk. The cardiovascular effects of semaglutide, a glucagon-like peptide 1 analogue with an extended half-life of approximately 1 week, in type 2 diabetes are unknown.
+    
+
+      
+        
+          **Methods:**
+        
+      
+      We randomly assigned 3297 patients with type 2 diabetes who were on a standard-care regimen to receive once-weekly semaglutide (0.5 mg or 1.0 mg) or placebo for 104 weeks. The primary composite outcome was the first occurrence of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke. We hypothesized that semaglutide would be noninferior to placebo for the primary outcome. The noninferiority margin was 1.8 for the upper boundary of the 95% confidence interval of the hazard ratio.
+    
+
+      
+        
+          **Results:**
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.043]
+## **12.3 Pharmacokinetics** 
+
+## <u>Absorption</u> 
+
+Absolute bioavailability of semaglutide is 89%. Maximum concentration of semaglutide is reached 1 to 3 days post dose. 
+
+Similar exposure is achieved with subcutaneous administration of semaglutide in the abdomen, thigh, or upper arm. 
+
+In patients with type 2 diabetes, semaglutide exposure increases in a dose-proportional manner for once-weekly doses of 0.5 mg, 1 mg and 2 mg. Steady-state exposure is achieved following 4 to 5 weeks of once-weekly administration. In patients with type 2 diabetes, the mean population-PK estimated steady-state concentrations 
+
+Reference ID: 5519421 
+
+following once weekly subcutaneous administration of 0.5 mg and 1 mg semaglutide were approximately 65 ng/mL and 123 ng/mL, respectively. In the trial comparing semaglutide 1 mg and 2 mg, the mean steady state concentrations were 111.1 ng/mL and 222.1 ng/mL, respectively. 
+
+## <u>Distribution</u> 
+
+The mean apparent volume of distribution of semaglutide following subcutaneous administration in patients with type 2 diabetes is approximately 12.5L. Semaglutide is extensively bound to plasma albumin (>99%). 
+
+## <u>Elimination</u> 
+
+The apparent clearance of semaglutide in patients with type 2 diabetes is approximately 0.05 L/h. With an elimination half-life of approximately 1 week, semaglutide will be present in the circulation for about 5 weeks after the last dose. 
+
+## _Metabolism_ 
+
+The primary route of elimination for semaglutide is metabolism following proteolytic cleavage of the peptide backbone and sequential beta-oxidation of the fatty acid sidechain. 
+
+## _Excretion_ 
+
+The primary excretion routes of semaglutide-related material are via the urine and feces. Approximately 3% of the dose is excreted in the urine as intact semaglutide.
+
+---
+
+[referencia=1a5003b5e1d153d0 score=0.039]
+||OZEMPIC<br>0.5 mg|OZEMPIC<br>1 mg|Insulin Glargine|
+|---|---|---|---|
+|Intent-to-Treat (ITT) Population (N)<sup>a</sup>|362|360|360|
+|HbA1c(%)||||
+|Baseline (mean)|8.1|8.2|8.1|
+|Change at week 30<sup>b</sup>|-1.2|-1.5|-0.9|
+|Difference from insulin glargine<sup>b</sup><br>[95% CI]|<br>-0.3<br>[-0.5,-0.1]<sup>c</sup>|-0.6<br>[-0.8,-0.4]<sup>c</sup>||
+|Patients (%) achieving HbA1c<7%|55|66|40|
+|FPG (mg/dL)||||
+|Baseline (mean)|172|179|174|
+|Change at week 30<sup>b</sup>|-35|-46|-37|
+
+
+
+a The intent-to-treat population includes all randomized and exposed patients. At week 30 the primary HbA1c endpoint was missing for 8%, 6% and 6% of patients and during the trial rescue medication was initiated by 4%, 3% and 1% of patients randomized to OZEMPIC 0.5 mg, OZEMPIC 1 mg and insulin glargine, respectively. Missing data were imputed using multiple imputation based on retrieved dropouts.

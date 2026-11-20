@@ -1,0 +1,106 @@
+[referencia=e1ff70e2a945f142 score=0.996]
+## STEP 9 results, published in NEJM, demonstrated semaglutide reduced knee osteoarthritis-related pain in people with obesity
+
+
+- Results from 68-week study of 407 adults with obesity and moderate knee osteoarthritis showed semaglutide 2.4 mg significantly reduced body weight, knee osteoarthritis-related pain, and improved physical function<sup>1</sup>
+- Obesity is a major risk factor of knee osteoarthritis development and disease progression<sup>2-4</sup>
+- Semaglutide is not approved in the U.S. for the treatment of knee osteoarthritis
+
+PLAINSBORO, N.J., Oct. 30, 2024 /PRNewswire/ -- Today, *The New England Journal of Medicine* published results from Novo Nordisk's STEP 9 phase 3 clinical trial that studied semaglutide 2.4 mg compared to placebo as an adjunct to lifestyle modifications in reducing body weight and knee osteoarthritis-related pain in adults with obesity, and a clinical and radiologic diagnosis of moderate knee osteoarthritis, and pain that is at least moderately severe.<sup>1</sup>
+
+According to the published trial, semaglutide met the study's primary endpoints and was superior to placebo in significantly reducing body weight and knee osteoarthritis-related pain, as measured by the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain score. In addition, the trial met a key confirmatory secondary endpoint of improving patients' physical function.<sup>1</sup>
+
+In patients with a mean baseline body weight of 239.5 pounds, semaglutide led to a –13.7% mean change from baseline in body weight at week 68 versus –3.2% with placebo ([95% confidence interval (CI) –12.3, –8.6]; P<0.001). Semaglutide also led to a mean change from baseline (70.9) in the WOMAC pain score of –41.7 at week 68 versus –27.5 with placebo ([95% CI –20.0, –8.3]; P<0.001). WOMAC is a 24-item patient-reported questionnaire that assesses clinically important symptoms of pain, stiffness, and physical function in patients with hip and/or knee osteoarthritis (OA).<sup>1,5</sup>
+
+---
+
+[referencia=e1ff70e2a945f142 score=0.974]
+<sup>6-8</sup>One key misunderstanding is that this is a disease of just lack of willpower, when in fact there is underlying biology that may impede people with obesity from losing weight and keeping it off.
+
+<sup>6,7</sup>Obesity is influenced by a variety of factors, including genetics, social determinants of health, and the environment.
+
+<sup>9</sup>
+
+The prevalence of overweight and obesity is a public health issue that has severe cost implications to healthcare systems.<sup>10,11</sup> In the U.S., about 40% of adults live with obesity.<sup>12</sup>
+
+**About the STEP 9 trial (semaglutide 2.4 mg)**STEP 9 was a randomized, double-blind, placebo-controlled multicenter trial designed to evaluate the efficacy of semaglutide 2.4 mg versus placebo as an adjunct to lifestyle modifications (counseling on a reduced-calorie diet and physical activity) in reducing body weight and knee osteoarthritis-related pain in patients with obesity and a clinical and radiologic diagnosis of moderate knee osteoarthritis, and pain that is at least moderately severe.
+
+<sup>1</sup>Participants were randomized 2:1 to receive once-weekly subcutaneous semaglutide 2.4 mg or placebo for 68 weeks, followed by 7 weeks' off-treatment follow-up. There was a 16-week dose escalation to allow for adjustment to therapy (gastrointestinal adverse reactions). The study randomized participants between October 2021 and March 2022.
+
+<sup>1</sup>
+
+All endpoints were measured from baseline to week 68. The primary endpoints were the percentage change in body weight and change in Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC) pain score.<sup>1</sup>
+
+The trial enrolled 407 adults and was conducted in 11 countries at 61 investigator sites.<sup>1</sup>
+
+Semaglutide is not approved for the treatment of knee osteoarthritis. Safety and efficacy are not established, and there is no guarantee that semaglutide will become commercially available for this use under clinical investigation.
+
+**About Novo Nordisk**
+
+---
+
+[referencia=e1ff70e2a945f142 score=0.965]
+A greater improvement in physical functioning scores was also observed from baseline at week 68 among trial participants taking semaglutide versus placebo (mean change: 12.0 versus 6.5 points [95% CI 3.1, 8.0], P<0.001]) as measured by the 36-Item Short Form Survey (SF-36v2).<sup>1</sup> 
+
+Obesity is considered a major risk factor for the development and progression of knee osteoarthritis, a common type of osteoarthritis that can lead to chronic pain and reduced mobility.<sup>2-4</sup> Obesity contributes to the development of knee osteoarthritis through increased mechanical stress on weight-bearing joints, metabolic factors, and obesity-related inflammation.<sup>2,3</sup>
+
+"Obesity-related knee osteoarthritis is a progressive condition that can lead to pain and stiffness of the knee and impair critical daily functions such as walking or moving around. The risk of developing the condition is more than four times higher in people with obesity. Weight reduction along with physical activity is often a recommended approach to managing painful symptoms, but adherence can be challenging," said lead study author Henning Bliddal, MD, M.Sci., The Parker Institute, Copenhagen University Hospital, Denmark. "There is a significant need for non-surgical and sustainable treatment options for those living with obesity-related osteoarthritis. The STEP 9 trial aimed to provide rigorous evidence as to how semaglutide may help these people."
+
+---
+
+[referencia=e1ff70e2a945f142 score=0.960]
+The study implemented a targeted approach to safety data collection, with investigators recording only serious adverse events (SAEs), adverse events (AEs) leading to treatment discontinuation, AEs requiring invasive knee procedures, medication error, acute pancreatitis, COVID-19, and pregnancy or pregnancy-related AEs.<sup>1</sup> AEs leading to treatment discontinuation occurred in 6.7% of patients in the semaglutide group and 3.0% of patients in the placebo group. The most common AEs leading to treatment discontinuation were gastrointestinal disorders (2.2% of patients in the semaglutide group and 0% of patients in the placebo group) and neoplasms (benign, malignant, and unspecified) (semaglutide, 1.9%; placebo, 1.5%). The incidence of SAEs was similar in both groups (semaglutide, 10.0%; placebo, 8.1%).<sup>1</sup>
+
+STEP 9 was a randomized, double-blind, placebo-controlled multicenter trial of 407 adults aged ≥18 years with obesity (BMI ≥30 kg/m<sup>2</sup>) and a clinical diagnosis of knee osteoarthritis per American College of Rheumatology criteria with moderate radiographic changes (Kellgren–Lawrence grade 2 or 3) in the target knee. Participants also had pain due to knee osteoarthritis, with a WOMAC pain score ≥40 out of 100 at randomization.<sup>1</sup>
+
+"Obesity is a complex metabolic disease associated with multiple co-morbid conditions, including knee osteoarthritis," said Anna Windle, PhD, Senior Vice President, Clinical Development, Medical and Regulatory Affairs, Novo Nordisk. "The STEP 9 results are encouraging and provide important information about the effect of semaglutide, a glucagon-like peptide-1 receptor agonist, on knee osteoarthritis outcomes in people with obesity. We look forward to working with regulatory authorities on next steps based on these findings."
+
+**About obesity**Obesity is a serious chronic, progressive, and misunderstood disease that requires long-term management.
+
+<sup>6-8</sup>One key misunderstanding is that this is a disease of just lack of willpower, when in fact there is underlying biology that may impede people with obesity from losing weight and keeping it off.
+
+---
+
+[referencia=e1ff70e2a945f142 score=0.075]
+1. Bliddal H, Bays H, Czernichow S, et al. Once-Weekly Semaglutide in Persons with Obesity and Knee Osteoarthritis. *N Engl J Med* . 2024; 391:1573-83.
+2. Centers for Disease Control and Prevention. Arthritis risk factors. Last accessed: September 2024. Available at https://www.cdc.gov/arthritis/risk-factors/index.html.
+3. World Health Organization. Osteoarthritis. Last accessed: October 2024. Available at: https://www.who.int/news-room/fact-sheets/detail/osteoarthritis.
+4. Nedunchezhiyan U, Varughese I, Sun AR, et al. Obesity, inflammation, and immune system in osteoarthritis. *Front Immunol* . 2022;13:907750. doi:10.3389/fimmu.2022.907750.
+5. ClinicalTrials.gov. Research study looking at how well semaglutide works in people suffering from obesity and knee osteoarthritis. Last accessed: October 2024. Available at: https://clinicaltrials.gov/study/NCT05064735.
+6. Kaplan LM, Golden A, Jinnett K, et al. Perceptions of barriers to effective obesity care: results from the national action study. *Obesity* . 2018;26(1):61-69.
+7. Bray GA, Kim KK, Wilding JPH; World Obesity Federation. Obesity: a chronic relapsing progressive disease process. A position statement of the World Obesity Federation. *Obes Rev* . 2017;18(7):715-723.
+8. Garvey WT, Mechanick JI, Brett EM, et al. American association of clinical endocrinologists and American College of Endocrinology comprehensive clinical practice guidelines for medical care of patients with obesity. *Endocr Pract* . 2016;22 (Suppl 3):1-203.
+9. Centers for Disease Control and Prevention. Causes of obesity. Last accessed: October 2024. Available at: https://www.cdc.gov/obesity/php/about/risk-factors.html?CDC_AAref_Val=https://www.cdc.gov/obesity/basics/causes.html.
+
+---
+
+[referencia=e1ff70e2a945f142 score=0.013]
+10. World Obesity Federation. World Obesity Atlas 2023. Last accessed: October 2024. Available at: https://www.worldobesity.org/resources/resource-library/world-obesity-atlas-2023.
+11. Centers for Disease Control and Prevention. Why it matters. Last accessed: October 2024. Available at: https://www.cdc.gov/obesity/php/about/?CDC_AAref_Val=https://www.cdc.gov/obesity/about-obesity/why-it-matters.html.
+12. Centers for Disease Control and Prevention. Obesity and Severe Obesity Prevalence in Adults: United States, August 2021–August 2023. Last accessed October 2024. Available at: https://www.cdc.gov/nchs/products/databriefs/db508.htm.
+
+© 2024 Novo Nordisk All rights reserved. US24SEMO01198 October 2024
+
+SOURCE NOVO NORDISK INC.
+
+
+SOURCE NOVO NORDISK INC.
+
+---
+
+[referencia=e1ff70e2a945f142 score=0.000]
+**About Novo Nordisk** 
+
+*Novo Nordisk is a leading global healthcare company that's been making innovative medicines to help people with diabetes lead longer, healthier lives for more than 100 years. This heritage has given us experience and capabilities that also enable us to drive change to help people defeat other serious chronic diseases such as obesity, rare blood, and endocrine disorders. We remain steadfast in our conviction that the formula for lasting success is to stay focused, think long-term, and do business in a financially, socially, and environmentally responsible way. With U.S. headquarters in New Jersey and commercial, production, and research facilities in seven states plus Washington DC, Novo Nordisk employs approximately 8,000 people throughout the country. For more information, visit novonordisk-us.com, Facebook, Instagram, X, LinkedIn, and YouTube.*
+
+**References**
+
+---
+
+[referencia=e1ff70e2a945f142 score=0.000]
+# Press release
+
+---
+
+[referencia=e1ff70e2a945f142 score=0.000]
+News

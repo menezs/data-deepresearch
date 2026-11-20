@@ -1,0 +1,155 @@
+[referencia=1ab5de85194e7cf8 score=0.981]
+## 3. Resistência e colapso do sistema
+
+### Fugas e ações dos escravizados
+
+Fugas coletivas, recusas ao trabalho, formação de comunidades e busca por redes de proteção enfraqueceram o controle senhorial.
+
+A abolição não foi uma concessão isolada da monarquia: a ação dos próprios escravizados foi decisiva.
+
+Na década de 1880, a disciplina das fazendas se enfraqueceu em várias áreas porque escravizados percebiam que a instituição estava em crise e encontravam apoio em redes abolicionistas. Fugas coletivas reduziam a capacidade de repressão individual dos senhores e transformavam a liberdade em fato antes mesmo da mudança legal.
+
+A expansão das fugas em massa alterou a relação de forças no campo. Quando proprietários já não conseguiam contar com polícia, vizinhos e tropas para recuperar trabalhadores, a propriedade escravista perdia eficácia prática antes mesmo de desaparecer juridicamente.
+
+### Caifazes e redes de fuga
+
+Em São Paulo, grupos como os caifazes ajudavam escravizados a fugir de fazendas e alcançar áreas de proteção.
+
+Essas redes demonstram a articulação entre militantes urbanos e resistência nas áreas rurais.
+
+Antônio Bento esteve ligado aos caifazes em São Paulo, que organizavam rotas, esconderijos e transporte para fugitivos. A comunidade do Jabaquara, em Santos, recebeu muitos deles. Essas experiências mostram que o abolicionismo podia assumir caráter clandestino e diretamente confrontador da propriedade escravista.
+
+---
+
+[referencia=1ab5de85194e7cf8 score=0.279]
+### O que compreender para a prova
+
+Associe 1850 ao fim efetivo do tráfico, 1871 ao Ventre Livre, 1885 aos Sexagenários e 1888 à Lei Áurea.
+
+Evite narrativas que apaguem o protagonismo negro ou apresentem a princesa Isabel como única responsável pela abolição.
+
+A cronologia das leis deve ser ligada a processos sociais. 1850 encerra o tráfico transatlântico; 1871 e 1885 enfraquecem juridicamente a instituição; na década de 1880 o abolicionismo e as fugas aceleram o colapso; 1888 encerra a escravidão legal. Esse encadeamento evita tratar a Lei Áurea como acontecimento isolado.
+
+A Questão Escravista também se relaciona à Lei de Terras de 1850. Ao exigir compra para acesso às terras públicas, a lei dificultava que trabalhadores pobres, futuros libertos e imigrantes obtivessem propriedade gratuitamente. Isso ajudou a preservar a concentração fundiária justamente quando o país começava a discutir novas formas de trabalho.
+
+Depois de 1888, libertos precisaram negociar salários, moradia, acesso à terra e autonomia familiar sem apoio estatal amplo. Muitos permaneceram em áreas rurais, outros migraram para cidades e construíram associações, irmandades e redes comunitárias. O pós-abolição é parte essencial da questão escravista porque mostra que liberdade jurídica não significou igualdade social imediata.
+
+Em provas, uma alternativa pode opor pressão britânica e protagonismo negro como explicações excludentes. Essa oposição é falsa: a crise da escravidão resultou de fatores internacionais, mudanças econômicas, legislação, ação abolicionista e resistência dos próprios escravizados. A interpretação mais completa combina esses processos em vez de escolher apenas um.
+
+---
+
+[referencia=1ab5de85194e7cf8 score=0.106]
+### Abolicionismo
+
+Jornais, associações, clubes, advogados, intelectuais e trabalhadores participaram da campanha abolicionista.
+
+O movimento tornou-se especialmente forte na década de 1880.
+
+José do Patrocínio, Joaquim Nabuco, André Rebouças, Luís Gama e muitos outros participaram de redes distintas de abolição. Alguns atuavam na imprensa e no Parlamento; outros nos tribunais, em clubes ou organizando fugas. O movimento não era homogêneo, mas ampliou a pressão pública sobre a escravidão.
+
+As estratégias abolicionistas variavam. Alguns defendiam mudanças graduais pelo Parlamento, enquanto outros apoiavam ações diretas, fugas e desobediência. Essa diversidade mostra que o movimento não possuía uma única liderança ou método.
+
+O abolicionismo também se transformou regionalmente. No Ceará, jangadeiros liderados por Francisco José do Nascimento, o Dragão do Mar, recusaram-se a embarcar escravizados destinados ao comércio interprovincial. Em 1884, a província declarou extinta a escravidão, antes da lei nacional. Experiências como essa pressionavam o Parlamento e mostravam que a instituição estava perdendo legitimidade em ritmos diferentes pelo país.
+
+---
+
+[referencia=1ab5de85194e7cf8 score=0.030]
+A crise da escravidão foi, assim, um processo longo de erosão econômica, jurídica, política e social, e não um ato isolado de 1888.
+
+---
+
+[referencia=1ab5de85194e7cf8 score=0.029]
+## 2. Leis emancipacionistas
+
+### Lei do Ventre Livre
+
+A lei de 1871 declarou livres os filhos de mulheres escravizadas nascidos a partir de sua vigência, sob condições específicas de tutela e serviço.
+
+Ela também reconheceu mecanismos de pecúlio e ampliou caminhos jurídicos para a liberdade.
+
+As crianças nascidas depois da lei eram chamadas ingenuas, mas não se tornavam automaticamente independentes dos senhores de suas mães. Podiam permanecer sob tutela até determinada idade e prestar serviços. A lei criou um caminho de extinção gradual da escravidão, mas sua lentidão foi criticada por abolicionistas.
+
+### Lei dos Sexagenários
+
+Em 1885, a lei libertou escravizados com mais de 60 anos sob regras e limitações.
+
+Seu impacto material foi reduzido, mas simbolizou o avanço da desmontagem legal da escravidão.
+
+A idade elevada tornava o alcance da lei pequeno porque a expectativa de vida sob escravidão era limitada. Além disso, condições de serviço podiam ser impostas depois da libertação. A medida mostra como o Parlamento tentava administrar o fim gradual do sistema sem romper abruptamente com interesses dos proprietários.
+
+---
+
+[referencia=1ab5de85194e7cf8 score=0.020]
+## 4. Lei Áurea e pós-abolição
+
+### 13 de maio de 1888
+
+A Lei Áurea aboliu juridicamente a escravidão sem indenizar senhores e sem criar políticas amplas de reparação para libertos.
+
+A medida encerrou a instituição legal, mas não a desigualdade produzida por séculos de escravidão.
+
+A Lei Áurea tinha apenas dois artigos e não criou qualquer programa de terras, educação, indenização aos libertos ou reparação. A simplicidade jurídica contrastava com a complexidade social do pós-abolição. Pessoas libertas precisaram construir meios de vida num país em que acesso a propriedade e cidadania continuava profundamente desigual.
+
+A assinatura pela princesa Isabel ocorreu porque D. Pedro II estava fora do país. O fato não transforma a abolição em iniciativa exclusivamente pessoal da regente; a lei foi aprovada pelo Parlamento num contexto de forte pressão social e colapso do sistema.
+
+### Abolição e monarquia
+
+Parte dos proprietários escravistas rompeu com a monarquia após 1888, contribuindo para enfraquecer a base política do regime.
+
+Entretanto, a queda do Império teve múltiplas causas e não pode ser atribuída apenas à abolição.
+
+Os chamados republicanos de 14 de Maio eram proprietários que se aproximaram da causa republicana depois de perderem a propriedade escrava sem indenização. Ainda assim, militares, Igreja, disputas entre partidos e transformações institucionais também contribuíram para a queda da monarquia. A abolição é parte do processo, não explicação única.
+
+---
+
+[referencia=1ab5de85194e7cf8 score=0.020]
+### Crise política da escravidão
+
+À medida que províncias e municípios aprovavam medidas antiescravistas e fazendas perdiam trabalhadores, manter a instituição tornava-se mais difícil.
+
+Setores das elites passaram a aceitar a abolição como inevitável.
+
+O Exército também passou a resistir ao uso de tropas para capturar fugitivos, enquanto províncias como Ceará e Amazonas proclamavam abolição antes de 1888. Quando a instituição deixa de ser defendida com a mesma eficácia por autoridades, forças armadas e elites políticas, sua sobrevivência jurídica torna-se muito mais frágil.
+
+A crise também dividiu partidos e proprietários. Alguns defendiam indenização e transição lenta; outros aceitavam a extinção sem compensação. À medida que a escravidão perdia apoio social e se tornava mais difícil de aplicar na prática, o Parlamento passou a discutir não se ela terminaria, mas em que ritmo e sob quais condições.
+
+---
+
+[referencia=1ab5de85194e7cf8 score=0.001]
+# Questão Escravista
+
+**A Questão Escravista corresponde ao processo de crise e desagregação da escravidão no Brasil ao longo do século XIX, especialmente entre o fim do tráfico atlântico em 1850 e a abolição em 1888.**
+
+---
+
+[referencia=1ab5de85194e7cf8 score=0.001]
+### Lei Eusébio de Queirós
+
+Em 1850, a Lei Eusébio de Queirós reprimiu de forma efetiva o tráfico transatlântico.
+
+O comércio interno de escravizados aumentou e deslocou milhares de pessoas para o Sudeste cafeeiro.
+
+A lei foi aprovada num momento em que o governo brasileiro decidiu reprimir com maior eficácia desembarques clandestinos. A fiscalização naval e terrestre aumentou e o número de africanos traficados caiu rapidamente. O fim do tráfico alterou preços e estratégias dos proprietários, mas a população escravizada existente continuou sendo explorada por décadas.
+
+O fim do tráfico também alterou a distribuição regional da população escravizada. Como a demanda cafeeira permanecia alta, o comércio interprovincial cresceu e deslocou milhares de pessoas do Nordeste e de outras regiões para o Sudeste.
+
+---
+
+[referencia=1ab5de85194e7cf8 score=0.000]
+## 1. Escravidão e economia imperial
+
+### Centralidade do trabalho escravizado
+
+A escravidão sustentava grande parte da agricultura, do trabalho urbano e dos serviços no Império.
+
+O café expandiu-se justamente quando o tráfico atlântico começava a ser combatido, criando tensões entre crescimento econômico e manutenção do sistema.
+
+Nas décadas iniciais do Segundo Reinado, o café expandia-se com base em trabalho escravizado justamente quando aumentavam pressões contra o tráfico. A instituição estava integrada não apenas à produção agrícola, mas também ao patrimônio das famílias e ao crédito, pois pessoas escravizadas podiam ser usadas como garantia em transações.
+
+### Pressão britânica
+
+O Reino Unido pressionou o Brasil a encerrar o tráfico atlântico por meio de tratados e medidas como a Lei Aberdeen.
+
+A pressão externa foi importante, mas não explica sozinha a crise da escravidão.
+
+A Grã-Bretanha havia abolido seu próprio tráfico em 1807 e a escravidão em grande parte do império em 1833. Depois disso, ampliou ações diplomáticas e navais contra o tráfico atlântico. No Brasil, essa política era vista por setores escravistas como interferência externa, embora também existissem críticas internas ao comércio de africanos.

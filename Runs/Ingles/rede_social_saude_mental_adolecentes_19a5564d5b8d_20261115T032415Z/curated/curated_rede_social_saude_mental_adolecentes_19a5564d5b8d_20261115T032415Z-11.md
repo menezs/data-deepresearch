@@ -1,0 +1,38 @@
+[referencia=b27add743bea808c score=0.989]
+# Technology use explains at most 0.4% of adolescent wellbeing, new study finds
+
+14 January 2019
+
+**• Study finds only 0.4% of wellbeing in adolescents is associated with technology use****• Most definitive study to date, using data from 300,000 adolescents and parents in the UK and USA****• Comparatively, eating potatoes has nearly as negative effect and wearing glasses has a more negative effect on adolescent mental health then screen use****• Novel methodology to remove bias from data analysis revealed that problems in data analysis choice and selective reporting is a ‘endemic’ problem in technology research**
+
+Researchers at the University of Oxford have performed the most definitive study to date on the relationship between technology use and adolescent mental health, examining data from over 300,000 teenagers and parents in the UK and USA. At most, only 0.4% of adolescent wellbeing is related to screen use – which only slightly surpasses the negative effect of regularly eating potatoes. The findings were published today in Nature Human Behaviour.
+
+“Our findings demonstrate that screen use itself has at most a tiny association with youth mental health,” says lead researcher Professor Andrew Przybylski, Director of Research at the Oxford Internet Institute, University of Oxford. “The 0.4% contribution of screen use on young people’s mental health needs to be put in context for parents and policymakers. Within the same dataset, we were able to demonstrate that including potatoes in your diet showed a similar association with adolescent wellbeing. Wearing corrective lenses had an even worse association.”
+
+In comparison, smoking marijuana and being bullied was found, on average, to have a 2.7 times and 4.3 times more negative association with adolescent mental health than screen use. Activities like getting enough sleep and eating breakfast, often overlooked in media coverage, had a much stronger association with wellbeing than technology use.
+
+---
+
+[referencia=b27add743bea808c score=0.985]
+The method used by the researchers, called Specification Curve Analysis, revealed the reason there seems to be no firm scientific consensus on screen use and mental health. “Even when using the same datasets, each researcher brings different biases with them and analyses the data slightly differently,” says Amy Orben, College Lecturer at the Queen’s College, University of Oxford, and author on the study. “Of the three datasets we analysed for this study, we found over 600 million possible ways to analyse the data. We calculated a large sample of these and found that – if you wanted – you could come up with a large range of positive or negative associations between technology and wellbeing, or no effect at all.” In other words, “We needed to take the topic beyond cherry-picked results, so we developed an approach that helped us harvest the whole orchard,” adds Przybylski.
+
+In order to remove bias and examine practical significance (rather than statistical significance), the researchers used information from other questions in the same dataset to put the statistical findings on screen use in context. “Research’s reliance on statistical significance can yield bizarre ‘results’”, says Orben. “We need to look at the size of the association to make a judgement on practical significance. If you told me the amount of time a teenager spends on digital devices, I could not do very well predicting their overall wellbeing, as only 0.4% is associated with technology use.”
+
+“Bias and selective reporting of results is endemic to social and biological research influencing the screen time debate,” says Przybylski. “We need to put scientific findings in context for parents, policymakers and the general public. Our approach provides an excellent template for data scientists wanting to make the most of the excellent cohort data available in the UK and beyond.”
+
+Method:
+
+The data was drawn from three large-scale representative datasets: Monitoring the Future (USA), Youth Risks and Behaviour Studies (USA) and the Millennium Cohort Study (UK), totalling over 300,000 individuals surveyed between 2007 and 2016. The findings were derived using Specification Analysis Curve method, which examined the full range of correlations relating digital technology use to child and adolescent psychological wellbeing. Details on methodology and all necessary code to reproduce the analysis are available in the paper’s supplementary material.
+
+For more information or to request an interview, please contact Gen Juillet on 01865 287237 or email [email protected].
+
+---
+
+[referencia=b27add743bea808c score=0.402]
+## Notes for editors:
+
+Publication details: The association between adolescent well-being and digital technology use. Nature Human Behaviour, published 14 January 2019.
+
+About the Oxford Internet Institute
+
+The Oxford Internet Institute (OII) is a multidisciplinary research and teaching department of the University of Oxford, dedicated to the social science of the Internet. Drawing from many different disciplines, the OII works to understand how individual and collective behaviour online shapes our social, economic and political world. Since its founding in 2001, research from the OII has had a significant impact on policy debate, formulation and implementation around the globe, as well as a secondary impact on people’s wellbeing, safety and understanding. Drawing on many different disciplines, the OII takes a combined approach to tackling society’s big questions, with the aim of positively shaping the development of the digital world for the public good. https://www.oii.ox.ac.uk/

@@ -1,0 +1,568 @@
+[referencia=5482b6e239921f67 score=0.978]
+This is genuinely uncertain. Brazil’s 2026 electoral calendar creates a legislative window that effectively closes in August 2026. If the bill is not approved before then, approval will likely be deferred to 2027. Even if approved in 2026, implementing regulations, regulatory capacity-building and judicial interpretation will require additional years before the framework is fully operational. Companies should plan compliance timelines accordingly.
+
+PL 2.338/2023 is, at its core, an experiment in regulatory transfer — an attempt to adapt a framework designed for the institutional context of the European Union to the political, economic and institutional realities of Brazil.
+
+The analysis in this article suggests that the experiment has produced a text that is theoretically interesting and practically uncertain in roughly equal measure.
+
+The theoretical interest lies in Brazil’s choice to go beyond the EU model’s risk-based architecture and embed a standalone human rights chapter in the AI framework.
+
+Whether this represents a genuine innovation in comparative AI governance or an aspirational provision that will be diluted in enforcement depends on factors that cannot yet be determined:
+
+The evidence from LGPD implementation suggests a cautious optimism — rights have been enforced, but enforcement capacity has grown more slowly than the regulatory text implied.
+
+The practical uncertainty lies in everything discussed in Section VII: the provisions most likely to change, the constitutional challenge yet to be resolved, and the electoral calendar that may defer final approval to 2027.
+
+For companies and legal practitioners, the appropriate response to this uncertainty is not paralysis but strategic preparation: mapping AI systems against the proposed risk classification framework, building compliance programs on the EU AI Act baseline while monitoring Brazilian legislative developments, and engaging with legal counsel capable of advising across both jurisdictions.
+
+The broader research agenda opened by Brazil’s experience is significant.
+
+How do emerging economies with sophisticated legal traditions adapt regulatory frameworks designed for different institutional contexts?
+
+Does a human rights-centred approach to AI governance produce better outcomes for affected individuals than a risk-based approach — and if so, under what institutional conditions?
+
+How should regulatory cooperation between Brazil and the European Union be structured to avoid compliance fragmentation for companies operating in both markets?
+
+These are questions that the comparative legal literature on AI governance has only begun to address, and that Brazil’s legislative experiment makes newly urgent.
+
+For those engaged in the academic study of AI governance, Brazil’s PL 2.338/2023 offers a rare opportunity: a detailed case study of conscious regulatory borrowing, with all its adaptations, compromises and institutional constraints visible in the legislative record.
+
+---
+
+[referencia=5482b6e239921f67 score=0.955]
+The EU AI Act presupposes a regulatory ecosystem that took decades to build.
+
+EU Member States have data protection authorities with established competences, experienced staff, and enforcement track records.
+
+The European Data Protection Board provides coordination across jurisdictions.
+
+The newly created European AI Office at the European Commission level adds a layer of technical expertise and cross-border oversight. Sector-specific regulators — financial supervisors, health authorities, labour inspectorates — are being tasked with AI oversight in their respective domains. This institutional architecture did not materialise when the AI Act was passed: it existed before, and the AI Act extended it.
+
+Brazil’s situation is structurally different.
+
+The ANPD was established by decree in 2019 and began operations in 2020. Its enforcement capacity has grown — the Meta/Facebook and World/Worldcoin cases demonstrated a willingness to act against major technology companies — but it remains a young institution with limited technical staff and a budget that does not approach the resources available to European supervisory authorities.
+
+The constitutional challenge identified in December 2025 — the vício de iniciativa regarding the SIA’s governance structure — reveals that even the architecture of the regulatory system has not been definitively resolved, and that Brazil is attempting to write the governance provisions of an AI framework while simultaneously discovering the constitutional limits of the legislative branch’s authority to do so.
+
+The parallel with LGPD’s implementation trajectory is instructive.
+
+The LGPD was enacted in 2018.
+
+The ANPD was created in 2020.
+
+Implementing regulations were issued gradually through 2021 and 2022.
+
+The first significant administrative sanction of note — against a company for failure to appoint a Data Protection Officer and respond adequately to a data subject’s request — was issued in 2023.
+
+If AI regulation follows a similar trajectory, meaningful enforcement of Brazil’s AI framework may not be operational until 2030 or beyond, even if the law is approved in 2026.
+
+For companies assessing compliance timelines, this institutional reality is as important as the legal text itself.
+
+Both the EU AI Act and PL 2.338/2023 claim extraterritorial reach.
+
+The EU AI Act applies to providers that place AI systems on the EU market, deployers established in the EU, and providers and deployers located outside the EU whose systems produce effects within the Union.
+
+---
+
+[referencia=5482b6e239921f67 score=0.949]
+The EU AI Act is primarily a market regulation: it governs who can place AI systems on the EU market and under what conditions.
+
+Brazil’s PL 2.338/2023 is simultaneously a market regulation and a rights instrument — a distinction with profound implications for how the framework will be interpreted and enforced.
+
+The most intellectually distinctive feature of PL 2.338/2023, and the one most likely to attract attention from comparative law scholars, is its standalone chapter on the rights of individuals affected by AI systems.
+
+Chapter III of the Senate text establishes a set of substantive rights that go beyond what the EU AI Act provides directly:
+
+The EU AI Act addresses some of these concerns indirectly — the GDPR’s Article 22 provides for the right not to be subject to solely automated decisions with significant effects, and the AI Act’s transparency and human oversight requirements create structural conditions for accountability.
+
+But the EU legislator’s choice was to regulate AI primarily through obligations on providers and deployers, trusting the existing rights infrastructure to protect individuals.
+
+Brazil’s legislator made the opposite bet: by enshrining individual rights explicitly in the AI framework, the bill creates directly enforceable entitlements that do not depend on the technical architecture of GDPR-equivalent protections.
+
+This is theoretically more ambitious for at least **two reasons**:
+
+The theoretical ambition, however, comes with an enforcement paradox.
+
+Rights provisions are only as strong as the institutions capable of enforcing them.
+
+The EU AI Act was built on top of decades of GDPR enforcement infrastructure, national supervisory authorities with established competences, and a functioning European court system with a rich jurisprudence on data protection and fundamental rights.
+
+Brazil’s proposed framework is being constructed on top of an ANPD that has existed for less than six years, that issued its first significant sanction only in 2023, and that is currently navigating a constitutional challenge regarding the very competencies the AI framework seeks to assign to it.
+
+The comparison between regulatory text and regulatory capacity is where the most important questions for future research reside.
+
+The central argument of this article is that PL 2.338/2023’s theoretical strengths are undermined by a structural vulnerability that the comparative literature has not yet adequately addressed:
+
+The EU AI Act presupposes a regulatory ecosystem that took decades to build.
+
+EU Member States have data protection authorities with established competences, experienced staff, and enforcement track records.
+
+The European Data Protection Board provides coordination across jurisdictions.
+
+---
+
+[referencia=d41ee4caa2d475f3 score=0.945]
+### Embargos de declaração: o que são, prazo, cabimento e efeitos
+
+Cabimento, prazo em cada rito, efeito sobre os outros recursos e o significado de cada andamento.
+
+*Atualizado em outubro de 2026.*
+
+A **regulamentação da inteligência artificial no Brasil** ainda depende do PL n. 2.338/2023, o marco legal da IA: aprovado pelo Senado Federal em 10 de dezembro de 2024, o projeto aguarda, em outubro de 2026, o parecer do relator na Comissão Especial da Câmara dos Deputados. Isso não significa ausência de regras: o uso de IA já está sujeito à Lei Geral de Proteção de Dados Pessoais (LGPD), ao Código de Defesa do Consumidor, ao Código Civil e a normas do Conselho Nacional de Justiça (CNJ) e do Tribunal Superior Eleitoral (TSE), e quem atua na Europa responde ao AI Act. Este artigo explica o que o projeto prevê, em que ponto está a tramitação, quais regras já se aplicam, como o modelo brasileiro se compara ao europeu e quem responde por danos causados por IA.
+
+**Em resumo:** o Brasil ainda não tem lei geral de inteligência artificial. O PL n. 2.338/2023, aprovado pelo Senado em 10/12/2024, aguarda parecer na Comissão Especial da Câmara e, se for alterado, volta ao Senado antes da sanção. O texto proíbe sistemas de risco excessivo, impõe avaliação de impacto, supervisão humana e transparência aos de alto risco e cria direitos para as pessoas afetadas. Enquanto isso, aplicam-se a LGPD, que garante a revisão de decisões automatizadas (art. 20), o CDC, o Código Civil e normas do CNJ e do TSE. Na União Europeia, o AI Act já vigora; as regras de alto risco do Anexo III valem a partir de 2/12/2027.
+
+---
+
+[referencia=5482b6e239921f67 score=0.925]
+The constitutional challenge regarding the governance structure — the vício de iniciativa — will need to be resolved either through the consolidation of the Executive’s complementary bill or through a different structural solution.
+
+How the Chamber resolves this may fundamentally alter the distribution of regulatory authority between the ANPD, sector-specific regulators, and any new AI-specific body created by the SIA framework.
+
+**No!** As of March 2026, PL 2.338/2023 is a bill pending in the Chamber of Deputies — not yet a law. It was approved by the Brazilian Senate in December 2024 and is currently awaiting the rapporteur’s opinion in the Chamber’s Special Committee. The EU AI Act, by contrast, entered into force in August 2024 and is progressively applicable. For the latest legislative developments, see the official tracking page at the Chamber of Deputies.
+
+Both frameworks adopt a risk-based classification approach. Brazil’s key structural difference is a dedicated chapter on the rights of individuals affected by AI systems — not present as a standalone element in the EU AI Act, which relies on the GDPR for individual rights protections. Brazil’s proposed sanction regime (up to R$50M or 2% of Brazilian revenue) is less severe than the EU’s (up to €35M or 7% of global turnover).
+
+Under the proposed text, yes — to the extent that their AI systems produce effects in Brazilian territory, regardless of the company’s place of establishment. This extraterritorial criterion mirrors the EU AI Act’s approach. Companies with operations in both Brazil and the EU face the prospect of dual compliance obligations under structurally related but technically distinct frameworks. Early mapping of AI systems against the proposed Brazilian risk classification is advisable even before the law is finalised.
+
+Under the Senate text, the ANPD (Brazil’s National Data Protection Authority) was positioned as the coordinating body of the proposed National AI Governance System (SIA). This assignment faces a constitutional challenge — the Executive Branch submitted a complementary bill in December 2025 to resolve it. The ANPD’s final role depends on how the Chamber resolves this constitutional issue. Regardless of the outcome, the ANPD already exercises oversight over AI systems that involve personal data processing, under the LGPD’s existing framework.
+
+---
+
+[referencia=216c4e922227150d score=0.920]
+O Brasil ainda não tem uma lei geral de inteligência artificial. O **PL 2.338/2023**, aprovado pelo Senado em 10 de dezembro de 2024, está na Câmara dos Deputados desde março de 2025, em uma comissão especial, aguardando o parecer do relator, o deputado Aguinaldo Ribeiro. Em outubro de 2026 o parecer ainda não tinha sido apresentado, e se a Câmara mudar o texto, ele volta ao Senado antes da sanção.
+
+A ficha de tramitação registra 37 propostas apensadas, entre elas o PL 6.237/2025, do Poder Executivo. A Câmara tem margem para reescrever partes inteiras. Mesmo assim, o texto do Senado é a referência mais concreta do que vem: classificação por risco, avaliação de impacto algorítmico para alto risco, a ANPD coordenando um sistema nacional de regulação e multas de até R$ 50 milhões por infração.
+
+---
+
+[referencia=5482b6e239921f67 score=0.903]
+The perspective of a lawyer admitted in both jurisdictions, familiar with both the EU AI Act’s implementation in the German and European market and with Brazil’s legislative process and institutional context, offers analytical depth that jurisdiction-specific practice cannot provide.
+
+For a discussion of the current state of Brazil’s AI regulatory framework in Portuguese, including a detailed analysis of PL 2.338/2023’s structure and legislative timeline, see our companion article in the site’s Portuguese-language section.
+
+Any analysis of PL 2.338/2023 would be analytically incomplete without an honest assessment of which provisions are most likely to be amended by the Chamber of Deputies.
+
+The following five areas concentrate the most significant political and technical disagreements in the current legislative debate:
+
+The Senate text includes provisions requiring AI developers to disclose which copyright-protected works were used in training their systems and granting rights holders the right to opt out of such use.
+
+These provisions generated significant pushback from the technology sector and were the subject of intense lobbying during the Chamber’s public hearings.
+
+The final formulation (including whether opt-out rights will survive, whether they will apply retroactively, and how they will be enforced) remains contested and is likely to be modified.
+
+Civil society organisations and consumer protection advocates consistently argued during the legislative process that AI-based credit scoring should be classified as a high-risk application, given its significant impact on individuals’ access to financial services.
+
+The Senate text did not fully accept this classification.
+
+The Chamber may revisit the issue, with the outcome depending on the balance between financial sector lobbying and consumer rights advocacy.
+
+Whether developers and deployers of high-risk AI systems should be subject to strict liability (regardless of fault) or fault-based liability remains one of the most commercially significant open questions.
+
+The Senate text’s approach to this issue is ambiguous in ways that the Chamber may resolve in either direction.
+
+The outcome will determine the insurance and risk management obligations of companies operating high-risk AI systems in Brazil.
+
+The version of PL 2.338/2023 originally elaborated by the Commission of Jurists included more robust protections for workers affected by AI-driven automation — including requirements for impact assessments on employment and worker participation in AI governance processes.
+
+These provisions were substantially weakened in the Senate, following lobbying from industry confederations.
+
+Labour unions and civil society organisations have indicated they will seek to restore them in the Chamber.
+
+The constitutional challenge regarding the governance structure — the vício de iniciativa — will need to be resolved either through the consolidation of the Executive’s complementary bill or through a different structural solution.
+
+---
+
+[referencia=5482b6e239921f67 score=0.898]
+Understanding where and why Brazil departed from the EU model is both a scholarly contribution and a practical necessity for companies navigating dual compliance obligations across the Atlantic.
+
+Brazil’s legislative engagement with AI regulation predates the EU AI Act by several years.
+
+PL 21/2020, authored by deputy Eduardo Bismarck, was approved by the Chamber of Deputies in 2021 — at a time when the EU was still in early consultation phases of what would become the AI Act.
+
+PL 21/2020 was, however, criticised by civil society organisations and legal scholars as insufficiently protective of fundamental rights and misaligned with international regulatory best practices.
+
+Rather than transmitting that bill to the Senate, the Brazilian legislative process opened a new track.
+
+In 2022, the Senate created a **Commission of Jurists dedicated to AI** regulation — a body of legal scholars, technologists and civil society representatives tasked with elaborating a more comprehensive framework. Their work resulted in PL 2.338/2023, presented by senator Rodrigo Pacheco, the Senate President at the time.
+
+The bill was the subject of extensive public consultations, twelve public hearings in the Chamber of Deputies (between May and September 2025), and significant lobbying from the technology sector, civil society organisations, artists (concerned about copyright implications for generative AI training), and trade unions (concerned about labour protections that were eventually weakened in the final Senate text).
+
+The Senate approved PL 2.338/2023 by a symbolic vote on 10 December 2024 and remitted it to the Chamber of Deputies in March 2025.
+
+As of the date of this article, the bill awaits the rapporteur’s opinion in the Special Committee of the Chamber of Deputies, under the rapporteurship of Deputy Aguinaldo Ribeiro (PP-PB).
+
+A significant constitutional complication has emerged: by attributing regulatory competencies to the ANPD, the text approved by the Senate may contain a vício de iniciativa — a constitutional flaw arising from the fact that legislation creating or expanding public expenditure and administrative structures may only be initiated by the Executive Branch.
+
+To remedy this, the Executive submitted a complementary bill in December 2025 creating the **Sistema Nacional para Desenvolvimento, Regulação e Governança de Inteligência Artificial (SIA)**, which must be consolidated with PL 2.338/2023 before or during the Chamber’s vote.
+
+---
+
+[referencia=d41ee4caa2d475f3 score=0.827]
+O PL n. 2.338/2023 foi apresentado em maio de 2023 pelo então presidente do Senado, Rodrigo Pacheco, com base no anteprojeto de uma comissão de juristas. O texto aprovado em dezembro de 2024 é o substitutivo da Comissão Temporária Interna sobre Inteligência Artificial (CTIA), que reuniu projetos apresentados desde 2019, entre eles o PL n. 21/2020, aprovado pela Câmara em 2021. O projeto combina princípios — transparência, explicabilidade, não discriminação, supervisão humana e responsabilização —, classificação dos sistemas por risco, direitos das pessoas afetadas, deveres de governança, fiscalização e sanções.
+
+A espinha dorsal do projeto é a classificação dos sistemas pelo risco que representam a direitos fundamentais. O texto do Senado fala em “risco excessivo” para as aplicações vedadas — o AI Act usa “risco inaceitável” — e define o alto risco pela finalidade e pelo contexto de uso, não pela tecnologia: o mesmo modelo de linguagem pode ser de baixo risco ao resumir documentos e de alto risco ao selecionar candidatos a emprego.
+
+---
+
+[referencia=5482b6e239921f67 score=0.824]
+The table below maps the key structural elements of both frameworks as they currently stand:
+
+| Dimension | EU AI Act (Reg. EU 2024/1689) | PL 2.338/2023 (Senate text) | 
+|---|---|---|
+| **Core paradigm** | Risk-based, provider-centric | Risk-based + human rights chapter | 
+| **Prohibited systems** | **Art. 5** — social scoring, subliminal manipulation, real-time biometric surveillance (with exceptions) | **Art. 9** — social scoring, subliminal manipulation; recognition facial for public security with exceptions | 
+| **High-risk categories** | **Annex III** — education, employment, essential services, law enforcement, migration, justice, critical infrastructure | **Art. 18** — similar sectors; notably excludes credit scoring from the highest-risk category (contested) | 
+| **Transparency obligations** | **Art. 13** — technical documentation, instructions for use | **Art. 12** — transparency to users, indication of AI involvement | 
+| **Human oversight** | **Art. 14** — mandatory for high-risk systems | **Art. 13** — mandatory for high-risk systems; right to human determination in Art. 7 | 
+| **Individual rights chapter** | Not present as standalone chapter (addressed indirectly via GDPR) | **Chapter III** — dedicated rights of persons affected by AI systems | 
+| **Regulatory authority** | National Competent Authorities (NCAs) + European AI Office | ANPD as SIA coordinator (subject to constitutional amendment) | 
+| **Maximum sanctions** | €35M or 7% of global annual turnover | R$50M or 2% of Brazilian revenue (proposed) | 
+| **Entry into force** | August 2024 (phased application through 2027) | Not yet applicable — bill pending in Chamber | 
+
+The convergences are real and deliberate.
+
+The divergences, however, are analytically significant.
+
+The most structurally important departure from the EU model is not at the level of prohibited conduct or high-risk categories — which are broadly parallel — but at the level of what the framework is designed to protect.
+
+The EU AI Act is primarily a market regulation: it governs who can place AI systems on the EU market and under what conditions.
+
+---
+
+[referencia=5482b6e239921f67 score=0.800]
+The practical implication of this legislative history is fundamental for any analysis: **PL 2.338/2023 is a bill, not a law.** 
+
+Its final text — including its risk classification criteria, liability regime, rights provisions, and governance architecture — may be substantially amended by the Chamber of Deputies.
+
+If the Chamber introduces significant changes, the bill must return to the Senate for a further vote.
+
+Brazil’s 2026 electoral calendar (presidential elections on 4 October 2026) creates a de facto legislative window that closes in August 2026. If approval is not achieved within that window, the bill will most likely be deferred to 2027.
+
+This article analyses the text approved by the Senate in December 2024 as the primary reference, with explicit identification of the provisions most likely to change.
+
+At the level of regulatory architecture, PL 2.338/2023 and the EU AI Act share a foundational premise: not all AI systems pose the same risks, and regulatory obligations should be proportional to the potential for harm.
+
+Both frameworks adopt a tiered risk classification system, distinguishing between systems that are absolutely prohibited, systems that are subject to heightened obligations by virtue of their high-risk nature, and systems that must comply with lighter transparency requirements.
+
+This structural parallel is not coincidental — Brazil’s legislative process explicitly engaged with the EU AI Act as a primary reference, and several provisions of PL 2.338/2023 can be traced to their European counterparts.
+
+The table below maps the key structural elements of both frameworks as they currently stand:
+
+---
+
+[referencia=2ddcc05b33f7db1a score=0.791]
+- Identificação:
+- EMENDA 158 - PL 2338/2023
+- Autor:
+- Senador Marcos Rogério (PL/RO)
+- Data:
+- 02/12/2024
+- Descrição/Ementa
+- Emenda ao PL 2338/2023- revisão de três anos
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebida a Emenda nº 156, de autoria do Senador Carlos Portinho, e as Emendas nº 157 e 158, de autoria do Senador Marcos Rogério. Ao Relator para análise das Emendas. | Veja a tramitação
+
+- Identificação:
+- EMENDA 160 - PL 2338/2023
+- Autor:
+- Senador Mecias de Jesus (REPUBLICANOS/RR)
+- Data:
+- 02/12/2024
+- Descrição/Ementa
+- Emenda 01 ao PL 2338/2023
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebida a Emenda nº 159, de autoria do Senador Carlos Portinho, as Emendas nº 160 a 178, de autoria do Senador Mecias de Jesus, as Emendas nº 179 e 180, de autoria do Senador Humberto Costa, as Emendas nº 181 a 187, de autoria do Senado... | Veja a tramitação
+
+- Identificação:
+- EMENDA 161 - PL 2338/2023
+- Autor:
+- Senador Mecias de Jesus (REPUBLICANOS/RR)
+- Data:
+- 02/12/2024
+- Descrição/Ementa
+- Emenda 02 ao PL 2338/2023
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+
+---
+
+[referencia=d41ee4caa2d475f3 score=0.731]
+O texto cria o Sistema Nacional de Regulação e Governança de Inteligência Artificial (SIA), coordenado pela ANPD e integrado pelas autoridades setoriais, e prevê sanções administrativas que vão da advertência à multa e à suspensão do sistema. Também disciplina o uso de obras protegidas no treinamento: o desenvolvedor deve informar os conteúdos utilizados, o titular pode proibir o uso — ressalvadas exceções para pesquisa, jornalismo, museus, arquivos, bibliotecas e ensino sem finalidade comercial — e a utilização fora dessas exceções gera dever de remuneração. O setor cultural defende essa proteção; as empresas de tecnologia sustentam que ela é de difícil execução técnica.
+
+Aprovado pelo Senado em 10 de dezembro de 2024, o PL n. 2.338/2023 foi despachado em 29 de abril de 2025 a uma Comissão Especial da Câmara, presidida pela deputada Luisa Canziani e relatada pelo deputado Aguinaldo Ribeiro (PP-PB), que realizou audiências públicas com especialistas, empresas e sociedade civil ao longo de 2025. A votação, prevista para o fim daquele ano, foi adiada para 2026, e a expectativa do relator de votar o texto no primeiro semestre não se confirmou. Em agosto de 2026, o relator afirmou que a votação ficaria para depois das eleições de outubro, ainda em 2026. Em 11 de outubro de 2026, a ficha de tramitação da Câmara registra a situação “aguardando parecer do relator na Comissão Especial”, sem substitutivo apresentado e com dezenas de projetos apensados. O projeto tramita em regime de prioridade e depende ainda de votação no Plenário.
+
+---
+
+[referencia=2ddcc05b33f7db1a score=0.727]
+- Identificação:
+- EMENDA 17 - PL 2338/2023
+- Autor:
+- Senador Alessandro Vieira (MDB/SE)
+- Data:
+- 11/06/2024
+- Descrição/Ementa
+- Emenda ao PL 2338/2023 - Renumeração artigos
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebidas as Emendas nº 7 a 20, de autoria do Senador Alessandro Vieira; Emendas n° 21 a 24, de autoria do Senador Laércio Oliveira; Emendas n° 25 e 26, de autoria do Senador Mecias de Jesus, e Emenda n° 27, de autoria do Senador Fabiano... | Veja a tramitação
+
+- Identificação:
+- EMENDA 25 - PL 2338/2023
+- Autor:
+- Senador Mecias de Jesus (REPUBLICANOS/RR)
+- Data:
+- 11/06/2024
+- Descrição/Ementa
+- Emenda 1 ao PL 2338/2023
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebidas as Emendas nº 7 a 20, de autoria do Senador Alessandro Vieira; Emendas n° 21 a 24, de autoria do Senador Laércio Oliveira; Emendas n° 25 e 26, de autoria do Senador Mecias de Jesus, e Emenda n° 27, de autoria do Senador Fabiano... | Veja a tramitação
+
+- Identificação:
+- EMENDA 26 - PL 2338/2023
+- Autor:
+- Senador Mecias de Jesus (REPUBLICANOS/RR)
+- Data:
+- 11/06/2024
+- Descrição/Ementa
+- Emenda 2 ao PL 2338/2023
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+
+---
+
+[referencia=5482b6e239921f67 score=0.720]
+The EU AI Act applies to providers that place AI systems on the EU market, deployers established in the EU, and providers and deployers located outside the EU whose systems produce effects within the Union.
+
+PL 2.338/2023, as approved by the Senate, adopts a similar effects-based criterion: the framework applies to any natural or legal person that develops, deploys, or uses AI systems in Brazilian territory or whose systems produce effects in Brazil, regardless of where the entity is established.
+
+For companies operating simultaneously in Brazil and the European Union, this creates a prospect of dual compliance — obligations under both frameworks that are structurally similar but technically distinct.
+
+The areas of overlap are significant: both frameworks require transparency to users, human oversight of high-risk systems, documentation and auditability, and impact assessments for sensitive applications.
+
+A well-designed compliance program built on the EU AI Act’s requirements will capture most of what Brazil’s framework demands. The areas of divergence — particularly the individual rights chapter and the liability regime, which may be altered by the Chamber — will require Brazil-specific attention.
+
+For German and European companies with operations in Brazil, the practical challenge is one of sequencing.
+
+The EU AI Act is already in force and its phased application timeline is known.
+
+Brazil’s framework is not yet law, its final text is uncertain, and its regulatory authority is still consolidating its competences.
+
+The prudent approach is to implement EU AI Act compliance as the baseline — since the EU framework is more demanding in several respects and is legally certain — while monitoring Brazil’s legislative developments and building in the flexibility to adapt compliance programs as the Brazilian framework takes final shape.
+
+Companies for which Brazil represents a significant market should begin mapping their AI systems against the proposed Brazilian risk classification now, even in the absence of a final law, precisely because the mapping process takes time and will need to be completed before any compliance deadline is imposed.
+
+For legal practitioners advising clients on cross-border AI compliance, the ability to analyse both frameworks from a position of genuine dual expertise — grounded in practice under both Brazilian and European law — is not a luxury but a prerequisite for effective counsel.
+
+The perspective of a lawyer admitted in both jurisdictions, familiar with both the EU AI Act’s implementation in the German and European market and with Brazil’s legislative process and institutional context, offers analytical depth that jurisdiction-specific practice cannot provide.
+
+---
+
+[referencia=2ddcc05b33f7db1a score=0.707]
+- Emenda ao PL 2338/2023 - IA interativa
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebida a Emenda nº 149, de autoria do Senador Nelsinho Trad. Ao Relator para análise da Emenda. | Veja a tramitação
+
+- Identificação:
+- EMENDA 150 - PL 2338/2023
+- Autor:
+- Senador Laércio Oliveira (PP/SE)
+- Data:
+- 28/11/2024
+- Descrição/Ementa
+- Emenda ao PL 2338/2023
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebida a Emenda nº 150, de autoria do Senador Laércio Oliveira. Ao Relator para análise da Emenda. | Veja a tramitação
+
+- Identificação:
+- EMENDA 151 - PL 2338/2023
+- Autor:
+- Senador Marcos Rogério (PL/RO)
+- Data:
+- 02/12/2024
+- Descrição/Ementa
+- Emenda ao PL 2338/2023- sobre direito autoral
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebidas as Emendas nº 151 a 154, de autoria do Senador Marcos Rogério, e a Emenda nº 155, de autoria do Senador Carlos Viana. Ao Relator para análise das Emendas. | Veja a tramitação
+
+- Identificação:
+- EMENDA 152 - PL 2338/2023
+- Autor:
+- Senador Marcos Rogério (PL/RO)
+- Data:
+- 02/12/2024
+- Descrição/Ementa
+- Emenda ao PL 2338/2023- sindicatos e acordos coletivos
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+
+---
+
+[referencia=2ddcc05b33f7db1a score=0.702]
+- Identificação:
+- PL 2338/2023
+- Autor:
+- Senador Rodrigo Pacheco (PSD/MG)
+- Data:
+- 03/05/2023
+- Descrição/Ementa
+- Dispõe sobre o uso da Inteligência Artificial.
+- Local:
+- Plenário do Senado Federal
+- Ação Legislativa:
+- Autuado o Projeto de Lei nº 2338/2023. O projeto vai à publicação. | Veja a tramitação
+
+- Identificação:
+- Avulso inicial da matéria
+- Autor:
+- Senado Federal
+- Data:
+- 03/05/2023
+- Descrição/Ementa
+- -
+- Local:
+- Plenário do Senado Federal
+
+- Identificação:
+- Autógrafo - PL 2338/2023
+- Autor:
+- Senado Federal
+- Data:
+- 17/03/2025
+- Descrição/Ementa
+- Dispõe sobre o uso da Inteligência Artificial.
+- Local:
+- Secretaria de Expediente
+- Ação Legislativa:
+- Remetido Ofício SF nº 235, de 17/03/25, ao Senhor Primeiro-Secretário da Câmara dos Deputados, encaminhando autógrafo do projeto para revisão, nos termos do art. 65 da Constituição Federal. | Veja a tramitação
+
+- Identificação:
+- Relatório Legislativo
+- Autor:
+- Senador Eduardo Gomes (PL/TO)
+- Data:
+- 07/06/2024
+- Descrição/Ementa
+- Relatório aos projetos de lei que dispõem sobre a regulamentação do uso da inteligência artificial no Brasil
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+
+---
+
+[referencia=2ddcc05b33f7db1a score=0.669]
+- Complementação de Voto PL 2338/2023
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebida, do Senador Eduardo Gomes, a Complementação de Voto proferida na 23ª Reunião da CTIA, realizada nesta data, que conclui pela aprovação do PL nº 2.338, de 2023; pela aprovação das Emendas nº 4, 8, 11, 13, 15, 16, 17, 18, 19, 35, ... | Veja a tramitação
+
+- Identificação:
+- Relatório Legislativo
+- Autor:
+- Senador Eduardo Gomes (PL/TO)
+- Data:
+- 03/12/2024
+- Descrição/Ementa
+- Complementação de voto PL 2338/2023
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebida, do Senador Eduardo Gomes, a Complementação de Voto pela aprovação do PL nº 2.338, de 2023; pela aprovação das Emendas nº 4, 8, 11, 13, 14, 17, 18, 19, 35, 38, 44, 47, 50, 67, 74, 75, 80, 86, 96, 99, 104, 108, 125, 183, 190 e 19... | Veja a tramitação
+
+- Identificação:
+- Relatório Legislativo - Complementação
+- Autor:
+- Senador Eduardo Gomes (PL/TO)
+- Data:
+- 05/12/2024
+- Descrição/Ementa
+- Complementação de voto PL 2338/2023
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+
+---
+
+[referencia=2ddcc05b33f7db1a score=0.664]
+- Emenda ao PL 2338/2023 - impossibilidade de mitigação de riscos
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebidas as Emendas nº 7 a 20, de autoria do Senador Alessandro Vieira; Emendas n° 21 a 24, de autoria do Senador Laércio Oliveira; Emendas n° 25 e 26, de autoria do Senador Mecias de Jesus, e Emenda n° 27, de autoria do Senador Fabiano... | Veja a tramitação
+
+- Identificação:
+- EMENDA 13 - PL 2338/2023
+- Autor:
+- Senador Alessandro Vieira (MDB/SE)
+- Data:
+- 11/06/2024
+- Descrição/Ementa
+- Emenda ao PL 2338/2023 - AI e participação pública
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebidas as Emendas nº 7 a 20, de autoria do Senador Alessandro Vieira; Emendas n° 21 a 24, de autoria do Senador Laércio Oliveira; Emendas n° 25 e 26, de autoria do Senador Mecias de Jesus, e Emenda n° 27, de autoria do Senador Fabiano... | Veja a tramitação
+
+- Identificação:
+- EMENDA 14 - PL 2338/2023
+- Autor:
+- Senador Alessandro Vieira (MDB/SE)
+- Data:
+- 11/06/2024
+- Descrição/Ementa
+- Emenda ao PL 2338/2023 - Garantia de aplicação do art. 32 a IA generativa
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+
+---
+
+[referencia=2ddcc05b33f7db1a score=0.631]
+- Descrição/Ementa
+- Emenda ao PL 2338/2023
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebidas as Emendas nº 7 a 20, de autoria do Senador Alessandro Vieira; Emendas n° 21 a 24, de autoria do Senador Laércio Oliveira; Emendas n° 25 e 26, de autoria do Senador Mecias de Jesus, e Emenda n° 27, de autoria do Senador Fabiano... | Veja a tramitação
+
+- Identificação:
+- EMENDA 7 - PL 2338/2023
+- Autor:
+- Senador Alessandro Vieira (MDB/SE)
+- Data:
+- 11/06/2024
+- Descrição/Ementa
+- Emenda ao PL 2338/2023 - Condição de pessoas em desenvolvimento, crianças e adolescentes
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:
+- Recebidas as Emendas nº 7 a 20, de autoria do Senador Alessandro Vieira; Emendas n° 21 a 24, de autoria do Senador Laércio Oliveira; Emendas n° 25 e 26, de autoria do Senador Mecias de Jesus, e Emenda n° 27, de autoria do Senador Fabiano... | Veja a tramitação
+
+- Identificação:
+- EMENDA 8 - PL 2338/2023
+- Autor:
+- Senador Alessandro Vieira (MDB/SE)
+- Data:
+- 11/06/2024
+- Descrição/Ementa
+- Emenda ao PL 2338/2023 - Vedação de desenvolvimento, distribuição e aplicação
+- Local:
+- Comissão Temporária Interna sobre Inteligência Artificial no Brasil
+- Ação Legislativa:

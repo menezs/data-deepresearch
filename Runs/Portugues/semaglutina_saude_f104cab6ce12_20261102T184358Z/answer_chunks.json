@@ -1,0 +1,662 @@
+[
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-0",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 0,
+    "text": "A caracterização da semaglutida como um agente capaz de modificar a história natural da doença cardiovascular aterosclerótica em populações sem diabetes foi consolidada pelos resultados do ensaio clínico landmark SELECT.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-1",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 1,
+    "text": "Trata-se de um estudo multicêntrico, internacional, duplo-cego, randomizado e controlado por placebo que incluiu 17.604 pacientes com idade igual ou superior a 45 anos, apresentando índice de massa corporal (IMC) de pelo menos 27 kg/m² e doença cardiovascular estabelecida (definida por histórico de infarto do miocárdio prévio em 76% dos casos, acidente vascular cerebral prévio em 23% ou doença arterial periférica sintomática em 9%), sem histórico ou evidência de diabetes mellitus.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-2",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 2,
+    "text": "Os participantes foram randomizados para receber semaglutida subcutânea na dose semanal de 2,4 mg ou placebo, adicionados ao tratamento padrão de prevenção secundária cardiovascular, que incluía estatinas em 88% dos indivíduos.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-3",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 3,
+    "text": "O acompanhamento médio foi de 40 meses, com um tempo médio de exposição à dose-alvo do fármaco de 33 meses.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-4",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 4,
+    "text": "No desfecho primário de eficácia — um composto de eventos cardiovasculares maiores (MACE) que englobou morte por causas cardiovasculares, infarto do miocárdio não fatal ou acidente vascular cerebral não fatal —, a semaglutida demonstrou uma redução do risco relativo de 20% em comparação ao placebo (incidência de 6,5% no grupo semaglutida contra 8,0% no grupo placebo; razão de risco [HR] de 0,80; intervalo de confiança de 95% [IC 95%], 0,72 a 0,90; p < 0,001).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-5",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 5,
+    "text": "Ao analisar os componentes individuais do MACE e os desfechos secundários pré-especificados, a semaglutida promoveu uma diminuição estatisticamente significativa de 28% no risco de infarto do miocárdio não fatal (2,7% versus 3,7%; HR 0,72; IC 95%, 0,61 a 0,85) e uma redução de 19% na mortalidade por todas as causas (4,3% versus 5,2%; HR 0,81; IC 95%, 0,71 a 0,93).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-6",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 6,
+    "text": "A mortalidade de origem estritamente cardiovascular foi numericamente menor no grupo intervenção (2,5% versus 3,0%; HR 0,85; IC 95%, 0,71 a 1,01; p = 0,07).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-7",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 7,
+    "text": "O desfecho composto de insuficiência cardíaca, compreendido por morte cardiovascular ou hospitalização/visita médica de urgência por insuficiência cardíaca, sofreu uma redução de 18% (3,4% no grupo semaglutida versus 4,1% no grupo placebo; HR 0,82; IC 95%, 0,71 a 0,96).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-8",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 8,
+    "text": "Análises pré-especificadas conduzidas no subgrupo de participantes com insuficiência cardíaca prévia revelaram que a magnitude de proteção se manteve consistente e clinicamente expressiva independentemente do fenótipo da fração de ejeção, beneficiando tanto pacientes com insuficiência cardíaca com fração de ejeção reduzida (ICFEr, HR 0,65; IC 95%, 0,49 a 0,87) quanto aqueles com fração de ejeção preservada (ICFEp, HR 0,69; IC 95%, 0,51 a 0,91).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-9",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 9,
+    "text": "Análises secundárias detalhadas do estudo SELECT focadas nas variações de adiposidade basal e durante o tratamento demonstraram que a redução do risco de MACE foi mantida de forma homogênea em todos os decis de IMC basal e de circunferência da cintura.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "e72c2e3631af87c7"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-10",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 10,
+    "text": "Surpreendentemente, a magnitude da perda de peso alcançada durante as primeiras 20 semanas de estudo não se correlacionou linearmente com a taxa de prevenção de MACE observada ao longo de 104 semanas.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "5b5a6969061aa6bd"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-11",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 11,
+    "text": "A modelagem estatística revelou que a variação na circunferência da cintura mediou apenas cerca de 33% do efeito cardioprotetor total da semaglutida, indicando que aproximadamente dois terços do benefício vascular derivam de vias biológicas diretas e independentes da redução de massa adiposa.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "5b5a6969061aa6bd"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-12",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 12,
+    "text": "Do ponto de vista hemodinâmico, o estudo SELECT registrou uma redução média sustentada na pressão arterial sistólica de 3,8 mmHg no grupo semaglutida versus 0,5 mmHg no grupo placebo na semana 104.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-13",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 13,
+    "text": "A investigação dedicada da semaglutida em desfechos renais primários foi estabelecida pelo ensaio clínico de fase 3 FLOW.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-14",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 14,
+    "text": "O estudo avaliou 3.533 pacientes diagnosticados com diabetes mellitus tipo 2 e doença renal crônica (caracterizados por taxa de filtração glomerular estimada [TFGe] entre 50 e 75 mL/min/1,73m² associada a uma razão albumina/creatinina urinária [RACu] entre 300 e 5000 mg/g, ou TFGe entre 25 e 50 mL/min/1,73m² com RACu >100 mg/g).",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-15",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 15,
+    "text": "A média da TFGe basal da população era de 47 mL/min/1,73m².",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-16",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 16,
+    "text": "Os participantes foram randomizados para semaglutida 1,0 mg semanal por via subcutânea ou placebo, associados à terapia padrão que incluía inibidores da enzima conversora de angiotensina ou bloqueadores dos receptores de angiotensina II em mais de 95% dos pacientes.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-17",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 17,
+    "text": "O ensaio FLOW foi interrompido precocemente por recomendação do comitê independente de monitoramento de dados devido à demonstração conclusiva de eficácia no acompanhamento mediano de 3,4 anos.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-18",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 18,
+    "text": "A semaglutida reduziu em 24% o risco do desfecho primário composto renal — definido por início de terapia substitutiva renal (diálise peritoneal, hemodiálise ou transplante renal), declínio sustentado da TFGe para <15 mL/min/1,73m², redução sustentada de ≥50% na TFGe em relação ao basal, ou morte por causas renais ou cardiovasculares (18,7% no grupo semaglutida versus 23,2% no grupo placebo; HR 0,76; IC 95%, 0,66 a 0,88; p = 0,0003).",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-19",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 19,
+    "text": "Análises detalhadas dos desfechos secundários do FLOW evidenciaram que a semaglutida promoveu uma redução de 29% na mortalidade especificamente cardiovascular (7,0% versus 9,6%; HR 0,71; IC 95%, 0,56 a 0,89) e uma queda de 20% na mortalidade por todas as causas (12,8% versus 15,8%; HR 0,80; IC 95%, 0,67 a 0,95).",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-20",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 20,
+    "text": "O número necessário para tratar (NNT) ao longo de 156 semanas para prevenir uma morte por qualquer causa foi calculado em 39 pacientes.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-21",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 21,
+    "text": "Além disso, a semaglutida atenuou a taxa de perda anual da função renal, preservando a TFGe em um valor médio de 1,16 mL/min/1,73m² por ano em relação ao placebo.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-22",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 22,
+    "text": "O impacto metabólico secundário incluiu uma diferença na hemoglobina glicada de -0,81% e uma redução no peso corporal de 4,10 kg em relação ao controle na semana 104.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-23",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 23,
+    "text": "No âmbito hemodinâmico, os receptores de GLP-1 expressos no túbulo contorcido proximal modulam a atividade do trocador de sódio-hidrogênio tipo 3 (NHE3).",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "3ed2d75d95d9fd3a"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-24",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 24,
+    "text": "O papel da semaglutida no tratamento da MASH em pacientes com fibrose hepática estabelecida foi rigorosamente investigado no ensaio clínico de fase 3 ESSENCE.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "ba9cad13d5c88b48"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-25",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 25,
+    "text": "O estudo incluiu adultos com MASH confirmada por biópsia histológica e estágios de fibrose variando de F2 (fibrose moderada) a F3 (fibrose avançada ou em ponte).",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "ba9cad13d5c88b48"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-26",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 26,
+    "text": "Na análise primária pré-especificada conduzida na semana 72 em 534 pacientes, a administração de semaglutida 2,4 mg semanal por via subcutânea alcançou os dois desfechos primários de eficácia exigidos pelos organismos regulatórios internacionais.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "4d0b177d72251ec9"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-27",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 27,
+    "text": "Os resultados histológicos do ensaio ESSENCE demonstraram que 62,9% dos pacientes tratados com semaglutida atingiram a resolução completa da esteato-hepatite (definida pela ausência de abulonamento hepatocitário e inflamação lobular mínima ou ausente) sem qualquer deterioração do estágio de fibrose hepática, um resultado estatisticamente superior e clinicamente muito expressivo frente ao placebo.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "4d0b177d72251ec9"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-28",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 28,
+    "text": "Concomitantemente, o segundo desfecho primário também foi atingido: uma proporção significativamente superior de participantes no grupo semaglutida apresentou uma redução de pelo menos um estágio na escala de fibrose hepática (por exemplo, regressão de F3 para F2 ou de F2 para F1) sem agravamento dos parâmetros de esteato-hepatite.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "ba9cad13d5c88b48"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-29",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 29,
+    "text": "A hipótese de que a semaglutida poderia modificar a progressão fisiopatológica da doença de Alzheimer foi testada no programa clínico global de fase 3 composto pelos ensaios clínicos EVOKE e EVOKE+.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e705650e93042157"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-30",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 30,
+    "text": "Os estudos foram desenhados como ensaios randomizados, duplo-cegos e controlados por placebo, englobando 3.808 pacientes com idade entre 55 e 85 anos com diagnóstico de doença de Alzheimer sintomática inicial — definida pela presença de comprometimento cognitivo leve (CCL) ou demência leve (escala CDR de 0,5 ou 1,0) — com evidência inequívoca de patologia amiloide confirmada por tomografia por emissão de pósitrons (PET) ou por análise de biomarcadores no líquido cefalorraquidiano (LCR).",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e705650e93042157"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-31",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 31,
+    "text": "O estudo EVOKE+ incluiu adicionalmente indivíduos com co-patologia vascular cerebral de pequenos vasos de magnitude controlada.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e705650e93042157"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-32",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 32,
+    "text": "Os participantes foram randomizados para semaglutida oral na dose-alvo de 14 mg diários ou placebo durante um período de tratamento principal de 104 semanas (2 anos), seguido por uma extensão de mais 52 semanas.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e705650e93042157"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-33",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 33,
+    "text": "Após a conclusão da fase principal de 104 semanas, os resultados de topo (top-line) dos estudos EVOKE e EVOKE+ demonstraram que a semaglutida oral não atingiu o desfecho primário de eficácia clínica pré-especificado.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e705650e93042157"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-34",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 34,
+    "text": "Não foi observada uma diferença estatisticamente significativa entre o grupo semaglutida e o grupo placebo na taxa de mudança da pontuação da escala Clinical Dementia Rating – Sum of Boxes (CDR-SB) a partir do basal.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e705650e93042157"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-35",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 35,
+    "text": "Ambas as coortes apresentaram deterioração cognitiva e funcional em taxas similares ao longo do período do estudo: no EVOKE, a alteração média na escala CDR-SB foi de 2,3 pontos no grupo semaglutida e de 2,3 pontos no grupo placebo (diferença estimada de -0,08; IC 95% incluindo o zero)",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e705650e93042157"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-36",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 36,
+    "text": "no EVOKE+, a variação foi de 2,2 pontos com semaglutida e de 2,1 pontos com placebo (diferença estimada de 0,10; IC 95% incluindo o zero).",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e705650e93042157"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-37",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 37,
+    "text": "A interpretação desses achados negativos nos desfechos clínicos primários em populações sintomáticas contrasta com análises proteômicas longitudinais anteriores derivadas do estudo SELECT, no qual um painel de 25 proteínas plasmáticas preditivo de risco de demência a longo prazo havia mostrado um perfil favorável com redução de risco estimado em 5 anos de 26%.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "e705650e93042157"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-38",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 38,
+    "text": "Enquanto a patologia amiloide apresentou resistência à modulação por GLP-1 em fases sintomáticas, a neuroproteção direcionada aos neurônios dopaminérgicos na doença de Parkinson demonstrou provas de conceito biológicas relevantes no ensaio clínico de fase 2 LixiPark, cujos resultados foram publicados no New England Journal of Medicine.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d028cc9ae1f893dd"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-39",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 39,
+    "text": "O estudo avaliou a lixisenatida — um agonista do receptor de GLP-1 que compartilha vias mecânicas com a semaglutida — em 156 pacientes com doença de Parkinson em estágio inicial (diagnóstico estabelecido há menos de 3 anos), em uso de doses estáveis de terapia dopaminérgica de substituição.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d028cc9ae1f893dd"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-40",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 40,
+    "text": "Os pacientes foram randomizados para lixisenatida subcutânea diária ou placebo durante 12 meses, seguidos de um período de lavagem de 2 meses sem medicação.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d028cc9ae1f893dd"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-41",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 41,
+    "text": "No desfecho primário do LixiPark, a alteração na escala motora MDS-UPDRS Parte III na fase on-medication na semana 52 revelou uma interrupção na progressão da incapacidade motora no grupo ativo.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "fc9713d18f2f7c49"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-42",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 42,
+    "text": "O grupo tratado com lixisenatida apresentou uma variação média de -0,04 pontos na pontuação motora (indicando estabilização dos sintomas), enquanto o grupo placebo deteriorou-se em 3,04 pontos (indicando progressão da doença), resultando em uma diferença média favorável ao tratamento de 3,08 pontos (IC 95%, 0,86 a 5,30; p = 0,007).",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "fc9713d18f2f7c49"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-43",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 43,
+    "text": "No acompanhamento do mês 14, após 2 meses de descontinuação total do fármaco (washout) e com os pacientes no estado off-medication, a diferença no escore motor entre os grupos permaneceu em 3,0 pontos a favor do tratamento ativo (17,7 no grupo lixisenatida versus 20,6 no grupo placebo), indicando que a melhoria não era um mero efeito sintomático passageiro, mas potencialmente decorrente de um efeito modificador da doença.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "d028cc9ae1f893dd"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-44",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 44,
+    "text": "No estudo SELECT, 66% dos participantes apresentavam pré-diabetes (caracterizado por HbA1c entre 5,7% e 6,4%) no momento da inclusão.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-45",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 45,
+    "text": "Ao longo de 104 semanas de tratamento, apenas 3,5% dos pacientes no grupo semaglutida progrediram para diabetes mellitus tipo 2 estabelecido (HbA1c ≥6,5%), em comparação com 12,0% dos participantes no grupo placebo, o que se traduziu em uma redução do risco relativo de progressão de 73% (HR 0,27; IC 95%, 0,24 a 0,31).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-46",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 46,
+    "text": "A avaliação do perfil de segurança da semaglutida em populações não diabéticas e diabéticas expostas a doses de até 2,4 mg semanal revela um padrão de tolerabilidade bem caracterizado, dominado por eventos adversos de origem gastrintestinal.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-47",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 47,
+    "text": "Nos grandes ensaios clínicos de desfechos cardiovasculares e renais, as manifestações adversas mais frequentemente reportadas foram náuseas, vômitos, diarreia, constipação e dispepsia.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-48",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 48,
+    "text": "No ensaio SELECT, o conjunto de complicações gastrintestinais foi registrado em 10,0% dos pacientes no braço semaglutida contra 2,0% no braço placebo (p < 0,001).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-49",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 49,
+    "text": "A taxa global de descontinuação prematura e permanente do fármaco do estudo decorrente de eventos adversos foi de 16,6% no grupo semaglutida em comparação com 8,2% no grupo placebo (p < 0,001).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-50",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 50,
+    "text": "No ensaio SELECT, a incidência de pancreatite aguda foi de 0,2% no grupo semaglutida e de 0,3% no grupo placebo (p = 0,28), demonstrando ausência de associação causal com o tratamento.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-51",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 51,
+    "text": "A taxa de insuficiência renal aguda foi de 1,9% com semaglutida contra 2,3% com placebo (p = 0,13), confirmando que o fármaco não induz nefrotoxicidade direta, sendo os episódios ocasionais de lesão renal agudizada secundários à desidratação grave decorrente de vômitos ou diarreia não geridos adequadamente.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-52",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 52,
+    "text": "A incidência de neoplasias malignas totais no ensaio SELECT foi equivalente entre os grupos (4,8% no grupo semaglutida versus 4,7% no grupo placebo; p = 0,92).",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-53",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 53,
+    "text": "Importante destacar que a taxa total de eventos adversos graves por qualquer causa foi estatisticamente menor no grupo tratado com semaglutida do que no grupo placebo (33,4% versus 36,4%; p < 0,001), um achado decorrente da substancial redução na incidência de complicações cardiovasculares graves, internações por insuficiência cardíaca e exacerbações da doença renal crônica.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "91b567181f732a42"
+    ]
+  },
+  {
+    "id": "semaglutina_saude_f104cab6ce12_20261102T184358Z-54",
+    "answer_id": "semaglutina_saude_f104cab6ce12_20261102T184358Z",
+    "position": 54,
+    "text": "No contexto do estudo LixiPark na doença de Parkinson, os eventos adversos mais comuns associados ao agonista de GLP-1 foram igualmente de natureza gastrintestinal, com náuseas afetando 46% dos pacientes no grupo lixisenatida contra 12% no placebo, e vômitos ocorrendo em 13% contra 3%.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "a9da6a400d337c25"
+    ]
+  }
+]

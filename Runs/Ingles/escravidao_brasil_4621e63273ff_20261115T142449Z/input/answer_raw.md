@@ -1,0 +1,353 @@
+# The Abolition of Slavery in Brazil (1888): Background and Consequences
+
+On May 13, 1888, Princess Imperial Regent Isabel sanctioned Imperial Law No. 3,353—popularly known as the Lei Áurea (Golden Law)—declaring slavery immediately and unconditionally extinguished across Brazil without financial compensation to slaveholders[1]. Spanning just two brief articles, the statute ended more than three centuries of legal bondage in the country that had imported more enslaved Africans than any other New World society and stood as the last Western nation to abolish the institution[1]. Rather than an isolated act of imperial philanthropy, emancipation resulted from decades of compounding pressures: British naval and diplomatic coercion, the 1850 termination of the transatlantic slave trade, demographic contraction, gradualist imperial laws, urban abolitionist mobilization, mass plantation desertions, and the Brazilian Army’s refusal to recapture fugitives[6]. By the time Parliament passed the law in five days, coercive slave discipline had already collapsed across key regions, leaving approximately 600,000 to 700,000 enslaved people—down from 723,419, or under 5 percent of the population, in 1887—to be freed by the decree[1].
+
+The consequences of abolition were profound, regionally asymmetrical, and deeply contradictory. Uncompensated emancipation alienated traditional agrarian elites—especially Paraíba Valley coffee planters—who withdrew support from the Crown and helped precipitate the military coup of November 15, 1889, that overthrew the monarchy and established the First Brazilian Republic[8]. Economically, the transition to free labor split along regional lines: western São Paulo’s expanding coffee frontier relied on state-subsidized European immigration and the colonato contract to consolidate national economic leadership, whereas older Paraíba Valley estates declined and much of the rural Northeast turned to sharecropping and dependent wage labor[11]. Above all, abolition occurred without agrarian reform, public education, or housing support, while republican literacy bars, racialized immigration restrictions, and penal provisions targeting vagrancy and Afro-Brazilian practices entrenched deep racial and social inequalities across the twentieth century[1].
+
+Understanding 1888 requires looking beyond parliamentary milestones to examine how Atlantic capitalism, regional labor regimes, elite statecraft, and enslaved resistance interacted over time. Long before 1888, enslaved men and women used self-purchase (pecúlio), judicial freedom suits, quilombos, and mass escapes to erode slavery from within, even as imperial statesmen enacted gradualist laws designed to protect planter authority[19]. Once those containment mechanisms failed in the late 1880s, Brazil extinguished legal bondage yet quickly erected new legal, political, and economic barriers that curtailed substantive citizenship for Afro-Brazilians[6].
+
+## Structural Foundations and the Transatlantic Slave Trade
+
+Enslaved African labor underpinned Brazil’s colonial and imperial economy for more than three centuries[3]. Established by 1549 under Brazil’s first governor, Tomé de Sousa, African bondage became the primary workforce on Northeastern sugar estates from the 1570s onward, even as Indigenous enslavement persisted on colonial frontiers into the eighteenth century[5]. Unlike northern European trades routed through metropolitan ports, Brazilian slaving relied largely on bilateral voyages directly linking Brazilian ports with Africa along South Atlantic winds and ocean currents[23]. Portuguese and Brazilian vessels trafficked an estimated 5,849,300 kidnapped Africans across the Atlantic era[25]. Within an overall transatlantic trade that forcibly embarked roughly 12.5 million captives—of whom about 10.7 million survived the Middle Passage—widely cited historical estimates indicate Brazil received roughly 4 million enslaved Africans, or around 40 percent of all captives shipped to the Americas, while 6,430 voyages with mortality records in the Voyages Database show an average shipboard death rate of 12.1 percent[5].
+
+For generations, Bahian and Pernambucan sugar plantations and the eighteenth-century gold mines of Minas Gerais absorbed most arrivals, turning Salvador into a heavily African city where roughly 60 percent of enslaved residents were African-born and enslaved people comprised 42 percent of nearly 70,000 inhabitants in the late 1830s[20]. After the colonial capital moved to Rio de Janeiro in 1763, however, southeastern ports surged ahead, making Rio the largest slaving port in the world[4]. University research cited in public reporting estimates that roughly two million enslaved Africans entered through Rio de Janeiro—with around one million disembarking at the Valongo Wharf—and nearly 300,000 perished during the voyage there[29]. By independence in 1822, over 70 percent of Brazil’s population consisted of Black or mixed-race people—enslaved, libertos, and free—and the Empire was organized explicitly as a slaveholding nation[25].
+
+Early nineteenth-century coffee expansion in the Paraíba do Sul River Valley, spanning Rio de Janeiro, São Paulo, and Minas Gerais, triggered the most intense wave of African imports in Brazilian history[20]. More than 1.8 million enslaved Africans arrived between 1801 and 1850—over one-third of all captives ever brought to Brazil—with nearly two-thirds of early-nineteenth-century arrivals landing in the Southeast[28]. Great Britain pressed for abolition early: an Anglo-Brazilian treaty of November 23, 1826, pledged to end the trade within three years, and on November 7, 1831, the Regency enacted the Lei Feijó, declaring free all Africans arriving from abroad and penalizing traffickers[4]. Yet after a three-year lull, coffee planters aligned with Conservative saquaremas revived systematic smuggling after 1835, turning the 1831 statute into an unenforced law mocked as "para inglês ver" ("for the English to see")[6]. Around 315,000 captives landed illegally along the Rio and São Paulo coasts between 1835 and 1850, and roughly 380,000 arrived nationwide during the 1840s, leaving Africans as 72 percent of the enslaved population and 49 percent of all inhabitants in Vassouras by 1850[6]. Faced with massive African workforces and rising fear of rebellion, planters also imposed strict landscape and spatial surveillance measures to curtail slave autonomy[34].
+
+Britain responded with the 1845 Aberdeen Act, empowering the Royal Navy to seize Brazilian slavers even in Brazilian waters and try crews for piracy[33]. Alongside British naval pressure and an 1849–1850 yellow fever epidemic, Brazilian statesmen enacted Law No. 581 on September 4, 1850—the Lei Eusébio de Queirós—formally prohibiting the Atlantic slave trade[33]. Bolstered by the 1854 Lei Nabuco de Araújo, enforcement suppressed large-scale contraband by 1856, though minor landings persisted into the early 1860s[35]. Crucially, Parliament paired the 1850 trade ban with Law No. 601, the Lei de Terras (Land Law), restricting public land acquisition to cash purchases in order to preserve latifúndios and prevent freedpeople and poor immigrants from acquiring independent farms[35]. Economic historians Guilherme Lambais and Nuno Palma show that ending the Atlantic supply broke Brazil’s long-standing "high-slave equilibrium," pushing up slave prices, concentrating captives in high-disamenity occupations, and allowing real wages for free unskilled workers to gradually recover and encourage labor-saving technical change[4].
+
+Shutting off African imports also spurred a massive domestic interprovincial slave trade[33]. Because harsh labor regimes and skewed sex ratios precluded natural population replacement, southeastern coffee estates bought captives from stagnating northeastern sugar zones and cities, alongside maritime intra-American and coastal slave transfers into Rio recorded through 1860[11]. Roughly 200,000 enslaved individuals were trafficked internally between 1850 and 1888, including 100,000 forced into the coffee Southeast between 1872 and 1881 alone, gradually draining slavery from the North and Northeast and weakening national elite cohesion over bondage[11].
+
+## Demographic Erosion, Gradualist Legislation, and Electoral Containment
+
+By the early 1870s, the cessation of African imports, high mortality, manumissions, and internal transfers had reshaped Brazil’s demographic structure. Conducted on August 1, 1872, partly to track the gradual contraction of the "servile element," Brazil’s first national census enumerated 9,930,478 residents (excluding 181,583 estimated inhabitants across 32 parishes not counted on schedule)[38]. Free residents totaled 8,419,672 (84.78 percent) and enslaved individuals numbered 1,510,806 (15.22 percent), while Black and pardo Brazilians combined made up roughly 58 percent of the total population[10]. The census also documented 176,057 African-born inhabitants (138,358 enslaved and 37,699 freed), 382,132 foreigners, a 99.7 percent Catholic population, and an 82 percent illiteracy rate among residents aged six and above[38].
+
+Regional census figures revealed sharp geographic concentration in slaveholding[39]. Summing the five southeastern jurisdictions—Minas Gerais (370,459 enslaved, or 18.16 percent of its population), Rio de Janeiro province (292,637, or 37.39 percent), São Paulo (156,612, or 18.71 percent), the Neutral Municipality of Rio de Janeiro (48,939, or 17.80 percent), and Espírito Santo (22,659, or 27.59 percent)—accounts for 891,306 enslaved people, or 59.0 percent of the Empire’s entire enslaved population[39]. By contrast, Bahia held 167,824 enslaved residents (12.16 percent) and Pernambuco 89,028 (10.58 percent), while Ceará counted only 31,913 (4.42 percent) and Amazonas just 979 (1.70 percent)[39]. Fearing that excessive regional concentration would erode national political support for slavery, São Paulo even taxed incoming captives from other provinces[11].
+
+Confronted with international isolation—as Haiti (1803), Chile and Colombia (1823), Central America (1824), and other American republics had already abolished slavery—Conservative Prime Minister Viscount of Rio Branco pushed through Law No. 2,040 on September 28, 1871, the Lei do Ventre Livre (Free Womb Law), sanctioned by Princess Isabel during her first regency[1]. Echoing gradualist ideas presented in 1823 by José Bonifácio de Andrada e Silva, the law declared legally free all children (ingênuos) born to enslaved women from that date forward[33]. Yet it heavily favored slaveholders by keeping ingênuos under masters’ custody and unpaid labor until age 21 unless redeemed or surrendered to the state, prompting Senator Ottoni to denounce them as de facto slaves until adulthood while opponents such as Senator Viscount of Itaboraí warned that housing free youths alongside enslaved parents would incite plantation rebellions[35].
+
+Despite these compromises, the 1871 statute created legal openings that enslaved people actively seized. It instituted a nationwide slave registry (matrícula), created a state Fundo de Emancipação (regulated by Decree No. 5,135 of November 13, 1872, and operating from April 1873), legally recognized enslaved persons’ right to hold pecúlio (savings) and contract third-party labor for self-purchase, barred the separate sale of spouses and children under 12, and repealed colonial Ordenações rules allowing masters to revoke manumission for "ingratitude"[21]. Enslaved people pressed emancipation boards and filed courtroom freedom suits (ações de liberdade)—such as Simplício Manoel in Recife, who obtained a judicial reappraisal and purchased his freedom in 1882[19]. These legal actions built on urban practices in which Salvador’s enslaved ganhadores organized ethnic street-corner crews (cantos) and Rio’s enslaved domestic workers and street vendors (quitandeiras) accumulated earnings to purchase freedom for themselves and their children[5].
+
+Alarmed by an expanding free nonwhite majority, political elites preemptively curtailed suffrage before emancipation arrived. On January 9, 1881, Law No. 3,029—the Lei Saraiva—introduced direct elections while tightening enforcement of the 200-mil-réis minimum income rule and barring illiterate men from voting[44]. Given Brazil’s 82 percent illiteracy rate, excluding non-literate men stripped political participation from poor free citizens and prospective freedpeople alike[38]. Official electoral statistics show registered voters fell roughly 87 percent, from 1,114,066 before the reform to 145,000 afterward—just 1.5 percent of the population—keeping voter turnout trapped between 0.8 percent and around 5 percent of Brazilians through 1930[18].
+
+When Senator Sousa Dantas backed uncompensated emancipation proposals in 1884, parliamentary pushback produced a narrower compromise in 1885: the Lei dos Sexagenários (Saraiva-Cotegipe Law)[6]. It freed enslaved people aged 60 and older, yet mandated three additional years of unpaid labor up to age 65 as indemnity (unless redeemed at up to half the inflated valuation for ages 55 to 60), required five years of local residency outside provincial capitals, and outlawed the interprovincial slave trade[14]. Few captives survived harsh conditions past 60, though defenders such as Baron of Cotegipe maintained that the 1871 and 1885 laws put slavery on a peaceful path toward natural extinction around 1930[6]. Instead, Parliament’s abolition of judicial flogging (pena de açoites) in October 1886—a step described by Senate historians as a "rehearsal" for emancipation—stripped owners and courts of legal corporal terror while registered slave numbers dropped from 1,510,806 in 1872 (and roughly 1.6 million in the initial registry) to 1,211,946 in 1883 and 723,419 in the final matrícula closed on March 30, 1887[1].
+
+## Abolitionist Mobilization, Provincial Liberations, and Enslaved Agency
+
+During the 1880s, a dynamic abolitionist coalition dismantled slavery on the ground faster than Parliament could legislate[7]. In São Paulo, formerly enslaved lawyer, poet, journalist, and Freemason Luís Gama—sold into bondage by his own father as a child before winning freedom and publishing Primeiras trovas burlescas de Getulino in 1859—invoked the 1831 Lei Feijó in court to liberate over 500 enslaved people[50]. In Rio de Janeiro, Pernambuco aristocrat Joaquim Nabuco founded the Sociedade Brasileira contra a Escravidão in 1880 and published O Abolicionismo (1883), attacking slavery as a moral crime and barrier to progress while preferring moderate monarchical reform[1]. Conversely, Afro-Brazilian journalist José do Patrocínio—son of an enslaved African woman and famed as the "Tiger of Abolition"—used Gazeta da Tarde and Cidade do Rio to mobilize street crowds and forge a sovereign-populace alliance for immediate abolition[10]. Alongside them, Afro-Brazilian engineer André Rebouças co-founded the Sociedade Brasileira contra a Escravidão and championed public education alongside democracia rural (land reform)[52].
+
+On August 11, 1883, Patrocínio, João Clapp, and allied activists united local clubs into the Confederação Abolicionista[46]. Urban mobilization infused daily life with rallies, benefit teas, plays, Carnival parades, "Ave Libertas" wine, and white camellias cultivated in abolitionist homes and urban quilombos and even worn by Princess Isabel[7]. When hostile governments restricted public meetings around 1885, activists turned to direct civil disobedience, funding clandestine refuges (acoitamento) and cross-provincial escape networks[49].
+
+Northern provinces achieved the earliest breakthroughs. In Ceará, severe droughts between 1845 and 1870 had pushed farmers and ranchers to rely on free mixed-race sharecroppers and wage workers, leaving enslaved people at just 4.42 percent of the 1872 population[15]. Uniting professionals, women, clergy, freedpeople, and Black and mixed-race jangadeiros (raftsmen) who refused to load captives onto coastal slave ships, Ceará’s "Cearense system" abolished provincial slavery on March 25, 1884, turning the "Land of Light" into a sanctuary for runaways from Pernambuco and elsewhere[7]. On July 10, 1884, Amazonas—aided by its tiny enslaved population and Masonic campaigning via the Sociedade Emancipadora Amazonense—became the second slave-free province, followed by municipal liberations in Porto Alegre (1884), Santos (1886), and São Paulo city (February 1888)[7].
+
+Direct resistance soon overwhelmed São Paulo’s coffee belt. Militants helped enslaved workers flee estates across Rio’s interior and Campinas[9]; historical and political accounts identify these underground networks as the Caifazes, who guided mass walkouts toward Santos and Quintino de Lacerda’s Quilombo do Jabaquara[55]. When Campinas planters petitioned the government in 1887 to send the Army after fugitives, officers proud of their Paraguayan War service—where Black soldiers and freed captives had fought—recoiled from acting as slave hunters[9]. In October 1887, the Clube Militar, led by General Deodoro da Fonseca, petitioned Princess Isabel warning against obstructing abolition and refusing military slave-catching[9]. With the Catholic Church withdrawing support by 1887 amid Pope Leo XIII’s public criticism of slavery, European nations barring emigration to slaveholding Brazil, and many individual owners preemptively emancipating captives, segments of western São Paulo’s planter elite accepted immediate abolition to stabilize labor and prevent insurrection[11].
+
+## The May 1888 Parliamentary Crisis and the Golden Law
+
+By early 1888, slavery was collapsing across plantations, yet Conservative Prime Minister Baron of Cotegipe stalled abolition bills while Emperor Dom Pedro II received diabetes treatment in Europe, leaving Princess Isabel in her third regency[8]. Determined to break the deadlock, Isabel engineered a cabinet rupture in March 1888 by demanding that Cotegipe fire Rio’s police chief after a street incident; Cotegipe resigned, allowing her to appoint Pernambuco Conservative Senator João Alfredo as Prime Minister[8]. Viewing immediate emancipation as essential to avert civil war, João Alfredo pledged to enact reform with "conservative spirit and process"[8].
+
+Events unfolded over five days. In her Fala do Trono on May 3, 1888, Isabel urged action while Patrocínio and Rui Barbosa addressed crowds outside[8]. On May 8, Agriculture Minister Rodrigo Augusto da Silva introduced the two-article bill in the Chamber of Deputies, where crowded galleries prompted pro-slavery deputy Andrade Figueira of Rio de Janeiro to complain that Parliament resembled a "circo de cavalinhos" ("small circus")[1]. On May 10, deputies approved the bill 83 to 9 (finalized by acclamation)³. Sent to the Senate on May 11, the text received committee approval in five minutes and entered floor debate on May 12 and Sunday, May 13[1].
+
+Pro-slavery senators raised economic fears and property rights objections in the final debate. Senator Paulino de Souza of Rio de Janeiro defended the Paraíba Valley as "the workshop of national wealth" and cited constitutional protections against expropriation without prior compensation before yielding so as not to delay a "lady of such high hierarchy"[8]. Cotegipe predicted grave disruption across São Paulo, Minas Gerais, Rio, and Bahia, invoked post-abolition bloodshed in Peru, and warned that abolishing slave property "by a stroke of the pen" would invite demands to expropriate latifúndios[8]. Senator Sousa Dantas countered that 800,000 enslaved people had left bondage over the prior 17 years while national wealth and public revenue grew, arguing that freeing roughly 600,000 remaining captives would increase prosperity through free labor[8]. Historical sources vary slightly on final Senate dissent—citing one, two, or five negative votes—but the bill passed overwhelmingly on May 13, 1888, and Isabel signed it with a gold pen at the Paço da Cidade before roughly 5,000 jubilant citizens as Joaquim Nabuco proclaimed slavery ended[1]. Pope Leo XIII subsequently honored Isabel with the Golden Rose and knighted Rodrigo Silva[48].
+
+## Political Rupture and Divergent Labor Regimes
+
+Dantas’s fiscal optimism held, yet Cotegipe’s warning of political rupture proved accurate: uncompensated abolition fatally weakened the monarchy[8]. Alienated by the unindemnified loss of slave property, Paraíba Valley elites deserted the Crown, while dynamic planters in western São Paulo were already pivoting toward free immigrant labor and republican federalism[8]. On November 15, 1889, a military coup led by Marshal Deodoro da Fonseca and supported by agrarian and financial elites deposed Dom Pedro II and proclaimed the First Republic[8]. The abolitionist coalition splintered immediately: Patrocínio—who had earlier promoted the Guarda Negra militia of freedpeople to shield Isabel from republican rallies—drafted Rio’s municipal republican proclamation, yet later had his paper shut down and was deported to Cucuí under President Floriano Peixoto[12]. Former slaveholders repeatedly introduced republican bills (such as Project No. 10) demanding public-bond compensation, all failing, while a republican cabinet minister initiated the burning of slave tax and registry records to block claims—declaring that only former slaves merited indemnity, though modern researchers note the destruction caused an "erasure of black memory"[14].
+
+In agriculture, abolition produced sharply contrasting regional transitions[11]. Before 1888, European states banned emigration to slaveholding Brazil, and early 1850s wage experiments stalled when free workers rejected low pay or working alongside enslaved laborers[11]. Anticipating abolition, São Paulo opened the Hospedaria dos Imigrantes in 1881 and funded full family travel subsidies in 1884, drawing roughly 150,000 immigrants during 1887–1888 (per Bosi 1992, cited in post-abolition scholarship)[11]. Once the Golden Law lifted diplomatic barriers, European immigration surged into São Paulo on a scale rivaling its earlier African arrivals, propelling São Paulo to economic dominance during the Old Republic (1889–1930)[11]. Planters and immigrant families adopted the colonato contract, combining salaries for coffee-tree care, piece-rate harvest wages, and essential rights to plant subsistence food crops among coffee rows or on plots and sell surpluses locally[11].
+
+By contrast, older, less productive Paraíba Valley estates lacked capital for competitive wages, turning toward sharecropping (parceria) and entering long-term structural decline[11]. Across much of the rural Northeast and interior—where provinces like Ceará had earlier shifted toward free mixed-race workers paid in crop shares or wages after mid-century droughts—monopolized landownership left many freedpeople trapped in precarious sharecropping or quasi-servile dependency[6]. Over the longer run, Lambais and Palma’s wage series covering 1574–1920 indicate that breaking coercive labor—begun in 1850 and completed in 1888—finally allowed unskilled real wages to recover upward momentum and spurred technical innovation, even though public subsidies favored European immigrants over Black Brazilians[4].
+
+## Exclusionary Citizenship, Racialized Policy, and Historiographical Legacy
+
+The sharpest social legacy of 1888 lay in what the Golden Law omitted. Although André Rebouças and Joaquim Nabuco urged pairing abolition with land distribution (democracia rural) and public education, planters, republicans, and moderate abolitionists blocked agrarian reform[1]. Combined with the 1850 Land Law’s restriction of public land to cash purchases, the lack of education, housing, or job-training programs left hundreds of thousands of freedpeople economically vulnerable[6]. Dependent mostly on non-governmental organizations rather than state support, many remained on estates under servile-like terms or moved to cities, crowding into early favelas and precarious settlements[6].
+
+The early Republic reinforced racial exclusion through federal statutes. On June 28, 1890, Provisional Government Decree No. 528 (Lei Glicério) opened Brazilian ports to able-bodied immigrants while explicitly excluding natives of Asia or Africa unless specially authorized by Congress—legislation scholars identify as a cornerstone of branqueamento ("whitening") that sidelined Afro-Brazilians in formal labor markets[16]. Simultaneously, the 1890 Republican Penal Code (Decree No. 847), issued under Deodoro da Fonseca, criminalized vagrancy (vadiagem) and prohibited capoeira in public streets under Article 402—measures researchers note targeted Black freedpeople directly[6].
+
+Politically, the Republic perpetuated the literacy disenfranchisement of the 1881 Lei Saraiva. Through Decree No. 6 of November 19, 1889, and Article 72 of the 1891 Constitution—despite declaring legal equality—lawmakers kept women and illiterate citizens barred from voting, and ordinary laws in 1904 and 1916 further restricted registration until illiterate citizens regained voting rights in 1985 and 1988[17]. Afro-Brazilians nonetheless mobilized persistently, from Quintino de Lacerda’s 1895 election as Brazil’s first Black city councilor in Santos and the Revolta da Chibata—which ended corporal punishment of Black sailors—to civic groups such as the Associação do Negro Brasileiro and Comitê Democrático Afro-Brasileiro[6]. Modern Black movements also challenged May 13 celebrations in favor of November 20 (Black Consciousness Day) to honor Black resistance, while observers note illegal slave-like labor still persists in Brazil today[1].
+
+These contradictions reshaped Brazilian social thought and historiography. Mid-twentieth-century interpretations linked to Gilberto Freyre’s concept of "racial democracy" helped counter biological racism yet fostered a persistent myth of racial harmony that masked deep inequalities[64]. In his landmark 1964 study A integração do negro na sociedade de classes, sociologist Florestan Fernandes critiqued that thesis, showing how abrupt abolition without social integration consigned Afro-Brazilians to the margins of class society[64]. Subsequent historians—including Leslie Bethell, Emília Viotti da Costa, Robert Conrad, Kátia de Queiroz Mattoso, Sidney Chalhoub, Robert Slenes, Luiz Felipe de Alencastro, Rafael de Bivar Marquese, and João José Reis—overturned narratives portraying May 13 as a top-down royal gift[20]. Taken together, modern scholarship shows that abolition in 1888 grew out of British pressure, regional economic shifts, civic mobilization, and—above all—enslaved peoples’ relentless resistance, even as post-abolition institutions left the struggle for full citizenship unfinished[6].
+
+## References
+
+Assinada a Lei Áurea de abolição da escravidão — Ensinar História. https://ensinarhistoria.com.br/linha-do-tempo/assinada-a-lei-aurea/
+
+Legislação Informatizada - Lei nº 3.353, de 13 de maio de 1888 (Publicação Original) — Câmara dos Deputados. https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html
+
+Edição comemorativa dos 120 anos da Lei Áurea – Jornal do Senado — Senado Federal. https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?sequence=7&isAllowed=y
+
+African Slavery and the Reckoning of Brazil (Guilherme Lambais and Nuno Palma, Lewis Lab Working Paper 2023-01, updated 2025). https://iepecdg.com.br/wp-content/uploads/2025/11/LewisLab_WP1-.pdf
+
+Slavery in Brazil — Wikipedia. https://en.wikipedia.org/wiki/Slavery_in_Brazil
+
+Negros no Brasil: A demorada libertação — Senado Notícias. https://www12.senado.leg.br/noticias/infograficos/2017/12/negros-no-brasil-a-demorada-libertacao
+
+O 25 de março no Ceará e suas repercussões — Revista Historiar (UVA). https://historiar.uvanet.br/index.php/1/article/download/273/pdf/546
+
+Senado e Câmara aprovaram Lei Áurea em 5 dias — Senado Notícias. https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias
+
+Estudos Históricos sobre Rui Barbosa — Fundação Casa de Rui Barbosa. https://www.gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/publicacoes/pdfs/estudos-historicos-sobre-rui-barbosa-ocr-1.pdf
+
+Pós-abolição no Brasil — Wikipédia. https://pt.wikipedia.org/wiki/P%C3%B3s-aboli%C3%A7%C3%A3o_no_Brasil
+
+The Old Republic, 1889–1930 — Cambridge University Press. https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/3EA4D0ED3667ECE30B82609F0E1C6D02/9781107337046c1_p1-81_CBO.pdf/old_republic_18891930.pdf
+
+José do Patrocínio, o abolicionista que proclamou a República — Primeiros Negros. https://primeirosnegros.com/jose-do-patrocinio/
+
+As brigas e as cifras por trás do golpe de 1889 — Revista Piauí. https://piaui.uol.com.br/web/proclamacao-republica-brigas-exercito-fazendeiros/
+
+Abolitionism in Brazil — Wikipedia. https://en.wikipedia.org/wiki/Abolitionism_in_Brazil
+
+Land of Light: Slavery, Freed People, and Abolitionism in Ceará, Brazil, 1845–1888 (Licinio Nunes de Miranda) — ResearchGate. https://www.researchgate.net/publication/387895797_Land_of_Light_Slavery_Freed_People_and_Abolitionism_in_Ceara_Brazil_1845-1888
+
+Controle e embranquecimento do mercado de trabalho livre: Decreto nº 528, de 28 de junho de 1890 — Linha de Cor. https://www.linhadecor.com/verbetes/ano_1890/verbete3
+
+Proibição do voto para quem não sabia ler e escrever: Decreto nº 6, de 19 de novembro de 1889 — Linha de Cor. https://www.linhadecor.com/verbetes/ano_1889
+
+A dissimulada arte de produzir exclusões: as reformas que encolheram o eleitorado brasileiro (1881-1930) (Felipe Azevedo e Souza) — Revista de História (USP). https://revistas.usp.br/revhistoria/article/view/166560/176870
+
+Lei Áurea: 128 anos da abolição da escravatura e a ação de liberdade — Migalhas. https://www.migalhas.com.br/quentes/239130/lei-aurea--128-anos-da-abolicao-da-escravatura-e-a-acao-de-liberdade
+
+Mecila Working Paper Series No. 36 (João José Reis, 2021). https://mecila.net/wp-content/uploads/2021/05/WP_Joao_Reis_36.pdf
+
+O Fundo de Emancipação de Escravos e a Lei do Ventre Livre — Universidade Federal Fluminense. https://www.historia.uff.br/stricto/td/456.pdf
+
+The dynamics of slavery in Brazil: Resistance, the slave trade and manumission in the 17th to 19th centuries (Rafael de Bivar Marquese) — Novos Estudos CEBRAP / SciELO. https://socialsciences.scielo.org/scielo.php?script=sci_arttext&pid=S0101-33002006000200004
+
+Introductory Maps to the Transatlantic Slave Trade — SlaveVoyages. https://www.slavevoyages.org/blog/introductory-maps-to-the-transatlantic-slave-trade/150
+
+Estimates Methodology — Voyages: The Trans-Atlantic Slave Trade Database. https://www.slavevoyages.org/static/uploads/2010estimates-method.pdf
+
+The Transatlantic Slave Trade: Origins — Equal Justice Initiative. https://eji.org/report/transatlantic-slave-trade/origins/
+
+Liberated Africans and the Suppression of the Transatlantic Slave Trade (Richard Anderson et al.) — eScholarship. https://escholarship.org/content/qt36c5d487/qt36c5d487.pdf?v=lg
+
+The Trans-Atlantic Slave Trade Database — SlaveVoyages. https://www.slavevoyages.org/blog/the-transatlantic-slave-trade-database/166
+
+The Valley of Coffee & Slavery (Theresa Edwards, 2023) — ArcGIS StoryMaps. https://storymaps.arcgis.com/stories/9e0db7953b0b49f89c518c35f177aad8
+
+Rio de Janeiro commemorates enslaved Africans at the wharf where a million disembarked — EL PAÍS English. https://english.elpais.com/international/2023-11-27/rio-de-janeiro-commemorates-enslaved-africans-at-the-wharf-where-a-million-disembarked.html
+
+Research Indicates that Rio Received Two Million Enslaved Africans — RioOnWatch. https://rioonwatch.org/?p=21879
+
+Slavery and Freedom in Nineteenth-Century Brazil (The Boundaries of Freedom) — Cambridge University Press. https://www.cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/A6A7A85ADEFE9185B79F94E76AEBC485
+
+African Diaspora, Slavery, and the Paraíba Valley Coffee Plantation Landscape: Nineteenth-Century Brazil (Rafael de Bivar Marquese, 2008) — ResearchGate. https://www.researchgate.net/publication/289945387_African_diaspora_slavery_and_the_Paraiba_Valley_coffee_plantation_landscape_Nineteenth-century_Brazil
+
+130 Anos da Abolição da Escravatura: Catálogo de Exposição — Arquivo do Senado Federal. https://www12.senado.leg.br/institucional/museu/exposicoes/130-anos-da-abolicao-da-escravatura/galeria/catalogo/manual-do-arquivo-para-usuarios-site-arquivo.pdf
+
+African diaspora, slavery and the landscape of coffee plantation areas in the 19th century Paraíba Valley (Rafael de Bivar Marquese) — Almanack Braziliense (USP). https://revistas.usp.br/alb/en/article/view/11686
+
+6 leis sobre escravidão sancionadas antes da Lei Áurea — Estratégia Vestibulares. https://vestibulares.estrategia.com/portal/materias/historia/6-leis-sobre-escravidao-sancionadas-antes-da-lei-aurea/
+
+Glossary — Voyages: The Trans-Atlantic Slave Trade Database. https://www.slavevoyages.org/blog/glossary/178
+
+Intra-American Traffic of Enslaved People to Rio de Janeiro — Journal of Slavery and Data Preservation. https://jsdp.enslaved.org/assets/downloaded/40-59-58/TEPRJ_Article_20230523.pdf
+
+1º Censo do Brasil, feito há 150 anos, contou 1,5 milhão de escravizados — Senado Notícias. https://www12.senado.leg.br/noticias/especiais/arquivo-s/1o-censo-do-brasil-feito-ha-150-anos-contou-1-5-milhao-de-escravizados
+
+Censo demográfico do Brasil de 1872 — Wikipédia. https://pt.wikipedia.org/wiki/Censo_demogr%C3%A1fico_do_Brasil_de_1872
+
+População escrava do Brasil é detalhada em Censo de 1872 — Fundação Cultural Palmares. https://www.gov.br/palmares/pt-br/assuntos/noticias/populacao-escrava-do-brasil-e-detalhada-em-censo-de-1872
+
+Fazendeiros tentaram impedir aprovação da Lei do Ventre Livre — Senado Notícias. https://www12.senado.leg.br/noticias/especiais/arquivo-s/fazendeiros-tentaram-impedir-aprovacao-da-lei-do-ventre-livre
+
+1971 Study on Brazilian Abolitionist Legislation and the Lei do Ventre Livre — Marxists Internet Archive. https://www.marxists.org/portugues/carneiro/1971/mes/40.pdf
+
+Fim da pena de açoite foi "ensaio" para abolição da escravidão — Senado Notícias. https://www12.senado.leg.br/noticias/especiais/arquivo-s/fim-da-pena-de-acoite-foi-ensaio-para-abolicao-da-escravidao
+
+Educação, classe, gênero e voto no Brasil imperial: Lei Saraiva - 1881 — Educar em Revista (SciELO). https://www.scielo.br/j/er/a/bZGMg7ZCM6fGj8HQTXVtZWP/?lang=pt
+
+Estudo sobre a Lei Saraiva (1881), educação e proibição do voto dos analfabetos (Alexandre Barbosa Petermann) — Revista Estudos Eleitorais (TSE). https://revistaeje.tse.jus.br/estudoseleitorais/article/download/99/72/301
+
+Banquete dado pela Confederação Abolicionista em homenagem à libertação do Amazonas (1884) — Biblioteca Brasiliana Guita e José Mindlin (USP). https://digital.bbm.usp.br/handle/bbm/5218
+
+Arquivo do Senado Federal — Difusão (Lei dos Sexagenários e Lei Áurea). https://www12.senado.leg.br/institucional/arquivo/difusao
+
+Lei Áurea — Wikipédia. https://pt.wikipedia.org/wiki/Lei_%C3%81urea
+
+Escravo e abolicionista — Pesquisa FAPESP. https://revistapesquisa.fapesp.br/escravo-e-abolicionista/
+
+Abolição, República e José do Patrocínio — Universidade Federal Fluminense. https://www.historia.uff.br/stricto/td/1464.pdf
+
+Estudo sobre o movimento abolicionista, André Rebouças e Joaquim Nabuco — Repositório Institucional UNIFESP. https://repositorio.unifesp.br/bitstreams/e0e27a64-aded-4e92-beb0-9e47fb48ab5a/download
+
+Democracia rural, André Rebouças e o Clube Militar — Almanack (SciELO). https://www.scielo.br/j/alm/a/4npGHrD9hk5h3xwtGLJyVQm/?format=pdf&lang=pt
+
+Confederação Abolicionista — Wikipédia. https://pt.wikipedia.org/wiki/Confedera%C3%A7%C3%A3o_Abolicionista
+
+Abolição da Escravatura no Amazonas em 10.07.1884 — Associação Comercial do Amazonas. https://aca.org.br/abolicao-da-escravatura-no-amazonas-em-10-07-1884/
+
+Os Caifazes e o Quilombo do Jabaquara — Diário Causa Operária. https://causaoperaria.org.br/2026/os-caifazes-e-o-quilombo-do-jabaquara-2/
+
+Abolição e o Clube Militar — Folha de S.Paulo (April 4, 1998). https://www1.folha.uol.com.br/fsp/1998/4/04/dinheiro/4.html
+
+Slavery in Brazil — Wilson Center. https://www.wilsoncenter.org/blog-post/slavery-brazil
+
+Slavery and Abolition (Five Centuries of Change) — Brown University Library. https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-3/slavery-and-aboliton/
+
+Post-Abolition Legal and Social Implications in Brazil — EJIST. https://ejist.ro/files/pdf/435.pdf
+
+Fim da escravidão gera medidas de apoio à imigração no Brasil — UOL Educação. https://vestibular.uol.com.br/resumo-das-disciplinas/historia-do-brasil/fim-da-escravidao-gera-medidas-de-apoio-a-imigracao-no-brasil.htm
+
+Decreto nº 528, de 28 de junho de 1890 — Câmara dos Deputados. https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-528-28-junho-1890-506935-norma-pe.html
+
+Questão UFPEL 2008 sobre o Decreto nº 528 de 28 de junho de 1890 — Estratégia Vestibulares. https://vestibulares.estrategia.com/public/questoes/Texto-1-Decreto-no-528196880f24b0/
+
+Por 100 anos, analfabeto foi proibido de votar no Brasil — Senado Notícias. https://www12.senado.leg.br/noticias/materias/2016/11/04/por-100-anos-analfabeto-foi-proibido-de-votar-no-brasil
+
+Democracia e democracia racial no Brasil — Revista Historiador. https://revistahistoriador.com.br/index.php/principal/article/download/142/148
+
+Democracia Racial: Gilberto Freyre X Florestan Fernandes — YouTube Lecture Commentary. https://www.youtube.com/watch?v=CfHkG2hTIBU
+
+Florestan Fernandes: questão racial e conservadorismo — Blog do IBRE (FGV). https://blogdoibre.fgv.br/posts/florestan-fernandes-questao-racial-e-conservadorismo
+
+Florestan Fernandes e a integração do negro na sociedade de classes — Revista Brasileira do Caribe (UFMA). https://periodicoseletronicos.ufma.br/index.php/rbrascaribe/article/download/24915/14110/92588
+
+Programa de Disciplina FLH5910: Abolição e influência britânica — Universidade de São Paulo (USP). https://uspdigital.usp.br/janus/publico/disciplina/FLH5910
+
+A abolição da escravatura no Brasil (Alessandro Martins Gomes) — Universidade de Évora. https://dspace.uevora.pt/rdpc/bitstream/10174/27854/1/Doutoramento-Hist%C3%B3ria_Contempor%C3%A2nea-Alessandro_Martins_Gomes-A_aboli%C3%A7%C3%A3o_da_escravatura_no_Brasil....pdf
+
+Caderno Especial 2005 — Fundação Alexandre de Gusmão (FUNAG). https://funag.gov.br/loja/download/0298_caderno_especial_2005.pdf
+
+#### Referências citadas
+
+Assinada a Lei Áurea de abolição da escravidão - Ensinar História, https://ensinarhistoria.com.br/linha-do-tempo/assinada-a-lei-aurea/
+
+Portal da Câmara dos Deputados, https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html
+
+ASSINADA A LEI ÁUREA - Senado Federal, https://www2.senado.leg.br/bdsf/bitstream/handle/id/190819/encarteabolicao.pdf?sequence=7&isAllowed=y
+
+African Slavery and the Reckoning of Brazil - IEPE / Casa das Garças, https://iepecdg.com.br/wp-content/uploads/2025/11/LewisLab_WP1-.pdf
+
+Slavery in Brazil - Wikipedia, https://en.wikipedia.org/wiki/Slavery_in_Brazil
+
+Negros no Brasil: a demorada libertação - Lei Feijó - Senado Federal, https://www12.senado.leg.br/noticias/infograficos/2017/12/negros-no-brasil-a-demorada-libertacao
+
+o 25 de março de 1884 no ceará e a luta pela libertação dos, https://historiar.uvanet.br/index.php/1/article/download/273/pdf/546
+
+https://www12.senado.leg.br/noticias/especiais/arquivo-s/senado-e-camara-aprovaram-lei-aurea-em-5-dias/senado-e-camara-aprovaram-lei-aurea-em-5-dias
+
+Estudos Históricos sobre Rui Barbosa, https://www.gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/publicacoes/pdfs/estudos-historicos-sobre-rui-barbosa-ocr-1.pdf
+
+Pós-abolição no Brasil – Wikipédia, a enciclopédia livre, https://pt.wikipedia.org/wiki/P%C3%B3s-aboli%C3%A7%C3%A3o_no_Brasil
+
+The Old Republic, 1889–1930, https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/3EA4D0ED3667ECE30B82609F0E1C6D02/9781107337046c1_p1-81_CBO.pdf/old_republic_18891930.pdf
+
+José do Patrocínio, o abolicionista que proclamou a República, https://primeirosnegros.com/jose-do-patrocinio/
+
+As brigas e as cifras por trás do golpe de 1889 - revista piauí - UOL, https://piaui.uol.com.br/web/proclamacao-republica-brigas-exercito-fazendeiros/
+
+Abolitionism in Brazil - Wikipedia, https://en.wikipedia.org/wiki/Abolitionism_in_Brazil
+
+Slavery, Freed People, and Abolitionism in Ceará, Brazil, 1845–1888, https://www.researchgate.net/publication/387895797_Land_of_Light_Slavery_Freed_People_and_Abolitionism_in_Ceara_Brazil_1845-1888
+
+controle e embranquecimento do mercado de trabalho livre, https://www.linhadecor.com/verbetes/ano_1890/verbete3
+
+1889 proibição do voto para quem não sabia ler e escrever, https://www.linhadecor.com/verbetes/ano_1889
+
+as reformas que encolheram o eleitorado brasileiro (1881-1930), https://revistas.usp.br/revhistoria/article/view/166560/176870
+
+Lei Áurea: 128 anos da abolição da escravatura e a ação de liberdade, https://www.migalhas.com.br/quentes/239130/lei-aurea--128-anos-da-abolicao-da-escravatura-e-a-acao-de-liberdade
+
+Slaves Who Owned Slaves in Nineteenth-Century Bahia, Brazil, https://mecila.net/wp-content/uploads/2021/05/WP_Joao_Reis_36.pdf
+
+A libertação gradual e a saída viável, https://www.historia.uff.br/stricto/td/456.pdf
+
+The dynamics of slavery in Brazil: resistance, the slave trade and, https://socialsciences.scielo.org/scielo.php?script=sci_arttext&pid=S0101-33002006000200004
+
+Introductory Maps to the Transatlantic Slave Trade, https://www.slavevoyages.org/blog/introductory-maps-to-the-transatlantic-slave-trade/150
+
+Estimates of the Size and Direction of Transatlantic Slave Trade, https://www.slavevoyages.org/static/uploads/2010estimates-method.pdf
+
+Origins - The Transatlantic Slave Trade, https://eji.org/report/transatlantic-slave-trade/origins/
+
+The Trans-Atlantic Slave Trade Database - Slave Voyages, https://www.slavevoyages.org/blog/the-transatlantic-slave-trade-database/166
+
+Using African Names to Identify the Origins of Captives in ... - UC Irvine, https://escholarship.org/content/qt36c5d487/qt36c5d487.pdf?v=lg
+
+The Valley of Coffee & Slavery - ArcGIS StoryMaps, https://storymaps.arcgis.com/stories/9e0db7953b0b49f89c518c35f177aad8
+
+Rio de Janeiro commemorates enslaved Africans at the wharf where, https://english.elpais.com/international/2023-11-27/rio-de-janeiro-commemorates-enslaved-africans-at-the-wharf-where-a-million-disembarked.html
+
+Research Indicates that Rio Received Two Million Enslaved Africans, https://rioonwatch.org/?p=21879
+
+Slavery and Freedom in Nineteenth-Century Brazil (Introduction), https://www.cambridge.org/core/books/boundaries-of-freedom/slavery-and-freedom-in-nineteenthcentury-brazil/A6A7A85ADEFE9185B79F94E76AEBC485
+
+(PDF) African diaspora, slavery, and the Paraiba Valley coffee, https://www.researchgate.net/publication/289945387_African_diaspora_slavery_and_the_Paraiba_Valley_coffee_plantation_landscape_Nineteenth-century_Brazil
+
+Catalogação - Senado Federal, https://www12.senado.leg.br/institucional/museu/exposicoes/130-anos-da-abolicao-da-escravatura/galeria/catalogo/manual-do-arquivo-para-usuarios-site-arquivo.pdf
+
+African diaspora, slavery and the landscape of coffee plantation, https://revistas.usp.br/alb/en/article/view/11686
+
+6 leis sobre escravidão sancionadas antes da Lei Áurea, https://vestibulares.estrategia.com/portal/materias/historia/6-leis-sobre-escravidao-sancionadas-antes-da-lei-aurea/
+
+Glossary - Slave Voyages, https://www.slavevoyages.org/blog/glossary/178
+
+The Intra-American Tra c of Enslaved People to Rio de Janeiro, https://jsdp.enslaved.org/assets/downloaded/40-59-58/TEPRJ_Article_20230523.pdf
+
+1º Censo do Brasil, feito há 150 anos, contou 1,5 milhão de, https://www12.senado.leg.br/noticias/especiais/arquivo-s/1o-censo-do-brasil-feito-ha-150-anos-contou-1-5-milhao-de-escravizados
+
+Censo demográfico do Brasil de 1872 - Wikipédia, https://pt.wikipedia.org/wiki/Censo_demogr%C3%A1fico_do_Brasil_de_1872
+
+População escrava do Brasil é detalhada em Censo de 1872 - GOV, https://www.gov.br/palmares/pt-br/assuntos/noticias/populacao-escrava-do-brasil-e-detalhada-em-censo-de-1872
+
+Fazendeiros tentaram impedir aprovação da Lei do Ventre Livre, https://www12.senado.leg.br/noticias/especiais/arquivo-s/fazendeiros-tentaram-impedir-aprovacao-da-lei-do-ventre-livre
+
+A LEI DO VENTRE-LIVRE (*) Édison Carneiro, https://www.marxists.org/portugues/carneiro/1971/mes/40.pdf
+
+Fim da pena de açoite foi "ensaio" para abolição da escravidão, https://www12.senado.leg.br/noticias/especiais/arquivo-s/fim-da-pena-de-acoite-foi-ensaio-para-abolicao-da-escravidao
+
+1881¹ Educação, classe, gênero e voto no Brasil imperial: Lei Saraiva, https://www.scielo.br/j/er/a/bZGMg7ZCM6fGj8HQTXVtZWP/?lang=pt
+
+a educação e o voto no fim do império e início ... - Estudos Eleitorais, https://revistaeje.tse.jus.br/estudoseleitorais/article/download/99/72/301
+
+Banquete dado pela Confederação Abolicionista e alguns amigos, https://digital.bbm.usp.br/handle/bbm/5218
+
+Divulgação — Portal Institucional do Senado Federal, https://www12.senado.leg.br/institucional/arquivo/difusao
+
+Lei Áurea – Wikipédia, a enciclopédia livre, https://pt.wikipedia.org/wiki/Lei_%C3%81urea
+
+Confederação Abolicionista – Wikipédia, a enciclopédia livre, https://pt.wikipedia.org/wiki/Confedera%C3%A7%C3%A3o_Abolicionista
+
+Escravo e abolicionista : Revista Pesquisa FAPESP, https://revistapesquisa.fapesp.br/escravo-e-abolicionista/
+
+O Republicanismo de José do Patrocínio e sua vivência na República, https://www.historia.uff.br/stricto/td/1464.pdf
+
+A relação de José do Patrocínio com o movimento republicano, https://repositorio.unifesp.br/bitstreams/e0e27a64-aded-4e92-beb0-9e47fb48ab5a/download
+
+A ABOLIÇÃO INDENIZADA: O BANCO DO BRASIL E A ... - SciELO, https://www.scielo.br/j/alm/a/4npGHrD9hk5h3xwtGLJyVQm/?format=pdf&lang=pt
+
+Abolição da Escravatura no Amazonas em 10.07.1884, https://aca.org.br/abolicao-da-escravatura-no-amazonas-em-10-07-1884/
+
+Os Caifazes e o Quilombo do Jabaquara - Diário Causa Operária, https://causaoperaria.org.br/2026/os-caifazes-e-o-quilombo-do-jabaquara-2/
+
+Folha de S.Paulo - Cupins e caifazes - 4/4/1998, https://www1.folha.uol.com.br/fsp/1998/4/04/dinheiro/4.html
+
+Slavery in Brazil | Wilson Center, https://www.wilsoncenter.org/blog-post/slavery-brazil
+
+4.2 Slavery and Abolition in the 19th Century | Brazil, https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-3/slavery-and-aboliton/
+
+Slavery and Liberalism in the Empire of Brazil (1822-1889), https://ejist.ro/files/pdf/435.pdf
+
+Fim da escravidão gera medidas de apoio à imigração no Brasil, https://vestibular.uol.com.br/resumo-das-disciplinas/historia-do-brasil/fim-da-escravidao-gera-medidas-de-apoio-a-imigracao-no-brasil.htm
+
+Decreto nº 528, de 28 de Junho de 1890 - camara, https://www2.camara.leg.br/legin/fed/decret/1824-1899/decreto-528-28-junho-1890-506935-norma-pe.html
+
+Questão Texto 1 : “Decreto nº 528 de 28 de junho de 1890. Art. 1º, https://vestibulares.estrategia.com/public/questoes/Texto-1-Decreto-no-528196880f24b0/
+
+Por 100 anos, analfabeto foi proibido de votar no Brasil, https://www12.senado.leg.br/noticias/materias/2016/11/04/por-100-anos-analfabeto-foi-proibido-de-votar-no-brasil
+
+GILBERTO FREYRE E FLORESTAN FERNANDES: O DEBATE EM, https://revistahistoriador.com.br/index.php/principal/article/download/142/148
+
+Democracia Racial: Gilberto Freyre X Florestan Fernandes - YouTube, https://www.youtube.com/watch?v=CfHkG2hTIBU
+
+Florestan Fernandes, questão racial e conservadorismo, https://blogdoibre.fgv.br/posts/florestan-fernandes-questao-racial-e-conservadorismo
+
+RESENHA O pós-abolição e o destino dos negros no Brasil e no, https://periodicoseletronicos.ufma.br/index.php/rbrascaribe/article/download/24915/14110/92588
+
+História e Historiografia do Processo Abolicionista no Brasil - Janus, https://uspdigital.usp.br/janus/publico/disciplina/FLH5910
+
+A Abolição da Escravatura no Brasil e as Leis Imperiais sobre a, https://dspace.uevora.pt/rdpc/bitstream/10174/27854/1/Doutoramento-Hist%C3%B3ria_Contempor%C3%A2nea-Alessandro_Martins_Gomes-A_aboli%C3%A7%C3%A3o_da_escravatura_no_Brasil....pdf
+
+Cadernos do CHDD - Ministério dos Transportes, https://funag.gov.br/loja/download/0298_caderno_especial_2005.pdf

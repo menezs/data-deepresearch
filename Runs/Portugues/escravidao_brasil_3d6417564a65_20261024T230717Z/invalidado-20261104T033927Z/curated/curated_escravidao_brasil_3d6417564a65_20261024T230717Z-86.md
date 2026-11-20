@@ -1,0 +1,4 @@
+[referencia=7779355497c3d434 score=0.098]
+Lei nº 3.353 de 13 de maio de 1888 decretou o fim da escravidão no Brasil. Após 388 anos de tráfico e escravidão foi proibido o trabalho forçado, compulsório, desumanização e maus tratos de negros e negras no Brasil. Estima-se, atualmente, que 5 milhões de homens e mulheres foram trazidos forçadamente para o território brasileiro para serem vendidos como escravos ao longo desses quatro séculos de exploração.
+
+O Brasil foi o último país do continente americano a abolir a escravidão. De forma tardia, a Lei Áurea, naquele contexto, não ofereceu à população escravizada melhores condições de vida, políticas sociais e públicas para corrigir as distorções oriundas de quatro séculos de escravidão.

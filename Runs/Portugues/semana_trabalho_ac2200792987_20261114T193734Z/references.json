@@ -1,0 +1,674 @@
+[
+  {
+    "id": "29cf52756bba7b06",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Four-day_workweek",
+    "normalized_url": "https://en.wikipedia.org/wiki/Four-day_workweek",
+    "work_key": "https://en.wikipedia.org/wiki/Four-day_workweek",
+    "title": "Four-day workweek - Wikipedia,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:57.349688Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "eed64a3c03192d49",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.nirandfar.com/4-day-workweek/",
+    "normalized_url": "https://nirandfar.com/4-day-workweek",
+    "work_key": "https://nirandfar.com/4-day-workweek",
+    "title": "The 4-Day Workweek: How To Do More With Less - Nir and Far,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:37:56.924152Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "caca49258b7bc6e3",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.4dayweek.com/news-posts/100-80-100-rule-mwmb7",
+    "normalized_url": "https://4dayweek.com/news-posts/100-80-100-rule-mwmb7",
+    "work_key": "https://4dayweek.com/news-posts/100-80-100-rule-mwmb7",
+    "title": "What is the 100:80:100™ rule for the 4 day week?,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:37:57.152531Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5924f7c3f1029c1b",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.sociology.cam.ac.uk/news/new-results-worlds-largest-trial-four-day-working-week",
+    "normalized_url": "https://sociology.cam.ac.uk/news/new-results-worlds-largest-trial-four-day-working-week",
+    "work_key": "https://sociology.cam.ac.uk/news/new-results-worlds-largest-trial-four-day-working-week",
+    "title": "New results from the world's largest trial of a four-day working week,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:37:58.424943Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6fe5dca3b1c75034",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://disprz.ai/blog/4-day-work-week-experiment-impact",
+    "normalized_url": "https://disprz.ai/blog/4-day-work-week-experiment-impact",
+    "work_key": "https://disprz.ai/blog/4-day-work-week-experiment-impact",
+    "title": "4-Day Work Week: Concept, Pros, Cons & Challenges - Disprz,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:37:58.404292Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "1314b7b76b8fa6aa",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://support.google.com/knowledgepanel/answer/9787176",
+    "normalized_url": "https://support.google.com/knowledgepanel/answer/9787176",
+    "work_key": "https://support.google.com/knowledgepanel/answer/9787176",
+    "title": "Google Sports Data,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:37:58.298789Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ed8866b69fd6dd43",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://recipp.ipp.pt/bitstreams/34066234-3582-4f47-907a-142a99dead62/download",
+    "normalized_url": "https://recipp.ipp.pt/bitstreams/34066234-3582-4f47-907a-142a99dead62/download",
+    "work_key": "https://recipp.ipp.pt/bitstreams/34066234-3582-4f47-907a-142a99dead62/download",
+    "title": "A semana laboral de 4 dias: experiências e desafios numa pequena,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:17.793015Z",
+    "error_message": "barreira de acesso (anti_bot): # Making sure you're not a bot! RCAAP – Repositórios Científicos de Acesso Aberto de Portugal Calculating... Difficulty:",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ad3bcddb90ac52eb",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.uts.edu.au/case-studies/mythbusting-four-day-work-week",
+    "normalized_url": "https://uts.edu.au/case-studies/mythbusting-four-day-work-week",
+    "work_key": "https://uts.edu.au/case-studies/mythbusting-four-day-work-week",
+    "title": "Mythbusting the Four-Day Work Week - Sydney - UTS,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:00.176107Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0a00cd82a998f1ed",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://ipps.iscte-iul.pt/images/Trabalho%20final%20-%20Grupo%201.pdf",
+    "normalized_url": "https://ipps.iscte-iul.pt/images/Trabalho final - Grupo 1.pdf",
+    "work_key": "https://ipps.iscte-iul.pt/images/Trabalho final - Grupo 1.pdf",
+    "title": "Relatório Período Experimental - Lisboa - IPPS-Iscte,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:06.479047Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "179ef9411d9db5e1",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.iefp.pt/documents/10181/11729755/Relatorio1Fase_Final.pdf/13cf9e6c-50f7-4830-a822-c1d443f36f31",
+    "normalized_url": "https://iefp.pt/documents/10181/11729755/Relatorio1Fase_Final.pdf/13cf9e6c-50f7-4830-a822-c1d443f36f31",
+    "work_key": "https://iefp.pt/documents/10181/11729755/Relatorio1Fase_Final.pdf/13cf9e6c-50f7-4830-a822-c1d443f36f31",
+    "title": "Projeto-Piloto: Semana de Quatro Dias Relatório da Primeira Fase,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:10.209224Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ca963998beb2bc84",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://rhmagazine.pt/95-das-empresas-avaliam-positivamente-o-projeto-piloto-da-semana-de-quatro-dias/",
+    "normalized_url": "https://rhmagazine.pt/95-das-empresas-avaliam-positivamente-o-projeto-piloto-da-semana-de-quatro-dias",
+    "work_key": "https://rhmagazine.pt/95-das-empresas-avaliam-positivamente-o-projeto-piloto-da-semana-de-quatro-dias",
+    "title": "95% das empresas avaliam positivamente o projeto-piloto da,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:13.268259Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b8c7afce0e931663",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.adcoesao.pt/wp-content/uploads/guia_para_a_avaliacao.pdf",
+    "normalized_url": "https://adcoesao.pt/wp-content/uploads/guia_para_a_avaliacao.pdf",
+    "work_key": "https://adcoesao.pt/wp-content/uploads/guia_para_a_avaliacao.pdf",
+    "title": "Guia para a Avaliação de Políticas Públicas,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:22.455425Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f89fbb944287be18",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+    "normalized_url": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+    "work_key": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+    "title": "95% das empresas avaliam positivamente experiência da Semana,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:14.297379Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3cf6d931756e5766",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.michaelpage.com.tr/en/advice/career-advice/4-day-work-week-guide",
+    "normalized_url": "https://michaelpage.com.tr/en/advice/career-advice/4-day-work-week-guide",
+    "work_key": "https://michaelpage.com.tr/en/advice/career-advice/4-day-work-week-guide",
+    "title": "Everything You Need to Know About the 4-Day Work Week,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:15.734384Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "aef6cca2b43360a9",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.4dayweek.com/",
+    "normalized_url": "https://4dayweek.com",
+    "work_key": "https://4dayweek.com",
+    "title": "4 Day Week Global,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:16.931039Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d75ec058316bbccf",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://leadership.global/insights/news-trends-insights/how-the-four-day-week-model-boosts-employees-happiness/",
+    "normalized_url": "https://leadership.global/insights/news-trends-insights/how-the-four-day-week-model-boosts-employees-happiness",
+    "work_key": "https://leadership.global/insights/news-trends-insights/how-the-four-day-week-model-boosts-employees-happiness",
+    "title": "How the four-day week model boosts employees' happiness,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:18.501264Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "40b07598082a1615",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://portal.fgv.br/en/noticias/estudo-indica-que-semana-de-quatro-dias-exige-confianca-e-flexibilidade-para-gerar-resultados",
+    "normalized_url": "https://portal.fgv.br/en/noticias/estudo-indica-que-semana-de-quatro-dias-exige-confianca-e-flexibilidade-para-gerar-resultados",
+    "work_key": "https://portal.fgv.br/en/noticias/estudo-indica-que-semana-de-quatro-dias-exige-confianca-e-flexibilidade-para-gerar-resultados",
+    "title": "Study indicates that a four-day workweek requires trust and flexibility,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:18.242451Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "472b02f29c91268d",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://4dayweek.io/country/brazil",
+    "normalized_url": "https://4dayweek.io/country/brazil",
+    "work_key": "https://4dayweek.io/country/brazil",
+    "title": "4 Day Week in Brazil (2026): Trials & Culture | 4dayweek.io,",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:18.737605Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3507306c7e394c9f",
+    "citation_markers": [],
+    "raw_url": "https://www.planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias/",
+    "normalized_url": "https://planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias",
+    "work_key": "https://planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:22.034242Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "de61fc78ef7823b1",
+    "citation_markers": [],
+    "raw_url": "https://www.migalhas.com.br/quentes/425383/erika-hilton-protocola-pec-para-acabar-com-a-escala-6x1",
+    "normalized_url": "https://migalhas.com.br/quentes/425383/erika-hilton-protocola-pec-para-acabar-com-a-escala-6x1",
+    "work_key": "https://migalhas.com.br/quentes/425383/erika-hilton-protocola-pec-para-acabar-com-a-escala-6x1",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:19.069067Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9872b28aa88fcace",
+    "citation_markers": [],
+    "raw_url": "https://veja.abril.com.br/economia/senado-aprova-em-primeiro-turno-o-fim-da-escala-6x1-e-a-reducao-da-jornada-de-trabalho/",
+    "normalized_url": "https://veja.abril.com.br/economia/senado-aprova-em-primeiro-turno-o-fim-da-escala-6x1-e-a-reducao-da-jornada-de-trabalho",
+    "work_key": "https://veja.abril.com.br/economia/senado-aprova-em-primeiro-turno-o-fim-da-escala-6x1-e-a-reducao-da-jornada-de-trabalho",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:19.395063Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "f70a95c262c14829",
+    "citation_markers": [],
+    "raw_url": "https://exame.com/brasil/de-quem-e-o-projeto-que-acabou-com-a-escala-6x1-conheca-as-propostas/",
+    "normalized_url": "https://exame.com/brasil/de-quem-e-o-projeto-que-acabou-com-a-escala-6x1-conheca-as-propostas",
+    "work_key": "https://exame.com/brasil/de-quem-e-o-projeto-que-acabou-com-a-escala-6x1-conheca-as-propostas",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:21.975093Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c8867da9728a894d",
+    "citation_markers": [],
+    "raw_url": "https://veja.abril.com.br/economia/fim-da-escala-6x1-quando-comeca-a-valer-e-o-que-muda-em-11-respostas/",
+    "normalized_url": "https://veja.abril.com.br/economia/fim-da-escala-6x1-quando-comeca-a-valer-e-o-que-muda-em-11-respostas",
+    "work_key": "https://veja.abril.com.br/economia/fim-da-escala-6x1-quando-comeca-a-valer-e-o-que-muda-em-11-respostas",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:22.336177Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "884e9b53c0c38e75",
+    "citation_markers": [],
+    "raw_url": "https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais",
+    "normalized_url": "https://camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais",
+    "work_key": "https://camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:22.414502Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "19f46d1e8efd0999",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.jota.info/opiniao-e-analise/colunas/democracia-em-transe/fim-da-escala-6x1-conecta-lula-a-trabalhadores-e-muda-rumo-da-campanha-eleitoral",
+    "normalized_url": "https://jota.info/opiniao-e-analise/colunas/democracia-em-transe/fim-da-escala-6x1-conecta-lula-a-trabalhadores-e-muda-rumo-da-campanha-eleitoral",
+    "work_key": "https://jota.info/opiniao-e-analise/colunas/democracia-em-transe/fim-da-escala-6x1-conecta-lula-a-trabalhadores-e-muda-rumo-da-campanha-eleitoral",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:22.616962Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ea4ca0997efd25a0",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://popularmais.com.br/noticia/25530/sindicatos-fortes-sao-condicao-para-um-brasil-mais-justo-e-produtivo/amp",
+    "normalized_url": "https://popularmais.com.br/noticia/25530/sindicatos-fortes-sao-condicao-para-um-brasil-mais-justo-e-produtivo/amp",
+    "work_key": "https://popularmais.com.br/noticia/25530/sindicatos-fortes-sao-condicao-para-um-brasil-mais-justo-e-produtivo/amp",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:22.980770Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "fcd2f5dccf30de1e",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://eco.sapo.pt/2022/07/01/valencia-da-5-500-euros-por-trabalhar-as-empresas-que-implementem-semana-de-quatro-dias/",
+    "normalized_url": "https://eco.sapo.pt/2022/07/01/valencia-da-5-500-euros-por-trabalhar-as-empresas-que-implementem-semana-de-quatro-dias",
+    "work_key": "https://eco.sapo.pt/2022/07/01/valencia-da-5-500-euros-por-trabalhar-as-empresas-que-implementem-semana-de-quatro-dias",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:23.191476Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "66476207f2c2c8c8",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://csb.org.br/noticias/semana-4-dias-de-trabalho-na-alemanha-teste",
+    "normalized_url": "https://csb.org.br/noticias/semana-4-dias-de-trabalho-na-alemanha-teste",
+    "work_key": "https://csb.org.br/noticias/semana-4-dias-de-trabalho-na-alemanha-teste",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:23.438276Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "2b73e83f2982c05d",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://g1.globo.com/trabalho-e-carreira/noticia/2023/02/27/semana-de-4-dias-o-que-experiencias-mostram-sobre-futuro-do-trabalho.ghtml",
+    "normalized_url": "https://g1.globo.com/trabalho-e-carreira/noticia/2023/02/27/semana-de-4-dias-o-que-experiencias-mostram-sobre-futuro-do-trabalho.ghtml",
+    "work_key": "https://g1.globo.com/trabalho-e-carreira/noticia/2023/02/27/semana-de-4-dias-o-que-experiencias-mostram-sobre-futuro-do-trabalho.ghtml",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:23.422834Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "44864734b25ff8d5",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://bigthink.com/the-present/four-day-work/",
+    "normalized_url": "https://bigthink.com/the-present/four-day-work",
+    "work_key": "https://bigthink.com/the-present/four-day-work",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:24.661378Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "778ad731cd5adbce",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.weforum.org/stories/jobs-and-the-future-of-work/microsoft-4-day-work-week-productivity-increase/",
+    "normalized_url": "https://weforum.org/stories/jobs-and-the-future-of-work/microsoft-4-day-work-week-productivity-increase",
+    "work_key": "https://weforum.org/stories/jobs-and-the-future-of-work/microsoft-4-day-work-week-productivity-increase",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:24.527028Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0c8745259e39ea22",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://japantoday.com/category/business/microsoft-japan%E2%80%99s-experiment-with-3-day-weekend-boosts-worker-productivity-by-40",
+    "normalized_url": "https://japantoday.com/category/business/microsoft-japan’s-experiment-with-3-day-weekend-boosts-worker-productivity-by-40",
+    "work_key": "https://japantoday.com/category/business/microsoft-japan’s-experiment-with-3-day-weekend-boosts-worker-productivity-by-40",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:39:35.196624Z",
+    "error_message": "barreira de acesso (no_content): Powered and protected by Privacy",
+    "barrier_kind": "no_content",
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0cdf651813bc0e33",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.theguardian.com/technology/2019/nov/04/microsoft-japan-four-day-work-week-productivity",
+    "normalized_url": "https://theguardian.com/technology/2019/nov/04/microsoft-japan-four-day-work-week-productivity",
+    "work_key": "https://theguardian.com/technology/2019/nov/04/microsoft-japan-four-day-work-week-productivity",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:24.951243Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "75e33e980ab8d46a",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://time.com/5717401/microsoft-4-day-workweek/",
+    "normalized_url": "https://time.com/5717401/microsoft-4-day-workweek",
+    "work_key": "https://time.com/5717401/microsoft-4-day-workweek",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:25.053015Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5d77d7feebb71bf5",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://4dayweek.io/case-study/microsoft",
+    "normalized_url": "https://4dayweek.io/case-study/microsoft",
+    "work_key": "https://4dayweek.io/case-study/microsoft",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:25.299142Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "e57799608cc86952",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://sindishopping.com.br/semana-de-4-dias-empresas-que-participam-de-teste-no-brasil-ja-notam-resultados-positivos/",
+    "normalized_url": "https://sindishopping.com.br/semana-de-4-dias-empresas-que-participam-de-teste-no-brasil-ja-notam-resultados-positivos",
+    "work_key": "https://sindishopping.com.br/semana-de-4-dias-empresas-que-participam-de-teste-no-brasil-ja-notam-resultados-positivos",
+    "title": null,
+    "from_secondary_list": true,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-14T19:38:25.403145Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "semana_trabalho_ac2200792987_20261114T193734Z",
+    "tool_name": "Gemini"
+  }
+]

@@ -1,0 +1,8 @@
+[referencia=506342bfa40ade3e score=0.974]
+# Under Protecting?
+
+**The great rewiring: is social media really behind an epidemic of teenage mental illness?** by Candice L. Odgers
+
+Nature, March 29, 2024
+
+Are smartphones and social media to blame for a rise in teenage mental illness? Jonathan Haidt’s new book, *The Anxious Generation,* makes precisely that claim. Haidt suggests that “diminished outdoor free play” and “the rise of phone-based childhood” have created the conditions wherein society and schools are, according to Haidt, “overprotecting children in the real world and underprotecting them in the virtual world.” Haidt’s thesis is bold, but are his assertions backed by rigorous analysis of the available data? In a recent review of *The Anxious Generation,* Candice L. Odgers argues that Haidt’s claims lack evidence. Odgers writes that Haidt’s “repeated suggestion that digital technologies are rewiring our children’s brains and causing an epidemic of mental illness is not supported by science.” Indeed, Odgers points out, “Hundreds of researchers, myself included, have searched for the kind of large effects suggested by Haidt. Our efforts have produced a mix of no, small, and mixed associations. Most data are correlative.” Odgers argues that we do face a mental health crisis in teens – but she laments that Haidt is “telling stories that are unsupported by research and that do little to support young people who need, and deserve, more.”

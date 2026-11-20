@@ -1,0 +1,650 @@
+[referencia=19836916515bd208 score=0.554]
+§ 7º Os agentes de IA que, posteriormente à introdução de sistema de IA no mercado ou à sua utilização em serviço, tiverem conhecimento de risco ou impacto inesperado e relevante que o sistema apresente a direitos de pessoas naturais comunicarão o fato imediatamente à autoridade setorial e aos outros agentes na cadeia para que sejam tomadas todas as medidas cabíveis, inclusive, quando necessário, a de notificar pessoas e grupos afetados pelo sistema de IA. 
+
+§ 8º Caberá à autoridade competente e às autoridades setoriais estabelecer as hipóteses em que a participação pública será necessária, assim como as hipóteses em que poderá ser realizada de maneira simplificada, indicando os critérios para essa participação. 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Autenticado Eletronicamente, após conferência com o original. 
+
+18 
+
+> 19 17 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 17 de 36
+```
+
+**Art. 26.** A avaliação de impacto algorítmico será realizada em momento anterior à introdução ou à colocação em circulação no mercado de sistema de IA, bem como consistirá em processo interativo contínuo, executado ao longo de todo o ciclo de vida dos sistemas de IA de alto risco, requeridas atualizações periódicas. 
+
+Parágrafo único. Considerando eventual regulamentação setorial existente, caberá à autoridade competente, em colaboração com as demais entidades do SIA, definir: 
+
+I – parâmetros gerais acerca da periodicidade de atualização das avaliações de impacto algorítmico, que devem ser realizadas ao menos quando da existência de alterações significativas nos sistemas, nos termos de regulamento; 
+
+II – as hipóteses em que a avaliação de impacto algorítmico será simplificada, considerando o tipo de agentes de sistemas de IA.
+
+---
+
+[referencia=19836916515bd208 score=0.549]
+II – para o desenvolvedor: 
+
+a) manutenção de registro das medidas de governança adotadas no desenvolvimento do sistema de IA, para prestação das informações necessárias ao aplicador de modo que este último cumpra as obrigações determinadas no inciso I do **caput** deste artigo, em conformidade com a relação jurídica estabelecida entre as partes e ressalvado o sigilo comercial e industrial; 
+
+b) uso de ferramentas ou processos de registro da operação do sistema, de modo a permitir a avaliação de sua acurácia e robustez; 
+
+c) realização de testes para avaliação de níveis apropriados de segurança; 
+
+d) adoção de medidas técnicas para viabilizar a aplicabilidade dos resultados dos sistemas de IA e o fornecimento de informações adequadas que permitam a interpretação dos seus resultados e do seu funcionamento, respeitado o sigilo industrial e comercial; 
+
+e) medidas para mitigar e prevenir vieses discriminatórios, quando o risco à discriminação decorrer da aplicação do sistema de IA; 
+
+f) transparência sobre as políticas de gestão e governança para promoção da responsabilidade social e sustentável, no âmbito de suas atividades. 
+
+§ 1º Caberá às autoridades setoriais definir as hipóteses em que as obrigações estabelecidas em regulamento serão flexibilizadas ou dispensadas, de acordo com o contexto de atuação do agente de IA na cadeia de valor do sistema de IA. 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Autenticado Eletronicamente, após conferência com o original. 
+
+15 
+
+14 
+
+16 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 14 de 36
+```
+
+---
+
+[referencia=19836916515bd208 score=0.504]
+#### **`PL 762/2026 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD` PROJETO DE LEI Nº              , DE 2026.** **`Página 1 de 11`** **~~(Do Sr. Rubens Pereira Júnior)~~** 
+
+Estabelece marco regulatório para sistemas de inteligência artificial (IA) em setores de alta consequência e dá outras providências. 
+
+O Congresso Nacional decreta: 
+
+Art. 1º Esta Lei institui o marco regulatório aplicável aos sistemas de inteligência artificial destinados à operação em setores de alta consequência, denominados Circuitos Cognitivos Setoriais, definindo obrigações de classificação, segurança, privacidade, governança, certificação, fiscalização, responsabilização e cooperação institucional, sem prejuízo de outras obrigações legais aplicáveis. 
+
+Art. 2º Para os fins desta Lei, consideram-se: 
+
+I - sistema de inteligência artificial: qualquer sistema composto por modelos, algoritmos, fluxos de dados, interfaces e componentes de software e hardware que realize inferências, recomendações, previsões, decisões ou automatizações a partir de processamento automatizado de dados; 
+
+II - circuito cognitivo setorial: conjunto integrado de sistemas de Inteligência Artificial (IA), repositórios de dados, interfaces, políticas e procedimentos operacionais concebidos para atuar em um mesmo setor econômico, social ou público com impacto setorial relevante; 
+
+III - níveis de consequência: categorização do risco e do impacto de um sistema de IA sobre vida, saúde, direitos fundamentais, continuidade de serviços críticos e estabilidade econômica, subdivididos em: 
+
+a) baixo; b) médio; c) alto; d) crítico. 
+
+
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 
+
+`CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023
+
+---
+
+[referencia=19836916515bd208 score=0.480]
+##### **Seção II Da Autorregulação** 
+
+**Art. 41.** Os agentes de IA podem associar-se voluntariamente sob a forma de pessoa jurídica de direito privado sem fins lucrativos para promover a autorregulação com o objetivo de incentivar e assegurar melhores práticas de governança ao longo de todo o ciclo de vida de sistemas de IA. 
+
+§ 1º A autorregulação pode compreender as seguintes funções: 
+
+I – estabelecimento de critérios técnicos dos sistemas de IA aplicada, inclusive de padronização, prudenciais e de atuação concertada dos entes associados, desde que não impeçam o desenvolvimento tecnológico e que estejam em conformidade com esta Lei e com as normas vinculantes do SIA; 
+
+II – compartilhamento de experiências sobre o uso de IA, sendo vedado o compartilhamento de informações concorrencialmente sensíveis, nos termos da legislação pertinente; 
+
+III – definição contextual de estruturas de governança previstas nesta Lei; 
+
+IV – critérios para provocar a autoridade competente e demais autoridades integrantes do SIA para o emprego de medida cautelar; 
+
+V – criação de canal de recebimento de informações relevantes sobre riscos do uso de IA por seus associados ou qualquer interessado; 
+
+VI – adoção de padrões, melhores práticas e modelos de certificação reconhecidos internacionalmente. 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` Autenticado Eletronicamente, após conferência com o original. PL 2338/2023 
+
+23 
+
+22 
+
+24 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 22 de 36
+```
+
+---
+
+[referencia=19836916515bd208 score=0.447]
+IV – esteja integrado à sua estrutura geral de governança e estabeleça e aplique mecanismos de supervisão internos e externos; 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 
+
+`CONFERE COM O ORIGINAL AUTENTICADO` Autenticado Eletronicamente, após conferência com o original. PL 2338/2023 
+
+22 
+
+> 23 21 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 21 de 36
+```
+
+V – conte com planos de resposta para reversão dos possíveis resultados prejudiciais do sistema de IA; 
+
+VI – seja atualizado constantemente com base em informações obtidas a partir de monitoramento contínuo e de avaliações periódicas; 
+
+VII – disponha de mecanismos e procedimentos internos de integridade, de auditoria, de incentivo à denúncia de irregularidades e de aplicação efetiva de códigos de ética. 
+
+§ 3º A adesão voluntária a código de boas práticas e a elaboração de medidas de governança podem ser consideradas indicativo de boa-fé por parte do agente e serão levadas em consideração pela autoridade competente e pelas demais autoridades setoriais para fins de aplicação de sanções administrativas. 
+
+§ 4º Cabe às autoridades setoriais: 
+
+I – aprovar códigos de boas condutas quanto à esfera de competência outorgada por lei, devendo sempre informar a autoridade competente; 
+
+II – observar as diretrizes e normas gerais para o procedimento de análise, publicização e atualização periódica do código de conduta emitidas pela autoridade competente.
+
+---
+
+[referencia=19836916515bd208 score=0.416]
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Autenticado Eletronicamente, após conferência com o original. 
+
+13 
+
+12 
+
+14 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 12 de 36
+```
+
+§ 1º A autoridade competente e as autoridades setoriais deverão considerar o estado da arte do desenvolvimento tecnológico e a evolução e a harmonização das boas práticas setoriais e não setoriais para fins de monitoramento e reclassificação contínua dos sistemas de IA de alto risco. 
+
+§ 2º O desenvolvedor e o aplicador que considerar que o sistema de IA não se enquadra na classificação de alto risco poderá apresentar petição fundamentada às autoridades setoriais juntamente com a sua avaliação preliminar, nos termos de regulamento. 
+
+§ 3º Os distribuidores deverão assegurar que o sistema de IA cumpra as medidas de governança previstas nesta Lei antes de ser colocado em circulação no mercado. 
+
+§ 4º A autoridade competente e as autoridades setoriais poderão acreditar organismos de avaliação de conformidade que ofereçam aos agentes de IA serviços de identificação e classificação de risco do uso de sistemas de IA, em conformidade com normas técnicas nacionais e internacionais aplicáveis. 
+
+§ 5º Na classificação de novas aplicações de sistemas de IA de alto risco, as autoridades setoriais deverão: 
+
+I – indicar de modo expresso suas consequências jurídicas e administrativas e as condições para que a regularização ocorra de modo proporcional e equânime, não se podendo impor aos sujeitos atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais ou excessivos; 
+
+II – considerar os obstáculos e as dificuldades reais dos agentes de IA e as exigências das políticas públicas a seu cargo, sem prejuízo dos direitos das pessoas e dos grupos afetados;
+
+---
+
+[referencia=19836916515bd208 score=0.415]
+- XVI – fortalecimento do processo democrático e do pluralismo político; 
+
+XVII – proteção de direitos de autor e conexos, de direitos de propriedade intelectual e do segredo comercial e industrial; 
+
+XVIII – garantia da segurança da informação e da segurança cibernética; 
+
+- XIX – inserção, integração e competitividade brasileira no mercado 
+
+- internacional; 
+
+XX – cooperação internacional para o desenvolvimento e o atendimento a padrões técnicos e a regimes de obrigações nacionais e internacionais. 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 
+
+`CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Autenticado Eletronicamente, após conferência com o original. 
+
+4 
+
+> 5 3 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 3 de 36
+```
+
+**Art. 3º** O desenvolvimento, a implementação e o uso de sistemas de IA observarão a boa-fé e os seguintes princípios: 
+
+I – crescimento inclusivo, desenvolvimento sustentável e bem-estar, incluindo a proteção do trabalho e do trabalhador; 
+
+   - II – autodeterminação e liberdade de decisão e de escolha; 
+
+   - III – supervisão e determinação humana efetiva e adequada no ciclo de vida da 
+
+- IA, considerando o grau de risco envolvido; 
+
+   - IV – não discriminação ilícita ou abusiva; 
+
+   - V – justiça, equidade e inclusão; 
+
+VI – transparência e explicabilidade, observado o segredo comercial e industrial, considerada a participação de cada agente na cadeia de valor de IA; 
+
+VII – diligência devida e auditabilidade ao longo de todo o ciclo de vida do sistema de IA, de acordo com o risco envolvido e o estado da arte do desenvolvimento tecnológico; 
+
+- VIII – confiabilidade e robustez do sistema de IA;
+
+---
+
+[referencia=19836916515bd208 score=0.354]
+`CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Autenticado Eletronicamente, após conferência com o original. 
+
+142 
+
+143 
+
+de desenvolvimento de parâmetros jurídicos, regulatórios e éticos para **`PL 6237/2025 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD Página 12 de 13`** orientar o desenvolvimento e aplicação da tecnologia. No âmbito do Poder Le ~~gislativo Federal, observa-se o avanço do debate sobre o Projeto de Lei nº~~ 2338/2023, iniciado e aprovado pelo Senado Federal e em tramitação na Câmara do Deputados. A proposição legislativa dá tratamento tanto aos aspectos de fomento da inteligência artificial, como das regras a serem seguidas por seus desenvolvedores e usuários de modo a garantir direitos e mitigar risco. De modo especial, visa atribuir ao poder público capacidade de incidir sobre as aplicações de alto risco para as pessoas e a sociedade. 
+
+6 Assim, verifica-se necessário e oportuno que o Poder Executivo Federal dê iniciativa a um projeto de lei que indique como deve se organizar para que seja capaz de fazer frente às ações que lhe serão demandas. 
+
+7 Desta forma, o presente projeto de lei pretende definir as unidades, colegiados, comitês e órgãos que serão responsáveis pela regulação da inteligência artificial no Brasil. Sugere-se a criação do Sistema Nacional para Desenvolvimento, Regulação e Governança de Inteligência Artificial (SIA), com o objetivo de coordenar a atuação estratégica e o exercício das competências regulatória, fiscalizatória sancionatória sobre a inteligência artificial no Brasil. 
+
+8 O referido Sistema seria composto pelo Conselho Brasileiro para Inteligência Artificial – CBIA, que também está sendo criado, composto por ministérios e pela Agência Nacional de Proteção de Dados - ANPD, na função de autoridade competente. Contará ainda com comitês consultivos para viabilizar a participação social e a contribuição de especialistas e cientistas.
+
+---
+
+[referencia=19836916515bd208 score=0.349]
+III - potencial de violação de direitos fundamentais; 
+
+IV - potencial de interrupção ou degradação de serviços essenciais e infraestrutura crítica; 
+
+V - potencial de impacto econômico sistêmico relevante; 
+
+VI - grau de autonomia decisória do sistema. 
+
+§ 1º A autoridade competente estabelecerá, em normas técnicas, matrizes de risco e parâmetros objetivos aplicáveis a cada setor, com indicação de pesos e limites que instruam a classificação. 
+
+§ 2º A classificação deverá ser revisada periodicamente, em prazo não superior a 24 (vinte e quatro) meses, e sempre que ocorram mudanças substanciais no ambiente operacional, nos modelos, nos conjuntos de dados ou na regulação setorial. 
+
+
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Para verificar a assinatura, acesse https://infoleg-autenticidade-assinatura.camara.leg.br/CD268344956100238 Assinado eletronicamente pelo(a) Dep. Rubens Pereira Júnior 
+
+239 
+
+**`PL 762/2026 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD`** Art. 4º Para sistemas classificados como de nível alto ou critico, são requisitos **`Página 3 de 11`** obrigatórios e cumulativos para projeto, implementação, certificado e operação: I - arquitetura especializada com isolamento setorial de dados, que exija, no mínimo: 
+
+a) memórias e repositórios logicamente e, quando tecnicamente exequível, fisicamente segregados para dados setoriais sensíveis; 
+
+b) políticas de segregação de dados, controle de acesso baseado em princípios de privilégio mínimo e registro detalhado de acessos; 
+
+II - vedação à retroalimentação automática de modelos generalistas com dados sensíveis do setor, sem que: 
+
+a) haja consentimento explícito, livre e informado quando exigido por lei;
+
+---
+
+[referencia=19836916515bd208 score=0.349]
+##### **Seção I Disposições Gerais** 
+
+**Art. 68.** Constituem diretrizes para a atuação da União, dos Estados, do Distrito Federal e dos Municípios no desenvolvimento da IA no Brasil: 
+
+I – estabelecimento de mecanismos de governança multiparticipativa, multissetorial transparente, colaborativa e democrática, com a participação do governo, do setor empresarial, do terceiro setor e da comunidade acadêmica, especialmente considerando os grupos vulneráveis; 
+
+II – promoção da confiança nas tecnologias de IA, com disseminação de informações e de conhecimento sobre seus usos éticos e responsáveis; 
+
+III – estímulo à capacitação e à preparação das pessoas para a reestruturação do mercado de trabalho; 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` Autenticado Eletronicamente, após conferência com o original. PL 2338/2023 
+
+34 
+
+> 35 33 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 33 de 36
+```
+
+IV – promoção da interoperabilidade entre sistemas de IA, inclusive entre os diferentes âmbitos federativos e diversos setores da sociedade, com decisões que busquem evitar a dependência tecnológica e propiciar a continuidade do emprego dos sistemas desenvolvidos ou contratados; 
+
+V – publicidade e disseminação de dados, de forma aberta, estruturada e segura; 
+
+VI – proteção ao meio ambiente e desenvolvimento sustentável; 
+
+VII – promoção da cooperação internacional, mediante estímulo ao compartilhamento do conhecimento sobre sistemas de IA, de modo a facilitar a interoperabilidade regulatória e tecnológica; 
+
+VIII – promoção de investimento em IA voltada para a solução dos problemas do País, promovendo seu desenvolvimento socioeconômico, cultural e ambiental, e para o desenvolvimento do sistema produtivo nacional e regional, prezando pela autonomia tecnológica do País e sua inserção e competitividade nos mercados interno e internacional.
+
+---
+
+[referencia=19836916515bd208 score=0.347]
+##### **Seção II Da Formação, da Capacitação e da Educação** 
+
+**Art. 70.** A administração pública, no âmbito da União, dos Estados, do Distrito Federal e dos Municípios, implementará programas de: 
+
+I – educação, formação, capacitação, qualificação e requalificação técnica e superior em IA alinhados às demandas do mercado e do setor público; 
+
+II – letramento digital para uso significativo, responsável e com equidade dos sistemas de IA disponíveis, priorizando-se a educação básica; 
+
+III – apoio para trabalhadores impactados e possivelmente afetados pela adoção da IA, com foco na promoção do bem-estar, requalificação, adaptação às novas exigências do mercado de trabalho e reinserção profissional; 
+
+IV – conscientização e capacitação em sustentabilidade no campo das tecnologias digitais avançadas, com ênfase em práticas responsáveis na utilização de recursos; e 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` Autenticado Eletronicamente, após conferência com o original. PL 2338/2023 
+
+35 
+
+34 
+
+36 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 34 de 36
+```
+
+V – incentivo às instituições de ensino para incluir em seus currículos disciplinas sobre impacto ambiental e sustentabilidade no desenvolvimento e operação de sistemas e aplicações de IA e outras tecnologias digitais avançadas. § 1º Os programas de que trata o **caput** buscarão reduzir as desigualdades, sobretudo entre as diferentes regiões do País. 
+
+§ 2º As medidas de letramento de que trata o inciso II do **caput** incluirão noções e competências básicas sobre os sistemas de IA e o seu funcionamento, incluindo os diferentes tipos de produtos e utilizações, os seus riscos e os seus benefícios.
+
+---
+
+[referencia=19836916515bd208 score=0.324]
+15 
+
+14 
+
+16 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 14 de 36
+```
+
+§ 2º Os distribuidores deverão apoiar e verificar se o sistema de IA cumpre as medidas de governança previstas nesta Lei, antes de o sistema ser colocado em circulação no mercado, nos termos de regulamento. § 3º Os agentes da cadeia de valor de sistema ou aplicação de IA devem cooperar entre si, disponibilizando as informações necessárias e fornecendo o acesso técnico e a assistência razoavelmente esperados e necessários para o cumprimento das obrigações estabelecidas neste artigo, resguardado o sigilo industrial e comercial. 
+
+§ 4º As medidas de governança e os processos internos previstos neste artigo, a serem adotados pelos agentes, deverão corresponder à respectiva fase do ciclo de vida do sistema de IA que lhes compete, de acordo com o nível de conhecimento sobre o respectivo projeto, implementação, aplicação e uso. 
+
+§ 5º Caso o aplicador ou o distribuidor realize modificação substancial ou altere a finalidade de um sistema de IA, será considerado desenvolvedor para os efeitos desta Lei. 
+
+**Art. 19.** Quando o sistema de IA gerar conteúdo sintético, deverá, considerando o estado da arte do desenvolvimento tecnológico e o contexto de uso, incluir identificador em tais conteúdos para verificação de autenticidade ou de características de sua proveniência, modificações ou transmissão, conforme regulamento. 
+
+§ 1º A presença do identificador previsto no **caput** não supre outros requisitos de informação e transparência, bem como outros parâmetros a serem definidos em regulamento. 
+
+§ 2º A autoridade competente, em colaboração com o Conselho Permanente de Cooperação Regulatória de Inteligência Artificial (Cria), disponibilizará biblioteca de **softwares** com vistas a facilitar o cumprimento da obrigação de sinalização, idealmente adotando padrão internacional amplamente reconhecido.
+
+---
+
+[referencia=19836916515bd208 score=0.324]
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` Autenticado Eletronicamente, após conferência com o original. PL 2338/2023 
+
+6 
+
+> 7 5 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 5 de 36
+```
+
+e correlações que gerarão informações relevantes para a pesquisa, o desenvolvimento ou a utilização de sistemas de IA; XIV – pessoa ou grupo afetado: pessoa natural ou grupo de pessoas que seja direta ou indiretamente impactado por sistema de IA; 
+
+XV – avaliação preliminar: processo simplificado de autoavaliação, anterior à utilização ou colocação no mercado de um ou mais sistemas de IA, para classificação de seu grau de risco, com o objetivo de determinar o cumprimento das obrigações definidas nesta Lei; 
+
+XVI – avaliação de impacto algorítmico: análise do impacto sobre os direitos fundamentais, apresentando medidas preventivas, mitigadoras e de reversão dos impactos negativos, bem como medidas potencializadoras dos impactos positivos de um sistema de IA; 
+
+XVII – vulnerabilidade: estado de assimetria agravada de informação ou de poder que afeta pessoas naturais ou grupos em razão, entre outras, de suas condições cognitivas, sociais, étnicas, econômicas e etárias, a exemplo de crianças e adolescentes, idosos e pessoas com deficiência; 
+
+XVIII – ambiente regulatório experimental ( **sandbox** regulatório): conjunto de condições especiais estabelecidas para desenvolver, treinar, validar e testar, por tempo limitado, um sistema de IA inovador, bem como modelos de negócio e políticas públicas inovadoras e técnicas e tecnologias experimentais que envolvam IA, mediante o cumprimento de critérios e de limites previamente estabelecidos e por meio de procedimento facilitado;
+
+---
+
+[referencia=19836916515bd208 score=0.322]
+I – a complexidade dos sistemas de IA; 
+
+II – o porte do agente, em especial no caso de micro e pequenas empresas e 
+
+**startups** . 
+
+**Art. 8º** A supervisão humana de sistemas de IA de alto risco buscará prevenir ou minimizar os riscos para direitos e liberdades das pessoas ou grupos afetados que possam decorrer de seu uso normal ou de seu uso em condições de utilização indevida razoavelmente previsíveis, viabilizando que as pessoas responsáveis pela supervisão humana possam, nos termos de regulamento, compreender, interpretar, decidir e intervir nos sistemas de IA, bem como priorizar o gerenciamento de riscos e impactos irreversíveis. 
+
+Parágrafo único. A supervisão humana não será exigida caso sua implementação seja comprovadamente impossível ou implique esforço desproporcional, hipóteses em que o agente do sistema de IA de alto risco implementará medidas alternativas eficazes. 
+
+**Art. 9º** Os agentes de IA de alto risco informarão, de forma suficiente, objetiva, clara e acessível, os procedimentos necessários para o exercício dos direitos descritos neste Capítulo. 
+
+**Art. 10.** A autoridade competente estabelecerá, no que couber e sempre em cooperação institucional formal com as autoridades setoriais do SIA, diretrizes gerais sobre a forma e as condições de exercício de direitos perante cada um dos agentes de sistema de IA. 
+
+**Art. 11.** A defesa dos interesses e dos direitos previstos nesta Lei poderá ser 
+
+exercida: 
+
+I – perante o órgão administrativo competente; 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Autenticado Eletronicamente, após conferência com o original. 
+
+9 
+
+8 
+
+10 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 8 de 36
+```
+
+---
+
+[referencia=19836916515bd208 score=0.321]
+##### **Seção III Das Medidas de Incentivo e Sustentabilidade** 
+
+**Art. 59.** A administração pública no âmbito da União, dos Estados, do Distrito Federal e dos Municípios poderá fomentar a inovação e o desenvolvimento produtivo e tecnológico em IA. 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` Autenticado Eletronicamente, após conferência com o original. PL 2338/2023 
+
+31 
+
+30 
+
+32 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 30 de 36
+```
+
+Parágrafo único. As medidas de fomento referidas no **caput** serão pautadas pelas seguintes diretrizes: 
+
+I – promoção da inovação nos setores produtivos, inclusive por meio da contratação de soluções inovadoras pelo Estado e da celebração de parcerias públicoprivadas nos termos da Lei nº 11.079, de 30 de dezembro de 2004; 
+
+II – investimento em pesquisa para o desenvolvimento de IA no País, voltada ao contexto socioeconômico brasileiro, prezando pela autonomia tecnológica e de dados do País e sua inserção e competitividade nos mercados interno e internacional; 
+
+III – financiamento de recursos físicos e tecnológicos de IA de difícil acesso para pequenas e médias empresas e centros de pesquisa que promovam práticas sustentáveis; 
+
+IV – incentivo à ampliação da disponibilidade de **data centers** sustentáveis de alta capacidade de processamento de dados para sistemas de IA, com o adensamento dessa cadeia produtiva e dos serviços digitais relacionados no Brasil, com o objetivo de apoiar o setor produtivo e a pesquisa e o desenvolvimento técnico-científicos; 
+
+V – incentivo à criação de centros multidisciplinares de pesquisa, desenvolvimento e inovação em IA.
+
+---
+
+[referencia=19836916515bd208 score=0.303]
+33 
+
+32 
+
+34 
+
+```
+PL 2338/2023 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD
+Página 32 de 36
+```
+
+I – aos titulares de direitos de autor e conexos nacionais ou estrangeiros domiciliados no Brasil; 
+
+II – a pessoas domiciliadas em país que assegure a reciprocidade na proteção, em termos equivalentes a este artigo, aos direitos de autor e conexos de brasileiros, conforme disposto nos arts. 2º, parágrafo único, e 97, § 4º, da Lei nº 9.610, de 19 de fevereiro de 1998 (Lei dos Direitos Autorais), sendo vedada a cobrança nos casos em que a reciprocidade não estiver assegurada. 
+
+§ 2º O titular do direito de remuneração previsto no **caput** que optar pela negociação e autorização direta, nos termos do inciso I do **caput** , poderá exercê-lo independentemente de regulamentação posterior. 
+
+**Art. 66.** A utilização de conteúdos de imagem, áudio, voz ou vídeo que retratem ou identifiquem pessoas naturais pelos sistemas de IA deverá respeitar os direitos da personalidade, na forma prevista na Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), e na legislação pertinente. 
+
+##### **Seção V** 
+
+##### **Do Incentivo a Microempresas, Empresas de Pequeno Porte e Startups** 
+
+**Art. 67.** As autoridades setoriais deverão definir critérios diferenciados para sistemas de IA ofertados por microempresas, empresas de pequeno porte e **startups** que promovam o desenvolvimento da indústria tecnológica nacional. 
+
+Parágrafo único. Critérios diferenciados devem considerar o impacto concorrencial das atividades econômicas correlatas, o número de usuários afetados e a natureza das atividades econômicas exercidas. CAPÍTULO XI DA ATUAÇÃO DO PODER PÚBLICO
+
+---
+
+[referencia=19836916515bd208 score=0.297]
+I - exercer competência regulatória, fiscalizatória e sancionatória, no âmbito de suas competências, para desenvolvimento, distribuição e aplicação de modelos e aplicações de inteligência artificial; 
+
+II - editar regras específicas para a aplicação de inteligência artificial, incluídos os aspectos relacionados a atividades de alto risco, observadas as normas vinculantes de caráter geral; 
+
+III - promover e incentivar boas práticas de governança para modelos e aplicações de inteligência artificial, no âmbito de suas competências; 
+
+IV - no âmbito de suas competências, incentivar a adoção de padrões, melhores práticas e modelos de certificação reconhecidos internacionalmente; 
+
+V - supervisionar as obrigações adequadas a cada caso de uso de alto risco, de forma a promover: 
+
+a) a harmonização com o ordenamento jurídico brasileiro e os padrões internacionais, para permitir a interoperabilidade técnica e jurisdicional dos modelos e aplicações desenvolvidos, distribuídos e adotados no País; e 
+
+b) a adoção de instrumentos regulatórios que promovam a inovação responsável, como ambientes regulatórios experimentais ( _sandboxes_ regulatórios), autorregulação e certificações de boas práticas e governança; 
+
+VI - celebrar, a qualquer momento, inclusive em conjunto com as demais autoridades setoriais ou a ANPD, compromisso com operadores de 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 
+
+`CONFERE COM O ORIGINAL AUTENTICADO` Autenticado Eletronicamente, após conferência com o original. PL 2338/2023 
+
+138 Exposição de Motivos (SEI-Atos - Atualizada) 803 (7185808) 
+
+SEI 00333.001452/2025-11 / pg. 7
+
+---
+
+[referencia=19836916515bd208 score=0.295]
+###### CAPÍTULO V 
+
+Das auditorias e da supervisão multidisciplinar 
+
+Art. 13 Os órgãos e entidades da Administração Pública Federal deverão: 
+
+I - submeter sistemas e modelos classificados como de médio ou alto risco a auditorias independentes periódicas de conteúdo técnico, de performance e de conformidade jurídica; 
+
+II - constituir comitês multidisciplinares de governança tecnológica, compostos por, no mínimo: 
+
+a) membros da unidade de gestão responsável pelo sistema; 
+
+b) representante da advocacia pública; 
+
+c) especialista técnico independente ou equipe técnica com certificação compatível; 
+
+d) representante da autoridade de proteção de dados ou do encarregado 
+
+(DPO); 
+
+e) representante da sociedade civil, escolhida por critérios objetivos previstos em norma; 
+
+III - publicar anualmente relatório público de conformidade, contendo sumário executivo, riscos identificados, incidentes e medidas corretivas adotadas. 
+
+Art. 14 A periodicidade mínima das auditorias será: 
+
+I - a cada 12 (doze) meses para sistemas de alto risco; 
+
+II - a cada 24 (vinte e quatro) meses para sistemas de médio risco; 
+
+III - a critério técnico para sistemas de baixo risco, observadas normas regulamentares. 
+
+§ 1º Os critérios de classificação de risco e os protocolos de auditoria serão fixados em norma regulamentadora expedida nos termos desta Lei. 
+
+
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Para verificar a assinatura, acesse https://infoleg-autenticidade-assinatura.camara.leg.br/CD262984804800228 Assinado eletronicamente pelo(a) Dep. Rubens Pereira Júnior 
+
+229
+
+---
+
+[referencia=19836916515bd208 score=0.280]
+###### DAS DIRETRIZES 
+
+Art. 8º A implementação dos princípios e objetivos observará, entre outras, as seguintes diretrizes: 
+
+I – abordagem baseada em risco, com salvaguardas graduais conforme o impacto; 
+
+II – avaliação prévia e periódica de impacto que inclua proteção de dados, não discriminação e segurança; 
+
+III – preferência por programas de computador e modelos abertos quando tecnicamente adequada, com justificativa para exceções; 
+
+IV – interoperabilidade por padrões abertos e documentação suficiente para auditoria; 
+
+V – transparência pública e controle social, especialmente nos sistemas utilizados pelo Poder Público; 
+
+VI – revisão humana em decisões de alto impacto ou com efeitos jurídicos relevantes; 
+
+VII – gestão de ciclo de vida (registro, monitoramento, testes, logs e resposta a incidentes); e 
+
+VIII – metas e divulgação de desempenho ambiental da infraestrutura de IA. 
+
+
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 
+
+6 
+
+`CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023 
+
+Para verificar a assinatura, acesse https://infoleg-autenticidade-assinatura.camara.leg.br/CD25068726720096 Assinado eletronicamente pelo(a) Dep. Romero Rodrigues 
+
+97 
+
+###### **`PL 4358/2025 POSSUI INTEIRO TEOR EM FORMATO DIFERENTE DO WORD`** CAPÍTULO VI **`Página 7 de 19`**
+
+---
+
+[referencia=19836916515bd208 score=0.278]
+VIII – extensão e probabilidade dos riscos do sistema de IA, incluindo as medidas de mitigação adotadas e considerando os benefícios esperados, de acordo com os princípios e fundamentos desta Lei; 
+
+IX – o sistema representar riscos significativos à saúde humana integral – física, mental e social – nas dimensões individual e coletiva; 
+
+- X – o sistema poder impactar negativamente o desenvolvimento e a integridade 
+
+- física, psíquica ou moral de crianças e adolescentes. 
+
+**Art. 16.** A regulamentação da lista e a classificação de novas aplicações de sistemas de IA de alto risco serão precedidas de procedimento que garanta participação social e de análise de impacto regulatório, cabendo: 
+
+- I – à autoridade competente, como coordenadora do SIA, garantir a aplicação 
+
+- harmônica desta Lei, devendo: 
+
+a) expedir orientações normativas gerais em relação aos impactos dos sistemas de IA sobre os direitos e as liberdades fundamentais ou que produzam efeitos jurídicos relevantes; 
+
+- b) publicar a lista consolidada de todos os sistemas de alto risco definidos pelas 
+
+- autoridades setoriais; 
+
+II – às autoridades setoriais, no âmbito de suas atribuições e em caráter prevalente, dispor sobre os aspectos técnicos e específicos de aplicações de IA no mercado regulado, devendo: 
+
+- a) estabelecer listas sobre hipóteses classificadas ou não classificadas como de 
+
+- alto risco dentro das finalidades e contextos definidos no art. 14; 
+
+   - b) estabelecer, com precisão, o rol de sistemas de alto risco desta Lei; 
+
+   - c) receber e analisar as avaliações de impacto algorítmico; 
+
+- d) indicar, em lista, casos de utilização de sistemas ou aplicações de sistemas de 
+
+- IA de alto risco ou não. 
+
+Coordenação de Comissões Permanentes - DECOM - P_6599 `CONFERE COM O ORIGINAL AUTENTICADO` PL 2338/2023

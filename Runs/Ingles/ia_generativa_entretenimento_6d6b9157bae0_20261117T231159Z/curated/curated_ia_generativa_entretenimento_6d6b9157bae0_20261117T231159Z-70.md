@@ -1,0 +1,369 @@
+[referencia=e32a3899a64c761b score=0.986]
+## 02Part 1: digital replicas
+
+The Office's larger study began with a notice of inquiry on August 30, 2023, which drew more than 10,000 comments. The resulting report is being issued in parts.
+
+Part 1, published July 31, 2024, covers digital replicas: video, images or audio made or altered to "realistically but falsely depict an individual." Deepfakes, in other words. The Office found gaps in existing law and recommended that Congress pass a new federal law protecting all individuals against the knowing distribution of unauthorized digital replicas.
+
+Part 1 is about people's likenesses and voices, not about who owns AI output. It matters if someone makes a fake of you. It does not change the registration rules.
+
+## 03Part 2: copyrightability
+
+Part 2, published January 29, 2025, is the one most creators need. It addresses whether AI outputs can be copyrighted. Its main conclusions, as the Office summarized them:
+
+- Questions of AI and copyrightability can be resolved under existing law, without new legislation.
+- Using AI to assist, rather than stand in for, human creativity does not affect protection.
+- Copyright protects a human's original expression even if the work also includes AI material.
+- Copyright does not extend to purely AI-generated material, or material where a person had too little control over the expressive elements.
+- Based on current generally available technology, prompts alone do not provide enough control.
+- Human authors are entitled to copyright in their own work that is perceptible in an AI output, and in creative selection, arrangement or modification of output.
+- The case has not been made for a new kind of protection for AI-generated content.
+
+The Register of Copyrights, Shira Perlmutter, put it this way in the Office's January 29, 2025 announcement: "Extending protection to material whose expressive elements are determined by a machine, however, would undermine rather than further the constitutional goals of copyright." For how this plays out in practice, read can you copyright AI-generated work.
+
+---
+
+[referencia=d025ad3ecc8f0dc2 score=0.978]
+# Copyright & AI: U.S. Copyright Office Guidance
+
+## Background
+
+In 2023, the U.S. Copyright Office launched an initiative to examine how artificial intelligence interacts with copyright law. This included public listening sessions, a formal Notice of Inquiry (August 2023), and the collection of more than 10,000 public comments. You can follow the initiative here: copyright.gov/ai.
+
+### Part 1: Digital Replicas
+
+Released July 31, 2024 
+
+This report addressed AI-generated “deepfakes” and digital replicas of people’s voices and likenesses. The Office concluded that current copyright and intellectual property laws do not adequately address the unauthorized creation or use of these replicas and recommended new federal legislation. 
+
+### Part 2: Copyrightability of AI Outputs
+
+Released January 29, 2025 
+
+The Office reaffirmed that human creativity is essential for copyright protection. 
+
+- Works created entirely by AI—even with detailed prompting—are **not eligible** for copyright.
+
+- If a human adds perceptible creative elements (such as selecting, arranging, or significantly modifying AI-generated material), the work **may qualify** for protection on a case-by-case basis.
+
+### Part 3: Generative AI Training
+
+Pre-publication released May 9, 2025 
+
+This draft report examines the use of copyrighted works in training AI systems. Topics include licensing, liability, fair use, and economic impacts. The final version is expected soon, with no substantive changes anticipated. 
+
+### Economic Perspectives
+
+**Published February 2025** 
+
+An economic study commissioned by the Office explored how AI may affect the creative economy and copyright policy. The findings will help guide future recommendations. 
+
+## What This Means for You
+
+- Always credit AI use: If AI helped create your work, disclose it.
+
+- Add your own creativity: Edit, adapt, and shape AI output so your personal authorship is clear.
+
+- Stay updated: AI and copyright rules are changing. Check copyright.gov/ai regularly.
+
+- Be cautious with source material: Don’t feed copyrighted works into AI unless you have permission or a strong fair use case.
+
+- Licenses/terms of service (these overide copyright law):
+
+- Inputs: only upload to an AI what you have the right to. (Many library-licensed resources are not permitted.)
+
+- Terms of Service for AI platforms relate to both input and output.
+
+---
+
+[referencia=e32a3899a64c761b score=0.923]
+The US Copyright Office's position, set out in March 16, 2023 registration guidance and a three-part report from 2024 and 2025, is that copyright covers only human authorship. Applicants must disclose AI material that is more than trivial, claim only their own contributions, and not list AI as an author.
+
+What has the US Copyright Office actually said about AI? More than most people realize, spread across a policy statement, a three-part report and a series of registration decisions. This page puts it in one place, in date order, in plain English.
+
+It belongs to our section on AI and copyright law. Every date here comes from the Copyright Office's Copyright and Artificial Intelligence page. At the end is a decision table you can use to see where your own work probably falls.
+
+## 01The March 2023 registration guidance
+
+On March 16, 2023, the Office published a statement of policy in the Federal Register: Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence (88 FR 16190). It took effect the same day and is still the Office's main rule for applicants.
+
+### The test
+
+The Office asks whether a work is "basically one of human authorship, with the computer merely being an assisting instrument," or whether its traditional elements of authorship were produced by a machine. It called this "necessarily a case-by-case inquiry."
+
+### The duty to disclose
+
+The guidance says applicants "have a duty to disclose the inclusion of AI-generated content" in a work they submit, with a brief explanation of what the human author contributed. AI material that is more than de minimis (more than trivial) should be excluded from the claim. Applicants should not list an AI tool, or the company behind it, as an author or co-author.
+
+### Fixing older filings
+
+The guidance also explains how to correct a pending application or an issued registration that left AI material out. It warns that applicants who do not correct the record "risk losing the benefits of the registration." Step-by-step instructions for each field are on our page about how to complete the AI disclosure on a copyright application.
+
+---
+
+[referencia=e32a3899a64c761b score=0.911]
+## Where the law is still moving
+
+Three things are still moving. The Office said on January 29, 2025 that it plans to supplement its March 2023 guidance and update its Compendium of practices. The Compendium on its site is still the version effective January 28, 2021. Part 3 has not been published in final form. And Allen v. Perlmutter could tell us whether a court sees prompting differently from the Office; it has been fully briefed since February 27, 2026, so a decision could come at any time. No Copyright Office document guarantees that a particular AI workflow will be registered.
+
+## Sources
+
+1. Copyright Registration Guidance: Works Containing Material Generated by Artificial Intelligence (88 FR 16190)
+US Copyright Office, Federal Register · 16 March 2023
+2. Copyright and Artificial Intelligence (report parts, decisions and announcements)
+US Copyright Office · 9 May 2025
+3. NewsNet Issue 1048: Part 1 of Artificial Intelligence Report, Digital Replicas
+US Copyright Office · 31 July 2024
+4. NewsNet Issue 1060: Part 2 of Artificial Intelligence Report, Copyrightability
+US Copyright Office · 29 January 2025
+5. Allen v. Perlmutter, No. 1:24-cv-02665 (D. Colo.), docket
+US District Court for the District of Colorado, via CourtListener · 29 October 2026
+
+How we pick and check these: our editorial method.
+
+---
+
+[referencia=e32a3899a64c761b score=0.889]
+## 06A decision table for your work
+
+This table applies the Office's March 16, 2023 guidance and its January 29, 2025 report to common situations. It is a starting point, not a prediction: the Office decides each application on its facts.
+
+| Your situation | What the Office's documents say | What that usually means on the application | 
+|---|---|---|
+| You wrote or drew the work and used AI only to check spelling, grammar or ideas | Using AI to assist human creativity does not affect protection | Often nothing to exclude; the guidance says some AI use "will not raise questions about human authorship" | 
+| You used AI output as is, from a prompt | Prompts alone do not give enough control; the output is not protected | Exclude it if it is more than trivial; it cannot be the basis of your claim | 
+| You rewrote or repainted AI output substantially | Creative modifications can be protected | Claim your modifications; exclude the AI material underneath | 
+| You combined your own text with AI images | Your text and your selection and arrangement can be protected | Claim the text and the arrangement; exclude the AI images | 
+| You fed in your own drawing or photo, and it still shows in the output | Your work that is perceptible in the output stays yours | Claim your perceptible contribution; exclude what the AI added | 
+| You want to list the AI as author or co-author | The guidance says not to; Thaler confirms a machine cannot be an author | Name only human authors | 
+| You already registered without mentioning AI | The guidance says to correct the record | Pending: contact the Office; registered: file a supplementary registration | 
+
+If someone later questions whether you made the work at all, the records you kept matter more than any form. See what counts as evidence of human authorship.
+
+---
+
+[referencia=21f11da433cc1816 score=0.839]
+## What can be protected
+
+The Copyright Office's report identifies three kinds of human contribution that can support copyright in work involving AI: [3]
+
+- **Your own expression that survives in the output.** If you create an original illustration and use AI
+
+to modify it, copyright in your original human-authored illustration may remain; any claim to the AI-generated changes requires separate analysis. [3]
+
+- **Creative selection and arrangement.** A human who creatively selects, coordinates, or arranges
+
+AI-generated material may own that arrangement — not the individual AI-generated pieces. Selection, coordination, or arrangement of only two or three elements is not generally sufficient. [3]
+
+- **Creative modifications.** Protection reaches the original human modifications, not automatically the
+
+underlying AI output. [3] [4]
+
+The Office's *Zarya of the Dawn* decision shows how this works: the Office retained registration for the human-written text and the selection, coordination, and arrangement of the comic book's elements, while excluding the individual AI-generated images from the claim. [4] [6]
+
+## What this means for a software company
+
+**Code.** The authorities discussed here do not decide the copyrightability of a particular AI-generated code output. As an application of the Copyright Office's general principles, code generated by AI and accepted without sufficient original human expression may not itself qualify for copyright protection; the protectability of human-written code, human revisions, and any larger program is assessed separately. [1] [3] [8] Contracts and appropriate confidentiality measures can provide protections distinct from copyright.
+
+**Marketing copy and images.** For a headline or illustration generated wholesale by AI, you may lack a copyright claim based solely on that AI-generated material. That does not mean the output is free of third-party rights, and it does not resolve contractual or trademark questions. Human-written copy and human edits can be protected to the extent they contain original human expression — and a short headline is not automatically protectable. [3]
+
+**Brand names and logos.** Trademark law works differently. Trademark protection depends on whether a distinctive name or design identifies the source of goods or services through qualifying use — not on whether a human authored the artwork. [7] [10] An AI-generated logo may function as a trademark if it serves that source-identifying role and otherwise qualifies. Creation by AI does not clear conflicting marks, so clearance still matters.
+
+---
+
+[referencia=e32a3899a64c761b score=0.706]
+## 08Questions people ask
+
+### Is the Copyright Office's AI guidance legally binding?
+
+It binds how the Office examines applications, but courts make the final call on copyright law. So far, in Thaler v. Perlmutter on March 18, 2025, the D.C. Circuit agreed with the Office that a human author is required.
+
+### Has the Copyright Office registered any works made with AI?
+
+Yes. In its December 11, 2023 SURYAST decision, the Review Board noted that the Office had granted about 100 registrations in 2023 for works containing AI material, with that material disclaimed.
+
+### Do I have to name the AI tool I used?
+
+No. In its September 5, 2023 decision on Théâtre D'opéra Spatial, the Review Board said applicants are not required to list the AI tools used; a brief description of the AI-generated content is enough.
+
+### Where can I read the reports myself?
+
+On the Copyright Office's own site. Its Copyright and Artificial Intelligence page at copyright.gov/ai links all three parts of the report, the March 16, 2023 guidance, the Review Board decisions and the court filings in Thaler and Allen.
+
+### Has a court ruled on whether prompting counts as authorship?
+
+Not yet. The test case is Allen v. Perlmutter in federal court in Colorado, about a Midjourney image made with 624 or more prompts. Briefing closed on February 27, 2026, and the docket showed no ruling when we checked it on November 1, 2026. Until a court rules, the Copyright Office's position applies: prompts alone are not authorship.
+
+---
+
+[referencia=21f11da433cc1816 score=0.601]
+## Frequently Asked Questions
+
+### Can I copyright something I made with ChatGPT or Midjourney?
+
+You can protect your original text, sufficiently creative arrangement, or original expressive edits, to the extent present in the work. Material the AI generated on its own is not protected. [3] [4]
+
+### Does paying for an enterprise AI plan mean the company owns the output?
+
+An enterprise plan or output-ownership clause can allocate whatever rights the parties have; payment or contract language cannot make otherwise uncopyrightable AI-only expression copyrightable. Check the plan's actual terms and whether others may receive similar outputs. [1] [3]
+
+### Can an AI system be listed as an author or co-author?
+
+No. The Copyright Office instructs applicants not to list an AI tool or its provider as an author. [4]
+
+### Is AI-generated code protected?
+
+The authorities discussed here do not decide the copyrightability of a particular AI-generated code output. Applying the Office's general principles, AI-generated code accepted without sufficient original human expression may not itself qualify; human-written code, human revisions, and the larger program are assessed separately. [1] [3]
+
+### Can an AI-generated logo be a trademark?
+
+It may, if it serves a source-identifying role through qualifying use and otherwise qualifies; trademark protection does not depend on human authorship of the artwork. AI creation does not clear conflicting marks. [7] [10]
+
+### Who owns code my contractor generated with AI?
+
+Paying the contractor does not automatically transfer their copyright. Your agreement should transfer rights they hold, require code delivery, and address AI tools and third-party materials. Purely AI-generated portions may not be copyrightable. An assignment or a tool’s ownership clause does not, by itself, establish permission to use third-party material.
+
+### Do I need to tell investors?
+
+Answer diligence questions accurately and comply with applicable law and your financing documents. Keep records of material AI use, tool terms, assignments and third-party licenses. Whether additional disclosure is needed depends on the circumstances. Do not promise exclusive ownership or unrestricted rights without checking that those statements are supportable.
+
+### What should be in my IP assignment agreement?
+
+Identify the company, the covered work and the rights being transferred, including AI-assisted deliverables. Address prior IP, third-party licenses, approved tools, confidentiality, subcontractors, delivery and follow-up signatures. Include applicable employee-invention exclusions. The agreement should transfer existing rights, not promise copyright protection where none exists.
+
+---
+
+[referencia=21f11da433cc1816 score=0.463]
+## AI-assisted is not the same as AI-generated
+
+Using AI as an assistive tool does not by itself defeat protection for independently copyrightable human expression; protection does not extend merely because a person directed or accepted AI-generated expression. [3] [4] In the Copyright Office's words, "[n]either the use of AI as an assistive tool nor the incorporation of AI-generated content into a larger copyrightable work affects the availability of copyright protection for the work as a whole." [3] That does not mean every component of the work is protected.
+
+The harder case is where the AI makes the expressive choices. The Office's 2023 guidance gives the example of asking a text tool to "write a poem about copyright law in the style of William Shakespeare": the tool, not the user, decides the words, rhyme, and structure. [4] The guidance compares prompts to "instructions to a commissioned artist" — they say what you want, but the system decides how it is expressed. [4]
+
+## Do detailed prompts make you the author?
+
+Not under the Copyright Office's current position. Its January 2025 report concludes that, "[b]ased on the functioning of current generally available technology, prompts do not alone provide sufficient control." [3] Repeatedly revising prompts does not, by itself, establish authorship of the resulting expression under the Office's assessment of current generally available systems. [3] [4] The Office evaluates each work case by case. [3]
+
+In *Allen v. Perlmutter*, an artist is challenging a registration refusal involving an AI-assisted image; as of our September 25, 2026 review, we could not verify a merits ruling. [5]
+
+---
+
+[referencia=21f11da433cc1816 score=0.200]
+## Arizona
+
+Federal copyright law’s human-authorship requirement applies in Arizona too. Trade-secret protection is a separate question. Under Arizona law, information must have qualifying economic value from secrecy and be subject to reasonable efforts to maintain that secrecy. [16] Before uploading confidential code to an AI service, evaluate the applicable contract, access controls, retention and data-use settings. Uploading does not automatically eliminate trade-secret protection, but the circumstances matter.
+
+## A checklist for founders
+
+- Inventory which AI tools your team uses for code, copy, and images.
+- Keep records of human contribution — drafts, edits, design decisions, commit history.
+- Put appropriate signed IP assignments in place with founders, employees, and contractors, tailored to
+
+their roles and any pre-existing work.
+
+- Review AI vendor terms on output ownership, input use, and indemnity.
+- When registering a copyright, disclose more-than-de-minimis AI-generated material and claim only the
+
+human authorship.
+
+- Clear AI-generated brand names and logos before you rely on them.
+- Don't overstate IP ownership in investor materials, diligence answers, or customer contracts — and
+
+don't assume every AI-assisted asset is unowned, either.
+
+Using contractors or agencies? See Your Contractor Used AI. Who Owns the Work You Paid For?
+
+---
+
+[referencia=e32a3899a64c761b score=0.189]
+## 05What the courts have added
+
+The Office's guidance is not the last word; courts can review its decisions. So far they have agreed with it on the core point.
+
+- **Thaler v. Perlmutter.** On March 18, 2025, the D.C. Circuit held that the Copyright Act "requires all eligible work to be authored in the first instance by a human being." The Supreme Court denied review on March 2, 2026. The court did not decide how much human input is enough, because Thaler had named his AI as the sole author.
+- **Allen v. Perlmutter.** Artist Jason Allen sued in federal court in Colorado on September 26, 2024, after the Office's Review Board refused his Midjourney image on September 5, 2023. The case asks whether detailed prompting can be authorship. Both sides asked the judge to decide it on the written record: Allen moved for summary judgment on August 25, 2025, the Office cross-moved on January 16, 2026, and briefing closed with Allen's reply on February 27, 2026. On June 9, 2026, Judge William J. Martinez turned away a late friend-of-the-court brief because briefing had closed. The docket showed no ruling on the merits when we checked it on November 1, 2026.
+
+The registration decision that first applied these ideas to a mixed work was a comic book; see the Zarya of the Dawn ruling explained.
+
+---
+
+[referencia=e32a3899a64c761b score=0.141]
+## 04Part 3: training, still pre-publication
+
+Part 3 deals with a different question: whether AI companies may use copyrighted works to train their systems. The Office released it on May 9, 2025 as a "pre-publication version," in response to congressional inquiries and public interest. When we checked the Office's AI page on November 1, 2026, it still listed Part 3 as pre-publication and said the final version would come "without any substantive changes expected in the analysis or conclusions." It says a final version "will be published in the future, without any substantive changes expected in the analysis or conclusions."
+
+Part 3 describes how training works, explains why it can involve copying, and treats fair use as the main defense. It applies the four factors in Section 107 of the Copyright Act. One question it weighs is whether AI output can dilute the market for the works a system learned from. It also looks at voluntary licensing as a way forward. When the Office released it, the report noted that dozens of lawsuits on the question were pending in the United States. Courts, not the Office, will decide them.
+
+Part 3 does not change the registration rules for your own work. It matters if you want to know whether your work can be used to train AI without permission.
+
+---
+
+[referencia=21f11da433cc1816 score=0.113]
+Your engineers ship code written with an AI assistant. Your marketing lead generates product copy and hero images. Your pitch deck says the company owns its IP. Does it?
+
+**Short answer.** Using AI does not automatically make your startup, or the person operating the tool, the exclusive owner of the result. Ownership depends on any human-created work, your agreements with employees, contractors and co-founders, and the tool’s terms. Purely AI-generated material may have no copyright protection. Permission to use output is not a guarantee that it is exclusive or free of third-party claims.
+
+Under U.S. law, a central question is who supplied the creative expression. **U.S. copyright protection does not extend to AI-generated material itself.** A human-authored work that contains AI-generated material can still be protected, but only as to the human-authored parts. [1] [3] That line affects what copyright your company may own; contracts, trademarks, and confidentiality raise separate questions.
+
+## The rule: a human has to be the author
+
+In *Thaler v. Perlmutter*, a computer scientist applied to register an image and listed his AI system as its **sole author**. The Copyright Office refused, and the D.C. Circuit affirmed, holding that "the Copyright Act of 1976 requires all eligible work to be authored in the first instance by a human being." [1]
+
+The court read the Act as a whole: copyright generally lasts for the author's life plus 70 years, passes to a widow or children, and is transferred by a signed writing — provisions that assume a human author. [1] It also held that the work-made-for-hire rule could not make him the statutory author of an image asserted to have been created solely by a machine. [1] [8] On March 2, 2026, the Supreme Court denied review, leaving that decision in place. [2]
+
+The court noted that the rule "does not prohibit copyrighting work that was made by or with the assistance of artificial intelligence." [1] But the court did not decide how much human contribution makes a particular AI-assisted work copyrightable.
+
+---
+
+[referencia=21f11da433cc1816 score=0.040]
+## What the AI tools’ terms say
+
+These ownership provisions generally address rights between the provider and its user or customer. They do not, by themselves, settle ownership between a contractor and your startup, create copyright in unprotectable material, or establish that output is free of third-party rights. Terms below were checked October 21, 2026.
+
+- **Anthropic / Claude consumer terms (effective October 8, 2025):** Anthropic assigns its rights, if any, in outputs to the user. [11]
+- **Anthropic commercial terms (effective June 17, 2025):** as between Anthropic and the customer, the customer owns outputs. This does not guarantee that output is exclusive or free of third-party claims. [12]
+- **OpenAI / ChatGPT Terms of Use (effective January 1, 2026):** subject to applicable law, users own output as between themselves and OpenAI. Outputs may not be unique. [13]
+- **OpenAI business / API Services Agreement (effective January 1, 2026):** as between OpenAI and the customer, the customer owns output. [14]
+- **GitHub Terms of Service (effective April 27, 2026):** GitHub says it does not claim ownership of input or output covered by those terms. Separate terms apply to some Copilot Business and Enterprise subscriptions, so check the agreement governing your plan. Neither statement guarantees exclusive ownership or third-party clearance. [15]
+
+Tool terms change, and the version governing the account when the work was created may matter. Training, retention and privacy settings raise separate questions from ownership.
+
+## IP ownership questions to prepare for in investor and buyer diligence
+
+Who contributed (employees, founders, contractors, pre-incorporation work)? What was transferred, in signed assignments to the right company? What did humans create? Which AI tools and accounts were used, under what terms? What came from elsewhere (open-source, copied snippets, license obligations)? What confidential material was uploaded? Can the company support the ownership and non-infringement promises it is making? A signed assignment is often necessary, but it is not a substitute for records of where the code came from.
+
+---
+
+[referencia=21f11da433cc1816 score=0.006]
+## Registering a copyright for work that includes AI
+
+When seeking registration, applicants should disclose more-than-de-minimis AI-generated content, identify the human contribution, and exclude that AI-generated content from the claim. [4] Applicants should not list an AI tool or its provider as an author or co-author. [4]
+
+Getting this wrong can have consequences. If essential information was omitted, the Office may take steps to cancel the registration, and a court may disregard a registration in an infringement case if the applicant knowingly provided inaccurate information that would have led to refusal. [4] The Office's stated route for correcting an already-issued registration is a supplementary registration. [4]
+
+## Contracts decide who holds what humans create
+
+Copyright law addresses both protectability and initial ownership. Contracts can allocate or transfer rights where the law permits. [8]
+
+- **Employees.** Copyrightable work an employee prepares within the scope of employment is generally a
+
+"work made for hire," and the employer is considered its author unless the parties have expressly agreed otherwise in a signed writing. [8] A founder is not automatically an employee simply by founding the company. A separate signed assignment is valuable for ownership clarity outside the employee work-for-hire rule — the rule itself does not require one.
+
+- **Contractors.** For a genuine independent contractor, a signed work-made-for-hire agreement works only
+
+for a specially commissioned work within one of the categories listed in the statute; the writing alone cannot put other work into a category. [8] Otherwise, transferring copyright ownership generally requires a writing signed by the owner or an authorized agent. [9] Obtain a signed written assignment if the company is to own the contractor's copyright. Absent a qualifying work-made-for-hire arrangement or a signed transfer, the contractor may retain copyright in their original human-authored contribution; a license may instead give the company specified use rights. [8] [9]
+
+- **AI vendors.** An enterprise plan or output-ownership clause can allocate whatever rights the parties
+
+have; payment or contract language cannot make otherwise uncopyrightable AI-only expression copyrightable. Check the plan's actual terms — including whether others may receive similar outputs, and whether the provider offers any indemnity — rather than assuming.
+
+---
+
+[referencia=21f11da433cc1816 score=0.000]
+## Sources
+
+This information is current as of October 2026.
+
+This page and checklist provide general information, not legal advice about your circumstances. Reading them or submitting a booking request does not, by itself, create an attorney-client relationship. Ownership depends on the work, agreements, applicable law and tool terms. Laws and terms can change.
+
+This article is provided for general informational purposes only and does not constitute legal advice. Reading this article or contacting Accord & Shield Legal does not create an attorney-client relationship. It does not address securities, tax, or litigation strategy. Some of the ownership and portability questions discussed above are unsettled or fact-dependent, and are identified as such rather than resolved. Laws, contracts, and applicable statutes can change, and their application depends on specific facts and jurisdictions. Do not act or refrain from acting based on this article without obtaining advice from qualified counsel regarding your circumstances. This material may be considered attorney advertising in some jurisdictions. Past results do not guarantee future outcomes.

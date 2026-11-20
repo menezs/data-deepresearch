@@ -1,0 +1,32 @@
+[referencia=7b9f63d19d68e7ac score=0.994]
+#### **The Counter-Notification Procedure**
+
+The most significant change to the bill is a counter-notification process modeled off the Digital Millennium Copyright Act (DMCA) that allows users to contest removal of digital replicas. Earlier drafts of NO FAKES obligated online services to remove flagged replicas under a notice-and-takedown regime but gave the person who posted the material no formal mechanism to contest the removal, leading to criticism from open internet groups. The 2026 draft changes that: the user “that placed the applicable material on the online service” may now submit a counter-notification disputing the takedown and seek to restore the content.
+
+For those experienced with the DMCA takedown regime, the procedure will be familiar. To contest a take down, the original poster must submit a written counter-notification delivered “to the designated agent of the online service provider to which that notification was submitted” containing the following:
+
+1. The online poster’s “physical signature, witnessed or attested to in person by a licensed notary public.”
+2. The identification of “the material that has been removed or to which access has been disabled and the location at which the material appeared before the material was removed or access to the material was disabled.”
+3. Contact information “reasonably sufficient” to allow the “provider of the online service and the individual or entity that provided the notification under paragraph (3) to contact the party providing the counter-notification, including an address, telephone number, and email address.”
+4. “A statement made under penalty of perjury” and “a good faith belief that the applicable material was removed, or access to that material was disabled, as a result of mistake or misidentification of the material to be removed or access to which was to be disabled . . . which shall include a specific assertion” that the material “is not a digital replica,” “is an authorized digital replica,” or “is an unauthorized digital replica that satisfies an exclusion under paragraph (4) or (5) of subsection (c),” together with “a succinct explanation of how such material satisfies the applicable exclusion or requirement.”
+5. The counter-notifier must consent to federal jurisdiction and agree to “accept service of process” from the party that sent the original notice.
+
+---
+
+[referencia=7b9f63d19d68e7ac score=0.029]
+# Congress Reintroduces the NO FAKES Act: What’s New in the 2026 Bill
+
+On May 20, 2026, a bipartisan group of legislators reintroduced the latest version of the Nature Originals, Foster Art, and Keep Entertainment Safe Act of 2026 (NO FAKES Act), S.4591 and H.R.8915. This is the fourth time the bill has surfaced in roughly three years, after a 2023 discussion draft (which we wrote about ), the 2024 introduction (our missive ) and a 2025 reintroduction. While neither prior iteration of the bill saw passage, the 2026 version carries new revisions and new co-sponsors across media and tech that may give it the strongest chance yet of enactment.
+
+Senators Marsha Blackburn (R-Tenn.), Chris Coons (D-Del.), Thom Tillis (R-N.C.) and Amy Klobuchar (D-Minn.) joined House Representatives María Salazar (R-Fla.), Madeleine Dean (D-Pa.), Nathaniel Moran (R-Tex.) and Becca Balint (D-Vt.) in co-sponsoring the 2026 NO FAKES Act—one of the most closely watched federal AI bills. The underlying aim of the bill remains unchanged: to give every individual a federal, licensable property right in their own voice and visual likeness and a means of enforcing it against the unauthorized digital replicas that generative AI makes easy to produce. The bill features a new counter-notification procedure and other expanded First Amendment protections that may at last push this version out of Committee and smooth its path to passage.
+
+---
+
+[referencia=7b9f63d19d68e7ac score=0.002]
+Once a compliant counter-notification arrives, a provider that “opts to replace the removed material” must “promptly” send the original complainant “a copy of the counter-notification” and then, “not less than 14 days” later, restore the content, “unless an eligible plaintiff . . . brings an action,” in which case the material must be taken back down. The channel is policed at both ends, in that a counter-notifier who knowingly misrepresents that the material “was removed or disabled by mistake,” “is not a digital replica,” or “is subject to an exclusion” faces liability for the greater of “$25,000 per . . . counter-notification” or actual damages plus fees, with a “failure to consider in good faith” those points itself treated as a “knowing material misrepresentation.”
+
+#### **Exclusions for Libraries, Archives and Researchers**
+
+The 2026 bill also adds a new liability exclusion for “nonprofit libraries or archives” and “accredited nonprofit educational institution[s] with respect to an activity undertaken without any purpose of direct or indirect commercial advantage,” including their employees and network-access providers. This exclusion sits alongside the pre-existing First Amendment carve-outs highlighted .
+
+With these additional protections, the NO FAKES Act stands closer to enactment than in any prior session, but the bill still needs to survive committee and floor votes. In the meantime, the patchwork of state right of publicity laws—including some that specifically address digital replicas like California’s (as we wrote about )—remain available to rightsholders, along with emerging alternate paths that individuals are exploring to protect their name and likeness, including through federal trademark law. But should the NO FAKES Act be signed into law, it will represent the first nationwide publicity right that may provide powerful tools to rightsholders (including estates) and their licensees.

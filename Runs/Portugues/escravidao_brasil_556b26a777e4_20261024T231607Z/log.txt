@@ -1,0 +1,296 @@
+2026-10-24 19:16:07,731 INFO     auditframework.cli: Iniciando run escravidao_brasil_556b26a777e4_20261024T231607Z para
+                                 answers/Gemini/Consolidado/escravidao_brasil.docx (ferramenta=Gamini)
+2026-10-24 19:16:14,748 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-10-24 19:16:14,748 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-10-24 19:16:16,782 INFO     auditframework.terminal: Loading weights:
+                                 100%|████████████████████████████████████████████████████████████████████████| 391/391
+                                 [00:00<00:00, 12612.46it/s]
+2026-10-24 19:16:26,772 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-10-24 19:16:26,781 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-10-24 19:16:26,910 INFO     auditframework.pipeline: Extraidas 49 referencias de
+                                 answers/Gemini/Consolidado/escravidao_brasil.docx (0 descartadas como artefato do
+                                 exportador)
+2026-10-24 19:16:26,921 INFO     auditframework.pipeline: Resposta dividida em 123 afirmacoes citadas
+2026-10-24 19:16:26,929 INFO     auditframework.terminal: ✓ extraction concluído em 0.1s
+2026-10-24 19:16:26,930 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-10-24 19:16:26,933 INFO     auditframework.ingestion.service: Ingestao: 49 referencias, 0 ja baixadas, 0 ja
+                                 bloqueadas, 49 pendentes
+2026-10-24 19:16:48,100 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://ojs.sites.ufsc.br/index.php/sceh/article/view/182/157
+2026-10-24 19:16:51,540 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://plenarinho.leg.br/index.php/2022/07/francisco-jose-nascimento-o-dragao-mar/
+2026-10-24 19:17:03,713 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.scielosp.org/article/csc/2026.v31n5/e02592026/pt/
+2026-10-24 19:17:05,452 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www2.senado.leg.br/bdsf/handle/id/174446
+2026-10-24 19:17:18,729 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-170-anos-lei-de-terras-desprezou-camponeses-e-oficializou-apoio-do-brasil-aos-latifundios
+2026-10-24 19:17:19,861 WARNING  trafilatura.core: discarding data: None
+2026-10-24 19:17:28,858 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos
+2026-10-24 19:17:52,092 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://legis.senado.leg.br/sdleg-getter/documento?dm=2925895&disposition=inline
+2026-10-24 19:17:52,651 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica
+2026-10-24 19:17:52,654 INFO     auditframework.terminal: Baixando referências:
+                                 100%|███████████████████████████████████████████████████████████████████████| 49/49
+                                 [01:25<00:00,  1.75s/ref]
+2026-10-24 19:17:52,655 INFO     auditframework.ingestion.service: Retentando 7 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-10-24 19:18:15,161 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www2.senado.leg.br/bdsf/handle/id/174446
+2026-10-24 19:18:17,523 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://ojs.sites.ufsc.br/index.php/sceh/article/view/182/157
+2026-10-24 19:18:39,242 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-170-anos-lei-de-terras-desprezou-camponeses-e-oficializou-apoio-do-brasil-aos-latifundios
+2026-10-24 19:18:41,479 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://plenarinho.leg.br/index.php/2022/07/francisco-jose-nascimento-o-dragao-mar/
+2026-10-24 19:19:03,200 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos
+2026-10-24 19:19:33,361 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://legis.senado.leg.br/sdleg-getter/documento?dm=2925895&disposition=inline
+2026-10-24 19:19:55,886 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica
+2026-10-24 19:19:55,887 INFO     auditframework.terminal: Retentando inacessíveis:
+                                 100%|██████████████████████████████████████████████████████████████████████| 7/7
+                                 [02:03<00:00, 17.60s/ref]
+2026-10-24 19:19:55,890 INFO     auditframework.pipeline: Ingestao concluida: 41 documentos disponiveis
+2026-10-24 19:19:55,891 INFO     auditframework.terminal: ✓ ingestion concluído em 213.6s
+2026-10-24 19:19:55,892 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-10-24 19:19:56,978 INFO     auditframework.terminal: Extraindo chunks de documentos:
+                                 100%|█████████████████████████████████████████████████████████████| 41/41 [00:01<00:00,
+                                 37.86doc/s]
+2026-10-24 19:19:56,978 INFO     auditframework.indexing.service: Gerando embeddings para 740 chunks de 41 documentos
+2026-10-24 19:20:21,550 INFO     auditframework.terminal: Batches:
+                                 100%|█████████████████████████████████████████████████████████████████████████████████████|
+                                 47/47 [00:24<00:00,  1.91it/s]
+2026-10-24 19:20:21,621 INFO     auditframework.pipeline: Indice construido a partir de 41 documentos
+2026-10-24 19:20:21,623 INFO     auditframework.terminal: ✓ indexing concluído em 26.5s
+2026-10-24 19:20:21,624 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-10-24 19:20:21,634 INFO     auditframework.pipeline: Julgamento: 123 chunks, 0 ja julgados, 0 ja pulados, 123
+                                 pendentes
+2026-10-24 19:20:22,371 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-10-24 19:20:22,853 INFO     auditframework.terminal: Recuperando contexto:   0%|
+                                 | 0/123 [00:00<?, ?chunk/s]
+2026-10-24 19:20:22,962 INFO     auditframework.terminal: Loading weights:   0%|
+                                 | 0/393 [00:00<?, ?it/s]
+2026-10-24 19:20:23,074 INFO     auditframework.terminal: Loading weights:  34%|█████████████████████████
+                                 | 135/393 [00:00<00:00, 1289.27it/s]
+2026-10-24 19:20:23,131 INFO     auditframework.terminal: Loading weights:
+                                 100%|█████████████████████████████████████████████████████████████████████████| 393/393
+                                 [00:00<00:00, 1423.11it/s]
+2026-10-24 19:20:50,380 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-36 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:20:55,949 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-47 nao sera auditado: Referencia(s)
+                                 citada(s) ['ccfa7b1e3cfd7147'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:26,793 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-83 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:26,795 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-84 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:26,797 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-85 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:26,798 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-86 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:26,800 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-87 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:26,801 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-88 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:26,802 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-89 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:26,804 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-90 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:28,437 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-92 nao sera auditado: Referencia(s)
+                                 citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:38,274 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-105 nao sera auditado: Referencia(s)
+                                 citada(s) ['0ca0d957bc45b8a5'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:38,276 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-106 nao sera auditado: Referencia(s)
+                                 citada(s) ['0ca0d957bc45b8a5'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:38,277 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-107 nao sera auditado: Referencia(s)
+                                 citada(s) ['0ca0d957bc45b8a5'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:38,279 WARNING  auditframework.indexing.retriever: Chunk
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z-108 nao sera auditado: Referencia(s)
+                                 citada(s) ['0ca0d957bc45b8a5'] nao possui(em) conteudo indexado (nao
+                                 baixada(s)/inacessivel(is)).
+2026-10-24 19:21:45,236 INFO     auditframework.terminal: Recuperando contexto:
+                                 100%|███████████████████████████████████████████████████████████████████| 123/123
+                                 [01:23<00:00,  1.47chunk/s]
+2026-10-24 19:31:57,955 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-36 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:33:39,586 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-47 nao
+                                 auditado: Referencia(s) citada(s) ['ccfa7b1e3cfd7147'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:42:36,019 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-83 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:42:36,020 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-84 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:42:36,021 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-85 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:42:36,022 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-86 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:42:36,023 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-87 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:42:36,024 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-88 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:42:36,025 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-89 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:42:36,026 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-90 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:43:01,041 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-92 nao
+                                 auditado: Referencia(s) citada(s) ['46011394e9d2be64'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:46:12,219 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-105 nao
+                                 auditado: Referencia(s) citada(s) ['0ca0d957bc45b8a5'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:46:12,220 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-106 nao
+                                 auditado: Referencia(s) citada(s) ['0ca0d957bc45b8a5'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:46:12,221 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-107 nao
+                                 auditado: Referencia(s) citada(s) ['0ca0d957bc45b8a5'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:46:12,222 WARNING  auditframework.pipeline: Chunk escravidao_brasil_556b26a777e4_20261024T231607Z-108 nao
+                                 auditado: Referencia(s) citada(s) ['0ca0d957bc45b8a5'] nao possui(em) conteudo indexado
+                                 (nao baixada(s)/inacessivel(is)).
+2026-10-24 19:49:54,841 INFO     auditframework.terminal: Julgando chunks:
+                                 100%|████████████████████████████████████████████████████████████████████████| 123/123
+                                 [28:09<00:00, 13.74s/chunk]
+2026-10-24 19:49:54,844 INFO     auditframework.terminal: ✓ judging concluído em 1817.4s
+2026-10-24 19:49:54,852 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-10-24 19:49:54,861 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/escravidao_brasil_556b26a777e4_20261024T231607Z/report.md
+2026-10-24 19:49:54,863 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-10-24 19:49:54,864 INFO     auditframework.cli: Run escravidao_brasil_556b26a777e4_20261024T231607Z concluida
+2026-10-24 19:49:54,865 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/escravidao_brasil_556b26a777e4_20261024T231607Z/report.md
+2026-11-03 23:31:08,509 INFO     auditframework.terminal: audit refetch escravidao_brasil_556b26a777e4_20261024T231607Z
+2026-11-03 23:31:08,514 INFO     auditframework.ingestion.service: Ingestao: 49 referencias, 41 ja baixadas, 0 ja
+                                 bloqueadas, 8 pendentes
+2026-11-03 23:31:09,046 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://plenarinho.leg.br/index.php/2022/07/francisco-jose-nascimento-o-dragao-mar/
+2026-11-03 23:31:16,062 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www.scielosp.org/article/csc/2026.v31n5/e02592026/pt/
+2026-11-03 23:31:38,151 WARNING  trafilatura.core: discarding data: None
+2026-11-03 23:31:38,153 WARNING  auditframework.ingestion.service: Barreira de acesso (anti_bot) em
+                                 https://www2.senado.leg.br/bdsf/handle/id/174446
+2026-11-03 23:31:45,073 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-170-anos-lei-de-terras-desprezou-camponeses-e-oficializou-apoio-do-brasil-aos-latifundios
+                                 recuperada imitando o Safari
+2026-11-03 23:31:46,131 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos
+                                 recuperada imitando o Safari
+2026-11-03 23:31:54,462 INFO     auditframework.ingestion.fetcher: Referencia
+                                 https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica
+                                 recuperada imitando o Safari
+2026-11-03 23:31:54,473 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 8/8 [00:45<00:00,
+                                 5.74s/ref]
+2026-11-03 23:31:54,474 INFO     auditframework.ingestion.service: Retentando 1 referencia(s) inacessivel(is) (falha
+                                 possivelmente transitoria)
+2026-11-03 23:31:54,949 WARNING  auditframework.ingestion.service: Referencia inacessivel:
+                                 https://plenarinho.leg.br/index.php/2022/07/francisco-jose-nascimento-o-dragao-mar/
+2026-11-03 23:31:54,951 INFO     auditframework.terminal: Retentando inacessíveis: 100%|██████████| 1/1 [00:00<00:00,
+                                 2.10ref/s]
+2026-11-03 23:31:54,959 INFO     auditframework.terminal: escravidao_brasil_556b26a777e4_20261024T231607Z: 8 fonte(s)
+                                 sem conteudo, 5 recuperada(s)
+2026-11-03 23:31:54,959 INFO     auditframework.terminal:
+                                 https://ojs.sites.ufsc.br/index.php/sceh/article/view/182/157 — downloaded
+2026-11-03 23:31:54,959 INFO     auditframework.terminal:
+                                 https://www12.senado.leg.br/noticias/especiais/arquivo-s/ha-170-anos-lei-de-terras-desprezou-camponeses-e-oficializou-apoio-do-brasil-aos-latifundios
+                                 — downloaded
+2026-11-03 23:31:54,959 INFO     auditframework.terminal:
+                                 https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos
+                                 — downloaded
+2026-11-03 23:31:54,959 INFO     auditframework.terminal:
+                                 https://legis.senado.leg.br/sdleg-getter/documento?dm=2925895&disposition=inline —
+                                 downloaded
+2026-11-03 23:31:54,959 INFO     auditframework.terminal:
+                                 https://www12.senado.leg.br/institucional/museu/exposicoes/brasil-da-monarquia-a-republica/galeria/video/a-proclamacao-da-republica
+                                 — downloaded
+2026-11-03 23:31:55,104 INFO     auditframework.terminal: Artefatos de indexacao/julgamento movidos para
+                                 data/runs/escravidao_brasil_556b26a777e4_20261024T231607Z/invalidado-20261104T033154Z
+2026-11-03 23:31:55,104 INFO     auditframework.terminal: 5 trecho(s) citado(s) para julgar de novo (os demais mantem o
+                                 veredito)
+2026-11-03 23:31:55,104 INFO     auditframework.terminal: Rode: audit resume
+                                 escravidao_brasil_556b26a777e4_20261024T231607Z
+2026-11-03 23:31:55,690 INFO     __main__: Retomando run escravidao_brasil_556b26a777e4_20261024T231607Z
+2026-11-03 23:32:01,344 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF
+                                 Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:32:01,344 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the
+                                 HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-03 23:32:03,263 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00,
+                                 10398.53it/s]
+2026-11-03 23:32:12,548 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai'
+                                 modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas
+                                 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-03 23:32:12,556 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: extraction
+2026-11-03 23:32:12,556 INFO     auditframework.terminal: ⏭ Pulando estágio já concluído: ingestion
+2026-11-03 23:32:12,557 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-03 23:32:13,704 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 46/46
+                                 [00:01<00:00, 40.70doc/s]
+2026-11-03 23:32:13,705 INFO     auditframework.indexing.service: Gerando embeddings para 784 chunks de 46 documentos
+2026-11-03 23:32:39,423 INFO     auditframework.terminal: Batches: 100%|██████████| 49/49 [00:25<00:00,  1.91it/s]
+2026-11-03 23:32:39,501 INFO     auditframework.pipeline: Indice construido a partir de 46 documentos
+2026-11-03 23:32:39,503 INFO     auditframework.terminal: ✓ indexing concluído em 26.9s
+2026-11-03 23:32:39,504 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-03 23:32:39,518 INFO     auditframework.pipeline: Julgamento: 123 chunks, 108 ja julgados, 10 ja pulados, 5
+                                 pendentes
+2026-11-03 23:32:40,254 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is
+                                 deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or
+                                 `config_kwargs` instead.
+2026-11-03 23:32:40,723 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/5 [00:00<?, ?chunk/s]
+2026-11-03 23:32:40,825 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-03 23:32:40,879 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00,
+                                 2535.00it/s]
+2026-11-03 23:32:49,589 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 5/5 [00:10<00:00,
+                                 2.01s/chunk]
+2026-11-03 23:35:00,650 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 5/5 [02:11<00:00,
+                                 26.21s/chunk]
+2026-11-03 23:35:00,651 INFO     auditframework.terminal: ✓ judging concluído em 141.1s
+2026-11-03 23:35:00,660 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-03 23:35:00,671 INFO     auditframework.pipeline: Relatorio gerado em
+                                 data/runs/escravidao_brasil_556b26a777e4_20261024T231607Z/report.md
+2026-11-03 23:35:00,673 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-03 23:35:00,673 INFO     __main__: Run escravidao_brasil_556b26a777e4_20261024T231607Z concluida
+2026-11-03 23:35:00,674 INFO     auditframework.terminal: Relatorio gerado em
+                                 data/runs/escravidao_brasil_556b26a777e4_20261024T231607Z/report.md

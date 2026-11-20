@@ -1,0 +1,2806 @@
+{
+  "run_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+  "answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+  "tool_name": "Gemini",
+  "answer_path": "answers/Ingles/Gemini/EmConsolidacao/semana_trabalho.docx",
+  "generated_at": "2026-11-18T10:36:36.591634Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".docx",
+    "size_bytes": 26785,
+    "page_count": null,
+    "pdf_title": "Word Document",
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": "2026-11-17 01:54:16+00:00",
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 235,
+    "citation_markers_distinct": 81,
+    "references_listed": 81,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 114,
+  "pct_supported": 58.77192982456141,
+  "pct_unsupported": 26.31578947368421,
+  "pct_contradicted": 2.631578947368421,
+  "count_supported": 67,
+  "count_unsupported": 30,
+  "count_contradicted": 3,
+  "count_skipped": 14,
+  "count_audited": 100,
+  "pct_supported_audited": 67.0,
+  "pct_unsupported_audited": 30.0,
+  "pct_contradicted_audited": 3.0,
+  "count_partially_supported": 34,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 3,
+    "fonte_citada_sem_conteudo": 11
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 4,
+  "count_reclassified_by_verification": 11,
+  "verification_stage_counts": {
+    "context_expansion": 10,
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 11,
+  "uncredited_reference_count": 4,
+  "dead_references": [],
+  "inaccessible_references": [
+    {
+      "id": "2185286b9fcefee0",
+      "citation_markers": [
+        "[49]"
+      ],
+      "raw_url": "https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report",
+      "normalized_url": "https://researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report",
+      "work_key": "https://researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report",
+      "title": "Four-Day Week: Results from Portuguese Trial - Final Report —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "inaccessible",
+      "http_status": null,
+      "fetched_at": "2026-11-18T01:35:35.432910Z",
+      "error_message": "download excedeu 90s",
+      "barrier_kind": null,
+      "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "blocked_references": [
+    {
+      "id": "d4ddca1ad6c6b0d5",
+      "citation_markers": [
+        "[2]"
+      ],
+      "raw_url": "https://www.help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf",
+      "normalized_url": "https://help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf",
+      "work_key": "https://help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf",
+      "title": "Statement by Juliet Schor, Professor of Sociology, Boston College, before the Senate Committee on Health, Education, Labor, and Pensions —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T01:33:04.782753Z",
+      "error_message": "barreira de acesso (http_error): # Access Denied You don't have permission to access \"http://www.help.senate.gov/$(SERVE_403)/download/dr-schor-help-test",
+      "barrier_kind": "http_error",
+      "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "92f171d67c24cc2d",
+      "citation_markers": [
+        "[13]"
+      ],
+      "raw_url": "https://www.krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc",
+      "normalized_url": "https://krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc",
+      "work_key": "https://krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc",
+      "title": "New bill introduced in Congress would reduce workweek to 32 hours —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T01:32:51.966952Z",
+      "error_message": "barreira de acesso (http_error): # Access Denied You don't have permission to access \"http://www.krem.com/article/news/nation-world/32-hour-workweek-bill",
+      "barrier_kind": "http_error",
+      "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "17c3f556ec5ec165",
+      "citation_markers": [
+        "[31]"
+      ],
+      "raw_url": "https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q",
+      "normalized_url": "https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q",
+      "work_key": "https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q",
+      "title": "The Productivity of Working Hours —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T01:32:50.774582Z",
+      "error_message": "barreira de acesso (anti_bot): Complete the security check before continuing. This step verifies that you are not a bot, which helps to protect your ac",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "87829b0515d5b7be",
+      "citation_markers": [
+        "[32]"
+      ],
+      "raw_url": "https://www.econstor.eu/bitstream/10419/145237/1/dp10103.pdf",
+      "normalized_url": "https://econstor.eu/bitstream/10419/145237/1/dp10103.pdf",
+      "work_key": "https://econstor.eu/bitstream/10419/145237/1/dp10103.pdf",
+      "title": "Recovery from Work and the Productivity of Working Hours —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T01:34:07.696146Z",
+      "error_message": "barreira de acesso (anti_bot): # **Making sure you're not a bot!** [image] [image] Loading... You are seeing this because EconStor has set up <a href=\"",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+      "tool_name": "Gemini"
+    },
+    {
+      "id": "6d57404d88418e33",
+      "citation_markers": [
+        "[50]"
+      ],
+      "raw_url": "https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453/",
+      "normalized_url": "https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453",
+      "work_key": "https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453",
+      "title": "Four-Day Week Trial in Portugal: Results and Analysis —",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T01:33:42.389554Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "semana_trabalho_ea8709888325_20261117T015346Z",
+      "tool_name": "Gemini"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-26",
+      "reason": "Referencia(s) citada(s) ['17c3f556ec5ec165'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-27",
+      "reason": "Referencia(s) citada(s) ['17c3f556ec5ec165'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-53",
+      "reason": "Referencia(s) citada(s) ['d4ddca1ad6c6b0d5'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-0",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['d4ddca1ad6c6b0d5'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-0",
+        "verdict": "supported",
+        "justification": "A evidência sustenta os elementos essenciais da afirmação: ensaios corporativos (UK 2022, Microsoft Japan 2019), municipais (Islândia, setor público) e multipaíses (Fan et al., 6 países) com redução de jornada sem corte de salário; resultados consistentes de menor burnout, melhor sono, menor fadiga e maior retenção; ambientes autoselecionados e majoritariamente white-collar. O ponto sobre manutenção de output é parcialmente respaldado (receita +1,4% em 23 firmas UK, output 'mostly held steady'), mas a evidência ressalva que output não foi medido na maioria dos ensaios.",
+        "cited_excerpts": [
+          "Analysis of pre- and post-trial data from 2,896 employees across 141 organizations in Australia, Canada, Ireland, New Zealand, the UK and the USA shows improvements in burnout, job satisfaction, mental health and physical health",
+          "Three key factors mediate the relationship: improved self-reported work ability, reduced sleep problems and decreased fatigue.",
+          "71% of employees self-reported lower burnout",
+          "57% fall in staff turnover vs. the same period the prior year",
+          "Revenue rose 1.4% on average, but only 23 of 61 organizations provided revenue data.",
+          "For well-being in volunteer, mostly white-collar firms: yes, consistently. Burnout drops, sleep improves, fatigue falls, people stay longer.",
+          "Output mostly held steady where measured, but it was not measured in most trials.",
+          "The sample is mostly white-collar.",
+          "Every major trial used self-selected companies.",
+          "Workers took a 20% reduction in hours with no reduction in pay.",
+          "Iceland trials, run by Reykjavík City Council and the national government from 2015 to 2019, involved more than 2,500 workers",
+          "Service provision was maintained or improved, and well-being rose."
+        ],
+        "supporting_reference_ids": [
+          "dfc598a1f4fe7a4a",
+          "14b3bafa0d61d8b3"
+        ],
+        "unsupported_aspects": [
+          "A delimitação temporal 'since 2018' não é explicitada na evidência; o ensaio islandês começou em 2015 (embora tenha se estendido a 2019).",
+          "A afirmação de 'maintaining organizational output' é qualificada na evidência: output não foi medido na maioria dos ensaios e dados de receita vieram de apenas 23 de 61 firmas no piloto UK."
+        ],
+        "per_reference": [
+          {
+            "reference_id": "dfc598a1f4fe7a4a",
+            "relation": "partial",
+            "excerpt": "Analysis of pre- and post-trial data from 2,896 employees across 141 organizations in Australia, Canada, Ireland, New Zealand, the UK and the USA shows improvements in burnout, job satisfaction, mental health and physical health... Three key factors mediate the relationship: improved self-reported work ability, reduced sleep problems and decreased fatigue."
+          },
+          {
+            "reference_id": "14b3bafa0d61d8b3",
+            "relation": "supports",
+            "excerpt": "For well-being in volunteer, mostly white-collar firms: yes, consistently. Burnout drops, sleep improves, fatigue falls, people stay longer... Output mostly held steady where measured, but it was not measured in most trials... Every major trial used self-selected companies. The sample is mostly white-collar."
+          }
+        ],
+        "prompt_tokens": 5020,
+        "completion_tokens": 1738,
+        "cost_usd": 0.0,
+        "latency_ms": 29392,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": []
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-6",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['92f171d67c24cc2d'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-6",
+        "verdict": "unsupported",
+        "justification": "A evidencia sustenta parcialmente a afirmacao. A saida da Unilever e da Bupa de testes na Australia e confirmada, mas a evidencia diz \"Last year\" sem especificar 2025; o periodo exato e ambiguo. A taxa de adesao na Belgica (0,8% < 1%) e a rejeicao na Espanha estao diretamente sustentadas. Porem, a afirmacao de que o projeto nos EUA \"remain deadlocked in the United States Congress\" nao e sustentada: a evidencia apenas diz que o projeto foi reintroduzido e enviado a comissao, sem caracterizar o tramitar como \"deadlocked\".",
+        "cited_excerpts": [
+          "Last year Bupa and Unilever walked away from trials of reduced work hours, citing the four-day model as \"rigid\".",
+          "0.8% of Belgian private-sector employees used Belgium's full-time four-day regime as of March 31, 2025",
+          "Spain's Congress rejected cutting the standard week from 40 to 37.5 hours on September 10, 2025",
+          "The Thirty-Two Hour Workweek Act was reintroduced in the U.S. House on September 8, 2026 as H.R. 10323 by Rep. Mark Takano, with six cosponsors, and referred to the Education and Workforce Committee"
+        ],
+        "supporting_reference_ids": [
+          "171adf58306f07a5",
+          "fe9fb713a8b3b023",
+          "3763eccf6fb9a382"
+        ],
+        "unsupported_aspects": [
+          "\"exited shortened-week trials in Australia in 2025\" — a evidencia diz \"Last year\" sem especificar o ano 2025",
+          "\"remain deadlocked in the United States Congress\" — a evidencia apenas indica reintroducao e encaminhamento a comissao, sem caracterizar como \"deadlocked\""
+        ],
+        "per_reference": [
+          {
+            "reference_id": "fe9fb713a8b3b023",
+            "relation": "partial",
+            "excerpt": "Last year Bupa and Unilever walked away from trials of reduced work hours, citing the four-day model as “rigid”."
+          },
+          {
+            "reference_id": "171adf58306f07a5",
+            "relation": "partial",
+            "excerpt": "0.8% of Belgian private-sector employees used Belgium's full-time four-day regime as of March 31, 2025"
+          },
+          {
+            "reference_id": "3763eccf6fb9a382",
+            "relation": "partial",
+            "excerpt": "Congress rejected it on 10 September 2025, by 178 votes to 170"
+          }
+        ],
+        "prompt_tokens": 35271,
+        "completion_tokens": 10619,
+        "cost_usd": 0.0,
+        "latency_ms": 45139,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidencia sustenta parcialmente a afirmacao. A saida da Unilever e da Bupa de testes na Australia e confirmada, mas a evidencia diz \"Last year\" sem especificar 2025; o periodo exato e ambiguo. A taxa de adesao na Belgica (0,8% < 1%) e a rejeicao na Espanha estao diretamente su…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência confirma que Unilever e Bupa abandonaram os testes (\"walked away from trials\"), que a adesão na Bélgica foi de 0,8% (abaixo de 1%), e que o Congresso da Espanha rejeitou o projeto de redução de horas. Contudo, três aspectos não são sustentados: (1) o ano exato \"2025\"…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em fe9fb713a8b3b023, 171adf58306f07a5, 3763eccf6fb9a382; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-25",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['17c3f556ec5ec165'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-25",
+        "verdict": "supported",
+        "justification": "A evidência sustenta a afirmação ao demonstrar que horas nominais de trabalho não correspondem linearmente à produção efetiva, devido a retornos decrescentes, fadiga e erros após certo limite de horas. Isso fundamenta a lógica de produtividade para semanas de trabalho mais curtas.",
+        "cited_excerpts": [
+          "while production initially increases with longer hours, beyond a certain point productivity falls due to worker fatigue and errors. This challenges the assumption that longer hours always equate to higher output",
+          "Empirical research indicates that after a certain point, additional hours of work result in reduced productivity due to diminishing returns",
+          "Historical approaches to working hours, particularly the resistance by employers to reduce working hours, have shaped current economic models by embedding assumptions that longer hours equate to greater output."
+        ],
+        "supporting_reference_ids": [
+          "c02d748c868471d2"
+        ],
+        "unsupported_aspects": [],
+        "per_reference": [
+          {
+            "reference_id": "c02d748c868471d2",
+            "relation": "supports",
+            "excerpt": "while production initially increases with longer hours, beyond a certain point productivity falls due to worker fatigue and errors. This challenges the assumption that longer hours always equate to higher output"
+          }
+        ],
+        "prompt_tokens": 1408,
+        "completion_tokens": 599,
+        "cost_usd": 0.0,
+        "latency_ms": 3423,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": []
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-28",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['87829b0515d5b7be'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-28",
+        "verdict": "unsupported",
+        "justification": "A evidência não menciona Pencavel em nenhum momento, nem aborda recuperação insuficiente entre semanas consecutivas ou a distinção entre tempo nominal de trabalho e esforço produtivo efetivo. Embora a evidência trate de produtividade e horas de trabalho, os elementos específicos da afirmação não estão contemplados.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "Menção a Pencavel como autor de pesquisa subsequente",
+          "Insuficiente recuperação entre semanas consecutivas deprime a produtividade",
+          "Formalização da distinção entre tempo nominal de trabalho e esforço produtivo efetivo"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "c02d748c868471d2",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 13026,
+        "completion_tokens": 3912,
+        "cost_usd": 0.0,
+        "latency_ms": 40307,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": true,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência não menciona Pencavel em nenhum momento, nem aborda recuperação insuficiente entre semanas consecutivas ou a distinção entre tempo nominal de trabalho e esforço produtivo efetivo. Embora a evidência trate de produtividade e horas de trabalho, os elementos específicos…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência não menciona Pencavel, não aborda recuperação insuficiente entre semanas consecutivas, nem formaliza distinção entre tempo nominal de trabalho e esforço produtivo efetivo. Embora trate de retornos decrescentes e fadiga, não sustenta as afirmações específicas do trech…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "claim ausente das 1 janela(s) do(s) documento(s) citado(s)"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-29",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['17c3f556ec5ec165'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-29",
+        "verdict": "unsupported",
+        "justification": "A evidência sustenta a primeira parte da afirmacão (revisões sistemáticas e WHO/ILO associando semanas superiores a 40 horas a burnout, doença coronariana e AVC). Contudo, a segunda parte — 'hospital nursing studies associate shifts over 12 hours and weeks over 40 hours with heightened patient-error rates' — não possui qualquer suporte na evidência fornecida. Não há menção a estudos de enfermagem hospitalar, turnos superiores a 12 horas, nem taxas de erro do paciente em nenhum dos excertos. Como parte essencial da afirmacão não é coberta, o veredito é unsupported.",
+        "cited_excerpts": [
+          "In the international context, systematic reviews have established that working more than forty hours per week is associated with increased risk of burnout symptoms, including emotional exhaustion, cynicism, and reduced sense of personal accomplishment, alongside elevated risks of coronary heart disease, stroke, and depressive symptoms.",
+          "with a recent WHO/ILO review finding associations with higher rates of heart disease and stroke."
+        ],
+        "supporting_reference_ids": [
+          "543b597c52ff929c"
+        ],
+        "unsupported_aspects": [
+          "hospital nursing studies",
+          "shifts over 12 hours",
+          "patient-error rates",
+          "weeks over 40 hours associated with heightened patient-error rates (in nursing context)"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "543b597c52ff929c",
+            "relation": "partial",
+            "excerpt": "systematic reviews have established that working more than forty hours per week is associated with increased risk of burnout symptoms, including emotional exhaustion, cynicism, and reduced sense of personal accomplishment, alongside elevated risks of coronary heart disease, stroke, and depressive symptoms."
+          },
+          {
+            "reference_id": "5021f5e5fd8482e9",
+            "relation": "partial",
+            "excerpt": "There is abundant evidence that long working hours are bad for human health, with a recent WHO/ILO review finding associations with higher rates of heart disease and stroke."
+          }
+        ],
+        "prompt_tokens": 63272,
+        "completion_tokens": 7345,
+        "cost_usd": 0.0,
+        "latency_ms": 40376,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência sustenta a primeira parte da afirmacão (revisões sistemáticas e WHO/ILO associando semanas superiores a 40 horas a burnout, doença coronariana e AVC). Contudo, a segunda parte — 'hospital nursing studies associate shifts over 12 hours and weeks over 40 hours with hei…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência sustenta parte da afirmação (WHO/ILO e revisões sistemáticas associando semanas >40h a doença coronariana, AVC e burnout), mas NÃO contém nenhuma menção a estudos de enfermagem hospitalar, turnos >12h ou taxas de erro de pacientes — uma parte substantiva e específica…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em 543b597c52ff929c, 5021f5e5fd8482e9; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-63",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['2185286b9fcefee0'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-63",
+        "verdict": "unsupported",
+        "justification": "A evidência não menciona pilotos nacionais europeus e latino-americanos adicionando testes biométricos e intersetoriais. O contexto trata apenas de um piloto de 4 dias de trabalho no Brasil (e brevemente na Alemanha), sem qualquer referência a testes biométricos ou intersetoriais.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "European national pilots",
+          "Latin American national pilots",
+          "biometric tests",
+          "cross-sector tests"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "f20af6843d7ceb1d",
+            "relation": "partial",
+            "excerpt": "Additionally, objective measurements, such as smartwatch tracking data and hair samples, were integrated to provide broader insights, combining subjective and objective assessments."
+          },
+          {
+            "reference_id": "ead9fd3b4c80cdae",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 44946,
+        "completion_tokens": 3036,
+        "cost_usd": 0.0,
+        "latency_ms": 30045,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência não menciona pilotos nacionais europeus e latino-americanos adicionando testes biométricos e intersetoriais. O contexto trata apenas de um piloto de 4 dias de trabalho no Brasil (e brevemente na Alemanha), sem qualquer referência a testes biométricos ou intersetoriai…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência sobre o piloto alemão (europeu) menciona medições objetivas como smartwatch e amostras de cabelo (biométricas) e diversidade de setores, e o piloto brasileiro (latino-americano) envolve múltiplos setores. Porém, a afirmação combina ambos os pilotos com ambos os tipos…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em f20af6843d7ceb1d; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-67",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['2185286b9fcefee0', '6d57404d88418e33'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-67",
+        "verdict": "contradicted",
+        "justification": "A evidência contradiz explicitamente a afirmacao sobre a queda de horas: o claim diz 12%, de 'mais de 41' para 36.5, mas a evidencia diz 13.7%, de 39.3 para 34. Varios outros elementos do claim nao aparecem na evidencia: dificuldade trabalho-familia (46%→17%), saude mental 'muito boa'/'excelente' dobrando (15%→30%), e sono noturno +11 minutos. Os elementos sustentados sao: 41 empresas (apoia), 28% do salario (apoia) e 4 empresas voltando a cinco dias (apoia, mas num contexto diferente: 4 de 21, nao de 41).",
+        "cited_excerpts": [
+          "41 companies and more than 1,000 workers took part in Portugal's government-backed pilot in 2023, cutting reported weekly hours 13.7%, from 39.3 to 34",
+          "Of the 21 companies that started together in June 2023, 4 went back to five days, 5 scaled it down and 12 continued.",
+          "Employees in Portugal's pilot put the four-day week's worth at 28% of salary"
+        ],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "average weekly hours fell 12%",
+          "from over 41 to 36.5 hours",
+          "work-family difficulty dropped from 46% to 17%",
+          "very good or excellent mental health doubled from 15% to 30%",
+          "nightly sleep rose 11 minutes"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "171adf58306f07a5",
+            "relation": "contradicts",
+            "excerpt": "cutting reported weekly hours 13.7%, from 39.3 to 34"
+          }
+        ],
+        "prompt_tokens": 9860,
+        "completion_tokens": 3427,
+        "cost_usd": 0.0,
+        "latency_ms": 20103,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "context_expansion",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A afirmacao e composta por varios dados especificos. A evidencia confirma 41 empresas, valor de 28% do salario e 4 empresas que voltaram a 5 dias (mas de 21, nao de 41). Porem, os numeros de horas trabalhadas sao contraditos pela evidencia (a afirmacao diz queda de 12% de 41+ pa…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "contradicted",
+            "note": "A evidência contradiz explicitamente a afirmacao sobre a queda de horas: o claim diz 12%, de 'mais de 41' para 36.5, mas a evidencia diz 13.7%, de 39.3 para 34. Varios outros elementos do claim nao aparecem na evidencia: dificuldade trabalho-familia (46%→17%), saude mental 'muit…"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-83",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['d4ddca1ad6c6b0d5'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-83",
+        "verdict": "unsupported",
+        "justification": "A evidência não menciona Temple University Hospital, nem dados sobre turnover de nurse leaders (50% para 0%), nem os setores específicos citados (frontline hourly care, hospitality, manufacturing) com a afirmação sobre hiring/overtime buffers. Todo o conteúdo da evidência trata de jornadas reduzidas (semana de 4 dias, dia de 6 horas na Suécia), sem qualquer referência às entidades ou métricas mencionadas no trecho.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "Temple University Hospital",
+          "eliminação de voluntary turnover entre inpatient nurse leaders",
+          "redução de 50% pandemic losses para 0%",
+          "frontline hourly care, hospitality, e manufacturing roles",
+          "necessidade de added hiring ou overtime buffers",
+          "decoupling de hours de physical presence"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "fe9fb713a8b3b023",
+            "relation": "absent",
+            "excerpt": ""
+          },
+          {
+            "reference_id": "3cd6d038d5e345cf",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 19153,
+        "completion_tokens": 2662,
+        "cost_usd": 0.0,
+        "latency_ms": 17572,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": true,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência não menciona Temple University Hospital, nem dados sobre turnover de nurse leaders (50% para 0%), nem os setores específicos citados (frontline hourly care, hospitality, manufacturing) com a afirmação sobre hiring/overtime buffers. Todo o conteúdo da evidência trata…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência não menciona Temple University Hospital, nem qualquer estatística sobre turnover de enfermeiras líderes (50% para 0%), nem os setores específicos citados (hospitalidade, manufatura) no contexto apresentado. A evidência trata de semanas de trabalho reduzidas em empres…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "claim ausente das 2 janela(s) do(s) documento(s) citado(s)"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-93",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['92f171d67c24cc2d'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-93",
+        "verdict": "supported",
+        "justification": "A evidência mostra ações governamentais até o final de 2026 (plano regulatório de 2026, decreto de registro digital acordado para setembro, referência a 29 de outubro de 2026) e desacordo claro sobre legislar semanas mais curtas: o Congresso rejeitou o projeto de 37,5 horas por 178 a 170, o Governo excluiu a lei do plano de 2026 mas disse não ter desistido, e Economia e Trabalho tiveram que pactuar um decreto adiado. Esses elementos sustentam a afirmação de que a ação governamental até o final de 2026 evidencia desacordo sobre como — ou se — legislar semanas mais curtas.",
+        "cited_excerpts": [
+          "Congress rejects the bill to cut the legal week to 37.5 hoursAmendments to the whole bill from Junts, PP and Vox passed by 178 votes to 170, ending the bill's passage through Congress.",
+          "37.5-hour law left out of the Government's 2026 regulatory planelDiario.es reports the Government's 2026 regulatory plan has no 37.5-hour week law, only the decree tightening time-recording. Labour sources say leaving it out does not mean it will not be done.",
+          "Vice-presidents Carlos Cuerpo (Economy) and Yolanda Díaz (Labour) agreed the royal decree making working-time records digital will be approved in September, once the last details are closed. The Council of State had questioned using a royal decree, and the decree has been delayed.",
+          "As of 29 October 2026 we found no report that it had been approved."
+        ],
+        "supporting_reference_ids": [
+          "3763eccf6fb9a382"
+        ],
+        "unsupported_aspects": [
+          "A caracterização 'deep disagreement' é interpretativa e não é uma frase literal da evidência, embora seja inferível a partir dos fatos apresentados."
+        ],
+        "per_reference": [
+          {
+            "reference_id": "3763eccf6fb9a382",
+            "relation": "supports",
+            "excerpt": "Congress rejects the bill to cut the legal week to 37.5 hoursAmendments to the whole bill from Junts, PP and Vox passed by 178 votes to 170, ending the bill's passage through Congress. [...] 37.5-hour law left out of the Government's 2026 regulatory plan [...] Labour sources say leaving it out does not mean it will not be done. [...] Vice-presidents Carlos Cuerpo (Economy) and Yolanda Díaz (Labour) agreed the royal decree making working-time records digital will be approved in September [...] The Council of State had questioned using a royal decree, and the decree has been delayed. [...] As of 29 October 2026 we found no report that it had been approved."
+          },
+          {
+            "reference_id": "1a61920b8161852d",
+            "relation": "partial",
+            "excerpt": "Chancellor Friedrich Merz said in May 2025 that with a four-day week and work-life balance Germany would not keep its prosperity. The 2025 coalition agreement wants to make a weekly instead of a daily maximum working time possible. [...] SPD working groups set conditions on a weekly working-time maximum [...] Chancellor Merz expects a bill from the labour minister in the autumn."
+          }
+        ],
+        "prompt_tokens": 5538,
+        "completion_tokens": 1284,
+        "cost_usd": 0.0,
+        "latency_ms": 5289,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": []
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-99",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['92f171d67c24cc2d'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-99",
+        "verdict": "unsupported",
+        "justification": "A evidência discute projetos de lei sobre redução da jornada de trabalho para 32 horas, que mencionam IA e robótica como contexto, mas não aborda legislação federal sobre automação ou inteligência artificial. O 'gridlock' mencionado refere-se a projetos sobre jornada de trabalho, não a legislação sobre IA/automação.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "federal legislation regarding automation and artificial intelligence",
+          "gridlock specifically on AI/automation legislation",
+          "renewed focus on automation and AI as a legislative topic"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "a57bc52b41a937c1",
+            "relation": "partial",
+            "excerpt": "At a time when artificial intelligence and robotics will radically transform our economy"
+          }
+        ],
+        "prompt_tokens": 12224,
+        "completion_tokens": 3545,
+        "cost_usd": 0.0,
+        "latency_ms": 27732,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [
+          "cd9dae1c14cd26e8",
+          "eccec2ddee33ccde",
+          "c02d748c868471d2",
+          "3898c5ea162f2558",
+          "fe9fb713a8b3b023",
+          "30a2eb48ea87b753",
+          "05937eaf33ce1275",
+          "4a2cceffc2620097",
+          "ef24b89919f0e6dd",
+          "33d4f348a28d1893",
+          "171adf58306f07a5",
+          "1a9c50b1d69335b9",
+          "962f344953962212",
+          "a38ffa89f273703c"
+        ],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência discute projetos de lei sobre redução da jornada de trabalho para 32 horas, que mencionam IA e robótica como contexto, mas não aborda legislação federal sobre automação ou inteligência artificial. O 'gridlock' mencionado refere-se a projetos sobre jornada de trabalho…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência trata especificamente de projetos de lei sobre a semana de trabalho de 32 horas que não avançaram nas comissões. O trecho afirma de forma geral que 'a legislação federal permanece paralisada' apesar de um 'foco renovado em automação e IA', generalizações que não estã…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em a57bc52b41a937c1; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "claim sustentado por outra(s) referencia(s) nao citada(s): cd9dae1c14cd26e8, eccec2ddee33ccde, c02d748c868471d2, 3898c5ea162f2558, fe9fb713a8b3b023, 30a2eb48ea87b753, 05937eaf33ce1275, 4a2cceffc2620097, ef24b89919f0e6dd, 33d4f348a28d1893, 171adf58306f07a5, 1a9c50b1d69335b9, 962f…"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-100",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['92f171d67c24cc2d'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-100",
+        "verdict": "supported",
+        "justification": "A evidência confirma os elementos essenciais da afirmação: data (8 de setembro de 2026), patrocinadores (Takano e Sanders), números dos projetos (H.R. 10323 e S. 5384), reintrodução, emenda à FLSA, redução do limiar de horas extras de 40 para 32 horas, e sem cortes em salários ou benefícios. A contagem de quatro esforços desde 2021 também é inferível: Takano em 2021, Takano em 2023, Sanders em 2024, e o atual em 2026. O único detalhe não totalmente coberto é a expressão 'três a quatro anos', pois a evidência menciona especificamente 'três anos'.",
+        "cited_excerpts": [
+          "On September 8, 2026, Representative Mark Takano (D-California) and Senator Bernie Sanders (I-Vermont) introduced to Congress the “Thirty-Two-Hour Work Week Act.”",
+          "Sponsored by Sen. Bernie Sanders (I-VT) and Rep. Mark Takano (D-CA), the bills (S. 5384 and H.R. 10323) are aimed at amending the Fair Labor Standards Act of 1938 for nonexempt employees.",
+          "Should the H.R. 10323 pass, the standard workweek would shorten gradually over the period of three years from 40 hours to 32 hours.",
+          "H.R. 10323 also explicitly states that employers cannot reduce an affected employee’s weekly compensation, regular pay rate, or benefits because of the shorter workweek standard.",
+          "Takano first introduced a 32-hour workweek bill in 2021 and again in 2023, but those bills never made it out of committee.",
+          "Sanders introduced a similar bill in 2024, which never advanced out of committee.",
+          "One important way to do that is through a 32-hour workweek with no loss in pay or benefits."
+        ],
+        "supporting_reference_ids": [
+          "a57bc52b41a937c1",
+          "3898c5ea162f2558"
+        ],
+        "unsupported_aspects": [
+          "A expressão 'três a quatro anos' não é plenamente sustentada: a evidência menciona especificamente 'três anos', sem referência a quatro anos."
+        ],
+        "per_reference": [
+          {
+            "reference_id": "a57bc52b41a937c1",
+            "relation": "partial",
+            "excerpt": "Sponsored by Sen. Bernie Sanders (I-VT) and Rep. Mark Takano (D-CA), the bills (S. 5384 and H.R. 10323) are aimed at amending the Fair Labor Standards Act of 1938 for nonexempt employees. Workers covered under the bills would be eligible for overtime if working beyond 32 hours."
+          },
+          {
+            "reference_id": "3898c5ea162f2558",
+            "relation": "partial",
+            "excerpt": "On September 8, 2026, Representative Mark Takano (D-California) and Senator Bernie Sanders (I-Vermont) introduced to Congress the “Thirty-Two-Hour Work Week Act.”"
+          }
+        ],
+        "prompt_tokens": 2974,
+        "completion_tokens": 2357,
+        "cost_usd": 0.0,
+        "latency_ms": 9106,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": []
+      }
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "14b3bafa0d61d8b3",
+      "url": "https://www.takeroon.com/blog/4-day-work-week-evidence",
+      "times_cited": 23,
+      "supported_count": 19,
+      "unsupported_count": 2,
+      "contradicted_count": 1,
+      "supporting_citations": 8,
+      "partial_citations": 12,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        3,
+        9,
+        40,
+        55,
+        57,
+        59,
+        62
+      ],
+      "partial_positions": [
+        2,
+        5,
+        8,
+        10,
+        11,
+        13,
+        35,
+        49,
+        54,
+        58,
+        105,
+        113
+      ],
+      "absent_positions": [
+        33
+      ],
+      "contradicts_positions": [
+        84
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0
+      ],
+      "key_excerpt": "The 100-80-100 model means 100% pay, 80% time, 100% expected output. Workers drop to about 32 hours across four days. The compressed 4x10 schedule keeps total hours at 40 but packs them into four 10-hour days.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "55623dd21e512883",
+      "url": "https://www.thepeoplespace.com/insights/ideas/4-day-week-works-only-if-you-change-work",
+      "times_cited": 8,
+      "supported_count": 5,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        33,
+        39,
+        40
+      ],
+      "partial_positions": [
+        2,
+        32,
+        36,
+        37,
+        113
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Before the six-month trial began each company had around eight weeks to reorganise its operations. Meetings were streamlined and workflows were redesigned.",
+      "key_excerpt_position": 33
+    },
+    {
+      "reference_id": "1a61920b8161852d",
+      "url": "https://4dayweek.io/country/germany",
+      "times_cited": 7,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        4,
+        5,
+        12,
+        64,
+        65,
+        66
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        93
+      ],
+      "key_excerpt": "Chancellor Friedrich Merz said in May 2025 that with a four-day week and work-life balance Germany would not keep its prosperity. The 2025 coalition agreement wants to make a weekly instead of a daily maximum working time possible.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "33d4f348a28d1893",
+      "url": "https://www.digital-chiefs.de/en/70-continue-20-drop-out-the-honest-balance-sheet-of-the-four-day-week/",
+      "times_cited": 7,
+      "supported_count": 5,
+      "unsupported_count": 1,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [
+        79
+      ],
+      "partial_positions": [
+        4,
+        5,
+        65,
+        74,
+        113
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [
+        66
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The 2-year follow-up (published February 2026) shows: 70 percent of participants continue to work in some reduced form. [...] In organizations with more than 70 percent knowledge work, pilot data consistently show positive results. Below 50 percent, it becomes difficult without creating fairness problems. [...] Why the difference from Germany? Two factors: Firstly, the UK study was more focused on knowledge workers – industries where reducing working hours is easier.",
+      "key_excerpt_position": 79
+    },
+    {
+      "reference_id": "f20af6843d7ceb1d",
+      "url": "https://www.scribd.com/document/785140050/4-week-day-in-Germany",
+      "times_cited": 7,
+      "supported_count": 1,
+      "unsupported_count": 4,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        64,
+        65
+      ],
+      "absent_positions": [
+        34,
+        66,
+        108,
+        112
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        63
+      ],
+      "key_excerpt": "objective measurements, such as smartwatch tracking data and hair samples, were integrated to provide broader insights",
+      "key_excerpt_position": 64
+    },
+    {
+      "reference_id": "fe9fb713a8b3b023",
+      "url": "https://www.theguardian.com/business/2026/mar/16/four-day-work-working-week-what-happened",
+      "times_cited": 6,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        4,
+        76,
+        78
+      ],
+      "absent_positions": [
+        74
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        6,
+        83
+      ],
+      "key_excerpt": "Last year Bupa and Unilever walked away from trials of reduced work hours, citing the four-day model as 'rigid'. ... in Belgium workers have a right to a four-day work week – although this is a compression of the standard 40-hour week.",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "9f72fbff704a0d0c",
+      "url": "https://medium.com/@andy.a.g/141-organizations-tried-a-four-day-week-burnout-fell-most-for-people-who-cut-8-hours-or-more-c01b5586d76f",
+      "times_cited": 6,
+      "supported_count": 5,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        59,
+        60,
+        61
+      ],
+      "partial_positions": [
+        58,
+        88
+      ],
+      "absent_positions": [
+        87
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The company average fell from 39.21 to 34.01 a week, and the most common week went from 40 hours to 32. In the control companies, it went from 38.88 to 39.16. ... A 12-month survey found hours still lower (33.91 a week at company level, against 38.97 at baseline) and the gains still there.",
+      "key_excerpt_position": 59
+    },
+    {
+      "reference_id": "dfa3216c48bf4651",
+      "url": "https://www.researchgate.net/publication/392873157_The_consequences_of_a_compressed_workweek_a_systematic_literature_review",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 1,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        86
+      ],
+      "partial_positions": [
+        2
+      ],
+      "absent_positions": [
+        1,
+        113
+      ],
+      "contradicts_positions": [
+        84
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Twenty studies met the inclusion criteria. The study is registered in Prospero (CRD42020172595). Results suggest that a compressed workweek increases sickness absence but also improves shift satisfaction. Predominantly negative health effects were observed when comparing a compressed workweek to fixed day work",
+      "key_excerpt_position": 86
+    },
+    {
+      "reference_id": "97f243bbb51e2631",
+      "url": "https://4dayweek.io/country/iceland",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        10,
+        48
+      ],
+      "partial_positions": [
+        46,
+        49,
+        50
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Hours cut from 40 to 35 or 36 a week with no cut in pay, for over 2,500 staff in over 100 workplaces. ... about 86% of Iceland's working population had by June 2021 either moved to shorter hours or gained a way to negotiate them. ... The change is in weekly hours, not days: in the public sector the contracts cut 13 minutes a day, effective January 2021.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "eccec2ddee33ccde",
+      "url": "https://resources.rework.com/libraries/history-of-productivity/history-of-the-8-hour-workday",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        14,
+        15,
+        19
+      ],
+      "partial_positions": [
+        17,
+        18
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "After 1941, the legal baseline barely moved. ... The 40-hour framework came from an era of factory shifts. ... The first large test of changing the baseline arrived in 2022. In the UK pilot, 61 companies and around 2,900 workers moved to a four-day week from June to December",
+      "key_excerpt_position": 14
+    },
+    {
+      "reference_id": "05937eaf33ce1275",
+      "url": "https://www.cambridge.org/core/journals/business-history-review/article/kelloggs-sixhour-day-a-capitalist-vision-of-liberation-through-managed-work-reduction/9AFB41950B8B5C4A050F69A3CA3A975C",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 5,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "\"Kellogg Company Announces Six-Hour Day and Basic Pay Raise to Aid Employment: Takes World Leadership in Inauguration of New Industrial Work Policy,\" Battle Creek Moon-Journal [hereafter Moon-Journal], 24 Nov. 1930.",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "afcb504758ce2540",
+      "url": "https://www.informationweek.com/it-leadership/six-hour-shifts-satisfied-kellogg-s-appetite-for-productivity",
+      "times_cited": 5,
+      "supported_count": 5,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        20,
+        21,
+        22,
+        23
+      ],
+      "partial_positions": [
+        24
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Inspired by reports that a six-hour shift increased productivity at an English soap company, Kellogg Co. founder W.K. Kellogg changed cereal-plant production schedules from three eight-hour shifts to four six-hour shifts in 1930. The initiative, championed by company president Lewis Brown, let the Battle Creek, Mich., company hire 300 workers who'd been put out of work in the Great Depression.",
+      "key_excerpt_position": 20
+    },
+    {
+      "reference_id": "c02d748c868471d2",
+      "url": "https://www.scribd.com/document/977314082/Diminishing-Returns-at-Work-The-Consequences-of-Long-Working-Hours-ISBN-9780190876166-0190876166-PDF-ebook-with-Full-Chapters",
+      "times_cited": 5,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        30,
+        113
+      ],
+      "contradicts_positions": [
+        31
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        25,
+        28
+      ],
+      "key_excerpt": "reductions in working hours often require proportionally larger increases in employment in high-hour contexts compared to low-hour settings to achieve the same output",
+      "key_excerpt_position": 31
+    },
+    {
+      "reference_id": "2745e2ea24432cda",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9979633/",
+      "times_cited": 5,
+      "supported_count": 2,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        87,
+        90
+      ],
+      "partial_positions": [
+        89,
+        91,
+        92
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Understanding how these four-day school weeks impact students of different demographic groups, skill levels, and educational programmatic needs will inform school policymakers about the important equity considerations when choosing to implement four-day school week schedules.",
+      "key_excerpt_position": 87
+    },
+    {
+      "reference_id": "92f171d67c24cc2d",
+      "url": "https://www.krem.com/article/news/nation-world/32-hour-workweek-bill-introduced-congress/507-60ff6b6f-69f7-4807-95f6-a9ba2cbe87bc",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        6,
+        93,
+        99,
+        100
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f34073e8ed6355c6",
+      "url": "https://www.tupi.fm/mundo/em-1926-henry-ford-reduziu-a-semana-de-trabalho-de-suas-fabricas-para-5-dias-e-40-horas-sem-cortar-salarios-e-a-decisao-mudou-a-industria-americana/",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        16
+      ],
+      "partial_positions": [
+        17,
+        18,
+        19
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Em 1º de maio de 1926, a Ford Motor Company adotou a semana de cinco dias e 40 horas para os operários das suas fábricas nos Estados Unidos. [...] Os funcionários dos escritórios ganharam o mesmo direito em 1º de agosto de 1926. [...] Henry Ford avisou que a regra ainda não valeria para a ferrovia da empresa nem para os vigias.",
+      "key_excerpt_position": 16
+    },
+    {
+      "reference_id": "17c3f556ec5ec165",
+      "url": "https://scispace.com/papers/the-productivity-of-working-hours-1w39cbiq4q",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        25,
+        26,
+        27,
+        29
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "68cc97e0d49527d5",
+      "url": "https://www.weforum.org/stories/jobs-and-the-future-of-work/four-day-work-life-balance-trial",
+      "times_cited": 4,
+      "supported_count": 0,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        41,
+        43,
+        77,
+        110
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1563e338eadf86d1",
+      "url": "https://autonomy.work/wp-content/uploads/2024/10/Iceland_-1.pdf",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        48,
+        49
+      ],
+      "partial_positions": [
+        47,
+        50
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The survey gathered data between 2021 and 2022. [...] Published 2024 by © The Autonomy Institute and Alda (Association for Sustainability and Democracy) [...] This report focuses on the enduring impact of the shorter working week in Iceland, adding to the growing research body on the longer-term effects of working time reduction.",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "2dd815a2b3a3d5bd",
+      "url": "https://4dayweek.io/country/united-kingdom",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        69,
+        70,
+        71,
+        73
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In the public sector, South Cambridgeshire District Council made a four-day week permanent in July 2025, though in October 2025 the Government wrote to its leader expressing 'deep disappointment' at a decline in performance in key housing-related services",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "47cfdbcd36dd500c",
+      "url": "https://www.scambs.gov.uk/four-day-working-week",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        71
+      ],
+      "partial_positions": [
+        69,
+        70,
+        72
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "An independent report from the Universities of Salford, Bradford and Cambridge, published in July 2025, highlights how 21 of 24 services have improved or stayed the same since four-day week working began at the Council in 2023. ... If performance variations caused by COVID are discounted, every single service monitored either got better or stayed the same. ... There has been a yearly saving of £399,263.",
+      "key_excerpt_position": 71
+    },
+    {
+      "reference_id": "3cd6d038d5e345cf",
+      "url": "https://bainultra.com/blogs/news/sweden-experiments-with-six-hour-workday-finds-people-enjoy-having-lives",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        80
+      ],
+      "partial_positions": [
+        81,
+        82
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        83
+      ],
+      "key_excerpt": "The nursing home hired 14 new staff members to cover the missing hours.",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "d4ddca1ad6c6b0d5",
+      "url": "https://www.help.senate.gov/download/dr-schor-help-testimony-3-14-24pdf",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0,
+        53,
+        83
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "3065e4295457d415",
+      "url": "https://www.theguardian.com/world/2017/jan/04/sweden-sees-benefits-six-hour-working-day-trial-care-workers",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        3,
+        80
+      ],
+      "partial_positions": [
+        81
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "To ensure that patients at the home for the elderly were attended to for the same number of hours as before, 15 new employees were hired for the duration of the experiment, costing the centre about an additional €600,000 (£510,000) a year – a 22% increase in gross cost.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "30a2eb48ea87b753",
+      "url": "https://www.smithschool.ox.ac.uk/news/day-save-planet-heres-what-four-day-week-could-mean-uk-carbon-emissions",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        3,
+        108,
+        111
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "My results revealed that switching to a four-day week with no loss of pay would only reduce emissions if people dedicated their newfound leisure time to low-carbon activities—otherwise there’s a risk of pushing up carbon footprints from extra shopping and travel... All in all, these budget rearrangements suggest a slight increase in carbon footprints under the four-day week.",
+      "key_excerpt_position": 3
+    },
+    {
+      "reference_id": "171adf58306f07a5",
+      "url": "https://www.usecarly.com/blog/four-day-work-week-statistics/",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        95
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        6,
+        67
+      ],
+      "key_excerpt": "0.8% of Belgian private-sector employees used Belgium's full-time four-day regime as of March 31, 2025, and 2.85% of companies had at least one person on it (Acerta Consult, 2025).",
+      "key_excerpt_position": 95
+    },
+    {
+      "reference_id": "3763eccf6fb9a382",
+      "url": "https://4dayweek.io/country/spain",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        97
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        6,
+        93
+      ],
+      "key_excerpt": "41 firms had applied to a 9.65 million euro call; five were awarded about 530,000 euros",
+      "key_excerpt_position": 97
+    },
+    {
+      "reference_id": "d06ce4c35342bc05",
+      "url": "https://4dayweek.io/country/south-korea",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        106
+      ],
+      "partial_positions": [
+        7
+      ],
+      "absent_positions": [
+        104
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The OECD puts average usual weekly hours at 39.4 for all employed people in 2025, and 43.4 for full-time workers. The Labor Standards Act limits work to 40 hours a week and 8 hours a day, and lets employers extend it by up to 12 hours a week by agreement, which gives the 52-hour maximum. By the end of June 2026, 224 firms had joined the programme, against a target of 220. It supports firms that cut hours by labour-management agreement without cutting wages. Firms with under 50 staff were 67.9%. 107 organisations (106 companies, 1 public institution) had joined by 31 Dec 2025 under one of three models chosen by labour-management agreement, with wages kept. Provincial data cited by the Seoul Economic Daily (Mar 2026) show estimated revenue-based productivity per worker up 2.1% and turnover down from 22.8% to 17.4%. The province began a three-year pilot in June 2025 that runs to 2027.",
+      "key_excerpt_position": 106
+    },
+    {
+      "reference_id": "0870e33ae3dc6a8f",
+      "url": "https://aciara.com.br/fim-da-escala-6x1-veja-jornada-em-outros-paises/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        7,
+        107
+      ],
+      "absent_positions": [
+        104
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Chile reduziu a jornada máxima semanal de 45 para 42 horas em 2026... A jornada máxima semanal na Colômbia foi reduzida de 44 para 42 horas em julho de 2026... O parlamento mexicano aprovou, em fevereiro de 2026, uma reforma constitucional para reduzir a jornada máxima semanal de 48 para 40 horas até 2030.",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "a38ffa89f273703c",
+      "url": "https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        10,
+        46,
+        47
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Reductions in working time were not accompanied by reductions in pay. ... The trials evolved to include nine-to-five workers alongside those on non-standard shift patterns ... roughly 86% of Iceland's entire working population has now either moved to working shorter hours or have gained the right to shorten their working hours.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "7f7f295dacd859c0",
+      "url": "https://4dayweek.io/country/belgium",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        11,
+        94,
+        95
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Under the law of 3 October 2022, the daily limit can rise to 9.5 hours for a full-time employee who works four days a week. [...] The standard week is 38 hours (the legal limit is 40), so 38 hours fit into four days of 9.5.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "7e67ba1a3a8e752f",
+      "url": "https://www.bc.edu/bc-web/sites/bc-magazine/fall-2022-issue/linden-lane/a-four-day-work-week-.html",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        35
+      ],
+      "partial_positions": [
+        12,
+        32
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Workers can also communicate in more efficient ways, perhaps shifting from phone calls to using Slack and other messaging apps. Finally, employees move doctor's appointments and other personal errands to their off days. ... let the work reorganization be driven by the people who are doing the work. Get down to the team level and you'll be a lot more successful. You can't micromanage. You have to empower and trust people.",
+      "key_excerpt_position": 35
+    },
+    {
+      "reference_id": "5021f5e5fd8482e9",
+      "url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693da184212d4f030b2a8032/1765646724493/US+Ireland+Results+2023.pdf",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        52
+      ],
+      "partial_positions": [
+        51
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        29
+      ],
+      "key_excerpt": "In this report we present research results from the first two trials, which comprised 33 companies and 903 employees in the US, Ireland, and a few other countries. [...] All together, the 33 participating companies employed 903 people at baseline [...] There are also 12 companies in the sample (36%) who are fully remote [...] one large global company has employees in Australia, New Zealand, and the UK in addition to the US. There are also a few Canadian employees in the sample.",
+      "key_excerpt_position": 52
+    },
+    {
+      "reference_id": "44d0a4d34f5d396a",
+      "url": "https://www.researchgate.net/publication/361430073_Effects_of_4-Day_School_Weeks_on_Older_Adolescents_Examining_Impacts_of_the_Schedule_on_Academic_Achievement_Attendance_and_Behavior_in_High_School",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        89,
+        91,
+        92
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a57bc52b41a937c1",
+      "url": "https://www.safetyandhealthmagazine.com/bernie-sanders-and-mark-takano-renew-push-for-a-32-hour-workweek/",
+      "times_cited": 3,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        99,
+        100
+      ],
+      "key_excerpt": "Takano claims in a separate release that American workers’ productivity has risen 93.2% since 1979, while wages have risen less than 34%.",
+      "key_excerpt_position": 101
+    },
+    {
+      "reference_id": "dfc598a1f4fe7a4a",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40691306/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        58
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        0
+      ],
+      "key_excerpt": "Fan W(1), Schor JB(2), Kelly O(3), Gu G(4). ... Analysis of pre- and post-trial data from 2,896 employees across 141 organizations in Australia, Canada, Ireland, New Zealand, the UK and the USA shows improvements in burnout, job satisfaction, mental health and physical health-a pattern not observed in 12 control companies.",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "e3ab7017b3a53c65",
+      "url": "https://www.humanresourcesonline.net/tokyo-to-introduce-a-four-day-workweek-and-flexible-working-hours-for-government-staff-from-april-2025",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        7,
+        105
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Tokyo's governor Yuriko Koike has announced a plan to implement a four-day workweek and flexible working hours for metropolitan government employees from April 2025.",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "197e713438b8301c",
+      "url": "https://www12.senado.leg.br/noticias/audios/2026/10/congresso-promulga-emendas-sobre-fim-da-escala-6x1-e-agentes-de-saude",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        7,
+        107
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "As propostas de emenda à Constituição que tratam da aposentadoria especial dos agentes comunitários de saúde (PEC 14/2021) e do fim da escala seis por um (PEC 221/2019) serão promulgadas nesta sexta-feira (16).",
+      "key_excerpt_position": 7
+    },
+    {
+      "reference_id": "feb6f7af0662b7c9",
+      "url": "https://openpaper.dev/examples/four-day-work-week-outcomes",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        13
+      ],
+      "partial_positions": [
+        8
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A 'four-day work week' can mean fewer paid hours at unchanged pay, forty hours compressed into four long shifts, or a partial reduction spread across the week. These are different interventions. A claim that one improves health or output cannot automatically be transferred to another.",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "fd821c7d735ba1b0",
+      "url": "https://www.unisc.edu.au/about/unisc-news/news-archive/2025/november/why-the-four-day-workweek-is-more-than-just-a-fad-boosting-wellbeing-productivity-and-the-future-of-work",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        9
+      ],
+      "partial_positions": [
+        78
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The most common approach is the 100-80-100 model: employees work 80 percent of the traditional hours but receive 100 percent of their salary and are expected to maintain 100 percent productivity. Typically, this means four standard eight-hour days instead of five, with no requirement to “cram” 40 hours into fewer days – and, importantly, no pay cut.",
+      "key_excerpt_position": 9
+    },
+    {
+      "reference_id": "79b6c33df54a8c16",
+      "url": "https://4dayweek.io/country/japan",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        11,
+        105
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In December 2024 Tokyo's governor announced a four-day option for metropolitan staff, built on the flextime system.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "73dc5b881e6ca14d",
+      "url": "https://greenamerica.org/evolution-work/can-4-day-work-week-heal-people-and-planet",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        38
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        37
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This UK study, which both Lockhart and Fan worked on, ran for six months in 2022 involving 57 companies and 2,548 employees. Across the board, the study's results showed promise. [...] Most study participants agreed—78% found no change in workload, while 62% found their work pace increased but only 13% reported an increase in stress.",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "1235a696e9128f7a",
+      "url": "https://www.theguardian.com/money/2019/feb/19/four-day-week-trial-study-finds-lower-stress-but-no-cut-in-output",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [
+        41
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "claiming it has resulted in a 20% rise in productivity, appeared to have helped increase profits and improved staff wellbeing. [...] Staff stress levels were down from 45% to 38%. Work-life balance scores increased from 54% to 78%. [...] compared with a 2017 survey. [...] Productivity increased in the four days they worked so there was no drop in the total amount of work done",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "2185286b9fcefee0",
+      "url": "https://www.researchgate.net/publication/390052868_Four-Day_Week_Results_from_Portuguese_Trial_Final_Report",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "inaccessible",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        63,
+        67
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "ead9fd3b4c80cdae",
+      "url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693e8a0d0669596b183b27fa/1765706253519/Brazil+4+Day+Week+Pilot+2024.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        68
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        63
+      ],
+      "key_excerpt": "In Brazil, 21 companies participated in the 4 day week pilot... One company located in Rio Grande do Sul was affected by the flood tragedy and withdrew from the pilot, while another decided to pause due to a change in leadership. Thus, 19 companies completed the six-month implementation of the 4 day week.",
+      "key_excerpt_position": 68
+    },
+    {
+      "reference_id": "15bb6936fdb7a577",
+      "url": "https://www.localgov.co.uk/Four-day-week-trial-success-says-council/62636",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        71
+      ],
+      "partial_positions": [
+        72
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Carried out by the Universities of Salford, Bradford and Cambridge, the analysis revealed that 21 of 24 services have improved or stayed the same since the four-day week was introduced in 2023. ... the percentage of household planning applications being determined on time has increased from 75% at the start of the trial to around 95% at the end ... the number of applications for jobs rose by more than 120% and the number of workers leaving fell by more than 40%. According to the council, it no longer has to rely on agency workers which has resulted in a yearly saving of nearly £400,000.",
+      "key_excerpt_position": 71
+    },
+    {
+      "reference_id": "bd3f8cd8626cafec",
+      "url": "https://www.gov.scot/policies/public-sector-pay/four-day-working-week/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        69,
+        73
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We committed to running a four day working week pilot in the public sector.",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "f81c59a6b691029d",
+      "url": "https://www.theguardian.com/uk-news/2019/apr/12/wellcome-trust-drops-plans-to-trial-four-day-working-week",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        74,
+        75
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "organisations with workers carrying out a wide range of functions – it employs exhibition curators as well as fund managers – could find it harder to switch their entire business to the shorter week",
+      "key_excerpt_position": 74
+    },
+    {
+      "reference_id": "3f22ba08607238e0",
+      "url": "https://www.unilever.com/news/news-search/2022/fourday-work-week-trial-to-start-in-australia/",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        77
+      ],
+      "absent_positions": [
+        76
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Following an 18-month pilot in New Zealand, we are extending our four-day work week trial to our Australian business.",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "31f252aa03662a31",
+      "url": "https://www.acerta.be/en/inspiration/four-day-working-week-eight-out-of-ten-smes-not-behind-the-idea",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        94,
+        95
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the labour deal will allow employees to request this from their employer",
+      "key_excerpt_position": 94
+    },
+    {
+      "reference_id": "4ecd37a1d736b364",
+      "url": "https://4dayweek.io/region/valencia",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        98,
+        110
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In total, **360K** people took part in a 4-day work week experiment. Stress Reduction: Participants reported a 35% decrease in stress levels. Improved Sleep: 64% of participants experienced an increase in their sleep duration. Environmental Benefits: 9.5% decrease in traffic in Valencia, 58% reduction in NO2 air concentration on day off. Alcohol and Tabacco: Slight increase in tobacco and alcohol consumption. This trial took place from April 10 to May 7, 2023. citizens enjoyed 4 consecutive Mondays off",
+      "key_excerpt_position": 98
+    },
+    {
+      "reference_id": "3898c5ea162f2558",
+      "url": "https://www.rockymountainemployersblog.com/blog/2026/10/1/a-new-bill-in-congress-proposes-a-shift-to-a-thirty-two-hour-workweek-without-reducing-salaries",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        100
+      ],
+      "key_excerpt": "Critics of the bill argue that such a shift would hinder the economy and slow hiring.",
+      "key_excerpt_position": 101
+    },
+    {
+      "reference_id": "ef24b89919f0e6dd",
+      "url": "https://worldatwork.org/publications/workspan-daily/pennsylvania-law-would-incentivize-four-day-workweek",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        103
+      ],
+      "partial_positions": [
+        102
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "More than 90 businesses throughout the U.S. have a four-day, 32-hour workweek. Thousands of U.S. organizations have a compressed workweek, where some or all employees work four 10-hour days.",
+      "key_excerpt_position": 103
+    },
+    {
+      "reference_id": "cf79f3e1be83f361",
+      "url": "https://www.welcometothejungle.com/en/articles/how-the-4-day-workweek-can-help-to-reduce-carbon-emissions",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        108
+      ],
+      "partial_positions": [
+        112
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Encouragingly, some real-life studies of shortened or compressed workweeks have shown positive environmental outcomes, though these findings sometimes fall short of expectations. In a pilot launched in August 2008, Utah state employees shifted from a standard five-day, 40-hour week to a schedule of four 10-hour days. [...] In reality, some limited operations continued on Fridays, and some facilities needed constant climate control, thus preventing emissions from being cut by one-fifth.",
+      "key_excerpt_position": 108
+    },
+    {
+      "reference_id": "1cf0f7c5ecbb4364",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/ha-100-anos-ford-instituia-jornada-de-40-horas-nos-estados-unidos",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        17
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A decisão do empresário da Ford, Henry Ford, foi apresentada, na época, como uma forma de atrair profissionais de outras indústrias, onde a escala era muito maior, melhorar a produtividade, com trabalhadores mais descansados, além de liberar os funcionários para o lazer, visto como motor de estímulo à economia por meio do consumo.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "7115849d7bbe39ca",
+      "url": "https://teachingamericanhistory.org/document/henry-fords-five-day-week/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        18
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "They will receive wages for five days instead of six days. Their earning capacity has been reduced one-sixth.",
+      "key_excerpt_position": 18
+    },
+    {
+      "reference_id": "87829b0515d5b7be",
+      "url": "https://www.econstor.eu/bitstream/10419/145237/1/dp10103.pdf",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        28
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "543b597c52ff929c",
+      "url": "https://kommerstad.org/journal/article/download/943/696",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        29
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "a3bce72c1dae3391",
+      "url": "https://ideas.repec.org/a/nat/nathum/v9y2025i10d10.1038_s41562-025-02259-6.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        39
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "9492da29c5478457",
+      "url": "https://buffer.com/resources/4-day-workweek-2021/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        44
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Starting in May of 2020, I measured the following: ... Reported stress dipped down to 2.7 at our June survey, and then only slightly up to 2.9 at our October survey. ... This increased to 4.7 by the end of our six-month pilot ... Customer Advocates' workweeks will look different due to the nature of the role. ... Teammates who are not meeting their objectives may choose or be asked to work 5 days.",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "16bbc5405d2877f9",
+      "url": "https://workfour.org/case-studies/blog-post-title-four-5l997",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        45
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Since launching it in 2021, the most profound impact of our 4-day week has been on employee retention. Relatedly, employee engagement is up by 50%. While we were lucky to meet 70% of our OKRs in any given quarter prior to our pilot, we now hit more than 90%. ... weeks with holidays, which were 3-day workweeks during the pilot with Monday and Friday off, were simply not working. To solve the problem, we shifted to working Fridays when Monday was a holiday, so we are always working a 4-day week.",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "c796c7398cc05801",
+      "url": "https://www.europeanbusinessreview.eu/page.asp?pid=6985",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        54
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the time spent by male workers looking after their children increasing by 27%",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "962f344953962212",
+      "url": "https://www.theemploymentlawsolicitors.co.uk/news/blog/four-day-working-week-3/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        56
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "a second four day working week pilot began on the 4th November 2024, with 1000 workers from 17 businesses taking part. ... All 17 companies in the four day week trial plan to continue the new four day working week schedule permanently. ... 62% of employees reported reduced burnout during the trial period.",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "b7648243c2b8fb5e",
+      "url": "https://4dayweek.io/country/australia",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        56
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "26 companies (10 in Australia, 9 in New Zealand, 4 in Europe, 3 in the US and Canada) ran a six-month pilot that got underway in August 2022, keeping pay at 100% with a meaningful cut in work time. 758 people took part; 547 completed both surveys. 21 companies rated the trial 8.2/10 and 95% of the 20 stating an intention wanted to continue. ... Sick and personal days per employee per month fell 44.3% (17 companies).",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "6d57404d88418e33",
+      "url": "https://policycommons.net/artifacts/13373666/portugal20420day20week20pilot20results20-20420day20week20global/14271453/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        67
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "5a101aa860319850",
+      "url": "https://www.theguardian.com/society/2025/oct/29/councils-clampdown-four-day-working-weeks-south-cambridgeshire",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        72
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The local government secretary, Steve Reed, is seeking to clamp down on councils introducing four-day working weeks after writing to South Cambridgeshire warning that the policy had damaged performance.",
+      "key_excerpt_position": 72
+    },
+    {
+      "reference_id": "a722e3bca75d9fcd",
+      "url": "https://autonomy.work/portfolio/sww-scotland-public-sector/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        73
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Average scores in the area of 'satisfaction with time' increased by 46.8% [...] The percentage of staff feeling 'very satisfied' with their work-life balance rose very sharply, from 4% pre-pilot to 84%, nine months in. [...] there was a very significant drop in sick days taken for psychological reasons (a decrease of ~25.7% during the pilot period, as compared to the year prior).",
+      "key_excerpt_position": 73
+    },
+    {
+      "reference_id": "93cd7a3e0f9502b6",
+      "url": "https://www.theguardian.com/business/2025/aug/27/scottish-government-trial-of-four-day-week-improves-productivity-and-staff-wellbeing",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        73
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "it has stopped short of rolling out a four-day week more widely. [...] The Scottish government said it would use the findings to inform its wider public service reform programme",
+      "key_excerpt_position": 73
+    },
+    {
+      "reference_id": "68cfdd929b110411",
+      "url": "https://www.uts.edu.au/news/2022/11/uts-research-reveals-success-unilever-four-day-work-week",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        77
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the trial will continue in New Zealand to garner more insights.",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "955b04103fbc7a26",
+      "url": "https://www.theguardian.com/australia-news/2022/nov/02/australian-workers-at-global-company-to-trial-four-day-week-after-success-of-new-zealand-pilot",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        77
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "British multinational Unilever will expand its trial of a four-day work week to staff in Australia after a successful 18-month pilot in New Zealand.",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "59e27dcbe340175a",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK75539/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        85
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Forty observational studies (n>3,014; sample size not reported for one study) were included in the review: five prospective cohort studies with control groups",
+      "key_excerpt_position": 85
+    },
+    {
+      "reference_id": "b09e254080b6602e",
+      "url": "https://4dayweek.io/country/france",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        96
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "France's legal working week for full-time private-sector employees is 35 hours [...] A union study of 18 local authorities reached the same conclusion: the four-day week there cannot come with a cut in working time. [...] It says the 1,607-hour annual total stays [...] A second phase began in February 2026 [...] Senator Raymonde Poncet Monge and colleagues filed bill no. 938 (2025-2026) in the Senate on 31 August 2026 [...] A Senate bill filed on 31 August 2026 would cut employer social contributions for firms that agree a collective week of at most 32 hours over four days.",
+      "key_excerpt_position": 96
+    },
+    {
+      "reference_id": "cd9dae1c14cd26e8",
+      "url": "https://www.4dayjob.com/blog/countries-with-4-day-work-week",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        97
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Government funding: €50 million allocated",
+      "key_excerpt_position": 97
+    },
+    {
+      "reference_id": "282f7d5b132ba233",
+      "url": "https://www.healthplanspain.com/blog/health-news/2062-valencian-pilot-scheme-shows-4-day-work-week-improved-workers-health.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        98
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "retailers reported a decrease in sales. Additionally, emergency medical services faced potential strain as more healthcare workers took time off. smokers and drinkers increased their overall use of tobacco and alcohol. Data released on Tuesday, October 19, from a pilot program that took place between April 10 and May 7, 2023, and affected 360,000 workers, in the Spanish coastal city of Valencia",
+      "key_excerpt_position": 98
+    },
+    {
+      "reference_id": "eac8e55ce9eb3828",
+      "url": "https://www.pbs.org/newshour/politics/what-to-know-about-bernie-sanderss-bill-for-the-u-s-to-adopt-a-32-hour-workweek",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        101
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "GOP Sen. Bill Cassidy of Louisiana said paying workers the same wages for fewer hours would force employers to pass the cost of hiring more workers along to consumers.",
+      "key_excerpt_position": 101
+    },
+    {
+      "reference_id": "1a9c50b1d69335b9",
+      "url": "https://workfour.org/policy-developments",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        102
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In California in 2022, __Rep. Evan Low__ introduced AB-2392, a directive 4-day workweek bill. After intense opposition from CA businesses and Chamber of Commerce, the bill was killed.",
+      "key_excerpt_position": 102
+    },
+    {
+      "reference_id": "4a2cceffc2620097",
+      "url": "https://www.govdocs.com/maryland-4-day-workweek-bill/",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        102
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Participating businesses would be eligible for up to $750,000 in tax credits for each fiscal year.",
+      "key_excerpt_position": 102
+    },
+    {
+      "reference_id": "5bf6ac5bdcbfc0df",
+      "url": "https://www.gov.br/planalto/pt-br/acompanhe-o-planalto/noticias/2026/10/senado-aprova-fim-da-escala-6x1-pauta-prioritaria-do-governo-federal",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        107
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "O Chile aprovou a redução gradual da jornada de 45 para 40 horas semanais até 2029, enquanto a Colômbia está em transição de 48 para 42 horas até 2026. [...] A iniciativa reduz o limite da jornada de 44 para 40 horas semanais, assegura ao trabalhador dois dias de descanso remunerado e proíbe qualquer redução salarial. [...] cerca de um terço ainda trabalha no regime 6x1, o equivalente a 14,9 milhões de trabalhadores que seriam beneficiados pela mudança para o modelo 5x2.",
+      "key_excerpt_position": 107
+    },
+    {
+      "reference_id": "7fa34b931358d0dc",
+      "url": "https://www.4dayweek.com/news-posts/environmental-benefits-2hxgl",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        109
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A study spanning from 1970 to 2007 looked at 24 countries and discovered that if work hours were reduced by 10 percent, there could be drops in ecological footprint, carbon footprint and carbon dioxide emissions by 12.1 percent, 14.6 percent and 4.2 percent, respectively.",
+      "key_excerpt_position": 109
+    },
+    {
+      "reference_id": "79ff591f7c1d05e2",
+      "url": "https://4dayweek.io/pro/environment",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        109
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "According to a 2021 report by Stop The Clock, adopting a 4-day workweek could lead to a remarkable reduction of up to 21.3% in the UK's carbon footprint. The report estimates that implementing a four-day workweek has the potential to cut UK carbon emissions by an impressive 127 million tonnes annually.",
+      "key_excerpt_position": 109
+    },
+    {
+      "reference_id": "6dae90115a599ef4",
+      "url": "https://www.researchgate.net/publication/375365733_The_social_economic_and_environmental_impacts_of_a_4-day_workweek_in_an_organization",
+      "times_cited": 1,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        112
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-30",
+      "position": 30,
+      "claim_excerpt": "Crucially, however, Pencavel warned against assuming century-old factory fatigue curves guarantee constant output from modern 32-hour cuts.",
+      "cited_markers": "[33]",
+      "corroborating_markers": "[3] [18] [4] [35] [48] [25] [9] [72] [7] [73] [76] [44]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-36",
+      "position": 36,
+      "claim_excerpt": "Early critics worried that compressing five days of deliverables into four days would intensify work pace and accelerate exhaustion.",
+      "cited_markers": "[4]",
+      "corroborating_markers": "[35] [51] [41] [34] [52] [11] [3] [18] [9] [19]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-41",
+      "position": 41,
+      "claim_excerpt": "Private corporate trials catalyzed modern interest in 2018 when New Zealand estate-planning firm Perpetual Guardian moved its 240 staff to a four-day week at full pay, evaluated by academics at the U…",
+      "cited_markers": "[39] [40]",
+      "corroborating_markers": "[68] [79] [35] [61] [10] [41] [58] [3] [48] [59] [60] [54]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-43",
+      "position": 43,
+      "claim_excerpt": "In 2019, Microsoft Japan tested paid Fridays off and self-reported nearly 40% higher productivity alongside 23% lower electricity costs and almost 60% less paper printing.",
+      "cited_markers": "[40]",
+      "corroborating_markers": "[79] [45] [68] [3] [23] [11] [41] [35] [4] [39] [10] [80]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-51",
+      "position": 51,
+      "claim_excerpt": "Multi-firm private trials coordinated by 4 Day Week Global scaled rapidly after 2022.",
+      "cited_markers": "[35]",
+      "corroborating_markers": "[68] [3] [45] [51] [44] [11] [39] [9] [41]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-69",
+      "position": 69,
+      "claim_excerpt": "Public-sector trials in Britain tested whether four-day schedules could withstand citizen-facing scrutiny.",
+      "cited_markers": "[44] [52] [55]",
+      "corroborating_markers": "[18] [35] [68] [3] [57] [11] [53] [54] [45]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-72",
+      "position": 72,
+      "claim_excerpt": "Yet a DJS Research resident survey recorded only 45% public support, and central government opposition persisted across administrations, from a November 2023 Conservative Best Value Notice to an Octo…",
+      "cited_markers": "[52] [53] [54]",
+      "corroborating_markers": "[44] [58] [74] [18] [35] [48] [72] [57] [15] [20] [12]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-75",
+      "position": 75,
+      "claim_excerpt": "In April 2019, London's Wellcome Trust scrapped plans to trial a four-day week for its 800 head-office staff, concluding it would be \"too operationally complex\" and unfair across different roles.",
+      "cited_markers": "[58]",
+      "corroborating_markers": "[39] [35] [45] [3] [4] [68] [41] [52] [46] [18] [23] [44] [55] [48]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-94",
+      "position": 94,
+      "claim_excerpt": "Europe's only national four-day statute highlights the limits of mandatory compression: Belgium's 2022 reform gave full-time employees the right to request condensing 38 weekly hours into four 9.5-ho…",
+      "cited_markers": "[22] [66]",
+      "corroborating_markers": "[68] [35] [11] [9] [17] [23] [21] [18] [34] [3] [67] [15]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-97",
+      "position": 97,
+      "claim_excerpt": "Spain allocated €50 million for SME pilots and Valencia reopened regional grants capped at €200,000 per company in October 2025, yet Spain's Congress voted down a government bill lowering the legal w…",
+      "cited_markers": "[12] [68]",
+      "corroborating_markers": "[11] [70] [69] [3] [15] [44] [67] [8]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "semana_trabalho_ea8709888325_20261117T015346Z-110",
+      "position": 110,
+      "claim_excerpt": "Localized shutdowns can cut energy and transport emissions, as in Microsoft Japan's 23% electricity savings and Valencia's 58% drop in nitrogen dioxide.",
+      "cited_markers": "[40] [69]",
+      "corroborating_markers": "[79] [45] [80] [70] [78] [35] [41] [7] [3] [23]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1838355,
+  "cost_tracked": false,
+  "processing_time_seconds": 86019.604946
+}

@@ -1,0 +1,227 @@
+[referencia=26bfe6254e4909c9 score=0.996]
+The ACS/ASCCP/ASCP recommend that women aged 21 to 29 years be screened every 3 years with cytology alone (cervical cytology or Pap testing). Women aged 30 to 65 years should be screened every 5 years with cytology and HPV testing (cotesting) or every 3 years with cytology alone. Women at increased risk of cervical cancer (ie, women with a history of cervical cancer, a compromised immune system, or diethylstilbestrol exposure) may need to be screened more often. Women who have had CIN 2+ should continue screening for 20 years after the last abnormal test result, even if it extends screening beyond age 65 years.<sup>6</sup> The ASCCP and SGO issued interim guidance in 2015 that recommended primary HPV screening starting at age 25 years as an alternative to cytology alone or cotesting.<sup>7</sup> The American Academy of Family Physicians guidelines are in agreement with the USPSTF.<sup>65</sup> The American College of Obstetricians and Gynecologists stated in 2016 that cytology alone and cotesting are still specifically recommended in current guidelines from most major societies; however, primary HPV screening in women 25 years or older can be considered as an alternative to current cytology-based screening if performed per ASCCP and SGO interim guidance.<sup>66</sup> The Panel on Opportunistic Infections in HIV-Infected Adults and Adolescents has issued guidance on screening for and management of HPV in patients living with HIV.<sup>18</sup>
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.996]
+### Screening Interval Based on Decision Modeling
+
+The decision model conducted for the 2012 USPSTF recommendation found that screening every 3 years with cytology alone starting at age 21 years confers a similar number of life-years gained as annual screening (69, 247 vs 69,213 life-years gained per 1000 women screened, respectively), yet results in fewer than half the number of colposcopies and fewer false-positive results.<sup>27</sup> Screening intervals for hrHPV testing varied across trials from 2 to 5 years, and observational studies of primary hrHPV testing and cotesting examined intervals from 3 to 5 years. For women aged 30 to 65 years, modeling suggests similar life-years gained with 3- and 5-year screening intervals but more tests and procedures with a 3-year screening interval (64,193.19 vs 64,193.07 life-years gained per 1000 women screened every 3 and 5 years, respectively).<sup>3</sup> Thus, the USPSTF recommends 5-year screening intervals for hrHPV testing alone or for cotesting based on evidence from RCTs, observational data, and modeling studies (Table).
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.995]
+# Cervical Cancer: Screening
+
+#### August 21, 2018
+
+Recommendations made by the USPSTF are independent of the U.S. government. They should not be construed as an official position of the Agency for Healthcare Research and Quality or the U.S. Department of Health and Human Services.
+
+- Update in Progress for Cervical Cancer: Screening
+
+### Recommendation Summary
+
+| Population | Recommendation | Grade | 
+|---|---|---|
+| Women aged 21 to 65 years | The USPSTF recommends screening for cervical cancer every 3 years with cervical cytology alone in women aged 21 to 29 years. For women aged 30 to 65 years, the USPSTF recommends screening every 3 years with cervical cytology alone, every 5 years with high-risk human papillomavirus (hrHPV) testing alone, or every 5 years with hrHPV testing in combination with cytology (cotesting). See the Clinical Considerations section for the relative benefits and harms of alternative screening strategies for women 21 years or older. | A | 
+| Women younger than 21 years | The USPSTF recommends against screening for cervical cancer in women younger than 21 years. | D | 
+| Women who have had a hysterectomy | The USPSTF recommends against screening for cervical cancer in women who have had a hysterectomy with removal of the cervix and do not have a history of a high-grade precancerous lesion (ie, cervical intraepithelial neoplasia [CIN] grade 2 or 3) or cervical cancer. | D | 
+| Women older than 65 years | The USPSTF recommends against screening for cervical cancer in women older than 65 years who have had adequate prior screening and are not otherwise at high risk for cervical cancer. See the Clinical Considerations section for discussion of adequate prior screening and risk factors that support screening after age 65 years. | D | 
+
+### Clinician Summary
+
+Expand All
+- View the Clinician Summary in PDF
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.995]
+### Importance
+
+The number of deaths from cervical cancer in the United States have decreased substantially since the implementation of widespread cervical cancer screening and continue to decline, from 2.8 per 100,000 women in 2000 to 2.3 deaths per 100,000 women in 2015.<sup>1</sup> Most cases of cervical cancer occur among women who have not been adequately screened.<sup>2</sup> Strategies that aim to ensure that all women are appropriately screened and receive adequate follow-up are most likely to succeed in further reducing cervical cancer incidence and mortality in the United States.
+
+### Detection
+
+The USPSTF found convincing evidence that screening with cervical cytology alone, primary testing for high-risk HPV types (hrHPV testing) alone, or in combination at the same time (cotesting) can detect high-grade precancerous cervical lesions and cervical cancer.
+
+### USPSTF Assessment
+
+The USPSTF concludes with high certainty that the benefits of screening every 3 years with cytology alone in women aged 21 to 29 years substantially outweigh the harms. The USPSTF concludes with high certainty that the benefits of screening every 3 years with cytology alone, every 5 years with hrHPV testing alone, or in combination in women aged 30 to 65 years outweigh the harms.
+
+The USPSTF concludes with moderate certainty that the benefits of screening in women older than 65 years who have had adequate prior screening and are not otherwise at high risk for cervical cancer do not outweigh the potential harms.
+
+The USPSTF concludes with moderate certainty that the harms of screening in women younger than 21 years outweigh the benefits.
+
+The USPSTF concludes with high certainty that the harms of screening in women who have had a hysterectomy with removal of the cervix for indications other than a high-grade precancerous lesion or cervical cancer outweigh the benefits.
+
+### Patient Population Under Consideration
+
+This recommendation statement applies to all asymptomatic individuals with a cervix, regardless of their sexual history. This recommendation statement does not apply to women who have been diagnosed with a high-grade precancerous cervical lesion or cervical cancer, women with in utero exposure to diethylstilbestrol, or women who have a compromised immune system (eg, women living with HIV).
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.995]
+### Response to Public Comment
+
+A draft version of this recommendation statement was posted for public comment on the USPSTF website from September 12, 2017, through October 13, 2017. Many comments pointed to a need for greater clarity in describing differences between cotesting and primary hrHPV testing. Several comments requested clarification on the information presented in the modeling report. Some comments highlighted implementation issues due to a lack of tests approved by the US Food and Drug Administration for primary cervical cancer screening. In response to these comments, the USPSTF now notes throughout the recommendation statement that women aged 30 to 65 years may choose to get screened every 3 years with cervical cytology alone, every 5 years with hrHPV testing alone, or every 5 years with cotesting. Accordingly, the USPSTF provided a table in the Clinical Considerations section that presents detailed information about the available evidence on the effectiveness, strengths, limitations, and unique considerations of each screening method. For further clarification on the modeling study, the USPSTF added the calibrated input parameter values, which should enable informed readers to assess the estimates used. The USPSTF added language throughout the recommendation statement to emphasize the importance of several different factors that affect overall screening effectiveness, including the primary screening test, screening ages, screening interval, test characteristics, and follow-up protocols, including triage of screen-positive women.
+
+This recommendation replaces the 2012 USPSTF recommendation. The major change in the current recommendation is that the USPSTF now recommends screening every 5 years with hrHPV testing alone as an alternative to screening every 3 years with cytology alone among women aged 30 to 65 years. These are the 2 preferred screening strategies based on the USPSTF review of trial, cohort, and modeling results. Cotesting as an alternative strategy has demonstrated similar effectiveness, although it may result in more tests and procedures compared with either cytology or hrHPV testing alone. As in the 2012 recommendation, the USPSTF continues to recommend against screening in women younger than 21 years, in women older than 65 years who have had adequate prior screening and are not otherwise at high risk for cervical cancer, and in women who have had a hysterectomy with removal of the cervix and do not have a history of a high-grade precancerous lesion or cervical cancer.
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.982]
+#### Women Aged 21 to 29 Years
+
+The USPSTF recommends screening for cervical cancer every 3 years with cervical cytology alone in women aged 21 to 29 years. Given the high prevalence of transient HPV infection among adolescents and young adults, initial screening at age 21 years should be with cytology alone. The question of what age at which screening with hrHPV testing alone offers comparable benefit has not been directly studied. The 4 trials that compared screening with hrHPV testing alone vs cytology alone found a consistently higher detection rate among younger women (younger than 30 or 35 years), which raises concern for overdiagnosis and overtreatment of transient infection.<sup>28-31</sup> Modeling estimates of the effects of switching from screening with cytology alone to hrHPV testing alone at ages 25, 27, and 30 years found minimal differences in terms of life-years gained compared with switching screening strategies at age 30 vs 25 years (64,193 vs 64,195 life-years gained per 1000 women screened, respectively). However, screening with hrHPV testing alone starting at age 25 years rather than age 30 years increased the number of colposcopies by nearly 400 colposcopies per 1000 women screened.<sup>3</sup> Therefore, switching from cytology alone to hrHPV testing alone at age 30 years appears to offer similar benefits in terms of cancer reduction as switching at younger ages but with fewer associated tests and procedures.
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.981]
+| Method | Frequency | Evidence of Efficacy | Other Considerations | 
+|---|---|---|---|
+| **Women Aged 21-29 y** |  |  |  | 
+| Cytology | Every 3 y | Observational data <sup>23</sup>Modeling study <sup>27</sup> | Screening with cytology is recommended in this age group Screening with hrHPV testing is not recommended because of the transient nature of infection and natural clearance of HPV | 
+| **Women Aged 30-65 y** |  |  |  | 
+| Cytology | Every 3 y | Observational data <sup>23</sup>Modeling study <sup>3,27</sup> | Cytology has lower sensitivity than primary hrHPV testing or cotesting and a lower false-positive rate and rate of additional testing The modeling study suggests that, compared with no screening, screening with cytology every 3 y can reduce the number of cervical cancer deaths from 8.34 to 0.76 deaths per 1000 women <sup>a</sup> | 
+| Primary hrHPV testing | Every 5 y | 4 RCTs of hrHPV testing vs cytology (screening intervals of 3.5 y, <sup>28,34</sup> 4 y,<sup>29,56-58</sup> and 5 y<sup>30,31</sup> )2 RCTs <sup>37,54</sup> of cotesting, with 13-14 y of follow-up of HPV-negative component1 US prospective cohort study <sup>53</sup> of cotesting, with analysis of 5-y risk of death from HPV componentModeling study <sup>3</sup> | Primary hrHPV testing has adequate sensitivity; see the Clinical Considerations section for triage protocols following a positive hrHPV test result The modeling study suggests that, compared with no screening, switching from cytology to primary hrHPV testing every 5 y at age 30 y can reduce the number of cervical cancer deaths from 8.34 to 0.29 deaths per 1000 women <sup>a</sup> |
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.970]
+### Estimate of Magnitude of Net Benefit
+
+There is convincing evidence that screening with cervical cytology alone, primary hrHPV testing alone, or cotesting can detect high-grade precancerous cervical lesions and cervical cancer. The USPSTF found convincing evidence that screening women aged 21 to 65 years substantially reduces cervical cancer incidence and mortality. The USPSTF found adequate evidence that the harms of screening for cervical cancer (with cytology alone, hrHPV testing alone, or cotesting with both) in women aged 30 to 65 years are moderate. The USPSTF concludes with high certainty that the benefits of screening every 3 years with cytology alone in women aged 21 to 29 years substantially outweigh the harms. The USPSTF concludes with high certainty that the benefits of screening every 3 years with cytology alone, every 5 years with hrHPV testing alone, or every 5 years with both in combination in women aged 30 to 65 years outweigh the harms.
+
+The USPSTF found adequate evidence that screening women older than 65 years who have had adequate prior screening and women younger than 21 years does not provide significant benefit. There is convincing evidence that screening women who have had a hysterectomy with removal of the cervix for indications other than a high-grade precancerous lesion or cervical cancer provides no benefit. The USPSTF found adequate evidence that the harms of screening for cervical cancer in women younger than 21 years and of screening with hrHPV testing alone in women aged 21 to 29 years are moderate. The USPSTF found adequate evidence that the harms of screening for cervical cancer in women older than 65 years who have had adequate prior screening and are not otherwise at high risk are at least small. The USPSTF found adequate evidence that screening for cervical cancer in women who have had a hysterectomy with removal of the cervix and do not have a history of a high-grade precancerous lesion or cervical cancer is associated with harms. The USPSTF concludes with moderate to high certainty that screening women older than 65 years who have had adequate prior screening and are not otherwise at high risk for cervical cancer, screening women younger than 21 years, and screening women who have had a hysterectomy with removal of the cervix for indications other than a high-grade precancerous lesion or cervical cancer does not result in a positive net benefit.
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.961]
+| Cotesting | Every 5 y | 4 RCTs of cotesting vs cytology (screening intervals of 3 y <sup>28,32,33,36-40,42</sup> and 5 y<sup>41,54,59</sup> )3 prospective cohort studies (United States, <sup>46-51</sup> Spain,<sup>52</sup> and Germany<sup>60,61</sup> )Modeling study <sup>3</sup> | Cotesting may detect slightly more cases of CIN than screening with hrHPV testing alone but with a significant increase in the number of tests and procedures The modeling study suggests that, compared with no screening, switching from cytology to cotesting every 5 y at age 30 y can reduce the number of cervical cancer deaths from 8.34 to 0.30 deaths per 1000 women <sup>a</sup> | 
+
+<sup>a</sup>Outcomes calculated from models of cohorts of women aged 20 to 100 years; screening is assumed to end at age 65 years.
+
+**Abbreviations:** CIN, cervical intraepithelial neoplasia; HPV, human papillomavirus; hrHPV, high-risk humanpapillomavirus; RCT, randomized clinical trial.
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.936]
+#### Women Aged 30 to 65 Years
+
+The USPSTF found 8 trials of cervical cancer screening; 4 RCTs compared screening with hrHPV testing alone vs cytology alone and 4 RCTs compared screening with cytology alone vs cotesting (cytology in combination with hrHPV testing).<sup>2</sup> No trials directly compared screening strategies using hrHPV testing alone vs cotesting. Meta-analysis was not possible because the trials varied substantially in terms of cytology type (conventional vs liquid-based), hrHPV test (polymerase chain reaction vs hybrid capture), screening interval (2 to 5 years), follow-up protocols for abnormal results, and protocols for screening beyond the first round. No trial included more than 2 rounds of screening. Although the purpose of screening is to reduce cervical cancer mortality, the mortality rate is so low in countries that have organized cytology screening programs that it is impractical to directly measure the effects of different screening strategies on mortality through clinical trials. Therefore, trials measured the rate of CIN 3+ (CIN 3 or worse) detection, and some trials also reported the rate of invasive cervical cancer.
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.932]
+### Harms of Screening
+
+Screening with cervical cytology and hrHPV testing can lead to harms, including more frequent follow-up testing and invasive diagnostic procedures (eg, colposcopy and cervical biopsy), as well as unnecessary treatment in women with false-positive results. Evidence from RCTs and observational studies indicate that harms from diagnostic procedures include vaginal bleeding, pain, infection, and failure to diagnose (due to inadequate sampling). Abnormal screening test results are also associated with psychological harms. In particular, women who received positive hrHPV results reported greater distress and lower satisfaction with past and current sexual partners than women who received abnormal cytology results.
+
+The USPSTF found adequate evidence that the harms of hrHPV testing alone in women aged 21 to 29 years are moderate. Primary hrHPV testing has been found to result in high rates of positive tests in this age group, in which HPV infections are likely to resolve spontaneously. The high frequency of transient HPV infection among women younger than 30 years can lead to unnecessary follow-up diagnostic and treatment interventions with potential for harm.
+
+The USPSTF found adequate evidence that the harms of screening for cervical cancer (with cytology alone, hrHPV testing alone, or cotesting with both) in women aged 30 to 65 years are moderate. Screening strategies that include hrHPV testing are slightly more sensitive than those that include cytology alone but also yield more false-positive results. Cotesting is also slightly more sensitive than cytology alone but leads to the highest false-positive rates.
+
+The USPSTF found adequate evidence that the harms of screening for cervical cancer in women older than 65 years who have had adequate prior screening and are not otherwise at high risk are at least small. The USPSTF also found adequate evidence that the harms of screening for cervical cancer in women younger than 21 years are moderate.
+
+The USPSTF found adequate evidence that screening for cervical cancer in women who have had a hysterectomy with removal of the cervix and do not have a history of a high-grade precancerous lesion or cervical cancer is associated with harms.
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.909]
+50. Katki HA, Schiffman M, Castle PE, et al. Five-year risks of CIN 3+ and cervical cancer among women who test Pap-negative but are HPV-positive. *J Low Genit Tract Dis*. 2013;17(5)(suppl 1):S56-S63.
+
+51. Katki HA, Schiffman M, Castle PE, et al. Benchmarking CIN 3+ risk as the basis for incorporating HPV and Pap cotesting into cervical screening and management guidelines. *J Low Genit Tract Dis*. 2013;17(5)(suppl 1):S28-S35.
+
+52. Ibáñez R, Autonell J, Sardà M, et al. Protecting the underscreened women in developed countries: the value of HPV test. *BMC Cancer*. 2014;14:574.
+
+53. Demarco M, Lorey TS, Fetterman B, et al. Risks of CIN 2+, CIN 3+, and cancer by cytology and human papillomavirus status: the foundation of risk-based cervical screening guidelines. *J Low Genit Tract Dis*. 2017;21(4):261-267.
+
+54. Dijkstra MG, van Zummeren M, Rozendaal L, et al. Safety of extending screening intervals beyond five years in cervical screening programmes with testing for high risk human papillomavirus: 14 year follow-up of population based randomised cohort in the Netherlands. *BMJ*. 2016;355:i4924.
+
+55. Castle PE, Kinney WK, Xue X, et al. Effect of several negative rounds of human papillomavirus and cytology co-testing on safety against cervical cancer: an observational cohort study. *Ann Intern Med*. 2018;168(1):20-29.
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.889]
+### Screening Interval
+
+Screening more frequently than every 3 years with cytology alone confers little additional benefit, with a large increase in harms, including additional procedures and assessment and treatment of transient lesions. Treatment of lesions that would otherwise resolve on their own is harmful because it can lead to procedures with unwanted adverse effects, including the potential for cervical incompetence and preterm labor during pregnancy. Evidence from RCTs, observational studies, and modeling studies suggest that a 5-year screening interval for primary hrHPV testing alone or cotesting offers the best balance of benefits and harms. Screening more frequently than every 5 years with primary hrHPV testing alone or cotesting does not substantially improve benefit but significantly increases the number of screening tests and colposcopies.
+
+### Treatment
+
+Screening aims to identify high-grade precancerous cervical lesions to prevent progression to cervical cancer. High-grade cervical lesions may be treated with excisional and ablative therapies. Early-stage cervical cancer may be treated with surgery (hysterectomy) or chemotherapy. Treatment of precancerous lesions is less invasive than treatment of cancer.<sup>2</sup>
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.888]
+#### hrHPV Testing Alone vs Conventional Cytology Alone
+
+Four RCTs (N > 250,000 women) compared screening with hrHPV testing alone vs cytology alone: the New Technologies for Cervical Cancer (NTCC) Phase II trial in Italy,<sup>28,32-34</sup> the HPV for Cervical Cancer Screening (HPV FOCAL) trial in Canada,<sup>29</sup> the FINNISH trial in Finland,<sup>30</sup> and the Compass trial in Australia.<sup>31</sup> Overall, the 4 trials found that hrHPV testing alone led to an increase in the rate of CIN 3+ detection compared with cytology alone in the first round of screening. The NTCC Phase II and HPV FOCAL trials enrolled women aged 25 to 60 or 65 years and had 2 rounds of screening 2 to 4 years apart. The FINNISH trial, which enrolled women aged 25 to 65 years, had a single round of screening and then followed up participants for 5 years through a cancer registry. The Compass trial, which enrolled 4995 women aged 25 to 64 years, randomized participants to liquid-based cytology every 2.5 years or hrHPV primary screening every 5 years.
+
+The NTCC Phase II trial found that hrHPV testing alone had a cumulative CIN 3+ detection rate twice that of cytology alone (0.4% vs 0.2%). The FINNISH trial measured the rate of invasive cervical cancer detection at 5 years; screening with hrHPV testing alone had a detection rate of 0.03% and screening with cytology alone had a detection rate of 0.01%. Recently published results from the HPV FOCAL trial<sup>35</sup> found that hrHPV testing alone had a higher detection rate for CIN 3+ (0.7%) compared with cytology (0.4%) after 4 years of follow-up. The Compass trial reported preliminary results consistent with those from the other 3 trials, but final results at 5 years of follow-up have not yet been published.
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.879]
+#### Women Older Than 65 Years
+
+None of the screening trials enrolled women older than 65 years, so direct evidence on when to stop screening is not available. When deliberating on the age at which to stop screening, the USPSTF considered the incidence of cervical cancer in older women and whether the pattern of cervical cancer incidence differs in screened vs unscreened women. The incidence and prevalence of CIN peak in the midreproductive years and begin to decline in approximately the fourth decade of life, a general pattern also apparent among certain previously unscreened women. Cervical cancer in older women is not more aggressive or rapidly progressive than it is in younger women. The rate of high-grade squamous intraepithelial lesions diagnosed by cytology is low in older women who have had adequate prior screening. The decision model commissioned by the USPSTF also supports the current practice of stopping screening at age 65 years in adequately screened women. The model projected that extending screening beyond age 65 years in women with an adequate screening history would not have significant benefit using any of the considered screening strategies.
+
+Although screening women older than 65 years who have an adequate screening history is not recommended, data suggest that screening rates begin to decline before that age. As a result, approximately 13% of 65-year-old women have not been adequately screened, and this number increases to 37.1% if the patient has no regular health care provider.<sup>13</sup> A Kaiser Permanente registry study found that the majority of cases of invasive cervical cancer among women older than 65 years occurred among those who had not met criteria for stopping screening.<sup>55,62</sup> This suggests that the decision to stop screening at age 65 years should only be made after confirming that the patient has received prior adequate screening. Current guidelines define adequate screening as 3 consecutive negative cytology results or 2 consecutive negative HPV results within 10 years before stopping screening, with the most recent test performed within 5 years.<sup>6</sup>
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.868]
+#### Cotesting vs Cytology Alone
+
+Four RCTs (N > 130,000 women) compared screening with cytology alone vs cotesting (cytology in combination with hrHPV testing): the NTCC Phase I trial in Italy,<sup>28,32,34</sup> Swedescreen in Sweden,<sup>36,37</sup> A Randomized Trial in Screening to Improve Cytology (ARTISTIC) in the United Kingdom,<sup>38-40</sup> and the Population-Based Screening Study Amsterdam (POBASCAM) in the Netherlands.<sup>41</sup> In all 4 trials, the cumulative relative ratio of CIN 3+ detection between the 2 strategies (cotesting vs cytology alone) were not statistically significant after 2 rounds of screening. The trials varied considerably in starting age (20 to 29 years), stopping age (38 to 64 years), and follow-up protocols. The NTCC Phase I, ARTISTIC, and POBASCAM trials reported 2 rounds of screening at 3- to 5-year intervals, whereas Swedescreen reported 1 round of screening with registry follow-up at 3 years. Two trials (Swedescreen and POBASCAM) reported no difference between screening strategies at 13 to 14 years of follow-up.
+
+These 4 trials reported hrHPV positive rates of 7% to 22% for screening with cotesting; again, rates were highest among women younger than 30 or 35 years. Colposcopy rates were higher for screening with cotesting than for cytology alone in 2 trials (ARTISTIC and NTCC Phase I) and not reported in the other 2 trials (Swedescreen and POBASCAM). False-positive rates were higher for screening with cotesting in 3 of 4 trials (Swedescreen did not report the false-positive rate for the intervention group).
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.858]
+### Assessment of Risk
+
+High-risk HPV infection is associated with nearly all cases of cervical cancer, and women are exposed to hrHPV through sexual intercourse. Although a large proportion of HPV infections resolve spontaneously, the high likelihood of exposure to hrHPV means that women are at risk for precancerous lesions and cervical cancer.
+
+Certain risk factors increase risk for cervical cancer, including HIV infection, a compromised immune system, in utero exposure to diethylstilbestrol, and previous treatment of a high-grade precancerous lesion or cervical cancer. Women with these risk factors are not included in this recommendation and should receive individualized follow-up. Women who have had a hysterectomy with removal of the cervix and do not have a history of a high-grade precancerous lesion or cervical cancer are not at risk for cervical cancer and should not be screened. As part of the clinical evaluation, clinicians should confirm through review of surgical records or direct examination that the cervix was removed.
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.823]
+### Additional Evidence From Observational Studies
+
+In addition to RCTs, the USPSTF also reviewed evidence from an individual participant data meta-analysis that pooled patients from 4 trials (NTCC Phase I, Swedescreen, ARTISTIC, and POBASCAM), as well as a single trial of primary hrHPV testing (NTCC Phase II). The meta-analysis found a 40% lower incidence of invasive cervical cancer among patients screened with some form of hrHPV testing compared with cytology alone.<sup>44</sup> Biopsy rates from the individual participant data meta-analysis suggest that these higher colposcopy rates led to higher rates of biopsy with cotesting than with cytology alone. However, since the meta-analysis pooled data from trials with distinctly different screening strategies and hrHPV test types, these findings cannot be interpreted with certainty.
+
+The trial evidence was also supplemented with results from 4 cohort studies. One study considered primary hrHPV screening,<sup>45</sup> 2 studies considered cotesting,<sup>46-51</sup> and 1 reported on cotesting among underscreened women.<sup>52</sup> These outcomes were not notably different from the trial outcomes. A recently published report on women (N = 1,262,713) screened 1 or more times in Kaiser Permanente Northern California between 2003 and 2015, which included women aged 25 to 29 years screened with cytology and triage with hrHPV testing for atypical squamous cells of undetermined significance and women aged 30 to 77 years screened with cotesting, also suggests that women who test negative for hrHPV have very low rates of subsequent CIN 3+, regardless of cytology results.<sup>53</sup> It is important to note that women younger than 30 or 35 years had higher hrHPV-positive and CIN 3+ rates, accompanied by higher colposcopy rates.
+
+Data from long-term follow-up studies<sup>37,54</sup> and a large US cohort study<sup>55</sup> suggest a minimal risk of missing cervical cancer among women who test negative with cotesting or primary hrHPV screening. An analysis of long-term data from Kaiser Permanente Northern California suggests that women with 1 or more negative results from cotesting have a reduced risk for future cancer.<sup>53</sup>
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.783]
+### Timing of Screening
+
+#### Women Younger Than 21 Years
+
+Cervical cancer is rare before age 21 years.<sup>8</sup> Exposure of cervical cells to hrHPV during vaginal intercourse may lead to cervical carcinogenesis, but the process has multiple steps, involves regression, and is generally not rapid. Because of the slow progression of disease and the high likelihood of regression in this age group, evidence suggests that screening earlier than age 21 years, regardless of sexual history, would lead to more harm than benefit. Treatment of CIN 2 or CIN 3 among women younger than 21 years may increase risk for adverse pregnancy outcomes.<sup>2,8</sup>
+
+#### Women Older Than 65 Years
+
+Joint guidelines from the American Cancer Society, American Society for Colposcopy and Cervical Pathology, and American Society for Clinical Pathology (ACS/ASCCP/ASCP) define adequate prior screening as 3 consecutive negative cytology results or 2 consecutive negative cotesting results within 10 years before stopping screening, with the most recent test occurring within 5 years.<sup>6</sup> The guidelines further state that routine screening should continue for at least 20 years after spontaneous regression or appropriate management of a precancerous lesion, even if this extends screening past age 65 years. Once screening has stopped, it should not resume in women older than 65 years, even if they report having a new sexual partner.
+
+#### Women Older Than 65 Years Who Have Not Been Adequately Screened
+
+Screening may be clinically indicated in older women with an inadequate or unknown screening history. Recent data suggest that one-fourth of women aged 45 to 64 years have not been screened for cervical cancer in the preceding 3 years.<sup>9</sup> In particular, women with limited access to care, women from racial/ethnic minority groups, and women from countries where screening is not available may be less likely to meet criteria for adequate prior screening. Certain considerations may also support screening in women older than 65 years who are otherwise at high risk (ie, women with a history of high-grade precancerous lesions or cervical cancer, in utero exposure to diethylstilbestrol, or a compromised immune system).<sup>2</sup>
+
+---
+
+[referencia=26bfe6254e4909c9 score=0.756]
+### Effectiveness of Different Screening Strategies
+
+The reduction of mortality and morbidity associated with the introduction of cytology-based screening is consistent across populations. A cluster RCT conducted in India found a nearly 50% reduction in cervical cancer mortality after a single round of hrHPV testing compared with a nonscreened control group after 8 years of follow-up.<sup>25</sup> The evidence review did not address whether screening for cervical cancer is effective but rather which screening strategies are most effective, when to start screening, and when to stop screening.
+
+#### Women Younger Than 21 Years
+
+The USPSTF considered the following types of evidence to determine when screening for cervical cancer should begin: cervical cancer incidence, prevalence, and mortality among young women; the natural history of precancerous lesions and HPV infection; and the effects of screening in populations of young women. Cervical cancer is rare among women younger than 20 years; according to US Surveillance, Epidemiology, and End Results data, 0.1% of all incident cancer cases occur in this age group.<sup>1</sup> Precancerous lesions are also uncommon. Estimated prevalence of CIN 3 among women younger than 20 years is 0.2%, with a concurrent false-positive cytology rate of about 3.1%.<sup>26</sup> In addition, the decision analysis model commissioned for the 2012 USPSTF recommendation showed no net benefit to starting screening before age 21 years.<sup>27</sup> The USPSTF did not look at evidence for women younger than 21 years living with HIV or who are otherwise at higher risk of cervical cancer, as they are outside the scope of this recommendation.

@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "vacinacao_hpv_83ba536ab30e_20261025T153513Z-29",
+  "passages": [
+    {
+      "reference_chunk_id": "a9873973001927ad-0",
+      "reference_id": "a9873973001927ad",
+      "score": 0.00001676877036516089,
+      "text": "false\n\n          # Latest News from Mass General Brigham\n\n## News and stories\n\nExplore news and stories across Mass General Brigham, highlighting our people and progress, research and innovation, quality patient care, and community.\n\n          primary\n\n            internal\n\n            ###### View all news\n\n## Contact Media Relations\n\nThe Media Relations office is staffed from 8:30 a.m. to 5 p.m. weekdays. On weekends or after hours, staff members will return emails at their earliest convenience.\n\n          secondary\n\n            internal\n\n            ###### Contact our team\n\nContact the Media Relations team"
+    }
+  ],
+  "assembled_context": "[referencia=a9873973001927ad score=0.000]\nfalse\n\n          # Latest News from Mass General Brigham\n\n## News and stories\n\nExplore news and stories across Mass General Brigham, highlighting our people and progress, research and innovation, quality patient care, and community.\n\n          primary\n\n            internal\n\n            ###### View all news\n\n## Contact Media Relations\n\nThe Media Relations office is staffed from 8:30 a.m. to 5 p.m. weekdays. On weekends or after hours, staff members will return emails at their earliest convenience.\n\n          secondary\n\n            internal\n\n            ###### Contact our team\n\nContact the Media Relations team",
+  "skip_reason": null
+}

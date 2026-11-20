@@ -1,0 +1,194 @@
+[referencia=28da35919f2869a1 score=0.704]
+| Provision | What it adds | Penalty | Post-mortem term |
+| --- | --- | --- | --- |
+| Tenn. Code Ann. § 47-25-1101 et seq. (from 01.07.2024) | Voice, including simulation; liability for distributing the tool | Injunction, impoundment, damages and profits, misdemeanour | 10 years plus a continuous-use rule |
+| Cal. Civ. Code § 3344.1 (AB 1836, from 01.01.2025) | Post-mortem replica in an audiovisual work or sound recording | No less than $10,000 | 70 years |
+| Cal. Lab. Code § 927 (AB 2602, from 01.01.2025) | Reasonably specific list of uses and representation in negotiations | Term unenforceable as against public policy | Applies during lifetime |
+| N.Y. Civil Rights Law § 50-f | Post-mortem right conditioned on registration with the Secretary of State | No less than $2,000 plus profits and punitive damages | 40 years, claim only after registration |
+| N.Y. S.8420-A, ch. 617 (from 09.06.2026); S.8391, ch. 616 (from 11.12.2025) | Disclosure of a synthetic performer in advertising; replica of a deceased individual | $1,000, then $5,000 | Per § 50-f |
+| RCW 63.60.050 (SB 5886, from 10.06.2026) | Forged digital likeness capable of misleading | $3,000 plus damages and profits | — |
+## The post-mortem term as a planning variable in its own right
+Post-mortem protection of likeness is neither perpetual nor uniform anywhere — and that is precisely what breaks succession planning for a performer's digital asset. Tennessee gives not a fixed term but a conditional one: the right runs for ten years after death and terminates where there is no commercial use for two consecutive years after that period, so with continuous exploitation of the catalogue it can last indefinitely, while a pause by the heirs extinguishes it. New York gives forty years and only to those who have registered the claim, California seventy, the NO FAKES bill sets an outer limit of seventy years after death, and the Danish model fifty.
+
+---
+
+[referencia=28da35919f2869a1 score=0.668]
+### New York: a term with registration
+New York works differently: the post-mortem right is capped at forty years and conditioned on registration. Under N.Y. Civil Rights Law § 50-f the successor in interest must register the claim with the state's Secretary of State and cannot recover for any use that took place before registration. The penalty is the greater of $2,000 or compensatory damages, plus the profits from the unauthorised use and possible punitive damages; the exemptions cover parody, satire, commentary, news and documentary material.
+In December 2025 two further statutes were added, both signed on 11 December: S.8420-A on disclosure of a synthetic performer in advertising (an amendment to § 396-b of the General Business Law, chapter 617) took effect after 180 days, on 9 June 2026, and S.8391 on the digital replica of a deceased performer (an amendment to § 50-f, chapter 616; the Assembly companion is A.8882) took effect immediately. The fine under S.8420-A is $1,000 for a first violation and $5,000 for each subsequent one; expressive works (film, television, video games), audio-only advertising, language translation of a real performer and platforms that publish third-party content are carved out.
+### Washington and the other states
+Washington introduced the concept of a forged digital likeness with effect from 10 June 2026 (SB 5886, RCW 63.60.050): a digitally created or altered image or recording that is indistinguishable from an authentic one and misrepresents appearance, speech or conduct in a way capable of misleading a reasonable person. The penalty under RCW 63.60 is a civil fine of $3,000 plus actual damages and the infringer's profits, and non-economic damages are awarded regardless of whether the violation was profitable.
+Sources disagree on how many states now have such provisions: the WashU Law tracker lists seven (among them Illinois, Arkansas from 21 April 2025 and Montana from 1 January 2026), while the Davis Wright Tremaine survey of June 2026 speaks of roughly a dozen. The question "does this copy infringe publicity rights" is meaningless without naming the state, the place of use and the year.
+| Provision | What it adds | Penalty | Post-mortem term |
+| --- | --- | --- | --- |
+| Tenn.
+
+---
+
+[referencia=28da35919f2869a1 score=0.555]
+# Right of Publicity and AI: Deepfakes, Voice and Post-Mortem Protection
+> Digital replicas of voice and likeness: the ELVIS Act, AB 1836 and AB 2602, NY § 50-f, NO FAKES, AI Act art. 50 and the Danish model — terms, penalties, take-downs.
+Author: Dana Berzeg — Attorney-at-law, Family Office (https://wiki.private.law/en/authors/berzegova)
+Last modified: 2026-09-14T19:09:00.000Z
+Canonical: https://wiki.private.law/en/publicity-rights-ai
+Publisher: wiki.private.law (https://wiki.private.law)
+Version: a23b12a7bd7a22399908bad94a53a53248ef89447e5fb3305d0d2b8afa393929
+Cite as: Right of Publicity and AI: Deepfakes, Voice and Post-Mortem Protection. wiki.private.law. https://wiki.private.law/en/publicity-rights-ai. Version a23b12a7bd7a22399908bad94a53a53248ef89447e5fb3305d0d2b8afa393929.
+Topics: investments
+Jurisdictions: usa, eu, uk
+Product tags: compliance
+Semantic tags: compliance
+
+---
+
+[referencia=28da35919f2869a1 score=0.485]
+## The United Kingdom: no right, but a perimeter
+English law has no separate image right: in Fenty v Arcadia Group Brands Ltd 
+$$
+2015
+$$
+ EWCA Civ 3 the court confirmed that there is no image right and no character right, and Rihanna's claim succeeded in passing off. Its three elements are the practical rule: goodwill or reputation, a misrepresentation to the public as to endorsement, and damage. The first successful false endorsement case was Irvine v Talksport Ltd 
+$$
+2002
+$$
+ EWHC 367 (Ch): Eddie Irvine recovered £25,000 over a doctored photograph that suggested he endorsed the radio station.
+Against synthetic content the perimeter is assembled from other people's causes of action: the UK GDPR and the Data Protection Act 2018, the Defamation Act 2013, breach of confidence and misuse of private information, copyright and moral rights, performers' rights, trade mark registration and the ASA codes. Reform remains an intention: the copyright and AI consultation ran until 25 February 2025, and the government said it was considering a new form of protection for personality rights and a separate consultation — as at September 2026 there is no binding provision.
+| Jurisdiction | Right to prohibit a copy | Labelling | Post-mortem term |
+| --- | --- | --- | --- |
+| Tennessee | Yes, including the tool | No | 10 years plus use |
+| California | Yes, post-mortem and through unenforceability of the term | No | 70 years |
+| New York | Yes, once the claim is registered | Yes, advertising, from 09.06.2026 | 40 years |
+| Washington | Yes, forged digital likeness | No | — |
+| United States, federal level | Only the NO FAKES bill | No general duty | Up to 70 years under the bill |
+| EU, AI Act | No | Yes: Articles 50(2) and 50(4) from 02.08.2026 | Not applicable |
+| Denmark (bill) | Yes, appearance and voice as objects of a right | No, consent does the work | 50 years |
+| United Kingdom | No, passing off only | No | Not applicable |
+The same eight jurisdictions from the enforcement side: the channel through which content comes down and the ceiling on the penalty.
+| Jurisdiction | Take-down procedure | Penalty ceiling |
+| --- | --- | --- |
+
+---
+
+[referencia=28da35919f2869a1 score=0.401]
+The definition of voice is built for synthesis: a sound in a medium that is readily identifiable and attributable to a particular individual, regardless of whether it contains the actual voice or a simulation of it. The principal innovation is liability for the tool: § 47-25-1105 prohibits distribution of an algorithm, software, service or device the primary purpose or function of which is to produce a particular identifiable individual's photograph, voice or likeness, where the distributor knows there is no authorisation. The remedies under §§ 47-25-1105 and 47-25-1106 are injunctive relief, impoundment and destruction of materials, actual damages and the infringer's profits, plus a misdemeanour offence.
+### California: post-mortem replica and the contract
+California passed two statutes on the same day — AB 1836 and AB 2602 were signed on 17 September 2024 and apply from 1 January 2025. AB 1836 extended the state's post-mortem right of publicity to digital replicas: producing and distributing a replica of a deceased personality's voice or likeness in an audiovisual work or sound recording without the estate's consent is prohibited, and the penalty is the greater of $10,000 or the actual damages suffered by the estate (Cal. Civ. Code § 3344.1); rights-holder-authorised electronic reproduction, sampling, remixing, mastering and digital remastering are carved out.
+AB 2602 strikes at the contract rather than at the use: Cal. Lab. Code § 927 declares unenforceable as against public policy any term permitting the creation and use of a digital replica in place of personal work where the agreement contains no reasonably specific description of the intended uses and where the individual was not represented by legal counsel or a union in the negotiations; the wording "all media known or hereafter devised" is expressly treated as insufficient. The provision applies to recordings fixed on or after 1 January 2025: older contracts are not automatically void, but they cease to be a safe model. A digital replica here is a computer-generated, highly realistic electronic representation that is readily identifiable as the voice or visual likeness of a particular individual, where the individual either did not perform or where the performance has been materially altered.
+### New York: a term with registration
+New York works differently: the post-mortem right is capped at forty years and conditioned on registration. Under N.Y.
+
+---
+
+[referencia=28da35919f2869a1 score=0.270]
+> 🍓 Four typical mistakes. First, assuming that a general assignment of image rights permits a digital copy — AB 2602 makes such a term contrary to public policy where there is no specific list of uses and no representation. Second, assuming that post-mortem protection is perpetual and uniform — it is 10 years in Tennessee subject to use, 40 years in New York and only after registration, 70 years in California and 50 years in the Danish model. Third, trying to protect a voice by copyright or trade mark — under Lehrman v. Lovo only the fixation of the recording is protected, and Lanham Act false endorsement fails where the voice is itself the service being sold. Fourth, treating AI Act labelling as consent.
+## Q/A
+### Will a US claim work against a European deployer?
+As a rule there is no direct route: the ELVIS Act and the Californian provisions are state law with their own requirements as to jurisdiction and the connection of the use to the territory, and NO FAKES remains a bill. What does work against a European deployer is the GDPR (image and voice as personal data, biometrics under Article 9), the Article 50(4) AI Act disclosure duty from 2 August 2026 and, if the Danish model is adopted, notice under Article 16 DSA. In practice the dispute begins with a notice to the platform, which has a European complaints channel.
+### Is it enough to label a clip as AI-generated?
+No. Articles 50(2) and 50(4) of Regulation (EU) 2024/1689 require disclosure of artificial origin, but they give no permission to use another person's likeness and voice: the individual's consent is a separate basis, and its absence remains a violation even where the labelling is impeccable. The Code of Practice of 10 June 2026 helps to demonstrate compliance with Article 50, but it does not legitimise the replica.
+### How quickly can synthetic content be taken down in the US today?
+The only federal mechanism in force is the TAKE IT DOWN Act: from 19 May 2026 platforms must operate a conspicuous notice process and remove flagged material within 48 hours of a valid request, including known identical copies; complaints may be filed through [TakeItDown.ftc.gov](https://takeitdown.ftc.gov/), and the penalty is $53,088 per violation.
+
+---
+
+[referencia=28da35919f2869a1 score=0.077]
+## The concept: the dispute has moved from the poster to the copy
+Publicity rights protect the commercial exploitation of a particular person's name, image and voice. Until 2024 the argument was about a photograph on packaging or a portrait on a T-shirt; with the arrival of generative models the subject matter changed — the synthetic copy, that is a digital replica of voice and likeness which can be produced in unlimited quantity without the person taking any part in it.
+The legal nature of image rights and the tax treatment of the payment made for them are set out in the review of [image rights](https://wiki.private.law/en/image-rights); this page covers only the synthetic layer and four practical questions: who may prohibit a copy, for how many years the right survives the person, under what procedure the content is taken down, and where the duty to label AI output is mistaken for consent.
+The frame is comparative: the United States, where the right exists and is a matter of state law; the EU, where a disclosure duty stands in place of a right; and the United Kingdom, where there is no statutory right at all.
+- Protected subject · The digital replica of a particular person's voice and likeness
+- Where the right bites · United States, state level: Tennessee, California, New York, Washington
+- US federal level · NO FAKES Act (S.4591) — a bill, Calendar No. 446 since 24.06.2026
+- Post-mortem term · 10 years in Tennessee subject to use, 40 in New York after registration, 70 in California, 50 in the Danish model
+- Labelling · EU, Article 50 AI Act from 02.08.2026; systems placed earlier, until 02.12.2026
+- Take-down procedure · TAKE IT DOWN Act: 48 hours from 19.05.2026, FTC portal
+- Penalty ceiling · EUR 15 million or 3% of worldwide turnover (AI Act); $53,088 per violation (FTC)
+- United Kingdom · No statutory image right; protection runs through passing off
+## What is actually protected: neither copyright nor trade mark
+Copyright protects the fixation — the recording, the frame, the file; a trade mark protects a sign that distinguishes goods; publicity rights protect the exploitation of identity itself.
+
+---
+
+[referencia=28da35919f2869a1 score=0.038]
+## The EU: where a prohibition does appear
+The prohibitory base in Europe comes not from the AI Act but from data protection: image and voice are personal data, and where they are processed for the purpose of uniquely identifying a person this is biometric data under Article 9 GDPR, with a presumption of prohibition; the EDPB's positions on model training and scraping set the framework for the lawfulness of collecting training material.
+The first attempt to make likeness itself the object of an exclusive right is Danish. The amendment to the Danish Copyright Act has been notified to the European Commission, the consultation ran until 3 February 2026 and entry into force was expected in July 2026. The Ministry of Culture's legislative programme of 7 October 2025 scheduled the bill on protection of personal characteristics for the start of 2026, but as at September 2026 there is no published bill number and no record of adoption by the Folketing. The model: realistic digital imitations of appearance and voice, as well as imitations of performers, are protected; the term is 50 years after death; the consent of the person imitated is required before access to the content is given; caricature, satire, parody and pastiche are excluded; enforcement relies on notice and action under Article 16 DSA.
+Ireland's interest is recorded by the European Parliament's research service: the [EPRS briefing ATA(2026)782611](https://www.europarl.europa.eu/RegData/etudes/ATAG/2026/782611/EPRS_ATA$2026$782611_EN.pdf) of January 2026 states that Ireland had announced an intention to follow the planned Danish rules. What actually exists in Ireland is a private member's bill, the [Protection of Voice and Image Bill 2025](https://www.oireachtas.ie/en/bills/bill/2025/11/) (Bill 11 of 2025, sponsored by Malcolm Byrne, initiated on 1 April 2025 and standing at Dáil second stage), and it builds a criminal offence for the misuse of a person's name, photograph, voice or likeness rather than the copyright model. If the neighbours replicate the model, the EU will acquire a right to prohibit which, as at September 2026, exists in no jurisdiction there.
+## The United Kingdom: no right, but a perimeter
+English law has no separate image right: in Fenty v Arcadia Group Brands Ltd 
+$$
+
+---
+
+[referencia=28da35919f2869a1 score=0.031]
+The subject matter is narrow: non-consensual intimate images, including digital forgeries. A general notice-and-takedown procedure with counter-notification and a 14-day window is built into NO FAKES, but that is a bill.
+### What should a performer's heirs do first?
+First, fix the map of terms: where a post-mortem right exists and for how many years. Then satisfy the conditions on which the very possibility of a claim depends: register the claim with the New York Secretary of State (nothing can be recovered for the period before registration, N.Y. Civil Rights Law § 50-f) and secure documented commercial use in Tennessee, failing which the right lapses after two years of inactivity following the ten-year period.
+### Does training a model on voice recordings infringe publicity rights by itself?
+Training and publicity rights are different bases. Lehrman v. Lovo showed that copyright protects the fixation of the recording rather than the qualities of the voice, while the state right of publicity responds to the use of a recognisable voice rather than to the fact of training; in the EU the data collection stage is assessed under the GDPR. Hence the contractual consequence: the prohibition on sub-licensing for training is drafted as a separate clause — it does not follow from permission to use the replica.
+---
+## Similar articles
+- [Ambassador Liability for the Promoted Product](https://wiki.private.law/en/celebrity-promo-liability)
+- [Children in Content: Earnings, Consent and Safeguards](https://wiki.private.law/en/child-influencers)
+- [The EU AI Act After 2 August 2026: Obligations for Law Firms and Family Offices](https://wiki.private.law/en/eu-ai-act-law-firms)
+- [Gambling Sponsorship: What Clubs, Leagues and Ambassadors May Do](https://wiki.private.law/en/gambling-sponsorships)
+- [Art as an Asset: Title, Provenance, Storage and Lending](https://wiki.private.law/en/art-title-and-lending)
+- [Crypto-Asset Tax Reporting: Who Reports What to Tax Authorities](https://wiki.private.law/en/crypto-tax-reporting)
+---
+Source: wiki.private.law — the private.law legal knowledge base. When quoting, cite the canonical page URL.
+Consultation with a lawyer: https://t.me/private_law_bot
+
+---
+
+[referencia=28da35919f2869a1 score=0.015]
+## What is actually protected: neither copyright nor trade mark
+Copyright protects the fixation — the recording, the frame, the file; a trade mark protects a sign that distinguishes goods; publicity rights protect the exploitation of identity itself. A model neither copies a file nor puts someone else's sign on goods: it produces a new work that is recognisably similar to a person — which is why the dispute has moved into the third category, and that has now been confirmed directly.
+In Lehrman v. Lovo, Inc., No. 24-cv-3770 (S.D.N.Y.), Judge J. Paul Oetken by decision of 17 July 2025 dismissed the voice artists' copyright claims so far as they concerned model training and derivative works: what is protected is the fixed sound recording, not the abstract qualities of a voice, and a new recording imitating a voice is a separate fixation of its own. The same decision dismissed the Lanham Act false endorsement claim: the voice was the service being sold rather than a designation of origin or sponsorship. What survived were the claims under N.Y. Civil Rights Law §§ 50 and 51 and the contractual claims — in other words, state publicity rights and the contract work, while federal intellectual property does not.
+The US Copyright Office has recorded the same position institutionally: the report Copyright and Artificial Intelligence, Part 1: Digital Replicas of July 2024 finds that copyright law does not protect identity, that state publicity rights give patchwork protection, and that the Lanham Act and the FTC Act require commercial use or proven confusion; the conclusion is that federal legislation is needed, protecting all individuals regardless of fame, with a limited post-mortem term, licensing without full assignment and a safe harbour for online services acting on notice.
+## The United States: the state layer, where the right actually bites
+### Tennessee: voice and the tool
+Tennessee was the first to name the voice as a protected attribute. The ELVIS Act (Ensuring Likeness, Voice, and Image Security Act of 2024) amended the Personal Rights Protection Act 1984 — Tenn. Code Ann. § 47-25-1101 et seq.; it was signed on 21 March 2024 and has been in force since 1 July 2024. The definition of voice is built for synthesis: a sound in a medium that is readily identifiable and attributable to a particular individual, regardless of whether it contains the actual voice or a simulation of it.
+
+---
+
+[referencia=28da35919f2869a1 score=0.006]
+The Act covers digital forgeries — images of individuals digitally created or altered by software, an application or artificial intelligence. Enforcement sits with the FTC, with a civil penalty of $53,088 per violation, and complaints go through the [TakeItDown.ftc.gov](https://takeitdown.ftc.gov/) portal. This is the only federal take-down mechanism for synthetic content that is actually operating, but its subject matter is narrow.
+## The EU: the AI Act gives a disclosure duty, not a right to prohibit
+The AI Act does not create publicity rights — it creates a transparency obligation for the provider and the deployer, applicable from 2 August 2026. Under Article 50(2) of Regulation (EU) 2024/1689 the provider of systems generating synthetic audio, image, video or text must ensure machine-readable marking and detectability of artificial origin; systems placed on the market before that date benefit from a grace period until 2 December 2026. Under Article 50(4) a deployer who generates or manipulates an image, audio or video constituting a deepfake must disclose its artificial origin; for evidently artistic, creative, satirical or fictional works the disclosure is made in a manner that does not hamper the display or enjoyment of the work — a relaxation of form, not an exemption.
+Where a third-party model is used, both duties arise at the same time for different persons. The penalty under Article 99 is up to EUR 15 million or up to 3% of total worldwide annual turnover for the preceding financial year, whichever is higher, subject to proportionality for SMEs.
+The Code of Practice on transparency of AI-generated content was published on 10 June 2026 (work began on 5 November 2025) and by 31 July 2026 had been signed by around 190 organisations; the European Commission and the AI Board have confirmed it as an adequate voluntary means of demonstrating compliance with Article 50 — but the obligations themselves remain legal rather than voluntary. The advertising layer of labelling — who marks integrations, retouching and the virtual origin of an image, and how — is covered in the review of [influencer regulation](https://wiki.private.law/en/influencer-regulation).
+## The EU: where a prohibition does appear
+
+---
+
+[referencia=28da35919f2869a1 score=0.005]
+The same eight jurisdictions from the enforcement side: the channel through which content comes down and the ceiling on the penalty.
+| Jurisdiction | Take-down procedure | Penalty ceiling |
+| --- | --- | --- |
+| Tennessee | Court: injunction, impoundment, destruction | Damages and profits, misdemeanour |
+| California | Court | No less than $10,000 |
+| New York | Court plus registration with the Secretary of State | $5,000 under S.8420 |
+| Washington | Court | $3,000 plus damages |
+| United States, federal level | 48 hours and the FTC portal; counter-notice and 14 days under the bill | $53,088 per violation |
+| EU, AI Act | Not provided for by the Regulation | EUR 15 million or 3% of turnover |
+| Denmark (bill) | Notice under Article 16 DSA | — |
+| United Kingdom | General channels and the court | Common law damages |
+## What belongs in the contract and in the file
+The contract is the only layer that works across all three jurisdictions at once, and AB 2602 has set its minimum standard. The list of permitted uses must be reasonably specific: product, format, channel, duration, languages — instead of "all media known or hereafter devised". The fee for the digital replica goes on a separate line from the fee for the personal performance: it is both a negotiating position and the basis for calculating damages. The term and territory of the licence are stated expressly, with an eye on the shortest of the applicable post-mortem terms. Sub-licensing for model training is prohibited by a separate clause. Legal counsel or a union representative should be present at the negotiations.
+On the succession side: appointment of a successor in interest, registration of the claim with the New York Secretary of State as a condition of any future action, and documentation of continuous use for Tennessee. In the file: platform notice forms, the [TakeItDown.ftc.gov](https://takeitdown.ftc.gov/) portal and a calculation of response deadlines. The adjacent commercialisation of name and image is covered in the material on [NIL](https://wiki.private.law/en/nil).
+> 🍓 Four typical mistakes. First, assuming that a general assignment of image rights permits a digital copy — AB 2602 makes such a term contrary to public policy where there is no specific list of uses and no representation.
+
+---
+
+[referencia=28da35919f2869a1 score=0.004]
+New York gives forty years and only to those who have registered the claim, California seventy, the NO FAKES bill sets an outer limit of seventy years after death, and the Danish model fifty.
+The post-mortem right behaves not like copyright with a single term but like a set of different assets in different states, some of which require positive steps: registration in New York and documented use in Tennessee. The term of a replica licence should be checked against the shortest of the applicable terms; ownership and monetisation of the IP are covered in the materials on the [creator holding company](https://wiki.private.law/en/creator-holdco) and on [IP Box regimes](https://wiki.private.law/en/ip-box).
+## US federal level: one statute in force, the other not
+The NO FAKES Act of 2026 (S.4591) was introduced on 20 May 2026, passed the Senate Judiciary Committee unanimously on 18 June 2026 and was reported and placed on the Senate Legislative Calendar (Calendar No. 446) on 24 June; there has been no floor vote, and as at September 2026 it is a bill, not law in force. The structure: during lifetime the right is not assignable but is licensable; after death it becomes transferable and licensable and terminates no later than 70 years after the rights-holder's death. Enforcement follows the DMCA model: notice of infringement, a duty on the online service to remove the material or disable access to it as quickly as is technically and practically feasible, a counter-notification, and restoration of the content if no action is brought within 14 days; there is no monitoring obligation.
+A false counter-notification carries $25,000 or actual damages and costs, whichever is greater. The bill pre-empts future state regulation but preserves causes of action existing under statute and common law as at 2 January 2025: the ELVIS Act and the Californian provisions survive; news, parody, criticism, non-commercial libraries, archives and accredited educational institutions are carved out.
+Something else is already in force. The TAKE IT DOWN Act was signed on 19 May 2025 and the platform obligations took effect exactly a year later: from 19 May 2026 covered platforms must operate a clear and conspicuous notice-and-removal process for non-consensual intimate images and must remove flagged material within 48 hours of a valid request, including known identical copies.
+
+---
+
+[referencia=28da35919f2869a1 score=0.000]
+---

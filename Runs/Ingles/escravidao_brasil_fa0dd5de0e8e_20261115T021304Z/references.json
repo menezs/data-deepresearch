@@ -1,0 +1,648 @@
+[
+  {
+    "id": "bfef16fbfb6faa86",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "normalized_url": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "work_key": "https://www2.camara.leg.br/legin/fed/leimp/1824-1899/lei-3353-13-maio-1888-533138-publicacaooriginal-16269-pl.html",
+    "title": "1. Câmara dos Deputados, Legislação Informatizada, \"Lei nº 3.353, de 13 de maio de 1888 – Publicação Original\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:19.700860Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "78bdc00c6dc3352f",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.congressoemfoco.com.br/noticia/118759/congresso-viveu-65-anos-de-recuos-e-leis-graduais-ate-a-lei-aurea",
+    "normalized_url": "https://congressoemfoco.com.br/noticia/118759/congresso-viveu-65-anos-de-recuos-e-leis-graduais-ate-a-lei-aurea",
+    "work_key": "https://congressoemfoco.com.br/noticia/118759/congresso-viveu-65-anos-de-recuos-e-leis-graduais-ate-a-lei-aurea",
+    "title": "2. Congresso em Foco, \"Congresso viveu 65 anos de recuos e leis graduais até a Lei Áurea\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:19.717941Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "6e3e03f69cd8d1a2",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Lei_%C3%81urea",
+    "normalized_url": "https://en.wikipedia.org/wiki/Lei_Áurea",
+    "work_key": "https://en.wikipedia.org/wiki/Lei_Áurea",
+    "title": "3. Wikipedia, \"Lei Áurea\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:19.697909Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e739cd1e0b5e5fb0",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://rioonwatch.org/?p=21879",
+    "normalized_url": "https://rioonwatch.org?p=21879",
+    "work_key": "https://rioonwatch.org?p=21879",
+    "title": "4. RioOnWatch, \"Research Indicates that Rio Received Two Million Enslaved Africans\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:20.282917Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b6a77a65a43cef02",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+    "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+    "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro",
+    "title": "5. Agência Senado (Arquivo S), \"Marinha britânica forçou Brasil a acabar com tráfico negreiro\" (Ricardo Westin, 2025).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:56.338216Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ccfa7b1e3cfd7147",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos",
+    "title": "6. Agência Senado, \"Lei dos Sexagenários completa 130 anos\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:56.439242Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "74709e434e5374b6",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Abolitionism_in_Brazil",
+    "normalized_url": "https://en.wikipedia.org/wiki/Abolitionism_in_Brazil",
+    "work_key": "https://en.wikipedia.org/wiki/Abolitionism_in_Brazil",
+    "title": "7. Wikipedia, \"Abolitionism in Brazil\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:21.704534Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "f00b5854d4684018",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://vermelho.org.br/2016/05/13/a-abolicao-uma-revolucao-pela-metade/",
+    "normalized_url": "https://vermelho.org.br/2016/05/13/a-abolicao-uma-revolucao-pela-metade",
+    "work_key": "https://vermelho.org.br/2016/05/13/a-abolicao-uma-revolucao-pela-metade",
+    "title": "8. Vermelho, \"A Abolição, uma revolução pela metade\" (opinion, José Carlos Ruy, 2016).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:20.753671Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c9ecf3e661478b7d",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/cem-anos-da-morte-da-princesa-isabel-a-regente-que-reinou-alem-do-machismo",
+    "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/cem-anos-da-morte-da-princesa-isabel-a-regente-que-reinou-alem-do-machismo",
+    "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/cem-anos-da-morte-da-princesa-isabel-a-regente-que-reinou-alem-do-machismo",
+    "title": "9. Agência Senado (Arquivo S), \"Cem anos da morte da princesa Isabel, a regente que reinou além do machismo\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:57.364171Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "bf0927ab1980dfdb",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www.gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/minisites/memoriaescravidao/copy_of_pdfs/04-roteiro-de-atividades-pedagogicas-as-indenizacoes.pdf",
+    "normalized_url": "https://gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/minisites/memoriaescravidao/copy_of_pdfs/04-roteiro-de-atividades-pedagogicas-as-indenizacoes.pdf",
+    "work_key": "https://gov.br/casaruibarbosa/pt-br/centrais-de-conteudo/minisites/memoriaescravidao/copy_of_pdfs/04-roteiro-de-atividades-pedagogicas-as-indenizacoes.pdf",
+    "title": "10. Casa de Rui Barbosa, Memória da Escravidão, \"Roteiro de atividades pedagógicas: as indenizações\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:00.465101Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "22ecc9a88862477f",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://library.brown.edu/create/fivecenturiesofchange/?p=78",
+    "normalized_url": "https://library.brown.edu/create/fivecenturiesofchange?p=78",
+    "work_key": "https://library.brown.edu/create/fivecenturiesofchange?p=78",
+    "title": "11. Brown University Library, Five Centuries of Change in Brazil, \"Immigration\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:58.941373Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "269c825e35717d8a",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://agenciagov.ebc.com.br/noticias/202312/censo-2022-mostra-que-45-da-populacao-brasileira-e-pardos-e-43-5-branca",
+    "normalized_url": "https://agenciagov.ebc.com.br/noticias/202312/censo-2022-mostra-que-45-da-populacao-brasileira-e-pardos-e-43-5-branca",
+    "work_key": "https://agenciagov.ebc.com.br/noticias/202312/censo-2022-mostra-que-45-da-populacao-brasileira-e-pardos-e-43-5-branca",
+    "title": "12. Agência Gov (EBC), \"Censo 2022 mostra que 45% da população brasileira é parda e 43,5% branca\" (22 Dec 2023).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:58.443478Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8b9e2d3868cc3f6d",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://www.cut.org.br/noticias/hora-trabalhada-de-pessoa-branca-vale-67-7-mais-que-a-de-negros-ff0e/",
+    "normalized_url": "https://cut.org.br/noticias/hora-trabalhada-de-pessoa-branca-vale-67-7-mais-que-a-de-negros-ff0e",
+    "work_key": "https://cut.org.br/noticias/hora-trabalhada-de-pessoa-branca-vale-67-7-mais-que-a-de-negros-ff0e",
+    "title": "13. CUT, reprint of Agência Brasil, \"Hora trabalhada de pessoa branca vale 67,7% mais que a de negros\" (4 Dec 2024).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:59.330500Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a190f10445b652b4",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.jb.com.br/pais/noticias/2012/04/26/amp/por-unanimidade-stf-declara-constitucional-cotas-para-negros-nas-universidades.html",
+    "normalized_url": "https://jb.com.br/pais/noticias/2012/04/26/amp/por-unanimidade-stf-declara-constitucional-cotas-para-negros-nas-universidades.html",
+    "work_key": "https://jb.com.br/pais/noticias/2012/04/26/amp/por-unanimidade-stf-declara-constitucional-cotas-para-negros-nas-universidades.html",
+    "title": "14. Jornal do Brasil, \"Por unanimidade, STF declara constitucional cotas para negros nas universidades\" (26 Apr 2012).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:13:59.429574Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3ca703b5535b0200",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://legacy.slavevoyages.org/assessment/estimates",
+    "normalized_url": "https://legacy.slavevoyages.org/assessment/estimates",
+    "work_key": "https://legacy.slavevoyages.org/assessment/estimates",
+    "title": "15. SlaveVoyages, \"Trans-Atlantic Slave Trade – Estimates\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:00.615872Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "e82fd61caeac9b1b",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Slavery_in_Brazil",
+    "normalized_url": "https://en.wikipedia.org/wiki/Slavery_in_Brazil",
+    "work_key": "https://en.wikipedia.org/wiki/Slavery_in_Brazil",
+    "title": "16. Wikipedia, \"Slavery in Brazil\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:00.525327Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ec165ed562f0ca68",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.britannica.com/place/Brazil/Agriculture-and-prospecting",
+    "normalized_url": "https://britannica.com/place/Brazil/Agriculture-and-prospecting",
+    "work_key": "https://britannica.com/place/Brazil/Agriculture-and-prospecting",
+    "title": "17. Encyclopaedia Britannica, \"Brazil – Agriculture and prospecting\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:00.957615Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "7cae18c31cf69814",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://repositorio.ipea.gov.br/bitstream/11058/14231/1/_A_economia_da_escravidao_nas_fazendas_%20de_cafe.pdf",
+    "normalized_url": "https://repositorio.ipea.gov.br/bitstream/11058/14231/1/_A_economia_da_escravidao_nas_fazendas_ de_cafe.pdf",
+    "work_key": "https://repositorio.ipea.gov.br/bitstream/11058/14231/1/_A_economia_da_escravidao_nas_fazendas_ de_cafe.pdf",
+    "title": "18. Pedro Carvalho de Mello, A Economia da Escravidão nas Fazendas de Café: 1850-1888, IPEA, 1984.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:15:30.312417Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "8860def82e166d56",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/male-rebellion",
+    "normalized_url": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/male-rebellion",
+    "work_key": "https://encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/male-rebellion",
+    "title": "19. Encyclopedia.com (Encyclopedia of African-American Culture and History), \"Malê Rebellion\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:01.736502Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "3bc339d423969206",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://warwick.ac.uk/fac/arts/history/students/modules/hi3s9/programme/abolition/graden_abolition_of_slave_trade_historia_unisinos.pdf",
+    "normalized_url": "https://warwick.ac.uk/fac/arts/history/students/modules/hi3s9/programme/abolition/graden_abolition_of_slave_trade_historia_unisinos.pdf",
+    "work_key": "https://warwick.ac.uk/fac/arts/history/students/modules/hi3s9/programme/abolition/graden_abolition_of_slave_trade_historia_unisinos.pdf",
+    "title": "20. Dale T. Graden, \"Slave resistance and the abolition of the trans-Atlantic slave trade to Brazil in 1850,\" História Unisinos 14(3), 2010.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:14.818871Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "9d0b6683c24c345f",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Burning_of_slavery_records_in_Brazil",
+    "normalized_url": "https://en.wikipedia.org/wiki/Burning_of_slavery_records_in_Brazil",
+    "work_key": "https://en.wikipedia.org/wiki/Burning_of_slavery_records_in_Brazil",
+    "title": "21. Wikipedia, \"Burning of slavery records in Brazil\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:01.969493Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "098166ab43bc3abe",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.redalyc.org/pdf/770/77002404.pdf",
+    "normalized_url": "https://redalyc.org/pdf/770/77002404.pdf",
+    "work_key": "https://redalyc.org/pdf/770/77002404.pdf",
+    "title": "22. Erivaldo Fagundes Neves, \"Sampauleiros traficantes: comércio de escravos do Alto Sertão da Bahia para o Oeste Cafeeiro Paulista,\" Afro-Ásia no. 24, 2000.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:25.792066Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "0ce7490469f2e658",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-3/slavery-and-aboliton/",
+    "normalized_url": "https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-3/slavery-and-aboliton",
+    "work_key": "https://library.brown.edu/create/fivecenturiesofchange/chapters/chapter-3/slavery-and-aboliton",
+    "title": "23. Brown University Library, Five Centuries of Change in Brazil, \"4.2 Slavery and Abolition in the 19th Century\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:16.638634Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "ba32c15d17dd3a49",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.congressoemfoco.com.br/noticia/118766/quem-tentou-barrar-a-abolicao-da-escravatura-no-parlamento",
+    "normalized_url": "https://congressoemfoco.com.br/noticia/118766/quem-tentou-barrar-a-abolicao-da-escravatura-no-parlamento",
+    "work_key": "https://congressoemfoco.com.br/noticia/118766/quem-tentou-barrar-a-abolicao-da-escravatura-no-parlamento",
+    "title": "24. Congresso em Foco, \"Quem tentou barrar a abolição da escravatura no Parlamento\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:17.451031Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "a28c1b9965cf552c",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://mais.opovo.com.br/reportagens-especiais/dragoes-do-ceara/2021/08/28/140-anos-da-greve-contra-a-escravidao-a-jangada-perdida-do-dragao-do-mar.html",
+    "normalized_url": "https://mais.opovo.com.br/reportagens-especiais/dragoes-do-ceara/2021/08/28/140-anos-da-greve-contra-a-escravidao-a-jangada-perdida-do-dragao-do-mar.html",
+    "work_key": "https://mais.opovo.com.br/reportagens-especiais/dragoes-do-ceara/2021/08/28/140-anos-da-greve-contra-a-escravidao-a-jangada-perdida-do-dragao-do-mar.html",
+    "title": "25. O Povo+, \"140 anos da greve contra a escravidão: a jangada perdida do Dragão do Mar\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:18.278604Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "43fb7a7c9e24da6d",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://www.em.com.br/app/noticia/politica/2013/05/11/interna_politica,386059/abolicao-da-escravatura-completa-125-anos-e-em-reconta-a-historia.shtml",
+    "normalized_url": "https://em.com.br/app/noticia/politica/2013/05/11/interna_politica,386059/abolicao-da-escravatura-completa-125-anos-e-em-reconta-a-historia.shtml",
+    "work_key": "https://em.com.br/app/noticia/politica/2013/05/11/interna_politica,386059/abolicao-da-escravatura-completa-125-anos-e-em-reconta-a-historia.shtml",
+    "title": "26. Estado de Minas, \"Abolição da escravatura completa 125 anos\" (11 May 2013).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:19.112686Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "b207789033ad6612",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.britannica.com/place/Brazil/The-collapse-of-the-empire",
+    "normalized_url": "https://britannica.com/place/Brazil/The-collapse-of-the-empire",
+    "work_key": "https://britannica.com/place/Brazil/The-collapse-of-the-empire",
+    "title": "27. Encyclopaedia Britannica, \"Brazil – The collapse of the empire\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:20.045805Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "cc9ae7b72cbad5d9",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Italo_Brazilian",
+    "normalized_url": "https://en.wikipedia.org/wiki/Italo_Brazilian",
+    "work_key": "https://en.wikipedia.org/wiki/Italo_Brazilian",
+    "title": "28. Wikipedia, \"Italian Brazilians\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:15:23.397042Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "fe2a1fd7aee2a702",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://revistas.usp.br/revhistoria/article/download/131955/128100/251977",
+    "normalized_url": "https://revistas.usp.br/revhistoria/article/download/131955/128100/251977",
+    "work_key": "https://revistas.usp.br/revhistoria/article/download/131955/128100/251977",
+    "title": "29. Revista de História (USP), review of Florestan Fernandes, A integração do negro na sociedade de classes.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:29.954753Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "d3e69ff8f9cd56cc",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/na-primeira-eleicao-presidencial-ha-120-anos-brasil-teve-eleitor-de-menos-e-candidato-demais",
+    "normalized_url": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/na-primeira-eleicao-presidencial-ha-120-anos-brasil-teve-eleitor-de-menos-e-candidato-demais",
+    "work_key": "https://www12.senado.leg.br/noticias/especiais/arquivo-s/na-primeira-eleicao-presidencial-ha-120-anos-brasil-teve-eleitor-de-menos-e-candidato-demais",
+    "title": "30. Agência Senado (Arquivo S), \"Na primeira eleição presidencial, há 120 anos, Brasil teve eleitor de menos e candidato demais\" (2014).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:15:03.461246Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "919d68b52a3d8f2b",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime",
+    "normalized_url": "https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime",
+    "work_key": "https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime",
+    "title": "31. Ambulatin (Substack), \"When capoeira was a crime\".",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "dead",
+    "http_status": null,
+    "fetched_at": "2026-11-18T03:14:51.189942Z",
+    "error_message": "Referencia nao encontrada (404): https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime",
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "80130f680ba4d91a",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://www.brasildefato.com.br/2026/05/26/homicidios-de-pessoas-negras-representam-77-do-total-de-assassinatos-no-brasil-aponta-atlas-da-violencia/",
+    "normalized_url": "https://brasildefato.com.br/2026/05/26/homicidios-de-pessoas-negras-representam-77-do-total-de-assassinatos-no-brasil-aponta-atlas-da-violencia",
+    "work_key": "https://brasildefato.com.br/2026/05/26/homicidios-de-pessoas-negras-representam-77-do-total-de-assassinatos-no-brasil-aponta-atlas-da-violencia",
+    "title": "32. Brasil de Fato, \"Homicídios de pessoas negras representam 77% do total de assassinatos no Brasil, aponta Atlas da Violência\" (26 May 2026).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:14:40.806734Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "08d43fbe4eddabdc",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2023/11/14/sancionada-ampliacao-da-lei-de-cotas",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2023/11/14/sancionada-ampliacao-da-lei-de-cotas",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2023/11/14/sancionada-ampliacao-da-lei-de-cotas",
+    "title": "33. Agência Senado, \"Sancionada ampliação da Lei de Cotas\" (14 Nov 2023).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:15:17.650205Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  },
+  {
+    "id": "c4e40571ab41ef68",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/materias/2023/12/22/dia-da-consciencia-negra-se-torna-feriado-nacional",
+    "normalized_url": "https://www12.senado.leg.br/noticias/materias/2023/12/22/dia-da-consciencia-negra-se-torna-feriado-nacional",
+    "work_key": "https://www12.senado.leg.br/noticias/materias/2023/12/22/dia-da-consciencia-negra-se-torna-feriado-nacional",
+    "title": "34. Agência Senado, \"Dia da Consciência Negra se torna feriado nacional\" (22 Dec 2023).",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-15T02:15:40.192150Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "escravidao_brasil_fa0dd5de0e8e_20261115T021304Z",
+    "tool_name": "Claude"
+  }
+]

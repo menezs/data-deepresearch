@@ -1,0 +1,101 @@
+[referencia=54f89b4aaeb8402d score=0.456]
+- Analysis conducted among 3,743 patients with history of heart failure with mildly reduced ejection fraction or heart failure with preserved ejection fraction (HFpEF) from four clinical trials<sup>1</sup> 
+- Obesity considered key driver in the development of HFpEF,<sup>2</sup> with approximately 80% of people with HFpEF living with overweight or obesity<sup>3</sup>
+- Semaglutide is not approved in the US to reduce heart failure outcomes
+
+PLAINSBORO, N.J., Aug. 30, 2024 /PRNewswire/ -- Today, The Lancet published a new pooled, participant-level analysis of patients with heart failure with mildly reduced ejection fraction or heart failure with preserved ejection fraction (HFpEF) from the SELECT, FLOW, STEP-HFpEF and STEP-HFpEF DM randomized, placebo-controlled trials.<sup>1</sup>
+
+According to the analysis, semaglutide led to a 31% reduced risk of combined cardiovascular (CV) death or worsening heart failure (HF) events, based on an incidence of 5.4% in patients assigned to semaglutide versus 7.5% in those assigned to placebo (HR 0.69; 95% CI 0.53-0.89; P=0.0045).<sup>1</sup> Semaglutide also led to a 41% lower risk of worsening HF (2.8% versus 4.7% with placebo; HR 0.59 (95% CI 0.41-0.82), P=0.0019).<sup>1</sup> There was no significant effect on the incidence of CV death (3.1% with semaglutide versus 3.7% with placebo); HR 0.82 (95% CI 0.57-1.16), P=0.25).<sup>1</sup> Statistical analyses were not adjusted for multiplicity and hazard ratios should not be used to infer definitive treatment effects.<sup>1</sup> Semaglutide is not approved in the US to reduce heart failure outcomes.
+
+---
+
+[referencia=54f89b4aaeb8402d score=0.408]
+The study was a pooled, post hoc participant-level analysis of 3,743 patients with a history of HFpEF from four randomized trials to examine the effects of once-weekly semaglutide (2.4 mg in SELECT, STEP-HFpEF, STEP-HFpEF DM; 1.0 mg in FLOW) on HF events.<sup>1</sup> The STEP-HFpEF Program enrolled participants with obesity-related HFpEF; in SELECT (participants with atherosclerotic cardiovascular (CV) disease and overweight/obesity) and FLOW (participants with type 2 diabetes and chronic kidney disease), HFpEF classification was investigator-reported.<sup>1</sup> The main endpoint for this pooled analysis was a composite of time to first CV death or worsening HF event (hospitalizations or urgent visits due to HF). Additional endpoints included components of the composite: time to first HF event and time to CV death.<sup>1</sup>
+
+Obesity is considered a key driver in the development of HFpEF,<sup>2</sup> with approximately 80% of people with HFpEF living with overweight or obesity.<sup>3</sup> In addition, type 2 diabetes is also highly prevalent in people with HFpEF and is associated with greater symptom burden, worse functional capacity, and more severely impaired quality of life.<sup>2,4</sup>
+
+"Due in part to the obesity epidemic, HFpEF has emerged as the most common type of heart failure. Patients with obesity-related HFpEF are at high risk for serious complications including hospitalizations and death, and have limited treatment options," said Dr. Mikhail Kosiborod, lead study author and cardiologist at Saint Luke's Mid America Heart Institute. "Collectively, this new analysis is the most comprehensive evaluation of semaglutide to date that assesses clinically relevant HF events, such as CV death and hospitalization."
+
+Adverse events leading to treatment discontinuation occurred in 21% of patients in the semaglutide group and 13.9% of patients in the placebo group.<sup>1</sup> Gastrointestinal disorders leading to treatment discontinuation occurred in 11.1% of patients in the semaglutide group and 2.7% of patients in the placebo group.<sup>1</sup> Fewer semaglutide versus placebo-treated patients experienced serious adverse events across the four trial populations.<sup>1</sup>
+
+---
+
+[referencia=54f89b4aaeb8402d score=0.063]
+"Combining the HFpEF participant populations across the SELECT, FLOW, STEP-HFpEF, and STEP-HFpEF DM trials allowed us to take a closer look at how semaglutide impacted patients living with this debilitating and often progressive condition," said Michelle Skinner, PharmD, Vice President Medical Affairs, Novo Nordisk. "It is encouraging to have this additional analysis that examines the effect of semaglutide in this vulnerable patient population."
+
+**About obesity, HFpEF, and type 2 diabetes**When the heart is too stiff to fill properly but is capable of pumping out a normal percentage of blood, the condition is called HFpEF.
+
+<sup>5</sup>This is the most common type of heart failure, comprising approximately 50% of all heart failure cases.
+
+<sup>6</sup>Despite therapeutic advances in HFpEF, significant unmet needs persist.
+
+<sup>6,7</sup>
+
+The prevalence of obesity is rapidly increasing.<sup>8,9</sup> Obesity affects about 4 in 10 US adults and is considered a key driver of HFpEF.<sup>2,10</sup> Approximately 80% of people with HFpEF live with overweight or obesity and 40-50% of people with HFpEF have diabetes.<sup>2,3</sup>
+
+**About the SELECT trial (semaglutide 2.4 mg)**SELECT (Semaglutide Effects on Cardiovascular Outcomes in People with Overweight or Obesity) was a multicenter, randomized, double-blind, placebo-controlled, event-driven superiority trial designed to evaluate the efficacy of semaglutide 2.4 mg versus placebo as an adjunct to cardiovascular standard of care for reducing the risk of major adverse cardiovascular events in people with established CVD and overweight or obesity with no prior history of diabetes.
+
+<sup>11</sup>
+
+The trial, initiated in 2018, enrolled 17,604 adults and was conducted in 41 countries at more than 800 investigator sites.<sup>11</sup>
+
+---
+
+[referencia=54f89b4aaeb8402d score=0.044]
+<sup>11</sup>
+
+The trial, initiated in 2018, enrolled 17,604 adults and was conducted in 41 countries at more than 800 investigator sites.<sup>11</sup>
+
+**About the STEP-HFpEF trial (semaglutide 2.4 mg)**STEP-HFpEF was a 52-week, double-blind, randomized, placebo-controlled trial designed to investigate the effects of semaglutide 2.4 mg subcutaneous once-weekly on symptoms, physical function, and body weight compared with placebo, both added to standard of care, in patients with HFpEF and obesity. STEP-HFpEF included 529 adults with symptomatic HFpEF (ejection fraction ≥45%) and obesity (BMI ≥30 kg/m
+
+<sup>2</sup>). Dual primary endpoints were change from baseline in the Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ-CSS) and percentage change in body weight; with key secondary endpoints of change in 6-minute-walk distance (6MWD), a hierarchical composite endpoint (all-cause death, heart failure events, difference in KCCQ-CSS change and difference of at least 30 meters in 6MWD change) and change in C-reactive protein.
+
+<sup>12</sup>
+
+**About the STEP-HFpEF DM trial (semaglutide 2.4 mg)**STEP-HFpEF DM was a 52-week, double-blind, randomized, placebo-controlled trial designed to investigate the efficacy of semaglutide 2.4 mg subcutaneous once-weekly on symptoms, physical function, and body weight compared with placebo, both added to standard of care, in patients with HFpEF, obesity, and type 2 diabetes. STEP-HFpEF DM included 616 adults with symptomatic HFpEF (ejection fraction ≥45%), obesity (BMI ≥30 kg/m
+
+<sup>2</sup>) and type 2 diabetes. Dual primary endpoints were change from baseline in the Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ-CSS) and percentage change in body weight; with key secondary endpoints of change in 6-minute-walk distance (6MWD), a hierarchical composite endpoint (all-cause death, heart failure events, difference in KCCQ-CSS change and difference of at least 30 meters in 6MWD change) and change in C-reactive protein.
+
+---
+
+[referencia=54f89b4aaeb8402d score=0.031]
+<sup>13</sup>
+
+**About the FLOW trial (semaglutide 1 mg)**FLOW was a randomized, double-blind, parallel-group, placebo-controlled, event-driven superiority trial comparing injectable once-weekly semaglutide 1.0 mg with placebo as an adjunct to standard of care on kidney outcomes for delaying the progression of renal impairment and lowering the risk of renal and cardiovascular mortality in people with type 2 diabetes and CKD. 3,533 adults were enrolled in the trial which was conducted in 28 countries at around 400 investigator sites. The FLOW trial was initiated in June 2019.
+
+<sup>14</sup>
+
+The primary objective of the FLOW trial was to demonstrate a delay in the progression of CKD and to lower the risk of onset of kidney failure (initiation of long-term dialysis, kidney transplantation, or a reduction in the eGFR to <15 ml per minute per 1.73 m<sup>2</sup> sustained for ≥28 days), a sustained (for ≥28 days) 50% or greater reduction in eGFR from baseline, or death from kidney-related or cardiovascular causes. Key secondary endpoints, assessed in a hierarchical order, included annual rate of change in eGFR (total eGFR slope), time to first occurrence of a composite MACE endpoint (non-fatal myocardial infarction, non-fatal stroke, cardiovascular death) and time to occurrence of an all-cause death.<sup>14</sup>
+
+**About Novo Nordisk**Novo Nordisk is a leading global healthcare company that's been making innovative medicines to help people with diabetes lead longer, healthier lives for more than 100 years. This heritage has given us experience and capabilities that also enable us to drive change to help people defeat other serious chronic diseases such as obesity, rare blood, and endocrine disorders. We remain steadfast in our conviction that the formula for lasting success is to stay focused, think long-term, and do business in a financially, socially, and environmentally responsible way. With U.S. headquarters in New Jersey and commercial, production and research facilities in seven states plus Washington DC, Novo Nordisk employs approximately 8,000 people throughout the country. For more information, visit novonordisk-us.com, Facebook, Instagram, X, LinkedIn, and YouTube. 
+
+**References**
+
+---
+
+[referencia=54f89b4aaeb8402d score=0.008]
+1. Kosiborod, MN, Deanfield J, Pratley R, et al. Semaglutide versus placebo in patients with heart failure and mildly reduced or preserved ejection fraction: a pooled analysis of the SELECT, FLOW, STEP-HFpEF, and STEP-HFpEF DM randomised trials. *The Lancet.* Published online: August 30, 2024.
+2. Borlaug BA, Jensen MD, Kitzman DW, et al. Obesity and heart failure with preserved ejection fraction: new insights and pathophysiological targets. *Cardiovasc Res* . 2022; 118:3434-3450.
+3. Gevaert AB, Kataria R, Zannad F, et al. Heart failure with preserved ejection fraction: recent concepts in diagnosis, mechanisms and management. *Heart* . 2022; 108:1342-1350.
+4. Yap J, Tay WT, Teng TK, et al. Association of diabetes mellitus on cardiac remodelling, quality of life, and clinical outcomes in heart failure with reduced and preserved ejection fraction*. J Am Heart Assoc* . 2019; 8:e013114.
+5. American Heart Association. Types of heart failure. Available at: https://www.heart.org/en/health-topics/heart-failure/what-is-heart-failure/types-of-heart-failure. Last accessed: August 2024.
+6. Kittleson MM, Panjrath GS, Amancherla K, et al. 2023 ACC expert consensus decision pathway on management of heart failure with preserved ejection fraction: a report of the American College of Cardiology solution set oversight committee. *J Am Coll Cardiol.* 2023 May 9;81(18):1835-1878. doi: 10.1016/j.jacc.2023.03.393.
+7. Borlaug BA. Evaluation and management of heart failure with preserved ejection fraction. *Nat Rev Cardiol* . 2020 Sep;17(9):559-573. doi: 10.1038/s41569-020-0363-2.
+8. World Obesity Federation. World obesity atlas 2024. Available at: https://data.worldobesity.org/publications/?cat=22. Last accessed: August 2024.
+
+---
+
+[referencia=54f89b4aaeb8402d score=0.004]
+8. World Obesity Federation. World obesity atlas 2024. Available at: https://data.worldobesity.org/publications/?cat=22. Last accessed: August 2024.
+9. World Obesity Federation. Prevalence of obesity. Available at: https://www.worldobesity.org/about/about-obesity/prevalence-of-obesity. Last accessed: August 2024.
+10. Centers for Disease Control and Prevention. Adult obesity facts. Available at: https://www.cdc.gov/obesity/data/adult.html. Last accessed: August 2024.
+11. Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. Semaglutide and cardiovascular outcomes in obesity without diabetes. *N Engl J Med* . 2023; 389:2221-2232.
+12. Kosiborod MN, Abildstrom SZ, Borlaug BA, et al. Semaglutide in patients with heart failure with preserved ejection fraction and obesity. *N Engl J Med* . 2023; 389:1069-1084.
+13. Kosiborod MN, Petrie MC, Borlaug BA, et al. Semaglutide in patients with obesity-related heart failure and type 2 diabetes. N Engl J Med. 2024;390:1394-1407.
+14. Perkovic V, Tuttle KR, Rossing P, et al. Effects of semaglutide on chronic kidney disease in patients with type 2 diabetes. *N Engl J Med* . 2024;391:109-121.
+
+© 2024 Novo Nordisk All rights reserved. US24SEMO01152 August 2024
+
+View original content to download multimedia:https://www.prnewswire.com/news-releases/new-pooled-analysis-published-in-the-lancet-demonstrated-reduced-risk-of-combined-cv-death-or-worsening-heart-failure-with-semaglutide-302234945.html
+
+SOURCE NOVO NORDISK INC.

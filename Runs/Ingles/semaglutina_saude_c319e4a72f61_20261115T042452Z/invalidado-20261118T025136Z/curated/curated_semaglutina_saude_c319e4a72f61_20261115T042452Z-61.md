@@ -1,0 +1,37 @@
+[referencia=1672a42e60fb7bed score=0.987]
+The analysis compared the risk of suicidal behavior and ideation with GLP-1s and placebos, including 91 placebo-controlled GLP-1 medication trials. A total of 107,910 patients were involved, with 60,338 treated with GLP-1s and 47,572 treated with placebo. In an updated Drug Safety Communication issued on January 13, 2026, the results did not demonstrate an increased risk of suicidal behavior or ideation, along with other psychiatric adverse events (eg, anxiety, depression, irritability, psychosis), among individuals treated with GLP-1s.<sup>1</sup>
+
+Additionally, the FDA conducted a retrospective cohort study using health care claims data from the FDA Sentinel System to compare the risk of intentional self-harm between new users of GLP-1s and sodium-glucose cotransporter 2 (SGLT2) inhibitors among patients with T2D. A total of 2,243,138 users were included, with 1,161,983 on a GLP-1 and 1,081,155 on an SGLT2. Also announced in the updated Drug Safety Communication, the FDA reported they did not find an increased risk in the group of patients that experience both obesity and T2D.<sup>1</sup>
+
+“Therefore, consistent with these findings, [the] FDA is requesting that application holders remove information regarding the risk of SI/B from the labeling of GLP-1 RA medications that currently include such language,” the FDA said in the Drug Safety Communication.<sup>1</sup>
+
+With these results, the FDA is requesting removal of this warning from the prescribing information for semaglutide, tirzepatide, and liraglutide. However, they urge pharmacists and health care professionals to prepare to discuss the findings with patients and continue to refer individuals who report suicidal ideation or behavior to mental health professionals for evaluation.<sup>1</sup>
+
+---
+
+[referencia=1672a42e60fb7bed score=0.970]
+### Key Takeaways
+
+- The FDA found no evidence linking GLP-1 receptor agonists to increased suicidal behavior or ideation after a comprehensive evaluation.
+- A meta-analysis of 91 placebo-controlled trials involving 107,910 patients showed no increased risk of psychiatric adverse events with GLP-1s.
+
+The glucagon-like peptide-1 (GLP-1) receptor agonist medications evaluated included semaglutide, tirzepatide, and liraglutide.
+
+The FDA has requested the removal of suicidal behavior and ideation warnings from glucagon-like peptide-1 (GLP-1) receptor agonist medications, including semaglutide (Wegovy; Novo Nordisk), tirzepatide (Zepbound; Eli Lilly), and liraglutide (Saxenda; Novo Nordisk). In an evaluation conducted by the FDA, no evidence of an increased risk of suicidal ideation or behavior was associated with the use of GLP-1 medications.<sup>1</sup>
+
+GLP-1s are primarily used to manage type 2 diabetes (T2D) and obesity and have demonstrated tolerable efficacy and safety profiles across numerous studies. These medications help lower blood glucose levels and act in parts of the brain that control appetite and food intake, limiting food noise and cravings.
+
+Product warnings and precautions for GLP-1 medicines have been standardized to provide consistent information about the potential risk of suicidal thoughts or behaviors. This is similar to other weight-loss medications, based on reports seen with older weight-loss drugs.<sup>1</sup>
+
+In July 2023, the FDA began investigating a potential risk of suicidal ideation behavior associated with GLP-1 medications after receiving postmarketing reports from patients using these drugs. The FDA conducted a preliminary review of clinical trial and postmarketing data, including observational studies and case reports, and shared its findings in a Drug Safety Communication issued in January 2024.
+
+The findings announced in the review stated that the preliminary evaluation did not find evidence that the use of GLP-1s causes suicidal thoughts or actions. Because only a small number of suicidal ideation or behavior cases were observed in individual trials, the risk estimate was uncertain. To reduce this uncertainty, the FDA conducted a comprehensive meta-analysis of clinical trials across GLP-1 drug development programs to obtain a concise risk estimate.<sup>1,2</sup>
+
+---
+
+[referencia=1672a42e60fb7bed score=0.806]
+# FDA Finds No Increased Suicide Risk With GLP-1 Medications, Requests Removal of Warning Labels
+
+*Kennedy Ferruggia, Associate Editor*
+
+*Gillian McGovern, Editor*

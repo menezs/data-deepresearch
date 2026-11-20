@@ -1,0 +1,79 @@
+[referencia=b6a18bbe338cdb83 score=0.851]
+## Protecting the Human Performer
+
+Crabtree-Ireland laid out SAG-AFTRA's AI philosophy, which has been consistent since before the 2023 negotiations. When AI intersects with a performer's persona, face, voice, body, or performance, use of IA must happen under terms the performer controls. That principle was not the law and was not in any contract before 2023. Establishing it was one of the central achievements of that strike.
+
+The 2026 contract builds on that foundation in two directions. The first is digital replication. If a studio wants to digitally replicate a performer's likeness or voice, the performer must give informed consent and receive fair compensation. Their digital replica is treated as an extension of them, and its labor as their labor. What seemed obvious, Crabtree-Ireland noted, was not obvious enough to be contractually protected before the union made it so.
+
+The second and more complex protection involves synthetics, AI-generated performances created without any human input. Generative AI tools now exist that can produce what appears to be a human performance using training data drawn from millions of pieces of creative work, most of it taken without permission or compensation from the creators. These are the tools Crabtree-Ireland described as the greatest danger to jobs, because a synthetic does not require a performer at all, not even as a source for digital replication.
+
+The 2026 contract does not ban synthetics. A complete ban would be unenforceable against AI companies that operate outside SAG-AFTRA's collective bargaining reach, Crabtree-Ireland said, and studios legitimately fear competitive disadvantage against those companies. The new contract created a mandatory process. Before using a synthetic, a studio must notify the union and justify what significant additional value the synthetic provides over both a human performer and a digital replica of a human. That starts a bargaining window with the union that totals approximately 26 days. The studio faces the possibility of arbitration, with potentially unlimited damages, if it proceeds without agreement. The door on synthetics is no longer wide open. It is nearly closed, Crabtree-Ireland said.
+
+---
+
+[referencia=b6a18bbe338cdb83 score=0.330]
+- SAG-AFTRA began its 2026 television and theatrical negotiations in February, approximately four months earlier than the typical June start. Under the leadership of newly elected president Sean Astin and Crabtree-Ireland, the earlier start gave the parties time to work through a complex set of issues without the pressure of an expiring contract. The strategy required two bargaining cycles but produced a ratified agreement without a strike. Crabtree-Ireland attributed that result to management arriving at the table with a clear understanding of what the 2023 strike cost everyone and a more genuine commitment to collaboration.
+- The contract's AI protections operate on two levels. First, informed consent and fair compensation requirements for any digital replication of a performer's face, voice, body or performance. Second, a new mandatory process for the use of synthetics — AI-generated performances with no human source. That process requires the studio to notify the union to justify the significant additional value the synthetic provides over a human or digital replica, enter a mandatory bargaining window of approximately 26 days and face potential arbitration with unlimited damages if it proceeds without agreement. Crabtree-Ireland described the result as closing the previously wide-open door on synthetics to a crack with a doorstop against it.
+- The SAG producers pension plan and the AFTRA retirement fund, which remained separate for 14 years after the 2012 union merger, will merge by early 2028 under terms that raise the effective benefit accrual rate from approximately 0.75 percent to 2 percent for all active participants. It will also raise the maximum annual pension benefit to $108,000 across all participants, and is projected to provide a pension to nearly 1,000 SAG-AFTRA members per year who currently earn enough in the combined system to qualify but not enough in either separate plan to receive benefits from either one.
+
+---
+
+[referencia=b6a18bbe338cdb83 score=0.004]
+## Why 2026 Did Not Become 2023
+
+Duncan Crabtree-Ireland has been at the center of SAG-AFTRA's bargaining for 25 years. He was there for the 2023 strike, the first in 40 years against the studios, and he was determined that 2026 would not follow the same path. The 2023 strike, he said, was a perfect storm: 40 years of accumulated issues combined with an AI flashpoint triggered by the public release of ChatGPT in November 2022, which transformed AI from a theoretical future concern to an immediate crisis in a few months.
+
+By 2026, both sides had a clear understanding of what a strike costs. The strategy adopted by Crabtree-Ireland and the newly elected SAG-AFTRA President, Sean Astin, was simple: start earlier. In every bargaining cycle he can remember, negotiations have opened in early June. This year, they opened in February. That four-month runway allowed the parties to move through a genuinely difficult set of issues without the pressure of a looming expiration. The deal required two bargaining cycles but came together without a work stoppage. Crabtree-Ireland believes the memory of the 2023 strike motivated management to shift toward negotiating with genuine collaboration, which was just as important as the earlier start.
+
+---
+
+[referencia=b6a18bbe338cdb83 score=0.002]
+## Go Behind the Scenes of the Labor Movement
+
+Every victory at the bargaining table starts with workers standing together. From the shop floor to the statehouse, hear how activists are fighting for better wages, safer conditions and a stronger future. Subscribe to the __America's Work Force Union Podcast__ to get the latest interviews with the leaders and organizers building worker power across America.
+
+        
+     
+       
+               America’s Work Force is the only daily labor podcast in the US and has been on the air since 1993, supplying listeners with useful, relevant input into their daily lives through fact-finding features, in-depth interviews, informative news segments and practical consumer reports. America’s Work Force is committed to providing an accessible venue in which America's workers and their families can hear discussion on important, relevant topics such as employment, healthcare, legislative action, labor-management relations, corporate practices, finances, local and national politics, consumer reports and labor issues.
+
+          
+         
+America’s Work Force Union Podcast is brought to you in part by our sponsors: AFL-CIO, American Federation of Government Employees, American Federation of Musicians Local 4, Alliance for American Manufacturing, Anthem Blue Cross Blue Shield, Brotherhood of Maintenance of Way Employes-IBT, Boyd Watterson, Columbus/Central Ohio Building and Construction Trades Council, Communication Workers of America, Mechanical Insulators Labor Management Cooperative Trust, International Association of Heat and Frost Insulators and Allied Workers Local 50, International Federation of Professional and Technical Engineers, International Union of Bricklayers and Allied Crafts, International Union of Painters and Allied Trades District Council 6, Ironworkers Great Lakes District Council, Melwood, The Labor Citizen newspaper, Laborers International Union of North America, The National Labor Office of Blue Cross and Blue Shield, North Coast Area Labor Federation, Ohio Federation of Teachers, United Labor Agency, United Steelworkers.
+
+---
+
+[referencia=b6a18bbe338cdb83 score=0.000]
+## The Pension Merger: 14 Years in the Making
+
+SAG and AFTRA merged in 2012. Fourteen years later, their pension and retirement plans are still separate, a situation Crabtree-Ireland described as both a longstanding frustration and a priority that the 2026 contract finally resolves. The SAG Producers' Pension Plan and the AFTRA Retirement Fund will merge by early 2028.
+
+The terms were designed to bring together the best elements of each plan. Active participants will accrue benefits at the SAG plan's 2 percent rate, more than double the AFTRA plan's current effective rate of approximately 0.75 percent. The maximum annual pension benefit of $108,000 from the AFTRA plan will become the standard for all participants, up from the SAG plan's current $96,000 ceiling. The additional funding to support those improvements comes from a 1 percent increase in studio and streamer contribution rates, which will flow into the combined plan over time, representing hundreds of millions of additional dollars.
+
+The most significant outcome is that nearly 1,000 SAG-AFTRA members per year will now earn enough across both plans to qualify for a pension. Without the merger, these members did not have enough in either plan to receive any benefits. The merged plan eliminates that split-earnings problem and provides retirement security to nearly a thousand people annually who would otherwise have none. Crabtree-Ireland acknowledged one trade-off: members currently earning the maximum benefits in both plans will no longer be able to do so after the merger. New participants will have one plan and one pension. He framed the choice as a values question: when you can give a thousand more people per year a pension by consolidating a benefit that currently flows to the highest earners in duplicate, you choose the thousand.
+
+He closed with a message to non-union performers, particularly those who have signed contracts touching on AI rights. The protections SAG-AFTRA has fought for exist only for members working under union contracts. Employers must bargain with SAG-AFTRA before implementing AI on all union productions. Non-union performers have no such protection and must be careful about what AI rights they sign away. This warning, Crabtree-Ireland said, is urgent given the pace at which companies are moving to secure AI rights through contract language that could eliminate a performer's future earning potential.
+
+More information on SAG-AFTRA is available at __sagaftra.org__.
+
+---
+
+[referencia=b6a18bbe338cdb83 score=0.000]
+# SAG-AFTRA's Duncan Crabtree-Ireland on AI Protections and Pension Merger
+
+Duncan Crabtree-Ireland, National Executive Director and Chief Negotiator of __SAG-AFTRA__, joined the __America's Work Force Union Podcast__ to discuss a ratified contract that achieved what the 2023 strike could not: a negotiated agreement without a work stoppage, and the landmark protections it delivers for performers in the age of artificial intelligence. 
+
+Crabtree-Ireland explained that starting negotiations four months earlier than usual, combined with a management community with a clear memory of 2023, created the conditions for the new deal. He detailed the contract's two-tiered approach to AI: consent and compensation requirements for digital replicas of real performers and significant new restrictions on the use of synthetics, AI-generated performances with no human source, that require the union's involvement before any studio can proceed. 
+
+Crabtree-Ireland also discussed the bipartisan __No FAKES Act__ moving through Congress, YouTube's new identity verification program, the planned merger of the SAG pension plan and the AFTRA retirement fund by early 2028 and his personal experience being deep-faked during the 2023 contract ratification vote.
+
+---
+
+[referencia=b6a18bbe338cdb83 score=0.000]
+## Being Deep-Faked — and Why the No FAKES Act Matters
+
+Crabtree-Ireland went on to describe his own experience with AI misuse during the 2023 contract ratification vote. Someone created a deep fake video of him saying false things about the contract, designed to drive members to vote against it. He found out because people who knew him started texting, emailing and calling to ask why he had made the video. He had not. Instagram voluntarily took it down five days after tens of thousands of people had seen it.
+
+He used that story to explain why the No FAKES Act — bipartisan legislation moving through Congress — matters beyond the entertainment industry. The bill would, for the first time, create a protectable intellectual property right in a person's image, voice and likeness, and establish a notice-and-takedown process for unauthorized digital replicas on social media platforms, similar to the one that exists for copyrighted materials. Crabtree-Ireland said the bill has a genuine chance of enactment this year. He also highlighted YouTube's recently launched identity verification program, which allows performers to opt in to a system that actively searches uploaded content for their likeness and alerts them to unauthorized appearances, offering the option to block, take down or monetize detected content.
+
+He was clear that none of these mechanisms would achieve 100 percent protection. But he argued that combining contractual protections, the No FAKES Act and similar state-level legislation enacted in California, New York and several other states, will create a meaningful and improving level of protection that grows stronger as more layers are added.

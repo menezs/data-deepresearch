@@ -1,0 +1,285 @@
+[referencia=cca9b614af6a807b score=0.757]
+### Australia
+
+[edit]
+In November 2024, Australia's federal parliament passed the *Online Safety Amendment (Social Media Minimum Age) Act*, which requires social media companies such as Facebook, Snapchat, TikTok and X (formerly Twitter) to take reasonable steps to prohibit minors under the age of 16 from owning accounts. YouTube was originally excluded; however, it was later included and companies that do not comply can be fined up to 50 million AUD and is enforced by the eSafety Commissioner. The ban came into effect on 10 December 2025.<sup>[21]</sup><sup>[25]</sup><sup>[26]</sup><sup>[27]</sup> Australia then became the first country in the world to ban social media, banning platforms YouTube, TikTok, X, Facebook, Instagram, Snapchat, Twitch, Kick, Threads and Reddit for individuals under 16. This meant that anyone over 16 must verify their age using methods such as facial scan or ID in order to create, log in to or continue using accounts by 10 December 2025.<sup>[28]</sup>
+
+On 9 March 2026, Australia became the second country in the world to enforce age verification on social networks such as adult sites, search engines, online platforms like X that have allowed harmful content, online chats from Xbox, PlayStation and even on games such as GTA. Apps rated 18+ and AI Chatbots that allow explicit material also became affected by this enforced age verification.<sup>[29]</sup>
+
+In March 2026, it was reported that over 310,000 accounts owned by children under 16 have been deactivated and blocked by the age filters.<sup>[30]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.287]
+19. 1 2 Yousif, Nadine (2026-06-10). "Canada proposes teen social media ban - with workaround for tech firms". *www.bbc.com* . Retrieved 2026-08-12.
+20. 1 2 "Brazil Passes Law Expanding Social Media Protections For Minors". *NDTV* . Archived from the original on 2025-10-18. Retrieved 2026-08-12.
+21. 1 2 Masquelier-Page, Alice (2024-12-04). "Australia is banning social media for people under 16. Could this work elsewhere — or even there?". *The Associated Press* . Retrieved 2026-08-12.
+22. 1 2 Bryant, Miranda (2024-10-23). "Norway to increase minimum age limit on social media to 15 to protect children". *The Guardian* . ISSN 0261-3077. Retrieved 2025-08-25.
+23. ↑ Obedman, Yuval Molina (2025-06-11). "EU plans age checks on social media while France pushes a ban for under-15s". *Courthouse News Service* . Retrieved 2025-08-25.
+24. ↑ Livingstone, Helen (2025-11-20). "How does Australia's under-16 social media ban work?". *BBC News* . Retrieved 2026-01-01.
+25. ↑ Ireland, Olivia (2025-07-29). "Australia to take teen social media ban plan global, despite Wiggles' complaints". *The Sydney Morning Herald* . Retrieved 2026-08-12.
+26. ↑ Crowley, Tom (2025-09-15). "Social media platforms will not be required to prove accuracy of under-16 bans". *ABC News* . Retrieved 2026-08-12.
+27. ↑ Truu, Mani (2025-06-20). "Trial finds age assurance can be done, as social media ban deadline looms". *ABC News* . Retrieved 2026-08-12.
+28. ↑ Cooper, Luke (2026-05-27). "UK's social media ban could be harsher than Australia's. Here's how it compares". *ABC News* . Retrieved 2026-05-30.
+
+---
+
+[referencia=cca9b614af6a807b score=0.217]
+#### Karnataka
+
+[edit]
+On 6 March 2026, the state Chief Minister, Siddaramaiah, announced a ban on social media for children under 16 to prevent the adverse effects of rising mobile use among children. Siddaramaiah did not mention when the ban would take effect and as of August 2026, it still has not been enforced.<sup>[158]</sup>
+
+### Japan
+
+[edit]
+In June 2026, an advisory panel of the Ministry of Internal Affairs and Communications proposed a draft set of measures that would limit the access of underage persons to social networking services. These measures called for stricter age verification laws, but also rejected the enactment of a unified age verification law similar to Australia's, which it called "undesirable".<sup>[159]</sup><sup>[160]</sup><sup>[161]</sup>
+
+### Kazakhstan
+
+[edit]
+Kazakhstan is considering a social media ban for minors under 16 years of age similar to Australia's. However, this proposed law does not set an effective date.<sup>[162]</sup><sup>[163]</sup>
+
+### Lebanon
+
+[edit]
+On 27 February 2026, a draft law was submitted by Member of Parliament Tony Frangiegh that would ban social media use for individuals under 14. The Minister of Information, Paul Morcos, has also called for a national plan to regulate how children use mobile apps and the internet.<sup>[164]</sup>
+
+### Mongolia
+
+[edit]
+In February 2026, the Mongolian Minister of Education, Purevsuren Naranbayar, was reportedly working on a draft law that would ban children under 16 years of age from using what was defined as age restricted social media platforms, similar to Australia's law.<sup>[165]</sup><sup>[166]</sup> Before the introduction of the draft law in Mongolia in 2025, a group led by his advisor was studying similar social media restriction laws that were enacted in other countries, which included not only Australia, but various European countries as well.<sup>[167]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.208]
+### Indonesia
+
+[edit]
+In early 2025, the government of Indonesia had been looking into the idea of setting a minimum age to use social media as well as other protections that would be similar to Australia's. This proposal had been met with support and caution by the public.<sup>[45]</sup><sup>[46]</sup><sup>[47]</sup>
+
+On 28 March 2026, Indonesia banned social media for children under the age of 16, becoming the first non-Western, Asian and Muslim country and the third country in the world to enforce a social media ban. Platforms such as YouTube, TikTok, X (formerly known as Twitter), Facebook, Instagram, Threads, Roblox and Bigo Live were the first to be banned with measures similar to Australia. Enforcement and account deactivation will be rolled out gradually, affecting all accounts that are reported to be under 16.<sup>[17]</sup>
+
+As of July 2026, around 600,000 YouTube accounts and 4.1 million TikTok accounts, or a total of 4.7 million social media accounts combined that are reportedly owned by children under 16 have been terminated in Indonesia.<sup>[48]</sup>
+
+### Malaysia
+
+[edit]
+In November 2025, the Malaysian Communications Minister Fahmi Fadzil announced that starting 1 January 2026, all social media platforms would have to ban all users under 16 years of age and implement age verification via eKYC, saying this was in line with the country's Online Safety Act, which was enacted in 2025 and took effect the same day the ban does. The effective date was later changed to 1 June 2026 from 1 January 2026.<sup>[49]</sup><sup>[50]</sup><sup>[51]</sup> Malaysia then became the second Asian and Muslim country, and fourth country in the world to ban social media and online platforms that have more than 8 million users for individuals under 16 on 1 June 2026, with measures also similar to Australia. Targeted platforms with over 8 million users included platforms such as YouTube, TikTok, Facebook and Instagram.<sup>[52]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.163]
+201. ↑ Haeck, Pieter; Gkritsi, Eliza (2026-09-14). "EU to limit access to social media before age of 15". *POLITICO* . Retrieved 2026-09-17.
+202. ↑ Bell, Bethany (2026-03-27). "Austria plans social media ban for under-14s". *www.bbc.com* . Retrieved 2026-08-12.
+203. ↑ Sasipornkarn, Emmy (2026-03-27). "Austria plans to ban social media for under-14s". *dw.com* . Retrieved 2026-08-12.
+204. ↑ Davies, Pascal (2026-03-27). "Austria eyes social media ban for under-14s, following global trend". *euronews* . Retrieved 2026-09-20.
+205. ↑ Petrequin, Samuel (2026-01-27). "French lawmakers approve ban on social media for kids under 15". *PBS News* . Retrieved 2026-04-11.
+206. 1 2 Rawnsley, Jessica (2026-04-08). "Greece to ban social media for under-15s from next year". *www.bbc.com* . Retrieved 2026-08-12.
+207. ↑ El Baye, Anas. "Flanders' under-13 social media ban leads to uncertainty in Brussels". *www.brusselstimes.com* . Retrieved 2026-08-12.
+208. ↑ "Flanders sets minimum age for access to harmful social media at 13". *www.brusselstimes.com* . Retrieved 2026-08-12.
+209. ↑ "Banning social media for under 15s: a false solution". *better-internet-for-kids.europa.eu* . Retrieved 2026-08-12.
+210. ↑ "Stanivuković u NSRS predao Rezoluciju o zaštiti djece u digitalnom okruženju" [Stanivuković submitted the Resolution on the Protection of Children in the Digital Environment to the National Assembly of Republika Srpska]. *Euronews* (in Bosnian). 2025-12-22. Retrieved 2026-06-15.
+
+---
+
+[referencia=cca9b614af6a807b score=0.152]
+### United Kingdom
+
+[edit]
+The United Kingdom became the first country in the world on 25 July 2025 to enforce age verification under the Online Safety Act 2023, which although does not set an age limit for social media, requires providers of "user-to-user" services (which includes many popular social media services) to prevent access by children of content deemed harmful, including but not limited to pornographic content, self-harm, suicide, or eating disorders. Platforms including Reddit,<sup>[62]</sup> X,<sup>[63]</sup> Discord,<sup>[64]</sup> Vimeo,<sup>[65]</sup> Spotify,<sup>[66]</sup> and Bluesky<sup>[67]</sup> have implemented age verification for UK users for harmful and sensitive content as a result.
+
+The UK became the first country in the world to expand age verification to social networking platforms and services such as adult sites, search engines, online platforms like X that have allowed inappropriate content, online chats from Xbox,<sup>[68]</sup> PlayStation,<sup>[69]</sup> and even online games such as GTA Online.<sup>[70]</sup> "Vile and illegal content created by AI" also became a target of this enforced age verification, which also included a ban on sexualised images without one's consent.<sup>[71]</sup>
+
+On 17 June 2026, Keir Starmer announced that the Children's Wellbeing and Schools Act 2026 has passed, which puts a ban on children under 16 having accounts and accessing social media apps such as Snapchat, TikTok, Instagram, Facebook, X and YouTube, effective from March 2027, due to these apps allowing underaged users to be exposed to sexual abuse, infinite scrolling, dangerous trends, blackmail, and bullying.<sup>[72]</sup> This ban has been described as an “Australia Plus” ban, as it, just like its Australian counterpart, targets those under 16. A curfew was also proposed that voluntarily limits access to these affected social media platforms for those aged between 16 and 17 between 00:00 and 06:00, similar to the South Korean shutdown law. The ban also blocks strangers from talking to minors by default and blocks livestreams for those under 16, in order to "prevent a cliff-edge at 16," as said by the government.<sup>[73]</sup><sup>[74]</sup><sup>[75]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.133]
+# Online age verification laws by country
+
+
+Since 2023, many countries and subdivisions across the globe have passed or proposed laws to require age verification for parts of the internet, including social media services, social networks, devices, and other digital services with the intention of protecting young people from harmful and illegal content. Most of the passed laws or bills have the age verification process done through handing over a government-issued ID, a facial scan or credit card over in order to prove that they are not underage, with the process done with third-party age verification providers.
+
+These laws and proposals vary greatly, with some of them restricting access only to certain features or distinguishing between different users online, which could lead to companies requiring age verification to comply with such restrictions as the Kids Online Safety Act, or banning users under a certain age, which is the approach of the Online Safety Amendment in Australia which fully prohibits anyone under 16 years old from holding social media accounts. A few nations, such as Pakistan, have proposed punishing those who allow minors to access these services.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup><sup>[4]</sup>
+
+Despite these laws being introduced mostly for child protection reasons, they have received criticism and backlash from the general public<sup>[5]</sup><sup>[6]</sup>  and organizations that focus on digital and civil rights for normalizing mass surveillance and restricting freedom of speech through the elimination of anonymous accounts.<sup>[7]</sup> Other organizations such as UNICEF have opposed these laws on grounds that such laws may backfire, constitute violations of freedom of speech and privacy rights, and because there are better ways of protecting children online.<sup>[8]</sup><sup>[9]</sup>
+
+These laws have also been bypassed by technologies such as VPNs, which have seen a significant amount of new users in countries where such laws are enforced. While these laws typically only apply in their respective countries, some online platforms have made their age verification policies global, such as Roblox<sup>[10]</sup> and Discord,<sup>[11]</sup> which require age verification for certain features to close said loopholes to avoid receiving a lawsuit.<sup>[12]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.119]
+### South Korea
+
+[edit]
+In 2011, South Korea enacted the Shutdown law.<sup>[14]</sup> This law prohibited children under 16 from playing video games between 0:00 and 6:00, it originally only applied to computer games, but later expanded to cover console games and mobile games as well. The law received massive criticism and backlash from the general public, as well as calls for the abolition of the Ministry of Gender Equality and Family. It was repealed in August 2021.<sup>[185]</sup>
+
+South Korea has introduced seven bills related to social media age verification, including prohibiting the use of social media for children under 14, requiring parental consent for users under 16, and banning information-based algorithms for users under 19.<sup>[186]</sup><sup>[187]</sup> Kim Jong Cheol, President of the Korea Media and Communications Commission, has stated that he supports placing age restrictions on social media platforms. However, South Korea is more considering softer and graduated restrictions than a ban on social media accounts under a certain age due to the country's failure with the aforementioned shutdown law, which prohibited minors under 16 from playing video games between midnight (00:00) and 06:00, causing certain games such as Minecraft to receive a 19+ rating and forcing Microsoft to amend their Xbox Live policy in the country to require one to be aged 19 or older and the verification of their government ID in order to create an account.<sup>[188]</sup><sup>[189]</sup><sup>[190]</sup><sup>[191]</sup>
+
+### Tajikistan
+
+[edit]
+In October 2025, lawmaker and member of parliament Dilnoza Ahmadzoda proposed a law to ban children under 14 from accessing social media and require written parental consent for children ranging from ages 14 to 17. She noted that recent amendments to the Law on the Protection of Children's Rights, which focused on cracking down on harmful content, were insufficient, and that a ban was necessary.<sup>[192]</sup>
+
+### Thailand
+
+[edit]
+Thailand has considered a social media ban similar to that in Australia, but no such proposals have been introduced in parliament, and none have set a specific age limit.<sup>[193]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.096]
+In March 2026, it was reported that over 310,000 accounts owned by children under 16 have been deactivated and blocked by the age filters.<sup>[30]</sup>
+
+On 27 June 2026, the Australian government introduced amendments to strengthen enforcement of its under-16 social media ban, including increasing the maximum penalty for platforms that fail to take reasonable steps to exclude children to 99 million AUD and expanding the age verification to app stores. The proposed changes would also expand the powers of the eSafety Commissioner to compel documents and obtain information from platforms and third-party age verification providers. The amendments were referred to an eight-week Senate inquiry after opposition parties delayed their passage, meaning the increased penalties and expanded powers had not yet taken effect. The proposed changes followed reports that many children continued to access restricted platforms despite the ban, with eSafety reporting that 7 in 10 children still held accounts on restricted platforms when the ban began on services including Facebook, Instagram, Snapchat and TikTok.<sup>[31]</sup>
+
+In August 2026, Microsoft announced that gamers may have to verify their age to purchase video games on the Xbox store rated R18+, with the age verification process handled by Yoti.<sup>[32]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.093]
+## Effect on platforms, companies and organizations
+
+[edit]
+### Discord
+
+[edit]
+Despite many lawsuits in recent years for failing to protect children from predators online as well as moderation failures, since early 2024, Discord began to blur out sensitive and harmful content. If anyone wants to unblur these types of content, they can click the eye icon to reveal said blurred content. However, since July 2025, Discord has locked the aforementioned sensitive and harmful content, including inappropriate material, behind age verification via ID for those residing in the UK to comply with the Online Safety Act 2023.<sup>[96]</sup> This age verification measure then rolled out in Australia by 10 December 2025, then in Brazil by 17 March 2026, which included a ban for individuals under 16 without parental consent.
+
+In late 2025, Discord had expanded age verification to include direct messages (DMs) from people who are not on one's friends list, which are automatically locked and sent to a separate "Message Requests" folder, of which this restriction cannot be disabled or moved to the main inbox without age verification and are restricted from speaking on Stage Channels in public servers without age verification.<sup>[*citation needed*]</sup>
+
+In February 2026, Discord announced its teen safety protections, which would be rolled out to its user base worldwide. These protections make it impossible to bypass using bypassing mechanisms such as VPNs and will include YouTube-style automated age detection to flag user behaviour as "teen-appropriate", similar to methods employed by Instagram. Originally, these protections were supposed to come into force by March,<sup>[97]</sup> but due to backlash over recent leaks of 70,000 user ID photos that happened in September 2025,<sup>[98]</sup> it was delayed to the second half of 2026.<sup>[99]</sup> The teen safety protections went into effect on 23 September 2026.<sup>[100]</sup>
+
+The Play Age Signals API for Google Play started returning age signals for users in Brazil as a result of their age verification law taking effect on 17 March 2026. Age signals have also been returned to users in the U.S. state of Texas, more specifically to those "eligible users" who have created a Google Play account after May 28, 2026, in order to comply with SB 2420, also known as the App Store Accountability Act.<sup>[101]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.058]
+## Background
+
+[edit]
+There were attempts to enact online age verification laws before Australia's social media ban, such as the UK's Digital Economy Act 2017, which was passed on 27 April 2017, yet later went unenforced,<sup>[13]</sup> South Korea's shutdown law, which was passed in 2011 and repealed in 2021,<sup>[14]</sup> and Australia's Online Safety Act 2021, where age verification was planned but later scrapped.<sup>[15]</sup> All of these attempts failed due to free speech concerns, large protests and outcry.
+
+On 26 October 2023, the UK's Online Safety Act was passed and went into effect on 25 July 2025. In 2024, The Anxious Generation was published by Jonathan Haidt. This book then became the catalyst for Australia's Online Safety Amendment, which outlawed the usage of social media for individuals under 16.<sup>[16]</sup> As a result of these laws and proposals, age verification laws subsequently started being introduced in other countries.<sup>[17]</sup><sup>[18]</sup><sup>[19]</sup><sup>[20]</sup>
+
+In the United States, legislation regarding social media age verification at the state level began in March 2023, when Utah passed the Utah Social Media Regulation Act. The bills, which were challenged due to First Amendment concerns, have not taken effect.<sup>[21]</sup><sup>[22]</sup><sup>[23]</sup><sup>[24]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.036]
+### Austria
+
+[edit]
+In March 2026, Vice Chancellor of Austria Andreas Babler said that the country was considering a social media ban for users under 14 years of age, saying that the ban would help prevent children from developing a social media addiction.<sup>[202]</sup><sup>[203]</sup> The proposed ban will be drafted by the end of June 2026 and will include "technically modern methods" of age verification to prevent children under 14 from using social media platforms covered by the ban.<sup>[204]</sup> Unlike other countries in the EU that have set an effective date for their social media ban, such as January 2027 for Greece, there does not appear to be a set effective date yet for Austria's proposal.<sup>[205]</sup><sup>[206]</sup>
+
+### Belgium
+
+[edit]
+In April 2026, the Flemish Government announced that it was considering a social media ban for users under 13 years of age. Some communities in Belgium have proposed an even higher minimum age of 15 or 16. Age verification will likely be done through a centralized age verification tool such as Itsme or MyGov.be. However, this proposal has been controversial, since the ban is not a competence issue for the federal or regional government but one for communities, meaning that the ban would likely only apply to Dutch speaking communities and not French speaking ones.<sup>[207]</sup><sup>[208]</sup>
+
+Internet safety groups in Belgium, such as Belgian Safer Internet Centre and Child Focus, have stated that a social media ban is not likely to be very effective since the minimum age of 13 within the GDPR is already largely ignored. Therefore, increasing the age to 15 or 16 for social media use is not likely to be effective and that a better solution would be to increase media literacy and giving more tools and better resources to parents to protect their children and to make the internet safer.<sup>[209]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.035]
+1. ↑ Kelley, Jason (2023-05-02). "The Kids Online Safety Act is Still A Huge Danger to Our Rights Online". *Electronic Frontier Foundation* . Retrieved 2025-08-25.
+2. ↑ Whiteman, Hilary (2025-07-30). "YouTube to be included in Australia's social media ban for children under 16 | CNN Business". *CNN* . Retrieved 2025-08-25.
+3. ↑ Asghar, Naeem (2025-07-21). "Senate introduces bill to ban social media accounts for U-16s". *The Express Tribune* . Retrieved 2026-05-30.
+4. 1 2 Singh, Rohit (2025-07-23). "Pakistan Considers Social Media Ban for Under-16 Users". *MEDIANAMA* . Retrieved 2026-08-12.
+5. 1 2 Browne, Ryan (2025-08-12). "Why a new UK internet safety law is causing an outcry on both sides of the Atlantic". *CNBC* . Retrieved 2026-08-18.
+6. 1 2 "The Global Age Verification Disaster: How Privacy Dies in the Name of "Safety"". *My Privacy.Blog* . August 10, 2025. Retrieved 2026-08-12.`{{cite web}}` :  CS1 maint: url-status (link)
+7. 1 2 Alajaji, Rindala (2026-05-13). "The Science is Not Settled: How Weak Evidence is Fueling a National Push to Ban Social Media for Youth". *Electronic Frontier Foundation* . Retrieved 2026-08-30.
+8. 1 2 "Age restrictions alone won't keep children safe online". *www.unicef.org* . Retrieved 2026-09-06.
+9. 1 2 Gkritsi, Eliza (2026-03-24). "Human rights chief warns against banning social media for kids". *POLITICO* . Retrieved 2026-09-06.
+10. ↑ McCallum, Shiona (2026-04-13). "Roblox defends expanded safety checks but parents are concerned". *BBC News* . Retrieved 2026-06-11.
+
+---
+
+[referencia=cca9b614af6a807b score=0.035]
+### New Zealand
+
+[edit]
+In inspiration of Australia's Online Safety Amendment, the National Party of New Zealand, along with the Prime Minister of New Zealand, Christopher Luxon, introduced the Social Media (Age-Restricted Users) Bill in May 2025, which, just like its Australian counterpart, bans social media accounts for children under 16, with the maximum fine that can be imposed being 2 million NZD.<sup>[288]</sup><sup>[289]</sup><sup>[290]</sup> This bill has been placed on a pause following consideration of wide regulation change.<sup>[291]</sup>
+
+On 24 August 2026, Christopher Luxon announced that social media use for children under 16 would be banned. Alongside this, the Online Safety (Minimum Age and Child Safety Risk Assessment) Bill was introduced to the House of Representatives the same day. This bill, like the Australian social media ban, requires social media services such as YouTube and Facebook to take reasonable steps to check that users are over the age of 16. Non-compliance penalties would total up to 10% of a company's global revenue. However, it has faced opposition from ACT and New Zealand First.<sup>[292]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.030]
+## Laws about social media age restrictions
+
+[edit]
+Many of the laws regarding social media age verification revolve around setting a minimum age to have an account on social media platforms, with the youngest proposed minimum age set at 12 by Trinidad and Tobago (cf. the minimum age of the COPPA law from the United States, which is 13) and the oldest being 18 set by both the Philippines and Zimbabwe. Neither of these examples gives an exception with parental consent, with most countries (such as the UAE, Turkey and Greece) setting the minimum age at either 15 or (in Australia, Indonesia, Malaysia and Spain) at 16. Some of the proposed or passed laws that set a minimum age for social media allow exceptions with parental consent, such as those in Brazil (set minimum age of 16 with parental consent exception), Denmark (set minimum age of 15, parental consent from 13), Portugal and the European Union (set minimum age of 16 with parental consent from 13).
+
+---
+
+[referencia=cca9b614af6a807b score=0.024]
+240. ↑ Andreescu, Ioana (2025-10-16). "O comisie a Parlamentului European propune vârsta minimă de 16 ani pentru accesul necontrolat în reţelele sociale - Știrile ProTV" [A European Parliament committee proposes a minimum age of 16 for uncontrolled access to social networks]. *stirileprotv.ro* (in Romanian). Retrieved 2026-07-06.
+241. ↑ Hoară, Robert (2026-04-07). "Copiii sub 15 ani ar putea pierde accesul la rețelele sociale, potrivit unui proiect de lege depus în Parlament - Știrile ProTV" [Children under 15 could lose access to social networks, according to a bill submitted to Parliament]. *stirileprotv.ro* (in Romanian). Retrieved 2026-07-06.
+242. ↑ Bahrim, Madalina (2026-07-05). "România vrea să interzică TikTok, Instagram și Facebook copiilor sub 15 ani și să pună restricții până la majorat. Platformele, obligate să le blocheze accesul" [Romania wants to ban TikTok, Instagram and Facebook for children under 15 and impose restrictions until they reach at adulthood. Platforms forced to block their access]. *Cotidianul RO* (in Romanian). Retrieved 2026-07-06.
+243. ↑ Castro, Chiara (2025-10-25). "Age verification could soon land in Russia – putting already precarious internet freedoms on the line". *TechRadar* . Retrieved 2026-06-30.
+244. ↑ "Slovenia prepares legislation to ban social media for under-15s". *Reuters* . 2026-02-05. Retrieved 2026-03-28.
+245. ↑ "Slovenia plans social media ban for children under 15 | Digital Watch Observatory". 2026-02-06. Retrieved 2026-03-28.
+246. ↑ Malik, Aisha (2026-07-24). "Vietnam is looking to restrict social media for kids; here are the growing number of other countries doing the same". *Yahoo News* . Retrieved 2026-03-28.
+
+---
+
+[referencia=cca9b614af6a807b score=0.019]
+316. ↑ Gabriel, Kaela Patricia B. (March 31, 2026). "Children's council backs push to restrict Filipino minors' social media use". *BusinessWorld* . Retrieved September 1, 2026.
+317. ↑ "Shielding the Filipino child from social media dangers". *Manila Standard* . July 2, 2026. Retrieved July 7, 2026.
+318. ↑ Sigales, Jason (August 27, 2026). "PH urged to push for united Asean front to make Big Tech accountable". *Inquirer.net* . Retrieved September 2, 2026.
+319. ↑ "NetChoice v. Fitch". *American Civil Liberties Union* . Retrieved 2026-09-06.
+320. ↑ "Submission: Harm to young people online inquiry". *NZ Council for Civil Liberties* . 2025-07-30. Retrieved 2026-09-06.
+321. ↑ Collings, Paige (2026-06-05). "Internet Age Gates Are a Growing Global Threat". *Electronic Frontier Foundation* . Retrieved 2026-06-19.
+322. ↑ Hoffman, Chris (2026-08-02). "Your Computer Is About to Demand Your Age Before You Can Use It. Here's Why". *PCMag UK* . Retrieved 2026-08-03.
+323. ↑ Taylor, Josh (2026-05-04). "Wikipedia founder brands Australia's social media ban an 'unmitigated disaster' and 'embarrassment'". *The Guardian* . Retrieved 2026-08-14.
+324. ↑ Mous, Anton (2026-05-18). "VPN restrictions and age verification could harm the open web, Mozilla warns". *CyberNews* . Retrieved 2026-09-03.
+325. ↑ Bawden, Anna (2026-06-24). "Four in five under-16s in Australia using social media despite ban, study shows". *The Guardian* . Retrieved 2026-10-14.
+326. ↑ Musñgi, Raine (March 31, 2026). "'We're kidding ourselves': Tech CEO warns vs PH social media ban for minors". *ABS-CBN News* . Retrieved September 22, 2026.
+
+---
+
+[referencia=cca9b614af6a807b score=0.018]
+### Netherlands
+
+[edit]
+In 2026, the new Dutch Government (which is made up of the D66, VVD and CDA parties) considered a social media ban for minors under 15 years of age within the country. However, the proposal is still vague, as all the government has said is that the ban would be enforced through privacy-friendly age verification and would remain in place as long as social media is insufficiently secure, without defining what exactly these mean.<sup>[223]</sup><sup>[224]</sup><sup>[225]</sup>
+
+The former Dutch Government has opposed a social media ban stating that would be ineffective and would instead release guidance that social interaction platforms such as Instagram or TikTok should be avoided before 15 and that only messaging platforms such as WhatsApp or Signal should be used if they are over 13.<sup>[226]</sup><sup>[227]</sup><sup>[228]</sup><sup>[229]</sup><sup>[230]</sup>
+
+### Norway
+
+[edit]
+In late 2024, the Norwegian government announced it would set a minimum age of 15 for social media and require age verification to access social networks.<sup>[22]</sup><sup>[231]</sup> In June 2025, the government would introduce the bill to set the age limit for consultation, with the deadline for this consultation being on 7 October 2025.<sup>[232]</sup><sup>[233]</sup>
+
+### Poland
+
+[edit]
+In February 2026, the Minister of Education, Barbara Nowacka, presented plans to ban social media use for children under 15, as well as to forbid the use of mobile phones in primary schools, which is currently up to individual schools. Companies that do not comply can face fines up to 6 percent of their annual revenue.<sup>[234]</sup> Officials say that the social media ban is necessary to protect minors from online harm, which includes excessive screen time, cyberbullying, and disinformation.<sup>[235]</sup> As of July 2026, there is no confirmed date on when this ban would take effect. However, in May 2026, Deputy Prime Minister and Minister for Digital Affairs, Krzysztof Gawkowski, said the government was still discussing it, with further related announcements arriving "in the coming weeks".<sup>[236]</sup>
+
+---
+
+[referencia=cca9b614af6a807b score=0.018]
+231. ↑ Cuthbertson, Anthony (2024-10-24). "Norway to raise minimum age to be on social media to 15". *The Independent* . Retrieved 2026-08-12.
+232. ↑ "Regjeringa sender SoMe-lovforslag på høyring – vil ha 15-årsgrense" [Government sends social media bill out for consultation – proposes 15-year age limit]. *NRK* (in Norwegian Nynorsk). 2025-07-07. Retrieved 2026-08-12.
+233. ↑ "Norway Moves Forward with Age Limit for Social Media". *Government.no* . 2025-06-11. Retrieved 2026-08-12.
+234. ↑ Easton, Adam (2026-02-28). "Polska przedstawia plany ograniczenia dostępu dzieci do mediów społecznościowych" [Poland presents plans to restrict children's access to social media]. *BBC News Polska* (in Polish). Retrieved 2026-08-12.
+235. ↑ "Poland plans to restrict social media use for children under 15". *AzerNews* . 2026-05-31. Retrieved 2026-07-03.
+236. ↑ Anwer, Ammar (2026-05-29). "Poland to unveil plans to restrict children's social media access 'in coming weeks'". *TVP World* . Retrieved 2026-07-03.
+237. ↑ "Portugal approves restrictions on social media access for children". *Reuters* . 2026-02-12. Retrieved 2026-06-04.
+238. ↑ Mourão Carvalho, Joana (2026-02-13). "Portugal approves social media restrictions for kids under 16". *euronews* . Retrieved 2026-06-04.
+239. ↑ Gonçalves, Sergio (2026-02-12). "Portugal aprova restrições a acesso de crianças a redes sociais" [Portugal approves restrictions on the access of children to social media]. *Agência Brasil* (in Brazilian Portuguese). Retrieved 2026-06-04.
+
+---
+
+[referencia=cca9b614af6a807b score=0.016]
+123. ↑ Brooks, Mindy (2025-07-30). "Ensuring a safer online experience for U.S. kids and teens". *Google* . Retrieved 2026-07-06.
+124. ↑ Montgomery, Blake (2025-07-30). "YouTube to gauge US users' ages with AI after UK and Australia add age checks". *The Guardian* . ISSN 0261-3077. Retrieved 2026-07-06.
+125. ↑ Grace, Harmon (2025-08-14). "YouTube's age-verification system sparks backlash, could restrict ad targeting". *EMARKETER* . Retrieved 2026-07-06.
+126. ↑ King, Ashley (2020-11-02). "YouTube Age Gate Verification Coming to Some European Countries". *Digital Music News* . Retrieved 2026-08-26.
+127. ↑ Boxall, Andy (2026-06-16). "The UK's YouTube ban reveals what governments still don't understand about protecting kids online". *Android Police* . Retrieved 2026-07-22.
+128. ↑ Butler, Josh (2025-06-24). "YouTube fires back amid push to include platform in Australia's under-16s social media ban". *The Guardian* . ISSN 0261-3077. Retrieved 2026-07-06.
+129. ↑ "Parl't debates legislation regulating children's use of social media". *Egyptian State Information Service* . 2026-01-25. Retrieved 2026-06-17.
+130. ↑ "Egypt to adopt restrictions on children's social media use to fight 'digital chaos'". *Arab News* . 2026-01-26. Retrieved 2026-06-17.
+131. ↑ Houeto, Christelle (2026-04-15). "Régulation des réseaux sociaux au Gabon : les autorités durcissent davantage le cadre juridique" [Social media regulation in Gabon: authorities further tighten the legal framework]. *Africa Cybersecurity Mag* (in French). Archived from the original on 2026-05-17. Retrieved 2026-08-12.

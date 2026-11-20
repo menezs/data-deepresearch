@@ -1,0 +1,29 @@
+[referencia=5c1ce7db1c9d150e score=0.988]
+# STEP-HFpEF: Semaglutide Improves Symptoms, Physical Limitations, Weight Loss in Patients With HFpEF and Obesity
+
+In patients with heart failure with preserved ejection fraction (HFpEF) and obesity, semaglutide improved heart failure-related symptoms and physical function, in addition to weight loss, based on findings from the STEP-HFpEF trial presented at ESC Congress 2023 and simultaneously published in the *New England Journal of Medicine*.
+
+The double-blind, placebo-controlled trial conducted at 96 sites in 13 countries in Asia, Europe, North America and South America, randomized 529 patients (median age of 69 years; 56.1% women) to receive either semaglutide (2.4 mg) or placebo for 52 weeks. At baseline, patients had a substantial degree of heart failure-related symptoms, physical limitations and poor exercise tolerance. The median body weight and BMI of participants were 105.1 kg and 37.0 kg/m2, respectively.
+
+Primary endpoints of the study were changes from baseline to week 52 in both the KCCQ-CSS and in body weight, respectively. Secondary endpoints included change in 6-minute walk distance (6MWD); a hierarchical composite endpoint of death, heart failure events and change in KCCQ-CSS and 6MWD; and change in C-reactive protein.
+
+Overall, the trial met both primary endpoints and all confirmatory secondary endpoints. The mean change in KCCQ-CSS from baseline to week 52 was 16.6 points with semaglutide, compared with 8.7 points with placebo. The mean change in body weight from baseline to week 52 was -13.3% with semaglutide vs. -2.6% with placebo. The mean change in 6MWD was 21.5 meters among patients in the semaglutide cohort, compared with 1.2 meters for those in the placebo group.
+
+Researchers also noted that one patient in the semaglutide group and 12 in the placebo group experienced an adjudicated event of heart failure hospitalization or urgent visit. Additionally, serious adverse events were reported in 35 (13.3%) patients in the semaglutide group vs. 71 (26.7%) in the placebo group.
+
+---
+
+[referencia=5c1ce7db1c9d150e score=0.001]
+"To our knowledge, this is the first trial of a pharmacologic agent to specifically target obesity as a treatment strategy for HFpEF, and the magnitude of the benefits we observed is the largest seen with any agent in HFpEF," said **Mikhail Kosiborod, MD, FACC**, the study's principal investigator. "This will likely have a significant impact on clinical practice, especially since there is a dearth of efficacious therapies in this vulnerable patient group. We believe that these findings should also change the nature of the conversation about the role of obesity in HFpEF, as the STEP-HFpEF results clearly indicate that obesity is not simply a comorbidity in patients with HFpEF but a root cause and a target for therapeutic intervention."
+
+In a related editorial  comment, **Yigal M. Pinto, MD, PhD**, notes that the findings,  "potentially add a much-needed extra option for [patients with HFpEF] and  provide another upstream treatment for patients with signs of this condition  plus a high BMI." He adds that, "How these findings translate to hard endpoints  remains to be established and will be important in determining the role of  GLP-1 agonism as compared with SGLT2 inhibition in patients with [HFpEF]."
+
+        **Clinical Topics:**
+        Heart Failure and Cardiomyopathies, Acute Heart Failure, Chronic Heart Failure
+    
+
+        **Keywords:** 
+        *ESC Congress,* *ESC23,* *ACC International,* *Heart Failure,* *Obesity,* *Glucagon-Like Peptide-1 Receptor,* *Heart Failure, Diastolic*
+     
+
+< Back to Listings

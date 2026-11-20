@@ -1,0 +1,10 @@
+[referencia=04cdf29dbffea7f8 score=0.244]
+FRIDAY, Feb. 28, 2025 (HealthDay News) -- Low-dose semaglutide seems to reduce craving and certain drinking outcomes in alcohol use disorder (AUD), according to a study published online Feb. 12 in *JAMA Psychiatry*.
+
+Christian S. Hendershot, Ph.D., from the University of Southern California in Los Angeles, and colleagues conducted a phase 2 randomized trial involving nine weeks of outpatient treatment to examine the effects of once-weekly subcutaneous semaglutide on alcohol consumption and craving in adults with AUD. Forty-eight non-treatment-seeking participants with AUD were randomly assigned to receive semaglutide or placebo at weekly clinic visits.
+
+The researchers found that low-dose semaglutide (0.25 mg/week for four weeks, 0.5 mg/week for four weeks, and 1 mg for one week) reduced the amount of alcohol consumed during a posttreatment laboratory self-administration task, with medium to large effect sizes for alcohol consumed (grams) and peak breath alcohol concentration (β, −0.48 and −0.46, respectively). There was no effect on the average drinks per calendar day or number of drinking days with semaglutide treatment, but significant reductions were seen in drinks per drinking day and weekly alcohol craving (β, −0.41 and −0.39, respectively); greater reductions in heavy drinking over time were also predicted compared with placebo (β, 0.84). In a subsample of participants with current cigarette use, there was a significant treatment-by-time interaction indicating that semaglutide treatment predicted greater relative reductions in cigarettes per day (β, −0.10).
+
+"Should additional phase 2 and phase 3 clinical trials support repurposing one or more GLP-1 receptor agonists for AUD, these treatments could have broad clinical infiltration, with potential to bypass many traditional impediments to the uptake of AUD medications, including low public and provider awareness and stigma toward AUD treatments," the authors write.
+
+One author disclosed ties to pharmaceutical companies, including Novo Nordisk.

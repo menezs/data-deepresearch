@@ -1,0 +1,23 @@
+[referencia=2338945f55b32361 score=0.983]
+O movimento **4-Day Week**, que começou na Nova Zelândia em 2019, enfrenta desafios no Brasil, onde apenas duas das 20 empresas que participaram do projeto-piloto mantiveram a jornada reduzida. A maioria optou por modelos híbridos, refletindo uma resistência cultural e dificuldades econômicas, segundo a consultora Renata Rivetti.
+
+Os testes globais da semana de quatro dias, que envolvem mais de 500 empresas em diversos continentes, demonstraram resultados positivos em saúde mental e produtividade. O modelo **100-80-100** permite que os funcionários recebam 100% do salário, trabalhem 80% do tempo e mantenham 100% da produtividade. No Brasil, a implementação foi realizada em parceria com a Reconnect Happiness at Work.
+
+Rivetti destaca que, embora os dados dos testes tenham sido excelentes, com nota média acima de 9, a maioria das empresas recuou para modelos tradicionais. Ela aponta que a cultura de trabalho no Brasil ainda é marcada por uma jornada 6×1 e que a crise econômica contribui para essa resistência. A polarização política também influencia as decisões empresariais, dificultando a adoção de novas práticas.
+
+### Desafios e Oportunidades
+
+A consultora observa que o retorno a modelos de controle pode resultar em alta rotatividade e baixo engajamento, criando um “teatro da produtividade”. O custo de treinar novos funcionários é elevado, e a volta ao presenteísmo é vista como um retrocesso, especialmente em um cenário de avanço tecnológico.
+
+Entre pequenas e médias empresas, a manutenção de práticas que promovem o bem-estar pode ser um diferencial na atração de talentos. Rivetti cita exemplos de empresas que adotaram um modelo mais humano, resultando em maior engajamento e retenção de funcionários.
+
+---
+
+[referencia=2338945f55b32361 score=0.103]
+### Cenário Internacional
+
+Enquanto o Brasil enfrenta dificuldades, o movimento 4-Day Week continua a ganhar força globalmente. Na Islândia, testes reduziram a carga horária sem perda salarial, resultando em aumento de produtividade e bem-estar. Países como Bélgica e Reino Unido já implementaram legislações ou experimentos que demonstram ganhos significativos em receita e satisfação dos funcionários.
+
+Nos Estados Unidos e Canadá, estudos indicam uma redução de 69% no burnout e um aumento de 15% na receita. A consultora Rivetti permanece otimista, afirmando que a qualidade de vida no trabalho é uma tendência irreversível, apoiada por tecnologias que facilitam a redução da carga horária.
+
+## Entre na conversa da comunidade

@@ -1,0 +1,47 @@
+[referencia=8c86f1da061b8e35 score=0.932]
+### Voice technology meets rights management
+
+The Verge reported that some listed voices use cloning technology, while others are reconstructed from historical or archival recordings. Those technical paths create different provenance questions, but both still sit behind the marketplace's licensing workflow.
+
+For audio and ML teams, the important development is the control layer around synthetic-voice use rather than a newly reported speech-model breakthrough. A documented path from source material and rights holder to an approved project can improve provenance and accountability. It does not resolve the wider risks of unauthorized imitation, disputed archival rights, or replicas created outside a licensed catalog.
+
+The marketplace therefore offers a narrow commercial route for approved celebrity and historical voices. Its value depends on which rights are actually represented, the terms negotiated for each project, and whether customers accept a managed approval process in exchange for clearer authorization.
+
+## Key Points
+
+- 1ElevenLabs launched the Iconic Voice Marketplace on November 11, 2025, with more than 25 living and historical voices.
+- 2Rights holders approve participation, and each commercial project still requires a separate licensing negotiation before audio is generated.
+- 3The marketplace adds provenance and consent controls but does not eliminate broader risks from unauthorized voice imitation.
+
+## Scoring Rationale
+
+The marketplace is a notable product and business-model development for commercial synthetic audio, particularly where voice provenance and consent matter. It provides a structured licensing workflow for high-profile voice use cases without introducing a reported model breakthrough.
+
+## Sources
+
+Primary source and supporting public references used for this report.
+
+Practice interview problems based on real data
+
+1,634 SQL & Python problems across 15 industry datasets, the exact type of data you work with.
+
+Try 250 free problems
+
+---
+
+[referencia=8c86f1da061b8e35 score=0.035]
+# Inside ElevenLabs' Licensed Celebrity Voice Marketplace
+
+ElevenLabs launched its Iconic Voice Marketplace on November 11, 2025, giving brands, studios, and publishers a route to request licensed AI-generated voices of celebrities and historical figures. The company says rights holders control participation, while independent reporting shows that each commercial project still requires separate approval and licensing terms before ElevenLabs generates the audio.
+
+ElevenLabs launched its **Iconic Voice Marketplace** on November 11, 2025, creating a request-based channel for brands, studios, and publishers to license AI-generated voices of celebrities and historical figures. The company described it as a curated, two-sided platform where customers request access to talent for a specific project.
+
+The initial catalog included more than 25 voices. ElevenLabs named living performers such as Michael Caine, Liza Minnelli, and Art Garfunkel alongside historical figures including Maya Angelou, Alan Turing, Mark Twain, and Thomas Edison.
+
+### Approval is tied to each project
+
+The marketplace is not a self-service catalog that lets a customer generate any message immediately. The Verge reported that ElevenLabs connects a buyer with the party controlling the relevant voice rights, formalizes the licensing arrangement, and then synthesizes the approved audio. The company said participation is limited to verified talent and intellectual-property owners.
+
+The Hollywood Reporter described a second control: making a voice available in the marketplace does not automatically authorize every use. A customer still negotiates a separate paid license with the celebrity, representative, or estate manager for the proposed project. That makes the approval specific to the campaign, narration, game, audiobook, or other requested use.
+
+ElevenLabs has presented the marketplace as a consent-based model. In its launch announcement, the company said its agency partnerships are intended to ensure that collaborations are rooted in rights-holder approval and compensation. Adweek likewise reported that brands negotiate with talent representatives or estates before deploying generated voices.

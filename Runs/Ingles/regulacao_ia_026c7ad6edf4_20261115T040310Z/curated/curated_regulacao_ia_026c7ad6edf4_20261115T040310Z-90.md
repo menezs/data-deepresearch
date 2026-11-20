@@ -1,0 +1,56 @@
+[referencia=cc173de3bd9b422a score=0.227]
+The EU has adopted its first substantive amendment to the AI Act. Regulation (EU) 2026/1744, commonly referred to as the AI Omnibus, was published in the Official Journal on 24 July 2026 and entered into force on 27 July 2026. While the legislation postpones certain aspects of the AI Act’s compliance timetable, it would be a mistake for organisations to view the Omnibus as a broad pause on AI regulation in Europe.
+
+### High-Risk AI Deadlines Pushed Back
+
+The most significant change is the deferral of obligations applying to many high-risk AI systems. The application date for stand-alone high-risk systems under Annex III, including AI used in employment, education, credit assessment, law enforcement and critical infrastructure, moves from 2 August 2026 to 2 December 2027.
+
+For AI systems embedded in products already subject to EU product safety legislation, such as medical devices, machinery and toys, compliance is deferred further, until 2 August 2028.
+
+### What Has Not Been Delayed?
+
+Many important requirements remain on their original timetable.
+
+Most notably, the AI Act’s provisions governing general-purpose AI (GPAI) models continue to apply as planned, including transparency, reporting and systemic risk obligations for the largest models.
+
+The Omnibus also introduces two new prohibited AI practices, targeting systems designed to generate or manipulate realistic intimate imagery or child sexual abuse material. These prohibitions apply from 2 December 2026 and reflect the EU’s increasing focus on AI-enabled harms. While other legal regimes already address such conduct, the AI Act will soon provide a direct regulatory basis for enforcement.
+
+### Expanded Powers for the AI Office
+
+The Omnibus significantly strengthens the role of the European AI Office. The AI Office now has exclusive supervisory responsibility for certain AI systems built on general-purpose AI models and for AI systems integrated into very large online platforms and search engines regulated under the Digital Services Act.
+
+The new provisions give the AI Office powers closely resembling those exercised by European competition regulators. These include the ability to launch investigations, compel the production of information, carry out inspections, accept binding commitments and impose periodic penalty payments of up to 5% of average daily turnover for continuing infringements.
+
+---
+
+[referencia=9b14a36d690fb444 score=0.007]
+Nesta terça, dia 05 de maio, os vice-líderes que integram a Comissão Especial que analisa o projeto de lei 2.338/2023 (PL de IA) farão uma reunião com a presidente do colegiado, deputada Luísa Canziani (União-PR) e o relator da matéria deputado, Aguinaldo Ribeiro (PP-PB), para discutir o cronograma para votação do parecer da matéria na Comissão.
+
+Esta semana, parlamentares informaram que, na reunião de líderes, o presidente da Câmara dos Deputados, Hugo Motta (Republicanos-PB), apontou um cronograma de tramitação da matéria na casa, sendo o dia 19 de maio definido para apresentação do relatório pelo deputado Aguinaldo Ribeiro e dia 27 de maio para aprovação do projeto de lei em plenário.
+
+Um dos principais gargalos da matéria, segundo parlamentares que estão na Comissão, é o direito autoral. Em março, fontes ouvidas na Câmara dos Deputados apontaram que a previsão de votação da matéria, se ocorresse este ano, seria para depois das eleições. "Aguinaldo ainda não conseguiu alinhar uma proposta que dialogue. E ele não tem o perfil de enfrentamento", disse a fonte na época.
+
+A Comissão Especial, presidida pela deputada Luisa Canziani (PSD-PR), ainda não realizou nenhuma reunião este ano. Em fevereiro, o deputado Reginaldo Lopes (PT-MG), um dos integrantes da Comissão Especial que analisa a matéria, afirmou a este noticiário que o projeto estava previsto para ser votado em fevereiro.
+
+Além de criar um marco legal para o uso de IA no Brasil, o texto prevê entre outros pontos, a criação de um sistema regulatório de IA, que envolve diversos órgãos que já atuam regulado o uso da tecnologia nos seus mercados setoriais, coordenado pela ANPD (Marcos Urupá, em colaboração para TELETIME).
+
+---
+
+[referencia=cc173de3bd9b422a score=0.001]
+### Transparency Rules Remain on Track
+
+Organisations should not be misled by headlines that say “delayed”: delay does not extend to most of the AI Act’s transparency obligations.
+
+From 2 August 2026, organisations must continue to comply with requirements relating to:
+
+• Disclosure that users are interacting with an AI system;
+
+• Labelling of deepfakes and certain AI-generated content; and
+
+• Notification obligations for emotion recognition and biometric categorisation systems.
+
+A limited four-month grace period applies only to certain machine-readable marking requirements for generative AI systems already on the market before 2 August 2026.
+
+### Practical Takeaways
+
+The AI Omnibus provides welcome additional time for many organisations developing or deploying high-risk AI systems. However, it is far from a regulatory pause. For many businesses, key compliance obligations remain imminent.

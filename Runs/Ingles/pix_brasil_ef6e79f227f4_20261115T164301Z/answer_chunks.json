@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-0",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 0,
+    "text": "Launched by the Central Bank of Brazil (Banco Central do Brasil, or BCB) in November 2020, Pix has transformed Brazil’s retail payment architecture into an essential national utility, extending active digital payment participation to nearly nine out of ten Brazilian adults within six years.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "8d0dca10adb8003b"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-1",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 1,
+    "text": "By September 2026, more than 150 million individuals used Pix in a single month, executing over 7.8 billion transactions worth more than R$ 3.8 trillion—exceeding three times Brazil’s monthly gross domestic product—and setting a single-day record of 318.1 million transactions on September 4, 2026.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "049d77fc627df578"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-2",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 2,
+    "text": "Administrative and survey benchmarks confirm that this expansion coincided with a marked narrowing of formal access gaps: by the end of 2024, 175 million adults (96.4 percent of Brazil’s adult population) maintained formal relationships with financial institutions, active National Financial System (SFN) usage reached roughly 88 percent, and self-reported account ownership climbed to 86 percent in the 2024 World Bank Global Findex survey.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-3",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 3,
+    "text": "By December 2025, 148.13 million unique individuals—roughly 86 percent of Brazilian adults—and 12.8 million businesses had sent or received transactions on Pix, with adult adoption exceeding 80 percent across virtually every Brazilian state.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "8d0dca10adb8003b"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-4",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 4,
+    "text": "Yet Brazil’s trajectory through late 2026 demonstrates that universal payment inclusion does not automatically produce broad-based financial health.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-5",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 5,
+    "text": "Although Pix compressed transfer costs, intensified deposit competition among banks, and integrated microentrepreneurs into formal commerce, credit access remains unevenly distributed.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-6",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 6,
+    "text": "Low-income households, women, and residents of the North and Northeast carry disproportionate burdens of interest-bearing credit card debt, while frictionless instant transfers facilitated an unprecedented diversion of low-income wages and social welfare benefits into online betting platforms (bets) between 2024 and 2026.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-7",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 7,
+    "text": "Moreover, broadband deficits still isolate remote riverine communities in the Amazon, and rapid fintech onboarding exposed consumers to social-engineering fraud and left wholesale settlement rails vulnerable to third-party technology breaches in 2025 and early 2026.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "acc6a3f9fdadedb1"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-8",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 8,
+    "text": "Understanding Pix’s role in Brazilian financial inclusion therefore requires examining its public-infrastructure design, selective payment substitution, demographic reach, unintended credit and gambling spillovers, and recent shifts toward stricter security rules, Open Finance credit underwriting, and cross-border interoperability.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-9",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 9,
+    "text": "Before Pix arrived, Brazil suffered from a sharp gap between nominal bank registration and active financial participation.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "271358321a919b91"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-10",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 10,
+    "text": "In 2017, BCB administrative records showed that over 140 million adults (86.5 percent) held formal banking relationships, whereas only 70 percent of Brazilian adults reported owning an account in that year’s Global Findex survey, up slightly from 68 percent in 2014.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "271358321a919b91"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-11",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 11,
+    "text": "As BCB diagnostics noted, millions of registered accounts sat dormant with minimal balances, leaving holders unaware they even maintained active accounts.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "271358321a919b91"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-12",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 12,
+    "text": "Exclusion followed stark regional and occupational lines: in 2017, banking penetration stood at 90.9 percent in the Southeast compared with 72.3 percent in the North, and just 20 percent of legalized individual microentrepreneurs (MEIs) held corporate bank accounts.",
+    "cited_markers": [
+      "[17]"
+    ],
+    "cited_reference_ids": [
+      "271358321a919b91"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-13",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 13,
+    "text": "Consequently, as late as 2019, 77 percent of all financial transactions in Brazil relied on physical cash, generating high social costs embedded in banking service charges and retail goods prices.",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "40a21dccd6a3579a"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-14",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 14,
+    "text": "To overcome these bottlenecks, the BCB initiated market consultations in May 2018 and developed Pix in-house in under two years, assuming four simultaneous roles as catalyst, rulebook owner, overseer, and infrastructure operator.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "ea72757b4821b778"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-15",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 15,
+    "text": "Rather than relying on private bank clearinghouses or closed mobile-money silos, the Central Bank built and operates both the Instant Payment System (SPI) and the Directory of Transactional Account Identifiers (DICT).",
+    "cited_markers": [
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "40a21dccd6a3579a"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-16",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 16,
+    "text": "According to technical documentation from payment provider Azify, SPI functions as a real-time gross settlement system using ISO 20022 messaging without multilateral netting, settling transactions irreversibly in under ten seconds across SELIC-remunerated Instant Payment Accounts (Contas PI) held at the BCB, while enforcing a 99.5 percent minimum availability standard on direct participants.",
+    "cited_markers": [
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "9ff6dbf7a54afa91"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-17",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 17,
+    "text": "DICT links simple user aliases—taxpayer IDs (CPF or CNPJ), mobile numbers, emails, or random keys—to transactional accounts, while the BCB prices central infrastructure on a cost-recovery basis and prohibits Pix fees for individuals.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-18",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 18,
+    "text": "The BCB reinforced this public infrastructure with two decisive regulatory rules.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-19",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 19,
+    "text": "First, participation was mandated for all institutions with more than 500,000 active transactional accounts—covering 38 large and medium-sized banks at launch—immediately creating nationwide network effects.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-20",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 20,
+    "text": "Second, the framework welcomed non-bank payment institutions, credit unions, and direct credit societies (SCDs) offering fee-free prepaid accounts, allowing smaller players to connect either directly or indirectly via sponsoring institutions and Information Technology Service Providers (PSTIs), even though non-banks remain legally barred from the Central Bank’s liquidity facility.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-21",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 21,
+    "text": "Pix’s November 2020 rollout also coincided with massive pandemic fiscal transfers.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "a69646d7c48b9b02"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-22",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 22,
+    "text": "During 2020, state-owned Caixa Econômica Federal executed 611.55 million social program and income-transfer payments totaling R$ 367.6 billion to 102.8 million Brazilians, onboarding roughly 38 million previously \"invisible\" citizens without prior government records into free digital accounts via the Caixa Tem app.",
+    "cited_markers": [
+      "[25]"
+    ],
+    "cited_reference_ids": [
+      "97f493a772e0e62e"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-23",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 23,
+    "text": "Formal banking relationships in BCB registries reached 96 percent of adults in 2020, and Caixa registered 25.9 million Pix keys (19.34 percent of the national total), 45 percent of which originated in Caixa Tem.",
+    "cited_markers": [
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "a69646d7c48b9b02"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-24",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 24,
+    "text": "Even so, empirical research by economist Sergey Sarkisyan cautions against attributing Pix’s inclusion gains solely to pandemic relief: Pix’s launch date was announced in 2019 before COVID-19 arrived, and municipality-level analyses with placebo tests and reopening controls show deposit and account responses shifting sharply in November 2020 across both early- and late-reopening cities.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6f85b1a22c67f923"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-25",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 25,
+    "text": "Emergency Aid created millions of basic digital accounts, while Pix supplied the universal zero-fee utility that kept them active.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-26",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 26,
+    "text": "Over six years, Pix evolved from a peer-to-peer transfer mechanism into Brazil’s dominant retail and corporate payment rail.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-27",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 27,
+    "text": "According to the Central Bank’s Pix Management Report 2023–2025, annual transaction value surged from R$ 151 billion in 2020 to R$ 5.20 trillion in 2021, R$ 10.89 trillion in 2022, R$ 17.12 trillion in 2023, R$ 26.41 trillion in 2024, and R$ 35.33 trillion across 79.8 billion transactions in 2025—representing annual growth of 25.7 percent in transaction count and 33.8 percent in value.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-28",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 28,
+    "text": "By late 2025, total registered keys exceeded 920 million (875.4 million individual and 44.7 million corporate), and users had executed 105.8 million key portabilities and 7.3 million ownership claims.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "8d0dca10adb8003b"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-29",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 29,
+    "text": "Growth extended through 2026: analyzing official BCB datasets, directly connected payment institution Trio tracked R$ 110.4 trillion in cumulative volume since launch, with October 2026 reaching R$ 3.28 trillion (+18.5 percent year-over-year) across 7.37 billion transactions (+14.2 percent) and 187.8 million active keyholders (168.8 million individuals and 19.0 million businesses).",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "5e3e8e439b82b696"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-30",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 30,
+    "text": "Transaction composition shifted rapidly from personal transfers to commercial payments.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-31",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 31,
+    "text": "Business-to-business (B2B) flows expanded from 37 percent of total value in 2020 to 47 percent in 2025, reaching 51.8 percent (R$ 1.70 trillion) in Trio’s October 2026 tracking alongside 39.1 percent (R$ 1.28 trillion, averaging R$ 1,697 per operation) in same-owner interbank liquidity sweeps.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-32",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 32,
+    "text": "Despite massive corporate tickets, a stark gap between mean and median values underscores Pix’s everyday inclusivity: in 2025, the average transaction stood at R$ 440 (R$ 445.15 in October 2026 per Trio), whereas the median Pix was just R$ 36—more than twelve times smaller, reflecting routine low-value consumer purchases.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "5e3e8e439b82b696"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-33",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 33,
+    "text": "Pix reshaped legacy instruments through selective displacement rather than total elimination.",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "3f59b4952baf37b1"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-34",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 34,
+    "text": "The clearest casualty was the Credit Order Document (DOC), introduced in 1985 with next-business-day clearing and a R$ 4,999.99 cap.",
+    "cited_markers": [
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "780224c6fdcbfcb2"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-35",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 35,
+    "text": "After falling to 59 million operations in 2022 and 18.3 million (0.05 percent of retail payments) in the first half of 2023, DOC and its same-day counterpart TEC were retired permanently on February 29, 2024.",
+    "cited_markers": [
+      "[29]"
+    ],
+    "cited_reference_ids": [
+      "780224c6fdcbfcb2"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-36",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 36,
+    "text": "Physical currency also contracted after its 2020 pandemic peak: banknotes in circulation fell from 8.54 billion notes in 2020 to 7.65 billion in 2021—the first contraction in circulating currency since the 1994 Plano Real—and stood at 7.58 billion notes (R$ 345 billion, down 0.6 percent from December 2024) in November 2025.",
+    "cited_markers": [
+      "[33]"
+    ],
+    "cited_reference_ids": [
+      "c8142912cd337957"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-37",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 37,
+    "text": "Traditional cash withdrawals fell another 10.3 percent year-over-year in the first half of 2026 to 1.2 billion transactions, led by declines at ATMs (-14.1 percent) and banking correspondents (-11.5 percent).",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "3f59b4952baf37b1"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-38",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 38,
+    "text": "Yet Central Bank retail data for the first half of 2026 (79.7 billion transactions moving R$ 71.9 trillion) show enduring coexistence: Pix led transaction count at 55.2 percent, payment cards retained 30.8 percent (24.5 billion operations, with credit cards growing 9.2 percent annually after closing 2025 with 253.8 million active cards), boletos gained 3.7 percent in value in late 2025, and TED still led financial value at 32.7 percent (averaging R$ 60,700) because corporates continued preferring TED for large B2B settlements.",
+    "cited_markers": [
+      "[27]"
+    ],
+    "cited_reference_ids": [
+      "3f59b4952baf37b1"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-39",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 39,
+    "text": "Crucially, Pix altered banking competition across all 5,570 Brazilian municipalities.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6f85b1a22c67f923"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-40",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 40,
+    "text": "Sarkisyan’s empirical research finds that prior to Pix, large incumbent banks leveraged internal transfer convenience to capture cheap deposits.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6f85b1a22c67f923"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-41",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 41,
+    "text": "Universal instant interoperability stripped away that convenience moat, enabling smaller banks to attract checking and time deposits at narrower interest premiums—especially where pre-Pix transfer fees were highest—reducing deposit-spread sensitivity to policy rate shifts, accelerating fintech and non-bank entry, and lowering local informality.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "6f85b1a22c67f923"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-42",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 42,
+    "text": "Research summarized by Poder360 similarly associates Pix with up to 115 new accounts per 1,000 adults and a 20 to 30 percent rise in municipal financial inclusion, with impacts more than three times larger in high-adoption cities.",
+    "cited_markers": [
+      "[33]"
+    ],
+    "cited_reference_ids": [
+      "c8142912cd337957"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-43",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 43,
+    "text": "In July 2026, the International Monetary Fund praised Pix as a central driver transforming Brazil’s financial system.",
+    "cited_markers": [
+      "[36]"
+    ],
+    "cited_reference_ids": [
+      "b5ca67df8aaa6750"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-44",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 44,
+    "text": "By 2025, Pix helped extend formal financial access deep into historically underserved demographics, though physical connectivity bottlenecks persist.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-45",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 45,
+    "text": "According to the BCB’s Financial Citizenship Report 2025, Brazilians maintain an average of 6.7 financial institution relationships, over 90 percent of analyzed Cadastro Único (CadÚnico) low-income subgroups hold formal banking access, and the average age at a citizen’s first SFN relationship dropped from roughly 35 years (held through 2020) to 20 years in 2024.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-46",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 46,
+    "text": "Between 2020 and 2025, the Pix Management Report records a 103 percent expansion in individual SFN users (from 77 million to 152 million) and more than a threefold rise in corporate clients (from 3.5 million to 11.6 million), while a late-2025 CP2 Consultoria survey found 88.5 percent of Brazilians aged 16 and older recognized the Pix symbol.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-47",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 47,
+    "text": "Geographic adoption converged swiftly at the state level, yet sub-municipal infrastructure gaps remain acute.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-48",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 48,
+    "text": "By 2025, adult Pix coverage exceeded 80 percent in virtually every state—reaching 100 percent in Roraima and the Federal District, 94 percent in São Paulo, and 80 to 90 percent across the Northern Region despite higher poverty rates.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-49",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 49,
+    "text": "However, state-level metrics mask severe broadband deserts in isolated rural and riverine (ribeirinho) Amazonian settlements.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "09f1a6841252d650"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-50",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 50,
+    "text": "In Juruti, in the Lower Amazon, the Rede Amazônia +Conectada project—backed by Microsoft, USAID, and later the Alcoa Foundation—installed radio and satellite internet in 609 households across 62 traditional communities, immediately unlocking Pix and telemedicine.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "09f1a6841252d650"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-51",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 51,
+    "text": "Yet telecommunications researcher Luã Cruz of consumer group Idec emphasized the disproportionate scale: those 609 homes cover a fraction of Juruti’s roughly 240 communities inside an Amazonian region of 30 million people lacking reliable digital access.",
+    "cited_markers": [
+      "[14]"
+    ],
+    "cited_reference_ids": [
+      "09f1a6841252d650"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-52",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 52,
+    "text": "Meanwhile, analog cash-out bridges inside Pix struggled to gain traction.",
+    "cited_markers": [
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "a76161b46fccaaab"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-53",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 53,
+    "text": "Introduced in 2021 to let shops dispense cash",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-54",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 54,
+    "text": "Pix Saque and Pix Troco were offered by only about 14,000 establishments at the end of 2025; Pix Troco transaction counts fell 11.8 percent in 2025 to 102.3 thousand operations (R$ 19.4 million), and combined Pix Saque and Pix Troco volumes hovered between roughly 858 thousand and 1.96 million monthly operations through September 2026 as consumers favored purely digital payments.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "049d77fc627df578"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-55",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 55,
+    "text": "Demographically, Pix usage exceeded 85 percent among adults aged 20 to 49 in 2025 and expanded steadily across income brackets earning up to five minimum wages, while older adults (60 and above) reached 51 percent adoption despite technological barriers.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-56",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 56,
+    "text": "Although overall transaction counts stayed evenly balanced at 51 percent male and 49 percent female",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-57",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 57,
+    "text": "the 2025 Financial Citizenship Report reveals a striking gender inversion among low-income Brazilians: poor women outperform poor men in financial access and usage across every demographic subgroup—Black, white, rural, Indigenous, quilombola, and unhoused.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-58",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 58,
+    "text": "Among low-income white adults, for instance, 78.2 percent of women use Pix compared with 69.6 percent of men, an 8.6 percentage-point advantage driven by social transfers such as Bolsa Família that designate women as primary benefit holders.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-59",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 59,
+    "text": "Pix delivered equally tangible commercial gains to micro-enterprises and MEIs.",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "c32164d8c1150c9e"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-60",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 60,
+    "text": "According to Trio’s October 2026 analysis of BCB figures, micro and small enterprises received 24.6 percent of the R$ 2.12 trillion flowing to businesses (17.5 percent, or R$ 371.36 billion, for micro-enterprises and 7.1 percent, or R$ 150.67 billion, for small firms), with MEIs alone capturing 9.4 percent (R$ 198.70 billion).",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "5e3e8e439b82b696"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-61",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 61,
+    "text": "A survey cited by the Regional Accounting Council of Maranhão found that 97 percent of MEIs use Pix as a payment option",
+    "cited_markers": [
+      "[8]"
+    ],
+    "cited_reference_ids": [
+      "c32164d8c1150c9e"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-62",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 62,
+    "text": "while Sebrae Amazonas reported that 58 percent of micro and small businesses in Amazonas rely on Pix as their primary payment method, ranking the state third nationwide.",
+    "cited_markers": [
+      "[37]"
+    ],
+    "cited_reference_ids": [
+      "c375316765ac273e"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-63",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 63,
+    "text": "With minimal corporate acceptance fees—for example, Trio’s public corporate schedule charges R$ 0.69 per QR code receipt—and instant settlement, Pix lowered merchant payment barriers and supported formalization.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-64",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 64,
+    "text": "Despite near-universal payment adoption, Pix did not resolve Brazil’s structural credit disparities.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-65",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 65,
+    "text": "Between 2016 and 2024, formal credit headcounts expanded 101 percent among youth aged 15 to 29 (from 13.7 million to 27.6 million, with workers earning up to two minimum wages representing 70 percent of credit-active youth in 2024), 63 percent among adults aged 30 to 59, and 87 percent among seniors over 60.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-66",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 66,
+    "text": "Yet the 2025 Financial Citizenship Report underscores that MEIs remain frequently classified as high-risk borrowers and locked out of affordable credit because they lack prior institutional relationship histories and formal income documentation.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-67",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 67,
+    "text": "Wage digitization also trailed advanced benchmarks: BCB comparisons of Global Findex data showed salaried workers receiving wages into accounts rose from 62 percent in 2017 to 71 percent in 2021, still below the 89 percent OECD average and leaving 23 percent paid solely in cash at Pix’s inception.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "a25800d4d7023e3a"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-68",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 68,
+    "text": "At the same time, high-cost consumer debt weighed heavily on newly included populations.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-69",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 69,
+    "text": "Nationwide, credit card holders commit an average of 54.0 percent of income to card spending, including 6.3 percent specifically to interest-bearing card debt.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-70",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 70,
+    "text": "Vulnerability concentrates along regional, income, and gender lines: Northeast cardholders commit 7.0 percent of income to interest-bearing card debt, while Northern residents—despite committing less total income to cards (42.1 percent)—rely on interest-bearing balances for 14.9 percent of all regional card usage.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-71",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 71,
+    "text": "Similarly, CadÚnico beneficiaries allocate the smallest overall income share to cards yet turn most heavily to interest-bearing balances proportionally when using credit.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-72",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 72,
+    "text": "Women represent 53 percent of card clients and commit 57.5 percent of income (including 7.1 percent in interest-bearing debt) versus 50.9 percent (and 5.6 percent interest-bearing) among men.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "ce4ef0b8fb18629f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-73",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 73,
+    "text": "Between 2024 and 2026, Pix’s real-time convenience also fueled an acute household liquidity shock through online fixed-odds betting platforms (bets).",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "f3a935728edce71f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-74",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 74,
+    "text": "Because bets integrated instant Pix deposits directly into mobile apps, low-income households could transfer wages and social stipends within seconds.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "f3a935728edce71f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-75",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 75,
+    "text": "A BCB technical note submitted to the Supreme Federal Court (STF) and examined by the Federal Court of Accounts (TCU) revealed that in August 2024 alone, roughly 5.05 million Bolsa Família-linked individuals (around 17 percent of the evaluated registry) sent R$ 3.17 billion via Pix to betting platforms—about 21 percent of federal payouts that month, while overall bets revenue reached R$ 21.1 billion compared with R$ 1.9 billion for Caixa lotteries.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "f3a935728edce71f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-76",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 76,
+    "text": "Subsequently, Ministry of Finance data released in August 2026 showed Brazilians deposited R$ 220.6 billion into legalized bets in 2025; state finance secretaries (Comsefaz), using Pix tracking, estimated net gambler losses at R$ 62.5 billion, and researchers at the University of São Paulo (Made/FEA-USP) estimated a R$ 120 billion to R$ 141 billion drag on national economic activity from displaced consumption.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "f3a935728edce71f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-77",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 77,
+    "text": "Survey data echoed these macro losses: a 2026 Datafolha poll found 35 percent of bettors compromised household finances to gamble, and a DataSenado survey reported 52 percent of recent bettors earned at most two minimum wages, with 46 percent betting to raise extra money for bills.",
+    "cited_markers": [
+      "[7]"
+    ],
+    "cited_reference_ids": [
+      "f3a935728edce71f"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-78",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 78,
+    "text": "Judicial and social-policy responses revealed sharp enforcement limits.",
+    "cited_markers": [
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "e2f1a7deeacc2324"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-79",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 79,
+    "text": "In November 2024, the STF unanimously upheld Justice Luiz Fux’s preliminary injunction barring Bolsa Família and Continuous Cash Benefit (BPC) funds from online betting.",
+    "cited_markers": [
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "47df990488002ad3"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-80",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 80,
+    "text": "However, Broadcast reported that benefit bans faced structural evasion because women typically hold Bolsa Família cards while men comprise most bettors; TCU audits also flagged severe outliers—663 beneficiary households wagering between R$ 100,000 and R$ 1.4 million and one transferring R$ 2.1 million in a single month.",
+    "cited_markers": [
+      "[41]"
+    ],
+    "cited_reference_ids": [
+      "cc38dee2bf5063d6"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-81",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 81,
+    "text": "Analysts at Fundação Joaquim Nabuco (Fundaj) warned that betting erodes Bolsa Família families’ basic food-basket purchasing power while cautioning, via Amartya Sen’s capability framework, that poorly designed restrictions risk stripping beneficiaries of economic autonomy.",
+    "cited_markers": [
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "e2f1a7deeacc2324"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-82",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 82,
+    "text": "By November 2026, Revista FOCUS (published by Fundação Perseu Abramo) reported that Justice Fux suspended all lower-court lawsuits challenging betting prohibitions nationwide and expressed support for banning bets outright.",
+    "cited_markers": [
+      "[43]"
+    ],
+    "cited_reference_ids": [
+      "9a0f98c7c4f115ab"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-83",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 83,
+    "text": "As Pix eliminated transfer delays, it also narrowed the window to intercept scams, pushing the BCB beyond its early \"simple expansion\" phase into stricter supervision during 2024–2026.",
+    "cited_markers": [
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "a76161b46fccaaab"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-84",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 84,
+    "text": "Because fraudsters could scatter stolen money across mule accounts in seconds via social engineering—fake bank hotlines, WhatsApp scams, and tampered boletos—the Central Bank capped transfers from unregistered devices at R$ 200 per transaction and R$ 1,000 per day starting in November 2024, ordered banks under R$ 50,000 minimum fines to purge Pix keys linked to irregular tax IDs, and instituted daily non-compliance penalties reaching up to R$ 200,000 per day for the largest institutions.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "acc6a3f9fdadedb1"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-85",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 85,
+    "text": "Consumer dispute resolution centered on BCB Resolution No. 493/2025 (August 2025), which upgraded the 2021 Special Return Mechanism (MED) into MED 2.0, mandatory for all transactional providers from February 2, 2026.",
+    "cited_markers": [
+      "[45]"
+    ],
+    "cited_reference_ids": [
+      "8119ecb3a8e09ad6"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-86",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 86,
+    "text": "Whereas the original MED froze funds only in the first receiving account, MED 2.0 uses automated DICT graph tracing to track funds across up to five layers of downstream mule accounts and dispatch automated freeze notifications across institutions.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-87",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 87,
+    "text": "Payers gained an 80-day self-service dispute button in banking apps, while receiving providers face a 7-calendar-day investigation deadline (with sequential returns beginning 72 hours later and total payer notice due within 11 days) and must continuously sweep incoming balances for up to 90 days if accounts were emptied.",
+    "cited_markers": [
+      "[45]"
+    ],
+    "cited_reference_ids": [
+      "8119ecb3a8e09ad6"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-88",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 88,
+    "text": "Under BCB Resolution No. 587/2026, confirmed fraudsters can have their CPFs blocked from Pix for up to five years, and since October 2025 DICT blocks key lookups for fraud-marked holders.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-89",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 89,
+    "text": "To stop abusive \"false MED\" reversals against merchants, Normative Instruction BCB No. 766/2026 took effect in September 2026, extending merchants’ defense window from 30 to 80 days using invoices and delivery receipts.",
+    "cited_markers": [
+      "[50]"
+    ],
+    "cited_reference_ids": [
+      "4ce5ef37b69f14ae"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-90",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 90,
+    "text": "Nonetheless, administrative restitution remains limited and legally contested.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "acc6a3f9fdadedb1"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-91",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 91,
+    "text": "MED excludes commercial disputes without fraud, buyer’s remorse, user typing errors, and funds transferred to good-faith third parties, and recovery still depends on remaining account balances.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "acc6a3f9fdadedb1"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-92",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 92,
+    "text": "In September 2026, Trio recorded 3.83 accepted MED claims per 100,000 Pix transactions (down 21.4 percent year-over-year), with 274.9 thousand claims accepted out of 3.7 million contested transfers (R$ 733.2 million accepted) and just 14.5 percent of contested value returned.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "5e3e8e439b82b696"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-93",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 93,
+    "text": "Meanwhile, judicial protection tightened: in May 2026 (finalized July 2026), Brazil’s Superior Court of Justice (STJ) ruled in Tema 1.325 that when Pix transfers aligned with a client’s historical account profile, losses were attributed to the exclusive fault of the victim and third parties.",
+    "cited_markers": [
+      "[50]"
+    ],
+    "cited_reference_ids": [
+      "4ce5ef37b69f14ae"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-94",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 94,
+    "text": "Even sharper vulnerabilities surfaced in Pix’s wholesale infrastructure, exposing the operational risks of democratizing settlement rails through third-party IT intermediaries.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "20c063f2d5c04ec4"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-95",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 95,
+    "text": "On June 30, 2025, hackers paid a R$ 15,000 bribe to an IT operator at C&M Software—a PSTI connecting smaller banks to the Central Bank—to access reserve accounts.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "20c063f2d5c04ec4"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-96",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 96,
+    "text": "G1 reported that BMP lost R$ 541 million alone, while cybersecurity vendor Vigilant noted initial confirmed losses of R$ 400 million and market estimates approaching R$ 1 billion, prompting the BCB to suspend three unauthorized partner fintechs (Transfeera, Soffy, and Nuoro Pay).",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "20c063f2d5c04ec4"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-97",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 97,
+    "text": "Regulators simultaneously mandated R$ 15 million in minimum net equity, statutory security directors, 24/7 monitoring, network segregation, and independent audits for PSTIs, before extending mandatory independent audits to Pix participants via Resolution No. 559 in May 2026.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "20c063f2d5c04ec4"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-98",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 98,
+    "text": "Even then, a February 2026 intrusion at banking-tech provider JD Consultores forced another temporary Pix suspension.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "81e6d462b99b5c0b"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-99",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 99,
+    "text": "As Vigilant noted, periodic credentialing acts like a static \"photograph,\" whereas automated breaches unfold like a real-time \"movie\" requiring continuous behavioral monitoring.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "20c063f2d5c04ec4"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-100",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 100,
+    "text": "Looking toward 2030, the Central Bank’s roadmap seeks to convert Pix’s transactional ubiquity into deeper credit inclusion, automated convenience, and cross-border reach.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "8d0dca10adb8003b"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-101",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 101,
+    "text": "Two major domestic upgrades launched in June 2025: Pix por Aproximação, enabling contactless NFC checkout via Open Finance digital wallets without app redirection, and Pix Automático, providing standardized recurring debits for utilities, subscriptions, and loans.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-102",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 102,
+    "text": "By October 2026, Pix Automático scaled nine-and-a-half times above its February 2026 level to exceed 10.5 million monthly debits, and the BCB authorized its expansion to payroll salary accounts (contas-salário) starting July 2027 alongside anti-duplication rules for cobrança híbrida.",
+    "cited_markers": [
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "5e3e8e439b82b696"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-103",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 103,
+    "text": "Closing Brazil’s credit gap increasingly centers on linking Pix cash-flow data with Open Finance.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "1bdafe4ac26f4233"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-104",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 104,
+    "text": "In June 2026, the BCB rolled out an optimized Open Finance payment flow showing real-time account balances and credit limits at checkout to curb insufficient-funds failures.",
+    "cited_markers": [
+      "[62]"
+    ],
+    "cited_reference_ids": [
+      "304ccd887fb09387"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-105",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 105,
+    "text": "Infrastructure provider Celcoin highlights how fusing Pix receipt regularity with standardized Open Finance APIs (covering accounts, cards, credit operations, and investments) enables AI-driven credit scoring for thin-file workers and MEIs lacking collateral, provided firms obey strict LGPD data-consent boundaries.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "1bdafe4ac26f4233"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-106",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 106,
+    "text": "Similarly, while earlier legal commentary had anticipated a standalone Pix Parcelado installment rail in late 2025, fintech aggregator Pluggy noted in 2026 that Pix Parcelado is evolving as an Open Finance credit-comparison showcase, while the BCB’s Pix Management Report 2023–2025 still contained no detailed rollout of Pix Parcelado or Pix Offline.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "102d3ed3ffd0ee94"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-107",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 107,
+    "text": "By contrast, two parallel initiatives underscore pragmatic institutional limits.",
+    "cited_markers": [
+      "[65]"
+    ],
+    "cited_reference_ids": [
+      "0f77851d336e8d57"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-108",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 108,
+    "text": "Brazil’s central bank digital currency, Drex—distinct from Pix as a sovereign digital Real rather than a commercial payment rail—ended its initial blockchain and retail-tokenization pilot in November 2025 and shifted in 2026 toward a non-blockchain design focused on institutional collateral registries rather than retail consumer inclusion.",
+    "cited_markers": [
+      "[65]"
+    ],
+    "cited_reference_ids": [
+      "0f77851d336e8d57"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-109",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 109,
+    "text": "Internationally, private partnerships already allow Brazilians to pay via Pix in Chile, Argentina, the United States, Portugal, and France outside BCB settlement rails.",
+    "cited_markers": [
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "a76161b46fccaaab"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-110",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 110,
+    "text": "In September 2026, the BCB and European Central Bank launched joint studies to interconnect Pix with Europe’s TIPS instant payment system to make Brazil–euro area transfers faster and cheaper, though ECB consultant Marco Massarenti cautioned that feasibility assessments require a year or more—even as Pix’s displacement of global card networks drew U.S. trade-dispute scrutiny in 2025 and 2026.",
+    "cited_markers": [
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "ccd521a19fb6f768"
+    ]
+  },
+  {
+    "id": "pix_brasil_ef6e79f227f4_20261115T164301Z-111",
+    "answer_id": "pix_brasil_ef6e79f227f4_20261115T164301Z",
+    "position": 111,
+    "text": "Ultimately, Pix proves that public, mandatory, zero-fee instant payment rails can rapidly democratize payment access and banking competition, while showing that durable financial citizenship now depends on Amazonian broadband expansion, Open Finance credit underwriting, safeguards against high-cost debt and gambling harm, and continuous cyber resilience.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "36f0b0bcb96f259d"
+    ]
+  }
+]

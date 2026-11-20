@@ -1,0 +1,553 @@
+[
+  {
+    "id": "3f86da314b54d5c0",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://scispace.com/papers/attention-is-all-you-need-1hodz0wcqb",
+    "normalized_url": "https://scispace.com/papers/attention-is-all-you-need-1hodz0wcqb",
+    "work_key": "https://scispace.com/papers/attention-is-all-you-need-1hodz0wcqb",
+    "title": "(PDF) Attention is All you Need (2017) | Ashish Vaswani - SciSpace",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:36:07.242467Z",
+    "error_message": "barreira de acesso (anti_bot): Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. ",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "34c4c8ee90c46400",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "normalized_url": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "work_key": "https://en.wikipedia.org/wiki/Attention_Is_All_You_Need",
+    "title": "Attention Is All You Need - Wikipedia",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:22.033330Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b8b957c4b0d92246",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.alphaxiv.org/abs/1706.03762",
+    "normalized_url": "https://alphaxiv.org/abs/1706.03762",
+    "work_key": "https://alphaxiv.org/abs/1706.03762",
+    "title": "Attention Is All You Need | alphaXiv",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:21.763679Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "a7468c6851652691",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://arxiv.org/abs/1706.03762",
+    "normalized_url": "https://arxiv.org/abs/1706.03762",
+    "work_key": "ARXIV:1706.03762",
+    "title": "[1706.03762] Attention Is All You Need - arXiv",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:38.020278Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "44e9a350d3df66d1",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf",
+    "normalized_url": "https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf",
+    "work_key": "https://papers.neurips.cc/paper/7181-attention-is-all-you-need.pdf",
+    "title": "Attention is All you Need",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:36.870619Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "65fa01dbc0699c35",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://towardsdatascience.com/paper-walkthrough-attention-is-all-you-need-80399cdc59e1/",
+    "normalized_url": "https://towardsdatascience.com/paper-walkthrough-attention-is-all-you-need-80399cdc59e1",
+    "work_key": "https://towardsdatascience.com/paper-walkthrough-attention-is-all-you-need-80399cdc59e1",
+    "title": "Paper Walkthrough: Attention Is All You Need - Towards Data Science",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:22.626592Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "70e3f4a119525251",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://jkk.name/reading-notes/old-blog/2017-10-20_onlyattention/",
+    "normalized_url": "https://jkk.name/reading-notes/old-blog/2017-10-20_onlyattention",
+    "work_key": "https://jkk.name/reading-notes/old-blog/2017-10-20_onlyattention",
+    "title": "Attention Is All You Need (Vaswani et al., ArXiv 2017)",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:23.971712Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "3667345e50c17c08",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://ysu1989.github.io/courses/au20/cse5539/BERT.pdf",
+    "normalized_url": "https://ysu1989.github.io/courses/au20/cse5539/BERT.pdf",
+    "work_key": "https://ysu1989.github.io/courses/au20/cse5539/BERT.pdf",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:36.441234Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "0e79d837309e23ac",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "http://mlg.postech.ac.kr/~jtkim/courses/2022-spring-trends-in-ml/materials/05_bert.pdf",
+    "normalized_url": "https://mlg.postech.ac.kr/~jtkim/courses/2022-spring-trends-in-ml/materials/05_bert.pdf",
+    "work_key": "https://mlg.postech.ac.kr/~jtkim/courses/2022-spring-trends-in-ml/materials/05_bert.pdf",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:48.050399Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "84bf199568aa894b",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://aclanthology.org/N19-1423.pdf",
+    "normalized_url": "https://aclanthology.org/N19-1423.pdf",
+    "work_key": "https://aclanthology.org/N19-1423.pdf",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:45.806626Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b9fe2733b69e07bf",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/328230984_BERT_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding",
+    "normalized_url": "https://researchgate.net/publication/328230984_BERT_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding",
+    "work_key": "https://researchgate.net/publication/328230984_BERT_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:36:07.088435Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "197c17bf6f49a579",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "normalized_url": "https://semanticscholar.org/paper/BERT:-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "work_key": "https://semanticscholar.org/paper/BERT:-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:36:07.226578Z",
+    "error_message": "barreira de acesso (anti_bot): Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. ",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "ab4c8cf624c8a6ac",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://scispace.com/papers/bert-pre-training-of-deep-bidirectional-transformers-for-3mez6kncl2",
+    "normalized_url": "https://scispace.com/papers/bert-pre-training-of-deep-bidirectional-transformers-for-3mez6kncl2",
+    "work_key": "https://scispace.com/papers/bert-pre-training-of-deep-bidirectional-transformers-for-3mez6kncl2",
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:36:07.224669Z",
+    "error_message": "barreira de acesso (anti_bot): Before proceeding to your request, you need to solve a puzzle, and the puzzle requires Google Translate to be disabled. ",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9cb658eb63c3853b",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://3dvar.com/Dao2022FlashAttention.pdf",
+    "normalized_url": "https://3dvar.com/Dao2022FlashAttention.pdf",
+    "work_key": "https://3dvar.com/Dao2022FlashAttention.pdf",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:57.990132Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bb646e9065fdcfcd",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://openreview.net/pdf?id=H4DqfPSibmx",
+    "normalized_url": "https://openreview.net/pdf?id=H4DqfPSibmx",
+    "work_key": "https://openreview.net/pdf?id=H4DqfPSibmx",
+    "title": "FLASHATTENTION: Fast and Memory-Efficient Exact Attention with",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:36:11.400796Z",
+    "error_message": "barreira de acesso (interstitial): OpenReview .net Verifying your browser Complete the check below to continue to OpenReview Please complete the verificati",
+    "barrier_kind": "interstitial",
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bb174fbed3aeca2b",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://huggingface.co/papers/2104.09864",
+    "normalized_url": "https://huggingface.co/papers/2104.09864",
+    "work_key": "https://huggingface.co/papers/2104.09864",
+    "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:47:48.481641Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "89f1e8d68fa37f46",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/351019664_RoFormer_Enhanced_Transformer_with_Rotary_Position_Embedding",
+    "normalized_url": "https://researchgate.net/publication/351019664_RoFormer_Enhanced_Transformer_with_Rotary_Position_Embedding",
+    "work_key": "https://researchgate.net/publication/351019664_RoFormer_Enhanced_Transformer_with_Rotary_Position_Embedding",
+    "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:36:10.298422Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "c685f685f643ae55",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://spaces.ac.cn/me.html/comment-page-10",
+    "normalized_url": "https://spaces.ac.cn/me.html/comment-page-10",
+    "work_key": "https://spaces.ac.cn/me.html/comment-page-10",
+    "title": "时光- 科学空间|Scientific Spaces",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:04.495921Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "caa3d2b7c68a5aab",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://velog.io/@lyoonji/%ED%88%AC%EB%B9%85%EC%8A%A4-4%EC%A3%BC%EC%B0%A8-%EC%A0%95%EA%B7%9C%EC%84%B8%EC%85%98-TimeSeries",
+    "normalized_url": "https://velog.io/@lyoonji/투빅스-4주차-정규세션-TimeSeries",
+    "work_key": "https://velog.io/@lyoonji/투빅스-4주차-정규세션-TimeSeries",
+    "title": "[투빅스 4주차 논문리뷰] RoFormer — Enhanced Transformer with",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:00.477144Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8725f2df440ba274",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://shreyansh26.github.io/post/2023-03-26_flash-attention/",
+    "normalized_url": "https://shreyansh26.github.io/post/2023-03-26_flash-attention",
+    "work_key": "https://shreyansh26.github.io/post/2023-03-26_flash-attention",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:00.844019Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "5727fed78bddc701",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2205.14135",
+    "normalized_url": "https://arxiv.org/abs/2205.14135",
+    "work_key": "ARXIV:2205.14135",
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:10.503682Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "bb2ba5cfd07cd36e",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://github.com/dao-ailab/flash-attention",
+    "normalized_url": "https://github.com/dao-ailab/flash-attention",
+    "work_key": "https://github.com/dao-ailab/flash-attention",
+    "title": "GitHub - Dao-AILab/flash-attention: Fast and memory-efficient exact",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:05.821633Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "b9e1d6b35aed435b",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://medium.com/@EleventhHourEnthusiast/direct-preference-optimization-your-language-model-is-secretly-a-reward-model-5b8f44cb9b9b",
+    "normalized_url": "https://medium.com/@EleventhHourEnthusiast/direct-preference-optimization-your-language-model-is-secretly-a-reward-model-5b8f44cb9b9b",
+    "work_key": "https://medium.com/@EleventhHourEnthusiast/direct-preference-optimization-your-language-model-is-secretly-a-reward-model-5b8f44cb9b9b",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:07.055640Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "6d274bf31e96172c",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.researchgate.net/publication/371136760_Direct_Preference_Optimization_Your_Language_Model_is_Secretly_a_Reward_Model",
+    "normalized_url": "https://researchgate.net/publication/371136760_Direct_Preference_Optimization_Your_Language_Model_is_Secretly_a_Reward_Model",
+    "work_key": "https://researchgate.net/publication/371136760_Direct_Preference_Optimization_Your_Language_Model_is_Secretly_a_Reward_Model",
+    "title": "(PDF) Direct Preference Optimization: Your Language Model is",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "error",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:36:10.315623Z",
+    "error_message": "trafilatura nao conseguiu extrair conteudo principal do HTML",
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "9dce83c9e048d142",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://arxiv.org/html/2305.18290v3",
+    "normalized_url": "https://arxiv.org/html/2305.18290v3",
+    "work_key": "https://arxiv.org/html/2305.18290v3",
+    "title": "Direct Preference Optimization:Your Language Model is Secretly a",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:10.965861Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "8a5681d011455a55",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://papers.baulab.info/papers/also/Rafailov-2023.pdf",
+    "normalized_url": "https://papers.baulab.info/papers/also/Rafailov-2023.pdf",
+    "work_key": "https://papers.baulab.info/papers/also/Rafailov-2023.pdf",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:15.456302Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "d5a5216fcde8733b",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://arxiv.org/abs/2305.18290",
+    "normalized_url": "https://arxiv.org/abs/2305.18290",
+    "work_key": "ARXIV:2305.18290",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:21.633039Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "22b2e8095e2c69b5",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://arxiv.org/html/2305.18290v1",
+    "normalized_url": "https://arxiv.org/html/2305.18290v1",
+    "work_key": "https://arxiv.org/html/2305.18290v1",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:22.132422Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  },
+  {
+    "id": "81925c013ae7d05b",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://huggingface.co/papers/2305.18290",
+    "normalized_url": "https://huggingface.co/papers/2305.18290",
+    "work_key": "https://huggingface.co/papers/2305.18290",
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-24T21:48:22.624458Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "arquitetura_transformers_9a296a2eb92b_20261024T214609Z",
+    "tool_name": "Gemini"
+  }
+]

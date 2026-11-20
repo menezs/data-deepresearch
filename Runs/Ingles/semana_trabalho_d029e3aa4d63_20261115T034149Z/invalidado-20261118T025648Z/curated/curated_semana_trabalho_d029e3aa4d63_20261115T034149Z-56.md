@@ -1,0 +1,59 @@
+[referencia=bcf197f04acee061 score=0.997]
+Em uma decisão histórica, senadores de governo e oposição aprovaram na noite desta **quarta-feira (14)**, por **75 votos a 1** nos dois turnos, a **Proposta de Emenda à Constituição** (PEC 221/2019), que acaba com a **escala 6×1** e reduz a **jornada de trabalho** máxima para **40 horas** semanais, sem corte de salário. Trabalhadores com **carteira assinada** passam a ter **dois dias de folga** remunerada por semana, no lugar do modelo em que o empregado trabalha seis dias para folgar um.
+
+A mudança deve beneficiar **26,8 milhões de trabalhadores**, de acordo com levantamento do **Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese)** feito com dados de **2025** da **Pesquisa Nacional por Amostra de Domicílios (PNAD)**, do **Instituto Brasileiro de Geografia e Estatística (IBGE)**. São **22 milhões** de empregados formais, o equivalente a **54%** dos trabalhadores com carteira, e cerca de **4,8 milhões** de **informais** que hoje cumprem mais de 40 horas por semana. O senador **Randolfe Rodrigues**, do **Partido dos Trabalhadores (PT)** do **Amapá**, estimou em plenário pelo menos **20 milhões** de beneficiados.
+
+>> Faça parte do canal do **Movimento Econômico** no WhatsApp
+
+---
+
+[referencia=bcf197f04acee061 score=0.165]
+>> Faça parte do canal do **Movimento Econômico** no WhatsApp
+
+O único voto contrário, nas duas votações, foi do senador **Hamilton Mourão**, do **Republicanos** do **Rio Grande do Sul**, de acordo com o portal **Universo Online (UOL)**. Uma emenda constitucional precisava de pelo menos **49 votos** favoráveis, e o painel registrou presença de **77** dos **81** senadores. Os dois turnos na mesma noite foram possíveis pela aprovação de um requerimento da senadora **Teresa Leitão**, de **Pernambuco** e líder do PT no Senado, para a **quebra dos interstícios**, o intervalo exigido entre uma votação e outra.
+
+“Eu tenho certeza que, desde a Constituinte de 1988, esta é a maior conquista dos trabalhadores brasileiros”, afirmou o relator da PEC no Senado, **Omar Aziz**, do **Partido Social Democrático (PSD)** do Amazonas. Ele manteve sem mudanças o texto que a **Câmara dos Deputados** aprovou em **maio**, e por isso a proposta segue direto para promulgação pelo **Congresso Nacional**. A PEC chegou ao Senado em **agosto**, passou pela **Comissão de Constituição e Justiça (CCJ)** e foi a plenário depois de um compromisso firmado pelo presidente da Casa, **Davi Alcolumbre**, do **União Brasil** do Amapá.
+
+---
+
+[referencia=bcf197f04acee061 score=0.143]
+### Lei complementar vai definir transição para pequenas empresas
+
+Uma **lei complementar** vai estabelecer medidas transitórias para manter o nível de emprego e reduzir possíveis impactos sobre **microempreendedores individuais**, **microempresas** e **empresas de pequeno porte**, pelo texto aprovado. Favorável à PEC, o senador **Astronauta Marcos Pontes**, do PL de **São Paulo**, alertou para o risco de a medida aumentar o **custo do trabalho** e atingir micro e pequenas empresas, que contratam boa parte de quem trabalha na escala 6×1. “Não podemos permitir que essa conquista se torne, a médio e longo prazos, em prejuízo para quem queremos proteger”, disse.
+
+Empresário, o senador **Vanderlan Cardoso**, do PSD de **Goiás**, informou já ter acabado com a escala 6×1 nas empresas dele, o que ampliou a oferta de **mão de obra** e a **produtividade**. “A única maneira que nós encontramos de resolver a falta de mão de obra, que há muitos anos assola esse país, não é de agora, foi flexibilizar o fim dessa jornada, que nas nossas empresas acontece há mais de cinco anos”, disse o parlamentar.
+
+“Essa é uma conquista que nasce da mobilização de milhões de trabalhadores e trabalhadoras que decidiram dizer: trabalhar não significa abrir mão da própria vida”, disse Teresa Leitão. O senador **Veneziano Vital do Rêgo**, do MDB da **Paraíba**, defendeu o direito dos trabalhadores “a mais um dia, seja de descanso, seja de opção familiar, seja de opção ao lazer”. A sessão começou pouco depois das **14h** e terminou por volta das **22h**, com o anúncio do resultado. Além do autor da PEC, deputado Reginaldo Lopes (PT-MG), também estava presente na sessão a deputada Erika Hilton (PSOL-SP), autora de outra proposta com a mesma finalidade.
+
+**Com informações da Agência Senado e da Agência Brasil*
+
+---
+
+[referencia=bcf197f04acee061 score=0.099]
+### Votação ocorreu a 11 dias do segundo turno presidencial
+
+A aprovação veio a **11 dias** da votação que decide a **eleição presidencial**, e o fim da escala 6×1 é tratado como uma das principais vitrines do governo federal na campanha de **Luiz Inácio Lula da Silva**, do PT, à reeleição. Lula começou a defender a medida no fim do ano passado. Em **fevereiro de 2026**, o governo federal incluiu a pauta como prioritária na mensagem presidencial ao Congresso.
+
+O senador **Flávio Bolsonaro**, do **Partido Liberal (PL)** do **Rio de Janeiro** e candidato à Presidência, se opôs à proposta ao longo da campanha e chegou a chamá-la de “oportunista”. Na véspera da votação, depois de visitar o pai, o ex-presidente **Jair Bolsonaro**, ele anunciou voto a favor. Flávio cumpria agenda de campanha no Rio Grande do Sul e votou de forma remota, e aliados de Lula viram a mudança como tentativa de neutralizar o ganho eleitoral do petista, de acordo com o UOL.
+
+A maioria dos partidos orientou voto a favor, e só o **PL** e o **Progressistas (PP)** liberaram as bancadas. “Como não vencemos a batalha para trazer a proposta do senador Rogério Marinho, vamos aprovar a proposta 5×2”, disse o líder do PL no Senado, **Carlos Portinho**, que afirmou caber a Flávio “solucionar os problemas” da PEC se for eleito. A senadora **Damares Alves**, do Republicanos do **Distrito Federal**, buscou separar a pauta da campanha de Lula e afirmou que “quem vai entregar essa vitória para o Brasil é o Congresso nacional”.
+
+---
+
+[referencia=bcf197f04acee061 score=0.011]
+Randolfe Rodrigues cobrou em plenário a ausência de Flávio Bolsonaro e de **Rogério Marinho**, do PL do **Rio Grande do Norte**, autor da proposta citada por Portinho. Também do Nordeste, **Humberto Costa**, de Pernambuco, **Camilo Santana**, do **Ceará**, **Jaques Wagner**, da **Bahia**, e **Zenaide Maia**, do Rio Grande do Norte, participaram do debate, de acordo com a Agência Senado.
+
+### Jornada cai para 42 horas dois meses depois da promulgação
+
+A jornada normal passa a ter até **8 horas** por dia, na **escala 5×2**, com uma das folgas preferencialmente aos **domingos**. Dois meses depois da promulgação, a jornada semanal cai de **44** para **42 horas**, e um ano depois disso o limite chega a **40 horas**, o que completa uma **transição de 14 meses**. A jornada de 44 horas vale desde a **Constituição de 1988**, que reduziu o teto anterior, de **48 horas**, e para o senador **Eduardo Braga**, do **Movimento Democrático Brasileiro (MDB)** do **Amazonas**, ela “não reflete mais a realidade do mundo do trabalho, profundamente transformado pela tecnologia, pela automação, por novas normas e formas de organização produtiva”.
+
+A redução da jornada e o dia extra de descanso valem para os **contratos de trabalho em vigor**, sem redução salarial nominal, proporcional ou de qualquer outra espécie. A proibição também protege os **pisos salariais** de todas as categorias.
+
+O texto permite redistribuir as folgas ao longo do mês por **negociação coletiva** entre empresa e sindicato, desde que o empregado tenha ao menos um dia de descanso a cada sete trabalhados e mantenha a média de dois por semana. Trabalhadores com **diploma universitário** e salário acima de **R$ 21.188,87** ficam fora do limite de horas semanais.
+
+---
+
+[referencia=bcf197f04acee061 score=0.002]
+**Com informações da Agência Senado e da Agência Brasil*
+
+**Leia mais:** Câmara aprova aumento no limite de receita bruta do MEI

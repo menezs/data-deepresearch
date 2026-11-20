@@ -1,0 +1,686 @@
+[
+  {
+    "id": "f15343efe7fc2b29",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-BR",
+    "normalized_url": "https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-BR",
+    "work_key": "https://cloud.google.com/learn/what-is-artificial-intelligence?hl=pt-BR",
+    "title": "Google Cloud. **O que é inteligência artificial (IA)?**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:12.642707Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "99a478a4471dd293",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://elevenlabs.io/voice-cloning",
+    "normalized_url": "https://elevenlabs.io/voice-cloning",
+    "work_key": "https://elevenlabs.io/voice-cloning",
+    "title": "ElevenLabs. **Voice Cloning**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:12.413869Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "38f75cbfb87bd6d2",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://www.respeecher.com/",
+    "normalized_url": "https://respeecher.com",
+    "work_key": "https://respeecher.com",
+    "title": "Respeecher. **Voice Cloning and Speech-to-Speech Technology**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:12.610863Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "95646408bc2bbf79",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://c2pa.org/specifications/",
+    "normalized_url": "https://c2pa.org/specifications",
+    "work_key": "https://c2pa.org/specifications",
+    "title": "Coalition for Content Provenance and Authenticity — C2PA. **Specifications**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:16.301670Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c86fe6d5187bd205",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+    "title": "Brasil. **Constituição da República Federativa do Brasil de 1988**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:14.303646Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "8351d1877c05c6a7",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+    "title": "Brasil. **Lei nº 10.406, de 10 de janeiro de 2002 — Código Civil**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:13.720266Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "60ea2d763baca2b3",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/leis/l9610.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/leis/l9610.htm",
+    "title": "Brasil. **Lei nº 9.610, de 19 de fevereiro de 1998 — Lei de Direitos Autorais**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:13.264261Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b1d6046b65a0ee43",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+    "normalized_url": "https://planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+    "work_key": "https://planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709compilado.htm",
+    "title": "Brasil. **Lei nº 13.709, de 14 de agosto de 2018 — Lei Geral de Proteção de Dados Pessoais**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:13.948486Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2ddcc05b33f7db1a",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "normalized_url": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "work_key": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "title": "Senado Federal. **Projeto de Lei nº 2.338, de 2023 — Marco Legal da Inteligência Artificial**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:24:03.650615Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ea5aedd5ed68db2a",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://www12.senado.leg.br/noticias/videos/2024/12/marco-da-inteligencia-artificial-e-aprovado-em-plenario-e-vai-a-camara",
+    "normalized_url": "https://www12.senado.leg.br/noticias/videos/2024/12/marco-da-inteligencia-artificial-e-aprovado-em-plenario-e-vai-a-camara",
+    "work_key": "https://www12.senado.leg.br/noticias/videos/2024/12/marco-da-inteligencia-artificial-e-aprovado-em-plenario-e-vai-a-camara",
+    "title": "Senado Federal. **Marco da inteligência artificial é aprovado em Plenário e vai à Câmara**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:24:02.971151Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "74b46d9019c32b1e",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+    "normalized_url": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+    "work_key": "https://eur-lex.europa.eu/eli/reg/2024/1689/oj/eng",
+    "title": "União Europeia. **Regulation (EU) 2024/1689 — Artificial Intelligence Act**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:28.812633Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "acc5ad4063972046",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "normalized_url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "work_key": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+    "title": "European Commission. **AI Act — Regulatory framework and application timeline**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:17.370735Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e30ab28959e94bb4",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/eli/dir/2019/790/oj/eng",
+    "normalized_url": "https://eur-lex.europa.eu/eli/dir/2019/790/oj/eng",
+    "work_key": "https://eur-lex.europa.eu/eli/dir/2019/790/oj/eng",
+    "title": "União Europeia. **Directive (EU) 2019/790 on Copyright and Related Rights in the Digital Single Market**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:28.100514Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e636666c3ae8b823",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+    "normalized_url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+    "work_key": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/eng",
+    "title": "União Europeia. **Regulation (EU) 2016/679 — General Data Protection Regulation (GDPR)**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:30.495816Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "aea636540b72498d",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.legislation.gov.uk/ukpga/1988/48/part/II",
+    "normalized_url": "https://legislation.gov.uk/ukpga/1988/48/part/II",
+    "work_key": "https://legislation.gov.uk/ukpga/1988/48/part/II",
+    "title": "Reino Unido. **Copyright, Designs and Patents Act 1988 — Part II: Rights in Performances**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:33.661331Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "001085b081536f3a",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.equity.org.uk/advice-and-support/know-your-rights/ai-toolkit",
+    "normalized_url": "https://equity.org.uk/advice-and-support/know-your-rights/ai-toolkit",
+    "work_key": "https://equity.org.uk/advice-and-support/know-your-rights/ai-toolkit",
+    "title": "Equity. **Equity AI Toolkit**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:23.667378Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "75aa9d347e5a655b",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://www.equity.org.uk/advice-and-support/know-your-rights/ai-toolkit/equitys-ai-vision-statement",
+    "normalized_url": "https://equity.org.uk/advice-and-support/know-your-rights/ai-toolkit/equitys-ai-vision-statement",
+    "work_key": "https://equity.org.uk/advice-and-support/know-your-rights/ai-toolkit/equitys-ai-vision-statement",
+    "title": "Equity. **Equity’s AI Vision Statement**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:24.636902Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c48e1b3caae348b9",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts/artificial-intelligence-resources",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts/artificial-intelligence-resources",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts/artificial-intelligence-resources",
+    "title": "SAG-AFTRA. **2023 TV/Theatrical Contracts — Artificial Intelligence Resources**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:33.841319Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930029-GRU 1793759012 2189417412 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "9d0ca35723cdd785",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/member-resources/artificial-intelligence",
+    "title": "SAG-AFTRA. **Artificial Intelligence — Member Resources and chronology of AI protections**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:37.229574Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930075-GRU 1793759016 3398901731 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "aca12210a3d2f331",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+    "title": "SAG-AFTRA. **2025 Interactive Media Video Game Agreement**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:36.886712Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930083-GRU 1793759016 2449844226 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b91cbad094e89ada",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.sagaftra.org/contracts-industry-resources/television/tv-animation-agreements",
+    "normalized_url": "https://sagaftra.org/contracts-industry-resources/television/tv-animation-agreements",
+    "work_key": "https://sagaftra.org/contracts-industry-resources/television/tv-animation-agreements",
+    "title": "SAG-AFTRA. **TV Animation Agreements**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:39.899633Z",
+    "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930098-GRU 1793759019 85690092 Varnish cache server",
+    "barrier_kind": "http_error",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2060c69319aa812c",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.wga.org/contracts/know-your-rights/artificial-intelligence",
+    "normalized_url": "https://wga.org/contracts/know-your-rights/artificial-intelligence",
+    "work_key": "https://wga.org/contracts/know-your-rights/artificial-intelligence",
+    "title": "Writers Guild of America West. **Artificial Intelligence — Know Your Rights**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:32.326519Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "deda2b8bdc1eee54",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.dga.org/News/PressReleases/2023/230603-DGA-and-AMPTP-Reach-Tentative-Agreement",
+    "normalized_url": "https://dga.org/News/PressReleases/2023/230603-DGA-and-AMPTP-Reach-Tentative-Agreement",
+    "work_key": "https://dga.org/News/PressReleases/2023/230603-DGA-and-AMPTP-Reach-Tentative-Agreement",
+    "title": "Directors Guild of America. **DGA Tentative Agreement Achieves Historic Breakthroughs on Key Global, Economic, Creative Rights, and Safety Issues**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:32.228566Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "81e01e40f7e9fd9e",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://copyright.gov/ai/",
+    "normalized_url": "https://copyright.gov/ai",
+    "work_key": "https://copyright.gov/ai",
+    "title": "U.S. Copyright Office. **Copyright and Artificial Intelligence**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:32.597803Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "d6baf5097b068d40",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://copyright.gov/newsnet/2024/1048.html",
+    "normalized_url": "https://copyright.gov/newsnet/2024/1048.html",
+    "work_key": "https://copyright.gov/newsnet/2024/1048.html",
+    "title": "U.S. Copyright Office. **Copyright Office Releases Part 1 of Artificial Intelligence Report, Recommends Federal Digital Replica Law**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:32.683898Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "23f8528fd2cb9952",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://law.justia.com/cases/federal/appellate-courts/cadc/23-5233/23-5233-2025-03-18.html",
+    "normalized_url": "https://law.justia.com/cases/federal/appellate-courts/cadc/23-5233/23-5233-2025-03-18.html",
+    "work_key": "https://law.justia.com/cases/federal/appellate-courts/cadc/23-5233/23-5233-2025-03-18.html",
+    "title": "United States Court of Appeals for the District of Columbia Circuit, reprodução em Justia. **Thaler v. Perlmutter, No. 23-5233 (D.C. Cir. 2025)**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:40.491043Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "aab20b9028657da3",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/",
+    "normalized_url": "https://reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02",
+    "work_key": "https://reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02",
+    "title": "Reuters. **U.S. Supreme Court declines to hear dispute over copyrights for AI-generated material**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:24:06.149117Z",
+    "error_message": "HTTP 401 em https://www.reuters.com/legal/government/us-supreme-court-declines-hear-dispute-over-copyrights-ai-generated-material-2026-03-02/",
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "0cad8904ada54d61",
+    "citation_markers": [
+      "[28]"
+    ],
+    "raw_url": "https://www.theguardian.com/technology/2025/jun/25/anthropic-did-not-breach-copyright-when-training-ai-on-books-without-permission-court-rules",
+    "normalized_url": "https://theguardian.com/technology/2025/jun/25/anthropic-did-not-breach-copyright-when-training-ai-on-books-without-permission-court-rules",
+    "work_key": "https://theguardian.com/technology/2025/jun/25/anthropic-did-not-breach-copyright-when-training-ai-on-books-without-permission-court-rules",
+    "title": "The Guardian. **Anthropic did not breach copyright when training AI on books without permission, court rules**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:37.831430Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "d2ff69a3a1d873a7",
+    "citation_markers": [
+      "[29]"
+    ],
+    "raw_url": "https://apnews.com/article/e77968015b94fbbf38234e3178ede578",
+    "normalized_url": "https://apnews.com/article/e77968015b94fbbf38234e3178ede578",
+    "work_key": "https://apnews.com/article/e77968015b94fbbf38234e3178ede578",
+    "title": "Associated Press. **Judge dismisses authors’ copyright lawsuit against Meta over AI training**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:39.018824Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "221360daf85211c5",
+    "citation_markers": [
+      "[30]"
+    ],
+    "raw_url": "https://www.gov.ca.gov/2024/09/17/governor-newsom-signs-bills-to-protect-digital-likeness-of-performers/",
+    "normalized_url": "https://gov.ca.gov/2024/09/17/governor-newsom-signs-bills-to-protect-digital-likeness-of-performers",
+    "work_key": "https://gov.ca.gov/2024/09/17/governor-newsom-signs-bills-to-protect-digital-likeness-of-performers",
+    "title": "Office of Governor Gavin Newsom. **Governor Newsom signs bills to protect digital likeness of performers**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:39.557678Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "17283c0a16f29fb4",
+    "citation_markers": [
+      "[31]"
+    ],
+    "raw_url": "https://www.tn.gov/governor/news/2024/3/21/photos--gov--lee-signs-elvis-act-into-law.html",
+    "normalized_url": "https://tn.gov/governor/news/2024/3/21/photos--gov--lee-signs-elvis-act-into-law.html",
+    "work_key": "https://tn.gov/governor/news/2024/3/21/photos--gov--lee-signs-elvis-act-into-law.html",
+    "title": "State of Tennessee, Office of the Governor. **Gov. Lee Signs ELVIS Act Into Law**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:40.487120Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "7edfd91715fe9b0a",
+    "citation_markers": [
+      "[32]"
+    ],
+    "raw_url": "https://salazar.house.gov/media/press-releases/rep-salazars-no-fakes-act-advances-out-senate-judiciary-committee-unanimous",
+    "normalized_url": "https://salazar.house.gov/media/press-releases/rep-salazars-no-fakes-act-advances-out-senate-judiciary-committee-unanimous",
+    "work_key": "https://salazar.house.gov/media/press-releases/rep-salazars-no-fakes-act-advances-out-senate-judiciary-committee-unanimous",
+    "title": "U.S. House of Representatives, Office of Rep. María Elvira Salazar. **NO FAKES Act Advances Out of Senate Judiciary Committee Unanimously**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:41.850035Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "71fd23e2dc32bab4",
+    "citation_markers": [
+      "[33]"
+    ],
+    "raw_url": "https://apnews.com/article/627d9adac6d4007b3bc489e511c1beb8",
+    "normalized_url": "https://apnews.com/article/627d9adac6d4007b3bc489e511c1beb8",
+    "work_key": "https://apnews.com/article/627d9adac6d4007b3bc489e511c1beb8",
+    "title": "Associated Press. **SAG-AFTRA files unfair labor practice charge over use of AI to make Darth Vader’s voice in Fortnite**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:41.785402Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "618f3e7dacefa20e",
+    "citation_markers": [
+      "[34]"
+    ],
+    "raw_url": "https://www.theguardian.com/technology/2025/oct/13/equity-threatens-mass-direct-action-over-use-of-actors-images-in-ai-content",
+    "normalized_url": "https://theguardian.com/technology/2025/oct/13/equity-threatens-mass-direct-action-over-use-of-actors-images-in-ai-content",
+    "work_key": "https://theguardian.com/technology/2025/oct/13/equity-threatens-mass-direct-action-over-use-of-actors-images-in-ai-content",
+    "title": "The Guardian. **Equity threatens mass direct action over use of actors’ images in AI content**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-02T15:01:42.306914Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "b86c9907dd942c2e",
+    "citation_markers": [
+      "[35]"
+    ],
+    "raw_url": "https://law.justia.com/cases/federal/appellate-courts/F2/849/460/37285/",
+    "normalized_url": "https://law.justia.com/cases/federal/appellate-courts/F2/849/460/37285",
+    "work_key": "https://law.justia.com/cases/federal/appellate-courts/F2/849/460/37285",
+    "title": "United States Court of Appeals for the Ninth Circuit, reprodução em Justia. **Midler v. Ford Motor Co., 849 F.2d 460 (9th Cir. 1988)**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:43.778279Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c1228a5b83fb96bc",
+    "citation_markers": [
+      "[36]"
+    ],
+    "raw_url": "https://law.justia.com/cases/federal/appellate-courts/F2/978/1093/184793/",
+    "normalized_url": "https://law.justia.com/cases/federal/appellate-courts/F2/978/1093/184793",
+    "work_key": "https://law.justia.com/cases/federal/appellate-courts/F2/978/1093/184793",
+    "title": "United States Court of Appeals for the Ninth Circuit, reprodução em Justia. **Waits v. Frito-Lay, Inc., 978 F.2d 1093 (9th Cir. 1992)**.",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:23:47.063281Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z",
+    "tool_name": "ChatGPT"
+  }
+]

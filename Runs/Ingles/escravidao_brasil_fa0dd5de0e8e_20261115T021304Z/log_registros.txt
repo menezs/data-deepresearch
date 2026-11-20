@@ -1,0 +1,54 @@
+2026-11-14 22:13:04,253 INFO     __main__: Iniciando run escravidao_brasil_fa0dd5de0e8e_20261115T021304Z para answers/Ingles/Claude/Consolidado/escravidao_brasil.md (ferramenta=Claude)
+2026-11-14 22:13:09,208 INFO     auditframework.terminal: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-14 22:13:09,208 WARNING  huggingface_hub.utils._http: Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+2026-11-14 22:13:11,560 INFO     auditframework.terminal: Loading weights: 100%|██████████| 391/391 [00:00<00:00, 12925.89it/s]
+2026-11-14 22:13:18,932 WARNING  auditframework.pipeline: Custo por token nao e estimado para provider='openai' modelo='z-ai/glm-5.2' — o relatorio mostrara US$ 0,00 para o juiz LLM (apenas 'anthropic' com modelo tabelado e execucao local sao contabilizados).
+2026-11-14 22:13:18,940 INFO     auditframework.terminal: Estágio 1/5 · extraction
+2026-11-14 22:13:18,948 INFO     auditframework.pipeline: Extraidas 34 referencias de answers/Ingles/Claude/Consolidado/escravidao_brasil.md (0 descartadas como artefato do exportador)
+2026-11-14 22:13:18,957 INFO     auditframework.pipeline: Resposta dividida em 104 trechos citados
+2026-11-14 22:13:18,959 INFO     auditframework.terminal: ✓ extraction concluído em 0.0s
+2026-11-14 22:13:18,960 INFO     auditframework.terminal: Estágio 2/5 · ingestion
+2026-11-14 22:13:18,962 INFO     auditframework.ingestion.service: Ingestao: 34 referencias, 0 ja baixadas, 0 ja bloqueadas, 34 pendentes
+2026-11-14 22:13:56,309 INFO     auditframework.ingestion.fetcher: Referencia https://www12.senado.leg.br/noticias/especiais/arquivo-s/marinha-britanica-forcou-brasil-a-acabar-com-trafico-negreiro recuperada imitando o Safari
+2026-11-14 22:13:56,424 INFO     auditframework.ingestion.fetcher: Referencia https://www12.senado.leg.br/noticias/materias/2015/08/31/lei-dos-sexagenarios-completa-130-anos recuperada imitando o Safari
+2026-11-14 22:13:57,274 INFO     auditframework.ingestion.fetcher: Referencia https://www12.senado.leg.br/noticias/especiais/arquivo-s/cem-anos-da-morte-da-princesa-isabel-a-regente-que-reinou-alem-do-machismo recuperada imitando o Safari
+2026-11-14 22:14:20,959 INFO     auditframework.ingestion.fetcher: Referencia https://en.wikipedia.org/wiki/Abolitionism_in_Brazil recuperada imitando o Safari
+2026-11-14 22:14:39,637 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime: Sem copia no Wayback: https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime
+2026-11-14 22:14:39,661 WARNING  auditframework.ingestion.service: Referencia morta: https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime (Referencia nao encontrada (404): https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime)
+2026-11-14 22:15:03,443 INFO     auditframework.ingestion.fetcher: Referencia https://www12.senado.leg.br/noticias/especiais/arquivo-s/na-primeira-eleicao-presidencial-ha-120-anos-brasil-teve-eleitor-de-menos-e-candidato-demais recuperada imitando o Safari
+2026-11-14 22:15:17,623 INFO     auditframework.ingestion.fetcher: Referencia https://www12.senado.leg.br/noticias/materias/2023/11/14/sancionada-ampliacao-da-lei-de-cotas recuperada imitando o Safari
+2026-11-14 22:15:21,550 INFO     auditframework.ingestion.fetcher: Referencia https://en.wikipedia.org/wiki/Italo_Brazilian recuperada imitando o Safari
+2026-11-14 22:15:40,175 INFO     auditframework.ingestion.fetcher: Referencia https://www12.senado.leg.br/noticias/materias/2023/12/22/dia-da-consciencia-negra-se-torna-feriado-nacional recuperada imitando o Safari
+2026-11-14 22:15:40,193 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 34/34 [02:21<00:00,  4.15s/ref]
+2026-11-14 22:15:40,196 INFO     auditframework.pipeline: Ingestao concluida: 33 documentos disponiveis
+2026-11-14 22:15:40,197 INFO     auditframework.terminal: ✓ ingestion concluído em 141.2s
+2026-11-14 22:15:40,198 INFO     auditframework.terminal: Estágio 3/5 · indexing
+2026-11-14 22:15:41,676 INFO     auditframework.terminal: Extraindo chunks de documentos: 100%|██████████| 33/33 [00:01<00:00, 22.65doc/s]
+2026-11-14 22:15:41,676 INFO     auditframework.indexing.service: Gerando embeddings para 711 chunks de 33 documentos
+2026-11-14 22:16:10,269 INFO     auditframework.terminal: Batches: 100%|██████████| 45/45 [00:28<00:00,  1.57it/s]
+2026-11-14 22:16:10,338 INFO     auditframework.pipeline: Indice construido a partir de 33 documentos
+2026-11-14 22:16:10,340 INFO     auditframework.terminal: ✓ indexing concluído em 30.1s
+2026-11-14 22:16:10,341 INFO     auditframework.terminal: Estágio 4/5 · judging
+2026-11-14 22:16:10,365 INFO     auditframework.pipeline: Julgamento: 104 chunks, 0 ja julgados, 0 ja pulados, 104 pendentes
+2026-11-14 22:16:11,292 WARNING  sentence_transformers.util.decorators: The Transformer `cache_dir` argument is deprecated. Please pass `cache_dir` via `model_kwargs`, `processor_kwargs`, and/or `config_kwargs` instead.
+2026-11-14 22:16:11,874 INFO     auditframework.terminal: Recuperando contexto:   0%|          | 0/104 [00:00<?, ?chunk/s]
+2026-11-14 22:16:11,977 INFO     auditframework.terminal: Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]
+2026-11-14 22:16:12,086 INFO     auditframework.terminal: Loading weights:  31%|███       | 122/393 [00:00<00:00, 1211.76it/s]
+2026-11-14 22:16:12,187 INFO     auditframework.terminal: Loading weights:  62%|██████▏   | 244/393 [00:00<00:00, 1153.50it/s]
+2026-11-14 22:16:12,201 INFO     auditframework.terminal: Loading weights: 100%|██████████| 393/393 [00:00<00:00, 1208.94it/s]
+2026-11-14 22:17:38,762 WARNING  auditframework.indexing.retriever: Chunk escravidao_brasil_fa0dd5de0e8e_20261115T021304Z-90 nao sera auditado: Referencia(s) citada(s) ['919d68b52a3d8f2b'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-14 22:17:45,391 INFO     auditframework.terminal: Recuperando contexto: 100%|██████████| 104/104 [01:35<00:00,  1.09chunk/s]
+2026-11-14 22:35:17,633 WARNING  auditframework.pipeline: Chunk escravidao_brasil_fa0dd5de0e8e_20261115T021304Z-90 nao auditado: Referencia(s) citada(s) ['919d68b52a3d8f2b'] nao possui(em) conteudo indexado (nao baixada(s)/inacessivel(is)).
+2026-11-14 22:40:21,958 INFO     auditframework.terminal: Julgando chunks: 100%|██████████| 104/104 [22:36<00:00, 13.04s/chunk]
+2026-11-14 22:40:21,961 INFO     auditframework.terminal: ✓ judging concluído em 1451.6s
+2026-11-14 22:40:21,966 INFO     auditframework.terminal: Estágio 5/5 · reporting
+2026-11-14 22:40:21,973 INFO     auditframework.pipeline: Relatorio gerado em data/runs/escravidao_brasil_fa0dd5de0e8e_20261115T021304Z/report.md
+2026-11-14 22:40:21,975 INFO     auditframework.terminal: ✓ reporting concluído em 0.0s
+2026-11-14 22:40:21,975 INFO     __main__: Run escravidao_brasil_fa0dd5de0e8e_20261115T021304Z concluida
+2026-11-14 22:40:21,976 INFO     auditframework.terminal: Relatorio gerado em data/runs/escravidao_brasil_fa0dd5de0e8e_20261115T021304Z/report.md
+2026-11-17 23:14:47,932 INFO     auditframework.terminal: audit refetch escravidao_brasil_fa0dd5de0e8e_20261115T021304Z
+2026-11-17 23:14:47,935 INFO     auditframework.ingestion.service: Ingestao: 34 referencias, 33 ja baixadas, 0 ja bloqueadas, 1 pendentes
+2026-11-17 23:14:51,187 INFO     auditframework.ingestion.service: Sem copia utilizavel no Wayback para https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime: Sem copia no Wayback: https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime
+2026-11-17 23:14:51,188 WARNING  auditframework.ingestion.service: Referencia morta: https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime (Referencia nao encontrada (404): https://ambulatinbr.substack.com/p/when-capoeira-was-a-crime)
+2026-11-17 23:14:51,190 INFO     auditframework.terminal: Baixando referências: 100%|██████████| 1/1 [00:03<00:00,  3.23s/ref]
+2026-11-17 23:14:51,198 INFO     auditframework.terminal: escravidao_brasil_fa0dd5de0e8e_20261115T021304Z: 1 fonte(s) sem conteudo, 0 recuperada(s)

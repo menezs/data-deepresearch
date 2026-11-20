@@ -1,0 +1,377 @@
+[referencia=c20cbdad998e6a81 score=0.339]
+#### **2.1. A União Europeia como pioneira na legislação de IA** 
+
+A União Europeia (UE) tem se posicionado como precursora global na busca por um quadro jurídico abrangente e harmonizado para a Inteligência Artificial, distinguindo-se por uma abordagem regulatória baseada em riscos. Essa estratégia foi delineada inicialmente em documentos como o Livro Branco sobre Inteligência Artificial de 2020 da Comissão Europeia9, documento político de consulta popular sem caráter vinculante, que delimitou os principais pontos a serem abordados posteriormente pelo Regulamento sobre Inteligência Artificial da União Europeia (AI Act)10.
+
+O Regulamento é uma diretriz de caráter vinculante, aprovado em 2024 e com a aplicação da maioria das suas disposições previstas para 2 de agosto de 2026, que, dentre outras provisões, estabelece a classificação dos sistemas de IA conforme o grau de risco representado em potencial, impondo obrigações proporcionais a cada um. Partindo da premissa de que o “risco” é a “combinação da probabilidade de ocorrência de danos com a gravidade desses danos”, a abordagem europeia segmenta os sistemas de IA. No patamar mais extremo, figuram as práticas de IA proibidas, consideradas inaceitáveis por violarem valores fundamentais.
+
+Contudo, o principal foco regulatório recai sobre os sistemas de IA de alto risco, dada sua capacidade autônoma de interagir com ambientes físicos e, consequentemente, causar danos significativos à saúde, segurança ou direitos fundamentais.
+
+Essa classificação abrange IA que atua como componente de segurança em produtos já regulados (como dispositivos médicos ou veículos autônomos), ou sistemas listados em seu Anexo III que operam em domínios críticos como infraestruturas essenciais e serviços de saúde de emergência.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.246]
+UNIÃO EUROPEIA. Regulamento (UE) 2024/1689 do Parlamento Europeu e do Conselho, de 13 de junho de 2024, que cria regras harmonizadas em matéria de inteligência artificial e que altera os Regulamentos (CE) n.º 300/2008, (UE) n.º 167/2013, (UE) n.º 168/2013, (UE) 2018/858, (UE) 2018/1139 e (UE) 2019/2144 e as Diretivas 2014/90/UE, (UE) 2016/797 e (UE) 2020/1828 (Regulamento da Inteligência Artificial). **Jornal Oficial da União Europeia**, L 2024/1689, 12.7.2024. Disponível em: http://data.europa.eu/eli/reg/2024/1689/oj. Acesso em: 30 jul. 2025.
+
+COMISSÃO EUROPEIA. **Proposta de Diretiva do Parlamento Europeu e do Conselho relativa à adaptação das regras de responsabilidade civil extracontratual à inteligência artificial (Diretiva Responsabilidade da IA)**. Bruxelas, 2022. COM(2022) 496 final. Acesso em: 29 jul. 2025.
+
+COMISSÃO EUROPEIA. **Proposta de Diretiva do Parlamento Europeu e do Conselho relativa à adaptação das regras de responsabilidade civil extracontratual à inteligência artificial (Diretiva Responsabilidade da IA)**. Bruxelas, 2022. COM(2022) 496 final. P. 4. Acesso em: 29 jul. 2025.
+
+KOSINSKI, Matthew. **What Is Black Box AI and How Does It Work?**. [S. l.]. Disponível em: https://www.ibm.com/think/topics/black-box-ai. Acesso em: 31 jul. 2025.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.178]
+COMISSÃO EUROPEIA. **Proposta de Diretiva do Parlamento Europeu e do Conselho relativa à adaptação das regras de responsabilidade civil extracontratual à inteligência artificial (Diretiva Responsabilidade da IA)**. Bruxelas, 2022. Artigo 4º. COM(2022) 496 final. Acesso em: 31 jul. 2025.
+
+COMISSÃO EUROPEIA. **Proposta de Diretiva do Parlamento Europeu e do Conselho relativa à responsabilidade pelos produtos defeituosos (reformulação)**. Bruxelas, 2022. COM(2022) 495 final. Acesso em: 29 jul. 2025.
+
+BRASIL. **Projeto de Lei nº 2.338, de 2023**. Dispõe sobre o desenvolvimento, fomento e o uso ético e responsável da inteligência artificial com base centralidade da pessoa humana. Brasília, DF, 31 de janeiro de 2025. Acesso em: 31 jul. 2025.
+
+MONTEIRO, Laura Schertel Ferreira; ANDRADE, Otávio de Morato; GABRIEL, Fabio. **Regulação da IA: semelhanças e diferenças entre o PL 2.338/2023 e o EU AI Act**. In: **ConJur**. [S. l.], 27 maio 2024. Disponível em: https://www.conjur.com.br/2024-mai-27/regulacao-da-ia-semelhancas-e-diferencas-entre-o-pl-2-338-2023-e-o-eu-ai-act/. Acesso em: 29 jul. 2025.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.167]
+# Responsabilização das plataformas digitais pela violação de direitos autorais
+
+**Autores:** Rafael Fonseca dos Santos e Marcos Wachowicz
+
+O avanço exponencial dos sistemas de inteligência artificial (IA) autônomos introduziu dilemas jurídicos relevantes, sobretudo quanto à responsabilização por danos físicos decorrentes de sua atuação. A autonomia decisória desses sistemas, aliada à opacidade de funcionamento, a chamada *“caixa preta”*, desafia os modelos tradicionais de responsabilidade civil. Este artigo analisa o tema sob duas perspectivas complementares: a *soft law* e a *hard law*. No plano internacional, destacam-se diretrizes da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) e da Organização para a Cooperação e Desenvolvimento Econômico (OCDE), que, embora não vinculantes, estabelecem princípios fundamentais de transparência, aplicabilidade e responsabilização humana. No âmbito da União Europeia, o Regulamento de Inteligência Artificial (AI Act), a Proposta de Diretiva de Responsabilidade por IA e a revisão da Diretiva de Responsabilidade por Produtos apresentam soluções normativas mais concretas, com presunções legais de causalidade e inversão do ônus da prova, conferindo maior previsibilidade às vítimas. No Brasil, o Projeto de Lei n. 2.338/2023 representa o esforço inicial de regulação da IA, aproximando-se do modelo europeu, mas com lacunas quanto à responsabilidade objetiva e maior dependência da interpretação judicial. Conclui-se que a responsabilização por danos físicos de IA autônoma demanda equilíbrio entre inovação tecnológica e proteção de direitos fundamentais, impondo ao Direito a tarefa de adaptação contínua.
+
+**Palavras-chave**: Inteligência Artificial; Sistemas Autônomos; Responsabilidade Civil; Soft Law; Hard Law; Autonomia Tecnológica.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.151]
+A Recomendação incentiva os Estados-membros a fortalecer a capacidade do Poder Judiciário para tomar decisões relacionadas a sistemas de IA, mantendo sempre a supervisão humana5. As Diretrizes da OCDE para empresas estatais reforçam que os mecanismos de governança da IA devem ser inclusivos, transparentes e multidisciplinares, abrangendo antecipação, monitoramento de impacto, execução e reparação. A convergência entre as recomendações internacionais, enquanto *soft law*, revela que o desenvolvimento ético da IA não se limita à criação de sistemas tecnicamente seguros, mas exige a construção de uma infraestrutura de governança que garanta rastreabilidade, auditabilidade e responsabilização em todas as fases do ciclo de vida dos sistemas inteligentes. 
+
+O verdadeiro teste dessa abordagem reside na capacidade de equilibrar a inovação tecnológica com a proteção dos direitos humanos, assegurando que cada decisão automatizada possa ser questionada, compreendida e, quando necessário, revertida por atores humanos devidamente identificados e responsabilizados.
+
+No entanto, a natureza não vinculante das soft laws apresenta um desafio jurídico significativo. A ausência de obrigatoriedade legal significa que a adesão a essas diretrizes é voluntária, dependendo da soberania e da discricionariedade de Estados e entes privados. Consequentemente, não há garantia de que as recomendações da UNESCO ou da OCDE sejam implementadas de forma consistente em nível internacional.
+
+
+#### **HARD LAW: Análise comparada da legislação da UE e o desenvolvimento legislativo no Brasil a respeito da Inteligência Artificial Autônoma**
+
+---
+
+[referencia=8017bf63ce478c77 score=0.147]
+# EU AI Act: Regulation on Artificial Intelligence (EU 2024/1689)
+
+Complete guide to the EU AI Act. Understand AI risk classifications, obligations for providers and deployers, and how Reversa helps organisations achieve compliance.
+
+Last updated: October 26, 2026
+
+Overview
+
+## What is this regulation?
+
+The EU AI Act is the world's first comprehensive legal framework regulating artificial intelligence. Adopted in 2024, it establishes a risk-based approach to AI governance, classifying AI systems into four risk categories: unacceptable risk (banned), high-risk (heavily regulated), limited risk (transparency obligations), and minimal risk (largely unregulated). The regulation applies to providers, deployers, importers, and distributors of AI systems placed on the EU market or whose output is used in the EU. It introduces mandatory requirements for high-risk AI systems including risk management, data governance, technical documentation, transparency, human oversight, and accuracy and robustness standards. The Act also addresses general-purpose AI models, including foundation models and generative AI, with specific obligations for systemic risk models.
+
+## Who does it affect?
+
+Organisations and roles impacted by this regulation
+
+1. AI system providers who develop or commission AI systems for placing on the EU market, regardless of whether they are established in the EU.
+2. Deployers (users) of AI systems within the EU, including businesses and public authorities that use AI systems in their operations.
+3. Providers of general-purpose AI models, including foundation models and large language models, with enhanced obligations for models posing systemic risks.
+4. Importers and distributors of AI systems in the EU market who must ensure compliance before making systems available.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.131]
+Complementarmente a esta estrutura, a União Europeia também propôs a Revisão da Diretiva de Responsabilidade por Produtos (PLD)13, que visa modernizar a responsabilidade do produtor para incluir explicitamente a IA e o software como “produtos”, quando inseridos em produtos ou quando são, por si só, o produto. Essa revisão mantém o regime de responsabilidade objetiva do produtor por produtos defeituosos, facilitando a indenização por danos causados por IA defeituosa, independentemente de culpa.
+
+O conjunto formado pelo AI Act, pela proposta de Diretiva de Responsabilidade por IA e pela revisão da PLD evidencia a estratégia abrangente da União Europeia para suprir lacunas normativas da inteligência artificial, garantindo proteção efetiva às vítimas, segurança jurídica à inovação e consolidando-se como referência regulatória no setor.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.125]
+TESLA revela carro totalmente autônomo projetado para serviço de robô-táxi. In: **UOL Economia**. [S. l.], 11 out. 2024. Disponível em: https://economia.uol.com.br/noticias/estadao-conteudo/2024/10/11/tesla-revela-carro-totalmente-autonomo-projetado-para-servico-de-robo-taxi.htm. Acesso em: 31 jul. 2025.
+
+EXTRA GLOBO. **Acidentes envolvendo carros Tesla em piloto automático já mataram 17 nos EUA**. [S. l.], 2023. Disponível em: https://extra.globo.com/blogs/page-not-found/post/2023/06/acidentes-envolvendo-carros-tesla-em-piloto-automatico-ja-mataram-17-nos-eua.ghtml. Acesso em: 29 jul. 2025.
+
+UNESCO. **Recomendação sobre a Ética da lnteligência Artificial**. Disponível em: <https://www.unesco.org/en/articles/recommendation-ethics-artificial-intelligence>.
+
+OCDE (2024), OCDE Guidelines on Corporate Governance of State-Owned Enterprises 2024, OCDE Publishing, Paris, https://doi.org/10.1787/18a24f43-en.
+
+Soft Law e Direito Privado Estrangeiro: fontes úteis aos juristas. Disponível em: <https://www.migalhas.com.br/coluna/migalhas-de-direito-privado-estrangeiro/380100/soft-law-e-direito-privado-estrangeiro-fontes-uteis-aos-juristas>.
+
+FORREST, Katherine. **The Ethics and Challenges of Legal Personhood for AI**. Página 1175. Disponível em:<https://www.yalelawjournal.org/forum/the-ethics-and-challenges-of-legal-personhood-for-ai>.
+
+COMISSÃO EUROPEIA. **Livro Branco sobre a inteligência artificial: uma abordagem europeia virada para a excelência e a confiança.** Bruxelas, 2020. COM(2020) 65 final. Acesso em: 31 jul. 2025.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.080]
+Para garantir um desenvolvimento e uso ético e seguro da tecnologia, as diretrizes propõem um conjunto de mecanismos organizados em duas dimensões complementares: a primeira focada em tornar os sistemas de IA compreensíveis, e a segunda em estabelecer a devida responsabilização por suas ações e impactos ao longo de todo o ciclo de vida. A primeira dimensão, Transparência e Explicabilidade, é considerada pela Recomendação da UNESCO como um pré-requisito essencial para proteger os direitos humanos e os princípios éticos. As pessoas devem ser plenamente informadas quando decisões são tomadas com base em algoritmos de IA, especialmente se afetarem seus direitos ou segurança, e devem ter a oportunidade de solicitar explicações.
+
+A explicabilidade, no contexto da UNESCO, significa tornar inteligível e fornecer informações sobre o resultado dos sistemas de IA, incluindo a compreensão de suas entradas, saídas e funcionamento. Em situações de sérias ameaças aos direitos humanos, pode até exigir o compartilhamento de códigos ou dados. As Diretrizes da OCDE complementam essa visão ao exigir que empresas estatais observem altos padrões de transparência e integridade, o que implica a divulgação sistemática de informações materiais, como resultados financeiros e operacionais, e a implementação de sistemas de gestão de riscos abrangentes.
+
+A segunda dimensão, Responsabilização Jurídica, é abordada pela UNESCO com a proposta de desenvolver mecanismos adequados de supervisão, avaliação de impacto, auditoria e devida diligência, incluindo proteção de denunciantes, para garantir a responsabilização pelos sistemas de IA ao longo de seu ciclo de vida5. Projetos técnicos e institucionais devem assegurar a rastreabilidade e auditabilidade do funcionamento dos sistemas de IA.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.066]
+Tais sistemas são submetidos a obrigações rigorosas de conformidade, como gestão de riscos, governança de dados e supervisão humana, visando mitigar os perigos inerentes à sua operação autônoma. Abaixo desse nível, os sistemas de risco limitado e risco mínimo possuem menos exigências.
+
+Embora não seja uma lei de responsabilidade *per se*, suas obrigações de conformidade para IA de alto risco (avaliações de risco, governança de dados, supervisão humana) são precursores importantes para a responsabilização.
+
+Faz-se cada vez mais necessária a regulamentação da responsabilidade civil no que tange a operação de IA. Com esse objetivo, também no cenário europeu, surge a Proposta de Diretiva de Responsabilidade por IA (AI Liability Directive – AILD)11, apresentada pela Comissão Europeia em 2022, atualmente em processo de tramitação legislativa.
+
+A Proposta procura assegurar plena proteção às vítimas de danos causados pela IA, além de buscar segurança jurídica para empresas que desenvolvem ou utilizam IA no que diz respeito à sua eventual exposição em matéria de responsabilidade: *“A presente proposta abrange as ações nacionais de indemnização baseadas principalmente na culpa de qualquer pessoa, com vista a indemnizar todo o tipo de danos e todo o tipo de vítimas. Complementam-se mutuamente no intuito de formar um regime de responsabilidade civil global eficaz”* *12**.*
+
+Um conceito determinante para a compreensão da responsabilidade por danos físicos em sistemas de IA autônoma é o da “caixa preta”13: contexto em que o processo de funcionamento de uma IA é estranho aos seus usuários, que têm conhecimento apenas de seus resultados.
+
+---
+
+[referencia=b2ce96fb6edc925d score=0.057]
+# The EU Artificial Intelligence Act
+
+Up-to-date developments and analyses of the EU AI Act
+
+## AI Act Explorer
+
+Browse the full AI Act text online. Search within the Act for parts which are relevant to you.
+
+## Compliance Checker
+
+Discover how the AI Act affects you in 10 minutes by answering some straightforward questions.
+
+## High-Level Summary
+
+Everything you need to know about the AI Act in ten minutes.
+
+## Small Business Guide
+
+Everything you need to know about the AI Act for small and medium-sized enterprises (SMEs) in the EU and beyond.
+
+## Tasks and responsibilities: 2024-25
+
+See an overview and visual timeline of all key tasks for the AI Office (European Commission) and EU Member States as required by the EU AI Act in 2024 and 2025, with references to the sources.
+
+### Let us know what resources you need
+
+**We're looking for 2-minute feedback on the AI Act website, so that we can build the resources most helpful to you.** *We have produced many of the resources on our website in direct response to user feedback, sometimes within just 1-2 weeks.*
+
+This site exists with the aim of providing helpful, objective information about developments related to the EU AI Act. It is used by more than 150k users every month. Thank you in advance for your time and effort – hopefully we can pay it back in tailored, high-quality information addressing your needs.
+
+## What is the EU AI Act?
+
+The AI Act is a European regulation on artificial intelligence (AI) – the first comprehensive regulation on AI by a major regulator anywhere. The Act assigns applications of AI to three risk categories. First, applications and systems that create an **unacceptable risk**, such as government-run social scoring of the type used in China, are banned. Second, **high-risk applications**, such as a CV-scanning tool that ranks job applicants, are subject to specific legal requirements. Lastly, applications not explicitly banned or listed as high-risk are largely left unregulated.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.039]
+#### **SOFT LAW: A responsabilização dos sistemas de Inteligência Artificial autônomos de acordo com as diretrizes internacionais** 
+
+*Soft law* (também chamado de *soft norm*, *droit doux*, direito flexível e direito plástico) consiste em regras não vinculantes adotadas em foros internacionais, como os fornecidos por institutos privados. Apesar de não terem força vinculante, essas regras de *soft law* guiam os negócios privados e as instituições jurídicas locais (especialmente o Parlamento e o Judiciário) para manter um ambiente de harmonização internacional de direitos.
+
+As diretrizes da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO) e da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) são fundamentais para criar um padrão ético e responsável para a Inteligência Artificial. A Recomendação sobre a Ética da Inteligência Artificial da UNESCO e as *Guidelines on Corporate Governance of State-Owned Enterprises 2024* da OCDE são exemplos de *soft laws* que ajudam a estabelecer estruturas robustas para a responsabilização e a prestação de contas em casos de danos provocados por sistemas de IA, propondo mecanismos essenciais que garantem a transparência, a explicabilidade e a responsabilidade jurídica.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.037]
+Uma premissa fundamental que une ambas as organizações é a noção de que, apesar da crescente autonomia dos sistemas de IA, a responsabilidade ética e legal por decisões e ações que resultem em danos deve ser sempre atribuída a entidades humanas, sejam elas pessoas físicas ou jurídicas. A Recomendação da UNESCO sobre a Ética da Inteligência Artificial de 2021 enfatiza que nenhum ser humano ou comunidade deve ser prejudicado, em qualquer dimensão, durante o ciclo de vida dos sistemas de IA. A Recomendação reforça que a responsabilidade e a imputabilidade ética por decisões baseadas em IA devem sempre recair sobre os atores envolvidos no seu ciclo de vida.
+
+A UNESCO rejeita expressamente a ideia de conceder personalidade jurídica à IA, afirmando que tais sistemas não devem ter esse estatuto, uma perspectiva que encontra eco na literatura acadêmica que discute os desafios éticos e legais dessa atribuição.
+
+Em paralelo, as Diretrizes da OCDE sobre a Governança Corporativa de Empresas Estatais, embora focadas especificamente nestas entidades, estipulam que os conselhos de administração devem possuir autoridade e competência para a gestão estratégica e supervisão de riscos, sendo integralmente responsabilizados por suas ações6. A OCDE ainda destaca a importância de uma clara definição da responsabilidade coletiva e individual dos membros do conselho, sem distinções, cujos princípios se aplicam analogamente à necessidade de identificar e responsabilizar autores humanos na cadeia da IA.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.029]
+#### **Introdução** 
+
+Robóticos demais e, aparentemente, desprovidos de consciência¹ para assumir responsabilidades e capacidade postulatória, no entanto, autônomos o suficiente para tomar decisões e exercer comportamentos não calculados: este é o dilema jurídico introduzido pelo desenvolvimento exponencial dos sistemas de inteligência artificial autônomos. Softwares de IA têm ocupado, cada vez mais, o cotidiano humano. Dentre os inúmeros benefícios desse avanço tecnológico, está a “terceirização” de atividades pelos sistemas de Inteligência Artificial Autônomos: sistemas que conseguem aprender, decidir e agir por conta própria, sem intervenção humana direta².
+
+Assim, tarefas corriqueiras, como a condução de veículos autônomos³, o funcionamento de robôs de limpeza domésticos e até mesmo a operação de drones de entrega, que antes dependiam da dedicação humana, agora podem ser feitas por esses sistemas, disponibilizando tempo humano valioso para atividades mais complexas. Apesar da inegável otimização que esses sistemas trazem, a crescente autonomia da IA não está isenta de desafios, especialmente quando um mau funcionamento pode ocorrer em ambientes físicos. Seja por falhas na programação, dados de treinamento incompletos ou mesmo pela imprevisibilidade de interações complexas com o mundo real, a incapacidade de uma IA autônoma em processar corretamente uma situação ou executar uma ação planejada pode levar a danos físicos sérios para os humanos.
+
+A explosão destes sistemas inteligentes deu-se de tal forma que, até o presente momento, o mundo ainda se esforça para acompanhar seu desenvolvimento no que tange a regulação das IA’s. Dessa forma, surge o questionamento: como deve ser feita a responsabilização de incidentes causados por esses sistemas? O Direito está pisando em um terreno instável e, por hora, desconhecido.
+
+---
+
+[referencia=b2ce96fb6edc925d score=0.027]
+## Articles on the AI Act
+
+### AI Therapy under the EU AI Act
+
+This page aims to provide an overview of AI systems, and in particular general-purpose AI (GPAI) systems, used for the purpose of therapy or emotional support under the AI Act. It explores the obligations of providers of these AI systems both on the system as well as...
+
+### The Scientific Panel of Independent Experts: What Is It And How Does It Work?
+
+The scientific panel of independent experts (the Scientific Panel) is a body established under the EU AI Act to support the enforcement of rules on general-purpose AI (GPAI) models and systems. It sits within the Act's broader governance architecture as one of the...
+
+### The Advisory Forum: What Is It And How Does It Work?
+
+The Advisory Forum (the Forum) is a general advisory body to the European Commission and the AI Board, established to provide technical expertise, advise them, and to contribute to their tasks under the EU AI Act. It sits within the Act’s broader governance...
+
+### The EU AI Act’s Transparency Rules: A Practical Guide to Article 50
+
+What providers and deployers must do by August 2026
+
+### Enforcement of Chapter V under the EU AI Act
+
+This page aims to provide an overview of the EU AI Act's enforcement provisions relating to Chapter V, namely the provisions that impose obligations on providers of general-purpose AI (GPAI) models. It also aims to explore the role that other actors can play in the...
+
+### What the EU AI Act Means for Staffing Businesses
+
+If your business uses AI to screen, rank, or match candidates, the EU now regulates those tools as high-risk systems. Here is what changed, what it means for your operating model, and what you should be doing about it.
+
+### Modifying AI Under the EU AI Act: Lessons from Practice on Classification and Compliance
+
+This is a guest post written by legal compliance professionals Øystein Endal, Andrea Vcric, Sidsel Nag, Nick Malter and Daylan Araz (see section about authors at the end), drawing on their experience from running or consulting businesses integrating AI. For any...
+
+### Whistleblowing and the EU AI Act
+
+This page aims to provide an overview of the EU Whistleblowing Directive (2019) and how it relates to the EU AI Act, as well as provide useful resources for potential whistleblowers. This resource was put together by Santeri Koivula, an EU Fellow at the Future of Life...
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.025]
+#### **Reflexões sobre a atribuição de responsabilidade na era da IA:**  
+
+A jornada empreendida neste artigo, do plano ético e voluntário da *soft law* às iniciativas concretas de *hard law* na Europa e no Brasil, revela que o dilema jurídico introduzido pelos sistemas de inteligência artificial autônomos, de “como responsabilizar” por seus danos físicos, ainda não possui uma resposta única e plenamente consolidada. 
+
+Como a análise demonstrou, a autonomia da IA e a complexidade de sua “caixa preta” são os grandes obstáculos à aplicação dos regimes de responsabilidade civil tradicionais, forçando os ordenamentos jurídicos a buscar soluções inovadoras que garantam a proteção às vítimas e a segurança jurídica.
+
+Nesse contexto, a União Europeia, com sua abordagem pioneira e abrangente, apresenta um modelo que busca preencher explicitamente as lacunas legais. Por meio do Regulamento sobre Inteligência Artificial (AI Act) para prevenção e conformidade, e de propostas como a Diretiva de Responsabilidade por IA (AILD) e a revisão da Diretiva de Responsabilidade por Produtos (PLD), a UE avança para um regime que facilita a prova para as vítimas através de presunções legais de causalidade e culpa, transferindo ao demandado o ônus de ilidir essa presunção. Esta abordagem, embora ainda em tramitação, visa a uma maior previsibilidade e uniformidade na reparação de danos, respondendo de forma direta aos desafios da opacidade e da complexidade da IA.
+
+O cenário brasileiro, por sua vez, reflete a influência dessa abordagem, mas com particularidades que moldam um caminho próprio. O PL 2338/2023, ao adaptar a legislação civil existente, oferece avanços importantes, como a manutenção da responsabilidade objetiva em relações de consumo e a previsão de uma inversão do ônus da prova por discricionariedade judicial em casos de hipossuficiência da vítima.
+
+---
+
+[referencia=c20cbdad998e6a81 score=0.024]
+Em face disso, a humanidade busca soluções e regulamentações para organizar a expansão tecnológica de forma global, através de diretrizes como a Recomendação sobre a Ética da Inteligência Artificial da UNESCO e as *Guidelines on Corporate Governance of State-Owned Enterprises 2024* da OCDE. São ferramentas importantes para a padronização internacional das regulamentações a respeito do assunto, no entanto, não possuem caráter vinculante, exercendo apenas uma “função norteadora”. Diante das limitações da soft law, a responsabilização por danos físicos decorrentes de IA autônoma exige análises mais rigorosas. Nesse cenário, o presente artigo examina o dilema jurídico da atribuição de culpa e as iniciativas de normatização voltadas a essa tecnologia.
+
+---
+
+[referencia=b2ce96fb6edc925d score=0.020]
+### Overview of all AI Act National Implementation Plans
+
+This post gives an overview of the national authorities to be designated under the AI Act and what we know about the national implementation plans.
+
+### The AI Act: Responsibilities of the European Commission (AI Office)
+
+If you are unsure who is implementing and enforcing the new digital law and what the specific time frames are, you might find this post—and our post on the responsibilities of the EU Member States—very helpful. The tables below provide a comprehensive list of all...
+
+### The AI Act: Responsibilities of the EU Member States
+
+If you are unsure who is implementing and enforcing the EU AI Act and what the specific time frames are, you might find this post—and our post on the responsibilities of the European Commission (AI Office)—very helpful. The tables below provide you with a...
+
+### An Introduction to the Code of Practice for General-Purpose AI
+
+Last updated: 14 August 2025. As AI Act implementation gradually unfolds, it is important to understand the different mechanisms of enforcement included in the Regulation. One of the most important is the general-purpose AI Code of Practice, which was developed by the...
+
+### Why work at the EU AI Office?
+
+It’s probably not for everyone, but there are a lot of great reasons to consider, including the potential to have an impact on AI governance worldwide, leveraging the first-mover advantage, and more.
+
+### Robust governance for the AI Act: Insights and highlights from Novelli et al. (2024)
+
+In their recent publication on robust European AI governance, Claudio Novelli, Philipp Hacker, Jessica Morley, Jarle Trondal, and Luciano Floridi pursue two main objectives: explaining the governance framework of the AI Act and providing recommendations to ensure its...
+
+### The AI Office is hiring
+
+The European Commission is recruiting contract agents who are AI technology specialists to govern the most cutting-edge AI models. Deadline to apply is 12:00 CET on 27 March (application form). Role This is an opportunity to work in a team within the...
+
+### The AI Office: What is it, and how does it work?
+
+Updated on 31 August 2026. In this overview, we offer a summary of the key elements of the AI Office relevant for those interested in AI governance. We’ve highlighted the responsibilities of the AI Office, its role within the European Commission, its relationship with...
+
+---
+
+[referencia=b2ce96fb6edc925d score=0.019]
+### Overview of Guidelines for GPAI Models
+
+On 18 July 2025, the European Commission published draft Guidelines clarifying key provisions of the EU AI Act applicable to General Purpose AI (GPAI) models. The Guidelines provide interpretive guidance on the definition and scope of GPAI models, related lifecycle...
+
+### Overview of the Code of Practice
+
+The Code of Practice offers a clear framework to help developers of General Purpose AI (GPAI) models meet the requirements of the EU AI Act. While providers can choose to follow the Code, they are also free to demonstrate compliance through other appropriate methods....
+
+### AI Literacy Programs in Europe – Supporting Article 4 of the EU AI Act
+
+As organisations across Europe navigate the implementation of the EU AI Act — including Article 4, which addresses the importance of AI literacy — there is growing interest in accessible and practical training resources. This document presents a non-exhaustive...
+
+### AI Regulatory Sandbox Approaches: EU Member State Overview
+
+AI regulatory sandboxes are an important part of the implementation of the EU AI Act. According to Article 57 of the AI Act, each Member State must establish at least one AI regulatory sandbox at the national level by 2 August 2026. This post provides an overview of...
+
+### Providers of General-Purpose AI Models — What We Know About Who Will Qualify
+
+This content is outdated – Draft guidelines have now been published by the AI Office, which you can learn more about here. On 22 April 2025, the AI Office published preliminary guidelines clarifying the scope of the obligations for providers of GPAI models. These...
+
+### Small Businesses’ Guide to the AI Act
+
+Everything you need to know about the AI Act, for small and medium-sized enterprises (SMEs) in the EU and beyond.
+
+### Job Opportunities at the European AI Office for Legal and Policy Backgrounds
+
+The Commission has opened two calls for expression of interest to recruit new members for the European AI Office. Apply now as Legal or Policy Officer for an opportunity to shape trustworthy AI.The deadline for expression of interest is 15 January 2025. The salary for...
+
+### The AI Office is hiring a Lead Scientific Advisor for AI
+
+This opportunity has now passed. A very important job opening has opened up at the European AI Office: They are hiring for the Lead Scientific Advisor for AI. Application deadline is 13 December 2024. Based on the European Union Employment Advisor, the monthly basic...
+
+---
+
+[referencia=8017bf63ce478c77 score=0.017]
+## Implementation timeline
+
+Key milestones and compliance deadlines
+
+1. Jul 2024 AI Act published in the Official Journal on 12 July 2024; in force since 1 August 2024.
+2. Feb 2025 Prohibitions on unacceptable-risk AI practices become applicable.
+3. Aug 2025 Rules for general-purpose AI models become applicable.
+4. Jul 2026 Digital Omnibus on AI (Regulation (EU) 2026/1744) adopted; it moves the high-risk deadlines.
+5. Aug 2026 General application of the Act, including the transparency rules in Article 50.
+6. Dec 2026 New bans apply on AI that generates non-consensual intimate images or child sexual abuse material.
+7. Dec 2027 High-risk obligations apply to Annex III systems.
+8. Aug 2028 High-risk obligations apply to Annex I products.
+
+## Key facts
+
+Quick reference summary of this regulation
+
+- Official name
+- Regulation (EU) 2024/1689
+- In force since
+- 1 August 2024
+- Application
+- 2 August 2026; high-risk: 2 December 2027 (Annex III) and 2 August 2028 (Annex I)
+- Scope
+- All AI systems placed on or used in the EU market
+- Max penalty
+- €35M or 7% global turnover
+- Enforced by
+- AI Office + national authorities
+
+## How Reversa helps
+
+Tools to meet the obligations of this regulation
+
+Radar
+
+Agents read the official sources for the AI Act (the AI Office, national authorities, standardisation bodies and the Official Journal) and tell you which changes affect you, and why.
+
+Compliance
+
+AI Act obligations extracted from the text for each of your AI systems, by risk class, and carried to controls, owners, deadlines and evidence.
+
+Lawmaking
+
+Amendments, delegated acts, guidelines and harmonised standards followed from draft to adoption, with votes and stakeholders.
+
+Research
+
+Answers to AI Act questions, each one traced to the article and version it relies on.
+
+## Frequently asked questions
+
+## Related regulations
+
+## Prepare for the EU AI Act with Reversa
+
+From risk classification to documentation, meet every AI Act obligation.

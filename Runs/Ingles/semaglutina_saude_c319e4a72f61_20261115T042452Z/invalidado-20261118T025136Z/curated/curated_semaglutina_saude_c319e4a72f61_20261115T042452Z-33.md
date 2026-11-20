@@ -1,0 +1,62 @@
+[referencia=1ab4ad7206ff0270 score=0.996]
+## What did the study show?
+
+The SELECT trial included 8,803 and 8,801 patients who were randomized to receive either 2.4 mg semaglutide or placebo, respectively. About 20% of patients had compromised GFR or higher-than-normal albumin-to-creatinine ratio in urine (UACR) at baseline.
+
+About 83% and 88% of semaglutide and placebo recipients completed the full treatment course, respectively. Data were available for nearly 97% of patients, and the status of surviving/death was known for almost all.
+
+A composite outcome comprising death from kidney disease, being put on dialysis or receiving a kidney transplant, effective GFR (eGFR) below 15 ml/min/1.73 m<sup>2</sup>, chronic reduction of eGFR by 50% or more from baseline, or onset of persistent macroalbuminuria was assessed.
+
+One or more of these outcomes occurred in 1.8% of semaglutide recipients as compared to 2.2% of the placebo group, thus indicating that the risk for this outcome was reduced by 20% in these patients. This risk reduction was mainly due to a reduced onset of macroalbuminuria and fewer patients with a 50% or more reduction in eGFR.
+
+Two years from baseline, the decline in eGFR was reduced by 0.75 mL/min/1.73 m<sup>2</sup> in semaglutide recipients compared to the placebo group. In the subgroup of patients with eGFR of 60 mL/min/1.73 m<sup>2</sup> or less at baseline, eGFR rose in both arms, but 2.2 mL/min/1.73 m<sup>2</sup> more with semaglutide treatment.
+
+Comparatively, patients with mildly low eGFR at baseline, which was defined as 60 mL/min/1.73/m<sup>2</sup> or more, exhibited reduced eGFR during the study period with a difference of 0.57 mL/min/1.73/m<sup>2</sup> favoring semaglutide recipients.
+
+---
+
+[referencia=1ab4ad7206ff0270 score=0.918]
+The overall reduction in eGFR in the semaglutide cohort was higher by 0.4 ml/min/1.73/m<sup>2</sup> compared to placebo. Compared with established trial results, this indicates a high probability that patients will benefit from the delayed onset of end-stage renal disease (ESRD), reduced risk of eGFR of 15 mL/min/1.73 m<sup>2</sup> or less, or doubling of serum creatinine values.
+
+
+During the first 20 weeks of the trial, eGFR declined in both groups but to a greater extent in the semaglutide group. The lowest point was at eight weeks, with the slope over the first 16 weeks being -1.33 mL/min/1.73/m<sup>2</sup> greater in the semaglutide group. By week 20, both groups reached similar eGFR values.
+
+After 20 weeks, semaglutide recipients exhibited a reduction in the slope of eGFR by 0.3 ml/min/1.73/m2 each year as compared to placebo recipients. The rise in UACR during the study period was also less steep, with a difference of 11% in the semaglutide group as compared to placebo recipients.
+
+Adverse events were increased in semaglutide recipients, most of which affected the gastrointestinal tract. The worse the kidney function at baseline, the more likely the patient was to discontinue the drug due to these adverse effects.
+
+---
+
+[referencia=1ab4ad7206ff0270 score=0.823]
+## Conclusions
+
+Weekly semaglutide treatment in overweight or obese individuals was associated with a 22% reduction in adverse kidney outcomes expressed as a composite endpoint. The main contributors to this effect were a reduced frequency of macroalbuminuria and a lower risk of onset of reduced eGFR by 50% or more.
+
+While eGFR rose in both treatment groups for patients with low baseline values, the more significant benefit associated with semaglutide treatment could be due to preventing the decline of eGFR levels or inducing an increase in eGFR levels.
+
+*These data from individuals with overweight or obesity and high cardiovascular risk constitute the first evidence to suggest that GLP-1RAs, and, specifically, semaglutide, could have beneficial effects on the kidney in the absence of diabetes*.”
+
+
+The mechanism of action has been suggested to involve indirect effects from the loss of body weight leading to reductions in blood sugar levels and blood pressure and direct effects on kidney blood flow, inflammation, and oxidative damage. Further research is required to elucidate the pathways through which GLP-1RAs achieve their effectiveness.
+
+
+Journal reference:
+
+- Colhoun, H. M., Lingway, I., Brown, P. M., *et al.* (2024). Long-term kidney outcomes of semaglutide in obesity and cardiovascular disease in the SELECT trial.*Nature Medicine* . doi:10.1038/s41591-024-03015-5.
+
+---
+
+[referencia=1ab4ad7206ff0270 score=0.059]
+The use of semaglutide for non-diabetic obese patients with cardiovascular disease was first reported to be associated with significant benefit in the SELECT trial, where major adverse cardiovascular events (MACE) were reduced by 20% in semaglutide recipients as compared to those on placebo. However, this trial was not analyzed for evidence of benefit for kidney function.
+
+ *Study: Long-term kidney outcomes of semaglutide in obesity and cardiovascular disease in the SELECT trial. Image Credit: Caroline Ruda / Shutterstock.com*
+
+## Obesity and renal function
+
+Obesity increases the risk for altered kidney function, including reduced glomerular filtration rate (GFR) and increased albuminuria. As a result, body mass index (BMI) has been incorporated into the chronic kidney disease (CKD) Prognosis Consortium risk equation for kidney failure.  
+
+Some potential mechanisms involved in this association include an excessively high filtration rate, low-grade inflammation, focal segmental glomerulosclerosis, increased tubular reabsorption of sodium, which causes tubular damage and oxidative damage, and increased activity of the renin-angiotensin-aldosterone system, which causes vasoconstriction and increased blood pressure.
+
+Moreover, in obese individuals, fat often accumulates in abnormal locations, including in the kidney sinuses. Therefore, weight reduction is vital to therapy for CKD in obesity.
+
+Semaglutide is a glucagon-like peptide-1 (GLP-1) receptor agonist (GLP-1RA) that can potentially protect the kidneys from the harmful effects of obesity at the transcriptional level.

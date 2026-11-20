@@ -1,0 +1,331 @@
+[referencia=887da5f02141c29f score=0.972]
+### 3.2.4 Results 
+
+The scores achieved by each of the architectures we compare are shown in Table 2. For all tasks, the encoder-decoder architecture with the denoising objective performed best. This variant has the highest parameter count (2 _P_ ) but the same computational cost as the _P_ -parameter decoder-only models. Surprisingly, we found that sharing parameters across the encoder and decoder performed nearly as well. In contrast, halving the number of layers in 
+
+19 
+
+Raffel, Shazeer, Roberts, Lee, Narang, Matena, Zhou, Li and Liu
+
+---
+
+[referencia=887da5f02141c29f score=0.861]
+To provide a reasonable means of comparison, we consider multiple configurations for our encoder-decoder model. We will refer to the number of layers and parameters in a BERTBASE-sized layer stack as _L_ and _P_ , respectively. We will use _M_ to refer to the number of FLOPs required for an _L_ + _L_ -layer encoder-decoder model or _L_ -layer decoder-only model to process a given input-target pair. In total, we will compare: 
+
+- An encoder-decoder model with _L_ layers in the encoder and _L_ layers in the decoder. This model has 2 _P_ parameters and a computation cost of _M_ FLOPs. 
+
+- An equivalent model, but with parameters shared across the encoder and decoder, resulting in _P_ parameters and an _M_ -FLOP computational cost. 
+
+- An encoder-decoder model with _L/_ 2 layers each in the encoder and decoder, giving _P_ parameters and an _M/_ 2-FLOP cost. 
+
+- A decoder-only language model with _L_ layers and _P_ parameters and a resulting computational cost of _M_ FLOPs. 
+
+- A decoder-only prefix LM with the same architecture (and thus the same number of parameters and computational cost), but with fully-visible self-attention over the input.
+
+---
+
+[referencia=25676193afe5f7ab score=0.798]
+### 2 CURRENT APPROACHES DO NOT EXTRAPOLATE EFFICIENTLY 
+
+We show for the first time that the sinusoidal position method, which technically should be able to extrapolate, in practice has very limited extrapolation capabilities. Though the rotary position method improves over the sinusoidal one, it still does not achieve satisfying results. Holding everything else constant, we are the first to observe that the T5 bias method leads to better extrapolation than either of these, and so we conclude that extrapolation ability depends heavily on the position embedding. Unfortunately, the T5 bias is computationally costly (Figure 2).
+
+---
+
+[referencia=887da5f02141c29f score=0.798]
+### 3.2.2 Comparing Different Model Structures 
+
+In the interest of experimentally comparing these architectural variants, we would like each model we consider to be equivalent in some meaningful way. We might say that two models are equivalent if they either have the same number of parameters or they require roughly the same amount of computation to process a given (input-sequence, target-sequence) pair. Unfortunately, it is not possible to compare an encoder-decoder model to a language model architecture (comprising a single Transformer stack) according to both of these criteria at the same time. To see why, first note an encoder-decoder model with _L_ layers in the encoder and _L_ layers in the decoder has approximately the same number of parameters as a language model with 2 _L_ layers. However, the same _L_ + _L_ encoder-decoder model will have approximately the same computational cost as a language model with _only L_ layers. This is a consequence of the fact that the _L_ layers in the language model must be applied to _both_ the input and output sequence, while the encoder is only applied to the input sequence and the decoder is only applied to the output sequence. Note that these equivalences are approximate—there are some extra parameters in the decoder due to the encoder-decoder attention and there are also some computational costs in the attention layers that are quadratic in the sequence lengths. In practice, however, we observed nearly identical step 
+
+18 
+
+Exploring the Limits of Transfer Learning 
+
+times for _L_ -layer language models versus _L_ + _L_ -layer encoder-decoder models, suggesting a roughly equivalent computational cost. Further, for the model sizes we consider, the number of parameters in the encoder-decoder attention layers is about 10% of the total parameter count, so we make the simplifying assumption that an _L_ + _L_ -layer encoder-decoder model has the same number of parameters as an 2 _L_ -layer language model.
+
+---
+
+[referencia=25676193afe5f7ab score=0.778]
+> 2Figure 7 in the appendix plots training speed, in words per second, against _L_ . 
+
+1 
+
+Published as a conference paper at ICLR 2022 
+
+
+
+<!-- Start of picture text -->
+Extrapolation for Extrapolation for<br>Models Trained on 512 Tokens Models Trained on 1024 Tokens<br>55 55<br>Sinusoidal<br>Rotary<br>45 45<br>Sinusoidal T5 Bias<br>Rotary ALiBi<br>35 35<br>T5 Bias<br>ALiBi<br>25 25<br>15 15<br>512 4000 8000 12000 16000 1024 4000 8000 12000 16000<br>Inference Input Tokens Inference Input Tokens<br>) )<br>Perplexity ( Perplexity (<br><!-- End of picture text -->
+
+Figure 1: Extrapolation: as the (validation-set’s) input sequence gets longer ( _x_ -axis), current position methods (sinusoidal, rotary, and T5) show degraded perplexity ( _y_ -axis, lower is better), but our method (§3) does not. Models were trained on WikiText-103 with sequences of _L_ = 512 (left) or _L_ = 1,024 (right) tokens. T5 ran out of memory on our 32GB GPU. For more detail on exact perplexities and runtimes, see Tables 2 and 3 in the appendix. 
+
+Compared to a sinusoidal model trained on the same input length, our method requires no additional runtime or parameters and incurs a negligible (0–0.7%) memory increase. ALiBi can be implemented by changing only a few lines of existing transformer code. 
+
+Using ALiBi, a transformer LM can be trained on short- _L_ sequences and therefore at much lower cost, and it can still be reliably applied to long sequences at runtime. For example, a 1.3 billion parameter LM trained on _L_ = 1024 tokens with ALiBi achieves the same perplexity as a sinusoidal model trained on _L_ = 2048 when both are tested on sequences of 2048 tokens, even though _our model is 11% faster and uses 11% less memory._
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.775]
+**The critical warm-up stage for Post-LN Transformer** Given the analysis above, we hypothesize that the gradient scale is one of the reasons that the Post-LN Transformer needs a careful learning rate scheduling. Since the gradients are large for some layers, using a large learning rate without warm-up may make the training unstable. 
+
+To verify this argument, first, we study the gradient statistics for the Post-LN Transformer after the warm-up stage with Adam. It can be seen from Figure 3(a) and 3(b) that the scale 
+
+**On Layer Normalization in the Transformer Architecture** 
+
+
+
+<!-- Start of picture text -->
+2.0<br>1.0 Pre-LN (init)Post-LN (init) 1.5 PrePost-LN (init)-LN (init) 0.4 Pre-LN 1.5<br>Post-LN (after warm-up) Post-LN (after warm-up)<br>1.0<br>1.0<br>0.5 0.2<br>0.5 0.5<br>Post-LN<br>0.0 0.0 0.0 0.0<br>1 2 3 4 5 6 1 2 3 4 5 6 6 8 10 12 14 6 8 10 12 14<br>Layer Layer #Layer #Layer<br>(a) W 1 in the FFN sub-layers (b) W 2 in the FFN sub-layers (c) Pre-LN Transformer (d) Post-LN Transformer<br>Gradient Expectation Gradient Expectation Gradient Expectation Gradient Expectation<br><!-- End of picture text -->
+
+_Figure 3._ The norm of gradients of 1. different layers in the 6-6 Transformer (a,b). 2. _W_<sup>2</sup><sup>_,L_</sup> in different size of the Transformer (c,d).
+
+---
+
+[referencia=25676193afe5f7ab score=0.764]
+Figure 6: The ALiBi and sinusoidal models (with both _L_ = 512 and 1024) trained for 50k updates (1 epoch) on the CC100+RoBERTa corpus, extrapolating on the validation set. ALiBi achieves the best results at around 2 _L_ but maintains strong performance even up to 10000 tokens in these experiments. 
+
+Figure 6 shows that our models trained on _L_ = 512 and _L_ = 1024 achieve the best results when extrapolating to about double the tokens that they were trained on. Specifically, the _L_ = 512 model (that obtains 9.79 perplexity when _Lvalid_ = 512) achieves its best score (9.3) when extrapolating to 
+
+8 
+
+Published as a conference paper at ICLR 2022 
+
+1012 tokens, and the _L_ = 1024 model (that obtains 9.16 perplexity when _Lvalid_ = 1024) achieves its best score (8.9) when extrapolating to 2024 tokens. 
+
+One possible explanation is that the subsequences the model observes during training are up to _L_ tokens long. When performing inference on subsequences of length 2 _L_ , half of the subsequences the model consumes are as long as the examples seen during training. When inference is performed on subsequences of length 2 _L_ + 1 or longer, less than half of the predictions the model makes are on subsequences of lengths seen during training, and that might degrade performance. 
+
+The sinusoidal model cannot extrapolate at all in this setting, with its performance degrading for both the _L_ = 512 and 1024 models as soon as one token more than _L_ is added during evaluation. 
+
+In Appendix B, we find that ALiBi’s edge over sinusoidal embeddings is largely explained by its improved avoidance of the early token curse. We posit that future work building on ALiBi might achieve further gains by more efficiently exploiting longer histories.
+
+---
+
+[referencia=25676193afe5f7ab score=0.760]
+Additionally, Table 5 (in the appendix) also shows that, for _L_ s of 1024 and 3072, our method performs better than the rotary and T5 bias models even when _Lvalid_ = _L_ (i.e., no extrapolation is occurring). Figure 1 (and the corresponding Appendix Tables 2 and 3) more broadly explore our method vs. the other position methods. They show that the T5 bias (the best of the baselines) improves perplexity until _Lvalid_ is around 2 _L_ , but on the WikiText-103 dataset our method continually improves perplexity until at least around 3 _L_ , with the _L_ = 512 model improving perplexity even when _Lvalid_ exceeds 12k tokens. Even when unable to improve perplexity given longer sequences, ALiBi always maintains strong performance as more tokens are added. 
+
+Appendix Table 6 shows that our results on the validation set also transfer to the test set of WikiText103. Currently, almost all models that present results on WikiText-103 use sliding window evaluation (defined in §B) to compute perplexities. We apply that method to our (and to the sinusoidal, rotary and T5 bias) models in Appendix Table 7. We find that our L = 3072 model surpasses the performance of Transformer-XL (Dai et al., 2019), the Sandwich (Press et al., 2020), and Shortformer (Press et al., 2021) models. Our results are similar to the ones obtained with staged training (Press et al., 2021) but fall short of results obtained by Routing Transformer (Roy et al., 2020) and kNN-LM (Khandelwal et al., 2020). The methods used in those models are orthogonal to ours, and we hypothesize that combining them with ours might lead to even larger performance increases. 
+
+After developing our method on WikiText-103, in Appendix Section A.3, we run one set of experiments on a different domain (books) using a similar model architecture and without modifying any of the ALiBi hyperparameters (the slopes) and show that our results fully transfer to this new domain. Our models are able to both surpass the sinusoidal baseline when not extrapolating while also outperforming it when extrapolating to longer sequences.
+
+---
+
+[referencia=25676193afe5f7ab score=0.669]
+In Figure 5 (right), results become even more impressive, showing that our model trained on _L_ = 1024 outperforms by 0.09 perplexity the sinusoidal model trained on _L_ = 2048 (when evaluating with _Lvalid_ = 2048) even though our model uses 3.1 GB less memory. Our model maintains a lead in perplexity over the sinusoidal model during the entire training process. By sampling five evenly distributed points across the training process, we compute that our _L_ = 1024 model reaches a given perplexity value, on average, 11% faster than the sinusoidal model does. 
+
+Since our models in these comparisons use much less memory, they allow for stacking more layers, which would further improve performance (with negligible, if any, runtime cost). To keep our experiments as straightforward as possible, however, we do not add layers to our models. 
+
+Appendix Table 12 presents additional results comparing our models to the sinusoidal baseline when both are trained on the same _L_ , showing that ALiBi performs similarly to the sinusoidal baseline when not extrapolating. This contrasts with the results presented on the smaller datasets, where ALiBi consistently outperforms other position methods even when not extrapolating, suggesting that ALiBi’s inductive bias provides additional benefits for lower-resource language modeling. 
+
+
+
+<!-- Start of picture text -->
+Extrapolation, L = 512 Extrapolation, L = 1024<br>on CC100+RoBERTa on CC100+RoBERTa<br>10.2 10.2<br>Sinusoidal<br>9.8 9.8 ALiBi<br>9.4 9.4<br>9.0 Sinusoidal 9.0<br>ALiBi<br>8.6 8.6<br>512 2500 5000 7500 10000 1024 2500 5000 7500 10000<br>Validation Input Length (Lvalid) Validation Input Length (Lvalid)<br>) )<br>Perplexity ( Perplexity (<br><!-- End of picture text -->
+
+---
+
+[referencia=25676193afe5f7ab score=0.656]
+### 1 INTRODUCTION 
+
+When constructing a transformer-based language model, a major design decision is the length of training sequences, denoted _L_ herein, which has to date been equivalent to the length of inference sequences. More context, achieved by larger _L_ , improves predictions at inference time. But longer sequences are more expensive to train on.<sup>2</sup> 
+
+Before transformers, RNN language models were trained on shorter- _L_ sequences and assumed to generalize to longer contexts at inference time (Mikolov et al., 2010; Mikolov & Zweig, 2012; Zaremba et al., 2014). Vaswani et al. (2017), introducing the transformer, speculated that it “may [...] extrapolate to sequence lengths longer than the ones encountered during training.” We define _extrapolation_ as a model’s ability to continue performing well as the number of input tokens during validation increases beyond the number of tokens on which the the model was trained. We find that transformer language models (LMs) that use sinusoidal position embeddings have very weak extrapolation abilities; see Figure 1. 
+
+We demonstrate that this failure to extrapolate is caused by the position embedding method. As shown in Figure 1, recent alternatives to the original sinusoidal position method (Su et al., 2021; Raffel et al., 2020) have improved extrapolation. However, the better of these, the T5 bias, is considerably slower than the sinusoidal approach and uses extra memory and parameters (Figure 2). 
+
+We therefore introduce Attention with Linear Biases (ALiBi) to facilitate efficient extrapolation. ALiBi negatively biases attention scores with a linearly decreasing penalty proportional to the distance between the relevant key and query. Our simple approach eliminates position embeddings. 
+
+> 1Code & models: https://github.com/ofirpress/attention_with_linear_biases 
+
+> 2Figure 7 in the appendix plots training speed, in words per second, against _L_ . 
+
+1 
+
+Published as a conference paper at ICLR 2022 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=887da5f02141c29f score=0.621]
+40 
+
+Exploring the Limits of Transfer Learning 
+
+Model GLUE CNNDM SQuAD SGLUE EnDe EnFr EnRo ⋆ Baseline 83 _._ 28 19 _._ 24 80 _._ 88 71 _._ 36 26 _._ 98 39 _._ 82 27 _._ 65 Baseline-1T 84 _._ 80 19 _._ 62 83 _._ 01 73 _._ 90 27 _._ 46 40 _._ 30 28 _._ 34 T5-Base **85** _._ **97 20** _._ **90 85** _._ **44 75** _._ **64 28** _._ **37 41** _._ **37 28** _._ **98** 
+
+Table 15: Performance comparison of T5-Base to our baseline experimental setup used in the rest of the paper. Results are reported on the validation set. “Baseline-1T” refers to the performance achieved by pre-training the baseline model on 1 trillion tokens (the same number used for the T5 model variants) instead of 2<sup>35</sup> _≈_ 34B tokens (as was used for the baseline). 
+
+
+
+<!-- Start of picture text -->
+“non-scaling” changes we made when designing T5. As such, comparing the performance of<br>these two models gives us a concrete measurement of the impact of the insights from our<br>systematic study.<br>The performance of these three model configurations is shown in Table 15. Consistent<br>with the findings in Section 3.6, we find that additional pre-training improves performance<br>over the baseline. Nevertheless, T5-Base substantially outperforms baseline-1T on all<br>downstream tasks. This suggests that scale is not the only factor that contributes to T5’s<br>success. We hypothesize that the larger models benefit not only from their increased size<br>but also from these non-scaling factors.<br>4. Reflection<br>Having completed our systematic study, we wrap up by first recapping some of our most<br>significant findings. Our results provide some high-level perspective on which avenues of<br>research might be more or less promising. To conclude, we outline some topics we think<br>might provide effective approaches for further progressing the field.<br><!-- End of picture text -->
+
+---
+
+[referencia=25676193afe5f7ab score=0.617]
+**T5 Bias** Though most models use trained or sinusoidal position embeddings, the T5 model of Raffel et al. (2020) uses a relative position method (Shaw et al., 2018; Huang et al., 2019) that adds no position information to word embeddings (as in the previous method). Instead, it modifies the way attention values are computed. We refer to this as the “T5 bias” method.<sup>6</sup> To compute attention values in the unmodified transformer, we compute the dot product of every query with every relevant key and then softmax these attention values. In this method, we compute the attention values as before, but then we add a learned, shared bias to each query-key score that is dependent on just the distance between the query and key. Therefore, all query-key scores where the query and key distance are zero (i.e., the query and key represent the same token) get a specific learned bias, all scores where the query and key are one word away get a different learned bias, and so on, up to a certain point, from where multiple different distances share the same learned bias (which might be beneficial for extrapolation). As in the rotary method, the T5 bias injects position information into the model at every layer and integrates no explicit position information into the self-attention value vectors. 
+
+Raffel et al. (2020) propose that the T5 bias may allow extrapolation, but they did not report experiments testing this. Here, we show that the T5 bias does allow language models to extrapolate. We do this by again modifying the Baevski & Auli model, this time to insert the T5 bias into it.<sup>7</sup>
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.598]
+## **3.2. The learning rate warm-up stage** 
+
+We are interested in the _learning rate warm-up_ stage in the optimization of the Post-LN Transformer. Different from the optimization of many other architectures in which the learning rate starts from a relatively large value and then decays (Bahdanau et al., 2017; Dauphin et al., 2017), a learning rate warm-up stage for the Post-LN Transformer seems **critical** (Popel & Bojar, 2018). We denote the learning rate of the _t_ -th iteration as lr( _t_ ) and the maximum learning rate during training as lr _max_ . Given a predefined time frame _T_ warmup, the learning rate scheduler for the first _T_ warmup iterations (Vaswani et al., 2018) is defined as 
+
+
+
+After this warm-up stage, the learning rate will be set by classical learning rate schedulers, such as the linear decay, the inverse square-root decay, or forced decay at particular iterations. We conduct experiments to show that this learning rate warm-up stage is essential for training Post-LN Transformer models. 
+
+**Experimental setting** We conduct experiments on the IWSLT14 German-to-English (De-En) machine translation 
+
+**On Layer Normalization in the Transformer Architecture** 
+
+_Table 1._ Post-LN Transformer v.s. Pre-LN Transformer
+
+---
+
+[referencia=887da5f02141c29f score=0.581]
+|Language model|LM|_P_|_M_|73_._78|17_._54|53_._81|56_._51|25_._23|34_._31|25_._38|
+|Prefx LM|LM|_P_|_M_|79_._68|17_._84|76_._87|64_._86|26_._28|37_._51|26_._76|
+
+
+
+Table 2: Performance of the different architectural variants described in Section 3.2.2. We use _P_ to refer to the number of parameters in a 12-layer base Transformer layer stack and _M_ to refer to the FLOPs required to process a sequence using the encoderdecoder model. We evaluate each architectural variant using a denoising objective (described in Section 3.1.4) and an autoregressive objective (as is commonly used to train language models). 
+
+the encoder and decoder stacks significantly hurt performance. Concurrent work (Lan et al., 2019) also found that sharing parameters across Transformer blocks can be an effective means of lowering the total parameter count without sacrificing much performance. XLNet also bears some resemblance to the shared encoder-decoder approach with a denoising objective (Yang et al., 2019). We also note that the shared parameter encoder-decoder outperforms the decoder-only prefix LM, suggesting that the addition of an explicit encoder-decoder attention is beneficial. Finally, we confirm the widely-held conception that using a denoising objective always results in better downstream task performance compared to a language modeling objective. This observation has been previously made by Devlin et al. (2018), Voita et al. (2019), and Lample and Conneau (2019) among others. We undertake a more detailed exploration of unsupervised objectives in the following section.
+
+---
+
+[referencia=25676193afe5f7ab score=0.502]
+#### 2.1 BACKGROUND AND EXPERIMENTAL SETUP 
+
+A transformer LM receives a list of tokens and outputs a probability distribution representing its prediction for the next token. We call the input list the _current input subsequence_ since the inputs to language models are typically subsequences from (much longer) training or evaluation sequences. During both training and perplexity evaluation (i.e., scoring a fixed sequence), many predictions can be calculated at once; this is done using a “causal mask” that ensures each position’s prediction is influenced only by tokens to its left. Let _L_ be the length of each input subsequence during training; it includes _L_ predictions, which on average have access to<sup>_<u>L</u>_</sup><sup><u>+1</u></sup> 2 tokens of (left) context. To explore a model’s extrapolation abilities, we are interested in cases where sequences of length _Lvalid > L_ are considered at evaluation time. When _L_ differs between inference and training, we use _L_ to refer to the length of subsequences during training and _Lvalid_ to refer to their length at validation. 
+
+2 
+
+Published as a conference paper at ICLR 2022 
+
+
+
+<!-- Start of picture text -->
+30k Training Speed 100k Inference Speed 30 Training Memory<br>Sinusoidal<br>20k 75k 20 Rotary<br>50k<br>10k 25k 10 T5 Bias<br>ALiBi<br>0 512 1024 3072 0k 512 1024 3072 0 512 1024 3072<br>Input Length Input Length Input Length<br>) ) )<br>WPS ( WPS ( GB (<br><!-- End of picture text -->
+
+Figure 2: A comparison of batched training, inference speed and memory use of the sinusoidal, rotary, T5 bias, and our ALiBi position methods. The speed differences between our method and the sinusoidal are within 1% during training and 3% for inference, which is insignificant on our hardware. ALiBi uses 100MB of extra memory when training on input lengths 1024 and 3072 in this setting. Memory usage is lower in all approaches when training on 3072 tokens (compared to 1024) since we break batches into multiple updates. See Table 1 in the appendix for exact numbers.
+
+---
+
+[referencia=11ae39b661d58ec6 score=0.497]
+# **2. Related work** 
+
+Gradient descent-based methods (Kingma & Ba, 2014; Zeiler, 2012; Duchi et al., 2011; Tieleman & Hinton, 2012) are popularly used in optimizing deep neural networks. For convolutional neural networks and recurrent neural networks, a relatively large learning rate is usually set in the beginning, and then decreased along with the optimization process (He et al., 2016; 2017; Sutskever et al., 2014; Gehring et al., 2017; He et al., 2019). The learning rate warm-up stage has only been shown essential in dealing with some very specific problems, e.g., the large-batch training. Goyal et al. (2017); He et al. (2019); You et al. (2018) showed that a learning rate warm-up stage is preferred when training neural networks with extremely large batch sizes. 
+
+However, the learning rate warm-up stage is essential and critical when optimizing the Transformer models in a majority of scenarios (Vaswani et al., 2017; Devlin et al., 2018; Dai et al., 2019; Radford et al., 2019; Lu et al., 2019). Popel & Bojar (2018) investigated the influence of different warmup strategies for the optimization of the Post-LN Transformer model and found that without or with relatively less warm-up iterations, the optimization diverges. The PreLN Transformer has been proposed in several recent works (Baevski & Auli, 2018; Child et al., 2019; Wang et al., 2019) to alleviate some optimization issues when training deeper models, but the troublesome warm-up stage still remains in their training pipelines.
+
+---
+
+[referencia=25676193afe5f7ab score=0.492]
+Table 5: Perplexity when ALiBi extrapolates on the WikiText-103 development set.<sup>_∗_</sup> For results we present for the sinusoidal, rotary and T5 bias models, _L_ = _Lvalid_ (so we do not test the extrapolation abilities of those baselines here). 
+
+|ALiBi|||E|valuation|Length||||
+|---|---|---|---|---|---|---|---|---|
+|Train Length|64|128|256|512|1024|1536|2048|3072|
+|64|28.46|24.70|22.88|22.09|21.73|21.63|21.59|21.53|
+|128|-|23.98|21.70|20.67|20.36|20.29|20.31|20.28|
+|256|-|-|**21.29**|19.89|19.29|19.13|19.10|19.03|
+|512|-|-|-|19.73|18.81|18.50|18.48|18.40|
+|1024|-|-|-|-|**18.66**|18.20|18.05|17.96|
+|1536|-|-|-|-|-|**18.12**|17.90|17.72|
+|2048|-|-|-|-|-|-|**17.91**|17.64|
+|3072|-|-|-|-|-|-|-|**17.60**|
+|Sinusoidal<sup>_∗_</sup>|**28.03**|**23.81**|21.45|20.05|19.34|19.05|18.87|18.67|
+|Rotary<sup>_∗_</sup>|-|-|-|20.07|19.33|-|-|18.57|
+|T5 Bias<sup>_∗_</sup>|-|-|-|**19.65**|18.80|-|-|18.01|
+
+
+
+Table 6 compares ALiBi to the sinusoidal, rotary and T5 bias baselines on the test set of WikiText103, and Table 7 compares ALiBi to the current state of the art models on that test set. 
+
+19
+
+---
+
+[referencia=25676193afe5f7ab score=0.468]
+Figure 9: ALiBi-enabled models evaluated on different input lengths on the Toronto BookCorpus. Our models extrapolate to longer sequence lengths and outperform the sinusoidal baseline even when trained on much shorter sequences. 
+
+addition, our model is able to extrapolate to longer sequences at inference. This occurs even though our set of slopes was _not_ tuned on this dataset. This result establishes the generality of ALiBi and the particular set of slopes we found and suggests that they may be used on different text domains without further hyperparameter tuning. 
+
+Tables 9 and 10 present the perplexities for our ALiBi models, the baselines, and the current state of the art on the Toronto BookCorpus validation and test sets. Our results here mirror our results on WikiText-103: we improve over the sinusoidal baseline even when AliBi is trained on fewer tokens. 
+
+Table 8: ALiBi models extrapolating on the Toronto BookCorpus development set.<sup>_∗_</sup> For the results of the sinusoidal models, _L_ = _Lvalid_ (so we do not test the extrapolation abilities of those models here). 
+
+||Evalu|ation Le|ngth|
+|---|---|---|---|
+|Train Length|512|1024|3072|
+|512|14.29|13.64|13.55|
+|1024|-|13.86|13.52|
+|3072|-|-|13.15|
+|Sinusoidal<sup>_∗_</sup>|14.80|14.73|14.46|
+
+
+
+Table 9: Validation and test perplexities on the Toronto Book Corpus dataset. 
+
+|Model|Param. _↓_|Valid_↓_|Test_↓_|
+|---|---|---|---|
+|Sinusoidal, L = 3072|**247M**|14.46|11.67|
+|iBi<br>_Ltrain_= 512,_Lvalid_ = 3072|**247M**|13.55|10.98|
+|AL<br>_Ltrain_= 3072,_Lvalid_= 3072|**247M**|**13.15**|**10.73**|
+
+---
+
+[referencia=25676193afe5f7ab score=0.458]
+As Figure 1 shows, the T5 bias improves perplexity with longer sequences than the ones it was trained on, i.e., _k_ = 600 ( _k_ = 800) extra tokens for a model trained on _L_ = 512 ( _L_ = 1024) input tokens. Unfortunately, this impressive performance comes at a cost: training is at least twice as slow as with the sinusoidal model. Therefore, this model’s extrapolation ability provides no efficiency advantage. For example, to do inference on 1024 tokens, we could either train the sinusoidal model with _L_ = 1024 or train the T5 bias model on _L_ = 512 tokens and extrapolate to 1024 for inference. However, the _L_ = 1024 sinusoidal model runs at 28.5k words per second (WPS), while the _L_ = 512 T5 bias model runs at 14.4k WPS (Appendix Table 1), so there is no speedup when training on shorter sequences with this method.<sup>8</sup> 
+
+> 5Our rotary method implementation is based on the code in https://github.com/JunnYu/ RoFormer_pytorch, which is linked to from the official repository of Su et al. (2021): (https: //github.com/ZhuiyiTechnology/roformer). After we finished running our experiments with the rotary method, we were informed that the runtime of the code linked above could be optimized, making it only 
+
+> 2% slower than the sinusoidal approach. This optimization would not change extrapolation performance. 
+
+> 6This method is similar to the one used in Parikh et al. (2016, Equation 7). 
+
+> 7Our T5 bias implementation is based on the one used in HuggingFace Transformers (Wolf et al., 2020), 
+
+> 8Narang et al. (2021) benchmarked the T5 bias as being just 8.7% slower than the sinusoidal approach; thus, while always incurring a runtime penalty, this method’s runtime could be faster depending on the choice of hardware and software frameworks used. Narang et al. used the Tensorflow T5 library running on TPUs, while we used the PyTorch Fairseq library running on GPUs. 
+
+4 
+
+Published as a conference paper at ICLR 2022 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=25676193afe5f7ab score=0.452]
+|Position Method|Train Length|Spee<br>Train|d (_↑_)<br>Eval.|Memory (_↓_)|
+|---|---|---|---|---|
+||512|28.5k|82.1k|15.3 GB|
+|Sinusoidal|1024|26.0k|77.8k|19.2 GB|
+||3072|15.3k|42.4k|15.1 GB|
+||512|20.0k|43.4k|17.8 GB|
+|Rotary|1024|17.7k|39.4k|22.8 GB|
+||3072|11.5k|29.5k|17.8 GB|
+||512|14.4k|21.8k|16.9 GB|
+|T5 Bias|1024|13.0k|20.2k|20.9 GB|
+||3072|4.3k|4.9k|15.9 GB|
+||512|28.3k|85.8k|15.3 GB|
+|ALiBi|1024|25.8k|76.4k|19.3 GB|
+||3072|15.5k|42.2k|15.2 GB|
+
+
+
+Tables 2, 3, and 4 show the perplexity and runtime of models using the sinusoidal, rotary T5 bias, and ALiBi position methods when extrapolating to sequences longer than the ones they were trained on. The models used in these tables were trained on _L_ = 512 _,_ 1024 and 3072 tokens. 
+
+15 
+
+Published as a conference paper at ICLR 2022 
+
+Table 2: The sinusoidal, rotary, T5 bias and ALiBi models trained on _L_ = **512** on WikiText-103 and evaluated with different values of _Lvalid_ on the validation set. **Bold** shows the best score for each model. Inference speeds (in words per second) are from inference on a GPU with batch size of one.

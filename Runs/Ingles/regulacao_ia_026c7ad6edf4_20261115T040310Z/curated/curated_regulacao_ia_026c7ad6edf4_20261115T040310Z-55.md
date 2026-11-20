@@ -1,0 +1,46 @@
+[referencia=02e563ccf3b95ed5 score=0.969]
+Depois de mais de 500 dias de discussão, o Senado aprovou na última terça-feira (10) o projeto de lei que cria um marco regulatório para a inteligência artificial no Brasil (PL 2.338/2023). A proposta, de autoria do presidente da Casa, Rodrigo Pacheco (PSD-MG), passou por votação simbólica após acordo entre os parlamentares.
+
+O texto chancelado pelo plenário é o mesmo aprovado pela CTIA (Comissão Temporária Especial para Inteligência Artificial) na última quinta (5).
+
+Em vitória para a classe artística, a proposta manteve os instrumentos de proteção aos direitos autorais acordados com o relator, Eduardo Gomes (PL-TO). Por outro lado, ficaram de fora os algoritmos de recomendação de conteúdo, como os de redes sociais.
+
+
+Esse foi o acordo para que o projeto fosse aprovado o mais rápido possível no plenário, sem a apresentação de destaques. A ideia inicial era que a votação fosse feita na semana passada, logo após a aprovação na CTIA, mas senadores da oposição, alinhados ao setor privado, pediram mais tempo para discussão.
+
+Baseado no modelo da União Europeia, o PL 2.338/2023 cria uma regulação baseada em riscos e prevê a criação de uma autoridade para fiscalização e implementação da lei.
+
+---
+
+[referencia=02e563ccf3b95ed5 score=0.049]
+## Pontos de conflito
+
+Até a última terça-feira (10), o texto recebeu mais de 40 emendas. A maioria foi protocolada pelo senador Esperidião Amin (PP-SC), que pedia desde restrições no escopo da lei até a substituição completa do projeto.
+
+As justificativas das emendas replicavam argumentos usados pelo setor privado ainda durante a tramitação do projeto na comissão especial. Na véspera da votação no plenário, voltou a circular uma carta assinada por diferentes associações de empresas de tecnologia e do agronegócio que pediam a “supressão dos pontos relativos a direitos autorais”.
+
+Nenhuma das emendas foi acatada. A única alteração feita pelo relator Eduardo Gomes foi textual: em vez de o projeto criar um órgão multisetorial de regulação, denominado SIA (Sistema Nacional de Regulação e Governança de Inteligência Artificial), a atribuição passaria a ser do Executivo — que, no futuro, deverá enviar um projeto sobre o tema ao Congresso ou editar uma medida provisória.
+
+A mudança de redação foi feita com o objetivo de facilitar o acordo e tranquilizar senadores que levantaram preocupações sobre o SIA representar ameaça à liberdade de expressão. Amin chegou a comparar o órgão ao “grande irmão” de George Orwell, mas se viu contemplado pela alteração e retirou seu pedido de destaque.
+
+Já o senador Eduardo Girão (Novo-CE) seguiu afirmando que o projeto permitiria que o governo controlasse o que é publicado nas redes. “É uma censura disfarçada, que pode chegar lá na frente e a gente criar um monstrengo para nos engolir no momento em que a liberdade de expressão está sendo cassada no Brasil”, disse, ao registrar um dos poucos votos contrários.
+
+A fala foi rebatida pelo senador Carlos Viana (Podemos-MG), que presidiu a comissão especial. “Não há no projeto qualquer risco à censura sobre o que pensam as pessoas e, com responsabilidade, divulgam nos seus perfis”, afirmou.
+
+---
+
+[referencia=02e563ccf3b95ed5 score=0.019]
+“O projeto trata de dar às autoridades brasileiras, aos nossos cientistas, aos nossos especialistas a capacidade também de entender quais são os critérios, as técnicas, de como determinada inteligência artificial chega a seus resultados e as suas implicações na sociedade.”
+
+## Cenário desfavorável
+
+Agora, o projeto segue para a Câmara dos Deputados, onde o cenário para aprovação é menos favorável.
+
+Entre os pontos de preocupação estão o forte lobby das *big techs* — que, neste ano, conseguiram paralisar as discussões sobre o projeto de regulação das redes (PL 2.630/2020), o “PL das Fake News” — e a presença de uma bancada de oposição engajada. A nova presidência da Câmara, que será definida em fevereiro do ano que vem, também poderá influenciar a sequência da tramitação.
+
+
+Em 2025, a Casa também contará com a atuação da Frente Parlamentar em Defesa da Liberdade de Expressão, inaugurada em 4 de dezembro. Em discurso durante a sessão de apresentação da frente, a deputada Júlia Zanatta (PL-SC) levantou preocupações sobre a proposta de regulação de IA e disse que discutiria o texto com o atual presidente, Arthur Lira (PP-AL).
+
+## O caminho da apuração
+
+**Aos** **Fatos** acompanhou a votação do PL 2.338/2023 na noite da última terça-feira (10) por meio da transmissão ao vivo da TV Senado. Para construir o texto, contextualizamos também o histórico do projeto de regulação por meio das reportagens publicadas durante o período de tramitação da proposta.

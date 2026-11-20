@@ -1,0 +1,256 @@
+[referencia=83422a560b1359a7 score=0.977]
+# Semaglutide Cardiovascular Outcomes Trial - SOUL
+
+## Contribution To Literature:
+
+The SOUL trial showed that in patients with T2DM and ASCVD, CKD, or both, use of oral semaglutide was associated with a significantly lower risk of MACE vs. placebo, without an increase in serious adverse events.
+
+## Description:
+
+The goal of the phase 3b trial was to assess the cardiovascular efficacy of oral semaglutide, a GLP-1 receptor agonist, and to determine the risk of major adverse cardiovascular events (MACE) in patients with type 2 diabetes mellitus (T2DM) and atherosclerotic cardiovascular disease (ASCVD), chronic kidney disease (CKD), or both.
+
+## Study Design
+
+Participants at 444 sites in 33 countries were randomly assigned in a 1:1 ratio to receive either once-daily oral semaglutide or matching placebo, in addition to standard care (n=4,825 for both semaglutide and placebo groups). The dose was started at 3 mg and was escalated to 7 mg and then 14 mg. Standard care included glucose-lowering and cardiovascular risk–reducing therapies, per guidelines.
+
+- Total number of enrollees: 9,650
+- Duration of follow-up: median 49.5 months
+- Mean patient age: 66.1 years
+- Percentage female: 28.9%
+
+Inclusion criteria:
+
+- Age ≥50 years
+- Diagnosed with T2DM
+- Hemoglobin A<sub>1c</sub> 6.5-10%
+- Had at least one of the following: coronary artery disease, cerebrovascular disease, symptomatic peripheral artery disease, or CKD
+
+Exclusion criteria:
+
+- End-stage kidney disease
+- Received long-term kidney-replacement therapy
+
+---
+
+[referencia=6aa085aeb05d538f score=0.966]
+# SELECT: Semaglutide reduces CV events in non-diabetic patients with overweight or obesity
+
+**Semaglutide 2.4mg (Wegovy) reduces cardiovascular events in patients with overweight or obesity and pre-existing cardiovascular disease who are not diabetic, according to the latest outcomes from the Semaglutide Effects on Heart Disease and Stroke in Patients with Overweight or Obesity (SELECT) trial presented at the American Heart Association (AHA) annual Scientific Sessions in Philadelphia and simultaneously published in the New England Journal of Medicine.**
+
+Previously reported top-line results showed semaglutide 2.4mg delivered a statistically significant 20% risk reduction in MACE over a period of up to five years versus placebo (HR: 0.80; 95% confidence interval: 0.72; 0.90, p<0.001). The latest findings showed that risk reductions in MACE were achieved regardless of age, gender, ethnicity and starting body mass index (BMI). The results also demonstrated that the beneficial effects in MACE risk reduction were evident soon after treatment initiation, suggesting an effect that is more rapid than what would be expected if the cardiovascular effects were entirely mediated with the effects of semaglutide 2.4mg on body weight reduction. This suggests that weight loss alone may not fully explain the benefits of semaglutide 2.4mg in reducing the risk of MACE.
+
+“For the first time, we have evidence that semaglutide 2.4mg improves cardiovascular outcomes in at-risk patients with BMI of 27 and above with established CVD, without diabetes,” said Dr Michael Lincoff, lead study author, vice chair for research in the Cleveland Clinic Department of Cardiovascular Medicine, and a paid consultant for Novo Nordisk. “The three-point MACE risk reduction observed in SELECT suggests the potential for a new option in obesity treatment, addressing some of the leading causes of preventable death worldwide.”
+
+---
+
+[referencia=6aa085aeb05d538f score=0.965]
+Analyses of the three components in MACE showed that the risk of non-fatal myocardial infarction or heart attack was reduced by 28% compared to placebo (HR: 0.72; 95% confidence interval: 0.61; 0.85), the risk of cardiovascular death was reduced by 15% (HR: 0.85; 95% confidence interval: 0.71; 1.01, not statistically significant over the length of the trial) and the risk of non-fatal stroke was reduced by 7% compared to placebo (HR: 0.93; 95% confidence interval: 0.74;1.15, not statistically significant over the length of the trial). In addition, beneficial effects were seen consistently across measured cardiovascular endpoints.
+
+The confirmatory secondary endpoints showed that the risk of composite heart failure events, comprising cardiovascular death, urgent heart failure visits and hospitalisations, was reduced by 18% compared to placebo (HR: 0.82; 95% confidence interval: 0.71; 0.96) and the risk of death from any cause was reduced by 19% compared to placebo (HR: 0.81; 95% confidence interval: 0.71; 0.93). As the result on cardiovascular death was not statistically significant over the length of the trial, the remaining secondary confirmatory endpoints were not tested for superiority due to hierarchical testing.
+
+The supportive secondary endpoints also showed beneficial effects of semaglutide 2.4mg on other cardiovascular risk factors, including lowering blood pressure, cholesterol and blood sugar levels. While the trial was not designed as a weight loss trial, participants in the trial who received semaglutide still lost an average of 9.4% of total body weight which was sustained throughout the trial.
+
+SELECT was a randomised, double-blind, parallel-group, placebo-controlled trial designed to evaluate the efficacy of semaglutide 2.4 mg versus placebo as an adjunct to standard of care for reducing the risk of MACE in people with established CVD with overweight or obesity with no prior history of diabetes.
+
+---
+
+[referencia=3ed2d75d95d9fd3a score=0.939]
+## Principal Findings:
+
+The trial was terminated early due to efficacy. The primary endpoint, major kidney disease events (a composite of onset of kidney failure; initiation of long-term dialysis, kidney transplantation, or a reduction in the eGFR to <15 mL/min/1.73 m<sup>2</sup> sustained for ≥28 days), a sustained (for ≥28 days) ≥50% reduction in eGFR from baseline, or death from kidney-related or cardiovascular [CV] cause, for semaglutide vs. placebo, was: 18.7% vs. 23.2% (hazard ratio [HR] 0.76, 95% confidence interval [CI] 0.66-0.88, p = 0.0003). 
+
+Key secondary outcomes for semaglutide vs. placebo:
+
+- All-cause mortality: 12.8% vs. 15.8%, HR 0.80, 95% CI 0.67-0.95
+- CV mortality: 7.0% vs. 9.6%, HR 0.71, 95% CI 0.56-0.89
+- Nonfatal MI: 2.9% vs. 3.6%, HR 0.80, 95% CI 0.55-1.15
+- Change in HbA<sub>1c</sub> from baseline to week 104: -0.87 vs. -0.06 (p < 0.05)
+- Change in body weight from baseline to week 104: -5.55 kg vs. -1.45 kg (p < 0.05)
+- Mean change in systolic BP: -3.79 vs. -1.55 mm Hg (p < 0.05)
+- Mean change in diastolic BP: -0.23 vs. -1.01 mm Hg (p < 0.05)
+
+---
+
+[referencia=59e050de1bfd408e score=0.925]
+# Wegovy Granted Accelerated Approval in the US for the Treatment of MASH
+
+Add Drugs.com as a trusted source on Google to see more of our health news and information in your Google Search results.
+
+1. Tap the button to open Google's source settings.
+2. Tick the box next to Drugs.com.
+3. You can change it anytime in your Google settings.
+
+Requires a signed-in Google account.
+
+Bagsværd, Denmark, 15 August 2025 – Novo Nordisk today announced that the US Food and Drug Administration (FDA) has approved an additional indication for Wegovy (semaglutide 2.4 mg) based on a supplemental New Drug Application (sNDA) for treatment of noncirrhotic metabolic dysfunction-associated steatohepatitis (MASH) in adults with moderate to advanced liver fibrosis (consistent with stages F2 to F3 fibrosis), in combination with a reduced calorie diet and increased physical activity.
+
+The accelerated approval is based on part 1 of the ESSENCE trial, in which Wegovy demonstrated a statistically significant and superior improvement in liver fibrosis with no worsening of steatohepatitis, as well as resolution of steatohepatitis with no worsening of liver fibrosis compared to placebo.
+
+The clinical data from ESSENCE showed that at week 72, 36.8% of people treated with Wegovy achieved improvement in liver fibrosis with no worsening of steatohepatitis compared to 22.4% treated with placebo. 62.9% of people treated with Wegovy achieved resolution of steatohepatitis with no worsening of liver fibrosis compared to 34.3% treated with placebo.
+
+“Wegovy is now uniquely positioned as the first and only GLP-1 treatment approved for MASH, complementing the already proven weight loss, cardiovascular benefits and extensive body of evidence linked to semaglutide,” said Martin Holst Lange, executive vice president, chief scientific officer and head of Research and Development, at Novo Nordisk. “MASH represents a significant health burden, with one in three people with overweight or obesity worldwide affected. In the US alone, around 22 million people are estimated to live with MASH. With the approval of Wegovy for MASH, we provide a new treatment to people living with MASH that not only halts the disease activity but helps reverse the damage caused to the liver.”
+
+---
+
+[referencia=3ed2d75d95d9fd3a score=0.905]
+Impact on CV outcomes by CKD severity: Participants with lower eGFR, higher urine albumin-to-creatinine ratio (UACR), or Kidney Disease Improving Global Outcomes (KDIGO) risk class also had a higher incidence of CV outcomes and all-cause mortality. In the overall population, semaglutide reduced rates of the composite of CV death/MI/stroke compared with placebo (HR 0.82 [95% CI 0.68-0.98]). Number needed to treat (NNT) to prevent one composite endpoint at 156 weeks was 45. Consistent treatment effects were observed across all CKD categories, defined by eGFR, UACR, or KDIGO risk class (p for interaction > 0.05). All-cause mortality was similarly reduced by semaglutide compared with placebo with similar consistent effects across subgroups of CKD. NNT at 156 weeks to prevent one death was 39.
+
+## Interpretation:
+
+The results of this trial show that among patients with CKD and DM2, once weekly subcutaneous semaglutide was superior to placebo in improving renal and CV outcomes over a median follow-up of 3.4 years. Reductions in all-cause and CV mortality were also noted. These improvements were noted across a broad range of CKD severity. A modest reduction in body weight (4.1 kg greater weight loss), HbA<sub>1c</sub> (0.81% greater reduction), and systolic BP (~2.2 mm Hg greater reduction) was observed between baseline and 104 weeks. Semaglutide slowed eGFR loss by 1.16 mL/min/m<sup>2</sup>. These are landmark findings and are likely to have a major impact on the management of CKD and DM2.
+
+A similar improvement in renal outcomes with SGLT2 inhibitors has been reported before. In this trial, approximately 15% of patients were on these agents at baseline. Although the p-value for interaction was negative and the sample size small (n = 550), patients on SGLT2 inhibitors did not appear to have the same benefit for the primary endpoint numerically. Head-to-head comparisons between these agents as well as potential combination use will need to be explored in future trials.
+
+---
+
+[referencia=59e050de1bfd408e score=0.869]
+As of today, Wegovy is available in the US for the treatment for MASH.
+
+**About MASH**
+
+Metabolic dysfunction-associated steatohepatitis (MASH) is a serious, progressive, metabolic disease affecting the liver, which can be fatal if not properly managed. More than 250 million people live with MASH and the number of individuals in advanced stages of the disease is expected to double by 2030. Of those who are currently overweight or living with obesity, more than one in three are also living with MASH. People living with MASH often experience few or no specific symptoms in the early stages of the disease, which often results in delayed diagnosis. The risk of progression to advanced liver disease, including liver cancer, is higher in people living with MASH than in the general population.
+
+**About the ESSENCE trial**
+
+ESSENCE is a phase 3 trial evaluating the effect of once-weekly subcutaneous semaglutide 2.4 mg in adults with metabolic dysfunction-associated steatohepatitis with moderate to advanced liver fibrosis (stage 2 or 3). ESSENCE is a two-part trial where 1,200 planned participants were randomised 2:1 to receive semaglutide 2.4 mg or placebo, on top of standard of care for 240 weeks. In part 1, the objective was to demonstrate that treatment with semaglutide 2.4 mg improves liver histology at 72 weeks based on biopsy sampling from the first 800 randomised patients. In part 2, the objective is to demonstrate that treatment with semaglutide 2.4 mg lowers the risk of liver-related clinical events compared to placebo in adults with MASH and moderate to advanced liver fibrosis at 240 weeks.
+
+Based on part 1 of the ESSENCE trial, Novo Nordisk has also filed for regulatory approval in the EU in February 2025, with a subsequent filing in Japan in May 2025. Part 2 of the ESSENCE trial is expected to read out in 2029.
+
+**About Wegovy** **(semaglutide 2.4 mg)**
+
+---
+
+[referencia=83422a560b1359a7 score=0.831]
+## Principal Findings:
+
+Primary outcome: The primary outcome was three-point MACE (composite of all-cause death, nonfatal myocardial infarction, or nonfatal stroke) in a time-to-event analysis. Over the course of the study, 12.0% of patients in the semaglutide group vs. 13.8% in the placebo group had a primary endpoint (hazard ratio, 0.86; 95% CI, 0.77-0.96; p=0.006).
+
+Secondary outcomes: The confirmatory secondary outcomes, which included major kidney disease events (a five-point composite outcome), major adverse limb events, and serious adverse events, were not significantly different between the two groups.
+
+## Interpretation:
+
+In patients with T2DM and ASCVD and/or CKD, the use of oral semaglutide in this trial was associated with a lower risk of three-point MACE when compared with placebo. This trial adds to the beneficial risk-benefit profile of oral semaglutide in patients with T2DM and established ASCVD and/or CKD.
+
+## References:
+
+McGuire DK, Marx N, Mulvagh SL, et al., for the SOUL Study Group. Oral Semaglutide and Cardiovascular Outcomes in High-Risk Type 2 Diabetes. *N Engl J Med* 2025;Mar 29:[Epub ahead of print].
+
+Presented by Dr. Darren K. McGuire at the American College of Cardiology Annual Scientific Session (ACC.25), Chicago, IL, March 29, 2025.
+
+        **Clinical Topics:**
+        Prevention
+    
+
+        **Keywords:** 
+        *ACC25,* *ACC Annual Scientific Session,* *Atherosclerosis,* *Diabetes Mellitus, Type 2,* *Kidney Failure, Chronic,* *Primary Prevention*
+     
+
+< Back to Listings
+
+---
+
+[referencia=59e050de1bfd408e score=0.785]
+**About Wegovy** **(semaglutide 2.4 mg)**
+
+The FDA initially approved Wegovy in 2021 with a reduced calorie meal plan and increased physical activity to help adults with obesity, or adults with excess weight (overweight) who also have weight-related medical problems to lose weight and keep the weight off. The indication was expanded in 2022 to include children aged 12 years and older with obesity. In 2024, Wegovy was approved to reduce the risk of major cardiovascular events such as death, heart attack, or stroke in adults with known heart disease and either obesity or overweight. Today, the FDA granted accelerated approval for Wegovy for a new patient population for the treatment of MASH in adults with moderate to advanced liver scarring (fibrosis), but not with cirrhosis of the liver.
+
+**About Novo Nordisk***Novo Nordisk is a leading global healthcare company founded in 1923 and headquartered in Denmark. Our purpose is to drive change to defeat serious chronic diseases built upon our heritage in diabetes. We do so by pioneering scientific breakthroughs, expanding access to our medicines and working to prevent and ultimately cure disease. Novo Nordisk employs about 78,400 people in 80 countries and markets its products in around 170 countries. Novo Nordisk's B shares are listed on Nasdaq Copenhagen (Novo-B). Its ADRs are listed on the New York Stock Exchange (NVO). For more information, visit* *novonordisk.com,* *Facebook**,* *Instagram**,* *X**,* *LinkedIn* *and* *YouTube*__.__
+
+Source: Novo Nordisk
+
+---
+
+[referencia=3ed2d75d95d9fd3a score=0.625]
+# Evaluate Renal Function With Semaglutide Once Weekly - FLOW
+
+## Contribution To Literature:
+
+Highlighted text has been updated as of October 9, 2024.
+
+The FLOW trial showed that among patients with CKD and DM2, once weekly subcutaneous semaglutide was superior to placebo in improving renal and CV outcomes over a median follow-up of 3.4 years.
+
+## Description:
+
+The goal of the trial was to compare the safety and efficacy of semaglutide among patients with chronic kidney disease (CKD) and type 2 diabetes mellitus (DM2).
+
+---
+
+[referencia=3ed2d75d95d9fd3a score=0.517]
+## Study Design
+
+Patients were randomized in 1:1 fashion to once weekly subcutaneous semaglutide (n = 1,767) or matching placebo (n = 1,766). An 8-week dose-escalation regimen was used, with dose escalation (as long as unacceptable side effects did not occur) from 0.25 mg per week for 4 weeks and 0.5 mg per week for another 4 weeks, followed by a maintenance dose of 1.0 mg per week throughout the remainder of the treatment period.
+
+- Total screened: 5,581
+- Total randomized participants: 3,533
+- Median duration of follow-up: 3.4 years
+- Median patient age: 66.6 years
+- Percentage female: 30.3%
+
+Inclusion criteria:
+
+- DM2 with glycated hemoglobin (HbA<sub>1c</sub> ) ≤10%
+- High-risk CKD (estimated glomerular filtration rate [eGFR] 25-75 mL/min/1.73 m<sup>2</sup> with a urinary albumin-to-creatinine ratio of >300 and <5000 if the eGFR was ≥50 mL/min/1.73 m<sup>2</sup> or a urinary albumin-to-creatinine ratio of >100 and <5000 if the eGFR was 25 to <50)
+- Receiving a stable maximal labeled dose (or the maximal dose without unacceptable side effects) of renin-angiotensin system inhibitors (angiotensin-converting enzyme inhibitor [ACEi]/angiotensin receptor blocker [ARB])
+
+Other salient features/characteristics:
+
+---
+
+[referencia=3ed2d75d95d9fd3a score=0.369]
+## References:
+
+Mahaffey KW, Tuttle KR, Arici M, et al., on behalf of the FLOW Trial Committees and Investigators. Cardiovascular Outcomes With Semaglutide by Severity of Chronic Kidney Disease in Type 2 Diabetes: The FLOW Trial. *Eur Heart J* 2024;Aug 30:[Epub ahead of print].
+
+Perkovic V, Tuttle KR, Rossing P, et al., on behalf of the FLOW Trial Committees and Investigators. Effects of Semaglutide on Chronic Kidney Disease in Patients With Type 2 Diabetes. *N Engl J Med* 2024;391:109-21.
+
+        **Clinical Topics:**
+        Diabetes and Cardiometabolic Disease
+    
+
+        **Keywords:** 
+        *Cardiometabolic Diseases,* *Renal Insufficiency, Chronic,* *Sodium-Glucose Transporter 2 Inhibitors*
+     
+
+< Back to Listings
+
+---
+
+[referencia=59e050de1bfd408e score=0.189]
+## Related articles
+
+- FDA Approves Novo Nordisk’s New Wegovy HD Injection, Delivering the Highest Weight Loss to Date for a Wegovy Injection - March 19, 2026
+- FDA Approves Novo Nordisk's Wegovy Pill, the First and Only Oral GLP-1 for Weight Loss in Adults - December 22, 2025
+- Wegovy Approved in the US for Cardiovascular Risk Reduction in People with Overweight or Obesity and Established Cardiovascular Disease - March 8, 2024
+- FDA Approves Once-Weekly Wegovy injection for the Treatment of Obesity in Teens Aged 12 Years and Older - December 23, 2022
+- FDA Approves Wegovy (semaglutide) to Treat Adults with Obesity - June 4, 2021
+
+Wegovy (semaglutide) FDA Approval History
+
+## More news resources
+
+## Subscribe to our newsletter
+
+Whatever your topic of interest, subscribe to our newsletters to get the best of Drugs.com in your inbox.
+
+---
+
+[referencia=6aa085aeb05d538f score=0.046]
+People included in the trial were aged ≥45 years with a BMI ≥27 kg/m2. Baseline demographics by age group show that 24% were aged 45-54, 38% aged 55-64, 30% aged 65-74 and 8% aged 75 years plus. By race or ethnicity, 84% of trial participants were white, 10% Hispanic or Latino, 8% Asian, 4% black and 3% other. The split between male and female participants was 72% and 28% respectively.
+
+The trial enrolled 17,604 adults and has been conducted in 41 countries at more than 800 investigator sites. SELECT was initiated in 2018 and is the largest trial Novo Nordisk has ever conducted.
+
+To access this paper, please click __here__ (log-in maybe required)
+
+---
+
+[referencia=3ed2d75d95d9fd3a score=0.005]
+Other salient features/characteristics:
+
+- White race: 65.8%, Asian: 23.9%
+- Median body weight: 89.6 kg
+- Median body mass index: 32 kg/m<sup>2</sup>
+- Mean HbA<sub>1c</sub> : 7.8%
+- Mean blood pressure (BP): 138.6/76.4 mm Hg
+- Baseline mean eGFR: 47 mL/min/1.73 m<sup>2</sup>
+- Previous myocardial infarction (MI)/stroke: 22.9%
+- Baseline medications: ACEi, 35.1%; ARB, 60.2%; diuretic, 50.4%; lipid-lowering therapy, 80.2%; sodium–glucose cotransporter 2 (SGLT2) inhibitor, 15.6%

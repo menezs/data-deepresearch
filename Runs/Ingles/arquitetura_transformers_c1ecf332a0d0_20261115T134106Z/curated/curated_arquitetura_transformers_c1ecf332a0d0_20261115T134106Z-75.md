@@ -1,0 +1,278 @@
+[referencia=128e7e40ab379185 score=0.954]
+# Eureka-Moments in Transformers:
+
+Multi-Step Tasks Reveal Softmax Induced Optimization Problems
+
+###### Abstract
+
+In this work, we study rapid improvements of the training loss in transformers when being confronted with multi-step decision tasks.
+We found that transformers struggle to learn the intermediate task and both training and validation loss saturate for hundreds of epochs.
+When transformers finally learn the intermediate task, they do this rapidly and unexpectedly. We call these abrupt improvements *Eureka-moments* , since the transformer appears to suddenly learn a previously incomprehensible concept.
+We designed synthetic tasks to study the problem in detail, but the leaps in performance can be observed also for language modeling and in-context learning (ICL). We suspect that these abrupt transitions are caused by the multi-step nature of these tasks. Indeed, we find connections and show that ways to improve on the synthetic multi-step tasks can be used to improve the training of language modeling and ICL.
+Using the synthetic data we trace the problem back to the Softmax function in the self-attention block of transformers and show ways to alleviate the problem. These fixes reduce the required number of training steps, lead to higher likelihood to learn the intermediate task, to higher final accuracy and training becomes more robust to hyper-parameters.
+
+###### Keywords:
+
+Machine Learning, ICML, sudden convergence, in-context learning, grokking, transformer, Softmax, attention, temperature, gradient, phase transition, abrupt learning, rapid improvement, eureka-moment, eureka moment, multi-step task, multi-step decision task, two-step task
+
+---
+
+[referencia=128e7e40ab379185 score=0.910]
+## 2 Related Works
+
+Emergence and phase transitions.
+Following Steinhardt (2022) & Wei et al. (2022),
+*emergence* refers to a qualitative change in a learning system resulting from an increase of model size, training data or training steps, where *phase transitions* are additionally characterized by a sharp change. Eureka-moments are special types of phase transitions.
+While recent work showed that sharp emergence may just be an artifact of the choice of a discontinuous metric (Schaeffer et al., 2024; Srivastava et al., 2023), we observe rapid changes also for continuous metrics in our setting.
+A connection between phase transitions or emergence and our work may exist, and both may be related to escaping bad energy landscapes as in our work.
+
+Unexplained phase transitions. Previous works reported observations that may be Eureka-moments, without investigating their cause. For instance, rapid improvements happen for in-context-learning (ICL) (Olsson et al., 2022), diffusion model training (Zhang et al., 2023) and BERT training (Gupta & Berant, 2020; Deshpande & Narasimhan, 2020; Nagatsuka et al., 2021; ano, 2023; Chen et al., 2024). Deshpande & Narasimhan (2020) proposed to bias the attention mechanism towards predefined attention patterns and observed speed-ups in BERT training, while Chen et al. (2024) connect the sharp drop to sudden learning of syntactic attention structures. We also identify the learning of the task-required attention pattern to be the cause of the problem. In concurrent work Reddy (2023) studied phase transitions in ICL. Specifically, they show for a small toy-model that slow initial learning is due to a saddle-point, where one path leads to a sub-optimal minimum (i.e., random context label) and the other path to the ICL solution. They discover a “cliff” in the loss landscape and shallow gradients that lead to the ICL solution. While our setting shows substantial differences, our analysis reveals the same underlying mechanisms, i.e., shallow gradients, which we investigate in more detail.
+
+---
+
+[referencia=128e7e40ab379185 score=0.863]
+In each of our synthetic datasets, the answer to the first task , which is not explicitly modeled in the loss function, must be found by the model in order to correctly solve the final second task depending on it . For example, in Fig. , the model must first classify the two digits to find out if they are of the same class, which determines where to look for the subsequent FashionMNIST classification task. The loss only provides a training signal for the latter task. Thus, the model must figure this out by itself during training. Formally, such multi-step tasks can be described as , i.e., the probability of class given evidence and the latent variable .
+
+Our study reveals that transformers have difficulties in learning such two-step tasks (Fig. ). After they learned to classify a randomly selected FashionMNIST image , they saturate and only after a long time suddenly learn , i.e., the task to select the right fashion image by comparing the digits. We call this phenomenon a Eureka-moment. Intriguingly, we find that they never learn task 1 within 1000 epochs and stick with the prior for some random seeds. We later find that the probability of Eureka-moments depends on the difficulty of the task. In contrast to the transformer, a ResNet learns both tasks immediately.
+
+Our goal is not to add to the old transformer vs. CNN discussion, but we want to investigate this particular problem. What is its cause? Is it due to a too small capacity? Is it the number of heads or the learning rate? Is it the spatial arrangement of task 1 and 2? We found that these factors play only a minor role and finally traced the problem back to the Softmax function in the transformer’s attention blocks. We found parts of the gradient’s components become very small depending on the Softmax output. This cannot be fixed by using a larger learning rate, since other components of the gradient are large, but it can be simply fixed by a normalization of the Softmax function.
+
+---
+
+[referencia=128e7e40ab379185 score=0.838]
+Grokking.
+A similar phenomenon has been discovered on synthetic data (Power et al., 2022) and was further studied in (Liu et al., 2023; Nanda et al., 2023; Thilak et al., 2022; Millidge, 2022; Barak et al., 2022; Liu et al., 2022). Grokking describes the phenomenon of sudden generalization after overfitting, which can be induced by weight decay.
+In contrast to Eureka-moments, the training accuracy already saturates at close to 100% (overfitting), a long time before the validation accuracy has a sudden leap from chance level to perfect generalization.
+For Eureka-moments, validation and training loss saturate (no overfitting) and the sudden leap occurs for *both simultaneously*.
+
+Unstable gradients in transformers. The position of the layer-norm (LN) (Xiong et al., 2020) and instabilities in the Adam optimizer in combination with LN induced vanishing gradients (Huang et al., 2020). Removing the LN (Baevski & Auli, 2019; Child et al., 2019; Wang et al., 2019) or Warmup (Baevski & Auli, 2019; Child et al., 2019; Wang et al., 2019; Huang et al., 2020) resolves this problem, but in our case, Warmup alone does not help. Others identified the Softmax as one of the problems, showing that both extremes, attention entropy collapse, i.e., too centralized attention (Zhai et al., 2023; Shen et al., 2023) and a large number of small attention scores, i.e., close to maximum entropy (Dong et al., 2021; Chen et al., 2023) can lead to small gradients (Noci et al., 2022). As a remedy to vanishing gradients caused by entropy collapse Wang et al. (2021) proposed to replace the Softmax by periodic functions. However, before Eureka-moments, the attention distribution is in neither extreme. Instead the attention is allocated to the wrong tokens.
+
+---
+
+[referencia=128e7e40ab379185 score=0.789]
+| ViT+HT |  | 1/4 | 88.36 | 242 | 
+| NormSoftmax + HT |  | 1/4 | 90.63 | 19 | 
+
+Does the transformer fail to combine the information? We observe that the target location (solution of task 1) cannot be inferred by the linear probe (Fig. ). Therefore, even though the (indicator) information is available, it is not able to utilize this information to predict the target location of task 2. Thus, the transformer has all the information but fails to combine it to solve the multi-step task.
+
+Differences to a transformer that had a Eureka-moment. Fig. shows the linear probe results for a transformer that had a Eureka-moment. Interestingly, the target location can be inferred by linear probes from all layers and all tested representations with high accuracy. This is in stark contrast to transformers that had no Eureka-moment. The second striking difference is that indicator information is represented in the CLS token. This is even stronger for early layers (Fig. 19). We suspect, that the transformer uses the CLS token to match the classes of the indicators.
+
+Why does the transformer fail to combine the information? We visualize the attention maps of two fully trained ViTs in Fig. 3. We find that the transformer without Eureka-moment does not attend the indicator digits and attends only the targets of task 2, whereas a transformer with Eureka-moment attends the indicator digits in early layers. This suggest that a ViT without Eureka-moment does not pay enough attention to the indicators to match them and struggles to learn to attend different regions.
+
+| Model | Eureka-ratio | 
+|---|---|
+| ViT | 04/36 | 
+| VIT + Warmup 20 | 14/36 | 
+| grad scaling | 5/36 | 
+| NormSoftmax | 36/36 | 
+| ViT | 20/36 | 
+| ViT+HT | 25/36 |
+
+---
+
+[referencia=128e7e40ab379185 score=0.757]
+### 5.2 Can Enforcing Lower Entropy Attention Maps Resolve the Small Gradients?
+
+The previous subsection indicates that a local uniform attention is causing the learning problems of the transformer. To test this hypothesis and show that this causes the observed problems we use targeted interventions. Particularly, we modify Softmax’s temperature in the attention block. Large temperatures increase entropy, while small temperatures decrease it. We apply following interventions: training with lower/higher temperature; HT, where the temperature increases from a low value to default temperature during the first half of training; and NormSoftmax, which adaptively changes the temperature for each sample, head and layer.
+
+Does a lower temperature solve the small gradient issue and thereby mitigate the optimization issues? Increasing the temperature from low to default or using NormSoftmax increases high attention scores (c.f. Fig. 10). Importantly, the transformer learns to also attend to the indicators (Fig. ). Furthermore, all approaches (lower temperature , HT and NormSoftmax) solve the imbalanced gradient issue for , and (Fig. 4) and lead to higher gradients in indicator regions (Fig. 5). Eureka-moments happen much earlier or instantly (see Fig. 6). Thus, the interventions indeed mitigate the optimization issues. A comprehensive comparison between a vanilla ViT and other versions is provided in Tab. 1. Decreasing the temperature or using NormSoftmax increases the Eureka-ratio, accuracy and decreases the Eureka-epoch (i.e., improving the energy landscape). In contrast, increasing the temperature has a negative effect on the Eureka-ratio, showing that the local uniform attention is the main cause for the learning problem.
+
+---
+
+[referencia=128e7e40ab379185 score=0.755]
+## 3 Background
+
+Preliminaries. This work investigates the popular dot product attention (Vaswani et al., 2017), defined as
+
+|  |  |  | (1) | 
+
+where the weight matrices , and map the input to query , key , value , and the temperature parameter controls the entropy of the output. A low temperature leads to low entropy, i.e., a more “peaky” distribution. Commonly, is set to , where is the dimensionality of and . Thus, is the standard deviation of under the independence assumption of rows of and with 0 mean and variance of 1 (Vaswani et al., 2017).
+
+Softmax attention can cause vanishing gradients. Attention entropy collapse, i.e., too centralized attention, can cause vanishing gradients (Zhai et al., 2023; Shen et al., 2023), since all entries of the Jacobian of the Softmax will become almost 0 (see . A.11). Similarly, uniform attention can cause vanishing gradients for and (Noci et al., 2022).
+
+A remedy to both problems is to control the attention temperature . A larger in the Softmax will dampen differences of and by that prevent vanishing gradients by low attention entropy. In contrast, a smaller will amplify differences of and prevents vanishing gradients caused by uniform attention. Choosing the right temperature is difficult and can have a strong influence on what the model learns, how fast it converges etc. As a remedy, we propose to start training with a low temperature and follow a schedule to heat it up to the default value of . We refer to this approach as Heat Treatment (HT) and it is one of our interventions to test whether the Softmax is indeed the root cause of the optimization difficulties. This approach has multiple advantages. First, it removes the difficulty of choosing the exact temperature. Second, the network gets optimized for “more peaky” attention, but the temperature increases steadily. By that, the network starts with centralized attention but since the next epochs attention will be more uniform than the previous (due to increasing the temperature), it does not run into the issue of low attention entropy. Last, the network can focus on most important features early in training and broaden the view over time, attending to other features.
+
+---
+
+[referencia=128e7e40ab379185 score=0.747]
+But how can we study multi-step learning? One may tend to study popular tasks in detail, for which many benchmarks and results already exist. BERT pretraining (Devlin et al., 2019) and ICL (Chan et al., 2022) are candidates that are likely to entail a multi-step task. For BERT the network might first learn word frequencies and might learn to use the context to predict masked tokens in a second step. Similarly ICL can be understood as multi-step task, where first similarities of tokens have to be learned, followed by learning where to look up the correct label, i.e., learning an induction head. For both tasks we observe sudden improvements, similar to those that we study in this work (see Fig. ). Unfortunately, real data prohibits a clean study due to multiple factors: 1) The exact sub-tasks are typically unknown and, hence, hard to study. 2) There are many easy samples that do no require multi-step reasoning, overlaying the progress on the multi-step task. 3) The features necessary for the tasks are unknown, i.e., we cannot study what the network fails to learn, let alone the reason for it. 4) Even the number of steps is unknown, thus, we cannot determine if models learn only a subset of the tasks.
+
+As a remedy, we propose to analyze multi-step learning by controlling the data-generating process with synthetic data. This allows us to create clean two-step tasks in a controlled setting that facilitates a detailed study. Specifically, we remove confounding variables, know the number of tasks, and know for each task the relevant features, their location and the total number of steps. Thus, it solves the issues above all at once. This comes with the assumption that our findings on synthetic data transfer to related observations on real data. Indeed, our understanding how Eureka-moments appear on synthetic tasks and the corresponding way to improve training leads to better training behavior on non synthetic tasks, i.e., higher ICL accuracy on Omniglot and earlier Eureka-moments on masked language modeling on Wikipedia (see Fig. 9).
+
+---
+
+[referencia=128e7e40ab379185 score=0.746]
+Why does the transformer fail to learn to attend to the indicators? Based on the discussion in Sec. 3, we hypothesize that ill-distributed attention scores lead to small gradients for and , which in turn inhibit learning and in particular learning to shift attention towards the indicators. Note that high attention to some pairs with low attention to all others or uniformly distributed attention can result in vanishing gradients (Noci et al., 2022). To test this, we visualize the L1-norm of the gradient of the first layer in Fig. 4. For vanilla ViT the gradients for and are 0.5-1 orders of magnitude smaller than those for . Thus, only small gradients are backpropagated through the Softmax to and , and the attention map improves only slowly, which results in the observed slow learning. Differences between the gradients are much smaller for ViT , ViT+HT and NormSoftmax, in particular before the Eureka-moment. Fig. 5 shows the origin of gradients on the image plane for . For ViT, the gradients mostly originate from the target regions, which further explains why many steps are needed to move attention to the indicators, as these gradients only lead to improved target recognition.
+
+Is too small or too large attention-entropy the problem? We visualize the distribution of attention maps over training in Fig. 10: the vast majority of attention scores is very small. This indicates that a too uniform attention is causing small gradients. Larger attentions are rare, but not absent, as can be seen in Fig. , but indicator regions have small and uniform attention. Thus, we conclude that local uniform attention causes the transformer’s learning problems.
+
+---
+
+[referencia=128e7e40ab379185 score=0.736]
+### 5.3 Is This an Artificial Problem Caused by Other Factors?
+
+Does the transformer simply ignore specific indicator locations? The task and dataset used in the previous subsections showed indicators and targets always at the same location, i.e., indicators on top-left and bottom right. Such a dataset design might result in two undesired effects: 1) The transformer might learn to ignore features based on the associated positional embeddings. 2) The task might be easier, since positional embeddings can be used as shortcut to find indicators without the need to rely on the actual features. To disprove both cases we create another dataset, explained in Fig. 7. We observe that removing the fixed position for indicators and targets makes the task even more difficult (Tab. 1 bottom) and differences between methods are even more apparent. Thus, ViTs without Eureka-moment do not simply learn to ignore regions of the image.
+
+Is this a mere artifact of a bad choice of hyper-parameters?
+
+*main dataset*. Both interventions, ViT+HT and NormSoftmax drastically reduce the saturation period and can even lead to a complete disappearance of the saturation period.
+
+*No position task*description. This task is identical to the
+
+*main task*, but removes more information by swapping indicator (digit) and target (fashion) in each row with a probability of 0.5, i.e., task 2 is to classify either the top or bottom fashion sample. Two samples are shown to highlight differences from the task described in Fig. .
+
+We test various competing explanations that could lead to the observed phenomenon, like training instabilities due to inadequate Warmup, bad choice of learning rate schedules and Weight Decay to force circuit formation as observed for grokking (Nanda et al., 2023). Weight Decay and Warmup do not improve the results. We find that Eureka-moments are sensitive to the learning rate. NormSoftmax and HT reduce the sensitivity to sub-optimal learning rates drastically (see Tab. 2). See A.5 for a more detailed answer to the posed question.
+
+Influence of model scale, dataset size and image resolution on Eureka-moments. We found no consistent influence of model scale on Eureka-ratio. See A.6 for more details. Further, we can rule out that this observation is an artifact of image resolution or dataset size by showing the phenomenon on a ImageNet-100 based dataset in A.10.
+
+---
+
+[referencia=128e7e40ab379185 score=0.675]
+## 6 Limitations and Conclusion
+
+Limitations. The ability to decompose tasks into sub-problems and learn to solve those sub-tasks is a common problem, but it is difficult to study on real datasets, due to many confounding factors. As a result many works follow a trial-and-error approach. In contrast, we try to gain deeper understanding by studying this problem in a controlled, synthetic setting. This comes with the assumption that our analysis transfers to real data. We find evidence for that, as the intervention (NormSoftmax) leads to improvements on real data and can prevent getting stuck (Fig. 9).
+
+Conclusion. In this work, we identified that transformers have difficulties to decompose a task into sub-problems and learn to solve the intermediate sub-tasks. We observed that transformers can learn these tasks suddenly and unexpectedly but usually take a long time to do so. We called these sudden leaps Eureka-moments. We pined the problem down to the Softmax in the attention that leads to small gradients. We proposed simple interventions that specifically target the Softmax and show that they improve the transformers’ capabilities to learn sub-tasks and to learn them faster. We identify NormSoftmax as most robust and convenient method, leading to consistently better results. Last, we showed that our observations transfer to real datasets.
+
+## Impact Statement
+
+We do not see any particular societal impact other than the overall impact of advancing the field of Machine Learning.
+
+## Acknowledgements
+
+We thank Philipp Schröppel and the entire Computer Vision Group Freiburg for inspiring discussions. Sudhanshu Mittal for feedback on the manuscript and Matteo Farina for reporting observations of potential Eureka-moments on vision and language tasks.
+
+This research was funded by the Bosch Center for Artificial Intelligence, the Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV, German Federal Ministry for the Environment, Nature Conservation, Nuclear Safety and Consumer Protection) based on a resolution of the German Bundestag (67KI2029A), the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) – SFB 1597 – 499552394 and 417962828.
+
+---
+
+[referencia=128e7e40ab379185 score=0.626]
+Vision dataset creation. The visual datasets are based on MNIST (LeCun et al., 2010) and Fashion-MNIST (Xiao et al., 2017). An example and a schematic of the task is shown in Fig. . The samples are created by sampling 2 random Fashion-MNIST samples and 2 digit samples from the MNIST classes “1” and “2”. We apply a random color to the MNIST samples (red or blue). Next, we compose a new image from the 4 images, putting the 2 MNIST samples on top left and bottom right and the Fashion-MNIST samples on the remaining free quadrants. If the 2 MNIST samples are from the same class, the class of the top-right image is the sample label and bottom-left else.
+
+Reasoning task. Complementary to above vision tasks, we further simplified the multi-step task to an algorithmic task of the form where , task 1 is and task 2 is a simple copying task of either or . More details are provided in A.16.
+
+Metrics. We define the Eureka-ratio as the proportion of training runs with Eureka-moment across the different random seeds. To automatically detect Eureka-moments, we set a conservative threshold at a validation accuracy of , as this threshold can not be crossed without solving task 1. Accuracy after Eureka-moment, in the following referred to as accuracy, is computed over all runs that had a Eureka-moment. Note that this metric must be jointly considered with the Eureka-ratio, since high accuracy with low Eureka-ratio indicates that optimization typically failed (no Eureka-moment) but possibly just one “lucky” training run learned to solve the multi-step mechanism. Finally, average Eureka-epoch provides the average epoch at which the Eureka-moment happened. It is computed only for runs with Eureka-moment and again must be interpreted jointly with the Eureka-ratio.
+
+---
+
+[referencia=128e7e40ab379185 score=0.597]
+In summary, the contributions of this analysis paper are: 1) We study multi-step learning without intermediate supervision via a fully controlled data-generating process on synthetic tasks. 2) We discover a new failure mode of transformers.
+3) We analyse the mechanisms underlying this failure mode and find that the Softmax function leads to (local) small gradients for the key and value weight matrices, thereby hindering learning.
+4) To validate the role of Softmax, we mitigate the failure mode through targeted interventions.
+We show that these interventions lead to significantly faster convergence, higher accuracy, higher robustness to suboptimal hyper-parameters, and higher probability of model convergence, affirming our analysis.
+5) We find related learning behavior in ICL and language modeling and show that our solution transfers to these settings.
+The code to reproduce the results and create the datasets is available<sup>1</sup><sup>1</sup>
+            1
+            
+            
+            
+            
+            
+            
+            
+          https://github.com/boschresearch/eurekaMoments.
+
+---
+
+[referencia=128e7e40ab379185 score=0.588]
+#### A.9.1 What makes a multi-step task hard to learn?
+
+Based on the additional datasets described above we observe, that task 1 difficulty plays a major role in what makes a multi-step task difficult. For example the *Same color decision task* (Fig. 16(c) and Table 8) is significantly easier than our *Main task* (compare to Avg. Eureka-epoch in Table 4). We attribute this to the readily available feature (color) used to solve task 1. Similarly, the *Top if above* task (Fig. 16(b) and Table 7) is very easy to learn, as it removes one task 1 feature completely and relies solely on the position features.
+Making task 1 harder leads to much rarer and later Eureka-moments, as can be seen for the *No position task* (Fig. 7 and Table 5) and the *Digit grouping task* (Fig. 16(e) and Table 10).
+They make task 1 harder by removing the position information to locate and match indicators or introducing more variance to the appearance of indicators, respectively.
+We conjecture, that task 1 difficulty plays a major role in determining whether and when a Eureka-moment will happen. Task difficulty here seems to depend on the availability of the features required to solve task 1.
+
+---
+
+[referencia=128e7e40ab379185 score=0.483]
+### A.14 Experimental setup — Vision Task
+
+We mostly follow the DeiT (Touvron et al., 2021) training recipe without distillation. For optimization we use AdamW (Loshchilov & Hutter, 2019) with default values, i.e., and and . Unless otherwise stated we Warmup the learning rate for 5 epochs from to the maximum learning rate, use a weight decay of 0.05 and train for 300 epochs. We train all models with a batch size of 512, which fits on a single V100, for all the architectures that we considered. Since position and color can be important cues in our datasets we train without data augmentation. We only sample color-noise from a standard normal Gaussian with standard deviation 0.05 for each color channel independently. Color-noise is sampled for each sub-sample (i.e., each indicator and each target) independently and added to the RGB value.
+
+Learning rate schedules for all models. To compare the tested methods and models fairly, we run a search over 9 learning rate schedules with 4 random seeds, each. We anneal the learning rate from a maximum to a minimum using a cosine scheduler. We also use Warmup, as described in the paragraph above. The different schedules can be seen in Tab. 11. We pick the schedule that leads to highest Eureka-ratio for each model. In case of a tie we pick the schedule with higher accuracy.
+
+| max learning rate | min learning rate | 
+|---|---|
+
+Info on taus: In initial experiments we tested for ViT 5 values for , , , , and . We found , to work well and did not further optimize them for the different methods. For HT we set the goal temperature to the default and tried also . Further optimizing these parameters for each model and dataset will most likely lead to improvements, but would add very little to a deeper understanding of the Eureka-moments.
+
+### A.15 Implementation Details NormSoftmax
+
+In practice, can be defined by arbitrary functions. As highlighted in the background section, the standard deviation is a theoretically motivated choice. Alternatives are discussed by Jiang et al. (2023). In this work, we find the variance to work better for ViT and RoBERTa, while we stick to the standard deviation for the reasoning task.
+
+---
+
+[referencia=128e7e40ab379185 score=0.473]
+To further validate the results of our analysis in a real setting we train RoBERTa (Liu et al., 2019) with NormSoftmax for language modeling on Wikipedia, where we suspect task 1 to be learning of general word probabilities and task 2 to be modulating these probabilities based on context, or modulating them based on syntactic relations (Chen et al., 2024). Additionally, we train GPT-2 on the Omniglot (Radford et al., 2019) dataset and test its ICL abilities following Chan et al. (2022). Experimental details for RoBERTa and ICL are provided in A.18 and A.19, respectively. Fig. 9 shows that NormSoftmax indeed leads to earlier Eureka-moments for RoBERTa. Furthermore, NormSoftmax also improves ICL, i.e., GPT-2 with NormSoftmax trained on the Omniglot ICL task results in higher ICL accuracy and seems to prevent failure cases like no or a small Eureka-moment (Baseline s1 in Fig. 9). Thus, our analysis and results are indeed transferable to real datasets and also to transformers with causal attention,i.e., GPT-2.
+
+---
+
+[referencia=128e7e40ab379185 score=0.457]
+### A.10 Eureka-moments on Realistic, Large Scale High-resolution Images (ImageNet-100 based)
+
+To show that Eureka-moments can also be observed on large scale high-resolution datasets we create a dataset with high-resolution natural images using ImageNet-100 (Tian et al., 2020). For simplicity, we follow the same dataset design as for the MNIST-like datasets, i.e., we place the targets in the top-right and bottom left, while the other two quadrants show indicator images. Targets are simply images from ImageNet-100. The indicators are sampled from 2 of the ImageNet dog classes. If both indicators show the exact same sample, the top-right image needs to be classified and bottom left otherwise. The probability of top-right location being the target is 0.5. We train “ViT-S" and “ViT-S with NormSoftmax " following the standard ImageNet training setting using strong augmentations from Deit training (Touvron et al., 2021). Vanilla ViT obtains only 41% accuracy and we don’t observe a Eureka-Moment. For ViT-S with NormSoftmax we observe a Eureka-Moment at epoch 131. The training and validation curves are shown in Fig. 17.
+
+---
+
+[referencia=128e7e40ab379185 score=0.426]
+### A.16 Experimental Setup – reasoning task
+
+The input of the model is of the form “a b c d =“, where, where . In our experiments, we set . We train the transformer on 30% of the entire set of possible inputs (i.e., input combinations), that is with a batch size of 4392. The rest is used as test set. We train for 10 000 epochs over five random seeds. We use token embeddings of size of , four attention heads of dimension of , hidden units in the MLP, and learned positional embeddings.
+
+We trained with full batch gradient descent using AdamW (Loshchilov & Hutter, 2019) with a cross-entropy loss. We optimized learning rates via grid search over on seed 0. Following Nanda et al. (2023) we use a weight decay of 1.
+
+### A.17 Slingshot Effects on Reasoning Task
+
+We observed that NormSoftmax caused slingshot effects (Thilak et al., 2022) during the convergence phase of some of the training runs but believe this may be due to the interaction of gradients at different scales with adaptive optimizers (Nanda et al., 2023). Since slingshot effects only occur after Eureka-moments, they cannot be the cause for their occurrence. We did not further investigate this observation.
+
+### A.18 Experimental Setup – RoBERTa
+
+The RoBERTa experiments are based on the Code provided by (Deshpande & Narasimhan, 2020). We follow the data acquisition and preparation strategy of (Shoeybi et al., 2019). Thus, we train on the latest Wikipedia dump (downloaded on the 2<sup>nd</sup> of August 2023). We train a 12 layer RoBERTa model with 12 heads. We use a batch size of 84 and a learning rate of 5e-5.
+
+---
+
+[referencia=128e7e40ab379185 score=0.351]
+Can the problem be fixed by rescaling of the gradient magnitude for ,  and ?
+The observation that lower gradient imbalance leads to higher Eureka-ratio suggests, that simply rescaling of the gradients may solve the problem.
+We find that this does work for the *Main task* but not for the *No position task*, (see Tab. 1) and is very sensitive to the learning rate (see Tab. 2).
+We attribute this to the differences in gradient magnitudes for indicators and targets and discuss it further in Sec. A.4.
+
+Do gradients vanish completely and can transformers recover? Fig. already suggests, that one potential solution to reliably get Eureka-moments is very long training. This observation is supported by Fig. 4, which indicates that gradients become small, but not 0. Indeed we observe that training for 3000 epochs results in a Eureka-ratio of 4/4 for all the learning rate schedules. In practice, this is of little help because the number of sub-tasks is unknown and Eureka-moments are hard to predict.
+
+Is this truly a transformer optimization problem?
+
+To show that Eureka-moments are general to all transformers and not just artifacts of vision data, we also show their occurrence in single-layer 4 head transformers on simplistic algorithmic tasks, referred to as the reasoning task (Sec. 4). Here, features (numbers) are directly provided as tokens and need not be extracted. Fig. 8 reveals that Eureka-moments appear even in this minimal setting. Both HT and NormSoftmax reduce the training steps required for Eureka-moments to occur and increase the Eureka-ratio from 3/5 to 4/5 or 5/5, respectively.
+
+Does the NormSoftmax intervention translate to real data? Jiang et al. (2023) reported improved performance and faster convergence on ImageNet and machine translation tasks using NormSoftmax. Both tasks likely contain some innate multi-step tasks, e.g., identifying a common discriminative feature and then discriminating between the difficult classes for ImageNet. These improvements may be due to easier multi-step learning with NormSoftmax.
+
+---
+
+[referencia=128e7e40ab379185 score=0.344]
+### A.11 Vanishing Gradient in the Softmax.
+
+Softmax attention can cause vanishing gradients for and . To see that softmax attention can result in vanishing gradients it helps to take a look at the gradients of the attention function. Let
+
+|  |  |  | (3) | 
+
+|  |  |  | (4) | 
+
+|  |  |  |  | (5) | 
+|  |  |  |  | (6) | 
+|  |  |  |  | (7) | 
+|  |  |  |  | (8) | 
+|  |  |  |  | (9) | 
+
+be the attention function, where , and are weight matrices, is the input.
+
+Using the chain rule we get
+
+|  |  |  |  | (10) | 
+|  |  |  |  | (11) | 
+
+Since are constants we only need to look more closely into .
+
+is given by , where takes the values . Therefore, to analyze how the gradients and behave, we need to analyze the , i.e., the Jacobian of the Softmax . It is given by
+
+|  |  |  | (12) | 
+
+It can be easily seen, that almost all entries in the Jacobian are close to 0 whenever a single is close to 1 and all others are almost 0. Please see (Kurbiel, 2021) for a more detailed analysis.

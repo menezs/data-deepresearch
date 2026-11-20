@@ -1,0 +1,239 @@
+[referencia=d96e30d04596333b score=0.973]
+| 4 | Cecolin® | Xiamen Innovax Biotech | 40 µg HPV-16, 20 µg HPV-18 | 2019/ China-FDA | 208 µg aluminum hydroxide | *Escherichia coli* | 9–14 years: 2-dose schedule at months 0, 6 15 years and above 3-dose schedule at 0, 1–2, 5–8 months | [32] [33] | 
+| 5 | Walrinvax® | Walvax Yuxi Zerun Biotechnology Co | 40 µg HPV-16, 20 µg HPV-18 | 2022/ China-FDA | 225 µg aluminum phosphate | *Pichia pastoris* | 9–14 years: 2-dose schedule at 0, 6 months From age 15: 3-dose schedule at 0, 2–3, 6–7 months | [34] | 
+| 6 | Cervavac® | Serum Institute of India | 20 µg HPV-6, 40 µg HPV-11, 40 µg HPV-16, 20 µg HPV-18 | 2022/ Indian FDA | 1.25 µg Al <sup>3+</sup> | *Hansenula polymorpha* | 9–26 years (girls and boys) 9–14 years: 2 doses at months 0, 6 15–26 years: 3-dose schedule at 0, 2, 6 months | [35] | 
+
+<sup>*</sup>Off-label single-dose vaccination is already recommended by WHO (as of December 2022). The single-dose schedule for Cecolin® was announced by WHO in October 2024
+
+The dosage of all vaccines is 0.5 ml/dose. They are all administered via intramuscular (IM) injection in the deltoid region. All these vaccines should be kept at a refrigeration temperature of 2–8 °C
+
+---
+
+[referencia=d96e30d04596333b score=0.937]
+## Conclusion and perspectives
+
+Given the confirmed role of HPV in CxCa, immunization against HPV is recommended as a key preventive strategy. While the effectiveness of current prophylactic L1-based VLP vaccines against HPV has been demonstrated over nearly two decades, there is still a demand for novel vaccines with broader coverage, improved affordability, and easier transportation and storage conditions. Therefore, research on other platforms is ongoing, primarily summarized in this review. Though the vast volume of studies on HPV prophylactic vaccines over many years is a barrier to mentioning all the published works, we tried to cover the main approaches and steps undertaken to date.
+
+Since the success of marketed vaccines has raised expectations for newcomers, no other studied approach has outperformed in clinical trials yet. In parallel with research on alternative vaccine platforms, the production of more affordable L1 VLP vaccines in countries such as China and India—specifically Cecolin®, Walrinvax®, and Cervavac®—is actively addressing issues related to supply and affordability. WHO has already prequalified Cecolin® and Walrinvax®. The recombinant production of Cecolin®, a vaccine with comparable efficacy to Cervarix®, in the *E. coli* host represents significant progress in HPV vaccine production. However, similar to previous L1 protein-based vaccines, it provides limited cross-protection against different HPV types and requires cold-chain maintenance. Overall, the recent biosimilar HPV vaccines produced in China and India have characteristics nearly identical to the original products regarding dosage, route of administration, and storage conditions. Their primary advantage lies in their lower prices, which can significantly enhance HPV vaccination rates by reducing financial barriers, especially in developing countries. While these biosimilars are beneficial, developing alternative novel vaccine platforms and formulations may offer a more comprehensive solution in the long run.
+
+Vaccines containing L2 peptides seem promising candidates due to their broader coverage across different virus types and easier and lower-cost production. However, their linear structure results in decreased immunogenicity, highlighting the role of adjuvants or carrier systems in vaccine formulations. Despite extensive research on L2-based vaccines at preclinical stages (Table 3), only one vaccine containing AAVLPs has progressed to clinical trials (Table 4).
+
+---
+
+[referencia=d96e30d04596333b score=0.886]
+### L1-based vaccines
+
+L1 is the major capsid protein in HPV, with a molecular weight (MW) of 55 kDa, representing 80% of the viral capsid proteins [22]. The initial strategy for preventing HPV-induced CxCa involved the development of prophylactic vaccines containing the L1 protein. Currently, three L1-based HPV vaccines are licensed by the US FDA: Cervarix®, Gardasil®, and Gardasil®9, all of which have demonstrated excellent clinical efficacy [23, 24]. Moreover, three new prophylactic vaccines—Cecolin®, Walrinvax®, and Cervavac®— have recently been licensed in China and India. These three new biosimilar vaccines are expected to broaden access to HPV vaccination due to their considerably lower costs than the originators. The cost of each Cecolin® dose is about 55% to 65% lower than that of Gardasil® or Cervarix® in the Gavi program. Gavi Vaccine Alliance is an international organization that supports vaccination in low-income and low to middle-income countries [25]. WHO has already prequalified Cecolin® and Walrinvax® [25]. An *E. coli*-produced 9-valent vaccine is also under development in China by the manufacturer of Cecolin®. This vaccine has been reported to be non-inferior to Gardasil®9 in a head-to-head comparative immunogenicity study involving women aged 18–26 years in China [26].
+
+All marketed L1-based vaccines (listed in Table 1) are produced using recombinant DNA technology in various hosts, allowing the L1 proteins to self-assemble into empty shells or VLPs. These particles typically vary in size and exhibit spherical or ellipsoidal shapes. Due to the three-dimensional structure of their VLPs, these vaccines should be stored at a refrigeration temperature of 2–8 °C [27].
+
+---
+
+[referencia=66fcf7b1a6810db5 score=0.815]
+## New HPV vaccines – Current landscape and future directions
+
+**Quote this article as: C Paternostro & EA Joura (October 2025). New HPV vaccines – Current landscape and future directions. www.HPVWorld.com, 314**
+
+
+*Llegiu aquest article en Català*
+**Current landscape of HPV vaccination and WHO prequalification**
+
+The 2022 WHO position paper recommends HPV vaccination starting from age 9, with the primary goal of preventing cervical cancer, which accounts for 82% of all HPV-related cancers worldwide. As part of its global strategy, WHO aims for 90% of girls to be fully vaccinated by the age of 15 by 2030. In order to achieve these strategic targets, affordable vaccines and practical vaccination schedules are essential to ensure broad and equitable global access.
+
+Current guidelines recommend a two-dose HPV vaccination schedule starting from age 9, with at least six months between doses, although extending this interval to 12 months can yield higher Geometric Mean Titres (GMTs). Alternatively, a single-dose schedule, considered off-label for individuals aged 9 to 20, is supported by emerging evidence that suggests comparable protection to two doses and may enhance efficiency, affordability, and vaccine coverage, especially from a public health perspective¹. Some 75 countries have already moved to a single-dose schedule.
+
+Since 2009, the WHO has prequalified five HPV vaccines: three bivalent vaccines (Cervarix® by GlaxoSmithKline, Cecolin® by Xiamen Innovax and Walrinvax® by Yuxi Zerun Biotechnology) targeting HPV 16 and 18, one quadrivalent vaccine (Gardasil® by Merck/MSD), which expands protection to HPV 6 and 11, and one nonavalent vaccine (Gardasil-9® by Merck/MSD) additionally including HPV 31, 33, 45, 52 and 58
+
+<sup>1,2</sup>.
+
+WHO prequalification is essential to ensure vaccines meet rigorous standards for safety, quality, and efficacy, which is crucial for inclusion in national immunization programs. The bivalent vaccine Cervarix® shows a strong immunogenicity, offering some cross-protection against types 31, 33, and 45, although this effect is not observed with a single dose and tends to wane over time
+
+---
+
+[referencia=66fcf7b1a6810db5 score=0.805]
+<sup>3</sup>. Gardasil® was the first HPV vaccine to receive WHO prequalification in 2009, paving the way for global HPV vaccination efforts and has been the most common HPV vaccine supplied through GAVI programs. Its quadrivalent profile provides protection against genital warts as well as low-grade squamous lesions (LSIL), making it well-suited for gender-neutral vaccination programs. The nonavalent vaccine Gardasil-9®, prequalified in 2018, offers the broadest protection, preventing over 90% of cervical cancers
+
+<sup>2</sup>. Furthermore, Innovax’s Cecolin® (bivalent) has been prequalified by WHO in 2021, showing a similar safety profile compared to Gardasil® as well as a comparable immunological response after two doses applied six months apart, expanding the option for HPV vaccination in low- and middle-income countries
+
+<sup>4</sup>. The E .coli-based production may lower the costs. Moreover, Walrinvax®, the most recently prequalified bivalent vaccine, has become an additional cost-effective option for further prevention of cervical cancer
+
+<sup>5</sup>.
+
+**Emerging vaccines and market expansion**
+
+Beyond WHO-prequalified vaccines, several new products are emerging to improve access and affordability. The Serum Institute of India has developed Cervavax® (quadrivalent), employing yeast-based technology, and licensed it domestically to boost local manufacturing and lower costs
+
+<sup>6</sup>. Innovax has launched Cecolin-9®, a nonavalent vaccine licensed in China in May 2025, which covers the same nine HPV genotypes as Gardasil-9® and is currently under investigation in a study involving 1,260 women aged 18 to 45, with findings expected in 2026
+
+---
+
+[referencia=43b90bcfb173fad6 score=0.797]
+WHO announced that a fourth WHO-prequalified human papillomavirus (HPV) vaccine product, Cecolin® has been confirmed for use in a single-dose schedule. The decision is made based on new data on the product that fulfilled the criteria set out in the WHO’s 2022 recommendations for alternative, off-label use of HPV vaccines in single-dose schedules. This important milestone will contribute to improving sustainable supply of HPV vaccines—allowing more girls to be reached with the vaccines that prevent cervical cancer.
+
+“Unlike most other cancers, we have the ability to eliminate cervical cancer, along with its painful inequities,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “By adding another option for a one-dose HPV vaccination schedule, we have taken another step closer to consigning cervical cancer to history.”
+
+More than 95% of the 660 000 cervical cancer cases occurring globally each year are caused by HPV. Every two minutes, a woman dies from this preventable disease globally, and 90% of these deaths occur in low- and middle-income countries. Of the 20 hardest hit countries by cervical cancer 19 are in Africa.
+
+HPV vaccine introductions have been hampered by global supply shortages since 2018 and production challenges encountered by one of the manufacturers earlier this year led to further shortfalls, potentially impacting millions of girls in need of HPV vaccines in Africa and Asia.
+
+“Having 90% of girls fully vaccinated with the HPV vaccine by 15 years of age is the target for the first pillar of the WHO global strategy for cervical cancer elimination,” said Dr Kate O'Brien, Director of the Department of Immunization, Vaccines and Biologicals at WHO. “Given the continuing supply challenges, this addition of single-dose vaccine product means countries will have greater choice of vaccines to reach more girls.”
+
+A growing number of vaccine products initially prequalified for use in a 2-dose schedule can now be used in a single-dose schedule. The single-dose use indication for this additional vaccine, Cecolin®, is incorporated into the second edition of WHO’s technical document on considerations for HPV vaccine product choice (reflected in Table 4 of this document). Like for other medications and vaccines, when there is data to support modified use, guided by a clear public health benefit, public health advisory bodies can recommend "off-label” use, until a manufacturer adds this modified use to their label.
+
+---
+
+[referencia=d96e30d04596333b score=0.789]
+#### Cecolin®
+
+Cecolin®, developed by Xiamen Innovax Biotech in China, contains 40 µg of HPV-16 and 20 µg of HPV-18 recombinant L1 VLPs. *Escherichia coli* is the expression system used for its production. This vaccine contains an aluminum hydroxide vaccine adjuvant. Cecolin® successfully completed a Phase 3 clinical trial (NCT01735006), demonstrating high efficacy and tolerability [32], and it was approved by China's National Medical Products Administration in 2019. In October 2021, this vaccine received prequalification from the WHO. In March 2023, Cecolin® was licensed in multiple low- to middle-income countries such as Bangladesh, Morocco, Nepal, Thailand, the Democratic Republic of Congo, and Cambodia [26].
+
+#### Walrinvax®
+
+Walrinvax**®** (Table 1) is a bivalent VLP-based L1 vaccine, targeting HPV-16 and −18, produced in *Pichia pastoris*. Walrinvax® consists of 40 µg of HPV-16 and 20 µg of HPV-18 L1 protein VLPs adsorbed to 225 µg of aluminum phosphate and suspended in 0.5 ml of buffered saline (0.32 M sodium chloride, 10 mM L-histamine, 0.025 µg polysorbate 80) [43]. Walrinvax**®** is designed for intramuscular (IM) administration in women of 9–30 years. Developed by Shanghai Zerun Biotech Co., China, clinical trials for this vaccine are conducted in this country [34]. In August 2024, Walrinvax® received prequalification from the WHO, making it the fifth HPV vaccine available.
+
+#### Cervavac®
+
+Cervavac**®** is a quadrivalent vaccine (HPV-6/11/16/18) developed by the Serum Institute of India (Table 1). It is approved for both females and males aged 9–26 years in India [35]. This VLP vaccine uses Al<sup>3+</sup> as an adjuvant and can increase the IgG geometric mean titer to more than 1000 times the baseline value [44].
+
+---
+
+[referencia=d96e30d04596333b score=0.677]
+- 22.Panatto D, et al. Human papillomavirus vaccine: State of the art and future perspectives. Adv Protein Chem Struct Biol. 2015;101:231–322. [DOI] [PubMed] [Google Scholar]
+- 
+23.Murillo R and Ordóñez-Reyes C, Human papillomavirus (HPV) vaccination: From clinical studies to immunization programs*.* International Journal of Gynecologic Cancer, 2019.**29** (8). [DOI] [PubMed]
+- 24.Kamolratanakul S, Pitisuttithum P. Human papillomavirus vaccine efficacy and effectiveness against cancer. Vaccines. 2021;9(12):1413. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 
+25.“WHO adds an HPV vaccine for single-dose use.” Access Date: Nov. 06, 2024. [Online]. Available at: https://www.who.int/news/item/04-10-2024-who-adds-an-hpv-vaccine-for-single-dose-use*.*
+- 26.Zhu F-C, et al. Head-to-head immunogenicity comparison of an Escherichia coli-produced 9-valent human papillomavirus vaccine and Gardasil 9 in women aged 18–26 years in China: A randomised blinded clinical trial. Lancet Infect Dis. 2023;23(11):1313–22. [DOI] [PubMed] [Google Scholar]
+- 27.Zhao Q, et al. Characterization of virus-like particles in GARDASIL® by cryo transmission electron microscopy. Hum Vaccin Immunother. 2014;10(3):734–9. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 28.Freedman M, et al. Recommended adult immunization schedule, United States, 2020. Ann Intern Med. 2020;172(5):337–47. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 
+29.HPV CH, FDA licensure of bivalent human papillomavirus vaccine (HPV2, Cervarix) for use in females and updated HPV vaccination recommendations from the Advisory Committee on Immunization Practices (ACIP)*.* 2010. [PubMed]
+
+---
+
+[referencia=d96e30d04596333b score=0.628]
+|  | Vaccine name | Company | Type and amount of L1 VLP | Year approved/ approving authority | Adjuvant | Expression system | Vaccination schedule [28]* | Reference | 
+|---|---|---|---|---|---|---|---|---|
+| 1 | Cervarix® | GlaxoSmithKline (GSK) | 20 µg HPV-16, 20 µg HPV-18 | 2009/ US-FDA | AS 04: 500 µg aluminum hydroxide and 50 µg 3-O-desacyl-4’ monophosphoryl lipid A (MPL) | Baculovirus (insect) cells | 9–14 years: 2 doses with a minimum of 5-month interval 15 years and above: 3 doses administered at 0, 1–2, 6 months | [29] | 
+| 2 | Gardasil® | Merck Sharp & Dohme (MSD) | 20 µg HPV-6, 40 µg HPV-11, 40 µg HPV-16, 20 µg HPV-18 | 2006/ US-FDA | 225 µg amorphous aluminum hydroxy phosphate sulfate | *Saccharomyces cerevisiae* | 9–13 years: 2 doses with a minimum of 5-month interval 14 years and above: 3 doses administered at 0, 1–2, 6 months | [30] | 
+| 3 | Gardasil®9 | Merck Sharp & Dohme (MSD) | 30 µg HPV-6, 40 µg HPV-11, 60 µg HPV-16, 40 µg HPV-18, 20 µg HPV-31, 20 µg HPV-33, 20 µg HPV-45, 20 µg HPV-52, 20 µg HPV-58 | 2014/ US-FDA | 500 µg amorphous aluminum hydroxy phosphate sulfate | *S. cerevisiae* | 9–14 years: 2 doses with a minimum of 5-month interval 15 years and above: 3 doses administered at 0, 1–2, 4–6 months | [31] |
+
+---
+
+[referencia=d96e30d04596333b score=0.595]
+## Abstract
+
+Several high-risk types of human papillomaviruses (HPVs) are associated with cervical cancer and other malignancies. Despite the tremendous success of marketed prophylactic HPV vaccines for the past 18 years, cervical cancer remains a significant global challenge. A nearly 10% increase in new cervical cancer cases worldwide from 2020 to 2022 underscores the urgent need for enhanced vaccination efforts. Current HPV vaccines, including Cervarix®, Gardasil®, Gardasil®9, Cecolin®, and Walrinvax® utilize VLP (virus-like particle) structures and have demonstrated significant efficacy. However, challenges such as type-limited coverage, cold-chain requirements, and affordability emphasize the critical need for further research and development of novel HPV vaccines. Some investigational vaccines, for instance, those using VLPs to carry protective antigens with broader coverage across different viral types, show promise for the future of cervical cancer prevention. Realizing this hope and making further progress still depend on the dedication and innovation of the scientists and authorities involved. This review focuses on both approved and investigational preventive vaccines, including also those designed for simultaneous prevention and therapy. Clinical trials are briefly reviewed, and potential strategies to advance vaccination against HPV-induced cervical cancer are summarized. This review emphasizes approaches that require further investigation in the future.
+
+**Keywords:** HPV, Human papillomavirus, Cervical cancer, Cancer vaccines, Vaccine immunogenicity
+
+---
+
+[referencia=d96e30d04596333b score=0.556]
+#### Cervarix®
+
+Cervarix®, marketed by GlaxoSmithKline in 2010, is a bivalent vaccine that contains HPV-16/18 VLPs (Table 1) [17]. These two genotypes are the most oncogenic types of HPV, accounting for approximately 70% of CxCas and nearly 90% of anal cancers [36, 37]. This recombinant vaccine is produced in baculovirus (insect) cells and includes an adjuvant system, known as AS04, which consists of aluminum hydroxide and 3-O-desacyl-4’ monophosphoryl lipid A (MPL). MPL is a detoxified derivative of lipopolysaccharide (LPS) derived from the Gram-negative *Salmonella minnesota* R595 strain [38, 39].
+
+#### Gardasil®
+
+Gardasil®, also known as Silgard®, is a quadrivalent vaccine marketed by Merck Sharp & Dohme that contains VLPs of HPV-6/11/16/18 (Table 1) [17]. Compared with Cervarix®, the additional genotypes in Gardasil® are responsible for approximately 90% of genital warts [4, 16]. Approved in 2006, Gardasil® is produced using *Saccharomyces cerevisiae* as the recombinant expression system, and it contains an adjuvant composed of 225 µg of amorphous aluminum hydroxyphosphate sulfate [38]. Studies have shown that Gardasil® significantly reduces HPV infection in the anus, vulva, penis, and even the oral cavity [40].
+
+#### Gardasil®9
+
+Gardasil®9 is a VLP-based nonavalent vaccine developed by Merck Sharp & Dohme, containing HPV-6/11/16/18/31/33/45/52/58. The additional genotypes included in Gardasil®9 account for another 20% of CxCa cases, indicating the vaccine’s potential to prevent nearly 90% of CxCa occurrence [41]. It was approved in 2014 for both females and males (Table 1) [32, 42].
+
+---
+
+[referencia=d96e30d04596333b score=0.538]
+|  | Vaccine platform | Used adjuvant | Employed antigens | Expression system | Type of study | Type of immune response | Year | Reference | 
+|---|---|---|---|---|---|---|---|---|
+| 1 | HPV-16 L1 VLP | Alum-MPL | RG1 epitope (HPV-16 L2 aa 17–36 | Insect cells | In vitro (rabbit) | Passive transfer of sera-protected mice against PsVs of HPV-16/18/45/31/33/52/58/35/39/51/59/68/56/73/26/53/66/34 and LR-HPV-6/43/44 nAbs against HR-HPV- 16/18/45/37/33/52/58/35/39/51/59/68/73/26/69/34/70, LR-HPV-6/11/32/40, and cutaneous HPV-2/27/3/76 in PBNA | 2013 | [108] | 
+| 2 | HPV-16 L1 VLP | Alum/MPL | RG1 epitope | Sf9 insect cells | In mice (RG1-VLP + HPV-18 L1-VLP) In rabbits | Cross-protection against vaginal challenge with HR-HPV-58 Cross-neutralization titers (50–1000) against HR-HPV-18/31/33/45/52/58/26/70 | 2019 | [109] | 
+| 3 | HPV-16 L1 VLP | Alum-MPL | HPV-31 L2 (aa.17–38) | Bac-to-Bac baculovirus | In vivo (mice) | Cross-nAbs against HPV-2/5/6/11/16/18/27/31/33/35/39/52/57/58/59/68 | 2018 | [110] |
+
+---
+
+[referencia=d96e30d04596333b score=0.474]
+##### Table 2.
+
+|  | Characteristic of current vaccines | Limitation | Approaches to solve the issue | 
+|---|---|---|---|
+| 1 | Type-specificity (partial) | 1. Lack of complete cross-protection against other HPV types that are not included in the vaccine 2. More complex and lengthy manufacturing processes due to the inclusion of multiple types of HPV, which should be produced separately 3. The increased cost of vaccines for adding more HPV genotypes 4. The need for cancer screening remains 5. Risk of emergence of some uncovered HPV types | Employing protective L2 proteins of HPV in the vaccine (either exclusively or in combination with L1) to enhance cross-protection due to the higher conservancy of L2 | 
+| 2 | No therapeutic indication | Not indicated for patients who already have cervical cancer | Developing therapeutic vaccines targeting the E proteins of HPV | 
+| 3 | High costs of vaccine | Lower access to vaccines, especially for low-income populations | 1. Development of vaccines with lower costs, for example, using simpler hosts (such as *E. coli* ) (already done: Cecolin® and Walrinvax®) 2. Encouraging local production of HPV vaccines in low- and middle-income countries | 
+| 4 | Cold-chain requirement | 1. Increasing manufacturing, storage, and transfer costs 2. Not easy handling | 1. Lyophilized powder formulations 2. Developing vaccines with more stability at room temperature, such as peptide vaccines | 
+| 5 | Injectable formulation | Need for nurses or other professionals for injecting vaccines Not preferred by individuals with a fear of injection | Development of non-parental formulations such as intranasal or oral vaccines | 
+| 6 | Need for multiple dosing * | Lower compliance for getting the vaccine, especially in remote areas | 1. Optimizing vaccination schedules 2. Reminder or call services | 
+| 7 | Effective only in the early stages of the viral life cycle | Age limitation (The greatest benefit of the vaccine occurs when vaccination is completed before age 15, particularly prior to the onset of sexual activity. However, individuals vaccinated after age 15 still gain some benefit, though it is lower than those who began the HPV vaccine injection before turning 15.) | Development of novel vaccines targeting other proteins that are present in later stages of the disease, such as the E proteins of HPV |
+
+---
+
+[referencia=d96e30d04596333b score=0.454]
+Despite significant advances in vaccination and the development of novel HPV vaccines, recent statistics from Globocan indicate that the incidence and mortality of CxCa are still on the rise globally (Fig. 1). Even in low-income regions of the United States, a recent reversal of the declining trend of CxCa has been observed [11]. Furthermore, the World Health Organization (WHO) predicts a 16.9% increase in CxCa incidence and a 21.1% rise in the mortality rate by 2030 worldwide. These statistics and projections underscore the urgent need for developing novel approaches and strategies to control HPV infection through vaccination [2].
+
+This paper aims to address this issue by first reviewing the structure and pathogenesis of HPV. It then summarizes the available and investigational prophylactic HPV vaccines, highlighting their platforms, efficacy, and outcomes in preventing CxCa. Additionally, the review succinctly discusses the types of vaccines that could bolster global CxCa prevention efforts in the future.
+
+---
+
+[referencia=d96e30d04596333b score=0.409]
+##### Table 3.
+
+|  | Vaccine | Company | Type of included HPV VLP | Clinical phase | Expression system | Reference | 
+|---|---|---|---|---|---|---|
+| 1 | Bivalent vaccine | Xiamen Innovax Biotech | HPV-16/11 | II | *Escherichia coli* | [88] | 
+| 2 | Quadrivalent vaccine | Shanghai Bovax Biotechnology | HPV-6/11/16/18 | III | *Hansenula polymorpha* | [89] | 
+| 3 | Nonavalent vaccine | Shanghai Bovax Biotechnology | HPV-6/11/16/18/31/33/45/52/58 | III | *H. polymorpha* | [89] | 
+| 4 | Nonavalent vaccine | Xiamen Innovax Biotech | HPV-6/11/16/18/31/33/45/52/58 | III | *E. coli* | [90] | 
+| 5 | 11-valent vaccine | National Vaccine and Serum Institute, China | HPV-6/11/16/18/31/33/45/52/58/59/68 | III | *H. polymorpha* | [87] | 
+| 6 | EG-HPV | Eyegene Inc., Korea | HPV-16/18 | I | Yeast | [91] | 
+
+Furthermore, several alternative approaches have demonstrated significant efficacy in preclinical phases. For instance, bacterial vectors, specifically, live attenuated *Shigella*, have been employed to deliver HPV-16/58 L1 proteins [92]. Additionally, L1 capsomers (particularly HPV-16) have shown promise. As subunits of capsids, capsomers are more cost-effective and can be more easily replicated in recombinant bacteria, such as *E. coli* [93, 94]. Their thermostability may address the challenges associated with the preservation of VLPs [95].
+
+---
+
+[referencia=d96e30d04596333b score=0.379]
+#### Under development L1-based vaccines
+
+To reduce the manufacturing costs of VLP L1-based HPV vaccines, simpler expression systems, such as *E. coli,* have been employed. The manufacturer of Cecolin® (Xiamen Innovax Biotech, China) is working on a nonavalent vaccine (HPV-6/11/16/18/31/33/45/52/58) produced in *E. coli*, which is currently in Phase 3 (NCT05056402). Other examples include the Quadri (HPV-6/11/16/18) and nonavalent (HPV-6/11/16/18/31/33/45/52/58) L1 VLP vaccines, both developed by Shanghai Bovax Biotechnology using *Hansenula polymorpha* (a methylotrophic yeast), which are currently in Phase 3 clinical trials (NCT04425291). Several other companies engaged in the development of L1 HPV vaccines, including a trivalent vaccine by the Health Guard, China (HPV-16/18/58), which is in the preclinical phase [84]; a bivalent vaccine by Shanghai Zerun Biotechnology (HPV-16/18); a tetravalent vaccine by the China National Biotech Group (HPV-16/18/52/58); and another tetravalent vaccine by the Serum Institute of India (HPV-6/11/16/18) [85, 86].
+
+The most recent and innovative prophylactic HPV vaccine is likely the eleven-valent vaccine, developed by the National Vaccine and Serum Institute in China, which is currently undergoing a Phase 3 clinical trial (NCT05262010) [87]. The mentioned vaccines are listed in Table 3.
+
+---
+
+[referencia=d96e30d04596333b score=0.351]
+#### Dosing and age of vaccination
+
+Generally, the best time for vaccination to achieve maximum protection is before HPV exposure, since these preventive vaccines may not be effective against an existing infection. Thus, vaccination is usually recommended before sexual exposure commences [45]. The optimal starting age is 11–12 years. The approved vaccination age range for Gardasil® and Cervarix® is between 9 and 26 years and is 9–45 years for Gardasil®. However, the vaccination schedule varies depending on the vaccine’s first administration [28]. Usually, if the first dose is administered at age 15, a two-dose schedule is recommended, with a minimum of a 5-month interval between the two doses (the optimal time is 6–12 months after the first dose). If the second dose is given within the first 5 months, a third dose is needed 4 months after the second dose. A three-dose vaccination plan is recommended to ensure efficacy if the initial vaccination age is over 15 years. If the schedule is interrupted, there is no need to restart, and vaccinations can continue as scheduled [28, 36, 46]. Additionally, the three-dose schedule is also recommended for individuals with a weakened immune system aged 9–26 years [47, 48]. Notably, as of December 2022, WHO has recommended a one- or two-dose schedule for girls aged 9–14 and girls and women aged 15–20 years [49, 50]. WHO updated its recommendations for the HPV vaccination schedule in early October 2024 to introduce a single-dose schedule of Cecolin® as an alternative that demonstrated efficacy and protection durability comparable to the previous two-dose schedule [25], following the previously announced off-label alternative schedule for using one single dose of HPV vaccines. The single-dose regimen was proposed as an off-label schedule. Single-dose vaccination against HPV has been gaining popularity; its usage increased from 20% in 2022 to 27% in 2023, with adoption by 23 countries in 2023.
+
+---
+
+[referencia=d96e30d04596333b score=0.307]
+<sup>*</sup>Single-dose vaccination is already recommended by WHO (off-label)
+
+The limitations of current HPV vaccines have spurred the development of second-generation vaccines, such as L2-based vaccines. These vaccines aim to overcome the issue of type-specificity and could potentially work against a wider range of HPV genotypes, offering hope for future advancements in HPV vaccine development.
+
+Given the prophylactic nature of current L1 vaccines and their lack of efficacy against existing infections, ir is crucial to develop a therapeutic vaccine or a combination of therapeutic and preventive vaccines. This approach could greatly enhance the effectiveness of HPV vaccines and is an active area of research and development [74, 75]. Post-translational proteins E6 and E7 can be used as antigenic candidates for therapeutic vaccines, as high concentrations of these proteins are consistently found in CxCa cases [74, 75]. Some studies have also included E5 in addition to E6 and E7 [76–78].
+
+Research on therapeutic vaccines is ongoing, as discussed elsewhere [79–81]. Chimeric L1‒L2 VLPs have also been explored as alternative preventive vaccines [82, 83].
+
+---
+
+[referencia=d96e30d04596333b score=0.285]
+- 30.Markowitz LE, et al. Human papillomavirus vaccination: recommendations of the advisory committee on immunization practices (ACIP). Morb Mortal Wkly Rep. 2014;63(5):1–30. [PubMed] [Google Scholar]
+- 31.Joura EA, et al. A 9-valent HPV vaccine against infection and intraepithelial neoplasia in women. N Engl J Med. 2015;372(8):711–23. [DOI] [PubMed] [Google Scholar]
+- 32.Qiao Y-L, et al. Efficacy, safety, and immunogenicity of an escherichia coli-produced bivalent human papillomavirus vaccine: an interim analysis of a randomized clinical trial. JNCI J Nat Cancer Inst. 2020;112(2):145–53. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 33.Hu Y-M, et al. Immunogenicity noninferiority study of 2 doses and 3 doses of an Escherichia coli-produced HPV bivalent vaccine in girls vs 3 doses in young women. Sci China Life Sci. 2020;63(4):582–91. [DOI] [PMC free article] [PubMed] [Google Scholar]
+- 34.Recombinant Human Papillomavirus Bivalent (Types 16, V.P.p., Package Insert, Walvax Yuxi Zerun Biotechnology Co., Available at: https://en.walvax.com/media/upload/product/Package%20Insert%20of%20HPV2.pdf, 2023. .
+- 35.Serum Institute of India PVT LTD., P.s.i.I., Cervavac, Available at: https://www.seruminstitute.com/product_ind_cervavac.php, 2023.
+- 
+36.Cox, J.T. and J.M. Palefsky, *Human papillomavirus vaccination.* UpToDate. Waltham, MA. Accessed September, 2018.**15** .
+
+---
+
+[referencia=d96e30d04596333b score=0.276]
+#### Routes of administration and dosage forms
+
+HPV vaccines are administered via IM injections, similar to many other vaccines. They are relatively easy to apply, create a reservoir of immunogenic substances, and have been shown to be sufficiently safe [7]. However, the demand for more convenient routes remains undeniable.
+
+Electroporation can increase the injection efficiency. Electric pulses induce the breakdown of the keratinocyte structure in the skin. It facilitates the transport of immunogenic substances through the cell membrane, allowing a higher number of antigens to encounter immune compartments. For example, a DNA-based therapeutic vaccine (MEDI0457) targeting E6 and E7 of HPV-16 and −18, was investigated in a Phase 1 clinical trial using an electroporation device, called CELLECTRA®. After each vaccine dose, electroporation with CELLECTRA® was performed. Although no comparison was made between the use and nonuse of CELLECTRA®, the regimen was deemed safe and well-tolerated [165]. The transdermal route is another newly suggested route for HPV vaccine administration. Due to the abundance of immune cells, including Langerhans cells, T cells, and dermal dendritic cells, transdermal delivery, similar to intradermal delivery, effectively facilitates the interaction between immunogenic substances and immune cells. For example, microparticles containing HPV16 L1 + L2 VLPs were prepared and loaded onto an AdminPatch®. The administration of this patch to BALB/c mice induced a robust immune response, as evidenced by elevated IgG titers and immune cell populations (CD4 + , CD8 + , CD27 + , CD45R + , and CD62L + cells). This approach may offer a promising alternative for less invasive, efficient, and pain-free vaccine administration [166].The intranasal and oral routes are also being evaluated for different vaccines due to their convenient usage and potential to induce mucosal immunity. These formulations could be specifically promising for first-line protection against HPV infection. Oral vaccines are of particular interest, especially in the form of particulate nanostructures. These particulate systems can protect antigen integrity under enzymatic and acidic conditions in the stomach and intestine. Moreover, nanoparticles can cross-present antigens to induce T-cell responses and usually do not require further adjuvants.

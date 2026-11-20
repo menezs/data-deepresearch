@@ -1,0 +1,19 @@
+[referencia=e3d2daeea116173b score=0.424]
+As adoption of artificial intelligence in the US outpaces efforts to regulate it, organized labor is providing an important check on how the technology gets used, according to the head of the Hollywood actors’ union.
+
+“Collective bargaining has been the fastest and most effective way for the regulation of AI technology,” SAG-AFTRA Executive Director Duncan Crabtree-Ireland said Thursday at an AFL-CIO workers’ summit in Washington.
+
+AI usage is a key issue in SAG-AFTRA’s ongoing negotiations of a new contract with Hollywood studios. The existing agreement expires in June. Crabtree-Ireland said the union is focused on limiting the use of AI performers, including digital replicas of human actors and “synthetic” characters that do not correspond to real people. A so-called “Tilly tax” — named for controversial AI actress Tilly Norwood — would levy a fee on “synthetic” performers to make using them cost as much as using real actors.
+
+“We’ve got to make sure the economic incentives drive work for humans,” Crabtree-Ireland said.
+
+SAG-AFTRA secured several AI-related protections for its members, including requirements that studios obtain informed consent and provide fair compensation for the use of digital replicas, after a 2023 strike that ground Hollywood to a halt for nearly four months.
+
+Crabtree-Ireland also called on Congress to pass the bipartisan NO FAKES Act, which would give people ownership over their own voice and likeness to protect them from unauthorized, AI-generated replicas known as deepfakes.
+
+*breaks the traditional barrier between audience and newsroom. The show transforms*
+
+**Fortune Daily**
+*Fortune*’s trusted reporting into actionable, conversational, and entertaining insights for an emerging class of business leaders.
+
+**Watch here.**

@@ -1,0 +1,565 @@
+[referencia=26991fcd7fe5b57f score=0.073]
+The following pages set out findings from the trial, and are the joint product of the research teams at Boston College, the University of Cambridge and Autonomy – with the section below detailing the trial’s collaborative team in greater detail. 
+
+First, the report sets out the methodologies and forms of data collection employed in the course of the trial research, introduces key components of the four-day week trial’s design, and offers a breakdown of the participating organisations. We then turn to an analysis of data collected over the course of the trial: first, looking at the key metrics in company performance, such as revenue and staff turnover, before turning to employee-focused data, including health, well-being and work-life balance. 
+
+Finally – and as an important addition to much of the previous four-day week trial research – we offer a range of ‘perspectives from the shopfloor’, drawing on extensive interview data from trial participants, staff and managers alike. We include focused case studies that highlight standout examples of differing practice across the four-day week companies, showing how participants, in their own words, tackled challenges, perceived the impacts, and reflected on the trial experience. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+13
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.065]
+##### ~~COMPANY PERFORMANCE~~ 
+
+Given how varied the pilot companies are in their size, industry, and data collection practices, we confined the data collection to a small set of metrics that it was expected every company would be able to provide. These were revenue, the number of employees in the company, resignations, new hires, and sick and personal days taken. 
+
+We also asked about energy usage but because many companies were unable to provide such data, this has not been included. Since not all companies provided data on all of the metrics, there is a slight variation in the number of companies included in our calculations across metrics. 
+
+We were also mindful that some of the data we were collecting may have seasonal variation, over the six months of the trial. Before the trial started, we therefore asked for data from the same six month period a year earlier – which was in most cases June to December 2021, but in others was a different, comparable period. In the table below, we call this the 'comparison' period. For a number of the metrics we compare trial performance to the comparison period. 
+
+Of course, as is the case with other findings in the report, companies remained susceptible to a range of exogenous factors during the trial period – including changes in the economic climate – which can also take effect on such metrics. As such, we should be attentive first and foremost to broad tendencies. 
+
+The first metric is revenue, perhaps the most global measure of performance. We compared revenue at the end of the trial to the beginning of the trial for the 23 companies who supplied sufficient data across the six months. For a separate 24 organisations, we compared revenue from a prior comparison period to that of the trial period. 
+
+We weighted the data by company size, so that the very small (or big) companies would not have too much (or too little) impact on the results. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+29
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.063]
+###### EMPLOYEES 
+
+Around 2,900 staff took part in the pilot overall. At baseline, 1967 out of the 2548 employees who received the survey went on to complete it, resulting in a response rate of 77%. The response rate is somewhat lower at midpoint (67%) and endpoint (58%), which is typical in panel surveys. 
+
+Of those who completed the baseline survey, 70% participated in the endpoint survey as well, making it possible for us to track changes from before to after the trial. All findings reported below rely on this sample. 
+
+Regarding cohort demographics, a majority of the sample’s gender composition is female, with 62% self-identifying as women, 37% as men, and 1% as the ‘Other’ category. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+19 
+
+
+
+<!-- Start of picture text -->
+Other<br>1%<br>Male<br>37%<br>62%<br>Female<br><!-- End of picture text -->
+
+_Figure 3: Gender composition of participating employees_ 
+
+Almost nine-in-ten (88.8%) lived in the UK when surveyed, followed by some living in Australia (3.7%), Canada (3.5%), US (2.0%) or Other (2.1%). 
+
+Most employees in the sample were White (90%); 4% Asian/Asian British; 2% Black, Black British, Caribbean or African; 3% ‘Mixed or multiple ethnic groups’ and 2% identify as ‘Other ethnic group’. 
+
+
+
+<!-- Start of picture text -->
+1000 90%<br>800<br>600<br>400<br>200<br>4% 3% 2% 2%<br>0<br>Race<br>White British or White Other Asian or Asian BritishMixed or multiple ethnic groupsBlack, Black British, Caribbrean, or African Other ethnic group<br>Number of employees<br><!-- End of picture text -->
+
+_Figure 4: Racial composition of participating employees (sample)_ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+20 
+
+Age is fairly evenly distributed across the cohort. Just over one third (37%) of respondents are below age 35; 30% are between 35 and 44, and around 33% are 45 years of age or above.
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.041]
+# THE RESULTS ARE IN: THE UK’S FOUR-DAY WEEK PILOT 
+
+February 2023 
+
+
+
+
+
+
+
+###### Authors 
+
+###### Autonomy team 
+
+Kyle Lewis Will Stronge Jack Kellam Lukas Kikuchi 
+
+###### Quantitative research team 
+
+Prof. Juliet Schor, Boston College Prof. Wen Fan, Boston College Prof. Orla Kelly, University College Dublin Guolin Gu, Boston College 
+
+###### Qualitative research team 
+
+Dr. David Frayne - University of Cambridge Prof. Brendan Burchell - University of Cambridge Niamh Bridson Hubbard - University of Cambridge Jon White - University of Cambridge 
+
+Dr. Daiga Kamarāde - University of Salford Francisca Mullens - Vrije Universiteit Brussel 
+
+
+
+Autonomy is an independent research organisation which creates datadriven tools and research for sustainable economic planning. 
+
+Published 2023 by © Autonomy 
+
+Autonomy Research Ltd Cranbourne Pilcot Road Crookham Village Hampshire GU51 5RU 
+
+This project was partially supported by the Barry Amiel & Norman Melburn Foundation. The qualitative strand of this project was partly supported by funding from the University of Cambridge, as well as the UK Economic and Social Research Council [grant number ES/S012532/1], as part of the Digital Futures at Work Research Centre (Digit). This support is gratefully acknowledged. 
+
+CONTENTS 4 Executive summary 8 14 Introduction Trial format 
+
+26 
+
+Company data findings 
+
+31 
+
+49 
+
+Employee data findings Perspectives from the shopfloor 
+
+66 
+
+Conclusions
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.040]
+#### COMPANY DATA FINDINGS 
+
+For the organisations, the trial has been a success. Of the 61 companies that participated, 56 report that they are continuing with the four-day week immediately following the pilot. 18 of these continuing companies have said that the policy is permanent.<sup>22</sup> 
+
+Of the 5 who are not continuing, 2 have opted to extend their trials of shorter working hours (one started late and is still in the pilot phase and the other is experimenting with a four-and-a-half day week). 3 others have paused the fourday week in their organisation for the time being. 
+
+On a scale of 0-10 where 0 is very negative and 10 is very positive, the cohort rated their overall experience of the trial as 8.3 on average. The vast majority of companies were also satisfied that business performance and productivity were maintained. When asked about how their overall company performance was affected by the trial, the average score was 7.5. In response to a question about how their company’s productivity has been affected by the trial, the average score was 7.5. 
+
+
+
+<!-- Start of picture text -->
+92%<br>50<br>40<br>30<br>20 30%<br>10<br>5%<br>3%<br>0<br>Continuing with the Four-day week policy Paused Still in pilot phase of<br>four-day week is permanent one kind or another<br>Plans following trial period<br>Number of companies<br><!-- End of picture text -->
+
+_Figure 6: Participating companies were asked what their plans were subsequent to the trial._ 
+
+22 These findings were confirmed by email and telephone in the case of each company. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+28
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.038]
+#### EXECUTIVE SUMMARY 
+
+This report details the full findings of the world’s largest four-day working week trial to date, comprising 61 companies and around 2,900 workers, that took place in the UK from June to December 2022. 
+
+- **»** The design of the trial involved two months of preparation for participants, with workshops, coaching, mentoring and peer support, drawing on the experience of companies who had already moved to a shorter working week, as well as leading research and consultancy organisations. 
+
+- **»** Companies, which included a range of organisations from diverse sectors and sizes, were not required to rigidly deploy one particular type of working time reduction or four-day week, so long as pay was maintained at 100% and employees had a 'meaningful' reduction in work time. 
+
+- **»** Resisting the idea that the four-day week must be ‘onesize-fits-all’, each company designed a policy tailored to its particular industry, organisational challenges, departmental structures and work culture. A range of four-day weeks were therefore developed, from classic ‘Friday off’ models, to ‘staggered’, ‘decentralised’, ‘annualised’, and ‘conditional’ structures. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+6
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.034]
+###### _You can’t change things without things changing_ 
+
+_(Staff member, Sales and operations)_ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+57 
+
+Several organisations asked staff to sign an ‘efficiency charter’ or ‘productivity agreement’, in order to cement an understanding that the four-day week included a commitment to increase productivity. Other companies required departments to submit plans about the changes they would be making to accommodate a four-day week. 
+
+The most common ways of improving productivity we heard about included: 
+
+- **»** Reforming the norms around meetings, making them shorter, less frequent, and with clearer agendas and objectives. 
+
+- **»** Reforming email etiquette, encouraging staff to be more attentive to the purpose of their messages and who needs to be involved. 
+
+- **»** Asking staff to analyse and time each step of the manufacturing process, to identify ways to save time and develop a new set of production targets. 
+
+- **»** Introducing a ‘heads down’ or ‘focus’ period – a designated time of day for staff to conduct independent work uninterrupted. 
+
+- **»** Automating aspects of work (for example, introducing auto-filling reports, email templates or automating certain aspects of customer service). 
+
+- **»** Adopting new project management software, or consolidating internal communications and documents into a single piece of software. 
+
+- **»** Reorganising calendars to promote ‘monotasking’, eliminating the time wasted on switching between tasks. 
+
+- **»** Creating a task-list before leaving work, in order to hand over to colleagues or hit the ground running on the following day. 
+
+- **»** Reducing the number of staff involved in a particular process. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+58
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.033]
+20% 
+
+78% Reported no change 
+
+_Figure 17: Change to participating employees’ workload over the course of the trial period. At the endpoint survey, employees were asked to report whether their workload had increased, decreased or remained the same._ 
+
+Interestingly, 52% of employees reported an increase in leisure travel, while 44% reported no change in this regard. 21% of employees reported a reduction in childcare costs (versus 1% who reported an increase). 
+
+Reported increase 1% 
+
+Reported decrease 21% 
+
+78% Reported no change 
+
+_Figure 18: Change to participating employees’ workload over the course of the trial period. At the endpoint survey, employees were asked to report whether their workload had increased, decreased or remained the same._ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+44 
+
+##### ~~CONTINUITIES~~ 
+
+In addition to the changes reported above, our surveys found that many things did not change, which is a welcome finding in various cases. Perhaps most importantly, while there was a small, weakly statistically significant increase in ‘average’ work intensity over the course of the trial (from 3.64 to 3.69 on a ‘1 to 5’ scale), across individual respondents perceived changes were roughly evenly split. While just over a third (36%) of employees did register an increase, nearly as many (31%) believed it had declined, and the remainder (33%) saw no change in their work intensity. 
+
+We also found that the perception of complexity within people’s work - another kind of intensification - did not rise on average. 42% of employees did have some increase in complexity, but another 42% had a decrease and the remainder (16%) had no change. Another reassuring finding is that employees’ perception of job security remained very similar over the course of the trial (measuring a slight reduction on average of 3.59 at startpoint to 3.54 at the end, taken from a 4 point scale from 1, ‘very likely’ to 4, ‘not at all likely’). Likewise, there was a significant decrease in the employees being likely to leave their jobs, with 30% less likely to change jobs at the end of the trial than the beginning. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+45
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.031]
+_The conversations people were having, they would not have had if not for the shared incentive of making this work… It has been like flicking on a switch for some folks. (CEO)_ 
+
+We heard a lot of stories about the time-saving ideas generated in the preparatory workshops. The trades staff have reduced their travel time to and from the building supplier by having more foresight about what materials are needed and finding better ways to organise their van. They also now feel comfortable going home early when there is less to do. Office teams are automating certain processes and redesigning others to involve fewer personnel, and communityfacing teams have taken lessons forward from remote working, having realised that some smaller issues can be dealt with adequately over the phone. 
+
+The staff and CEO were all clearly proud of the collective approach taken to the pilot preparations, describing it as a positive experience. Staff knowledge and involvement were seen as key to making the four-day week a sincere and realistic policy, rather than an empty gesture. 
+
+_What we don’t want is this underground of people who are notionally working a four-day week but secretly working at the weekend to catch up. (CEO)_ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+56
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.030]
+###### RESIGNATIONS, NEW HIRES AND ABSENCES 
+
+We also asked about a number of other trends that we expected might be affected by the four-day week schedule. The first was resignations. The trial took place during a period popularly known as the 'Great Resignation,' where workers have been quitting their jobs at record rates. 
+
+However, in the four-day week companies, there was a substantial decline in the likelihood that an employee would quit between the comparison period and during the trial. Measured as the number of resignations per 100 employees, we found a decline from 2 to 0.8 from the comparison to the trial period (57%). This suggests that the four-day week helped reduce exits from these organisations. 
+
+We also found a downtick in new hiring, from 3.4 per hundred employees to 2.4 (a 37%). There was a change in absenteeism, measured as sick and personal days per employee per month. Those fell from a reported 2.0 in the comparison period to just 0.7 during the trial (a 65% reduction). In part because of the small numbers in the sample, and in part because of labour market contingencies, we are unable to say that these three trends are statistically significant. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+31
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.028]
+For the time diary we drew from the 25 harmonised activity codes laid out in the Multinational Time Use Study (MTUS) user guide. We adapted these activities slightly to suit our research needs, for example, splitting the 'paid work' activity into 'main paid work' and 'other paid work' and adding an activity for 'transit' between other activities. 
+
+###### INTERVIEW DATA 
+
+Employee interviews were carried out by the research team at the University of Cambridge, in order to complement and provide context to the survey data. Before the pilot began in June 2022, researchers created a selective sample that included a spread of industries. A key contact in each of the selected companies was then approached with an invitation to sign up to the interview strand of the pilot research. The companies that consented took part in one or more of the following engagements, depending on their availability. 
+
+- **»** Pre-pilot interview with a senior staff member (usually the CEO). 
+
+- **»** Mid-pilot interviews with a selection of individual staff members.<sup>18</sup> 
+
+- **»** End-of-pilot interview with a senior staff member (usually the CEO).<sup>19</sup> 
+
+> 18 In cases where a large number of staff from a particular company volunteered for an interview, the researchers prioritised including a mixture of roles and seniority levels. 19 Senior staff were invited to an endpoint interview if they had already taken part in a pre-pilot interview. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+17 
+
+58 interviews were conducted over the pilot period, lasting approximately one hour each. These covered a spread of 23 companies, including representation from manufacturing, hospitality, the creative industries, the third sector, finance, education, marketing and professional care. 
+
+The UK pilot was the largest-scale pilot of its kind to include interview research and can be seen as providing a map of topics that future pilots may wish to investigate further. With this in mind, the interviewers took a semi-structured approach, combining a standard set of questions with opportunities for interviewees to introduce their own topics and provide extended responses. The interview findings can be found in the ‘Perspectives from the shopfloor’ chapter.
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.027]
+_Being busy doesn’t make you stressed, being out of control is what makes you stressed… We want to be more busy, less stressed. I don’t like being bored at work, I like it when there’s an atmosphere of things happening… If we’re busy it means there is a lot of beer going out of the door and things are going well._ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+59 
+
+###### ~~PERSONAL IMPACTS~~ 
+
+A temporary pilot of six months can never reveal the full impacts of a four-day week policy. Reducing the working week is a significant change, and it takes time for individual experiences, behaviours and priorities to shift. However, it is notable that our mid-point interviews with staff – 3 to 4 months into the pilot – already indicated the policy’s significant impacts on people's lives, both inside and outside of work.
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.027]
+#### PERSPECTIVES FROM THE SHOPFLOOR 
+
+In addition to company and employee surveys, the UK pilot included a series of research interviews with the pilot companies. These were co-ordinated by social researchers at the University of Cambridge, assisted by Autonomy. From these we can glean richer testimonies about the day-to-day practice of the pilots, from staff at various levels. 
+
+These interviews sought to understand why companies took part in the pilot, how exactly they implemented the four-day week, how staff were experiencing the pilot, and thoughts on the future of the four-day week in the company. 
+
+~~MOTIVATIONS~~ 
+
+The pre-pilot interviews with company seniors gave insight into what attracted companies to the pilot. Almost all of the senior managers interviewed told us that they had been aware of the four-day week for some time, citing news stories and examples of pre-existing four-day week experiments. The public sector trial in Iceland was a common source of inspiration.<sup>24</sup> 
+
+A 2022 employer survey by the CIPD found that 34% of respondent organisations thought the four-day week will be a reality for most UK workers during the next ten years.<sup>25</sup> This is consistent with the feeling among senior managers we interviewed, who saw the pilot as an opportunity to be at the forefront of historical change. We were also commonly told that putting oneself forward as a pioneer maximises the competitive advantages of having a fourday week, such as its benefits for reputation, recruitment and retention. 
+
+> 24 Autonomy (2021) ‘Going Public: Iceland’s Journey to a Shorter Working Week’. <u>https://autonomy. work/portfolio/icelandsww/</u> 
+
+> 25 CIPD (2022) ‘The Four Day Week: Employer Perspectives on Moving to a Shorter Working Week’. <u>https://www.cipd.co.uk/knowledge/fundamentals/relations/fexible-working/four-day-week#gref</u> 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+51
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.027]
+##### ~~WHAT KIND OF FOUR-DAY WEEK?~~ 
+
+To participate in the pilot, companies were not required to rigidly deploy one particular type of working time reduction or four-day week. They were able to join so long as they maintained pay at 100% and gave employees a 'meaningful' reduction in work time. Resisting the idea that a four-day week policy must be ‘one-size-fits-all’, each company designed a policy tailored to its particular industry, organisational challenges, departmental structures and work culture. 
+
+We found the following types of four-day week being piloted.<sup>21</sup> 
+
+Fifth day stoppage 
+
+The company shuts down operations for one additional day per week. This was a popular choice in companies where staff collaboration is more important than five-day coverage. 
+
+Example: A video game studio opted for a fifth day stoppage, because it was important for staff to be present at the same time for collaboration. After polling staff on preferences, the studio decided they would suspend work for everybody on Fridays. 
+
+21 There was sometimes overlap between these models. For example, a company could have an ‘annualised’ four-day week, on a ‘staggered’ pattern, or have a ‘decentralised’ model, involving a ‘conditional’ element. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+21
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.024]
+_Figure 7: Change in participating employees’ working time between baseline and endpoint surveys. Employees were asked to report how many hours they worked a week._ 
+
+
+
+<!-- Start of picture text -->
+Less than one day off per week<br>11%<br>89%<br>One day off per week<br><!-- End of picture text -->
+
+_Figure 8: Participating employees were asked what their working time arrangement was during the trial period._ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+34 
+
+###### Reported increase Reported decrease 
+
+
+
+<!-- Start of picture text -->
+9%<br>6%<br>85%<br><!-- End of picture text -->
+
+Reported no change 
+
+_Figure 9: Change in participating employees’ remote working patterns between baseline and endpoint surveys. Employees were asked to report their remote working status on a 3 point scale (from ‘never’ to ‘fully’ remote)._ 
+
+
+
+<!-- Start of picture text -->
+Reported increase<br>17%<br>Reported decrease<br>34%<br>49%<br>Reported no change<br><!-- End of picture text -->
+
+_Figure 10: Change in participating employees’ overtime between baseline and endpoint surveys. Employees were asked to report how often they worked overtime on a 4 point scale (‘never’ to ‘daily’)._ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+35 
+
+_“You have no idea what this will mean to my family - the amount of money we will be able to save on childcare”_ 
+
+_(Staff member, non-profit organisation)_ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+36
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.023]
+##### ~~CHANGES~~ 
+
+When we consider the quality and experiences of work during the trial, a number of different metrics stand out. First, we asked employees how their current work ability compared to their lifetime best. Before the trial began, average self-rated ability was 7.06 on a scale from 0-10. At the end of the trial, it had risen significantly, to 7.88. In short, people felt that they were doing a better job at work with the shift to a four-day week. Overall, 55% of employees reported an increase in their ability at work. 
+
+
+
+<!-- Start of picture text -->
+Reported decrease<br>19%<br>Reported increase 55%<br>26%<br>Reported no change<br><!-- End of picture text -->
+
+_Figure 16: Change to participating employees’ perception of their own work ability between baseline and endpoint surveys. Employees were asked to report, on a 0-10 scale (‘worst’ to ‘best’) how their current work ability compared with their lifetime best._ 
+
+We found that employees were also able to exercise an increased level of control over their schedules. We assessed schedule control using a multi-item scale (from 1 ‘very little’, to 5 ‘very much’) which includes control over days worked, number of hours, time off work and when each workday begins and ends. Before the trial began, the average value was 3.55, which increased modestly, to 3.59, with 44% of employees reporting an increase in control, while 38% reported a decrease. 
+
+There was also a reported increase in the pace of work. 62% of employees thought their pace of work increased, 36% thought it was the same (a very small group – 2% – felt it decreased). However, although the pace of work may have increased, for most employees (78%) there was no significant increase in workload (although 20% did perceive an increase). 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+43 
+
+Reported decrease Reported increase 2% 
+
+
+
+20% 
+
+78% Reported no change 
+
+_Figure 17: Change to participating employees’ workload over the course of the trial period. At the endpoint survey, employees were asked to report whether their workload had increased, decreased or remained the same._
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.021]
+For many, there was little desire to return to old ways of working. Asked to make a hypothetical trade-off between working time and pay, 70% of employees noted that they would require a higher salary of between 10-50% to go back to a full, five-day schedule. A further 8% claimed that they would need more than 50% extra pay or more. For 15%, there was no amount of money that could take them back from the four-day week. 
+
+Taken as a whole, results from the UK trial therefore make clear that the four-day week is ready to take the next step from experimentation to implementation. Those looking to move to shorter working hours now have access to a growing base of organisations already ‘ironing out’ the four-day week in practice, by adapting different models and structures to the demands of their own size and sector, and building up a toolkit of tips and tactics to be drawn upon by others. The benefits of a shorter working week for no reduction in pay are now both well-known and well-evidenced: employees are happier and healthier, and the organisations they work for are often more productive, more efficient, and retain their staff more readily. To this, the UK trial adds a wealth of ‘on-the-ground’ knowledge for the next wave of adopters to make the fourday week a reality. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+69 
+
+
+
+autonomy.work 
+
+###### Published 2023 by: 
+
+###### © Autonomy 
+
+Autonomy Research Ltd Cranbourne Pilcot Road Crookham Village Hampshire GU51 5RU
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.021]
+##### ~~WORKING TIME REDUCTIONS~~ 
+
+We turn now to the data we collected from employees. When we report a ‘change’, this means the difference between the baseline and endpoint values is statistically significant. 
+
+Our findings show that the trial changed the workplace in important ways. As expected, work time declined, from 38 hours per week on average to 34. While this isn’t a full reduction to 32 hours, this can be attributed to a few companies executing less than an 8 hour reduction (and starting from above 40 hours on average). In other organisations, people were still doing some work on the day off. Nevertheless, there was a significant average reduction of a full 4 hours of work across the week. 
+
+When measured by the number of people whose work time went down (or up), we find that 71% of the sample reported a decline in working hours, while 15% were working more and 13% experienced no change. Similarly, the average number of days worked went from 4.86 to 4.52 (slicing off roughly a third of a day). It appears that many employees experienced four-day weeks, but occasionally carried out modest amounts of work on the fifth day.<sup>23</sup> 
+
+In other positive findings, the frequency of overtime also fell, both on average and in terms of individual experiences, with over a third (34%) of employees reporting reductions in overtime. However, 49% reported no change in their overtime hours. It is also notable that the amount of days spent remote working declined slightly over the trial, from an average of 2.88 days per week to 2.66 (a 34% reduction), even though, at the end of the trial, more people reported working remotely at least some of the time (with 9% increasing their level of remote working, compared to 6% decreasing). 
+
+23 This was corroborated by the interview component of the research. See ‘Perspectives from the shopfloor’ chapter. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+33 
+
+
+
+<!-- Start of picture text -->
+Reported increase<br>15%<br>Reported no change<br>13%<br>71%<br>Reported decrease<br><!-- End of picture text -->
+
+_Figure 7: Change in participating employees’ working time between baseline and endpoint surveys. Employees were asked to report how many hours they worked a week._ 
+
+
+
+<!-- Start of picture text -->
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.021]
+###### ~~FINDING EFFICIENCIES~~ 
+
+The pilot interviews gave insight into how organisations planned to reduce their working hours without significantly compromising their business or, in the case of non-profit organisations, their civic mission. 
+
+While one obvious way to do this might be by growing the workforce, it is notable that only two organisations we interviewed used additional recruitment as part of their strategy to achieve a four-day week. Separate from these organisations, senior managers of two further companies also told us that their plans for a permanent move to a four-day week may involve increasing their reliance on subcontractors, who would not be working a four-day week. 
+
+Comparably, only a small handful of companies considered reducing output as part of their strategy. One company, for example, decided to save time by letting go of a small number of minor clients, whereas another cancelled a small number of projects that were not seen as core to the organisation’s purpose. A third company also believed so much in the benefits of the four-day week for staff, its CEO said he would be prepared to tolerate a small loss in profit to keep the policy in place. 
+
+In all other cases, the companies we interviewed aspired to maintain 100% of their output on a four-day week, without additional recruitment. The policy was implemented with an attempt to increase productivity _._ 
+
+Some interviewees suggested that the required increase might, to some extent, be an automatic effect of the four-day week, which provides staff with a strong incentive to finish their work, and sees people returning to work feeling more energised than they would on a five-day week. 
+
+No company we interviewed, however, relied on this faith; all took practical measures to reform certain work processes and increase productivity. Indeed, over the course of the pilot, managers and staff alike repeatedly praised the value of the four-day week as a catalyst for organisational change, and explained how the promise of the policy had energised staff to think in fresh ways about what they did and how they did it.
+
+---
+
+[referencia=26991fcd7fe5b57f score=0.020]
+###### WORK CULTURE 
+
+In line with the very high satisfaction ratings recorded for overall staff experience of the pilot, most of the staff we interviewed described positive changes to work culture, tied to the introduction of a four-day week. Some staff talked about the sense of energy and shared purpose arising from the collective effort of making the four-day week work. Others talked about feeling valued by their employers or being proud of their organisation, due to its willingness to try something novel. Others still described colleagues as having a 'bounce in their step', or said they enjoyed having conversations with colleagues about what they were doing on their days off. 
+
+We know from the pilot surveys that roughly two thirds of staff did not register an overall increase in work intensity, but we did interview a small number of staff who were concerned about this problem. In one larger company (that did not appear to benefit from a significant period of pilot preparation) several staff had clear concerns about their workload. Some described their work as intensifying, or a battle to work through lengthy to-do lists in the time available. We also heard several second-hand accounts about colleagues who were regularly working into the evenings since starting the pilot, in order to get things done. 
+
+Some managers and staff also expressed concerns that the focus on efficiency may be making the workplace less convivial. One staff member felt it had become taboo to interrupt colleagues, and said there was now notably less socialising in communal spaces like the kitchen. The decline in conviviality appeared to be a particular concern in the creative companies we spoke to, who told us that unstructured encounters at work can be important for generating new ideas. Several managers said they were giving special attention to these concerns. Managers with concerns about their culture were considering, for example, pairing the four-day week with initiatives such as designated team days or a requirement to attend the office for a certain proportion of the week. Their responses underline the importance of focusing on job quality, in the process of implementing reduced working time. 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+65 
+
+_“When you realise that day has allowed you to be relaxed and rested, and ready to absolutely go for it on those other four days, you start to realise that to go back to working on a Friday would feel really wrong - stupid actually”_ 
+
+_(CEO, consultancy company)_ 
+
+The UK’s four-day week pilot 
+
+Autonomy 
+
+66

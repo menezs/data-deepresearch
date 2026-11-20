@@ -1,0 +1,207 @@
+[referencia=ba0a1d26baec7c1f score=0.868]
+# California Makes Unauthorized AI Digital Replicas of Actors Illegal: What Filmmakers Need to Know
+
+California just established the strongest protections in the United States for actors facing AI replication technology. On September 17, 2024, Governor Gavin Newsom signed two groundbreaking bills that fundamentally change how the entertainment industry can use digital replicas of performers.
+
+**Update (January 2026)**: These laws officially took effect on January 1, 2026. Read our comprehensive guide on what filmmakers need to know now that these regulations are enforceable, including exemptions, consent requirements, and practical compliance strategies.
+
+
+The legislation, AB 2602 and AB 1836, makes California the first state to comprehensively regulate AI generated replicas of both living and deceased performers. For filmmakers, production companies, and content creators, these laws establish clear boundaries while protecting the integrity of human performance.
+
+## Understanding the Two Bills: AB 2602 and AB 1836
+
+Governor Gavin Newsom signed legislation that extends SAG-AFTRA's recently won AI protections into California law. The two bills work together to create comprehensive protection for performers at every stage.
+
+### AB 2602: Protecting Living Performers
+
+AB 2602 prohibits contractual provisions that would allow for the use of a digital replica of an individual's voice or likeness in place of the individual's actual services, unless the individual gave their consent to a clear, specific description of how the AI would be used.
+
+The law requires labor contracts to specify if AI generated replicas of a performer, imitating their likeness or voice, are being used, and mandates that the performer is represented by a union or lawyer in such contracts.
+
+This means production companies cannot slip AI replica clauses into standard contracts. Every use must be explicitly described, negotiated with legal or union representation, and clearly consented to by the performer.
+
+### AB 1836: Protecting Deceased Performers
+
+AB 1836 prohibits the use of a deceased person's voice or likeness in digital replicas without the prior consent of their estate. The law prohibits commercial use of digital replicas of deceased performers in films, TV shows, video games, audiobooks, sound recordings and more, without first obtaining the consent of those performers' estates.
+
+The California bill removes some existing exceptions that were in place for film, TV, and audiovisual work when it came to digital replicas. This tightening of protections ensures that families maintain control over how a performer's legacy gets used in the AI age.
+
+---
+
+[referencia=ba0a1d26baec7c1f score=0.824]
+## Key Takeaways for Filmmakers
+
+California's AB 2602 and AB 1836 establish comprehensive protections for performers against unauthorized AI digital replicas. The laws require:
+
+**Explicit consent from living performers** with clear descriptions of AI usage, professional representation in negotiations, and fair compensation.
+
+**Estate permission for deceased performers** across all commercial uses in film, TV, games, audiobooks, and recordings.
+
+**Updated contracts and protocols** for any production involving potential AI replica usage.
+
+The legislation doesn't restrict AI filmmaking tools or original AI generated content. It ensures that when real performers' likenesses get replicated, they maintain control and receive appropriate compensation.
+
+For filmmakers committed to ethical AI use, these laws provide clarity and establish standards that respect both technological innovation and performer rights. California's approach will likely influence national policy and other states' regulations, making early compliance a strategic advantage.
+
+The entertainment industry is charting a path where AI enhances creativity while honoring the human performers at its heart. These California laws mark a significant milestone in that ongoing journey.
+
+**Note**: For an updated analysis of how these laws work in practice now that they've taken effect, including filmmaker exemptions and compliance strategies, see our 2026 guide to California's Digital Replica Law.
+
+**Related**: For documentary filmmakers specifically, see how AI copyright law and archival footage scraping cases intersect with these protections in our analysis of What AI Copyright Law Means for Documentary Filmmakers.
+
+## Sources and Additional Reading
+
+IndieWire: Using AI to Replace an Actor Is Now Against the Law in California
+
+California Governor's Office: Governor Newsom Signs Bills to Protect Digital Likeness of Performers
+
+SAG-AFTRA: Gov. Newsom Signs Union Championed A.I. Bills at SAG-AFTRA Plaza
+
+CBS Los Angeles: California Bills Protecting Actors from A.I. Replicas Signed into Law
+
+NBC News: Gavin Newsom Signs Bills to Help Provide AI Protections for Actors
+
+---
+
+[referencia=ba0a1d26baec7c1f score=0.236]
+## Why These Laws Matter for the Film Industry
+
+The signing ceremony took place at SAG-AFTRA headquarters in Los Angeles, underscoring the entertainment industry's central role in these protections. SAG-AFTRA President Fran Drescher framed the moment's significance clearly.
+
+"It is a momentous day for SAG-AFTRA members and everyone else, because the AI protections we fought so hard for last year are now expanded upon by California law thanks to the Legislature and Gov. Gavin Newsom," Drescher said. "They say as California goes, so goes the nation!"
+
+National Executive Director and Chief Negotiator Duncan Crabtree-Ireland stated: "AB 1836 and AB 2602 represent much needed legislation prioritizing the rights of individuals in the AI age. No one should live in fear of becoming someone else's unpaid digital puppet".
+
+The laws extend protections beyond just union members. While SAG-AFTRA protections apply primarily to theatrical and TV performers working under that specific contract, the extension of it to protect anyone in California living or dead is a big deal.
+
+## How These Laws Emerged from the SAG-AFTRA Strike
+
+Both of these laws are extensions of what SAG-AFTRA performers already fought for in the strike last year, which is that actors must have informed consent and compensation for anything that involves the use of AI.
+
+The 2023 SAG-AFTRA strike brought AI protections to the forefront of labor negotiations in entertainment. Performers recognized that without clear legal boundaries, digital replica technology could fundamentally undermine their profession and livelihood.
+
+Assemblymember Ash Kalra stated: "While this bill was informed by negotiations during the historic strike by SAG-AFTRA, AB 2602 shows how California can strike the right balance between AI innovation and protecting workers in the digital age".
+
+The legislation demonstrates how labor organizing can translate into broader legal protections that benefit entire industries and professions.
+
+---
+
+[referencia=ba0a1d26baec7c1f score=0.057]
+## Practical Steps for Compliance
+
+Production companies should implement these practices immediately:
+
+**Update all contract templates.** Review and revise standard performer contracts to comply with AB 2602 requirements.
+
+**Establish estate clearance protocols.** Create systematic processes for obtaining deceased performer estate consent when needed.
+
+**Train legal and production teams.** Ensure everyone involved in contracts and negotiations understands the new requirements.
+
+**Document AI usage plans.** Develop clear, specific descriptions of any planned AI replica usage for transparent negotiation.
+
+**Budget for proper compensation.** Factor AI replica licensing and ongoing compensation into production budgets from the earliest planning stages.
+
+## The Bigger Picture: AI Ethics in Entertainment
+
+California's legislation reflects growing recognition that AI technology, while powerful, must respect human dignity and labor rights. The entertainment industry's approach to AI will influence how other sectors handle similar questions.
+
+By establishing clear consent and compensation requirements, California creates a framework where AI enhances rather than replaces human creativity. Performers can participate in AI innovation while maintaining control over their image, voice, and professional value.
+
+For filmmakers, this represents an opportunity to lead in ethical AI adoption. Productions that prioritize informed consent and fair compensation for AI usage build trust with talent and audiences while positioning themselves as industry leaders in responsible technology use.
+
+## Looking Ahead: The Future of AI and Performance
+
+These laws establish a foundation, not a final word. As AI technology evolves, regulations will likely adapt to address new capabilities and use cases.
+
+Filmmakers should stay informed about regulatory developments and maintain flexibility in their AI strategies. What works within today's legal framework may need adjustment as laws evolve to match technological capabilities.
+
+The core principle, however, seems stable: performers deserve informed consent and fair compensation when their likeness or voice gets used, whether through traditional means or AI replication. Building production practices around this principle ensures long term compliance regardless of how specific regulations change.
+
+Check our pricing plans to access professional AI filmmaking tools that respect performer rights and industry standards.
+
+---
+
+[referencia=ba0a1d26baec7c1f score=0.011]
+## The National Context: Federal Legislation on the Horizon
+
+The California law is the first of its kind in the U.S., even as SAG-AFTRA and other labor unions are actively pushing for protections on the federal level, specifically the No Fakes Act that was introduced in the U.S. House of Representatives.
+
+California's action establishes a template for national legislation. As the entertainment industry's primary hub, California law often sets standards that influence federal policy and other states' approaches.
+
+Filmmakers should expect similar protections to emerge in other production hubs like New York and Georgia. Planning for these requirements now, even for productions outside California, positions companies for compliance as regulations spread.
+
+## Balancing AI Innovation with Performer Rights
+
+The laws aim at enhancing protections for performers, both deceased and living, in response to the increased adoption of generative artificial intelligence.
+
+The legislation doesn't ban AI digital replicas. It establishes informed consent and fair compensation as prerequisites for their use. This framework allows technological innovation while respecting performer rights and maintaining the value of human performance.
+
+For filmmakers committed to ethical AI use, these laws actually provide clarity. Rather than navigating uncertain legal terrain, production teams now have clear standards for incorporating AI replicas legitimately into their work.
+
+## What This Means for AI Filmmaking Tools
+
+Tools that create AI generated content for filmmaking purposes remain fully legal and valuable. The California laws specifically address digital replicas of real performers, not AI generated original content.
+
+Filmmakers can still use AI for:
+
+**Original character creation.** AI generated characters that don't replicate real performers face no restrictions under these laws.
+
+**Visual effects and environments.** AI tools for creating backgrounds, effects, and non performer elements remain unrestricted.
+
+**Pre-production and planning.** Using AI for previsualization, storyboarding, and concept development continues without limitation.
+
+**Editorial assistance.** AI tools that help with editing, color grading, and post-production workflows are unaffected.
+
+The distinction is clear: replicating a real performer's voice or likeness requires consent and compensation. Creating original AI content does not.
+
+---
+
+[referencia=ba0a1d26baec7c1f score=0.004]
+## Impact on Video Game Industry and Ongoing Negotiations
+
+The laws might also have an impact on the ongoing labor strike between SAG-AFTRA and the video game studios, as AI is the key sticking point in those negotiations as well.
+
+Video game performers have been particularly vulnerable to AI replacement discussions. The interactive nature of games, combined with their long development cycles and need for extensive voice work, made them a testing ground for AI replication arguments.
+
+These California laws now provide legal backing for performer protections in the gaming sector, potentially shifting the dynamics of those ongoing negotiations. Studios must obtain explicit consent and provide clear descriptions of any AI replica usage, fundamentally changing the negotiation landscape.
+
+## What Filmmakers and Production Companies Must Do Now
+
+The laws take effect for new performances fixed on or after January 1, 2025. Production companies, studios, and independent filmmakers working in California need to update their practices immediately.
+
+### Contract Requirements
+
+Every contract involving potential AI replica usage must now include:
+
+**Explicit description of AI use.** Vague language about "digital technologies" or "future formats" no longer suffices. Contracts must specify exactly how AI replicas will be created and deployed.
+
+**Professional representation.** Performers must have union or legal representation when negotiating contracts that include AI replica provisions.
+
+**Clear consent mechanism.** The performer must explicitly consent to the described AI usage. Broad rights grants that could encompass AI replicas without specific mention are unenforceable.
+
+**Compensation structure.** Any use of a digital replica requires negotiated compensation, not simply a one time payment for capturing the likeness.
+
+### Estate Clearances for Deceased Performers
+
+Projects using digital replicas of deceased performers must obtain proper estate consent. This applies across all media: film, television, video games, audiobooks, and sound recordings.
+
+Production teams should establish estate clearance protocols early in development. Waiting until production to address these requirements creates legal and financial risk.
+
+### Documentation and Compliance
+
+Maintain detailed documentation of:
+
+- All consent discussions and negotiations
+- Specific AI usage descriptions provided to performers
+- Proof of legal or union representation during negotiations
+- Estate clearances for deceased performer replicas
+- Compensation agreements tied to AI replica usage
+
+This documentation protects against future disputes and demonstrates good faith compliance with California law.
+
+---
+
+[referencia=ba0a1d26baec7c1f score=0.000]
+Gavin Newsom | Photo by Gage Skidmore / CC BY-SA 2.0, via Wikimedia Commons
+
+Share this post:

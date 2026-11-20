@@ -1,0 +1,279 @@
+[referencia=89c96cc1d678d8db score=0.740]
+### Fainting and anaphylaxis
+
+- Syncope (fainting) may be caused by injected vaccines, including HPV vaccines. 1011
+  - When fainting was found to happen after vaccination, FDA changed Gardasil’s guidance for doctors to include information about preventing falls and injuries from fainting after HPV vaccination. CDC and the Advisory Committee on Immunization Practices included this guidance in the recommendations for HPV vaccination. CDC continues to remind doctors and nurses to observe this guidance and to share this information with all their patients.
+- When fainting was found to happen after vaccination, FDA changed Gardasil’s guidance for doctors to include information about preventing falls and injuries from fainting after HPV vaccination. CDC and the Advisory Committee on Immunization Practices included this guidance in the recommendations for HPV vaccination. CDC continues to remind doctors and nurses to observe this guidance and to share this information with all their patients.
+- Very rarely, any vaccine, including HPV vaccine, can cause anaphylaxis. Some people are allergic to certain ingredients in vaccines. As recommended by ACIP, people who experienced a severe allergic reaction (e.g., anaphylaxis) to a previous vaccine dose or to a vaccine component, including yeast, should not receive the HPV vaccine.11
+
+### Guillain-Barré syndrome (GBS)
+
+### Postural orthostatic tachycardia syndrome (POTS)
+
+- POTS is a condition that causes lightheadedness or fainting and a rapid increase in heartbeat upon standing.
+- Ongoing safety monitoring has not detected any safety concerns related to POTS following HPV vaccination.1415
+- The Vaccine Safety Datalink (VSD) is currently conducting a study to describe POTS among 9 to 30 year-olds who received any adolescent vaccination.
+
+### Complex Regional Pain Syndrome (CRPS)
+
+- CRPS is a rare condition of persistent pain that usually affects arms, legs, hands, or feet after an injury or trauma to that limb.
+- Evidence does not support a causal link between HPV vaccines and CRPS.1617
+
+### Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS)
+
+- Chronic fatigue syndrome (ME/CFS) is a disabling and complex illness.
+- The Vaccine Safety Datalink (VSD) is currently conducting a study to describe CFS among 9-36 year-olds who received any vaccination.
+- Studies show no increased risk of ME/CFS among girls given HPV vaccine.15
+
+---
+
+[referencia=89c96cc1d678d8db score=0.536]
+- The most common side effect reported was pain, swelling, and redness in the arm where the shot was given.
+- From its licensure in June 2006 through December 2017 more than 80 million doses of Gardasil were distributed in the United States. During the same period, VAERS received 36,142 U.S. reports of adverse events following Gardasil vaccination. Overall, 93% were non-serious reports; 7% have been classified as serious. Gardasil is no longer available in the United States.
+  - Although rare, fainting was found to happen after HPV vaccination. In response, FDA changed Gardasil's guidance for doctors to include information about preventing falls and injuries from fainting. CDC and the Advisory Committee on Immunization Practices included this guidance in the recommendations for HPV vaccination. Based on these recommendations, healthcare professionals should administer HPV vaccinations while the patient is seated or lying down.
+  - The patient should then remain seated and be observed for 15 minutes. CDC continues to remind doctors and nurses to observe this guidance and to share this information with all their patients.
+- Although rare, fainting was found to happen after HPV vaccination. In response, FDA changed Gardasil's guidance for doctors to include information about preventing falls and injuries from fainting. CDC and the Advisory Committee on Immunization Practices included this guidance in the recommendations for HPV vaccination. Based on these recommendations, healthcare professionals should administer HPV vaccinations while the patient is seated or lying down.
+- In 2014, CDC published a report analyzing health events reported to VAERS following Gardasil vaccination from June 2006 through March 2014. About 92% of the Gardasil reports were classified as non-serious. The most common adverse events reported were: syncope (fainting); dizziness; nausea; headache; fever; and injection site reactions (pain, swelling, and redness).10
+- From its licensure in October 2009 through December 2017, about 720,000 doses of Cervarix were distributed in the United States. During the same period, there have been 245 U.S. VAERS reports of adverse events following Cervarix vaccination. Overall, 96% were non-serious reports; 4% have been classified as serious. 
+  - Cervarix is no longer available in the United States.
+- Cervarix is no longer available in the United States.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.308]
+## Common side effects
+
+- Pain, redness, or swelling in the arm where the shot was given.
+- Fever.
+- Headache or feeling tired.
+- Nausea.
+- Muscle or joint pain.
+
+### When to call 911
+
+Severe allergic reactions following vaccination are rare, but can be life threatening. If someone experiences symptoms of a severe allergic reaction, which can include hives, swelling of the face and throat, difficulty breathing, a fast heartbeat, dizziness, and weakness.
+
+HPV vaccine is safe and effective at preventing HPV-related infections and cancers. Vaccines, like any medicine, can have side effects. Many people who get the HPV vaccine have no side effects at all. The most common side effects are usually mild, like a sore arm from the shot.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.191]
+## Gardasil HPV vaccine recall (2013) FAQs
+
+### Why was there a recall of the Gardasil HPV vaccine?
+
+On December 16, 2013 CDC was informed by Merck that the company planned to implement a voluntary recall of one lot (lot J007354) of Gardasil [Human Papillomavirus Quadrivalent (types 6, 11, 16, and 18) Vaccine, Recombinant], due to the potential for a small number of vials to contain glass particles as a result of breakage during the manufacturing process. These vials were distributed between August 20, 2013, and October 9, 2013. No other lots were affected.
+
+### If my child received one of the affected HPV vaccine vial injections, what could happen?
+
+If a vaccine containing glass particles (tiny enough to get through a needle) is given to a patient, mild reactions routinely seen after vaccination may occur (for instance, redness or swelling at the injection site). There are multiple safety systems in this country that track and monitor vaccine safety, including the Vaccine Adverse Event Reporting System (VAERS), which allows anyone to report a possible vaccine side effect (also called "adverse event"). To date, no adverse events related to this lot of HPV vaccine have been reported other than mild reactions such as redness and swelling at the injection site. It is not expected that delayed side effects will occur.
+
+### If my child received the HPV vaccine injection from this affected lot, does he or she have to be vaccinated again?
+
+If your child received HPV vaccination from this one affected lot, he or she does NOT have to be vaccinated again. The vaccine's effectiveness is not impacted by this problem. The HPV vaccine series is given in 3 shots over 6 months. Be sure that your child gets all 3 shots for full protection.
+
+### How will I know if my child received one of the affected HPV vaccinations?
+
+Merck is currently contacting its direct customers (doctors' offices or clinics) who have purchased or received product from the affected lot. People who have recently received an HPV vaccine, including those who received vaccine from the affected lot, do not need to take any action as a result of this recall. Because no action is necessary, CDC is not asking doctors to notify patients who have received vaccine from the affected lot. However, if you want to know if your child received a dose of vaccine from the affected lot, you can ask his or her doctor.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.125]
+- In November 2019, initial post-licensure safety monitoring of Gardasil 9 was published in *Pediatrics* . In two separate articles, analyses from the Vaccine Adverse Event Reporting System (VAERS) and the Vaccine Safety Datalink (VSD) were presented. Both included multiple years of data, and did not identify any unexpected safety problems with Gardasil 9. These findings support the favorable safety profile that was established in pre-licensure clinical trials.
+  - Analysis from VSD: The Vaccine Safety Datalink conducted near-real time surveillance from October 2015 through October 2017, looking at 11 pre-specified adverse events. During this two-year time period, nearly 840,000 doses were administered to people aged 9-26 years at six VSD sites. No new safety concerns were identified.8
+  - Analysis from VAERS: Researchers reviewed 7,244 reports submitted to the Vaccine Adverse Event Reporting System following HPV vaccination from December 2014 through December 2017. Of those reports, around 97% were classified as non-serious; around 3% were considered serious. The analysis did not detect any new or unexpected safety concerns.9
+- Analysis from VSD: The Vaccine Safety Datalink conducted near-real time surveillance from October 2015 through October 2017, looking at 11 pre-specified adverse events. During this two-year time period, nearly 840,000 doses were administered to people aged 9-26 years at six VSD sites. No new safety concerns were identified.8
+- In 2014, before Gardasil 9 was licensed by the FDA, its safety was evaluated across seven studies. The safety findings from these pre-licensure studies show that Gardasil 9 has a similar safety profile to Gardasil, an earlier version of the vaccine. The main findings from these studies:
+  - The most common side effect reported was pain, swelling, and redness in the arm where the shot was given.
+  - These mild side effects may occur more often after Gardasil 9 vaccination than after Gardasil. Women and girls who received Gardasil 9 reported higher rates of swelling and redness where the shot was given than those who received Gardasil. Reports of swelling and redness also increased with each following dose for those receiving Gardasil 9.
+- The most common side effect reported was pain, swelling, and redness in the arm where the shot was given.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.074]
+13. James G. Donahue, Burney A. Kieke, Edwin M. Lewis, Eric S. Weintraub, Kayla E. Hanson, David L. McClure, Elizabeth R. Vickers, Julianne Gee, Matthew F. Daley, Frank DeStefano, Rulin C. Hechter, Lisa A. Jackson, Nicola P. Klein, Allison L. Naleway, Jennifer C. Nelson, Edward A. Belongia; Near Real-Time Surveillance to Assess the Safety of the 9-Valent Human Papillomavirus Vaccine. *Pediatrics* December 2019; 144 (6): e20191808. 10.1542/peds.2019-1808
+14. Arana, J., Mba-Jonas, A., Jankosky, C., Lewis, P., Moro, P. L., Shimabukuro, T. T., & Cano, M. (2017). Reports of Postural Orthostatic Tachycardia Syndrome After Human Papillomavirus Vaccination in the Vaccine Adverse Event Reporting System. *The Journal of adolescent health : official publication of the Society for Adolescent Medicine* ,*61* (5), 577–582. https://doi.org/10.1016/j.jadohealth.2017.08.004
+15. European Medicines Agency. Assessment report. review under article 20 of regulation (EC) NO 726/2004. human papilloma virus (HPV) vaccines, 2015. Available: https://www.ema.europa.eu/en/documents/press-release/review-concludes-evidence-does-not-support-hpv-vaccines-cause-crps-or-pots_en.pdf
+16. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4588370/
+17. European Medicines Agency. https://www.ema.europa.eu/en/documents/referral/hpv-vaccines-article-20-procedure-ema-confirms-evidence-does-not-support-they-cause-crps-or-pots_en.pdf
+
+---
+
+[referencia=89c96cc1d678d8db score=0.040]
+- Slade BA, Leidel L, Vellozzi C, Woo EJ, Hua W, Sutherland A, et al. Postlicensure safety surveillance for quadrivalent human papillomavirus recombinant vaccine. *JAMA.* 2009 Aug 19; 302(7): 750-7.
+- Stokley S, Curtis CR, Jeyarajah J, Harrington T, Gee J, Markowitz L. Human papillomavirus vaccination coverage among adolescent girls 2007-2012, and post-licensure vaccine safety monitoring 2006-2013-United States. *MMWR**Morb Mortal Wkly Rep.* 2013 Jul 26; 62(29): 591-595.
+- Stokley S, Jeyarajah J, Yankey D, Cano M, Gee J, Roark J, Curtis RC, Markowitz L. Human papillomavirus vaccination coverage among adolescents, 2007-2013, and postlicensure vaccine safety monitoring, 2006-2014—United States.*MMWR**Morb Mortal Wkly Rep.* 2014 Jul 25; 63(29): 620-4.
+- Naleway AL, Gold R, Drew L, et al. Reported adverse events in young women following quadrivalent human papillomavirus vaccination. *J Womens Health (Larchmt.)* . 2012 Apr; 21(4): 425-32. Epub 2012 Jan 9.
+- Markowitz LE, Dunne EF, Saraiya M, Chesson HW, Curtis CR, Gee J, et al. Human papillomavirus vaccination: Recommendations of the Advisory Committee on Immunization Practices (ACIP).*MMWR.* 2014; 63(RR05);1-30.
+- Gold R, Naleway A, Riedlinger K. Factors predicting completion of the human papillomavirus vaccine series. *J Adolesc Health* . 2013 Apr; 52(4): 427-32. Epub 2012 Dec 10.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.036]
+- Donahue JG, Kieke BA, Lewis EM, et al. Near Real-Time Surveillance to Assess the Safety of the 9-valent Human Papillomavirus Vaccine.*Pediatrics.* 2019 Dec;122(6):e20191808. Epub 2019 Nov 18.
+- Shimabukuro TT, Su JR, Marquez PL, et al. Safety of the 9-valent human papillomavirus vaccine.*Pediatrics.* 2019 Dec;144(6);e20191791. Epub 2019 Nov 18.
+- Hanson KE, McLean HQ, Belongia, EA, Stokley S, McNeil MM, Gee J, VanWormer JJ. Sociodemographic and clinical correlates of human papillomavirus vaccine attitudes and receipt among Wisconsin adolescents. *Papillomavirus. Res.* 2019 May 25; 8: 1001568. Epub ahead of print.
+- Klein NP, Goddard K, Lewis E, Ross P, Gee J, DeStefano F, Baxter R. Long term risk of developing type 1 diabetes after HPV vaccination in males and females. *Vaccine.* 2019 Mar 28; 37(14): 1938-1944. Epub Mar 1.
+- Landazabal CS, Moro PL, Lewis P, Omer SB. Safety of 9-valent human papillomavirus vaccine administration among pregnant women: Adverse event reports in the Vaccine Adverse Event Reporting System (VAERS), 2014-2017. *Vaccine* . 2019 Feb 21; 37(9): 1229-1234. Epub 2019 Jan 16.
+- Suragh TA, Lewis P, Arana J, Mba-Jonas A, Li R, Stewart B, Shimabukuro TT, Cano M. Safety of bivalent human papillomavirus vaccine in the US vaccine adverse event reporting system (VAERS), 2009-2017.external icon*Br J Clin Pharmacol.* 2018 Dec; 84(12): 2928-2932. Epub 2018 Sep 21.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.034]
+### How do I find out more information about this voluntary recall?
+
+### Hotline information
+
+For questions about this recall or to report any adverse events following vaccination, please contact: Merck National Service Center at 800-444-2080.
+
+### Does CDC recommend HPV vaccination?
+
+Yes. This recall was caused by an isolated problem in the vaccine manufacturing process. HPV vaccine continues to have a strong safety record, and CDC continues to recommend that all preteen girls and boys receive three doses of this cancer-preventing vaccine at age 11 or 12 years.
+
+## How CDC monitors vaccine safety
+
+CDC and FDA are committed to monitoring the safety of vaccines. Once vaccines are licensed or authorized by FDA for use in the United States, CDC, FDA, and other federal agencies work together to monitor them using several safety systems.
+
+**Keep Reading:**About CDC's Vaccine Safety Monitoring Program
+
+---
+
+[referencia=89c96cc1d678d8db score=0.031]
+## A closer look at the safety data
+
+### HPV vaccines are safe
+
+Findings from many vaccine safety monitoring systems and more than 160 studies have shown that HPV vaccines have a favorable safety profile—the body of scientific evidence overwhelmingly supports their safety.
+
+Of the reports to VAERS, 6% were classified as "serious." Of the other reports to VAERS relating to HPV, about 22% of the reports were not related to health problems, but were reported for reasons such as improper vaccine storage or the vaccine being given to someone for whom it was not recommended.
+
+Over 100 million doses of HPV vaccines were distributed in the United States from June 2006 through December 2017. To date, most of CDC’s HPV vaccine safety monitoring and research has focused on Gardasil because it has accounted for the majority of HPV vaccine doses distributed in the United States. These safety efforts continue, now focusing on Gardasil 9.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.030]
+- VanWormer JJ, Bendixsen CG, Vickers ER et al. Association between parent attitudes and receipt of human papillomavirus vaccine in adolescents. *BMC Public Health.* 2017 Oct 2; 17(1): 766.
+- Gee J, Sukumaran L, Weintraub E. Risk of Guillain-Barre Syndrome following quadrivalent human papillomavirus vaccine in the Vaccine Safety Datalink. *Vaccine.* 2017 Oct 13; 35(43): 5756-5758. Epub 2017 Sep 19.
+- Lipkind HS, Vazquez-Benitez G, Nordin JD et al. Maternal and Infant Outcomes After Human Papillomavirus Vaccination in the Periconceptional Period or During Pregnancy. *Obstet Gynecol.* 2017 Sep; 130(3): 599-608.
+- McLean HQ, VanWormer JJ, Chow BDW et al. Improving Human Papillomavirus Vaccine Use in an Integrated Health System: Impact of a Provider and Staff Intervention. *J Adolesc Health.* 2017 Aug; 61(2): 252-258. Epub 2017 Apr 24.
+- Baxter R, Lewis E, Goddard K et al. Acute demyelinating events following vaccines – a case centered analysis.*Clin Infect Dis.* 2016 Dec 1; 63(11): 1456-1462. Epub 2016 Sep 1.
+- Baxter R, Lewis E, Fireman B, DeStefano F, Gee J, Klein NP. Case-centered analysis of Optic Neuritis following vaccines.*Clin Infect Dis.* 2016 Jul 1; 63(1): 79-81. Epub 2016 Apr 10.
+- Gee J, Weinbaum C, Sukumaran L, Markowitz LE. Quadrivalent HPV vaccine safety review and US safety monitoring plans for nine-valent HPV vaccine. *Hum Vaccin Immunother.* 2016 Jun 2; 12(6): 1406-17. Epub 2016 Mar 30.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.028]
+## Key points
+
+- Human papillomavirus (HPV) is the most common sexually transmitted infection in the United States.
+- Some HPV infections can be persistent and can progress to cancer in both women and men later in life.
+- There is a vaccine that can prevent the infections that most commonly cause cancer.
+
+## Overview
+
+Human papillomavirus (HPV) is spread through intimate skin-to-skin contact. HPV infections are so common that nearly all men and women will get at least one type of HPV at some time in their lives. HPV infections that do not go away can cause:
+
+- Cervical, vaginal, and vulvar cancers (in women).
+- Penile cancer (in men).
+- Anal cancer.
+- Cancer of the back of the throat (oropharynx).
+- Genital warts.
+
+CDC is aware of public concern about the safety of HPV vaccine. Since the vaccine's introduction in 2006, vaccine safety monitoring and studies conducted by CDC, FDA, and other organizations have documented a reassuring safety record.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.022]
+## Reproductive concerns
+
+### HPV vaccines and primary ovarian insufficiency (POI)
+
+Also known as "premature menopause," POI is a condition in which a woman's ovaries stop functioning before age 40.
+
+### HPV vaccines and fertility
+
+HPV vaccination prevents infection with the HPV types that most commonly cause cervical cancer. In some cases, women develop cervical cancer before starting or finish having children. Treatment for cervical cancer (removal of the cervix and uterus, chemotherapy, and/or radiation) can keep a woman from being able to become pregnant. Preventing cervical cancer through HPV vaccination reduces this risk.
+
+CDC works closely with the American Academy of Pediatrics (AAP) and the American Academy of Family Physicians (AAFP) on HPV vaccination. Both organizations have information about HPV vaccine available on their websites. Also, the American College of Obstetrics and Gynecologists (ACOG) offers additional resources.
+
+### HPV vaccines and pregnancy
+
+HPV vaccines are not approved or recommended for pregnant women. However, some pregnant women receive HPV vaccines because they don't know that they are pregnant at the time of vaccination, or otherwise receive an HPV vaccine when they shouldn't have.
+
+Any woman who learns she was pregnant at the time she received an HPV vaccine is encouraged to contact the vaccine manufacturer. This will help us learn how pregnant women respond to the vaccine.
+
+- If a pregnant woman receives a dose of Gardasil 9 no intervention is needed. If she found out she was pregnant when starting the vaccination series, the remainder of the 3-dose series should be delayed until completion of pregnancy. She may contact Merck at 1-877-888-4231 if she has questions related to getting the vaccine while pregnant.
+- Doctors previously reported Gardasil 9 vaccination during pregnancy using the Merck Pregnancy Registries; the registry is now closed and reporting is no longer needed. Pregnant women who received Gardasil 9 and their physician can also report to the Vaccine Adverse Event Reporting System (VAERS).
+
+---
+
+[referencia=89c96cc1d678d8db score=0.021]
+## Available vaccines & manufacturer package inserts
+
+### Gardasil 9 and manufacturer insert
+
+- Gardasil 9 (human papillomavirus 9-valent vaccine, recombinant; 9vHPV) was approved by FDA for use in 2014.
+- The safety of Gardasil 9 was studied in clinical trials with more than 15,000 participants before it was licensed and continues to be monitored.
+- Gardasil 9 protects against 9 types of cancer-causing HPV types 6, 11, 16, 18, 31, 33, 45, 52, and 58.
+
+For HPV vaccine to be most effective, the series should begin prior to exposure to HPV.
+
+**Keep Reading:**Vaccine Information Statement
+
+While only 9vHPV has been available for use in the U.S. since late 2016, safety studies of 4vHPV (Gardasil) have provided important safety information relevant for 9vHPV. Both 9vHPV and 4vHPV are manufactured using a similar process, and contain 4 of the same antigens: HPV types 6, 11, 16, and 18. The 9vHPV vaccine adds 5 additional antigens, providing protection against 9 types of cancer-causing human papillomaviruses. Studies of 2vHPV (Cervarix) have also shown a favorable safety profile. While the vaccines target different HPV types, all three HPV vaccines are similar and made from a single protein of the HPV virus.
+
+## Who should & should not get the vaccine
+
+CDC recommends HPV vaccination for everyone through age 26 years, if not vaccinated already. Teens and young adults who start the series at ages 15 through 26 years still need three doses of HPV vaccine. Three doses are also recommended for people with certain immunocompromising conditions ages 9 through 26 years.
+
+**Keep Reading:**Who should & should not get the vaccine
+
+---
+
+[referencia=89c96cc1d678d8db score=0.018]
+8. Donahue, J. G., Kieke, B. A., Lewis, E. M., Weintraub, E. S., Hanson, K. E., McClure, D. L., Vickers, E. R., Gee, J., Daley, M. F., DeStefano, F., Hechter, R. C., Jackson, L. A., Klein, N. P., Naleway, A. L., Nelson, J. C., & Belongia, E. A. (2019). Near Real-Time Surveillance to Assess the Safety of the 9-Valent Human Papillomavirus Vaccine. *Pediatrics* ,*144* (6), e20191808. https://doi.org/10.1542/peds.2019-1808
+9. Shimabukuro, T. T., Su, J. R., Marquez, P. L., Mba-Jonas, A., Arana, J. E., & Cano, M. V. (2019). Safety of the 9-Valent Human Papillomavirus Vaccine. *Pediatrics* ,*144* (6), e20191791. https://doi.org/10.1542/peds.2019-1791
+10. https://www.cdc.gov/mmwr/preview/mmwrhtml/rr6305a1.htm
+11. Stratton, K., Ford, A., Rusch, E., Clayton, E. W., Committee to Review Adverse Effects of Vaccines, & Institute of Medicine (Eds.). (2011). *Adverse Effects of Vaccines: Evidence and Causality* . National Academies Press (US).
+12. Tom T. Shimabukuro, John R. Su, Paige L. Marquez, Adamma Mba-Jonas, Jorge E. Arana, Maria V. Cano; Safety of the 9-Valent Human Papillomavirus Vaccine. *Pediatrics* December 2019; 144 (6): e20191791. 10.1542/peds.2019-1791
+
+---
+
+[referencia=89c96cc1d678d8db score=0.015]
+- McCarthy NL, Gee J, Sukumaran L et al. Vaccination and 30-Day Mortality Risk in Children, Adolescents, and Young Adults. *Pediatrics.* 2016 Mar; 137(3): e20152970. Epub 2016 Feb 1.
+- Moro PL, Zheteyeva Y, Lewis P, Shi J, Yue X, Museru OI, et al. Safety of quadrivalent human papillomavirus vaccine (Gardasil®) in pregnancy: Adverse events among non-manufacturer reports in the Vaccine Adverse Event Reporting System, 2006-2013. *Vaccine* . 2015 Jan 15; 33(4): 519-22. Epub 2014 Dec 8.
+- Naleway AL, Crane B, Smith N et al. Absence of venous thromboembolism risk following quadrivalent human papillomavirus vaccination, Vaccine Safety Datalink, 2008-2011. *Vaccine.* 2016 Jan2; 34(1): 167-71. Epub 2015 Nov 6.
+- Weinbaum CM, Cano M. HPV vaccination and Complex Regional Pain Syndrome: Lack of Evidence. *Ebiomedicine* . 2015 Aug 19; 2(9): 1014-5. eCollection 2015 Sep.
+- Petrosky E, Bocchini JA Jr, Hariri S, Chesson H, Curtis CR, Saraiya M, et al. Use of 9-Valent human papillomavirus (HPV) vaccine: Updated HPV vaccination recommendations of the Advisory Committee on Immunization Practices. *MMWR* . 2015; 64(11):300-304.
+- Gee J, Naleway A, Shui I et al. Monitoring the safety of quadrivalent human papillomavirus vaccine: findings from the Vaccine Safety Datalink. *Vaccine* . 2011 Oct 26; 29(46): 8279-84. Epub 2011 Sep 9.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.014]
+1. Arana, J. E., Harrington, T., Cano, M., Lewis, P., Mba-Jonas, A., Rongxia, L., Stewart, B., Markowitz, L. E., & Shimabukuro, T. T. (2018). Post-licensure safety monitoring of quadrivalent human papillomavirus vaccine in the Vaccine Adverse Event Reporting System (VAERS), 2009-2015. *Vaccine* ,*36* (13), 1781–1788. https://doi.org/10.1016/j.vaccine.2018.02.034
+2. Christianson, M. S., Wodi, P., Talaat, K., & Halsey, N. (2020). Primary ovarian insufficiency and human papilloma virus vaccines: a review of the current evidence. *American journal of obstetrics and gynecology* ,*222* (3), 239–244. https://doi.org/10.1016/j.ajog.2019.08.045
+3. Naleway, A. L., Mittendorf, K. F., Irving, S. A., Henninger, M. L., Crane, B., Smith, N., Daley, M. F., & Gee, J. (2018). Primary Ovarian Insufficiency and Adolescent Vaccination. *Pediatrics* ,*142* (3), e20180943. https://doi.org/10.1542/peds.2018-0943
+4. Landazabal, C. S., Moro, P. L., Lewis, P., & Omer, S. B. (2019). Safety of 9-valent human papillomavirus vaccine administration among pregnant women: Adverse event reports in the Vaccine Adverse Event Reporting System (VAERS), 2014-2017. *Vaccine* ,*37* (9), 1229–1234. https://doi.org/10.1016/j.vaccine.2018.11.077
+
+---
+
+[referencia=89c96cc1d678d8db score=0.013]
+- Naleway AL, Mittendorf KF, Irving, SA, Henninger ML, Crane B, Smith N, Daley MF, Gee J. Primary Ovarian Insufficiency and Adolescent Vaccination. *Pediatrics.* 2018 Sep; 142(3). Epub 2018 Aug 21.
+- Kharbanda EO, Vazquez-Benitez G, Lipkind HS, Sheth SS, Zhu J, Naleway AL, Klein NP, Hechter R, Daley MF, Donahue JG, Jackson ML, Kawai AT, Sukumaran L, Nordin JD. Risk of Spontaneous Abortion After Inadvertent Human Papillomavirus Vaccination in Pregnancy. *Obstet. Gynecol.* 2018 Jul; 132(1): 35-44.
+- Irving SA, Groom HC, Stokley S, McNeil MM, Gee J, Smith N, Naleway AL. Human Papillomavirus Vaccine Coverage and Prevalence of Missed Opportunities for Vaccination in an Integrated Healthcare System. *Acad. Pediatr.* 2018 Mar; 18(2S): S85-S92.
+- Markowitz LM, Gee J, Chesson H, Stokley S. Ten Years of Human Papillomavirus Vaccination in the United States. *Acad. Pediatr.* 2018 Mar; 1(2S): S3-S10.
+- Arana JE, Harrington T, Cano M, Lewis P, Mba-Jonas A, Rongxia L, Stewart B, Markowitz LE, Shimabukuro TT. Post-licensure safety monitoring of quadrivalent human papillomavirus vaccine in the Vaccine Adverse Event Reporting System (VAERS), 2009-2015. *Vaccine* . 2018 Mar 20; 36(13): 1781-1788. Epub 2018 Feb 21.
+- Arana J, Mba-Jonas A, Jankosky C, Lewis P, Moro PL, Shimabukuro TT, Cano M. Reports of Postural Orthostatic Tachycardia Syndrome After Human Papillomavirus Vaccination in the Vaccine Adverse Event Reporting Systemexternal icon. *J Adolesc Health* . 2017 Nov; 61(5): 577-582.
+
+---
+
+[referencia=89c96cc1d678d8db score=0.012]
+5. Moro, P. L., Zheteyeva, Y., Lewis, P., Shi, J., Yue, X., Museru, O. I., & Broder, K. (2015). Safety of quadrivalent human papillomavirus vaccine (Gardasil) in pregnancy: adverse events among non-manufacturer reports in the Vaccine Adverse Event Reporting System, 2006-2013. *Vaccine* ,*33* (4), 519–522. https://doi.org/10.1016/j.vaccine.2014.11.047
+6. Kharbanda, E. O., Vazquez-Benitez, G., Lipkind, H. S., Sheth, S. S., Zhu, J., Naleway, A. L., Klein, N. P., Hechter, R., Daley, M. F., Donahue, J. G., Jackson, M. L., Kawai, A. T., Sukumaran, L., & Nordin, J. D. (2018). Risk of Spontaneous Abortion After Inadvertent Human Papillomavirus Vaccination in Pregnancy. *Obstetrics and gynecology* ,*132* (1), 35–44. https://doi.org/10.1097/AOG.0000000000002694
+7. Lipkind, H. S., Vazquez-Benitez, G., Nordin, J. D., Romitti, P. A., Naleway, A. L., Klein, N. P., Hechter, R. C., Jackson, M. L., Hambidge, S. J., Lee, G. M., Sukumaran, L., & Kharbanda, E. O. (2017). Maternal and Infant Outcomes After Human Papillomavirus Vaccination in the Periconceptional Period or During Pregnancy. *Obstetrics and gynecology* ,*130* (3), 599–608. https://doi.org/10.1097/AOG.0000000000002191
+
+---
+
+[referencia=89c96cc1d678d8db score=0.007]
+17. European Medicines Agency. https://www.ema.europa.eu/en/documents/referral/hpv-vaccines-article-20-procedure-ema-confirms-evidence-does-not-support-they-cause-crps-or-pots_en.pdf
+18. McCarthy, N. L., Gee, J., Sukumaran, L., Weintraub, E., Duffy, J., Kharbanda, E. O., Baxter, R., Irving, S., King, J., Daley, M. F., Hechter, R., & McNeil, M. M. (2016). Vaccination and 30-Day Mortality Risk in Children, Adolescents, and Young Adults. *Pediatrics* ,*137* (3), e20152970. https://doi.org/10.1542/peds.2015-2970

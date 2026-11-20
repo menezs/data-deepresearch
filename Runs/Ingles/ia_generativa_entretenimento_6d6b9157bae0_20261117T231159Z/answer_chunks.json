@@ -1,0 +1,1594 @@
+[
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-0",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 0,
+    "text": "As of November 2026, generative artificial intelligence in entertainment has moved past unregulated experimentation into a tightly contested regime governed by collective labor contracts, fractured copyright doctrine, state and supranational likeness laws, and emerging licensing markets.",
+    "cited_markers": [
+      "[5]",
+      "[40]",
+      "[79]",
+      "[91]"
+    ],
+    "cited_reference_ids": [
+      "cc1b42afee758e8a",
+      "0ad3078ef2adc633",
+      "6b9c978375a917b2",
+      "44ecdf8f7c07c5ac"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-1",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 1,
+    "text": "Across film, television, video games, audiobooks, and recorded music, adoption has bifurcated between rapid deployment by independent creators or social platforms and cautious, contract-bound integration inside major studios.",
+    "cited_markers": [
+      "[3]",
+      "[4]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "32f70638adeb2221",
+      "9212bfa992f193d4",
+      "cc1b42afee758e8a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-2",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 2,
+    "text": "While fully synthetic performers and unauthorized voice clones have triggered fierce cultural backlash and litigation, union agreements and catalog deals have increasingly converted generative tools from low-cost replacements into consent-gated, compensated production workflows.",
+    "cited_markers": [
+      "[6]",
+      "[21]",
+      "[40]",
+      "[43]"
+    ],
+    "cited_reference_ids": [
+      "3be31556c6e1e685",
+      "6f469e21abebc899",
+      "0ad3078ef2adc633",
+      "0bf79d0d09e5bc6f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-3",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 3,
+    "text": "At the same time, unresolved legal questions—including pending federal court rulings on prompt-based copyrightability, fair use in studio-character training, and stalled federal digital-replica legislation—require entertainment companies in late 2026 to manage risk through layered contracts, state publicity statutes, and technical provenance systems.",
+    "cited_markers": [
+      "[48]",
+      "[61]",
+      "[75]",
+      "[89]",
+      "[91]"
+    ],
+    "cited_reference_ids": [
+      "e32a3899a64c761b",
+      "614ac8deacf4b469",
+      "d8ee3eba84dd0caa",
+      "6262972b1fd342ed",
+      "44ecdf8f7c07c5ac"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-4",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 4,
+    "text": "Readers assessing these industry trends should also note two evidentiary caveats: market-sizing forecasts derive primarily from commercial analytics firms, and widely cited labor-disruption estimates reflect executive expectations rather than verified counts of layoffs.",
+    "cited_markers": [
+      "[1]",
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "51e7ec775395f3b9",
+      "cc1b42afee758e8a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-5",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 5,
+    "text": "Commercial spending on generative AI across media and entertainment is expanding rapidly, though adoption differs sharply by organizational scale.",
+    "cited_markers": [
+      "[1]",
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "51e7ec775395f3b9",
+      "32f70638adeb2221"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-6",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 6,
+    "text": "A September 2026 report from commercial research firm Precedence Research values the global generative AI in media and entertainment market at $2.24 billion in 2025 and $2.8 billion in 2026, projecting expansion to $21.2 billion by 2035 at a compound annual growth rate of 25.2 percent.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "51e7ec775395f3b9"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-7",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 7,
+    "text": "North America held 40.60 percent of global revenue in 2025, while Asia Pacific is projected to grow fastest through 2035.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "51e7ec775395f3b9"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-8",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 8,
+    "text": "Film and television studios accounted for the largest end-user share at 21.30 percent in 2025, ahead of advertising and marketing agencies at 20.70 percent, gaming companies at 18.60 percent, and streaming platforms at 16.80 percent, yet independent creators are forecast to expand fastest at a 28.3 percent annual growth rate.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "51e7ec775395f3b9"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-9",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 9,
+    "text": "Survey data and policy analyses confirm this split between grassroots velocity and corporate caution.",
+    "cited_markers": [
+      "[2]",
+      "[3]",
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "03044ab3b7fcaa14",
+      "32f70638adeb2221",
+      "9212bfa992f193d4"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-10",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 10,
+    "text": "A 2025 World Economic Forum report found that 92 percent of surveyed creators had used generative AI in some capacity, up from 34 percent in November 2023, while citing expert estimates that AI-generated material could eventually represent up to 90 percent of online information.",
+    "cited_markers": [
+      "[2]"
+    ],
+    "cited_reference_ids": [
+      "03044ab3b7fcaa14"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-11",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 11,
+    "text": "Conversely, Deloitte's technology, media, and telecommunications analysis observed that major studios were pacing content-generation deployments deliberately to avoid legal and reputational liabilities, leaving social-video and independent producers to lead early experimentation.",
+    "cited_markers": [
+      "[3]"
+    ],
+    "cited_reference_ids": [
+      "32f70638adeb2221"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-12",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 12,
+    "text": "Public-sector initiatives have sought to encourage responsible independent innovation, exemplified by the British Film Institute highlighting consortia backed by Channel 4 and Aardman Animations alongside British Board of Film Classification trials using generative AI to flag classification issues during age-rating reviews.",
+    "cited_markers": [
+      "[4]"
+    ],
+    "cited_reference_ids": [
+      "9212bfa992f193d4"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-13",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 13,
+    "text": "Enterprise infrastructure has simultaneously matured among established vendors, including Prime Focus Limited's March 2026 partnership between its BRAHMA AI platform and Google Cloud to build multilingual interactive digital humans.",
+    "cited_markers": [
+      "[1]"
+    ],
+    "cited_reference_ids": [
+      "51e7ec775395f3b9"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-14",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 14,
+    "text": "Cost pressures continue to incentivize adoption outside principal photography.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "cc1b42afee758e8a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-15",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 15,
+    "text": "Consultancy estimates cited in a 2026 narrative review indicate that pre-production and post-production account for roughly half of film and television budgets, concentrating near-term efficiency gains in storyboarding, visual effects, and audio finishing.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "cc1b42afee758e8a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-16",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 16,
+    "text": "Those projections have fueled labor anxiety, reflected in a 2024 CVL Economics survey of 300 industry leaders estimating that over 200,000 U.S. entertainment jobs across film, television, animation, music, and games could be affected by generative AI by 2026—including roughly 118,500 positions, or 21.4 percent of about 555,000 jobs, in film, television, and animation.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "cc1b42afee758e8a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-17",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 17,
+    "text": "However, academic reviewers emphasize that these figures capture employer expectations of task disruption rather than empirical measurements of actual job elimination.",
+    "cited_markers": [
+      "[5]"
+    ],
+    "cited_reference_ids": [
+      "cc1b42afee758e8a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-18",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 18,
+    "text": "Within screen production, AI-generated human depictions fall into two distinct legal and operational categories: digital replicas modeled on identifiable living or deceased performers, and fully synthetic performers designed without depicting any specific real individual.",
+    "cited_markers": [
+      "[40]",
+      "[91]"
+    ],
+    "cited_reference_ids": [
+      "0ad3078ef2adc633",
+      "44ecdf8f7c07c5ac"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-19",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 19,
+    "text": "Both forms have tested audience acceptance and technical limits throughout 2025 and 2026.",
+    "cited_markers": [
+      "[6]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "3be31556c6e1e685",
+      "29361628c686506c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-20",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 20,
+    "text": "The flashpoint for unattached synthetic talent was Tilly Norwood, a virtual actress unveiled at the Zurich Film Festival in late September 2025 by Dutch producer Eline Van der Velden of Particle6 and its AI studio Xicoia.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[9]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "055c82db1255c45d",
+      "39f10edd976957e1",
+      "baad29ece74d72db",
+      "c1470027d8b7928f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-21",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 21,
+    "text": "Touted alongside plans for an AI talent agency, Norwood provoked immediate condemnation from SAG-AFTRA and actors including Emily Blunt, Melissa Barrera, Mara Wilson, and Whoopi Goldberg, who criticized the concept as \"face theft\" and an effort to replace human performers.",
+    "cited_markers": [
+      "[7]",
+      "[8]",
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "055c82db1255c45d",
+      "39f10edd976957e1",
+      "29361628c686506c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-22",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 22,
+    "text": "Commercial traction lagged the publicity storm, as Norwood's initial two-minute sketch drew roughly 200,000 views over two months—well below conventional digital releases.",
+    "cited_markers": [
+      "[9]"
+    ],
+    "cited_reference_ids": [
+      "baad29ece74d72db"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-23",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 23,
+    "text": "Although Xicoia later reframed its messaging around human-guided AI collaboration and scheduled Norwood for a feature debut in Misaligned, critics continued to dismiss the character as derivative pixel synthesis rather than acting.",
+    "cited_markers": [
+      "[6]",
+      "[10]"
+    ],
+    "cited_reference_ids": [
+      "3be31556c6e1e685",
+      "c1470027d8b7928f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-24",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 24,
+    "text": "Posthumous digital resurrections have proved equally polarizing even with estate authorization.",
+    "cited_markers": [
+      "[11]",
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "29361628c686506c",
+      "c4c774914c13a92b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-25",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 25,
+    "text": "Following actor Val Kilmer's death in April 2025, the filmmakers behind the western As Deep as the Grave debuted a CinemaCon trailer in April 2026 featuring an AI-recreated likeness of a younger Kilmer appearing onscreen for one hour and seventeen minutes.",
+    "cited_markers": [
+      "[11]",
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "29361628c686506c",
+      "c4c774914c13a92b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-26",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 26,
+    "text": "Director Coerte Voorhees's production secured compensated consent and archival footage from Kilmer's estate, citing Kilmer's own use of AI voice technology during his lifetime.",
+    "cited_markers": [
+      "[11]"
+    ],
+    "cited_reference_ids": [
+      "29361628c686506c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-27",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 27,
+    "text": "Even so, reviews of extended footage noted that the synthetic double appeared rigid, lacked Kilmer's authentic voice, and failed to capture his screen presence.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "3be31556c6e1e685"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-28",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 28,
+    "text": "Comparable commercial experiments appeared in September 2026 when relatives of Greta Garbo authorized an AI-reanimated likeness of the late star for an advertisement.",
+    "cited_markers": [
+      "[12]"
+    ],
+    "cited_reference_ids": [
+      "c4c774914c13a92b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-29",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 29,
+    "text": "Behind these controversies lies a technical divide between pure text-to-video synthesis and human-anchored hybrid pipelines.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "3be31556c6e1e685"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-30",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 30,
+    "text": "Vendor Higgsfield AI claims to have overcome the \"uncanny valley\" and has released full-length AI features produced in two to four weeks, including the 95-minute fantasy Hell Grind—built with Seedance 2.0, where characters were constrained to one emotion per 15-second block—and the 115-minute comedy The Cully Hill Boys, assembled in 30-second segments using real-figure likenesses.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "3be31556c6e1e685"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-31",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 31,
+    "text": "Yet visual effects veterans remain skeptical that prompt-driven video models can carry dramatic cinema.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "3be31556c6e1e685"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-32",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 32,
+    "text": "Framestore chief creative officer Tim Webber notes that models trained on internet pixels lack grounding in human psychology, while creator Zack London compares directing AI actors to operating a \"marionette doll\" through micro-prompts for blinks and lip movements to avoid generic, exaggerated acting.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "3be31556c6e1e685"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-33",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 33,
+    "text": "Consequently, hybrid workflows championed by actor and Wonder Dynamics co-founder Tye Sheridan use tools like Autodesk's Flow Studio to layer AI-assisted motion capture and \"digital makeup\" over real actors' physical performances, preserving human timing and emotional spontaneity.",
+    "cited_markers": [
+      "[6]"
+    ],
+    "cited_reference_ids": [
+      "3be31556c6e1e685"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-34",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 34,
+    "text": "Voice cloning has disrupted audio production more immediately than screen acting because neural speech models can synthesize vocal likenesses from just seconds of enrolled audio.",
+    "cited_markers": [
+      "[13]",
+      "[71]"
+    ],
+    "cited_reference_ids": [
+      "ce2d90f52faee79f",
+      "79fe2dde0c9d4454"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-35",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 35,
+    "text": "U.S. labor data and union surveys reveal both real displacement and sharp conflict over consent.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "ce2d90f52faee79f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-36",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 36,
+    "text": "According to U.S. Bureau of Labor Statistics figures for 2025, U.S. employers held 67,500 actor jobs—a category encompassing voice-over and narration talent—paying a median wage of $29.05 per hour, with zero percent projected growth from 2025 to 2035.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "ce2d90f52faee79f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-37",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 37,
+    "text": "A 2026 National Association of Voice Actors survey of 1,379 respondents found that 21 percent had knowingly lost a job to a synthetic voice.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "ce2d90f52faee79f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-38",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 38,
+    "text": "Only 13 percent had consented to a third-party synthetic replica, whereas 9 percent knew of an unauthorized clone of their voice or character and 11 percent knew of a synthetic version used professionally; yet 53 percent said they would consider an ethically built synthetic voice in the future, indicating that opposition centers on consent and compensation.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "ce2d90f52faee79f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-39",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 39,
+    "text": "Buyer diligence remains uneven, with a 2025 audio trends report cited in industry research finding that 27 percent of AI voice buyers did not verify providers' ethical AI policies.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "ce2d90f52faee79f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-40",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 40,
+    "text": "Commercial adoption across voice verticals has remained stratified.",
+    "cited_markers": [
+      "[13]",
+      "[14]",
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "ce2d90f52faee79f",
+      "4d3273cea5d30205",
+      "489282bf7e203d33"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-41",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 41,
+    "text": "In publishing, Audio Publishers Association data reported in 2026 showed that AI-narrated audiobooks accounted for just 0.03 percent of tracked audiobook sales revenue in 2025, reflecting negligible consumer appetite for synthetic long-form narration.",
+    "cited_markers": [
+      "[13]"
+    ],
+    "cited_reference_ids": [
+      "ce2d90f52faee79f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-42",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 42,
+    "text": "Conversely, international dubbing and localization have become prime automation targets as streaming services expand multilingual catalogs.",
+    "cited_markers": [
+      "[15]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "489282bf7e203d33",
+      "effc7cf02037699f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-43",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 43,
+    "text": "A 2025 comparative study contrasted traditional dubbing costs cited at roughly $120 per minute against AI cloning and translation workflows cited at $28 per minute, while reporting a shift away from traditional voice-over sessions toward AI-assisted and automated pipelines.",
+    "cited_markers": [
+      "[15]"
+    ],
+    "cited_reference_ids": [
+      "489282bf7e203d33"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-44",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 44,
+    "text": "Industry reporting in August 2026 noted that creators increasingly use dubbed-audience engagement data to guide investment decisions, though voice-acting analysts emphasize that human talent retains clear advantages in comedy, emotional nuance, interactive branching stories, and 360-degree virtual-reality audio.",
+    "cited_markers": [
+      "[14]",
+      "[16]"
+    ],
+    "cited_reference_ids": [
+      "4d3273cea5d30205",
+      "effc7cf02037699f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-45",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 45,
+    "text": "In gaming and recorded music, synthetic voices have triggered both labor charges and major licensing realignments.",
+    "cited_markers": [
+      "[18]",
+      "[21]",
+      "[24]"
+    ],
+    "cited_reference_ids": [
+      "6f9ed4d3061ee01c",
+      "6f469e21abebc899",
+      "0364accd3b9078c9"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-46",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 46,
+    "text": "In 2025, Epic Games introduced an interactive AI Darth Vader in Fortnite built on Google's Gemini 2.0 Flash and ElevenLabs' Flash v2.5 models, leading SAG-AFTRA to file an unfair labor practice charge against Epic subsidiary Llama Productions in May 2025 for replacing union voice work without notice.",
+    "cited_markers": [
+      "[17]",
+      "[18]"
+    ],
+    "cited_reference_ids": [
+      "272b45c1417f0558",
+      "6f9ed4d3061ee01c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-47",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 47,
+    "text": "Earlier, Scarlett Johansson's 2024 dispute with OpenAI over a voice assistant resembling hers had heightened scrutiny of vocal sound-alikes.",
+    "cited_markers": [
+      "[19]"
+    ],
+    "cited_reference_ids": [
+      "1d0146b58ad5b7bb"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-48",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 48,
+    "text": "In music, the Recording Industry Association of America's June 2024 lawsuits against AI song generators Suno and Udio diverged sharply in 2025 and 2026.",
+    "cited_markers": [
+      "[20]",
+      "[21]"
+    ],
+    "cited_reference_ids": [
+      "9bb45e12893ad6dd",
+      "6f469e21abebc899"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-49",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 49,
+    "text": "Universal Music Group settled with Udio in October 2025 to co-develop a licensed AI music service, and Warner Music Group dropped its Udio suit and settled with Suno in November 2025 around opt-in artist voice partnerships.",
+    "cited_markers": [
+      "[21]",
+      "[22]"
+    ],
+    "cited_reference_ids": [
+      "6f469e21abebc899",
+      "89127e7e5f38bd2c"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-50",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 50,
+    "text": "Extending that model, Universal Music Group and ElevenLabs announced a multi-year agreement on September 10, 2026, to build a separate fan platform for licensed remixes and vocal experiences from participating artists.",
+    "cited_markers": [
+      "[24]",
+      "[25]",
+      "[26]"
+    ],
+    "cited_reference_ids": [
+      "0364accd3b9078c9",
+      "18213f182208d622",
+      "698567c939736ebc"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-51",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 51,
+    "text": "Sony Music Entertainment refused to settle, however, filing a second lawsuit against Udio on July 20, 2026, covering 30,117 additional recordings allegedly stream-ripped from YouTube, while dispositive motions in its Suno litigation were set for April 2027.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "715ac7f1a7b0bddd"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-52",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 52,
+    "text": "Because federal legislation has lagged production realities, entertainment unions have built the primary binding rules governing AI performers.",
+    "cited_markers": [
+      "[35]",
+      "[40]",
+      "[45]"
+    ],
+    "cited_reference_ids": [
+      "aca12210a3d2f331",
+      "0ad3078ef2adc633",
+      "640563f2090e13e4"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-53",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 53,
+    "text": "That architecture began after the nearly four-month 2023 SAG-AFTRA strike, which separated \"Employment-Based Digital Replicas\" created during active employment from \"Independently Created Digital Replicas\" made without an employment contract.",
+    "cited_markers": [
+      "[27]",
+      "[29]",
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "841bc7907302c33a",
+      "b1fc05846ad56596",
+      "0196d54da1d91266"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-54",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 54,
+    "text": "The 2023 agreement required 48-hour advance scanning notice, clear and conspicuous separately signed consent, pay based on an objective good-faith estimate of in-person production days avoided, and residual protections.",
+    "cited_markers": [
+      "[28]",
+      "[29]",
+      "[30]"
+    ],
+    "cited_reference_ids": [
+      "53e75ae0f08f1e88",
+      "b1fc05846ad56596",
+      "0196d54da1d91266"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-55",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 55,
+    "text": "Between 2024 and 2025, SAG-AFTRA extended these guardrails across music, commercials, and video games.",
+    "cited_markers": [
+      "[32]",
+      "[34]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "350de76304ffe6f3",
+      "3b5160ea7832205d",
+      "aca12210a3d2f331"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-56",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 56,
+    "text": "The 2024 Sound Recordings Code, covering major labels through December 2026, defined covered artists exclusively as humans, required separate per-project written consent before releasing tracks with digital voice replicas, mandated estate consent for deceased artists, required streaming payouts for synthetic vocal tracks, and created an expedited takedown-and-arbitration remedy.",
+    "cited_markers": [
+      "[31]",
+      "[32]",
+      "[33]"
+    ],
+    "cited_reference_ids": [
+      "15aae246033f2272",
+      "350de76304ffe6f3",
+      "c96f1679e56af436"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-57",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 57,
+    "text": "In 2025, a new Commercials Contract—ratified in May with 96.90 percent support and retroactive wage hikes to April 1, 2025—set a minimum fee of 1.5 times the scale session rate plus use and holding fees for digital-replica spots, while requiring union bargaining for all-synthetic ads.",
+    "cited_markers": [
+      "[13]",
+      "[34]",
+      "[78]"
+    ],
+    "cited_reference_ids": [
+      "ce2d90f52faee79f",
+      "3b5160ea7832205d",
+      "377fa397a3a499a2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-58",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 58,
+    "text": "On July 9, 2025, members ratified the Interactive Media Agreement by 95.04 percent, ending a nearly eleven-month video game strike.",
+    "cited_markers": [
+      "[18]",
+      "[35]"
+    ],
+    "cited_reference_ids": [
+      "6f9ed4d3061ee01c",
+      "aca12210a3d2f331"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-59",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 59,
+    "text": "Running through October 2028, the deal barred upfront blanket consent for future games, mandated usage reports within 90 days of release, let actors suspend replica consent during strikes, added secondary payments for reused motion capture, mandated higher pay for real-time generation, and delivered a 15.17 percent compounded wage increase upon ratification followed by 3 percent annual raises.",
+    "cited_markers": [
+      "[35]",
+      "[36]",
+      "[37]"
+    ],
+    "cited_reference_ids": [
+      "aca12210a3d2f331",
+      "6ba1f86e9b8f7d71",
+      "fa023ec6e7255463"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-60",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 60,
+    "text": "The 2026 bargaining cycle shifted from consent rules toward explicit curbs on synthetic substitution and AI model training.",
+    "cited_markers": [
+      "[38]",
+      "[39]",
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "2060c69319aa812c",
+      "d653b6880a3fd9a4",
+      "0ad3078ef2adc633"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-61",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 61,
+    "text": "Under the Writers Guild of America's 2026 Minimum Basic Agreement, effective in May 2026, studios remain barred from treating AI as a writer or using AI text as source material to lower pay or strip separated rights, and must now give written notice—including writer remuneration terms—before licensing scripts or produced projects to train commercial AI systems, alongside semi-annual AI impact meetings.",
+    "cited_markers": [
+      "[38]",
+      "[39]"
+    ],
+    "cited_reference_ids": [
+      "2060c69319aa812c",
+      "d653b6880a3fd9a4"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-62",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 62,
+    "text": "On June 4, 2026, SAG-AFTRA members ratified a four-year Television and Theatrical Agreement by a 91.42 percent vote.",
+    "cited_markers": [
+      "[40]",
+      "[41]"
+    ],
+    "cited_reference_ids": [
+      "0ad3078ef2adc633",
+      "846dc294893c7149"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-63",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 63,
+    "text": "The deal codifies a principle favoring human performance and bars using synthetics in human roles without prior notice, bargaining, and proof of \"significant additional value\" even compared to a digital replica, backed by union arbitration for damages.",
+    "cited_markers": [
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "0ad3078ef2adc633"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-64",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 64,
+    "text": "It also regulates \"no-scan\" replicas, protects biometric data, requires explicit consent for AI foreign-language dubbing, bans strike-breaking replica use, preserves protections across ownership transfers, requires an \"articulable business reason\" for scanning, and forbids depicting minors' replicas in nudity or simulated sex, including via aging or de-aging.",
+    "cited_markers": [
+      "[39]",
+      "[40]"
+    ],
+    "cited_reference_ids": [
+      "d653b6880a3fd9a4",
+      "0ad3078ef2adc633"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-65",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 65,
+    "text": "Companion 2026 Television Animation Agreements incorporated these terms and exposed producers to uncapped arbitration damages if they fail to prove significant additional value.",
+    "cited_markers": [
+      "[42]",
+      "[43]"
+    ],
+    "cited_reference_ids": [
+      "c40f2af239094710",
+      "0bf79d0d09e5bc6f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-66",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 66,
+    "text": "Internationally, UK union Equity observed the Los Angeles talks and secured a UK agreement reported on November 17, 2026, granting actors explicit consent and payment rights over digital replicas.",
+    "cited_markers": [
+      "[44]",
+      "[45]"
+    ],
+    "cited_reference_ids": [
+      "81a7959c95a34e56",
+      "640563f2090e13e4"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-67",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 67,
+    "text": "While union contracts bind signatories, copyright law determines who owns AI-assisted entertainment assets and whether rightsholders can restrict model training.",
+    "cited_markers": [
+      "[48]",
+      "[53]"
+    ],
+    "cited_reference_ids": [
+      "e32a3899a64c761b",
+      "2159d7f23e74a7cd"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-68",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 68,
+    "text": "On output ownership, U.S. courts have cemented a strict human-authorship rule while leaving intensive prompting unresolved.",
+    "cited_markers": [
+      "[48]",
+      "[51]"
+    ],
+    "cited_reference_ids": [
+      "e32a3899a64c761b",
+      "2f6661b70427872a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-69",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 69,
+    "text": "In Thaler v. Perlmutter, the D.C. Circuit held on March 18, 2025, that the Copyright Act of 1976 requires works to be authored first by a human being—citing lifespan duration, inheritance, and signature provisions—and the U.S. Supreme Court denied review on March 2, 2026.",
+    "cited_markers": [
+      "[50]",
+      "[51]"
+    ],
+    "cited_reference_ids": [
+      "23f8528fd2cb9952",
+      "2f6661b70427872a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-70",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 70,
+    "text": "That holding matched Part 2 of the U.S. Copyright Office's AI report, issued January 29, 2025, which confirmed that purely machine-generated material lacks protection and that text prompts function like unprotectable ideas because users cannot control expressive realizations.",
+    "cited_markers": [
+      "[46]",
+      "[48]",
+      "[49]"
+    ],
+    "cited_reference_ids": [
+      "d025ad3ecc8f0dc2",
+      "e32a3899a64c761b",
+      "21f11da433cc1816"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-71",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 71,
+    "text": "However, the Office reaffirmed copyright for human expression retained within AI-assisted works and for creative selection, arrangement, or substantial human modification, enabling hundreds of partial registrations since 2023.",
+    "cited_markers": [
+      "[47]",
+      "[49]"
+    ],
+    "cited_reference_ids": [
+      "b65b9431059254cc",
+      "21f11da433cc1816"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-72",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 72,
+    "text": "Whether hundreds of iterative prompts can establish human authorship is now being tested in Allen v. Perlmutter in Colorado federal court.",
+    "cited_markers": [
+      "[48]",
+      "[51]",
+      "[52]"
+    ],
+    "cited_reference_ids": [
+      "e32a3899a64c761b",
+      "2f6661b70427872a",
+      "c25a57863857d930"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-73",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 73,
+    "text": "Artist Jason Allen sued after the Copyright Office refused to register his Midjourney image Théâtre D'opéra Spatial because he declined to disclaim AI-generated elements despite entering at least 624 prompts and making visual edits.",
+    "cited_markers": [
+      "[48]",
+      "[52]",
+      "[53]"
+    ],
+    "cited_reference_ids": [
+      "e32a3899a64c761b",
+      "c25a57863857d930",
+      "2159d7f23e74a7cd"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-74",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 74,
+    "text": "Briefing closed on February 27, 2026, with no merits decision as of early November 2026.",
+    "cited_markers": [
+      "[48]"
+    ],
+    "cited_reference_ids": [
+      "e32a3899a64c761b"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-75",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 75,
+    "text": "Until Allen is decided, purely prompted AI visuals or audio risk falling into the public domain, forcing studios to rely on documented human modifications and contracts for exclusivity.",
+    "cited_markers": [
+      "[49]",
+      "[52]",
+      "[91]"
+    ],
+    "cited_reference_ids": [
+      "21f11da433cc1816",
+      "c25a57863857d930",
+      "44ecdf8f7c07c5ac"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-76",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 76,
+    "text": "Foreign courts have diverged: a Munich local court denied copyright to AI-generated logos in February 2026 for lacking sufficient human creative influence, whereas the Beijing Internet Court recognized prompt-based copyright in Li v. Liu in November 2023 after an artist arranged over 150 Stable Diffusion prompts and parameters.",
+    "cited_markers": [
+      "[54]",
+      "[55]"
+    ],
+    "cited_reference_ids": [
+      "b59cf79ba07c59c4",
+      "cb479708bc0dfef5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-77",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 77,
+    "text": "On the training-data front, litigation stakes escalated sharply across 2025 and 2026.",
+    "cited_markers": [
+      "[23]",
+      "[53]"
+    ],
+    "cited_reference_ids": [
+      "715ac7f1a7b0bddd",
+      "2159d7f23e74a7cd"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-78",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 78,
+    "text": "In May 2025, the U.S. Copyright Office released a pre-publication version of Part 3 of its AI report, concluding that training involves copying and that commercial models ingesting vast troves of expressive works—especially pirated copies—to produce competing substitutes exceed fair use, particularly where licensing markets exist.",
+    "cited_markers": [
+      "[56]",
+      "[58]",
+      "[59]"
+    ],
+    "cited_reference_ids": [
+      "a5ab084a52257129",
+      "e1ecb38846ba5b1a",
+      "9a8f66ecd03cb43f"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-79",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 79,
+    "text": "Early federal court decisions reflected narrow, fact-specific reasoning.",
+    "cited_markers": [
+      "[53]",
+      "[60]"
+    ],
+    "cited_reference_ids": [
+      "2159d7f23e74a7cd",
+      "994ae66275970078"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-80",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 80,
+    "text": "A Delaware court rejected fair use in Thomson Reuters v. Ross Intelligence in February 2025, leading to a Third Circuit appeal argued on June 11, 2026.",
+    "cited_markers": [
+      "[53]"
+    ],
+    "cited_reference_ids": [
+      "2159d7f23e74a7cd"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-81",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 81,
+    "text": "In June 2025, California judges split in contrasting summary judgment orders: Meta prevailed in Kadrey v. Meta because plaintiffs failed to prove market harm, whereas in Bartz v. Anthropic, Judge William Alsup distinguished fair-use training on lawfully purchased books from infringement using pirated books.",
+    "cited_markers": [
+      "[53]",
+      "[60]"
+    ],
+    "cited_reference_ids": [
+      "2159d7f23e74a7cd",
+      "994ae66275970078"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-82",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 82,
+    "text": "Bartz concluded on July 20, 2026, with final court approval of a $1.5 billion class settlement—the largest in U.S. copyright history—covering roughly 500,000 books at an implied benchmark of about $3,100 per work and a 92.77 percent opt-in rate.",
+    "cited_markers": [
+      "[23]"
+    ],
+    "cited_reference_ids": [
+      "715ac7f1a7b0bddd"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-83",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 83,
+    "text": "Hollywood studios have also litigated directly to protect visual franchises.",
+    "cited_markers": [
+      "[62]",
+      "[63]"
+    ],
+    "cited_reference_ids": [
+      "491e8445479fd489",
+      "3e3ea65b387725b6"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-84",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 84,
+    "text": "On June 11, 2025, Disney and Universal sued Midjourney in the Central District of California—the first major studio copyright suit against an AI generator—alleging unauthorized training and output copying of characters such as Princess Elsa and Bart Simpson, alongside later suits by Warner Bros. and Evox Productions.",
+    "cited_markers": [
+      "[23]",
+      "[61]",
+      "[64]"
+    ],
+    "cited_reference_ids": [
+      "715ac7f1a7b0bddd",
+      "614ac8deacf4b469",
+      "59868667bded4880"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-85",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 85,
+    "text": "As of November 2026, Disney/Universal v. Midjourney remains active ahead of a November 23, 2026 motion deadline.",
+    "cited_markers": [
+      "[61]"
+    ],
+    "cited_reference_ids": [
+      "614ac8deacf4b469"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-86",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 86,
+    "text": "Abroad, courts have split on whether trained model weights constitute infringing copies.",
+    "cited_markers": [
+      "[55]",
+      "[65]"
+    ],
+    "cited_reference_ids": [
+      "cb479708bc0dfef5",
+      "524f61e57a357570"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-87",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 87,
+    "text": "On November 4, 2025, the English High Court dismissed Getty Images' secondary copyright claim in Getty Images v. Stability AI, holding that model weights do not store or reproduce training images—though Getty won permission in December 2025 to appeal that statutory question while Stability was denied leave to appeal trademark findings.",
+    "cited_markers": [
+      "[55]",
+      "[65]",
+      "[66]"
+    ],
+    "cited_reference_ids": [
+      "cb479708bc0dfef5",
+      "524f61e57a357570",
+      "b96039d1567590cd"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-88",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 88,
+    "text": "Conversely, on July 31, 2026, Munich's Regional Court ruled for GEMA against Suno, finding that Suno's model memorized lyrics outside the EU text-and-data-mining exception.",
+    "cited_markers": [
+      "[23]",
+      "[55]"
+    ],
+    "cited_reference_ids": [
+      "715ac7f1a7b0bddd",
+      "cb479708bc0dfef5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-89",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 89,
+    "text": "Yet a Court of Justice of the European Union Advocate General opined in a non-binding November 4, 2026 advisory that language-model training generally falls under that EU exception, while India's Delhi High Court denied an interim injunction against OpenAI in July 2026 under fair dealing pending appeal.",
+    "cited_markers": [
+      "[23]",
+      "[55]"
+    ],
+    "cited_reference_ids": [
+      "715ac7f1a7b0bddd",
+      "cb479708bc0dfef5"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-90",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 90,
+    "text": "Because federal copyright and trademark law rarely protect vocal identity itself, legal enforcement has shifted toward state right-of-publicity statutes and statutory disclosure mandates.",
+    "cited_markers": [
+      "[68]",
+      "[74]"
+    ],
+    "cited_reference_ids": [
+      "1443f83fa4a07216",
+      "e6d95f5955eeaa83"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-91",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 91,
+    "text": "In Lehrman v. Lovo, Inc., a New York federal court ruled on July 10, 2025, that voice actors' Lanham Act trademark claims failed because their voices served as commercial services rather than brand source identifiers, and held that 17 U.S.C. § 114(b) bars federal sound-recording claims against AI sound-alikes that do not copy actual recorded audio—echoing the Seventh Circuit's 2025 ruling in Richardson v. Kharbouch.",
+    "cited_markers": [
+      "[67]",
+      "[68]",
+      "[69]"
+    ],
+    "cited_reference_ids": [
+      "8437f7527c4dc055",
+      "1443f83fa4a07216",
+      "f3e20b836daf5042"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-92",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 92,
+    "text": "However, the Lehrman court allowed breach of contract, consumer protection, and New York Civil Rights Law digital-replica claims to proceed, validating state publicity remedies even though Lovo's May 27, 2026 Chapter 7 bankruptcy and October 2026 shutdown complicated recovery.",
+    "cited_markers": [
+      "[67]",
+      "[68]",
+      "[70]"
+    ],
+    "cited_reference_ids": [
+      "8437f7527c4dc055",
+      "1443f83fa4a07216",
+      "23a34f7aff2a3825"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-93",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 93,
+    "text": "States have moved aggressively to fill this gap.",
+    "cited_markers": [
+      "[71]",
+      "[74]"
+    ],
+    "cited_reference_ids": [
+      "79fe2dde0c9d4454",
+      "e6d95f5955eeaa83"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-94",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 94,
+    "text": "Tennessee's ELVIS Act, effective July 1, 2024, protects every individual's recognizable voice from AI simulation, creates civil and criminal liability, and penalizes cloning-tool distributors.",
+    "cited_markers": [
+      "[72]",
+      "[73]",
+      "[74]"
+    ],
+    "cited_reference_ids": [
+      "73da2e8812471063",
+      "f5ab54b8f564cede",
+      "e6d95f5955eeaa83"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-95",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 95,
+    "text": "California enacted AB 2602 and AB 1836, effective January 1, 2025: AB 2602 voids replica contract clauses lacking specific use descriptions and independent legal or union counsel, while AB 1836 protects deceased performers for 70 years with minimum statutory damages of $10,000 per violation.",
+    "cited_markers": [
+      "[71]",
+      "[73]",
+      "[74]"
+    ],
+    "cited_reference_ids": [
+      "79fe2dde0c9d4454",
+      "f5ab54b8f564cede",
+      "e6d95f5955eeaa83"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-96",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 96,
+    "text": "California reinforced those laws in October 2025 with SB 683, allowing two-business-day judicial takedowns for commercial identity misuse.",
+    "cited_markers": [
+      "[77]"
+    ],
+    "cited_reference_ids": [
+      "9d0ca35723cdd785"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-97",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 97,
+    "text": "Illinois enacted digital-replica rules in January 2025, and New York passed postmortem replica protections alongside a synthetic-performer advertising disclosure law effective June 9, 2026, prompting Amazon to require third-party sellers to label AI-generated people starting in July 2026.",
+    "cited_markers": [
+      "[74]",
+      "[77]",
+      "[78]"
+    ],
+    "cited_reference_ids": [
+      "e6d95f5955eeaa83",
+      "9d0ca35723cdd785",
+      "377fa397a3a499a2"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-98",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 98,
+    "text": "Federal uniformity remains stalled.",
+    "cited_markers": [
+      "[71]",
+      "[75]"
+    ],
+    "cited_reference_ids": [
+      "79fe2dde0c9d4454",
+      "d8ee3eba84dd0caa"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-99",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 99,
+    "text": "Although the Copyright Office's July 2024 Part 1 report urged a federal replica law—and Congress enacted the TAKE IT DOWN Act in May 2025 requiring 48-hour removal of non-consensual intimate deepfakes starting in May 2026—the broader NO FAKES Act of 2026 (S. 4591 and H.R. 8915) has stalled.",
+    "cited_markers": [
+      "[71]",
+      "[75]",
+      "[76]",
+      "[77]"
+    ],
+    "cited_reference_ids": [
+      "79fe2dde0c9d4454",
+      "d8ee3eba84dd0caa",
+      "0a797fc5e6aca167",
+      "9d0ca35723cdd785"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-100",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 100,
+    "text": "Designed to create a non-transferable, postmortem-licensable federal right in voice and likeness backed by notice-and-takedown duties and $25,000-to-$750,000 platform penalties, S. 4591 cleared the Senate Judiciary Committee unanimously on June 18, 2026, but was blocked from a fast-track floor vote on September 30, 2026, by Senator Ted Cruz over free-speech concerns.",
+    "cited_markers": [
+      "[71]",
+      "[73]",
+      "[75]"
+    ],
+    "cited_reference_ids": [
+      "79fe2dde0c9d4454",
+      "f5ab54b8f564cede",
+      "d8ee3eba84dd0caa"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-101",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 101,
+    "text": "Internationally, regulators have layered sweeping transparency and personality rules onto synthetic media.",
+    "cited_markers": [
+      "[55]",
+      "[79]",
+      "[83]"
+    ],
+    "cited_reference_ids": [
+      "cb479708bc0dfef5",
+      "6b9c978375a917b2",
+      "876d36e2e869a71a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-102",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 102,
+    "text": "Under the European Union's AI Act, Article 50 duties became enforceable on August 2, 2026, with final Commission guidelines published in the Official Journal on November 12, 2026, and a December 2, 2026 grace deadline for legacy generators to implement machine-readable marking.",
+    "cited_markers": [
+      "[79]",
+      "[80]",
+      "[81]",
+      "[82]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2",
+      "b76da90c9efa52ad",
+      "bf07a32b54786ba6",
+      "a73bbe86eb88a4c1"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-103",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 103,
+    "text": "Article 50 requires providers to disclose AI interactions and mark synthetic audio, video, images, and text, while requiring deployers—including non-EU advertisers targeting European audiences—to label deepfakes under fines up to €15 million or 3 percent of global annual turnover, even when performer consent was obtained and with only a tailored exception preserving enjoyment of evidently artistic or satirical works.",
+    "cited_markers": [
+      "[79]",
+      "[80]",
+      "[82]",
+      "[93]"
+    ],
+    "cited_reference_ids": [
+      "6b9c978375a917b2",
+      "b76da90c9efa52ad",
+      "a73bbe86eb88a4c1",
+      "748c3dc76a6c6b43"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-104",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 104,
+    "text": "On November 12, 2026, the European Parliament also passed a non-binding resolution urging EU Charter amendments protecting likeness against deepfakes.",
+    "cited_markers": [
+      "[83]"
+    ],
+    "cited_reference_ids": [
+      "876d36e2e869a71a"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-105",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 105,
+    "text": "Nationally, Denmark advanced Section 73a Copyright Act amendments in 2026 granting citizens copyright-like neighboring rights against deepfakes enforceable via the EU Digital Services Act, drawing scholarly debate over blending copyright with personality rights.",
+    "cited_markers": [
+      "[84]",
+      "[85]",
+      "[88]"
+    ],
+    "cited_reference_ids": [
+      "eb2637385c471519",
+      "565baf8382fc5938",
+      "92d7831272f13c5d"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-106",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 106,
+    "text": "Elsewhere, Germany's Landgericht Berlin II awarded voice actor Manfred Lehmann €4,000 in August 2025 over unauthorized AI voice cloning, while China paired strict Deep Synthesis labeling rules with diverging court outcomes: Beijing's Internet Court upheld AI voice personality rights in April 2024, whereas a Chengdu court rejected a non-celebrity actor's \"Meng Shuai\" claim for lacking public recognizability.",
+    "cited_markers": [
+      "[55]",
+      "[86]",
+      "[87]",
+      "[88]"
+    ],
+    "cited_reference_ids": [
+      "cb479708bc0dfef5",
+      "265bc58c04b6709c",
+      "96d72fb1f1c459ac",
+      "92d7831272f13c5d"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-107",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 107,
+    "text": "Confronting overlapping union contracts, copyright limits, and extraterritorial labeling laws in late 2026, entertainment companies increasingly pair technical provenance with rigorous documentation.",
+    "cited_markers": [
+      "[89]",
+      "[90]",
+      "[91]"
+    ],
+    "cited_reference_ids": [
+      "6262972b1fd342ed",
+      "bddb258f50908e05",
+      "44ecdf8f7c07c5ac"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-108",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 108,
+    "text": "Technically, studios and platforms combine C2PA Content Credentials—cryptographically signed edit histories embedded in file metadata—with imperceptible watermarks placed directly inside audio waveforms and video pixels, since social-media uploads, compression, and screenshots routinely strip metadata.",
+    "cited_markers": [
+      "[89]",
+      "[90]"
+    ],
+    "cited_reference_ids": [
+      "6262972b1fd342ed",
+      "bddb258f50908e05"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-109",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 109,
+    "text": "Market research firm DataM Intelligence estimates the global digital watermarking market at $1.51 billion in 2025, projecting growth to $4.23 billion by 2035 as invisible marking merges into enterprise AI trust stacks.",
+    "cited_markers": [
+      "[90]"
+    ],
+    "cited_reference_ids": [
+      "bddb258f50908e05"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-110",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 110,
+    "text": "Commercially, major film festivals including Sundance, TIFF, Cannes, Venice, and Berlin require AI disclosures, while errors-and-omissions insurers scrutinize AI chains of title and may deny coverage for undisclosed synthetic assets.",
+    "cited_markers": [
+      "[91]",
+      "[92]"
+    ],
+    "cited_reference_ids": [
+      "44ecdf8f7c07c5ac",
+      "9abf1e3404183774"
+    ]
+  },
+  {
+    "id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z-111",
+    "answer_id": "ia_generativa_entretenimento_6d6b9157bae0_20261117T231159Z",
+    "position": 111,
+    "text": "Viable compliance in late 2026 therefore depends on maintaining granular prompt-and-edit logs to substantiate human authorship, securing separately represented replica consents under California and union rules, preserving durable C2PA and watermark signals across distribution, and issuing clear EU Article 50 and festival disclosures before release.",
+    "cited_markers": [
+      "[80]",
+      "[89]",
+      "[91]",
+      "[92]"
+    ],
+    "cited_reference_ids": [
+      "b76da90c9efa52ad",
+      "6262972b1fd342ed",
+      "44ecdf8f7c07c5ac",
+      "9abf1e3404183774"
+    ]
+  }
+]

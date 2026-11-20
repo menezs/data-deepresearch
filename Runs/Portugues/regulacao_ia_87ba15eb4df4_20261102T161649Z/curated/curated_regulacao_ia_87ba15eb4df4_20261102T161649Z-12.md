@@ -1,0 +1,236 @@
+[referencia=8017bf63ce478c77 score=0.447]
+# EU AI Act: Regulation on Artificial Intelligence (EU 2024/1689)
+
+Complete guide to the EU AI Act. Understand AI risk classifications, obligations for providers and deployers, and how Reversa helps organisations achieve compliance.
+
+Last updated: October 26, 2026
+
+Overview
+
+## What is this regulation?
+
+The EU AI Act is the world's first comprehensive legal framework regulating artificial intelligence. Adopted in 2024, it establishes a risk-based approach to AI governance, classifying AI systems into four risk categories: unacceptable risk (banned), high-risk (heavily regulated), limited risk (transparency obligations), and minimal risk (largely unregulated). The regulation applies to providers, deployers, importers, and distributors of AI systems placed on the EU market or whose output is used in the EU. It introduces mandatory requirements for high-risk AI systems including risk management, data governance, technical documentation, transparency, human oversight, and accuracy and robustness standards. The Act also addresses general-purpose AI models, including foundation models and generative AI, with specific obligations for systemic risk models.
+
+## Who does it affect?
+
+Organisations and roles impacted by this regulation
+
+1. AI system providers who develop or commission AI systems for placing on the EU market, regardless of whether they are established in the EU.
+2. Deployers (users) of AI systems within the EU, including businesses and public authorities that use AI systems in their operations.
+3. Providers of general-purpose AI models, including foundation models and large language models, with enhanced obligations for models posing systemic risks.
+4. Importers and distributors of AI systems in the EU market who must ensure compliance before making systems available.
+
+---
+
+[referencia=59afac7a9650252d score=0.106]
+## Who the regulation covers
+
+The EU AI Act – formally Regulation (EU) 2024/1689 of the European Parliament and of the Council – applies to everyone who provides, distributes or uses AI systems on the European market. The regulation distinguishes between several roles, and two of them are worth knowing. A provider is the party that develops an AI system and places it on the market – OpenAI, Microsoft, Google and the many smaller vendors. A deployer (in Danish ”idriftsætter” – in everyday speech often simply a ”user”) is any organisation that uses an AI system as part of its professional activities.
+
+That last word is the law's most overlooked. If the communications department uses ChatGPT to write drafts, or Copilot sits inside employees' word processors, the organisation is a deployer within the meaning of the regulation. The requirements for deployers are considerably lighter than those for providers – but they exist, and some of them already apply. You cannot park the responsibility with the vendor and look away.
+
+If you are unsure whether your organisation is covered, five yes/no questions settle most of it:
+
+- Do employees use generative AI tools such as ChatGPT, Copilot or Gemini in their work?
+- Is AI involved in decisions about or assessments of people – for example in recruitment, employee development or customer service?
+- Have you bought software with built-in AI – for example CRM, HR or marketing platforms with automated recommendations?
+- Do you publish AI-generated content – text, images, audio or video – where the Act's transparency obligations may apply, for example synthetic media?
+- Have you developed or substantially adapted an AI solution yourselves – internally or for clients?
+
+If you can answer yes to just one of these questions, your organisation is in all likelihood covered by the EU AI Act – at the very least by the competence requirement in Article 4, which I return to below.
+
+---
+
+[referencia=64b4c84a1acfe340 score=0.097]
+Implementation monitor
+
+# The EU AI Act timeline
+
+Follow the regulation from publication through its phased application. Dates reflect the current framework, including the AI Omnibus changes in force from July 2026.
+
+1. 12 July 2024## Published in the Official JournalRegulation (EU) 2024/1689 was published, beginning the countdown to entry into force.
+2. 1 August 2024## The AI Act entered into forceThe regulation became EU law, with its obligations scheduled to apply in phases.
+3. 2 February 2025## First rules began to applyThe AI-system definition and prohibited-practice framework entered into application.
+4. 2 August 2025## Governance and GPAI obligationsEU and national governance provisions and obligations for general-purpose AI models began to apply.
+5. 27 July 2026## AI Omnibus entered into forceThe amending regulation extended the high-risk implementation schedule and introduced targeted simplifications.
+6. 2 August 2026## General applicationMost remaining provisions, including the Article 50 transparency framework, apply from this date.
+7. 2 December 2026## Two new prohibitions and the legacy marking deadlineArticle 5(1)(ba) and (bb), inserted by the AI Omnibus, prohibit specified non-consensual intimate imagery and child sexual abuse material: taking the Article 5 list to ten. Generative systems already on the market must also carry machine-readable marking of synthetic output by this date.
+8. 2 August 2027## Existing GPAI model transition endsProviders of GPAI models placed on the market before 2 August 2025 must meet the applicable obligations.
+9. 2 December 2027## Annex III high-risk systemsHigh-risk requirements begin applying to listed sensitive uses such as employment, education, essential services and biometrics.
+10. 2 August 2028## AI embedded in regulated productsHigh-risk requirements apply to AI systems integrated into products such as machinery, toys and lifts.
+11. 2 August 2030## Legacy large-scale IT systems must complyAI components of Union large-scale IT systems in the area of freedom, security and justice, placed on the market before 2 August 2027, must be brought into compliance.
+
+Source: Regulation (EU) 2024/1689 and European Commission AI Act implementation updates. Always verify dates against the current official text before legal reliance.
+
+---
+
+[referencia=59afac7a9650252d score=0.048]
+When the EU adopted the AI Act, the law was quickly described as the tech industry's problem. The regulation was about those who build artificial intelligence: the tech giants, the model developers, the vendors. That is not how I read it. The EU AI Act is at least as much a law about those of us who use the technology – the communications department, HR, marketing and the executive office.
+
+That reading is what this guide is built on. I walk through who the regulation covers, when the requirements apply, what the risk classes mean in everyday language, and what leadership should do now. Along the way I stick to what the regulation actually says – and I am honest about what has not yet been settled.
+
+---
+
+[referencia=8017bf63ce478c77 score=0.016]
+## Implementation timeline
+
+Key milestones and compliance deadlines
+
+1. Jul 2024 AI Act published in the Official Journal on 12 July 2024; in force since 1 August 2024.
+2. Feb 2025 Prohibitions on unacceptable-risk AI practices become applicable.
+3. Aug 2025 Rules for general-purpose AI models become applicable.
+4. Jul 2026 Digital Omnibus on AI (Regulation (EU) 2026/1744) adopted; it moves the high-risk deadlines.
+5. Aug 2026 General application of the Act, including the transparency rules in Article 50.
+6. Dec 2026 New bans apply on AI that generates non-consensual intimate images or child sexual abuse material.
+7. Dec 2027 High-risk obligations apply to Annex III systems.
+8. Aug 2028 High-risk obligations apply to Annex I products.
+
+## Key facts
+
+Quick reference summary of this regulation
+
+- Official name
+- Regulation (EU) 2024/1689
+- In force since
+- 1 August 2024
+- Application
+- 2 August 2026; high-risk: 2 December 2027 (Annex III) and 2 August 2028 (Annex I)
+- Scope
+- All AI systems placed on or used in the EU market
+- Max penalty
+- €35M or 7% global turnover
+- Enforced by
+- AI Office + national authorities
+
+## How Reversa helps
+
+Tools to meet the obligations of this regulation
+
+Radar
+
+Agents read the official sources for the AI Act (the AI Office, national authorities, standardisation bodies and the Official Journal) and tell you which changes affect you, and why.
+
+Compliance
+
+AI Act obligations extracted from the text for each of your AI systems, by risk class, and carried to controls, owners, deadlines and evidence.
+
+Lawmaking
+
+Amendments, delegated acts, guidelines and harmonised standards followed from draft to adoption, with votes and stakeholders.
+
+Research
+
+Answers to AI Act questions, each one traced to the article and version it relies on.
+
+## Frequently asked questions
+
+## Related regulations
+
+## Prepare for the EU AI Act with Reversa
+
+From risk classification to documentation, meet every AI Act obligation.
+
+---
+
+[referencia=59afac7a9650252d score=0.012]
+## The timeline from 2024 to 2027
+
+The EU AI Act entered into force on 1 August 2024, but the requirements are activated in stages towards 2027. The table shows the most important dates:
+
+| Date | Requirement | Who it affects | 
+|---|---|---|
+| 1 August 2024 | The regulation enters into force – no substantive operational requirements apply yet | Everyone | 
+| 2 February 2025 | Bans on AI with unacceptable risk, plus the AI literacy requirement (Article 4) | All providers and deployers of AI systems | 
+| 2 August 2025 | Rules for general-purpose AI models (GPAI), plus rules on authorities and sanctions | Primarily providers of general-purpose AI models | 
+| 2 August 2026 | The bulk of the regulation's requirements – including most high-risk rules and the transparency requirements | Most organisations that provide or use AI | 
+| 2 August 2027 | Certain rules for high-risk AI embedded in regulated products – according to plan | Manufacturers of medical devices, machinery and toys, among others | 
+
+As I write this guide in July 2026, the most important date is less than three weeks away. Two things, however, have applied since 2 February 2025 – the bans and the AI literacy requirement – and those are precisely what many organisations have yet to discover.
+
+---
+
+[referencia=59afac7a9650252d score=0.008]
+## What the law does not say
+
+Finally, a piece of honesty that guides of this kind often skip: there are significant questions the regulation does not yet answer. The European Commission regularly issues guidance on interpretation – on the bans and on general-purpose AI, among other things – but several of the standards the high-risk requirements will be measured against are still being drafted.
+
+Danish supervisory practice is young too. The Danish Agency for Digital Government (Digitaliseringsstyrelsen) is expected to play a central role in Danish enforcement, but the supervisory structure is still being built, and several authorities may be involved. How supervision will be prioritised in practice – who gets inspected first, how hard sanctions will bite, how much guidance comes before them – nobody knows yet. Anyone promising you precise answers to those questions today is selling something.
+
+My recommendation is therefore not to wait for clarity, but to do what is robust whatever the outcome: know your use, train your people and be able to document both.
+
+Perhaps these are the questions worth bringing into the boardroom: Do you know where AI is actually used in your organisation today? Can you document that the employees who use the technology have competences that match their use? And if a journalist – or a supervisory authority – asked tomorrow who is responsible for AI in your organisation, would the answer come quickly? The EU AI Act is not first and foremost a threat of fines. It is an occasion to do what was wise anyway.
+
+## Sources
+
+- Regulation (EU) 2024/1689 of the European Parliament and of the Council (the EU AI Act). Danish text on EUR-Lex.
+- European Commission: Regulatory framework on artificial intelligence (AI Act).
+- The Danish Agency for Digital Government (Digitaliseringsstyrelsen) – the Danish authority in the AI area.
+
+---
+
+[referencia=8017bf63ce478c77 score=0.008]
+## Key obligations
+
+Core compliance requirements organisations must address
+
+1. 01Risk classification Organisations must classify their AI systems according to the Act's risk categories. High-risk AI systems include those used in critical infrastructure, education, employment, law enforcement, migration, and justice administration.
+2. 02Risk management system High-risk AI providers must implement a continuous risk management system throughout the AI system's lifecycle, identifying, analysing, estimating, and evaluating risks, and adopting appropriate mitigation measures.
+3. 03Data governance Training, validation, and testing datasets for high-risk AI must meet quality criteria including relevance, representativeness, freedom from errors, and completeness, with specific provisions for bias detection and mitigation.
+4. 04Transparency and human oversight High-risk AI systems must be designed to allow effective human oversight and must provide clear instructions for use. Users must be informed they are interacting with AI systems in certain contexts.
+5. 05Technical documentation Providers of high-risk AI systems must prepare comprehensive technical documentation demonstrating compliance, including system architecture, development methodology, training procedures, and testing results.
+6. 06Conformity assessment High-risk AI systems must undergo conformity assessment procedures before being placed on the market, with some categories requiring assessment by notified bodies.
+
+## Penalties for non-compliance
+
+The EU AI Act establishes a tiered penalty structure. Violations related to prohibited AI practices can result in fines of up to 35 million euros or 7% of global annual turnover. Non-compliance with high-risk AI obligations carries fines of up to 15 million euros or 3% of global turnover. Providing incorrect or misleading information to authorities can result in fines of up to 7.5 million euros or 1% of global turnover. SMEs and startups benefit from proportionate penalty caps. Member states must also establish rules on penalties for other infringements and ensure enforcement mechanisms are effective, proportionate, and dissuasive.
+
+---
+
+[referencia=59afac7a9650252d score=0.003]
+## The risk classes in everyday language
+
+The regulation's logic is simple, even if the legal text is not: the greater the risk an AI system poses to people's rights and safety, the stricter the requirements. There are four levels.
+
+### Unacceptable risk
+
+Systems considered a threat to fundamental rights are banned. That includes social scoring of citizens and manipulative AI that exploits vulnerability – and, closer to everyday life, AI-based emotion recognition in the workplace when it is used to infer employees' emotions. It is prohibited as a starting point – with a few exceptions for medical and safety purposes, among others. A tool that promises to read employees' engagement in video meetings belongs here as a starting point. Unacceptable risk means banned – however good the intention.
+
+### High risk
+
+Systems with significant consequences for people's lives and opportunities are permitted, but subject to extensive requirements for documentation, data quality and human oversight. The classic example from HR is AI that sorts applications or shortlists candidates for interview. High-risk AI is not banned AI – it is AI you must be able to account for.
+
+### Limited risk
+
+Here the requirements are about transparency. The chatbot on your website must identify itself as a machine, and AI-generated content must in relevant cases be identifiable as artificially created – especially deepfakes and other synthetic or potentially misleading content, for example synthetic images in a marketing campaign. Not all AI-generated content must be labelled; the obligations depend on the type of content and how it is used. Limited risk is about honesty: people should know when they are talking to, or looking at, a machine.
+
+### Minimal risk
+
+By far most everyday AI – spell checkers, spam filters, search functions, recommendations in planning tools – falls outside the stricter requirements. Minimal risk is the regulation's default, not its exception.
+
+Generative tools such as ChatGPT are additionally regulated through separate rules for general-purpose AI, aimed primarily at the providers. But using the tools can still trigger requirements for the deployer – transparency when content is published, and competence among the people who use them.
+
+---
+
+[referencia=59afac7a9650252d score=0.002]
+## Article 4: the AI literacy requirement
+
+In the middle of a regulation running to several hundred pages stands a clause of a few lines, which I consider the law's most practically significant for ordinary organisations. Article 4 requires providers and deployers to ensure a sufficient level of AI literacy among the employees who work with AI systems – taking into account their technical knowledge, experience, education and the context in which the systems are used. The requirement has applied since 2 February 2025.
+
+What sufficient means, the regulation does not define precisely, and no certificate comes with it. But the direction is clear: employees who use AI must understand the tools' possibilities and limitations, know the risks – and be able to judge when an output cannot stand on its own. In my assessment it would be difficult to argue that Article 4 is satisfied if employees are given free access to Copilot without any form of competence development.
+
+In practice, the requirement will typically involve systematic training, adapted to roles and use. That might be structured AI courses for the departments that use the technology most, or a shared AI training day that gives the whole organisation the same foundation. Documentation is not an explicit requirement in Article 4 – but most organisations choose to document their competence efforts, because it is the most convincing way to demonstrate compliance: who has been trained in what, and when.
+
+---
+
+[referencia=59afac7a9650252d score=0.000]
+## What leadership should do now
+
+The regulation can feel overwhelming, but the first steps are not. Five steps cover most of it:
+
+1. **Map the use.** Find out where AI is actually used in the organisation – both the approved tools and the unofficial ones. Ask the departments directly; the shadow use is often larger than the registered use. Without an accurate picture, none of the following can be done properly.
+2. **Classify the systems.** Place each use in the regulation's risk classes. Most uses will land in minimal or limited risk, but the use of AI in recruitment or employee assessment demands particular attention. Note the reasoning behind each placement – it becomes valuable if anyone asks.
+3. **Assign the responsibility.** Someone has to own the task. It does not have to be a new position, but it must be a named responsibility with a mandate to set requirements across departments – otherwise the regulation ends up as everyone's task, and therefore no one's.
+4. **Train the employees.** Article 4 already applies. Make sure everyone who works with AI has competences that match their use – and document the effort. Differentiate where you can: communications, HR and marketing need something different from the finance function.
+5. **Write an AI policy.** An AI policy is not a general legal requirement – but it is often the easiest way to turn the requirements into practice. Gather the mapping, classification, responsibility and training in a short, readable policy: which tools may be used for what, what must never be shared with them, and who to ask. An AI policy without the four preceding steps is decoration.
+
+The five steps are also where the work on the regulation and the work on AI strategy meet: the mapping and classification from steps one and two are the same foundation a strategy is built on. If the organisation needs help with the process, that is a classic task for external AI advisory – but the responsibility cannot be outsourced.

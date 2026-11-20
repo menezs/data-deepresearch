@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "ia_generativa_entretenimento_240915fb4975_20261102T150022Z-20",
+  "passages": [
+    {
+      "reference_chunk_id": "8351d1877c05c6a7-0",
+      "reference_id": "8351d1877c05c6a7",
+      "score": 0.02415419928729534,
+      "text": "|  |                                                        **Presidência     da República Casa Civil                      Subchefia para Assuntos Jurídicos** | \n\n   \n    \n     \n      \n       **LEI Nº\n       10.406, DE 10 DE JANEIRO DE\n2002**\n\n| ÍNDICE Vigência Lei de Introdução às normas do Direito Brasileiro (Vide Lei nº 14.195, de 2021) Vide Lei nº 14.451, de 2022 Vigência | Institui o Código Civil. | \n\n  \n   \n    **O PRESIDENTE DA REPÚBLICA**\n   \n   Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:"
+    }
+  ],
+  "assembled_context": "[referencia=8351d1877c05c6a7 score=0.024]\n|  |                                                        **Presidência     da República Casa Civil                      Subchefia para Assuntos Jurídicos** | \n\n   \n    \n     \n      \n       **LEI Nº\n       10.406, DE 10 DE JANEIRO DE\n2002**\n\n| ÍNDICE Vigência Lei de Introdução às normas do Direito Brasileiro (Vide Lei nº 14.195, de 2021) Vide Lei nº 14.451, de 2022 Vigência | Institui o Código Civil. | \n\n  \n   \n    **O PRESIDENTE DA REPÚBLICA**\n   \n   Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:",
+  "skip_reason": null
+}

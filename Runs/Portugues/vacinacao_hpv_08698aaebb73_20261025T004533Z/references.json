@@ -1,0 +1,515 @@
+[
+  {
+    "id": "27d10d3df5d5ceaa",
+    "citation_markers": [
+      "[1]"
+    ],
+    "raw_url": "https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-no-41-2024-cgici-dpni-svsa-ms",
+    "normalized_url": "https://gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-no-41-2024-cgici-dpni-svsa-ms",
+    "work_key": "https://gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/notas-tecnicas/2024/nota-tecnica-no-41-2024-cgici-dpni-svsa-ms",
+    "title": "**Ministério da Saúde. Nota Técnica nº 41/2024-CGICI/DPNI/SVSA/MS — Atualização das recomendações da vacinação contra HPV no Brasil.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:45:59.637472Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "bdc2d3ee3d53283d",
+    "citation_markers": [
+      "[2]"
+    ],
+    "raw_url": "https://www.gov.br/mulheres/pt-br/central-de-conteudos/noticias/2026/defeso-eleitoral/vacinacao-contra-o-hpv-para-jovens-de-15-a-19-anos-e-prorrogada-ate-dezembro",
+    "normalized_url": "https://gov.br/mulheres/pt-br/central-de-conteudos/noticias/2026/defeso-eleitoral/vacinacao-contra-o-hpv-para-jovens-de-15-a-19-anos-e-prorrogada-ate-dezembro",
+    "work_key": "https://gov.br/mulheres/pt-br/central-de-conteudos/noticias/2026/defeso-eleitoral/vacinacao-contra-o-hpv-para-jovens-de-15-a-19-anos-e-prorrogada-ate-dezembro",
+    "title": "**Governo Federal. Vacinação contra o HPV para jovens de 15 a 19 anos é prorrogada até dezembro.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:45:56.426151Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "81a6c7a95284aff5",
+    "citation_markers": [
+      "[3]"
+    ],
+    "raw_url": "https://familia.sbim.org.br/vacinas/vacinas-disponiveis/vacina-hpv4",
+    "normalized_url": "https://familia.sbim.org.br/vacinas/vacinas-disponiveis/vacina-hpv4",
+    "work_key": "https://familia.sbim.org.br/vacinas/vacinas-disponiveis/vacina-hpv4",
+    "title": "**Sociedade Brasileira de Imunizações — Vacina HPV4.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:45:56.423018Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6e1c3410774e6c49",
+    "citation_markers": [
+      "[4]"
+    ],
+    "raw_url": "https://www.who.int/publications/i/item/who-wer9750-645-672",
+    "normalized_url": "https://who.int/publications/i/item/who-wer9750-645-672",
+    "work_key": "https://who.int/publications/i/item/who-wer9750-645-672",
+    "title": "**World Health Organization. Human papillomavirus vaccines: WHO position paper, December 2022.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:45:58.149814Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "081e98231d99110a",
+    "citation_markers": [
+      "[5]"
+    ],
+    "raw_url": "https://www.cdc.gov/hpv/hcp/vaccination-considerations/index.html",
+    "normalized_url": "https://cdc.gov/hpv/hcp/vaccination-considerations/index.html",
+    "work_key": "https://cdc.gov/hpv/hcp/vaccination-considerations/index.html",
+    "title": "**Centers for Disease Control and Prevention. HPV Vaccination Recommendations — Vaccination Considerations for Clinicians.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:45:58.243317Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "604fefa35eccb3a3",
+    "citation_markers": [
+      "[6]"
+    ],
+    "raw_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/gardasil-9",
+    "normalized_url": "https://ema.europa.eu/en/medicines/human/EPAR/gardasil-9",
+    "work_key": "https://ema.europa.eu/en/medicines/human/EPAR/gardasil-9",
+    "title": "**European Medicines Agency. Gardasil 9 — EPAR.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:45:57.348877Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ecf3d7927a2004c6",
+    "citation_markers": [
+      "[7]"
+    ],
+    "raw_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cervarix",
+    "normalized_url": "https://ema.europa.eu/en/medicines/human/EPAR/cervarix",
+    "work_key": "https://ema.europa.eu/en/medicines/human/EPAR/cervarix",
+    "title": "**European Medicines Agency. Cervarix — EPAR.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:45:58.292575Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "28bbf0ee429681ab",
+    "citation_markers": [
+      "[8]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/15541448/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/15541448",
+    "work_key": "PMID:15541448",
+    "title": "**Harper DM et al. Efficacy of a bivalent L1 virus-like particle vaccine in prevention of infection with human papillomavirus types 16 and 18 in young women: a randomised controlled trial.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:27:04.585935Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "2a7eef803e191135",
+    "citation_markers": [
+      "[9]"
+    ],
+    "raw_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140673609612484/abstract",
+    "normalized_url": "https://thelancet.com/journals/lancet/article/PIIS0140673609612484/abstract",
+    "work_key": "https://thelancet.com/journals/lancet/article/PIIS0140673609612484/abstract",
+    "title": "**Paavonen J et al. Efficacy of human papillomavirus 16/18 AS04-adjuvanted vaccine against cervical infection and precancer caused by oncogenic HPV types: PATRICIA trial.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:27:08.472939Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "86989606b338058c",
+    "citation_markers": [
+      "[10]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/17494925/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/17494925",
+    "work_key": "PMID:17494925",
+    "title": "**FUTURE II Study Group. Quadrivalent vaccine against human papillomavirus to prevent high-grade cervical lesions.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:27:04.772911Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6bbd11958ffa6a75",
+    "citation_markers": [
+      "[11]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/25693011/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/25693011",
+    "work_key": "PMID:25693011",
+    "title": "**Joura EA et al. A 9-valent HPV vaccine against infection and intraepithelial neoplasia in women.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:27:05.339406Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "ccd2b2fb545e94e0",
+    "citation_markers": [
+      "[12]"
+    ],
+    "raw_url": "https://www.who.int/groups/global-advisory-committee-on-vaccine-safety/topics/human-papillomavirus-vaccines/safety",
+    "normalized_url": "https://who.int/groups/global-advisory-committee-on-vaccine-safety/topics/human-papillomavirus-vaccines/safety",
+    "work_key": "https://who.int/groups/global-advisory-committee-on-vaccine-safety/topics/human-papillomavirus-vaccines/safety",
+    "title": "**World Health Organization, Global Advisory Committee on Vaccine Safety. Human papillomavirus vaccines: safety.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:03.247621Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "4e97972fae4c58c5",
+    "citation_markers": [
+      "[13]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/29740819/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/29740819",
+    "work_key": "PMID:29740819",
+    "title": "**Arbyn M et al. Prophylactic vaccination against human papillomaviruses to prevent cervical cancer and its precursors — Cochrane Review.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:27:05.663210Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "6a61d81ecad4bd07",
+    "citation_markers": [
+      "[14]"
+    ],
+    "raw_url": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2819%2930298-3/abstract",
+    "normalized_url": "https://thelancet.com/journals/lancet/article/PIIS0140-6736(19)30298-3/abstract",
+    "work_key": "https://thelancet.com/journals/lancet/article/PIIS0140-6736(19)30298-3/abstract",
+    "title": "**Drolet M et al. Population-level impact and herd effects following the introduction of human papillomavirus vaccination programmes: updated systematic review and meta-analysis. The Lancet, 2019.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:27:08.485529Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "32c7af45363f84fc",
+    "citation_markers": [
+      "[15]"
+    ],
+    "raw_url": "https://www.cdc.gov/hpv/vaccines/index.html",
+    "normalized_url": "https://cdc.gov/hpv/vaccines/index.html",
+    "work_key": "https://cdc.gov/hpv/vaccines/index.html",
+    "title": "**Centers for Disease Control and Prevention. HPV Vaccination: Impact of HPV Vaccination.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:03.663119Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "7fb33d32d199e38f",
+    "citation_markers": [
+      "[16]"
+    ],
+    "raw_url": "https://www.bmj.com/content/392/bmj-2025-087326",
+    "normalized_url": "https://bmj.com/content/392/bmj-2025-087326",
+    "work_key": "https://bmj.com/content/392/bmj-2025-087326",
+    "title": "**Wu S et al. Extended follow-up of invasive cervical cancer risk after quadrivalent HPV vaccination: nationwide, register based study. The BMJ, 2026.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "blocked",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:27:08.649156Z",
+    "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "4d62326941b56f05",
+    "citation_markers": [
+      "[17]"
+    ],
+    "raw_url": "https://pubmed.ncbi.nlm.nih.gov/42309117/",
+    "normalized_url": "https://pubmed.ncbi.nlm.nih.gov/42309117",
+    "work_key": "PMID:42309117",
+    "title": "**Sasieni P, Falcaro M. Cervical cancer mortality trends following HPV vaccination in England, 2001–24: an analysis of population-based mortality data. The Lancet, 2026.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-11-04T02:27:06.145561Z",
+    "error_message": null,
+    "barrier_kind": "anti_bot",
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "358cd86d58cbde94",
+    "citation_markers": [
+      "[18]"
+    ],
+    "raw_url": "https://www.nature.com/articles/s41541-026-01495-9",
+    "normalized_url": "https://nature.com/articles/s41541-026-01495-9",
+    "work_key": "DOI:10.1038/s41541-026-01495-9",
+    "title": "**Wendland EM et al. Population-level impact of quadrivalent HPV vaccination in Brazil: a repeated cross-sectional study. npj Vaccines, 2026.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:06.825348Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "65b5c0d4c1694121",
+    "citation_markers": [
+      "[19]"
+    ],
+    "raw_url": "https://www.unasus.gov.br/noticia/brasil-avanca-na-vacinacao-contra-hpv-e-supera-media-global",
+    "normalized_url": "https://unasus.gov.br/noticia/brasil-avanca-na-vacinacao-contra-hpv-e-supera-media-global",
+    "work_key": "https://unasus.gov.br/noticia/brasil-avanca-na-vacinacao-contra-hpv-e-supera-media-global",
+    "title": "**UNA-SUS. Brasil avança na vacinação contra HPV e supera média global.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:05.983979Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "908d1afeb19082dd",
+    "citation_markers": [
+      "[20]"
+    ],
+    "raw_url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_VACINACAO_HPV/SEIDIGI_DEMAS_VACINACAO_HPV.html",
+    "normalized_url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_VACINACAO_HPV/SEIDIGI_DEMAS_VACINACAO_HPV.html",
+    "work_key": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_VACINACAO_HPV/SEIDIGI_DEMAS_VACINACAO_HPV.html",
+    "title": "**Ministério da Saúde. Vacinação HPV — Coortes vacinais: papilomavírus humano.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:09.446396Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "28d794d2d08851f2",
+    "citation_markers": [
+      "[21]"
+    ],
+    "raw_url": "https://www.who.int/teams/immunization-vaccines-and-biologicals/Immunization-data-and-decision-making/global-monitoring/immunization-coverage/who-unicef-estimates-of-national-immunization-coverage",
+    "normalized_url": "https://who.int/teams/immunization-vaccines-and-biologicals/Immunization-data-and-decision-making/global-monitoring/immunization-coverage/who-unicef-estimates-of-national-immunization-coverage",
+    "work_key": "https://who.int/teams/immunization-vaccines-and-biologicals/Immunization-data-and-decision-making/global-monitoring/immunization-coverage/who-unicef-estimates-of-national-immunization-coverage",
+    "title": "**World Health Organization. WHO/UNICEF estimates of national immunization coverage — HPV vaccine coverage estimates.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:06.898729Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "955f4abb4d4e7fb4",
+    "citation_markers": [
+      "[22]"
+    ],
+    "raw_url": "https://www.reuters.com/business/healthcare-pharmaceuticals/global-childhood-vaccination-shows-slight-improvement-challenges-remain-2025-07-15/",
+    "normalized_url": "https://reuters.com/business/healthcare-pharmaceuticals/global-childhood-vaccination-shows-slight-improvement-challenges-remain-2025-07-15",
+    "work_key": "https://reuters.com/business/healthcare-pharmaceuticals/global-childhood-vaccination-shows-slight-improvement-challenges-remain-2025-07-15",
+    "title": "**Reuters. Global childhood vaccination shows slight improvement but challenges remain — WHO/UNICEF 2024 coverage estimates.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "inaccessible",
+    "http_status": null,
+    "fetched_at": "2026-11-04T02:27:15.452370Z",
+    "error_message": "HTTP 401 em https://www.reuters.com/business/healthcare-pharmaceuticals/global-childhood-vaccination-shows-slight-improvement-challenges-remain-2025-07-15/",
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "c3bb3514f1aeb261",
+    "citation_markers": [
+      "[23]"
+    ],
+    "raw_url": "https://www.who.int/initiatives/cervical-cancer-elimination-initiative",
+    "normalized_url": "https://who.int/initiatives/cervical-cancer-elimination-initiative",
+    "work_key": "https://who.int/initiatives/cervical-cancer-elimination-initiative",
+    "title": "**World Health Organization. Cervical Cancer Elimination Initiative — Global strategy and 90–70–90 targets.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:08.110054Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "a6a024cf09130271",
+    "citation_markers": [
+      "[24]"
+    ],
+    "raw_url": "https://www.who.int/news-room/fact-sheets/detail/cervical-cancer",
+    "normalized_url": "https://who.int/news-room/fact-sheets/detail/cervical-cancer",
+    "work_key": "https://who.int/news-room/fact-sheets/detail/cervical-cancer",
+    "title": "**World Health Organization. Cervical cancer — Fact sheet.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:07.930916Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e32d2e566adbe6fb",
+    "citation_markers": [
+      "[25]"
+    ],
+    "raw_url": "https://www.who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+    "normalized_url": "https://who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+    "work_key": "https://who.int/news-room/fact-sheets/detail/human-papilloma-virus-and-cancer",
+    "title": "**World Health Organization. Human papillomavirus and cancer.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:08.478602Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "e206569b97d7b8a9",
+    "citation_markers": [
+      "[26]"
+    ],
+    "raw_url": "https://link.springer.com/article/10.1186/1471-2334-12-250",
+    "normalized_url": "https://link.springer.com/article/10.1186/1471-2334-12-250",
+    "work_key": "DOI:10.1186/1471-2334-12-250",
+    "title": "**Kawai K et al. Estimated health and economic impact of quadrivalent HPV vaccination in Brazil using a transmission dynamic model. BMC Infectious Diseases.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:09.725999Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  },
+  {
+    "id": "92895631aed2cfed",
+    "citation_markers": [
+      "[27]"
+    ],
+    "raw_url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/09/desigualdade-na-cobertura-vacinal-contra-hpv-deixa-jovens-desprotegidos.shtml",
+    "normalized_url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/09/desigualdade-na-cobertura-vacinal-contra-hpv-deixa-jovens-desprotegidos.shtml",
+    "work_key": "https://www1.folha.uol.com.br/equilibrioesaude/2026/09/desigualdade-na-cobertura-vacinal-contra-hpv-deixa-jovens-desprotegidos.shtml",
+    "title": "**Folha de S.Paulo. Desigualdade na cobertura vacinal contra HPV deixa jovens desprotegidos, 2026.**",
+    "from_secondary_list": false,
+    "exporter_artifact": false,
+    "status": "downloaded",
+    "http_status": 200,
+    "fetched_at": "2026-10-25T00:46:08.851883Z",
+    "error_message": null,
+    "barrier_kind": null,
+    "source_answer_id": "vacinacao_hpv_08698aaebb73_20261025T004533Z",
+    "tool_name": "ChatGPT"
+  }
+]

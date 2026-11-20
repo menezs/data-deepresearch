@@ -1,0 +1,62 @@
+[referencia=876d36e2e869a71a score=0.941]
+## The right to not be copied enters the picture
+
+A piece originally published in Politico cites one recent report showing that 50 MEPs have been targeted by sexualized deepfakes. It says some EU legislators see Denmark’s progress on using copyright law as a tool for likeness protection as a potentially unifying solution.
+
+Denmark’s proposed copyright amendment would protect people’s faces, voices and other identifying characteristics against unauthorized digital imitation, targeting public distribution rather than private creation, with allowances for exceptions for parody, satire and criticism, and a separate provision for actors and musicians intended to protect performances.
+
+While the AI Act sets transparency requirements for deepfakes and the Digital Services Act governs platforms’ handling of illegal content, there is no general EU-wide right to control one’s digital likeness. New restrictions on AI nudification tools are due to take effect in December.
+
+In addition to Denmark, lawmakers in Cyprus, Belgium, the Netherlands and Germany are moving on deepfake and likeness legislation. France, the UK and India are all pursuing likeness protection measures. The push is on to establish guidelines and norms around the use of AI to generate someone’s likeness without their consent. And the breadth of the problem means that the safeguards could extend beyond criminal acts.
+
+Politico quotes German MEP Tiemo Wölken, a key legislator on Parliament’s copyright and AI report, who frames the issue not as a matter of crime, but of infringement on basic rights – i.e., no one should be allowed to copy your likeness without consent, even if they don’t intend to feed it into a nudification app.
+
+“What we need are clear rules that protect our personal likeness against non-consensual AI deep fakes, irrespective of whether the use is outright criminal or not.”
+
+## Article Topics
+
+AI fraud | data protection | deepfakes | EU | Europe | legislation | likeness detection
+
+## Comments
+
+---
+
+[referencia=876d36e2e869a71a score=0.429]
+# Deepfake era puts likeness in legal spotlight as EU works to define what’s allowed
+
+Deepfakes are fulfilling their promise in becoming, as the UK government predicted, the overarching challenge of the online age. Having entered public awareness as a novelty and morphed into a tool for sophisticated fraud, deepfake media has now evolved into a bona fide human rights issue occupying lawmakers in jurisdictions around the world.
+
+The EU is working to formulate a response, with Denmark leading the charge on giving people legal control over their likenesses, and lawmakers across the bloc sounding the alarm.
+
+## EU Parliament seeks fundamental rights protections against deepfakes
+
+In a non-binding resolution adopted on November 12, the European Parliament called for greater scrutiny of AI’s impact on democratic processes, institutional accountability and fundamental rights. So says a release, stressing that AI use within the EU institutions must remain “human-centred,” subject to human oversight, and aligned with EU values.
+
+To this end, European AI tools are to be prioritized, especially so for public institutions in the EU.
+
+The text includes “strategic autonomy across the AI value chain” as a goal, underlining concerns about digital and AI sovereignty as the technology takes over.
+
+The European Parliament asserts that AI increasingly shapes political communication, electoral processes, public discourse and decision-making on policy, and “the simplification and evaluation of EU law.”
+
+The resolution calls for systematic parliamentary assessment of AI risks, reforms to EU electoral law and consideration of amendments to the Charter of Fundamental Rights to protect personal identity and likeness against deepfakes, among other emerging digital rights.
+
+Rapporteur Manolis Kefalogiannis says “AI does not progress linearly. It advances in leaps, and Europe must take the lead in shaping it.” Kefalogiannis believes much is at stake: suggesting that the best model is nuclear non-proliferation, he says AI must remain calibrated for humans, so it “does not become the last invention that humans will ever need to create.”
+
+As part of the oversight regime, the report proposes a budget-neutral administrative unit, the “European Parliament AI observatory,” to support the work of Parliament committees on AI.
+
+---
+
+[referencia=876d36e2e869a71a score=0.016]
+## ‘This thing doesn’t want to show itself, it wants to hide inside an imitation’
+
+A post on VoteMap.eu says the fundamental premise of the resolution on the institutional aspects of artificial intelligence, adopted by the European Parliament by 405 votes in favor to 133 against (with 60 abstentions) is that “the governance of artificial intelligence is not merely a matter of technical regulation, but a question of constitutional law and the EU’s institutional balance.”
+
+So follow calls for robust and ongoing scrutiny, humans in the loop, and amendments to the Charter of Fundamental Rights of the EU adding protections for likeness against deepfakes, digital self-determination, protection against algorithmic discrimination, and liability for damage caused.
+
+Other areas of concern are institutional – again invoking the Treaty on the Non-Proliferation of Nuclear Weapons – and sociopolitical, in that AI poses risks to the integrity of elections, the spread of disinformation and foreign interference.
+
+In other words, deepfakes are becoming a very big problem, indeed.
+
+The idea that a villain might be able to instantly assume anyone’s appearance has fueled several iconic nightmares. Shapeshifters are found in many mythologies. The fluid T-1000 in *Terminator 2: Judgment Day* is a tech-forward example from contemporary sci-fi; the alien from *The Thing*, an extraterrestrial one.
+
+Online, this scenario is effectively upon us. Fake politicians and celebrities give endorsements on social media. Fake family members Zoom to ask for money. Fake bosses order bogus transfers in the millions. Nonconsensual deepfake porn has become yet another way for society to humiliate, demean and demoralize women and girls. With just a photograph or a bit of video, a grudge and twenty bucks to burn, the vengeful-minded can easily appropriate the image of anyone they want.

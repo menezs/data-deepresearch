@@ -1,0 +1,1047 @@
+{
+  "run_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+  "answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/Ingles/ChatGPT/Emergente/ia_generativa_entretenimento.md",
+  "generated_at": "2026-11-18T10:36:36.325811Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 32832,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 135,
+    "citation_markers_distinct": 26,
+    "references_listed": 27,
+    "references_never_cited": 1,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 112,
+  "pct_supported": 50.89285714285714,
+  "pct_unsupported": 43.75,
+  "pct_contradicted": 0.0,
+  "count_supported": 57,
+  "count_unsupported": 49,
+  "count_contradicted": 0,
+  "count_skipped": 6,
+  "count_audited": 106,
+  "pct_supported_audited": 53.77358490566038,
+  "pct_unsupported_audited": 46.22641509433962,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 27,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 3,
+    "fonte_citada_sem_conteudo": 3
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 20,
+  "count_reclassified_by_verification": 9,
+  "verification_stage_counts": {
+    "context_expansion": 8,
+    "full_doc_scan": 1
+  },
+  "mis_cited_reference_count": 7,
+  "uncredited_reference_count": 1,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "aca12210a3d2f331",
+      "citation_markers": [
+        "[9]"
+      ],
+      "raw_url": "https://www.sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+      "normalized_url": "https://sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+      "work_key": "https://sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+      "title": "9. SAG-AFTRA, *2025 Interactive Media Video Game Agreement*.",
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-18T01:53:52.022862Z",
+      "error_message": "barreira de acesso (http_error): Error 403 Forbidden Forbidden Error 54113 Details: cache-gru-sbgr1930055-GRU 1794966821 2707880365 Varnish cache server",
+      "barrier_kind": "http_error",
+      "source_answer_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-30",
+      "reason": "Referencia(s) citada(s) ['aca12210a3d2f331'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-31",
+      "reason": "Referencia(s) citada(s) ['aca12210a3d2f331'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-32",
+      "reason": "Referencia(s) citada(s) ['aca12210a3d2f331'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar.",
+      "discarded_result": null
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-90",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['aca12210a3d2f331'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-90",
+        "verdict": "unsupported",
+        "justification": "A evidência sustenta parcialmente a parte sobre o foco dos sindicatos em consentimento, pagamentos por reuso e limites de substituição (consent for digital replicas, residuals for replica use, prohibition on using replicas to avoid hiring background performers). No entanto, os argumentos centrais da afirmação — de que um performer sintético tem 'fadiga zero', pode ser reproduzido através de versões, idiomas, anúncios, jogos ou sequências a um 'custo marginal muito abaixo' da performance humana repetida — não encontram qualquer respaldo na evidência. Esses são argumentos econômicos e técnicos ausentes do contexto fornecido.",
+        "cited_excerpts": [
+          "For both principal performers and background actors, the producer must first get your consent if they will create a digital replica of you.",
+          "In most cases, you will get paid for the use and will be paid residuals for use of your digital replica if you would have received residuals by doing the work yourself.",
+          "Producers cannot use a digital replica to avoid hiring a background performer or to evade coverage maximums.",
+          "Producers must give the Union notice and an opportunity to bargain if they want to use what the contract calls \"synthetic performers,\" or \"fakes\" that are not based on any real human performer."
+        ],
+        "supporting_reference_ids": [
+          "6dcd292ca023401a"
+        ],
+        "unsupported_aspects": [
+          "A synthetic performer has effectively zero fatigue",
+          "Can be reproduced across versions, languages, advertisements, games, or sequels",
+          "At a marginal cost far below repeated human performance",
+          "The causal link ('which is precisely why') between the economic advantages and union focus"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "6dcd292ca023401a",
+            "relation": "partial",
+            "excerpt": "SAG-AFTRA has secured a comprehensive set of provisions that require informed consent and compensation for the creation and use of digital replicas of our members, living and deceased, whether created on set or licensed for use."
+          }
+        ],
+        "prompt_tokens": 40611,
+        "completion_tokens": 3445,
+        "cost_usd": 0.0,
+        "latency_ms": 19986,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": false,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência sustenta parcialmente a parte sobre o foco dos sindicatos em consentimento, pagamentos por reuso e limites de substituição (consent for digital replicas, residuals for replica use, prohibition on using replicas to avoid hiring background performers). No entanto, os a…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência menciona 'synthetic performers' e requisitos de consentimento e compensação para réplicas digitais, mas não contém nenhuma informação sobre 'zero fatigue', reprodução 'across versions, languages, advertisements, games, or sequels at a marginal cost far below repeated…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "afirmacao apenas parcialmente presente em 6dcd292ca023401a; nao sustentada como enunciada"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-91",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['aca12210a3d2f331'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-91",
+        "verdict": "unsupported",
+        "justification": "A evidência menciona que IA não regulamentada ameaça substituir performers e que o contrato estabelece proteções contra uso de réplicas digitais para evitar contratação de atores figurantes, mas não aborda especificamente 'automação parcial de pickups, dublagem, performance de fundo ou voiceover' redistribuindo renda de funções de nível básico e de apoio, nem a noção de que essas funções sustentam carreiras entre grandes contratos.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "partial automation of pickups",
+          "partial automation of dubbing",
+          "partial automation of voiceover",
+          "redistribution of income away from entry-level and supporting roles",
+          "roles that historically sustain careers between major engagements"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "6dcd292ca023401a",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 40785,
+        "completion_tokens": 3061,
+        "cost_usd": 0.0,
+        "latency_ms": 22557,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": true,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência menciona que IA não regulamentada ameaça substituir performers e que o contrato estabelece proteções contra uso de réplicas digitais para evitar contratação de atores figurantes, mas não aborda especificamente 'automação parcial de pickups, dublagem, performance de f…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A evidência trata da ratificação do contrato TV/Teatral 2023 da SAG-AFTRA, incluindo proteções contra IA, aumentos salariais e disposições sobre réplicas digitais. Nada na evidência menciona 'automação parcial' de pickups, dublagem, performance de background ou voiceover redistr…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "claim ausente das 5 janela(s) do(s) documento(s) citado(s)"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-103",
+      "reason": "Parte das fontes citadas sem conteudo: referencia(s) ['aca12210a3d2f331'] sem conteudo baixado/indexado — o trecho citado nao e julgado so com o restante das fontes.",
+      "discarded_result": {
+        "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-103",
+        "verdict": "unsupported",
+        "justification": "A evidência trata de termos específicos do Acordo TV/Teatral 2023 da SAG-AFTRA (compensação, resíduos, réplicas digitais, consentimento informado, IA), mas não contém nenhuma recomendação ou lista prescritiva de que contratos 'devem especificar' sublicenciamento, localização, usos publicitários, obrigações de segurança para ativos biométricos, ou procedimentos de revogação ou renegociação. A afirmação é uma recomendação genérica não fundamentada na evidência.",
+        "cited_excerpts": [],
+        "supporting_reference_ids": [],
+        "unsupported_aspects": [
+          "sublicensing",
+          "localization",
+          "advertising uses",
+          "posthumous treatment",
+          "security obligations for biometric assets",
+          "procedures for revocation or renegotiation",
+          "a recomendação de que contratos 'should specify' esses itens"
+        ],
+        "per_reference": [
+          {
+            "reference_id": "6dcd292ca023401a",
+            "relation": "absent",
+            "excerpt": ""
+          }
+        ],
+        "prompt_tokens": 34526,
+        "completion_tokens": 3263,
+        "cost_usd": 0.0,
+        "latency_ms": 25989,
+        "judge_model": "z-ai/glm-5.2",
+        "verification_stage": "baseline",
+        "unsupported_confirmed": true,
+        "corroborated_by_other_reference": [],
+        "contradicted_by_other_reference": [],
+        "verification_trail": [
+          {
+            "stage": "baseline",
+            "verdict": "unsupported",
+            "note": "A evidência trata de termos específicos do Acordo TV/Teatral 2023 da SAG-AFTRA (compensação, resíduos, réplicas digitais, consentimento informado, IA), mas não contém nenhuma recomendação ou lista prescritiva de que contratos 'devem especificar' sublicenciamento, localização, us…"
+          },
+          {
+            "stage": "context_expansion",
+            "verdict": "unsupported",
+            "note": "A CLAIM apresenta uma recomendação normativa sobre o que contratos 'deveriam' especificar (compensação, residuals, pagamentos de reuso, sublicenciamento, localização, usos publicitários, tratamento póstumo, obrigações de segurança para ativos biométricos e procedimentos de revog…"
+          },
+          {
+            "stage": "full_doc_scan",
+            "verdict": "unsupported",
+            "note": "claim ausente das 5 janela(s) do(s) documento(s) citado(s)"
+          },
+          {
+            "stage": "cross_reference",
+            "verdict": "unsupported",
+            "note": "corpus inteiro: unsupported"
+          }
+        ]
+      }
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "6dcd292ca023401a",
+      "url": "https://www.sagaftra.org/contracts-industry-resources/contracts/2023-tvtheatrical-contracts",
+      "times_cited": 20,
+      "supported_count": 4,
+      "unsupported_count": 13,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [
+        26,
+        27,
+        28,
+        38
+      ],
+      "partial_positions": [
+        22,
+        23,
+        24,
+        25,
+        37,
+        102,
+        110
+      ],
+      "absent_positions": [
+        13,
+        29,
+        36,
+        87,
+        89,
+        99
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        90,
+        91,
+        103
+      ],
+      "key_excerpt": "For both principal performers and background actors, the producer must first get your consent if they will create a digital replica of you. You must be given at least 48 hours notice. Use of a Replica Producers must get your informed consent to use your digital replica. In most cases, you will get paid for the use and will be paid residuals for use of your digital replica if you would have received residuals by doing the work yourself. Producers cannot use a digital replica to avoid hiring a background performer or to evade coverage maximums.",
+      "key_excerpt_position": 26
+    },
+    {
+      "reference_id": "0a797fc5e6aca167",
+      "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-1-Digital-Replicas-Report.pdf",
+      "times_cited": 19,
+      "supported_count": 10,
+      "unsupported_count": 9,
+      "contradicted_count": 0,
+      "supporting_citations": 7,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        64,
+        67,
+        69,
+        92,
+        93,
+        94
+      ],
+      "partial_positions": [
+        2,
+        14,
+        68,
+        95,
+        100,
+        110
+      ],
+      "absent_positions": [
+        0,
+        6,
+        12,
+        99,
+        101,
+        106
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This Report uses the term \"digital replica\" to refer to a video, image, or audio recording that has been digitally created or manipulated to realistically but falsely depict an individual. A \"digital replica\" may be authorized or unauthorized and can be produced by any type of digital technology, not just AI.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "a5ab084a52257129",
+      "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+      "times_cited": 13,
+      "supported_count": 9,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        47,
+        48,
+        49,
+        59,
+        61
+      ],
+      "partial_positions": [
+        50,
+        60,
+        100,
+        111
+      ],
+      "absent_positions": [
+        62,
+        99,
+        105
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [
+        51
+      ],
+      "not_audited_positions": [],
+      "key_excerpt": "Commenters disagreed about the need to use entire copyrighted works in AI training.",
+      "key_excerpt_position": 47
+    },
+    {
+      "reference_id": "6b9c978375a917b2",
+      "url": "https://digital-strategy.ec.europa.eu/en/faqs/transparency-obligations-under-article-50-ai-act",
+      "times_cited": 11,
+      "supported_count": 3,
+      "unsupported_count": 8,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        82,
+        84
+      ],
+      "partial_positions": [
+        81,
+        83,
+        85,
+        98
+      ],
+      "absent_positions": [
+        96,
+        97,
+        108,
+        109,
+        110
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Article 50 of the AI Act applies as from 2 August 2026. From that date onwards, providers and deployers of AI systems must comply with the transparency obligations laid down in that provision.",
+      "key_excerpt_position": 82
+    },
+    {
+      "reference_id": "87b8ff41c875d639",
+      "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf",
+      "times_cited": 7,
+      "supported_count": 4,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        41,
+        42,
+        46
+      ],
+      "partial_positions": [
+        39,
+        40,
+        111
+      ],
+      "absent_positions": [
+        99
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Copyright protects the original expression in a work created by a human author, even if the work also includes AI-generated material. [...] Human authors are entitled to copyright in their works of authorship that are perceptible in AI-generated outputs, as well as the creative selection, coordination, or arrangement of material in the outputs, or creative modifications of the outputs.",
+      "key_excerpt_position": 41
+    },
+    {
+      "reference_id": "b3be602ae28ce7ec",
+      "url": "https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e/",
+      "times_cited": 6,
+      "supported_count": 2,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        8,
+        9
+      ],
+      "partial_positions": [
+        7,
+        87
+      ],
+      "absent_positions": [
+        10,
+        86
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "VALL-E is a language modeling approach for text-to-speech synthesis (TTS). [...] can be used to synthesize high-quality personalized speech with only a 3-second enrolled recording of an unseen speaker as an acoustic prompt. [...] we find VALL-E could preserve the speaker's emotion and acoustic environment of the acoustic prompt in synthesis. This page is for research demonstration purposes only.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "aca12210a3d2f331",
+      "url": "https://www.sagaftra.org/contracts-industry-resources/interactive/2025-interactive-media-video-game-agreement",
+      "times_cited": 6,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        30,
+        31,
+        32,
+        90,
+        91,
+        103
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "141fa255b5f5db2d",
+      "url": "https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/",
+      "times_cited": 5,
+      "supported_count": 2,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        4,
+        5
+      ],
+      "partial_positions": [
+        3,
+        86
+      ],
+      "absent_positions": [
+        88
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We present the first practical, fully-automatic and production-ready method for re-aging faces in video images. [...] preservation of facial identity across variable expressions, viewpoints, and lighting conditions. [...] our new face re-aging network (FRAN) incorporates simple and intuitive mechanisms that provides artists with localized control and creative freedom to direct and fine-tune the re-aging effect",
+      "key_excerpt_position": 4
+    },
+    {
+      "reference_id": "ce46489436b9038e",
+      "url": "https://www.govinfo.gov/content/pkg/BILLS-119s4591rs/html/BILLS-119s4591rs.htm",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        76,
+        77
+      ],
+      "partial_positions": [
+        74,
+        75,
+        111
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "To protect intellectual property rights in the voice and visual likeness of individuals, and for other purposes.",
+      "key_excerpt_position": 76
+    },
+    {
+      "reference_id": "221360daf85211c5",
+      "url": "https://www.gov.ca.gov/2024/09/17/governor-newsom-signs-bills-to-protect-digital-likeness-of-performers/",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        71,
+        72
+      ],
+      "partial_positions": [
+        70,
+        95
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "**AB 2602** by Assemblymember Ash Kalra (D-San Jose) requires contracts to specify the use of AI-generated digital replicas of a performer’s voice or likeness, and the performer must be professionally represented in negotiating the contract. This will help protect performers’ and actors’ careers, ensuring that AI is not used to replicate their voice or likeness without permission.",
+      "key_excerpt_position": 71
+    },
+    {
+      "reference_id": "7bf9bf765e30299b",
+      "url": "https://research.google/blog/vdtts-visually-driven-text-to-speech/",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        11
+      ],
+      "partial_positions": [
+        86
+      ],
+      "absent_positions": [
+        88
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we present a proof-of-concept visually-driven text-to-speech model, called VDTTS, that automates the dialog replacement process. Given a text and the original video frames of the speaker, VDTTS is trained to generate the corresponding speech. [...] This gives the VDTTS model enough information to generate speech that matches the video while also recovering aspects of prosody, such as timing and emotion. [...] VDTTS outperforms both models by large margins in most of the aspects we measured: higher sync-to-video quality [...] This kind of a model would be a valuable tool for tasks such as translation dubbing.",
+      "key_excerpt_position": 11
+    },
+    {
+      "reference_id": "2060c69319aa812c",
+      "url": "https://www.wga.org/contracts/know-your-rights/artificial-intelligence",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        34
+      ],
+      "partial_positions": [
+        33,
+        35
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Neither traditional AI (technologies including those used in CGI and VFX) nor generative AI (GAI, meaning artificial intelligence that produces content including written material) is a writer, so no written material produced by traditional AI or GAI can be considered literary material. ... that material doesn't count as assigned material (for compensation purposes) or source material (for determining credits) ... the company can't require the writer to use AI software (e.g., ChatGPT) when performing writing services. ... The Company must disclose to the writer if any materials given to the writer have been generated by AI or incorporate AI-generated material.",
+      "key_excerpt_position": 34
+    },
+    {
+      "reference_id": "ab52c2427b53aaca",
+      "url": "https://caselaw.findlaw.com/court/us-dc-circuit/117062322.html",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        44,
+        45
+      ],
+      "partial_positions": [
+        43
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Decided: March 18, 2025",
+      "key_excerpt_position": 44
+    },
+    {
+      "reference_id": "71d64041f82aa847",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/F2/849/460/37485/",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        66
+      ],
+      "partial_positions": [
+        63
+      ],
+      "absent_positions": [
+        65
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Neither the name nor the picture of Midler was used in the commercial; Young & Rubicam had a license from the copyright holder to use the song. At issue in this case is only the protection of Midler's voice. [...] A voice is not copyrightable. The sounds are not \"fixed.\" What is put forward as protectible here is more personal than any work of authorship.",
+      "key_excerpt_position": 66
+    },
+    {
+      "reference_id": "afa4f469ce101553",
+      "url": "https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/04/approaches-address-ai-enabled-voice-cloning",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        80,
+        107
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        106
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "There is no AI exemption from the laws on the books and the FTC remains committed to protecting consumers from the misuse of 'AI'-enabled voice cloning technologies.",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "0ad3175ab92621b5",
+      "url": "https://www.sagaftra.org/sag-aftra-statement-fortnites-use-ai-darth-vader-voice-and-ulp-filing",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        17
+      ],
+      "partial_positions": [
+        18,
+        104
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Fortnite's signatory company, Llama Productions, chose to replace the work of human performers with A.I. technology. Unfortunately, they did so without providing any notice of their intent to do this and without bargaining with us over appropriate terms. As such, we have filed an unfair labor practice charge with the NLRB against Llama Productions.",
+      "key_excerpt_position": 17
+    },
+    {
+      "reference_id": "6fc4e82a3daa6747",
+      "url": "https://au.variety.com/2025/film/news/director-brady-corbet-defends-ai-use-the-brutalist-adrien-brody-felicity-jones-19817/",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        19,
+        20
+      ],
+      "partial_positions": [
+        21
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Innovative Respeecher technology was used in Hungarian language dialogue editing only, specifically to refine certain vowels and letters for accuracy. No English language was changed. This was a manual process, done by our sound team and Respeecher in post-production.",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "0ea8278bfffbfe74",
+      "url": "https://www.vanityfair.com/hollywood/2022/09/darth-vaders-voice-emanated-from-war-torn-ukraine",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        15,
+        16
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "When he ultimately presented Jones with Respeecher's work, the actor signed off on using his archival voice recordings to keep Vader alive and vital even by artificial means... He had mentioned he was looking into winding down this particular character... now that Jones's voice has altered with age and he has stepped back from the role... making Darth Vader sound like James Earl Jones's dark side villain from 45 years ago",
+      "key_excerpt_position": 15
+    },
+    {
+      "reference_id": "7c547b5c757e9dae",
+      "url": "https://www.tn.gov/governor/news/2024/3/21/photos--gov--lee-signs-elvis-act-into-law.html.html",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        73
+      ],
+      "partial_positions": [
+        70
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "While Tennessee's preexisting law protected name, image, and likeness, it did not specifically address new, personalized generative AI cloning models and services that enable human impersonation and allow users to make unauthorized fake works in the image and voice of others. The ELVIS Act builds upon existing state rule protecting against the unauthorized use of someone's likeness by adding \"voice\" to the realm it protects.",
+      "key_excerpt_position": 73
+    },
+    {
+      "reference_id": "c1c002c763064e0c",
+      "url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_24-cv-05417/USCOURTS-cand-3_24-cv-05417-1/context",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        52,
+        53
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "8b8315487e8dbdae",
+      "url": "https://law.justia.com/cases/federal/district-courts/california/candce/4%3A2024cv05417/434709/680/",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        54
+      ],
+      "partial_positions": [
+        55
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Anthropic's Rule 23(f) petition was fully briefed in the Ninth Circuit when the Settlement was reached.",
+      "key_excerpt_position": 54
+    },
+    {
+      "reference_id": "68be3e5add7cb005",
+      "url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_23-cv-03417/USCOURTS-cand-3_23-cv-03417-33/context",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        56
+      ],
+      "absent_positions": [
+        52
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "ORDER Denying the Plaintiffs' 482 Motion for Partial Summary Judgment and Granting Meta's 501 Cross-Motion for Partial Summary Judgment. Signed by Judge Vince Chhabria on 6/25/2025.",
+      "key_excerpt_position": 56
+    },
+    {
+      "reference_id": "f1dd1d33f1abd0d1",
+      "url": "https://apps.cand.uscourts.gov/telhrg/?eId=e2b55f93-87d7-41b6-a5c0-f86275ec2d7a",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        57
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        111
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Further Case Management Conference held via Zoom on 10/29/2026 in case 3:23-cv-03417-VC; ... Parties in the Kadrey case to begin class discovery. ... Further Case Management Conference set for 12/11/2026 at 1:30 PM by Videoconference Only.",
+      "key_excerpt_position": 57
+    },
+    {
+      "reference_id": "fd81087a0e575273",
+      "url": "https://www.govinfo.gov/app/details/USCOURTS-cand-3_23-cv-00201/USCOURTS-cand-3_23-cv-00201-41/context",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        58
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        111
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "ORDER by Judge Lisa J. Cisneros granting 777 Stipulation Regarding Resolution of Plaintiffs' Motion for Discovery Sanctions Against DeviantArt. (bns, COURT STAFF) (Filed on 10/19/2026)",
+      "key_excerpt_position": 58
+    },
+    {
+      "reference_id": "cab6074f06d035fc",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/F2/978/1093/183202/",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        65,
+        66
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Waits' claim, like Bette Midler's, is for infringement of voice, not for infringement of a copyrightable subject such as sound recording or musical composition. [...] The trial's focus was on the elements of voice misappropriation, as formulated in Midler: whether the defendants had deliberately imitated Waits' voice rather than simply his style and whether Waits' voice was sufficiently distinctive and widely known to give him a protectable right in its use.",
+      "key_excerpt_position": 65
+    },
+    {
+      "reference_id": "61f86c55b5111b4a",
+      "url": "https://www.congress.gov/119/plaws/publ12/PLAW-119publ12.pdf",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        78
+      ],
+      "partial_positions": [
+        79
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "This Act may be cited as the ‘‘Tools to Address Known Exploitation by Immobilizing Technological Deepfakes on Websites and Networks Act’’ or the ‘‘TAKE IT DOWN Act’’. … Approved May 19, 2025. … SEC. 2. CRIMINAL PROHIBITION ON INTENTIONAL DISCLOSURE OF NONCONSENSUAL INTIMATE VISUAL DEPICTIONS. … ‘‘(B) DIGITAL FORGERY.—The term ‘digital forgery’ means any intimate visual depiction of an identifiable individual created through the use of software, machine learning, artificial intelligence, or any other computer-generated or technological means",
+      "key_excerpt_position": 78
+    },
+    {
+      "reference_id": "81e01e40f7e9fd9e",
+      "url": "https://www.copyright.gov/ai/",
+      "times_cited": 0,
+      "supported_count": 0,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-25",
+      "position": 25,
+      "claim_excerpt": "Consent must be clear and conspicuous rather than buried in standard boilerplate, and new or materially different uses generally trigger further consent and compensation obligations.",
+      "cited_markers": "[8]",
+      "corroborating_markers": "[1] [3] [27] [2] [22] [14]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-29",
+      "position": 29,
+      "claim_excerpt": "In other words, a studio may possess footage, scans, or recordings while still being contractually required to obtain new authorization before using those materials to create new expressive conduct b…",
+      "cited_markers": "[8]",
+      "corroborating_markers": "[1] [2] [14] [3]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-35",
+      "position": 35,
+      "claim_excerpt": "The 2026 MBA preserved those protections and added a requirement that companies notify the Guild when they license covered writers’ works to a commercial generative-AI system for training, allowing t…",
+      "cited_markers": "[10]",
+      "corroborating_markers": "[3] [2] [1]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-39",
+      "position": 39,
+      "claim_excerpt": "Copyright addresses a different question from performer identity: it protects original expression fixed in a work, not a human being’s persona as such.",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[1] [21] [15]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-40",
+      "position": 40,
+      "claim_excerpt": "As of November 2026, the U.S. Copyright Office’s position is that existing copyright doctrine can accommodate AI-assisted creativity without creating a new copyright for purely machine-generated mate…",
+      "cited_markers": "[2]",
+      "corroborating_markers": "[15] [3] [1]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-95",
+      "position": 95,
+      "claim_excerpt": "The ethical concern becomes particularly acute after death because an estate may possess legal power to license a replica even though the performer can no longer evaluate the specific script or cultu…",
+      "cited_markers": "[1] [11]",
+      "corroborating_markers": "[14] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "ia_generativa_entretenimento_bd538463e938_20261115T081945Z-96",
+      "position": 96,
+      "claim_excerpt": "Synthetic media also complicate audience trust.",
+      "cited_markers": "[13]",
+      "corroborating_markers": "[23] [3] [1] [5] [2]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 3750003,
+  "cost_tracked": false,
+  "processing_time_seconds": 237417.472475
+}

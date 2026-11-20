@@ -1,0 +1,107 @@
+[referencia=5e0bd8b0b845477e score=0.999]
+# Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes
+
+---
+
+[referencia=5e0bd8b0b845477e score=0.995]
+    
+
+      
+        
+          **Results:**
+        
+      
+      At baseline, 2735 of the patients (83.0%) had established cardiovascular disease, chronic kidney disease, or both. The primary outcome occurred in 108 of 1648 patients (6.6%) in the semaglutide group and in 146 of 1649 patients (8.9%) in the placebo group (hazard ratio, 0.74; 95% confidence interval [CI], 0.58 to 0.95; P<0.001 for noninferiority). Nonfatal myocardial infarction occurred in 2.9% of the patients receiving semaglutide and in 3.9% of those receiving placebo (hazard ratio, 0.74; 95% CI, 0.51 to 1.08; P=0.12); nonfatal stroke occurred in 1.6% and 2.7%, respectively (hazard ratio, 0.61; 95% CI, 0.38 to 0.99; P=0.04). Rates of death from cardiovascular causes were similar in the two groups. Rates of new or worsening nephropathy were lower in the semaglutide group, but rates of retinopathy complications (vitreous hemorrhage, blindness, or conditions requiring treatment with an intravitreal agent or photocoagulation) were significantly higher (hazard ratio, 1.76; 95% CI, 1.11 to 2.78; P=0.02). Fewer serious adverse events occurred in the semaglutide group, although more patients discontinued treatment because of adverse events, mainly gastrointestinal.
+    
+
+      
+        
+          **Conclusions:**
+        
+      
+      In patients with type 2 diabetes who were at high cardiovascular risk, the rate of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke was significantly lower among patients receiving semaglutide than among those receiving placebo, an outcome that confirmed the noninferiority of semaglutide. (Funded by Novo Nordisk; SUSTAIN-6 ClinicalTrials.gov number, NCT01720446 .).
+    
+
+## Comment in
+
+-
+
+---
+
+[referencia=5e0bd8b0b845477e score=0.994]
+# Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes
+
+- 
+          
+  
+    
+      PMID:
+    
+  
+  
+    **27633186**
+- DOI: 10.1056/NEJMoa1607141
+
+---
+
+[referencia=5e0bd8b0b845477e score=0.992]
+      **Background:**
+        
+      
+      Regulatory guidance specifies the need to establish cardiovascular safety of new diabetes therapies in patients with type 2 diabetes in order to rule out excess cardiovascular risk. The cardiovascular effects of semaglutide, a glucagon-like peptide 1 analogue with an extended half-life of approximately 1 week, in type 2 diabetes are unknown.
+    
+
+      
+        
+          **Methods:**
+        
+      
+      We randomly assigned 3297 patients with type 2 diabetes who were on a standard-care regimen to receive once-weekly semaglutide (0.5 mg or 1.0 mg) or placebo for 104 weeks. The primary composite outcome was the first occurrence of cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke. We hypothesized that semaglutide would be noninferior to placebo for the primary outcome. The noninferiority margin was 1.8 for the upper boundary of the 95% confidence interval of the hazard ratio.
+    
+
+      
+        
+          **Results:**
+
+---
+
+[referencia=5e0bd8b0b845477e score=0.985]
+## Comment in
+
+- 
+  
+  Semaglutide reduced a composite of CV events at 2 years in patients with type 2 diabetes and high CV risk.Ann Intern Med. 2017 Jan 17;166(2):JC8. doi: 10.7326/ACPJC-2017-166-2-008. Ann Intern Med. 2017. PMID: 28114464 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.N Engl J Med. 2017 Mar 2;376(9):891. doi: 10.1056/NEJMc1615712. N Engl J Med. 2017. PMID: 28249136 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.N Engl J Med. 2017 Mar 2;376(9):890. doi: 10.1056/NEJMc1615712. N Engl J Med. 2017. PMID: 28252261 No abstract available.
+- 
+  
+  Semaglutide and Cardiovascular Outcomes in Patients with Type 2 Diabetes.N Engl J Med. 2017 Mar 2;376(9):890-1. doi: 10.1056/NEJMc1615712. N Engl J Med. 2017. PMID: 28252263 No abstract available.
+- 
+  
+  Semaglutide is non-inferior to placebo for cardiovascular outcomes in patients with type 2 diabetes.Evid Based Med. 2017 Apr;22(2):57-58. doi: 10.1136/ebmed-2016-110652. Epub 2017 Mar 7. Evid Based Med. 2017. PMID: 28270434 No abstract available.
+- 
+  
+  Bei Diabetes ist auch der Herzschutz wichtig.MMW Fortschr Med. 2023 Feb;165(2):66. doi: 10.1007/s15006-023-2301-9. MMW Fortschr Med. 2023. PMID: 36703073 German. No abstract available.
+
+## Publication types
+
+## MeSH terms
+
+## Substances
+
+## Associated data
+
+## LinkOut - more resources
+
+- ### Full Text Sources
+- ### Other Literature Sources
+- ### Medical
+
+---
+
+[referencia=5e0bd8b0b845477e score=0.024]
+## Abstract

@@ -1,0 +1,258 @@
+[referencia=02ad74cdb0c9081f score=0.924]
+**Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks** 
+
+
+
+<!-- Start of picture text -->
+Patrick Lewis †‡ , Ethan Perez ⋆ ,<br>Aleksandra Piktus † , Fabio Petroni † , Vladimir Karpukhin † , Naman Goyal † , Heinrich Küttler † ,<br>Mike Lewis † , Wen-tau Yih † , Tim Rocktäschel †‡ , Sebastian Riedel †‡ , Douwe Kiela †<br>† Facebook AI Research; ‡ University College London; ⋆ New York University;<br>plewis@fb.com<br><!-- End of picture text -->
+
+**Abstract** 
+
+
+
+<!-- Start of picture text -->
+Large pre-trained language models have been shown to store factual knowledge<br>in their parameters, and achieve state-of-the-art results when fine-tuned on down-<br>stream NLP tasks. However, their ability to access and precisely manipulate knowl-<br>edge is still limited, and hence on knowledge-intensive tasks, their performance<br>lags behind task-specific architectures. Additionally, providing provenance for their<br>decisions and updating their world knowledge remain open research problems. Pre-<br>trained models with a differentiable access mechanism to explicit non-parametric<br>memory have so far been only investigated for extractive downstream tasks. We<br>explore a general-purpose fine-tuning recipe for retrieval-augmented generation<br>(RAG) — models which combine pre-trained parametric and non-parametric mem-<br>ory for language generation. We introduce RAG models where the parametric<br>memory is a pre-trained seq2seq model and the non-parametric memory is a dense<br>vector index of Wikipedia, accessed with a pre-trained neural retriever. We com-<br>pare two RAG formulations, one which conditions on the same retrieved passages<br>across the whole generated sequence, and another which can use different passages<br><!-- End of picture text -->
+
+per token. We fine-tune and evaluate our models on a wide range of knowledgeintensive NLP tasks and set the state of the art on three open domain QA tasks, outperforming parametric seq2seq models and task-specific retrieve-and-extract architectures. For language generation tasks, we find that RAG models generate
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.750]
+Figure 1: Overview of our approach. We combine a pre-trained retriever ( _Query Encoder_ + _Document Index_ ) with a pre-trained seq2seq model ( _Generator_ ) and fine-tune end-to-end. For query _x_ , we use Maximum Inner Product Search (MIPS) to find the top-K documents _zi_ . For final prediction _y_ , we treat _z_ as a latent variable and marginalize over seq2seq predictions given different documents. 
+
+but have only explored open-domain extractive question answering. Here, we bring hybrid parametric and non-parametric memory to the “workhorse of NLP,” i.e. sequence-to-sequence (seq2seq) models. 
+
+We endow pre-trained, parametric-memory generation models with a non-parametric memory through a general-purpose fine-tuning approach which we refer to as retrieval-augmented generation (RAG). We build RAG models where the parametric memory is a pre-trained seq2seq transformer, and the non-parametric memory is a dense vector index of Wikipedia, accessed with a pre-trained neural retriever. We combine these components in a probabilistic model trained end-to-end (Fig. 1). The retriever (Dense Passage Retriever [26], henceforth DPR) provides latent documents conditioned on the input, and the seq2seq model (BART [32]) then conditions on these latent documents together with the input to generate the output. We marginalize the latent documents with a top-K approximation, either on a per-output basis (assuming the same document is responsible for all tokens) or a per-token basis (where different documents are responsible for different tokens). Like T5 [51] or BART, RAG can be fine-tuned on any seq2seq task, whereby both the generator and retriever are jointly learned. 
+
+There has been extensive previous work proposing architectures to enrich systems with non-parametric memory which are trained from scratch for specific tasks, e.g. memory networks [64, 55], stackaugmented networks [25] and memory layers [30]. In contrast, we explore a setting where both parametric and non-parametric memory components are pre-trained and pre-loaded with extensive knowledge. Crucially, by using pre-trained access mechanisms, the ability to access knowledge is present without additional training.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.613]
+Our results highlight the benefits of combining parametric and non-parametric memory with generation for _knowledge-intensive tasks_ —tasks that humans could not reasonably be expected to perform without access to an external knowledge source. Our RAG models achieve state-of-the-art results on open Natural Questions [29], WebQuestions [3] and CuratedTrec [2] and strongly outperform recent approaches that use specialised pre-training objectives on TriviaQA [24]. Despite these being extractive tasks, we find that unconstrained generation outperforms previous extractive approaches. For knowledge-intensive generation, we experiment with MS-MARCO [1] and Jeopardy question generation, and we find that our models generate responses that are more factual, specific, and diverse than a BART baseline. For FEVER [56] fact verification, we achieve results within 4.3% of state-of-the-art pipeline models which use strong retrieval supervision. Finally, we demonstrate that the non-parametric memory can be replaced to update the models’ knowledge as the world changes.<sup>1</sup>
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.300]
+# **3 Experiments** 
+
+We experiment with RAG in a wide range of knowledge-intensive tasks. For all experiments, we use a single Wikipedia dump for our non-parametric knowledge source. Following Lee et al. [31] and Karpukhin et al. [26], we use the December 2018 dump. Each Wikipedia article is split into disjoint 100-word chunks, to make a total of 21M documents. We use the document encoder to compute an embedding for each document, and build a single MIPS index using FAISS [23] with a Hierarchical Navigable Small World approximation for fast retrieval [37]. During training, we retrieve the top _k_ documents for each query. We consider _k ∈{_ 5 _,_ 10 _}_ for training and set _k_ for test time using dev data. We now discuss experimental details for each task. 
+
+## **3.1 Open-domain Question Answering** 
+
+Open-domain question answering (QA) is an important real-world application and common testbed for knowledge-intensive tasks [20]. We treat questions and answers as input-output text pairs ( _x, y_ ) and train RAG by directly minimizing the negative log-likelihood of answers. We compare RAG to the popular extractive QA paradigm [5, 7, 31, 26], where answers are extracted spans from retrieved documents, relying primarily on non-parametric knowledge. We also compare to “Closed-Book QA” approaches [52], which, like RAG, generate answers, but which do not exploit retrieval, instead relying purely on parametric knowledge. We consider four popular open-domain QA datasets: Natural Questions (NQ) [29], TriviaQA (TQA) [24]. WebQuestions (WQ) [3] and CuratedTrec (CT) [2]. As CT and WQ are small, we follow DPR [26] by initializing CT and WQ models with our NQ RAG model. We use the same train/dev/test splits as prior work [31, 26] and report Exact Match (EM) scores. For TQA, to compare with T5 [52], we also evaluate on the TQA Wiki test set.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.196]
+more specific, diverse and factual language than a state-of-the-art parametric-only seq2seq baseline. **1 Introduction** Pre-trained neural language models have been shown to learn a substantial amount of in-depth knowledge from data [47]. They can do so without any access to an external memory, as a parameterized implicit knowledge base [51, 52]. While this development is exciting, such models do have downsides: They cannot easily expand or revise their memory, can’t straightforwardly provide insight into their predictions, and may produce “hallucinations” [38]. Hybrid models that combine parametric memory with non-parametric (i.e., retrieval-based) memories [20, 26, 48] can address some of these issues because knowledge can be directly revised and expanded, and accessed knowledge can be 
+
+inspected and interpreted. REALM [20] and ORQA [31], two recently introduced models that combine masked language models [8] with a differentiable retriever, have shown promising results, 
+
+
+
+<!-- Start of picture text -->
+Define "middle ear" (x) The middle ear includes<br>Question Answering: End-to-End Backprop through  q  and  pθ the tympanic cavity andthe three ossicles.   (y)<br>Question Query EncoderQuery Retriever pη DocumentIndex Generator pθ Question Answering:Answer Generation<br>Barack Obama was (Non-Parametric) (Parametric)<br>born in Hawaii. (x) q(x) d(z) z4 supports  (y)<br>Fact Verification: Fact Query z2 z3 Margin-alize Label GenerationFact Verification:<br>The DivineComedy  (x) q MIPS z1 pθ This 14th century workis divided into 3<br>Jeopardy Question sections: "Inferno",<br>Generation: "Purgatorio" &<br>Answer Query "Paradiso"          (y)<br>Question Generation<br><!-- End of picture text -->
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.093]
+# **Broader Impact** 
+
+This work offers several positive societal benefits over previous work: the fact that it is more strongly grounded in real factual knowledge (in this case Wikipedia) makes it “hallucinate” less with generations that are more factual, and offers more control and interpretability. RAG could be employed in a wide variety of scenarios with direct benefit to society, for example by endowing it with a medical index and asking it open-domain questions on that topic, or by helping people be more effective at their jobs. 
+
+With these advantages also come potential downsides: Wikipedia, or any potential external knowledge source, will probably never be entirely factual and completely devoid of bias. Since RAG can be employed as a language model, similar concerns as for GPT-2 [50] are valid here, although arguably to a lesser extent, including that it might be used to generate abuse, faked or misleading content in the news or on social media; to impersonate others; or to automate the production of spam/phishing content [54]. Advanced language models may also lead to the automation of various jobs in the coming decades [16]. In order to mitigate these risks, AI systems could be employed to fight against misleading content and automated spam/phishing. 
+
+# **Acknowledgments** 
+
+The authors would like to thank the reviewers for their thoughtful and constructive feedback on this paper, as well as HuggingFace for their help in open-sourcing code to run RAG models. The authors would also like to thank Kyunghyun Cho and Sewon Min for productive discussions and advice. EP thanks supports from the NSF Graduate Research Fellowship. PL is supported by the FAIR PhD program.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.073]
+## **2.1 Models** 
+
+**RAG-Sequence Model** The RAG-Sequence model uses the same retrieved document to generate the complete _sequence_ . Technically, it treats the retrieved document as a single latent variable that is marginalized to get the seq2seq probability _p_ ( _y|x_ ) via a top-K approximation. Concretely, the top K documents are retrieved using the retriever, and the generator produces the output sequence probability for each document, which are then marginalized, 
+
+
+
+> **RAG-Token Model** In the RAG-Token model we can draw a different latent document for each target _token_ and marginalize accordingly. This allows the generator to choose content from several documents when producing an answer. Concretely, the top K documents are retrieved using the retriever, and then the generator produces a distribution for the next output token for each document, before marginalizing, and repeating the process with the following output token, Formally, we define: 
+
+
+
+Finally, we note that RAG can be used for sequence classification tasks by considering the target class as a target sequence of length one, in which case RAG-Sequence and RAG-Token are equivalent.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.047]
+- [32] Mike Lewis, Yinhan Liu, Naman Goyal, Marjan Ghazvininejad, Abdelrahman Mohamed, Omer Levy, Veselin Stoyanov, and Luke Zettlemoyer. BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension. _arXiv preprint arXiv:1910.13461_ , 2019. URL `https://arxiv.org/abs/1910.13461` . 
+
+- [33] Jiwei Li, Michel Galley, Chris Brockett, Jianfeng Gao, and Bill Dolan. A diversity-promoting objective function for neural conversation models. In _Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies_ , pages 110–119, San Diego, California, June 2016. Association for Computational Linguistics. doi: 10.18653/v1/N16-1014. URL `https://www.aclweb.org/anthology/ N16-1014` . 
+
+- [34] Margaret Li, Jason Weston, and Stephen Roller. Acute-eval: Improved dialogue evaluation with optimized questions and multi-turn comparisons. _ArXiv_ , abs/1909.03087, 2019. URL `https://arxiv.org/abs/1909.03087` . 
+
+- [35] Hairong Liu, Mingbo Ma, Liang Huang, Hao Xiong, and Zhongjun He. Robust neural machine translation with joint textual and phonetic embedding. In _Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics_ , pages 3044–3049, Florence, Italy, July 2019. Association for Computational Linguistics. doi: 10.18653/v1/P19-1291. URL `https://www.aclweb.org/anthology/P19-1291` . 
+
+- [36] Peter J. Liu*, Mohammad Saleh*, Etienne Pot, Ben Goodrich, Ryan Sepassi, Lukasz Kaiser, and Noam Shazeer. Generating wikipedia by summarizing long sequences. In _International Conference on Learning Representations_ , 2018. URL `https://openreview.net/forum? id=Hyg0vbWC-` .
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.044]
+- [7] Christopher Clark and Matt Gardner. Simple and Effective Multi-Paragraph Reading Comprehension. _arXiv:1710.10723 [cs]_ , October 2017. URL `http://arxiv.org/abs/1710.10723` . arXiv: 1710.10723. 
+
+- [8] Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. In _Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)_ , pages 4171–4186, Minneapolis, Minnesota, June 2019. Association for Computational Linguistics. doi: 10.18653/v1/N19-1423. URL `https://www.aclweb.org/anthology/N19-1423` . 
+
+- [9] Emily Dinan, Stephen Roller, Kurt Shuster, Angela Fan, Michael Auli, and Jason Weston. Wizard of wikipedia: Knowledge-powered conversational agents. In _International Conference on Learning Representations_ , 2019. URL `https://openreview.net/forum?id=r1l73iRqKm` . 
+
+- [10] Matthew Dunn, Levent Sagun, Mike Higgins, V. Ugur Guney, Volkan Cirik, and Kyunghyun Cho. SearchQA: A New Q&A Dataset Augmented with Context from a Search Engine. _arXiv:1704.05179 [cs]_ , April 2017. URL `http://arxiv.org/abs/1704.05179` . arXiv: 1704.05179. 
+
+- [11] Angela Fan, Mike Lewis, and Yann Dauphin. Hierarchical neural story generation. In _Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)_ , pages 889–898, Melbourne, Australia, July 2018. Association for Computational Linguistics. doi: 10.18653/v1/P18-1082. URL `https://www.aclweb.org/anthology/ P18-1082` .
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.043]
+## **3.2 Abstractive Question Answering** 
+
+RAG models can go beyond simple extractive QA and answer questions with free-form, abstractive text generation. To test RAG’s natural language generation (NLG) in a knowledge-intensive setting, we use the MSMARCO NLG task v2.1 [43]. The task consists of questions, ten gold passages retrieved from a search engine for each question, and a full sentence answer annotated from the retrieved passages. We do not use the supplied passages, only the questions and answers, to treat 
+
+4 
+
+MSMARCO as an open-domain abstractive QA task. MSMARCO has some questions that cannot be answered in a way that matches the reference answer without access to the gold passages, such as “What is the weather in Volcano, CA?” so performance will be lower without using gold passages. We also note that some MSMARCO questions cannot be answered using Wikipedia alone. Here, RAG can rely on parametric knowledge to generate reasonable responses.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.040]
+# **5 Related Work** 
+
+**Single-Task Retrieval** Prior work has shown that retrieval improves performance across a variety of NLP tasks when considered in isolation. Such tasks include open-domain question answering [5, 29], fact checking [56], fact completion [48], long-form question answering [12], Wikipedia article generation [36], dialogue [41, 65, 9, 13], translation [17], and language modeling [19, 27]. Our work unifies previous successes in incorporating retrieval into individual tasks, showing that a single retrieval-based architecture is capable of achieving strong performance across several tasks. 
+
+8 
+
+**General-Purpose Architectures for NLP** Prior work on general-purpose architectures for NLP tasks has shown great success without the use of retrieval. A single, pre-trained language model has been shown to achieve strong performance on various classification tasks in the GLUE benchmarks [60, 61] after fine-tuning [49, 8]. GPT-2 [50] later showed that a single, left-to-right, pre-trained language model could achieve strong performance across both discriminative and generative tasks. For further improvement, BART [32] and T5 [51, 52] propose a single, pre-trained encoder-decoder model that leverages bi-directional attention to achieve stronger performance on discriminative and generative tasks. Our work aims to expand the space of possible tasks with a single, unified architecture, by learning a retrieval module to augment pre-trained, generative language models. 
+
+**Learned Retrieval** There is significant work on learning to retrieve documents in information retrieval, more recently with pre-trained, neural language models [44, 26] similar to ours. Some work optimizes the retrieval module to aid in a specific, downstream task such as question answering, using search [46], reinforcement learning [6, 63, 62], or a latent variable approach [31, 20] as in our work. These successes leverage different retrieval-based architectures and optimization techniques to achieve strong performance on a single task, while we show that a single retrieval-based architecture can be fine-tuned for strong performance on a variety of tasks.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.037]
+## **2.2 Retriever: DPR** 
+
+The retrieval component _pη_ ( _z|x_ ) is based on DPR [26]. DPR follows a bi-encoder architecture: 
+
+_pη_ ( _z|x_ ) _∝_ exp � **d** ( _z_ )<sup>_⊤_</sup> **q** ( _x_ )� **d** ( _z_ ) = BERT _d_ ( _z_ ) _,_ **q** ( _x_ ) = BERT _q_ ( _x_ ) 
+
+where **d** ( _z_ ) is a dense representation of a document produced by a BERTBASE _document encoder_ [8], and **q** ( _x_ ) a query representation produced by a _query encoder_ , also based on BERTBASE. Calculating top-k( _pη_ ( _·|x_ )), the list of _k_ documents _z_ with highest prior probability _pη_ ( _z|x_ ), is a Maximum Inner Product Search (MIPS) problem, which can be approximately solved in sub-linear time [23]. We use a pre-trained bi-encoder from DPR to initialize our retriever and to build the document index. This retriever was trained to retrieve documents which contain answers to TriviaQA [24] questions and Natural Questions [29]. We refer to the document index as the _non-parametric memory_ . 
+
+## **2.3 Generator: BART** 
+
+The generator component _pθ_ ( _yi|x, z, y_ 1: _i−_ 1) could be modelled using any encoder-decoder. We use BART-large [32], a pre-trained seq2seq transformer [58] with 400M parameters. To combine the input _x_ with the retrieved content _z_ when generating from BART, we simply concatenate them. BART was pre-trained using a denoising objective and a variety of different noising functions. It has obtained state-of-the-art results on a diverse set of generation tasks and outperforms comparably-sized T5 models [32]. We refer to the BART generator parameters _θ_ as the _parametric memory_ henceforth.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.031]
+[67] Shiyue Zhang and Mohit Bansal. Addressing semantic drift in question generation for semisupervised question answering. In _Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)_ , pages 2495–2509, Hong Kong, China, November 2019. Association for Computational Linguistics. doi: 10.18653/v1/D19-1253. URL `https://www.aclweb.org/anthology/D19-1253` . 
+
+[68] Wanjun Zhong, Jingjing Xu, Duyu Tang, Zenan Xu, Nan Duan, Ming Zhou, Jiahai Wang, and Jian Yin. Reasoning over semantic-level graph for fact checking. _ArXiv_ , abs/1909.03745, 2019. URL `https://arxiv.org/abs/1909.03745` . 
+
+16 
+
+
+
+<!-- Start of picture text -->
+Appendices for  Retrieval-Augmented Generation for<br>Knowledge-Intensive NLP Tasks<br>A Implementation Details<br>For Open-domain QA we report test numbers using 15 retrieved documents for RAG-Token models.<br>For RAG-Sequence models, we report test results using 50 retrieved documents, and we use the<br>Thorough Decoding approach since answers are generally short. We use greedy decoding for QA as<br>we did not find beam search improved results. For Open-MSMarco and Jeopardy question generation,<br>we report test numbers using ten retrieved documents for both RAG-Token and RAG-Sequence,<br>and we also train a BART-large model as a baseline. We use a beam size of four, and use the Fast<br>Decoding approach for RAG-Sequence models, as Thorough Decoding did not improve performance.<br>B Human Evaluation<br><!-- End of picture text -->
+
+
+
+Figure 4: Annotation interface for human evaluation of factuality. A pop-out for detailed instructions and a worked example appear when clicking "view tool guide".
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.030]
+||Model|NQ|TQA|WQ|CT||||||||
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Cld|T511B 52|345|/501|374||Model|Jeop|ardy|MSM|ARCO|FVR3|FVR2|
+|ose<br>Book|- []<br>T5-11B+SSM[52]|.<br>36.6|- .<br>- /60.5|.<br>44.7|-<br>-||B-1|QB-1|R-L|B-1|Label|Acc.|
+|Open|REALM [20]|40.4|- / -|40.7|46.8|SotA|-|-|**49.8* **|**49.9***|**76.8**|**92.2***|
+|Book|DPR [26]|41.5|**57.9**/ -|41.1|50.6|BART|15.1|19.7|38.2|41.6|64.0|81.1|
+||RAG-Token|44.1|55.2/66.1|**45.5**|50.0|RAG-Tok.|**17.3**|**22.2**|40.1|41.5|725|895|
+||RAG-Seq.|**44.5**|56.8/**68.0**|45.2|**52.2**|RAG-Seq.|14.7|21.4|40.8|44.2|.|.|
+
+
+
+to more effective marginalization over documents. Furthermore, RAG can generate correct answers even when the correct answer is not in any retrieved document, achieving 11.8% accuracy in such cases for NQ, where an extractive model would score 0%.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.030]
+- [44] Rodrigo Nogueira and Kyunghyun Cho. Passage re-ranking with BERT. _arXiv preprint arXiv:1901.04085_ , 2019. URL `https://arxiv.org/abs/1901.04085` . 
+
+- [45] Myle Ott, Sergey Edunov, Alexei Baevski, Angela Fan, Sam Gross, Nathan Ng, David Grangier, and Michael Auli. fairseq: A fast, extensible toolkit for sequence modeling. In _Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics (Demonstrations)_ , pages 48–53, Minneapolis, Minnesota, June 2019. Association for Computational Linguistics. doi: 10.18653/v1/N19-4009. URL `https://www.aclweb. org/anthology/N19-4009` . 
+
+- [46] Ethan Perez, Siddharth Karamcheti, Rob Fergus, Jason Weston, Douwe Kiela, and Kyunghyun Cho. Finding generalizable evidence by learning to convince q&a models. In _Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)_ , pages 2402–2411, Hong Kong, China, November 2019. Association for Computational Linguistics. doi: 10.18653/v1/D19-1244. URL `https://www.aclweb.org/anthology/D19-1244` . 
+
+- [47] Fabio Petroni, Tim Rocktäschel, Sebastian Riedel, Patrick Lewis, Anton Bakhtin, Yuxiang Wu, and Alexander Miller. Language models as knowledge bases? In _Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP)_ , pages 2463–2473, Hong Kong, China, November 2019. Association for Computational Linguistics. doi: 10.18653/v1/ D19-1250. URL `https://www.aclweb.org/anthology/D19-1250` .
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.021]
+## **3.4** 
+
+FEVER [56] requires classifying whether a natural language claim is supported or refuted by Wikipedia, or whether there is not enough information to decide. The task requires retrieving evidence from Wikipedia relating to the claim and then reasoning over this evidence to classify whether the claim is true, false, or unverifiable from Wikipedia alone. FEVER is a retrieval problem coupled with an challenging entailment reasoning task. It also provides an appropriate testbed for exploring the RAG models’ ability to handle classification rather than generation. We map FEVER class labels (supports, refutes, or not enough info) to single output tokens and directly train with claim-class pairs. Crucially, unlike most other approaches to FEVER, we do not use supervision on retrieved evidence. In many real-world applications, retrieval supervision signals aren’t available, and models that do not require such supervision will be applicable to a wider range of tasks. We explore two variants: the standard 3-way classification task (supports/refutes/not enough info) and the 2-way (supports/refutes) task studied in Thorne and Vlachos [57]. In both cases we report label accuracy.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.020]
+# **G Parameters** 
+
+Our RAG models contain the trainable parameters for the BERT-base query and document encoder of DPR, with 110M parameters each (although we do not train the document encoder ourselves) and 406M trainable parameters from BART-large, 406M parameters, making a total of 626M trainable 
+
+18 
+
+Table 7: Number of instances in the datasets used. *A hidden subset of this data is used for evaluation 
+
+Task Train Development Test Natural Questions 79169 8758 3611 TriviaQA 78786 8838 11314 WebQuestions 3418 362 2033 CuratedTrec 635 134 635 Jeopardy Question Generation 97392 13714 26849 MS-MARCO 153726 12468 101093* FEVER-3-way 145450 10000 10000 FEVER-2-way 96966 6666 6666 
+
+parameters. The best performing "closed-book" (parametric only) open-domain QA model is T5-11B with 11 Billion trainable parameters. The T5 model with the closest number of parameters to our 
+
+models is T5-large (770M parameters), which achieves a score of 28.9 EM on Natural Questions [52], substantially below the 44.5 that RAG-Sequence achieves, indicating that hybrid parametric/nonparametric models require far fewer trainable parameters for strong open-domain QA performance. The non-parametric memory index does not consist of trainable parameters, but does consists of 21M 728 dimensional vectors, consisting of 15.3B values. These can be easily be stored at 8-bit floating point precision to manage memory and disk footprints. 
+
+**H Retrieval Collapse** 
+
+In preliminary experiments, we observed that for some tasks such as story generation [11], the retrieval component would “collapse” and learn to retrieve the same documents regardless of the input. In these cases, once retrieval had collapsed, the generator would learn to ignore the documents, and the RAG model would perform equivalently to BART. The collapse could be due to a less-explicit requirement for factual knowledge in some tasks, or the longer target sequences, which could result in less informative gradients for the retriever. Perez et al. [46] also found spurious retrieval results when optimizing a retrieval component in order to improve performance on downstream tasks. 
+
+**I Number of instances per dataset**
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.019]
+## **4.5 Additional Results** 
+
+**Generation Diversity** Section 4.3 shows that RAG models are more factual and specific than BART for Jeopardy question generation. Following recent work on diversity-promoting decoding [33, 59, 39], we also investigate generation diversity by calculating the ratio of distinct ngrams to total ngrams generated by different models. Table 5 shows that RAG-Sequence’s generations are more diverse than RAG-Token’s, and both are significantly more diverse than BART without needing any diversity-promoting decoding. 
+
+**Retrieval Ablations** A key feature of RAG is learning to retrieve relevant information for the task. To assess the effectiveness of the retrieval mechanism, we run ablations where we freeze the retriever during training. As shown in Table 6, learned retrieval improves results for all tasks. 
+
+We compare RAG’s dense retriever to a word overlap-based BM25 retriever [53]. Here, we replace RAG’s retriever with a fixed BM25 system, and use BM25 retrieval scores as logits when calculating _p_ ( _z|x_ ). Table 6 shows the results. For FEVER, BM25 performs best, perhaps since FEVER claims are heavily entity-centric and thus well-suited for word overlap-based retrieval. Differentiable retrieval improves results on all other tasks, especially for Open-Domain QA, where it is crucial. 
+
+**Index hot-swapping** An advantage of non-parametric memory models like RAG is that knowledge can be easily updated at test time. Parametric-only models like T5 or BART need further training to update their behavior as the world changes. To demonstrate, we build an index using the DrQA [5] Wikipedia dump from December 2016 and compare outputs from RAG using this index to the newer index from our main results (December 2018). We prepare a list of 82 world leaders who had changed 
+
+7 
+
+Table 4: Human assessments for the Jeopardy Table 5: Ratio of distinct to total tri-grams for Question Generation Task. generation tasks.
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.013]
+## **2.5 Decoding** 
+
+At test time, RAG-Sequence and RAG-Token require different ways to approximate arg max _y p_ ( _y|x_ ). 
+
+**RAG-Token** The RAG-Token model can be seen as a standard, autoregressive seq2seq generator with transition probability: _p_<sup>_′_</sup> _θ_<sup>(</sup><sup>_yi|x, y_1:</sup><sup>_i−_1)=�</sup> _z∈_ top- _k_ ( _p_ ( _·|x_ ))<sup>_pη_(</sup><sup>_zi|x_)</sup><sup>_pθ_(</sup><sup>_yi|x, zi, y_1:</sup><sup>_i−_1)To</sup> decode, we can plug _p_<sup>_′_</sup> _θ_<sup>(</sup><sup>_yi|x, y_1:</sup><sup>_i−_1) into a standard beam decoder.</sup> 
+
+**RAG-Sequence** For RAG-Sequence, the likelihood _p_ ( _y|x_ ) does not break into a conventional pertoken likelihood, hence we cannot solve it with a single beam search. Instead, we run beam search for each document _z_ , scoring each hypothesis using _pθ_ ( _yi|x, z, y_ 1: _i−_ 1). This yields a set of hypotheses _Y_ , some of which may not have appeared in the beams of all documents. To estimate the probability of an hypothesis _y_ we run an additional forward pass for each document _z_ for which _y_ does not appear in the beam, multiply generator probability with _pη_ ( _z|x_ ) and then sum the probabilities across beams for the marginals. We refer to this decoding procedure as “Thorough Decoding.” For longer output sequences, _|Y |_ can become large, requiring many forward passes. For more efficient decoding, we can make a further approximation that _pθ_ ( _y|x, zi_ ) _≈_ 0 where _y_ was not generated during beam search from _x, zi_ . This avoids the need to run additional forward passes once the candidate set _Y_ has been generated. We refer to this decoding procedure as “Fast Decoding.”
+
+---
+
+[referencia=02ad74cdb0c9081f score=0.005]
+## **4.2 Abstractive Question Answering** 
+
+As shown in Table 2, RAG-Sequence outperforms BART on Open MS-MARCO NLG by 2.6 Bleu points and 2.6 Rouge-L points. RAG approaches state-of-the-art model performance, which is impressive given that (i) those models access gold passages with specific information required to generate the reference answer , (ii) many questions are unanswerable without the gold passages, and (iii) not all questions are answerable from Wikipedia alone. Table 3 shows some generated answers from our models. Qualitatively, we find that RAG models hallucinate less and generate factually correct text more often than BART. Later, we also show that RAG generations are more diverse than BART generations (see §4.5).

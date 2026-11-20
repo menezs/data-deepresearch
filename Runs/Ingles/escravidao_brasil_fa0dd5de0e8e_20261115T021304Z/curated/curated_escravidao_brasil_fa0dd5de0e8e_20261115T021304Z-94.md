@@ -1,0 +1,79 @@
+[referencia=80130f680ba4d91a score=0.998]
+O relatório Atlas da Violência 2026, produzido pelo Instituto de Pesquisa Econômica Aplicada (Ipea) e pelo Fórum Brasileiro de Segurança Pública (FBSP), aponta que o Brasil registrou 32.820 homicídios de pessoas negras em 2024, o que corresponde a 77% do total de homicídios registrados naquele ano.
+
+Os números reafirmam a persistência de um padrão estrutural de desigualdade racial na violência letal no país. Esses dados revelam que, em média, 89,9 pessoas negras são assassinadas diariamente no território nacional.
+
+A disparidade entre os grupos raciais torna-se ainda mais evidente quando se comparam as taxas de mortalidade. Enquanto a taxa para pessoas não negras foi de 10,1 por 100 mil habitantes, a taxa entre negros atingiu 27,3. Isso significa que a mortalidade por homicídio entre negros é 170,3% superior à de não negros.
+
+Na prática, uma pessoa negra tem 2,7 vezes mais chances de ser morta do que uma pessoa branca, amarela ou indígena, número igual ao de 2023. Se olhar para os estados, a condição fica ainda mais assustadora. O cenário de maior discrepância no país é registrado em Alagoas, onde o risco relativo atinge um nível extremo: no estado, a população negra tem 23,3 vezes mais chances de ser vítima de homicídio do que a população não negra.
+
+Essa discrepância brutal coloca Alagoas no topo do ranking de desigualdade racial na violência letal, repetindo o mesmo padrão crítico que já havia sido mapeado na edição de 2025 do levantamento. Logo atrás, o estado do Amapá apresenta o segundo maior risco relativo do Brasil, com a população negra tendo 16,7 vezes mais chances de ser morta.
+
+---
+
+[referencia=80130f680ba4d91a score=0.931]
+O ranking da desigualdade letal segue com índices também bastante desproporcionais em Sergipe (6,8 vezes) e na Paraíba (5,5 vezes). A regra observada é que, em praticamente todo o território brasileiro, ser negro significa ter uma probabilidade consideravelmente maior de ter a vida interrompida pela violência.
+
+A única exceção a esse cenário é Roraima, que registrou um risco relativo de 0,5, sendo o único estado em que a população negra apresentou menor chance de vitimização letal em comparação ao grupo de não negros. Ao todo, na série histórica de 11 anos avaliada pelo documento (de 2014 a 2024), o país somou o alarmante número de 435.551 pessoas negras assassinadas, contra 132.156 vítimas do grupo de não negros.
+
+#### **Desigualdade na redução**
+
+Embora o Brasil tenha experimentado uma tendência geral de queda na violência letal no longo prazo, os avanços não ocorrem no mesmo ritmo para todos os grupos. Entre 2014 e 2024, a redução dos homicídios para não negros foi de 38,9%, enquanto para negros a queda foi significativamente menor, de 21,7%.
+
+Esse descompasso indica que os ganhos na segurança pública não se distribuem de forma equitativa, mantendo a população negra em uma posição de maior vulnerabilidade.
+
+A leitura regional do Atlas expõe que a violência letal contra pessoas negras está fortemente concentrada nos territórios das regiões Norte e Nordeste, enquanto os índices mais baixos se concentram no Sul e Sudeste.
+
+Em 2024, as maiores taxas de homicídios de negros por 100 mil habitantes ocorreram no Amapá (56,8), Alagoas (48,9), Pernambuco (47,6) e Bahia (47,1). No extremo oposto, as menores taxas foram computadas nos estados de São Paulo (8,0) e Santa Catarina (10,3).
+
+---
+
+[referencia=80130f680ba4d91a score=0.539]
+#### **Percepção do racismo**
+
+Apesar de a população negra estar submetida a um risco de morte por homicídio flagrantemente superior, essa disparidade extrema ainda não é plenamente reconhecida pelo senso comum como uma expressão concreta do racismo.
+
+Para ilustrar esse fenômeno, o Atlas da Violência cita uma pesquisa do instituto Ipsos, realizada em 2025 em dez capitais brasileiras: embora 78% dos entrevistados afirmem perceber o tratamento desigual entre brancos e negros no país, a maioria associa o preconceito quase exclusivamente a situações interpessoais ligadas à discriminação cultural ou econômica.
+
+Segundo o levantamento, a sociedade aponta como principais palcos do racismo os ambientes de consumo, como shoppings e comércios (57%), e o mercado de trabalho (44%).
+
+O relatório indica que escancarar essas estatísticas e tornar visível o peso do racismo na letalidade violenta é um passo inegociável. No documento, os pesquisadores apontam que, apenas rompendo com essa invisibilidade, será possível fornecer evidências sólidas para que o Estado formule políticas públicas capazes de avançar em uma perspectiva antirracista, corrigindo de forma efetiva os danos da desigualdade racial no Brasil.
+
+---
+
+[referencia=80130f680ba4d91a score=0.428]
+#### **Impacto sobre as mulheres negras**
+
+O cruzamento entre o racismo estrutural e a cultura patriarcal faz com que as mulheres negras (soma de pretas e pardas) sejam as principais afetadas pela violência letal no Brasil. É importante destacar que o Atlas da Violência contabiliza o total de homicídios de mulheres registrados pelo sistema de saúde, e não especificamente de feminicídios — termo jurídico restrito aos assassinatos motivados por violência doméstica ou menosprezo à condição de gênero.
+
+Como o documento aponta, a subnotificação e a falta de preenchimento adequado de boletins de ocorrência mascaram o real tamanho do feminicídio no país, tornando o índice geral de homicídios a métrica mais segura para medir a letalidade.
+
+Em 2024, o país registrou o assassinato de 2.457 mulheres negras, o que representou expressivos 67,5% de todas as mortes violentas de mulheres ocorridas no território nacional. Na prática, a taxa de vitimização por homicídio de mulheres negras ficou em 4,0 mortes para cada 100 mil habitantes, um índice 66,7% superior à taxa verificada entre as mulheres não negras, que registrou 2,4 ocorrências por 100 mil.
+
+Geograficamente, 14 unidades da Federação superaram a média nacional de violência contra a mulher negra em 2024. Os cenários mais graves foram identificados no Ceará, com uma taxa de 7,2 mortes por 100 mil, seguido por Pernambuco (6,7), Espírito Santo (6,5) e Roraima (6,3).
+
+Na contramão da tendência histórica de declínio nacional, o estado do Ceará registrou um salto severo de 56,5% na taxa de homicídios de mulheres negras ao longo da última década.
+
+---
+
+[referencia=80130f680ba4d91a score=0.305]
+#### **Quando não mata**
+
+Para além dos índices de assassinatos, a sobreposição das vulnerabilidades de gênero e raça também se manifesta cruelmente nos registros de violência não letal, que incluem agressões físicas, psicológicas e sexuais reportadas ao sistema de saúde.
+
+Os dados do Sistema de Informação de Agravos de Notificação (Sinan) mostram que a violência contra a mulher não é apenas uma questão de idade ou de contexto familiar, mas é profundamente organizada por desigualdades raciais, colocando as mulheres negras no topo das estatísticas de vitimização.
+
+O peso dessa disparidade estrutural fica evidente quando se analisam as proporções desse cenário no último ano. Em 2024, as mulheres negras representaram a expressiva maioria das vítimas de violência doméstica e intrafamiliar no país. Elas concentraram 58,6% de todos os registros contabilizados nos serviços de saúde, uma parcela significativamente superior à observada entre as mulheres brancas (39,3%), indígenas (1,1%) e amarelas (1,0%).
+
+Essa assimetria torna-se ainda mais alarmante quando se calculam as taxas de vitimização, que medem o risco real a que cada grupo está submetido. A cada 100 mil mulheres negras no Brasil, 175,4 foram vítimas de violência doméstica e dentro da família em 2024, enquanto a taxa entre as mulheres não negras foi de 156,8 ocorrências para o mesmo grupo populacional.
+
+---
+
+[referencia=80130f680ba4d91a score=0.120]
+#### **População LGBTQIAPN+ negra**
+
+A análise da violência contra a população LGBTQIAPN+ revela que, independentemente da orientação sexual, a maior parte das vítimas de agressões no país é composta por pessoas negras. Os registros do sistema de saúde mostram que, entre as vítimas que se identificam como heterossexuais, homossexuais e bissexuais, a participação de pessoas negras varia de 57% a 59%, superando de forma consistente e sistemática a proporção de vítimas brancas.
+
+Esse recorte racial torna-se ainda mais alarmante quando o foco recai sobre as vítimas dissidentes de gênero. Os dados expõem que pessoas negras correspondem a 67% das travestis e 61% das mulheres transexuais vítimas de violência no Brasil.
+
+No caso dos homens transexuais, embora a distribuição apresente uma participação ligeiramente maior de vítimas brancas (42%) em comparação aos brancos dos demais grupos, a concentração de negros também permanece sendo a maioria, representando 55% dos registros de mortes de homens transexuais.

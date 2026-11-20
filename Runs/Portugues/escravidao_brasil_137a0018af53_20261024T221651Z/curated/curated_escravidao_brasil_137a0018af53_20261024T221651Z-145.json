@@ -1,0 +1,13 @@
+{
+  "answer_chunk_id": "escravidao_brasil_137a0018af53_20261024T221651Z-145",
+  "passages": [
+    {
+      "reference_chunk_id": "00cb5a28f12765ad-0",
+      "reference_id": "00cb5a28f12765ad",
+      "score": 0.993877112865448,
+      "text": "# Bem-vindo\n\nO **Arquivo Digital** é uma plataforma pela qual o Senado Federal disponibiliza uma parte do seu acervo histórico. A documentação é resultado da atividade legislativa no Brasil, com destaque para a produção das Leis do País, desde 1826.\n\nEsta ferramenta está em construção e algumas informações podem estar incompletas ou pendentes de publicação.\n\nPara mais informações, entre em contato com arquivo@senado.leg.br.\n\n### Vídeo institucional\n\n## Popular nesta semana\n\n# Informação\n\n#### Como pesquisar\n\nSaiba como acessar nossos documentos dentro do\n**Arquivo Digital**."
+    }
+  ],
+  "assembled_context": "[referencia=00cb5a28f12765ad score=0.994]\n# Bem-vindo\n\nO **Arquivo Digital** é uma plataforma pela qual o Senado Federal disponibiliza uma parte do seu acervo histórico. A documentação é resultado da atividade legislativa no Brasil, com destaque para a produção das Leis do País, desde 1826.\n\nEsta ferramenta está em construção e algumas informações podem estar incompletas ou pendentes de publicação.\n\nPara mais informações, entre em contato com arquivo@senado.leg.br.\n\n### Vídeo institucional\n\n## Popular nesta semana\n\n# Informação\n\n#### Como pesquisar\n\nSaiba como acessar nossos documentos dentro do\n**Arquivo Digital**.",
+  "skip_reason": null
+}

@@ -1,0 +1,27 @@
+[referencia=f546d3dd48eb2c5c score=0.002]
+# Artificial Intelligence and Copyrights: Tennessee’s ELVIS Act Becomes Law
+
+On March 21, 2024, the Ensuring Likeness Voice and Image Security Act (ELVIS Act) was signed into law by Tennessee Gov. Bill Lee. The stated purpose of the ELVIS Act is to protect musicians from unauthorized usage by artificial intelligence (AI).
+
+### **What is the ELVIS Act?**
+
+The Tennessee legislation updates the state’s Protection of Personal Rights law to add sound and voice. Specifically, the law has been expanded to cover “new, personalized generative AI cloning models and services that enable human impersonation and allow users to make unauthorized fake works in the image and voice of others.”
+
+Described as “first-of-its-kind legislation,” the ELVIS Act prohibits people from using AI to mimic a person’s voice without their permission, and violations can be criminally enforced as Class A misdemeanors. The law also authorizes civil action against any person who violates this law.
+
+### **Why is it important?**
+
+Computer technology has been used in music-making for decades. In fact, in 1965, the Copyright Office discussed the emergence of such technology in its annual report titled “Problems Arising from Computer Technology.”
+
+However, recent advances in generative AI—particularly made popular by the ChatGPT language system—have created divisive opinions in the music industry. Artists have historically used simple AI to enhance their sound, for example, whereas generative AI is capable of creating original content on its own, including sounds, lyrics or songs.
+
+As one example, AI voice-cloning tools have helped songwriters produce songs that mimic famous artists or produce voices that sound like specific individuals. In 2023, voice-cloning technology helped an anonymous TikTok user create a viral song using the cloned vocals of Drake and the Weeknd. These tools have also been used to add voice acting lines for an actor who had passed away to an update to a popular video game. This was done with the permission of his family.
+
+---
+
+[referencia=f546d3dd48eb2c5c score=0.000]
+### **How does this law affect you?**
+
+Tennessee is the first state to implement legislation of this kind, with the law taking effect on July 1, 2024. Once the law takes effect, it will prohibit using AI to mimic an artist’s voice without permission. Violation of this law can subject one to civil and/or criminal action. How copyright exceptions, such as fair use, will be considered under this law is yet to be seen and will likely require analysis of the particular facts of the case.
+
+Lawyers within Armstrong Teasdale’s AI practice counsel clients on the use of AI and its impact on their businesses. If you have any questions or need additional information about the ELVIS Act, please contact one of the listed authors or your regular AT lawyer.

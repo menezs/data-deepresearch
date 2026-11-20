@@ -1,0 +1,918 @@
+{
+  "run_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+  "answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/ChatGPT/Consolidado/arquitetura_transformers.md",
+  "generated_at": "2026-11-04T05:24:45.197954Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 35027,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 170,
+    "citation_markers_distinct": 29,
+    "references_listed": 29,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 114,
+  "pct_supported": 80.7017543859649,
+  "pct_unsupported": 17.543859649122805,
+  "pct_contradicted": 0.0,
+  "count_supported": 92,
+  "count_unsupported": 20,
+  "count_contradicted": 0,
+  "count_skipped": 2,
+  "count_audited": 112,
+  "pct_supported_audited": 82.14285714285714,
+  "pct_unsupported_audited": 17.857142857142858,
+  "pct_contradicted_audited": 0.0,
+  "count_partially_supported": 25,
+  "skipped_reason_counts": {
+    "ref_bloqueada": 2
+  },
+  "verification_ran": true,
+  "count_unsupported_confirmed": 2,
+  "count_reclassified_by_verification": 8,
+  "verification_stage_counts": {
+    "context_expansion": 8
+  },
+  "mis_cited_reference_count": 4,
+  "uncredited_reference_count": 0,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [
+    {
+      "id": "6f93afc00a76b64a",
+      "citation_markers": [
+        "[24]"
+      ],
+      "raw_url": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+      "normalized_url": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+      "work_key": "DOI:10.1145/3442188.3445922",
+      "title": null,
+      "from_secondary_list": false,
+      "exporter_artifact": false,
+      "status": "blocked",
+      "http_status": 200,
+      "fetched_at": "2026-11-04T03:45:54.086068Z",
+      "error_message": "barreira de acesso (anti_bot): This website uses a security service to protect against malicious bots. This page is displayed while the website verifie",
+      "barrier_kind": "anti_bot",
+      "source_answer_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z",
+      "tool_name": "ChatGPT"
+    }
+  ],
+  "skipped_chunks": [
+    {
+      "answer_chunk_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-93",
+      "reason": "Referencia(s) citada(s) ['6f93afc00a76b64a'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-94",
+      "reason": "Referencia(s) citada(s) ['6f93afc00a76b64a'] bloqueada(s) por barreira de acesso (anti-bot, erro HTTP, login) — sem conteudo para auditar."
+    }
+  ],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "a7468c6851652691",
+      "url": "https://arxiv.org/abs/1706.03762",
+      "times_cited": 43,
+      "supported_count": 36,
+      "unsupported_count": 7,
+      "contradicted_count": 0,
+      "supporting_citations": 32,
+      "partial_citations": 7,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        16,
+        17,
+        21,
+        22,
+        23,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        33,
+        36,
+        37,
+        38,
+        39,
+        40,
+        42,
+        44,
+        45,
+        46,
+        47,
+        52,
+        57,
+        64,
+        66
+      ],
+      "partial_positions": [
+        20,
+        24,
+        35,
+        41,
+        43,
+        65,
+        112
+      ],
+      "absent_positions": [
+        6,
+        32,
+        34,
+        48
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely. Experiments on two machine translation tasks show these models to be superior in quality while being more parallelizable and requiring significantly less time to train.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "5727fed78bddc701",
+      "url": "https://arxiv.org/abs/2205.14135",
+      "times_cited": 11,
+      "supported_count": 8,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        6,
+        73,
+        74,
+        75
+      ],
+      "partial_positions": [
+        7,
+        65,
+        76,
+        110,
+        111,
+        112
+      ],
+      "absent_positions": [
+        66
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Standard attention implementations materialize the matrices S and P to HBM, which takes O(N²) memory. ... the inputs Q, K are read from HBM and the output S ∈ R^{N×N} is written to HBM ... we compute Q_i K^T_j ∈ R^{Br×Bc} for Q_i ∈ R^{Br×d} and K_j ∈ R^{Bc×d}, which takes O(BrBcd) FLOPs.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "1098fc60be7ca2b0",
+      "url": "https://arxiv.org/abs/2203.02155",
+      "times_cited": 8,
+      "supported_count": 7,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 6,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        8,
+        59,
+        60,
+        61,
+        63,
+        95
+      ],
+      "partial_positions": [
+        62,
+        113
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We initialize the RLHF models from a pretrained GPT-3 model and apply supervised fine-tuning for 2 epochs on the demonstration dataset. [...] We focus on fine-tuning approaches to aligning language models. Specifically, we use reinforcement learning from human feedback (RLHF) to fine-tune GPT-3 to follow a broad class of written instructions.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "a3e86ad05f37e40d",
+      "url": "https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf",
+      "times_cited": 7,
+      "supported_count": 6,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 4,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        8,
+        51,
+        54,
+        89
+      ],
+      "partial_positions": [
+        53,
+        59
+      ],
+      "absent_positions": [
+        5
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We demonstrate that large gains on these tasks can be realized by generative pre-training of a language model on a diverse corpus of unlabeled text, followed by discriminative fine-tuning on each specific task.",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "2cab3ea10b8b7ae2",
+      "url": "https://arxiv.org/abs/2005.14165",
+      "times_cited": 7,
+      "supported_count": 6,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        55,
+        89
+      ],
+      "partial_positions": [
+        5,
+        8,
+        53
+      ],
+      "absent_positions": [
+        48,
+        51
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model, and test its performance in the few-shot setting. For all tasks, GPT-3 is applied without any gradient updates or fine-tuning, with tasks and few-shot demonstrations specified purely via text interaction with the model.",
+      "key_excerpt_position": 55
+    },
+    {
+      "reference_id": "02ad74cdb0c9081f",
+      "url": "https://arxiv.org/abs/2005.11401",
+      "times_cited": 7,
+      "supported_count": 3,
+      "unsupported_count": 4,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        106,
+        107,
+        108
+      ],
+      "partial_positions": [
+        11,
+        109,
+        110
+      ],
+      "absent_positions": [
+        100
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We introduce RAG models where the parametric memory is a pre-trained seq2seq model and the non-parametric memory is a dense vector index of Wikipedia, accessed with a pre-trained neural retriever. We fine-tune and evaluate our models on a wide range of knowledgeintensive NLP tasks and set the state of the art on three open domain QA tasks, outperforming parametric seq2seq models and task-specific retrieve-and-extract architectures.",
+      "key_excerpt_position": 107
+    },
+    {
+      "reference_id": "6ee83218472b4aa1",
+      "url": "https://arxiv.org/abs/2307.03172",
+      "times_cited": 6,
+      "supported_count": 4,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 4,
+      "status": "downloaded",
+      "supports_positions": [
+        97,
+        98
+      ],
+      "partial_positions": [
+        10,
+        96,
+        111,
+        113
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We analyze the performance of language models on two tasks that require identifying relevant information in their input contexts: multi-document question answering and key-value retrieval. We find that performance can degrade significantly when changing the position of relevant information... we observe that performance is often highest when relevant information occurs at the beginning or end of the input context, and significantly degrades when models must access relevant information in the middle of long contexts, even for explicitly long-context models.",
+      "key_excerpt_position": 97
+    },
+    {
+      "reference_id": "887da5f02141c29f",
+      "url": "https://arxiv.org/abs/1910.10683",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        48,
+        57
+      ],
+      "partial_positions": [
+        5,
+        56,
+        58
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A major distinguishing factor for different architectures is the “mask” used by different attention mechanisms in the model.",
+      "key_excerpt_position": 48
+    },
+    {
+      "reference_id": "abee5142f9553110",
+      "url": "https://arxiv.org/abs/2009.14794",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        71,
+        72
+      ],
+      "partial_positions": [
+        7,
+        76,
+        110
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "using only linear (as opposed to quadratic) space and time complexity, without relying on any priors such as sparsity or low-rankness. To approximate softmax attentionkernels, Performers use a novel Fast Attention Via positive Orthogonal Random features approach (FAVOR+)",
+      "key_excerpt_position": 72
+    },
+    {
+      "reference_id": "2f4185a6336708d8",
+      "url": "https://arxiv.org/abs/2004.05150",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        67,
+        68
+      ],
+      "partial_positions": [
+        7,
+        110
+      ],
+      "absent_positions": [
+        76
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Longformer's attention mechanism is a drop-in replacement for the standard self-attention and combines a local windowed attention with a task motivated global attention. ... our proposed attention pattern scales linearly with the input sequence ... the dilated sliding window attention computes only a fixed number of the diagonals of QK^T. As shown in Fig. 1, this results in a linear increase in memory usage compared to quadratic increase for full self-attention.",
+      "key_excerpt_position": 67
+    },
+    {
+      "reference_id": "958844d4171dd73c",
+      "url": "https://arxiv.org/abs/2310.01889",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        77,
+        78,
+        79
+      ],
+      "partial_positions": [
+        7,
+        110
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "One line of research leverages the observation that the softmax matrix in self-attention can be computed without materializing the full matrix [24] which has led to the development of blockwise computation of self-attention and feedforward [30, 9, 23] without making approximations.",
+      "key_excerpt_position": 77
+    },
+    {
+      "reference_id": "1480e50475d6c98e",
+      "url": "https://arxiv.org/abs/1910.02054",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        86,
+        87
+      ],
+      "partial_positions": [
+        9,
+        88
+      ],
+      "absent_positions": [
+        112
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "DP replicates the entire model states across all data parallel process resulting in redundant memory consumption; [...] ZeRO-DP removes the memory state redundancies across data-parallel processes by partitioning the model states instead of replicating them",
+      "key_excerpt_position": 86
+    },
+    {
+      "reference_id": "74cf7186aa6d419e",
+      "url": "https://arxiv.org/abs/2502.11089",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        80,
+        81
+      ],
+      "partial_positions": [
+        7,
+        110
+      ],
+      "absent_positions": [
+        113
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We present NSA, a Natively trainable Sparse Attention mechanism that integrates algorithmic innovations with hardware-aligned optimizations to achieve efficient long-context modeling.",
+      "key_excerpt_position": 80
+    },
+    {
+      "reference_id": "9cee40b637f69874",
+      "url": "https://arxiv.org/abs/1409.3215",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        12,
+        16,
+        18
+      ],
+      "absent_positions": [
+        1
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The idea is to use one LSTM to read the input sequence, one timestep at a time, to obtain large fixeddimensional vector representation, and then to use another LSTM to extract the output sequence from that vector",
+      "key_excerpt_position": 12
+    },
+    {
+      "reference_id": "32f3c7d144f036a0",
+      "url": "https://arxiv.org/abs/1810.04805",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        49,
+        50
+      ],
+      "partial_positions": [
+        5
+      ],
+      "absent_positions": [
+        48
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "BERT's model architecture is a multi-layer bidirectional Transformer encoder based on the original implementation described in Vaswani et al. (2017)",
+      "key_excerpt_position": 49
+    },
+    {
+      "reference_id": "db62100d4f40075e",
+      "url": "https://arxiv.org/abs/2001.04451",
+      "times_cited": 4,
+      "supported_count": 4,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        69,
+        70
+      ],
+      "partial_positions": [
+        7
+      ],
+      "absent_positions": [
+        76
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Approximate attention computation based on locality-sensitive hashing replaces the O( L² ) factor in attention layers with O( L log L ) and so allows operating on long sequences.",
+      "key_excerpt_position": 69
+    },
+    {
+      "reference_id": "21b8c0494c3c6e8c",
+      "url": "https://arxiv.org/abs/2404.07143",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        103,
+        104,
+        105
+      ],
+      "partial_positions": [
+        110
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The Infini-attention incorporates a compressive memory into the vanilla attention mechanism and builds in both masked local attention and long-term linear attention mechanisms in a single Transformer block.",
+      "key_excerpt_position": 103
+    },
+    {
+      "reference_id": "09b3a2927fbd8693",
+      "url": "https://arxiv.org/abs/1909.08053",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        84
+      ],
+      "partial_positions": [
+        9,
+        88
+      ],
+      "absent_positions": [
+        112
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Distributed tensor computation is an orthogonal and more general approach that partitions a tensor operation across multiple devices to accelerate computation or increase model size. [...] In this work, we implement a simple and efficient model parallel approach using intra-layer model-parallelism. [...] for the self attention block we exploit inherent parallelism in the multihead attention operation, partitioning the GEMMs associated with key (K), query (Q), and value (V) in a column parallel fashion such that the matrix multiply corresponding to each attention head is done locally on one GPU [...] Our model parallelism is primarily designed to enable training models larger than what can fit in the memory of a single GPU [...] We illustrate this approach by converging transformer based models up to 8.3 billion parameters using 512 GPUs.",
+      "key_excerpt_position": 84
+    },
+    {
+      "reference_id": "fe2a3307a3dae3e5",
+      "url": "https://arxiv.org/abs/2109.07958",
+      "times_cited": 4,
+      "supported_count": 3,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        91,
+        92
+      ],
+      "partial_positions": [
+        10,
+        113
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The benchmark comprises 817 questions that span 38 categories, including health, law, finance and politics. We crafted questions that some humans would answer falsely due to a false belief or misconception. [...] The best model was truthful on 58% of questions, while human performance was 94%. [...] The largest models were generally the least truthful. This contrasts with other NLP tasks, where performance improves with model size. [...] scaling up models alone is less promising for improving truthfulness than fine-tuning using training objectives other than imitation of text from the web.",
+      "key_excerpt_position": 91
+    },
+    {
+      "reference_id": "6f93afc00a76b64a",
+      "url": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+      "times_cited": 4,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "blocked",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [
+        10,
+        93,
+        94,
+        95
+      ],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "1f3eaa75f7a21064",
+      "url": "https://community.owasp.org/attacks/PromptInjection",
+      "times_cited": 4,
+      "supported_count": 1,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        10,
+        99,
+        100
+      ],
+      "absent_positions": [
+        113
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Prompt Injection is a novel security vulnerability that targets Large Language Models (LLMs) like ChatGPT, Bard, and others. It manipulates the model's behavior by crafting malicious or misleading prompts—often bypassing safety filters and executing unintended instructions.",
+      "key_excerpt_position": 10
+    },
+    {
+      "reference_id": "c23bf2a3bc33cb7a",
+      "url": "https://arxiv.org/abs/1409.0473",
+      "times_cited": 3,
+      "supported_count": 2,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        13,
+        15
+      ],
+      "partial_positions": [
+        14
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "the use of a fixed-length vector is a bottleneck in improving the performance of this basic encoder–decoder architecture",
+      "key_excerpt_position": 13
+    },
+    {
+      "reference_id": "99bf4c74cf248c24",
+      "url": "https://arxiv.org/abs/1705.03122",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 2,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        19,
+        20
+      ],
+      "partial_positions": [
+        1
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We introduce an architecture based entirely on convolutional neural networks. Compared to recurrent models, computations over all elements can be fully parallelized during training to better exploit the GPU hardware",
+      "key_excerpt_position": 19
+    },
+    {
+      "reference_id": "021ecc8cb34e2fbb",
+      "url": "https://arxiv.org/abs/2309.00071",
+      "times_cited": 3,
+      "supported_count": 1,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        101
+      ],
+      "partial_positions": [
+        110
+      ],
+      "absent_positions": [
+        111
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "We present YaRN (Yet another RoPE extensioN method), a compute-efficient method to extend the context window of such models, requiring 10x less tokens and 2.5x less training steps than previous methods.",
+      "key_excerpt_position": 101
+    },
+    {
+      "reference_id": "c00b8dae0f8e596c",
+      "url": "https://arxiv.org/abs/1811.06965",
+      "times_cited": 3,
+      "supported_count": 3,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        85
+      ],
+      "partial_positions": [
+        9,
+        88
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "An example neural network with sequential layers is partitioned across four accelerators. [...] Pipeline parallelism divides the input mini-batch into smaller micro-batches, enabling different accelerators to work on different micro-batches simultaneously.",
+      "key_excerpt_position": 85
+    },
+    {
+      "reference_id": "1718c427cff7b5e5",
+      "url": "https://arxiv.org/abs/1710.03740",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        82
+      ],
+      "partial_positions": [
+        9
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "FP16 is used for storage and arithmetic. Weights, activations and gradients are stored using in FP16, an FP32 master copy of weights is used for updates. Loss-scaling is used for some applications. ... This nearly halves memory requirements ... the overall memory consumption for training deep neural networks is roughly halved. ... loss-scaling to preserve gradient values with small magnitudes ... **Paulius Micikevicius**∗ ... Large reductions (sums across elements of a vector) should be carried out in FP32.",
+      "key_excerpt_position": 82
+    },
+    {
+      "reference_id": "29a0882390ee7063",
+      "url": "https://arxiv.org/abs/2303.08774",
+      "times_cited": 2,
+      "supported_count": 2,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [
+        90
+      ],
+      "partial_positions": [
+        10
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Despite its capabilities, GPT-4 has similar limitations to earlier GPT models [1, 37, 38]: it is not fully reliable (e.g. can suffer from “hallucinations”)",
+      "key_excerpt_position": 90
+    },
+    {
+      "reference_id": "dfc666458a07fb9c",
+      "url": "https://arxiv.org/abs/2307.02486",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        102
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "we propose dilated attention, which expands the attentive field exponentially as the distance grows. LONGNET has significant advantages: 1) it has a linear computation complexity and a logarithm dependency between any two tokens in a sequence",
+      "key_excerpt_position": 102
+    },
+    {
+      "reference_id": "baefbf7b29b7555f",
+      "url": "https://docs.pytorch.org/docs/stable/amp.html",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        83
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "# Automatic Mixed Precision package - torch.amp#\n\n`torch.amp` provides convenience methods for mixed precision",
+      "key_excerpt_position": 83
+    }
+  ],
+  "citation_issues": [
+    {
+      "answer_chunk_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-12",
+      "position": 12,
+      "claim_excerpt": "Antes do Transformer, a formulação dominante para tradução neural e outras tarefas de sequência era o modelo *sequence-to-sequence*: um encoder recorrente lia a entrada e a condensava em uma represen…",
+      "cited_markers": "[3]",
+      "corroborating_markers": "[1] [8] [17] [6] [12] [4] [2]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-18",
+      "position": 18,
+      "claim_excerpt": "LSTMs e mecanismos de gating amenizaram problemas de propagação de informação, mas não removeram essa dependência sequencial fundamental.",
+      "cited_markers": "[3]",
+      "corroborating_markers": "[1] [4] [6] [27] [25] [15]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-35",
+      "position": 35,
+      "claim_excerpt": "Reunindo todos os pares, obtém-se \\(S=QK^\\top\\), uma matriz \\(n\\times n\\).",
+      "cited_markers": "[1]",
+      "corroborating_markers": "[10] [8] [18]",
+      "contradicting_markers": ""
+    },
+    {
+      "answer_chunk_id": "arquitetura_transformers_47bf4b2359bf_20261018T190016Z-109",
+      "position": 109,
+      "claim_excerpt": "RAG, porém, não elimina erro factual: se o retriever selecionar documentos irrelevantes, se as fontes forem incorretas ou se o gerador ignorar a evidência, a saída ainda pode falhar.",
+      "cited_markers": "[14]",
+      "corroborating_markers": "[28]",
+      "contradicting_markers": ""
+    }
+  ],
+  "total_cost_usd": 0.0,
+  "total_tokens": 2651771,
+  "cost_tracked": false,
+  "processing_time_seconds": 1419869.073009
+}

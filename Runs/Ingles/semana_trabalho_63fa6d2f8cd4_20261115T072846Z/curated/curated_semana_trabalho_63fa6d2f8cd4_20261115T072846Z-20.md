@@ -1,0 +1,329 @@
+[referencia=5b986783a5620607 score=0.996]
+###### X **Box 8. Icelandic reduced workweek pilot** 
+
+Between 2015 and 2019, Iceland implemented two large-scale pilots of reduced working weeks of 35–36 hours, which at their peak covered more than 1 per cent of the working population. The reductions did not affect salaries. The first pilot was conducted by the Reykjavík city authorities and a trade union confederation, the Federation of State and Municipal Employees (BSRB). The second pilot was conducted in 2017 by the Icelandic Government and BSRB. The pilots were conducted in the context of Iceland having some of the longest hours of work in the OECD (Haraldsson and Kellam 2021). Also, Iceland suffered from low productivity levels and proponents presented the reduction in hours of work as a solution to this problem. 
+
+###### **Trials** 
+
+###### _Reykjavík pilot (2014–2019)_ 
+
+Two committees were set up to manage the scheme and working-time reductions were tailored for each workplace based on specific duties and modes of operation. The pilot began with two groups of 66 workers. Over the five-year period, the number of participants increased to 2,500 employees in a range of workplaces, including playschools, care homes and social services centres. 
+
+###### _Icelandic Government pilot (2017–2021)_ 
+
+A working group was established in 2016 and all government departments were invited to join the pilot. A variety of departments took part, including a police department and the migration directorate. The pilot began with 440 staff members and eventually encompassed 2,500 employees, equivalent to 1.3 per cent of the Icelandic workforce. For both pilots, steering committees were used to help promote effective implementation of the workweek reductions and ensure dialogue between management and workers. After the conclusion of the pilots, collective agreements were signed that gave 86 per cent of the Icelandic workforce a reduced workweek or the right to shorten their hours (Haraldsson and Kellam 2021). 
+
+146 
+
+Working time and work-life balance around the world 
+
+
+
+###### X **Box 8. Icelandic reduced workweek pilot (continued)** 
+
+###### **Results**
+
+---
+
+[referencia=5b986783a5620607 score=0.816]
+#### **6.3. References** 
+
+Fagan, Colette, et al. 2014. _In Search of Good Quality Part-Time Employment: An International Review._ Conditions of Work and Employment Series No. 43. ILO. 
+
+Golden, Lonnie. 2012. _The Effects of Working Time on Productivity and Firm Performance: A Research Synthesis Paper._ Conditions of Work and Employment Series No. 33. ILO. 
+
+Graham-McLay, Charlotte. 2018. “A 4-day Workweek? A Test Run Shows A Surprising Result”. _The New York Times_ , 19 July. 
+
+Haraldsson, Guðmundur, and Jack Kellam. 2021. _Going Public: Iceland’s Journey to a Shorter Working Week_ . Autonomy. 
+
+Iceland, Reykjavík City. 2018. _Shortening the Workweek._ 
+
+–––. 2019. “Experimental Project on Shortening the Working Week at the State Level: Report on the Results of Opinion Polls and Economic Measurements after a Twelve-Month Attempt to Shorten Working Hours”. 
+
+IG Metall. 2018. Press release on the outcomes of the collective agreement signed on 5 February 2018, in force from 1 January 2018 to 31 March 2020. 
+
+ILO. 2007. _Decent Working Time: Balancing Workers’ Needs with Business Requirements._ ILO. 
+
+–––. 2016. _Non-Standard Employment around the World: Understanding Challenges, Shaping Prospects._ 
+
+–––. 2019. _Guide to Developing Balanced Working Time Arrangements._ 
+
+–––. 2020. _Teleworking during the COVID-19 Pandemic and Beyond: A Practical Guide._ 
+
+Kassam, Ashifa. 2021. “Spain to Launch Trial of Four-Day Working Week“. _The Guardian._ 
+
+Lockhart, Charlotte. 2022. “UK Companies in 4 Day Week Pilot Reach Landmark Halfway Point”. Press release, 21 September. 4 Day Week Global. 
+
+Messenger, Jon. 2018. Working _Time and the Future of Work._ ILO Future of Work Research Paper Series No. 6.
+
+---
+
+[referencia=5b986783a5620607 score=0.768]
+#### **3.6. Hours-averaging schemes, including annualized hours** 
+
+Hours-averaging schemes, including annualized hours, allow for variations in daily and weekly hours of work within specified legal limits, such as maximum daily and weekly hours of work, while requiring that hours of hours either achieve a specified weekly average over the period in which the hours are averaged or remain within a fixed total over the reference period (ILO 2018).<sup>16</sup> This form of working-time 
+
+> 16 A _four-day compressed workweek should not be confused with a four-day workweek._ In the former case, the number of workdays is reduced but the total number of hours of work per week remains the same. In the latter case by contrast, both the 
+
+66 
+
+Working time and work-life balance around the world 
+
+
+
+arrangement is particularly suited to seasonal work; for example, Volkswagen Autoeuropa, a car manufacturer in Portugal, uses hours-averaging schemes to manage seasonal fluctuations in the market (ILO 2019). Also, hours-averaging schemes may potentially facilitate better matching of workload with the availability of staff; for example, NHS Scotland utilizes annualized hours to ensure that sufficient staff are available during high-demand periods, which has led to lower levels of absenteeism (United Kingdom 2015). 
+
+Under fully annualized hours arrangements, wages are typically kept constant and are paid on an average basis throughout the year, providing financial stability to workers (United Kingdom 2015). The averaging of hours of work means that overtime is reduced or eliminated; therefore, compensation is required in the form of an increase in the basic wage (ILO 2019). Normally, a shorter reference period such as one month is more effective than an annualized approach, which risks drastic swings in hours from week to week. Also, employees need to be notified and prepared prior to the implementation of hours-averaging schemes. The most effective examples of such working-time arrangements have been those in which companies developed these arrangements in collaboration with labour unions (Kouzis and Kretsos 2003). Hours-averaging schemes have not been widely implemented and there is no internationally comparable data regarding the incidence of this working-time arrangement.
+
+---
+
+[referencia=5b986783a5620607 score=0.707]
+##### **2.3.5 Short hours of work, very short hours of work and time-related underemployment** 
+
+Short hours of work – often called “part-time work” – means regularly working less than the full-time hours in a particular country. Specifically, the Part-Time Work Convention, 1994 (No. 175) defines a parttime worker as an “employed person whose normal hours of work are less than those of comparable full-time workers”. However, most statistical definitions of part-time work focus on the actual number of hours worked per week – with thresholds of less than 35 hours per week or sometimes less than 30 hours per week (such as the definition of the Organisation for Economic Cooperation and Development (OECD)), which is used as the basis for determining which workers are working “part-time”. In this report, we will use the standard ILO statistical definition of part-time work to define short hours of work – less than 35 hours of work per week. 
+
+Based on this definition, figures 10a and 10b indicate that approximately one fifth of global employment (20.3 per cent) consists of short (or part-time) hours of work of less than 35 hours per week.<sup>7</sup> The proportion of workers with such short or part-time hours of work is substantially higher in developed countries compared with countries that are still developing their economies (Messenger 2018). However, when we break down this broad group of developing countries into emerging economies (middle-income countries) and less developed economies (developing countries), it becomes apparent that while short hours of work are indeed more prevalent in developed countries than in emerging economies, the proportion of workers with short hours of work is actually the highest in the least developed countries. This phenomenon is likely to be the result of time-related unemployment (working fewer hours than one would prefer to work), which is an issue that we will investigate below, as well as the sectoral composition of employment and the prevalence of agriculture, in which sector the hours of work are less likely to be fully captured, as mentioned earlier.
+
+---
+
+[referencia=5b986783a5620607 score=0.697]
+#### **2.5. Conclusion** 
+
+This chapter has reviewed important patterns and developments concerning hours of work – that is, the length or volume of working hours – in both the formal economy and the informal economy. The most prominent feature of working-time patterns and developments in today’s world is the uneven distribution of hours of work. As we have seen, substantial portions of the global workforce have either long or short hours of work. While average hours of work fall well within the normal range – at approximately 43.9 hours of work per week prior to the COVID-19 pandemic – nonetheless slightly more than one third of the global workforce have more than 48 hours of work per week, while fully one fifth have short (parttime) hours of work (less than 35 hours per week), of whom roughly one third have very short hours of work (less than 20 hours per week). From a gender perspective, men are more likely to have long hours of work, while women are more likely to have short or even very short hours of work, as well as to experience time-related underemployment. Although long hours of work decreased slightly early in the COVID-19 pandemic and short hours of work increased somewhat during the same period, both of these phenomena were already reverting towards pre-pandemic levels by the end of 2020 (with some regional variations). Finally, the unique situation of hours of work in the informal economy provides an excellent illustration of the uneven distribution of hours of work: workers in the informal economy are more likely to have _both long and short hours of work_ than those in the formal economy. 
+
+In addition, it appears that reduced hours of work during the COVID-19 pandemic – more specifically, the increase in the proportion of workers with short hours of work – had a positive effect on employment by helping to prevent job losses. We will examine this phenomenon in much greater depth in Chapter 5, which focuses on working time-related crisis-response measures during the COVID-19 pandemic. 
+
+49 
+
+2. Working-time patterns and developments around the world
+
+---
+
+[referencia=5b986783a5620607 score=0.663]
+#### **1.2. The contents of this report** 
+
+This first-ever ILO global report on working time focuses on the actual number of hours of work, working-time arrangements (work schedules) and their implications for work–life balance. However, it must be emphasized that this report does not cover national laws related to working time, which were comprehensively reviewed by the ILO in 2018.<sup>1</sup> 
+
+This report begins by reviewing the major global patterns and developments concerning the number of hours of work, both the situation as it existed immediately before the COVID-19 pandemic and also how it evolved during the pandemic (Ch. 2). It then turns to the other half of the working-time equation, working-time arrangements (work schedules), in order to review the different types of working-time arrangements (work schedules), such as shift work, part-time work and flextime arrangements, and their effects on workers’ work–life balance (Ch. 3). Next, the report presents an in-depth analysis of both matches and mismatches between workers’ actual hours of work and their preferred hours of work, as well as the effects of such matches and mismatches on work–life balance, based on a truly unique (precrisis) dataset, the International Social Survey Programme (ISSP) Work Orientations IV Module (2015) – the only source of internationally comparable data on workers’ preferences regarding their hours of work that extends beyond Europe (Ch. 4). The report then drills down more deeply into working-time developments during the pandemic by reviewing the working time-related crisis response measures deployed by governments and enterprises to keep organizations functioning and workers employed, such as work-sharing or short-time work schemes – which had already proved their worth during the last economic crisis, the Great Recession – and also home-based telework (Ch. 5). Finally, the report summarizes the main conclusions of Chapters 2 to 5 and considers their implications for both public policies and enterprise policies on working time and work–life balance (Ch. 6). 
+
+> 1  This report does not cover national laws related to working time because legal developments regarding working time were comprehensively reviewed in the _General Survey concerning working-time instruments - Ensuring decent working time for the future_ in 2018. 
+
+4 
+
+Working time and work-life balance around the world
+
+---
+
+[referencia=5b986783a5620607 score=0.608]
+Turning to _very short hours of work_ – defined here as less than 20 hours per week<sup>8</sup> – figures 11a and 11b show that the proportion of workers with very short hours of work remains quite small overall: a mere 7.6 per cent of total global employment. The proportion is slightly higher in some regions, particularly subSaharan Africa and South-Eastern Asia and the Pacific. However, the most striking aspect of such parttime work is its gender dimension: the proportion of women with very short hours of work is substantially higher than the proportion of men in every single region of the world, with women doubling or even tripling the rate of men in some subregions, most notably Northern, Southern and Western Europe (15.0 per cent for women versus only 5.2 per cent for men). As with short (part-time) hours in general, this situation is due primarily to women’s disproportionate share of unpaid household tasks and unpaid care work; these time demands limit the extent of their participation in paid work. 
+
+> X **Figure 11a. Workers working less than 20 hours per week, by sex, major geographic region and level of development (total employment, 2019, in %)** 
+
+
+
+<!-- Start of picture text -->
+60<br>50<br>40<br>30<br>20<br>10 Total<br>0<br>Men<br>Women<br>Africa Americas Arab States Asia and the Europe and World<br>Pacific Central Asia<br>hours a week<br>10.2 8.2 9.4 7.3 7.0 0.3 3.7 4.8 10.3 5.2 11.3 3.4 9.0 6.3 8.7 7.6<br>less than 20  8.0 7.2<br>20.2 14.5 16.9 13.8 21.1 19.6<br>% working<br>Developing Emerging Developed Total Developing Emerging Developed Total Developing Emerging Developed Total Developing Emerging Developed Total Developing Emerging Developed Total Developing Emerging Developed Total<br><!-- End of picture text -->
+
+8 Alternative hours thresholds may also be used (for example, less than 15 hours per week). 
+
+25 
+
+2. Working-time patterns and developments around the world
+
+---
+
+[referencia=5b986783a5620607 score=0.589]
+###### X **Box 3. Very short hours of work as a factor contributing to informality** 
+
+The incidence of informal employment is the highest among workers with very short hours of work and the lowest among workers, especially employees, who work in the range of “normal hours of work”. 
+
+**Figure 28. Share of informal employment by range of hours of work (in %, 2019)** 
+
+
+
+<!-- Start of picture text -->
+Panel A. Total employment<br>100 Africa<br>90<br>80 Latin America and<br>the Caribbean<br>70<br>Northern America<br>60<br>50 Arab States<br>40<br>30 Asia and the Pacific<br>20<br>Europe and Central<br>10 Asia<br>0<br>World<br><20h 20-34h 35-48h 48-60h >60h<br>% informal wage employment<br><!-- End of picture text -->
+
+47 
+
+2. Working-time patterns and developments around the world 
+
+
+
+X **Box 3. Very short hours of work as a factor contributing to informality (continued)** 
+
+
+
+<!-- Start of picture text -->
+Panel B. Employees<br>100 Africa<br>90<br>80 Latin America and<br>the Caribbean<br>70<br>Northern America<br>60<br>50<br>Arab States<br>40<br>30 Asia and the Pacific<br>20<br>Europe and Central<br>10 Asia<br>0<br>World<br><20h 20-34h 35-48h 48-60h >60h<br>% informal wage employment<br><!-- End of picture text -->
+
+The pattern of the share of informal employment as a function of the number of hours worked is U-shaped. The proportion of workers in informal employment decreases from 82.1 per cent for workers with very short hours of work to its lowest level of 46.9 per cent for workers with 35 to 48 hours per week, before increasing again as the number of hours of work per week increases (figure 28, panel A). This trend is even more marked among employees (figure 28, panel B). Some of them are in informal employment precisely because their number of hours of work does not allow them to meet minimum thresholds in terms of hours worked or earnings to be eligible for social security benefits. 
+
+**Source:** ILO calculations, based on national household data from 140 countries representing 92 per cent of global employment. 
+
+48 
+
+Working time and work-life balance around the world
+
+---
+
+[referencia=5b986783a5620607 score=0.585]
+**Source:** ILO calculations, based on national household data from 140 countries representing 92 per cent of global employment. 
+
+42 
+
+Working time and work-life balance around the world 
+
+
+
+_Workers in informal employment tend to be over-represented outside the range of 35 to 48 hours per week that is considered as the normal or standard workweek_ .<sup>11</sup> Globally, nearly two thirds of workers in informal employment work outside the range of what may be considered as “normal hours of work” (35 to 48 hours per week), compared with 40 per cent of workers in formal employment, with no major differences between women and men (figure 26, panel A). The situation is the most extreme in low-income countries in sub-Saharan Africa and Southern Asia, where close to 80 per cent or more of workers in informal employment work outside normal hours of work. Their exclusion – by law or in practice – from the scope of regulations on working time contributes to this situation. Such working-time regulations apply to less than 40 per cent of all workers worldwide: those in formal employment. This proportion can be further reduced to workers whose employment relationship is recognized and declared – formal employees – who represent as little as one third of global total employment. Therefore, the issues of very short and long hours of work are both prominent in the informal economy that dominates much of the developing world. 
+
+> X **Figure 26. Distribution of workers in formal and informal employment, by range of hours of work per week, region, country-income group and sex (in %, 2019)**
+
+---
+
+[referencia=5b986783a5620607 score=0.580]
+In fact, the proportion of workers with short hours of work is highest in a developing region, Africa (37.5 per cent), particularly sub-Saharan Africa (40.3 per cent; see figure 10b). However, the proportion of workers with short or part-time hours of work is also substantial in the Americas (26.7 per cent) and Europe and Central Asia (22.8 per cent), particularly the highly developed subregion of Northern, Southern and Western Europe (29.7 per cent). The relatively high prevalence of short hours of work in European countries is perhaps the classic example of the expansion of part-time work in developed countries in recent decades. Such short hours of work or part-time working have been gradually increasing in most developed countries, in which part-time work is widely seen as a mechanism for promoting work–family reconciliation and work–life balance in general (Fagan et al. 2014). 
+
+> 7 Part-time hours of work should be distinguished from the contractual arrangements associated with part-time employment, which are often inferior to the contractual arrangements for comparable workers in full-time employment (ILO 2011). Part-time work as a type of working-time arrangement is reviewed in Chapter 3. 
+
+23 
+
+2. Working-time patterns and developments around the world 
+
+
+
+> X **Figure 10a. Workers working less than 35 hours per week, by sex, major geographic region and level of development (total employment, 2019, in %)** 
+
+
+
+<!-- Start of picture text -->
+90<br>80<br>70<br>60<br>50<br>40<br>30 Total<br>20<br>10 Men<br>0<br>Women<br>Africa Americas Arab States Asia and the Europe and World<br>Pacific Central Asia<br>hours a week<br>14.0 14.5 11.0 16.9<br>less than 35<br>46.1 31.2 30.5 37.5 34.1 28.0 24.9 26.7 27.5 25.1 2.0 43.9 13.5 26.0 28.0 28.3 22.8 44.9 25.8 20.3<br>% working<br>Developing Emerging Developed Total Developing Emerging Developed Total Developing Emerging Developed Total Developing Emerging Developed Total Developing Emerging Developed Total Developing Emerging Developed Total<br><!-- End of picture text -->
+
+---
+
+[referencia=5b986783a5620607 score=0.471]
+#### **6.1. Main conclusions of the report** 
+
+Chapter 2 reviewed the important patterns and developments of hours of work – the length or volume of working hours—in both the formal and the informal economies. The most prominent feature of working-time patterns and developments in today’s world is the uneven distribution of hours of work. Substantial portions of the global workforce work either long hours or short hours. Although average hours of work globally fall well within the normal range – at approximately 43.9 hours per week prior to the COVID-19 pandemic – yet slightly more than one third of the world’s workers (35.4 per cent) work more than 48 hours per week, while fully one fifth of them (20.3 per cent) work short (part-time) hours or less than 35 hours per week. Of the latter group of workers, roughly one third of them work very short hours (less than 20 hours per week). From a gender perspective, men are more likely to regularly work long hours, while women are more likely to work short or very short hours and to experience time-related underemployment. Although long hours of work decreased slightly early in the pandemic and short hours of work increased somewhat, both of these phenomena were already reverting to their pre-pandemic levels by the end of 2020 (with some regional variations) in countries for which data was available at the time of preparation of this report. Finally, the informal economy provides an excellent illustration of the uneven distribution of hours of work: _workers in the informal economy are more likely to work both long hours and short hours than those in the formal economy._
+
+---
+
+[referencia=5b986783a5620607 score=0.455]
+|Estonia|29.9|7.5|22.4|27.9|4.5|23.4|6.0|22.9|
+|Finland|31.7|8.3|23.4|30.2|6.4|23.8|7.3|23.6|
+|France|27.8|8.5|19.3|27.1|7.1|20.0|7.8|19.7|
+|Georgia|33.1|25.6|7.5|30.3|22.9|7.4|24.3|7.4|
+|Germany|27.3|5.7|21.6|28.0|9.1|18.9|7.4|20.3|
+|Hungary|14.2|3.4|10.8|13.2|2.0|11.2|2.7|11.0|
+|Iceland|35.5|3.2|32.3|32.8|4.1|28.7|3.6|30.5|
+
+
+
+76 
+
+Working time and work-life balance around the world 
+
+
+
+> X **Table 3. Objective mismatch rates based on national and ILO definitions of part-time/ full-time hours of work**<sup>**18**</sup> **in all 37 ISSP survey countries or areas (continued)**
+
+---
+
+[referencia=5b986783a5620607 score=0.419]
+But Germany was far from being the only country to benefit from the use of short-time work/worksharing during this crisis. In their comparative analysis, Hijzen and Venn (2011) found that among the 34 countries in the OECD, 24 countries used short-time work or comparable instruments during the global financial crisis; in 22 of them, either these regulations were newly introduced or existing regulations were expanded and adapted to the challenges of the crisis. An important distinguishing criterion of these schemes was the extent of the permitted reduction of hours of work: 15 countries set a lower limit for the reduction, ranging from 10 to 40 per cent of contractual weekly hours of work, while in the other countries weekly hours of work could also be reduced to zero. Most countries also presupposed agreements by the social partners in the companies and/or a justification of the economic necessity for this scheme, so that the share of state subsidies and the labour costs remaining with the companies differed significantly among countries, as did the employees’ entitlement to earned income. This was also true for the maximum duration of benefits, which ranged from three months to two years or more; countries with short durations of short-time work were mostly more generous in the amount of shorttime compensation benefits. 
+
+More important in the context of working-time effects, however, was the actual use of work-sharing/ short-time work. Hijzen and Venn found that the highest shares of employees on short-time work in 2009 were observed in Belgium (just under 6 per cent), Türkiye (4 per cent) and Italy, Germany and Japan (about 3 per cent each). The manufacturing sector was the main focus of short-time work; in a comparison of these and other countries, about 9 per cent of employees were on short-time work in this sector in 2009. This was followed at a considerable distance by the construction sector, where the share was just under 3 per cent. However, countries differed greatly in terms of the reductions in hours of work associated with short-time work. Whereas in Spain, Finland and Norway this was about 90 per cent or more of full-time hours of work, the reduction in countries listed with high usage during the global financial crisis was significantly lower, at about 40 per cent in Belgium, approximately 30 per cent in Türkiye and just under 30 per cent in Japan and Germany. 
+
+117 
+
+5. Working time-related crisis response measures
+
+---
+
+[referencia=5b986783a5620607 score=0.407]
+In a survey conducted in Japan, nearly 27 per cent of respondents reported that their workdays and hours of work had been reduced (Japan Institute for Labor Policy and Training 2020). The main areas of focus by sector were accommodations and restaurants, with 60 per cent of respondents; education with about 40 per cent; services with about 37 per cent; and transport, with just over 31 per cent. The employee groups of part-time and fixed-term employees, with over 37 per cent, and posted or dispatched workers, with just over 36 per cent, were affected more than average and were accordingly the employees with the lowest incomes. According to this survey, working-hours reductions were based on a reduction in overtime for just under 14 per cent of respondents in full-time employment and on short-time work for just over 12 per cent (Tomohiro 2021). In the United Kingdom, the actual hours of work per week of full-time employees fell from about 37 hours at the beginning of 2020 to just over 31 hours in the period March to May and 30.7 hours in the period May to July 2020 (United Kingdom 2020). In Germany, according to calculations by the IAB based on an online survey, the number of hours of work per week fell by 5.8 hours or about 15 per cent, from 37.9 hours in 2019 to 32.1 hours during the lockdown in the second quarter of 2020 (Frodermann et al. 2020). Hours of work among those in short-time work actually declined by 20 per cent on average. In addition to short-time work, the decline in hours of work can be explained by other factors, namely, a fall in the proportion of employees working overtime from 60 per cent to 32 per cent per cent; the reduction of hours of work accumulated on working-time accounts; and the withdrawal of vacation entitlements. Some 55 per cent of respondents said they had made these adjustments on the instructions of their employer.
+
+---
+
+[referencia=5b986783a5620607 score=0.395]
+(ii) _Distribution of persons in employment by hour bands._ This allows the identification of workers within or outside what can be considered as the “normal range” of hours of work per week, namely 35 to 48 hours per week (figure A.4.1). Workers considered to be “outside the range of normal working hours” include workers who work part-time hours (short hours or less than 35 hours per week), including a subcategory who work very short hours (less than 20 hours per week); they also include workers who work long hours (more than 48 hours per week). 
+
+- X **Figure A.4.1 Working time thresholds used to categorize workers based on their actual number of hours of work per week** 
+
+
+
+<!-- Start of picture text -->
+Short hours of work or part-time  Normal range of hours Long hours of work<br><35 hours/week 35-48 hours/week > 48 hours/week<br>Very short hours<br><20 hours/week<br>20h 35h 48h<br><!-- End of picture text -->
+
+> 31 For the concepts of actual hours of work and usual hours of work, see ILO, Resolution concerning the measurement of working time, Eighteenth International Conference of Labour Statisticians, 2008. Usual hours of work were considered only when the information on actual hours of work was not available. 
+
+158 
+
+Working time and work-life balance around the world 
+
+
+
+For the global estimates, a consistent and unified coding of actual hours of work was applied to microdata from national household surveys of 160 countries.<sup>32</sup> Those 160 countries represent 81.2 per cent of the 187 ILO Member States and 95.3 per cent of the 2019 world’s working population aged 15 and over (table A.4.1). 
+
+> X **Table A.4.1 Coverage of the ILO’s statistical database on working time, 2019**
+
+---
+
+[referencia=5b986783a5620607 score=0.351]
+###### X **Box 8. Icelandic reduced workweek pilot (continued)** 
+
+###### **Results** 
+
+###### _(1) Real working-time reduction_ 
+
+Opponents of the workweek reductions argued that that it would lead to increased overtime as employees would have to catch up outside normal working hours (Haraldsson and Kellam 2021). However, there was no evidence supporting this hypothesis in either pilot. Service provision remained at the same level, with the time reduction coming from “rethinking how tasks were completed: shortening meetings, cutting out unnecessary tasks, and shift arrangements” (Haraldsson and Kellam 2021). As a result, the workweek reduction was achieved through changes to working practises to ensure achieve efficiency of time use. 
+
+###### _(2) Productivity increase and service provision_ 
+
+The majority of data collected on the Icelandic trials suggests that service provision remained the same. The report (Haraldsson and Kellam 2021) contains detailed quantitative analysis of each department’s services and found a continuity of service quality as well. It can be extrapolated from these results that there was an increase in productivity given that the same service was provided with fewer hours of work.
+
+---
+
+[referencia=5b986783a5620607 score=0.338]
+##### **4.2.1 Objective measures: underemployment and overemployment** 
+
+The objective measure finds that on average, one quarter of the labour force in the sample countries has some type of working-time mismatch. Table 3 presents the overemployment, underemployment and overall mismatch rates across all 37 ISSP survey countries or areas. Data measured under both national and ILO definitions are presented, along with a third column that shows the average of the two definitions. The overall objectively measured mismatch rate for both definitions is similar and converges at just over 27 per cent. Using the ILO definitions of part-time and full-time work yields a global rate of objective underemployment of 9 per cent and an objective overemployment rate of just under 19 per cent. The corresponding rates using national standard workweeks and part-time work definitions yields a slightly lower underemployment rate of 7.3 per cent and a slightly higher overemployment rate of 19.8 per cent. Splitting the difference, the two right-hand columns suggests that we may safely say that almost 9 per cent of the globe would like to go from part-time to full-time hours of work, while another 19 per cent has a preference for going in the reverse direction, from full-time to part-time hours of work, at least as an “ideal” amount of work. Therefore, the objective measure of mismatches identifies nearly twice as much overemployment as underemployment in the ISSP sample countries or areas. 
+
+> X **Table 3. Objective mismatch rates based on national and ILO definitions of part-time/fulltime hours of work in all 37 ISSP survey countries or areas**
+
+---
+
+[referencia=5b986783a5620607 score=0.307]
+> X **Figure 10b. Workers working less than 35 hours per week, by sex and detailed geographic region (total employment, in %)** 
+
+
+
+<!-- Start of picture text -->
+50<br>45<br>40<br>35<br>30<br>25<br>20<br>15 Total<br>10<br>5 Men<br>0<br>Women<br>hours a week<br>less than 35<br>8.7 10.4 12.6 15.7 14.0 22.0 24.7 27.8 28.0 29.7 40.3 20.3<br>% working<br>Eastern Asia Eastern Europe Northern Africa Southern Asia Arab States Central and Western Asia Northern America South-Eastern Asia and the Pacific Latin America and the Caribbean Northern, Southern and Western Europe Sub-Saharan Africa World<br><!-- End of picture text -->
+
+24 
+
+Working time and work-life balance around the world 
+
+
+
+There is also a substantial gender difference in the incidence or short (part-time) hours of work, but it is the reverse of the difference for long hours of work: women are nearly twice as likely (27.8 per cent) as men (15.4 per cent) to have short hours of work across the world. This gender difference holds in nearly all regions of the world, except Eastern Europe and Eastern Asia, in both of which subregions the proportion of workers with short work hours is quite low for both women and men. This substantial gender difference in the incidence of short hours of work is due primarily to the fact that women frequently bear the primary responsibility for performing unpaid household tasks and unpaid care work; in particular, the presence of children and their ages are key determinants of women’s paid hours of work (for an in-depth discussion of this issue, see Lee, McCann and Messenger 2007, Ch. 4). This unequal share of unpaid household and care work has been quantified, including in a recent ILO study, which found that “[g]lobally, women dedicate, on average, 3.2 times more hours than men to unpaid care work: 4 hours and 25 minutes (265 minutes) per day against 1 hour and 23 minutes for men (83 minutes)” (ILO 2018a, p. 53).
+
+---
+
+[referencia=5b986783a5620607 score=0.298]
+##### **2.3.6 Short and very short hours of work, by employment status** 
+
+Earlier in this chapter, we saw that self-employed workers (own-account workers) are substantially more likely to work long hours than employees. Self-employed workers are also substantially more likely to work short (part-time) hours than employees: 26.9 per cent of self-employed workers regularly work less than 35 hours per week, compared with only 15.0 per cent of employees (see figures 13a, 13b, 14a and 14b). This general pattern holds across all the major geographic regions of the world, except for Northern, Southern and Western Europe, where the share of employees with short hours of work (29.9 per cent) is slightly higher than the share of self-employed workers with short hours of work (29.1 per cent). As noted earlier, the relatively high prevalence of short hours of work in advanced European economies is perhaps the classic example of the expansion of part-time work in developed countries in recent decades. However, it is interesting to note that this pattern does not extend to Eastern Europe, where self-employed workers are four times more likely to work short (part-time) hours than employees (33.5 per cent versus 7.9 per cent), mainly because of a strong preference for full-time work established during the communist era (Lee, McCann and Messenger 2007). 
+
+This substantial difference in hours of work by employment status is even more stark if we look at very short hours of work, that is at workers with less than 20 hours of work per week. The proportion of self-employed workers with very short hours is more than double the comparable figure for employees (11.1 per cent versus a mere 4.8 per cent; see figures 15a, 15b, 16a and 16b below). This pattern holds in all regions of the world without exception. Although at first glance this might seem to be surprising, it is well known that a substantial portion of own-account workers enter self-employment because they are unable to secure a wage and salary job. While self-employment may be a desirable choice, for those workers who enter self-employment due to their inability to secure dependent employment it acts as a kind of “employment of last resort” and is often informal in nature (see section 2.4 below on hours of work in the informal economy).
+
+---
+
+[referencia=5b986783a5620607 score=0.280]
+###### **Broader work–life policies** 
+
+Amazingly, a century after the adoption of Convention No. 1 in 1919, slightly more than one third of the world’s workers still work more than 48 hours per week. As we saw in the introduction in Chapter 1, there has been substantial progress in reducing hours of work in many countries during this period – particularly in countries with advanced economies and especially in Europe. Yet, regular long hours of work remain a serious concern in most of the world today, particularly in regions such as Asia and the Pacific. Also, the evidence reviewed in Chapter 4 suggests that a substantial portion of workers who work more than 48 hours per week would like to reduce their hours of work – and many of them say that they would like to do so even if it meant a reduction of their income. Moreover, longer hours of work are generally associated with lower unit labour productivity, while shorter hours of work are linked with higher productivity (for a summary of the relationship between hours of work and labour productivity, see Messenger 2018). 
+
+Therefore, it is evident from the preponderance of the evidence that some type of public policy response is necessary to help promote a reduction of hours of work in many countries; indeed, such reductions have often been adopted in part to increase labour productivity, which is essential for raising standards of living in the long term. When considering the reduction of hours of work, it is essential to keep in mind that countries are in very different places with respect to working-time laws and regulations. For regions in which the 48-hour workweek is still dominant, such as Asia and the Pacific and Latin America, an appropriate target would be to move towards the standard of the 40-hour workweek, which was established in the Forty-Hour Week Convention, 1935 (No. 47) and promoted in the Preamble to the Reduction of Hours of Work Recommendation, 1962 (No. 116) as “a social standard to be reached by stages if necessary, and setting a maximum limit to normal hours of work, pursuant to the Hours of Work (Industry) Convention, 1919”. For example, as part of an effort to increase productivity, the Colombian Government reduced the standard workweek from 48 hours per week to 42 hours per week; previously, Colombia had the longest standard workweek among OECD countries ( _planetlabor.com 2021_ ).

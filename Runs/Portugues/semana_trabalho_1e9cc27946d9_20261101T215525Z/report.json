@@ -1,0 +1,416 @@
+{
+  "run_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+  "answer_id": "semana_trabalho_1e9cc27946d9_20261101T215525Z",
+  "tool_name": "ChatGPT",
+  "answer_path": "answers/ChatGPT/EmConsolidacao/semana_trabalho.md",
+  "generated_at": "2026-11-04T05:59:28.895444Z",
+  "judge_config": {
+    "provider": "openai",
+    "model": "z-ai/glm-5.2",
+    "temperature": 0.0,
+    "max_retries": 3,
+    "retry_delay": 2.0,
+    "base_url": "https://openrouter.ai/api/v1"
+  },
+  "source_info": {
+    "format": ".md",
+    "size_bytes": 35793,
+    "page_count": null,
+    "pdf_title": null,
+    "pdf_author": null,
+    "pdf_creator": null,
+    "pdf_producer": null,
+    "created": null,
+    "modified": null,
+    "encrypted": false,
+    "browser_print": false,
+    "citation_markers_total": 77,
+    "citation_markers_distinct": 13,
+    "references_listed": 13,
+    "references_never_cited": 0,
+    "exporter_artifacts": 0
+  },
+  "total_chunks": 54,
+  "pct_supported": 75.92592592592592,
+  "pct_unsupported": 22.22222222222222,
+  "pct_contradicted": 1.8518518518518516,
+  "count_supported": 41,
+  "count_unsupported": 12,
+  "count_contradicted": 1,
+  "count_skipped": 0,
+  "count_audited": 54,
+  "pct_supported_audited": 75.92592592592592,
+  "pct_unsupported_audited": 22.22222222222222,
+  "pct_contradicted_audited": 1.8518518518518516,
+  "count_partially_supported": 13,
+  "skipped_reason_counts": {},
+  "verification_ran": true,
+  "count_unsupported_confirmed": 5,
+  "count_reclassified_by_verification": 5,
+  "verification_stage_counts": {
+    "context_expansion": 5
+  },
+  "mis_cited_reference_count": 0,
+  "uncredited_reference_count": 1,
+  "dead_references": [],
+  "inaccessible_references": [],
+  "blocked_references": [],
+  "skipped_chunks": [],
+  "pending_chunk_ids": [],
+  "reference_stats": [
+    {
+      "reference_id": "26991fcd7fe5b57f",
+      "url": "https://autonomy.work/wp-content/uploads/2023/02/The-results-are-in-The-UKs-four-day-week-pilot.pdf",
+      "times_cited": 22,
+      "supported_count": 16,
+      "unsupported_count": 6,
+      "contradicted_count": 0,
+      "supporting_citations": 13,
+      "partial_citations": 6,
+      "status": "downloaded",
+      "supports_positions": [
+        2,
+        3,
+        4,
+        5,
+        12,
+        14,
+        22,
+        23,
+        31,
+        32,
+        33,
+        46,
+        47
+      ],
+      "partial_positions": [
+        11,
+        24,
+        28,
+        48,
+        49,
+        52
+      ],
+      "absent_positions": [
+        29,
+        34,
+        37
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "comprising 61 companies and around 2,900 workers, that took place in the UK from June to December 2022.",
+      "key_excerpt_position": 2
+    },
+    {
+      "reference_id": "51ae2b54e60da70b",
+      "url": "https://www.nature.com/articles/s41562-025-02259-6",
+      "times_cited": 12,
+      "supported_count": 7,
+      "unsupported_count": 5,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 3,
+      "status": "downloaded",
+      "supports_positions": [
+        1,
+        13,
+        19,
+        20,
+        21
+      ],
+      "partial_positions": [
+        49,
+        52,
+        53
+      ],
+      "absent_positions": [
+        11,
+        29,
+        37,
+        48
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Both company-level and individual-level reductions in hours are correlated with well-being gains, with larger individual-level (but not company-level) reductions associated with greater improvements in well-being. Three key factors mediate the relationship: improved self-reported work ability, reduced sleep problems and decreased fatigue.",
+      "key_excerpt_position": 1
+    },
+    {
+      "reference_id": "a38ffa89f273703c",
+      "url": "https://autonomy.work/wp-content/uploads/2021/06/ICELAND_4DW.pdf",
+      "times_cited": 9,
+      "supported_count": 6,
+      "unsupported_count": 3,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        25,
+        26,
+        30,
+        44,
+        52
+      ],
+      "partial_positions": [
+        27,
+        49
+      ],
+      "absent_positions": [
+        11,
+        37
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "The trials evolved to include nine-to-five workers alongside those on non-standard shift patterns, and took place in a wide range of workplaces, from offices to playschools, social service providers and hospitals. […] Productivity and service provision remained the same or improved across the majority of trial workplaces. […] Worker wellbeing increased across a range of indicators, from perceived stress and burnout, to health and work-life balance.",
+      "key_excerpt_position": 25
+    },
+    {
+      "reference_id": "d352417fcb9d933b",
+      "url": "https://www.iefp.pt/documents/10181/11729755/Experiencia-Piloto_Semana%2Bde%2Bquatro%2Bdias.pdf/f4cdc63f-1023-4e1b-89c3-e35e8a7a06ea",
+      "times_cited": 8,
+      "supported_count": 6,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        0,
+        7,
+        17,
+        35,
+        51
+      ],
+      "partial_positions": [
+        50,
+        53
+      ],
+      "absent_positions": [
+        36
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Sem corte de salário. Com redução de horas semanais. Voluntária e reversível.",
+      "key_excerpt_position": 0
+    },
+    {
+      "reference_id": "ead9fd3b4c80cdae",
+      "url": "https://static1.squarespace.com/static/66d46d86bd7db51794e9c3cd/t/693e8a0d0669596b183b27fa/1765706253519/Brazil%2B4%2BDay%2BWeek%2BPilot%2B2024.pdf",
+      "times_cited": 7,
+      "supported_count": 6,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 5,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        8,
+        9,
+        10,
+        18,
+        51
+      ],
+      "partial_positions": [
+        11,
+        49
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "In Brazil, 21 companies participated in the 4 day week pilot with around 280 employees. One company located in Rio Grande do Sul was affected by the flood tragedy and withdrew from the pilot, while another decided to pause due to a change in leadership. Thus, 19 companies completed the six-month implementation of the 4 day week. [...] 97.5% of people would like (very much) for the 4 day week to continue at the company. [...] Average hours worked per week Pre-pilot 42.8 hr/week Post-pilot 36.5 hr/week",
+      "key_excerpt_position": 8
+    },
+    {
+      "reference_id": "3507306c7e394c9f",
+      "url": "https://www.planapp.gov.pt/estudos-avaliacao/avaliacao-do-projeto-piloto-semana-de-quatro-dias/",
+      "times_cited": 5,
+      "supported_count": 3,
+      "unsupported_count": 2,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [],
+      "absent_positions": [
+        6,
+        11,
+        37,
+        49,
+        52
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "",
+      "key_excerpt_position": null
+    },
+    {
+      "reference_id": "f89fbb944287be18",
+      "url": "https://portugal.gov.pt/gc23/comunicacao/noticias/95-das-empresas-avaliam-positivamente-experiencia-da-semana-de-quatro-dias",
+      "times_cited": 5,
+      "supported_count": 4,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 3,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [
+        6,
+        7,
+        15
+      ],
+      "partial_positions": [
+        16,
+        50
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Se antes da adesão ao projeto essa harmonização era difícil ou muito difícil para 46% dos envolvidos, a percentagem baixou para 8% após quase seis meses de experiência. [...] redução em 19% de sintomas de exaustão associada ao trabalho. [...] o índice de ansiedade diminuiu em 21%; o de fadiga em 23%; o de insónia ou problemas de sono em 19%.",
+      "key_excerpt_position": 6
+    },
+    {
+      "reference_id": "c86fe6d5187bd205",
+      "url": "https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm",
+      "times_cited": 2,
+      "supported_count": 0,
+      "unsupported_count": 1,
+      "contradicted_count": 1,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        40
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [
+        38
+      ],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "XIII - duração do trabalho normal não superior a 8 (oito) horas diárias e 40 (quarenta) horas semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho; (Redação dada pela Emenda Constitucional nº 141, de 2026)",
+      "key_excerpt_position": 38
+    },
+    {
+      "reference_id": "c1d23f5bb1a53a63",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 2,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        39,
+        40
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Art. 66 - Entre 2 (duas) jornadas de trabalho haverá um período mínimo de 11 (onze) horas consecutivas para descanso. | Art. 67 - Será assegurado a todo empregado um descanso semanal de 24 (vinte e quatro) horas consecutivas | Art. 611-A. A convenção coletiva e o acordo coletivo de trabalho têm prevalência sobre a lei quando, entre outros, dispuserem sobre:",
+      "key_excerpt_position": 39
+    },
+    {
+      "reference_id": "0f6a73b74e4adf6e",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32003L0088",
+      "times_cited": 2,
+      "supported_count": 1,
+      "unsupported_count": 1,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        42
+      ],
+      "partial_positions": [],
+      "absent_positions": [
+        43
+      ],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Article 3 Daily rest Member States shall take the measures necessary to ensure that every worker is entitled to a minimum daily rest period of 11 consecutive hours per 24-hour period. Article 5 Weekly rest period Member States shall take the measures necessary to ensure that, per each seven-day period, every worker is entitled to a minimum uninterrupted rest period of 24 hours plus the 11 hours' ... Article 6 Maximum weekly working time ... (b) the average working time for each seven-day period, including overtime, does not exceed 48 hours. ... This Directive lays down minimum safety and health requirements for the organisation of working time. ... Article 17 Derogations",
+      "key_excerpt_position": 42
+    },
+    {
+      "reference_id": "0325c9551f2573da",
+      "url": "https://www.gov.uk/flexible-working",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 1,
+      "partial_citations": 0,
+      "status": "downloaded",
+      "supports_positions": [
+        45
+      ],
+      "partial_positions": [],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "All employees have the legal right to request flexible working. Employees can request a change to:\n\n- the number of hours they work\n- when they start or finish work\n- the days they work\n- where they work",
+      "key_excerpt_position": 45
+    },
+    {
+      "reference_id": "f76894fef2052ca2",
+      "url": "https://www.camara.leg.br/noticias/1273660-empregadores-propoem-negociacao-coletiva-para-reduzir-jornada-para-36-horas-em-vez-de-mudar-a-constituicao/",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        41
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "Representantes de setores como indústria, comércio, transporte, agropecuária, saúde e educação sugeriram nesta segunda-feira (18), em audiência pública na Câmara dos Deputados, que a redução da jornada de trabalho no país, das atuais 44 horas semanais para 36 horas, seja feita por meio de negociação coletiva e não por uma mudança na Constituição Federal.",
+      "key_excerpt_position": 41
+    },
+    {
+      "reference_id": "b87b1041646ea721",
+      "url": "https://www12.senado.leg.br/noticias/materias/2025/04/08/jornada-de-36-horas-trara-empregos-e-qualidade-de-vida-dizem-debatedores",
+      "times_cited": 1,
+      "supported_count": 1,
+      "unsupported_count": 0,
+      "contradicted_count": 0,
+      "supporting_citations": 0,
+      "partial_citations": 1,
+      "status": "downloaded",
+      "supports_positions": [],
+      "partial_positions": [
+        41
+      ],
+      "absent_positions": [],
+      "contradicts_positions": [],
+      "unrated_positions": [],
+      "not_audited_positions": [],
+      "key_excerpt": "A redução da jornada de trabalho de 44 para 36 horas semanais foi o tema da audiência pública promovida nesta terça-feira (8) pela Comissão de Constituição e Justiça (CCJ).",
+      "key_excerpt_position": 41
+    }
+  ],
+  "citation_issues": [],
+  "total_cost_usd": 0.0,
+  "total_tokens": 1610455,
+  "cost_tracked": false,
+  "processing_time_seconds": 201843.832185
+}

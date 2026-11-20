@@ -1,0 +1,19 @@
+[referencia=6704e0ef4154eb89 score=0.995]
+A votação do Projeto de Lei nº 2.338/2023, que estabelece regras para o desenvolvimento e o uso da inteligência artificial no Brasil, foi adiada na Câmara dos Deputados. Nesta terça-feira (9), o presidente da Câmara, Hugo Motta (Republicanos-PB), descartou que a proposta seja votada ainda nesta semana, reforçando que o texto segue em fase de construção e articulação entre parlamentares das duas Casas Legislativas.
+
+O relatório da proposta ainda está em elaboração na comissão especial responsável pela análise da matéria. Segundo a presidente do colegiado, deputada Luísa Canziani (União-PR), coordenadora da Frente Parlamentar Mista pela Inclusão e Qualidade na Educação Particular (FPeduQ), o projeto ainda demanda alinhamento entre as duas Casas Legislativas.
+
+“O tema da inteligência artificial exige responsabilidade e diálogo. Estamos construindo um texto que seja capaz de promover a inovação, proteger direitos e oferecer segurança jurídica para todos os envolvidos. Por isso, o alinhamento com o Senado é fundamental para que possamos avançar com uma legislação moderna e adequada aos desafios do país”, afirmou a parlamentar.
+
+Conhecido como PL da IA, o projeto foi aprovado pelo Senado Federal no fim de 2024 e agora tramita na Câmara dos Deputados. Caso os deputados promovam alterações no texto, a proposta precisará retornar ao Senado para nova apreciação.
+
+O relator da matéria, deputado Aguinaldo Ribeiro (PP-PB), tem defendido a construção de um texto consensual com os senadores, evitando que a proposta enfrente novos entraves durante sua tramitação na Casa Alta. A estratégia busca garantir maior convergência em torno do conteúdo final e acelerar a conclusão do processo legislativo.
+
+---
+
+[referencia=6704e0ef4154eb89 score=0.003]
+A proposta estabelece diretrizes para o desenvolvimento, a utilização e a governança da inteligência artificial no Brasil. Entre os principais pontos está a criação do Sistema Nacional de Regulação e Governança de Inteligência Artificial (SIA), responsável por coordenar mecanismos de supervisão e acompanhamento da aplicação da tecnologia em diferentes setores da sociedade.
+
+Para Luísa Canziani, o debate representa uma oportunidade para que o Brasil construa um ambiente regulatório capaz de estimular a inovação e, ao mesmo tempo, garantir proteção aos cidadãos. “Estamos tratando de uma das pautas mais estratégicas para o futuro do país. O compromisso da comissão é entregar uma legislação equilibrada, que incentive o desenvolvimento tecnológico sem abrir mão da segurança e da proteção de direitos”, destacou.
+
+Assessoria de Imprensa FPeduQ - Capuchino Press
